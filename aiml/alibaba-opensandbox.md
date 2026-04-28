@@ -1,6 +1,6 @@
 # alibaba/OpenSandbox
 
-[![Stars](https://img.shields.io/github/stars/alibaba/OpenSandbox?style=flat-square&color=yellow)](https://github.com/alibaba/OpenSandbox/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/OpenSandbox?style=flat-square&color=blue)](https://github.com/alibaba/OpenSandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/OpenSandbox?style=flat-square&color=yellow)](https://github.com/alibaba/OpenSandbox/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/OpenSandbox?style=flat-square&color=blue)](https://github.com/alibaba/OpenSandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
 > Secure, Fast, and Extensible Sandbox runtime for AI agents.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.3k |
-| 🍴 **Forks** | 816 |
+| 🍴 **Forks** | 817 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 93/100 |
+| 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

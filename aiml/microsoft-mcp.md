@@ -1,6 +1,6 @@
 # microsoft/mcp
 
-[![Stars](https://img.shields.io/github/stars/microsoft/mcp?style=flat-square&color=yellow)](https://github.com/microsoft/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/mcp?style=flat-square&color=blue)](https://github.com/microsoft/mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/mcp?style=flat-square&color=yellow)](https://github.com/microsoft/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/mcp?style=flat-square&color=blue)](https://github.com/microsoft/mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 469 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

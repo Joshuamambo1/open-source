@@ -1,6 +1,6 @@
 # mixelpixx/KiCAD-MCP-Server
 
-[![Stars](https://img.shields.io/github/stars/mixelpixx/KiCAD-MCP-Server?style=flat-square&color=yellow)](https://github.com/mixelpixx/KiCAD-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/mixelpixx/KiCAD-MCP-Server?style=flat-square&color=blue)](https://github.com/mixelpixx/KiCAD-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mixelpixx/KiCAD-MCP-Server?style=flat-square&color=yellow)](https://github.com/mixelpixx/KiCAD-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/mixelpixx/KiCAD-MCP-Server?style=flat-square&color=blue)](https://github.com/mixelpixx/KiCAD-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 734 |
-| 🍴 **Forks** | 140 |
+| ⭐ **Stars** | 774 |
+| 🍴 **Forks** | 143 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

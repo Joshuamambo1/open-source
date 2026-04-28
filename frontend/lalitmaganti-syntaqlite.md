@@ -1,6 +1,6 @@
 # LalitMaganti/syntaqlite
 
-[![Stars](https://img.shields.io/github/stars/LalitMaganti/syntaqlite?style=flat-square&color=yellow)](https://github.com/LalitMaganti/syntaqlite/stargazers) [![Forks](https://img.shields.io/github/forks/LalitMaganti/syntaqlite?style=flat-square&color=blue)](https://github.com/LalitMaganti/syntaqlite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LalitMaganti/syntaqlite?style=flat-square&color=yellow)](https://github.com/LalitMaganti/syntaqlite/stargazers) [![Forks](https://img.shields.io/github/forks/LalitMaganti/syntaqlite?style=flat-square&color=blue)](https://github.com/LalitMaganti/syntaqlite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 752 |
+| ⭐ **Stars** | 754 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

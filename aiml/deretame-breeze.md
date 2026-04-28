@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/deretame/Breeze?style=flat-square&color=yellow)](https://github.com/deretame/Breeze/stargazers) [![Forks](https://img.shields.io/github/forks/deretame/Breeze?style=flat-square&color=blue)](https://github.com/deretame/Breeze/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
-> Breeze 是一个漫画阅读器，通过插件提供漫画支持，现支持哔咔，禁漫，ehentai。采用 Flutter 开发。
+> Breeze 是一个漫画阅读器，通过插件提供漫画支持，现支持哔咔，禁漫，ehentai，再漫画，拷贝漫画。采用 Flutter 开发。
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 986 |
+| ⭐ **Stars** | 987 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 57/100 |

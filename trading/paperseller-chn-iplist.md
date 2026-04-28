@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 164 |
+| 🍴 **Forks** | 163 |
 | 💻 **Language** | RouterOS Script |
 | 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |

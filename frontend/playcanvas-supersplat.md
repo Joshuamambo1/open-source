@@ -1,6 +1,6 @@
 # playcanvas/supersplat
 
-[![Stars](https://img.shields.io/github/stars/playcanvas/supersplat?style=flat-square&color=yellow)](https://github.com/playcanvas/supersplat/stargazers) [![Forks](https://img.shields.io/github/forks/playcanvas/supersplat?style=flat-square&color=blue)](https://github.com/playcanvas/supersplat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/playcanvas/supersplat?style=flat-square&color=yellow)](https://github.com/playcanvas/supersplat/stargazers) [![Forks](https://img.shields.io/github/forks/playcanvas/supersplat?style=flat-square&color=blue)](https://github.com/playcanvas/supersplat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
 > 3D Gaussian Splat Editor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 585 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 93/100 |
+| 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

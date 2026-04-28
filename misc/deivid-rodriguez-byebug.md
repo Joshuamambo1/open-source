@@ -1,6 +1,6 @@
 # deivid-rodriguez/byebug
 
-[![Stars](https://img.shields.io/github/stars/deivid-rodriguez/byebug?style=flat-square&color=yellow)](https://github.com/deivid-rodriguez/byebug/stargazers) [![Forks](https://img.shields.io/github/forks/deivid-rodriguez/byebug?style=flat-square&color=blue)](https://github.com/deivid-rodriguez/byebug/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deivid-rodriguez/byebug?style=flat-square&color=yellow)](https://github.com/deivid-rodriguez/byebug/stargazers) [![Forks](https://img.shields.io/github/forks/deivid-rodriguez/byebug?style=flat-square&color=blue)](https://github.com/deivid-rodriguez/byebug/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Debugging in Ruby
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 327 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

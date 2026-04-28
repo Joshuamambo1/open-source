@@ -1,6 +1,6 @@
 # micro/mu
 
-[![Stars](https://img.shields.io/github/stars/micro/mu?style=flat-square&color=yellow)](https://github.com/micro/mu/stargazers) [![Forks](https://img.shields.io/github/forks/micro/mu?style=flat-square&color=blue)](https://github.com/micro/mu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/micro/mu?style=flat-square&color=yellow)](https://github.com/micro/mu/stargazers) [![Forks](https://img.shields.io/github/forks/micro/mu?style=flat-square&color=blue)](https://github.com/micro/mu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A personal app platform — blog, chat, news, mail, weather and more. No ads. No tracking. No algorithm.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 89 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

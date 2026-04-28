@@ -1,6 +1,6 @@
 # NovaFarming/Nova
 
-[![Stars](https://img.shields.io/github/stars/NovaFarming/Nova?style=flat-square&color=yellow)](https://github.com/NovaFarming/Nova/stargazers) [![Forks](https://img.shields.io/github/forks/NovaFarming/Nova?style=flat-square&color=blue)](https://github.com/NovaFarming/Nova/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NovaFarming/Nova?style=flat-square&color=yellow)](https://github.com/NovaFarming/Nova/stargazers) [![Forks](https://img.shields.io/github/forks/NovaFarming/Nova?style=flat-square&color=blue)](https://github.com/NovaFarming/Nova/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Airdrop optimizer - tracks live campaigns, estimates ROI, allocates capital.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

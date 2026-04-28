@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/openwong2kim/wmux?style=flat-square&color=yellow)](https://github.com/openwong2kim/wmux/stargazers) [![Forks](https://img.shields.io/github/forks/openwong2kim/wmux?style=flat-square&color=blue)](https://github.com/openwong2kim/wmux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> AI Agent Terminal for Windows — Run Claude Code, Codex, Gemini CLI side by side with split terminals, browser automation via CDP, MCP integration, session persistence, and smart notifications
+> Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 

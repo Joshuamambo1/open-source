@@ -1,6 +1,6 @@
 # LiuMengxuan04/MiniCode
 
-[![Stars](https://img.shields.io/github/stars/LiuMengxuan04/MiniCode?style=flat-square&color=yellow)](https://github.com/LiuMengxuan04/MiniCode/stargazers) [![Forks](https://img.shields.io/github/forks/LiuMengxuan04/MiniCode?style=flat-square&color=blue)](https://github.com/LiuMengxuan04/MiniCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LiuMengxuan04/MiniCode?style=flat-square&color=yellow)](https://github.com/LiuMengxuan04/MiniCode/stargazers) [![Forks](https://img.shields.io/github/forks/LiuMengxuan04/MiniCode?style=flat-square&color=blue)](https://github.com/LiuMengxuan04/MiniCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight terminal coding assistant with Claude Code-like workflow, tool loop, and TUI architecture, built for learning and experimentation. Multi-language support: TypeScript , Python and Rust implementations available now.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 520 |
-| 🍴 **Forks** | 56 |
+| ⭐ **Stars** | 522 |
+| 🍴 **Forks** | 57 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # ft-t/go-money
 
-[![Stars](https://img.shields.io/github/stars/ft-t/go-money?style=flat-square&color=yellow)](https://github.com/ft-t/go-money/stargazers) [![Forks](https://img.shields.io/github/forks/ft-t/go-money?style=flat-square&color=blue)](https://github.com/ft-t/go-money/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ft-t/go-money?style=flat-square&color=yellow)](https://github.com/ft-t/go-money/stargazers) [![Forks](https://img.shields.io/github/forks/ft-t/go-money?style=flat-square&color=blue)](https://github.com/ft-t/go-money/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Go Money is a opensource personal finances manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 270 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

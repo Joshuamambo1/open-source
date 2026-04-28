@@ -1,6 +1,6 @@
 # ministackorg/ministack
 
-[![Stars](https://img.shields.io/github/stars/ministackorg/ministack?style=flat-square&color=yellow)](https://github.com/ministackorg/ministack/stargazers) [![Forks](https://img.shields.io/github/forks/ministackorg/ministack?style=flat-square&color=blue)](https://github.com/ministackorg/ministack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ministackorg/ministack?style=flat-square&color=yellow)](https://github.com/ministackorg/ministack/stargazers) [![Forks](https://img.shields.io/github/forks/ministackorg/ministack?style=flat-square&color=blue)](https://github.com/ministackorg/ministack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Ministack: Free, open-source local AWS emulator - 40+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 174 |
+| 🍴 **Forks** | 176 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

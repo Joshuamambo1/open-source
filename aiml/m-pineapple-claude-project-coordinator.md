@@ -1,6 +1,6 @@
 # M-Pineapple/Claude-Project-Coordinator
 
-[![Stars](https://img.shields.io/github/stars/M-Pineapple/Claude-Project-Coordinator?style=flat-square&color=yellow)](https://github.com/M-Pineapple/Claude-Project-Coordinator/stargazers) [![Forks](https://img.shields.io/github/forks/M-Pineapple/Claude-Project-Coordinator?style=flat-square&color=blue)](https://github.com/M-Pineapple/Claude-Project-Coordinator/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/M-Pineapple/Claude-Project-Coordinator?style=flat-square&color=yellow)](https://github.com/M-Pineapple/Claude-Project-Coordinator/stargazers) [![Forks](https://img.shields.io/github/forks/M-Pineapple/Claude-Project-Coordinator?style=flat-square&color=blue)](https://github.com/M-Pineapple/Claude-Project-Coordinator/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Project Coordinator is a Swift-powered MCP (Model Context Protocol) server designed to streamline multi-project Xcode development. It lets you track project status, auto-detect frameworks, search code patterns, and maintain a structured development knowledge base — all locally, with Claude Desktop as your assistant.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

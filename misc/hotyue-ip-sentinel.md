@@ -1,6 +1,6 @@
 # hotyue/IP-Sentinel
 
-[![Stars](https://img.shields.io/github/stars/hotyue/IP-Sentinel?style=flat-square&color=yellow)](https://github.com/hotyue/IP-Sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/hotyue/IP-Sentinel?style=flat-square&color=blue)](https://github.com/hotyue/IP-Sentinel/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hotyue/IP-Sentinel?style=flat-square&color=yellow)](https://github.com/hotyue/IP-Sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/hotyue/IP-Sentinel?style=flat-square&color=blue)](https://github.com/hotyue/IP-Sentinel/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > IP-Sentinel 是一款轻量化、模块化的分布式 VPS 资产养护系统，通过地理位置信号锚定与高拟真本土流量注入，精准解决 IP 定位偏移及风控分过高的痛点，并配合 Telegram 实现全球多节点“低功耗、拟真、无人值守”的自动化资产养护。
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 486 |
+| ⭐ **Stars** | 488 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

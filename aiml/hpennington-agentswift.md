@@ -1,6 +1,6 @@
 # hpennington/agentswift
 
-[![Stars](https://img.shields.io/github/stars/hpennington/agentswift?style=flat-square&color=yellow)](https://github.com/hpennington/agentswift/stargazers) [![Forks](https://img.shields.io/github/forks/hpennington/agentswift?style=flat-square&color=blue)](https://github.com/hpennington/agentswift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hpennington/agentswift?style=flat-square&color=yellow)](https://github.com/hpennington/agentswift/stargazers) [![Forks](https://img.shields.io/github/forks/hpennington/agentswift?style=flat-square&color=blue)](https://github.com/hpennington/agentswift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 68 |
+| ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

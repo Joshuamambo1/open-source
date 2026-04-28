@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/mnfst/manifest?style=flat-square&color=yellow)](https://github.com/mnfst/manifest/stargazers) [![Forks](https://img.shields.io/github/forks/mnfst/manifest?style=flat-square&color=blue)](https://github.com/mnfst/manifest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
-> Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚
+> Smart Model Routing for Agents. Cut Costs up to 70% 🦚
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 

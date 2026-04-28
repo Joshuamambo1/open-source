@@ -1,6 +1,6 @@
 # AliceLJY/recallnest
 
-[![Stars](https://img.shields.io/github/stars/AliceLJY/recallnest?style=flat-square&color=yellow)](https://github.com/AliceLJY/recallnest/stargazers) [![Forks](https://img.shields.io/github/forks/AliceLJY/recallnest?style=flat-square&color=blue)](https://github.com/AliceLJY/recallnest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AliceLJY/recallnest?style=flat-square&color=yellow)](https://github.com/AliceLJY/recallnest/stargazers) [![Forks](https://img.shields.io/github/forks/AliceLJY/recallnest?style=flat-square&color=blue)](https://github.com/AliceLJY/recallnest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > One memory, three terminals. Shared memory layer for Claude Code, Codex, and Gemini CLI — hybrid retrieval (vector + BM25 + KG), session continuity, 40 MCP tools. Local-first, LanceDB-backed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

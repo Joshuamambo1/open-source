@@ -1,6 +1,6 @@
 # spinningfactory/kloak
 
-[![Stars](https://img.shields.io/github/stars/spinningfactory/kloak?style=flat-square&color=yellow)](https://github.com/spinningfactory/kloak/stargazers) [![Forks](https://img.shields.io/github/forks/spinningfactory/kloak?style=flat-square&color=blue)](https://github.com/spinningfactory/kloak/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spinningfactory/kloak?style=flat-square&color=yellow)](https://github.com/spinningfactory/kloak/stargazers) [![Forks](https://img.shields.io/github/forks/spinningfactory/kloak?style=flat-square&color=blue)](https://github.com/spinningfactory/kloak/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Cloud native zero trust security for AI agents run environments
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 102 |
-| 🍴 **Forks** | 1 |
+| ⭐ **Stars** | 110 |
+| 🍴 **Forks** | 2 |
 | 💻 **Language** | C |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Security
+AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 

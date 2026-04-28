@@ -1,6 +1,6 @@
 # compio-rs/compio-py
 
-[![Stars](https://img.shields.io/github/stars/compio-rs/compio-py?style=flat-square&color=yellow)](https://github.com/compio-rs/compio-py/stargazers) [![Forks](https://img.shields.io/github/forks/compio-rs/compio-py?style=flat-square&color=blue)](https://github.com/compio-rs/compio-py/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/compio-rs/compio-py?style=flat-square&color=yellow)](https://github.com/compio-rs/compio-py/stargazers) [![Forks](https://img.shields.io/github/forks/compio-rs/compio-py?style=flat-square&color=blue)](https://github.com/compio-rs/compio-py/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > An asyncio event loop using Rust compio.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 242 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

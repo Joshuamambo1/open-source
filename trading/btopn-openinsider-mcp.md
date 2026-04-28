@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/btopn/OpenInsider-MCP?style=flat-square&color=yellow)](https://github.com/btopn/OpenInsider-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/btopn/OpenInsider-MCP?style=flat-square&color=blue)](https://github.com/btopn/OpenInsider-MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
-> MCP server that exposes openinsider.com to any MCP compatible client.
+> MCP server that exposes live insider trading data to any LLM.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 66 |
-| 🍴 **Forks** | 5 |
+| ⭐ **Stars** | 67 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Trading · Backend · DevTools
+Trading · AI/ML · Backend
 
 ## 📝 Summary
 

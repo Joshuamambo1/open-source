@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/shep-ai/shep?style=flat-square&color=yellow)](https://github.com/shep-ai/shep/stargazers) [![Forks](https://img.shields.io/github/forks/shep-ai/shep?style=flat-square&color=blue)](https://github.com/shep-ai/shep/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Ship features 10x faster
+> Ship features 10x faster. Burn tokens at scale. 😈
 
 ## 📊 Stats
 

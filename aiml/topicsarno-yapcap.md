@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/TopiCsarno/yapcap?style=flat-square&color=yellow)](https://github.com/TopiCsarno/yapcap/stargazers) [![Forks](https://img.shields.io/github/forks/TopiCsarno/yapcap?style=flat-square&color=blue)](https://github.com/TopiCsarno/yapcap/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Native COSMIC panel applet for Linux that shows local usage limits for Codex, Claude Code, and Cursor.
+> Native COSMIC panel applet showing local usage limits for Codex, Claude Code, and Cursor.
 
 ## 📊 Stats
 

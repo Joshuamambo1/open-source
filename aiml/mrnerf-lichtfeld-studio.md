@@ -1,6 +1,6 @@
 # MrNeRF/LichtFeld-Studio
 
-[![Stars](https://img.shields.io/github/stars/MrNeRF/LichtFeld-Studio?style=flat-square&color=yellow)](https://github.com/MrNeRF/LichtFeld-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/MrNeRF/LichtFeld-Studio?style=flat-square&color=blue)](https://github.com/MrNeRF/LichtFeld-Studio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MrNeRF/LichtFeld-Studio?style=flat-square&color=yellow)](https://github.com/MrNeRF/LichtFeld-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/MrNeRF/LichtFeld-Studio?style=flat-square&color=blue)](https://github.com/MrNeRF/LichtFeld-Studio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 312 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

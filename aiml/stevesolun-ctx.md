@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/stevesolun/ctx?style=flat-square&color=yellow)](https://github.com/stevesolun/ctx/stargazers) [![Forks](https://img.shields.io/github/forks/stevesolun/ctx?style=flat-square&color=blue)](https://github.com/stevesolun/ctx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Real-time skill and agent recommendation engine for Claude Code - watches what you develop, walks a knowledge graph of 1,768 skills and 443 agents, and suggests the right ones on the fly. Powered by a Karpathy LLM wiki with persistent memory.
+> Skill, agent, MCP and harness recommendation engine for Claude Code/custom LLMs: walks a 13,218-node LLM wiki graph (1,968 skills, 464 agents, 10,786 MCP servers, 963K edges) and suggests the right tools on the fly.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 

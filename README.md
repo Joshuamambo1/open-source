@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10512** |
+| 🗂️ **Total projects** | **10584** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4054 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1975 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1044 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 852 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 623 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 607 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 378 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 4085 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1993 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1047 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 853 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 628 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 614 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 381 | [Browse →](./crypto/) |
 | 📊 **Data** | 233 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 217 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 131 | [Browse →](./mobile/) |
-| 💳 **Payments** | 121 | [Browse →](./payments/) |
-| 📈 **Trading** | 103 | [Browse →](./trading/) |
+| 💳 **Payments** | 123 | [Browse →](./payments/) |
+| 📈 **Trading** | 105 | [Browse →](./trading/) |
 | 🔐 **Security** | 94 | [Browse →](./security/) |
 | ✨ **Design** | 36 | [Browse →](./design/) |
 | 🎯 **Product** | 24 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [aws/aws-sam-cli](./frontend/aws-aws-sam-cli.md) | ⭐ 6.7k | Frontend |
-| 2 | [aimeos/aimeos-laravel](./aiml/aimeos-aimeos-laravel.md) | ⭐ 8.6k | AI/ML |
-| 3 | [MonoGame/MonoGame](./misc/monogame-monogame.md) | ⭐ 13.8k | Misc |
-| 4 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.4k | AI/ML |
-| 5 | [freeCodeCamp/devdocs](./backend/freecodecamp-devdocs.md) | ⭐ 38.8k | Backend |
-| 6 | [hazelcast/hazelcast](./data/hazelcast-hazelcast.md) | ⭐ 6.6k | Data |
-| 7 | [Tencent/WeKnora](./aiml/tencent-weknora.md) | ⭐ 14.1k | AI/ML |
-| 8 | [pingcap/tidb](./orchestration/pingcap-tidb.md) | ⭐ 40k | Orchestration |
-| 9 | [spf13/cobra](./devtools/spf13-cobra.md) | ⭐ 43.8k | DevTools |
-| 10 | [organicmaps/organicmaps](./devtools/organicmaps-organicmaps.md) | ⭐ 13.8k | DevTools |
+| 1 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.4k | AI/ML |
+| 2 | [hazelcast/hazelcast](./data/hazelcast-hazelcast.md) | ⭐ 6.6k | Data |
+| 3 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 4 | [meteor/meteor](./frontend/meteor-meteor.md) | ⭐ 44.8k | Frontend |
+| 5 | [travisvn/awesome-claude-skills](./aiml/travisvn-awesome-claude-skills.md) | ⭐ 11.9k | AI/ML |
+| 6 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.5k | AI/ML |
+| 7 | [flame-engine/flame](./mobile/flame-engine-flame.md) | ⭐ 10.5k | Mobile |
+| 8 | [firebase/firebase-ios-sdk](./aiml/firebase-firebase-ios-sdk.md) | ⭐ 6.6k | AI/ML |
+| 9 | [web-platform-tests/wpt](./aiml/web-platform-tests-wpt.md) | ⭐ 5.9k | AI/ML |
+| 10 | [shadcn-ui/ui](./aiml/shadcn-ui-ui.md) | ⭐ 113.2k | AI/ML |
 
 ## 🚀 How it works
 

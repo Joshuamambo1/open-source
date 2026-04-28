@@ -1,6 +1,6 @@
 # rncbc/qpwgraph
 
-[![Stars](https://img.shields.io/github/stars/rncbc/qpwgraph?style=flat-square&color=yellow)](https://github.com/rncbc/qpwgraph/stargazers) [![Forks](https://img.shields.io/github/forks/rncbc/qpwgraph?style=flat-square&color=blue)](https://github.com/rncbc/qpwgraph/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rncbc/qpwgraph?style=flat-square&color=yellow)](https://github.com/rncbc/qpwgraph/stargazers) [![Forks](https://img.shields.io/github/forks/rncbc/qpwgraph?style=flat-square&color=blue)](https://github.com/rncbc/qpwgraph/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > qpwgraph - A PipeWire Graph Qt GUI Interface
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 587 |
+| ⭐ **Stars** | 588 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # cheatsheet1999/CloudCollection
 
-[![Stars](https://img.shields.io/github/stars/cheatsheet1999/CloudCollection?style=flat-square&color=yellow)](https://github.com/cheatsheet1999/CloudCollection/stargazers) [![Forks](https://img.shields.io/github/forks/cheatsheet1999/CloudCollection?style=flat-square&color=blue)](https://github.com/cheatsheet1999/CloudCollection/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cheatsheet1999/CloudCollection?style=flat-square&color=yellow)](https://github.com/cheatsheet1999/CloudCollection/stargazers) [![Forks](https://img.shields.io/github/forks/cheatsheet1999/CloudCollection?style=flat-square&color=blue)](https://github.com/cheatsheet1999/CloudCollection/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Notes for Software Engineers on infrastructure and distributed systems. Covers common data structure and algorithms, web concepts, and more!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 328 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

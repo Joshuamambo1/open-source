@@ -1,6 +1,6 @@
 # benchflow-ai/skillsbench
 
-[![Stars](https://img.shields.io/github/stars/benchflow-ai/skillsbench?style=flat-square&color=yellow)](https://github.com/benchflow-ai/skillsbench/stargazers) [![Forks](https://img.shields.io/github/forks/benchflow-ai/skillsbench?style=flat-square&color=blue)](https://github.com/benchflow-ai/skillsbench/network) [![Language](https://img.shields.io/badge/lang-PDDL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/benchflow-ai/skillsbench?style=flat-square&color=yellow)](https://github.com/benchflow-ai/skillsbench/stargazers) [![Forks](https://img.shields.io/github/forks/benchflow-ai/skillsbench?style=flat-square&color=blue)](https://github.com/benchflow-ai/skillsbench/network) [![Language](https://img.shields.io/badge/lang-PDDL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > SkillsBench evaluates how well skills work and how effective agents are at using them
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 265 |
 | 💻 **Language** | PDDL |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

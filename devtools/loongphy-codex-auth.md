@@ -1,6 +1,6 @@
 # Loongphy/codex-auth
 
-[![Stars](https://img.shields.io/github/stars/Loongphy/codex-auth?style=flat-square&color=yellow)](https://github.com/Loongphy/codex-auth/stargazers) [![Forks](https://img.shields.io/github/forks/Loongphy/codex-auth?style=flat-square&color=blue)](https://github.com/Loongphy/codex-auth/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Loongphy/codex-auth?style=flat-square&color=yellow)](https://github.com/Loongphy/codex-auth/stargazers) [![Forks](https://img.shields.io/github/forks/Loongphy/codex-auth?style=flat-square&color=blue)](https://github.com/Loongphy/codex-auth/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI tool to switch and manage Codex accounts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

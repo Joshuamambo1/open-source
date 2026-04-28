@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/aspenkit/aspens?style=flat-square&color=yellow)](https://github.com/aspenkit/aspens/stargazers) [![Forks](https://img.shields.io/github/forks/aspenkit/aspens?style=flat-square&color=blue)](https://github.com/aspenkit/aspens/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Your CLAUDE.md stopped working at 200 lines. Generate scoped skill files from your import graph, auto-sync on every commit. Claude Code, Codex, Cursor.
+> Your CLAUDE.md stopped working at 200 lines. Generate scoped skill files from your import graph, auto-sync on every commit. Claude Code and Codex.
 
 ## 📊 Stats
 

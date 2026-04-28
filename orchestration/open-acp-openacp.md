@@ -1,6 +1,6 @@
 # Open-ACP/OpenACP
 
-[![Stars](https://img.shields.io/github/stars/Open-ACP/OpenACP?style=flat-square&color=yellow)](https://github.com/Open-ACP/OpenACP/stargazers) [![Forks](https://img.shields.io/github/forks/Open-ACP/OpenACP?style=flat-square&color=blue)](https://github.com/Open-ACP/OpenACP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Open-ACP/OpenACP?style=flat-square&color=yellow)](https://github.com/Open-ACP/OpenACP/stargazers) [![Forks](https://img.shields.io/github/forks/Open-ACP/OpenACP?style=flat-square&color=blue)](https://github.com/Open-ACP/OpenACP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted bridge that lets you interact with AI coding agents (Claude Code, Codex, etc.) from messaging platforms (Telegram, Discord, etc.) via the Agent Client Protocol (ACP).
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 279 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 280 |
+| 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

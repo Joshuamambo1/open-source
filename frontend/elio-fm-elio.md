@@ -1,6 +1,6 @@
 # elio-fm/elio
 
-[![Stars](https://img.shields.io/github/stars/elio-fm/elio?style=flat-square&color=yellow)](https://github.com/elio-fm/elio/stargazers) [![Forks](https://img.shields.io/github/forks/elio-fm/elio?style=flat-square&color=blue)](https://github.com/elio-fm/elio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elio-fm/elio?style=flat-square&color=yellow)](https://github.com/elio-fm/elio/stargazers) [![Forks](https://img.shields.io/github/forks/elio-fm/elio?style=flat-square&color=blue)](https://github.com/elio-fm/elio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 58 |
+| ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # steipete/wacli
 
-[![Stars](https://img.shields.io/github/stars/steipete/wacli?style=flat-square&color=yellow)](https://github.com/steipete/wacli/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/wacli?style=flat-square&color=blue)](https://github.com/steipete/wacli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steipete/wacli?style=flat-square&color=yellow)](https://github.com/steipete/wacli/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/wacli?style=flat-square&color=blue)](https://github.com/steipete/wacli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > WhatsApp CLI
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 250 |
+| 🍴 **Forks** | 251 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

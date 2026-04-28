@@ -1,17 +1,17 @@
 # schlagmichdoch/PairDrop
 
-[![Stars](https://img.shields.io/github/stars/schlagmichdoch/PairDrop?style=flat-square&color=yellow)](https://github.com/schlagmichdoch/PairDrop/stargazers) [![Forks](https://img.shields.io/github/forks/schlagmichdoch/PairDrop?style=flat-square&color=blue)](https://github.com/schlagmichdoch/PairDrop/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/schlagmichdoch/PairDrop?style=flat-square&color=yellow)](https://github.com/schlagmichdoch/PairDrop/stargazers) [![Forks](https://img.shields.io/github/forks/schlagmichdoch/PairDrop?style=flat-square&color=blue)](https://github.com/schlagmichdoch/PairDrop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 10.2k |
+| 🍴 **Forks** | 601 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

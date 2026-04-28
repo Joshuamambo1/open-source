@@ -1,6 +1,6 @@
 # tintinweb/pi-gitnexus
 
-[![Stars](https://img.shields.io/github/stars/tintinweb/pi-gitnexus?style=flat-square&color=yellow)](https://github.com/tintinweb/pi-gitnexus/stargazers) [![Forks](https://img.shields.io/github/forks/tintinweb/pi-gitnexus?style=flat-square&color=blue)](https://github.com/tintinweb/pi-gitnexus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tintinweb/pi-gitnexus?style=flat-square&color=yellow)](https://github.com/tintinweb/pi-gitnexus/stargazers) [![Forks](https://img.shields.io/github/forks/tintinweb/pi-gitnexus?style=flat-square&color=blue)](https://github.com/tintinweb/pi-gitnexus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > GitNexus knowledge graph integration for the Pi coding agent
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 79 |
-| 🍴 **Forks** | 13 |
+| 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

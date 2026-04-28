@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6 |
+| ⭐ **Stars** | 8 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 34/100 |

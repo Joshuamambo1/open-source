@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10442** |
+| 🗂️ **Total projects** | **10512** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,22 +18,22 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4025 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1965 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1032 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 848 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 621 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 600 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 376 | [Browse →](./crypto/) |
-| 📊 **Data** | 232 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 215 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 4054 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1975 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1044 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 852 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 623 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 607 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 378 | [Browse →](./crypto/) |
+| 📊 **Data** | 233 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 217 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 131 | [Browse →](./mobile/) |
 | 💳 **Payments** | 121 | [Browse →](./payments/) |
 | 📈 **Trading** | 103 | [Browse →](./trading/) |
 | 🔐 **Security** | 94 | [Browse →](./security/) |
 | ✨ **Design** | 36 | [Browse →](./design/) |
 | 🎯 **Product** | 24 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 19 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 20 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
@@ -43,12 +43,12 @@
 | 2 | [aimeos/aimeos-laravel](./aiml/aimeos-aimeos-laravel.md) | ⭐ 8.6k | AI/ML |
 | 3 | [MonoGame/MonoGame](./misc/monogame-monogame.md) | ⭐ 13.8k | Misc |
 | 4 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.4k | AI/ML |
-| 5 | [spaceship-prompt/spaceship-prompt](./misc/spaceship-prompt-spaceship-prompt.md) | ⭐ 20.5k | Misc |
-| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 7 | [photoprism/photoprism](./aiml/photoprism-photoprism.md) | ⭐ 39.6k | AI/ML |
-| 8 | [triggerdotdev/trigger.dev](./orchestration/triggerdotdev-trigger.dev.md) | ⭐ 14.7k | Orchestration |
-| 9 | [readest/readest](./aiml/readest-readest.md) | ⭐ 20k | AI/ML |
-| 10 | [web-platform-tests/wpt](./aiml/web-platform-tests-wpt.md) | ⭐ 5.9k | AI/ML |
+| 5 | [freeCodeCamp/devdocs](./backend/freecodecamp-devdocs.md) | ⭐ 38.8k | Backend |
+| 6 | [hazelcast/hazelcast](./data/hazelcast-hazelcast.md) | ⭐ 6.6k | Data |
+| 7 | [Tencent/WeKnora](./aiml/tencent-weknora.md) | ⭐ 14.1k | AI/ML |
+| 8 | [pingcap/tidb](./orchestration/pingcap-tidb.md) | ⭐ 40k | Orchestration |
+| 9 | [spf13/cobra](./devtools/spf13-cobra.md) | ⭐ 43.8k | DevTools |
+| 10 | [organicmaps/organicmaps](./devtools/organicmaps-organicmaps.md) | ⭐ 13.8k | DevTools |
 
 ## 🚀 How it works
 

@@ -1,17 +1,17 @@
 # vnmoorthy/pavo-bench
 
-[![Stars](https://img.shields.io/github/stars/vnmoorthy/pavo-bench?style=flat-square&color=yellow)](https://github.com/vnmoorthy/pavo-bench/stargazers) [![Forks](https://img.shields.io/github/forks/vnmoorthy/pavo-bench?style=flat-square&color=blue)](https://github.com/vnmoorthy/pavo-bench/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vnmoorthy/pavo-bench?style=flat-square&color=yellow)](https://github.com/vnmoorthy/pavo-bench/stargazers) [![Forks](https://img.shields.io/github/forks/vnmoorthy/pavo-bench?style=flat-square&color=blue)](https://github.com/vnmoorthy/pavo-bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A 50K-turn voice pipeline benchmark and an 85K-param meta-controller that cuts P95 latency 10.3% and energy 71% vs fixed cloud. TMLR 2026.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

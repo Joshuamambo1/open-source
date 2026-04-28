@@ -1,6 +1,6 @@
 # litmux4ai/litmux
 
-[![Stars](https://img.shields.io/github/stars/litmux4ai/litmux?style=flat-square&color=yellow)](https://github.com/litmux4ai/litmux/stargazers) [![Forks](https://img.shields.io/github/forks/litmux4ai/litmux?style=flat-square&color=blue)](https://github.com/litmux4ai/litmux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/litmux4ai/litmux?style=flat-square&color=yellow)](https://github.com/litmux4ai/litmux/stargazers) [![Forks](https://img.shields.io/github/forks/litmux4ai/litmux?style=flat-square&color=blue)](https://github.com/litmux4ai/litmux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Unit tests for AI. Test prompts, compare models, save money.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 102 |
+| ⭐ **Stars** | 103 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

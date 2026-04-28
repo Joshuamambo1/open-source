@@ -1,6 +1,6 @@
 # altsem/gitu
 
-[![Stars](https://img.shields.io/github/stars/altsem/gitu?style=flat-square&color=yellow)](https://github.com/altsem/gitu/stargazers) [![Forks](https://img.shields.io/github/forks/altsem/gitu?style=flat-square&color=blue)](https://github.com/altsem/gitu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/altsem/gitu?style=flat-square&color=yellow)](https://github.com/altsem/gitu/stargazers) [![Forks](https://img.shields.io/github/forks/altsem/gitu?style=flat-square&color=blue)](https://github.com/altsem/gitu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A TUI Git client inspired by Magit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

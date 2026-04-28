@@ -1,6 +1,6 @@
 # peiyizhi0724/ChatGpt-Image-Studio
 
-[![Stars](https://img.shields.io/github/stars/peiyizhi0724/ChatGpt-Image-Studio?style=flat-square&color=yellow)](https://github.com/peiyizhi0724/ChatGpt-Image-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/peiyizhi0724/ChatGpt-Image-Studio?style=flat-square&color=blue)](https://github.com/peiyizhi0724/ChatGpt-Image-Studio/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/peiyizhi0724/ChatGpt-Image-Studio?style=flat-square&color=yellow)](https://github.com/peiyizhi0724/ChatGpt-Image-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/peiyizhi0724/ChatGpt-Image-Studio?style=flat-square&color=blue)](https://github.com/peiyizhi0724/ChatGpt-Image-Studio/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 237 |
-| 🍴 **Forks** | 56 |
+| ⭐ **Stars** | 239 |
+| 🍴 **Forks** | 57 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

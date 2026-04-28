@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/scion
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/scion?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/scion/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/scion?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/scion/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/scion?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/scion/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/scion?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/scion/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

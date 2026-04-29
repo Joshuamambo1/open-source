@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The spicetify/cli is an open-source command-line tool that enables users to customize their Spotify client across various platforms, including Windows, macOS, and Linux. This versatile tool empowers users to personalize their Spotify experience with ease, offering a simple and efficient way to tailor their music streaming experience. By leveraging the power of the command line, spicetify/cli streamlines the process of modifying Spotify's appearance and functionality.
+Spicetify/cli is an open-source command-line tool that empowers users to customize their Spotify client experience across Windows, macOS, and Linux platforms. This versatile tool allows users to personalize various aspects of Spotify, providing a tailored experience that suits their preferences. With spicetify/cli, users can easily tweak the look and feel of their Spotify client to suit their tastes.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Enigmapython-MCP is an open-source project that bridges the gap between Large Language Models (LLMs) and the Enigma machine, a pioneering encryption device from World War II. This project enables the integration of Enigma's encryption capabilities with LLMs, allowing for the analysis and simulation of historical encryption techniques in a modern context. By doing so, researchers and developers can explore the intersection of AI, cryptography, and history.
+The enigmapython-MCP project is an open-source initiative that aims to bring the Enigma encryption machine into modern language models (LLMs) using Python. This innovative project utilizes the principles of the historic Enigma machine to develop more secure and complex encryption methods for LLMs, pushing the boundaries of AI and machine learning security. By merging the past with the present, enigmapython-MCP seeks to elevate the encryption standards in the field of AI and machine learning.
 
 ---
 

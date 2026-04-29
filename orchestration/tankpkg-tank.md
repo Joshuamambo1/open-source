@@ -25,7 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The tank package manager, developed by tankpkg/tank, is an open-source, security-first solution designed to manage AI agent skills efficiently. This tool provides a robust framework for orchestrating and deploying machine learning models, ensuring seamless integration and secure operations. By leveraging tank, developers can streamline their AI workflows and focus on building high-performance applications.
+tank is an open-source, security-first package manager designed specifically for managing AI agent skills. It provides a secure and reliable way to deploy, update, and manage the skills required for AI and machine learning applications. With tank, developers can ensure the integrity and trustworthiness of their AI agents.
 
 ---
 

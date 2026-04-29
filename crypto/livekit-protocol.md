@@ -25,7 +25,7 @@ Crypto
 
 ## 📝 Summary
 
-The livekit/protocol project is an open-source implementation of LiveKit's signaling protocol, utilizing Protocol Buffers to define and serialize data. This project enables developers to build real-time communication applications, facilitating seamless peer-to-peer connections and data exchange. It is categorized under the Crypto category, indicating its use of cryptographic techniques for secure communication.
+The livekit/protocol project provides open-source Protobuf definitions for LiveKit's signaling protocol, enabling secure and efficient communication between clients and servers in real-time applications. This specification outlines the cryptographic framework for establishing and maintaining connections in live streaming and conferencing scenarios. By utilizing this protocol, developers can build scalable, high-performance, and secure live video collaboration solutions.
 
 ---
 

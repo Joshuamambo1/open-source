@@ -27,7 +27,7 @@ Backend · Data
 
 Here's a brief summary for the h2337/tsink project:
 
-tsink is a lightweight time-series database written in Rust, designed to be easily embeddable, scalable, and flexible. It can be run as a server or as part of a larger application, making it suitable for a wide range of use cases. With its open-source nature and Rust implementation, tsink offers a high-performance and reliable solution for storing and analyzing time-series data.
+tsink is a lightweight, open-source time-series database written in Rust that provides flexibility in deployment options. It can be easily embedded into applications, run as a standalone server, or scaled as a cluster to meet various use case requirements. This database is designed to efficiently store and manage large amounts of time-series data.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a 2-3 sentence summary for the open-source project:
 
-"Hyperb1iss/git-iris is an intelligent agent that leverages AI/ML capabilities to analyze and optimize code, generating ideal Git artifacts. This cutting-edge tool empowers developers to streamline their workflow and create high-quality codebases. By automating the artifact creation process, developers can focus on writing better code, not tedious configuration."
+hyperb1iss/git-iris is an innovative open-source tool that utilizes AI and machine learning to enhance the Git experience. This intelligent agent analyzes code and automatically generates perfectly crafted Git artifacts, streamlining development workflows and improving collaboration. With git-iris, developers can focus on coding while the AI handles the tedious tasks of Git configuration and artifact creation.
 
 ---
 

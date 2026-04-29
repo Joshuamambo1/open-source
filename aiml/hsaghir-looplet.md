@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Looplet is an open-source, zero-dependency artificial intelligence (AI) agent loop that allows users to create and manage their own AI models without relying on external dependencies or services. This project provides a self-contained solution for building and integrating AI capabilities into various applications. By owning the entire development process, users have greater control and flexibility over their AI systems.
+Looplet is an open-source, zero-dependency agent loop developed to provide users with full ownership and control over their artificial intelligence (AI) and machine learning (ML) projects. This lightweight loop simplifies the process of integrating AI and ML capabilities, allowing developers to easily build and deploy custom models. By eliminating dependencies, Looplet aims to promote flexibility and autonomy in AI/ML development.
 
 ---
 

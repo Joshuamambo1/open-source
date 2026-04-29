@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-The macterm project is an open-source, lightweight terminal application designed specifically for macOS. Built with SwiftUI and libghostty, it provides a native user experience. This terminal emulator offers a sleek and modern interface while maintaining the functionality and performance of a traditional terminal.
+Here's a brief summary for the thdxg/macterm project:
+
+Macterm is a lightweight, native terminal for macOS, designed with SwiftUI for a seamless user experience. Built with libghostty, it aims to provide a high-performance and efficient terminal solution. This open-source project offers a simple yet effective alternative to traditional terminal applications.
 
 ---
 

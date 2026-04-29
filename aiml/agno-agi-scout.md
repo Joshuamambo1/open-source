@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Scout is an open-source project aiming to create a company-wide knowledge management system, referred to as a "Company Brain." This AI-driven platform is designed to facilitate seamless information sharing, idea generation, and collaboration among team members. By leveraging machine learning and AI capabilities, Scout seeks to enhance organizational transparency and productivity.
+Scout is an open-source project that aims to create a Company Brain, a centralized knowledge management system utilizing AI and machine learning capabilities. This platform is designed to collect, organize, and analyze vast amounts of company data, providing insights and automating tasks to enhance business operations. By leveraging AI and ML, Scout strives to make companies more efficient and informed.
 
 ---
 

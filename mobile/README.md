@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**142 projects** in this category.
+**143 projects** in this category.
 
 ## Projects
 
@@ -10,9 +10,9 @@
 |---|---|---|---|---|
 | 1 | [Anuken/Mindustry](./anuken-mindustry.md) | ⭐ 27.4k | Java | 100/100 |
 | 2 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11.1k | Kotlin | 100/100 |
-| 3 | [immich-app/immich](./immich-app-immich.md) | ⭐ 99.2k | TypeScript | 100/100 |
-| 4 | [TeamNewPipe/NewPipe](./teamnewpipe-newpipe.md) | ⭐ 37.9k | Java | 100/100 |
-| 5 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.7k | C | 100/100 |
+| 3 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.7k | C | 100/100 |
+| 4 | [immich-app/immich](./immich-app-immich.md) | ⭐ 99.2k | TypeScript | 100/100 |
+| 5 | [TeamNewPipe/NewPipe](./teamnewpipe-newpipe.md) | ⭐ 37.9k | Java | 100/100 |
 | 6 | [koreader/koreader](./koreader-koreader.md) | ⭐ 26.5k | Lua | 100/100 |
 | 7 | [vsouza/awesome-ios](./vsouza-awesome-ios.md) | ⭐ 52k | Swift | 100/100 |
 | 8 | [flame-engine/flame](./flame-engine-flame.md) | ⭐ 10.6k | Dart | 100/100 |
@@ -30,15 +30,15 @@
 | 20 | [ermaozi/get_subscribe](./ermaozi-get-subscribe.md) | ⭐ 8.9k | Python | 95/100 |
 | 21 | [firebase/flutterfire](./firebase-flutterfire.md) | ⭐ 9.2k | Dart | 95/100 |
 | 22 | [bggRGjQaUbCoE/PiliPlus](./bggrgjqaubcoe-piliplus.md) | ⭐ 13.4k | Dart | 95/100 |
-| 23 | [duckduckgo/Android](./duckduckgo-android.md) | ⭐ 4.6k | Kotlin | 94/100 |
-| 24 | [Acode-Foundation/Acode](./acode-foundation-acode.md) | ⭐ 5.2k | JavaScript | 94/100 |
-| 25 | [androidx/androidx](./androidx-androidx.md) | ⭐ 6k | Kotlin | 94/100 |
+| 23 | [Acode-Foundation/Acode](./acode-foundation-acode.md) | ⭐ 5.2k | JavaScript | 94/100 |
+| 24 | [androidx/androidx](./androidx-androidx.md) | ⭐ 6k | Kotlin | 94/100 |
+| 25 | [duckduckgo/Android](./duckduckgo-android.md) | ⭐ 4.6k | Kotlin | 94/100 |
 | 26 | [Ranchero-Software/NetNewsWire](./ranchero-software-netnewswire.md) | ⭐ 10k | Swift | 94/100 |
 | 27 | [offa/android-foss](./offa-android-foss.md) | ⭐ 9.9k | Python | 92/100 |
-| 28 | [facebook/fresco](./facebook-fresco.md) | ⭐ 17.1k | Java | 90/100 |
-| 29 | [facebook/facebook-ios-sdk](./facebook-facebook-ios-sdk.md) | ⭐ 8k | Swift | 90/100 |
-| 30 | [bluesky-social/social-app](./bluesky-social-social-app.md) | ⭐ 17.9k | TypeScript | 90/100 |
-| 31 | [PixarAnimationStudios/OpenUSD](./pixaranimationstudios-openusd.md) | ⭐ 7.2k | C++ | 90/100 |
+| 28 | [PixarAnimationStudios/OpenUSD](./pixaranimationstudios-openusd.md) | ⭐ 7.2k | C++ | 90/100 |
+| 29 | [facebook/fresco](./facebook-fresco.md) | ⭐ 17.1k | Java | 90/100 |
+| 30 | [facebook/facebook-ios-sdk](./facebook-facebook-ios-sdk.md) | ⭐ 8k | Swift | 90/100 |
+| 31 | [bluesky-social/social-app](./bluesky-social-social-app.md) | ⭐ 17.9k | TypeScript | 90/100 |
 | 32 | [home-assistant/android](./home-assistant-android.md) | ⭐ 3.6k | Kotlin | 89/100 |
 | 33 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4k | Kotlin | 89/100 |
 | 34 | [SwiftOldDriver/iOS-Weekly](./swiftolddriver-ios-weekly.md) | ⭐ 5k | — | 89/100 |
@@ -73,9 +73,9 @@
 | 63 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.6k | Shell | 64/100 |
 | 64 | [Watfaq/clash-rs](./watfaq-clash-rs.md) | ⭐ 1.6k | Rust | 64/100 |
 | 65 | [DP-Hridayan/aShellYou](./dp-hridayan-ashellyou.md) | ⭐ 1.8k | Kotlin | 64/100 |
-| 66 | [dotnet/android](./dotnet-android.md) | ⭐ 2.1k | C# | 63/100 |
-| 67 | [TrackerControl/tracker-control-android](./trackercontrol-tracker-control-android.md) | ⭐ 2.5k | Java | 63/100 |
-| 68 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 63/100 |
+| 66 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 63/100 |
+| 67 | [dotnet/android](./dotnet-android.md) | ⭐ 2.1k | C# | 63/100 |
+| 68 | [TrackerControl/tracker-control-android](./trackercontrol-tracker-control-android.md) | ⭐ 2.5k | Java | 63/100 |
 | 69 | [getsentry/sentry-cocoa](./getsentry-sentry-cocoa.md) | ⭐ 1.1k | Swift | 63/100 |
 | 70 | [mateusz-bak/openreads](./mateusz-bak-openreads.md) | ⭐ 1.5k | Dart | 62/100 |
 | 71 | [beyondtranslate/beyondtranslate](./beyondtranslate-beyondtranslate.md) | ⭐ 1.4k | Dart | 62/100 |
@@ -84,20 +84,20 @@
 | 74 | [nightscout/Trio](./nightscout-trio.md) | ⭐ 310 | Swift | 59/100 |
 | 75 | [LemmyNet/jerboa](./lemmynet-jerboa.md) | ⭐ 1.3k | Kotlin | 59/100 |
 | 76 | [ZalithLauncher/ZalithLauncher2](./zalithlauncher-zalithlauncher2.md) | ⭐ 1.1k | Kotlin | 59/100 |
-| 77 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
-| 78 | [scribble-rs/scribble.rs](./scribble-rs-scribble.rs.md) | ⭐ 632 | Go | 58/100 |
-| 79 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 959 | Dart | 58/100 |
-| 80 | [MorpheApp/morphe-patches](./morpheapp-morphe-patches.md) | ⭐ 2k | Java | 58/100 |
+| 77 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 960 | Dart | 58/100 |
+| 78 | [MorpheApp/morphe-patches](./morpheapp-morphe-patches.md) | ⭐ 1.9k | Java | 58/100 |
+| 79 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
+| 80 | [scribble-rs/scribble.rs](./scribble-rs-scribble.rs.md) | ⭐ 632 | Go | 58/100 |
 | 81 | [localdesktop/localdesktop.github.io](./localdesktop-localdesktop.github.io.md) | ⭐ 1.5k | Rust | 57/100 |
 | 82 | [OpenRadioss/OpenRadioss](./openradioss-openradioss.md) | ⭐ 792 | Fortran | 57/100 |
 | 83 | [theothernt/AerialViews](./theothernt-aerialviews.md) | ⭐ 935 | Kotlin | 57/100 |
-| 84 | [LSPosed/LSPlant](./lsposed-lsplant.md) | ⭐ 1.2k | C++ | 56/100 |
-| 85 | [prajwalch/TorrentSearch](./prajwalch-torrentsearch.md) | ⭐ 792 | Kotlin | 56/100 |
-| 86 | [EmbarkStudios/cargo-about](./embarkstudios-cargo-about.md) | ⭐ 724 | Rust | 56/100 |
-| 87 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 767 | Kotlin | 56/100 |
-| 88 | [SkyD666/PodAura](./skyd666-podaura.md) | ⭐ 1.2k | Kotlin | 55/100 |
-| 89 | [appwrite/sdk-generator](./appwrite-sdk-generator.md) | ⭐ 313 | Twig | 55/100 |
-| 90 | [librenms/docker](./librenms-docker.md) | ⭐ 829 | Dockerfile | 55/100 |
+| 84 | [EmbarkStudios/cargo-about](./embarkstudios-cargo-about.md) | ⭐ 724 | Rust | 56/100 |
+| 85 | [LSPosed/LSPlant](./lsposed-lsplant.md) | ⭐ 1.2k | C++ | 56/100 |
+| 86 | [prajwalch/TorrentSearch](./prajwalch-torrentsearch.md) | ⭐ 791 | Kotlin | 56/100 |
+| 87 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 768 | Kotlin | 56/100 |
+| 88 | [appwrite/sdk-generator](./appwrite-sdk-generator.md) | ⭐ 313 | Twig | 55/100 |
+| 89 | [librenms/docker](./librenms-docker.md) | ⭐ 829 | Dockerfile | 55/100 |
+| 90 | [SkyD666/PodAura](./skyd666-podaura.md) | ⭐ 1.2k | Kotlin | 55/100 |
 | 91 | [pyamsoft/tetherfusenet](./pyamsoft-tetherfusenet.md) | ⭐ 767 | Kotlin | 55/100 |
 | 92 | [2fast-team/2fast](./2fast-team-2fast.md) | ⭐ 537 | C# | 55/100 |
 | 93 | [AhmedLSayed9/dropdown_button2](./ahmedlsayed9-dropdown-button2.md) | ⭐ 353 | Dart | 55/100 |
@@ -119,37 +119,38 @@
 | 109 | [ColdWindScholar/MIO-KITCHEN-SOURCE](./coldwindscholar-mio-kitchen-source.md) | ⭐ 423 | Python | 52/100 |
 | 110 | [mtotschnig/MyExpenses](./mtotschnig-myexpenses.md) | ⭐ 1.1k | Kotlin | 52/100 |
 | 111 | [leon-cleaning-services/leon](./leon-cleaning-services-leon.md) | ⭐ 356 | Kotlin | 52/100 |
-| 112 | [chinedufn/swift-bridge](./chinedufn-swift-bridge.md) | ⭐ 1.1k | Rust | 51/100 |
-| 113 | [aj3423/SpamBlocker](./aj3423-spamblocker.md) | ⭐ 1.5k | Kotlin | 51/100 |
-| 114 | [premnirmal/StockTicker](./premnirmal-stockticker.md) | ⭐ 552 | Kotlin | 51/100 |
-| 115 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 51/100 |
-| 116 | [termux-user-repository/tur](./termux-user-repository-tur.md) | ⭐ 884 | Shell | 51/100 |
-| 117 | [AlfaazPlus/QuranApp](./alfaazplus-quranapp.md) | ⭐ 351 | Kotlin | 51/100 |
-| 118 | [michaelbel/movies](./michaelbel-movies.md) | ⭐ 335 | Kotlin | 51/100 |
-| 119 | [Shpigford/clearly](./shpigford-clearly.md) | ⭐ 757 | Swift | 51/100 |
-| 120 | [TacticSpaceTech/TacticRemote](./tacticspacetech-tacticremote.md) | ⭐ 12 | — | 50/100 |
-| 121 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.1k | Kotlin | 50/100 |
-| 122 | [jacopotediosi/OctoPrint-Telegram](./jacopotediosi-octoprint-telegram.md) | ⭐ 321 | Python | 50/100 |
-| 123 | [MicroPythonOS/MicroPythonOS](./micropythonos-micropythonos.md) | ⭐ 697 | Python | 50/100 |
-| 124 | [aegis-icons/aegis-icons](./aegis-icons-aegis-icons.md) | ⭐ 895 | Batchfile | 50/100 |
-| 125 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 310 | Kotlin | 49/100 |
-| 126 | [celestiamobile/AndroidCelestia](./celestiamobile-androidcelestia.md) | ⭐ 200 | Kotlin | 49/100 |
-| 127 | [woocommerce/woocommerce-ios](./woocommerce-woocommerce-ios.md) | ⭐ 356 | Swift | 49/100 |
-| 128 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 366 | Dart | 49/100 |
-| 129 | [forcedotcom/SalesforceMobileSDK-Android](./forcedotcom-salesforcemobilesdk-android.md) | ⭐ 358 | Java | 48/100 |
-| 130 | [EmbarkStudios/crash-handling](./embarkstudios-crash-handling.md) | ⭐ 175 | Rust | 47/100 |
-| 131 | [BigheadSMZ/Zelda-LA-DX-HD-Updated](./bigheadsmz-zelda-la-dx-hd-updated.md) | ⭐ 729 | C# | 46/100 |
-| 132 | [EngineeringKiosk/GermanTechPodcasts](./engineeringkiosk-germantechpodcasts.md) | ⭐ 179 | Go | 46/100 |
-| 133 | [sunnyadn/crforest](./sunnyadn-crforest.md) | ⭐ 1 | Python | 46/100 |
-| 134 | [meshtastic/rust](./meshtastic-rust.md) | ⭐ 131 | Rust | 45/100 |
-| 135 | [rodydavis/flutter_piano](./rodydavis-flutter-piano.md) | ⭐ 429 | Dart | 45/100 |
-| 136 | [icepy/manong-weekly](./icepy-manong-weekly.md) | ⭐ 367 | Objective-C | 44/100 |
-| 137 | [grafana/grafana-kiosk](./grafana-grafana-kiosk.md) | ⭐ 474 | Go | 44/100 |
-| 138 | [TobiasBuchholz/Plugin.Firebase](./tobiasbuchholz-plugin.firebase.md) | ⭐ 301 | C# | 43/100 |
-| 139 | [NEORUAA/XHS_Downloader_Android](./neoruaa-xhs-downloader-android.md) | ⭐ 313 | Kotlin | 43/100 |
-| 140 | [herzbube/littlego](./herzbube-littlego.md) | ⭐ 152 | Objective-C | 40/100 |
-| 141 | [cocoanetics/swiftbash](./cocoanetics-swiftbash.md) | ⭐ 14 | Swift | 36/100 |
-| 142 | [Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground](./moses-code-dev-foodsecurity-difp-android-playground.md) | ⭐ 1 | Java | 34/100 |
+| 112 | [termux-user-repository/tur](./termux-user-repository-tur.md) | ⭐ 884 | Shell | 51/100 |
+| 113 | [AlfaazPlus/QuranApp](./alfaazplus-quranapp.md) | ⭐ 351 | Kotlin | 51/100 |
+| 114 | [aj3423/SpamBlocker](./aj3423-spamblocker.md) | ⭐ 1.5k | Kotlin | 51/100 |
+| 115 | [premnirmal/StockTicker](./premnirmal-stockticker.md) | ⭐ 552 | Kotlin | 51/100 |
+| 116 | [chinedufn/swift-bridge](./chinedufn-swift-bridge.md) | ⭐ 1.1k | Rust | 51/100 |
+| 117 | [JackEblan/YagniLauncher](./jackeblan-yagnilauncher.md) | ⭐ 498 | Kotlin | 51/100 |
+| 118 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 51/100 |
+| 119 | [michaelbel/movies](./michaelbel-movies.md) | ⭐ 335 | Kotlin | 51/100 |
+| 120 | [Shpigford/clearly](./shpigford-clearly.md) | ⭐ 757 | Swift | 51/100 |
+| 121 | [MicroPythonOS/MicroPythonOS](./micropythonos-micropythonos.md) | ⭐ 697 | Python | 50/100 |
+| 122 | [TacticSpaceTech/TacticRemote](./tacticspacetech-tacticremote.md) | ⭐ 12 | — | 50/100 |
+| 123 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.1k | Kotlin | 50/100 |
+| 124 | [jacopotediosi/OctoPrint-Telegram](./jacopotediosi-octoprint-telegram.md) | ⭐ 321 | Python | 50/100 |
+| 125 | [aegis-icons/aegis-icons](./aegis-icons-aegis-icons.md) | ⭐ 895 | Batchfile | 50/100 |
+| 126 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 310 | Kotlin | 49/100 |
+| 127 | [celestiamobile/AndroidCelestia](./celestiamobile-androidcelestia.md) | ⭐ 200 | Kotlin | 49/100 |
+| 128 | [woocommerce/woocommerce-ios](./woocommerce-woocommerce-ios.md) | ⭐ 356 | Swift | 49/100 |
+| 129 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 366 | Dart | 49/100 |
+| 130 | [forcedotcom/SalesforceMobileSDK-Android](./forcedotcom-salesforcemobilesdk-android.md) | ⭐ 358 | Java | 48/100 |
+| 131 | [EmbarkStudios/crash-handling](./embarkstudios-crash-handling.md) | ⭐ 175 | Rust | 47/100 |
+| 132 | [BigheadSMZ/Zelda-LA-DX-HD-Updated](./bigheadsmz-zelda-la-dx-hd-updated.md) | ⭐ 729 | C# | 46/100 |
+| 133 | [EngineeringKiosk/GermanTechPodcasts](./engineeringkiosk-germantechpodcasts.md) | ⭐ 179 | Go | 46/100 |
+| 134 | [sunnyadn/crforest](./sunnyadn-crforest.md) | ⭐ 1 | Python | 46/100 |
+| 135 | [meshtastic/rust](./meshtastic-rust.md) | ⭐ 131 | Rust | 45/100 |
+| 136 | [rodydavis/flutter_piano](./rodydavis-flutter-piano.md) | ⭐ 429 | Dart | 45/100 |
+| 137 | [icepy/manong-weekly](./icepy-manong-weekly.md) | ⭐ 367 | Objective-C | 44/100 |
+| 138 | [grafana/grafana-kiosk](./grafana-grafana-kiosk.md) | ⭐ 474 | Go | 44/100 |
+| 139 | [TobiasBuchholz/Plugin.Firebase](./tobiasbuchholz-plugin.firebase.md) | ⭐ 301 | C# | 43/100 |
+| 140 | [NEORUAA/XHS_Downloader_Android](./neoruaa-xhs-downloader-android.md) | ⭐ 313 | Kotlin | 43/100 |
+| 141 | [herzbube/littlego](./herzbube-littlego.md) | ⭐ 152 | Objective-C | 40/100 |
+| 142 | [cocoanetics/swiftbash](./cocoanetics-swiftbash.md) | ⭐ 14 | Swift | 36/100 |
+| 143 | [Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground](./moses-code-dev-foodsecurity-difp-android-playground.md) | ⭐ 1 | Java | 34/100 |
 
 ---
 

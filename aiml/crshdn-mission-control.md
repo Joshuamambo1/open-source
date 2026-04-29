@@ -25,7 +25,9 @@ AI/ML · Backend · Product
 
 ## 📝 Summary
 
-Mission Control is an open-source, self-hosted Autonomous Product Engine (APE) that leverages AI agents to conduct market research, generate product features, and automate code shipping via pull requests. This innovative tool offers a wide range of features, including convoy mode, crash recovery, cost tracking, and over 80 API endpoints. By utilizing Mission Control, developers can streamline their product development workflows and stay competitive in the market.
+Here's a brief summary for the crshdn/mission-control project:
+
+Mission Control is the world's first Autonomous Product Engine (APE), utilizing AI agents to research markets, generate product features, and automatically ship code as pull requests. This innovative platform offers a range of features, including Convoy mode, crash recovery, and cost tracking, via 80+ API endpoints. With the ability to self-host through the OpenClaw Gateway, developers can harness the power of AI-driven product development.
 
 ---
 

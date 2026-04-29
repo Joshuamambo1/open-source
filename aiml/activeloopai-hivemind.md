@@ -1,6 +1,6 @@
 # activeloopai/hivemind
 
-[![Stars](https://img.shields.io/github/stars/activeloopai/hivemind?style=flat-square&color=yellow)](https://github.com/activeloopai/hivemind/stargazers) [![Forks](https://img.shields.io/github/forks/activeloopai/hivemind?style=flat-square&color=blue)](https://github.com/activeloopai/hivemind/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/activeloopai/hivemind?style=flat-square&color=yellow)](https://github.com/activeloopai/hivemind/stargazers) [![Forks](https://img.shields.io/github/forks/activeloopai/hivemind?style=flat-square&color=blue)](https://github.com/activeloopai/hivemind/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > One brain for all your agents
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 58 |
+| ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 4 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | JavaScript |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

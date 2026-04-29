@@ -25,9 +25,7 @@ Trading
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-This open-source extension for DuckDB enables efficient vector search capabilities, allowing users to leverage scalable and precise similarity searches. With pluggable quantization, the extension provides flexibility in choosing the optimal quantization method for specific use cases, making it suitable for various trading applications. This extension can significantly improve the performance of trading-related queries that rely on vector similarity searches.
+The DuckDB extension for vector search indexes provides an efficient and scalable way to perform similarity searches in high-dimensional data. This open-source project offers pluggable quantization methods, allowing users to choose the best approach for their specific use case. By integrating this extension into DuckDB, developers can leverage powerful vector search capabilities for trading and other applications.
 
 ---
 

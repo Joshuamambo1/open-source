@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Onefetch is an open-source command-line tool that provides detailed information about a Git repository. It displays data such as the repository's owner, description, and number of commits, forks, and stars, offering a concise overview of the project's status. This tool is particularly useful for developers and project managers looking for a quick and easy way to gather essential Git information.
+Onefetch is a command-line tool that provides detailed information about a Git repository. It offers a concise and easily readable format for displaying essential repository metrics, making it a valuable asset for developers and project maintainers. With onefetch, users can quickly access critical repository data from the comfort of their terminal.
 
 ---
 

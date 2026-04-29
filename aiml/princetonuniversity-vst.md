@@ -1,6 +1,6 @@
 # PrincetonUniversity/VST
 
-[![Stars](https://img.shields.io/github/stars/PrincetonUniversity/VST?style=flat-square&color=yellow)](https://github.com/PrincetonUniversity/VST/stargazers) [![Forks](https://img.shields.io/github/forks/PrincetonUniversity/VST?style=flat-square&color=blue)](https://github.com/PrincetonUniversity/VST/network) [![Language](https://img.shields.io/badge/lang-Rocq%20Prover-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PrincetonUniversity/VST?style=flat-square&color=yellow)](https://github.com/PrincetonUniversity/VST/stargazers) [![Forks](https://img.shields.io/github/forks/PrincetonUniversity/VST?style=flat-square&color=blue)](https://github.com/PrincetonUniversity/VST/network) [![Language](https://img.shields.io/badge/lang-Rocq%20Prover-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Verified Software Toolchain
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 494 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Rocq Prover |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

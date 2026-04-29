@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The MCP Mega-Agent Platform (skills) is an open-source project that offers a comprehensive set of expert engines and professional tools for Large Language Models (LLMs). This platform provides 11 expert engines and over 80 professional tools, covering a wide range of capabilities for AI/ML applications. By providing a unified platform for LLMs, skills aims to facilitate the development and deployment of more sophisticated AI systems.
+The MCP Mega-Agent Platform, a project by badhope/skills, is an open-source solution that integrates 11 expert engines with over 80 professional tools, enabling seamless use across various Large Language Models (LLMs). This platform aims to simplify the development and deployment of AI applications by providing a unified interface for LLMs. It caters to the needs of developers and researchers working with AI and machine learning.
 
 ---
 

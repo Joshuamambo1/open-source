@@ -1,6 +1,6 @@
 # VizuaaLOG/BulmaJS
 
-[![Stars](https://img.shields.io/github/stars/VizuaaLOG/BulmaJS?style=flat-square&color=yellow)](https://github.com/VizuaaLOG/BulmaJS/stargazers) [![Forks](https://img.shields.io/github/forks/VizuaaLOG/BulmaJS?style=flat-square&color=blue)](https://github.com/VizuaaLOG/BulmaJS/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VizuaaLOG/BulmaJS?style=flat-square&color=yellow)](https://github.com/VizuaaLOG/BulmaJS/stargazers) [![Forks](https://img.shields.io/github/forks/VizuaaLOG/BulmaJS?style=flat-square&color=blue)](https://github.com/VizuaaLOG/BulmaJS/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial javascript extension to the awesome Bulma CSS framework.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 344 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

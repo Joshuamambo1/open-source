@@ -1,6 +1,6 @@
 # dirkwhoffmann/virtualc64
 
-[![Stars](https://img.shields.io/github/stars/dirkwhoffmann/virtualc64?style=flat-square&color=yellow)](https://github.com/dirkwhoffmann/virtualc64/stargazers) [![Forks](https://img.shields.io/github/forks/dirkwhoffmann/virtualc64?style=flat-square&color=blue)](https://github.com/dirkwhoffmann/virtualc64/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dirkwhoffmann/virtualc64?style=flat-square&color=yellow)](https://github.com/dirkwhoffmann/virtualc64/stargazers) [![Forks](https://img.shields.io/github/forks/dirkwhoffmann/virtualc64?style=flat-square&color=blue)](https://github.com/dirkwhoffmann/virtualc64/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > VirtualC64 is a cycle-accurate C64 emulator for macOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 396 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # DarkStarSystems/pcons
 
-[![Stars](https://img.shields.io/github/stars/DarkStarSystems/pcons?style=flat-square&color=yellow)](https://github.com/DarkStarSystems/pcons/stargazers) [![Forks](https://img.shields.io/github/forks/DarkStarSystems/pcons?style=flat-square&color=blue)](https://github.com/DarkStarSystems/pcons/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DarkStarSystems/pcons?style=flat-square&color=yellow)](https://github.com/DarkStarSystems/pcons/stargazers) [![Forks](https://img.shields.io/github/forks/DarkStarSystems/pcons?style=flat-square&color=blue)](https://github.com/DarkStarSystems/pcons/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Python-based software build tool
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5 |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

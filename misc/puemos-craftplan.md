@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Craftplan is an open-source project that offers a self-hosted platform for managing direct-to-consumer (D2C) micro-businesses, particularly those in the artisanal sector. This software aims to provide small businesses with a centralized tool to streamline operations, inventory management, and customer relationships. By hosting the platform on their own servers, users can maintain full control over their business data and operations.
+Craftplan is an open-source, self-hosted software designed to manage artisanal direct-to-consumer (D2C) micro-businesses. This platform provides a centralized management system for artisans and makers to streamline their operations, track orders, and maintain customer relationships. By offering a customizable solution, Craftplan empowers small-scale businesses to efficiently manage their day-to-day activities and focus on creating unique products.
 
 ---
 

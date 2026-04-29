@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Axiomism is an open-source project that provides a developer's perspective on the foundation of reality. This project, discovered on Hacker News, offers a unique exploration of the underlying principles of existence, aiming to shed light on the axioms that govern our reality. Through Axiomism, developers and enthusiasts can engage with fundamental concepts and contribute to a deeper understanding of the world.
+Axiomism is an open-source project that explores the fundamental principles governing reality from a developer's perspective. This initiative aims to establish a foundation for understanding the underlying structure of the universe, much like a developer would approach building a robust software system. By applying programming concepts to the study of reality, Axiomism seeks to provide new insights into the nature of existence.
 
 ---
 

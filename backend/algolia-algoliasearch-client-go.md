@@ -25,7 +25,9 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The algoliasearch-client-go project is an open-source, fully-featured Go API client for interacting with Algolia's search platform. It provides a blazing-fast interface for managing search indexes, indexing data, and querying for results, making it an ideal tool for developers building scalable and efficient search-driven applications. This client library supports various Algolia services, including search, indexes, and analytics.
+Here's a brief summary of the project:
+
+The Algolia Search Client for Go is an open-source, high-performance API client that enables seamless interaction with Algolia's search platform. This fully-featured client provides a simple and intuitive interface for developers to leverage Algolia's powerful search functionality in their Go applications. By using this client, developers can easily integrate robust search capabilities into their projects.
 
 ---
 

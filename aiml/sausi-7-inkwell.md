@@ -1,6 +1,6 @@
 # sausi-7/inkwell
 
-[![Stars](https://img.shields.io/github/stars/sausi-7/inkwell?style=flat-square&color=yellow)](https://github.com/sausi-7/inkwell/stargazers) [![Forks](https://img.shields.io/github/forks/sausi-7/inkwell?style=flat-square&color=blue)](https://github.com/sausi-7/inkwell/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sausi-7/inkwell?style=flat-square&color=yellow)](https://github.com/sausi-7/inkwell/stargazers) [![Forks](https://img.shields.io/github/forks/sausi-7/inkwell?style=flat-square&color=blue)](https://github.com/sausi-7/inkwell/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, BYOK outreach intelligence. Scan forums free; draft replies in your voice only on demand.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

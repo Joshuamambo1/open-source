@@ -1,6 +1,6 @@
 # OpenRouterTeam/spawn
 
-[![Stars](https://img.shields.io/github/stars/OpenRouterTeam/spawn?style=flat-square&color=yellow)](https://github.com/OpenRouterTeam/spawn/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRouterTeam/spawn?style=flat-square&color=blue)](https://github.com/OpenRouterTeam/spawn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenRouterTeam/spawn?style=flat-square&color=yellow)](https://github.com/OpenRouterTeam/spawn/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRouterTeam/spawn?style=flat-square&color=blue)](https://github.com/OpenRouterTeam/spawn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Spawn any agent, on any cloud
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 135 |
-| 🍴 **Forks** | 20 |
+| 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # IsmaelMartinez/teams-for-linux
 
-[![Stars](https://img.shields.io/github/stars/IsmaelMartinez/teams-for-linux?style=flat-square&color=yellow)](https://github.com/IsmaelMartinez/teams-for-linux/stargazers) [![Forks](https://img.shields.io/github/forks/IsmaelMartinez/teams-for-linux?style=flat-square&color=blue)](https://github.com/IsmaelMartinez/teams-for-linux/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IsmaelMartinez/teams-for-linux?style=flat-square&color=yellow)](https://github.com/IsmaelMartinez/teams-for-linux/stargazers) [![Forks](https://img.shields.io/github/forks/IsmaelMartinez/teams-for-linux?style=flat-square&color=blue)](https://github.com/IsmaelMartinez/teams-for-linux/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Microsoft Teams for Linux client
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 336 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

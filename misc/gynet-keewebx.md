@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-KeeWebX is an open-source project that serves as an updated fork of the KeeWeb password manager. This project aims to provide a secure and user-friendly platform for managing passwords, offering a range of features to support various use cases. KeeWebX is built on the principles of KeeWeb but with enhancements and improvements to enhance user experience and security.
+KeeWebX is an open-source project that serves as an updated fork of the KeeWeb password manager. This project aims to provide users with a secure and reliable solution for managing their passwords, with features and improvements built upon the original KeeWeb platform. KeeWebX offers a user-friendly interface and robust security features, making it an attractive option for individuals seeking a password management solution.
 
 ---
 

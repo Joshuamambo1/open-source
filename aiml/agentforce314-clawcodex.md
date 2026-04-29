@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/agentforce314/clawcodex?style=flat-square&color=yellow)](https://github.com/agentforce314/clawcodex/stargazers) [![Forks](https://img.shields.io/github/forks/agentforce314/clawcodex?style=flat-square&color=blue)](https://github.com/agentforce314/clawcodex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> ClawCodex - Claude Code rebuilt in Python — Production ready supporting Claude, DeepSeek, OpenAI, Gemini,  and many models via OpenAI-compatible APIs
+> ClawCodex - Claude Code full rebuilt in Python
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 119 |
-| 🍴 **Forks** | 6 |
+| ⭐ **Stars** | 121 |
+| 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Frontend
 
 ## 📝 Summary
 

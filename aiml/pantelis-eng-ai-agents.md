@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-This open-source project, "eng-ai-agents," provides pre-configured Docker development environments for AI, computer vision, and robotics courses at NJIT and NYU. The project aims to simplify the setup and deployment process for students and instructors, allowing for a seamless and efficient learning experience. By leveraging Docker, it enables users to easily create and manage isolated development environments for various AI-related projects.
+The pantelis/eng-ai-agents repository provides open-source Docker development environments for teaching AI, Computer Vision, and Robotics courses at New Jersey Institute of Technology (NJIT) and New York University (NYU). This project aims to simplify the setup and deployment of AI-related courses, enabling students to focus on learning and experimentation. By leveraging Docker, the environments are highly customizable and reproducible, making it an ideal resource for educational institutions.
 
 ---
 

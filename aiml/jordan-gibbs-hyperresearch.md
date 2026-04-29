@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The project involves converting the Claude Code, a popular deep learning model, into a top-scoring deep research agent. This conversion aims to enhance the model's performance and capabilities, pushing the boundaries of artificial intelligence and machine learning research. By open-sourcing the project, the community can contribute to and learn from the development process.
+This open-source project involves converting Claude Code into a top-scoring deep research agent, aiming to optimize its performance in various AI-related tasks. The project leverages Claude, a cutting-edge AI model, to enhance its capabilities and push the boundaries of deep research in the field of artificial intelligence and machine learning. By sharing the project's code, the community can collaborate and contribute to advancements in AI research.
 
 ---
 

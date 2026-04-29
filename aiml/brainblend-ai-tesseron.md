@@ -1,6 +1,6 @@
 # BrainBlend-AI/tesseron
 
-[![Stars](https://img.shields.io/github/stars/BrainBlend-AI/tesseron?style=flat-square&color=yellow)](https://github.com/BrainBlend-AI/tesseron/stargazers) [![Forks](https://img.shields.io/github/forks/BrainBlend-AI/tesseron?style=flat-square&color=blue)](https://github.com/BrainBlend-AI/tesseron/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BrainBlend-AI/tesseron?style=flat-square&color=yellow)](https://github.com/BrainBlend-AI/tesseron/stargazers) [![Forks](https://img.shields.io/github/forks/BrainBlend-AI/tesseron?style=flat-square&color=blue)](https://github.com/BrainBlend-AI/tesseron/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Expose typed web-app actions to MCP-compatible AI agents over WebSocket. TypeScript SDK + matching MCP gateway.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | JavaScript |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

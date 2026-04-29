@@ -25,7 +25,7 @@ Backend · Mobile
 
 ## 📝 Summary
 
-Claude-in-Mobile is an open-source project that serves as an MCP (Multi-Client Protocol) server, enabling automation for mobile and desktop applications. It supports automation for Android devices via ADB, iOS Simulator via simctl, and desktop applications built with Compose Multiplatform. This project aims to provide a similar experience to the popular Chrome extension, Claude, but for a broader range of devices.
+Claude-in-Mobile is an open-source MCP (Multi-Connection Protocol) server that enables automation on mobile and desktop platforms. It supports Android through ADB, iOS Simulator via simctl, and desktop applications built with Compose Multiplatform. This project aims to replicate the functionality of Claude in Chrome, but for mobile devices and desktop apps.
 
 ---
 

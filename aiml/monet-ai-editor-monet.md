@@ -25,9 +25,7 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the Monet-AI-Editor/Monet project:
-
-Monet is an open-source project that enables users to edit videos and design images using AI-powered code from Claude or Codex. This versatile tool allows creators to harness the power of AI-driven design and editing capabilities, making it an ideal platform for developers and artists alike. With Monet, users can unlock new possibilities in multimedia content creation and exploration.
+Monet is an open-source project that leverages the power of AI to enable users to edit videos and design images through the integration of Claude code or Codex. This project combines the capabilities of AI and machine learning with design and video editing tools, providing a versatile platform for creative professionals and enthusiasts alike. With Monet, users can harness the potential of AI to enhance their visual content and streamline their workflow.
 
 ---
 

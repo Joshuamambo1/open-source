@@ -1,6 +1,6 @@
 # tailscale/depaware
 
-[![Stars](https://img.shields.io/github/stars/tailscale/depaware?style=flat-square&color=yellow)](https://github.com/tailscale/depaware/stargazers) [![Forks](https://img.shields.io/github/forks/tailscale/depaware?style=flat-square&color=blue)](https://github.com/tailscale/depaware/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tailscale/depaware?style=flat-square&color=yellow)](https://github.com/tailscale/depaware/stargazers) [![Forks](https://img.shields.io/github/forks/tailscale/depaware?style=flat-square&color=blue)](https://github.com/tailscale/depaware/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > depaware makes you aware of your Go dependencies
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 460 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

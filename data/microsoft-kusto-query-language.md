@@ -1,6 +1,6 @@
 # microsoft/Kusto-Query-Language
 
-[![Stars](https://img.shields.io/github/stars/microsoft/Kusto-Query-Language?style=flat-square&color=yellow)](https://github.com/microsoft/Kusto-Query-Language/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/Kusto-Query-Language?style=flat-square&color=blue)](https://github.com/microsoft/Kusto-Query-Language/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/Kusto-Query-Language?style=flat-square&color=yellow)](https://github.com/microsoft/Kusto-Query-Language/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/Kusto-Query-Language?style=flat-square&color=blue)](https://github.com/microsoft/Kusto-Query-Language/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Kusto Query Language is a simple and productive language for querying Big Data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 656 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

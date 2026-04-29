@@ -1,6 +1,6 @@
 # endbasic/endbasic
 
-[![Stars](https://img.shields.io/github/stars/endbasic/endbasic?style=flat-square&color=yellow)](https://github.com/endbasic/endbasic/stargazers) [![Forks](https://img.shields.io/github/forks/endbasic/endbasic?style=flat-square&color=blue)](https://github.com/endbasic/endbasic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/endbasic/endbasic?style=flat-square&color=yellow)](https://github.com/endbasic/endbasic/stargazers) [![Forks](https://img.shields.io/github/forks/endbasic/endbasic?style=flat-square&color=blue)](https://github.com/endbasic/endbasic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 367 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

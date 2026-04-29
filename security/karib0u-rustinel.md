@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Karib0u/rustinel?style=flat-square&color=yellow)](https://github.com/Karib0u/rustinel/stargazers) [![Forks](https://img.shields.io/github/forks/Karib0u/rustinel?style=flat-square&color=blue)](https://github.com/Karib0u/rustinel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Cross-platform EDR in Rust for Windows ETW and Linux eBPF, with Sigma, YARA, and IOC detection.
+> Rustinel is an open-source endpoint detection runtime for Windows and Linux. It collects native telemetry from ETW and eBPF, normalizes events into Sysmon-style fields, evaluates Sigma, YARA, and IOC detections, and emits ECS-compatible NDJSON alerts.
 
 ## 📊 Stats
 

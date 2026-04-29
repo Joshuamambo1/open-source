@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**25 projects** in this category.
+**26 projects** in this category.
 
 ## Projects
 
@@ -32,7 +32,8 @@
 | 22 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
 | 23 | [getsentry/relay](./getsentry-relay.md) | ⭐ 375 | Rust | 46/100 |
 | 24 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 314 | Rust | 43/100 |
-| 25 | [verona-team/verona-atlas](./verona-team-verona-atlas.md) | ⭐ 14 | Python | 36/100 |
+| 25 | [clef-sh/clef](./clef-sh-clef.md) | ⭐ — | — | 39/100 |
+| 26 | [verona-team/verona-atlas](./verona-team-verona-atlas.md) | ⭐ 15 | Python | 36/100 |
 
 ---
 

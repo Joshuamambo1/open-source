@@ -1,0 +1,34 @@
+# OptimNow/cloud-finops-skills
+
+[![Stars](https://img.shields.io/github/stars/OptimNow/cloud-finops-skills?style=flat-square&color=yellow)](https://github.com/OptimNow/cloud-finops-skills/stargazers) [![Forks](https://img.shields.io/github/forks/OptimNow/cloud-finops-skills?style=flat-square&color=blue)](https://github.com/OptimNow/cloud-finops-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+
+> Cloud FinOps Agent Skill — expert guidance on AI cost management, AWS/Azure optimization, tagging governance, and FinOps framework implementation. Built by OptimNow.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 17 |
+| 🍴 **Forks** | 8 |
+| 💻 **Language** | Shell |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Orchestration · AI/ML · Frontend
+
+## 📝 Summary
+
+Here's a brief summary for the open-source project:
+
+OptimNow's cloud-finops-skills is an open-source project that provides expert guidance on AI-driven cost management and optimization for cloud environments, including AWS and Azure. This project offers best practices and frameworks for implementing efficient tagging governance and FinOps strategies. By leveraging AI and machine learning, users can streamline their cloud resource management and reduce costs.
+
+---
+
+<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/OptimNow/cloud-finops-skills) · [← Back to Orchestration](./README.md)</sub>

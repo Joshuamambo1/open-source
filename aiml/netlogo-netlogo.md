@@ -1,6 +1,6 @@
 # NetLogo/NetLogo
 
-[![Stars](https://img.shields.io/github/stars/NetLogo/NetLogo?style=flat-square&color=yellow)](https://github.com/NetLogo/NetLogo/stargazers) [![Forks](https://img.shields.io/github/forks/NetLogo/NetLogo?style=flat-square&color=blue)](https://github.com/NetLogo/NetLogo/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NetLogo/NetLogo?style=flat-square&color=yellow)](https://github.com/NetLogo/NetLogo/stargazers) [![Forks](https://img.shields.io/github/forks/NetLogo/NetLogo?style=flat-square&color=blue)](https://github.com/NetLogo/NetLogo/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > turtles, patches, and links for kids, teachers, and scientists
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 270 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

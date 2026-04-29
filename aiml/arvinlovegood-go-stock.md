@@ -1,6 +1,6 @@
 # ArvinLovegood/go-stock
 
-[![Stars](https://img.shields.io/github/stars/ArvinLovegood/go-stock?style=flat-square&color=yellow)](https://github.com/ArvinLovegood/go-stock/stargazers) [![Forks](https://img.shields.io/github/forks/ArvinLovegood/go-stock?style=flat-square&color=blue)](https://github.com/ArvinLovegood/go-stock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArvinLovegood/go-stock?style=flat-square&color=yellow)](https://github.com/ArvinLovegood/go-stock/stargazers) [![Forks](https://img.shields.io/github/forks/ArvinLovegood/go-stock?style=flat-square&color=blue)](https://github.com/ArvinLovegood/go-stock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
 > 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.5k |
-| 🍴 **Forks** | 966 |
+| 🍴 **Forks** | 968 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 99/100 |
+| 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

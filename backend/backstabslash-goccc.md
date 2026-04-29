@@ -1,6 +1,6 @@
 # backstabslash/goccc
 
-[![Stars](https://img.shields.io/github/stars/backstabslash/goccc?style=flat-square&color=yellow)](https://github.com/backstabslash/goccc/stargazers) [![Forks](https://img.shields.io/github/forks/backstabslash/goccc?style=flat-square&color=blue)](https://github.com/backstabslash/goccc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/backstabslash/goccc?style=flat-square&color=yellow)](https://github.com/backstabslash/goccc/stargazers) [![Forks](https://img.shields.io/github/forks/backstabslash/goccc?style=flat-square&color=blue)](https://github.com/backstabslash/goccc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, zero-dependency cost calculator and customizable statusline for Claude Code. Breakdowns by model, day, project, and branch. Lightweight, single binary, no runtime needed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # 0xdea/oneiromancer
 
-[![Stars](https://img.shields.io/github/stars/0xdea/oneiromancer?style=flat-square&color=yellow)](https://github.com/0xdea/oneiromancer/stargazers) [![Forks](https://img.shields.io/github/forks/0xdea/oneiromancer?style=flat-square&color=blue)](https://github.com/0xdea/oneiromancer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xdea/oneiromancer?style=flat-square&color=yellow)](https://github.com/0xdea/oneiromancer/stargazers) [![Forks](https://img.shields.io/github/forks/0xdea/oneiromancer?style=flat-square&color=blue)](https://github.com/0xdea/oneiromancer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Reverse engineering assistant that uses a locally running LLM to aid with pseudocode analysis.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

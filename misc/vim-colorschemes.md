@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 319 |
+| ⭐ **Stars** | 320 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Vim Script |
 | 📈 **Score** | 43/100 |

@@ -1,6 +1,6 @@
 # mehrandvd/skunit
 
-[![Stars](https://img.shields.io/github/stars/mehrandvd/skunit?style=flat-square&color=yellow)](https://github.com/mehrandvd/skunit/stargazers) [![Forks](https://img.shields.io/github/forks/mehrandvd/skunit?style=flat-square&color=blue)](https://github.com/mehrandvd/skunit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mehrandvd/skunit?style=flat-square&color=yellow)](https://github.com/mehrandvd/skunit/stargazers) [![Forks](https://img.shields.io/github/forks/mehrandvd/skunit?style=flat-square&color=blue)](https://github.com/mehrandvd/skunit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > skUnit is a testing tool for AI units, such as IChatClient, MCP Servers and agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

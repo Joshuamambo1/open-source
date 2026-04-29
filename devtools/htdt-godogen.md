@@ -1,6 +1,6 @@
 # htdt/godogen
 
-[![Stars](https://img.shields.io/github/stars/htdt/godogen?style=flat-square&color=yellow)](https://github.com/htdt/godogen/stargazers) [![Forks](https://img.shields.io/github/forks/htdt/godogen?style=flat-square&color=blue)](https://github.com/htdt/godogen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/htdt/godogen?style=flat-square&color=yellow)](https://github.com/htdt/godogen/stargazers) [![Forks](https://img.shields.io/github/forks/htdt/godogen?style=flat-square&color=blue)](https://github.com/htdt/godogen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous game development for Godot and Bevy with Claude Code and Codex
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 280 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

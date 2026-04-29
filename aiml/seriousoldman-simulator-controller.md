@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 398 |
+| ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | AutoHotkey |
 | 📈 **Score** | 53/100 |

@@ -1,6 +1,6 @@
 # robertsfeir/atelier-pipeline
 
-[![Stars](https://img.shields.io/github/stars/robertsfeir/atelier-pipeline?style=flat-square&color=yellow)](https://github.com/robertsfeir/atelier-pipeline/stargazers) [![Forks](https://img.shields.io/github/forks/robertsfeir/atelier-pipeline?style=flat-square&color=blue)](https://github.com/robertsfeir/atelier-pipeline/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robertsfeir/atelier-pipeline?style=flat-square&color=yellow)](https://github.com/robertsfeir/atelier-pipeline/stargazers) [![Forks](https://img.shields.io/github/forks/robertsfeir/atelier-pipeline?style=flat-square&color=blue)](https://github.com/robertsfeir/atelier-pipeline/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent orchestration plugin for Claude Code — 10 specialized agents, persistent Brain memory, quality gates, continuous QA, wave-based parallel execution, and mechanical enforcement hooks
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 5 |
-| 💻 **Language** | JavaScript |
+| 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

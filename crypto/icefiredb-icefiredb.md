@@ -1,6 +1,6 @@
 # IceFireDB/IceFireDB
 
-[![Stars](https://img.shields.io/github/stars/IceFireDB/IceFireDB?style=flat-square&color=yellow)](https://github.com/IceFireDB/IceFireDB/stargazers) [![Forks](https://img.shields.io/github/forks/IceFireDB/IceFireDB?style=flat-square&color=blue)](https://github.com/IceFireDB/IceFireDB/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IceFireDB/IceFireDB?style=flat-square&color=yellow)](https://github.com/IceFireDB/IceFireDB/stargazers) [![Forks](https://img.shields.io/github/forks/IceFireDB/IceFireDB?style=flat-square&color=blue)](https://github.com/IceFireDB/IceFireDB/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > @IceFireLabs -> IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient, and making it easier for web2 applications to achieve decentralization and data immutability.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

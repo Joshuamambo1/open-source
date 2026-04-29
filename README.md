@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **11489** |
+| 🗂️ **Total projects** | **11548** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4402 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2200 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1131 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 907 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 699 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 683 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 409 | [Browse →](./crypto/) |
-| 📊 **Data** | 247 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 243 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 139 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 4427 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2206 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1138 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 910 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 703 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 685 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 412 | [Browse →](./crypto/) |
+| 📊 **Data** | 248 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 244 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 140 | [Browse →](./mobile/) |
 | 💳 **Payments** | 126 | [Browse →](./payments/) |
 | 📈 **Trading** | 117 | [Browse →](./trading/) |
-| 🔐 **Security** | 103 | [Browse →](./security/) |
-| ✨ **Design** | 37 | [Browse →](./design/) |
-| 🎯 **Product** | 25 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 21 | [Browse →](./marketing/) |
+| 🔐 **Security** | 105 | [Browse →](./security/) |
+| ✨ **Design** | 39 | [Browse →](./design/) |
+| 🎯 **Product** | 26 | [Browse →](./product/) |
+| 🏷️ **Marketing** | 22 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [samber/awesome-prometheus-alerts](./misc/samber-awesome-prometheus-alerts.md) | ⭐ 7.9k | Misc |
-| 2 | [ceph/ceph](./crypto/ceph-ceph.md) | ⭐ 16.5k | Crypto |
-| 3 | [hwdsl2/docker-ipsec-vpn-server](./backend/hwdsl2-docker-ipsec-vpn-server.md) | ⭐ 7.1k | Backend |
-| 4 | [zitadel/zitadel](./aiml/zitadel-zitadel.md) | ⭐ 13.7k | AI/ML |
-| 5 | [mudler/LocalAI](./aiml/mudler-localai.md) | ⭐ 45.9k | AI/ML |
-| 6 | [jackocnr/intl-tel-input](./aiml/jackocnr-intl-tel-input.md) | ⭐ 8.2k | AI/ML |
-| 7 | [activepieces/activepieces](./aiml/activepieces-activepieces.md) | ⭐ 22k | AI/ML |
-| 8 | [emqx/emqx](./aiml/emqx-emqx.md) | ⭐ 16.2k | AI/ML |
-| 9 | [keybase/client](./frontend/keybase-client.md) | ⭐ 9.2k | Frontend |
-| 10 | [volcengine/OpenViking](./aiml/volcengine-openviking.md) | ⭐ 23.2k | AI/ML |
+| 2 | [hwdsl2/docker-ipsec-vpn-server](./backend/hwdsl2-docker-ipsec-vpn-server.md) | ⭐ 7.1k | Backend |
+| 3 | [emqx/emqx](./aiml/emqx-emqx.md) | ⭐ 16.2k | AI/ML |
+| 4 | [keybase/client](./frontend/keybase-client.md) | ⭐ 9.2k | Frontend |
+| 5 | [logseq/logseq](./product/logseq-logseq.md) | ⭐ 42.5k | Product |
+| 6 | [LizardByte/Sunshine](./aiml/lizardbyte-sunshine.md) | ⭐ 36.5k | AI/ML |
+| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 8 | [renovatebot/renovate](./devtools/renovatebot-renovate.md) | ⭐ 21.4k | DevTools |
+| 9 | [netbirdio/netbird](./misc/netbirdio-netbird.md) | ⭐ 24.9k | Misc |
+| 10 | [supermemoryai/supermemory](./orchestration/supermemoryai-supermemory.md) | ⭐ 22.3k | Orchestration |
 
 ## 🚀 How it works
 

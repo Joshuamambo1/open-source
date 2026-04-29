@@ -1,6 +1,6 @@
 # copper-project/copper-rs
 
-[![Stars](https://img.shields.io/github/stars/copper-project/copper-rs?style=flat-square&color=yellow)](https://github.com/copper-project/copper-rs/stargazers) [![Forks](https://img.shields.io/github/forks/copper-project/copper-rs?style=flat-square&color=blue)](https://github.com/copper-project/copper-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/copper-project/copper-rs?style=flat-square&color=yellow)](https://github.com/copper-project/copper-rs/stargazers) [![Forks](https://img.shields.io/github/forks/copper-project/copper-rs?style=flat-square&color=blue)](https://github.com/copper-project/copper-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

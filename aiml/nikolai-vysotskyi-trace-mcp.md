@@ -1,6 +1,6 @@
 # nikolai-vysotskyi/trace-mcp
 
-[![Stars](https://img.shields.io/github/stars/nikolai-vysotskyi/trace-mcp?style=flat-square&color=yellow)](https://github.com/nikolai-vysotskyi/trace-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/nikolai-vysotskyi/trace-mcp?style=flat-square&color=blue)](https://github.com/nikolai-vysotskyi/trace-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikolai-vysotskyi/trace-mcp?style=flat-square&color=yellow)](https://github.com/nikolai-vysotskyi/trace-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/nikolai-vysotskyi/trace-mcp?style=flat-square&color=blue)](https://github.com/nikolai-vysotskyi/trace-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 56 |
+| ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

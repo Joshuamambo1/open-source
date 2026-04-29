@@ -24,7 +24,7 @@
 | 14 | [beam-community/elixir-companies](./beam-community-elixir-companies.md) | ⭐ 1.7k | Astro | 63/100 |
 | 15 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 59/100 |
 | 16 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 535 | C | 56/100 |
-| 17 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 650 | Rust | 55/100 |
+| 17 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 653 | Rust | 55/100 |
 | 18 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 353 | JavaScript | 53/100 |
 | 19 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 656 | Shell | 52/100 |
 | 20 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 51/100 |

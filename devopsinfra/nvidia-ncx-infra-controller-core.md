@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/NVIDIA/ncx-infra-controller-core?style=flat-square&color=yellow)](https://github.com/NVIDIA/ncx-infra-controller-core/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/ncx-infra-controller-core?style=flat-square&color=blue)](https://github.com/NVIDIA/ncx-infra-controller-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
-> Nvidia Infra Controller - Hardware Lifecycle Management and multitenant networking
+> NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 139 |
-| 🍴 **Forks** | 90 |
+| 🍴 **Forks** | 91 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |

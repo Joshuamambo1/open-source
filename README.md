@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **11701** |
+| 🗂️ **Total projects** | **11760** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4463 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2253 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1154 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 924 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 714 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 694 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 419 | [Browse →](./crypto/) |
-| 📊 **Data** | 252 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 4493 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2261 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1156 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 930 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 716 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 697 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 421 | [Browse →](./crypto/) |
+| 📊 **Data** | 254 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 249 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 141 | [Browse →](./mobile/) |
-| 💳 **Payments** | 127 | [Browse →](./payments/) |
-| 📈 **Trading** | 119 | [Browse →](./trading/) |
-| 🔐 **Security** | 105 | [Browse →](./security/) |
+| 📱 **Mobile** | 142 | [Browse →](./mobile/) |
+| 💳 **Payments** | 128 | [Browse →](./payments/) |
+| 📈 **Trading** | 120 | [Browse →](./trading/) |
+| 🔐 **Security** | 106 | [Browse →](./security/) |
 | ✨ **Design** | 39 | [Browse →](./design/) |
 | 🎯 **Product** | 26 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 22 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [logseq/logseq](./product/logseq-logseq.md) | ⭐ 42.5k | Product |
-| 2 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 3 | [yugabyte/yugabyte-db](./data/yugabyte-yugabyte-db.md) | ⭐ 10.2k | Data |
-| 4 | [juicedata/juicefs](./aiml/juicedata-juicefs.md) | ⭐ 13.5k | AI/ML |
-| 5 | [ludwig-ai/ludwig](./aiml/ludwig-ai-ludwig.md) | ⭐ 11.7k | AI/ML |
-| 6 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
-| 7 | [eosphoros-ai/DB-GPT](./aiml/eosphoros-ai-db-gpt.md) | ⭐ 18.6k | AI/ML |
-| 8 | [emqx/emqx](./aiml/emqx-emqx.md) | ⭐ 16.2k | AI/ML |
-| 9 | [keybase/client](./frontend/keybase-client.md) | ⭐ 9.2k | Frontend |
-| 10 | [oppia/oppia](./misc/oppia-oppia.md) | ⭐ 6.7k | Misc |
+| 1 | [OthmanAdi/planning-with-files](./orchestration/othmanadi-planning-with-files.md) | ⭐ 19.9k | Orchestration |
+| 2 | [Automattic/wp-calypso](./frontend/automattic-wp-calypso.md) | ⭐ 12.6k | Frontend |
+| 3 | [huggingface/peft](./aiml/huggingface-peft.md) | ⭐ 21k | AI/ML |
+| 4 | [ipython/ipython](./aiml/ipython-ipython.md) | ⭐ 16.7k | AI/ML |
+| 5 | [TykTechnologies/tyk](./backend/tyktechnologies-tyk.md) | ⭐ 10.7k | Backend |
+| 6 | [caddyserver/caddy](./backend/caddyserver-caddy.md) | ⭐ 71.9k | Backend |
+| 7 | [WeblateOrg/weblate](./misc/weblateorg-weblate.md) | ⭐ 5.8k | Misc |
+| 8 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 9 | [saltstack/salt](./devopsinfra/saltstack-salt.md) | ⭐ 15.4k | DevOps & Infra |
+| 10 | [rtk-ai/rtk](./aiml/rtk-ai-rtk.md) | ⭐ 38.3k | AI/ML |
 
 ## 🚀 How it works
 

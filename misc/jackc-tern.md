@@ -1,6 +1,6 @@
 # jackc/tern
 
-[![Stars](https://img.shields.io/github/stars/jackc/tern?style=flat-square&color=yellow)](https://github.com/jackc/tern/stargazers) [![Forks](https://img.shields.io/github/forks/jackc/tern?style=flat-square&color=blue)](https://github.com/jackc/tern/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jackc/tern?style=flat-square&color=yellow)](https://github.com/jackc/tern/stargazers) [![Forks](https://img.shields.io/github/forks/jackc/tern?style=flat-square&color=blue)](https://github.com/jackc/tern/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The SQL Fan's Migrator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

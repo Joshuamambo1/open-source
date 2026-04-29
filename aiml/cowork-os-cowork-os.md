@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/CoWork-OS/CoWork-OS?style=flat-square&color=yellow)](https://github.com/CoWork-OS/CoWork-OS/stargazers) [![Forks](https://img.shields.io/github/forks/CoWork-OS/CoWork-OS?style=flat-square&color=blue)](https://github.com/CoWork-OS/CoWork-OS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Operating System for your personal AI Agents with Security-first approach. Multi-channel (WhatsApp, Telegram, Discord, Slack, iMessage), multi-provider (Claude, GPT, Gemini, Ollama), fully self-hosted.
+> Local-first personal agentic OS and everything app for coding, knowledge work, web design, automations, and artifacts.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Security
+AI/ML · Security · Design
 
 ## 📝 Summary
 

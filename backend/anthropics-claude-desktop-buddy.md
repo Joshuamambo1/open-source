@@ -1,6 +1,6 @@
 # anthropics/claude-desktop-buddy
 
-[![Stars](https://img.shields.io/github/stars/anthropics/claude-desktop-buddy?style=flat-square&color=yellow)](https://github.com/anthropics/claude-desktop-buddy/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/claude-desktop-buddy?style=flat-square&color=blue)](https://github.com/anthropics/claude-desktop-buddy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anthropics/claude-desktop-buddy?style=flat-square&color=yellow)](https://github.com/anthropics/claude-desktop-buddy/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/claude-desktop-buddy?style=flat-square&color=blue)](https://github.com/anthropics/claude-desktop-buddy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 196 |
+| 🍴 **Forks** | 197 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

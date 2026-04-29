@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 346 |
+| ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | ReScript |
 | 📈 **Score** | 53/100 |

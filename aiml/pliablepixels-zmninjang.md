@@ -1,6 +1,6 @@
 # pliablepixels/zmNinjaNg
 
-[![Stars](https://img.shields.io/github/stars/pliablepixels/zmNinjaNg?style=flat-square&color=yellow)](https://github.com/pliablepixels/zmNinjaNg/stargazers) [![Forks](https://img.shields.io/github/forks/pliablepixels/zmNinjaNg?style=flat-square&color=blue)](https://github.com/pliablepixels/zmNinjaNg/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pliablepixels/zmNinjaNg?style=flat-square&color=yellow)](https://github.com/pliablepixels/zmNinjaNg/stargazers) [![Forks](https://img.shields.io/github/forks/pliablepixels/zmNinjaNg?style=flat-square&color=blue)](https://github.com/pliablepixels/zmNinjaNg/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > State of the art mobile app for ZoneMinder. A complete rewrite of zmNinja with more features
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

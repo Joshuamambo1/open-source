@@ -1,6 +1,6 @@
 # skydoves/compose-performance-skills
 
-[![Stars](https://img.shields.io/github/stars/skydoves/compose-performance-skills?style=flat-square&color=yellow)](https://github.com/skydoves/compose-performance-skills/stargazers) [![Forks](https://img.shields.io/github/forks/skydoves/compose-performance-skills?style=flat-square&color=blue)](https://github.com/skydoves/compose-performance-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skydoves/compose-performance-skills?style=flat-square&color=yellow)](https://github.com/skydoves/compose-performance-skills/stargazers) [![Forks](https://img.shields.io/github/forks/skydoves/compose-performance-skills?style=flat-square&color=blue)](https://github.com/skydoves/compose-performance-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 61 |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 89 |
+| 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

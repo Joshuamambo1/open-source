@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/blacknon/hwatch?style=flat-square&color=yellow)](https://github.com/blacknon/hwatch/stargazers) [![Forks](https://img.shields.io/github/forks/blacknon/hwatch?style=flat-square&color=blue)](https://github.com/blacknon/hwatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
-> A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
+> hwatch: alternative watch command with history, diff view, JSONL logging, and change hooks. since 2018.
 
 ## 📊 Stats
 

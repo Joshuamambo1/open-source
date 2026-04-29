@@ -1,6 +1,6 @@
 # riscv/riscv-isa-manual
 
-[![Stars](https://img.shields.io/github/stars/riscv/riscv-isa-manual?style=flat-square&color=yellow)](https://github.com/riscv/riscv-isa-manual/stargazers) [![Forks](https://img.shields.io/github/forks/riscv/riscv-isa-manual?style=flat-square&color=blue)](https://github.com/riscv/riscv-isa-manual/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/riscv/riscv-isa-manual?style=flat-square&color=yellow)](https://github.com/riscv/riscv-isa-manual/stargazers) [![Forks](https://img.shields.io/github/forks/riscv/riscv-isa-manual?style=flat-square&color=blue)](https://github.com/riscv/riscv-isa-manual/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > RISC-V Instruction Set Manual
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 820 |
+| 🍴 **Forks** | 821 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/eriirfos-eng/ternary-intelligence-stack?style=flat-square&color=yellow)](https://github.com/eriirfos-eng/ternary-intelligence-stack/stargazers) [![Forks](https://img.shields.io/github/forks/eriirfos-eng/ternary-intelligence-stack?style=flat-square&color=blue)](https://github.com/eriirfos-eng/ternary-intelligence-stack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Ternlang is a ternary programming language (.tern) for XAI and autonomous agents, with CLI, runtime, and an in house SKD/IDE.
+> Ternlang is a ternary programming language (.tern) and a runtime for XAI, MoE-LLMs and autonomous agents, shipped with Agentic CLI and in house SDK/IDE.
 
 ## 📊 Stats
 

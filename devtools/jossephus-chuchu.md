@@ -1,17 +1,17 @@
 # jossephus/chuchu
 
-[![Stars](https://img.shields.io/github/stars/jossephus/chuchu?style=flat-square&color=yellow)](https://github.com/jossephus/chuchu/stargazers) [![Forks](https://img.shields.io/github/forks/jossephus/chuchu?style=flat-square&color=blue)](https://github.com/jossephus/chuchu/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jossephus/chuchu?style=flat-square&color=yellow)](https://github.com/jossephus/chuchu/stargazers) [![Forks](https://img.shields.io/github/forks/jossephus/chuchu?style=flat-square&color=blue)](https://github.com/jossephus/chuchu/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> native android ssh client based on libghostty
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 38 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Kotlin |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

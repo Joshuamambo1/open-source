@@ -1,6 +1,6 @@
 # nikolanovoselec/codeflare
 
-[![Stars](https://img.shields.io/github/stars/nikolanovoselec/codeflare?style=flat-square&color=yellow)](https://github.com/nikolanovoselec/codeflare/stargazers) [![Forks](https://img.shields.io/github/forks/nikolanovoselec/codeflare?style=flat-square&color=blue)](https://github.com/nikolanovoselec/codeflare/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikolanovoselec/codeflare?style=flat-square&color=yellow)](https://github.com/nikolanovoselec/codeflare/stargazers) [![Forks](https://img.shields.io/github/forks/nikolanovoselec/codeflare?style=flat-square&color=blue)](https://github.com/nikolanovoselec/codeflare/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > An ephemeral IDE where AI coding agents reach their full potential. Fully autonomous, no boundaries, zero risk. Every session runs in an isolated container on Cloudflare's edge. Your files persist. Your bad decisions don't.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

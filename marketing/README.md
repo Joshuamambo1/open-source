@@ -15,8 +15,8 @@
 | 5 | [apache/plc4x](./apache-plc4x.md) | ⭐ 1.6k | Java | 68/100 |
 | 6 | [museofficial/muse](./museofficial-muse.md) | ⭐ 1.2k | TypeScript | 60/100 |
 | 7 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 726 | Adblock Filter List | 57/100 |
-| 8 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 56/100 |
-| 9 | [maaslalani/sheets](./maaslalani-sheets.md) | ⭐ 2.1k | Go | 56/100 |
+| 8 | [maaslalani/sheets](./maaslalani-sheets.md) | ⭐ 2.1k | Go | 56/100 |
+| 9 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 56/100 |
 | 10 | [deadsy/sdfx](./deadsy-sdfx.md) | ⭐ 613 | Go | 55/100 |
 | 11 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 514 | PHP | 54/100 |
 | 12 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 618 | C# | 53/100 |
@@ -26,7 +26,7 @@
 | 16 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 121 | Rust | 51/100 |
 | 17 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
 | 18 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 16 | — | 50/100 |
-| 19 | [garritfra/cell](./garritfra-cell.md) | ⭐ 219 | Rust | 47/100 |
+| 19 | [garritfra/cell](./garritfra-cell.md) | ⭐ 223 | Rust | 47/100 |
 | 20 | [angr/cle](./angr-cle.md) | ⭐ 479 | Python | 45/100 |
 | 21 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 327 | Go | 42/100 |
 | 22 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 2 | — | 36/100 |

@@ -1,6 +1,6 @@
 # sachinsenal0x64/hifi
 
-[![Stars](https://img.shields.io/github/stars/sachinsenal0x64/hifi?style=flat-square&color=yellow)](https://github.com/sachinsenal0x64/hifi/stargazers) [![Forks](https://img.shields.io/github/forks/sachinsenal0x64/hifi?style=flat-square&color=blue)](https://github.com/sachinsenal0x64/hifi/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sachinsenal0x64/hifi?style=flat-square&color=yellow)](https://github.com/sachinsenal0x64/hifi/stargazers) [![Forks](https://img.shields.io/github/forks/sachinsenal0x64/hifi?style=flat-square&color=blue)](https://github.com/sachinsenal0x64/hifi/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Tidal music integration for Subsonic/Jellyfin/Plexamp.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 549 |
-| 🍴 **Forks** | 76 |
+| 🍴 **Forks** | 78 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

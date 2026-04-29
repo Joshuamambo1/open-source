@@ -1,6 +1,6 @@
 # stainlu/hermes-labyrinth
 
-[![Stars](https://img.shields.io/github/stars/stainlu/hermes-labyrinth?style=flat-square&color=yellow)](https://github.com/stainlu/hermes-labyrinth/stargazers) [![Forks](https://img.shields.io/github/forks/stainlu/hermes-labyrinth?style=flat-square&color=blue)](https://github.com/stainlu/hermes-labyrinth/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stainlu/hermes-labyrinth?style=flat-square&color=yellow)](https://github.com/stainlu/hermes-labyrinth/stargazers) [![Forks](https://img.shields.io/github/forks/stainlu/hermes-labyrinth?style=flat-square&color=blue)](https://github.com/stainlu/hermes-labyrinth/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Read-only observability plugin for Hermes Agent: journeys, crossings, guideposts, and reports.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 213 |
-| 🍴 **Forks** | 17 |
+| ⭐ **Stars** | 215 |
+| 🍴 **Forks** | 18 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

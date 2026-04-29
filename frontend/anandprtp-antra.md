@@ -1,6 +1,6 @@
 # anandprtp/Antra
 
-[![Stars](https://img.shields.io/github/stars/anandprtp/Antra?style=flat-square&color=yellow)](https://github.com/anandprtp/Antra/stargazers) [![Forks](https://img.shields.io/github/forks/anandprtp/Antra?style=flat-square&color=blue)](https://github.com/anandprtp/Antra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anandprtp/Antra?style=flat-square&color=yellow)](https://github.com/anandprtp/Antra/stargazers) [![Forks](https://img.shields.io/github/forks/anandprtp/Antra?style=flat-square&color=blue)](https://github.com/anandprtp/Antra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A desktop music library builder. Resolves Spotify / Apple Music / Amazon Music URLs → get lossless audio → auto-tags, transcodes, and organizes. No compromises.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 841 |
-| 🍴 **Forks** | 40 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

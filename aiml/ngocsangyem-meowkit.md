@@ -1,6 +1,6 @@
 # ngocsangyem/MeowKit
 
-[![Stars](https://img.shields.io/github/stars/ngocsangyem/MeowKit?style=flat-square&color=yellow)](https://github.com/ngocsangyem/MeowKit/stargazers) [![Forks](https://img.shields.io/github/forks/ngocsangyem/MeowKit?style=flat-square&color=blue)](https://github.com/ngocsangyem/MeowKit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ngocsangyem/MeowKit?style=flat-square&color=yellow)](https://github.com/ngocsangyem/MeowKit/stargazers) [![Forks](https://img.shields.io/github/forks/ngocsangyem/MeowKit?style=flat-square&color=blue)](https://github.com/ngocsangyem/MeowKit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Production ready. AI Agent Workflow System for Claude Code
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 2 |
-| 💻 **Language** | Python |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

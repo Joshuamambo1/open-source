@@ -1,6 +1,6 @@
 # jwadow/kiro-gateway
 
-[![Stars](https://img.shields.io/github/stars/jwadow/kiro-gateway?style=flat-square&color=yellow)](https://github.com/jwadow/kiro-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/jwadow/kiro-gateway?style=flat-square&color=blue)](https://github.com/jwadow/kiro-gateway/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jwadow/kiro-gateway?style=flat-square&color=yellow)](https://github.com/jwadow/kiro-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/jwadow/kiro-gateway?style=flat-square&color=blue)](https://github.com/jwadow/kiro-gateway/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 274 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

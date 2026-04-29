@@ -1,6 +1,6 @@
 # Anashost/HA-Animated-cards
 
-[![Stars](https://img.shields.io/github/stars/Anashost/HA-Animated-cards?style=flat-square&color=yellow)](https://github.com/Anashost/HA-Animated-cards/stargazers) [![Forks](https://img.shields.io/github/forks/Anashost/HA-Animated-cards?style=flat-square&color=blue)](https://github.com/Anashost/HA-Animated-cards/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anashost/HA-Animated-cards?style=flat-square&color=yellow)](https://github.com/Anashost/HA-Animated-cards/stargazers) [![Forks](https://img.shields.io/github/forks/Anashost/HA-Animated-cards?style=flat-square&color=blue)](https://github.com/Anashost/HA-Animated-cards/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Take your Home Assistant dashboard to the next level with dynamic, customizable animated cards that bring your smart home dashboard to life.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

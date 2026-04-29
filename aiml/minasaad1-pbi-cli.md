@@ -1,6 +1,6 @@
 # MinaSaad1/pbi-cli
 
-[![Stars](https://img.shields.io/github/stars/MinaSaad1/pbi-cli?style=flat-square&color=yellow)](https://github.com/MinaSaad1/pbi-cli/stargazers) [![Forks](https://img.shields.io/github/forks/MinaSaad1/pbi-cli?style=flat-square&color=blue)](https://github.com/MinaSaad1/pbi-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MinaSaad1/pbi-cli?style=flat-square&color=yellow)](https://github.com/MinaSaad1/pbi-cli/stargazers) [![Forks](https://img.shields.io/github/forks/MinaSaad1/pbi-cli?style=flat-square&color=blue)](https://github.com/MinaSaad1/pbi-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Power BI CLI - semantic models (.NET TOM) and PBIR reports for token-efficient AI agent usage, built for Claude Code
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 230 |
-| 🍴 **Forks** | 59 |
+| ⭐ **Stars** | 231 |
+| 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

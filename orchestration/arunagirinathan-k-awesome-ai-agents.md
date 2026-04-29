@@ -1,6 +1,6 @@
 # ARUNAGIRINATHAN-K/awesome-ai-agents
 
-[![Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/awesome-ai-agents?style=flat-square&color=yellow)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/ARUNAGIRINATHAN-K/awesome-ai-agents?style=flat-square&color=blue)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/awesome-ai-agents?style=flat-square&color=yellow)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/ARUNAGIRINATHAN-K/awesome-ai-agents?style=flat-square&color=blue)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome AI Agents for 2026
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 38 |
+| ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

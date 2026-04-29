@@ -1,6 +1,6 @@
 # Emanuele-web04/remodex
 
-[![Stars](https://img.shields.io/github/stars/Emanuele-web04/remodex?style=flat-square&color=yellow)](https://github.com/Emanuele-web04/remodex/stargazers) [![Forks](https://img.shields.io/github/forks/Emanuele-web04/remodex?style=flat-square&color=blue)](https://github.com/Emanuele-web04/remodex/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Emanuele-web04/remodex?style=flat-square&color=yellow)](https://github.com/Emanuele-web04/remodex/stargazers) [![Forks](https://img.shields.io/github/forks/Emanuele-web04/remodex?style=flat-square&color=blue)](https://github.com/Emanuele-web04/remodex/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Remote Control for Codex.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 252 |
+| 🍴 **Forks** | 255 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # f4exb/sdrangel
 
-[![Stars](https://img.shields.io/github/stars/f4exb/sdrangel?style=flat-square&color=yellow)](https://github.com/f4exb/sdrangel/stargazers) [![Forks](https://img.shields.io/github/forks/f4exb/sdrangel?style=flat-square&color=blue)](https://github.com/f4exb/sdrangel/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/f4exb/sdrangel?style=flat-square&color=yellow)](https://github.com/f4exb/sdrangel/stargazers) [![Forks](https://img.shields.io/github/forks/f4exb/sdrangel?style=flat-square&color=blue)](https://github.com/f4exb/sdrangel/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 548 |
+| 🍴 **Forks** | 549 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

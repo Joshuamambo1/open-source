@@ -1,6 +1,6 @@
 # bitshares/bitshares-ui
 
-[![Stars](https://img.shields.io/github/stars/bitshares/bitshares-ui?style=flat-square&color=yellow)](https://github.com/bitshares/bitshares-ui/stargazers) [![Forks](https://img.shields.io/github/forks/bitshares/bitshares-ui?style=flat-square&color=blue)](https://github.com/bitshares/bitshares-ui/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitshares/bitshares-ui?style=flat-square&color=yellow)](https://github.com/bitshares/bitshares-ui/stargazers) [![Forks](https://img.shields.io/github/forks/bitshares/bitshares-ui?style=flat-square&color=blue)](https://github.com/bitshares/bitshares-ui/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Fully featured Graphical User Interface / Reference Wallet for the BitShares Blockchain
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 572 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

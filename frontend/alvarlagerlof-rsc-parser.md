@@ -1,6 +1,6 @@
 # alvarlagerlof/rsc-parser
 
-[![Stars](https://img.shields.io/github/stars/alvarlagerlof/rsc-parser?style=flat-square&color=yellow)](https://github.com/alvarlagerlof/rsc-parser/stargazers) [![Forks](https://img.shields.io/github/forks/alvarlagerlof/rsc-parser?style=flat-square&color=blue)](https://github.com/alvarlagerlof/rsc-parser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alvarlagerlof/rsc-parser?style=flat-square&color=yellow)](https://github.com/alvarlagerlof/rsc-parser/stargazers) [![Forks](https://img.shields.io/github/forks/alvarlagerlof/rsc-parser?style=flat-square&color=blue)](https://github.com/alvarlagerlof/rsc-parser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A parser for the React Server Components when sent over the network
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 657 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

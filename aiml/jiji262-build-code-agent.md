@@ -1,6 +1,6 @@
 # jiji262/build-code-agent
 
-[![Stars](https://img.shields.io/github/stars/jiji262/build-code-agent?style=flat-square&color=yellow)](https://github.com/jiji262/build-code-agent/stargazers) [![Forks](https://img.shields.io/github/forks/jiji262/build-code-agent?style=flat-square&color=blue)](https://github.com/jiji262/build-code-agent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jiji262/build-code-agent?style=flat-square&color=yellow)](https://github.com/jiji262/build-code-agent/stargazers) [![Forks](https://img.shields.io/github/forks/jiji262/build-code-agent?style=flat-square&color=blue)](https://github.com/jiji262/build-code-agent/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 从零构建 Code Agent：Claude Code 源码深度解析 | Build a Code Agent from Scratch: Deep Dive into Claude Code Source
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 589 |
+| ⭐ **Stars** | 590 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

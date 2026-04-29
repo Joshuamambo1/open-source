@@ -1,6 +1,6 @@
 # Dicklesworthstone/mcp_agent_mail
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/mcp_agent_mail?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/mcp_agent_mail/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/mcp_agent_mail?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/mcp_agent_mail/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/mcp_agent_mail?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/mcp_agent_mail/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/mcp_agent_mail?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/mcp_agent_mail/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

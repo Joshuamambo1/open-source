@@ -1,6 +1,6 @@
 # atomicgo/cursor
 
-[![Stars](https://img.shields.io/github/stars/atomicgo/cursor?style=flat-square&color=yellow)](https://github.com/atomicgo/cursor/stargazers) [![Forks](https://img.shields.io/github/forks/atomicgo/cursor?style=flat-square&color=blue)](https://github.com/atomicgo/cursor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atomicgo/cursor?style=flat-square&color=yellow)](https://github.com/atomicgo/cursor/stargazers) [![Forks](https://img.shields.io/github/forks/atomicgo/cursor?style=flat-square&color=blue)](https://github.com/atomicgo/cursor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 🖱️ Go module to move the terminal cursor in any direction on every operating system.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

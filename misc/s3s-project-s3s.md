@@ -1,6 +1,6 @@
 # s3s-project/s3s
 
-[![Stars](https://img.shields.io/github/stars/s3s-project/s3s?style=flat-square&color=yellow)](https://github.com/s3s-project/s3s/stargazers) [![Forks](https://img.shields.io/github/forks/s3s-project/s3s?style=flat-square&color=blue)](https://github.com/s3s-project/s3s/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/s3s-project/s3s?style=flat-square&color=yellow)](https://github.com/s3s-project/s3s/stargazers) [![Forks](https://img.shields.io/github/forks/s3s-project/s3s?style=flat-square&color=blue)](https://github.com/s3s-project/s3s/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > S3 Service Adapter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 274 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

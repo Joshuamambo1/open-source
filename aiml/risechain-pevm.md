@@ -1,6 +1,6 @@
 # risechain/pevm
 
-[![Stars](https://img.shields.io/github/stars/risechain/pevm?style=flat-square&color=yellow)](https://github.com/risechain/pevm/stargazers) [![Forks](https://img.shields.io/github/forks/risechain/pevm?style=flat-square&color=blue)](https://github.com/risechain/pevm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/risechain/pevm?style=flat-square&color=yellow)](https://github.com/risechain/pevm/stargazers) [![Forks](https://img.shields.io/github/forks/risechain/pevm?style=flat-square&color=blue)](https://github.com/risechain/pevm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > The Ultimate Parallel EVM Engine: Transaction Execution, State Root Calculation, Shred Broadcasting. All in One and at Once!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

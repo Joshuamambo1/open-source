@@ -1,6 +1,6 @@
 # niaka3dayo/agent-skills-vrc-udon
 
-[![Stars](https://img.shields.io/github/stars/niaka3dayo/agent-skills-vrc-udon?style=flat-square&color=yellow)](https://github.com/niaka3dayo/agent-skills-vrc-udon/stargazers) [![Forks](https://img.shields.io/github/forks/niaka3dayo/agent-skills-vrc-udon?style=flat-square&color=blue)](https://github.com/niaka3dayo/agent-skills-vrc-udon/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/niaka3dayo/agent-skills-vrc-udon?style=flat-square&color=yellow)](https://github.com/niaka3dayo/agent-skills-vrc-udon/stargazers) [![Forks](https://img.shields.io/github/forks/niaka3dayo/agent-skills-vrc-udon?style=flat-square&color=blue)](https://github.com/niaka3dayo/agent-skills-vrc-udon/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Skills, rules, and validation hooks that teach AI coding agents to generate correct UdonSharp code
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 100 |
+| ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

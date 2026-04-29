@@ -1,6 +1,6 @@
 # grafbase/grafbase
 
-[![Stars](https://img.shields.io/github/stars/grafbase/grafbase?style=flat-square&color=yellow)](https://github.com/grafbase/grafbase/stargazers) [![Forks](https://img.shields.io/github/forks/grafbase/grafbase?style=flat-square&color=blue)](https://github.com/grafbase/grafbase/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafbase/grafbase?style=flat-square&color=yellow)](https://github.com/grafbase/grafbase/stargazers) [![Forks](https://img.shields.io/github/forks/grafbase/grafbase?style=flat-square&color=blue)](https://github.com/grafbase/grafbase/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > [Acquired by The Guild] The Grafbase GraphQL Federation Gateway
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

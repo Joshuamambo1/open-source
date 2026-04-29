@@ -1,6 +1,6 @@
 # 1998code/iOS16-Live-Activities
 
-[![Stars](https://img.shields.io/github/stars/1998code/iOS16-Live-Activities?style=flat-square&color=yellow)](https://github.com/1998code/iOS16-Live-Activities/stargazers) [![Forks](https://img.shields.io/github/forks/1998code/iOS16-Live-Activities?style=flat-square&color=blue)](https://github.com/1998code/iOS16-Live-Activities/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1998code/iOS16-Live-Activities?style=flat-square&color=yellow)](https://github.com/1998code/iOS16-Live-Activities/stargazers) [![Forks](https://img.shields.io/github/forks/1998code/iOS16-Live-Activities?style=flat-square&color=blue)](https://github.com/1998code/iOS16-Live-Activities/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > SwiftPizza App for Apple ActivityKit & WidgetKit & Dynamic Island.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 413 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

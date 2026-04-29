@@ -1,6 +1,6 @@
 # nghyane/launchdock
 
-[![Stars](https://img.shields.io/github/stars/nghyane/launchdock?style=flat-square&color=yellow)](https://github.com/nghyane/launchdock/stargazers) [![Forks](https://img.shields.io/github/forks/nghyane/launchdock?style=flat-square&color=blue)](https://github.com/nghyane/launchdock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nghyane/launchdock?style=flat-square&color=yellow)](https://github.com/nghyane/launchdock/stargazers) [![Forks](https://img.shields.io/github/forks/nghyane/launchdock?style=flat-square&color=blue)](https://github.com/nghyane/launchdock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Use Claude and GPT through one local gateway with OpenAI-compatible and Claude-native APIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 330 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

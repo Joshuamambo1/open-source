@@ -1,6 +1,6 @@
 # irbis-sh/zen-desktop
 
-[![Stars](https://img.shields.io/github/stars/irbis-sh/zen-desktop?style=flat-square&color=yellow)](https://github.com/irbis-sh/zen-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/irbis-sh/zen-desktop?style=flat-square&color=blue)](https://github.com/irbis-sh/zen-desktop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/irbis-sh/zen-desktop?style=flat-square&color=yellow)](https://github.com/irbis-sh/zen-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/irbis-sh/zen-desktop?style=flat-square&color=blue)](https://github.com/irbis-sh/zen-desktop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

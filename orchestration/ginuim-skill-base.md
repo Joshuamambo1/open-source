@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13 |
-| 🍴 **Forks** | 2 |
+| ⭐ **Stars** | 14 |
+| 🍴 **Forks** | 3 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |

@@ -1,6 +1,6 @@
 # MarSeventh/CloudFlare-ImgBed
 
-[![Stars](https://img.shields.io/github/stars/MarSeventh/CloudFlare-ImgBed?style=flat-square&color=yellow)](https://github.com/MarSeventh/CloudFlare-ImgBed/stargazers) [![Forks](https://img.shields.io/github/forks/MarSeventh/CloudFlare-ImgBed?style=flat-square&color=blue)](https://github.com/MarSeventh/CloudFlare-ImgBed/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MarSeventh/CloudFlare-ImgBed?style=flat-square&color=yellow)](https://github.com/MarSeventh/CloudFlare-ImgBed/stargazers) [![Forks](https://img.shields.io/github/forks/MarSeventh/CloudFlare-ImgBed?style=flat-square&color=blue)](https://github.com/MarSeventh/CloudFlare-ImgBed/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
 > A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 99/100 |
+| 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

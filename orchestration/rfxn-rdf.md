@@ -1,6 +1,6 @@
 # rfxn/rdf
 
-[![Stars](https://img.shields.io/github/stars/rfxn/rdf?style=flat-square&color=yellow)](https://github.com/rfxn/rdf/stargazers) [![Forks](https://img.shields.io/github/forks/rfxn/rdf?style=flat-square&color=blue)](https://github.com/rfxn/rdf/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rfxn/rdf?style=flat-square&color=yellow)](https://github.com/rfxn/rdf/stargazers) [![Forks](https://img.shields.io/github/forks/rfxn/rdf?style=flat-square&color=blue)](https://github.com/rfxn/rdf/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Code, Gemini CLI, and Codex
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

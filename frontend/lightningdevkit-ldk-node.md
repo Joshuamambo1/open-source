@@ -1,6 +1,6 @@
 # lightningdevkit/ldk-node
 
-[![Stars](https://img.shields.io/github/stars/lightningdevkit/ldk-node?style=flat-square&color=yellow)](https://github.com/lightningdevkit/ldk-node/stargazers) [![Forks](https://img.shields.io/github/forks/lightningdevkit/ldk-node?style=flat-square&color=blue)](https://github.com/lightningdevkit/ldk-node/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightningdevkit/ldk-node?style=flat-square&color=yellow)](https://github.com/lightningdevkit/ldk-node/stargazers) [![Forks](https://img.shields.io/github/forks/lightningdevkit/ldk-node?style=flat-square&color=blue)](https://github.com/lightningdevkit/ldk-node/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A ready-to-go node implementation built using LDK.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 208 |
-| 🍴 **Forks** | 136 |
+| 🍴 **Forks** | 137 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

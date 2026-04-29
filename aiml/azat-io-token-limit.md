@@ -1,6 +1,6 @@
 # azat-io/token-limit
 
-[![Stars](https://img.shields.io/github/stars/azat-io/token-limit?style=flat-square&color=yellow)](https://github.com/azat-io/token-limit/stargazers) [![Forks](https://img.shields.io/github/forks/azat-io/token-limit?style=flat-square&color=blue)](https://github.com/azat-io/token-limit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/azat-io/token-limit?style=flat-square&color=yellow)](https://github.com/azat-io/token-limit/stargazers) [![Forks](https://img.shields.io/github/forks/azat-io/token-limit?style=flat-square&color=blue)](https://github.com/azat-io/token-limit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 🛰 Monitor how many tokens your code and configs consume in AI tools. Set budgets and get alerts when limits are hit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

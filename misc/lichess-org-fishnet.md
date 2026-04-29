@@ -1,6 +1,6 @@
 # lichess-org/fishnet
 
-[![Stars](https://img.shields.io/github/stars/lichess-org/fishnet?style=flat-square&color=yellow)](https://github.com/lichess-org/fishnet/stargazers) [![Forks](https://img.shields.io/github/forks/lichess-org/fishnet?style=flat-square&color=blue)](https://github.com/lichess-org/fishnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lichess-org/fishnet?style=flat-square&color=yellow)](https://github.com/lichess-org/fishnet/stargazers) [![Forks](https://img.shields.io/github/forks/lichess-org/fishnet?style=flat-square&color=blue)](https://github.com/lichess-org/fishnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Distributed Stockfish analysis for lichess.org
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 894 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

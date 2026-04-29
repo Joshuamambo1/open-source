@@ -39,11 +39,11 @@
 | 29 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
 | 30 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 443 | JavaScript | 49/100 |
 | 31 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
-| 32 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 255 | Go | 48/100 |
+| 32 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 256 | Go | 48/100 |
 | 33 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
 | 34 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
-| 35 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 305 | AutoIt | 43/100 |
-| 36 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
+| 35 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
+| 36 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 305 | AutoIt | 43/100 |
 
 ---
 

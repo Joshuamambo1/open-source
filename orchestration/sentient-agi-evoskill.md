@@ -1,6 +1,6 @@
 # sentient-agi/EvoSkill
 
-[![Stars](https://img.shields.io/github/stars/sentient-agi/EvoSkill?style=flat-square&color=yellow)](https://github.com/sentient-agi/EvoSkill/stargazers) [![Forks](https://img.shields.io/github/forks/sentient-agi/EvoSkill?style=flat-square&color=blue)](https://github.com/sentient-agi/EvoSkill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sentient-agi/EvoSkill?style=flat-square&color=yellow)](https://github.com/sentient-agi/EvoSkill/stargazers) [![Forks](https://img.shields.io/github/forks/sentient-agi/EvoSkill?style=flat-square&color=blue)](https://github.com/sentient-agi/EvoSkill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > EvoSkill — An open-source framework that automatically discovers and synthesizes reusable agent skills from failed trajectories to improve coding agent performance.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 644 |
+| ⭐ **Stars** | 645 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

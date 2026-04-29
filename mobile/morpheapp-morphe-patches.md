@@ -1,6 +1,6 @@
 # MorpheApp/morphe-patches
 
-[![Stars](https://img.shields.io/github/stars/MorpheApp/morphe-patches?style=flat-square&color=yellow)](https://github.com/MorpheApp/morphe-patches/stargazers) [![Forks](https://img.shields.io/github/forks/MorpheApp/morphe-patches?style=flat-square&color=blue)](https://github.com/MorpheApp/morphe-patches/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MorpheApp/morphe-patches?style=flat-square&color=yellow)](https://github.com/MorpheApp/morphe-patches/stargazers) [![Forks](https://img.shields.io/github/forks/MorpheApp/morphe-patches?style=flat-square&color=blue)](https://github.com/MorpheApp/morphe-patches/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Morphe Patches
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 90 |
+| 🍴 **Forks** | 91 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

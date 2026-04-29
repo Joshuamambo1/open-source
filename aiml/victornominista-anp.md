@@ -1,17 +1,17 @@
 # victornominista/anp
 
-[![Stars](https://img.shields.io/github/stars/victornominista/anp?style=flat-square&color=yellow)](https://github.com/victornominista/anp/stargazers) [![Forks](https://img.shields.io/github/forks/victornominista/anp?style=flat-square&color=blue)](https://github.com/victornominista/anp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/victornominista/anp?style=flat-square&color=yellow)](https://github.com/victornominista/anp/stargazers) [![Forks](https://img.shields.io/github/forks/victornominista/anp?style=flat-square&color=blue)](https://github.com/victornominista/anp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> The economic layer for agent-to-agent negotiation. Binary protocol, Ed25519 identity, price oracle.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

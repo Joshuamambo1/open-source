@@ -1,6 +1,6 @@
 # OmenAI/OmenAI
 
-[![Stars](https://img.shields.io/github/stars/OmenAI/OmenAI?style=flat-square&color=yellow)](https://github.com/OmenAI/OmenAI/stargazers) [![Forks](https://img.shields.io/github/forks/OmenAI/OmenAI?style=flat-square&color=blue)](https://github.com/OmenAI/OmenAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OmenAI/OmenAI?style=flat-square&color=yellow)](https://github.com/OmenAI/OmenAI/stargazers) [![Forks](https://img.shields.io/github/forks/OmenAI/OmenAI?style=flat-square&color=blue)](https://github.com/OmenAI/OmenAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous Polymarket scanner — Claude finds mispriced probabilities, Kelly sizes the edge
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

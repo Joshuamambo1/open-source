@@ -1,6 +1,6 @@
 # astral-sh/python-build-standalone
 
-[![Stars](https://img.shields.io/github/stars/astral-sh/python-build-standalone?style=flat-square&color=yellow)](https://github.com/astral-sh/python-build-standalone/stargazers) [![Forks](https://img.shields.io/github/forks/astral-sh/python-build-standalone?style=flat-square&color=blue)](https://github.com/astral-sh/python-build-standalone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/astral-sh/python-build-standalone?style=flat-square&color=yellow)](https://github.com/astral-sh/python-build-standalone/stargazers) [![Forks](https://img.shields.io/github/forks/astral-sh/python-build-standalone?style=flat-square&color=blue)](https://github.com/astral-sh/python-build-standalone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Produce redistributable builds of Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 285 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

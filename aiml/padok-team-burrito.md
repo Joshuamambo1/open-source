@@ -1,6 +1,6 @@
 # padok-team/burrito
 
-[![Stars](https://img.shields.io/github/stars/padok-team/burrito?style=flat-square&color=yellow)](https://github.com/padok-team/burrito/stargazers) [![Forks](https://img.shields.io/github/forks/padok-team/burrito?style=flat-square&color=blue)](https://github.com/padok-team/burrito/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/padok-team/burrito?style=flat-square&color=yellow)](https://github.com/padok-team/burrito/stargazers) [![Forks](https://img.shields.io/github/forks/padok-team/burrito?style=flat-square&color=blue)](https://github.com/padok-team/burrito/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🌯 Burrito is a TACoS Kubernetes Operator - "Argo CD for Terraform"
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 715 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

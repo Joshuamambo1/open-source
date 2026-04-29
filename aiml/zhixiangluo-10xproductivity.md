@@ -1,6 +1,6 @@
 # ZhixiangLuo/10xProductivity
 
-[![Stars](https://img.shields.io/github/stars/ZhixiangLuo/10xProductivity?style=flat-square&color=yellow)](https://github.com/ZhixiangLuo/10xProductivity/stargazers) [![Forks](https://img.shields.io/github/forks/ZhixiangLuo/10xProductivity?style=flat-square&color=blue)](https://github.com/ZhixiangLuo/10xProductivity/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZhixiangLuo/10xProductivity?style=flat-square&color=yellow)](https://github.com/ZhixiangLuo/10xProductivity/stargazers) [![Forks](https://img.shields.io/github/forks/ZhixiangLuo/10xProductivity?style=flat-square&color=blue)](https://github.com/ZhixiangLuo/10xProductivity/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A recipe for your coding agent to connect all tools for automation and 10x productivity
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 260 |
-| 🍴 **Forks** | 45 |
+| ⭐ **Stars** | 262 |
+| 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

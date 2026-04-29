@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/dizlexic/moo-tasks?style=flat-square&color=yellow)](https://github.com/dizlexic/moo-tasks/stargazers) [![Forks](https://img.shields.io/github/forks/dizlexic/moo-tasks?style=flat-square&color=blue)](https://github.com/dizlexic/moo-tasks/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> A simple multiuser multiboard task MCP server managed via kanban board interface.
+> A simple multiuser multiboard task MCP server managed via kanban board interface. Created to allow simple self hosted agent task management.
 
 ## 📊 Stats
 

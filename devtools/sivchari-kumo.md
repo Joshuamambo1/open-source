@@ -1,6 +1,6 @@
 # sivchari/kumo
 
-[![Stars](https://img.shields.io/github/stars/sivchari/kumo?style=flat-square&color=yellow)](https://github.com/sivchari/kumo/stargazers) [![Forks](https://img.shields.io/github/forks/sivchari/kumo?style=flat-square&color=blue)](https://github.com/sivchari/kumo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sivchari/kumo?style=flat-square&color=yellow)](https://github.com/sivchari/kumo/stargazers) [![Forks](https://img.shields.io/github/forks/sivchari/kumo?style=flat-square&color=blue)](https://github.com/sivchari/kumo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight AWS service emulator written in Go
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 58 |
+| 🍴 **Forks** | 59 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

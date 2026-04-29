@@ -1,6 +1,6 @@
 # lineofflight/frankfurter
 
-[![Stars](https://img.shields.io/github/stars/lineofflight/frankfurter?style=flat-square&color=yellow)](https://github.com/lineofflight/frankfurter/stargazers) [![Forks](https://img.shields.io/github/forks/lineofflight/frankfurter?style=flat-square&color=blue)](https://github.com/lineofflight/frankfurter/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lineofflight/frankfurter?style=flat-square&color=yellow)](https://github.com/lineofflight/frankfurter/stargazers) [![Forks](https://img.shields.io/github/forks/lineofflight/frankfurter?style=flat-square&color=blue)](https://github.com/lineofflight/frankfurter/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 💱 Currency data API
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 149 |
+| 🍴 **Forks** | 151 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

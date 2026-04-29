@@ -1,6 +1,6 @@
 # anomalyco/opentui
 
-[![Stars](https://img.shields.io/github/stars/anomalyco/opentui?style=flat-square&color=yellow)](https://github.com/anomalyco/opentui/stargazers) [![Forks](https://img.shields.io/github/forks/anomalyco/opentui?style=flat-square&color=blue)](https://github.com/anomalyco/opentui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anomalyco/opentui?style=flat-square&color=yellow)](https://github.com/anomalyco/opentui/stargazers) [![Forks](https://img.shields.io/github/forks/anomalyco/opentui?style=flat-square&color=blue)](https://github.com/anomalyco/opentui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > OpenTUI is a library for building terminal user interfaces (TUIs)
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.6k |
-| 🍴 **Forks** | 519 |
+| 🍴 **Forks** | 518 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

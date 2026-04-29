@@ -1,6 +1,6 @@
 # hotovo/aider-desk
 
-[![Stars](https://img.shields.io/github/stars/hotovo/aider-desk?style=flat-square&color=yellow)](https://github.com/hotovo/aider-desk/stargazers) [![Forks](https://img.shields.io/github/forks/hotovo/aider-desk?style=flat-square&color=blue)](https://github.com/hotovo/aider-desk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hotovo/aider-desk?style=flat-square&color=yellow)](https://github.com/hotovo/aider-desk/stargazers) [![Forks](https://img.shields.io/github/forks/hotovo/aider-desk?style=flat-square&color=blue)](https://github.com/hotovo/aider-desk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Platform for AI-powered software engineers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

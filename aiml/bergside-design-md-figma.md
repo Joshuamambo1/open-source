@@ -1,6 +1,6 @@
 # bergside/design-md-figma
 
-[![Stars](https://img.shields.io/github/stars/bergside/design-md-figma?style=flat-square&color=yellow)](https://github.com/bergside/design-md-figma/stargazers) [![Forks](https://img.shields.io/github/forks/bergside/design-md-figma?style=flat-square&color=blue)](https://github.com/bergside/design-md-figma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bergside/design-md-figma?style=flat-square&color=yellow)](https://github.com/bergside/design-md-figma/stargazers) [![Forks](https://img.shields.io/github/forks/bergside/design-md-figma?style=flat-square&color=blue)](https://github.com/bergside/design-md-figma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Figma plugin that extracts local style guidelines and generates DESIGN.md and SKILL.md files for AI tools such as Claude Code, Codex, Cursor, and other AI tools
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51 |
+| ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

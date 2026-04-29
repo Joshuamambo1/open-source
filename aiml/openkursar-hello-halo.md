@@ -1,6 +1,6 @@
 # openkursar/hello-halo
 
-[![Stars](https://img.shields.io/github/stars/openkursar/hello-halo?style=flat-square&color=yellow)](https://github.com/openkursar/hello-halo/stargazers) [![Forks](https://img.shields.io/github/forks/openkursar/hello-halo?style=flat-square&color=blue)](https://github.com/openkursar/hello-halo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openkursar/hello-halo?style=flat-square&color=yellow)](https://github.com/openkursar/hello-halo/stargazers) [![Forks](https://img.shields.io/github/forks/openkursar/hello-halo?style=flat-square&color=blue)](https://github.com/openkursar/hello-halo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 7×24 Desktop AI Agent for Everyone. Visual AI assistant with remote access, file management, and built-in AI browser.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 110 |
+| 🍴 **Forks** | 111 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

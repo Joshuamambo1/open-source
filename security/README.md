@@ -2,22 +2,22 @@
 
 > Security, auth, encryption, privacy
 
-**99 projects** in this category.
+**100 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.5k | C | 100/100 |
-| 2 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6.1k | C++ | 100/100 |
-| 3 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
+| 2 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.7k | TypeScript | 100/100 |
+| 3 | [gnuradio/gnuradio](./gnuradio-gnuradio.md) | ⭐ 6.1k | C++ | 100/100 |
 | 4 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.2k | C++ | 100/100 |
-| 5 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
-| 6 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 26k | Go | 100/100 |
-| 7 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
+| 5 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 26k | Go | 100/100 |
+| 6 | [getsops/sops](./getsops-sops.md) | ⭐ 21.6k | Go | 100/100 |
+| 7 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.3k | Python | 100/100 |
 | 8 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.3k | JavaScript | 100/100 |
 | 9 | [zeek/zeek](./zeek-zeek.md) | ⭐ 7.6k | C++ | 100/100 |
-| 10 | [secdev/scapy](./secdev-scapy.md) | ⭐ 12.3k | Python | 100/100 |
+| 10 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 30.3k | Python | 100/100 |
 | 11 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.2k | C | 100/100 |
 | 12 | [OpenCTI-Platform/opencti](./opencti-platform-opencti.md) | ⭐ 9.2k | TypeScript | 99/100 |
 | 13 | [shadowsocks/shadowsocks-rust](./shadowsocks-shadowsocks-rust.md) | ⭐ 10.6k | Rust | 99/100 |
@@ -67,8 +67,8 @@
 | 57 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 506 | JavaScript | 55/100 |
 | 58 | [oxyno-zeta/s3-proxy](./oxyno-zeta-s3-proxy.md) | ⭐ 456 | Go | 54/100 |
 | 59 | [intigriti/misconfig-mapper](./intigriti-misconfig-mapper.md) | ⭐ 902 | Go | 53/100 |
-| 60 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 325 | Python | 53/100 |
-| 61 | [rfc-st/humble](./rfc-st-humble.md) | ⭐ 362 | Python | 53/100 |
+| 60 | [rfc-st/humble](./rfc-st-humble.md) | ⭐ 362 | Python | 53/100 |
+| 61 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 325 | Python | 53/100 |
 | 62 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 318 | Python | 53/100 |
 | 63 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 374 | Rust | 53/100 |
 | 64 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 457 | Rust | 52/100 |
@@ -76,14 +76,14 @@
 | 66 | [LinOTP/LinOTP](./linotp-linotp.md) | ⭐ 546 | Python | 52/100 |
 | 67 | [ohaswin/pyscan](./ohaswin-pyscan.md) | ⭐ 241 | Rust | 52/100 |
 | 68 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 253 | Go | 52/100 |
-| 69 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 613 | Go | 52/100 |
-| 70 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
+| 69 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
+| 70 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 613 | Go | 52/100 |
 | 71 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 52/100 |
 | 72 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
 | 73 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 167 | Go | 51/100 |
-| 74 | [Karib0u/rustinel](./karib0u-rustinel.md) | ⭐ 119 | Rust | 51/100 |
-| 75 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 51/100 |
-| 76 | [Shopify/ejson](./shopify-ejson.md) | ⭐ 1.5k | Go | 51/100 |
+| 74 | [Shopify/ejson](./shopify-ejson.md) | ⭐ 1.5k | Go | 51/100 |
+| 75 | [Karib0u/rustinel](./karib0u-rustinel.md) | ⭐ 119 | Rust | 51/100 |
+| 76 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 51/100 |
 | 77 | [yaklang/yaklang](./yaklang-yaklang.md) | ⭐ 541 | Go | 51/100 |
 | 78 | [Snowflake-Labs/sansshell](./snowflake-labs-sansshell.md) | ⭐ 122 | Go | 49/100 |
 | 79 | [threefoldtech/mycelium](./threefoldtech-mycelium.md) | ⭐ 178 | Rust | 48/100 |
@@ -97,16 +97,17 @@
 | 87 | [Tatsh/dbeaver-creds](./tatsh-dbeaver-creds.md) | ⭐ 33 | C | 45/100 |
 | 88 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 408 | C# | 44/100 |
 | 89 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 454 | — | 44/100 |
-| 90 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 22 | TypeScript | 44/100 |
-| 91 | [facebookincubator/TTPForge](./facebookincubator-ttpforge.md) | ⭐ 420 | Go | 44/100 |
-| 92 | [nuxt/hints](./nuxt-hints.md) | ⭐ 334 | TypeScript | 43/100 |
-| 93 | [ex-machina-co/opencode-anthropic-auth](./ex-machina-co-opencode-anthropic-auth.md) | ⭐ 374 | TypeScript | 43/100 |
+| 90 | [facebookincubator/TTPForge](./facebookincubator-ttpforge.md) | ⭐ 420 | Go | 44/100 |
+| 91 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 22 | TypeScript | 44/100 |
+| 92 | [ex-machina-co/opencode-anthropic-auth](./ex-machina-co-opencode-anthropic-auth.md) | ⭐ 374 | TypeScript | 43/100 |
+| 93 | [nuxt/hints](./nuxt-hints.md) | ⭐ 334 | TypeScript | 43/100 |
 | 94 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 245 | Rust | 43/100 |
-| 95 | [bartei/git-agecrypt](./bartei-git-agecrypt.md) | ⭐ 5 | Rust | 42/100 |
-| 96 | [ItalyPaleAle/traefik-forward-auth](./italypaleale-traefik-forward-auth.md) | ⭐ 104 | Go | 41/100 |
+| 95 | [404tk/cloudtoolkit](./404tk-cloudtoolkit.md) | ⭐ 107 | Go | 42/100 |
+| 96 | [bartei/git-agecrypt](./bartei-git-agecrypt.md) | ⭐ 5 | Rust | 42/100 |
 | 97 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 148 | Rust | 41/100 |
-| 98 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
-| 99 | [DslsDZC/HIC](./dslsdzc-hic.md) | ⭐ 12 | C | 36/100 |
+| 98 | [ItalyPaleAle/traefik-forward-auth](./italypaleale-traefik-forward-auth.md) | ⭐ 104 | Go | 41/100 |
+| 99 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 40/100 |
+| 100 | [DslsDZC/HIC](./dslsdzc-hic.md) | ⭐ 12 | C | 36/100 |
 
 ---
 

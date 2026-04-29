@@ -1,6 +1,6 @@
 # oetiker/znapzend
 
-[![Stars](https://img.shields.io/github/stars/oetiker/znapzend?style=flat-square&color=yellow)](https://github.com/oetiker/znapzend/stargazers) [![Forks](https://img.shields.io/github/forks/oetiker/znapzend?style=flat-square&color=blue)](https://github.com/oetiker/znapzend/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oetiker/znapzend?style=flat-square&color=yellow)](https://github.com/oetiker/znapzend/stargazers) [![Forks](https://img.shields.io/github/forks/oetiker/znapzend?style=flat-square&color=blue)](https://github.com/oetiker/znapzend/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > zfs backup with remote capabilities and mbuffer integration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 673 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Perl |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

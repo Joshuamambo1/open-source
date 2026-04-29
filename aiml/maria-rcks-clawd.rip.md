@@ -1,6 +1,6 @@
 # maria-rcks/clawd.rip
 
-[![Stars](https://img.shields.io/github/stars/maria-rcks/clawd.rip?style=flat-square&color=yellow)](https://github.com/maria-rcks/clawd.rip/stargazers) [![Forks](https://img.shields.io/github/forks/maria-rcks/clawd.rip?style=flat-square&color=blue)](https://github.com/maria-rcks/clawd.rip/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maria-rcks/clawd.rip?style=flat-square&color=yellow)](https://github.com/maria-rcks/clawd.rip/stargazers) [![Forks](https://img.shields.io/github/forks/maria-rcks/clawd.rip?style=flat-square&color=blue)](https://github.com/maria-rcks/clawd.rip/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Everything that *went* wrong with Claude.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 82 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 83 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

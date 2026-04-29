@@ -1,6 +1,6 @@
 # tinyfish-io/tinyfish-cookbook
 
-[![Stars](https://img.shields.io/github/stars/tinyfish-io/tinyfish-cookbook?style=flat-square&color=yellow)](https://github.com/tinyfish-io/tinyfish-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/tinyfish-io/tinyfish-cookbook?style=flat-square&color=blue)](https://github.com/tinyfish-io/tinyfish-cookbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinyfish-io/tinyfish-cookbook?style=flat-square&color=yellow)](https://github.com/tinyfish-io/tinyfish-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/tinyfish-io/tinyfish-cookbook?style=flat-square&color=blue)](https://github.com/tinyfish-io/tinyfish-cookbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 258 |
+| 🍴 **Forks** | 260 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

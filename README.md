@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **11212** |
+| 🗂️ **Total projects** | **11267** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4296 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2144 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1100 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 888 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 677 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 670 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 399 | [Browse →](./crypto/) |
-| 📊 **Data** | 241 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 4308 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2160 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1108 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 893 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 681 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 674 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 403 | [Browse →](./crypto/) |
+| 📊 **Data** | 242 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 238 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 136 | [Browse →](./mobile/) |
 | 💳 **Payments** | 125 | [Browse →](./payments/) |
 | 📈 **Trading** | 116 | [Browse →](./trading/) |
-| 🔐 **Security** | 99 | [Browse →](./security/) |
+| 🔐 **Security** | 100 | [Browse →](./security/) |
 | ✨ **Design** | 37 | [Browse →](./design/) |
 | 🎯 **Product** | 25 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 21 | [Browse →](./marketing/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [tldraw/tldraw](./frontend/tldraw-tldraw.md) | ⭐ 46.7k | Frontend |
-| 2 | [clash-verge-rev/clash-verge-rev](./aiml/clash-verge-rev-clash-verge-rev.md) | ⭐ 114.5k | AI/ML |
-| 3 | [ueberdosis/tiptap](./frontend/ueberdosis-tiptap.md) | ⭐ 36.5k | Frontend |
-| 4 | [nilbuild/developer-roadmap](./crypto/nilbuild-developer-roadmap.md) | ⭐ 353.9k | Crypto |
-| 5 | [vnotex/vnote](./aiml/vnotex-vnote.md) | ⭐ 12.8k | AI/ML |
-| 6 | [matplotlib/matplotlib](./data/matplotlib-matplotlib.md) | ⭐ 22.8k | Data |
-| 7 | [sharkdp/fd](./devtools/sharkdp-fd.md) | ⭐ 42.7k | DevTools |
-| 8 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 123.5k | AI/ML |
-| 9 | [oapi-codegen/oapi-codegen](./backend/oapi-codegen-oapi-codegen.md) | ⭐ 8.3k | Backend |
-| 10 | [micro-editor/micro](./frontend/micro-editor-micro.md) | ⭐ 28.5k | Frontend |
+| 2 | [vnotex/vnote](./aiml/vnotex-vnote.md) | ⭐ 12.8k | AI/ML |
+| 3 | [Wei-Shaw/sub2api](./aiml/wei-shaw-sub2api.md) | ⭐ 16.6k | AI/ML |
+| 4 | [lichess-org/lila](./backend/lichess-org-lila.md) | ⭐ 18.1k | Backend |
+| 5 | [matplotlib/matplotlib](./data/matplotlib-matplotlib.md) | ⭐ 22.8k | Data |
+| 6 | [sharkdp/fd](./devtools/sharkdp-fd.md) | ⭐ 42.7k | DevTools |
+| 7 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 123.5k | AI/ML |
+| 8 | [oapi-codegen/oapi-codegen](./backend/oapi-codegen-oapi-codegen.md) | ⭐ 8.3k | Backend |
+| 9 | [micro-editor/micro](./frontend/micro-editor-micro.md) | ⭐ 28.5k | Frontend |
+| 10 | [statelyai/xstate](./orchestration/statelyai-xstate.md) | ⭐ 29.6k | Orchestration |
 
 ## 🚀 How it works
 

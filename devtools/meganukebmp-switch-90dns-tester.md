@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 345 |
+| ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Makefile |
 | 📈 **Score** | 43/100 |

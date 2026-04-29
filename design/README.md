@@ -8,13 +8,13 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
-| 2 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.1k | JavaScript | 100/100 |
+| 1 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.1k | JavaScript | 100/100 |
+| 2 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
 | 3 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.7k | Python | 96/100 |
 | 4 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
 | 5 | [safing/portmaster](./safing-portmaster.md) | ⭐ 12.5k | Go | 92/100 |
 | 6 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.6k | Scala | 91/100 |
-| 7 | [garrytan/gstack](./garrytan-gstack.md) | ⭐ 86.3k | TypeScript | 90/100 |
+| 7 | [garrytan/gstack](./garrytan-gstack.md) | ⭐ 86.4k | TypeScript | 90/100 |
 | 8 | [tw93/Waza](./tw93-waza.md) | ⭐ 4.2k | Shell | 83/100 |
 | 9 | [j178/prek](./j178-prek.md) | ⭐ 7.5k | Rust | 82/100 |
 | 10 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |

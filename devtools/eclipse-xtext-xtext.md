@@ -1,6 +1,6 @@
 # eclipse-xtext/xtext
 
-[![Stars](https://img.shields.io/github/stars/eclipse-xtext/xtext?style=flat-square&color=yellow)](https://github.com/eclipse-xtext/xtext/stargazers) [![Forks](https://img.shields.io/github/forks/eclipse-xtext/xtext?style=flat-square&color=blue)](https://github.com/eclipse-xtext/xtext/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eclipse-xtext/xtext?style=flat-square&color=yellow)](https://github.com/eclipse-xtext/xtext/stargazers) [![Forks](https://img.shields.io/github/forks/eclipse-xtext/xtext?style=flat-square&color=blue)](https://github.com/eclipse-xtext/xtext/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Eclipse Xtext™ is a language development framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 825 |
 | 🍴 **Forks** | 330 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

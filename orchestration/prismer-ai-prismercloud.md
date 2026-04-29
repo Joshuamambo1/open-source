@@ -1,6 +1,6 @@
 # Prismer-AI/PrismerCloud
 
-[![Stars](https://img.shields.io/github/stars/Prismer-AI/PrismerCloud?style=flat-square&color=yellow)](https://github.com/Prismer-AI/PrismerCloud/stargazers) [![Forks](https://img.shields.io/github/forks/Prismer-AI/PrismerCloud?style=flat-square&color=blue)](https://github.com/Prismer-AI/PrismerCloud/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Prismer-AI/PrismerCloud?style=flat-square&color=yellow)](https://github.com/Prismer-AI/PrismerCloud/stargazers) [![Forks](https://img.shields.io/github/forks/Prismer-AI/PrismerCloud?style=flat-square&color=blue)](https://github.com/Prismer-AI/PrismerCloud/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Prismer Cloud
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 10 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

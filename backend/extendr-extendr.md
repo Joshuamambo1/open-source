@@ -1,6 +1,6 @@
 # extendr/extendr
 
-[![Stars](https://img.shields.io/github/stars/extendr/extendr?style=flat-square&color=yellow)](https://github.com/extendr/extendr/stargazers) [![Forks](https://img.shields.io/github/forks/extendr/extendr?style=flat-square&color=blue)](https://github.com/extendr/extendr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/extendr/extendr?style=flat-square&color=yellow)](https://github.com/extendr/extendr/stargazers) [![Forks](https://img.shields.io/github/forks/extendr/extendr?style=flat-square&color=blue)](https://github.com/extendr/extendr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > R extension library for rust designed to be familiar to R users.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 513 |
+| ⭐ **Stars** | 512 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

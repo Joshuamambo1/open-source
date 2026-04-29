@@ -1,6 +1,6 @@
 # circuits/circuits
 
-[![Stars](https://img.shields.io/github/stars/circuits/circuits?style=flat-square&color=yellow)](https://github.com/circuits/circuits/stargazers) [![Forks](https://img.shields.io/github/forks/circuits/circuits?style=flat-square&color=blue)](https://github.com/circuits/circuits/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/circuits/circuits?style=flat-square&color=yellow)](https://github.com/circuits/circuits/stargazers) [![Forks](https://img.shields.io/github/forks/circuits/circuits?style=flat-square&color=blue)](https://github.com/circuits/circuits/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > circuits is a Lightweight Event driven and Asynchronous Application Framework for the Python Programming Language with a strong Component Architecture.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

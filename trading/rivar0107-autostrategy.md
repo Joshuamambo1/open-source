@@ -1,6 +1,6 @@
 # rivar0107/autostrategy
 
-[![Stars](https://img.shields.io/github/stars/rivar0107/autostrategy?style=flat-square&color=yellow)](https://github.com/rivar0107/autostrategy/stargazers) [![Forks](https://img.shields.io/github/forks/rivar0107/autostrategy?style=flat-square&color=blue)](https://github.com/rivar0107/autostrategy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rivar0107/autostrategy?style=flat-square&color=yellow)](https://github.com/rivar0107/autostrategy/stargazers) [![Forks](https://img.shields.io/github/forks/rivar0107/autostrategy?style=flat-square&color=blue)](https://github.com/rivar0107/autostrategy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > AI驱动的量化策略自动生成工具，支持Claude Code等AI Agent。将自然语言想法转化为可回测的Python策略，内置五维度评分与自动优化。仅供学习研究。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

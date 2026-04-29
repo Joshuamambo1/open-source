@@ -1,6 +1,6 @@
 # vinayakkulkarni/vue-nuxt-best-practices
 
-[![Stars](https://img.shields.io/github/stars/vinayakkulkarni/vue-nuxt-best-practices?style=flat-square&color=yellow)](https://github.com/vinayakkulkarni/vue-nuxt-best-practices/stargazers) [![Forks](https://img.shields.io/github/forks/vinayakkulkarni/vue-nuxt-best-practices?style=flat-square&color=blue)](https://github.com/vinayakkulkarni/vue-nuxt-best-practices/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vinayakkulkarni/vue-nuxt-best-practices?style=flat-square&color=yellow)](https://github.com/vinayakkulkarni/vue-nuxt-best-practices/stargazers) [![Forks](https://img.shields.io/github/forks/vinayakkulkarni/vue-nuxt-best-practices?style=flat-square&color=blue)](https://github.com/vinayakkulkarni/vue-nuxt-best-practices/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Vue and Nuxt best practices for Claude Code and AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

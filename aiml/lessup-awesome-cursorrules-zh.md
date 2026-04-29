@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/LessUp/awesome-cursorrules-zh?style=flat-square&color=yellow)](https://github.com/LessUp/awesome-cursorrules-zh/stargazers) [![Forks](https://img.shields.io/github/forks/LessUp/awesome-cursorrules-zh?style=flat-square&color=blue)](https://github.com/LessUp/awesome-cursorrules-zh/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> 🇨🇳 精选 Cursor AI 编辑器 .cursorrules 规则集合 | Chinese collection of awesome .cursorrules for Cursor AI editor
+> Cursor AI 编辑器 .cursorrules 规则精选-中文版
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 166 |
+| ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |

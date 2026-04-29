@@ -25,7 +25,7 @@
 | 15 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 134 | MDX | 51/100 |
 | 16 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
 | 17 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 121 | Rust | 51/100 |
-| 18 | [garritfra/cell](./garritfra-cell.md) | ⭐ 204 | Rust | 47/100 |
+| 18 | [garritfra/cell](./garritfra-cell.md) | ⭐ 210 | Rust | 47/100 |
 | 19 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 16 | — | 46/100 |
 | 20 | [angr/cle](./angr-cle.md) | ⭐ 478 | Python | 45/100 |
 | 21 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 2 | — | 36/100 |

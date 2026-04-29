@@ -1,6 +1,6 @@
 # IvanMurzak/Unity-MCP
 
-[![Stars](https://img.shields.io/github/stars/IvanMurzak/Unity-MCP?style=flat-square&color=yellow)](https://github.com/IvanMurzak/Unity-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/IvanMurzak/Unity-MCP?style=flat-square&color=blue)](https://github.com/IvanMurzak/Unity-MCP/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IvanMurzak/Unity-MCP?style=flat-square&color=yellow)](https://github.com/IvanMurzak/Unity-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/IvanMurzak/Unity-MCP?style=flat-square&color=blue)](https://github.com/IvanMurzak/Unity-MCP/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 224 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

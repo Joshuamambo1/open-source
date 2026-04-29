@@ -1,6 +1,6 @@
 # nirholas/three.ws
 
-[![Stars](https://img.shields.io/github/stars/nirholas/three.ws?style=flat-square&color=yellow)](https://github.com/nirholas/three.ws/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/three.ws?style=flat-square&color=blue)](https://github.com/nirholas/three.ws/network) [![Language](https://img.shields.io/badge/lang-Solidity-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirholas/three.ws?style=flat-square&color=yellow)](https://github.com/nirholas/three.ws/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/three.ws?style=flat-square&color=blue)](https://github.com/nirholas/three.ws/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 3D AI agent platform for the browser. Load any GLB/glTF avatar, give it an LLM brain with memory, emotions, and tool use, then embed it anywhere as a web component. Includes a character studio, on-chain identity via ERC-8004, MCP server, OAuth 2.1, animation gallery, and five embeddable widget types. No plugins. No installs.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 2 |
-| 💻 **Language** | Solidity |
+| 💻 **Language** | JavaScript |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

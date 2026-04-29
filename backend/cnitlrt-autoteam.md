@@ -1,6 +1,6 @@
 # cnitlrt/AutoTeam
 
-[![Stars](https://img.shields.io/github/stars/cnitlrt/AutoTeam?style=flat-square&color=yellow)](https://github.com/cnitlrt/AutoTeam/stargazers) [![Forks](https://img.shields.io/github/forks/cnitlrt/AutoTeam?style=flat-square&color=blue)](https://github.com/cnitlrt/AutoTeam/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cnitlrt/AutoTeam?style=flat-square&color=yellow)](https://github.com/cnitlrt/AutoTeam/stargazers) [![Forks](https://img.shields.io/github/forks/cnitlrt/AutoTeam?style=flat-square&color=blue)](https://github.com/cnitlrt/AutoTeam/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、邮箱注册、CPA/Sub2API 认证同步
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 807 |
-| 🍴 **Forks** | 190 |
+| ⭐ **Stars** | 812 |
+| 🍴 **Forks** | 191 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**413 projects** in this category.
+**414 projects** in this category.
 
 ## Projects
 
@@ -418,9 +418,10 @@
 | 408 | [EuniAI/awesome-code-agents](./euniai-awesome-code-agents.md) | ⭐ 99 | Python | 41/100 |
 | 409 | [Scottcjn/bounty-concierge](./scottcjn-bounty-concierge.md) | ⭐ 56 | Python | 41/100 |
 | 410 | [Scottcjn/iota-agent-mcp](./scottcjn-iota-agent-mcp.md) | ⭐ 38 | JavaScript | 40/100 |
-| 411 | [0x-devc/NOVAI-node](./0x-devc-novai-node.md) | ⭐ 4 | Rust | 36/100 |
-| 412 | [arbales/sequel-privacy](./arbales-sequel-privacy.md) | ⭐ 2 | Ruby | 36/100 |
-| 413 | [vekuz/durcoin](./vekuz-durcoin.md) | ⭐ — | PHP | 36/100 |
+| 411 | [stripe/link-cli](./stripe-link-cli.md) | ⭐ — | — | 39/100 |
+| 412 | [0x-devc/NOVAI-node](./0x-devc-novai-node.md) | ⭐ 4 | Rust | 36/100 |
+| 413 | [arbales/sequel-privacy](./arbales-sequel-privacy.md) | ⭐ 2 | Ruby | 36/100 |
+| 414 | [vekuz/durcoin](./vekuz-durcoin.md) | ⭐ — | PHP | 36/100 |
 
 ---
 

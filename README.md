@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **11608** |
+| 🗂️ **Total projects** | **11654** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,16 +18,16 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4441 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2228 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1146 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 913 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 708 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 688 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 413 | [Browse →](./crypto/) |
-| 📊 **Data** | 250 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 245 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 140 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 4452 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2243 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1151 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 917 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 710 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 692 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 414 | [Browse →](./crypto/) |
+| 📊 **Data** | 251 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 247 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 141 | [Browse →](./mobile/) |
 | 💳 **Payments** | 127 | [Browse →](./payments/) |
 | 📈 **Trading** | 117 | [Browse →](./trading/) |
 | 🔐 **Security** | 105 | [Browse →](./security/) |
@@ -47,8 +47,8 @@
 | 6 | [zhkl0228/unidbg](./mobile/zhkl0228-unidbg.md) | ⭐ 4.9k | Mobile |
 | 7 | [huggingface/transformers](./crypto/huggingface-transformers.md) | ⭐ 160.1k | Crypto |
 | 8 | [gruntwork-io/terratest](./devtools/gruntwork-io-terratest.md) | ⭐ 7.9k | DevTools |
-| 9 | [MISP/MISP](./trading/misp-misp.md) | ⭐ 6.3k | Trading |
-| 10 | [assistant-ui/assistant-ui](./aiml/assistant-ui-assistant-ui.md) | ⭐ 9.8k | AI/ML |
+| 9 | [nginx/nginx](./aiml/nginx-nginx.md) | ⭐ 30.1k | AI/ML |
+| 10 | [MISP/MISP](./trading/misp-misp.md) | ⭐ 6.3k | Trading |
 
 ## 🚀 How it works
 

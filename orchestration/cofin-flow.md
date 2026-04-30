@@ -1,6 +1,6 @@
 # cofin/flow
 
-[![Stars](https://img.shields.io/github/stars/cofin/flow?style=flat-square&color=yellow)](https://github.com/cofin/flow/stargazers) [![Forks](https://img.shields.io/github/forks/cofin/flow?style=flat-square&color=blue)](https://github.com/cofin/flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cofin/flow?style=flat-square&color=yellow)](https://github.com/cofin/flow/stargazers) [![Forks](https://img.shields.io/github/forks/cofin/flow?style=flat-square&color=blue)](https://github.com/cofin/flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Context-Driven Development toolkit for AI agents — spec-first planning, TDD workflow, and Beads integration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

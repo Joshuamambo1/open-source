@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**40 projects** in this category.
+**41 projects** in this category.
 
 ## Projects
 
@@ -45,9 +45,10 @@
 | 35 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
 | 36 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 45/100 |
 | 37 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 141 | Rust | 43/100 |
-| 38 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
-| 39 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 43/100 |
-| 40 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
+| 38 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 403 | TypeScript | 43/100 |
+| 39 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
+| 40 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
+| 41 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 43/100 |
 
 ---
 

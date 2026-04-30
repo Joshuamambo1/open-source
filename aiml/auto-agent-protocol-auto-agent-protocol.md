@@ -1,17 +1,17 @@
 # auto-agent-protocol/auto-agent-protocol
 
-[![Stars](https://img.shields.io/github/stars/auto-agent-protocol/auto-agent-protocol?style=flat-square&color=yellow)](https://github.com/auto-agent-protocol/auto-agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/auto-agent-protocol/auto-agent-protocol?style=flat-square&color=blue)](https://github.com/auto-agent-protocol/auto-agent-protocol/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/auto-agent-protocol/auto-agent-protocol?style=flat-square&color=yellow)](https://github.com/auto-agent-protocol/auto-agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/auto-agent-protocol/auto-agent-protocol?style=flat-square&color=blue)](https://github.com/auto-agent-protocol/auto-agent-protocol/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Automotive Agent Protocol
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

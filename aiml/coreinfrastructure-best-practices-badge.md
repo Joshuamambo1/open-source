@@ -1,6 +1,6 @@
 # coreinfrastructure/best-practices-badge
 
-[![Stars](https://img.shields.io/github/stars/coreinfrastructure/best-practices-badge?style=flat-square&color=yellow)](https://github.com/coreinfrastructure/best-practices-badge/stargazers) [![Forks](https://img.shields.io/github/forks/coreinfrastructure/best-practices-badge?style=flat-square&color=blue)](https://github.com/coreinfrastructure/best-practices-badge/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coreinfrastructure/best-practices-badge?style=flat-square&color=yellow)](https://github.com/coreinfrastructure/best-practices-badge/stargazers) [![Forks](https://img.shields.io/github/forks/coreinfrastructure/best-practices-badge?style=flat-square&color=blue)](https://github.com/coreinfrastructure/best-practices-badge/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 224 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

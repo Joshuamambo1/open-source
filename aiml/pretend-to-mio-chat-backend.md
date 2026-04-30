@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Pretend-to/mio-chat-backend?style=flat-square&color=yellow)](https://github.com/Pretend-to/mio-chat-backend/stargazers) [![Forks](https://img.shields.io/github/forks/Pretend-to/mio-chat-backend?style=flat-square&color=blue)](https://github.com/Pretend-to/mio-chat-backend/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> An LLM and Onebot WebUI based on SocketIO, with support for multiple LLM protocols.
+> 666
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend
 
 ## 📝 Summary
 

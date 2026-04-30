@@ -1,6 +1,6 @@
 # themactep/thingino-firmware
 
-[![Stars](https://img.shields.io/github/stars/themactep/thingino-firmware?style=flat-square&color=yellow)](https://github.com/themactep/thingino-firmware/stargazers) [![Forks](https://img.shields.io/github/forks/themactep/thingino-firmware?style=flat-square&color=blue)](https://github.com/themactep/thingino-firmware/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/themactep/thingino-firmware?style=flat-square&color=yellow)](https://github.com/themactep/thingino-firmware/stargazers) [![Forks](https://img.shields.io/github/forks/themactep/thingino-firmware?style=flat-square&color=blue)](https://github.com/themactep/thingino-firmware/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source firmware for Ingenic SoC IP cameras
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

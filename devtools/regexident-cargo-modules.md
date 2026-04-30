@@ -1,6 +1,6 @@
 # regexident/cargo-modules
 
-[![Stars](https://img.shields.io/github/stars/regexident/cargo-modules?style=flat-square&color=yellow)](https://github.com/regexident/cargo-modules/stargazers) [![Forks](https://img.shields.io/github/forks/regexident/cargo-modules?style=flat-square&color=blue)](https://github.com/regexident/cargo-modules/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/regexident/cargo-modules?style=flat-square&color=yellow)](https://github.com/regexident/cargo-modules/stargazers) [![Forks](https://img.shields.io/github/forks/regexident/cargo-modules?style=flat-square&color=blue)](https://github.com/regexident/cargo-modules/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Visualize/analyze a Rust crate's internal structure
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

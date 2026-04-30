@@ -1,6 +1,6 @@
 # BoboTiG/py-candlestick-chart
 
-[![Stars](https://img.shields.io/github/stars/BoboTiG/py-candlestick-chart?style=flat-square&color=yellow)](https://github.com/BoboTiG/py-candlestick-chart/stargazers) [![Forks](https://img.shields.io/github/forks/BoboTiG/py-candlestick-chart?style=flat-square&color=blue)](https://github.com/BoboTiG/py-candlestick-chart/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BoboTiG/py-candlestick-chart?style=flat-square&color=yellow)](https://github.com/BoboTiG/py-candlestick-chart/stargazers) [![Forks](https://img.shields.io/github/forks/BoboTiG/py-candlestick-chart?style=flat-square&color=blue)](https://github.com/BoboTiG/py-candlestick-chart/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Draw candlesticks charts right into your terminal, using Python!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

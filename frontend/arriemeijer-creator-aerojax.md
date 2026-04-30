@@ -1,6 +1,6 @@
 # arriemeijer-creator/AeroJAX
 
-[![Stars](https://img.shields.io/github/stars/arriemeijer-creator/AeroJAX?style=flat-square&color=yellow)](https://github.com/arriemeijer-creator/AeroJAX/stargazers) [![Forks](https://img.shields.io/github/forks/arriemeijer-creator/AeroJAX?style=flat-square&color=blue)](https://github.com/arriemeijer-creator/AeroJAX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arriemeijer-creator/AeroJAX?style=flat-square&color=yellow)](https://github.com/arriemeijer-creator/AeroJAX/stargazers) [![Forks](https://img.shields.io/github/forks/arriemeijer-creator/AeroJAX?style=flat-square&color=blue)](https://github.com/arriemeijer-creator/AeroJAX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > AeroJAX: A differentiable, structure-preserving framework for real-time flow simulation, control, and inverse design. Architected for neural operator integration and latent-space acceleration. Built with JAX.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 58 |
+| ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

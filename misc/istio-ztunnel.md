@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The `ztunnel` component, part of the ambient mesh, is an open-source project that enables secure and efficient communication between services. It facilitates seamless connectivity and data exchange across different environments, promoting a unified and scalable architecture. By leveraging `ztunnel`, developers can simplify service-to-service communication and improve overall system reliability.
+Here's a brief summary for the istio/ztunnel project:
+
+Ztunnel is an open-source component of the Ambient Mesh project, designed to provide a lightweight and secure tunneling solution for network communication. This component enables efficient and reliable data transfer between services, ensuring a seamless experience in distributed architectures. By leveraging ztunnel, developers can build scalable and robust networks with improved performance and security.
 
 ---
 

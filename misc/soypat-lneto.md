@@ -1,6 +1,6 @@
 # soypat/lneto
 
-[![Stars](https://img.shields.io/github/stars/soypat/lneto?style=flat-square&color=yellow)](https://github.com/soypat/lneto/stargazers) [![Forks](https://img.shields.io/github/forks/soypat/lneto?style=flat-square&color=blue)](https://github.com/soypat/lneto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/soypat/lneto?style=flat-square&color=yellow)](https://github.com/soypat/lneto/stargazers) [![Forks](https://img.shields.io/github/forks/soypat/lneto?style=flat-square&color=blue)](https://github.com/soypat/lneto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Userspace networking library. HTTP/TCP/IP/Ethernet/RMII/MDIO/UDP/NTP/DHCP/DNS blabla. Runs on a couple kB of RAM
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

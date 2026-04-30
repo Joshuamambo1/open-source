@@ -1,6 +1,6 @@
 # gtrxAC/discord-j2me
 
-[![Stars](https://img.shields.io/github/stars/gtrxAC/discord-j2me?style=flat-square&color=yellow)](https://github.com/gtrxAC/discord-j2me/stargazers) [![Forks](https://img.shields.io/github/forks/gtrxAC/discord-j2me?style=flat-square&color=blue)](https://github.com/gtrxAC/discord-j2me/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gtrxAC/discord-j2me?style=flat-square&color=yellow)](https://github.com/gtrxAC/discord-j2me/stargazers) [![Forks](https://img.shields.io/github/forks/gtrxAC/discord-j2me?style=flat-square&color=blue)](https://github.com/gtrxAC/discord-j2me/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Discord client for Java ME (MIDP 1.0 & 2.0) devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 417 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

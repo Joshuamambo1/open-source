@@ -1,6 +1,6 @@
 # lzakharov/csv2md
 
-[![Stars](https://img.shields.io/github/stars/lzakharov/csv2md?style=flat-square&color=yellow)](https://github.com/lzakharov/csv2md/stargazers) [![Forks](https://img.shields.io/github/forks/lzakharov/csv2md?style=flat-square&color=blue)](https://github.com/lzakharov/csv2md/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lzakharov/csv2md?style=flat-square&color=yellow)](https://github.com/lzakharov/csv2md/stargazers) [![Forks](https://img.shields.io/github/forks/lzakharov/csv2md?style=flat-square&color=blue)](https://github.com/lzakharov/csv2md/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Command line tool for converting CSV files into Markdown tables.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

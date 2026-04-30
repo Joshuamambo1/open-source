@@ -25,7 +25,7 @@ Design
 
 ## 📝 Summary
 
-This open-source project, "tauri-plugin-desktop-underlay," provides a Tauri plugin for creating a customizable desktop underlay window. This underlay window can be positioned above the wallpaper and below desktop icons, allowing developers to integrate additional features or functionality onto the desktop. The plugin enables users to attach a window to the desktop, adding a new layer of design possibilities for Tauri applications.
+This open-source project, tauri-plugin-desktop-underlay, provides a Tauri plugin that enables developers to create a window as a desktop underlay. By utilizing this plugin, users can create an attached window that sits above the wallpaper and below desktop icons, allowing for seamless integration with the operating system's desktop environment. This design-focused plugin offers a unique way to enhance user interface design in desktop applications.
 
 ---
 

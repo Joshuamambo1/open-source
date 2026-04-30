@@ -1,6 +1,6 @@
 # agourlay/ruxguitar
 
-[![Stars](https://img.shields.io/github/stars/agourlay/ruxguitar?style=flat-square&color=yellow)](https://github.com/agourlay/ruxguitar/stargazers) [![Forks](https://img.shields.io/github/forks/agourlay/ruxguitar?style=flat-square&color=blue)](https://github.com/agourlay/ruxguitar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agourlay/ruxguitar?style=flat-square&color=yellow)](https://github.com/agourlay/ruxguitar/stargazers) [![Forks](https://img.shields.io/github/forks/agourlay/ruxguitar?style=flat-square&color=blue)](https://github.com/agourlay/ruxguitar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Guitar Pro tablature player.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 190 |
+| ⭐ **Stars** | 191 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

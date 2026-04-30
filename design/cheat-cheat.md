@@ -25,7 +25,7 @@ Design
 
 ## 📝 Summary
 
-Cheat is an open-source command-line tool that enables users to create and view interactive cheatsheets. Its primary purpose is to assist *nix system administrators in recalling options for frequently used commands, thereby streamlining their workflow. By providing a centralized repository of cheat codes, cheat aims to increase productivity and reduce the need for manual reference.
+The "cheat" project is an open-source tool that enables users to create and view interactive cheatsheets directly on the command-line. Its primary purpose is to help system administrators recall frequently used command options with ease, without having to memorize them. This tool caters to the needs of those who occasionally require reminders of command-line options.
 
 ---
 

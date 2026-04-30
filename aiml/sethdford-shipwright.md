@@ -1,6 +1,6 @@
 # sethdford/shipwright
 
-[![Stars](https://img.shields.io/github/stars/sethdford/shipwright?style=flat-square&color=yellow)](https://github.com/sethdford/shipwright/stargazers) [![Forks](https://img.shields.io/github/forks/sethdford/shipwright?style=flat-square&color=blue)](https://github.com/sethdford/shipwright/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sethdford/shipwright?style=flat-square&color=yellow)](https://github.com/sethdford/shipwright/stargazers) [![Forks](https://img.shields.io/github/forks/sethdford/shipwright?style=flat-square&color=blue)](https://github.com/sethdford/shipwright/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestrate fully autonomous Claude Code agent teams. Delivery pipelines, fleet operations, DORA metrics, and auto-scaling workers. From GitHub issue to deployed PR — zero human intervention.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

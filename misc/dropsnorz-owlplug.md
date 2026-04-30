@@ -1,6 +1,6 @@
 # DropSnorz/OwlPlug
 
-[![Stars](https://img.shields.io/github/stars/DropSnorz/OwlPlug?style=flat-square&color=yellow)](https://github.com/DropSnorz/OwlPlug/stargazers) [![Forks](https://img.shields.io/github/forks/DropSnorz/OwlPlug?style=flat-square&color=blue)](https://github.com/DropSnorz/OwlPlug/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DropSnorz/OwlPlug?style=flat-square&color=yellow)](https://github.com/DropSnorz/OwlPlug/stargazers) [![Forks](https://img.shields.io/github/forks/DropSnorz/OwlPlug?style=flat-square&color=blue)](https://github.com/DropSnorz/OwlPlug/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Audio plugin manager. Desktop application to manage VST / AU / LV2 plugins on Windows, MacOS and Linux.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 469 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

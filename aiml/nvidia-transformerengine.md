@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The NVIDIA/TransformerEngine is an open-source library designed to accelerate Transformer models on NVIDIA GPUs, achieving improved performance with reduced memory utilization in both training and inference. This library leverages 8-bit and 4-bit floating point precision (FP8 and FP4) on Hopper, Ada, and Blackwell GPUs to optimize model execution. By harnessing the capabilities of these GPUs, developers can efficiently train and deploy large-scale Transformer models.
+Here's a brief summary for the NVIDIA/TransformerEngine project:
+
+TransformerEngine is an open-source library that accelerates Transformer models on NVIDIA GPUs, leveraging advanced precision techniques such as 8-bit (FP8) and 4-bit (FP4) floating-point arithmetic on Hopper, Ada, and Blackwell GPUs. This results in improved performance and reduced memory utilization in both training and inference tasks. By utilizing these techniques, developers can efficiently deploy large-scale Transformer models.
 
 ---
 

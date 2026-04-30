@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Chisel is an open-source, fast TCP/UDP tunnel over HTTP that enables secure and reliable data transmission. It allows users to establish connections between devices on different networks by encapsulating traffic within HTTP requests, making it a versatile solution for various network applications. This project provides a lightweight and efficient way to bypass restrictive network policies or proxy restrictions.
+Chisel is a fast and open-source TCP/UDP tunnel that operates over HTTP, allowing users to securely and efficiently transfer data between two points. This tool is particularly useful for bypassing network restrictions or creating a secure connection in various environments. With Chisel, users can establish a reliable and high-performance tunnel for data transmission.
 
 ---
 

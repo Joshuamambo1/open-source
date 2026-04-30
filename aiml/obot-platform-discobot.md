@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/obot-platform/discobot?style=flat-square&color=yellow)](https://github.com/obot-platform/discobot/stargazers) [![Forks](https://img.shields.io/github/forks/obot-platform/discobot?style=flat-square&color=blue)](https://github.com/obot-platform/discobot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> Coding Agent
+> Coding Agent Session Manager
 
 ## 📊 Stats
 

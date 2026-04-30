@@ -1,6 +1,6 @@
 # tobymao/18xx
 
-[![Stars](https://img.shields.io/github/stars/tobymao/18xx?style=flat-square&color=yellow)](https://github.com/tobymao/18xx/stargazers) [![Forks](https://img.shields.io/github/forks/tobymao/18xx?style=flat-square&color=blue)](https://github.com/tobymao/18xx/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tobymao/18xx?style=flat-square&color=yellow)](https://github.com/tobymao/18xx/stargazers) [![Forks](https://img.shields.io/github/forks/tobymao/18xx?style=flat-square&color=blue)](https://github.com/tobymao/18xx/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A platform for playing 18xx games online!
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 354 |
-| 🍴 **Forks** | 227 |
+| 🍴 **Forks** | 226 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

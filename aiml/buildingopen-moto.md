@@ -1,6 +1,6 @@
 # buildingopen/moto
 
-[![Stars](https://img.shields.io/github/stars/buildingopen/moto?style=flat-square&color=yellow)](https://github.com/buildingopen/moto/stargazers) [![Forks](https://img.shields.io/github/forks/buildingopen/moto?style=flat-square&color=blue)](https://github.com/buildingopen/moto/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buildingopen/moto?style=flat-square&color=yellow)](https://github.com/buildingopen/moto/stargazers) [![Forks](https://img.shields.io/github/forks/buildingopen/moto?style=flat-square&color=blue)](https://github.com/buildingopen/moto/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Floom's terminal IDE for AI agents: Claude control plane, Codex workers, Docker runtime, hooks, skills, memory, and browser/Gmail workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

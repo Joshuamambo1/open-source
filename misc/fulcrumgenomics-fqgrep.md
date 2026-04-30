@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Fqgrep is an open-source tool designed to search and filter FASTQ files, a common format for storing next-generation sequencing data. It allows users to quickly and efficiently find specific sequences or patterns within large FASTQ files, making it an essential resource for genomic researchers and analysts. By leveraging the power of regular expressions, fqgrep enables users to perform complex searches and filtering operations on their FASTQ data.
+Fqgrep is an open-source command-line tool designed to efficiently search through FASTQ files, a format used in bioinformatics for storing DNA or RNA sequencing data. It allows users to quickly locate specific sequences, reads, or patterns within large FASTQ files, making it a valuable resource for research and analysis. Fqgrep provides a fast and convenient way to search through sequencing data, facilitating the discovery and exploration of interesting patterns or anomalies.
 
 ---
 

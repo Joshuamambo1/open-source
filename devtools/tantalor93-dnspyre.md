@@ -1,6 +1,6 @@
 # Tantalor93/dnspyre
 
-[![Stars](https://img.shields.io/github/stars/Tantalor93/dnspyre?style=flat-square&color=yellow)](https://github.com/Tantalor93/dnspyre/stargazers) [![Forks](https://img.shields.io/github/forks/Tantalor93/dnspyre?style=flat-square&color=blue)](https://github.com/Tantalor93/dnspyre/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tantalor93/dnspyre?style=flat-square&color=yellow)](https://github.com/Tantalor93/dnspyre/stargazers) [![Forks](https://img.shields.io/github/forks/Tantalor93/dnspyre?style=flat-square&color=blue)](https://github.com/Tantalor93/dnspyre/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool for a high QPS DNS benchmark
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 292 |
+| ⭐ **Stars** | 293 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

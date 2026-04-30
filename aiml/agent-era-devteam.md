@@ -1,6 +1,6 @@
 # agent-era/devteam
 
-[![Stars](https://img.shields.io/github/stars/agent-era/devteam?style=flat-square&color=yellow)](https://github.com/agent-era/devteam/stargazers) [![Forks](https://img.shields.io/github/forks/agent-era/devteam?style=flat-square&color=blue)](https://github.com/agent-era/devteam/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agent-era/devteam?style=flat-square&color=yellow)](https://github.com/agent-era/devteam/stargazers) [![Forks](https://img.shields.io/github/forks/agent-era/devteam?style=flat-square&color=blue)](https://github.com/agent-era/devteam/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Run a team of local coding agents in your terminal. Launch multiple Claude Code, Codex or Gemini agents, switch between them, review their changes and add comments, and push PRs  all from one streamlined terminal UI. An exercise to push how fast development can happen with multiple parallel agents. Mostly vibe-coded
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 264 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

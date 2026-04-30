@@ -25,9 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here is a brief summary for the open-source project:
+Here's a brief summary for the project:
 
-"claude-sdlc-wizard is an open-source tool that simplifies the software development life cycle (SDLC) for Claude Code users. It automates the setup of essential hooks, skills, and wizards, enabling developers to enforce best practices such as Test-Driven Development (TDD), planning, self-review, and Continuous Integration (CI). This project streamlines the development process for AI/ML projects, making it easier to maintain high-quality code."
+The Claude-SDLC-Wizard is an open-source tool that streamlines software development lifecycle (SDLC) enforcement for Claude Code, integrating TDD, planning, self-review, and CI shepherd functionalities in a single command. This project combines hooks, skills, and a setup wizard to simplify the development process. It is categorized under AI/ML and DevTools, making it a valuable resource for developers working with Claude Code.
 
 ---
 

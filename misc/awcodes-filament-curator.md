@@ -1,6 +1,6 @@
 # awcodes/filament-curator
 
-[![Stars](https://img.shields.io/github/stars/awcodes/filament-curator?style=flat-square&color=yellow)](https://github.com/awcodes/filament-curator/stargazers) [![Forks](https://img.shields.io/github/forks/awcodes/filament-curator?style=flat-square&color=blue)](https://github.com/awcodes/filament-curator/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awcodes/filament-curator?style=flat-square&color=yellow)](https://github.com/awcodes/filament-curator/stargazers) [![Forks](https://img.shields.io/github/forks/awcodes/filament-curator?style=flat-square&color=blue)](https://github.com/awcodes/filament-curator/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A media picker plugin for Filament Panels.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 436 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

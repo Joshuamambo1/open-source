@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The Azure-Samples/remote-mcp-functions project is an open-source initiative providing a centralized hub for Azure Functions implementations supporting Remote MCP (Machine Learning Compiler) servers. This project facilitates access to language-specific repositories, enabling developers to integrate Remote MCP functionality across various programming stacks. By leveraging Azure Functions, developers can easily deploy and manage Remote MCP servers in the cloud.
+The Azure-Samples/remote-mcp-functions project is an open-source initiative that enables developers to utilize Azure Functions with the Remote MCP Server. This project serves as a centralized landing page, providing easy access to language-specific repositories for the Remote MCP Server. By leveraging this platform, developers can streamline their backend development with Azure Functions and Remote MCP Server.
 
 ---
 

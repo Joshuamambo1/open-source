@@ -1,6 +1,6 @@
 # theupdateframework/go-tuf
 
-[![Stars](https://img.shields.io/github/stars/theupdateframework/go-tuf?style=flat-square&color=yellow)](https://github.com/theupdateframework/go-tuf/stargazers) [![Forks](https://img.shields.io/github/forks/theupdateframework/go-tuf?style=flat-square&color=blue)](https://github.com/theupdateframework/go-tuf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theupdateframework/go-tuf?style=flat-square&color=yellow)](https://github.com/theupdateframework/go-tuf/stargazers) [![Forks](https://img.shields.io/github/forks/theupdateframework/go-tuf?style=flat-square&color=blue)](https://github.com/theupdateframework/go-tuf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Go implementation of The Update Framework (TUF)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 702 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

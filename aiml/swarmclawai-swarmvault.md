@@ -1,6 +1,6 @@
 # swarmclawai/swarmvault
 
-[![Stars](https://img.shields.io/github/stars/swarmclawai/swarmvault?style=flat-square&color=yellow)](https://github.com/swarmclawai/swarmvault/stargazers) [![Forks](https://img.shields.io/github/forks/swarmclawai/swarmvault?style=flat-square&color=blue)](https://github.com/swarmclawai/swarmvault/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swarmclawai/swarmvault?style=flat-square&color=yellow)](https://github.com/swarmclawai/swarmvault/stargazers) [![Forks](https://img.shields.io/github/forks/swarmclawai/swarmvault?style=flat-square&color=blue)](https://github.com/swarmclawai/swarmvault/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 290 |
+| ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

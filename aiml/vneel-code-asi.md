@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/vNeeL-code/ASI?style=flat-square&color=yellow)](https://github.com/vNeeL-code/ASI/stargazers) [![Forks](https://img.shields.io/github/forks/vNeeL-code/ASI?style=flat-square&color=blue)](https://github.com/vNeeL-code/ASI/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Agentic ✧ Gemma Instance for Android System Intelligence
+> Agentic ✧ Gemma Inference for Android System Intelligence
 
 ## 📊 Stats
 

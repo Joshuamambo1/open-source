@@ -1,6 +1,6 @@
 # dovvnloading/Cortex
 
-[![Stars](https://img.shields.io/github/stars/dovvnloading/Cortex?style=flat-square&color=yellow)](https://github.com/dovvnloading/Cortex/stargazers) [![Forks](https://img.shields.io/github/forks/dovvnloading/Cortex?style=flat-square&color=blue)](https://github.com/dovvnloading/Cortex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dovvnloading/Cortex?style=flat-square&color=yellow)](https://github.com/dovvnloading/Cortex/stargazers) [![Forks](https://img.shields.io/github/forks/dovvnloading/Cortex?style=flat-square&color=blue)](https://github.com/dovvnloading/Cortex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Cortex is a private, secure, and highly responsive desktop AI assistant designed for seamless interaction with local Large Language Models (LLMs) through the Ollama framework. All models and data stay on your device, no cloud, no third parties.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

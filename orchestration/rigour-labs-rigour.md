@@ -1,6 +1,6 @@
 # rigour-labs/rigour
 
-[![Stars](https://img.shields.io/github/stars/rigour-labs/rigour?style=flat-square&color=yellow)](https://github.com/rigour-labs/rigour/stargazers) [![Forks](https://img.shields.io/github/forks/rigour-labs/rigour?style=flat-square&color=blue)](https://github.com/rigour-labs/rigour/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rigour-labs/rigour?style=flat-square&color=yellow)](https://github.com/rigour-labs/rigour/stargazers) [![Forks](https://img.shields.io/github/forks/rigour-labs/rigour?style=flat-square&color=blue)](https://github.com/rigour-labs/rigour/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The immune system for AI coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **12572** |
+| 🗂️ **Total projects** | **12634** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4800 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2447 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1224 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 971 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 765 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 746 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 451 | [Browse →](./crypto/) |
-| 📊 **Data** | 282 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 276 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 155 | [Browse →](./mobile/) |
+| 🤖 **AI/ML** | 4819 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2463 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1228 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 979 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 768 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 750 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 452 | [Browse →](./crypto/) |
+| 📊 **Data** | 286 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 277 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 156 | [Browse →](./mobile/) |
 | 💳 **Payments** | 133 | [Browse →](./payments/) |
-| 📈 **Trading** | 129 | [Browse →](./trading/) |
+| 📈 **Trading** | 130 | [Browse →](./trading/) |
 | 🔐 **Security** | 109 | [Browse →](./security/) |
 | ✨ **Design** | 37 | [Browse →](./design/) |
 | 🎯 **Product** | 25 | [Browse →](./product/) |
@@ -44,11 +44,11 @@
 | 3 | [serverless/serverless](./aiml/serverless-serverless.md) | ⭐ 46.9k | AI/ML |
 | 4 | [appium/appium](./frontend/appium-appium.md) | ⭐ 21.5k | Frontend |
 | 5 | [jnMetaCode/agency-agents-zh](./crypto/jnmetacode-agency-agents-zh.md) | ⭐ 9.2k | Crypto |
-| 6 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
-| 7 | [yeasy/docker_practice](./aiml/yeasy-docker-practice.md) | ⭐ 26k | AI/ML |
-| 8 | [Gallopsled/pwntools](./misc/gallopsled-pwntools.md) | ⭐ 13.4k | Misc |
-| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 10 | [frappe/frappe](./aiml/frappe-frappe.md) | ⭐ 10k | AI/ML |
+| 6 | [xbmc/xbmc](./aiml/xbmc-xbmc.md) | ⭐ 20.7k | AI/ML |
+| 7 | [Canner/WrenAI](./aiml/canner-wrenai.md) | ⭐ 15k | AI/ML |
+| 8 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
+| 9 | [ossrs/srs](./backend/ossrs-srs.md) | ⭐ 28.8k | Backend |
+| 10 | [psf/black](./misc/psf-black.md) | ⭐ 41.5k | Misc |
 
 ## 🚀 How it works
 

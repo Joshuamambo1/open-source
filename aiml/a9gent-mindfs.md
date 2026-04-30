@@ -1,6 +1,6 @@
 # a9gent/mindfs
 
-[![Stars](https://img.shields.io/github/stars/a9gent/mindfs?style=flat-square&color=yellow)](https://github.com/a9gent/mindfs/stargazers) [![Forks](https://img.shields.io/github/forks/a9gent/mindfs?style=flat-square&color=blue)](https://github.com/a9gent/mindfs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/a9gent/mindfs?style=flat-square&color=yellow)](https://github.com/a9gent/mindfs/stargazers) [![Forks](https://img.shields.io/github/forks/a9gent/mindfs?style=flat-square&color=blue)](https://github.com/a9gent/mindfs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Access your personal AI agents and workstation data anywhere, anytime through MindFS.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 308 |
-| 🍴 **Forks** | 18 |
+| ⭐ **Stars** | 315 |
+| 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

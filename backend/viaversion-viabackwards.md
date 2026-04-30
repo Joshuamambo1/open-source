@@ -1,6 +1,6 @@
 # ViaVersion/ViaBackwards
 
-[![Stars](https://img.shields.io/github/stars/ViaVersion/ViaBackwards?style=flat-square&color=yellow)](https://github.com/ViaVersion/ViaBackwards/stargazers) [![Forks](https://img.shields.io/github/forks/ViaVersion/ViaBackwards?style=flat-square&color=blue)](https://github.com/ViaVersion/ViaBackwards/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ViaVersion/ViaBackwards?style=flat-square&color=yellow)](https://github.com/ViaVersion/ViaBackwards/stargazers) [![Forks](https://img.shields.io/github/forks/ViaVersion/ViaBackwards?style=flat-square&color=blue)](https://github.com/ViaVersion/ViaBackwards/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Allows older clients to connect to newer server versions for Minecraft servers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 589 |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # esmnext/esmx
 
-[![Stars](https://img.shields.io/github/stars/esmnext/esmx?style=flat-square&color=yellow)](https://github.com/esmnext/esmx/stargazers) [![Forks](https://img.shields.io/github/forks/esmnext/esmx?style=flat-square&color=blue)](https://github.com/esmnext/esmx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/esmnext/esmx?style=flat-square&color=yellow)](https://github.com/esmnext/esmx/stargazers) [![Forks](https://img.shields.io/github/forks/esmnext/esmx?style=flat-square&color=blue)](https://github.com/esmnext/esmx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Next-generation micro-frontend framework based on ESM, sandbox-free with zero runtime overhead, supporting multi-framework hybrid development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 665 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

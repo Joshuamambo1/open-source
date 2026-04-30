@@ -1,6 +1,6 @@
 # friuns2/codexUI
 
-[![Stars](https://img.shields.io/github/stars/friuns2/codexUI?style=flat-square&color=yellow)](https://github.com/friuns2/codexUI/stargazers) [![Forks](https://img.shields.io/github/forks/friuns2/codexUI?style=flat-square&color=blue)](https://github.com/friuns2/codexUI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/friuns2/codexUI?style=flat-square&color=yellow)](https://github.com/friuns2/codexUI/stargazers) [![Forks](https://img.shields.io/github/forks/friuns2/codexUI?style=flat-square&color=blue)](https://github.com/friuns2/codexUI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Run Codex App UI Anywhere: Linux, Windows, or Termux on Android 🚀
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 345 |
-| 🍴 **Forks** | 71 |
+| ⭐ **Stars** | 348 |
+| 🍴 **Forks** | 72 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

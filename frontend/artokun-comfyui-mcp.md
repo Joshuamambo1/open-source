@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The comfyui-mcp project is an open-source platform that integrates a MCP (Model Composition Platform) server with the Claude Code plugin to streamline workflow execution, visualization, and composition. It offers robust features for model management, skill generation, and workflow orchestration, making it a versatile tool for various applications. This project enables developers to create, manage, and execute complex workflows with ease.
+ComfyUI MCP is an open-source framework that provides a comprehensive platform for workflow execution, visualization, composition, model management, and skill generation. This project combines a ComfyUI MCP server with the Claude Code plugin, offering a robust backend and frontend solution for developers and users alike. By leveraging this framework, users can streamline complex tasks and workflows, making it an ideal choice for various applications and industries.
 
 ---
 

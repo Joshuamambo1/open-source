@@ -25,7 +25,7 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-BlockchainCommons/Learning-Bitcoin-from-the-Command-Line is an open-source project offering a comprehensive, self-paced course for mastering Bitcoin programming and usage from the command line. Through interactive tutorials and exercises, users can gain hands-on experience with Bitcoin development, enabling them to build and integrate Bitcoin applications into their projects. This course is suitable for developers, crypto enthusiasts, and anyone interested in learning about Bitcoin programming.
+The "Learning Bitcoin from the Command Line" project is an open-source comprehensive course that provides hands-on training in Bitcoin programming and usage. Through a series of command-line exercises, users can gain a deep understanding of Bitcoin fundamentals, from basic operations to advanced development. This resource is ideal for developers, researchers, and enthusiasts looking to master Bitcoin programming and its applications in the fields of crypto and AI/ML.
 
 ---
 

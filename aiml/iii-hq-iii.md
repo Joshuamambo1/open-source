@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/iii-hq/iii?style=flat-square&color=yellow)](https://github.com/iii-hq/iii/stargazers) [![Forks](https://img.shields.io/github/forks/iii-hq/iii?style=flat-square&color=blue)](https://github.com/iii-hq/iii/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+> iii makes service integration as effortless as npm install or cargo add by unifying every service into a simple abstraction: Workers, Triggers, and Functions. Effortlessly compose services for the first time ever.
 
 ## 📊 Stats
 

@@ -1,17 +1,17 @@
 # novalagung/hl7-mllp-mock-server
 
-[![Stars](https://img.shields.io/github/stars/novalagung/hl7-mllp-mock-server?style=flat-square&color=yellow)](https://github.com/novalagung/hl7-mllp-mock-server/stargazers) [![Forks](https://img.shields.io/github/forks/novalagung/hl7-mllp-mock-server?style=flat-square&color=blue)](https://github.com/novalagung/hl7-mllp-mock-server/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/novalagung/hl7-mllp-mock-server?style=flat-square&color=yellow)](https://github.com/novalagung/hl7-mllp-mock-server/stargazers) [![Forks](https://img.shields.io/github/forks/novalagung/hl7-mllp-mock-server?style=flat-square&color=blue)](https://github.com/novalagung/hl7-mllp-mock-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> MLLPong - HL7 MLLP Mock Server. A lightweight mock server for HL7 v2 messages over MLLP (Minimal Lower Layer Protocol). Useful for testing HL7 integrations without a real receiver.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 

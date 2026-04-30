@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Byok-relay is an open-source project that enables users to self-host proxy services for Bring Your Own Key (BYOK) Large Language Model (LLM) applications, thereby resolving CORS (Cross-Origin Resource Sharing) issues that hinder seamless interactions between these models and web applications. This solution empowers developers to maintain control and security over their LLM apps. Byok-relay facilitates more efficient and reliable integrations between web applications and LLM models.
+Byok-relay is an open-source project that provides a self-hosted proxy solution for BYOK (Bring Your Own Key) Large Language Model (LLM) applications, eliminating CORS (Cross-Origin Resource Sharing) issues that often hinder seamless integration. This project enables users to host their own proxy, ensuring secure and unrestricted access to their BYOK LLM apps. Byok-relay facilitates a smoother development experience for AI/ML applications.
 
 ---
 

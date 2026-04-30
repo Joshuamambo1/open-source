@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the j3ssie/osmedeus project:
-
-osmedeus is an open-source, modern orchestration engine designed for security tasks, providing a powerful platform for automating and streamlining security operations. This project integrates AI/ML capabilities to enhance its automation features and improve overall efficiency. With osmedeus, security professionals can create custom workflows, integrate various tools, and optimize their workflow management to respond more effectively to security threats.
+j3ssie/osmedeus is an open-source project that provides a modern orchestration engine for security, designed to streamline and automate various security tasks and workflows. This powerful tool utilizes AI/ML capabilities to enhance the efficiency and effectiveness of security operations. By harnessing the potential of orchestration, osmedeus empowers security professionals to tackle complex threats with precision and speed.
 
 ---
 

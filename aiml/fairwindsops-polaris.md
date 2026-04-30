@@ -1,6 +1,6 @@
 # FairwindsOps/polaris
 
-[![Stars](https://img.shields.io/github/stars/FairwindsOps/polaris?style=flat-square&color=yellow)](https://github.com/FairwindsOps/polaris/stargazers) [![Forks](https://img.shields.io/github/forks/FairwindsOps/polaris?style=flat-square&color=blue)](https://github.com/FairwindsOps/polaris/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FairwindsOps/polaris?style=flat-square&color=yellow)](https://github.com/FairwindsOps/polaris/stargazers) [![Forks](https://img.shields.io/github/forks/FairwindsOps/polaris?style=flat-square&color=blue)](https://github.com/FairwindsOps/polaris/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Validation of best practices in your Kubernetes clusters
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

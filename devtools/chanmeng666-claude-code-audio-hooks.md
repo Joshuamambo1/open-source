@@ -1,6 +1,6 @@
 # ChanMeng666/claude-code-audio-hooks
 
-[![Stars](https://img.shields.io/github/stars/ChanMeng666/claude-code-audio-hooks?style=flat-square&color=yellow)](https://github.com/ChanMeng666/claude-code-audio-hooks/stargazers) [![Forks](https://img.shields.io/github/forks/ChanMeng666/claude-code-audio-hooks?style=flat-square&color=blue)](https://github.com/ChanMeng666/claude-code-audio-hooks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChanMeng666/claude-code-audio-hooks?style=flat-square&color=yellow)](https://github.com/ChanMeng666/claude-code-audio-hooks/stargazers) [![Forks](https://img.shields.io/github/forks/ChanMeng666/claude-code-audio-hooks?style=flat-square&color=blue)](https://github.com/ChanMeng666/claude-code-audio-hooks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 【Stars make the code shine brighter!⭐️】🔊 Audio notification system for Claude Code that plays sound alerts when Claude finishes responding. Perfect for multitasking!
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 52 |
+| ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

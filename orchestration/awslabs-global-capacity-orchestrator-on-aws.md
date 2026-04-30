@@ -25,7 +25,7 @@ Orchestration
 
 ## 📝 Summary
 
-The Global Capacity Orchestrator is an open-source project designed to simplify the management of multi-region AWS compute resources. This tool enables users to orchestrate and scale compute capacity across various AWS regions, streamlining the process of deploying and managing applications across a global footprint. By leveraging this project, developers can efficiently manage their infrastructure and reduce the complexity of working with multiple AWS regions.
+The Global Capacity Orchestrator is an open-source project for multi-region AWS compute orchestration. It enables users to manage and scale cloud resources across various AWS regions, streamlining the process of deploying and managing applications with high availability and resilience. This project aims to simplify the complexity of AWS resource management, making it more efficient and cost-effective.
 
 ---
 

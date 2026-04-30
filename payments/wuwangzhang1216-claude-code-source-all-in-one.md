@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/wuwangzhang1216/claude-code-source-all-in-one?style=flat-square&color=yellow)](https://github.com/wuwangzhang1216/claude-code-source-all-in-one/stargazers) [![Forks](https://img.shields.io/github/forks/wuwangzhang1216/claude-code-source-all-in-one?style=flat-square&color=blue)](https://github.com/wuwangzhang1216/claude-code-source-all-in-one/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Always up-to-date open-source mirror of Claude Code with GPT-5.4 support. Run Claude Code from source with Claude or GPT models via ChatGPT subscription. 18 deep-dive architecture articles included. For educational and reference purposes only.
+> Always up-to-date open-source mirror of Claude Code (currently v2.1.123). Run from source with Claude subscription/API, ChatGPT subscription (GPT-5.5 / GPT-5.4), OpenAI-compatible providers, or local Ollama. 18 deep-dive architecture articles included. For educational and reference purposes only.
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # connectrpc/connect-go
 
-[![Stars](https://img.shields.io/github/stars/connectrpc/connect-go?style=flat-square&color=yellow)](https://github.com/connectrpc/connect-go/stargazers) [![Forks](https://img.shields.io/github/forks/connectrpc/connect-go?style=flat-square&color=blue)](https://github.com/connectrpc/connect-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/connectrpc/connect-go?style=flat-square&color=yellow)](https://github.com/connectrpc/connect-go/stargazers) [![Forks](https://img.shields.io/github/forks/connectrpc/connect-go?style=flat-square&color=blue)](https://github.com/connectrpc/connect-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > The Go implementation of Connect: Protobuf RPC that works.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

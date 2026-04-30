@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**132 projects** in this category.
+**133 projects** in this category.
 
 ## Projects
 
@@ -47,8 +47,8 @@
 | 37 | [NVIDIA/Model-Optimizer](./nvidia-model-optimizer.md) | ⭐ 2.6k | Python | 64/100 |
 | 38 | [cypht-org/cypht](./cypht-org-cypht.md) | ⭐ 1.5k | PHP | 64/100 |
 | 39 | [skforecast/skforecast](./skforecast-skforecast.md) | ⭐ 1.5k | Python | 63/100 |
-| 40 | [NVIDIA/cuda-quantum](./nvidia-cuda-quantum.md) | ⭐ 1k | C++ | 63/100 |
-| 41 | [amitshekhariitbhu/ai-engineering-interview-questions](./amitshekhariitbhu-ai-engineering-interview-questions.md) | ⭐ 1.3k | Markdown | 63/100 |
+| 40 | [amitshekhariitbhu/ai-engineering-interview-questions](./amitshekhariitbhu-ai-engineering-interview-questions.md) | ⭐ 1.3k | Markdown | 63/100 |
+| 41 | [NVIDIA/cuda-quantum](./nvidia-cuda-quantum.md) | ⭐ 1k | C++ | 63/100 |
 | 42 | [gdsfactory/gdsfactory](./gdsfactory-gdsfactory.md) | ⭐ 913 | Python | 62/100 |
 | 43 | [openvinotoolkit/nncf](./openvinotoolkit-nncf.md) | ⭐ 1.2k | Python | 62/100 |
 | 44 | [PaPerseller/chn-iplist](./paperseller-chn-iplist.md) | ⭐ 1.2k | RouterOS Script | 61/100 |
@@ -58,13 +58,13 @@
 | 48 | [BetterTyped/hyper-fetch](./bettertyped-hyper-fetch.md) | ⭐ 1.3k | TypeScript | 60/100 |
 | 49 | [ModelCloud/GPTQModel](./modelcloud-gptqmodel.md) | ⭐ 1.1k | Python | 59/100 |
 | 50 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 914 | Rust | 59/100 |
-| 51 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 982 | Python | 59/100 |
-| 52 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 621 | Python | 59/100 |
+| 51 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 621 | Python | 59/100 |
+| 52 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 983 | Python | 59/100 |
 | 53 | [tcgdex/cards-database](./tcgdex-cards-database.md) | ⭐ 756 | TypeScript | 58/100 |
 | 54 | [abshare/abshare.github.io](./abshare-abshare.github.io.md) | ⭐ 981 | — | 58/100 |
 | 55 | [himself65/finance-skills](./himself65-finance-skills.md) | ⭐ 1.4k | TypeScript | 57/100 |
-| 56 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 719 | Java | 57/100 |
-| 57 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 705 | Jupyter Notebook | 57/100 |
+| 56 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 705 | Jupyter Notebook | 57/100 |
+| 57 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 719 | Java | 57/100 |
 | 58 | [jobisoft/TbSync](./jobisoft-tbsync.md) | ⭐ 881 | JavaScript | 56/100 |
 | 59 | [mtex-toolbox/mtex](./mtex-toolbox-mtex.md) | ⭐ 360 | MATLAB | 56/100 |
 | 60 | [freqtrade/technical](./freqtrade-technical.md) | ⭐ 997 | Python | 56/100 |
@@ -74,72 +74,73 @@
 | 64 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 611 | Swift | 55/100 |
 | 65 | [jnlaoshu/MySelf](./jnlaoshu-myself.md) | ⭐ 547 | JavaScript | 55/100 |
 | 66 | [ryanfrigo/kalshi-ai-trading-bot](./ryanfrigo-kalshi-ai-trading-bot.md) | ⭐ 384 | Python | 55/100 |
-| 67 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 424 | Python | 54/100 |
-| 68 | [quantumlib/ReCirq](./quantumlib-recirq.md) | ⭐ 304 | Python | 54/100 |
-| 69 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
-| 70 | [IntQuant/noita_entangled_worlds](./intquant-noita-entangled-worlds.md) | ⭐ 1.1k | Rust | 54/100 |
-| 71 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 448 | Rust | 54/100 |
+| 67 | [quantumlib/ReCirq](./quantumlib-recirq.md) | ⭐ 304 | Python | 54/100 |
+| 68 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 448 | Rust | 54/100 |
+| 69 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 424 | Python | 54/100 |
+| 70 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
+| 71 | [IntQuant/noita_entangled_worlds](./intquant-noita-entangled-worlds.md) | ⭐ 1.1k | Rust | 54/100 |
 | 72 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 783 | Rust | 54/100 |
-| 73 | [dragon1086/prism-insight](./dragon1086-prism-insight.md) | ⭐ 569 | Python | 53/100 |
-| 74 | [Picovoice/picollm](./picovoice-picollm.md) | ⭐ 311 | Python | 53/100 |
-| 75 | [tolinkshare2/tolinkshare2.github.io](./tolinkshare2-tolinkshare2.github.io.md) | ⭐ 383 | — | 53/100 |
-| 76 | [quantumaikr/quant.cpp](./quantumaikr-quant.cpp.md) | ⭐ 385 | C | 53/100 |
-| 77 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
+| 73 | [tolinkshare2/tolinkshare2.github.io](./tolinkshare2-tolinkshare2.github.io.md) | ⭐ 383 | — | 53/100 |
+| 74 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
+| 75 | [dragon1086/prism-insight](./dragon1086-prism-insight.md) | ⭐ 569 | Python | 53/100 |
+| 76 | [Picovoice/picollm](./picovoice-picollm.md) | ⭐ 311 | Python | 53/100 |
+| 77 | [quantumaikr/quant.cpp](./quantumaikr-quant.cpp.md) | ⭐ 385 | C | 53/100 |
 | 78 | [joaquinbejar/OptionStratLib](./joaquinbejar-optionstratlib.md) | ⭐ 200 | Rust | 52/100 |
 | 79 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 234 | Rust | 52/100 |
-| 80 | [aarora4/Awesome-Prediction-Market-Tools](./aarora4-awesome-prediction-market-tools.md) | ⭐ 330 | — | 52/100 |
-| 81 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 187 | Go | 52/100 |
-| 82 | [Kaden-Schutt/hipfire](./kaden-schutt-hipfire.md) | ⭐ 271 | Rust | 52/100 |
-| 83 | [tastyware/tastytrade](./tastyware-tastytrade.md) | ⭐ 222 | Python | 51/100 |
+| 80 | [8b-is/smart-tree](./8b-is-smart-tree.md) | ⭐ 236 | Rust | 52/100 |
+| 81 | [aarora4/Awesome-Prediction-Market-Tools](./aarora4-awesome-prediction-market-tools.md) | ⭐ 330 | — | 52/100 |
+| 82 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 187 | Go | 52/100 |
+| 83 | [Kaden-Schutt/hipfire](./kaden-schutt-hipfire.md) | ⭐ 271 | Rust | 52/100 |
 | 84 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 94 | Python | 51/100 |
 | 85 | [tensorcircuit/tensorcircuit-ng](./tensorcircuit-tensorcircuit-ng.md) | ⭐ 71 | Python | 51/100 |
 | 86 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 63 | Shell | 51/100 |
 | 87 | [QuantConnect/lean-cli](./quantconnect-lean-cli.md) | ⭐ 300 | Python | 51/100 |
 | 88 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 122 | Python | 51/100 |
-| 89 | [flukelaster/ai-trading-agent](./flukelaster-ai-trading-agent.md) | ⭐ 37 | Python | 51/100 |
-| 90 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 101 | Python | 51/100 |
-| 91 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 158 | Rust | 51/100 |
-| 92 | [OnePunchMonk/AgentQuant](./onepunchmonk-agentquant.md) | ⭐ 94 | Python | 51/100 |
-| 93 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 73 | Python | 51/100 |
-| 94 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 139 | Python | 51/100 |
-| 95 | [cclib/cclib](./cclib-cclib.md) | ⭐ 405 | Python | 51/100 |
-| 96 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 123 | Go | 51/100 |
-| 97 | [okx/agent-skills](./okx-agent-skills.md) | ⭐ 101 | Shell | 51/100 |
-| 98 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 154 | Rust | 51/100 |
-| 99 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
-| 100 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 50/100 |
-| 101 | [Miasyster/QuantGPT](./miasyster-quantgpt.md) | ⭐ 39 | Python | 50/100 |
-| 102 | [wakatime/wakatime-cli](./wakatime-wakatime-cli.md) | ⭐ 428 | Go | 50/100 |
-| 103 | [LLMQuant/quant-mind](./llmquant-quant-mind.md) | ⭐ 153 | Python | 50/100 |
-| 104 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 26 | Swift | 50/100 |
-| 105 | [TradingGoose/TradingGoose-Studio](./tradinggoose-tradinggoose-studio.md) | ⭐ 57 | TypeScript | 50/100 |
-| 106 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 29 | Python | 50/100 |
-| 107 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 282 | Jupyter Notebook | 49/100 |
-| 108 | [staskh/trading_skills](./staskh-trading-skills.md) | ⭐ 132 | Python | 49/100 |
-| 109 | [OctopusTakopi/binance_l3_est](./octopustakopi-binance-l3-est.md) | ⭐ 214 | Rust | 49/100 |
-| 110 | [btopn/OpenInsider-MCP](./btopn-openinsider-mcp.md) | ⭐ 74 | TypeScript | 49/100 |
-| 111 | [SparkEngineAI/QuantClaw-plugin](./sparkengineai-quantclaw-plugin.md) | ⭐ 101 | TypeScript | 49/100 |
-| 112 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 49/100 |
-| 113 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 153 | Rust | 48/100 |
-| 114 | [No-Trade-No-Life/Yuan](./no-trade-no-life-yuan.md) | ⭐ 350 | TypeScript | 48/100 |
-| 115 | [andyzengmath/quantum-loop](./andyzengmath-quantum-loop.md) | ⭐ 22 | Shell | 48/100 |
-| 116 | [twjackysu/TWSEMCPServer](./twjackysu-twsemcpserver.md) | ⭐ 78 | Python | 47/100 |
-| 117 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 302 | Rust | 47/100 |
-| 118 | [eriirfos-eng/ternary-intelligence-stack](./eriirfos-eng-ternary-intelligence-stack.md) | ⭐ 12 | Rust | 46/100 |
-| 119 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 46/100 |
-| 120 | [ConteurShadow/Polymarket-Trading-Bot-Rust](./conteurshadow-polymarket-trading-bot-rust.md) | ⭐ 245 | Rust | 46/100 |
-| 121 | [itsubaki/q](./itsubaki-q.md) | ⭐ 279 | Go | 46/100 |
-| 122 | [tinmanlabsl/qvac-gemma4-patch](./tinmanlabsl-qvac-gemma4-patch.md) | ⭐ 2 | C++ | 46/100 |
-| 123 | [deepentropy/ibx](./deepentropy-ibx.md) | ⭐ 115 | Rust | 45/100 |
-| 124 | [tqec/tqec](./tqec-tqec.md) | ⭐ 359 | Python | 44/100 |
-| 125 | [rivar0107/autostrategy](./rivar0107-autostrategy.md) | ⭐ 14 | Python | 44/100 |
-| 126 | [msuzen/leymosun](./msuzen-leymosun.md) | ⭐ 8 | Jupyter Notebook | 42/100 |
-| 127 | [valory-xyz/trader](./valory-xyz-trader.md) | ⭐ 66 | Python | 41/100 |
-| 128 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 141 | Rust | 41/100 |
-| 129 | [adam-s/alphadidactic](./adam-s-alphadidactic.md) | ⭐ 38 | Python | 41/100 |
-| 130 | [Icemap/duckdb-vector-index](./icemap-duckdb-vector-index.md) | ⭐ 5 | C++ | 36/100 |
-| 131 | [qumulator/qumulator-sdk](./qumulator-qumulator-sdk.md) | ⭐ 17 | Python | 36/100 |
-| 132 | [cirosantilli/test-octopus-100k](./cirosantilli-test-octopus-100k.md) | ⭐ 36 | — | 20/100 |
+| 89 | [tastyware/tastytrade](./tastyware-tastytrade.md) | ⭐ 222 | Python | 51/100 |
+| 90 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 158 | Rust | 51/100 |
+| 91 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 139 | Python | 51/100 |
+| 92 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 154 | Rust | 51/100 |
+| 93 | [flukelaster/ai-trading-agent](./flukelaster-ai-trading-agent.md) | ⭐ 37 | Python | 51/100 |
+| 94 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 101 | Python | 51/100 |
+| 95 | [OnePunchMonk/AgentQuant](./onepunchmonk-agentquant.md) | ⭐ 94 | Python | 51/100 |
+| 96 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 73 | Python | 51/100 |
+| 97 | [cclib/cclib](./cclib-cclib.md) | ⭐ 405 | Python | 51/100 |
+| 98 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 123 | Go | 51/100 |
+| 99 | [okx/agent-skills](./okx-agent-skills.md) | ⭐ 101 | Shell | 51/100 |
+| 100 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 36 | JavaScript | 50/100 |
+| 101 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 50/100 |
+| 102 | [Miasyster/QuantGPT](./miasyster-quantgpt.md) | ⭐ 39 | Python | 50/100 |
+| 103 | [wakatime/wakatime-cli](./wakatime-wakatime-cli.md) | ⭐ 428 | Go | 50/100 |
+| 104 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 29 | Python | 50/100 |
+| 105 | [LLMQuant/quant-mind](./llmquant-quant-mind.md) | ⭐ 153 | Python | 50/100 |
+| 106 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 26 | Swift | 50/100 |
+| 107 | [TradingGoose/TradingGoose-Studio](./tradinggoose-tradinggoose-studio.md) | ⭐ 57 | TypeScript | 50/100 |
+| 108 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 282 | Jupyter Notebook | 49/100 |
+| 109 | [staskh/trading_skills](./staskh-trading-skills.md) | ⭐ 132 | Python | 49/100 |
+| 110 | [OctopusTakopi/binance_l3_est](./octopustakopi-binance-l3-est.md) | ⭐ 214 | Rust | 49/100 |
+| 111 | [btopn/OpenInsider-MCP](./btopn-openinsider-mcp.md) | ⭐ 74 | TypeScript | 49/100 |
+| 112 | [SparkEngineAI/QuantClaw-plugin](./sparkengineai-quantclaw-plugin.md) | ⭐ 101 | TypeScript | 49/100 |
+| 113 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 49/100 |
+| 114 | [andyzengmath/quantum-loop](./andyzengmath-quantum-loop.md) | ⭐ 22 | Shell | 48/100 |
+| 115 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 153 | Rust | 48/100 |
+| 116 | [No-Trade-No-Life/Yuan](./no-trade-no-life-yuan.md) | ⭐ 350 | TypeScript | 48/100 |
+| 117 | [twjackysu/TWSEMCPServer](./twjackysu-twsemcpserver.md) | ⭐ 78 | Python | 47/100 |
+| 118 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 302 | Rust | 47/100 |
+| 119 | [eriirfos-eng/ternary-intelligence-stack](./eriirfos-eng-ternary-intelligence-stack.md) | ⭐ 12 | Rust | 46/100 |
+| 120 | [quantamixsol/graqle](./quantamixsol-graqle.md) | ⭐ 22 | Python | 46/100 |
+| 121 | [ConteurShadow/Polymarket-Trading-Bot-Rust](./conteurshadow-polymarket-trading-bot-rust.md) | ⭐ 245 | Rust | 46/100 |
+| 122 | [itsubaki/q](./itsubaki-q.md) | ⭐ 279 | Go | 46/100 |
+| 123 | [tinmanlabsl/qvac-gemma4-patch](./tinmanlabsl-qvac-gemma4-patch.md) | ⭐ 2 | C++ | 46/100 |
+| 124 | [deepentropy/ibx](./deepentropy-ibx.md) | ⭐ 115 | Rust | 45/100 |
+| 125 | [tqec/tqec](./tqec-tqec.md) | ⭐ 359 | Python | 44/100 |
+| 126 | [rivar0107/autostrategy](./rivar0107-autostrategy.md) | ⭐ 14 | Python | 44/100 |
+| 127 | [msuzen/leymosun](./msuzen-leymosun.md) | ⭐ 8 | Jupyter Notebook | 42/100 |
+| 128 | [valory-xyz/trader](./valory-xyz-trader.md) | ⭐ 66 | Python | 41/100 |
+| 129 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 141 | Rust | 41/100 |
+| 130 | [adam-s/alphadidactic](./adam-s-alphadidactic.md) | ⭐ 38 | Python | 41/100 |
+| 131 | [Icemap/duckdb-vector-index](./icemap-duckdb-vector-index.md) | ⭐ 5 | C++ | 36/100 |
+| 132 | [qumulator/qumulator-sdk](./qumulator-qumulator-sdk.md) | ⭐ 17 | Python | 36/100 |
+| 133 | [cirosantilli/test-octopus-100k](./cirosantilli-test-octopus-100k.md) | ⭐ 36 | — | 20/100 |
 
 ---
 

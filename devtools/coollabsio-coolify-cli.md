@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The coollabsio/coolify-cli project is an open-source command-line interface (CLI) for Coolify, a tool designed to optimize and fine-tune applications for performance. This CLI allows users to easily manage and customize Coolify settings from the comfort of their terminal. By providing a streamlined interface, developers can quickly and efficiently optimize their applications for better performance.
+The coolify-cli is an open-source command-line interface (CLI) for Coolify, a tool designed to optimize and personalize user experiences. This CLI allows developers to manage and automate various tasks related to Coolify, enhancing productivity and efficiency in web development workflows. With coolify-cli, users can easily integrate Coolify's features into their project pipelines.
 
 ---
 

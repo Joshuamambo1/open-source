@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Utilyze is an open-source project that measures the efficiency of a Graphics Processing Unit's (GPU) utilization, providing insights into how effectively the device is performing useful work. This tool aims to help users optimize their system's GPU performance by identifying areas of inefficiency. By analyzing GPU utilization, users can make informed decisions to improve their system's overall performance.
+Utilyze is an open-source project that measures the efficiency of a GPU's workload, providing insight into how effectively graphical processing units are utilizing their capabilities. This tool helps users understand the balance between computational tasks and system resources, allowing for optimizations to be made. By monitoring GPU performance, Utilyze enables users to refine their system's efficiency and performance.
 
 ---
 

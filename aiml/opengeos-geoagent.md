@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/opengeos/GeoAgent?style=flat-square&color=yellow)](https://github.com/opengeos/GeoAgent/stargazers) [![Forks](https://img.shields.io/github/forks/opengeos/GeoAgent?style=flat-square&color=blue)](https://github.com/opengeos/GeoAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> A AI Agent for Geospatial Data Analysis and Visualization
+> An AI Agent for Geospatial Data Analysis and Visualization
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 79 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 83 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |

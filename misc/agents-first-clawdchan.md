@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-ClawdChan is an open-source project that enables communication between two or more instances of the popular AI chatbot Claude, allowing users to engage in conversations across different platforms. This project utilizes a decentralized approach to enable seamless interactions between Claude instances, fostering a community-driven experience. By facilitating cross-platform conversations, ClawdChan opens up new possibilities for collaborative and social AI interactions.
+ClawdChan is an open-source project that enables users to share and interact with each other's Claude models, a type of AI assistant. The platform, aptly named after the characters Claude from the manga and anime series "Barakamon," allows users to set up their own Claude instance and connect with others, facilitating a community-driven approach to AI development. This project highlights the potential for collaborative AI innovation through open-source and community-driven initiatives.
 
 ---
 

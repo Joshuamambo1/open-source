@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the joeynyc/hermes-skins project:
-
-The joeynyc/hermes-skins project provides a collection of custom skins (visual themes) for the Hermes CLI agent, allowing users to personalize the appearance of their CLI experience. This open-source project enables developers to customize the visual style of the Hermes CLI, enhancing user interaction and productivity. With these skins, users can easily switch between different visual themes to suit their preferences.
+The joeynyc/hermes-skins project is an open-source initiative that provides custom visual themes, or "skins," for the Hermes CLI agent. These skins enable users to personalize the appearance of the Hermes agent, offering a range of customization options to enhance the user experience. The project contributes to the development of the Hermes ecosystem, empowering users to tailor the look and feel of their CLI interactions.
 
 ---
 

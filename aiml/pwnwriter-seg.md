@@ -1,17 +1,17 @@
 # pwnwriter/seg
 
-[![Stars](https://img.shields.io/github/stars/pwnwriter/seg?style=flat-square&color=yellow)](https://github.com/pwnwriter/seg/stargazers) [![Forks](https://img.shields.io/github/forks/pwnwriter/seg?style=flat-square&color=blue)](https://github.com/pwnwriter/seg/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pwnwriter/seg?style=flat-square&color=yellow)](https://github.com/pwnwriter/seg/stargazers) [![Forks](https://img.shields.io/github/forks/pwnwriter/seg?style=flat-square&color=blue)](https://github.com/pwnwriter/seg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Analyze binaries and generate structured reports for AI agents and security research.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Security
 
 ## 📝 Summary
 

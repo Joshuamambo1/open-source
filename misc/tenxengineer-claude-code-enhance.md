@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project is a library of lessons learned from scar tissue, a concept used in software development to represent repeated mistakes and areas for improvement. The library aims to provide a cross-project repository of insights and best practices for developers using Claude Code, a programming framework. By sharing these lessons, the project seeks to accelerate knowledge sharing and reduce the time spent on trial and error development.
+This open-source project is a library for Claude Code that aggregates lessons learned from scar tissue, aiming to provide insights and best practices across various projects. The library is designed to be a centralized repository of knowledge, allowing developers to share and access experience-driven wisdom. By consolidating these lessons, the project aims to improve the overall efficiency and effectiveness of Claude Code development.
 
 ---
 

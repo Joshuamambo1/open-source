@@ -25,7 +25,7 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Claude is an open-source project that acts as a safety net for coding agents, detecting and preventing potentially destructive Git and filesystem commands from executing. This AI-driven security measure helps mitigate accidental or malicious actions, ensuring a safer coding environment. By catching hazardous commands, Claude helps maintain the integrity of code repositories and reduces the risk of data loss or corruption.
+Claude is an open-source coding agent hook that serves as a safety net by detecting and intercepting potentially destructive git and filesystem commands before they execute, helping to prevent unintended data loss and system damage. This AI-powered tool leverages machine learning to identify malicious or high-risk commands, providing an additional layer of security for developers and teams. By implementing Claude, users can enhance their coding experience and minimize the risk of catastrophic errors.
 
 ---
 

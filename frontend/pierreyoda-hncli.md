@@ -25,9 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the pierreyoda/hncli project:
-
-hncli is an open-source, terminal-based application written in Rust that provides a command-line interface for browsing Hacker News. This application allows users to easily navigate and explore the popular tech news platform from the comfort of their terminal. With hncli, users can access the latest news, comments, and discussions on Hacker News in a simple and efficient manner.
+This project, hncli, is a terminal-based application written in Rust that allows users to browse Hacker News from the comfort of their command line interface. Developed by pierreyoda, it caters to users who prefer a text-based interface for accessing news and discussions on Hacker News. With a focus on simplicity and functionality, hncli serves as a DevTools project, providing a unique way to engage with the Hacker News community.
 
 ---
 

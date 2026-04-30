@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the sweetrb/apple-notes-mcp project:
 
-This open-source project, sweetrb/apple-notes-mcp, enables seamless integration between Apple Notes and popular AI assistants like Claude, allowing users to create, search, update, and manage their notes via voice commands. The MCP (Message Control Protocol) server provides a centralized platform for AI-powered note management, streamlining workflows and enhancing productivity. By leveraging AI assistants, users can now interact with their Apple Notes in a more intuitive and efficient manner.
+This open-source project enables seamless integration of Apple Notes with AI assistants like Claude, allowing users to create, search, update, and manage their notes through voice commands. The MCP (Media Control Protocol) server acts as a bridge between Apple Notes and AI assistants, facilitating a more intuitive and efficient note-taking experience. By leveraging AI capabilities, users can access and manipulate their notes in a more streamlined and automated manner.
 
 ---
 

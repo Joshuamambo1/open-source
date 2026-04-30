@@ -1,17 +1,17 @@
 # jegly/Box
 
-[![Stars](https://img.shields.io/github/stars/jegly/Box?style=flat-square&color=yellow)](https://github.com/jegly/Box/stargazers) [![Forks](https://img.shields.io/github/forks/jegly/Box?style=flat-square&color=blue)](https://github.com/jegly/Box/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jegly/Box?style=flat-square&color=yellow)](https://github.com/jegly/Box/stargazers) [![Forks](https://img.shields.io/github/forks/jegly/Box?style=flat-square&color=blue)](https://github.com/jegly/Box/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Private on-device AI suite for Android. Fork of Google AI Edge Gallery with llama.cpp, whisper.cpp, stable-diffusion.cpp, GGUF import, voice chat, vision AI, on-device image generation, biometric lock, encrypted history, and NPU/TPU/GPU acceleration.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 113 |
+| 🍴 **Forks** | 6 |
+| 💻 **Language** | Kotlin |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

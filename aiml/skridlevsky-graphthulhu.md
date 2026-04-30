@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The graphthulhu project is an open-source MCP (Meta Cognitive Partner) server that enables AI to access and interact with knowledge graphs from popular note-taking platforms like Logseq and Obsidian. This powerful tool provides 39 functionalities for navigation, search, analysis, writing, decision-making, and more, unlocking the full potential of AI-driven knowledge management. By integrating AI with personal knowledge graphs, graphthulhu aims to revolutionize the way we organize, analyze, and learn from our knowledge.
+The graphthulhu project provides an open-source MCP (Machine Controller Protocol) server that grants AI systems full access to users' Logseq or Obsidian knowledge graphs. This allows for seamless integration of AI tools with users' existing knowledge management systems, offering 39 different tools for navigation, search, analysis, and more. By bridging the gap between AI and knowledge graphs, graphthulhu enables users to tap into the full potential of their knowledge bases.
 
 ---
 

@@ -1,6 +1,6 @@
 # laguagu/claude-code-nextjs-skills
 
-[![Stars](https://img.shields.io/github/stars/laguagu/claude-code-nextjs-skills?style=flat-square&color=yellow)](https://github.com/laguagu/claude-code-nextjs-skills/stargazers) [![Forks](https://img.shields.io/github/forks/laguagu/claude-code-nextjs-skills?style=flat-square&color=blue)](https://github.com/laguagu/claude-code-nextjs-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laguagu/claude-code-nextjs-skills?style=flat-square&color=yellow)](https://github.com/laguagu/claude-code-nextjs-skills/stargazers) [![Forks](https://img.shields.io/github/forks/laguagu/claude-code-nextjs-skills?style=flat-square&color=blue)](https://github.com/laguagu/claude-code-nextjs-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skills for AI apps • Next.js 16 • AI SDK 6 • pgvector • bun
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

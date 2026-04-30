@@ -1,6 +1,6 @@
 # ory/polis
 
-[![Stars](https://img.shields.io/github/stars/ory/polis?style=flat-square&color=yellow)](https://github.com/ory/polis/stargazers) [![Forks](https://img.shields.io/github/forks/ory/polis?style=flat-square&color=blue)](https://github.com/ory/polis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ory/polis?style=flat-square&color=yellow)](https://github.com/ory/polis/stargazers) [![Forks](https://img.shields.io/github/forks/ory/polis?style=flat-square&color=blue)](https://github.com/ory/polis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Streamline your web application's authentication with Polis, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via the SCIM 2.0 protocol for automatic user and group provisioning/de-provisioning.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # kalpmodi/akira
 
-[![Stars](https://img.shields.io/github/stars/kalpmodi/akira?style=flat-square&color=yellow)](https://github.com/kalpmodi/akira/stargazers) [![Forks](https://img.shields.io/github/forks/kalpmodi/akira?style=flat-square&color=blue)](https://github.com/kalpmodi/akira/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kalpmodi/akira?style=flat-square&color=yellow)](https://github.com/kalpmodi/akira/stargazers) [![Forks](https://img.shields.io/github/forks/kalpmodi/akira?style=flat-square&color=blue)](https://github.com/kalpmodi/akira/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous offensive security agent. Plans engagements, runs recon, chains exploits, and writes reports - end to end. Native to Claude Code, Gemini CLI, Codex and Cursor. Not a scanner wrapper.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 3 |
-| 💻 **Language** | Shell |
+| 💻 **Language** | Dockerfile |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Security
+AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 

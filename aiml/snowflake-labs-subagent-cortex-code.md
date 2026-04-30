@@ -25,9 +25,9 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Snowflake-Labs/subagent-cortex-code project:
+Here's a 2-3 sentence summary of the Snowflake-Labs/subagent-cortex-code project:
 
-The subagent-cortex-code project enables seamless integration of Snowflake operations with various coding agents, such as Claude Code and VSCode, by routing tasks to Cortex Code CLI. This solution provides a secure and efficient way to execute Snowflake operations, featuring smart routing, security envelopes, and headless execution capabilities. The project caters to developers and data analysts who rely on AI-powered coding tools to manage their Snowflake environments.
+The subagent-cortex-code project enables seamless integration of Snowflake operations with various coding agents, such as Claude Code and Codex, by routing commands to Cortex Code CLI through smart routing, security envelopes, and headless execution. This allows developers to leverage the strengths of multiple tools and automate complex workflows, enhancing productivity and security. By bridging the gap between coding agents and Cortex Code CLI, this project facilitates streamlined Snowflake operations and improved collaboration.
 
 ---
 

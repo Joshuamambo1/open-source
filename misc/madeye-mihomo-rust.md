@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Unfortunately, there is no description provided for the project 'madeye/mihomo-rust'. However, based on the title, I can try to create a brief summary for the reader:
-
-The 'mi-homo-rust' project is an open-source initiative that utilizes the Rust programming language to develop a specific tool or library. The project appears to be part of the 'madeye' organization, but more information is needed to provide a detailed summary.
+The mihomo-rust project is an open-source initiative that appears to be focused on creating a Rust-based implementation for a specific use case, although the exact details are not specified. This project falls under the 'Misc' category, suggesting it may be a utility or framework that doesn't fit into a more traditional category. Further information is needed to provide a more accurate summary of its purpose and scope.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Hyper-Extract is an open-source project that utilizes Large Language Models (LLMs) to transform unstructured text into structured knowledge. This tool enables users to extract relevant information from text data, including graphs, hypergraphs, and spatio-temporal elements, all through a single command. By simplifying the extraction process, Hyper-Extract streamlines the conversion of unstructured text into actionable insights.
+Here's a brief summary for the Hyper-Extract project:
+
+Hyper-Extract is an open-source tool that leverages Large Language Models (LLMs) to transform unstructured text into structured knowledge. With a single command, users can extract relationships, graphs, and spatio-temporal information from text data, making it an essential DevTool for AI/ML applications. This powerful tool enables the conversion of unstructured data into actionable insights.
 
 ---
 

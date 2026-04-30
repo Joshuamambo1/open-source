@@ -25,9 +25,9 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a 2-sentence summary of the TrendRadar project:
+Here's a 2-3 sentence summary of the open-source project:
 
-TrendRadar is an open-source AI-driven public opinion and trend monitoring system that aggregates news and information from multiple platforms, including RSS feeds, and provides smart alerts and analysis through AI-powered translation, analysis, and reporting. With support for Docker and local/cloud storage, TrendRadar enables users to customize their experience and receive notifications through various channels, including WeChat, DingTalk, Telegram, and email.
+TrendRadar is an AI-driven public opinion and trend monitoring tool that aggregates information from multiple platforms, including RSS feeds, and provides smart alerts. This project uses AI-powered filtering, translation, and analysis to deliver a simplified and personalized news experience, with features like key word filtering and customizable notification channels. TrendRadar is built with scalability in mind, supporting Docker and both local and cloud hosting.
 
 ---
 

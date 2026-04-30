@@ -1,6 +1,6 @@
 # ailyProject/aily-blockly
 
-[![Stars](https://img.shields.io/github/stars/ailyProject/aily-blockly?style=flat-square&color=yellow)](https://github.com/ailyProject/aily-blockly/stargazers) [![Forks](https://img.shields.io/github/forks/ailyProject/aily-blockly?style=flat-square&color=blue)](https://github.com/ailyProject/aily-blockly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ailyProject/aily-blockly?style=flat-square&color=yellow)](https://github.com/ailyProject/aily-blockly/stargazers) [![Forks](https://img.shields.io/github/forks/ailyProject/aily-blockly?style=flat-square&color=blue)](https://github.com/ailyProject/aily-blockly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x...
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 185 |
+| 🍴 **Forks** | 186 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

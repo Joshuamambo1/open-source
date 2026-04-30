@@ -27,7 +27,7 @@ Orchestration · AI/ML · DevTools
 
 Here's a brief summary for the open-source project:
 
-The open-harness project is a multi-layer AI orchestrator and sandbox system that allows users to bring their own harness (BYOH). It provides a flexible framework for managing and deploying AI/ML applications, making it easier to develop, test, and deploy complex AI models. This system enables users to create customized environments for their AI workloads, enhancing efficiency and innovation.
+The open-harness project is a multi-layer AI orchestrator and sandbox system that allows users to bring their own harness (BYOH). This tool facilitates the orchestration and testing of AI and machine learning models in a sandbox environment, enabling developers to streamline their workflow and improve collaboration. By providing a customizable and open-source framework, open-harness empowers users to tailor their AI development and testing processes to suit their specific needs.
 
 ---
 

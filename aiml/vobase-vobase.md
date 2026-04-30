@@ -25,7 +25,7 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-Vobase is an open-source app framework designed specifically for AI coding agents, enabling these agents to build and own every line of code. This framework empowers AI agents to extend and customize their capabilities, streamlining the development process. By leveraging vobase, AI agents can create complex applications with enhanced security features.
+vobase is an open-source app framework designed specifically for AI coding agents, allowing them to build and customize applications with maximum flexibility. This framework enables AI agents to have full control over the codebase, empowering them to extend and improve the application as needed. With vobase, AI agents can unlock their full potential and create tailored solutions with ease.
 
 ---
 

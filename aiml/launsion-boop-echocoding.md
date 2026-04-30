@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-EchoCoding is an open-source project that aims to create a more engaging and interactive AI coding experience by enabling AI agents to communicate through voice and emotions. This project empowers developers to build AI-powered coding assistants that can converse, listen, and simulate human-like interactions, making coding more enjoyable and accessible. By fostering a more immersive coding environment, EchoCoding has the potential to revolutionize the way we interact with AI in coding tasks.
+EchoCoding is an open-source AI/ML project that aims to bring AI coding agents to life by enabling them to communicate, understand human input, and exhibit a sense of presence. This project focuses on developing a more human-like interaction between developers and their AI coding assistants, making the development process more enjoyable and collaborative. By making AI agents talk, listen, and feel alive, EchoCoding has the potential to revolutionize the way we interact with artificial intelligence in coding environments.
 
 ---
 

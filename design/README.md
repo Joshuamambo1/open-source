@@ -14,7 +14,7 @@
 | 4 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
 | 5 | [safing/portmaster](./safing-portmaster.md) | ⭐ 12.5k | Go | 92/100 |
 | 6 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.6k | Scala | 91/100 |
-| 7 | [garrytan/gstack](./garrytan-gstack.md) | ⭐ 86.7k | TypeScript | 90/100 |
+| 7 | [garrytan/gstack](./garrytan-gstack.md) | ⭐ 86.9k | TypeScript | 90/100 |
 | 8 | [tw93/Waza](./tw93-waza.md) | ⭐ 4.2k | Shell | 83/100 |
 | 9 | [j178/prek](./j178-prek.md) | ⭐ 7.5k | Rust | 82/100 |
 | 10 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |

@@ -25,9 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the City-Bureau/city-scrapers project:
-
-The City-Bureau/city-scrapers project is an open-source initiative aimed at scraping, standardizing, and sharing public meeting data from local government websites. This effort helps increase transparency and accessibility to civic information, enabling citizens to stay informed about local decisions and engage more effectively in the democratic process. By leveraging AI/ML and backend technologies, the project facilitates the collection and sharing of publicly available data.
+The City-Bureau/city-scrapers project is an open-source initiative that aims to collect, standardize, and share public meeting data from local government websites. By scraping and aggregating this information, the project seeks to increase transparency and accessibility of government proceedings for citizens. This data can be used for various purposes, such as research, journalism, or civic engagement.
 
 ---
 

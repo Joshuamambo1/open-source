@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/Gitlawb/openclaude?style=flat-square&color=yellow)](https://github.com/Gitlawb/openclaude/stargazers) [![Forks](https://img.shields.io/github/forks/Gitlawb/openclaude?style=flat-square&color=blue)](https://github.com/Gitlawb/openclaude/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
-> Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+> Any model. Every tool. Zero limits.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 25.1k |
-| 🍴 **Forks** | 8.1k |
+| 🍴 **Forks** | 8.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 

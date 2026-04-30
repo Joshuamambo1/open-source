@@ -1,6 +1,6 @@
 # utkarshdalal/GameNative
 
-[![Stars](https://img.shields.io/github/stars/utkarshdalal/GameNative?style=flat-square&color=yellow)](https://github.com/utkarshdalal/GameNative/stargazers) [![Forks](https://img.shields.io/github/forks/utkarshdalal/GameNative?style=flat-square&color=blue)](https://github.com/utkarshdalal/GameNative/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/utkarshdalal/GameNative?style=flat-square&color=yellow)](https://github.com/utkarshdalal/GameNative/stargazers) [![Forks](https://img.shields.io/github/forks/utkarshdalal/GameNative?style=flat-square&color=blue)](https://github.com/utkarshdalal/GameNative/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.6k |
-| 🍴 **Forks** | 233 |
+| 🍴 **Forks** | 234 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

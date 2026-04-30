@@ -25,9 +25,9 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a 2-3 sentence summary for the open-source project:
 
-This open-source project, "awesome-design-md-jp", is a collection of Japanese DESIGN.md files designed to accurately instruct AI agents on creating UI in the Japanese language. It extends the Google Stitch format to accommodate CJK (Chinese, Japanese, and Korean) typography, making it a valuable resource for developers working with AI and Japanese UI design. The project aims to improve the quality of AI-generated Japanese UI designs.
+The "awesome-design-md-jp" repository is a collection of DESIGN.md files tailored for Japanese UI development, designed to be understood by AI agents. It extends the Google Stitch format to support CJK (Chinese, Japanese, Korean) typography, enabling AI agents to accurately interpret and utilize Japanese design guidelines. This project aims to bridge the gap between human designers and AI-driven design tools in the Japanese context.
 
 ---
 

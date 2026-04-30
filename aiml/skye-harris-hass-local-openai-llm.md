@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-This open-source project, "hass_local_openai_llm", integrates local OpenAI-compatible services with Home Assistant. It allows users to leverage the power of large language models (LLMs) for various tasks, all while maintaining data sovereignty on their local network. This integration provides a seamless experience for users to tap into AI capabilities from within their Home Assistant setup.
+Here's a brief summary:
+
+This open-source project, 'hass_local_openai_llm', enables integration of local OpenAI-compatible language models with Home Assistant, a popular home automation platform. It supports various local LLM services, including llamacpp and vllm, allowing for seamless interaction with AI-powered assistants within a user's local network. This integration provides a secure and private way to utilize AI capabilities within Home Assistant.
 
 ---
 

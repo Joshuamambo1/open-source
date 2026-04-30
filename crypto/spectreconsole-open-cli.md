@@ -1,6 +1,6 @@
 # spectreconsole/open-cli
 
-[![Stars](https://img.shields.io/github/stars/spectreconsole/open-cli?style=flat-square&color=yellow)](https://github.com/spectreconsole/open-cli/stargazers) [![Forks](https://img.shields.io/github/forks/spectreconsole/open-cli?style=flat-square&color=blue)](https://github.com/spectreconsole/open-cli/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spectreconsole/open-cli?style=flat-square&color=yellow)](https://github.com/spectreconsole/open-cli/stargazers) [![Forks](https://img.shields.io/github/forks/spectreconsole/open-cli?style=flat-square&color=blue)](https://github.com/spectreconsole/open-cli/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > The OpenCLI specification (OCS) defines a standard, platform and language agnostic interface to CLI applications which allows both humans and computers to understand how a CLI tool should be invoked without access to source code or documentation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 266 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

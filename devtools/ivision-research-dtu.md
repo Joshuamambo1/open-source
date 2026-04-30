@@ -1,6 +1,6 @@
 # ivision-research/dtu
 
-[![Stars](https://img.shields.io/github/stars/ivision-research/dtu?style=flat-square&color=yellow)](https://github.com/ivision-research/dtu/stargazers) [![Forks](https://img.shields.io/github/forks/ivision-research/dtu?style=flat-square&color=blue)](https://github.com/ivision-research/dtu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ivision-research/dtu?style=flat-square&color=yellow)](https://github.com/ivision-research/dtu/stargazers) [![Forks](https://img.shields.io/github/forks/ivision-research/dtu?style=flat-square&color=blue)](https://github.com/ivision-research/dtu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Android device testing utility
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-DevTools · Mobile
+DevTools · Mobile · Security
 
 ## 📝 Summary
 

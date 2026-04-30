@@ -25,7 +25,9 @@ DevTools · Product
 
 ## 📝 Summary
 
-The brev-cli project enables seamless connectivity between your laptop and cloud computers, streamlining development workflows and enhancing collaboration capabilities. This open-source tool facilitates effortless access to cloud-based computing resources, making it an ideal solution for remote teams and individuals who need to work with cloud-based infrastructure. By using brev-cli, developers can boost productivity and efficiency in their cloud-based development endeavors.
+Here's a brief summary for the brev-dev/brev-cli project:
+
+"Brev-cli is an open-source tool that enables seamless connectivity between your laptop and cloud computers, streamlining collaboration and productivity. This innovative solution allows users to access cloud-based resources from the comfort of their local environment, enhancing flexibility and efficiency. By staying up-to-date with the latest developments, users can unlock the full potential of this powerful tool."
 
 ---
 

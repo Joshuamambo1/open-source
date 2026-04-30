@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a 2-3 sentence summary for the open-source project:
 
-The deveco-toolbox is an open-source project that provides a comprehensive toolkit for developing, building, and testing HarmonyOS applications and services within an AI-powered IDE. This project aims to simplify the development process, making it more efficient and streamlined for developers working on HarmonyOS projects. By leveraging AI capabilities, deveco-toolbox enables faster iteration and deployment of high-quality applications and services.
+The deveco-toolbox is an open-source project that enables developers to create, compile, and test HarmonyOS applications and related services within an AI-powered Integrated Development Environment (IDE). This tool is designed to streamline the development process for HarmonyOS applications, making it more efficient and productive. By leveraging AI capabilities, deveco-toolbox enhances the overall development experience for HarmonyOS and meta-service development.
 
 ---
 

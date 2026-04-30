@@ -25,7 +25,9 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The Codex-SEO project is an open-source, comprehensive SEO skill suite that utilizes the Codex platform to streamline digital marketing workflows. This robust toolset includes 26 workflows, 24 TOML agents, and integrations with leading SEO platforms like DataForSEO, Gemini, Google, and Firecrawl, providing a wide range of SEO functionalities. It also supports features such as GEO/AEO, CWV, schema, backlinks, local/maps, and deterministic reports.
+Here's a brief summary for the open-source project:
+
+The Codex-SEO project is an open-source, comprehensive SEO skill suite that utilizes Codex-first workflows to streamline and optimize digital marketing efforts. With 26 workflows, 24 TOML agents, and integrations with leading data providers like DataForSEO, Gemini, and Google, this suite offers advanced features for GEO/AEO, CWV, schema, backlinks, local/maps, and deterministic reporting.
 
 ---
 

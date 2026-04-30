@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The baidubce/bce-sdk-go is an open-source project that provides a Go implementation of the BCE (Baidu Cloud Engine) SDK, allowing developers to interact with BCE services programmatically. This SDK offers a comprehensive set of APIs for tasks such as object storage, data processing, and more, facilitating the integration of BCE services into Go applications. By utilizing this SDK, developers can leverage the full potential of BCE services in their projects.
+Here's a brief summary for the baidubce/bce-sdk-go project:
+
+The baidubce/bce-sdk-go project is an open-source Go library that enables developers to interact with the Baidu Cloud Enterprise (BCE) services. This SDK provides a simple and intuitive interface for using BCE's AI/ML capabilities, allowing developers to build scalable and efficient applications with ease. By leveraging this library, developers can tap into BCE's extensive range of AI and machine learning services.
 
 ---
 

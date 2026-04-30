@@ -1,6 +1,6 @@
 # dezgit2025/auto-memory
 
-[![Stars](https://img.shields.io/github/stars/dezgit2025/auto-memory?style=flat-square&color=yellow)](https://github.com/dezgit2025/auto-memory/stargazers) [![Forks](https://img.shields.io/github/forks/dezgit2025/auto-memory?style=flat-square&color=blue)](https://github.com/dezgit2025/auto-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dezgit2025/auto-memory?style=flat-square&color=yellow)](https://github.com/dezgit2025/auto-memory/stargazers) [![Forks](https://img.shields.io/github/forks/dezgit2025/auto-memory?style=flat-square&color=blue)](https://github.com/dezgit2025/auto-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI coding agent never forgets — progressive session recall CLI
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 289 |
+| ⭐ **Stars** | 298 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

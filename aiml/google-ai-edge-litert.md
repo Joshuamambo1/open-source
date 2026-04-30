@@ -1,6 +1,6 @@
 # google-ai-edge/LiteRT
 
-[![Stars](https://img.shields.io/github/stars/google-ai-edge/LiteRT?style=flat-square&color=yellow)](https://github.com/google-ai-edge/LiteRT/stargazers) [![Forks](https://img.shields.io/github/forks/google-ai-edge/LiteRT?style=flat-square&color=blue)](https://github.com/google-ai-edge/LiteRT/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-ai-edge/LiteRT?style=flat-square&color=yellow)](https://github.com/google-ai-edge/LiteRT/stargazers) [![Forks](https://img.shields.io/github/forks/google-ai-edge/LiteRT?style=flat-square&color=blue)](https://github.com/google-ai-edge/LiteRT/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

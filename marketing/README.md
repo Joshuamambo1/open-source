@@ -2,7 +2,7 @@
 
 > 
 
-**22 projects** in this category.
+**23 projects** in this category.
 
 ## Projects
 
@@ -29,7 +29,8 @@
 | 19 | [garritfra/cell](./garritfra-cell.md) | ⭐ 228 | Rust | 47/100 |
 | 20 | [angr/cle](./angr-cle.md) | ⭐ 479 | Python | 45/100 |
 | 21 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 327 | Go | 42/100 |
-| 22 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 2 | — | 36/100 |
+| 22 | [Vela-Engineering/coach](./vela-engineering-coach.md) | ⭐ — | — | 39/100 |
+| 23 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 2 | — | 36/100 |
 
 ---
 

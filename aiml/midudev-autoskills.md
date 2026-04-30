@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.5k |
-| 🍴 **Forks** | 429 |
+| 🍴 **Forks** | 431 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | — |

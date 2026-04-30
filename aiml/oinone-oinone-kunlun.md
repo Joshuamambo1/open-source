@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Oinone project:
-
-Oinone is an open-source, AI-powered low-code framework that empowers developers to build high-quality, maintainable, and evolvable enterprise intelligent applications. By unifying AI and developers around a shared metadata model, Oinone simplifies the development process and enables the creation of robust, intelligent applications. This innovative framework streamlines the development of enterprise-level AI applications, making it easier for businesses to adopt and leverage AI technology.
+Oinone is an open-source, AI-powered low-code framework that enables developers to build maintainable and evolvable enterprise intelligent applications. By unifying AI and developers around a shared metadata model, Oinone facilitates the creation of high-quality applications with reduced development time and effort. This framework is particularly useful for AI and frontend developers, as well as those who use DevTools.
 
 ---
 

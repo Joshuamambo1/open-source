@@ -1,6 +1,6 @@
 # bencherdev/bencher
 
-[![Stars](https://img.shields.io/github/stars/bencherdev/bencher?style=flat-square&color=yellow)](https://github.com/bencherdev/bencher/stargazers) [![Forks](https://img.shields.io/github/forks/bencherdev/bencher?style=flat-square&color=blue)](https://github.com/bencherdev/bencher/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bencherdev/bencher?style=flat-square&color=yellow)](https://github.com/bencherdev/bencher/stargazers) [![Forks](https://img.shields.io/github/forks/bencherdev/bencher?style=flat-square&color=blue)](https://github.com/bencherdev/bencher/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🐰 Bencher - Continuous Benchmarking
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 829 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

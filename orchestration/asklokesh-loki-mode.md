@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/asklokesh/loki-mode?style=flat-square&color=yellow)](https://github.com/asklokesh/loki-mode/stargazers) [![Forks](https://img.shields.io/github/forks/asklokesh/loki-mode?style=flat-square&color=blue)](https://github.com/asklokesh/loki-mode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
-> Multi-agent provider agnostic Autonomous system & framework that WORKS..!
+> Multi-agent autonomous SDLC framework. Spec to deployed app. PRD, GitHub issue, OpenAPI/JSON/YAML, or one-line brief. 5 AI providers, 11 quality gates.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # wolfoo2931/linkedrecords
 
-[![Stars](https://img.shields.io/github/stars/wolfoo2931/linkedrecords?style=flat-square&color=yellow)](https://github.com/wolfoo2931/linkedrecords//stargazers) [![Forks](https://img.shields.io/github/forks/wolfoo2931/linkedrecords?style=flat-square&color=blue)](https://github.com/wolfoo2931/linkedrecords//network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wolfoo2931/linkedrecords?style=flat-square&color=yellow)](https://github.com/wolfoo2931/linkedrecords//stargazers) [![Forks](https://img.shields.io/github/forks/wolfoo2931/linkedrecords?style=flat-square&color=blue)](https://github.com/wolfoo2931/linkedrecords//network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A BaaS (Backend-as-a-Service) solution for web applications, inspired by the flexible nature of triplestores. Featuring real-time collaboration and serverless authorization 🔐
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 19 |
+| ⭐ **Stars** | 18 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

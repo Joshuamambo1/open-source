@@ -1,6 +1,6 @@
 # Snailclimb/interview-guide
 
-[![Stars](https://img.shields.io/github/stars/Snailclimb/interview-guide?style=flat-square&color=yellow)](https://github.com/Snailclimb/interview-guide/stargazers) [![Forks](https://img.shields.io/github/forks/Snailclimb/interview-guide?style=flat-square&color=blue)](https://github.com/Snailclimb/interview-guide/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Snailclimb/interview-guide?style=flat-square&color=yellow)](https://github.com/Snailclimb/interview-guide/stargazers) [![Forks](https://img.shields.io/github/forks/Snailclimb/interview-guide?style=flat-square&color=blue)](https://github.com/Snailclimb/interview-guide/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 413 |
+| 🍴 **Forks** | 414 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

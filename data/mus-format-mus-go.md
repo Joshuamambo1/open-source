@@ -1,6 +1,6 @@
 # mus-format/mus-go
 
-[![Stars](https://img.shields.io/github/stars/mus-format/mus-go?style=flat-square&color=yellow)](https://github.com/mus-format/mus-go/stargazers) [![Forks](https://img.shields.io/github/forks/mus-format/mus-go?style=flat-square&color=blue)](https://github.com/mus-format/mus-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mus-format/mus-go?style=flat-square&color=yellow)](https://github.com/mus-format/mus-go/stargazers) [![Forks](https://img.shields.io/github/forks/mus-format/mus-go?style=flat-square&color=blue)](https://github.com/mus-format/mus-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > MUS format serializer for Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project is a unique AI/ML agent that introduces an additional layer of security by requiring human approval before executing any commands. The agent's primary function is to prevent unauthorized actions, thereby enhancing system integrity and accountability. This approach enables users to maintain control over their systems while leveraging the capabilities of AI-powered automation.
+This open-source project is an AI/ML agent that integrates human oversight, requiring approval before executing any commands. This innovative approach aims to mitigate potential risks associated with autonomous systems by ensuring that humans are involved in decision-making processes. By incorporating a human approval layer, the agent promotes accountable and transparent AI-driven operations.
 
 ---
 

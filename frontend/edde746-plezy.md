@@ -1,6 +1,6 @@
 # edde746/plezy
 
-[![Stars](https://img.shields.io/github/stars/edde746/plezy?style=flat-square&color=yellow)](https://github.com/edde746/plezy/stargazers) [![Forks](https://img.shields.io/github/forks/edde746/plezy?style=flat-square&color=blue)](https://github.com/edde746/plezy/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edde746/plezy?style=flat-square&color=yellow)](https://github.com/edde746/plezy/stargazers) [![Forks](https://img.shields.io/github/forks/edde746/plezy?style=flat-square&color=blue)](https://github.com/edde746/plezy/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Modern cross-platform Plex client built with Flutter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

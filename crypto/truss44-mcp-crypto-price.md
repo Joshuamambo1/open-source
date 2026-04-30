@@ -1,6 +1,6 @@
 # truss44/mcp-crypto-price
 
-[![Stars](https://img.shields.io/github/stars/truss44/mcp-crypto-price?style=flat-square&color=yellow)](https://github.com/truss44/mcp-crypto-price/stargazers) [![Forks](https://img.shields.io/github/forks/truss44/mcp-crypto-price?style=flat-square&color=blue)](https://github.com/truss44/mcp-crypto-price/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/truss44/mcp-crypto-price?style=flat-square&color=yellow)](https://github.com/truss44/mcp-crypto-price/stargazers) [![Forks](https://img.shields.io/github/forks/truss44/mcp-crypto-price?style=flat-square&color=blue)](https://github.com/truss44/mcp-crypto-price/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that provides real-time cryptocurrency analysis via CoinCap's API. Enables Claude and other MCP clients to fetch crypto prices, analyze market trends, and track historical data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

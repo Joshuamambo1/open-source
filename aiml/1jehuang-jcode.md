@@ -1,6 +1,6 @@
 # 1jehuang/jcode
 
-[![Stars](https://img.shields.io/github/stars/1jehuang/jcode?style=flat-square&color=yellow)](https://github.com/1jehuang/jcode/stargazers) [![Forks](https://img.shields.io/github/forks/1jehuang/jcode?style=flat-square&color=blue)](https://github.com/1jehuang/jcode/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1jehuang/jcode?style=flat-square&color=yellow)](https://github.com/1jehuang/jcode/stargazers) [![Forks](https://img.shields.io/github/forks/1jehuang/jcode?style=flat-square&color=blue)](https://github.com/1jehuang/jcode/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Coding Agent Harness
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 127 |
+| ⭐ **Stars** | 1.5k |
+| 🍴 **Forks** | 135 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

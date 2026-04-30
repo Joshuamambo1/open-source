@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Layoutz is an open-source project that enables simple and visually appealing command-line interface (CLI) output. Designed for developers, it streamlines the process of creating beautiful and cohesive CLI layouts without requiring extensive coding knowledge. This project is ideal for those seeking to enhance the user experience of their CLI applications.
+The mattlianje/layoutz project is an open-source tool that simplifies and enhances CLI output to be visually appealing and user-friendly. This project caters to developers working in the frontend and backend sectors, providing a more elegant way to interact with their applications. With layoutz, users can enjoy improved readability and a better overall experience when working in the terminal.
 
 ---
 

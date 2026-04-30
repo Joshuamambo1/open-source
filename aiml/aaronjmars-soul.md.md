@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 396 |
-| 🍴 **Forks** | 36 |
+| ⭐ **Stars** | 397 |
+| 🍴 **Forks** | 37 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |

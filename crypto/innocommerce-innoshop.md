@@ -25,7 +25,7 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-InnoShop is an open-source e-commerce platform built on Laravel 12, leveraging AI-powered automation for intelligent commerce. This global commerce solution supports multiple AI models, native multi-language, and multi-currency capabilities, making it adaptable to diverse business needs. With its modular architecture and flexible plugin/theme system, InnoShop empowers businesses to create tailored e-commerce experiences.
+InnoShop is an open-source e-commerce system powered by AI, built on Laravel 12, and designed for global commerce. It boasts native multi-language and multi-currency support, along with a modular architecture and flexible plugin/theme system for adaptability. This AI-driven platform enables intelligent automation and is ideal for businesses looking to leverage cutting-edge technology.
 
 ---
 

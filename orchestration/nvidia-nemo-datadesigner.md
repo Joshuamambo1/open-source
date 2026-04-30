@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/DataDesigner
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA-NeMo/DataDesigner?style=flat-square&color=yellow)](https://github.com/NVIDIA-NeMo/DataDesigner/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-NeMo/DataDesigner?style=flat-square&color=blue)](https://github.com/NVIDIA-NeMo/DataDesigner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA-NeMo/DataDesigner?style=flat-square&color=yellow)](https://github.com/NVIDIA-NeMo/DataDesigner/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-NeMo/DataDesigner?style=flat-square&color=blue)](https://github.com/NVIDIA-NeMo/DataDesigner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 🎨 NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 152 |
+| 🍴 **Forks** | 153 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

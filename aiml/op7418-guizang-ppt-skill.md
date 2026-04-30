@@ -1,6 +1,6 @@
 # op7418/guizang-ppt-skill
 
-[![Stars](https://img.shields.io/github/stars/op7418/guizang-ppt-skill?style=flat-square&color=yellow)](https://github.com/op7418/guizang-ppt-skill/stargazers) [![Forks](https://img.shields.io/github/forks/op7418/guizang-ppt-skill?style=flat-square&color=blue)](https://github.com/op7418/guizang-ppt-skill/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/op7418/guizang-ppt-skill?style=flat-square&color=yellow)](https://github.com/op7418/guizang-ppt-skill/stargazers) [![Forks](https://img.shields.io/github/forks/op7418/guizang-ppt-skill?style=flat-square&color=blue)](https://github.com/op7418/guizang-ppt-skill/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.2k |
-| 🍴 **Forks** | 415 |
+| 🍴 **Forks** | 420 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

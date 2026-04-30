@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Antfly is an open-source project that focuses on developing and applying artificial intelligence (AI) and machine learning (ML) techniques. It provides a framework for researchers and developers to experiment and deploy AI/ML models in various domains, promoting collaboration and innovation in the field. By making its tools and resources publicly available, Antfly aims to accelerate the advancement of AI/ML and its real-world applications.
+Antfly is an open-source project that aims to simplify the development and deployment of artificial intelligence (AI) and machine learning (ML) models. This project provides a scalable and efficient framework for building, testing, and integrating AI/ML models into various applications, enhancing the overall AI/ML development experience. By leveraging Antfly, developers can accelerate their AI/ML projects and focus on more complex and creative tasks.
 
 ---
 

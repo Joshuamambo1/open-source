@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The killop/anything_about_game project is an open-source collection of Game Development resources, providing a valuable repository for developers to access a wide range of information. This list includes various tools, tutorials, and guides related to game development, making it an essential resource for both beginners and experienced game developers. By categorizing these resources under AI/ML, the project also offers insights into the application of artificial intelligence and machine learning in game development.
+The killop/anything_about_game project is an open-source repository dedicated to providing a comprehensive list of resources for game development enthusiasts. This collection includes information on various aspects of game development, catering to those interested in artificial intelligence (AI) and machine learning (ML) techniques. By compiling these resources, the project aims to facilitate learning and innovation in the field of game development.
 
 ---
 

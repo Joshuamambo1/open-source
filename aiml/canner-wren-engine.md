@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The Canner/wren-engine is an open-source, context-aware engine for AI agents that supports integration with over 15 different data sources. Built using Rust and leveraging Apache DataFusion, this engine enables the creation of robust and scalable AI applications. Its modular design and flexible architecture make it an ideal choice for developers looking to build complex AI-powered systems.
+Here's a 2-3 sentence summary for the Canner/wren-engine open-source project:
+
+The Canner/wren-engine is an open context engine designed to support AI agents with access to 15+ data sources, built on top of Rust and Apache DataFusion. This powerful engine enables AI agents to seamlessly integrate and process diverse data streams, enhancing their decision-making capabilities. By leveraging a robust and modular architecture, developers can easily integrate the Canner/wren-engine into their AI applications.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project aims to provide accessible briefing packets and citizen-action toolkits to empower individuals and communities in engaging with social and environmental issues. By leveraging technology and collaborative development, the project seeks to democratize access to information and facilitate collective action. The initiative is built on GitHub and is freely available for anyone to contribute to and utilize.
+This open-source project provides comprehensive briefing packets and citizen-action toolkits, offering a valuable resource for individuals, organizations, and communities seeking to engage in effective advocacy and activism. By making these toolkits freely available, the project aims to empower citizens to participate in the democratic process, foster informed decision-making, and drive positive change in their communities and society at large.
 
 ---
 

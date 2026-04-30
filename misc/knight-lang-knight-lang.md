@@ -1,6 +1,6 @@
 # knight-lang/knight-lang
 
-[![Stars](https://img.shields.io/github/stars/knight-lang/knight-lang?style=flat-square&color=yellow)](https://github.com/knight-lang/knight-lang/tree/master/stargazers) [![Forks](https://img.shields.io/github/forks/knight-lang/knight-lang?style=flat-square&color=blue)](https://github.com/knight-lang/knight-lang/tree/master/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knight-lang/knight-lang?style=flat-square&color=yellow)](https://github.com/knight-lang/knight-lang/tree/master/stargazers) [![Forks](https://img.shields.io/github/forks/knight-lang/knight-lang?style=flat-square&color=blue)](https://github.com/knight-lang/knight-lang/tree/master/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > The Knight Programming Language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 33/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

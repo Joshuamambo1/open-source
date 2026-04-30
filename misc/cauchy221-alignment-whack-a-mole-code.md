@@ -1,6 +1,6 @@
 # cauchy221/Alignment-Whack-a-Mole-Code
 
-[![Stars](https://img.shields.io/github/stars/cauchy221/Alignment-Whack-a-Mole-Code?style=flat-square&color=yellow)](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code/stargazers) [![Forks](https://img.shields.io/github/forks/cauchy221/Alignment-Whack-a-Mole-Code?style=flat-square&color=blue)](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cauchy221/Alignment-Whack-a-Mole-Code?style=flat-square&color=yellow)](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code/stargazers) [![Forks](https://img.shields.io/github/forks/cauchy221/Alignment-Whack-a-Mole-Code?style=flat-square&color=blue)](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > The official code repo of Alignment Whack-a-Mole: Finetuning Activates Verbatim Recall of Copyrighted Books in Large Language Models
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 52 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 58 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

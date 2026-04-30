@@ -1,6 +1,6 @@
 # towardsai/ai-tutor-rag-system
 
-[![Stars](https://img.shields.io/github/stars/towardsai/ai-tutor-rag-system?style=flat-square&color=yellow)](https://github.com/towardsai/ai-tutor-rag-system/stargazers) [![Forks](https://img.shields.io/github/forks/towardsai/ai-tutor-rag-system?style=flat-square&color=blue)](https://github.com/towardsai/ai-tutor-rag-system/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/towardsai/ai-tutor-rag-system?style=flat-square&color=yellow)](https://github.com/towardsai/ai-tutor-rag-system/stargazers) [![Forks](https://img.shields.io/github/forks/towardsai/ai-tutor-rag-system?style=flat-square&color=blue)](https://github.com/towardsai/ai-tutor-rag-system/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > This is a repository for the course "From Beginner to LLM Developer" by Towards AI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

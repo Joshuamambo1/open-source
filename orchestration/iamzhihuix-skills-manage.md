@@ -1,6 +1,6 @@
 # iamzhihuix/skills-manage
 
-[![Stars](https://img.shields.io/github/stars/iamzhihuix/skills-manage?style=flat-square&color=yellow)](https://github.com/iamzhihuix/skills-manage/stargazers) [![Forks](https://img.shields.io/github/forks/iamzhihuix/skills-manage?style=flat-square&color=blue)](https://github.com/iamzhihuix/skills-manage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iamzhihuix/skills-manage?style=flat-square&color=yellow)](https://github.com/iamzhihuix/skills-manage/stargazers) [![Forks](https://img.shields.io/github/forks/iamzhihuix/skills-manage?style=flat-square&color=blue)](https://github.com/iamzhihuix/skills-manage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

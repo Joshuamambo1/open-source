@@ -1,6 +1,6 @@
 # stripe/link-cli
 
-[![Stars](https://img.shields.io/github/stars/stripe/link-cli?style=flat-square&color=yellow)](https://github.com/stripe/link-cli/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/link-cli?style=flat-square&color=blue)](https://github.com/stripe/link-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stripe/link-cli?style=flat-square&color=yellow)](https://github.com/stripe/link-cli/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/link-cli?style=flat-square&color=blue)](https://github.com/stripe/link-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 182 |
-| 🍴 **Forks** | 13 |
+| ⭐ **Stars** | 191 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

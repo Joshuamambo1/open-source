@@ -1,6 +1,6 @@
 # Syngnat/GoNavi
 
-[![Stars](https://img.shields.io/github/stars/Syngnat/GoNavi?style=flat-square&color=yellow)](https://github.com/Syngnat/GoNavi/stargazers) [![Forks](https://img.shields.io/github/forks/Syngnat/GoNavi?style=flat-square&color=blue)](https://github.com/Syngnat/GoNavi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Syngnat/GoNavi?style=flat-square&color=yellow)](https://github.com/Syngnat/GoNavi/stargazers) [![Forks](https://img.shields.io/github/forks/Syngnat/GoNavi?style=flat-square&color=blue)](https://github.com/Syngnat/GoNavi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 124 |
+| 🍴 **Forks** | 125 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,17 +1,17 @@
 # qqqqqf-q/arkloop
 
-[![Stars](https://img.shields.io/github/stars/qqqqqf-q/arkloop?style=flat-square&color=yellow)](https://github.com/qqqqqf-q/arkloop/stargazers) [![Forks](https://img.shields.io/github/forks/qqqqqf-q/arkloop?style=flat-square&color=blue)](https://github.com/qqqqqf-q/arkloop/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qqqqqf-q/arkloop?style=flat-square&color=yellow)](https://github.com/qqqqqf-q/arkloop/stargazers) [![Forks](https://img.shields.io/github/forks/qqqqqf-q/arkloop?style=flat-square&color=blue)](https://github.com/qqqqqf-q/arkloop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> 干净、强大、属于你的 AI Agent 平台  --AI agents, without the clutter.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 62 |
+| 🍴 **Forks** | 9 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML · Product
 
 ## 📝 Summary
 

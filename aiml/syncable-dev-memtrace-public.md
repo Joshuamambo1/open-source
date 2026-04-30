@@ -1,6 +1,6 @@
 # syncable-dev/memtrace-public
 
-[![Stars](https://img.shields.io/github/stars/syncable-dev/memtrace-public?style=flat-square&color=yellow)](https://github.com/syncable-dev/memtrace-public/stargazers) [![Forks](https://img.shields.io/github/forks/syncable-dev/memtrace-public?style=flat-square&color=blue)](https://github.com/syncable-dev/memtrace-public/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/syncable-dev/memtrace-public?style=flat-square&color=yellow)](https://github.com/syncable-dev/memtrace-public/stargazers) [![Forks](https://img.shields.io/github/forks/syncable-dev/memtrace-public?style=flat-square&color=blue)](https://github.com/syncable-dev/memtrace-public/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The missing memory layer for coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 

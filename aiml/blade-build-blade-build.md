@@ -1,6 +1,6 @@
 # blade-build/blade-build
 
-[![Stars](https://img.shields.io/github/stars/blade-build/blade-build?style=flat-square&color=yellow)](https://github.com/blade-build/blade-build/stargazers) [![Forks](https://img.shields.io/github/forks/blade-build/blade-build?style=flat-square&color=blue)](https://github.com/blade-build/blade-build/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blade-build/blade-build?style=flat-square&color=yellow)](https://github.com/blade-build/blade-build/stargazers) [![Forks](https://img.shields.io/github/forks/blade-build/blade-build?style=flat-square&color=blue)](https://github.com/blade-build/blade-build/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Blade is a powerful build system from Tencent, supports many mainstream programming languages, such as C/C++, java, scala, python, protobuf...
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 492 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

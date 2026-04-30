@@ -1,6 +1,6 @@
 # jqwik-team/jqwik
 
-[![Stars](https://img.shields.io/github/stars/jqwik-team/jqwik?style=flat-square&color=yellow)](https://github.com/jqwik-team/jqwik/stargazers) [![Forks](https://img.shields.io/github/forks/jqwik-team/jqwik?style=flat-square&color=blue)](https://github.com/jqwik-team/jqwik/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jqwik-team/jqwik?style=flat-square&color=yellow)](https://github.com/jqwik-team/jqwik/stargazers) [![Forks](https://img.shields.io/github/forks/jqwik-team/jqwik?style=flat-square&color=blue)](https://github.com/jqwik-team/jqwik/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Property-Based Testing on the JUnit Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 651 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

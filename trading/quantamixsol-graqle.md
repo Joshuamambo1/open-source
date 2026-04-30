@@ -1,6 +1,6 @@
 # quantamixsol/graqle
 
-[![Stars](https://img.shields.io/github/stars/quantamixsol/graqle?style=flat-square&color=yellow)](https://github.com/quantamixsol/graqle/stargazers) [![Forks](https://img.shields.io/github/forks/quantamixsol/graqle?style=flat-square&color=blue)](https://github.com/quantamixsol/graqle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quantamixsol/graqle?style=flat-square&color=yellow)](https://github.com/quantamixsol/graqle/stargazers) [![Forks](https://img.shields.io/github/forks/quantamixsol/graqle?style=flat-square&color=blue)](https://github.com/quantamixsol/graqle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Give your AI tools architecture-aware reasoning. Knowledge graph from any codebase — 14 LLM backends, impact analysis, confidence scores. Works with Claude Code, Cursor, VS Code Copilot.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

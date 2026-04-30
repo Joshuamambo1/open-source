@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **12363** |
+| 🗂️ **Total projects** | **12402** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,15 +18,15 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4724 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2403 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1206 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 962 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 750 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 733 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 439 | [Browse →](./crypto/) |
-| 📊 **Data** | 276 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 267 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 4735 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2410 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1212 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 963 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 752 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 738 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 441 | [Browse →](./crypto/) |
+| 📊 **Data** | 278 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 270 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 151 | [Browse →](./mobile/) |
 | 💳 **Payments** | 130 | [Browse →](./payments/) |
 | 📈 **Trading** | 129 | [Browse →](./trading/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.1k | AI/ML |
-| 2 | [kubernetes/kube-state-metrics](./aiml/kubernetes-kube-state-metrics.md) | ⭐ 6.1k | AI/ML |
+| 1 | [bpftrace/bpftrace](./misc/bpftrace-bpftrace.md) | ⭐ 10.1k | Misc |
+| 2 | [dragonflydb/dragonfly](./aiml/dragonflydb-dragonfly.md) | ⭐ 30.4k | AI/ML |
 | 3 | [nocodb/nocodb](./aiml/nocodb-nocodb.md) | ⭐ 62.9k | AI/ML |
 | 4 | [mastodon/mastodon](./devopsinfra/mastodon-mastodon.md) | ⭐ 49.9k | DevOps & Infra |
-| 5 | [botpress/botpress](./orchestration/botpress-botpress.md) | ⭐ 14.7k | Orchestration |
-| 6 | [microsoft/ai-agents-for-beginners](./orchestration/microsoft-ai-agents-for-beginners.md) | ⭐ 60.2k | Orchestration |
-| 7 | [modelscope/ms-swift](./aiml/modelscope-ms-swift.md) | ⭐ 14k | AI/ML |
-| 8 | [bitwarden/clients](./devtools/bitwarden-clients.md) | ⭐ 12.7k | DevTools |
-| 9 | [vxcontrol/pentagi](./orchestration/vxcontrol-pentagi.md) | ⭐ 16.2k | Orchestration |
-| 10 | [knative/serving](./aiml/knative-serving.md) | ⭐ 6k | AI/ML |
+| 5 | [arc53/DocsGPT](./aiml/arc53-docsgpt.md) | ⭐ 17.9k | AI/ML |
+| 6 | [Wei-Shaw/sub2api](./aiml/wei-shaw-sub2api.md) | ⭐ 16.9k | AI/ML |
+| 7 | [lichess-org/lila](./backend/lichess-org-lila.md) | ⭐ 18.1k | Backend |
+| 8 | [XIU2/TrackersListCollection](./aiml/xiu2-trackerslistcollection.md) | ⭐ 31.2k | AI/ML |
+| 9 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
+| 10 | [hiyouga/LlamaFactory](./trading/hiyouga-llamafactory.md) | ⭐ 70.8k | Trading |
 
 ## 🚀 How it works
 

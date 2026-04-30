@@ -9,10 +9,10 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.3k | Markdown | 100/100 |
-| 2 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.7k | C | 100/100 |
-| 3 | [koreader/koreader](./koreader-koreader.md) | ⭐ 26.5k | Lua | 100/100 |
-| 4 | [Anuken/Mindustry](./anuken-mindustry.md) | ⭐ 27.4k | Java | 100/100 |
-| 5 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11.1k | Kotlin | 100/100 |
+| 2 | [ankidroid/Anki-Android](./ankidroid-anki-android.md) | ⭐ 11.1k | Kotlin | 100/100 |
+| 3 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 32.7k | C | 100/100 |
+| 4 | [koreader/koreader](./koreader-koreader.md) | ⭐ 26.5k | Lua | 100/100 |
+| 5 | [Anuken/Mindustry](./anuken-mindustry.md) | ⭐ 27.4k | Java | 100/100 |
 | 6 | [vsouza/awesome-ios](./vsouza-awesome-ios.md) | ⭐ 52k | Swift | 100/100 |
 | 7 | [zhkl0228/unidbg](./zhkl0228-unidbg.md) | ⭐ 4.9k | Java | 100/100 |
 | 8 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 113.2k | Rust | 100/100 |
@@ -40,9 +40,9 @@
 | 30 | [PixarAnimationStudios/OpenUSD](./pixaranimationstudios-openusd.md) | ⭐ 7.2k | C++ | 90/100 |
 | 31 | [facebook/fresco](./facebook-fresco.md) | ⭐ 17.1k | Java | 90/100 |
 | 32 | [bluesky-social/social-app](./bluesky-social-social-app.md) | ⭐ 17.9k | TypeScript | 90/100 |
-| 33 | [muzei/muzei](./muzei-muzei.md) | ⭐ 4.9k | Kotlin | 89/100 |
-| 34 | [home-assistant/android](./home-assistant-android.md) | ⭐ 3.6k | Kotlin | 89/100 |
-| 35 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4k | Kotlin | 89/100 |
+| 33 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4k | Kotlin | 89/100 |
+| 34 | [muzei/muzei](./muzei-muzei.md) | ⭐ 4.9k | Kotlin | 89/100 |
+| 35 | [home-assistant/android](./home-assistant-android.md) | ⭐ 3.6k | Kotlin | 89/100 |
 | 36 | [SwiftOldDriver/iOS-Weekly](./swiftolddriver-ios-weekly.md) | ⭐ 5k | — | 89/100 |
 | 37 | [HQarroum/docker-android](./hqarroum-docker-android.md) | ⭐ 5.1k | Shell | 87/100 |
 | 38 | [LibChecker/LibChecker](./libchecker-libchecker.md) | ⭐ 6.8k | Kotlin | 86/100 |
@@ -71,8 +71,8 @@
 | 61 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 1.9k | C++ | 65/100 |
 | 62 | [ossdocumentscanner/OSS-DocumentScanner](./ossdocumentscanner-oss-documentscanner.md) | ⭐ 2k | C++ | 65/100 |
 | 63 | [rust-skia/rust-skia](./rust-skia-rust-skia.md) | ⭐ 1.8k | Rust | 65/100 |
-| 64 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.6k | Shell | 64/100 |
-| 65 | [dkrivoruchko/ScreenStream](./dkrivoruchko-screenstream.md) | ⭐ 2.4k | Kotlin | 64/100 |
+| 64 | [dkrivoruchko/ScreenStream](./dkrivoruchko-screenstream.md) | ⭐ 2.4k | Kotlin | 64/100 |
+| 65 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.6k | Shell | 64/100 |
 | 66 | [DP-Hridayan/aShellYou](./dp-hridayan-ashellyou.md) | ⭐ 1.8k | Kotlin | 64/100 |
 | 67 | [Watfaq/clash-rs](./watfaq-clash-rs.md) | ⭐ 1.6k | Rust | 64/100 |
 | 68 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 63/100 |
@@ -83,8 +83,8 @@
 | 73 | [mateusz-bak/openreads](./mateusz-bak-openreads.md) | ⭐ 1.5k | Dart | 62/100 |
 | 74 | [nextcloud/talk-android](./nextcloud-talk-android.md) | ⭐ 711 | Kotlin | 60/100 |
 | 75 | [skydoves/compose-stability-analyzer](./skydoves-compose-stability-analyzer.md) | ⭐ 1.5k | Kotlin | 60/100 |
-| 76 | [ZalithLauncher/ZalithLauncher2](./zalithlauncher-zalithlauncher2.md) | ⭐ 1.1k | Kotlin | 59/100 |
-| 77 | [nightscout/Trio](./nightscout-trio.md) | ⭐ 310 | Swift | 59/100 |
+| 76 | [nightscout/Trio](./nightscout-trio.md) | ⭐ 310 | Swift | 59/100 |
+| 77 | [ZalithLauncher/ZalithLauncher2](./zalithlauncher-zalithlauncher2.md) | ⭐ 1.1k | Kotlin | 59/100 |
 | 78 | [LemmyNet/jerboa](./lemmynet-jerboa.md) | ⭐ 1.3k | Kotlin | 59/100 |
 | 79 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
 | 80 | [RyanYuuki/AnymeX](./ryanyuuki-anymex.md) | ⭐ 960 | Dart | 58/100 |
@@ -102,13 +102,13 @@
 | 92 | [pyamsoft/tetherfusenet](./pyamsoft-tetherfusenet.md) | ⭐ 767 | Kotlin | 55/100 |
 | 93 | [SkyD666/PodAura](./skyd666-podaura.md) | ⭐ 1.2k | Kotlin | 55/100 |
 | 94 | [appwrite/sdk-generator](./appwrite-sdk-generator.md) | ⭐ 313 | Twig | 55/100 |
-| 95 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 572 | Rust | 54/100 |
-| 96 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 504 | TypeScript | 54/100 |
-| 97 | [Rezivure/Grid-Mobile](./rezivure-grid-mobile.md) | ⭐ 469 | Dart | 54/100 |
-| 98 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 469 | Kotlin | 54/100 |
-| 99 | [aegis-icons/aegis-icons](./aegis-icons-aegis-icons.md) | ⭐ 896 | Batchfile | 54/100 |
-| 100 | [moneymanagerex/android-money-manager-ex](./moneymanagerex-android-money-manager-ex.md) | ⭐ 684 | Java | 54/100 |
-| 101 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 452 | Java | 54/100 |
+| 95 | [moneymanagerex/android-money-manager-ex](./moneymanagerex-android-money-manager-ex.md) | ⭐ 684 | Java | 54/100 |
+| 96 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 452 | Java | 54/100 |
+| 97 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 572 | Rust | 54/100 |
+| 98 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 504 | TypeScript | 54/100 |
+| 99 | [Rezivure/Grid-Mobile](./rezivure-grid-mobile.md) | ⭐ 469 | Dart | 54/100 |
+| 100 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 469 | Kotlin | 54/100 |
+| 101 | [aegis-icons/aegis-icons](./aegis-icons-aegis-icons.md) | ⭐ 896 | Batchfile | 54/100 |
 | 102 | [chaldea-center/chaldea](./chaldea-center-chaldea.md) | ⭐ 585 | Dart | 54/100 |
 | 103 | [NativeScript/android](./nativescript-android.md) | ⭐ 559 | C++ | 54/100 |
 | 104 | [ChibiOS/ChibiOS](./chibios-chibios.md) | ⭐ 840 | C | 54/100 |
@@ -144,8 +144,8 @@
 | 134 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 310 | Kotlin | 49/100 |
 | 135 | [forcedotcom/SalesforceMobileSDK-Android](./forcedotcom-salesforcemobilesdk-android.md) | ⭐ 358 | Java | 48/100 |
 | 136 | [EmbarkStudios/crash-handling](./embarkstudios-crash-handling.md) | ⭐ 175 | Rust | 47/100 |
-| 137 | [BigheadSMZ/Zelda-LA-DX-HD-Updated](./bigheadsmz-zelda-la-dx-hd-updated.md) | ⭐ 729 | C# | 46/100 |
-| 138 | [sunnyadn/crforest](./sunnyadn-crforest.md) | ⭐ 2 | Python | 46/100 |
+| 137 | [sunnyadn/crforest](./sunnyadn-crforest.md) | ⭐ 3 | Python | 46/100 |
+| 138 | [BigheadSMZ/Zelda-LA-DX-HD-Updated](./bigheadsmz-zelda-la-dx-hd-updated.md) | ⭐ 729 | C# | 46/100 |
 | 139 | [EngineeringKiosk/GermanTechPodcasts](./engineeringkiosk-germantechpodcasts.md) | ⭐ 179 | Go | 46/100 |
 | 140 | [meshtastic/rust](./meshtastic-rust.md) | ⭐ 131 | Rust | 45/100 |
 | 141 | [grafana/grafana-kiosk](./grafana-grafana-kiosk.md) | ⭐ 474 | Go | 44/100 |

@@ -61,10 +61,10 @@
 | 51 | [python-visualization/folium](./python-visualization-folium.md) | ⭐ 7.4k | Python | 96/100 |
 | 52 | [scikit-learn/scikit-learn](./scikit-learn-scikit-learn.md) | ⭐ 65.9k | Python | 96/100 |
 | 53 | [mdn/browser-compat-data](./mdn-browser-compat-data.md) | ⭐ 5.7k | JSON | 96/100 |
-| 54 | [pressly/goose](./pressly-goose.md) | ⭐ 10.6k | Go | 95/100 |
-| 55 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 95/100 |
-| 56 | [awesomedata/awesome-public-datasets](./awesomedata-awesome-public-datasets.md) | ⭐ 74.7k | — | 95/100 |
-| 57 | [dgraph-io/dgraph](./dgraph-io-dgraph.md) | ⭐ 21.7k | Go | 95/100 |
+| 54 | [dgraph-io/dgraph](./dgraph-io-dgraph.md) | ⭐ 21.7k | Go | 95/100 |
+| 55 | [pressly/goose](./pressly-goose.md) | ⭐ 10.6k | Go | 95/100 |
+| 56 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 95/100 |
+| 57 | [awesomedata/awesome-public-datasets](./awesomedata-awesome-public-datasets.md) | ⭐ 74.7k | — | 95/100 |
 | 58 | [OSGeo/gdal](./osgeo-gdal.md) | ⭐ 5.9k | C++ | 95/100 |
 | 59 | [RediSearch/RediSearch](./redisearch-redisearch.md) | ⭐ 6.1k | C | 94/100 |
 | 60 | [tursodatabase/turso](./tursodatabase-turso.md) | ⭐ 18.4k | Rust | 94/100 |
@@ -214,8 +214,8 @@
 | 204 | [mus-format/mus-go](./mus-format-mus-go.md) | ⭐ 137 | Go | 50/100 |
 | 205 | [dataform-co/dataform](./dataform-co-dataform.md) | ⭐ 972 | TypeScript | 50/100 |
 | 206 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 103 | Rust | 50/100 |
-| 207 | [mk-runner/Awesome-Radiology-Report-Generation](./mk-runner-awesome-radiology-report-generation.md) | ⭐ 420 | — | 49/100 |
-| 208 | [minio/sio](./minio-sio.md) | ⭐ 387 | Go | 49/100 |
+| 207 | [minio/sio](./minio-sio.md) | ⭐ 387 | Go | 49/100 |
+| 208 | [mk-runner/Awesome-Radiology-Report-Generation](./mk-runner-awesome-radiology-report-generation.md) | ⭐ 420 | — | 49/100 |
 | 209 | [operator-framework/operator-registry](./operator-framework-operator-registry.md) | ⭐ 227 | Go | 49/100 |
 | 210 | [ormsgpack/ormsgpack](./ormsgpack-ormsgpack.md) | ⭐ 388 | Rust | 49/100 |
 | 211 | [replicase/pgcapture](./replicase-pgcapture.md) | ⭐ 281 | Go | 49/100 |

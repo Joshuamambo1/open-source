@@ -25,7 +25,7 @@ DevTools · Security
 
 ## 📝 Summary
 
-The NordVPN Linux client is an open-source, user-friendly application that allows Linux users to securely access the internet through NordVPN's vast network of servers. This client provides a robust and reliable way to protect online data and maintain anonymity, all while taking advantage of NordVPN's features and services. By utilizing this client, Linux users can enjoy secure internet browsing and streaming, safeguarding their personal information and online activities.
+The NordVPN Linux client is an open-source project providing a secure and reliable VPN solution for Linux users. This project allows users to connect to NordVPN's vast network of servers, ensuring their online activities remain private and secure. By utilizing this client, Linux users can enjoy uninterrupted and protected internet browsing.
 
 ---
 

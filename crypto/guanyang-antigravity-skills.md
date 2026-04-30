@@ -25,7 +25,7 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-The antigravity-skills project is an open-source initiative that aims to equip agents with professional-grade capabilities in various fields, including full-stack development, AI/ML, and multimedia processing. By leveraging modular Skills definitions, this project enables agents to tackle complex problems systematically, mirroring the expertise of human professionals. This innovative approach has far-reaching implications for AI/ML applications and the future of agent-based systems.
+The antigravity-skills project is an open-source initiative that enables agents to acquire professional-level skills in various domains, such as full-stack development and multimedia processing, through modular and systematic definitions. This allows agents to tackle complex problems with expertise similar to that of human professionals. By leveraging this framework, agents can be empowered to perform tasks with increased accuracy and efficiency.
 
 ---
 

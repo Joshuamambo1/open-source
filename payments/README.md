@@ -41,8 +41,8 @@
 | 31 | [FOSSBilling/FOSSBilling](./fossbilling-fossbilling.md) | ⭐ 1.5k | PHP | 65/100 |
 | 32 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.5k | Kotlin | 64/100 |
 | 33 | [robinebers/openusage](./robinebers-openusage.md) | ⭐ 2.1k | JavaScript | 64/100 |
-| 34 | [NiREvil/vless](./nirevil-vless.md) | ⭐ 1.1k | Rust | 61/100 |
-| 35 | [Natively-AI-assistant/natively-cluely-ai-assistant](./natively-ai-assistant-natively-cluely-ai-assistant.md) | ⭐ 1.1k | TypeScript | 61/100 |
+| 34 | [Natively-AI-assistant/natively-cluely-ai-assistant](./natively-ai-assistant-natively-cluely-ai-assistant.md) | ⭐ 1.1k | TypeScript | 61/100 |
+| 35 | [NiREvil/vless](./nirevil-vless.md) | ⭐ 1.1k | Rust | 61/100 |
 | 36 | [stripe/stripe-cli](./stripe-stripe-cli.md) | ⭐ 2k | Go | 61/100 |
 | 37 | [Lin-arm/GKD_subscription](./lin-arm-gkd-subscription.md) | ⭐ 2.2k | TypeScript | 61/100 |
 | 38 | [useautumn/autumn](./useautumn-autumn.md) | ⭐ 2.5k | TypeScript | 61/100 |
@@ -62,8 +62,8 @@
 | 52 | [AuthorizeNet/sdk-php](./authorizenet-sdk-php.md) | ⭐ 455 | PHP | 55/100 |
 | 53 | [Silentely/AdBlock-Acceleration](./silentely-adblock-acceleration.md) | ⭐ 549 | Adblock Filter List | 55/100 |
 | 54 | [AnalyseDeCircuit/oxideterm](./analysedecircuit-oxideterm.md) | ⭐ 633 | Rust | 55/100 |
-| 55 | [shetabit/payment](./shetabit-payment.md) | ⭐ 939 | PHP | 54/100 |
-| 56 | [open-condo-software/condo](./open-condo-software-condo.md) | ⭐ 337 | JavaScript | 54/100 |
+| 55 | [open-condo-software/condo](./open-condo-software-condo.md) | ⭐ 337 | JavaScript | 54/100 |
+| 56 | [shetabit/payment](./shetabit-payment.md) | ⭐ 939 | PHP | 54/100 |
 | 57 | [crafter-station/elements](./crafter-station-elements.md) | ⭐ 492 | TypeScript | 54/100 |
 | 58 | [raystack/frontier](./raystack-frontier.md) | ⭐ 331 | Go | 53/100 |
 | 59 | [agentic-commerce-protocol/agentic-commerce-protocol](./agentic-commerce-protocol-agentic-commerce-protocol.md) | ⭐ 1.4k | JavaScript | 53/100 |
@@ -78,8 +78,8 @@
 | 68 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 52/100 |
 | 69 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 52/100 |
 | 70 | [tddworks/asc-cli](./tddworks-asc-cli.md) | ⭐ 173 | Swift | 52/100 |
-| 71 | [askalf/dario](./askalf-dario.md) | ⭐ 100 | JavaScript | 51/100 |
-| 72 | [clawfleet/ClawFleet](./clawfleet-clawfleet.md) | ⭐ 135 | Go | 51/100 |
+| 71 | [clawfleet/ClawFleet](./clawfleet-clawfleet.md) | ⭐ 135 | Go | 51/100 |
+| 72 | [askalf/dario](./askalf-dario.md) | ⭐ 100 | JavaScript | 51/100 |
 | 73 | [ianjwhite99/opencode-with-claude](./ianjwhite99-opencode-with-claude.md) | ⭐ 166 | JavaScript | 51/100 |
 | 74 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 51/100 |
 | 75 | [samber/ro](./samber-ro.md) | ⭐ 642 | Go | 51/100 |
@@ -136,7 +136,7 @@
 | 126 | [protonemedia/laravel-paddle](./protonemedia-laravel-paddle.md) | ⭐ 202 | PHP | 40/100 |
 | 127 | [PtPrashantTripathi/linkpe](./ptprashanttripathi-linkpe.md) | ⭐ 98 | HTML | 40/100 |
 | 128 | [AutoFTbot/Qris-OrderKuota](./autoftbot-qris-orderkuota.md) | ⭐ 63 | PHP | 39/100 |
-| 129 | [stripe/link-cli](./stripe-link-cli.md) | ⭐ 89 | TypeScript | 37/100 |
+| 129 | [stripe/link-cli](./stripe-link-cli.md) | ⭐ 104 | TypeScript | 37/100 |
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-FileRise is an open-source, self-hosted file manager and storage hub that offers a range of features, including granular access control lists (ACLs), resumable uploads, and encrypted folders. This lightweight solution also supports WebDAV and single sign-on (SSO) authentication, making it a flexible and secure option for managing files. FileRise is fully compatible with Docker and Unraid, allowing for easy deployment and management.
+FileRise is an open-source, self-hosted file manager and storage hub that provides a secure and customizable solution for file storage and management. Key features include granular access control lists (ACLs), resumable uploads, encrypted folders, and support for WebDAV and single sign-on (SSO) integration. Compatible with Docker and Unraid, FileRise offers a robust and flexible platform for managing files and data.
 
 ---
 

@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-FastClaw is an open-source project that aims to provide a faster and more efficient alternative to OpenClaw, a popular open-source tool for artificial intelligence and machine learning tasks. Built on the principles of innovation and community-driven development, FastClaw seeks to enhance the performance and usability of AI/ML workflows. By leveraging the power of open-source collaboration, FastClaw strives to push the boundaries of what is possible in AI and machine learning research and development.
+Here's a brief summary for the fastclaw-ai/fastclaw project:
+
+Fastclaw is an open-source, AI-powered project designed to provide a faster and more efficient alternative to traditional openclaw solutions. Leveraging advanced machine learning capabilities, Fastclaw aims to enhance performance and accuracy in various AI and machine learning applications. By providing a faster and more effective framework, Fastclaw enables developers to build more complex models and drive innovation in the field of artificial intelligence.
 
 ---
 

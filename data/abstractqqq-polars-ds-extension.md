@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-This project, abstractqqq/polars_ds_extension, is an open-source extension for Polars that provides a comprehensive set of tools for general data science applications. It aims to enhance Polars' capabilities in handling various data science tasks, making it a powerful addition for users working with data manipulation, analysis, and visualization. This extension is designed to be flexible and extensible, catering to diverse use cases in data science.
+The polars_ds_extension project is an open-source extension for the Polars library, designed to provide a comprehensive set of tools for data science use cases. This extension offers a broad range of functionality to support data manipulation, analysis, and visualization, making it a valuable asset for data scientists working with Polars. By leveraging this extension, users can unlock advanced data science capabilities within the Polars ecosystem.
 
 ---
 

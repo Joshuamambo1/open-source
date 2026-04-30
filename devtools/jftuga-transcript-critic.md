@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Transcript-Critic is an open-source project that utilizes the Whisper.cpp library to transcribe audio and video content, providing a structured critical analysis. This analysis includes timestamped summaries, evidence notes, identification of logical fallacies, and underdeveloped areas, allowing for a comprehensive evaluation of the content. The project aims to facilitate critical thinking and media analysis through its automated transcription and analysis capabilities.
+The transcript-critic project is an open-source initiative that utilizes Whisper's audio/video transcription capabilities to generate structured, critical analyses of audio or video content. This analysis includes timestamped summaries, evidence notes, identification of logical fallacies, and underdeveloped areas, providing a comprehensive evaluation of the content. By leveraging the Claude Code skill, users can efficiently gain deeper insights into the substance and structure of audio or video materials.
 
 ---
 

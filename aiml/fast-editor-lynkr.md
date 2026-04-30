@@ -25,9 +25,7 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the Fast-Editor/Lynkr project:
-
-Lynkr is an open-source CLI tool that streamlines your workflow by acting as an HTTP proxy for seamless interactions with Claude Code CLI, enhancing code efficiency and productivity. This tool facilitates efficient code interactions, making it an essential addition to any developer's toolkit. By leveraging Lynkr, developers can maximize their productivity and collaboration capabilities.
+Lynkr is an open-source CLI tool that streamlines your workflow by acting as an HTTP proxy for efficient code interactions. It integrates seamlessly with Claude Code CLI, enhancing your AI and ML development experience. With Lynkr, you can optimize your coding process and improve productivity.
 
 ---
 

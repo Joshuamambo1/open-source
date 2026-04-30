@@ -54,7 +54,7 @@
 | 44 | [Erudika/scoold](./erudika-scoold.md) | ⭐ 916 | Java | 60/100 |
 | 45 | [BetterTyped/hyper-fetch](./bettertyped-hyper-fetch.md) | ⭐ 1.3k | TypeScript | 60/100 |
 | 46 | [cp2k/cp2k](./cp2k-cp2k.md) | ⭐ 1.1k | Fortran | 60/100 |
-| 47 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 978 | Python | 59/100 |
+| 47 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 979 | Python | 59/100 |
 | 48 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 619 | Python | 59/100 |
 | 49 | [ModelCloud/GPTQModel](./modelcloud-gptqmodel.md) | ⭐ 1.1k | Python | 59/100 |
 | 50 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 914 | Rust | 59/100 |
@@ -72,10 +72,10 @@
 | 62 | [wshobson/maverick-mcp](./wshobson-maverick-mcp.md) | ⭐ 505 | Python | 55/100 |
 | 63 | [ryanfrigo/kalshi-ai-trading-bot](./ryanfrigo-kalshi-ai-trading-bot.md) | ⭐ 383 | Python | 55/100 |
 | 64 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 598 | Swift | 55/100 |
-| 65 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 782 | Rust | 54/100 |
-| 66 | [IntQuant/noita_entangled_worlds](./intquant-noita-entangled-worlds.md) | ⭐ 1.1k | Rust | 54/100 |
-| 67 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 419 | Python | 54/100 |
-| 68 | [quantumlib/ReCirq](./quantumlib-recirq.md) | ⭐ 304 | Python | 54/100 |
+| 65 | [quantumlib/ReCirq](./quantumlib-recirq.md) | ⭐ 304 | Python | 54/100 |
+| 66 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 782 | Rust | 54/100 |
+| 67 | [IntQuant/noita_entangled_worlds](./intquant-noita-entangled-worlds.md) | ⭐ 1.1k | Rust | 54/100 |
+| 68 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 419 | Python | 54/100 |
 | 69 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 448 | Rust | 54/100 |
 | 70 | [dCache/dcache](./dcache-dcache.md) | ⭐ 315 | Java | 54/100 |
 | 71 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |

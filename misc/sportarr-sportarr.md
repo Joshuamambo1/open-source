@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Sportarr is an open-source project designed to track and record sports events from Usenet and torrent sources. It serves as a sports-oriented alternative to popular media management tools like Sonarr and Radarr, allowing users to efficiently capture and organize sports content. This project aims to simplify the process of collecting and storing sports-related media.
+Sportarr is an open-source project that allows users to record and manage sports events from Usenet and torrent sources, providing a personalized sports video recording experience. This project serves as a sports-focused alternative to popular media management tools like Sonarr and Radarr. By automating the discovery and download of sports events, Sportarr helps enthusiasts stay up-to-date with their favorite teams and leagues.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Superzent project:
-
-Superzent is an open-source, agent-first workspace built on the Zed platform, empowering developers to create seamless and efficient AI/ML and frontend workflows. This innovative workspace streamlines development processes and fosters collaboration with its intuitive design and robust tools. By leveraging Superzent, developers can accelerate their projects and unlock new possibilities in AI, ML, and frontend development.
+Superzent is an open-source, agent-first workspace built on the Zed platform, designed to facilitate AI and machine learning development. It provides a comprehensive environment for building and managing AI applications, with a focus on user experience and collaboration. By leveraging Zed's capabilities, Superzent aims to streamline the development process and unlock new possibilities for AI innovation.
 
 ---
 

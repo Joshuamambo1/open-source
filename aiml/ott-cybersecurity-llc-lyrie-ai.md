@@ -25,9 +25,7 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-Lyrie.ai is the world's first autonomous AI cybersecurity agent developed by OTT Cybersecurity LLC. This cutting-edge project leverages advanced AI and machine learning capabilities to provide robust cybersecurity solutions. As an open-source initiative, Lyrie.ai empowers the global community to collaborate and enhance the agent's effectiveness in protecting against cyber threats.
+Lyrie.ai is an innovative open-source project that introduces the world's first autonomous AI cybersecurity agent. Developed by OTT Cybersecurity LLC, this cutting-edge technology utilizes AI and machine learning to provide robust protection against cyber threats. By harnessing the power of AI, Lyrie.ai aims to revolutionize the cybersecurity landscape with its proactive and adaptive defense capabilities.
 
 ---
 

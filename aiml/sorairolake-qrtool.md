@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-QRTool is an open-source command-line utility for encoding and decoding QR codes, providing a simple and efficient way to work with these widely used visual representations of data. This tool allows users to easily create and parse QR codes from the command line, making it a valuable resource for developers and power users alike. With QRTool, users can quickly generate and manage QR codes for a variety of applications and use cases.
+QRTool is an open-source, command-line utility for efficiently encoding and decoding QR codes. This project allows users to easily create, manipulate, and validate QR codes from the terminal, making it a convenient tool for developers and power users. With QRTool, users can perform various operations such as generating QR codes, checking their validity, and more.
 
 ---
 

@@ -25,9 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The skills marketplace, developed by sendaifun, is an open-source platform that connects Solana developers and experts with a wide range of skills and knowledge in the crypto and AI/ML space. This public marketplace allows agents to learn from experienced instructors, expanding their capabilities in these emerging fields. By fostering knowledge sharing, the project aims to accelerate innovation and growth within the Solana ecosystem.
+The sendaifun/skills project is a community-driven, open-source marketplace that offers a vast collection of Solana-related skills and knowledge, allowing agents to learn and upskill in the cryptocurrency and AI/ML spaces. This platform provides a centralized hub for individuals to discover and acquire skills necessary for navigating the Solana ecosystem and leveraging its potential. By fostering a culture of knowledge sharing, sendaifun/skills aims to empower its users to contribute to and benefit from the growing Solana community.
 
 ---
 

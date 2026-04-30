@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the Fallow project:
-
-Fallow is an open-source code intelligence tool designed specifically for users of Claude, a cutting-edge AI platform. This tool aims to enhance the coding experience by providing valuable insights and intelligence to developers using Claude. By leveraging Fallow, users can optimize their coding workflow and unlock the full potential of Claude.
+Fallow is an open-source project that provides a code intelligence tool specifically designed for users of Claude, a powerful AI model. This tool aims to enhance the development experience by offering valuable insights and assistance. By leveraging Fallow, Claude users can unlock more efficient coding and improve their overall productivity.
 
 ---
 

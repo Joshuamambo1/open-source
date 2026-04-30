@@ -1,17 +1,17 @@
 # awslabs/global-capacity-orchestrator-on-aws
 
-[![Stars](https://img.shields.io/github/stars/awslabs/global-capacity-orchestrator-on-aws?style=flat-square&color=yellow)](https://github.com/awslabs/global-capacity-orchestrator-on-aws/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/global-capacity-orchestrator-on-aws?style=flat-square&color=blue)](https://github.com/awslabs/global-capacity-orchestrator-on-aws/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awslabs/global-capacity-orchestrator-on-aws?style=flat-square&color=yellow)](https://github.com/awslabs/global-capacity-orchestrator-on-aws/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/global-capacity-orchestrator-on-aws?style=flat-square&color=blue)](https://github.com/awslabs/global-capacity-orchestrator-on-aws/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> GCO is an experimental platform that spins up EKS Auto Mode clusters across AWS regions, wired together with Global Accelerator for low-latency routing. It handles the heavy lifting of multi-region compute orchestration — capacity-aware scheduling, spot fallback, globally distributed autoscaling inference — and offers a REST API, CLI and MCP server
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 12 |
+| 🍴 **Forks** | 2 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration
+Orchestration · Backend · DevTools
 
 ## 📝 Summary
 

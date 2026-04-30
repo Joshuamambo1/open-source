@@ -27,11 +27,11 @@
 | 17 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 122 | Rust | 51/100 |
 | 18 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
 | 19 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 16 | — | 50/100 |
-| 20 | [garritfra/cell](./garritfra-cell.md) | ⭐ 235 | Rust | 47/100 |
+| 20 | [garritfra/cell](./garritfra-cell.md) | ⭐ 237 | Rust | 47/100 |
 | 21 | [angr/cle](./angr-cle.md) | ⭐ 480 | Python | 45/100 |
 | 22 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 329 | Go | 42/100 |
-| 23 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 2 | — | 36/100 |
-| 24 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 5 | Go | 36/100 |
+| 23 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 3 | — | 36/100 |
+| 24 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 6 | Go | 36/100 |
 
 ---
 

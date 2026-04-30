@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The Auto Agent Protocol is an open-source initiative that enables AI agents to communicate seamlessly with car dealerships. This open A2A (Application-to-Application) profile facilitates the exchange of information between artificial intelligence systems and automotive businesses, potentially revolutionizing the way car sales and services are managed. By leveraging AI and automotive technology, the Auto Agent Protocol aims to streamline interactions and enhance the overall customer experience.
+Here's a brief summary:
+
+The Auto Agent Protocol is an open-source initiative that enables AI agents to communicate directly with car dealerships through a standardized A2A (Application-to-Application) profile. This innovative protocol aims to facilitate seamless interactions between artificial intelligence and the automotive industry, opening up new possibilities for streamlined sales, service, and customer experiences. By making this technology open-source, the project seeks to accelerate the adoption of AI-driven solutions in the automotive sector.
 
 ---
 

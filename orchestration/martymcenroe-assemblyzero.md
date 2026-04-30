@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-AssemblyZero is an open-source, parameterized multi-agent orchestration framework designed for use with Claude Code and Gemini. This framework enables efficient and scalable management of complex AI and ML workflows by orchestrating multiple agents and tasks. By providing a flexible and customizable infrastructure, AssemblyZero facilitates the development and deployment of large-scale AI and ML systems.
+AssemblyZero is an open-source, parameterized multi-agent orchestration framework designed for Claude Code and Gemini. This framework enables users to manage and automate complex workflows involving multiple AI and ML agents, streamlining their development and deployment processes. By providing a structured approach to multi-agent orchestration, AssemblyZero facilitates more efficient and scalable AI-powered projects.
 
 ---
 

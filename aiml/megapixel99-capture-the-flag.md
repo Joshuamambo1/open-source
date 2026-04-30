@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project presents a unique Capture the Flag game concept where Large Language Models (LLMs) serve as the sole participants, offering a novel exploration of artificial intelligence and machine learning capabilities. In this game, LLMs compete against each other, testing their language understanding, reasoning, and problem-solving skills in a simulated environment. The project provides a fascinating glimpse into the potential for AI to engage in complex, strategic interactions.
+A Capture the Flag (CTF) game has been developed where the only participants are Large Language Models (LLMs), showcasing a unique intersection of artificial intelligence and cybersecurity. In this open-source project, LLMs compete against each other, demonstrating their capabilities and limitations in a competitive environment. This innovative game provides insights into the strengths and weaknesses of LLMs in real-world scenarios.
 
 ---
 

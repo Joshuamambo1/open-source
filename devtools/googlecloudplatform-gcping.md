@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Gcping is an open-source project that provides a simple CLI and web application for monitoring the latency and status of Google Cloud Platform (GCP) services. The tool offers a quick and easy way to check the performance and availability of various GCP services, helping users identify potential issues and optimize their applications. Gcping is available at gcping.com and is designed to be a convenient utility for GCP developers and administrators.
+Gcping is an open-source project that provides a simple, web-based interface for checking the status of Google Cloud Platform (GCP) services. The project includes both a CLI and a web app, allowing users to easily monitor the availability of their GCP resources. This tool is designed to aid in the detection of service disruptions and outages in the GCP ecosystem.
 
 ---
 

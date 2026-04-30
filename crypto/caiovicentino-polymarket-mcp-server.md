@@ -25,7 +25,9 @@ Crypto · Trading · AI/ML
 
 ## 📝 Summary
 
-This open-source project, polymarket-mcp-server, is an AI-powered server for Polymarket that enables the trading bot "Claude" to participate in prediction markets with a wide range of tools. It offers real-time monitoring and enterprise-grade safety features for secure trading. This project combines cryptocurrency, trading, and AI/ML capabilities to streamline trading on Polymarket.
+Here's a brief summary for the open-source project:
+
+The polymarket-mcp-server is an open-source, AI-powered infrastructure for trading prediction markets on Polymarket, offering 45 tools and real-time monitoring capabilities. This server enables users, including Claude, to securely and efficiently engage in prediction market trading with robust enterprise-grade safety features. By leveraging AI and machine learning, the server streamlines trading experiences and enhances market analysis.
 
 ---
 

@@ -1,6 +1,6 @@
 # CoderGamester/mcp-unity
 
-[![Stars](https://img.shields.io/github/stars/CoderGamester/mcp-unity?style=flat-square&color=yellow)](https://github.com/CoderGamester/mcp-unity/stargazers) [![Forks](https://img.shields.io/github/forks/CoderGamester/mcp-unity?style=flat-square&color=blue)](https://github.com/CoderGamester/mcp-unity/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CoderGamester/mcp-unity?style=flat-square&color=yellow)](https://github.com/CoderGamester/mcp-unity/stargazers) [![Forks](https://img.shields.io/github/forks/CoderGamester/mcp-unity?style=flat-square&color=blue)](https://github.com/CoderGamester/mcp-unity/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol (MCP) plugin to connect with Unity Editor — designed for Cursor, Claude Code, Codex, Windsurf and other IDEs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

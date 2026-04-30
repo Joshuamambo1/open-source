@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Claude Code Plugin Marketplace with LSP servers is an open-source project that enables seamless AI-powered coding experiences by integrating various plugins into a single interface. This project, developed by Piebald-AI, provides a centralized marketplace for Claude Code plugins, allowing users to easily discover and utilize Language Server Protocol (LSP) servers for enhanced coding productivity. By streamlining AI-driven coding capabilities, this project aims to revolutionize the way developers work.
+Claude Code Plugin Marketplace with LSP servers is an open-source project that facilitates the integration of AI-driven coding capabilities with various programming languages. This project enables developers to access a wide range of language servers through a unified interface, enhancing productivity and collaboration. By providing a marketplace for LSP (Language Server Protocol) servers, it streamlines the development process and fosters innovation in AI-assisted coding.
 
 ---
 

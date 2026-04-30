@@ -1,6 +1,6 @@
 # pass-with-high-score/blockads-android
 
-[![Stars](https://img.shields.io/github/stars/pass-with-high-score/blockads-android?style=flat-square&color=yellow)](https://github.com/pass-with-high-score/blockads-android/stargazers) [![Forks](https://img.shields.io/github/forks/pass-with-high-score/blockads-android?style=flat-square&color=blue)](https://github.com/pass-with-high-score/blockads-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pass-with-high-score/blockads-android?style=flat-square&color=yellow)](https://github.com/pass-with-high-score/blockads-android/stargazers) [![Forks](https://img.shields.io/github/forks/pass-with-high-score/blockads-android?style=flat-square&color=blue)](https://github.com/pass-with-high-score/blockads-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 834 |
+| ⭐ **Stars** | 835 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

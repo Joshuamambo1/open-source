@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Pop!_OS is a popular Linux distribution, and pop-os/pop is an open-source project that centrally manages all its sources. This project streamlines the process of maintaining and updating the various components of Pop!_OS, ensuring a seamless and efficient user experience. By centralizing its sources, the pop-os/pop project helps to improve the overall stability and consistency of the Linux distribution.
+Pop!_OS is an operating system that comes pre-installed with many software packages. The pop-os/pop project is an open-source initiative that aims to manage and maintain all Pop!_OS sources, ensuring users have access to the latest updates and versions. This project is crucial for the Pop!_OS community, facilitating the development and distribution of this Linux-based operating system.
 
 ---
 

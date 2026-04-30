@@ -27,7 +27,7 @@ Crypto · AI/ML · Frontend
 
 Here's a brief summary for the open-source project:
 
-The Rustchain-mcp project is an open-source implementation of a MCP server for the RustChain blockchain, enabling AI agent tools for the BoTTube video platform. This project utilizes the RustChain SDK from createkr to facilitate interactions between AI agents and the blockchain, ultimately allowing users to earn RTC tokens. By leveraging AI and blockchain technologies, Rustchain-mcp provides a unique platform for earning rewards in a decentralized ecosystem.
+RustChain-MCP is an open-source MCP server developed for the RustChain blockchain and BoTTube video platform. This project utilizes AI agent tools to enable users to earn RTC tokens through various interactions, integrating seamlessly with the RustChain SDK provided by createkr. By harnessing the power of artificial intelligence and blockchain technology, RustChain-MCP offers a unique earning opportunity for users.
 
 ---
 

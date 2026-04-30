@@ -1,0 +1,32 @@
+# saxenauts/syke
+
+[![Stars](https://img.shields.io/github/stars/saxenauts/syke?style=flat-square&color=yellow)](https://github.com/saxenauts/syke/stargazers) [![Forks](https://img.shields.io/github/forks/saxenauts/syke?style=flat-square&color=blue)](https://github.com/saxenauts/syke/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+
+> dynamic identity - agentic memory - your digital extension for all your AI
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 42 |
+| 🍴 **Forks** | 2 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML
+
+## 📝 Summary
+
+The syke project is an open-source initiative that aims to create a dynamic digital identity extension for interacting with artificial intelligence (AI) systems. It encompasses concepts such as agentic memory, enabling users to establish a personalized and adaptive relationship with various AI applications. This extension is designed to facilitate seamless and intelligent interactions across multiple AI platforms.
+
+---
+
+<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/saxenauts/syke) · [← Back to AI/ML](./README.md)</sub>

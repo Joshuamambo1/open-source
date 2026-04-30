@@ -1,6 +1,6 @@
 # ph4r5h4d/wait4it
 
-[![Stars](https://img.shields.io/github/stars/ph4r5h4d/wait4it?style=flat-square&color=yellow)](https://github.com/ph4r5h4d/wait4it/stargazers) [![Forks](https://img.shields.io/github/forks/ph4r5h4d/wait4it?style=flat-square&color=blue)](https://github.com/ph4r5h4d/wait4it/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ph4r5h4d/wait4it?style=flat-square&color=yellow)](https://github.com/ph4r5h4d/wait4it/stargazers) [![Forks](https://img.shields.io/github/forks/ph4r5h4d/wait4it?style=flat-square&color=blue)](https://github.com/ph4r5h4d/wait4it/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A simple go application to test whether a port or a service is ready or not
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

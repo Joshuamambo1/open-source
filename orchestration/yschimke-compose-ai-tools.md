@@ -25,7 +25,7 @@ Orchestration · AI/ML · Mobile
 
 ## 📝 Summary
 
-Compose-ai-tools is an open-source project that enables the orchestration of AI and ML tools, simplifying the process of integrating various components to achieve complex tasks. This project aims to empower agents to compose and manage AI-driven workflows more efficiently, enhancing productivity and collaboration. By providing a streamlined platform for AI tool orchestration, compose-ai-tools facilitates the development of innovative AI applications.
+The compose-ai-tools project is an open-source initiative that aims to simplify the orchestration of AI and ML workflows. By providing a streamlined and automated composition process, this tool enables users to efficiently integrate and manage various AI components. This project caters to mobile and other applications that rely heavily on AI and ML, making it easier to develop and deploy complex systems.
 
 ---
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Claude Superskills is an open-source project that provides 55 universal AI skills for various platforms, including Claude Code and GitHub Copilot, without requiring API keys. This comprehensive set of skills enables users to streamline tasks such as planning, orchestration, and document conversion. By leveraging Claude Superskills, users can enhance their productivity and automate workflows across multiple platforms.
+This open-source project, claude-superskills, offers a comprehensive set of 55 universal AI skills that can be used across various platforms, including Claude Code, GitHub Copilot, and more. These skills enable users to perform tasks such as planning, orchestration, product strategy, and research without requiring any API keys. The project provides a robust toolkit for enhancing AI capabilities and streamlining workflows.
 
 ---
 

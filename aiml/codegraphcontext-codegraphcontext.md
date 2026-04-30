@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the CodeGraphContext project:
-
-CodeGraphContext is an open-source project that combines an MCP server and a CLI tool to index local code into a graph database. This enables AI assistants to provide context and insights from the indexed codebase, facilitating more effective collaboration and development. By leveraging graph database technology, CodeGraphContext empowers developers to unlock the hidden knowledge in their code.
+CodeGraphContext is an open-source project that indexes local code into a graph database, providing context to AI assistants. This project combines an MCP server with a CLI tool to facilitate seamless integration with AI-powered tools. By leveraging a graph database, CodeGraphContext enables more accurate and informative interactions between developers and AI assistants.
 
 ---
 

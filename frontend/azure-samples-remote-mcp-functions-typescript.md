@@ -25,7 +25,9 @@ Frontend · Backend · Design
 
 ## 📝 Summary
 
-This open-source project, Azure-Samples/remote-mcp-functions-typescript, provides a quickstart template for building and deploying a custom remote MCP server to the cloud using Azure Functions. With this template, developers can easily clone, run, and debug the project locally before deploying it to the cloud in a matter of minutes. The MCP server is designed with security in mind and can be easily modified to suit specific needs.
+Here's a brief summary for the Azure-Samples/remote-mcp-functions-typescript project:
+
+This open-source project provides a quickstart template to build and deploy a secure custom remote MCP server to the cloud using Azure Functions. With the template, you can easily develop, debug, and deploy the server on your local machine and in the cloud in a matter of minutes. The remote MCP server is designed with security in mind to ensure a robust and reliable deployment experience.
 
 ---
 

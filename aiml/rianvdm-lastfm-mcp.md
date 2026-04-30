@@ -25,7 +25,9 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-The rianvdm/lastfm-mcp project is an open-source MCP server that integrates a user's Last.fm listening data and music information with AI assistants, such as Claude. This allows users to access their music history and recommendations through voice commands or interfaces, enhancing their music listening experience. By leveraging AI and machine learning capabilities, the server provides a seamless and intuitive way to interact with Last.fm data.
+Here's a brief summary for the rianvdm/lastfm-mcp open-source project:
+
+Last.fm-MCP is an open-source MCP server that enables seamless access to a user's Last.fm listening history and music information through AI assistants like Claude. This project integrates with Last.fm to provide comprehensive music insights, allowing users to engage with their music preferences in a more interactive and intelligent way. By bridging the gap between music data and AI-powered interfaces, Last.fm-MCP empowers users to explore their musical tastes with greater ease and depth.
 
 ---
 

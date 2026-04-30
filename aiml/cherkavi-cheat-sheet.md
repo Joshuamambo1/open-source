@@ -1,6 +1,6 @@
 # cherkavi/cheat-sheet
 
-[![Stars](https://img.shields.io/github/stars/cherkavi/cheat-sheet?style=flat-square&color=yellow)](https://github.com/cherkavi/cheat-sheet/stargazers) [![Forks](https://img.shields.io/github/forks/cherkavi/cheat-sheet?style=flat-square&color=blue)](https://github.com/cherkavi/cheat-sheet/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cherkavi/cheat-sheet?style=flat-square&color=yellow)](https://github.com/cherkavi/cheat-sheet/stargazers) [![Forks](https://img.shields.io/github/forks/cherkavi/cheat-sheet?style=flat-square&color=blue)](https://github.com/cherkavi/cheat-sheet/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > collection of cheat sheets
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 409 |
-| 🍴 **Forks** | 248 |
+| ⭐ **Stars** | 410 |
+| 🍴 **Forks** | 249 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

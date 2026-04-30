@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **12001** |
+| 🗂️ **Total projects** | **12027** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4571 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2328 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1172 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 944 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 733 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 710 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 428 | [Browse →](./crypto/) |
-| 📊 **Data** | 264 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 4577 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2333 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1174 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 946 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 734 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 715 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 429 | [Browse →](./crypto/) |
+| 📊 **Data** | 267 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 259 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 148 | [Browse →](./mobile/) |
 | 💳 **Payments** | 129 | [Browse →](./payments/) |
-| 📈 **Trading** | 124 | [Browse →](./trading/) |
+| 📈 **Trading** | 125 | [Browse →](./trading/) |
 | 🔐 **Security** | 107 | [Browse →](./security/) |
 | ✨ **Design** | 37 | [Browse →](./design/) |
 | 🎯 **Product** | 25 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 2 | [wpscanteam/wpscan](./aiml/wpscanteam-wpscan.md) | ⭐ 9.6k | AI/ML |
-| 3 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 4 | [birobirobiro/awesome-shadcn-ui](./frontend/birobirobiro-awesome-shadcn-ui.md) | ⭐ 19.4k | Frontend |
-| 5 | [oppia/oppia](./misc/oppia-oppia.md) | ⭐ 6.7k | Misc |
-| 6 | [sktime/sktime](./aiml/sktime-sktime.md) | ⭐ 9.7k | AI/ML |
-| 7 | [airbytehq/airbyte](./aiml/airbytehq-airbyte.md) | ⭐ 21.2k | AI/ML |
-| 8 | [docling-project/docling](./aiml/docling-project-docling.md) | ⭐ 58.8k | AI/ML |
-| 9 | [flutter/flutter](./frontend/flutter-flutter.md) | ⭐ 176.1k | Frontend |
-| 10 | [rclone/rclone](./aiml/rclone-rclone.md) | ⭐ 56.9k | AI/ML |
+| 1 | [giampaolo/psutil](./misc/giampaolo-psutil.md) | ⭐ 11.2k | Misc |
+| 2 | [btcpayserver/btcpayserver](./crypto/btcpayserver-btcpayserver.md) | ⭐ 7.5k | Crypto |
+| 3 | [gnuradio/gnuradio](./security/gnuradio-gnuradio.md) | ⭐ 6.1k | Security |
+| 4 | [redox-os/redox](./misc/redox-os-redox.md) | ⭐ 16.3k | Misc |
+| 5 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 39.3k | AI/ML |
+| 6 | [BasedHardware/omi](./aiml/basedhardware-omi.md) | ⭐ 12.3k | AI/ML |
+| 7 | [Raphire/Win11Debloat](./devtools/raphire-win11debloat.md) | ⭐ 45.5k | DevTools |
+| 8 | [Kilo-Org/kilocode](./aiml/kilo-org-kilocode.md) | ⭐ 18.7k | AI/ML |
+| 9 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 10 | [nocobase/nocobase](./aiml/nocobase-nocobase.md) | ⭐ 22.2k | AI/ML |
 
 ## 🚀 How it works
 

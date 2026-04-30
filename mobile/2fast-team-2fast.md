@@ -1,6 +1,6 @@
 # 2fast-team/2fast
 
-[![Stars](https://img.shields.io/github/stars/2fast-team/2fast?style=flat-square&color=yellow)](https://github.com/2fast-team/2fast/stargazers) [![Forks](https://img.shields.io/github/forks/2fast-team/2fast?style=flat-square&color=blue)](https://github.com/2fast-team/2fast/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/2fast-team/2fast?style=flat-square&color=yellow)](https://github.com/2fast-team/2fast/stargazers) [![Forks](https://img.shields.io/github/forks/2fast-team/2fast?style=flat-square&color=blue)](https://github.com/2fast-team/2fast/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 537 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

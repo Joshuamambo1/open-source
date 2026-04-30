@@ -1,17 +1,17 @@
 # ymuromcev/ai-job-searcher
 
-[![Stars](https://img.shields.io/github/stars/ymuromcev/ai-job-searcher?style=flat-square&color=yellow)](https://github.com/ymuromcev/ai-job-searcher/stargazers) [![Forks](https://img.shields.io/github/forks/ymuromcev/ai-job-searcher?style=flat-square&color=blue)](https://github.com/ymuromcev/ai-job-searcher/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ymuromcev/ai-job-searcher?style=flat-square&color=yellow)](https://github.com/ymuromcev/ai-job-searcher/stargazers) [![Forks](https://img.shields.io/github/forks/ymuromcev/ai-job-searcher?style=flat-square&color=blue)](https://github.com/ymuromcev/ai-job-searcher/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Multi-profile job search pipeline. One engine, multiple candidates.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 12 |
+| 🍴 **Forks** | 1 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 

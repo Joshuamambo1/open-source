@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/stripe/link-cli?style=flat-square&color=yellow)](https://github.com/stripe/link-cli/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/link-cli?style=flat-square&color=blue)](https://github.com/stripe/link-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
-> Let your agents pay online using one-time-use cards or with machine payment protocols.
+> Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 60 |
-| 🍴 **Forks** | 6 |
+| ⭐ **Stars** | 89 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |

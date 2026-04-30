@@ -1,6 +1,6 @@
 # jordan-gibbs/hyperresearch
 
-[![Stars](https://img.shields.io/github/stars/jordan-gibbs/hyperresearch?style=flat-square&color=yellow)](https://github.com/jordan-gibbs/hyperresearch/stargazers) [![Forks](https://img.shields.io/github/forks/jordan-gibbs/hyperresearch?style=flat-square&color=blue)](https://github.com/jordan-gibbs/hyperresearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jordan-gibbs/hyperresearch?style=flat-square&color=yellow)](https://github.com/jordan-gibbs/hyperresearch/stargazers) [![Forks](https://img.shields.io/github/forks/jordan-gibbs/hyperresearch?style=flat-square&color=blue)](https://github.com/jordan-gibbs/hyperresearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23 |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 36 |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

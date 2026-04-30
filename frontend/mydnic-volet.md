@@ -1,6 +1,6 @@
 # mydnic/volet
 
-[![Stars](https://img.shields.io/github/stars/mydnic/volet?style=flat-square&color=yellow)](https://github.com/mydnic/volet/stargazers) [![Forks](https://img.shields.io/github/forks/mydnic/volet?style=flat-square&color=blue)](https://github.com/mydnic/volet/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mydnic/volet?style=flat-square&color=yellow)](https://github.com/mydnic/volet/stargazers) [![Forks](https://img.shields.io/github/forks/mydnic/volet?style=flat-square&color=blue)](https://github.com/mydnic/volet/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Extensible customer feedback widget for Laravel
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 413 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
-| 2 | [opf/openproject](./opf-openproject.md) | ⭐ 14.9k | Ruby | 100/100 |
+| 2 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
 | 3 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.5k | Clojure | 100/100 |
 | 4 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.4k | C# | 100/100 |
 | 5 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.2k | TypeScript | 99/100 |

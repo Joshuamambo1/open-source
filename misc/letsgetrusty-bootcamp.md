@@ -1,6 +1,6 @@
 # letsgetrusty/bootcamp
 
-[![Stars](https://img.shields.io/github/stars/letsgetrusty/bootcamp?style=flat-square&color=yellow)](https://github.com/letsgetrusty/bootcamp/stargazers) [![Forks](https://img.shields.io/github/forks/letsgetrusty/bootcamp?style=flat-square&color=blue)](https://github.com/letsgetrusty/bootcamp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/letsgetrusty/bootcamp?style=flat-square&color=yellow)](https://github.com/letsgetrusty/bootcamp/stargazers) [![Forks](https://img.shields.io/github/forks/letsgetrusty/bootcamp?style=flat-square&color=blue)](https://github.com/letsgetrusty/bootcamp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 413 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

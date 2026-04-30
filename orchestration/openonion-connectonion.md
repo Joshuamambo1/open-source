@@ -1,6 +1,6 @@
 # openonion/connectonion
 
-[![Stars](https://img.shields.io/github/stars/openonion/connectonion?style=flat-square&color=yellow)](https://github.com/openonion/connectonion/stargazers) [![Forks](https://img.shields.io/github/forks/openonion/connectonion?style=flat-square&color=blue)](https://github.com/openonion/connectonion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openonion/connectonion?style=flat-square&color=yellow)](https://github.com/openonion/connectonion/stargazers) [![Forks](https://img.shields.io/github/forks/openonion/connectonion?style=flat-square&color=blue)](https://github.com/openonion/connectonion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The Best AI Agent Framework for Agent Collaboration.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 944 |
-| 🍴 **Forks** | 126 |
+| 🍴 **Forks** | 127 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

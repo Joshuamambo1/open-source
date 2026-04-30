@@ -1,6 +1,6 @@
 # bitshifter/glam-rs
 
-[![Stars](https://img.shields.io/github/stars/bitshifter/glam-rs?style=flat-square&color=yellow)](https://github.com/bitshifter/glam-rs/stargazers) [![Forks](https://img.shields.io/github/forks/bitshifter/glam-rs?style=flat-square&color=blue)](https://github.com/bitshifter/glam-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitshifter/glam-rs?style=flat-square&color=yellow)](https://github.com/bitshifter/glam-rs/stargazers) [![Forks](https://img.shields.io/github/forks/bitshifter/glam-rs?style=flat-square&color=blue)](https://github.com/bitshifter/glam-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A simple and fast linear algebra library for games and graphics
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

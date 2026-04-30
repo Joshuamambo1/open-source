@@ -1,6 +1,6 @@
 # Foued-pro/Mnemos
 
-[![Stars](https://img.shields.io/github/stars/Foued-pro/Mnemos?style=flat-square&color=yellow)](https://github.com/Foued-pro/Mnemos/stargazers) [![Forks](https://img.shields.io/github/forks/Foued-pro/Mnemos?style=flat-square&color=blue)](https://github.com/Foued-pro/Mnemos/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Foued-pro/Mnemos?style=flat-square&color=yellow)](https://github.com/Foued-pro/Mnemos/stargazers) [![Forks](https://img.shields.io/github/forks/Foued-pro/Mnemos?style=flat-square&color=blue)](https://github.com/Foued-pro/Mnemos/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > local-first persistent memory for Claude Desktop, enabling private hybrid RAG search across past conversations without API calls
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

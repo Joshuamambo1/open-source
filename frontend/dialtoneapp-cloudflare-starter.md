@@ -1,6 +1,6 @@
 # DialtoneApp/cloudflare-starter
 
-[![Stars](https://img.shields.io/github/stars/DialtoneApp/cloudflare-starter?style=flat-square&color=yellow)](https://github.com/DialtoneApp/cloudflare-starter/stargazers) [![Forks](https://img.shields.io/github/forks/DialtoneApp/cloudflare-starter?style=flat-square&color=blue)](https://github.com/DialtoneApp/cloudflare-starter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DialtoneApp/cloudflare-starter?style=flat-square&color=yellow)](https://github.com/DialtoneApp/cloudflare-starter/stargazers) [![Forks](https://img.shields.io/github/forks/DialtoneApp/cloudflare-starter?style=flat-square&color=blue)](https://github.com/DialtoneApp/cloudflare-starter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > react javascript frontend, workers with D1 (sqlite) and R2 (s3 bucket) and SSR (server side rendering)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

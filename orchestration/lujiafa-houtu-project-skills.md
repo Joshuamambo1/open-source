@@ -1,6 +1,6 @@
 # lujiafa/houtu-project-skills
 
-[![Stars](https://img.shields.io/github/stars/lujiafa/houtu-project-skills?style=flat-square&color=yellow)](https://github.com/lujiafa/houtu-project-skills/stargazers) [![Forks](https://img.shields.io/github/forks/lujiafa/houtu-project-skills?style=flat-square&color=blue)](https://github.com/lujiafa/houtu-project-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lujiafa/houtu-project-skills?style=flat-square&color=yellow)](https://github.com/lujiafa/houtu-project-skills/stargazers) [![Forks](https://img.shields.io/github/forks/lujiafa/houtu-project-skills?style=flat-square&color=blue)](https://github.com/lujiafa/houtu-project-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of skills, practices, and tooling used throughout the project lifecycle — from development to testing and beyond.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

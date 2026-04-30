@@ -1,6 +1,6 @@
 # dimetron/pi-go
 
-[![Stars](https://img.shields.io/github/stars/dimetron/pi-go?style=flat-square&color=yellow)](https://github.com/dimetron/pi-go/stargazers) [![Forks](https://img.shields.io/github/forks/dimetron/pi-go?style=flat-square&color=blue)](https://github.com/dimetron/pi-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dimetron/pi-go?style=flat-square&color=yellow)](https://github.com/dimetron/pi-go/stargazers) [![Forks](https://img.shields.io/github/forks/dimetron/pi-go?style=flat-square&color=blue)](https://github.com/dimetron/pi-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Go implementation of AI coding agent
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 36 |
+| ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

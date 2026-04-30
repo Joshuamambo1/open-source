@@ -1,6 +1,6 @@
 # lightninglabs/aperture
 
-[![Stars](https://img.shields.io/github/stars/lightninglabs/aperture?style=flat-square&color=yellow)](https://github.com/lightninglabs/aperture/stargazers) [![Forks](https://img.shields.io/github/forks/lightninglabs/aperture?style=flat-square&color=blue)](https://github.com/lightninglabs/aperture/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightninglabs/aperture?style=flat-square&color=yellow)](https://github.com/lightninglabs/aperture/stargazers) [![Forks](https://img.shields.io/github/forks/lightninglabs/aperture?style=flat-square&color=blue)](https://github.com/lightninglabs/aperture/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡️L402 (Lightning HTTP 402) Reverse Proxy ⚡️
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 261 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

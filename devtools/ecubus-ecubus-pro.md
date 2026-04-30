@@ -1,6 +1,6 @@
 # ecubus/EcuBus-Pro
 
-[![Stars](https://img.shields.io/github/stars/ecubus/EcuBus-Pro?style=flat-square&color=yellow)](https://github.com/ecubus/EcuBus-Pro/stargazers) [![Forks](https://img.shields.io/github/forks/ecubus/EcuBus-Pro?style=flat-square&color=blue)](https://github.com/ecubus/EcuBus-Pro/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ecubus/EcuBus-Pro?style=flat-square&color=yellow)](https://github.com/ecubus/EcuBus-Pro/stargazers) [![Forks](https://img.shields.io/github/forks/ecubus/EcuBus-Pro?style=flat-square&color=blue)](https://github.com/ecubus/EcuBus-Pro/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful automotive ECU development tool. UDS, CAN-TP, DOIP, LIN , Script(TS) like CAPL, HIL Test
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 767 |
-| 🍴 **Forks** | 208 |
+| 🍴 **Forks** | 209 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

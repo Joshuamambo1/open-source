@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 66 |
-| 🍴 **Forks** | 5 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |

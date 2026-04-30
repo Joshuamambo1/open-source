@@ -1,6 +1,6 @@
 # kite-org/kite
 
-[![Stars](https://img.shields.io/github/stars/kite-org/kite?style=flat-square&color=yellow)](https://github.com/kite-org/kite/stargazers) [![Forks](https://img.shields.io/github/forks/kite-org/kite?style=flat-square&color=blue)](https://github.com/kite-org/kite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kite-org/kite?style=flat-square&color=yellow)](https://github.com/kite-org/kite/stargazers) [![Forks](https://img.shields.io/github/forks/kite-org/kite?style=flat-square&color=blue)](https://github.com/kite-org/kite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 221 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

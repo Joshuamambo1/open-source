@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/cartesiancs/vessel?style=flat-square&color=yellow)](https://github.com/cartesiancs/vessel/stargazers) [![Forks](https://img.shields.io/github/forks/cartesiancs/vessel?style=flat-square&color=blue)](https://github.com/cartesiancs/vessel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> 🦾 A personal C2 platform for Physical AI. Connect streams. Detect events. Control your world.
+> 🦾 Runtime for Physical AI. Connect streams. Detect events. Control your world.
 
 ## 📊 Stats
 

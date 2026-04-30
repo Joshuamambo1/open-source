@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **12261** |
+| 🗂️ **Total projects** | **12308** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4680 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2385 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1195 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 954 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 745 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 731 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 435 | [Browse →](./crypto/) |
-| 📊 **Data** | 272 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 264 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 4697 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2393 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1202 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 958 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 748 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 733 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 436 | [Browse →](./crypto/) |
+| 📊 **Data** | 274 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 265 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 150 | [Browse →](./mobile/) |
 | 💳 **Payments** | 130 | [Browse →](./payments/) |
-| 📈 **Trading** | 128 | [Browse →](./trading/) |
-| 🔐 **Security** | 108 | [Browse →](./security/) |
+| 📈 **Trading** | 129 | [Browse →](./trading/) |
+| 🔐 **Security** | 109 | [Browse →](./security/) |
 | ✨ **Design** | 37 | [Browse →](./design/) |
 | 🎯 **Product** | 25 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 22 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [apify/crawlee](./aiml/apify-crawlee.md) | ⭐ 23k | AI/ML |
-| 2 | [nocodb/nocodb](./aiml/nocodb-nocodb.md) | ⭐ 62.9k | AI/ML |
-| 3 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 14.9k | AI/ML |
-| 4 | [mumble-voip/mumble](./backend/mumble-voip-mumble.md) | ⭐ 8k | Backend |
-| 5 | [ArvinLovegood/go-stock](./aiml/arvinlovegood-go-stock.md) | ⭐ 5.5k | AI/ML |
-| 6 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25k | Design |
-| 7 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.3k | Frontend |
-| 8 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 9 | [docling-project/docling](./aiml/docling-project-docling.md) | ⭐ 58.8k | AI/ML |
-| 10 | [go-acme/lego](./devtools/go-acme-lego.md) | ⭐ 9.5k | DevTools |
+| 1 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.1k | AI/ML |
+| 2 | [kubernetes/kube-state-metrics](./aiml/kubernetes-kube-state-metrics.md) | ⭐ 6.1k | AI/ML |
+| 3 | [nocodb/nocodb](./aiml/nocodb-nocodb.md) | ⭐ 62.9k | AI/ML |
+| 4 | [mastodon/mastodon](./devopsinfra/mastodon-mastodon.md) | ⭐ 49.9k | DevOps & Infra |
+| 5 | [botpress/botpress](./orchestration/botpress-botpress.md) | ⭐ 14.7k | Orchestration |
+| 6 | [microsoft/ai-agents-for-beginners](./orchestration/microsoft-ai-agents-for-beginners.md) | ⭐ 60.2k | Orchestration |
+| 7 | [modelscope/ms-swift](./aiml/modelscope-ms-swift.md) | ⭐ 14k | AI/ML |
+| 8 | [bitwarden/clients](./devtools/bitwarden-clients.md) | ⭐ 12.7k | DevTools |
+| 9 | [vxcontrol/pentagi](./orchestration/vxcontrol-pentagi.md) | ⭐ 16.2k | Orchestration |
+| 10 | [knative/serving](./aiml/knative-serving.md) | ⭐ 6k | AI/ML |
 
 ## 🚀 How it works
 

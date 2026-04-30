@@ -1,6 +1,6 @@
 # luftaquila/pointify
 
-[![Stars](https://img.shields.io/github/stars/luftaquila/pointify?style=flat-square&color=yellow)](https://github.com/luftaquila/pointify/stargazers) [![Forks](https://img.shields.io/github/forks/luftaquila/pointify?style=flat-square&color=blue)](https://github.com/luftaquila/pointify/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luftaquila/pointify?style=flat-square&color=yellow)](https://github.com/luftaquila/pointify/stargazers) [![Forks](https://img.shields.io/github/forks/luftaquila/pointify?style=flat-square&color=blue)](https://github.com/luftaquila/pointify/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > DIY retro analog gauges for real-time system and Claude usage monitoring
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

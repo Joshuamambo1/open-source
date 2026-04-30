@@ -1,6 +1,6 @@
 # the1lab/1lab
 
-[![Stars](https://img.shields.io/github/stars/the1lab/1lab?style=flat-square&color=yellow)](https://github.com/the1lab/1lab/stargazers) [![Forks](https://img.shields.io/github/forks/the1lab/1lab?style=flat-square&color=blue)](https://github.com/the1lab/1lab/network) [![Language](https://img.shields.io/badge/lang-Agda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/the1lab/1lab?style=flat-square&color=yellow)](https://github.com/the1lab/1lab/stargazers) [![Forks](https://img.shields.io/github/forks/the1lab/1lab?style=flat-square&color=blue)](https://github.com/the1lab/1lab/network) [![Language](https://img.shields.io/badge/lang-Agda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 430 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Agda |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

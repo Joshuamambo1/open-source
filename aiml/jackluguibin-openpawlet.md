@@ -1,6 +1,6 @@
 # JackLuguibin/OpenPawlet
 
-[![Stars](https://img.shields.io/github/stars/JackLuguibin/OpenPawlet?style=flat-square&color=yellow)](https://github.com/JackLuguibin/OpenPawlet/stargazers) [![Forks](https://img.shields.io/github/forks/JackLuguibin/OpenPawlet?style=flat-square&color=blue)](https://github.com/JackLuguibin/OpenPawlet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JackLuguibin/OpenPawlet?style=flat-square&color=yellow)](https://github.com/JackLuguibin/OpenPawlet/stargazers) [![Forks](https://img.shields.io/github/forks/JackLuguibin/OpenPawlet?style=flat-square&color=blue)](https://github.com/JackLuguibin/OpenPawlet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > OpenPawlet (PyPI package name open-pawlet) is a single-process web console for the OpenPawlet ecosystem. It exposes an HTTP API, a browser UI, an OpenAI-compatible /v1/* surface and the embedded agent runtime
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 101 |
-| 🍴 **Forks** | 8 |
+| 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

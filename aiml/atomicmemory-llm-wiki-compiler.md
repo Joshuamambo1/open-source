@@ -1,6 +1,6 @@
 # atomicmemory/llm-wiki-compiler
 
-[![Stars](https://img.shields.io/github/stars/atomicmemory/llm-wiki-compiler?style=flat-square&color=yellow)](https://github.com/atomicmemory/llm-wiki-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/atomicmemory/llm-wiki-compiler?style=flat-square&color=blue)](https://github.com/atomicmemory/llm-wiki-compiler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atomicmemory/llm-wiki-compiler?style=flat-square&color=yellow)](https://github.com/atomicmemory/llm-wiki-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/atomicmemory/llm-wiki-compiler?style=flat-square&color=blue)](https://github.com/atomicmemory/llm-wiki-compiler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 876 |
+| ⭐ **Stars** | 883 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

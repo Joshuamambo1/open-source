@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 421 |
+| 🍴 **Forks** | 423 |
 | 💻 **Language** | Smalltalk |
 | 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |

@@ -1,6 +1,6 @@
 # ilysenko/codex-desktop-linux
 
-[![Stars](https://img.shields.io/github/stars/ilysenko/codex-desktop-linux?style=flat-square&color=yellow)](https://github.com/ilysenko/codex-desktop-linux/stargazers) [![Forks](https://img.shields.io/github/forks/ilysenko/codex-desktop-linux?style=flat-square&color=blue)](https://github.com/ilysenko/codex-desktop-linux/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ilysenko/codex-desktop-linux?style=flat-square&color=yellow)](https://github.com/ilysenko/codex-desktop-linux/stargazers) [![Forks](https://img.shields.io/github/forks/ilysenko/codex-desktop-linux?style=flat-square&color=blue)](https://github.com/ilysenko/codex-desktop-linux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Run OpenAI Codex Desktop on Linux - automated installer
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 468 |
+| ⭐ **Stars** | 470 |
 | 🍴 **Forks** | 79 |
-| 💻 **Language** | Shell |
+| 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

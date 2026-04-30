@@ -1,6 +1,6 @@
 # EmbarkStudios/cargo-about
 
-[![Stars](https://img.shields.io/github/stars/EmbarkStudios/cargo-about?style=flat-square&color=yellow)](https://github.com/EmbarkStudios/cargo-about/stargazers) [![Forks](https://img.shields.io/github/forks/EmbarkStudios/cargo-about?style=flat-square&color=blue)](https://github.com/EmbarkStudios/cargo-about/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EmbarkStudios/cargo-about?style=flat-square&color=yellow)](https://github.com/EmbarkStudios/cargo-about/stargazers) [![Forks](https://img.shields.io/github/forks/EmbarkStudios/cargo-about?style=flat-square&color=blue)](https://github.com/EmbarkStudios/cargo-about/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 📜 Cargo plugin to generate list of all licenses for a crate 🦀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 724 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

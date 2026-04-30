@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/vm0-ai/vm0?style=flat-square&color=yellow)](https://github.com/vm0-ai/vm0/stargazers) [![Forks](https://img.shields.io/github/forks/vm0-ai/vm0?style=flat-square&color=blue)](https://github.com/vm0-ai/vm0/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
-> the easiest way to run natural language-described workflows automatically
+> Zero, your trustworthy AI teammate for real work.
 
 ## 📊 Stats
 

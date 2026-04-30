@@ -1,6 +1,6 @@
 # Skarlso/adventure-voter
 
-[![Stars](https://img.shields.io/github/stars/Skarlso/adventure-voter?style=flat-square&color=yellow)](https://github.com/Skarlso/adventure-voter/stargazers) [![Forks](https://img.shields.io/github/forks/Skarlso/adventure-voter?style=flat-square&color=blue)](https://github.com/Skarlso/adventure-voter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Skarlso/adventure-voter?style=flat-square&color=yellow)](https://github.com/Skarlso/adventure-voter/stargazers) [![Forks](https://img.shields.io/github/forks/Skarlso/adventure-voter?style=flat-square&color=blue)](https://github.com/Skarlso/adventure-voter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Choose your own adventure style Presentation framework.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

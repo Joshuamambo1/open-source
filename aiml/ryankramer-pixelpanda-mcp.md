@@ -1,6 +1,6 @@
 # RyanKramer/pixelpanda-mcp
 
-[![Stars](https://img.shields.io/github/stars/RyanKramer/pixelpanda-mcp?style=flat-square&color=yellow)](https://github.com/RyanKramer/pixelpanda-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/RyanKramer/pixelpanda-mcp?style=flat-square&color=blue)](https://github.com/RyanKramer/pixelpanda-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RyanKramer/pixelpanda-mcp?style=flat-square&color=yellow)](https://github.com/RyanKramer/pixelpanda-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/RyanKramer/pixelpanda-mcp?style=flat-square&color=blue)](https://github.com/RyanKramer/pixelpanda-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for PixelPanda — 31 AI image processing tools for Claude Desktop, Cursor & other MCP clients
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

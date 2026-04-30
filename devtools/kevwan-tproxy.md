@@ -1,6 +1,6 @@
 # kevwan/tproxy
 
-[![Stars](https://img.shields.io/github/stars/kevwan/tproxy?style=flat-square&color=yellow)](https://github.com/kevwan/tproxy/stargazers) [![Forks](https://img.shields.io/github/forks/kevwan/tproxy?style=flat-square&color=blue)](https://github.com/kevwan/tproxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kevwan/tproxy?style=flat-square&color=yellow)](https://github.com/kevwan/tproxy/stargazers) [![Forks](https://img.shields.io/github/forks/kevwan/tproxy?style=flat-square&color=blue)](https://github.com/kevwan/tproxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > A cli tool to proxy and analyze TCP connections.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 254 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Chuyu-Team/YY-Thunks
 
-[![Stars](https://img.shields.io/github/stars/Chuyu-Team/YY-Thunks?style=flat-square&color=yellow)](https://github.com/Chuyu-Team/YY-Thunks/stargazers) [![Forks](https://img.shields.io/github/forks/Chuyu-Team/YY-Thunks?style=flat-square&color=blue)](https://github.com/Chuyu-Team/YY-Thunks/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chuyu-Team/YY-Thunks?style=flat-square&color=yellow)](https://github.com/Chuyu-Team/YY-Thunks/stargazers) [![Forks](https://img.shields.io/github/forks/Chuyu-Team/YY-Thunks?style=flat-square&color=blue)](https://github.com/Chuyu-Team/YY-Thunks/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Fix DecodePointer, EncodePointer,RegDeleteKeyEx etc. APIs not found in Windows XP RTM.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 972 |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

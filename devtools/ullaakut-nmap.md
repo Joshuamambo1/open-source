@@ -1,6 +1,6 @@
 # Ullaakut/nmap
 
-[![Stars](https://img.shields.io/github/stars/Ullaakut/nmap?style=flat-square&color=yellow)](https://github.com/Ullaakut/nmap/stargazers) [![Forks](https://img.shields.io/github/forks/Ullaakut/nmap?style=flat-square&color=blue)](https://github.com/Ullaakut/nmap/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ullaakut/nmap?style=flat-square&color=yellow)](https://github.com/Ullaakut/nmap/stargazers) [![Forks](https://img.shields.io/github/forks/Ullaakut/nmap?style=flat-square&color=blue)](https://github.com/Ullaakut/nmap/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Idiomatic nmap library for go developers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

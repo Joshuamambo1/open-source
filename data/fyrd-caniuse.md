@@ -1,6 +1,6 @@
 # Fyrd/caniuse
 
-[![Stars](https://img.shields.io/github/stars/Fyrd/caniuse?style=flat-square&color=yellow)](https://github.com/Fyrd/caniuse/stargazers) [![Forks](https://img.shields.io/github/forks/Fyrd/caniuse?style=flat-square&color=blue)](https://github.com/Fyrd/caniuse/network) [![Language](https://img.shields.io/badge/lang-JSON-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fyrd/caniuse?style=flat-square&color=yellow)](https://github.com/Fyrd/caniuse/stargazers) [![Forks](https://img.shields.io/github/forks/Fyrd/caniuse?style=flat-square&color=blue)](https://github.com/Fyrd/caniuse/network) [![Language](https://img.shields.io/badge/lang-JSON-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Raw browser/feature support data from caniuse.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | JSON |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

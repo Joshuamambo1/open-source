@@ -1,6 +1,6 @@
 # aallan/vera
 
-[![Stars](https://img.shields.io/github/stars/aallan/vera?style=flat-square&color=yellow)](https://github.com/aallan/vera/stargazers) [![Forks](https://img.shields.io/github/forks/aallan/vera?style=flat-square&color=blue)](https://github.com/aallan/vera/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aallan/vera?style=flat-square&color=yellow)](https://github.com/aallan/vera/stargazers) [![Forks](https://img.shields.io/github/forks/aallan/vera?style=flat-square&color=blue)](https://github.com/aallan/vera/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Vera: a programming language designed for LLMs to write
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 181 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 239 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

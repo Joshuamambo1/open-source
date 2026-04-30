@@ -1,6 +1,6 @@
 # shanraisshan/codex-cli-best-practice
 
-[![Stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-best-practice?style=flat-square&color=yellow)](https://github.com/shanraisshan/codex-cli-best-practice/stargazers) [![Forks](https://img.shields.io/github/forks/shanraisshan/codex-cli-best-practice?style=flat-square&color=blue)](https://github.com/shanraisshan/codex-cli-best-practice/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shanraisshan/codex-cli-best-practice?style=flat-square&color=yellow)](https://github.com/shanraisshan/codex-cli-best-practice/stargazers) [![Forks](https://img.shields.io/github/forks/shanraisshan/codex-cli-best-practice?style=flat-square&color=blue)](https://github.com/shanraisshan/codex-cli-best-practice/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > from vibe coding to agentic engineering - practice makes codex perfect
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 712 |
+| ⭐ **Stars** | 714 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

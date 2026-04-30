@@ -1,6 +1,6 @@
 # gcash/bchd
 
-[![Stars](https://img.shields.io/github/stars/gcash/bchd?style=flat-square&color=yellow)](https://github.com/gcash/bchd/stargazers) [![Forks](https://img.shields.io/github/forks/gcash/bchd?style=flat-square&color=blue)](https://github.com/gcash/bchd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gcash/bchd?style=flat-square&color=yellow)](https://github.com/gcash/bchd/stargazers) [![Forks](https://img.shields.io/github/forks/gcash/bchd?style=flat-square&color=blue)](https://github.com/gcash/bchd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > An alternative full node bitcoin cash implementation written in Go (golang)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 292 |
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

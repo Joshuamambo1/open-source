@@ -1,6 +1,6 @@
 # fathah/hermes-desktop
 
-[![Stars](https://img.shields.io/github/stars/fathah/hermes-desktop?style=flat-square&color=yellow)](https://github.com/fathah/hermes-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/fathah/hermes-desktop?style=flat-square&color=blue)](https://github.com/fathah/hermes-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fathah/hermes-desktop?style=flat-square&color=yellow)](https://github.com/fathah/hermes-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/fathah/hermes-desktop?style=flat-square&color=blue)](https://github.com/fathah/hermes-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop Companion for Hermes Agent
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 693 |
+| ⭐ **Stars** | 708 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

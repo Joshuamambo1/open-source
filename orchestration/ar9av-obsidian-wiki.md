@@ -1,6 +1,6 @@
 # Ar9av/obsidian-wiki
 
-[![Stars](https://img.shields.io/github/stars/Ar9av/obsidian-wiki?style=flat-square&color=yellow)](https://github.com/Ar9av/obsidian-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/Ar9av/obsidian-wiki?style=flat-square&color=blue)](https://github.com/Ar9av/obsidian-wiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ar9av/obsidian-wiki?style=flat-square&color=yellow)](https://github.com/Ar9av/obsidian-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/Ar9av/obsidian-wiki?style=flat-square&color=blue)](https://github.com/Ar9av/obsidian-wiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 811 |
-| 🍴 **Forks** | 103 |
+| ⭐ **Stars** | 824 |
+| 🍴 **Forks** | 106 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

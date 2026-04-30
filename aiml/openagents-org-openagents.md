@@ -1,6 +1,6 @@
 # openagents-org/openagents
 
-[![Stars](https://img.shields.io/github/stars/openagents-org/openagents?style=flat-square&color=yellow)](https://github.com/openagents-org/openagents/stargazers) [![Forks](https://img.shields.io/github/forks/openagents-org/openagents?style=flat-square&color=blue)](https://github.com/openagents-org/openagents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openagents-org/openagents?style=flat-square&color=yellow)](https://github.com/openagents-org/openagents/stargazers) [![Forks](https://img.shields.io/github/forks/openagents-org/openagents?style=flat-square&color=blue)](https://github.com/openagents-org/openagents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAgents - AI Agent Networks for Open Collaboration
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 316 |
+| 🍴 **Forks** | 317 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

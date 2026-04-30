@@ -1,6 +1,6 @@
 # pact-foundation/pact-jvm
 
-[![Stars](https://img.shields.io/github/stars/pact-foundation/pact-jvm?style=flat-square&color=yellow)](https://github.com/pact-foundation/pact-jvm/stargazers) [![Forks](https://img.shields.io/github/forks/pact-foundation/pact-jvm?style=flat-square&color=blue)](https://github.com/pact-foundation/pact-jvm/network) [![Language](https://img.shields.io/badge/lang-Groovy-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pact-foundation/pact-jvm?style=flat-square&color=yellow)](https://github.com/pact-foundation/pact-jvm/stargazers) [![Forks](https://img.shields.io/github/forks/pact-foundation/pact-jvm?style=flat-square&color=blue)](https://github.com/pact-foundation/pact-jvm/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 486 |
-| 💻 **Language** | Groovy |
+| 💻 **Language** | Kotlin |
 | 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

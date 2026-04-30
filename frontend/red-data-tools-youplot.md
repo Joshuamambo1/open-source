@@ -1,6 +1,6 @@
 # red-data-tools/YouPlot
 
-[![Stars](https://img.shields.io/github/stars/red-data-tools/YouPlot?style=flat-square&color=yellow)](https://github.com/red-data-tools/YouPlot/stargazers) [![Forks](https://img.shields.io/github/forks/red-data-tools/YouPlot?style=flat-square&color=blue)](https://github.com/red-data-tools/YouPlot/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/red-data-tools/YouPlot?style=flat-square&color=yellow)](https://github.com/red-data-tools/YouPlot/stargazers) [![Forks](https://img.shields.io/github/forks/red-data-tools/YouPlot?style=flat-square&color=blue)](https://github.com/red-data-tools/YouPlot/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > A command line tool that draw plots on the terminal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

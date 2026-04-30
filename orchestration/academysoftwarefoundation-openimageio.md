@@ -1,6 +1,6 @@
 # AcademySoftwareFoundation/OpenImageIO
 
-[![Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenImageIO?style=flat-square&color=yellow)](https://github.com/AcademySoftwareFoundation/OpenImageIO/stargazers) [![Forks](https://img.shields.io/github/forks/AcademySoftwareFoundation/OpenImageIO?style=flat-square&color=blue)](https://github.com/AcademySoftwareFoundation/OpenImageIO/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenImageIO?style=flat-square&color=yellow)](https://github.com/AcademySoftwareFoundation/OpenImageIO/stargazers) [![Forks](https://img.shields.io/github/forks/AcademySoftwareFoundation/OpenImageIO?style=flat-square&color=blue)](https://github.com/AcademySoftwareFoundation/OpenImageIO/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 667 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

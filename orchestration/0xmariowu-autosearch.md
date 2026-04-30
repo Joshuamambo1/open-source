@@ -1,6 +1,6 @@
 # 0xmariowu/Autosearch
 
-[![Stars](https://img.shields.io/github/stars/0xmariowu/Autosearch?style=flat-square&color=yellow)](https://github.com/0xmariowu/Autosearch/stargazers) [![Forks](https://img.shields.io/github/forks/0xmariowu/Autosearch?style=flat-square&color=blue)](https://github.com/0xmariowu/Autosearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xmariowu/Autosearch?style=flat-square&color=yellow)](https://github.com/0xmariowu/Autosearch/stargazers) [![Forks](https://img.shields.io/github/forks/0xmariowu/Autosearch?style=flat-square&color=blue)](https://github.com/0xmariowu/Autosearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source deep research for AI agents: 40 channels, 10+ Chinese sources.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14 |
+| ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

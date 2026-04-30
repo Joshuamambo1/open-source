@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/hugohe3/ppt-master?style=flat-square&color=yellow)](https://github.com/hugohe3/ppt-master/stargazers) [![Forks](https://img.shields.io/github/forks/hugohe3/ppt-master?style=flat-square&color=blue)](https://github.com/hugohe3/ppt-master/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed · by Hugo He
+> AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9.5k |
+| ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML
 
 ## 📝 Summary
 

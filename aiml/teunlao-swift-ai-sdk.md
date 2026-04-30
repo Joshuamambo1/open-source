@@ -1,6 +1,6 @@
 # teunlao/swift-ai-sdk
 
-[![Stars](https://img.shields.io/github/stars/teunlao/swift-ai-sdk?style=flat-square&color=yellow)](https://github.com/teunlao/swift-ai-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/teunlao/swift-ai-sdk?style=flat-square&color=blue)](https://github.com/teunlao/swift-ai-sdk/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teunlao/swift-ai-sdk?style=flat-square&color=yellow)](https://github.com/teunlao/swift-ai-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/teunlao/swift-ai-sdk?style=flat-square&color=blue)](https://github.com/teunlao/swift-ai-sdk/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Unified AI SDK for Swift, bringing the power of Vercel AI SDK to Apple platforms
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

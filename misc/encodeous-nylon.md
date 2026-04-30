@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/encodeous/nylon?style=flat-square&color=yellow)](https://github.com/encodeous/nylon/stargazers) [![Forks](https://img.shields.io/github/forks/encodeous/nylon?style=flat-square&color=blue)](https://github.com/encodeous/nylon/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> Dynamic Routing on WireGuard for everyone
+> Performant, secure, and reliable mesh networking made easy.
 
 ## 📊 Stats
 

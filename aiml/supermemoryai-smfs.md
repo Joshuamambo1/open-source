@@ -1,6 +1,6 @@
 # supermemoryai/smfs
 
-[![Stars](https://img.shields.io/github/stars/supermemoryai/smfs?style=flat-square&color=yellow)](https://github.com/supermemoryai/smfs/stargazers) [![Forks](https://img.shields.io/github/forks/supermemoryai/smfs?style=flat-square&color=blue)](https://github.com/supermemoryai/smfs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supermemoryai/smfs?style=flat-square&color=yellow)](https://github.com/supermemoryai/smfs/stargazers) [![Forks](https://img.shields.io/github/forks/supermemoryai/smfs?style=flat-square&color=blue)](https://github.com/supermemoryai/smfs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A filesystem designed for agents, with SOTA retrieval, automatic memory profiles, sync engine. Drop any file type (pdf, images, videos), and grep through them.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 134 |
-| 🍴 **Forks** | 10 |
+| ⭐ **Stars** | 153 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

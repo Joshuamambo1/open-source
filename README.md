@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **12120** |
+| 🗂️ **Total projects** | **12169** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,16 +18,16 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4621 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2352 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1186 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 949 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 739 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 719 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 431 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 4643 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2365 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1189 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 950 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 743 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 721 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 433 | [Browse →](./crypto/) |
 | 📊 **Data** | 267 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 261 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 149 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 262 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 150 | [Browse →](./mobile/) |
 | 💳 **Payments** | 129 | [Browse →](./payments/) |
 | 📈 **Trading** | 125 | [Browse →](./trading/) |
 | 🔐 **Security** | 107 | [Browse →](./security/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [giampaolo/psutil](./misc/giampaolo-psutil.md) | ⭐ 11.2k | Misc |
-| 2 | [btcpayserver/btcpayserver](./crypto/btcpayserver-btcpayserver.md) | ⭐ 7.5k | Crypto |
-| 3 | [gnuradio/gnuradio](./security/gnuradio-gnuradio.md) | ⭐ 6.1k | Security |
-| 4 | [redox-os/redox](./misc/redox-os-redox.md) | ⭐ 16.3k | Misc |
-| 5 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 39.3k | AI/ML |
-| 6 | [BasedHardware/omi](./aiml/basedhardware-omi.md) | ⭐ 12.3k | AI/ML |
-| 7 | [Raphire/Win11Debloat](./devtools/raphire-win11debloat.md) | ⭐ 45.5k | DevTools |
-| 8 | [Kilo-Org/kilocode](./aiml/kilo-org-kilocode.md) | ⭐ 18.7k | AI/ML |
-| 9 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 10 | [nocobase/nocobase](./aiml/nocobase-nocobase.md) | ⭐ 22.2k | AI/ML |
+| 1 | [apify/crawlee](./aiml/apify-crawlee.md) | ⭐ 23k | AI/ML |
+| 2 | [nocodb/nocodb](./aiml/nocodb-nocodb.md) | ⭐ 62.9k | AI/ML |
+| 3 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 14.9k | AI/ML |
+| 4 | [mumble-voip/mumble](./backend/mumble-voip-mumble.md) | ⭐ 8k | Backend |
+| 5 | [ArvinLovegood/go-stock](./aiml/arvinlovegood-go-stock.md) | ⭐ 5.5k | AI/ML |
+| 6 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25k | Design |
+| 7 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.3k | Frontend |
+| 8 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 9 | [docling-project/docling](./aiml/docling-project-docling.md) | ⭐ 58.8k | AI/ML |
+| 10 | [go-acme/lego](./devtools/go-acme-lego.md) | ⭐ 9.5k | DevTools |
 
 ## 🚀 How it works
 

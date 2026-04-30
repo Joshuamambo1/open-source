@@ -1,6 +1,6 @@
 # ZYKJShadow/Async
 
-[![Stars](https://img.shields.io/github/stars/ZYKJShadow/Async?style=flat-square&color=yellow)](https://github.com/ZYKJShadow/Async/stargazers) [![Forks](https://img.shields.io/github/forks/ZYKJShadow/Async?style=flat-square&color=blue)](https://github.com/ZYKJShadow/Async/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZYKJShadow/Async?style=flat-square&color=yellow)](https://github.com/ZYKJShadow/Async/stargazers) [![Forks](https://img.shields.io/github/forks/ZYKJShadow/Async?style=flat-square&color=blue)](https://github.com/ZYKJShadow/Async/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > IDE, A native-feeling AI coding workspace that blends chat, planning, agent execution, and project navigation into a unified desktop experience.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 353 |
-| 🍴 **Forks** | 67 |
+| ⭐ **Stars** | 357 |
+| 🍴 **Forks** | 68 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

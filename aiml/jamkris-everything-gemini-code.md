@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Jamkris/everything-gemini-code?style=flat-square&color=yellow)](https://github.com/Jamkris/everything-gemini-code/stargazers) [![Forks](https://img.shields.io/github/forks/Jamkris/everything-gemini-code?style=flat-square&color=blue)](https://github.com/Jamkris/everything-gemini-code/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Battle-tested agents, skills, and hooks for Gemini CLI and Antigravity
+> [Everything Gemini Code] A harness engineering toolkit for Gemini CLI & Antigravity. Tune the runtime around the model, not the model itself
 
 ## 📊 Stats
 

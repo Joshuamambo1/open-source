@@ -1,6 +1,6 @@
 # peters/horizon
 
-[![Stars](https://img.shields.io/github/stars/peters/horizon?style=flat-square&color=yellow)](https://github.com/peters/horizon/stargazers) [![Forks](https://img.shields.io/github/forks/peters/horizon?style=flat-square&color=blue)](https://github.com/peters/horizon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/peters/horizon?style=flat-square&color=yellow)](https://github.com/peters/horizon/stargazers) [![Forks](https://img.shields.io/github/forks/peters/horizon?style=flat-square&color=blue)](https://github.com/peters/horizon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 593 |
+| ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

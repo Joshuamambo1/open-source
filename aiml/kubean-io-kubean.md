@@ -1,6 +1,6 @@
 # kubean-io/kubean
 
-[![Stars](https://img.shields.io/github/stars/kubean-io/kubean?style=flat-square&color=yellow)](https://github.com/kubean-io/kubean/stargazers) [![Forks](https://img.shields.io/github/forks/kubean-io/kubean?style=flat-square&color=blue)](https://github.com/kubean-io/kubean/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubean-io/kubean?style=flat-square&color=yellow)](https://github.com/kubean-io/kubean/stargazers) [![Forks](https://img.shields.io/github/forks/kubean-io/kubean?style=flat-square&color=blue)](https://github.com/kubean-io/kubean/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > :seedling: Product ready cluster lifecycle management toolchains based on kubespray and other cluster LCM engine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 524 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

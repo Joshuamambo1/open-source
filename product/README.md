@@ -8,10 +8,10 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
-| 2 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
-| 3 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.5k | Clojure | 100/100 |
-| 4 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.4k | C# | 100/100 |
+| 1 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
+| 2 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.5k | C# | 100/100 |
+| 3 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
+| 4 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.5k | Clojure | 100/100 |
 | 5 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.2k | TypeScript | 99/100 |
 | 6 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.8k | C++ | 96/100 |
 | 7 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.1k | Rust | 92/100 |
@@ -28,8 +28,8 @@
 | 18 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 353 | JavaScript | 53/100 |
 | 19 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 656 | Shell | 52/100 |
 | 20 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 51/100 |
-| 21 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 462 | Rust | 48/100 |
-| 22 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
+| 21 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
+| 22 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 462 | Rust | 48/100 |
 | 23 | [getsentry/relay](./getsentry-relay.md) | ⭐ 375 | Rust | 46/100 |
 | 24 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 314 | Rust | 43/100 |
 | 25 | [verona-team/verona-atlas](./verona-team-verona-atlas.md) | ⭐ 16 | Python | 36/100 |

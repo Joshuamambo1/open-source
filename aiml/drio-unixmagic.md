@@ -1,6 +1,6 @@
 # drio/unixmagic
 
-[![Stars](https://img.shields.io/github/stars/drio/unixmagic?style=flat-square&color=yellow)](https://github.com/drio/unixmagic/stargazers) [![Forks](https://img.shields.io/github/forks/drio/unixmagic?style=flat-square&color=blue)](https://github.com/drio/unixmagic/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drio/unixmagic?style=flat-square&color=yellow)](https://github.com/drio/unixmagic/stargazers) [![Forks](https://img.shields.io/github/forks/drio/unixmagic?style=flat-square&color=blue)](https://github.com/drio/unixmagic/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Capturing all the details of the classic Usenix Unix poster.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 5 |
-| 💻 **Language** | HTML |
+| 💻 **Language** | CSS |
 | 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Frontend
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # wiredoor/wiredoor
 
-[![Stars](https://img.shields.io/github/stars/wiredoor/wiredoor?style=flat-square&color=yellow)](https://github.com/wiredoor/wiredoor/stargazers) [![Forks](https://img.shields.io/github/forks/wiredoor/wiredoor?style=flat-square&color=blue)](https://github.com/wiredoor/wiredoor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wiredoor/wiredoor?style=flat-square&color=yellow)](https://github.com/wiredoor/wiredoor/stargazers) [![Forks](https://img.shields.io/github/forks/wiredoor/wiredoor?style=flat-square&color=blue)](https://github.com/wiredoor/wiredoor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

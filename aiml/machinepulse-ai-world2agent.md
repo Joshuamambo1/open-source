@@ -1,6 +1,6 @@
 # machinepulse-ai/world2agent
 
-[![Stars](https://img.shields.io/github/stars/machinepulse-ai/world2agent?style=flat-square&color=yellow)](https://github.com/machinepulse-ai/world2agent/stargazers) [![Forks](https://img.shields.io/github/forks/machinepulse-ai/world2agent?style=flat-square&color=blue)](https://github.com/machinepulse-ai/world2agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/machinepulse-ai/world2agent?style=flat-square&color=yellow)](https://github.com/machinepulse-ai/world2agent/stargazers) [![Forks](https://img.shields.io/github/forks/machinepulse-ai/world2agent?style=flat-square&color=blue)](https://github.com/machinepulse-ai/world2agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 505 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 525 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

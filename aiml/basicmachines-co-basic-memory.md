@@ -1,6 +1,6 @@
 # basicmachines-co/basic-memory
 
-[![Stars](https://img.shields.io/github/stars/basicmachines-co/basic-memory?style=flat-square&color=yellow)](https://github.com/basicmachines-co/basic-memory/stargazers) [![Forks](https://img.shields.io/github/forks/basicmachines-co/basic-memory?style=flat-square&color=blue)](https://github.com/basicmachines-co/basic-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basicmachines-co/basic-memory?style=flat-square&color=yellow)](https://github.com/basicmachines-co/basic-memory/stargazers) [![Forks](https://img.shields.io/github/forks/basicmachines-co/basic-memory?style=flat-square&color=blue)](https://github.com/basicmachines-co/basic-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

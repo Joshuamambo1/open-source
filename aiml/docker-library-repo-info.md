@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 597 |
-| 🍴 **Forks** | 357 |
+| 🍴 **Forks** | 356 |
 | 💻 **Language** | Perl |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |

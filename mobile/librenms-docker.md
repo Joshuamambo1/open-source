@@ -1,6 +1,6 @@
 # librenms/docker
 
-[![Stars](https://img.shields.io/github/stars/librenms/docker?style=flat-square&color=yellow)](https://github.com/librenms/docker/stargazers) [![Forks](https://img.shields.io/github/forks/librenms/docker?style=flat-square&color=blue)](https://github.com/librenms/docker/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/librenms/docker?style=flat-square&color=yellow)](https://github.com/librenms/docker/stargazers) [![Forks](https://img.shields.io/github/forks/librenms/docker?style=flat-square&color=blue)](https://github.com/librenms/docker/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > LibreNMS Docker image
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 829 |
+| ⭐ **Stars** | 830 |
 | 🍴 **Forks** | 309 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

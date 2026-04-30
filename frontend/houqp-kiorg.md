@@ -1,6 +1,6 @@
 # houqp/kiorg
 
-[![Stars](https://img.shields.io/github/stars/houqp/kiorg?style=flat-square&color=yellow)](https://github.com/houqp/kiorg/stargazers) [![Forks](https://img.shields.io/github/forks/houqp/kiorg?style=flat-square&color=blue)](https://github.com/houqp/kiorg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/houqp/kiorg?style=flat-square&color=yellow)](https://github.com/houqp/kiorg/stargazers) [![Forks](https://img.shields.io/github/forks/houqp/kiorg?style=flat-square&color=blue)](https://github.com/houqp/kiorg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A hacker's file manager with VIM inspired keybind
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 426 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

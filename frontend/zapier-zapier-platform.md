@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/zapier/zapier-platform?style=flat-square&color=yellow)](https://github.com/zapier/zapier-platform/stargazers) [![Forks](https://img.shields.io/github/forks/zapier/zapier-platform?style=flat-square&color=blue)](https://github.com/zapier/zapier-platform/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> The SDK for you to build an integration on Zapier
+> The toolkit for you to build an integration on Zapier
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 492 |
-| 🍴 **Forks** | 213 |
+| 🍴 **Forks** | 214 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |

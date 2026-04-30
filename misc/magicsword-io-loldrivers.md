@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 200 |
+| 🍴 **Forks** | 199 |
 | 💻 **Language** | YARA |
 | 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |

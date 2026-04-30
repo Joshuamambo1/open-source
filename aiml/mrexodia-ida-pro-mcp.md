@@ -1,6 +1,6 @@
 # mrexodia/ida-pro-mcp
 
-[![Stars](https://img.shields.io/github/stars/mrexodia/ida-pro-mcp?style=flat-square&color=yellow)](https://github.com/mrexodia/ida-pro-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mrexodia/ida-pro-mcp?style=flat-square&color=blue)](https://github.com/mrexodia/ida-pro-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrexodia/ida-pro-mcp?style=flat-square&color=yellow)](https://github.com/mrexodia/ida-pro-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mrexodia/ida-pro-mcp?style=flat-square&color=blue)](https://github.com/mrexodia/ida-pro-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.1k |
-| 🍴 **Forks** | 966 |
+| 🍴 **Forks** | 967 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 99/100 |
+| 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

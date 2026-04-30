@@ -1,6 +1,6 @@
 # JetpackDuba/Gitnuro
 
-[![Stars](https://img.shields.io/github/stars/JetpackDuba/Gitnuro?style=flat-square&color=yellow)](https://github.com/JetpackDuba/Gitnuro/stargazers) [![Forks](https://img.shields.io/github/forks/JetpackDuba/Gitnuro?style=flat-square&color=blue)](https://github.com/JetpackDuba/Gitnuro/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JetpackDuba/Gitnuro?style=flat-square&color=yellow)](https://github.com/JetpackDuba/Gitnuro/stargazers) [![Forks](https://img.shields.io/github/forks/JetpackDuba/Gitnuro?style=flat-square&color=blue)](https://github.com/JetpackDuba/Gitnuro/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A FOSS Git multiplatform client for newbies and pros
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 130 |
+| 🍴 **Forks** | 132 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # zizmorcore/zizmor
 
-[![Stars](https://img.shields.io/github/stars/zizmorcore/zizmor?style=flat-square&color=yellow)](https://github.com/zizmorcore/zizmor/stargazers) [![Forks](https://img.shields.io/github/forks/zizmorcore/zizmor?style=flat-square&color=blue)](https://github.com/zizmorcore/zizmor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zizmorcore/zizmor?style=flat-square&color=yellow)](https://github.com/zizmorcore/zizmor/stargazers) [![Forks](https://img.shields.io/github/forks/zizmorcore/zizmor?style=flat-square&color=blue)](https://github.com/zizmorcore/zizmor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Static analysis for GitHub Actions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

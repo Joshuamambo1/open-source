@@ -1,6 +1,6 @@
 # NuvioMedia/NuvioMobile
 
-[![Stars](https://img.shields.io/github/stars/NuvioMedia/NuvioMobile?style=flat-square&color=yellow)](https://github.com/NuvioMedia/NuvioMobile/stargazers) [![Forks](https://img.shields.io/github/forks/NuvioMedia/NuvioMobile?style=flat-square&color=blue)](https://github.com/NuvioMedia/NuvioMobile/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NuvioMedia/NuvioMobile?style=flat-square&color=yellow)](https://github.com/NuvioMedia/NuvioMobile/stargazers) [![Forks](https://img.shields.io/github/forks/NuvioMedia/NuvioMobile?style=flat-square&color=blue)](https://github.com/NuvioMedia/NuvioMobile/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Official Nuvio Mobile Repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

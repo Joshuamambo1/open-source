@@ -1,6 +1,6 @@
 # sandeco/reversa
 
-[![Stars](https://img.shields.io/github/stars/sandeco/reversa?style=flat-square&color=yellow)](https://github.com/sandeco/reversa/stargazers) [![Forks](https://img.shields.io/github/forks/sandeco/reversa?style=flat-square&color=blue)](https://github.com/sandeco/reversa/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sandeco/reversa?style=flat-square&color=yellow)](https://github.com/sandeco/reversa/stargazers) [![Forks](https://img.shields.io/github/forks/sandeco/reversa?style=flat-square&color=blue)](https://github.com/sandeco/reversa/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Transform legacy systems into executable specifications for AI coding agents
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 162 |
-| 🍴 **Forks** | 88 |
+| ⭐ **Stars** | 179 |
+| 🍴 **Forks** | 95 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

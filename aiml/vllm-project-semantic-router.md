@@ -1,6 +1,6 @@
 # vllm-project/semantic-router
 
-[![Stars](https://img.shields.io/github/stars/vllm-project/semantic-router?style=flat-square&color=yellow)](https://github.com/vllm-project/semantic-router/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/semantic-router?style=flat-square&color=blue)](https://github.com/vllm-project/semantic-router/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vllm-project/semantic-router?style=flat-square&color=yellow)](https://github.com/vllm-project/semantic-router/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/semantic-router?style=flat-square&color=blue)](https://github.com/vllm-project/semantic-router/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 647 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

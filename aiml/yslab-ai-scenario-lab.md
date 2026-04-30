@@ -1,6 +1,6 @@
 # YSLAB-ai/scenario-lab
 
-[![Stars](https://img.shields.io/github/stars/YSLAB-ai/scenario-lab?style=flat-square&color=yellow)](https://github.com/YSLAB-ai/scenario-lab/stargazers) [![Forks](https://img.shields.io/github/forks/YSLAB-ai/scenario-lab?style=flat-square&color=blue)](https://github.com/YSLAB-ai/scenario-lab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YSLAB-ai/scenario-lab?style=flat-square&color=yellow)](https://github.com/YSLAB-ai/scenario-lab/stargazers) [![Forks](https://img.shields.io/github/forks/YSLAB-ai/scenario-lab?style=flat-square&color=blue)](https://github.com/YSLAB-ai/scenario-lab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Experimental local-first scenario analysis for natural-language forecasting with Codex or Claude
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 60 |
+| ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

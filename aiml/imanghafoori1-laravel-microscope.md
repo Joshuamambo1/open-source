@@ -1,6 +1,6 @@
 # imanghafoori1/laravel-microscope
 
-[![Stars](https://img.shields.io/github/stars/imanghafoori1/laravel-microscope?style=flat-square&color=yellow)](https://github.com/imanghafoori1/laravel-microscope/stargazers) [![Forks](https://img.shields.io/github/forks/imanghafoori1/laravel-microscope?style=flat-square&color=blue)](https://github.com/imanghafoori1/laravel-microscope/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imanghafoori1/laravel-microscope?style=flat-square&color=yellow)](https://github.com/imanghafoori1/laravel-microscope/stargazers) [![Forks](https://img.shields.io/github/forks/imanghafoori1/laravel-microscope?style=flat-square&color=blue)](https://github.com/imanghafoori1/laravel-microscope/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Fearless refactoring, it does a lot of smart checks to find certain errors.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

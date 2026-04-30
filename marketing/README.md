@@ -2,7 +2,7 @@
 
 > 
 
-**23 projects** in this category.
+**22 projects** in this category.
 
 ## Projects
 
@@ -19,8 +19,8 @@
 | 9 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 56/100 |
 | 10 | [deadsy/sdfx](./deadsy-sdfx.md) | ⭐ 613 | Go | 55/100 |
 | 11 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 514 | PHP | 54/100 |
-| 12 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 618 | C# | 53/100 |
-| 13 | [nil-go/konf](./nil-go-konf.md) | ⭐ 380 | Go | 53/100 |
+| 12 | [nil-go/konf](./nil-go-konf.md) | ⭐ 380 | Go | 53/100 |
+| 13 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 619 | C# | 53/100 |
 | 14 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 15 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 134 | MDX | 51/100 |
 | 16 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 122 | Rust | 51/100 |
@@ -28,9 +28,8 @@
 | 18 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 16 | — | 50/100 |
 | 19 | [garritfra/cell](./garritfra-cell.md) | ⭐ 232 | Rust | 47/100 |
 | 20 | [angr/cle](./angr-cle.md) | ⭐ 479 | Python | 45/100 |
-| 21 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 327 | Go | 42/100 |
-| 22 | [Vela-Engineering/coach](./vela-engineering-coach.md) | ⭐ — | — | 39/100 |
-| 23 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 2 | — | 36/100 |
+| 21 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 328 | Go | 42/100 |
+| 22 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 2 | — | 36/100 |
 
 ---
 

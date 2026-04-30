@@ -1,6 +1,6 @@
 # dohooo/helmor
 
-[![Stars](https://img.shields.io/github/stars/dohooo/helmor?style=flat-square&color=yellow)](https://github.com/dohooo/helmor/stargazers) [![Forks](https://img.shields.io/github/forks/dohooo/helmor?style=flat-square&color=blue)](https://github.com/dohooo/helmor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dohooo/helmor?style=flat-square&color=yellow)](https://github.com/dohooo/helmor/stargazers) [![Forks](https://img.shields.io/github/forks/dohooo/helmor?style=flat-square&color=blue)](https://github.com/dohooo/helmor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source local workbench for multi-agent software development.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 527 |
-| 🍴 **Forks** | 39 |
+| ⭐ **Stars** | 553 |
+| 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

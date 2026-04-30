@@ -1,6 +1,6 @@
 # cortexkit/opencode-magic-context
 
-[![Stars](https://img.shields.io/github/stars/cortexkit/opencode-magic-context?style=flat-square&color=yellow)](https://github.com/cortexkit/opencode-magic-context/stargazers) [![Forks](https://img.shields.io/github/forks/cortexkit/opencode-magic-context?style=flat-square&color=blue)](https://github.com/cortexkit/opencode-magic-context/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cortexkit/opencode-magic-context?style=flat-square&color=yellow)](https://github.com/cortexkit/opencode-magic-context/stargazers) [![Forks](https://img.shields.io/github/forks/cortexkit/opencode-magic-context?style=flat-square&color=blue)](https://github.com/cortexkit/opencode-magic-context/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCode plugin for Magic Context — cache-aware infinite context, cross-session memory, and background history compression for AI coding agents
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 452 |
+| ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

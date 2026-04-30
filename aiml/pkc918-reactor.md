@@ -1,6 +1,6 @@
 # pkc918/reactor
 
-[![Stars](https://img.shields.io/github/stars/pkc918/reactor?style=flat-square&color=yellow)](https://github.com/pkc918/reactor/stargazers) [![Forks](https://img.shields.io/github/forks/pkc918/reactor?style=flat-square&color=blue)](https://github.com/pkc918/reactor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pkc918/reactor?style=flat-square&color=yellow)](https://github.com/pkc918/reactor/stargazers) [![Forks](https://img.shields.io/github/forks/pkc918/reactor?style=flat-square&color=blue)](https://github.com/pkc918/reactor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Reactor is named after Iron Man's arc reactor. It is not a single tool, but the core energy source that keeps an AI Agent running. For one-person companies and indie builders, Reactor is the AI agent reactor for building products
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

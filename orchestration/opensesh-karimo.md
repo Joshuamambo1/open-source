@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/opensesh/KARIMO?style=flat-square&color=yellow)](https://github.com/opensesh/KARIMO/stargazers) [![Forks](https://img.shields.io/github/forks/opensesh/KARIMO?style=flat-square&color=blue)](https://github.com/opensesh/KARIMO/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Harness engineering framework for Claude Code — plan mode on steroids. Product design-driven agent orchestration with sub-agents and agent teams, tuned for developers and designers shipping real features. Phased adoption from PRD execution to automated review, code review, and CI-friendly agent teams
+> Claude Code harness engineering plugin — plan mode on steroids. Product design-driven agent orchestration with sub-agents and agent teams, tuned for developers and designers shipping real features. Phased adoption from PRD execution to automated review, code review, and CI-friendly agent teams
 
 ## 📊 Stats
 

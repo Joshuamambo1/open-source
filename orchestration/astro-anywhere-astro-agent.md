@@ -1,6 +1,6 @@
 # astro-anywhere/astro-agent
 
-[![Stars](https://img.shields.io/github/stars/astro-anywhere/astro-agent?style=flat-square&color=yellow)](https://github.com/astro-anywhere/astro-agent/stargazers) [![Forks](https://img.shields.io/github/forks/astro-anywhere/astro-agent?style=flat-square&color=blue)](https://github.com/astro-anywhere/astro-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/astro-anywhere/astro-agent?style=flat-square&color=yellow)](https://github.com/astro-anywhere/astro-agent/stargazers) [![Forks](https://img.shields.io/github/forks/astro-anywhere/astro-agent?style=flat-square&color=blue)](https://github.com/astro-anywhere/astro-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Mission control for the AI age.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

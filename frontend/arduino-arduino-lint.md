@@ -1,6 +1,6 @@
 # arduino/arduino-lint
 
-[![Stars](https://img.shields.io/github/stars/arduino/arduino-lint?style=flat-square&color=yellow)](https://github.com/arduino/arduino-lint/stargazers) [![Forks](https://img.shields.io/github/forks/arduino/arduino-lint?style=flat-square&color=blue)](https://github.com/arduino/arduino-lint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arduino/arduino-lint?style=flat-square&color=yellow)](https://github.com/arduino/arduino-lint/stargazers) [![Forks](https://img.shields.io/github/forks/arduino/arduino-lint?style=flat-square&color=blue)](https://github.com/arduino/arduino-lint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Tool to check for problems with Arduino projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

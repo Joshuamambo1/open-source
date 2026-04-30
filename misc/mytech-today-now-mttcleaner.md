@@ -1,6 +1,6 @@
 # mytech-today-now/mTTCleaner
 
-[![Stars](https://img.shields.io/github/stars/mytech-today-now/mTTCleaner?style=flat-square&color=yellow)](https://github.com/mytech-today-now/mTTCleaner/stargazers) [![Forks](https://img.shields.io/github/forks/mytech-today-now/mTTCleaner?style=flat-square&color=blue)](https://github.com/mytech-today-now/mTTCleaner/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mytech-today-now/mTTCleaner?style=flat-square&color=yellow)](https://github.com/mytech-today-now/mTTCleaner/stargazers) [![Forks](https://img.shields.io/github/forks/mytech-today-now/mTTCleaner?style=flat-square&color=blue)](https://github.com/mytech-today-now/mTTCleaner/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

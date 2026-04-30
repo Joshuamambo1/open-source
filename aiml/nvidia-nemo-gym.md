@@ -1,17 +1,17 @@
 # NVIDIA-NeMo/Gym
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA-NeMo/Gym?style=flat-square&color=yellow)](https://github.com/NVIDIA-NeMo/Gym/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-NeMo/Gym?style=flat-square&color=blue)](https://github.com/NVIDIA-NeMo/Gym/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA-NeMo/Gym?style=flat-square&color=yellow)](https://github.com/NVIDIA-NeMo/Gym/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-NeMo/Gym?style=flat-square&color=blue)](https://github.com/NVIDIA-NeMo/Gym/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
-> Build RL environments for LLM training
+> Evaluate and improve models and agents using environments
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 866 |
+| ⭐ **Stars** | 867 |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 

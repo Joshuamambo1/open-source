@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/agentrq/agentrq?style=flat-square&color=yellow)](https://github.com/agentrq/agentrq/stargazers) [![Forks](https://img.shields.io/github/forks/agentrq/agentrq?style=flat-square&color=blue)](https://github.com/agentrq/agentrq/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> AgentRQ App
+> AgentRQ: Human-in-loop realtime conversational task manager for Agents.
 
 ## 📊 Stats
 

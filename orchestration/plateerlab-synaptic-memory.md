@@ -1,6 +1,6 @@
 # PlateerLab/synaptic-memory
 
-[![Stars](https://img.shields.io/github/stars/PlateerLab/synaptic-memory?style=flat-square&color=yellow)](https://github.com/PlateerLab/synaptic-memory/stargazers) [![Forks](https://img.shields.io/github/forks/PlateerLab/synaptic-memory?style=flat-square&color=blue)](https://github.com/PlateerLab/synaptic-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PlateerLab/synaptic-memory?style=flat-square&color=yellow)](https://github.com/PlateerLab/synaptic-memory/stargazers) [![Forks](https://img.shields.io/github/forks/PlateerLab/synaptic-memory?style=flat-square&color=blue)](https://github.com/PlateerLab/synaptic-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Brain-inspired knowledge graph: spreading activation, Hebbian learning, memory consolidation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

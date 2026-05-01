@@ -1,6 +1,6 @@
 # Nimbalyst/nimbalyst
 
-[![Stars](https://img.shields.io/github/stars/Nimbalyst/nimbalyst?style=flat-square&color=yellow)](https://github.com/Nimbalyst/nimbalyst/stargazers) [![Forks](https://img.shields.io/github/forks/Nimbalyst/nimbalyst?style=flat-square&color=blue)](https://github.com/Nimbalyst/nimbalyst/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nimbalyst/nimbalyst?style=flat-square&color=yellow)](https://github.com/Nimbalyst/nimbalyst/stargazers) [![Forks](https://img.shields.io/github/forks/Nimbalyst/nimbalyst?style=flat-square&color=blue)](https://github.com/Nimbalyst/nimbalyst/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Nimbalyst - visual workspace for building with Codex, Claude Code, and more
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 212 |
+| ⭐ **Stars** | 223 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

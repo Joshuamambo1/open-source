@@ -1,6 +1,6 @@
 # jiji262/ai-agent-021
 
-[![Stars](https://img.shields.io/github/stars/jiji262/ai-agent-021?style=flat-square&color=yellow)](https://github.com/jiji262/ai-agent-021/stargazers) [![Forks](https://img.shields.io/github/forks/jiji262/ai-agent-021?style=flat-square&color=blue)](https://github.com/jiji262/ai-agent-021/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jiji262/ai-agent-021?style=flat-square&color=yellow)](https://github.com/jiji262/ai-agent-021/stargazers) [![Forks](https://img.shields.io/github/forks/jiji262/ai-agent-021?style=flat-square&color=blue)](https://github.com/jiji262/ai-agent-021/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > ai-agent-021：Build AI Agent from 0 to 1
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # amit9838/mousam
 
-[![Stars](https://img.shields.io/github/stars/amit9838/mousam?style=flat-square&color=yellow)](https://github.com/amit9838/mousam/stargazers) [![Forks](https://img.shields.io/github/forks/amit9838/mousam?style=flat-square&color=blue)](https://github.com/amit9838/mousam/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amit9838/mousam?style=flat-square&color=yellow)](https://github.com/amit9838/mousam/stargazers) [![Forks](https://img.shields.io/github/forks/amit9838/mousam?style=flat-square&color=blue)](https://github.com/amit9838/mousam/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Weather at a glance
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 407 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

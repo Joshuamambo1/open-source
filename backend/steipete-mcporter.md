@@ -1,6 +1,6 @@
 # steipete/mcporter
 
-[![Stars](https://img.shields.io/github/stars/steipete/mcporter?style=flat-square&color=yellow)](https://github.com/steipete/mcporter/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/mcporter?style=flat-square&color=blue)](https://github.com/steipete/mcporter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steipete/mcporter?style=flat-square&color=yellow)](https://github.com/steipete/mcporter/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/mcporter?style=flat-square&color=blue)](https://github.com/steipete/mcporter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 268 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

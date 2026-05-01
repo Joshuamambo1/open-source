@@ -1,6 +1,6 @@
 # AnthonyGress/lab-dash
 
-[![Stars](https://img.shields.io/github/stars/AnthonyGress/lab-dash?style=flat-square&color=yellow)](https://github.com/AnthonyGress/lab-dash/stargazers) [![Forks](https://img.shields.io/github/forks/AnthonyGress/lab-dash?style=flat-square&color=blue)](https://github.com/AnthonyGress/lab-dash/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnthonyGress/lab-dash?style=flat-square&color=yellow)](https://github.com/AnthonyGress/lab-dash/stargazers) [![Forks](https://img.shields.io/github/forks/AnthonyGress/lab-dash?style=flat-square&color=blue)](https://github.com/AnthonyGress/lab-dash/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source dashboard designed to manage your server/homelab applications and services.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 447 |
+| ⭐ **Stars** | 446 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | youtube |
 

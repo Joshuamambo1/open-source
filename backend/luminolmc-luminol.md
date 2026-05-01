@@ -1,6 +1,6 @@
 # LuminolMC/Luminol
 
-[![Stars](https://img.shields.io/github/stars/LuminolMC/Luminol?style=flat-square&color=yellow)](https://github.com/LuminolMC/Luminol/stargazers) [![Forks](https://img.shields.io/github/forks/LuminolMC/Luminol?style=flat-square&color=blue)](https://github.com/LuminolMC/Luminol/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LuminolMC/Luminol?style=flat-square&color=yellow)](https://github.com/LuminolMC/Luminol/stargazers) [![Forks](https://img.shields.io/github/forks/LuminolMC/Luminol?style=flat-square&color=blue)](https://github.com/LuminolMC/Luminol/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 轻量级、优化且功能齐全的 Folia 分支，专为生存和无政府状态服务器而设计
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 510 |
+| ⭐ **Stars** | 512 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

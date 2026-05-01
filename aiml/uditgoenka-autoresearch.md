@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.2k |
-| 🍴 **Forks** | 319 |
+| 🍴 **Forks** | 321 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | — |

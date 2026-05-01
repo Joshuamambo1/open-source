@@ -1,6 +1,6 @@
 # openxla/xla
 
-[![Stars](https://img.shields.io/github/stars/openxla/xla?style=flat-square&color=yellow)](https://github.com/openxla/xla/stargazers) [![Forks](https://img.shields.io/github/forks/openxla/xla?style=flat-square&color=blue)](https://github.com/openxla/xla/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openxla/xla?style=flat-square&color=yellow)](https://github.com/openxla/xla/stargazers) [![Forks](https://img.shields.io/github/forks/openxla/xla?style=flat-square&color=blue)](https://github.com/openxla/xla/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > A machine learning compiler for GPUs, CPUs, and ML accelerators
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 794 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

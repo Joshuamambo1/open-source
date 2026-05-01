@@ -1,6 +1,6 @@
 # aarora4/Awesome-Prediction-Market-Tools
 
-[![Stars](https://img.shields.io/github/stars/aarora4/Awesome-Prediction-Market-Tools?style=flat-square&color=yellow)](https://github.com/aarora4/Awesome-Prediction-Market-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/aarora4/Awesome-Prediction-Market-Tools?style=flat-square&color=blue)](https://github.com/aarora4/Awesome-Prediction-Market-Tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aarora4/Awesome-Prediction-Market-Tools?style=flat-square&color=yellow)](https://github.com/aarora4/Awesome-Prediction-Market-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/aarora4/Awesome-Prediction-Market-Tools?style=flat-square&color=blue)](https://github.com/aarora4/Awesome-Prediction-Market-Tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of Prediction Market Tools - AI Agents, Analytics, APIs, Dashboards, Copy Trading, Alerting, Tracking and More!!
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 332 |
-| 🍴 **Forks** | 94 |
+| ⭐ **Stars** | 333 |
+| 🍴 **Forks** | 95 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

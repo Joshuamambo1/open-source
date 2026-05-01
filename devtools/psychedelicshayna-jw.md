@@ -1,6 +1,6 @@
 # PsychedelicShayna/jw
 
-[![Stars](https://img.shields.io/github/stars/PsychedelicShayna/jw?style=flat-square&color=yellow)](https://github.com/PsychedelicShayna/jw/stargazers) [![Forks](https://img.shields.io/github/forks/PsychedelicShayna/jw?style=flat-square&color=blue)](https://github.com/PsychedelicShayna/jw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PsychedelicShayna/jw?style=flat-square&color=yellow)](https://github.com/PsychedelicShayna/jw/stargazers) [![Forks](https://img.shields.io/github/forks/PsychedelicShayna/jw?style=flat-square&color=blue)](https://github.com/PsychedelicShayna/jw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Blazingly fast CLI filesystem traverser and multithreaded mass file hasher / hash index generator, with diff support to validate hashes and track changes, powered by jwalk and xxh3, and of course, Rust!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

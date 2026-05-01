@@ -1,6 +1,6 @@
 # regression-io/coder-config
 
-[![Stars](https://img.shields.io/github/stars/regression-io/coder-config?style=flat-square&color=yellow)](https://github.com/regression-io/coder-config/stargazers) [![Forks](https://img.shields.io/github/forks/regression-io/coder-config?style=flat-square&color=blue)](https://github.com/regression-io/coder-config/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/regression-io/coder-config?style=flat-square&color=yellow)](https://github.com/regression-io/coder-config/stargazers) [![Forks](https://img.shields.io/github/forks/regression-io/coder-config?style=flat-square&color=blue)](https://github.com/regression-io/coder-config/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Configuration manager for AI coding tools - Claude Code, Gemini CLI, Codex CLI, Antigravity. Manage MCPs, rules, permissions, memory, and workstreams.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44 |
+| ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

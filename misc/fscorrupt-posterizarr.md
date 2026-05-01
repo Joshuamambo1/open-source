@@ -1,6 +1,6 @@
 # fscorrupt/posterizarr
 
-[![Stars](https://img.shields.io/github/stars/fscorrupt/posterizarr?style=flat-square&color=yellow)](https://github.com/fscorrupt/posterizarr/stargazers) [![Forks](https://img.shields.io/github/forks/fscorrupt/posterizarr?style=flat-square&color=blue)](https://github.com/fscorrupt/posterizarr/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fscorrupt/posterizarr?style=flat-square&color=yellow)](https://github.com/fscorrupt/posterizarr/stargazers) [![Forks](https://img.shields.io/github/forks/fscorrupt/posterizarr?style=flat-square&color=blue)](https://github.com/fscorrupt/posterizarr/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 849 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

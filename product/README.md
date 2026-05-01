@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.5k | Clojure | 100/100 |
-| 2 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
+| 1 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
+| 2 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.5k | Clojure | 100/100 |
 | 3 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
 | 4 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.7k | C# | 100/100 |
 | 5 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.3k | TypeScript | 99/100 |
@@ -24,10 +24,10 @@
 | 14 | [beam-community/elixir-companies](./beam-community-elixir-companies.md) | ⭐ 1.7k | Astro | 63/100 |
 | 15 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 59/100 |
 | 16 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 536 | C | 56/100 |
-| 17 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 668 | Rust | 55/100 |
+| 17 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 673 | Rust | 55/100 |
 | 18 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 738 | Go | 54/100 |
-| 19 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 353 | TypeScript | 53/100 |
-| 20 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 656 | Shell | 52/100 |
+| 19 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | TypeScript | 53/100 |
+| 20 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 657 | Shell | 52/100 |
 | 21 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 52/100 |
 | 22 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 51/100 |
 | 23 | [eph5xx/tweakidea](./eph5xx-tweakidea.md) | ⭐ 14 | Python | 50/100 |

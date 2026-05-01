@@ -1,17 +1,17 @@
 # gc-victor/supersimple
 
-[![Stars](https://img.shields.io/github/stars/gc-victor/supersimple?style=flat-square&color=yellow)](https://github.com/gc-victor/supersimple/stargazers) [![Forks](https://img.shields.io/github/forks/gc-victor/supersimple?style=flat-square&color=blue)](https://github.com/gc-victor/supersimple/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gc-victor/supersimple?style=flat-square&color=yellow)](https://github.com/gc-victor/supersimple/stargazers) [![Forks](https://img.shields.io/github/forks/gc-victor/supersimple?style=flat-square&color=blue)](https://github.com/gc-victor/supersimple/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Lobsters: Supersimple: Lightweight OpenCode profile for routine dev work with focused agents, local skills, and conductor-based track management
+> Lightweight OpenCode profile for routine dev work with focused agents, local skills, and conductor-based track management.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 35/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | lobsters |
 

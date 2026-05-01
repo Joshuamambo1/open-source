@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 187 |
+| ⭐ **Stars** | 189 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 51/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevOps/Infra
+AI/ML · Frontend · Backend
 
 ## 📝 Summary
 

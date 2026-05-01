@@ -1,6 +1,6 @@
 # idaibin/rustzen-admin
 
-[![Stars](https://img.shields.io/github/stars/idaibin/rustzen-admin?style=flat-square&color=yellow)](https://github.com/idaibin/rustzen-admin/stargazers) [![Forks](https://img.shields.io/github/forks/idaibin/rustzen-admin?style=flat-square&color=blue)](https://github.com/idaibin/rustzen-admin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/idaibin/rustzen-admin?style=flat-square&color=yellow)](https://github.com/idaibin/rustzen-admin/stargazers) [![Forks](https://img.shields.io/github/forks/idaibin/rustzen-admin?style=flat-square&color=blue)](https://github.com/idaibin/rustzen-admin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A structured monorepo for Rust full-stack admin systems, with an Axum backend, React frontend, and clear architecture boundaries.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

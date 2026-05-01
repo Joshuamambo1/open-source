@@ -1,6 +1,6 @@
 # hoblin/claude-ruby-marketplace
 
-[![Stars](https://img.shields.io/github/stars/hoblin/claude-ruby-marketplace?style=flat-square&color=yellow)](https://github.com/hoblin/claude-ruby-marketplace/stargazers) [![Forks](https://img.shields.io/github/forks/hoblin/claude-ruby-marketplace?style=flat-square&color=blue)](https://github.com/hoblin/claude-ruby-marketplace/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoblin/claude-ruby-marketplace?style=flat-square&color=yellow)](https://github.com/hoblin/claude-ruby-marketplace/stargazers) [![Forks](https://img.shields.io/github/forks/hoblin/claude-ruby-marketplace?style=flat-square&color=blue)](https://github.com/hoblin/claude-ruby-marketplace/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin marketplace for Ruby and Rails development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

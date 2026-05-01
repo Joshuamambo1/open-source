@@ -1,17 +1,17 @@
 # z3z1ma/agent-loom
 
-[![Stars](https://img.shields.io/github/stars/z3z1ma/agent-loom?style=flat-square&color=yellow)](https://github.com/z3z1ma/agent-loom/stargazers) [![Forks](https://img.shields.io/github/forks/z3z1ma/agent-loom?style=flat-square&color=blue)](https://github.com/z3z1ma/agent-loom/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/z3z1ma/agent-loom?style=flat-square&color=yellow)](https://github.com/z3z1ma/agent-loom/stargazers) [![Forks](https://img.shields.io/github/forks/z3z1ma/agent-loom?style=flat-square&color=blue)](https://github.com/z3z1ma/agent-loom/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Loom is a Markdown-native project state protocol for AI agents.
+> Agent Loom is a repo-local truth system for coding agents
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10 |
+| ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 

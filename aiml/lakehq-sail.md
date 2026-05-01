@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/lakehq/sail?style=flat-square&color=yellow)](https://github.com/lakehq/sail/stargazers) [![Forks](https://img.shields.io/github/forks/lakehq/sail?style=flat-square&color=blue)](https://github.com/lakehq/sail/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
-> A drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
+> Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.2k |
+| ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 68/100 |

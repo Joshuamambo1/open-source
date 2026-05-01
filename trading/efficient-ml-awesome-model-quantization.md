@@ -1,6 +1,6 @@
 # Efficient-ML/Awesome-Model-Quantization
 
-[![Stars](https://img.shields.io/github/stars/Efficient-ML/Awesome-Model-Quantization?style=flat-square&color=yellow)](https://github.com/Efficient-ML/Awesome-Model-Quantization/stargazers) [![Forks](https://img.shields.io/github/forks/Efficient-ML/Awesome-Model-Quantization?style=flat-square&color=blue)](https://github.com/Efficient-ML/Awesome-Model-Quantization/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Efficient-ML/Awesome-Model-Quantization?style=flat-square&color=yellow)](https://github.com/Efficient-ML/Awesome-Model-Quantization/stargazers) [![Forks](https://img.shields.io/github/forks/Efficient-ML/Awesome-Model-Quantization?style=flat-square&color=blue)](https://github.com/Efficient-ML/Awesome-Model-Quantization/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # hanxi/cups-web
 
-[![Stars](https://img.shields.io/github/stars/hanxi/cups-web?style=flat-square&color=yellow)](https://github.com/hanxi/cups-web/stargazers) [![Forks](https://img.shields.io/github/forks/hanxi/cups-web?style=flat-square&color=blue)](https://github.com/hanxi/cups-web/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hanxi/cups-web?style=flat-square&color=yellow)](https://github.com/hanxi/cups-web/stargazers) [![Forks](https://img.shields.io/github/forks/hanxi/cups-web?style=flat-square&color=blue)](https://github.com/hanxi/cups-web/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 把家用 USB 打印机变成随时可访问的网络打印服务
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 567 |
-| 🍴 **Forks** | 65 |
+| ⭐ **Stars** | 573 |
+| 🍴 **Forks** | 67 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

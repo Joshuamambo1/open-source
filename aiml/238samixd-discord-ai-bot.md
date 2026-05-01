@@ -1,6 +1,6 @@
 # 238SAMIxD/discord-ai-bot
 
-[![Stars](https://img.shields.io/github/stars/238SAMIxD/discord-ai-bot?style=flat-square&color=yellow)](https://github.com/238SAMIxD/discord-ai-bot/stargazers) [![Forks](https://img.shields.io/github/forks/238SAMIxD/discord-ai-bot?style=flat-square&color=blue)](https://github.com/238SAMIxD/discord-ai-bot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/238SAMIxD/discord-ai-bot?style=flat-square&color=yellow)](https://github.com/238SAMIxD/discord-ai-bot/stargazers) [![Forks](https://img.shields.io/github/forks/238SAMIxD/discord-ai-bot?style=flat-square&color=blue)](https://github.com/238SAMIxD/discord-ai-bot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Discord AI chatbot using Ollama and Stable Diffusion
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 293 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

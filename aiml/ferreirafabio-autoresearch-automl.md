@@ -1,17 +1,17 @@
 # ferreirafabio/autoresearch-automl
 
-[![Stars](https://img.shields.io/github/stars/ferreirafabio/autoresearch-automl?style=flat-square&color=yellow)](https://github.com/ferreirafabio/autoresearch-automl/stargazers) [![Forks](https://img.shields.io/github/forks/ferreirafabio/autoresearch-automl?style=flat-square&color=blue)](https://github.com/ferreirafabio/autoresearch-automl/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ferreirafabio/autoresearch-automl?style=flat-square&color=yellow)](https://github.com/ferreirafabio/autoresearch-automl/stargazers) [![Forks](https://img.shields.io/github/forks/ferreirafabio/autoresearch-automl?style=flat-square&color=blue)](https://github.com/ferreirafabio/autoresearch-automl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Can LLMs beat classical HPO? A benchmark comparing classical, LLM-based, and hybrid methods on Karpathy's autoresearch.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 32 |
+| 🍴 **Forks** | 4 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 

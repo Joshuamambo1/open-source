@@ -1,6 +1,6 @@
 # microsoft/maker.js
 
-[![Stars](https://img.shields.io/github/stars/microsoft/maker.js?style=flat-square&color=yellow)](https://github.com/microsoft/maker.js/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/maker.js?style=flat-square&color=blue)](https://github.com/microsoft/maker.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/maker.js?style=flat-square&color=yellow)](https://github.com/microsoft/maker.js/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/maker.js?style=flat-square&color=blue)](https://github.com/microsoft/maker.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 📐⚙ 2D vector line drawing and shape modeling for CNC and laser cutters.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 296 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

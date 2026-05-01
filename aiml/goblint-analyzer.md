@@ -1,6 +1,6 @@
 # goblint/analyzer
 
-[![Stars](https://img.shields.io/github/stars/goblint/analyzer?style=flat-square&color=yellow)](https://github.com/goblint/analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/goblint/analyzer?style=flat-square&color=blue)](https://github.com/goblint/analyzer/network) [![Language](https://img.shields.io/badge/lang-OCaml-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/goblint/analyzer?style=flat-square&color=yellow)](https://github.com/goblint/analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/goblint/analyzer?style=flat-square&color=blue)](https://github.com/goblint/analyzer/network) [![Language](https://img.shields.io/badge/lang-OCaml-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Static analysis framework for C
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 240 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | OCaml |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

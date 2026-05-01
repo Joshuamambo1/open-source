@@ -1,6 +1,6 @@
 # healthchainai/HealthChain
 
-[![Stars](https://img.shields.io/github/stars/healthchainai/HealthChain?style=flat-square&color=yellow)](https://github.com/healthchainai/HealthChain/stargazers) [![Forks](https://img.shields.io/github/forks/healthchainai/HealthChain?style=flat-square&color=blue)](https://github.com/healthchainai/HealthChain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/healthchainai/HealthChain?style=flat-square&color=yellow)](https://github.com/healthchainai/HealthChain/stargazers) [![Forks](https://img.shields.io/github/forks/healthchainai/HealthChain?style=flat-square&color=blue)](https://github.com/healthchainai/HealthChain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source SDK for healthcare AI: FHIR endpoints, EHR integration, and deployment tooling in Python 💫 🏥
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 191 |
+| ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

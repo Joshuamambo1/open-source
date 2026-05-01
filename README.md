@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13200** |
+| 🗂️ **Total projects** | **13244** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5017 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2605 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1285 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1008 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 805 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 783 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 472 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 5031 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2617 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1288 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1010 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 808 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 785 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 474 | [Browse →](./crypto/) |
 | 📊 **Data** | 300 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 284 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 161 | [Browse →](./mobile/) |
-| 💳 **Payments** | 140 | [Browse →](./payments/) |
-| 📈 **Trading** | 136 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 289 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 162 | [Browse →](./mobile/) |
+| 💳 **Payments** | 139 | [Browse →](./payments/) |
+| 📈 **Trading** | 137 | [Browse →](./trading/) |
 | 🔐 **Security** | 111 | [Browse →](./security/) |
 | ✨ **Design** | 41 | [Browse →](./design/) |
 | 🎯 **Product** | 27 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [GyulyVGC/sniffnet](./frontend/gyulyvgc-sniffnet.md) | ⭐ 37k | Frontend |
-| 2 | [dotnet/efcore](./data/dotnet-efcore.md) | ⭐ 14.6k | Data |
-| 3 | [JuliusBrussee/caveman](./aiml/juliusbrussee-caveman.md) | ⭐ 51.5k | AI/ML |
-| 4 | [TykTechnologies/tyk](./backend/tyktechnologies-tyk.md) | ⭐ 10.7k | Backend |
-| 5 | [caddyserver/caddy](./backend/caddyserver-caddy.md) | ⭐ 72k | Backend |
-| 6 | [birobirobiro/awesome-shadcn-ui](./frontend/birobirobiro-awesome-shadcn-ui.md) | ⭐ 19.4k | Frontend |
-| 7 | [langchain-ai/langchain](./orchestration/langchain-ai-langchain.md) | ⭐ 135.5k | Orchestration |
-| 8 | [janhq/jan](./aiml/janhq-jan.md) | ⭐ 42.3k | AI/ML |
-| 9 | [CoplayDev/unity-mcp](./aiml/coplaydev-unity-mcp.md) | ⭐ 9.1k | AI/ML |
-| 10 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
+| 1 | [pion/webrtc](./backend/pion-webrtc.md) | ⭐ 16.3k | Backend |
+| 2 | [GyulyVGC/sniffnet](./frontend/gyulyvgc-sniffnet.md) | ⭐ 37k | Frontend |
+| 3 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
+| 4 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 5 | [saltstack/salt](./devopsinfra/saltstack-salt.md) | ⭐ 15.4k | DevOps & Infra |
+| 6 | [bluewave-labs/Checkmate](./frontend/bluewave-labs-checkmate.md) | ⭐ 9.7k | Frontend |
+| 7 | [Kilo-Org/kilocode](./aiml/kilo-org-kilocode.md) | ⭐ 18.8k | AI/ML |
+| 8 | [alibaba/spring-ai-alibaba](./orchestration/alibaba-spring-ai-alibaba.md) | ⭐ 9.4k | Orchestration |
+| 9 | [airbytehq/airbyte](./aiml/airbytehq-airbyte.md) | ⭐ 21.2k | AI/ML |
+| 10 | [agentscope-ai/agentscope](./orchestration/agentscope-ai-agentscope.md) | ⭐ 24.5k | Orchestration |
 
 ## 🚀 How it works
 

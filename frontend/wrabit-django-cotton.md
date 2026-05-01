@@ -1,6 +1,6 @@
 # wrabit/django-cotton
 
-[![Stars](https://img.shields.io/github/stars/wrabit/django-cotton?style=flat-square&color=yellow)](https://github.com/wrabit/django-cotton/stargazers) [![Forks](https://img.shields.io/github/forks/wrabit/django-cotton?style=flat-square&color=blue)](https://github.com/wrabit/django-cotton/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wrabit/django-cotton?style=flat-square&color=yellow)](https://github.com/wrabit/django-cotton/stargazers) [![Forks](https://img.shields.io/github/forks/wrabit/django-cotton?style=flat-square&color=blue)](https://github.com/wrabit/django-cotton/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Enabling Modern UI Composition in Django
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

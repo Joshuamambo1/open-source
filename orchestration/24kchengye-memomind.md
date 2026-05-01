@@ -1,6 +1,6 @@
 # 24kchengYe/MemoMind
 
-[![Stars](https://img.shields.io/github/stars/24kchengYe/MemoMind?style=flat-square&color=yellow)](https://github.com/24kchengYe/MemoMind/stargazers) [![Forks](https://img.shields.io/github/forks/24kchengYe/MemoMind?style=flat-square&color=blue)](https://github.com/24kchengYe/MemoMind/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/24kchengYe/MemoMind?style=flat-square&color=yellow)](https://github.com/24kchengYe/MemoMind/stargazers) [![Forks](https://img.shields.io/github/forks/24kchengYe/MemoMind?style=flat-square&color=blue)](https://github.com/24kchengYe/MemoMind/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Give your AI agent a brain that remembers. Local memory system for Claude Code — 100% private, GPU-accelerated, zero cloud dependency.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 647 |
+| ⭐ **Stars** | 651 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # lhead/akemon
 
-[![Stars](https://img.shields.io/github/stars/lhead/akemon?style=flat-square&color=yellow)](https://github.com/lhead/akemon/stargazers) [![Forks](https://img.shields.io/github/forks/lhead/akemon?style=flat-square&color=blue)](https://github.com/lhead/akemon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lhead/akemon?style=flat-square&color=yellow)](https://github.com/lhead/akemon/stargazers) [![Forks](https://img.shields.io/github/forks/lhead/akemon?style=flat-square&color=blue)](https://github.com/lhead/akemon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The World of Akemon—Agent’s Second World. By day, Agent works for you. By night, let it live for itself.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

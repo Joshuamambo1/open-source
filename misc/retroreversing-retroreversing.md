@@ -1,6 +1,6 @@
 # RetroReversing/retroReversing
 
-[![Stars](https://img.shields.io/github/stars/RetroReversing/retroReversing?style=flat-square&color=yellow)](https://github.com/RetroReversing/retroReversing/stargazers) [![Forks](https://img.shields.io/github/forks/RetroReversing/retroReversing?style=flat-square&color=blue)](https://github.com/RetroReversing/retroReversing/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RetroReversing/retroReversing?style=flat-square&color=yellow)](https://github.com/RetroReversing/retroReversing/stargazers) [![Forks](https://img.shields.io/github/forks/RetroReversing/retroReversing?style=flat-square&color=blue)](https://github.com/RetroReversing/retroReversing/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome website for reverse engineering retro games:
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 641 |
-| 🍴 **Forks** | 267 |
+| 🍴 **Forks** | 268 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,17 +1,17 @@
 # matt-riley/newbrew
 
-[![Stars](https://img.shields.io/github/stars/matt-riley/newbrew?style=flat-square&color=yellow)](https://github.com/matt-riley/newbrew/stargazers) [![Forks](https://img.shields.io/github/forks/matt-riley/newbrew?style=flat-square&color=blue)](https://github.com/matt-riley/newbrew/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matt-riley/newbrew?style=flat-square&color=yellow)](https://github.com/matt-riley/newbrew/stargazers) [![Forks](https://img.shields.io/github/forks/matt-riley/newbrew?style=flat-square&color=blue)](https://github.com/matt-riley/newbrew/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Terminal UI for discovering recent Homebrew formula additions, with searchable results, cached fetches, and one-key homepage opening.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Backend
 
 ## 📝 Summary
 

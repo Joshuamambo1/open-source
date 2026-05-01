@@ -1,6 +1,6 @@
 # qntx/r402
 
-[![Stars](https://img.shields.io/github/stars/qntx/r402?style=flat-square&color=yellow)](https://github.com/qntx/r402/stargazers) [![Forks](https://img.shields.io/github/forks/qntx/r402?style=flat-square&color=blue)](https://github.com/qntx/r402/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qntx/r402?style=flat-square&color=yellow)](https://github.com/qntx/r402/stargazers) [![Forks](https://img.shields.io/github/forks/qntx/r402?style=flat-square&color=blue)](https://github.com/qntx/r402/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Rust SDK for the x402 payment protocol.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

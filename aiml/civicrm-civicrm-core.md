@@ -1,6 +1,6 @@
 # civicrm/civicrm-core
 
-[![Stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=flat-square&color=yellow)](https://github.com/civicrm/civicrm-core/stargazers) [![Forks](https://img.shields.io/github/forks/civicrm/civicrm-core?style=flat-square&color=blue)](https://github.com/civicrm/civicrm-core/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=flat-square&color=yellow)](https://github.com/civicrm/civicrm-core/stargazers) [![Forks](https://img.shields.io/github/forks/civicrm/civicrm-core?style=flat-square&color=blue)](https://github.com/civicrm/civicrm-core/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > CiviCRM (Core Application and Framework)
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 736 |
-| 🍴 **Forks** | 873 |
+| 🍴 **Forks** | 874 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

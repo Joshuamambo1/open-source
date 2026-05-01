@@ -1,6 +1,6 @@
 # scverse/anndata
 
-[![Stars](https://img.shields.io/github/stars/scverse/anndata?style=flat-square&color=yellow)](https://github.com/scverse/anndata/stargazers) [![Forks](https://img.shields.io/github/forks/scverse/anndata?style=flat-square&color=blue)](https://github.com/scverse/anndata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scverse/anndata?style=flat-square&color=yellow)](https://github.com/scverse/anndata/stargazers) [![Forks](https://img.shields.io/github/forks/scverse/anndata?style=flat-square&color=blue)](https://github.com/scverse/anndata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Annotated data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 735 |
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

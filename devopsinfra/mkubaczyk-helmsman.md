@@ -1,6 +1,6 @@
 # mkubaczyk/helmsman
 
-[![Stars](https://img.shields.io/github/stars/mkubaczyk/helmsman?style=flat-square&color=yellow)](https://github.com/mkubaczyk/helmsman/stargazers) [![Forks](https://img.shields.io/github/forks/mkubaczyk/helmsman?style=flat-square&color=blue)](https://github.com/mkubaczyk/helmsman/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mkubaczyk/helmsman?style=flat-square&color=yellow)](https://github.com/mkubaczyk/helmsman/stargazers) [![Forks](https://img.shields.io/github/forks/mkubaczyk/helmsman?style=flat-square&color=blue)](https://github.com/mkubaczyk/helmsman/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Helm Charts as Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

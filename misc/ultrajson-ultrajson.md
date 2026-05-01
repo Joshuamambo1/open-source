@@ -1,6 +1,6 @@
 # ultrajson/ultrajson
 
-[![Stars](https://img.shields.io/github/stars/ultrajson/ultrajson?style=flat-square&color=yellow)](https://github.com/ultrajson/ultrajson/stargazers) [![Forks](https://img.shields.io/github/forks/ultrajson/ultrajson?style=flat-square&color=blue)](https://github.com/ultrajson/ultrajson/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ultrajson/ultrajson?style=flat-square&color=yellow)](https://github.com/ultrajson/ultrajson/stargazers) [![Forks](https://img.shields.io/github/forks/ultrajson/ultrajson?style=flat-square&color=blue)](https://github.com/ultrajson/ultrajson/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Ultra fast JSON decoder and encoder written in C with Python bindings
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 380 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # 2KAbhishek/win2k
 
-[![Stars](https://img.shields.io/github/stars/2KAbhishek/win2k?style=flat-square&color=yellow)](https://github.com/2KAbhishek/win2k/stargazers) [![Forks](https://img.shields.io/github/forks/2KAbhishek/win2k?style=flat-square&color=blue)](https://github.com/2KAbhishek/win2k/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/2KAbhishek/win2k?style=flat-square&color=yellow)](https://github.com/2KAbhishek/win2k/stargazers) [![Forks](https://img.shields.io/github/forks/2KAbhishek/win2k?style=flat-square&color=blue)](https://github.com/2KAbhishek/win2k/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Ultimate Dev Setup for Windows 🪟🪄
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

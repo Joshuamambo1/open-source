@@ -1,6 +1,6 @@
 # macports/macports-base
 
-[![Stars](https://img.shields.io/github/stars/macports/macports-base?style=flat-square&color=yellow)](https://github.com/macports/macports-base/stargazers) [![Forks](https://img.shields.io/github/forks/macports/macports-base?style=flat-square&color=blue)](https://github.com/macports/macports-base/network) [![Language](https://img.shields.io/badge/lang-Tcl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/macports/macports-base?style=flat-square&color=yellow)](https://github.com/macports/macports-base/stargazers) [![Forks](https://img.shields.io/github/forks/macports/macports-base?style=flat-square&color=blue)](https://github.com/macports/macports-base/network) [![Language](https://img.shields.io/badge/lang-Tcl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The MacPorts command-line client
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 990 |
+| ⭐ **Stars** | 991 |
 | 🍴 **Forks** | 279 |
 | 💻 **Language** | Tcl |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

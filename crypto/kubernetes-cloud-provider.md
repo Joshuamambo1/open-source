@@ -1,6 +1,6 @@
 # kubernetes/cloud-provider
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/cloud-provider?style=flat-square&color=yellow)](https://github.com/kubernetes/cloud-provider/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/cloud-provider?style=flat-square&color=blue)](https://github.com/kubernetes/cloud-provider/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/cloud-provider?style=flat-square&color=yellow)](https://github.com/kubernetes/cloud-provider/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/cloud-provider?style=flat-square&color=blue)](https://github.com/kubernetes/cloud-provider/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > cloud-provider defines the shared interfaces which Kubernetes cloud providers implement. These interfaces allow various controllers to integrate with any cloud provider in a pluggable fashion. Please file any issues against the main Kubernetes repo.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 278 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

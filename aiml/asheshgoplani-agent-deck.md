@@ -1,6 +1,6 @@
 # asheshgoplani/agent-deck
 
-[![Stars](https://img.shields.io/github/stars/asheshgoplani/agent-deck?style=flat-square&color=yellow)](https://github.com/asheshgoplani/agent-deck/stargazers) [![Forks](https://img.shields.io/github/forks/asheshgoplani/agent-deck?style=flat-square&color=blue)](https://github.com/asheshgoplani/agent-deck/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asheshgoplani/agent-deck?style=flat-square&color=yellow)](https://github.com/asheshgoplani/agent-deck/stargazers) [![Forks](https://img.shields.io/github/forks/asheshgoplani/agent-deck?style=flat-square&color=blue)](https://github.com/asheshgoplani/agent-deck/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 255 |
+| 🍴 **Forks** | 256 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

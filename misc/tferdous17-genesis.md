@@ -1,6 +1,6 @@
 # tferdous17/genesis
 
-[![Stars](https://img.shields.io/github/stars/tferdous17/genesis?style=flat-square&color=yellow)](https://github.com/tferdous17/genesis/stargazers) [![Forks](https://img.shields.io/github/forks/tferdous17/genesis?style=flat-square&color=blue)](https://github.com/tferdous17/genesis/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tferdous17/genesis?style=flat-square&color=yellow)](https://github.com/tferdous17/genesis/stargazers) [![Forks](https://img.shields.io/github/forks/tferdous17/genesis?style=flat-square&color=blue)](https://github.com/tferdous17/genesis/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance distributed key-value store w/ a log-structured merge tree implementation written in pure Go + gRPC
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

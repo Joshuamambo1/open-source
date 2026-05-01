@@ -1,6 +1,6 @@
 # darshil3011/codedrift
 
-[![Stars](https://img.shields.io/github/stars/darshil3011/codedrift?style=flat-square&color=yellow)](https://github.com/darshil3011/codedrift/stargazers) [![Forks](https://img.shields.io/github/forks/darshil3011/codedrift?style=flat-square&color=blue)](https://github.com/darshil3011/codedrift/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/darshil3011/codedrift?style=flat-square&color=yellow)](https://github.com/darshil3011/codedrift/stargazers) [![Forks](https://img.shields.io/github/forks/darshil3011/codedrift?style=flat-square&color=blue)](https://github.com/darshil3011/codedrift/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Your coding agent spends 90% of its tokens finding code, not writing it. Reduce your token usage by 50x with CodeDrift !
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

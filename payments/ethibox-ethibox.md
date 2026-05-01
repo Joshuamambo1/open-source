@@ -1,6 +1,6 @@
 # ethibox/ethibox
 
-[![Stars](https://img.shields.io/github/stars/ethibox/ethibox?style=flat-square&color=yellow)](https://github.com/ethibox/ethibox/stargazers) [![Forks](https://img.shields.io/github/forks/ethibox/ethibox?style=flat-square&color=blue)](https://github.com/ethibox/ethibox/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ethibox/ethibox?style=flat-square&color=yellow)](https://github.com/ethibox/ethibox/stargazers) [![Forks](https://img.shields.io/github/forks/ethibox/ethibox?style=flat-square&color=blue)](https://github.com/ethibox/ethibox/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source web app hoster
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 258 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

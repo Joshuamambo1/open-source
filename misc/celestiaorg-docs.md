@@ -1,6 +1,6 @@
 # celestiaorg/docs
 
-[![Stars](https://img.shields.io/github/stars/celestiaorg/docs?style=flat-square&color=yellow)](https://github.com/celestiaorg/docs/stargazers) [![Forks](https://img.shields.io/github/forks/celestiaorg/docs?style=flat-square&color=blue)](https://github.com/celestiaorg/docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/celestiaorg/docs?style=flat-square&color=yellow)](https://github.com/celestiaorg/docs/stargazers) [![Forks](https://img.shields.io/github/forks/celestiaorg/docs?style=flat-square&color=blue)](https://github.com/celestiaorg/docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Celestia Documentation Site
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 182 |
 | 🍴 **Forks** | 423 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

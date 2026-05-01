@@ -1,6 +1,6 @@
 # anomalyco/models.dev
 
-[![Stars](https://img.shields.io/github/stars/anomalyco/models.dev?style=flat-square&color=yellow)](https://github.com/anomalyco/models.dev/stargazers) [![Forks](https://img.shields.io/github/forks/anomalyco/models.dev?style=flat-square&color=blue)](https://github.com/anomalyco/models.dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anomalyco/models.dev?style=flat-square&color=yellow)](https://github.com/anomalyco/models.dev/stargazers) [![Forks](https://img.shields.io/github/forks/anomalyco/models.dev?style=flat-square&color=blue)](https://github.com/anomalyco/models.dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source database of AI models.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 900 |
+| 🍴 **Forks** | 901 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

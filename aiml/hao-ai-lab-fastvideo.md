@@ -1,6 +1,6 @@
 # hao-ai-lab/FastVideo
 
-[![Stars](https://img.shields.io/github/stars/hao-ai-lab/FastVideo?style=flat-square&color=yellow)](https://github.com/hao-ai-lab/FastVideo/stargazers) [![Forks](https://img.shields.io/github/forks/hao-ai-lab/FastVideo?style=flat-square&color=blue)](https://github.com/hao-ai-lab/FastVideo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hao-ai-lab/FastVideo?style=flat-square&color=yellow)](https://github.com/hao-ai-lab/FastVideo/stargazers) [![Forks](https://img.shields.io/github/forks/hao-ai-lab/FastVideo?style=flat-square&color=blue)](https://github.com/hao-ai-lab/FastVideo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A unified inference and post-training framework for accelerated video generation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 325 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

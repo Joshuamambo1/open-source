@@ -1,6 +1,6 @@
 # bemasher/rtlamr
 
-[![Stars](https://img.shields.io/github/stars/bemasher/rtlamr?style=flat-square&color=yellow)](https://github.com/bemasher/rtlamr/stargazers) [![Forks](https://img.shields.io/github/forks/bemasher/rtlamr?style=flat-square&color=blue)](https://github.com/bemasher/rtlamr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bemasher/rtlamr?style=flat-square&color=yellow)](https://github.com/bemasher/rtlamr/stargazers) [![Forks](https://img.shields.io/github/forks/bemasher/rtlamr?style=flat-square&color=blue)](https://github.com/bemasher/rtlamr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > An rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 265 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

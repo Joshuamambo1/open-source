@@ -1,6 +1,6 @@
 # ovexro/dockpanel
 
-[![Stars](https://img.shields.io/github/stars/ovexro/dockpanel?style=flat-square&color=yellow)](https://github.com/ovexro/dockpanel/stargazers) [![Forks](https://img.shields.io/github/forks/ovexro/dockpanel?style=flat-square&color=blue)](https://github.com/ovexro/dockpanel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ovexro/dockpanel?style=flat-square&color=yellow)](https://github.com/ovexro/dockpanel/stargazers) [![Forks](https://img.shields.io/github/forks/ovexro/dockpanel?style=flat-square&color=blue)](https://github.com/ovexro/dockpanel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security — all in one panel.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 268 |
-| 🍴 **Forks** | 37 |
+| ⭐ **Stars** | 293 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

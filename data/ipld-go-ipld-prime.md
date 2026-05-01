@@ -1,6 +1,6 @@
 # ipld/go-ipld-prime
 
-[![Stars](https://img.shields.io/github/stars/ipld/go-ipld-prime?style=flat-square&color=yellow)](https://github.com/ipld/go-ipld-prime/stargazers) [![Forks](https://img.shields.io/github/forks/ipld/go-ipld-prime?style=flat-square&color=blue)](https://github.com/ipld/go-ipld-prime/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ipld/go-ipld-prime?style=flat-square&color=yellow)](https://github.com/ipld/go-ipld-prime/stargazers) [![Forks](https://img.shields.io/github/forks/ipld/go-ipld-prime?style=flat-square&color=blue)](https://github.com/ipld/go-ipld-prime/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Golang interfaces for the IPLD Data Model, with core Codecs included, IPLD Schemas support, and some handy functional transforms tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

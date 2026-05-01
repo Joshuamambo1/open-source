@@ -1,6 +1,6 @@
 # filecoin-project/filecoin-ffi
 
-[![Stars](https://img.shields.io/github/stars/filecoin-project/filecoin-ffi?style=flat-square&color=yellow)](https://github.com/filecoin-project/filecoin-ffi/stargazers) [![Forks](https://img.shields.io/github/forks/filecoin-project/filecoin-ffi?style=flat-square&color=blue)](https://github.com/filecoin-project/filecoin-ffi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/filecoin-project/filecoin-ffi?style=flat-square&color=yellow)](https://github.com/filecoin-project/filecoin-ffi/stargazers) [![Forks](https://img.shields.io/github/forks/filecoin-project/filecoin-ffi?style=flat-square&color=blue)](https://github.com/filecoin-project/filecoin-ffi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > C and CGO bindings for Filecoin's Rust libraries
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

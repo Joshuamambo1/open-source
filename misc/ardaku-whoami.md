@@ -1,6 +1,6 @@
 # ardaku/whoami
 
-[![Stars](https://img.shields.io/github/stars/ardaku/whoami?style=flat-square&color=yellow)](https://github.com/ardaku/whoami/stargazers) [![Forks](https://img.shields.io/github/forks/ardaku/whoami?style=flat-square&color=blue)](https://github.com/ardaku/whoami/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ardaku/whoami?style=flat-square&color=yellow)](https://github.com/ardaku/whoami/stargazers) [![Forks](https://img.shields.io/github/forks/ardaku/whoami?style=flat-square&color=blue)](https://github.com/ardaku/whoami/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Rust library for getting information about the current user and environment.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 252 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # TheStack-ai/mrstack
 
-[![Stars](https://img.shields.io/github/stars/TheStack-ai/mrstack?style=flat-square&color=yellow)](https://github.com/TheStack-ai/mrstack/stargazers) [![Forks](https://img.shields.io/github/forks/TheStack-ai/mrstack?style=flat-square&color=blue)](https://github.com/TheStack-ai/mrstack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheStack-ai/mrstack?style=flat-square&color=yellow)](https://github.com/TheStack-ai/mrstack/stargazers) [![Forks](https://img.shields.io/github/forks/TheStack-ai/mrstack?style=flat-square&color=blue)](https://github.com/TheStack-ai/mrstack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Run Claude Code from Telegram — AI dev partner that works 24/7, even when terminal is closed. pip install mrstack
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

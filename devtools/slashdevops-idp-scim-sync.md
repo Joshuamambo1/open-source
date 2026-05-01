@@ -1,6 +1,6 @@
 # slashdevops/idp-scim-sync
 
-[![Stars](https://img.shields.io/github/stars/slashdevops/idp-scim-sync?style=flat-square&color=yellow)](https://github.com/slashdevops/idp-scim-sync/stargazers) [![Forks](https://img.shields.io/github/forks/slashdevops/idp-scim-sync?style=flat-square&color=blue)](https://github.com/slashdevops/idp-scim-sync/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/slashdevops/idp-scim-sync?style=flat-square&color=yellow)](https://github.com/slashdevops/idp-scim-sync/stargazers) [![Forks](https://img.shields.io/github/forks/slashdevops/idp-scim-sync?style=flat-square&color=blue)](https://github.com/slashdevops/idp-scim-sync/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Keep your AWS Single Sign-On (SSO) groups and users in sync with your Google Workspace directory
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

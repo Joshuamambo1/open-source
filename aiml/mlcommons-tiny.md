@@ -1,6 +1,6 @@
 # mlcommons/tiny
 
-[![Stars](https://img.shields.io/github/stars/mlcommons/tiny?style=flat-square&color=yellow)](https://github.com/mlcommons/tiny/stargazers) [![Forks](https://img.shields.io/github/forks/mlcommons/tiny?style=flat-square&color=blue)](https://github.com/mlcommons/tiny/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mlcommons/tiny?style=flat-square&color=yellow)](https://github.com/mlcommons/tiny/stargazers) [![Forks](https://img.shields.io/github/forks/mlcommons/tiny?style=flat-square&color=blue)](https://github.com/mlcommons/tiny/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > MLPerf® Tiny is an ML benchmark suite for extremely low-power systems such as microcontrollers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | C |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

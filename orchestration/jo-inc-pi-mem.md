@@ -1,6 +1,6 @@
 # jo-inc/pi-mem
 
-[![Stars](https://img.shields.io/github/stars/jo-inc/pi-mem?style=flat-square&color=yellow)](https://github.com/jo-inc/pi-mem/stargazers) [![Forks](https://img.shields.io/github/forks/jo-inc/pi-mem?style=flat-square&color=blue)](https://github.com/jo-inc/pi-mem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jo-inc/pi-mem?style=flat-square&color=yellow)](https://github.com/jo-inc/pi-mem/stargazers) [![Forks](https://img.shields.io/github/forks/jo-inc/pi-mem?style=flat-square&color=blue)](https://github.com/jo-inc/pi-mem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Plain-Markdown persistent memory for AI coding agents. Long-term facts, daily logs, scratchpad, and semantic search — works with pi, Claude Code, and any LLM agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

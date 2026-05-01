@@ -1,6 +1,6 @@
 # breezewish/CodexPotter
 
-[![Stars](https://img.shields.io/github/stars/breezewish/CodexPotter?style=flat-square&color=yellow)](https://github.com/breezewish/CodexPotter/stargazers) [![Forks](https://img.shields.io/github/forks/breezewish/CodexPotter?style=flat-square&color=blue)](https://github.com/breezewish/CodexPotter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/breezewish/CodexPotter?style=flat-square&color=yellow)](https://github.com/breezewish/CodexPotter/stargazers) [![Forks](https://img.shields.io/github/forks/breezewish/CodexPotter?style=flat-square&color=blue)](https://github.com/breezewish/CodexPotter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Ralph loop for codex — continuously reconciles codebase toward your instructed state
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 432 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 460 |
+| 🍴 **Forks** | 44 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

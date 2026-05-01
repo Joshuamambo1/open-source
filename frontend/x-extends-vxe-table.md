@@ -1,6 +1,6 @@
 # x-extends/vxe-table
 
-[![Stars](https://img.shields.io/github/stars/x-extends/vxe-table?style=flat-square&color=yellow)](https://github.com/x-extends/vxe-table/stargazers) [![Forks](https://img.shields.io/github/forks/x-extends/vxe-table?style=flat-square&color=blue)](https://github.com/x-extends/vxe-table/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/x-extends/vxe-table?style=flat-square&color=yellow)](https://github.com/x-extends/vxe-table/stargazers) [![Forks](https://img.shields.io/github/forks/x-extends/vxe-table?style=flat-square&color=blue)](https://github.com/x-extends/vxe-table/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > vxe table 支持 vue2, vue3 的表格解决方案
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 100/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

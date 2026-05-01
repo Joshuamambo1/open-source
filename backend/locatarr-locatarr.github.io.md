@@ -1,6 +1,6 @@
 # Locatarr/locatarr.github.io
 
-[![Stars](https://img.shields.io/github/stars/Locatarr/locatarr.github.io?style=flat-square&color=yellow)](https://github.com/Locatarr/locatarr.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/Locatarr/locatarr.github.io?style=flat-square&color=blue)](https://github.com/Locatarr/locatarr.github.io/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Locatarr/locatarr.github.io?style=flat-square&color=yellow)](https://github.com/Locatarr/locatarr.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/Locatarr/locatarr.github.io?style=flat-square&color=blue)](https://github.com/Locatarr/locatarr.github.io/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 459 |
+| ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

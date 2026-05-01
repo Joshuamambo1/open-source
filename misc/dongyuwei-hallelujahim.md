@@ -1,6 +1,6 @@
 # dongyuwei/hallelujahIM
 
-[![Stars](https://img.shields.io/github/stars/dongyuwei/hallelujahIM?style=flat-square&color=yellow)](https://github.com/dongyuwei/hallelujahIM/stargazers) [![Forks](https://img.shields.io/github/forks/dongyuwei/hallelujahIM?style=flat-square&color=blue)](https://github.com/dongyuwei/hallelujahIM/network) [![Language](https://img.shields.io/badge/lang-Objective-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dongyuwei/hallelujahIM?style=flat-square&color=yellow)](https://github.com/dongyuwei/hallelujahIM/stargazers) [![Forks](https://img.shields.io/github/forks/dongyuwei/hallelujahIM?style=flat-square&color=blue)](https://github.com/dongyuwei/hallelujahIM/network) [![Language](https://img.shields.io/badge/lang-Objective-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > hallelujahIM(哈利路亚 英文输入法) is  an intelligent English input method with auto-suggestions and spell check features.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 133 |
+| 🍴 **Forks** | 134 |
 | 💻 **Language** | Objective-C++ |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

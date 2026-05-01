@@ -1,6 +1,6 @@
 # Blackdesk-ai/blackdesk
 
-[![Stars](https://img.shields.io/github/stars/Blackdesk-ai/blackdesk?style=flat-square&color=yellow)](https://github.com/Blackdesk-ai/blackdesk/stargazers) [![Forks](https://img.shields.io/github/forks/Blackdesk-ai/blackdesk?style=flat-square&color=blue)](https://github.com/Blackdesk-ai/blackdesk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Blackdesk-ai/blackdesk?style=flat-square&color=yellow)](https://github.com/Blackdesk-ai/blackdesk/stargazers) [![Forks](https://img.shields.io/github/forks/Blackdesk-ai/blackdesk?style=flat-square&color=blue)](https://github.com/Blackdesk-ai/blackdesk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The open source market research terminal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

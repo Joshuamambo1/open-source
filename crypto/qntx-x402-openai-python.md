@@ -1,6 +1,6 @@
 # qntx/x402-openai-python
 
-[![Stars](https://img.shields.io/github/stars/qntx/x402-openai-python?style=flat-square&color=yellow)](https://github.com/qntx/x402-openai-python/stargazers) [![Forks](https://img.shields.io/github/forks/qntx/x402-openai-python?style=flat-square&color=blue)](https://github.com/qntx/x402-openai-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qntx/x402-openai-python?style=flat-square&color=yellow)](https://github.com/qntx/x402-openai-python/stargazers) [![Forks](https://img.shields.io/github/forks/qntx/x402-openai-python?style=flat-square&color=blue)](https://github.com/qntx/x402-openai-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Drop-in OpenAI Python client with transparent x402 payment support.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 260 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/worldcoin/world-chain?style=flat-square&color=yellow)](https://github.com/worldcoin/world-chain/stargazers) [![Forks](https://img.shields.io/github/forks/worldcoin/world-chain?style=flat-square&color=blue)](https://github.com/worldcoin/world-chain/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> World Chain monorepo
+> World Chain Monorepo
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 107 |
-| 🍴 **Forks** | 58 |
+| 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |

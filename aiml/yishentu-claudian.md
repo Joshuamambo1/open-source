@@ -1,17 +1,17 @@
 # YishenTu/claudian
 
-[![Stars](https://img.shields.io/github/stars/YishenTu/claudian?style=flat-square&color=yellow)](https://github.com/YishenTu/claudian/stargazers) [![Forks](https://img.shields.io/github/forks/YishenTu/claudian?style=flat-square&color=blue)](https://github.com/YishenTu/claudian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YishenTu/claudian?style=flat-square&color=yellow)](https://github.com/YishenTu/claudian/stargazers) [![Forks](https://img.shields.io/github/forks/YishenTu/claudian?style=flat-square&color=blue)](https://github.com/YishenTu/claudian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
-> An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
+> An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 9.7k |
-| 🍴 **Forks** | 592 |
+| 🍴 **Forks** | 591 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

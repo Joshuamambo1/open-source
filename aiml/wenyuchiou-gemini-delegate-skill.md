@@ -1,6 +1,6 @@
 # WenyuChiou/gemini-delegate-skill
 
-[![Stars](https://img.shields.io/github/stars/WenyuChiou/gemini-delegate-skill?style=flat-square&color=yellow)](https://github.com/WenyuChiou/gemini-delegate-skill/stargazers) [![Forks](https://img.shields.io/github/forks/WenyuChiou/gemini-delegate-skill?style=flat-square&color=blue)](https://github.com/WenyuChiou/gemini-delegate-skill/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WenyuChiou/gemini-delegate-skill?style=flat-square&color=yellow)](https://github.com/WenyuChiou/gemini-delegate-skill/stargazers) [![Forks](https://img.shields.io/github/forks/WenyuChiou/gemini-delegate-skill?style=flat-square&color=blue)](https://github.com/WenyuChiou/gemini-delegate-skill/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skill for using Gemini CLI for large-context synthesis, English or zh-TW/CJK long-form drafting, and second-opinion review.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

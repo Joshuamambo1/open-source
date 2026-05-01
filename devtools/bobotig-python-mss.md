@@ -1,6 +1,6 @@
 # BoboTiG/python-mss
 
-[![Stars](https://img.shields.io/github/stars/BoboTiG/python-mss?style=flat-square&color=yellow)](https://github.com/BoboTiG/python-mss/stargazers) [![Forks](https://img.shields.io/github/forks/BoboTiG/python-mss?style=flat-square&color=blue)](https://github.com/BoboTiG/python-mss/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BoboTiG/python-mss?style=flat-square&color=yellow)](https://github.com/BoboTiG/python-mss/stargazers) [![Forks](https://img.shields.io/github/forks/BoboTiG/python-mss?style=flat-square&color=blue)](https://github.com/BoboTiG/python-mss/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > An ultra fast cross-platform multiple screenshots module in pure Python using ctypes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

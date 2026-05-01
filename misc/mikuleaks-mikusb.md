@@ -1,6 +1,6 @@
 # MikuLeaks/MikuSB
 
-[![Stars](https://img.shields.io/github/stars/MikuLeaks/MikuSB?style=flat-square&color=yellow)](https://github.com/MikuLeaks/MikuSB/stargazers) [![Forks](https://img.shields.io/github/forks/MikuLeaks/MikuSB?style=flat-square&color=blue)](https://github.com/MikuLeaks/MikuSB/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MikuLeaks/MikuSB?style=flat-square&color=yellow)](https://github.com/MikuLeaks/MikuSB/stargazers) [![Forks](https://img.shields.io/github/forks/MikuLeaks/MikuSB?style=flat-square&color=blue)](https://github.com/MikuLeaks/MikuSB/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 374 |
+| ⭐ **Stars** | 376 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

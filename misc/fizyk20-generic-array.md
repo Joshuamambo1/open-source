@@ -1,6 +1,6 @@
 # fizyk20/generic-array
 
-[![Stars](https://img.shields.io/github/stars/fizyk20/generic-array?style=flat-square&color=yellow)](https://github.com/fizyk20/generic-array/stargazers) [![Forks](https://img.shields.io/github/forks/fizyk20/generic-array?style=flat-square&color=blue)](https://github.com/fizyk20/generic-array/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fizyk20/generic-array?style=flat-square&color=yellow)](https://github.com/fizyk20/generic-array/stargazers) [![Forks](https://img.shields.io/github/forks/fizyk20/generic-array?style=flat-square&color=blue)](https://github.com/fizyk20/generic-array/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Generic array types in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 435 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

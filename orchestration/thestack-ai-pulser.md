@@ -1,6 +1,6 @@
 # TheStack-ai/pulser
 
-[![Stars](https://img.shields.io/github/stars/TheStack-ai/pulser?style=flat-square&color=yellow)](https://github.com/TheStack-ai/pulser/stargazers) [![Forks](https://img.shields.io/github/forks/TheStack-ai/pulser?style=flat-square&color=blue)](https://github.com/TheStack-ai/pulser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheStack-ai/pulser?style=flat-square&color=yellow)](https://github.com/TheStack-ai/pulser/stargazers) [![Forks](https://img.shields.io/github/forks/TheStack-ai/pulser?style=flat-square&color=blue)](https://github.com/TheStack-ai/pulser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > SKILL.md linter for Claude Code — auto-diagnose and fix skills against Anthropic best practices. npx pulser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

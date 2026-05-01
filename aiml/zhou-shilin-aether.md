@@ -1,6 +1,6 @@
 # Zhou-Shilin/Aether
 
-[![Stars](https://img.shields.io/github/stars/Zhou-Shilin/Aether?style=flat-square&color=yellow)](https://github.com/Zhou-Shilin/Aether/stargazers) [![Forks](https://img.shields.io/github/forks/Zhou-Shilin/Aether?style=flat-square&color=blue)](https://github.com/Zhou-Shilin/Aether/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zhou-Shilin/Aether?style=flat-square&color=yellow)](https://github.com/Zhou-Shilin/Aether/stargazers) [![Forks](https://img.shields.io/github/forks/Zhou-Shilin/Aether?style=flat-square&color=blue)](https://github.com/Zhou-Shilin/Aether/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A stunning, localized, general-purpose AI Agent for Android.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

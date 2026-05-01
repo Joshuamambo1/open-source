@@ -1,6 +1,6 @@
 # mglaman/drupalorg-cli
 
-[![Stars](https://img.shields.io/github/stars/mglaman/drupalorg-cli?style=flat-square&color=yellow)](https://github.com/mglaman/drupalorg-cli/stargazers) [![Forks](https://img.shields.io/github/forks/mglaman/drupalorg-cli?style=flat-square&color=blue)](https://github.com/mglaman/drupalorg-cli/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mglaman/drupalorg-cli?style=flat-square&color=yellow)](https://github.com/mglaman/drupalorg-cli/stargazers) [![Forks](https://img.shields.io/github/forks/mglaman/drupalorg-cli?style=flat-square&color=blue)](https://github.com/mglaman/drupalorg-cli/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > A command line tool for interfacing with Drupal.org
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

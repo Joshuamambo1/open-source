@@ -1,6 +1,6 @@
 # theodo-group/debug-that
 
-[![Stars](https://img.shields.io/github/stars/theodo-group/debug-that?style=flat-square&color=yellow)](https://github.com/theodo-group/debug-that/stargazers) [![Forks](https://img.shields.io/github/forks/theodo-group/debug-that?style=flat-square&color=blue)](https://github.com/theodo-group/debug-that/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theodo-group/debug-that?style=flat-square&color=yellow)](https://github.com/theodo-group/debug-that/stargazers) [![Forks](https://img.shields.io/github/forks/theodo-group/debug-that?style=flat-square&color=blue)](https://github.com/theodo-group/debug-that/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Universal debugger CLI built for AI agents. Allows Claude Code and Codex to debug much faster. Support Node (Javascript, Typescript), bun, lldb (C++/Rust), python. Fast, token-efficient, no fluff.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

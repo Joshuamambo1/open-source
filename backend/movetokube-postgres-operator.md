@@ -1,6 +1,6 @@
 # movetokube/postgres-operator
 
-[![Stars](https://img.shields.io/github/stars/movetokube/postgres-operator?style=flat-square&color=yellow)](https://github.com/movetokube/postgres-operator/stargazers) [![Forks](https://img.shields.io/github/forks/movetokube/postgres-operator?style=flat-square&color=blue)](https://github.com/movetokube/postgres-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/movetokube/postgres-operator?style=flat-square&color=yellow)](https://github.com/movetokube/postgres-operator/stargazers) [![Forks](https://img.shields.io/github/forks/movetokube/postgres-operator?style=flat-square&color=blue)](https://github.com/movetokube/postgres-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > External PostgreSQL Server Operator for Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 228 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

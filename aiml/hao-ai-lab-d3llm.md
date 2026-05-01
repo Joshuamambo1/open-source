@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/hao-ai-lab/d3LLM?style=flat-square&color=yellow)](https://github.com/hao-ai-lab/d3LLM/stargazers) [![Forks](https://img.shields.io/github/forks/hao-ai-lab/d3LLM?style=flat-square&color=blue)](https://github.com/hao-ai-lab/d3LLM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> d3LLM: Ultra-Fast Diffusion LLM 🚀
+> [ICML 2026] d3LLM: Ultra-Fast Diffusion LLM 🚀
 
 ## 📊 Stats
 

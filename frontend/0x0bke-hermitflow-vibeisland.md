@@ -1,6 +1,6 @@
 # 0x0Bke/HermitFlow-VibeIsland
 
-[![Stars](https://img.shields.io/github/stars/0x0Bke/HermitFlow-VibeIsland?style=flat-square&color=yellow)](https://github.com/0x0Bke/HermitFlow-VibeIsland/stargazers) [![Forks](https://img.shields.io/github/forks/0x0Bke/HermitFlow-VibeIsland?style=flat-square&color=blue)](https://github.com/0x0Bke/HermitFlow-VibeIsland/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0x0Bke/HermitFlow-VibeIsland?style=flat-square&color=yellow)](https://github.com/0x0Bke/HermitFlow-VibeIsland/stargazers) [![Forks](https://img.shields.io/github/forks/0x0Bke/HermitFlow-VibeIsland?style=flat-square&color=blue)](https://github.com/0x0Bke/HermitFlow-VibeIsland/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > HermitFlow is a SwiftUI-based macOS top island app that surfaces local Claude Code, Codex, and other CLI session activity, approval requests, and quick focus targets.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

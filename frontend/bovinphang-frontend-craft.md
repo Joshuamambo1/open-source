@@ -1,6 +1,6 @@
 # bovinphang/frontend-craft
 
-[![Stars](https://img.shields.io/github/stars/bovinphang/frontend-craft?style=flat-square&color=yellow)](https://github.com/bovinphang/frontend-craft/stargazers) [![Forks](https://img.shields.io/github/forks/bovinphang/frontend-craft?style=flat-square&color=blue)](https://github.com/bovinphang/frontend-craft/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bovinphang/frontend-craft?style=flat-square&color=yellow)](https://github.com/bovinphang/frontend-craft/stargazers) [![Forks](https://img.shields.io/github/forks/bovinphang/frontend-craft?style=flat-square&color=blue)](https://github.com/bovinphang/frontend-craft/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise frontend team Claude Code plugin — production-ready hooks for code review, security review, performance optimization, scaffolding, design-to-code (Figma/Sketch/MasterGo/Pixso/墨刀/摹客), architecture planning, and UI debugging with multi-design-tool MCP integration. All reports auto-saved as Markdown files to reports/ directory.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

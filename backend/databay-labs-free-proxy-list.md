@@ -1,6 +1,6 @@
 # databay-labs/free-proxy-list
 
-[![Stars](https://img.shields.io/github/stars/databay-labs/free-proxy-list?style=flat-square&color=yellow)](https://github.com/databay-labs/free-proxy-list/stargazers) [![Forks](https://img.shields.io/github/forks/databay-labs/free-proxy-list?style=flat-square&color=blue)](https://github.com/databay-labs/free-proxy-list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/databay-labs/free-proxy-list?style=flat-square&color=yellow)](https://github.com/databay-labs/free-proxy-list/stargazers) [![Forks](https://img.shields.io/github/forks/databay-labs/free-proxy-list?style=flat-square&color=blue)](https://github.com/databay-labs/free-proxy-list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > ✅​🚀 Free HTTP, HTTPS, SOCKS4 & SOCKS5 Proxy List | Updated every 5 minutes | Strict SSL, zero MITM, multi-country
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 318 |
+| ⭐ **Stars** | 417 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

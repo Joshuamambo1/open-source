@@ -1,6 +1,6 @@
 # naggie/dsnet
 
-[![Stars](https://img.shields.io/github/stars/naggie/dsnet?style=flat-square&color=yellow)](https://github.com/naggie/dsnet/stargazers) [![Forks](https://img.shields.io/github/forks/naggie/dsnet?style=flat-square&color=blue)](https://github.com/naggie/dsnet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/naggie/dsnet?style=flat-square&color=yellow)](https://github.com/naggie/dsnet/stargazers) [![Forks](https://img.shields.io/github/forks/naggie/dsnet?style=flat-square&color=blue)](https://github.com/naggie/dsnet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 751 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

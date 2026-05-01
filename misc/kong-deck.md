@@ -1,6 +1,6 @@
 # Kong/deck
 
-[![Stars](https://img.shields.io/github/stars/Kong/deck?style=flat-square&color=yellow)](https://github.com/Kong/deck/stargazers) [![Forks](https://img.shields.io/github/forks/Kong/deck?style=flat-square&color=blue)](https://github.com/Kong/deck/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kong/deck?style=flat-square&color=yellow)](https://github.com/Kong/deck/stargazers) [![Forks](https://img.shields.io/github/forks/Kong/deck?style=flat-square&color=blue)](https://github.com/Kong/deck/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > decK: Configuration management and drift detection for Kong
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 494 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

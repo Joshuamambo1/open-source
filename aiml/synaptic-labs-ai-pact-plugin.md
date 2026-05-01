@@ -1,6 +1,6 @@
 # Synaptic-Labs-AI/PACT-Plugin
 
-[![Stars](https://img.shields.io/github/stars/Synaptic-Labs-AI/PACT-Plugin?style=flat-square&color=yellow)](https://github.com/Synaptic-Labs-AI/PACT-Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Synaptic-Labs-AI/PACT-Plugin?style=flat-square&color=blue)](https://github.com/Synaptic-Labs-AI/PACT-Plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Synaptic-Labs-AI/PACT-Plugin?style=flat-square&color=yellow)](https://github.com/Synaptic-Labs-AI/PACT-Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Synaptic-Labs-AI/PACT-Plugin?style=flat-square&color=blue)](https://github.com/Synaptic-Labs-AI/PACT-Plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code Agentic Harness
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

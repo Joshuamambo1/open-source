@@ -1,6 +1,6 @@
 # mattermost/mattermost-plugin-starter-template
 
-[![Stars](https://img.shields.io/github/stars/mattermost/mattermost-plugin-starter-template?style=flat-square&color=yellow)](https://github.com/mattermost/mattermost-plugin-starter-template/stargazers) [![Forks](https://img.shields.io/github/forks/mattermost/mattermost-plugin-starter-template?style=flat-square&color=blue)](https://github.com/mattermost/mattermost-plugin-starter-template/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattermost/mattermost-plugin-starter-template?style=flat-square&color=yellow)](https://github.com/mattermost/mattermost-plugin-starter-template/stargazers) [![Forks](https://img.shields.io/github/forks/mattermost/mattermost-plugin-starter-template?style=flat-square&color=blue)](https://github.com/mattermost/mattermost-plugin-starter-template/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Build scripts and templates for writing Mattermost plugins.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # wfxr/csview
 
-[![Stars](https://img.shields.io/github/stars/wfxr/csview?style=flat-square&color=yellow)](https://github.com/wfxr/csview/stargazers) [![Forks](https://img.shields.io/github/forks/wfxr/csview?style=flat-square&color=blue)](https://github.com/wfxr/csview/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wfxr/csview?style=flat-square&color=yellow)](https://github.com/wfxr/csview/stargazers) [![Forks](https://img.shields.io/github/forks/wfxr/csview?style=flat-square&color=blue)](https://github.com/wfxr/csview/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 📠 Pretty and fast csv viewer for cli with cjk/emoji support.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 694 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

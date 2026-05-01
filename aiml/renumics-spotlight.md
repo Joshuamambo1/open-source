@@ -1,6 +1,6 @@
 # Renumics/spotlight
 
-[![Stars](https://img.shields.io/github/stars/Renumics/spotlight?style=flat-square&color=yellow)](https://github.com/Renumics/spotlight/stargazers) [![Forks](https://img.shields.io/github/forks/Renumics/spotlight?style=flat-square&color=blue)](https://github.com/Renumics/spotlight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Renumics/spotlight?style=flat-square&color=yellow)](https://github.com/Renumics/spotlight/stargazers) [![Forks](https://img.shields.io/github/forks/Renumics/spotlight?style=flat-square&color=blue)](https://github.com/Renumics/spotlight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Interactively explore unstructured datasets from your dataframe.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

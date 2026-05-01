@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13390** |
+| 🗂️ **Total projects** | **13434** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,15 +18,15 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5079 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2647 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1297 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1020 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 823 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 794 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 5096 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2657 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1303 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1022 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 825 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 798 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 479 | [Browse →](./crypto/) |
-| 📊 **Data** | 305 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 292 | [Browse →](./devopsinfra/) |
+| 📊 **Data** | 306 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 294 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 165 | [Browse →](./mobile/) |
 | 💳 **Payments** | 143 | [Browse →](./payments/) |
 | 📈 **Trading** | 139 | [Browse →](./trading/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [pion/webrtc](./backend/pion-webrtc.md) | ⭐ 16.3k | Backend |
-| 2 | [gogf/gf](./backend/gogf-gf.md) | ⭐ 13.1k | Backend |
-| 3 | [xournalpp/xournalpp](./misc/xournalpp-xournalpp.md) | ⭐ 14.7k | Misc |
-| 4 | [mikel-brostrom/boxmot](./misc/mikel-brostrom-boxmot.md) | ⭐ 8.1k | Misc |
-| 5 | [kamyu104/LeetCode-Solutions](./data/kamyu104-leetcode-solutions.md) | ⭐ 5.2k | Data |
-| 6 | [sub-store-org/Sub-Store](./payments/sub-store-org-sub-store.md) | ⭐ 9.4k | Payments |
-| 7 | [googleworkspace/cli](./orchestration/googleworkspace-cli.md) | ⭐ 25.6k | Orchestration |
-| 8 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 9 | [labring/FastGPT](./orchestration/labring-fastgpt.md) | ⭐ 27.9k | Orchestration |
-| 10 | [Automattic/wp-calypso](./frontend/automattic-wp-calypso.md) | ⭐ 12.6k | Frontend |
+| 2 | [xournalpp/xournalpp](./misc/xournalpp-xournalpp.md) | ⭐ 14.7k | Misc |
+| 3 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 4 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 5 | [qutebrowser/qutebrowser](./misc/qutebrowser-qutebrowser.md) | ⭐ 11.5k | Misc |
+| 6 | [doocs/leetcode](./misc/doocs-leetcode.md) | ⭐ 36k | Misc |
+| 7 | [Anuken/Mindustry](./mobile/anuken-mindustry.md) | ⭐ 27.4k | Mobile |
+| 8 | [locustio/locust](./aiml/locustio-locust.md) | ⭐ 27.7k | AI/ML |
+| 9 | [OpenBB-finance/OpenBB](./crypto/openbb-finance-openbb.md) | ⭐ 66.8k | Crypto |
+| 10 | [mumble-voip/mumble](./backend/mumble-voip-mumble.md) | ⭐ 8k | Backend |
 
 ## 🚀 How it works
 

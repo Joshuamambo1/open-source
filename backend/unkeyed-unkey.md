@@ -1,6 +1,6 @@
 # unkeyed/unkey
 
-[![Stars](https://img.shields.io/github/stars/unkeyed/unkey?style=flat-square&color=yellow)](https://github.com/unkeyed/unkey/stargazers) [![Forks](https://img.shields.io/github/forks/unkeyed/unkey?style=flat-square&color=blue)](https://github.com/unkeyed/unkey/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unkeyed/unkey?style=flat-square&color=yellow)](https://github.com/unkeyed/unkey/stargazers) [![Forks](https://img.shields.io/github/forks/unkeyed/unkey?style=flat-square&color=blue)](https://github.com/unkeyed/unkey/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
 > The Developer Platform for Modern APIs
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 616 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | Go |
 | 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

@@ -1,6 +1,6 @@
 # jkroepke/openvpn-auth-oauth2
 
-[![Stars](https://img.shields.io/github/stars/jkroepke/openvpn-auth-oauth2?style=flat-square&color=yellow)](https://github.com/jkroepke/openvpn-auth-oauth2/stargazers) [![Forks](https://img.shields.io/github/forks/jkroepke/openvpn-auth-oauth2?style=flat-square&color=blue)](https://github.com/jkroepke/openvpn-auth-oauth2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jkroepke/openvpn-auth-oauth2?style=flat-square&color=yellow)](https://github.com/jkroepke/openvpn-auth-oauth2/stargazers) [![Forks](https://img.shields.io/github/forks/jkroepke/openvpn-auth-oauth2?style=flat-square&color=blue)](https://github.com/jkroepke/openvpn-auth-oauth2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 465 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

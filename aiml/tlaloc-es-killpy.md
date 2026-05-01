@@ -1,6 +1,6 @@
 # Tlaloc-Es/killpy
 
-[![Stars](https://img.shields.io/github/stars/Tlaloc-Es/killpy?style=flat-square&color=yellow)](https://github.com/Tlaloc-Es/killpy/stargazers) [![Forks](https://img.shields.io/github/forks/Tlaloc-Es/killpy?style=flat-square&color=blue)](https://github.com/Tlaloc-Es/killpy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tlaloc-Es/killpy?style=flat-square&color=yellow)](https://github.com/Tlaloc-Es/killpy/stargazers) [![Forks](https://img.shields.io/github/forks/Tlaloc-Es/killpy?style=flat-square&color=blue)](https://github.com/Tlaloc-Es/killpy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🐍 CLI tool to find and delete unused Python virtual environments (.venv, poetry, conda, pipenv, uv). Reclaim disk space effortlessly — supports bulk delete, size reporting, and pycache cleanup.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

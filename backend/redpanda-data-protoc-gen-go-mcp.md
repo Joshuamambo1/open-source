@@ -25,7 +25,7 @@ Backend · Data
 
 ## 📝 Summary
 
-The redpanda-data/protoc-gen-go-mcp project extends the Go protobuf compiler with a custom plugin, enabling users to convert any gRPC service into an MCP (Massively Scalable Cluster Protocol) server. This tool streamlines the transition from gRPC to MCP, easing the adoption of Redpanda's scalable, distributed data platform. By leveraging this plugin, developers can effortlessly deploy their existing gRPC services within a Redpanda cluster.
+The redpanda-data/protoc-gen-go-mcp project is an open-source extension for the Go protobuf compiler. It enables the conversion of any gRPC service into an MCP (Multi-Pipeline Compute) server, offering a flexible and scalable data processing solution. By utilizing this tool, developers can seamlessly integrate gRPC services with MCP environments.
 
 ---
 

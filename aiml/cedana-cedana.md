@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Cedana is an open-source project that provides orchestrated process and container checkpointing capabilities, particularly useful for Artificial Intelligence (AI) and Machine Learning (ML) applications. This technology enables efficient handling of complex workflows, allowing for seamless recovery and resumption of computations from a previously saved state. By leveraging container checkpointing, cedana aims to streamline AI/ML development and deployment processes.
+Cedana is an open-source project that enables orchestrated process and container checkpointing, particularly useful for deep learning and AI/ML applications. It allows users to save and resume complex computations, reducing computational time and resources. This feature is ideal for large-scale machine learning projects, facilitating efficient experimentation and model development.
 
 ---
 

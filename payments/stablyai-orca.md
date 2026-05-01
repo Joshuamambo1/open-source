@@ -1,0 +1,32 @@
+# stablyai/orca
+
+[![Stars](https://img.shields.io/github/stars/stablyai/orca?style=flat-square&color=yellow)](https://github.com/stablyai/orca/stargazers) [![Forks](https://img.shields.io/github/forks/stablyai/orca?style=flat-square&color=blue)](https://github.com/stablyai/orca/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+
+> The next-gen IDE for running a fleet of coding agents in parallel. Works with any agent — bring your own subscription
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.9k |
+| 🍴 **Forks** | 120 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Payments · Orchestration · AI/ML
+
+## 📝 Summary
+
+Orca is an open-source, next-generation Integrated Development Environment (IDE) specifically designed for building and working with coding agents. This innovative tool empowers developers to create and interact with AI-powered coding assistants, revolutionizing the way we approach software development. By leveraging the power of AI and machine learning, Orca streamlines the coding process, enabling faster and more efficient development.
+
+---
+
+<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/stablyai/orca) · [← Back to Payments](./README.md)</sub>

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 763 |
-| 🍴 **Forks** | 50 |
+| 🍴 **Forks** | 49 |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |

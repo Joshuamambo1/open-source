@@ -1,6 +1,6 @@
 # ai-boost/awesome-harness-engineering
 
-[![Stars](https://img.shields.io/github/stars/ai-boost/awesome-harness-engineering?style=flat-square&color=yellow)](https://github.com/ai-boost/awesome-harness-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/ai-boost/awesome-harness-engineering?style=flat-square&color=blue)](https://github.com/ai-boost/awesome-harness-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-boost/awesome-harness-engineering?style=flat-square&color=yellow)](https://github.com/ai-boost/awesome-harness-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/ai-boost/awesome-harness-engineering?style=flat-square&color=blue)](https://github.com/ai-boost/awesome-harness-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 676 |
+| ⭐ **Stars** | 678 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

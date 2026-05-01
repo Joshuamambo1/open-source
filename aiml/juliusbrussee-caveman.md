@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The caveman project is an open-source AI/ML tool that uses a novel approach to reduce token usage by up to 65%. It leverages a unique "caveman" style of coding that simplifies language, making it an efficient and effective solution for developers. This project aims to optimize code with minimal token usage, promoting a more concise and streamlined coding experience.
+The "caveman" project is an open-source AI/ML tool that utilizes a novel approach to reduce token usage by 65%. It achieves this by leveraging "caveman language" - a simplified, primitive syntax that condenses complex code into concise expressions. This innovative technique can streamline code and optimize performance.
 
 ---
 

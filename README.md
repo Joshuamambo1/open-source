@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **12986** |
+| 🗂️ **Total projects** | **13028** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4947 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2549 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1257 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 995 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 788 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 768 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 471 | [Browse →](./crypto/) |
-| 📊 **Data** | 294 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 282 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 4958 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2561 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1261 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 994 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 794 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 772 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 472 | [Browse →](./crypto/) |
+| 📊 **Data** | 296 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 283 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 161 | [Browse →](./mobile/) |
-| 💳 **Payments** | 136 | [Browse →](./payments/) |
+| 💳 **Payments** | 138 | [Browse →](./payments/) |
 | 📈 **Trading** | 134 | [Browse →](./trading/) |
 | 🔐 **Security** | 111 | [Browse →](./security/) |
 | ✨ **Design** | 41 | [Browse →](./design/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [apache/ignite](./backend/apache-ignite.md) | ⭐ 5.1k | Backend |
-| 2 | [JuliusBrussee/caveman](./aiml/juliusbrussee-caveman.md) | ⭐ 51.3k | AI/ML |
-| 3 | [ceph/ceph](./crypto/ceph-ceph.md) | ⭐ 16.5k | Crypto |
-| 4 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
-| 5 | [zitadel/zitadel](./aiml/zitadel-zitadel.md) | ⭐ 13.7k | AI/ML |
-| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 7 | [mudler/LocalAI](./aiml/mudler-localai.md) | ⭐ 45.9k | AI/ML |
-| 8 | [jackocnr/intl-tel-input](./aiml/jackocnr-intl-tel-input.md) | ⭐ 8.2k | AI/ML |
-| 9 | [Snailclimb/JavaGuide](./aiml/snailclimb-javaguide.md) | ⭐ 155.4k | AI/ML |
-| 10 | [activepieces/activepieces](./aiml/activepieces-activepieces.md) | ⭐ 22k | AI/ML |
+| 2 | [dotnet/efcore](./data/dotnet-efcore.md) | ⭐ 14.6k | Data |
+| 3 | [JuliusBrussee/caveman](./aiml/juliusbrussee-caveman.md) | ⭐ 51.3k | AI/ML |
+| 4 | [ceph/ceph](./crypto/ceph-ceph.md) | ⭐ 16.5k | Crypto |
+| 5 | [openshift/origin](./aiml/openshift-origin.md) | ⭐ 8.6k | AI/ML |
+| 6 | [birobirobiro/awesome-shadcn-ui](./frontend/birobirobiro-awesome-shadcn-ui.md) | ⭐ 19.4k | Frontend |
+| 7 | [langchain-ai/langchain](./orchestration/langchain-ai-langchain.md) | ⭐ 135.5k | Orchestration |
+| 8 | [janhq/jan](./aiml/janhq-jan.md) | ⭐ 42.3k | AI/ML |
+| 9 | [CoplayDev/unity-mcp](./aiml/coplaydev-unity-mcp.md) | ⭐ 9.1k | AI/ML |
+| 10 | [PowerShell/PowerShell](./misc/powershell-powershell.md) | ⭐ 53.2k | Misc |
 
 ## 🚀 How it works
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Pretend-to/mio-chat-backend-zuzongyui-selfowned?style=flat-square&color=yellow)](https://github.com/Pretend-to/mio-chat-backend-zuzongyui-selfowned/stargazers) [![Forks](https://img.shields.io/github/forks/Pretend-to/mio-chat-backend-zuzongyui-selfowned?style=flat-square&color=blue)](https://github.com/Pretend-to/mio-chat-backend-zuzongyui-selfowned/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> 🖤 王瀚熙被祖宗Yui没收 🖤 婊子妈:18833722218 河北科技大学
+> 666
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend
 
 ## 📝 Summary
 

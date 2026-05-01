@@ -25,9 +25,9 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the Wholiver/swiftui-design-skill project:
 
-The SwiftUI Design Skill is an open-source project that provides a comprehensive framework for designing SwiftUI interfaces. It adheres to the six iron laws of AI Slop, offers design direction guidance, and includes a brand asset protocol and five-dimensional review. The project supports various AI agent platforms, including Claude, Code, Cursor, Codex, and OpenCode, making it a versatile tool for mobile and frontend development.
+This open-source project is a comprehensive SwiftUI design skill repository that integrates with various AI agent platforms, including Claude Code, Cursor, Codex, and OpenCode. It adheres to the "Six Laws of AI Slop" and provides design direction guidance, brand asset protocols, and five-dimensional evaluation tools. By leveraging AI technology, this project empowers developers to elevate their frontend and mobile design capabilities.
 
 ---
 

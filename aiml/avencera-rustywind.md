@@ -1,6 +1,6 @@
 # avencera/rustywind
 
-[![Stars](https://img.shields.io/github/stars/avencera/rustywind?style=flat-square&color=yellow)](https://github.com/avencera/rustywind/stargazers) [![Forks](https://img.shields.io/github/forks/avencera/rustywind?style=flat-square&color=blue)](https://github.com/avencera/rustywind/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avencera/rustywind?style=flat-square&color=yellow)](https://github.com/avencera/rustywind/stargazers) [![Forks](https://img.shields.io/github/forks/avencera/rustywind?style=flat-square&color=blue)](https://github.com/avencera/rustywind/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > CLI for organizing Tailwind CSS classes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 612 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

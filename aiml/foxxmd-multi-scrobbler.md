@@ -25,7 +25,9 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The multi-scrobbler project is an open-source tool that enables scrobbling of plays from multiple music sources to various clients simultaneously. This project is designed to simplify music tracking and discovery by aggregating plays from diverse platforms, including online streaming services, podcast libraries, and more. By streamlining music scrobbling, multi-scrobbler enhances the user experience and provides a centralized interface for music enthusiasts.
+Here's a brief summary of the FoxxMD/multi-scrobbler project:
+
+The FoxxMD/multi-scrobbler is an open-source project that enables users to scrobble music plays from multiple sources (such as Spotify, Apple Music, or local files) to multiple clients (like Last.fm, Libre.fm, or personal dashboards). This tool leverages AI/ML capabilities to intelligently manage and aggregate scrobbling data, making it a powerful DevOps/Infra tool for developers and music enthusiasts alike. By harnessing the power of multi-scrobbler, users can maintain a unified music listening history across various platforms.
 
 ---
 

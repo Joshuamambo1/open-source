@@ -25,7 +25,7 @@ Crypto · Trading · Backend
 
 ## 📝 Summary
 
-Profitmaker is an open-source trading platform designed for cryptocurrency traders, offering support for over 100 exchanges. This customizable and extendable platform provides traders with a comprehensive solution to manage their crypto portfolios and stay on top of market trends. By leveraging its backend capabilities, users can tailor the platform to their specific trading needs and strategies.
+The profitmaker is an open-source, highly customizable trading platform designed to support over 100 cryptocurrency exchanges. This extendable platform provides users with a comprehensive trading solution that can be tailored to their specific needs. By leveraging its robust backend architecture, traders can efficiently manage their portfolios and make data-driven decisions across multiple exchanges.
 
 ---
 

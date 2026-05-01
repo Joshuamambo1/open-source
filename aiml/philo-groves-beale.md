@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Beale is an open-source, AI-powered decoding agent that specializes in extracting and interpreting information from inputs. As a non-coding tool, Beale focuses on deciphering and making sense of complex data, rather than generating new code. With its AI capabilities, Beale aims to streamline the process of decoding and understanding input data.
+Beale is an open-source AI/ML project that functions as a decoding agent, rather than a coding agent. It leverages advanced technologies to decipher and extract meaningful information from complex data sources. By focusing on decoding, Beale aims to provide a unique solution for individuals and organizations seeking to uncover insights and patterns hidden within their data.
 
 ---
 

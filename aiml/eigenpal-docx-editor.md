@@ -1,6 +1,6 @@
 # eigenpal/docx-editor
 
-[![Stars](https://img.shields.io/github/stars/eigenpal/docx-editor?style=flat-square&color=yellow)](https://github.com/eigenpal/docx-editor/stargazers) [![Forks](https://img.shields.io/github/forks/eigenpal/docx-editor?style=flat-square&color=blue)](https://github.com/eigenpal/docx-editor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eigenpal/docx-editor?style=flat-square&color=yellow)](https://github.com/eigenpal/docx-editor/stargazers) [![Forks](https://img.shields.io/github/forks/eigenpal/docx-editor?style=flat-square&color=blue)](https://github.com/eigenpal/docx-editor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source WYSIWYG .docx editor for React with canonical OOXML, tracked changes, and real-time collaboration.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 631 |
-| 🍴 **Forks** | 71 |
+| ⭐ **Stars** | 632 |
+| 🍴 **Forks** | 72 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

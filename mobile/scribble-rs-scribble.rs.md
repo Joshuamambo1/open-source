@@ -1,6 +1,6 @@
 # scribble-rs/scribble.rs
 
-[![Stars](https://img.shields.io/github/stars/scribble-rs/scribble.rs?style=flat-square&color=yellow)](https://github.com/scribble-rs/scribble.rs/stargazers) [![Forks](https://img.shields.io/github/forks/scribble-rs/scribble.rs?style=flat-square&color=blue)](https://github.com/scribble-rs/scribble.rs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scribble-rs/scribble.rs?style=flat-square&color=yellow)](https://github.com/scribble-rs/scribble.rs/stargazers) [![Forks](https://img.shields.io/github/forks/scribble-rs/scribble.rs?style=flat-square&color=blue)](https://github.com/scribble-rs/scribble.rs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The free and privacy respecting pictionary game - Play at https://scribblers.bios-marcel.link
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 632 |
 | 🍴 **Forks** | 208 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

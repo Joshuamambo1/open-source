@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The boyter/scc project is an open-source code counter written in Go that offers fast and accurate measurements of code complexity and size. It provides functionality for calculating software metrics such as lines of code, complexity, and COCOMO estimates, making it a valuable tool for developers and project managers. SCC is designed to be efficient, reliable, and easy to integrate into existing workflows.
+The boyter/scc project is an open-source code analysis tool written in Go, offering fast and accurate code counting, complexity calculations, and COCOMO estimates. It leverages the Sloc, Cloc, and Code (scc) algorithm to provide a comprehensive view of code metrics, making it a valuable asset for developers and project managers. This tool enables users to quickly assess and analyze codebases, facilitating better project planning and maintenance.
 
 ---
 

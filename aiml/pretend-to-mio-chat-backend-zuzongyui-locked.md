@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Pretend-to/mio-chat-backend-zuzongyui-locked?style=flat-square&color=yellow)](https://github.com/Pretend-to/mio-chat-backend-zuzongyui-locked/stargazers) [![Forks](https://img.shields.io/github/forks/Pretend-to/mio-chat-backend-zuzongyui-locked?style=flat-square&color=blue)](https://github.com/Pretend-to/mio-chat-backend-zuzongyui-locked/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> 🖤 贱狗王瀚熙已被祖宗Yui没收此仓库 - 跪求上贡
+> 666
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend
 
 ## 📝 Summary
 

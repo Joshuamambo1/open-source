@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Vectarine is an open-source, cross-platform game engine that prioritizes fast prototyping and creative play with the Luau scripting language. This free engine offers developers a flexible and accessible way to build games, emphasizing enjoyment and experimentation over complex development processes. By leveraging Luau scripting, Vectarine enables users to bring their ideas to life quickly and efficiently.
+Vectarine is a free, open-source game engine that allows for fast prototyping and development on multiple platforms. Built with a focus on ease of use and fun, it utilizes the Luau scripting language, making it an ideal choice for game developers looking to quickly bring their ideas to life. With Vectarine, users can easily create and iterate on game projects without the complexity often associated with traditional game engines.
 
 ---
 

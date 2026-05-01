@@ -1,6 +1,6 @@
 # poolsideai/pool
 
-[![Stars](https://img.shields.io/github/stars/poolsideai/pool?style=flat-square&color=yellow)](https://github.com/poolsideai/pool/stargazers) [![Forks](https://img.shields.io/github/forks/poolsideai/pool?style=flat-square&color=blue)](https://github.com/poolsideai/pool/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/poolsideai/pool?style=flat-square&color=yellow)](https://github.com/poolsideai/pool/stargazers) [![Forks](https://img.shields.io/github/forks/poolsideai/pool?style=flat-square&color=blue)](https://github.com/poolsideai/pool/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > pool is Poolside’s coding agent that runs in your terminal or integrates with any ACP-compatible editor
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 128 |
+| ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 

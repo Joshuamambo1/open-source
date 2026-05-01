@@ -1,6 +1,6 @@
 # redhat-developer/gitops-operator
 
-[![Stars](https://img.shields.io/github/stars/redhat-developer/gitops-operator?style=flat-square&color=yellow)](https://github.com/redhat-developer/gitops-operator/stargazers) [![Forks](https://img.shields.io/github/forks/redhat-developer/gitops-operator?style=flat-square&color=blue)](https://github.com/redhat-developer/gitops-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redhat-developer/gitops-operator?style=flat-square&color=yellow)](https://github.com/redhat-developer/gitops-operator/stargazers) [![Forks](https://img.shields.io/github/forks/redhat-developer/gitops-operator?style=flat-square&color=blue)](https://github.com/redhat-developer/gitops-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > An operator that gets you an ArgoCD for cluster configuration out-of-the-box on OpenShift along with the UI for visualizing environments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 351 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

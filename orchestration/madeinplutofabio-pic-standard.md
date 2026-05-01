@@ -1,6 +1,6 @@
 # madeinplutofabio/pic-standard
 
-[![Stars](https://img.shields.io/github/stars/madeinplutofabio/pic-standard?style=flat-square&color=yellow)](https://github.com/madeinplutofabio/pic-standard/stargazers) [![Forks](https://img.shields.io/github/forks/madeinplutofabio/pic-standard?style=flat-square&color=blue)](https://github.com/madeinplutofabio/pic-standard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/madeinplutofabio/pic-standard?style=flat-square&color=yellow)](https://github.com/madeinplutofabio/pic-standard/stargazers) [![Forks](https://img.shields.io/github/forks/madeinplutofabio/pic-standard?style=flat-square&color=blue)](https://github.com/madeinplutofabio/pic-standard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Open standard for Provenance & Intent Contracts (PIC) in AI agents. Verify intent, provenance, and evidence before high-impact tool calls.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

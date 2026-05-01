@@ -1,6 +1,6 @@
 # sveltia/sveltia-cms
 
-[![Stars](https://img.shields.io/github/stars/sveltia/sveltia-cms?style=flat-square&color=yellow)](https://github.com/sveltia/sveltia-cms/stargazers) [![Forks](https://img.shields.io/github/forks/sveltia/sveltia-cms?style=flat-square&color=blue)](https://github.com/sveltia/sveltia-cms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sveltia/sveltia-cms?style=flat-square&color=yellow)](https://github.com/sveltia/sveltia-cms/stargazers) [![Forks](https://img.shields.io/github/forks/sveltia/sveltia-cms?style=flat-square&color=blue)](https://github.com/sveltia/sveltia-cms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 140 |
+| 🍴 **Forks** | 141 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

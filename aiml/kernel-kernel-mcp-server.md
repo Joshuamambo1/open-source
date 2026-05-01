@@ -1,6 +1,6 @@
 # kernel/kernel-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/kernel/kernel-mcp-server?style=flat-square&color=yellow)](https://github.com/kernel/kernel-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/kernel/kernel-mcp-server?style=flat-square&color=blue)](https://github.com/kernel/kernel-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kernel/kernel-mcp-server?style=flat-square&color=yellow)](https://github.com/kernel/kernel-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/kernel/kernel-mcp-server?style=flat-square&color=blue)](https://github.com/kernel/kernel-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source MCP server for secure, low-latency cloud-browser automation on Kernel.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

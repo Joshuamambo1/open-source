@@ -1,6 +1,6 @@
 # jxoesneon/mempalace-rs
 
-[![Stars](https://img.shields.io/github/stars/jxoesneon/mempalace-rs?style=flat-square&color=yellow)](https://github.com/jxoesneon/mempalace-rs/stargazers) [![Forks](https://img.shields.io/github/forks/jxoesneon/mempalace-rs?style=flat-square&color=blue)](https://github.com/jxoesneon/mempalace-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jxoesneon/mempalace-rs?style=flat-square&color=yellow)](https://github.com/jxoesneon/mempalace-rs/stargazers) [![Forks](https://img.shields.io/github/forks/jxoesneon/mempalace-rs?style=flat-square&color=blue)](https://github.com/jxoesneon/mempalace-rs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance, local, offline-first AI memory system built in Rust
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 8 |
-| 💻 **Language** | Rust |
+| 💻 **Language** | HTML |
 | 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

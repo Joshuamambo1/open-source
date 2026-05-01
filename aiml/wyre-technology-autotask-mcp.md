@@ -1,6 +1,6 @@
 # wyre-technology/autotask-mcp
 
-[![Stars](https://img.shields.io/github/stars/wyre-technology/autotask-mcp?style=flat-square&color=yellow)](https://github.com/wyre-technology/autotask-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/wyre-technology/autotask-mcp?style=flat-square&color=blue)](https://github.com/wyre-technology/autotask-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wyre-technology/autotask-mcp?style=flat-square&color=yellow)](https://github.com/wyre-technology/autotask-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/wyre-technology/autotask-mcp?style=flat-square&color=blue)](https://github.com/wyre-technology/autotask-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Kaseya Autotask PSA — 39 tools for companies, tickets, projects, time entries, and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

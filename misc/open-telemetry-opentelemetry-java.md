@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-java
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-java?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-java/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-java?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-java?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-java/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-java?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > OpenTelemetry Java SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 967 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

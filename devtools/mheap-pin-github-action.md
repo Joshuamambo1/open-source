@@ -1,6 +1,6 @@
 # mheap/pin-github-action
 
-[![Stars](https://img.shields.io/github/stars/mheap/pin-github-action?style=flat-square&color=yellow)](https://github.com/mheap/pin-github-action/stargazers) [![Forks](https://img.shields.io/github/forks/mheap/pin-github-action?style=flat-square&color=blue)](https://github.com/mheap/pin-github-action/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mheap/pin-github-action?style=flat-square&color=yellow)](https://github.com/mheap/pin-github-action/stargazers) [![Forks](https://img.shields.io/github/forks/mheap/pin-github-action?style=flat-square&color=blue)](https://github.com/mheap/pin-github-action/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Pin your GitHub actions to a specific hash
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

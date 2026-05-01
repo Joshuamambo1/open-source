@@ -1,6 +1,6 @@
 # kube-rbac-proxy/kube-rbac-proxy
 
-[![Stars](https://img.shields.io/github/stars/kube-rbac-proxy/kube-rbac-proxy?style=flat-square&color=yellow)](https://github.com/kube-rbac-proxy/kube-rbac-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/kube-rbac-proxy/kube-rbac-proxy?style=flat-square&color=blue)](https://github.com/kube-rbac-proxy/kube-rbac-proxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kube-rbac-proxy/kube-rbac-proxy?style=flat-square&color=yellow)](https://github.com/kube-rbac-proxy/kube-rbac-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/kube-rbac-proxy/kube-rbac-proxy?style=flat-square&color=blue)](https://github.com/kube-rbac-proxy/kube-rbac-proxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 672 |
+| ⭐ **Stars** | 673 |
 | 🍴 **Forks** | 266 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

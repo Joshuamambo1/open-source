@@ -1,6 +1,6 @@
 # azat-io/actions-up
 
-[![Stars](https://img.shields.io/github/stars/azat-io/actions-up?style=flat-square&color=yellow)](https://github.com/azat-io/actions-up/stargazers) [![Forks](https://img.shields.io/github/forks/azat-io/actions-up?style=flat-square&color=blue)](https://github.com/azat-io/actions-up/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/azat-io/actions-up?style=flat-square&color=yellow)](https://github.com/azat-io/actions-up/stargazers) [![Forks](https://img.shields.io/github/forks/azat-io/actions-up?style=flat-square&color=blue)](https://github.com/azat-io/actions-up/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 520 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

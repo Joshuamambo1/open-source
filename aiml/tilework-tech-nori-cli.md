@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/tilework-tech/nori-cli?style=flat-square&color=yellow)](https://github.com/tilework-tech/nori-cli/stargazers) [![Forks](https://img.shields.io/github/forks/tilework-tech/nori-cli?style=flat-square&color=blue)](https://github.com/tilework-tech/nori-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> A CLI built for agentic development
+> A simple CLI for working with any agent
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 

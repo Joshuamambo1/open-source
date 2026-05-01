@@ -1,6 +1,6 @@
 # oracle/skills
 
-[![Stars](https://img.shields.io/github/stars/oracle/skills?style=flat-square&color=yellow)](https://github.com/oracle/skills/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/skills?style=flat-square&color=blue)](https://github.com/oracle/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oracle/skills?style=flat-square&color=yellow)](https://github.com/oracle/skills/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/skills?style=flat-square&color=blue)](https://github.com/oracle/skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 422 |
+| ⭐ **Stars** | 423 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

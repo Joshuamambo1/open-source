@@ -1,6 +1,6 @@
 # worldwonderer/oh-story-claudecode
 
-[![Stars](https://img.shields.io/github/stars/worldwonderer/oh-story-claudecode?style=flat-square&color=yellow)](https://github.com/worldwonderer/oh-story-claudecode/stargazers) [![Forks](https://img.shields.io/github/forks/worldwonderer/oh-story-claudecode?style=flat-square&color=blue)](https://github.com/worldwonderer/oh-story-claudecode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/worldwonderer/oh-story-claudecode?style=flat-square&color=yellow)](https://github.com/worldwonderer/oh-story-claudecode/stargazers) [![Forks](https://img.shields.io/github/forks/worldwonderer/oh-story-claudecode?style=flat-square&color=blue)](https://github.com/worldwonderer/oh-story-claudecode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 663 |
-| 🍴 **Forks** | 182 |
+| ⭐ **Stars** | 678 |
+| 🍴 **Forks** | 189 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

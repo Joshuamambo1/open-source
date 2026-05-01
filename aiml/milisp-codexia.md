@@ -1,6 +1,6 @@
 # milisp/codexia
 
-[![Stars](https://img.shields.io/github/stars/milisp/codexia?style=flat-square&color=yellow)](https://github.com/milisp/codexia/stargazers) [![Forks](https://img.shields.io/github/forks/milisp/codexia?style=flat-square&color=blue)](https://github.com/milisp/codexia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/milisp/codexia?style=flat-square&color=yellow)](https://github.com/milisp/codexia/stargazers) [![Forks](https://img.shields.io/github/forks/milisp/codexia?style=flat-square&color=blue)](https://github.com/milisp/codexia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Workstation for Codex CLI + Claude Code — with task scheduler, git worktree & remote control, skills management
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 652 |
+| ⭐ **Stars** | 654 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

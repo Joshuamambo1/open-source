@@ -1,6 +1,6 @@
 # google/adk-js
 
-[![Stars](https://img.shields.io/github/stars/google/adk-js?style=flat-square&color=yellow)](https://github.com/google/adk-js/stargazers) [![Forks](https://img.shields.io/github/forks/google/adk-js?style=flat-square&color=blue)](https://github.com/google/adk-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/adk-js?style=flat-square&color=yellow)](https://github.com/google/adk-js/stargazers) [![Forks](https://img.shields.io/github/forks/google/adk-js?style=flat-square&color=blue)](https://github.com/google/adk-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

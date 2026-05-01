@@ -1,6 +1,6 @@
 # grinev/opencode-telegram-bot
 
-[![Stars](https://img.shields.io/github/stars/grinev/opencode-telegram-bot?style=flat-square&color=yellow)](https://github.com/grinev/opencode-telegram-bot/stargazers) [![Forks](https://img.shields.io/github/forks/grinev/opencode-telegram-bot?style=flat-square&color=blue)](https://github.com/grinev/opencode-telegram-bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grinev/opencode-telegram-bot?style=flat-square&color=yellow)](https://github.com/grinev/opencode-telegram-bot/stargazers) [![Forks](https://img.shields.io/github/forks/grinev/opencode-telegram-bot?style=flat-square&color=blue)](https://github.com/grinev/opencode-telegram-bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support. Can be used as lightweight OpenClaw alternative.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 569 |
-| 🍴 **Forks** | 100 |
+| ⭐ **Stars** | 571 |
+| 🍴 **Forks** | 102 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

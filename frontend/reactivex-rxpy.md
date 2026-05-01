@@ -1,6 +1,6 @@
 # ReactiveX/RxPY
 
-[![Stars](https://img.shields.io/github/stars/ReactiveX/RxPY?style=flat-square&color=yellow)](https://github.com/ReactiveX/RxPY/stargazers) [![Forks](https://img.shields.io/github/forks/ReactiveX/RxPY?style=flat-square&color=blue)](https://github.com/ReactiveX/RxPY/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ReactiveX/RxPY?style=flat-square&color=yellow)](https://github.com/ReactiveX/RxPY/stargazers) [![Forks](https://img.shields.io/github/forks/ReactiveX/RxPY?style=flat-square&color=blue)](https://github.com/ReactiveX/RxPY/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > ReactiveX for Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 367 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

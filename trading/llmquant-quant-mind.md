@@ -1,6 +1,6 @@
 # LLMQuant/quant-mind
 
-[![Stars](https://img.shields.io/github/stars/LLMQuant/quant-mind?style=flat-square&color=yellow)](https://github.com/LLMQuant/quant-mind/stargazers) [![Forks](https://img.shields.io/github/forks/LLMQuant/quant-mind?style=flat-square&color=blue)](https://github.com/LLMQuant/quant-mind/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LLMQuant/quant-mind?style=flat-square&color=yellow)](https://github.com/LLMQuant/quant-mind/stargazers) [![Forks](https://img.shields.io/github/forks/LLMQuant/quant-mind?style=flat-square&color=blue)](https://github.com/LLMQuant/quant-mind/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

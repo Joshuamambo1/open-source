@@ -1,6 +1,6 @@
 # stac-utils/rustac
 
-[![Stars](https://img.shields.io/github/stars/stac-utils/rustac?style=flat-square&color=yellow)](https://github.com/stac-utils/rustac/stargazers) [![Forks](https://img.shields.io/github/forks/stac-utils/rustac?style=flat-square&color=blue)](https://github.com/stac-utils/rustac/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stac-utils/rustac?style=flat-square&color=yellow)](https://github.com/stac-utils/rustac/stargazers) [![Forks](https://img.shields.io/github/forks/stac-utils/rustac?style=flat-square&color=blue)](https://github.com/stac-utils/rustac/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The power of Rust for the STAC ecosystem
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

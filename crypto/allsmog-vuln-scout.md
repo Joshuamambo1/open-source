@@ -1,6 +1,6 @@
 # allsmog/vuln-scout
 
-[![Stars](https://img.shields.io/github/stars/allsmog/vuln-scout?style=flat-square&color=yellow)](https://github.com/allsmog/vuln-scout/stargazers) [![Forks](https://img.shields.io/github/forks/allsmog/vuln-scout?style=flat-square&color=blue)](https://github.com/allsmog/vuln-scout/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/allsmog/vuln-scout?style=flat-square&color=yellow)](https://github.com/allsmog/vuln-scout/stargazers) [![Forks](https://img.shields.io/github/forks/allsmog/vuln-scout?style=flat-square&color=blue)](https://github.com/allsmog/vuln-scout/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered whitebox penetration testing plugin for Claude Code. 9 languages, 22 skills, 7 autonomous agents. STRIDE threat modeling, OWASP 2025 coverage, polyglot monorepo support.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

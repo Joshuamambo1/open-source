@@ -1,6 +1,6 @@
 # talkvalue/Buddi
 
-[![Stars](https://img.shields.io/github/stars/talkvalue/Buddi?style=flat-square&color=yellow)](https://github.com/talkvalue/Buddi/stargazers) [![Forks](https://img.shields.io/github/forks/talkvalue/Buddi?style=flat-square&color=blue)](https://github.com/talkvalue/Buddi/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/talkvalue/Buddi?style=flat-square&color=yellow)](https://github.com/talkvalue/Buddi/stargazers) [![Forks](https://img.shields.io/github/forks/talkvalue/Buddi?style=flat-square&color=blue)](https://github.com/talkvalue/Buddi/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A macOS notch companion for Claude Code — your buddy lives here now.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 70 |
+| ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

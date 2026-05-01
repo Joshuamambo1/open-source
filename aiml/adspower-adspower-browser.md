@@ -1,6 +1,6 @@
 # AdsPower/adspower-browser
 
-[![Stars](https://img.shields.io/github/stars/AdsPower/adspower-browser?style=flat-square&color=yellow)](https://github.com/AdsPower/adspower-browser/stargazers) [![Forks](https://img.shields.io/github/forks/AdsPower/adspower-browser?style=flat-square&color=blue)](https://github.com/AdsPower/adspower-browser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AdsPower/adspower-browser?style=flat-square&color=yellow)](https://github.com/AdsPower/adspower-browser/stargazers) [![Forks](https://img.shields.io/github/forks/AdsPower/adspower-browser?style=flat-square&color=blue)](https://github.com/AdsPower/adspower-browser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for using the AdsPower LocalAPI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

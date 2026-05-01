@@ -1,6 +1,6 @@
 # MalpenZibo/ashell
 
-[![Stars](https://img.shields.io/github/stars/MalpenZibo/ashell?style=flat-square&color=yellow)](https://github.com/MalpenZibo/ashell/stargazers) [![Forks](https://img.shields.io/github/forks/MalpenZibo/ashell?style=flat-square&color=blue)](https://github.com/MalpenZibo/ashell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MalpenZibo/ashell?style=flat-square&color=yellow)](https://github.com/MalpenZibo/ashell/stargazers) [![Forks](https://img.shields.io/github/forks/MalpenZibo/ashell?style=flat-square&color=blue)](https://github.com/MalpenZibo/ashell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A ready to go Wayland status bar for Hyprland and Niri
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 898 |
-| 🍴 **Forks** | 97 |
+| 🍴 **Forks** | 98 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

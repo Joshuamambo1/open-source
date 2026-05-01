@@ -1,6 +1,6 @@
 # codebucks27/Deep-Research-AI-Agent
 
-[![Stars](https://img.shields.io/github/stars/codebucks27/Deep-Research-AI-Agent?style=flat-square&color=yellow)](https://github.com/codebucks27/Deep-Research-AI-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/codebucks27/Deep-Research-AI-Agent?style=flat-square&color=blue)](https://github.com/codebucks27/Deep-Research-AI-Agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codebucks27/Deep-Research-AI-Agent?style=flat-square&color=yellow)](https://github.com/codebucks27/Deep-Research-AI-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/codebucks27/Deep-Research-AI-Agent?style=flat-square&color=blue)](https://github.com/codebucks27/Deep-Research-AI-Agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Build a powerful Deep Research AI agent like Gemini or ChatGPT. Using Next.js, Vercel AI SDK, and Exa Search API, An intelligent system that generates follow-up questions, crafts optimal search queries, and compiles comprehensive research reports.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

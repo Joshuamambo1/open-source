@@ -1,6 +1,6 @@
 # wadecalvin9/ByteCode
 
-[![Stars](https://img.shields.io/github/stars/wadecalvin9/ByteCode?style=flat-square&color=yellow)](https://github.com/wadecalvin9/ByteCode/stargazers) [![Forks](https://img.shields.io/github/forks/wadecalvin9/ByteCode?style=flat-square&color=blue)](https://github.com/wadecalvin9/ByteCode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wadecalvin9/ByteCode?style=flat-square&color=yellow)](https://github.com/wadecalvin9/ByteCode/stargazers) [![Forks](https://img.shields.io/github/forks/wadecalvin9/ByteCode?style=flat-square&color=blue)](https://github.com/wadecalvin9/ByteCode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > ByteCode is a modern C2 that prioritizes operational security and evasion effectiveness. Built from the ground up with a React-based management console, Node.js orchestration engine, and cross-platform Go agents with advanced Windows evasion primitives.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

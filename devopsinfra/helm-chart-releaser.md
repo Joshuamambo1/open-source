@@ -1,6 +1,6 @@
 # helm/chart-releaser
 
-[![Stars](https://img.shields.io/github/stars/helm/chart-releaser?style=flat-square&color=yellow)](https://github.com/helm/chart-releaser/stargazers) [![Forks](https://img.shields.io/github/forks/helm/chart-releaser?style=flat-square&color=blue)](https://github.com/helm/chart-releaser/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/helm/chart-releaser?style=flat-square&color=yellow)](https://github.com/helm/chart-releaser/stargazers) [![Forks](https://img.shields.io/github/forks/helm/chart-releaser?style=flat-square&color=blue)](https://github.com/helm/chart-releaser/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Hosting Helm Charts via GitHub Pages and Releases
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 783 |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

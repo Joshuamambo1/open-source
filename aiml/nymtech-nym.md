@@ -1,6 +1,6 @@
 # nymtech/nym
 
-[![Stars](https://img.shields.io/github/stars/nymtech/nym?style=flat-square&color=yellow)](https://github.com/nymtech/nym/stargazers) [![Forks](https://img.shields.io/github/forks/nymtech/nym?style=flat-square&color=blue)](https://github.com/nymtech/nym/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nymtech/nym?style=flat-square&color=yellow)](https://github.com/nymtech/nym/stargazers) [![Forks](https://img.shields.io/github/forks/nymtech/nym?style=flat-square&color=blue)](https://github.com/nymtech/nym/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 266 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here is a brief summary of the project in English:
+Here's a brief summary for the open-source project:
 
-This open-source project, rank-analysis, is a League of Legends (LOL) Tencent server match history query assistant built with Tauri 2 and Rust. It features an innovative tagging mechanism for quick analysis of teammates, including "混子" (awkward player) and "牛马" (strong player) identification. The project aims to provide an efficient tool for LOL players to evaluate their team's performance.
+This project, "rank-analysis", is a League of Legends (LOL) Tencent server performance query assistant built with Tauri 2 and Rust. It features an innovative tagging system, allowing users to quickly analyze their "mixed" and "strong" teammates with a single click. This tool aims to help LOL players improve their teamwork and strategy.
 
 ---
 

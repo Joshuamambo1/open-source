@@ -1,6 +1,6 @@
 # srclight/srclight
 
-[![Stars](https://img.shields.io/github/stars/srclight/srclight?style=flat-square&color=yellow)](https://github.com/srclight/srclight/stargazers) [![Forks](https://img.shields.io/github/forks/srclight/srclight?style=flat-square&color=blue)](https://github.com/srclight/srclight/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/srclight/srclight?style=flat-square&color=yellow)](https://github.com/srclight/srclight/stargazers) [![Forks](https://img.shields.io/github/forks/srclight/srclight?style=flat-square&color=blue)](https://github.com/srclight/srclight/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Deep code indexing MCP server for AI agents. 25 tools: hybrid FTS5 + embedding search, call graphs, git blame/hotspots, build system analysis. Multi-repo workspaces, GPU-accelerated semantic search, 10 languages via tree-sitter. Fully local, zero cloud dependencies.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 32 |
+| ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

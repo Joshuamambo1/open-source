@@ -25,7 +25,9 @@ AI/ML · Security
 
 ## 📝 Summary
 
-This open-source project is an example website that showcases email address and password authentication, providing a basic framework for understanding user authentication mechanisms. By leveraging this codebase, developers can gain insight into security best practices and implement robust authentication systems in their own projects. The project serves as a valuable resource for those interested in AI/ML and security.
+Here's a brief summary for the open-source project:
+
+This open-source project is an example website that demonstrates email address and password authentication, providing a basic framework for developers to learn from and build upon. By utilizing this codebase, users can gain hands-on experience with implementing secure authentication mechanisms, a fundamental aspect of web development. The project serves as a valuable resource for those interested in AI/ML and security.
 
 ---
 

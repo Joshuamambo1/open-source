@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-ValyrianEngine is an open-source, high-performance 2D game engine developed in C++17. It is designed to provide a robust and efficient framework for creating 2D games, offering features such as graphics rendering and game logic management. This C++17 game engine is a promising tool for developers looking to create fast-paced and visually appealing 2D games.
+ValyrianEngine is an open-source, high-performance 2D game engine written in C++17. This game engine aims to provide a flexible and efficient platform for building 2D games, with features such as optimized rendering and smooth gameplay. By leveraging the power of C++17, ValyrianEngine offers a robust and scalable solution for developers looking to create engaging 2D gaming experiences.
 
 ---
 

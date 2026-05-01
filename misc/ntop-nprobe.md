@@ -1,6 +1,6 @@
 # ntop/nProbe
 
-[![Stars](https://img.shields.io/github/stars/ntop/nProbe?style=flat-square&color=yellow)](https://github.com/ntop/nProbe/stargazers) [![Forks](https://img.shields.io/github/forks/ntop/nProbe?style=flat-square&color=blue)](https://github.com/ntop/nProbe/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ntop/nProbe?style=flat-square&color=yellow)](https://github.com/ntop/nProbe/stargazers) [![Forks](https://img.shields.io/github/forks/ntop/nProbe?style=flat-square&color=blue)](https://github.com/ntop/nProbe/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Open source components and extensions for nProbe
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

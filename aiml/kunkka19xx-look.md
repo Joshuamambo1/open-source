@@ -1,6 +1,6 @@
 # kunkka19xx/look
 
-[![Stars](https://img.shields.io/github/stars/kunkka19xx/look?style=flat-square&color=yellow)](https://github.com/kunkka19xx/look/stargazers) [![Forks](https://img.shields.io/github/forks/kunkka19xx/look?style=flat-square&color=blue)](https://github.com/kunkka19xx/look/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kunkka19xx/look?style=flat-square&color=yellow)](https://github.com/kunkka19xx/look/stargazers) [![Forks](https://img.shields.io/github/forks/kunkka19xx/look?style=flat-square&color=blue)](https://github.com/kunkka19xx/look/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source, community-driven launcher for macOS. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 98 |
+| ⭐ **Stars** | 99 |
 | 🍴 **Forks** | 11 |
-| 💻 **Language** | C# |
+| 💻 **Language** | Swift |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

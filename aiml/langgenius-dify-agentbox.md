@@ -1,6 +1,6 @@
 # langgenius/dify-agentbox
 
-[![Stars](https://img.shields.io/github/stars/langgenius/dify-agentbox?style=flat-square&color=yellow)](https://github.com/langgenius/dify-agentbox/stargazers) [![Forks](https://img.shields.io/github/forks/langgenius/dify-agentbox?style=flat-square&color=blue)](https://github.com/langgenius/dify-agentbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langgenius/dify-agentbox?style=flat-square&color=yellow)](https://github.com/langgenius/dify-agentbox/stargazers) [![Forks](https://img.shields.io/github/forks/langgenius/dify-agentbox?style=flat-square&color=blue)](https://github.com/langgenius/dify-agentbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > A production-ready, all-in-one Docker image designed for AI agents and autonomous systems that need to execute code across multiple programming languages.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

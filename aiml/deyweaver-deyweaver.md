@@ -25,7 +25,7 @@ AI/ML · Product
 
 ## 📝 Summary
 
-DeyWeaver is an innovative, open-source AI-powered task planner designed to optimize your daily schedule with intelligent task management. This project utilizes advanced algorithms to structure your day, allowing you to prioritize tasks more effectively and maximize productivity. By leveraging AI, DeyWeaver helps individuals streamline their workflow and achieve their goals more efficiently.
+DeyWeaver is an open-source AI-powered task planner that leverages artificial intelligence to help users structure their day with intelligent scheduling. This innovative tool utilizes machine learning to optimize daily routines, prioritize tasks, and maximize productivity. By streamlining daily tasks and boosting efficiency, DeyWeaver enables users to achieve a better work-life balance.
 
 ---
 

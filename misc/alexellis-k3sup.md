@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-K3sup is an open-source tool that rapidly deploys and manages K3s clusters over SSH connections. It can bootstrap a K3s cluster in under 60 seconds, streamlining the process of setting up and maintaining Kubernetes environments. K3sup simplifies the management of edge computing, IoT, or remote server deployments that require a lightweight Kubernetes distribution.
+K3sup is an open-source project that enables users to quickly bootstrap a K3s cluster over SSH in under 60 seconds. This tool streamlines the process of setting up a K3s environment, making it ideal for developers and system administrators who need to deploy and manage local or remote clusters. With K3sup, users can easily manage their K3s clusters with minimal setup and configuration required.
 
 ---
 

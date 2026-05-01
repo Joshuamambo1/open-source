@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The HTTPArchive/almanac.httparchive.org project is an open-source initiative that collaborates with the web community to produce the annual "State of the Web" report, providing valuable insights into the current state of the internet. This comprehensive report showcases data-driven trends and statistics on web performance, security, and accessibility, serving as a valuable resource for web developers, designers, and industry professionals. By harnessing collective knowledge and expertise, the project aims to drive innovation and improvement in the web ecosystem.
+The HTTPArchive/almanac.httparchive.org project is an open-source initiative that publishes the annual "State of the Web" report, a comprehensive analysis of the web's performance, trends, and insights gathered from the global web community. This report provides valuable data-driven insights into the evolution of the web, helping developers, businesses, and policymakers make informed decisions about web development and optimization. By contributing to this project, the web community comes together to create a collective understanding of the state of the web.
 
 ---
 

@@ -1,17 +1,17 @@
 # hexxla/mosaic
 
-[![Stars](https://img.shields.io/github/stars/hexxla/mosaic?style=flat-square&color=yellow)](https://github.com/hexxla/mosaic/stargazers) [![Forks](https://img.shields.io/github/forks/hexxla/mosaic?style=flat-square&color=blue)](https://github.com/hexxla/mosaic/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hexxla/mosaic?style=flat-square&color=yellow)](https://github.com/hexxla/mosaic/stargazers) [![Forks](https://img.shields.io/github/forks/hexxla/mosaic?style=flat-square&color=blue)](https://github.com/hexxla/mosaic/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> MCP server for agent memory over HexxlaDB—ring retrieval, embeddings + lexical search, seams, facets, YAML persistence policy, localhost HTTP transport.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

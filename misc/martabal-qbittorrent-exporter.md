@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This project, martabal/qbittorrent-exporter, is an open-source Prometheus exporter designed to provide fast and lightweight metrics for qBittorrent. It allows users to monitor and collect qBittorrent data, facilitating integration with Prometheus-based monitoring systems. By leveraging this exporter, users can gain insights into their torrent activities and optimize their download processes.
+The martabal/qbittorrent-exporter is an open-source Prometheus exporter designed to efficiently collect qBittorrent metrics. It serves as a lightweight and fast solution for monitoring qBittorrent instances, allowing users to leverage the power of Prometheus for tracking performance and metrics. This exporter enables seamless integration with existing monitoring systems.
 
 ---
 

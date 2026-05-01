@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The swiftlang/swift-java project provides open-source Java interoperability support for Swift, enabling seamless integration between the two languages. This allows Swift developers to leverage Java libraries and frameworks, and vice versa, facilitating the creation of cross-language projects and solutions. By bridging the gap between Swift and Java, this project enhances the possibilities of Swift development.
+The swiftlang/swift-java project provides open-source Java interopability support for Swift, enabling seamless interaction between Swift and Java applications. This allows developers to leverage the strengths of both languages, facilitating the integration of Swift code within existing Java-based systems. By bridging the gap between Swift and Java, this project promotes cross-language collaboration and development.
 
 ---
 

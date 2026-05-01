@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The neo4j/mcp project is an official open-source server implementation of the MCP (Multi-Connection Protocol) by Neo4j. This server enables clients to establish multiple connections to a Neo4j database, enhancing performance and scalability in high-traffic environments. By leveraging MCP, users can optimize their Neo4j experience and unlock better data processing capabilities.
+The neo4j/mcp project is an official Neo4j server designed to handle Multi-Cloud Persistence (MCP), enabling seamless data replication and high availability across cloud environments. This server facilitates the synchronization of data between different Neo4j instances, ensuring consistent and reliable data access. By leveraging MCP, developers can build scalable and resilient applications that seamlessly integrate with various cloud platforms.
 
 ---
 

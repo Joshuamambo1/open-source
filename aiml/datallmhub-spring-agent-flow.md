@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project introduces stateful agent workflows for Spring AI, enabling graph-based automation with robust retry and recovery mechanisms. The framework allows developers to build complex, reliable AI-powered workflows that can adapt to failures and recover seamlessly. By leveraging this project, users can create scalable and fault-tolerant AI applications with Spring AI.
+This open-source project provides stateful agent workflows for Spring AI, allowing developers to create graph-based workflows that incorporate retries and recovery mechanisms. By utilizing this project, users can build more resilient and reliable AI applications that adapt to changing conditions and minimize downtime. Its open-source nature enables community-driven contributions and improvements.
 
 ---
 

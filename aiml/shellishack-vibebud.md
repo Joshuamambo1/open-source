@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Shellishack/vibebud project is an open-source initiative that brings a unique AI-powered virtual character, Claude Code, to life within the Codex platform. This floating AI entity is designed to interact and engage with users through a variety of means, leveraging advanced AI and machine learning capabilities. By developing vibebud, the project aims to enhance user experience and create a more immersive and dynamic environment within Codex.
+The Shellishack/vibebud project is an open-source initiative that creates a floating AI virtual character for Codex, a conversational AI, and Claude Code, a coding AI assistant. This virtual character aims to enhance user interaction and engagement through a visually appealing and interactive interface. By integrating AI and ML technologies, vibebud brings a more personable and immersive experience to coding and conversation.
 
 ---
 

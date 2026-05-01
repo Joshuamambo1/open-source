@@ -1,6 +1,6 @@
 # qianye60/XianTu
 
-[![Stars](https://img.shields.io/github/stars/qianye60/XianTu?style=flat-square&color=yellow)](https://github.com/qianye60/XianTu/stargazers) [![Forks](https://img.shields.io/github/forks/qianye60/XianTu?style=flat-square&color=blue)](https://github.com/qianye60/XianTu/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qianye60/XianTu?style=flat-square&color=yellow)](https://github.com/qianye60/XianTu/stargazers) [![Forks](https://img.shields.io/github/forks/qianye60/XianTu?style=flat-square&color=blue)](https://github.com/qianye60/XianTu/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > "Immortal Path" AI-driven immersive cultivation text adventure game, based on Vue 3 + TypeScript + Fastapi, supports multiple AI models such as Gemini/Claude/OpenAI
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 271 |
+| ⭐ **Stars** | 270 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Replicad is an open-source library that enables developers to build and manipulate 3D models directly in a web browser using code. This library provides a powerful tool for creating, editing, and visualizing 3D models in a browser-based environment, making it ideal for web applications, AR, and VR experiences. With Replicad, developers can leverage code to design and interact with complex 3D models at scale.
+Replicad is an open-source library that enables developers to create and interact with browser-based 3D models using code. This frontend-focused library provides a flexible and accessible platform for building complex 3D models and simulations directly within web browsers. With Replicad, users can combine code and visual representation to create immersive and engaging 3D experiences.
 
 ---
 

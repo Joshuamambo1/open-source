@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13580** |
+| 🗂️ **Total projects** | **13635** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5147 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2693 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1319 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1029 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 834 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 809 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 5160 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2709 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1324 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1030 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 836 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 813 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 482 | [Browse →](./crypto/) |
-| 📊 **Data** | 309 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 296 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 166 | [Browse →](./mobile/) |
-| 💳 **Payments** | 147 | [Browse →](./payments/) |
+| 📊 **Data** | 312 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 299 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 168 | [Browse →](./mobile/) |
+| 💳 **Payments** | 150 | [Browse →](./payments/) |
 | 📈 **Trading** | 140 | [Browse →](./trading/) |
 | 🔐 **Security** | 113 | [Browse →](./security/) |
-| ✨ **Design** | 42 | [Browse →](./design/) |
-| 🎯 **Product** | 28 | [Browse →](./product/) |
+| ✨ **Design** | 44 | [Browse →](./design/) |
+| 🎯 **Product** | 29 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 26 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [CherryHQ/cherry-studio](./aiml/cherryhq-cherry-studio.md) | ⭐ 44.9k | AI/ML |
-| 2 | [playcanvas/engine](./frontend/playcanvas-engine.md) | ⭐ 14.8k | Frontend |
-| 3 | [RIOT-OS/RIOT](./misc/riot-os-riot.md) | ⭐ 5.7k | Misc |
-| 4 | [dkhamsing/open-source-ios-apps](./frontend/dkhamsing-open-source-ios-apps.md) | ⭐ 50.1k | Frontend |
-| 5 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 6 | [apache/tvm](./misc/apache-tvm.md) | ⭐ 13.3k | Misc |
-| 7 | [thedotmack/claude-mem](./orchestration/thedotmack-claude-mem.md) | ⭐ 70.6k | Orchestration |
-| 8 | [Stirling-Tools/Stirling-PDF](./devopsinfra/stirling-tools-stirling-pdf.md) | ⭐ 78k | DevOps & Infra |
-| 9 | [gravitational/teleport](./backend/gravitational-teleport.md) | ⭐ 20.2k | Backend |
-| 10 | [Yeachan-Heo/oh-my-claudecode](./orchestration/yeachan-heo-oh-my-claudecode.md) | ⭐ 32.1k | Orchestration |
+| 1 | [humhub/humhub](./aiml/humhub-humhub.md) | ⭐ 6.7k | AI/ML |
+| 2 | [CherryHQ/cherry-studio](./aiml/cherryhq-cherry-studio.md) | ⭐ 44.9k | AI/ML |
+| 3 | [withastro/astro](./backend/withastro-astro.md) | ⭐ 58.9k | Backend |
+| 4 | [RIOT-OS/RIOT](./misc/riot-os-riot.md) | ⭐ 5.7k | Misc |
+| 5 | [dkhamsing/open-source-ios-apps](./frontend/dkhamsing-open-source-ios-apps.md) | ⭐ 50.1k | Frontend |
+| 6 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 7 | [Stirling-Tools/Stirling-PDF](./devopsinfra/stirling-tools-stirling-pdf.md) | ⭐ 78.1k | DevOps & Infra |
+| 8 | [xbmc/xbmc](./aiml/xbmc-xbmc.md) | ⭐ 20.7k | AI/ML |
+| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 10 | [qutebrowser/qutebrowser](./misc/qutebrowser-qutebrowser.md) | ⭐ 11.5k | Misc |
 
 ## 🚀 How it works
 

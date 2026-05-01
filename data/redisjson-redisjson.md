@@ -1,6 +1,6 @@
 # RedisJSON/RedisJSON
 
-[![Stars](https://img.shields.io/github/stars/RedisJSON/RedisJSON?style=flat-square&color=yellow)](https://github.com/RedisJSON/RedisJSON/stargazers) [![Forks](https://img.shields.io/github/forks/RedisJSON/RedisJSON?style=flat-square&color=blue)](https://github.com/RedisJSON/RedisJSON/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RedisJSON/RedisJSON?style=flat-square&color=yellow)](https://github.com/RedisJSON/RedisJSON/stargazers) [![Forks](https://img.shields.io/github/forks/RedisJSON/RedisJSON?style=flat-square&color=blue)](https://github.com/RedisJSON/RedisJSON/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > RedisJSON - a JSON data type for Redis
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 334 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

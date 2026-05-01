@@ -25,9 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a 2-3 sentence summary for the open-source project "ConardLi/easy-dataset":
 
-"easy-dataset is an open-source tool designed to streamline the process of creating datasets for Large Language Model (LLM) fine-tuning, Retrieval-Augmented Generation (RAG), and evaluation tasks. It provides a powerful and efficient way to manage and preprocess datasets, simplifying the development of AI and machine learning models. With easy-dataset, researchers and developers can focus on building and fine-tuning their models with high-quality datasets."
+easy-dataset is an open-source tool designed to simplify the creation of datasets for Large Language Model (LLM) fine-tuning, Retrieval-Augmented Generation (RAG), and evaluation purposes. This powerful tool streamlines the dataset preparation process, enabling users to efficiently build and optimize datasets for various AI and machine learning applications. By leveraging easy-dataset, developers can accelerate their research and development workflows.
 
 ---
 

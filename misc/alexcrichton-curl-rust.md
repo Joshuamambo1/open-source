@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The curl-rust project provides Rust bindings to libcurl, allowing developers to utilize libcurl's robust HTTP and transfer functionality within Rust applications. This project enables seamless integration of libcurl's capabilities, such as HTTPS, FTP, and SFTP support, into Rust-based projects. By providing a Rust interface to libcurl, developers can leverage its extensive features and functionality.
+The curl-rust project is an open-source implementation of libcurl's functionality in Rust, providing a stable and performant interface for working with URLs, HTTP requests, and more. This library offers a native Rust API, allowing developers to easily integrate network functionality into their applications. By leveraging libcurl's extensive feature set, curl-rust enables robust and reliable network interactions in Rust programs.
 
 ---
 

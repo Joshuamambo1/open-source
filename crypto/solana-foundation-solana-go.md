@@ -1,6 +1,6 @@
 # solana-foundation/solana-go
 
-[![Stars](https://img.shields.io/github/stars/solana-foundation/solana-go?style=flat-square&color=yellow)](https://github.com/solana-foundation/solana-go/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/solana-go?style=flat-square&color=blue)](https://github.com/solana-foundation/solana-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solana-foundation/solana-go?style=flat-square&color=yellow)](https://github.com/solana-foundation/solana-go/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/solana-go?style=flat-square&color=blue)](https://github.com/solana-foundation/solana-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Go SDK library and RPC client for the Solana Blockchain
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 429 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

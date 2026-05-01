@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-GoldenMatch is an open-source, zero-configuration entity resolution tool for Python and TypeScript applications. It enables deduplication, matching, and creation of self-verifying golden records, boasting a 97% accuracy rate out of the box. With support for MCP, REST, and A2A servers, and an edge-safe core, GoldenMatch streamlines data integration and verification processes.
+GoldenMatch is an open-source project that provides zero-configuration entity resolution for Python and TypeScript, allowing users to deduplicate, match, and build self-verifying golden records. With its robust MCP/REST/A2A servers and edge-safe core, GoldenMatch offers high accuracy (97% F1 score out of the box) and ease of use, making it a valuable tool for various applications. Its auto-config feature ensures seamless setup and deployment.
 
 ---
 

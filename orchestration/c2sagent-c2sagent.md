@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the C2SAgent project:
+Here's a brief summary of the C2S Agent project:
 
-The C2SAgent is an open-source, lightweight AI Agent construction platform that enables configurable online Agents and Microservices (MCP) with customizable HTTP request interfaces. This platform allows Agents to communicate with each other and provides a solution for single-port, multi-agent-to-agent (A2A) services and MCP services. By leveraging C2SAgent, users can easily build and orchestrate AI-powered applications with flexibility and scalability.
+The C2S Agent is an open-source, lightweight AI Agent construction platform that enables configurable online Agents and MCP services. It allows users to configure any HTTP request interface as a MCP tool, facilitating communication between Agents. This platform also provides a solution for single-port multi-A2A services and MCP services.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the symposium project:
-
-Symposium is an open-source project that provides a framework for developing and integrating artificial intelligence (AI) and machine learning (ML) capabilities in Rust, a systems programming language. By leveraging Rust's performance and safety features, symposium enables developers to create efficient and reliable AI applications. This project aims to empower the Rust community to build innovative AI solutions.
+Symposium is an open-source project that aims to bring AI capabilities to the Rust programming language. This project provides a set of tools and libraries for developing AI and machine learning applications in Rust, allowing developers to leverage the language's strong type system and performance. By integrating AI with Rust, symposium enables the creation of high-performance, secure, and efficient AI solutions.
 
 ---
 

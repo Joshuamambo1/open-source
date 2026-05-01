@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here is a brief summary of the project:
-
-Spec-kit Command Cursor is an open-source tool designed for the Cursor IDE, enabling users to efficiently turn ideas into actionable specifications, plans, and tasks. This SDD (Structured Design Development) toolkit provides a streamlined workflow through commands like /specify, /plan, and /tasks, supporting the creation of high-quality software development processes. By utilizing this tool, developers can enhance their productivity and collaboration while building robust software solutions.
+The spec-kit-command-cursor is an open-source toolkit designed for the Cursor IDE, empowering users to transform their ideas into actionable specifications, plans, and tasks with ease. This SDD (Structured Development Discipline) toolkit provides a set of commands, including /specify, /plan, and /tasks, to streamline the development process. By leveraging the spec-kit-command-cursor, developers can efficiently turn their ideas into actionable project plans and tasks.
 
 ---
 

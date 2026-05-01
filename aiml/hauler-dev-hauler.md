@@ -25,9 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Hauler is an open-source, multi-purpose tool designed to facilitate airgap environments. It serves as a Swiss Army Knife for various DevOps and AI/ML tasks, providing a comprehensive solution for managing and maintaining isolated systems. This versatile tool offers a range of functionalities to streamline operations and improve productivity in airgap environments.
+The Hauler project is an open-source, airgap Swiss Army Knife designed to bridge the gap between disconnected environments. It provides a range of essential tools for DevOps and infrastructure tasks, making it easier to manage and maintain systems in isolated networks. With Hauler, developers and administrators can perform various operations, including file transfers, package management, and system updates, while keeping their environments airgapped and secure.
 
 ---
 

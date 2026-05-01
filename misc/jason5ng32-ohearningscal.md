@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/jason5ng32/OhEarningsCal?style=flat-square&color=yellow)](https://github.com/jason5ng32/OhEarningsCal/stargazers) [![Forks](https://img.shields.io/github/forks/jason5ng32/OhEarningsCal?style=flat-square&color=blue)](https://github.com/jason5ng32/OhEarningsCal/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> 使用日历软件订阅美股的财报日期
+> Subscribe to US stock earnings dates from your calendar app
 
 ## 📊 Stats
 

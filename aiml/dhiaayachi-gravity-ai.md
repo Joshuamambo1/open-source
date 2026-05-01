@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The open-source project "Raft" is an innovative initiative that enables a group of AI agents to achieve consensus through a distributed consensus protocol. Inspired by the Raft consensus algorithm, this project aims to facilitate cooperation and decision-making among multiple AI entities, promoting more robust and fault-tolerant AI systems. By leveraging this technology, developers can create more resilient and scalable AI applications.
+This open-source project implements a consensus protocol called Raft to enable a group of AI agents to reach a unified decision. By utilizing the Raft consensus algorithm, the AI agents can communicate and agree on a single course of action, even in the presence of failures or disagreements. This technology has potential applications in distributed AI systems, where multiple agents need to collaborate to achieve a common goal.
 
 ---
 

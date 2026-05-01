@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Claude-skills is an open-source project that equips full-stack developers with 66 specialized skills, providing a comprehensive set of abilities to tackle complex coding tasks. This project transforms Claude code into an expert pair programmer, offering users a robust and efficient coding companion. By leveraging Claude-skills, developers can streamline their workflow and elevate their coding expertise.
+Claude-skills is an open-source project that offers 66 specialized skills for full-stack developers, enabling them to transform Claude code into expert-level pair programming. This project is designed to leverage the capabilities of AI/ML and DevTools, empowering developers with a comprehensive set of tools to enhance their coding proficiency. By utilizing Claude-skills, developers can streamline their workflow and improve their coding efficiency.
 
 ---
 

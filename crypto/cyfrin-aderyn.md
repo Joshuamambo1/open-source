@@ -1,6 +1,6 @@
 # Cyfrin/aderyn
 
-[![Stars](https://img.shields.io/github/stars/Cyfrin/aderyn?style=flat-square&color=yellow)](https://github.com/Cyfrin/aderyn/stargazers) [![Forks](https://img.shields.io/github/forks/Cyfrin/aderyn?style=flat-square&color=blue)](https://github.com/Cyfrin/aderyn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cyfrin/aderyn?style=flat-square&color=yellow)](https://github.com/Cyfrin/aderyn/stargazers) [![Forks](https://img.shields.io/github/forks/Cyfrin/aderyn?style=flat-square&color=blue)](https://github.com/Cyfrin/aderyn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Solidity Static Analyzer that easily integrates into your editor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 764 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

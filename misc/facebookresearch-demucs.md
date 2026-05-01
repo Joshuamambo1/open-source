@@ -1,17 +1,17 @@
 # facebookresearch/demucs
 
-[![Stars](https://img.shields.io/github/stars/facebookresearch/demucs?style=flat-square&color=yellow)](https://github.com/facebookresearch/demucs/stargazers) [![Forks](https://img.shields.io/github/forks/facebookresearch/demucs?style=flat-square&color=blue)](https://github.com/facebookresearch/demucs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebookresearch/demucs?style=flat-square&color=yellow)](https://github.com/facebookresearch/demucs/stargazers) [![Forks](https://img.shields.io/github/forks/facebookresearch/demucs?style=flat-square&color=blue)](https://github.com/facebookresearch/demucs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag showdev): I Ran a Neural Network in a Browser Tab to Split a Song into Stems
+> Code for the paper Hybrid Spectrogram and Waveform Source Separation
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 36/100 |
+| ⭐ **Stars** | 10k |
+| 🍴 **Forks** | 1.5k |
+| 💻 **Language** | Python |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

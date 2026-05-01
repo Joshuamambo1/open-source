@@ -1,6 +1,6 @@
 # juspay/superposition
 
-[![Stars](https://img.shields.io/github/stars/juspay/superposition?style=flat-square&color=yellow)](https://github.com/juspay/superposition/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/superposition?style=flat-square&color=blue)](https://github.com/juspay/superposition/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juspay/superposition?style=flat-square&color=yellow)](https://github.com/juspay/superposition/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/superposition?style=flat-square&color=blue)](https://github.com/juspay/superposition/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Superposition is a context-based configuration management system designed to facilitate safe and flexible rollout of config changes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

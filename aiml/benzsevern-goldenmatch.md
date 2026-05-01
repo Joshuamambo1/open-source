@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/benzsevern/goldenmatch?style=flat-square&color=yellow)](https://github.com/benzsevern/goldenmatch/stargazers) [![Forks](https://img.shields.io/github/forks/benzsevern/goldenmatch?style=flat-square&color=blue)](https://github.com/benzsevern/goldenmatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> 🟡 Zero-config entity resolution for Python & TypeScript. Dedupe, match, and build golden records — self-verifying auto-config, MCP/REST/A2A servers, edge-safe core, 97% F1 out of the box.
+> 🟡 Golden Suite — polyglot data-quality + entity-resolution toolkit. GoldenCheck profiles → GoldenFlow standardizes → GoldenMatch dedupes → GoldenPipe orchestrates. Zero-config defaults, 97% F1, MCP server per package + one master, multi-arch container images, drop-in Airflow DAGs.
 
 ## 📊 Stats
 

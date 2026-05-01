@@ -1,6 +1,6 @@
 # TobiasMue91/tobiasmue91.github.io
 
-[![Stars](https://img.shields.io/github/stars/TobiasMue91/tobiasmue91.github.io?style=flat-square&color=yellow)](https://github.com/TobiasMue91/tobiasmue91.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/TobiasMue91/tobiasmue91.github.io?style=flat-square&color=blue)](https://github.com/TobiasMue91/tobiasmue91.github.io/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TobiasMue91/tobiasmue91.github.io?style=flat-square&color=yellow)](https://github.com/TobiasMue91/tobiasmue91.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/TobiasMue91/tobiasmue91.github.io?style=flat-square&color=blue)](https://github.com/TobiasMue91/tobiasmue91.github.io/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > GPTGames - Simple HTML, JS, CSS games and tools created with the help of ChatGPT and Claude.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

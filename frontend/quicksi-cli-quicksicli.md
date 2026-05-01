@@ -1,6 +1,6 @@
 # Quicksi-CLI/quicksiCLI
 
-[![Stars](https://img.shields.io/github/stars/Quicksi-CLI/quicksiCLI?style=flat-square&color=yellow)](https://github.com/Quicksi-CLI/quicksiCLI/stargazers) [![Forks](https://img.shields.io/github/forks/Quicksi-CLI/quicksiCLI?style=flat-square&color=blue)](https://github.com/Quicksi-CLI/quicksiCLI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Quicksi-CLI/quicksiCLI?style=flat-square&color=yellow)](https://github.com/Quicksi-CLI/quicksiCLI/stargazers) [![Forks](https://img.shields.io/github/forks/Quicksi-CLI/quicksiCLI?style=flat-square&color=blue)](https://github.com/Quicksi-CLI/quicksiCLI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Quicksi is an Open-Source command-line tool with re-useable starters in different languages, frameworks and libraries designed to make it easy for developers to start projects without having to worry about the setup. And for code instructors in tutorials, conferences, workshops to give easy access to their students.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

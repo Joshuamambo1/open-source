@@ -9,9 +9,9 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
-| 2 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.5k | Clojure | 100/100 |
-| 3 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
-| 4 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.7k | C# | 100/100 |
+| 2 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.7k | C# | 100/100 |
+| 3 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.5k | Clojure | 100/100 |
+| 4 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
 | 5 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.3k | TypeScript | 99/100 |
 | 6 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.9k | C++ | 96/100 |
 | 7 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.2k | Rust | 92/100 |
@@ -29,7 +29,7 @@
 | 19 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 690 | Rust | 55/100 |
 | 20 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 739 | Go | 54/100 |
 | 21 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | TypeScript | 53/100 |
-| 22 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 658 | Shell | 52/100 |
+| 22 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 659 | Shell | 52/100 |
 | 23 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 52/100 |
 | 24 | [eph5xx/tweakidea](./eph5xx-tweakidea.md) | ⭐ 14 | Python | 50/100 |
 | 25 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 463 | Rust | 48/100 |

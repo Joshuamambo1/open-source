@@ -1,6 +1,6 @@
 # awslabs/aidlc-workflows
 
-[![Stars](https://img.shields.io/github/stars/awslabs/aidlc-workflows?style=flat-square&color=yellow)](https://github.com/awslabs/aidlc-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/aidlc-workflows?style=flat-square&color=blue)](https://github.com/awslabs/aidlc-workflows/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awslabs/aidlc-workflows?style=flat-square&color=yellow)](https://github.com/awslabs/aidlc-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/aidlc-workflows?style=flat-square&color=blue)](https://github.com/awslabs/aidlc-workflows/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

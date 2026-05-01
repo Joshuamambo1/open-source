@@ -1,6 +1,6 @@
 # Claw-Company/clawcompany
 
-[![Stars](https://img.shields.io/github/stars/Claw-Company/clawcompany?style=flat-square&color=yellow)](https://github.com/Claw-Company/clawcompany/stargazers) [![Forks](https://img.shields.io/github/forks/Claw-Company/clawcompany?style=flat-square&color=blue)](https://github.com/Claw-Company/clawcompany/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Claw-Company/clawcompany?style=flat-square&color=yellow)](https://github.com/Claw-Company/clawcompany/stargazers) [![Forks](https://img.shields.io/github/forks/Claw-Company/clawcompany?style=flat-square&color=blue)](https://github.com/Claw-Company/clawcompany/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Open source AI company OS. 38 roles, 6 templates,  4-layer memory. Your AI company remembers everything — locally.  npx clawcompany
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 686 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

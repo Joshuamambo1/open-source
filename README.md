@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13926** |
+| 🗂️ **Total projects** | **13970** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5251 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2792 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1356 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 5270 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2802 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1359 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 1045 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 857 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 829 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 859 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 833 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 490 | [Browse →](./crypto/) |
-| 📊 **Data** | 319 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 304 | [Browse →](./devopsinfra/) |
+| 📊 **Data** | 320 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 307 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 173 | [Browse →](./mobile/) |
-| 💳 **Payments** | 151 | [Browse →](./payments/) |
+| 💳 **Payments** | 153 | [Browse →](./payments/) |
 | 📈 **Trading** | 142 | [Browse →](./trading/) |
 | 🔐 **Security** | 118 | [Browse →](./security/) |
 | ✨ **Design** | 44 | [Browse →](./design/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [VoltAgent/awesome-design-md](./aiml/voltagent-awesome-design-md.md) | ⭐ 69.1k | AI/ML |
-| 2 | [influxdata/influxdb](./frontend/influxdata-influxdb.md) | ⭐ 31.5k | Frontend |
-| 3 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 4 | [zalando/postgres-operator](./data/zalando-postgres-operator.md) | ⭐ 5.1k | Data |
-| 5 | [ruby/ruby](./misc/ruby-ruby.md) | ⭐ 23.6k | Misc |
-| 6 | [LizardByte/Sunshine](./aiml/lizardbyte-sunshine.md) | ⭐ 36.6k | AI/ML |
-| 7 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
-| 8 | [shadps4-emu/shadPS4](./frontend/shadps4-emu-shadps4.md) | ⭐ 31k | Frontend |
-| 9 | [pubkey/rxdb](./aiml/pubkey-rxdb.md) | ⭐ 23.2k | AI/ML |
-| 10 | [Anil-matcha/Open-Generative-AI](./aiml/anil-matcha-open-generative-ai.md) | ⭐ 10.6k | AI/ML |
+| 2 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 3 | [zalando/postgres-operator](./data/zalando-postgres-operator.md) | ⭐ 5.1k | Data |
+| 4 | [ruby/ruby](./misc/ruby-ruby.md) | ⭐ 23.6k | Misc |
+| 5 | [LizardByte/Sunshine](./aiml/lizardbyte-sunshine.md) | ⭐ 36.6k | AI/ML |
+| 6 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
+| 7 | [shadps4-emu/shadPS4](./frontend/shadps4-emu-shadps4.md) | ⭐ 31k | Frontend |
+| 8 | [Anil-matcha/Open-Generative-AI](./aiml/anil-matcha-open-generative-ai.md) | ⭐ 10.6k | AI/ML |
+| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 10 | [recharts/recharts](./crypto/recharts-recharts.md) | ⭐ 27.1k | Crypto |
 
 ## 🚀 How it works
 

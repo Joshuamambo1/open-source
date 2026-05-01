@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 189 |
+| ⭐ **Stars** | 190 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Crystal |
 | 📈 **Score** | 49/100 |

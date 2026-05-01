@@ -1,6 +1,6 @@
 # herzbube/littlego
 
-[![Stars](https://img.shields.io/github/stars/herzbube/littlego?style=flat-square&color=yellow)](https://github.com/herzbube/littlego/stargazers) [![Forks](https://img.shields.io/github/forks/herzbube/littlego?style=flat-square&color=blue)](https://github.com/herzbube/littlego/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/herzbube/littlego?style=flat-square&color=yellow)](https://github.com/herzbube/littlego/stargazers) [![Forks](https://img.shields.io/github/forks/herzbube/littlego?style=flat-square&color=blue)](https://github.com/herzbube/littlego/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Little Go. An iOS application that lets you play the game of Go on the iPhone or iPad.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

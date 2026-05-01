@@ -1,6 +1,6 @@
 # b-nnett/codex-plusplus
 
-[![Stars](https://img.shields.io/github/stars/b-nnett/codex-plusplus?style=flat-square&color=yellow)](https://github.com/b-nnett/codex-plusplus/stargazers) [![Forks](https://img.shields.io/github/forks/b-nnett/codex-plusplus?style=flat-square&color=blue)](https://github.com/b-nnett/codex-plusplus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/b-nnett/codex-plusplus?style=flat-square&color=yellow)](https://github.com/b-nnett/codex-plusplus/stargazers) [![Forks](https://img.shields.io/github/forks/b-nnett/codex-plusplus?style=flat-square&color=blue)](https://github.com/b-nnett/codex-plusplus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Codex++ tweak system for the Codex desktop app
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 719 |
-| 🍴 **Forks** | 28 |
+| ⭐ **Stars** | 733 |
+| 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

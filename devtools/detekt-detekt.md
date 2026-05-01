@@ -1,6 +1,6 @@
 # detekt/detekt
 
-[![Stars](https://img.shields.io/github/stars/detekt/detekt?style=flat-square&color=yellow)](https://github.com/detekt/detekt/stargazers) [![Forks](https://img.shields.io/github/forks/detekt/detekt?style=flat-square&color=blue)](https://github.com/detekt/detekt/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/detekt/detekt?style=flat-square&color=yellow)](https://github.com/detekt/detekt/stargazers) [![Forks](https://img.shields.io/github/forks/detekt/detekt?style=flat-square&color=blue)](https://github.com/detekt/detekt/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
 
 > Static code analysis for Kotlin
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.9k |
-| 🍴 **Forks** | 833 |
+| 🍴 **Forks** | 834 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 97/100 |
+| 📈 **Score** | 98/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

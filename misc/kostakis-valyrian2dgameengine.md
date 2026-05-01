@@ -1,6 +1,6 @@
 # kostakis/Valyrian2DGameEngine
 
-[![Stars](https://img.shields.io/github/stars/kostakis/Valyrian2DGameEngine?style=flat-square&color=yellow)](https://github.com/kostakis/Valyrian2DGameEngine/stargazers) [![Forks](https://img.shields.io/github/forks/kostakis/Valyrian2DGameEngine?style=flat-square&color=blue)](https://github.com/kostakis/Valyrian2DGameEngine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kostakis/Valyrian2DGameEngine?style=flat-square&color=yellow)](https://github.com/kostakis/Valyrian2DGameEngine/stargazers) [![Forks](https://img.shields.io/github/forks/kostakis/Valyrian2DGameEngine?style=flat-square&color=blue)](https://github.com/kostakis/Valyrian2DGameEngine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A 2D game engine made from scratch using C++. Handlers sprites, collision, map scrolling, tile layers and many more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

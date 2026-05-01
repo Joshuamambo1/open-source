@@ -1,6 +1,6 @@
 # medplum/medplum
 
-[![Stars](https://img.shields.io/github/stars/medplum/medplum?style=flat-square&color=yellow)](https://github.com/medplum/medplum/stargazers) [![Forks](https://img.shields.io/github/forks/medplum/medplum?style=flat-square&color=blue)](https://github.com/medplum/medplum/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/medplum/medplum?style=flat-square&color=yellow)](https://github.com/medplum/medplum/stargazers) [![Forks](https://img.shields.io/github/forks/medplum/medplum?style=flat-square&color=blue)](https://github.com/medplum/medplum/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 760 |
+| 🍴 **Forks** | 761 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

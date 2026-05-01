@@ -1,6 +1,6 @@
 # terrylica/cc-skills
 
-[![Stars](https://img.shields.io/github/stars/terrylica/cc-skills?style=flat-square&color=yellow)](https://github.com/terrylica/cc-skills/stargazers) [![Forks](https://img.shields.io/github/forks/terrylica/cc-skills?style=flat-square&color=blue)](https://github.com/terrylica/cc-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terrylica/cc-skills?style=flat-square&color=yellow)](https://github.com/terrylica/cc-skills/stargazers) [![Forks](https://img.shields.io/github/forks/terrylica/cc-skills?style=flat-square&color=blue)](https://github.com/terrylica/cc-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, semantic versioning, and productivity workflows
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 6 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | Shell |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

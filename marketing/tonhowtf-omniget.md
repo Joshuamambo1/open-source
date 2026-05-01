@@ -1,6 +1,6 @@
 # tonhowtf/omniget
 
-[![Stars](https://img.shields.io/github/stars/tonhowtf/omniget?style=flat-square&color=yellow)](https://github.com/tonhowtf/omniget/stargazers) [![Forks](https://img.shields.io/github/forks/tonhowtf/omniget?style=flat-square&color=blue)](https://github.com/tonhowtf/omniget/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tonhowtf/omniget?style=flat-square&color=yellow)](https://github.com/tonhowtf/omniget/stargazers) [![Forks](https://img.shields.io/github/forks/tonhowtf/omniget?style=flat-square&color=blue)](https://github.com/tonhowtf/omniget/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs and EPUBs with highlights, bookmarks and a focus mode. Also downloads YouTube, Instagram, TikTok and torrents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 202 |
+| ⭐ **Stars** | 2.9k |
+| 🍴 **Forks** | 208 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

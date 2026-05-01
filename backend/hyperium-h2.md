@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The hyperium/h2 project is an open-source implementation of the HTTP/2 protocol for Rust, providing both client and server capabilities. This library enables developers to build efficient and scalable applications that take advantage of HTTP/2's multiplexing and prioritization features. By using hyperium/h2, developers can create fast, reliable, and secure web services.
+The hyperium/h2 project is an open-source implementation of the HTTP 2.0 protocol in Rust, providing both client and server capabilities. This library enables developers to build modern web applications that take advantage of HTTP 2.0's features, such as multiplexing and header compression. By using hyperium/h2, developers can create efficient and scalable network applications.
 
 ---
 

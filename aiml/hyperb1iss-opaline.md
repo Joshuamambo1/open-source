@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Opaline is an open-source, token-based theme engine designed for Rust TUI (Text User Interface) applications. It allows developers to create and customize visually appealing interfaces with ease, leveraging the power of a theme engine to simplify the process of styling TUI apps. By providing a standardized way to manage UI themes, Opaline streamlines the development process and enhances the overall user experience.
+The opaline project is an open-source, token-based theme engine designed for Rust TUI (Text User Interface) applications. It allows developers to create and manage themes for their TUI applications in a flexible and extensible manner. By leveraging opaline, Rust TUI developers can easily customize the visual appearance of their applications without requiring extensive programming knowledge.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Cloud-init is an open-source project that provides a standardized and automated way to initialize and configure cloud and virtual machines during the boot process. It offers a flexible and customizable framework for handling tasks such as user creation, package installation, and network configuration. By using cloud-init, users can streamline their cloud and virtual machine deployment and management processes.
+The canonical/cloud-init project is an open-source tool for initializing and configuring cloud instances during the boot process. It enables automated setup and configuration of virtual machines and bare-metal servers, simplifying the deployment and management of cloud environments. With cloud-init, users can automate tasks such as network configuration, user account creation, package installation, and more.
 
 ---
 

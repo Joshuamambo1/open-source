@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/different-ai/openwork?style=flat-square&color=yellow)](https://github.com/different-ai/openwork/stargazers) [![Forks](https://img.shields.io/github/forks/different-ai/openwork?style=flat-square&color=blue)](https://github.com/different-ai/openwork/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
-> An open-source alternative to Claude Cowork built for teams, powered by opencode
+> An open-source alternative to Claude Cowork (powered by opencode)
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 

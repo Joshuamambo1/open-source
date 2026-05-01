@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Cosmic-utils/tasks is a lightweight, open-source task management application designed for the COSMIC desktop environment. This simple yet intuitive tool allows users to effectively organize and prioritize tasks, enhancing productivity and workflow efficiency. With its user-friendly interface, it provides a convenient solution for everyday task management needs.
+The cosmic-utils/tasks project is an open-source task management application designed for the COSMIC desktop. It allows users to efficiently organize and manage tasks, providing a simple yet effective solution for productivity and organization. This application serves as a valuable tool for individuals working on the COSMIC platform.
 
 ---
 

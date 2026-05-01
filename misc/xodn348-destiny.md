@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Destiny is an open-source project that appears to be a recreation or simulation of Claude Shannon's "Aleatory Art" or "Fortune Teller" skill, where a sequence of numbers is generated based on a random process to create a seemingly mystical or prophetic experience. This project is likely a tribute to Claude Shannon's work, a pioneer in the field of information theory and cryptography. The project is available on GitHub for anyone to explore and modify.
+Destiny is an open-source fortune teller skill based on Claude Code, a popular AI model. This project is a unique implementation of a fortune teller, utilizing Claude Code's capabilities to provide users with insightful and intriguing predictions. It is available on GitHub for anyone to explore and contribute to.
 
 ---
 

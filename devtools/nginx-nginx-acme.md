@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-The nginx-acme module is an open-source integration of the Automatic Certificate Management Environment (ACME) protocol with NGINX, enabling automated certificate issuance and management for secure web servers. By leveraging ACMEv2, this module streamlines the process of obtaining and renewing SSL/TLS certificates, ensuring seamless HTTPS setup and minimal maintenance. This module contributes to enhanced security and reliability for web applications built on NGINX.
+Here's a brief summary for the open-source project:
+
+The nginx-acme module is an open-source implementation of the Automatic Certificate Management Environment (ACME) protocol for NGINX, enabling automatic issuance and renewal of SSL/TLS certificates. This module streamlines the process of obtaining and managing SSL certificates, making it easier to secure NGINX-based web servers with HTTPS. By automating certificate management, developers can focus on building and deploying applications without worrying about certificate maintenance.
 
 ---
 

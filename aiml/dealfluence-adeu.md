@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/dealfluence/adeu?style=flat-square&color=yellow)](https://github.com/dealfluence/adeu/stargazers) [![Forks](https://img.shields.io/github/forks/dealfluence/adeu?style=flat-square&color=blue)](https://github.com/dealfluence/adeu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Agentic DOCX Redlining Engine. Enables LLMs to read Word documents and inject native Track Changes (w:ins, w:del) and Comments without breaking formatting. Includes Model Context Protocol (MCP) Server.
+> Native Word Track Changes for AI agents. An MCP server and Python SDK that translates LLM edits into safe DOCX redlines without breaking formatting.
 
 ## 📊 Stats
 

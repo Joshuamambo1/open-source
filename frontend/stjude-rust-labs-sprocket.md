@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Sprocket is a bioinformatics workflow engine that enables the execution and management of complex computational workflows. Built on the Workflow Description Language (WDL), it provides a scalable and flexible platform for researchers to streamline their analysis and accelerate scientific discoveries. By leveraging Sprocket's capabilities, users can automate and optimize their workflows, improving efficiency and reducing errors.
+Sprocket is an open-source, bioinformatics workflow engine that utilizes the Workflow Description Language (WDL) for streamlined data analysis. It enables users to design, execute, and manage complex computational pipelines, promoting efficiency and reproducibility in scientific research. By leveraging WDL, Sprocket facilitates collaboration and automation in the field of bioinformatics.
 
 ---
 

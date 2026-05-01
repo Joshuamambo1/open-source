@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The MindAct project is an open-source initiative that aims to create a true autonomous AI by combining an AI agent with specific knowledge. This innovative approach enables the AI to learn and adapt in a more human-like manner, making it a significant advancement in the field of artificial intelligence and machine learning. By leveraging the power of AI agents and domain-specific knowledge, MindAct seeks to push the boundaries of what is possible in AI research.
+MindAct is an open-source project that strives to create a truly autonomous artificial intelligence (AI) by combining an AI agent with specific knowledge. This project aims to push the boundaries of AI capabilities by enabling the agent to learn and adapt based on the knowledge it is provided, ultimately achieving a higher level of autonomy. By merging AI and knowledge, MindAct seeks to create a more sophisticated and intelligent AI system.
 
 ---
 

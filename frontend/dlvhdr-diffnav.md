@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-dlvhdr/diffnav is an open-source project that offers a unique Git diff pager experience. Built on top of the delta algorithm, it incorporates a file tree structure, similar to GitHub's diff viewer, providing developers with an intuitive and visually appealing way to compare changes in their codebase. This tool aims to streamline code review and collaboration by making it easier to navigate and understand Git diff output.
+Here's a brief summary:
+
+dlvhdr/diffnav is an open-source project that provides a git diff pager built on top of delta, offering a GitHub-style file tree interface for navigating and comparing changes. This innovative tool aims to simplify the process of understanding complex diffs by providing a visual representation of file changes. It leverages delta's efficient diffing capabilities to deliver a seamless and intuitive experience.
 
 ---
 

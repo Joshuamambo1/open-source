@@ -25,9 +25,9 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here is a brief summary for the open-source project "jubscodes/get-shit-pretty":
 
-This project, get-shit-pretty, is an open-source initiative for designing AI coding tools, covering brand identity and design projects from strategy to code. Focusing on AI/ML and DevTools categories, the project aims to provide a comprehensive platform for engineering and designing innovative coding solutions. By combining design and engineering expertise, get-shit-pretty enables developers to create user-friendly and efficient AI-powered coding tools.
+This open-source project, "get-shit-pretty," is an initiative that brings design engineering expertise to AI coding tools, focusing on brand identity and design projects from strategy to code implementation. Spanning across AI/ML, DevTools, and Design categories, the project aims to bridge the gap between technology and aesthetics. By open-sourcing this knowledge, the project contributes to the advancement of AI coding tools with a human-centered design approach.
 
 ---
 

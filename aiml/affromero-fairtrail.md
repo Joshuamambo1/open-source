@@ -25,7 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Fairtrail is an open-source project that empowers users to track flight prices over time using natural language search. This self-hosted application leverages the power of Large Language Models (LLMs) that users can bring their own, providing a unique level of customization and control. By allowing users to monitor price fluctuations, Fairtrail aims to make air travel more transparent and cost-effective.
+Fairtrail is an open-source project that empowers users to track flight prices over time using natural language search. This self-hosted platform allows individuals to bring their own Large Language Model (LLM), providing a customizable and flexible solution for flight price tracking.
 
 ---
 

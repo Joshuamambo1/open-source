@@ -25,7 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The "better-agents" project by langwatch provides an open-source framework for developing and standardizing intelligent agents across various applications. It offers a set of guidelines and best practices for building efficient and scalable agents, catering to the needs of orchestration, AI/ML, and frontend development. By adopting these standards, developers can create more robust and maintainable agent-based systems.
+Here's a brief summary for the langwatch/better-agents project:
+
+The langwatch/better-agents project sets standards for building high-quality, efficient, and scalable AI/ML agents. This open-source initiative provides a framework for developers to create robust and reliable agents, enabling seamless orchestration and integration with various frontend systems. By establishing a set of best practices, better-agents facilitates the development of intelligent systems that can effectively interact with users and environments.
 
 ---
 

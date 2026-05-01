@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The "Why the AI era needs BASIC again" open-source project proposes reviving the BASIC programming language to facilitate easier AI and machine learning development. By leveraging BASIC's simplicity and intuitive nature, the project aims to make AI accessible to a broader audience, including those without extensive programming experience. This initiative seeks to bridge the gap between AI and non-technical users, promoting a more inclusive AI development ecosystem.
+The "Why the AI era needs BASIC again" project is an open-source initiative that aims to revive the BASIC programming language in the context of artificial intelligence and machine learning. By leveraging the simplicity and ease of use of BASIC, the project seeks to make AI development more accessible to a broader range of developers and enthusiasts. This revival of BASIC is intended to facilitate faster prototyping and experimentation in AI research and development.
 
 ---
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ksenxx/kiss_ai?style=flat-square&color=yellow)](https://github.com/ksenxx/kiss_ai/stargazers) [![Forks](https://img.shields.io/github/forks/ksenxx/kiss_ai?style=flat-square&color=blue)](https://github.com/ksenxx/kiss_ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> Keep it Simple, Stupid AI Agent Framework with KISS Sorcar (a possible replacement of Cursor)
+> Keep it Simple, Stupid AI Agent Framework with a General-Purpose and Software Engineering Assistant, called KISS Sorcar.
 
 ## 📊 Stats
 

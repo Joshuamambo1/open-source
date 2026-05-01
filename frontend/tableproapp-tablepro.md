@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/TableProApp/TablePro?style=flat-square&color=yellow)](https://github.com/TableProApp/TablePro/stargazers) [![Forks](https://img.shields.io/github/forks/TableProApp/TablePro?style=flat-square&color=blue)](https://github.com/TableProApp/TablePro/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
-> Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. Free and open-source.
+> A native database client for developers who use one every day.
 
 ## 📊 Stats
 

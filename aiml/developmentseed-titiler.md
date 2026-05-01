@@ -1,6 +1,6 @@
 # developmentseed/titiler
 
-[![Stars](https://img.shields.io/github/stars/developmentseed/titiler?style=flat-square&color=yellow)](https://github.com/developmentseed/titiler/stargazers) [![Forks](https://img.shields.io/github/forks/developmentseed/titiler?style=flat-square&color=blue)](https://github.com/developmentseed/titiler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/developmentseed/titiler?style=flat-square&color=yellow)](https://github.com/developmentseed/titiler/stargazers) [![Forks](https://img.shields.io/github/forks/developmentseed/titiler?style=flat-square&color=blue)](https://github.com/developmentseed/titiler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Build your own Raster dynamic map tile services
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 234 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -27,7 +27,7 @@
 | 17 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 537 | C | 56/100 |
 | 18 | [pimutils/todoman](./pimutils-todoman.md) | ⭐ 573 | Python | 55/100 |
 | 19 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 690 | Rust | 55/100 |
-| 20 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 738 | Go | 54/100 |
+| 20 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 739 | Go | 54/100 |
 | 21 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | TypeScript | 53/100 |
 | 22 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 658 | Shell | 52/100 |
 | 23 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 52/100 |

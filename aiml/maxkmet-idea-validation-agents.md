@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The idea-validation-agents project by MaxKmet is an open-source initiative that leverages AI technology to assist developers in validating startup ideas. By utilizing powerful tools like Claude Code, OpenAI Codex, and Cursor, these AI agents can streamline the idea validation process, providing go-to-market strategies and reducing the risk of costly regrets. This project aims to save developers time and resources by offering a quick and efficient validation process.
+The idea-validation-agents project is an open-source initiative that empowers developers to rapidly validate startup ideas using AI-driven analysts. These agents utilize cutting-edge technologies like Claude Code, OpenAI Codex, and Cursor to provide instant analysis, streamlining the process from idea brainstorming to go-to-market strategy. By leveraging AI, developers can save time and avoid costly mistakes, validating ideas in just minutes rather than months.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Zcash/librustzcash is an open-source project providing Rust-language assets for the Zcash cryptocurrency. This collection of Rust libraries enables developers to build and integrate Zcash-related functionality into their applications. By utilizing this project, developers can create secure and efficient Zcash-based solutions.
+The zcash/librustzcash project is an open-source collection of Rust-language assets for Zcash, a decentralized cryptocurrency that provides enhanced privacy features. This library contains the necessary code for building and interacting with the Zcash network, enabling developers to create Zcash-related applications and services. By utilizing the librustzcash library, developers can access and contribute to the Zcash ecosystem.
 
 ---
 

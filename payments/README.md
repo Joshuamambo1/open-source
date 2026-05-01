@@ -23,9 +23,9 @@
 | 13 | [FreeTubeApp/FreeTube](./freetubeapp-freetube.md) | ⭐ 20.7k | Vue | 97/100 |
 | 14 | [7Sageer/sublink-worker](./7sageer-sublink-worker.md) | ⭐ 4.6k | JavaScript | 97/100 |
 | 15 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 96/100 |
-| 16 | [kimai/kimai](./kimai-kimai.md) | ⭐ 4.6k | PHP | 94/100 |
-| 17 | [getlago/lago](./getlago-lago.md) | ⭐ 9.6k | Go | 94/100 |
-| 18 | [wasp-lang/open-saas](./wasp-lang-open-saas.md) | ⭐ 14.3k | TypeScript | 94/100 |
+| 16 | [wasp-lang/open-saas](./wasp-lang-open-saas.md) | ⭐ 14.3k | TypeScript | 94/100 |
+| 17 | [kimai/kimai](./kimai-kimai.md) | ⭐ 4.6k | PHP | 94/100 |
+| 18 | [getlago/lago](./getlago-lago.md) | ⭐ 9.6k | Go | 94/100 |
 | 19 | [killbill/killbill](./killbill-killbill.md) | ⭐ 5.5k | Java | 94/100 |
 | 20 | [altair-graphql/altair](./altair-graphql-altair.md) | ⭐ 5.4k | TypeScript | 91/100 |
 | 21 | [x402-foundation/x402](./x402-foundation-x402.md) | ⭐ 6k | TypeScript | 90/100 |
@@ -55,7 +55,7 @@
 | 45 | [NiREvil/vless](./nirevil-vless.md) | ⭐ 1.1k | Rust | 61/100 |
 | 46 | [useautumn/autumn](./useautumn-autumn.md) | ⭐ 2.5k | TypeScript | 61/100 |
 | 47 | [heyhuynhgiabuu/proxypal](./heyhuynhgiabuu-proxypal.md) | ⭐ 1.1k | TypeScript | 60/100 |
-| 48 | [rynfar/meridian](./rynfar-meridian.md) | ⭐ 998 | TypeScript | 59/100 |
+| 48 | [rynfar/meridian](./rynfar-meridian.md) | ⭐ 1k | TypeScript | 59/100 |
 | 49 | [beam-community/stripity-stripe](./beam-community-stripity-stripe.md) | ⭐ 1.1k | Elixir | 59/100 |
 | 50 | [wundergraph/graphql-go-tools](./wundergraph-graphql-go-tools.md) | ⭐ 820 | Go | 58/100 |
 | 51 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
@@ -98,9 +98,9 @@
 | 88 | [DrDBanner/inmanage](./drdbanner-inmanage.md) | ⭐ 65 | Shell | 51/100 |
 | 89 | [OpenStudy-dev/OpenStudy](./openstudy-dev-openstudy.md) | ⭐ 62 | TypeScript | 51/100 |
 | 90 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 51/100 |
-| 91 | [anand-92/droidproxy](./anand-92-droidproxy.md) | ⭐ 67 | Swift | 51/100 |
-| 92 | [magnussolution/magnusbilling7](./magnussolution-magnusbilling7.md) | ⭐ 330 | JavaScript | 51/100 |
-| 93 | [chadingTV/claudecode-discord](./chadingtv-claudecode-discord.md) | ⭐ 42 | TypeScript | 51/100 |
+| 91 | [chadingTV/claudecode-discord](./chadingtv-claudecode-discord.md) | ⭐ 42 | TypeScript | 51/100 |
+| 92 | [anand-92/droidproxy](./anand-92-droidproxy.md) | ⭐ 67 | Swift | 51/100 |
+| 93 | [magnussolution/magnusbilling7](./magnussolution-magnusbilling7.md) | ⭐ 330 | JavaScript | 51/100 |
 | 94 | [braintree/braintree_php](./braintree-braintree-php.md) | ⭐ 555 | PHP | 51/100 |
 | 95 | [Adyen/adyen-java-api-library](./adyen-adyen-java-api-library.md) | ⭐ 140 | Java | 51/100 |
 | 96 | [ad-si/invoice-maker](./ad-si-invoice-maker.md) | ⭐ 168 | Typst | 51/100 |
@@ -132,9 +132,9 @@
 | 122 | [checkout/checkout-sdk-node](./checkout-checkout-sdk-node.md) | ⭐ 67 | JavaScript | 47/100 |
 | 123 | [pronamic/woocommerce-subscriptions](./pronamic-woocommerce-subscriptions.md) | ⭐ 469 | PHP | 46/100 |
 | 124 | [sarowish/ytsub](./sarowish-ytsub.md) | ⭐ 76 | Rust | 46/100 |
-| 125 | [avinash-matrixgard/ghosthunter](./avinash-matrixgard-ghosthunter.md) | ⭐ 6 | Python | 46/100 |
-| 126 | [shetabit/multipay](./shetabit-multipay.md) | ⭐ 291 | PHP | 46/100 |
-| 127 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 46/100 |
+| 125 | [shetabit/multipay](./shetabit-multipay.md) | ⭐ 291 | PHP | 46/100 |
+| 126 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 46/100 |
+| 127 | [avinash-matrixgard/ghosthunter](./avinash-matrixgard-ghosthunter.md) | ⭐ 6 | Python | 46/100 |
 | 128 | [xinggaoya/sing-box-windows](./xinggaoya-sing-box-windows.md) | ⭐ 702 | Rust | 46/100 |
 | 129 | [braintree/braintree-android-drop-in](./braintree-braintree-android-drop-in.md) | ⭐ 125 | Java | 46/100 |
 | 130 | [revdoku/revdoku](./revdoku-revdoku.md) | ⭐ 7 | TypeScript | 46/100 |

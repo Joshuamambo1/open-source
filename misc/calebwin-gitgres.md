@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/calebwin/gitgres?style=flat-square&color=yellow)](https://github.com/calebwin/gitgres/stargazers) [![Forks](https://img.shields.io/github/forks/calebwin/gitgres?style=flat-square&color=blue)](https://github.com/calebwin/gitgres/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> My private GitHub backed by Postgres
+> My private GitHub on Postgres
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4 |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 36/100 |

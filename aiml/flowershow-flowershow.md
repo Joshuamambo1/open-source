@@ -1,6 +1,6 @@
 # flowershow/flowershow
 
-[![Stars](https://img.shields.io/github/stars/flowershow/flowershow?style=flat-square&color=yellow)](https://github.com/flowershow/flowershow/stargazers) [![Forks](https://img.shields.io/github/forks/flowershow/flowershow?style=flat-square&color=blue)](https://github.com/flowershow/flowershow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flowershow/flowershow?style=flat-square&color=yellow)](https://github.com/flowershow/flowershow/stargazers) [![Forks](https://img.shields.io/github/forks/flowershow/flowershow?style=flat-square&color=blue)](https://github.com/flowershow/flowershow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 💐 Publish markdown (and html) websites, docs, wikis and websites in seconds. Integrates with your AI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

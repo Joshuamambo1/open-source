@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/vassiliylakhonin/agenda-intelligence-md?style=flat-square&color=yellow)](https://github.com/vassiliylakhonin/agenda-intelligence-md/stargazers) [![Forks](https://img.shields.io/github/forks/vassiliylakhonin/agenda-intelligence-md?style=flat-square&color=blue)](https://github.com/vassiliylakhonin/agenda-intelligence-md/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> A markdown protocol for AI agents that analyze public agenda instead of summarizing it badly.
+> A machine‑readable Markdown protocol and CLI toolkit that lets LLM agents move from simple news summarisation to structured agenda‑analysis (policy, sanctions, regulation, geopolitics, markets).
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # modelcontextprotocol/ext-apps
 
-[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/ext-apps?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/ext-apps/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/ext-apps?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/ext-apps/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/ext-apps?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/ext-apps/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/ext-apps?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/ext-apps/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 265 |
+| 🍴 **Forks** | 266 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

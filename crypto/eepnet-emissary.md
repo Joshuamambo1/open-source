@@ -1,6 +1,6 @@
 # eepnet/emissary
 
-[![Stars](https://img.shields.io/github/stars/eepnet/emissary?style=flat-square&color=yellow)](https://github.com/eepnet/emissary/stargazers) [![Forks](https://img.shields.io/github/forks/eepnet/emissary?style=flat-square&color=blue)](https://github.com/eepnet/emissary/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eepnet/emissary?style=flat-square&color=yellow)](https://github.com/eepnet/emissary/stargazers) [![Forks](https://img.shields.io/github/forks/eepnet/emissary?style=flat-square&color=blue)](https://github.com/eepnet/emissary/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Rust implementation of the I2P protocol stack
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 204 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

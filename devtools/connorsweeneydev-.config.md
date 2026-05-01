@@ -1,6 +1,6 @@
 # ConnorSweeneyDev/.config
 
-[![Stars](https://img.shields.io/github/stars/ConnorSweeneyDev/.config?style=flat-square&color=yellow)](https://github.com/ConnorSweeneyDev/.config/stargazers) [![Forks](https://img.shields.io/github/forks/ConnorSweeneyDev/.config?style=flat-square&color=blue)](https://github.com/ConnorSweeneyDev/.config/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ConnorSweeneyDev/.config?style=flat-square&color=yellow)](https://github.com/ConnorSweeneyDev/.config/stargazers) [![Forks](https://img.shields.io/github/forks/ConnorSweeneyDev/.config?style=flat-square&color=blue)](https://github.com/ConnorSweeneyDev/.config/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > All my Windows dotfiles and how to set them up.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/RL
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA-NeMo/RL?style=flat-square&color=yellow)](https://github.com/NVIDIA-NeMo/RL/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-NeMo/RL?style=flat-square&color=blue)](https://github.com/NVIDIA-NeMo/RL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA-NeMo/RL?style=flat-square&color=yellow)](https://github.com/NVIDIA-NeMo/RL/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-NeMo/RL?style=flat-square&color=blue)](https://github.com/NVIDIA-NeMo/RL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Scalable toolkit for efficient model reinforcement
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 358 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

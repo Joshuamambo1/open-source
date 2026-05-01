@@ -1,6 +1,6 @@
 # zhouyoukang/windsurf-assistant
 
-[![Stars](https://img.shields.io/github/stars/zhouyoukang/windsurf-assistant?style=flat-square&color=yellow)](https://github.com/zhouyoukang/windsurf-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/zhouyoukang/windsurf-assistant?style=flat-square&color=blue)](https://github.com/zhouyoukang/windsurf-assistant/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhouyoukang/windsurf-assistant?style=flat-square&color=yellow)](https://github.com/zhouyoukang/windsurf-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/zhouyoukang/windsurf-assistant?style=flat-square&color=blue)](https://github.com/zhouyoukang/windsurf-assistant/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Windsurf multi-account manager · auto-rotate · quota-aware · zero-config · 水善利万物而不争
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 56 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

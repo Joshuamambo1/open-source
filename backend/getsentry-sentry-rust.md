@@ -1,6 +1,6 @@
 # getsentry/sentry-rust
 
-[![Stars](https://img.shields.io/github/stars/getsentry/sentry-rust?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-rust/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-rust?style=flat-square&color=blue)](https://github.com/getsentry/sentry-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getsentry/sentry-rust?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-rust/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-rust?style=flat-square&color=blue)](https://github.com/getsentry/sentry-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The official Sentry SDK for Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 729 |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

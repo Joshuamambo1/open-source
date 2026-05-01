@@ -1,6 +1,6 @@
 # pguilp25/jarvis-v0.6-beta
 
-[![Stars](https://img.shields.io/github/stars/pguilp25/jarvis-v0.6-beta?style=flat-square&color=yellow)](https://github.com/pguilp25/jarvis-v0.6-beta/stargazers) [![Forks](https://img.shields.io/github/forks/pguilp25/jarvis-v0.6-beta?style=flat-square&color=blue)](https://github.com/pguilp25/jarvis-v0.6-beta/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pguilp25/jarvis-v0.6-beta?style=flat-square&color=yellow)](https://github.com/pguilp25/jarvis-v0.6-beta/stargazers) [![Forks](https://img.shields.io/github/forks/pguilp25/jarvis-v0.6-beta?style=flat-square&color=blue)](https://github.com/pguilp25/jarvis-v0.6-beta/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > the best free ai
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

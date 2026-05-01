@@ -1,6 +1,6 @@
 # floatpane/matcha
 
-[![Stars](https://img.shields.io/github/stars/floatpane/matcha?style=flat-square&color=yellow)](https://github.com/floatpane/matcha/stargazers) [![Forks](https://img.shields.io/github/forks/floatpane/matcha?style=flat-square&color=blue)](https://github.com/floatpane/matcha/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/floatpane/matcha?style=flat-square&color=yellow)](https://github.com/floatpane/matcha/stargazers) [![Forks](https://img.shields.io/github/forks/floatpane/matcha?style=flat-square&color=blue)](https://github.com/floatpane/matcha/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 394 |
-| 🍴 **Forks** | 49 |
+| ⭐ **Stars** | 408 |
+| 🍴 **Forks** | 50 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

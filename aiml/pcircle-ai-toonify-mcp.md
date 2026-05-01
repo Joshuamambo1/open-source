@@ -1,8 +1,8 @@
 # PCIRCLE-AI/toonify-mcp
 
-[![Stars](https://img.shields.io/github/stars/PCIRCLE-AI/toonify-mcp?style=flat-square&color=yellow)](https://github.com/PCIRCLE-AI/toonify-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PCIRCLE-AI/toonify-mcp?style=flat-square&color=blue)](https://github.com/PCIRCLE-AI/toonify-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PCIRCLE-AI/toonify-mcp?style=flat-square&color=yellow)](https://github.com/PCIRCLE-AI/toonify-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PCIRCLE-AI/toonify-mcp?style=flat-square&color=blue)](https://github.com/PCIRCLE-AI/toonify-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Local context compression for Claude Code large outputs, debug traces, and source files.
+> Context compression plugin for Claude Code. Trims large JSON, logs, stack traces, and source files before they enter the context window.
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

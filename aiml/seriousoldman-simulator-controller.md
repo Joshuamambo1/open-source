@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 399 |
-| 🍴 **Forks** | 37 |
+| ⭐ **Stars** | 400 |
+| 🍴 **Forks** | 38 |
 | 💻 **Language** | AutoHotkey |
 | 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |

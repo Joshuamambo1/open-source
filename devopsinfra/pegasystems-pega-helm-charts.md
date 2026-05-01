@@ -1,6 +1,6 @@
 # pegasystems/pega-helm-charts
 
-[![Stars](https://img.shields.io/github/stars/pegasystems/pega-helm-charts?style=flat-square&color=yellow)](https://github.com/pegasystems/pega-helm-charts/stargazers) [![Forks](https://img.shields.io/github/forks/pegasystems/pega-helm-charts?style=flat-square&color=blue)](https://github.com/pegasystems/pega-helm-charts/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pegasystems/pega-helm-charts?style=flat-square&color=yellow)](https://github.com/pegasystems/pega-helm-charts/stargazers) [![Forks](https://img.shields.io/github/forks/pegasystems/pega-helm-charts?style=flat-square&color=blue)](https://github.com/pegasystems/pega-helm-charts/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestrate a Pega Platform™ deployment by using Docker, Kubernetes, and Helm to take advantage of Pega Platform Cloud Choice flexibility.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

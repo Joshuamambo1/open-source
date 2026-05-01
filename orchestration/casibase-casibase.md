@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/casibase/casibase?style=flat-square&color=yellow)](https://github.com/casibase/casibase/stargazers) [![Forks](https://img.shields.io/github/forks/casibase/casibase?style=flat-square&color=blue)](https://github.com/casibase/casibase/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
-> ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org/
+> ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
 
 ## 📊 Stats
 

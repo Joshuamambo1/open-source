@@ -1,6 +1,6 @@
 # Quozul/PicoLimbo
 
-[![Stars](https://img.shields.io/github/stars/Quozul/PicoLimbo?style=flat-square&color=yellow)](https://github.com/Quozul/PicoLimbo/stargazers) [![Forks](https://img.shields.io/github/forks/Quozul/PicoLimbo?style=flat-square&color=blue)](https://github.com/Quozul/PicoLimbo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Quozul/PicoLimbo?style=flat-square&color=yellow)](https://github.com/Quozul/PicoLimbo/stargazers) [![Forks](https://img.shields.io/github/forks/Quozul/PicoLimbo?style=flat-square&color=blue)](https://github.com/Quozul/PicoLimbo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 26.1.2.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 427 |
+| ⭐ **Stars** | 428 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

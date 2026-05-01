@@ -1,6 +1,6 @@
 # dtan4/k8stail
 
-[![Stars](https://img.shields.io/github/stars/dtan4/k8stail?style=flat-square&color=yellow)](https://github.com/dtan4/k8stail/stargazers) [![Forks](https://img.shields.io/github/forks/dtan4/k8stail?style=flat-square&color=blue)](https://github.com/dtan4/k8stail/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dtan4/k8stail?style=flat-square&color=yellow)](https://github.com/dtan4/k8stail/stargazers) [![Forks](https://img.shields.io/github/forks/dtan4/k8stail?style=flat-square&color=blue)](https://github.com/dtan4/k8stail/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > tail -f experience for Kubernetes Pods
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

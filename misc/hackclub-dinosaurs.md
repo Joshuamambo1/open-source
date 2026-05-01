@@ -1,6 +1,6 @@
 # hackclub/dinosaurs
 
-[![Stars](https://img.shields.io/github/stars/hackclub/dinosaurs?style=flat-square&color=yellow)](https://github.com/hackclub/dinosaurs/stargazers) [![Forks](https://img.shields.io/github/forks/hackclub/dinosaurs?style=flat-square&color=blue)](https://github.com/hackclub/dinosaurs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hackclub/dinosaurs?style=flat-square&color=yellow)](https://github.com/hackclub/dinosaurs/stargazers) [![Forks](https://img.shields.io/github/forks/hackclub/dinosaurs?style=flat-square&color=blue)](https://github.com/hackclub/dinosaurs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🦕 A collection of Orpheus (Hack Club's mascot) drawings! Look at them at rawr.hackclub.com :)
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 261 |
+| 🍴 **Forks** | 262 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

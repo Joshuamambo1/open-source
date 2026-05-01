@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/VersusControl/versus-incident?style=flat-square&color=yellow)](https://github.com/VersusControl/versus-incident/stargazers) [![Forks](https://img.shields.io/github/forks/VersusControl/versus-incident?style=flat-square&color=blue)](https://github.com/VersusControl/versus-incident/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
-> An incident management tool supporting multi-channel alerting, customizable messages, and on-call integrations. Compatible with any tool supporting webhook alerts.
+> An incident management tool supporting multi-channel alerting, customizable messages, on-call integrations, and the built-in AI SRE Agent. Compatible with any tool supporting webhook alerts.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Frontend
 
 ## 📝 Summary
 

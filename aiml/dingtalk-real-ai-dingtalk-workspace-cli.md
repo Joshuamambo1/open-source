@@ -1,6 +1,6 @@
 # DingTalk-Real-AI/dingtalk-workspace-cli
 
-[![Stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=flat-square&color=yellow)](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/stargazers) [![Forks](https://img.shields.io/github/forks/DingTalk-Real-AI/dingtalk-workspace-cli?style=flat-square&color=blue)](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=flat-square&color=yellow)](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/stargazers) [![Forks](https://img.shields.io/github/forks/DingTalk-Real-AI/dingtalk-workspace-cli?style=flat-square&color=blue)](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 104 |
+| 🍴 **Forks** | 105 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

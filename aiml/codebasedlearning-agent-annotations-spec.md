@@ -1,8 +1,8 @@
 # codebasedlearning/agent-annotations-spec
 
-[![Stars](https://img.shields.io/github/stars/codebasedlearning/agent-annotations-spec?style=flat-square&color=yellow)](https://github.com/codebasedlearning/agent-annotations-spec/stargazers) [![Forks](https://img.shields.io/github/forks/codebasedlearning/agent-annotations-spec?style=flat-square&color=blue)](https://github.com/codebasedlearning/agent-annotations-spec/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codebasedlearning/agent-annotations-spec?style=flat-square&color=yellow)](https://github.com/codebasedlearning/agent-annotations-spec/stargazers) [![Forks](https://img.shields.io/github/forks/codebasedlearning/agent-annotations-spec?style=flat-square&color=blue)](https://github.com/codebasedlearning/agent-annotations-spec/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> _No description provided._
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

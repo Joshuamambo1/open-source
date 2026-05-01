@@ -1,6 +1,6 @@
 # jhipster/prettier-java
 
-[![Stars](https://img.shields.io/github/stars/jhipster/prettier-java?style=flat-square&color=yellow)](https://github.com/jhipster/prettier-java/stargazers) [![Forks](https://img.shields.io/github/forks/jhipster/prettier-java?style=flat-square&color=blue)](https://github.com/jhipster/prettier-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jhipster/prettier-java?style=flat-square&color=yellow)](https://github.com/jhipster/prettier-java/stargazers) [![Forks](https://img.shields.io/github/forks/jhipster/prettier-java?style=flat-square&color=blue)](https://github.com/jhipster/prettier-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Prettier Java Plugin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

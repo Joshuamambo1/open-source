@@ -1,6 +1,6 @@
 # lindera/lindera
 
-[![Stars](https://img.shields.io/github/stars/lindera/lindera?style=flat-square&color=yellow)](https://github.com/lindera/lindera/stargazers) [![Forks](https://img.shields.io/github/forks/lindera/lindera?style=flat-square&color=blue)](https://github.com/lindera/lindera/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lindera/lindera?style=flat-square&color=yellow)](https://github.com/lindera/lindera/stargazers) [![Forks](https://img.shields.io/github/forks/lindera/lindera?style=flat-square&color=blue)](https://github.com/lindera/lindera/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A multilingual morphological analysis library.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 623 |
+| ⭐ **Stars** | 624 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

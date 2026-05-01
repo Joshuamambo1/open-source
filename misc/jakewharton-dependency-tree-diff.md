@@ -1,6 +1,6 @@
 # JakeWharton/dependency-tree-diff
 
-[![Stars](https://img.shields.io/github/stars/JakeWharton/dependency-tree-diff?style=flat-square&color=yellow)](https://github.com/JakeWharton/dependency-tree-diff/stargazers) [![Forks](https://img.shields.io/github/forks/JakeWharton/dependency-tree-diff?style=flat-square&color=blue)](https://github.com/JakeWharton/dependency-tree-diff/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JakeWharton/dependency-tree-diff?style=flat-square&color=yellow)](https://github.com/JakeWharton/dependency-tree-diff/stargazers) [![Forks](https://img.shields.io/github/forks/JakeWharton/dependency-tree-diff?style=flat-square&color=blue)](https://github.com/JakeWharton/dependency-tree-diff/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > An intelligent diff tool for the output of Gradle's dependencies task
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 839 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

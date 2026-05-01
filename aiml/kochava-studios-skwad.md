@@ -1,6 +1,6 @@
 # Kochava-Studios/skwad
 
-[![Stars](https://img.shields.io/github/stars/Kochava-Studios/skwad?style=flat-square&color=yellow)](https://github.com/Kochava-Studios/skwad/stargazers) [![Forks](https://img.shields.io/github/forks/Kochava-Studios/skwad?style=flat-square&color=blue)](https://github.com/Kochava-Studios/skwad/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kochava-Studios/skwad?style=flat-square&color=yellow)](https://github.com/Kochava-Studios/skwad/stargazers) [![Forks](https://img.shields.io/github/forks/Kochava-Studios/skwad?style=flat-square&color=blue)](https://github.com/Kochava-Studios/skwad/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > AI coding agents, working together
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

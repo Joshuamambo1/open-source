@@ -1,6 +1,6 @@
 # bububa/oceanengine
 
-[![Stars](https://img.shields.io/github/stars/bububa/oceanengine?style=flat-square&color=yellow)](https://github.com/bububa/oceanengine/stargazers) [![Forks](https://img.shields.io/github/forks/bububa/oceanengine?style=flat-square&color=blue)](https://github.com/bububa/oceanengine/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bububa/oceanengine?style=flat-square&color=yellow)](https://github.com/bububa/oceanengine/stargazers) [![Forks](https://img.shields.io/github/forks/bububa/oceanengine?style=flat-square&color=blue)](https://github.com/bububa/oceanengine/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 巨量引擎marketing-api golang sdk
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 118 |
+| ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

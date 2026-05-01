@@ -1,6 +1,6 @@
 # ahochsteger/gmail-processor
 
-[![Stars](https://img.shields.io/github/stars/ahochsteger/gmail-processor?style=flat-square&color=yellow)](https://github.com/ahochsteger/gmail-processor/stargazers) [![Forks](https://img.shields.io/github/forks/ahochsteger/gmail-processor?style=flat-square&color=blue)](https://github.com/ahochsteger/gmail-processor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahochsteger/gmail-processor?style=flat-square&color=yellow)](https://github.com/ahochsteger/gmail-processor/stargazers) [![Forks](https://img.shields.io/github/forks/ahochsteger/gmail-processor?style=flat-square&color=blue)](https://github.com/ahochsteger/gmail-processor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Gmail Processor is a Google Apps Script library that automates the processing of Gmail messages and attachments and execute actions (e.g. store attachments in a GDrive folder, log information in a spreadsheet) depending on matching criteria.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 580 |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

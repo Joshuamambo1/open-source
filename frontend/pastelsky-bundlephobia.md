@@ -1,6 +1,6 @@
 # pastelsky/bundlephobia
 
-[![Stars](https://img.shields.io/github/stars/pastelsky/bundlephobia?style=flat-square&color=yellow)](https://github.com/pastelsky/bundlephobia/stargazers) [![Forks](https://img.shields.io/github/forks/pastelsky/bundlephobia?style=flat-square&color=blue)](https://github.com/pastelsky/bundlephobia/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pastelsky/bundlephobia?style=flat-square&color=yellow)](https://github.com/pastelsky/bundlephobia/stargazers) [![Forks](https://img.shields.io/github/forks/pastelsky/bundlephobia?style=flat-square&color=blue)](https://github.com/pastelsky/bundlephobia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > 🏋️ Find out the cost of adding a new frontend dependency to your project
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 9.5k |
 | 🍴 **Forks** | 248 |
-| 💻 **Language** | JavaScript |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

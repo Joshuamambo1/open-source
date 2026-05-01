@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/kiwifs/kiwifs?style=flat-square&color=yellow)](https://github.com/kiwifs/kiwifs/stargazers) [![Forks](https://img.shields.io/github/forks/kiwifs/kiwifs?style=flat-square&color=blue)](https://github.com/kiwifs/kiwifs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Virtual filesystem agents can write, search, query, and trust
+> Knowledge filesystem agents can write to, search, query, and trust.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 248 |
-| 🍴 **Forks** | 47 |
+| 🍴 **Forks** | 48 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |

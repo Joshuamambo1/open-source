@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 586 |
+| ⭐ **Stars** | 587 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | 1C Enterprise |
 | 📈 **Score** | 55/100 |

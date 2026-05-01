@@ -1,6 +1,6 @@
 # horsicq/Detect-It-Easy
 
-[![Stars](https://img.shields.io/github/stars/horsicq/Detect-It-Easy?style=flat-square&color=yellow)](https://github.com/horsicq/Detect-It-Easy/stargazers) [![Forks](https://img.shields.io/github/forks/horsicq/Detect-It-Easy?style=flat-square&color=blue)](https://github.com/horsicq/Detect-It-Easy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/horsicq/Detect-It-Easy?style=flat-square&color=yellow)](https://github.com/horsicq/Detect-It-Easy/stargazers) [![Forks](https://img.shields.io/github/forks/horsicq/Detect-It-Easy?style=flat-square&color=blue)](https://github.com/horsicq/Detect-It-Easy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > Program for determining types of files for Windows, Linux and MacOS.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.7k |
-| 🍴 **Forks** | 899 |
+| 🍴 **Forks** | 900 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 98/100 |
+| 📈 **Score** | 99/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

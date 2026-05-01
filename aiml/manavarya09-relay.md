@@ -1,6 +1,6 @@
 # Manavarya09/relay
 
-[![Stars](https://img.shields.io/github/stars/Manavarya09/relay?style=flat-square&color=yellow)](https://github.com/Manavarya09/relay/stargazers) [![Forks](https://img.shields.io/github/forks/Manavarya09/relay?style=flat-square&color=blue)](https://github.com/Manavarya09/relay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Manavarya09/relay?style=flat-square&color=yellow)](https://github.com/Manavarya09/relay/stargazers) [![Forks](https://img.shields.io/github/forks/Manavarya09/relay?style=flat-square&color=blue)](https://github.com/Manavarya09/relay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > When Claude Code hits its rate limit, Relay hands off your full session context to Codex, Gemini, Aider, or 5 other agents — so your work never stops.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

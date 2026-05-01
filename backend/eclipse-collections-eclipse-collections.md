@@ -1,6 +1,6 @@
 # eclipse-collections/eclipse-collections
 
-[![Stars](https://img.shields.io/github/stars/eclipse-collections/eclipse-collections?style=flat-square&color=yellow)](https://github.com/eclipse-collections/eclipse-collections/stargazers) [![Forks](https://img.shields.io/github/forks/eclipse-collections/eclipse-collections?style=flat-square&color=blue)](https://github.com/eclipse-collections/eclipse-collections/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eclipse-collections/eclipse-collections?style=flat-square&color=yellow)](https://github.com/eclipse-collections/eclipse-collections/stargazers) [![Forks](https://img.shields.io/github/forks/eclipse-collections/eclipse-collections?style=flat-square&color=blue)](https://github.com/eclipse-collections/eclipse-collections/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 685 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

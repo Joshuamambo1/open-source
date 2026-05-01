@@ -1,6 +1,6 @@
 # frossm/rpncalc
 
-[![Stars](https://img.shields.io/github/stars/frossm/rpncalc?style=flat-square&color=yellow)](https://github.com/frossm/rpncalc/stargazers) [![Forks](https://img.shields.io/github/forks/frossm/rpncalc?style=flat-square&color=blue)](https://github.com/frossm/rpncalc/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frossm/rpncalc?style=flat-square&color=yellow)](https://github.com/frossm/rpncalc/stargazers) [![Forks](https://img.shields.io/github/forks/frossm/rpncalc?style=flat-square&color=blue)](https://github.com/frossm/rpncalc/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > RPNCalc: The Command Line Reverse Polish Notation (RPN) Calculator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

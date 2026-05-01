@@ -1,6 +1,6 @@
 # offset/onion-vanity-address
 
-[![Stars](https://img.shields.io/github/stars/offset/onion-vanity-address?style=flat-square&color=yellow)](https://github.com/offset/onion-vanity-address/stargazers) [![Forks](https://img.shields.io/github/forks/offset/onion-vanity-address?style=flat-square&color=blue)](https://github.com/offset/onion-vanity-address/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/offset/onion-vanity-address?style=flat-square&color=yellow)](https://github.com/offset/onion-vanity-address/stargazers) [![Forks](https://img.shields.io/github/forks/offset/onion-vanity-address?style=flat-square&color=blue)](https://github.com/offset/onion-vanity-address/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Tor Onion Service v3 vanity address generator with optimized search
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 423 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

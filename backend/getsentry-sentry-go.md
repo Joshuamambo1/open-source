@@ -1,6 +1,6 @@
 # getsentry/sentry-go
 
-[![Stars](https://img.shields.io/github/stars/getsentry/sentry-go?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-go/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-go?style=flat-square&color=blue)](https://github.com/getsentry/sentry-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getsentry/sentry-go?style=flat-square&color=yellow)](https://github.com/getsentry/sentry-go/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/sentry-go?style=flat-square&color=blue)](https://github.com/getsentry/sentry-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The official Go SDK for Sentry (sentry.io)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 252 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

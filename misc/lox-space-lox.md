@@ -1,6 +1,6 @@
 # lox-space/lox
 
-[![Stars](https://img.shields.io/github/stars/lox-space/lox?style=flat-square&color=yellow)](https://github.com/lox-space/lox/stargazers) [![Forks](https://img.shields.io/github/forks/lox-space/lox?style=flat-square&color=blue)](https://github.com/lox-space/lox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lox-space/lox?style=flat-square&color=yellow)](https://github.com/lox-space/lox/stargazers) [![Forks](https://img.shields.io/github/forks/lox-space/lox?style=flat-square&color=blue)](https://github.com/lox-space/lox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Oxidized Astrodynamics
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 372 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Hmbown/DeepSeek-TUI
 
-[![Stars](https://img.shields.io/github/stars/Hmbown/DeepSeek-TUI?style=flat-square&color=yellow)](https://github.com/Hmbown/DeepSeek-TUI/stargazers) [![Forks](https://img.shields.io/github/forks/Hmbown/DeepSeek-TUI?style=flat-square&color=blue)](https://github.com/Hmbown/DeepSeek-TUI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hmbown/DeepSeek-TUI?style=flat-square&color=yellow)](https://github.com/Hmbown/DeepSeek-TUI/stargazers) [![Forks](https://img.shields.io/github/forks/Hmbown/DeepSeek-TUI?style=flat-square&color=blue)](https://github.com/Hmbown/DeepSeek-TUI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Coding agent for DeepSeek models that runs in your terminal
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 913 |
-| 🍴 **Forks** | 56 |
+| ⭐ **Stars** | 1.1k |
+| 🍴 **Forks** | 67 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

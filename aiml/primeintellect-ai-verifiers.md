@@ -1,6 +1,6 @@
 # PrimeIntellect-ai/verifiers
 
-[![Stars](https://img.shields.io/github/stars/PrimeIntellect-ai/verifiers?style=flat-square&color=yellow)](https://github.com/PrimeIntellect-ai/verifiers/stargazers) [![Forks](https://img.shields.io/github/forks/PrimeIntellect-ai/verifiers?style=flat-square&color=blue)](https://github.com/PrimeIntellect-ai/verifiers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PrimeIntellect-ai/verifiers?style=flat-square&color=yellow)](https://github.com/PrimeIntellect-ai/verifiers/stargazers) [![Forks](https://img.shields.io/github/forks/PrimeIntellect-ai/verifiers?style=flat-square&color=blue)](https://github.com/PrimeIntellect-ai/verifiers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Our library for RL environments + evals
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.1k |
-| 🍴 **Forks** | 539 |
+| 🍴 **Forks** | 538 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

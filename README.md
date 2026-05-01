@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13783** |
+| 🗂️ **Total projects** | **13841** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5214 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2744 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1340 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1036 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 846 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 822 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 485 | [Browse →](./crypto/) |
-| 📊 **Data** | 317 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 301 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 5227 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2761 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1347 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1042 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 851 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 823 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 488 | [Browse →](./crypto/) |
+| 📊 **Data** | 318 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 303 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 172 | [Browse →](./mobile/) |
-| 💳 **Payments** | 150 | [Browse →](./payments/) |
-| 📈 **Trading** | 141 | [Browse →](./trading/) |
-| 🔐 **Security** | 116 | [Browse →](./security/) |
+| 💳 **Payments** | 151 | [Browse →](./payments/) |
+| 📈 **Trading** | 142 | [Browse →](./trading/) |
+| 🔐 **Security** | 117 | [Browse →](./security/) |
 | ✨ **Design** | 44 | [Browse →](./design/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 26 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [jestjs/jest](./aiml/jestjs-jest.md) | ⭐ 45.3k | AI/ML |
-| 2 | [VoltAgent/awesome-design-md](./aiml/voltagent-awesome-design-md.md) | ⭐ 69.1k | AI/ML |
-| 3 | [influxdata/influxdb](./frontend/influxdata-influxdb.md) | ⭐ 31.5k | Frontend |
-| 4 | [Dokploy/dokploy](./frontend/dokploy-dokploy.md) | ⭐ 33.7k | Frontend |
-| 5 | [CorentinTh/it-tools](./frontend/corentinth-it-tools.md) | ⭐ 38.3k | Frontend |
-| 6 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 7 | [Stirling-Tools/Stirling-PDF](./devopsinfra/stirling-tools-stirling-pdf.md) | ⭐ 78.1k | DevOps & Infra |
-| 8 | [xbmc/xbmc](./aiml/xbmc-xbmc.md) | ⭐ 20.7k | AI/ML |
-| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 10 | [iii-hq/iii](./aiml/iii-hq-iii.md) | ⭐ 15.5k | AI/ML |
+| 1 | [invertase/react-native-firebase](./aiml/invertase-react-native-firebase.md) | ⭐ 12.3k | AI/ML |
+| 2 | [awsdocs/aws-doc-sdk-examples](./aiml/awsdocs-aws-doc-sdk-examples.md) | ⭐ 10.4k | AI/ML |
+| 3 | [VoltAgent/awesome-design-md](./aiml/voltagent-awesome-design-md.md) | ⭐ 69.1k | AI/ML |
+| 4 | [influxdata/influxdb](./frontend/influxdata-influxdb.md) | ⭐ 31.5k | Frontend |
+| 5 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 6 | [ruby/ruby](./misc/ruby-ruby.md) | ⭐ 23.6k | Misc |
+| 7 | [LizardByte/Sunshine](./aiml/lizardbyte-sunshine.md) | ⭐ 36.6k | AI/ML |
+| 8 | [future-architect/vuls](./aiml/future-architect-vuls.md) | ⭐ 12.1k | AI/ML |
+| 9 | [shadps4-emu/shadPS4](./frontend/shadps4-emu-shadps4.md) | ⭐ 31k | Frontend |
+| 10 | [pubkey/rxdb](./aiml/pubkey-rxdb.md) | ⭐ 23.2k | AI/ML |
 
 ## 🚀 How it works
 

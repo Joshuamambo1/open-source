@@ -1,6 +1,6 @@
 # CaicoLeung/bob-plugin-ollama-translator
 
-[![Stars](https://img.shields.io/github/stars/CaicoLeung/bob-plugin-ollama-translator?style=flat-square&color=yellow)](https://github.com/CaicoLeung/bob-plugin-ollama-translator/stargazers) [![Forks](https://img.shields.io/github/forks/CaicoLeung/bob-plugin-ollama-translator?style=flat-square&color=blue)](https://github.com/CaicoLeung/bob-plugin-ollama-translator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CaicoLeung/bob-plugin-ollama-translator?style=flat-square&color=yellow)](https://github.com/CaicoLeung/bob-plugin-ollama-translator/stargazers) [![Forks](https://img.shields.io/github/forks/CaicoLeung/bob-plugin-ollama-translator?style=flat-square&color=blue)](https://github.com/CaicoLeung/bob-plugin-ollama-translator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 支持多种AI服务（Ollama/Qwen/OpenAI/Grok/Claude/Gemini等）的翻译和解释插件，可进行单词、整句翻译及百科解释
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

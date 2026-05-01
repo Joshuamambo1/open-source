@@ -1,6 +1,6 @@
 # Oolab-labs/claude-ide-bridge
 
-[![Stars](https://img.shields.io/github/stars/Oolab-labs/claude-ide-bridge?style=flat-square&color=yellow)](https://github.com/Oolab-labs/claude-ide-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/Oolab-labs/claude-ide-bridge?style=flat-square&color=blue)](https://github.com/Oolab-labs/claude-ide-bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Oolab-labs/claude-ide-bridge?style=flat-square&color=yellow)](https://github.com/Oolab-labs/claude-ide-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/Oolab-labs/claude-ide-bridge?style=flat-square&color=blue)](https://github.com/Oolab-labs/claude-ide-bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > MCP bridge giving Claude Code full IDE integration — 25+ tools for LSP, debugging, terminals, Git, GitHub, diagnostics, and more. Works with VS Code, Windsurf, Cursor, and Antigravity.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

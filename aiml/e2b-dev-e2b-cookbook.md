@@ -1,6 +1,6 @@
 # e2b-dev/e2b-cookbook
 
-[![Stars](https://img.shields.io/github/stars/e2b-dev/e2b-cookbook?style=flat-square&color=yellow)](https://github.com/e2b-dev/e2b-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/e2b-cookbook?style=flat-square&color=blue)](https://github.com/e2b-dev/e2b-cookbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/e2b-dev/e2b-cookbook?style=flat-square&color=yellow)](https://github.com/e2b-dev/e2b-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/e2b-cookbook?style=flat-square&color=blue)](https://github.com/e2b-dev/e2b-cookbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Examples of using E2B
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 239 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

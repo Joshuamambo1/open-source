@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the JioTV-Go project:
-
-JioTV-Go is an open-source project that enables access to JioTV content across various devices without relying on the official JioTV App. Built using Golang, this project combines speed and efficiency to provide a seamless viewing experience. It's a backend-focused solution that aims to provide users with greater flexibility and accessibility to their JioTV content.
+JioTV-Go is an open-source project that allows users to access JioTV content across various devices without the need for the official app. Developed using Golang, this project aims to provide a fast and efficient way to stream JioTV content. It enables seamless integration and access to JioTV across multiple platforms.
 
 ---
 

@@ -25,9 +25,9 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the project:
 
-The `nvim-mcp` project is an open-source Model Context Protocol (MCP) server that integrates AI assistants with Neovim instances, enabling seamless collaboration and interaction between editors and AI tools. By providing a connection to Neovim instances, this server allows AI assistants to access diagnostic information and structured resources, enhancing the AI-assisted editing experience. This project facilitates a more efficient and productive workflow for developers and AI researchers.
+Nvim-mcp is an open-source Model Context Protocol (MCP) server that integrates seamlessly with Neovim instances. It enables AI assistants to interact with the editor through connections, providing access to diagnostic information via structured resources. This project facilitates a more streamlined collaboration between AI tools and the Neovim editor.
 
 ---
 

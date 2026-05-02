@@ -1,6 +1,6 @@
 # ossdocumentscanner/OSS-DocumentScanner
 
-[![Stars](https://img.shields.io/github/stars/ossdocumentscanner/OSS-DocumentScanner?style=flat-square&color=yellow)](https://github.com/ossdocumentscanner/OSS-DocumentScanner/stargazers) [![Forks](https://img.shields.io/github/forks/ossdocumentscanner/OSS-DocumentScanner?style=flat-square&color=blue)](https://github.com/ossdocumentscanner/OSS-DocumentScanner/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ossdocumentscanner/OSS-DocumentScanner?style=flat-square&color=yellow)](https://github.com/ossdocumentscanner/OSS-DocumentScanner/stargazers) [![Forks](https://img.shields.io/github/forks/ossdocumentscanner/OSS-DocumentScanner?style=flat-square&color=blue)](https://github.com/ossdocumentscanner/OSS-DocumentScanner/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Document scanning app
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

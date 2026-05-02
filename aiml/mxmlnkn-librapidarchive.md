@@ -1,6 +1,6 @@
 # mxmlnkn/librapidarchive
 
-[![Stars](https://img.shields.io/github/stars/mxmlnkn/librapidarchive?style=flat-square&color=yellow)](https://github.com/mxmlnkn/librapidarchive/stargazers) [![Forks](https://img.shields.io/github/forks/mxmlnkn/librapidarchive?style=flat-square&color=blue)](https://github.com/mxmlnkn/librapidarchive/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mxmlnkn/librapidarchive?style=flat-square&color=yellow)](https://github.com/mxmlnkn/librapidarchive/stargazers) [![Forks](https://img.shields.io/github/forks/mxmlnkn/librapidarchive?style=flat-square&color=blue)](https://github.com/mxmlnkn/librapidarchive/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Fast parallel random access to bzip2 and gzip files in Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

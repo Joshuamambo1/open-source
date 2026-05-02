@@ -1,6 +1,6 @@
 # ariebovenberg/whenever
 
-[![Stars](https://img.shields.io/github/stars/ariebovenberg/whenever?style=flat-square&color=yellow)](https://github.com/ariebovenberg/whenever/stargazers) [![Forks](https://img.shields.io/github/forks/ariebovenberg/whenever?style=flat-square&color=blue)](https://github.com/ariebovenberg/whenever/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ariebovenberg/whenever?style=flat-square&color=yellow)](https://github.com/ariebovenberg/whenever/stargazers) [![Forks](https://img.shields.io/github/forks/ariebovenberg/whenever?style=flat-square&color=blue)](https://github.com/ariebovenberg/whenever/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > ⏰ Modern datetime library for Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

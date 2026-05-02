@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/drayline/rootnode-skills?style=flat-square&color=yellow)](https://github.com/drayline/rootnode-skills/stargazers) [![Forks](https://img.shields.io/github/forks/drayline/rootnode-skills?style=flat-square&color=blue)](https://github.com/drayline/rootnode-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> 19 Skills that diagnose, build, and optimize every layer of a Claude Project: from a single prompt to your entire Claude environment
+> 21 Skills that diagnose, build, and optimize every layer of a Claude Project: from a single prompt to your entire Claude environment
 
 ## 📊 Stats
 

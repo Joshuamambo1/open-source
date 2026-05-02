@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the Withastro/flue project:
-
-Withastro/flue is an open-source sandbox agent framework designed for orchestration and AI/ML applications. This project provides a flexible and customizable environment for testing and deploying various agents, allowing developers to simulate complex systems and scenarios. By leveraging the sandbox agent framework, developers can efficiently test, validate, and refine their AI and ML models in a controlled and isolated setting.
+The flue framework is an open-source, sandbox agent framework designed to facilitate the development and deployment of AI and ML applications. It enables users to create and manage isolated environments for testing and training models, promoting reproducibility and reliability in AI-related projects. This framework is particularly useful for researchers and developers working with machine learning models.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Amnitex is an open-source project that provides a lossless memory layer for AI coding assistants. This innovative solution enables AI coding assistants to retain context and maintain memory of code snippets, variables, and functions, enhancing their overall coding capabilities and accuracy. By utilizing Amnitex, AI coding assistants can provide more informed and relevant suggestions to developers.
+Amnitex is an open-source project that aims to create a lossless memory layer for AI coding assistants, enabling more efficient and effective coding experiences. This innovative technology seeks to improve the performance of AI-powered coding tools by optimizing memory usage and streamlining data processing. By leveraging Amnitex, developers can potentially enhance the capabilities of their AI coding assistants and accelerate the coding process.
 
 ---
 

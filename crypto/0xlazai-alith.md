@@ -25,9 +25,7 @@ Crypto · AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The alith project is an open-source initiative that provides simple, composable, high-performance, and safe AI agents for web3 applications. Developed with a focus on user-friendliness, it enables anyone to access and integrate AI capabilities into their projects. The LazAI Gateway serves as a central hub for these AI agents, facilitating seamless interaction and innovation in the crypto and AI/ML spaces.
+The alith project is an open-source initiative that provides a platform for developing simple, composable, high-performance, and safe artificial intelligence (AI) agents. Designed with web3 in mind, this project enables users to create and interact with AI agents in a secure and blockchain-friendly manner. The alith gateway serves as a foundation for building and deploying AI models in various applications.
 
 ---
 

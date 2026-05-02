@@ -1,6 +1,6 @@
 # blob42/gosuki
 
-[![Stars](https://img.shields.io/github/stars/blob42/gosuki?style=flat-square&color=yellow)](https://github.com/blob42/gosuki/stargazers) [![Forks](https://img.shields.io/github/forks/blob42/gosuki?style=flat-square&color=blue)](https://github.com/blob42/gosuki/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blob42/gosuki?style=flat-square&color=yellow)](https://github.com/blob42/gosuki/stargazers) [![Forks](https://img.shields.io/github/forks/blob42/gosuki?style=flat-square&color=blue)](https://github.com/blob42/gosuki/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, open-source, privacy-first bookmark manager that unifies your bookmarks across multiple browsers, syncs them in real time (locally or P2P), requires no extensions, and stores everything locally.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 485 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

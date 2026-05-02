@@ -25,9 +25,9 @@ DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary of the open-source project jing2uo/tdx2db:
 
-The tdx2db project is an open-source tool that provides a dedicated A-share market data database. It offers a 30-second delay in real-time data, catering to developers and data analysts who require timely and accurate financial information. This project aims to facilitate seamless data integration and analysis for A-share market enthusiasts.
+This project, tdx2db, is an open-source tool that creates a dedicated A-share market database, providing users with a comprehensive and accessible source of financial data. It is designed to be efficient, with data generation occurring within 30 seconds. By utilizing this database, developers can build applications that leverage real-time A-share market data.
 
 ---
 

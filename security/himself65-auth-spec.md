@@ -1,6 +1,6 @@
 # himself65/auth-spec
 
-[![Stars](https://img.shields.io/github/stars/himself65/auth-spec?style=flat-square&color=yellow)](https://github.com/himself65/auth-spec/stargazers) [![Forks](https://img.shields.io/github/forks/himself65/auth-spec?style=flat-square&color=blue)](https://github.com/himself65/auth-spec/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/himself65/auth-spec?style=flat-square&color=yellow)](https://github.com/himself65/auth-spec/stargazers) [![Forks](https://img.shields.io/github/forks/himself65/auth-spec?style=flat-square&color=blue)](https://github.com/himself65/auth-spec/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Create your own auth skills collection
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

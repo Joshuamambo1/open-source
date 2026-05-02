@@ -1,6 +1,6 @@
 # subzeroid/aiograpi
 
-[![Stars](https://img.shields.io/github/stars/subzeroid/aiograpi?style=flat-square&color=yellow)](https://github.com/subzeroid/aiograpi/stargazers) [![Forks](https://img.shields.io/github/forks/subzeroid/aiograpi?style=flat-square&color=blue)](https://github.com/subzeroid/aiograpi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/subzeroid/aiograpi?style=flat-square&color=yellow)](https://github.com/subzeroid/aiograpi/stargazers) [![Forks](https://img.shields.io/github/forks/subzeroid/aiograpi?style=flat-square&color=blue)](https://github.com/subzeroid/aiograpi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Asynchronous Python library for Instagram Private API 2026
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

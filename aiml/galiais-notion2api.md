@@ -27,7 +27,7 @@ AI/ML · Backend
 
 Here's a brief summary for the GALIAIS/Notion2API project:
 
-GALIAIS/Notion2API is an open-source project designed to facilitate seamless integration with Notion APIs, providing developers with a robust backend solution for interacting with Notion databases. This project enables users to leverage Notion's data and functionality in their AI/ML applications, empowering them to build innovative solutions with ease. By utilizing GALIAIS/Notion2API, developers can unlock the full potential of Notion's data-driven capabilities.
+The GALIAIS/Notion2API project is an open-source initiative that enables seamless integration with Notion, a popular productivity and note-taking platform, by providing a robust API wrapper. This project empowers developers to build custom applications and scripts that can interact with Notion databases, pages, and content, unlocking new possibilities for automation and integration. By harnessing the power of Notion2API, developers can create innovative solutions that streamline workflows and enhance productivity.
 
 ---
 

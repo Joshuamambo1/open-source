@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the TimeCyber/MCP-X-web project:
+Here's a 2-3 sentence summary of the project:
 
-MCP-X is an enterprise-level AI middleware platform that integrates various creative tools, including AI dialogue, content generation, video and image creation, frontend application building, and a marketplace for AI-powered agents. This comprehensive platform offers a one-stop solution for developers and enterprises to build and deploy AI-generated content. By leveraging MCP-X, users can streamline their AIGC workflow and unlock new possibilities in AI-driven innovation.
+TimeCyber/MCP-X-web is an open-source, enterprise-grade AI middleware platform (MCP-X) that offers a comprehensive suite of AI creation tools, including conversational AI, content generation, video and image creation, and frontend application development. This multi-tool platform provides a one-stop-shop solution for businesses and developers to build and deploy AI-powered applications. MCP-X supports a range of creative capabilities, including MCP market and Agent intelligent entity tools.
 
 ---
 

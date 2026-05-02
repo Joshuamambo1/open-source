@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-The valkey-go project is an open-source, high-performance client for interacting with Valkey services. It features advanced capabilities such as client-side caching, automatic pipelining, and support for RMDA (Remote Method Dispatch Architecture), making it an efficient and scalable DevTool for developers. By utilizing Golang, valkey-go provides a fast and reliable interface for Valkey users.
+Here's a brief summary for the valkey-io/valkey-go project:
+
+Valkey-go is a high-performance client for Valkey, a Golang data access client that enables efficient and scalable data fetching. Key features of this project include client-side caching, automated pipelining, and support for RMDA (Remote Method Invocation Data Access). It serves as a powerful tool for developers working with Golang applications.
 
 ---
 

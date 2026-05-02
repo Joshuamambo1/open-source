@@ -1,6 +1,6 @@
 # David-Crty/databasement
 
-[![Stars](https://img.shields.io/github/stars/David-Crty/databasement?style=flat-square&color=yellow)](https://github.com/David-Crty/databasement/stargazers) [![Forks](https://img.shields.io/github/forks/David-Crty/databasement?style=flat-square&color=blue)](https://github.com/David-Crty/databasement/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/David-Crty/databasement?style=flat-square&color=yellow)](https://github.com/David-Crty/databasement/stargazers) [![Forks](https://img.shields.io/github/forks/David-Crty/databasement?style=flat-square&color=blue)](https://github.com/David-Crty/databasement/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, MongoDB, SQLite & Redis to S3, SFTP, or local storage. SSH Tunnel support.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 552 |
-| 🍴 **Forks** | 38 |
+| ⭐ **Stars** | 585 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

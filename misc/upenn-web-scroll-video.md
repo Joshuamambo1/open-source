@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project is designed to create an MP4 video of a web page scrolling at a steady speed. The project utilizes a straightforward approach to automate the process, allowing users to easily generate scrolling videos from their favorite web pages. By leveraging this tool, users can capture and share dynamic web content in a static video format.
+This open-source project enables users to create a static MP4 video of a web page scrolling at a consistent speed. The project allows developers to capture a web page as it scrolls through its entire content, providing a unique and engaging visual representation. By leveraging this tool, users can easily create scrolling web page animations for various applications.
 
 ---
 

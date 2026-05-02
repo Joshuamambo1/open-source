@@ -31,8 +31,8 @@
 | 21 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 55/100 |
 | 22 | [processing/processing4](./processing-processing4.md) | ⭐ 394 | Java | 55/100 |
 | 23 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
-| 24 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
-| 25 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 227 | Go | 52/100 |
+| 24 | [siyuan-note/bazaar](./siyuan-note-bazaar.md) | ⭐ 227 | Go | 52/100 |
+| 25 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
 | 26 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
 | 27 | [JuliaDSP/DSP.jl](./juliadsp-dsp.jl.md) | ⭐ 416 | Julia | 51/100 |
 | 28 | [NX211/homer-icons](./nx211-homer-icons.md) | ⭐ 975 | Python | 50/100 |

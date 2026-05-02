@@ -1,6 +1,6 @@
 # pounat/absorb
 
-[![Stars](https://img.shields.io/github/stars/pounat/absorb?style=flat-square&color=yellow)](https://github.com/pounat/absorb/stargazers) [![Forks](https://img.shields.io/github/forks/pounat/absorb?style=flat-square&color=blue)](https://github.com/pounat/absorb/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pounat/absorb?style=flat-square&color=yellow)](https://github.com/pounat/absorb/stargazers) [![Forks](https://img.shields.io/github/forks/pounat/absorb?style=flat-square&color=blue)](https://github.com/pounat/absorb/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A cross platform Audiobookshelf client for Android and iOS
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 336 |
-| 🍴 **Forks** | 9 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

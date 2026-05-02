@@ -1,6 +1,6 @@
 # deepseek-ai/TileKernels
 
-[![Stars](https://img.shields.io/github/stars/deepseek-ai/TileKernels?style=flat-square&color=yellow)](https://github.com/deepseek-ai/TileKernels/stargazers) [![Forks](https://img.shields.io/github/forks/deepseek-ai/TileKernels?style=flat-square&color=blue)](https://github.com/deepseek-ai/TileKernels/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepseek-ai/TileKernels?style=flat-square&color=yellow)](https://github.com/deepseek-ai/TileKernels/stargazers) [![Forks](https://img.shields.io/github/forks/deepseek-ai/TileKernels?style=flat-square&color=blue)](https://github.com/deepseek-ai/TileKernels/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A kernel library written in tilelang
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

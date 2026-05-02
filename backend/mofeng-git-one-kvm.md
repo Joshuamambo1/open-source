@@ -25,9 +25,9 @@ Backend · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary:
+Here's a brief summary for the One-KVM Rust project:
 
-One-KVM is an open-source, lightweight IP-KVM solution written in Rust that enables remote management of servers and workstations over a network, including BIOS-level control. This software provides a secure and efficient way to manage and troubleshoot remote devices, ideal for data centers and IT professionals. With its Rust-based architecture, One-KVM offers a scalable and reliable solution for remote KVM management.
+One-KVM Rust is an open-source, lightweight IP-KVM solution written in Rust that enables remote management of servers and workstations over the network, including BIOS-level control. This allows users to securely access and manage remote devices from anywhere, reducing the need for physical presence. With its Rust-based architecture, One-KVM Rust offers a scalable and reliable solution for remote infrastructure management.
 
 ---
 

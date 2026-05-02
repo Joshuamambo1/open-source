@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Chalet is an open-source, cross-platform project and build tool built on a JSON-based architecture, providing a flexible and efficient solution for developers. With its comprehensive feature set, Chalet streamlines project management, allowing developers to automate tasks, manage dependencies, and improve overall workflow efficiency. It supports a wide range of development tasks and can be easily adapted to various frontend projects.
+Chalet is an open-source, cross-platform project and build tool that utilizes JSON as its core format. This tool enables developers to manage and automate various project-related tasks, providing a flexible and standardized solution for building and maintaining applications. With Chalet, teams can streamline their workflow and improve collaboration through a single, unified platform.
 
 ---
 

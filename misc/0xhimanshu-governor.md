@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Governor project is an open-source plugin for Claude Code designed to minimize token and context waste, contributing to more efficient and cost-effective AI interactions. By reducing unnecessary usage, Governor aims to enhance the overall performance and productivity of users leveraging Claude's capabilities. This plugin is a valuable resource for those utilizing Claude Code and seeking to optimize their workflow.
+Governor is an open-source project that aims to minimize token and context waste by introducing an optimization technique for the Claude Code plugin. This plugin helps reduce unnecessary computations and improves overall performance. By implementing Governor, users can enhance the efficiency of their Claude Code applications.
 
 ---
 

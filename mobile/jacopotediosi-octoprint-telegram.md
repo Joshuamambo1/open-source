@@ -1,6 +1,6 @@
 # jacopotediosi/OctoPrint-Telegram
 
-[![Stars](https://img.shields.io/github/stars/jacopotediosi/OctoPrint-Telegram?style=flat-square&color=yellow)](https://github.com/jacopotediosi/OctoPrint-Telegram/stargazers) [![Forks](https://img.shields.io/github/forks/jacopotediosi/OctoPrint-Telegram?style=flat-square&color=blue)](https://github.com/jacopotediosi/OctoPrint-Telegram/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jacopotediosi/OctoPrint-Telegram?style=flat-square&color=yellow)](https://github.com/jacopotediosi/OctoPrint-Telegram/stargazers) [![Forks](https://img.shields.io/github/forks/jacopotediosi/OctoPrint-Telegram?style=flat-square&color=blue)](https://github.com/jacopotediosi/OctoPrint-Telegram/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > OctoPrint plugin to control your printer and receive notification messages via Telegram Messenger.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 321 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-This open-source project, bundle_update_interactive, introduces an interactive mode for Bundler, enabling users to upgrade their dependencies with a user-friendly interface inspired by Yarn's upgrade-interactive feature. It simplifies the process of updating dependencies, making it easier for developers to manage their Ruby project's dependencies. This tool is designed to improve the bundling experience for Ruby developers.
+This open-source project, mattbrictson/bundle_update_interactive, introduces an interactive mode for Bundler, inspired by `yarn upgrade-interactive`. It allows users to manually select and update dependencies, offering a more customizable and user-friendly experience compared to the standard Bundler update process. This interactive mode enables developers to make informed decisions about package updates and dependencies in their projects.
 
 ---
 

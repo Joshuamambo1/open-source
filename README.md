@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14117** |
+| 🗂️ **Total projects** | **14166** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5323 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2841 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1374 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1056 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 866 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 841 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 493 | [Browse →](./crypto/) |
-| 📊 **Data** | 322 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 310 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 5345 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2848 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1380 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1062 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 867 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 843 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 494 | [Browse →](./crypto/) |
+| 📊 **Data** | 323 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 312 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 177 | [Browse →](./mobile/) |
 | 💳 **Payments** | 155 | [Browse →](./payments/) |
 | 📈 **Trading** | 142 | [Browse →](./trading/) |
 | 🔐 **Security** | 118 | [Browse →](./security/) |
 | ✨ **Design** | 44 | [Browse →](./design/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 26 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 27 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [pnpm/pnpm](./misc/pnpm-pnpm.md) | ⭐ 34.8k | Misc |
-| 2 | [testcontainers/testcontainers-java](./aiml/testcontainers-testcontainers-java.md) | ⭐ 8.6k | AI/ML |
-| 3 | [lutzroeder/netron](./aiml/lutzroeder-netron.md) | ⭐ 32.8k | AI/ML |
-| 4 | [reflex-dev/reflex](./frontend/reflex-dev-reflex.md) | ⭐ 28.4k | Frontend |
-| 5 | [DIYgod/RSSHub](./misc/diygod-rsshub.md) | ⭐ 43.8k | Misc |
-| 6 | [foundry-rs/foundry](./crypto/foundry-rs-foundry.md) | ⭐ 10.3k | Crypto |
-| 7 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 14.9k | AI/ML |
-| 8 | [m1k1o/neko](./frontend/m1k1o-neko.md) | ⭐ 20.7k | Frontend |
-| 9 | [glpi-project/glpi](./data/glpi-project-glpi.md) | ⭐ 5.8k | Data |
-| 10 | [lsdefine/GenericAgent](./crypto/lsdefine-genericagent.md) | ⭐ 8.6k | Crypto |
+| 2 | [lutzroeder/netron](./aiml/lutzroeder-netron.md) | ⭐ 32.8k | AI/ML |
+| 3 | [reflex-dev/reflex](./frontend/reflex-dev-reflex.md) | ⭐ 28.4k | Frontend |
+| 4 | [DIYgod/RSSHub](./misc/diygod-rsshub.md) | ⭐ 43.8k | Misc |
+| 5 | [foundry-rs/foundry](./crypto/foundry-rs-foundry.md) | ⭐ 10.3k | Crypto |
+| 6 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 14.9k | AI/ML |
+| 7 | [m1k1o/neko](./frontend/m1k1o-neko.md) | ⭐ 20.7k | Frontend |
+| 8 | [glpi-project/glpi](./data/glpi-project-glpi.md) | ⭐ 5.8k | Data |
+| 9 | [lsdefine/GenericAgent](./crypto/lsdefine-genericagent.md) | ⭐ 8.6k | Crypto |
+| 10 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
 
 ## 🚀 How it works
 

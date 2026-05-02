@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the shenwei356/csvtk project:
-
-csvtk is a cross-platform, efficient, and practical CSV/TSV toolkit written in Golang. It provides a versatile set of tools for handling and processing CSV and TSV files, making it a valuable resource for data analysts and developers. With csvtk, users can efficiently manipulate and analyze large datasets.
+csvtk is a cross-platform, open-source CSV/TSV toolkit written in Golang, designed to provide efficient and practical data manipulation capabilities. It offers a range of features for handling, processing, and analyzing CSV and TSV files, making it a valuable resource for data scientists and analysts. This toolkit can be used for a variety of tasks, from data cleaning and filtering to data analysis and visualization.
 
 ---
 

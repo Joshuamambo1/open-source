@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Hermit is an open-source project that provides uniform tooling for Linux and Mac operating systems. It offers a convenient and consistent interface for users, allowing them to work more efficiently across different platforms. By standardizing various tools and utilities, Hermit simplifies the development process and enhances the overall user experience.
+Hermit is an open-source project that aims to provide uniform tooling for both Linux and Mac operating systems. It offers a unified interface and set of tools to simplify development and streamline workflows on multiple platforms. By leveraging Hermit, developers can enjoy a consistent experience across different environments.
 
 ---
 

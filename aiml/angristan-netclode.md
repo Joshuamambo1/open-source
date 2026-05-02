@@ -25,7 +25,9 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-The angristan/netclode project is an open-source, self-hosted cloud coding platform that enables developers to work remotely and securely. This innovative solution combines k3s, kata containers, Cloud-Hypervisor microVMs, Tailscale VPN, and Any-Harness for seamless and isolated coding experiences. Users can access the platform through a user-friendly iOS app, making it an ideal choice for mobile coders and collaborative teams.
+Here's a brief summary of the angristan/netclode project:
+
+Netclode is an open-source, self-hosted cloud coding agent that enables developers to code securely from anywhere. This cloud-native platform leverages a combination of technologies, including k3s, Kata containers, Cloud Hypervisor microVMs, and Tailscale, to provide a seamless coding experience. Additionally, it includes an iOS app and Any Harness for enhanced functionality and flexibility.
 
 ---
 

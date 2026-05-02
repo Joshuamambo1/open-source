@@ -25,7 +25,7 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-The rust-ui/ui project is an open-source, Shadcn-inspired component registry for Rust, enabling developers to build cross-platform applications for various platforms including the Web, Desktop, iOS, and Android. This comprehensive toolkit provides a unified interface for creating high-performance apps with a consistent look and feel across different environments. With rust-ui/ui, developers can streamline their development process and focus on crafting innovative user experiences.
+The rust-ui/ui project is an open-source, Shadcn-inspired component registry for Rust that enables developers to build cross-platform applications for various platforms, including the Web, Desktop, iOS, and Android. This comprehensive framework allows for seamless development and integration across multiple platforms, streamlining the process of creating complex, high-performance applications. By utilizing rust-ui/ui, developers can focus on crafting innovative and user-friendly interfaces without worrying about platform-specific implementation details.
 
 ---
 

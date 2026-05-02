@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the open-source project:
 
-Oh-My-Kimichan is an open-source, production-ready multi-agent orchestration harness for Kimi Code CLI (K2.6), designed to streamline workflow management, ensemble planning, and quality control for AI/ML development teams. It provides features such as worktree team execution, DAG/ensemble planning, MCP skill-hooks, and local graph memory, making it an essential tool for DevOps and data scientists. By leveraging Oh-My-Kimichan, teams can automate and optimize their development workflows, increasing productivity and efficiency.
+"oh-my-kimichan" is an open-source, production-ready multi-agent orchestration framework designed for the Kimi Code CLI (K2.6). It provides essential features such as worktree team runtime, DAG/ensemble planning, quality gates, and local graph memory to streamline complex workflows. This versatile solution is ideal for AI/ML and DevOps teams seeking to automate and optimize their processes.
 
 ---
 

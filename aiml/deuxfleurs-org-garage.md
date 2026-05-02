@@ -1,6 +1,6 @@
 # deuxfleurs-org/garage
 
-[![Stars](https://img.shields.io/github/stars/deuxfleurs-org/garage?style=flat-square&color=yellow)](https://github.com/deuxfleurs-org/garage/stargazers) [![Forks](https://img.shields.io/github/forks/deuxfleurs-org/garage?style=flat-square&color=blue)](https://github.com/deuxfleurs-org/garage/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deuxfleurs-org/garage?style=flat-square&color=yellow)](https://github.com/deuxfleurs-org/garage/stargazers) [![Forks](https://img.shields.io/github/forks/deuxfleurs-org/garage?style=flat-square&color=blue)](https://github.com/deuxfleurs-org/garage/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

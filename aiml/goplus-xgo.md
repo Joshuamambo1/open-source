@@ -25,9 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project goplus/xgo:
-
-XGo is a revolutionary programming language that empowers developers to write in plain English while unlocking a vast ecosystem of assets from C/C++, Go, Python, and JavaScript/TypeScript. This unified platform enables seamless integration and collaboration across technologies, making it an ideal choice for building comprehensive software solutions. By leveraging XGo, developers can become builders of innovative solutions that transform the world.
+XGo is an open-source programming language that empowers developers to create unified software engineering ecosystems. By allowing seamless integration with assets from C/C++, Go, Python, and JavaScript/TypeScript, XGo bridges the gap between languages and enables the creation of complex systems that read like plain English. This vision enables anyone to become a builder of the world, promoting a more accessible and inclusive approach to software development.
 
 ---
 

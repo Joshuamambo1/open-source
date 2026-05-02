@@ -1,6 +1,6 @@
 # laravel/fortify
 
-[![Stars](https://img.shields.io/github/stars/laravel/fortify?style=flat-square&color=yellow)](https://github.com/laravel/fortify/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/fortify?style=flat-square&color=blue)](https://github.com/laravel/fortify/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laravel/fortify?style=flat-square&color=yellow)](https://github.com/laravel/fortify/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/fortify?style=flat-square&color=blue)](https://github.com/laravel/fortify/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Backend controllers and scaffolding for Laravel authentication.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 330 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

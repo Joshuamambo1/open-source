@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Ryu0118/ctxmv?style=flat-square&color=yellow)](https://github.com/Ryu0118/ctxmv/stargazers) [![Forks](https://img.shields.io/github/forks/Ryu0118/ctxmv?style=flat-square&color=blue)](https://github.com/Ryu0118/ctxmv/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
-> A CLI tool to migrate sessions between AI coding agents
+> 🏠 A CLI tool to migrate sessions between AI coding agents
 
 ## 📊 Stats
 

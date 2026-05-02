@@ -1,6 +1,6 @@
 # kubeflow/kale
 
-[![Stars](https://img.shields.io/github/stars/kubeflow/kale?style=flat-square&color=yellow)](https://github.com/kubeflow/kale/stargazers) [![Forks](https://img.shields.io/github/forks/kubeflow/kale?style=flat-square&color=blue)](https://github.com/kubeflow/kale/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeflow/kale?style=flat-square&color=yellow)](https://github.com/kubeflow/kale/stargazers) [![Forks](https://img.shields.io/github/forks/kubeflow/kale?style=flat-square&color=blue)](https://github.com/kubeflow/kale/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Kubeflow’s superfood for Data Scientists
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 684 |
 | 🍴 **Forks** | 156 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

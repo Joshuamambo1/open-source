@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The k0kubun/pp project is an open-source library that provides a colored, pretty printer for the Go programming language. It enables developers to print Go data structures, such as structs and slices, in a visually appealing and readable format. This tool can be particularly useful for debugging and logging purposes.
+The k0kubun/pp project is an open-source, colored pretty printer designed specifically for the Go programming language. This tool allows developers to print Go values in a visually appealing and readable format, making it easier to debug and understand complex data structures. By utilizing colors, it enhances the overall user experience and improves code comprehension.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The caarlos0/fork-cleaner project is an open-source tool designed to efficiently clean up unused forks on a GitHub account. By automating the removal of unwanted forks, it helps users maintain a clutter-free GitHub profile and optimize their repository management. This project streamlines the process, saving users time and effort.
+The caarlos0/fork-cleaner project is an open-source tool designed to streamline your GitHub account by efficiently removing unused forks. This project helps users declutter their forks and maintain a tidy digital presence, ultimately improving their GitHub experience. By automating the process of removing unnecessary forks, it saves users time and effort.
 
 ---
 

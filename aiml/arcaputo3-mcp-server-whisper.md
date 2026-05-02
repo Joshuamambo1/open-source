@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The MCP Server Whisper is an open-source project that utilizes OpenAI's Whisper library to power an MCP Server for audio transcription. This project enables developers to easily integrate real-time or batch audio-to-text functionality into their applications, leveraging the advanced capabilities of OpenAI's AI technology. By harnessing Whisper's power, the MCP Server Whisper offers a scalable and efficient solution for transcription tasks.
+The MCP Server Whisper is an open-source project that utilizes OpenAI's Whisper model to provide efficient and accurate audio transcription services. This project enables the creation of a dedicated server for transcribing audio files, leveraging the power of AI/ML to minimize processing time and optimize results. By harnessing the capabilities of OpenAI's Whisper model, this server can handle various audio inputs with ease and precision.
 
 ---
 

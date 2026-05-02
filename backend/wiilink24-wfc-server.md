@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The WiiLink24/wfc-server is an open-source, community-driven project that provides a server replacement for Nintendo's WiiConnect24 (WFC) service. This project enables the reconnection and continued use of Wii consoles with compatible games, allowing users to access online features without relying on Nintendo's servers. By developing and maintaining this free alternative, the project promotes the preservation and longevity of classic Nintendo games.
+WiiLink24/wfc-server is an open-source server replacement for Nintendo's WiiConnect24 (WFC) service, allowing users to continue playing online with their Wii consoles. This project offers a backend solution for those seeking to revive their Wii's online capabilities. By leveraging this alternative server, users can regain access to the Wii's multiplayer features.
 
 ---
 

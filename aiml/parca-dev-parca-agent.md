@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The parca-agent project is an open-source, eBPF-based profiling tool that enables real-time monitoring of CPU and GPU performance within Kubernetes and systemd environments. This innovative solution allows for automatic target discovery, eliminating the need for code modifications or system restarts, making it a seamless addition to any DevOps/Infra workflow. By leveraging eBPF, the parca-agent offers an efficient and non-intrusive way to gain valuable insights into system performance.
+The Parca Agent is an open-source, eBPF-based profiling tool that automatically discovers and monitors CPU and GPU usage in Kubernetes and systemd environments without requiring code changes or restarts. This always-on profiling agent provides real-time insights into system performance, enabling developers to optimize and troubleshoot their applications more efficiently. By leveraging eBPF, the Parca Agent provides a seamless and non-intrusive profiling experience.
 
 ---
 

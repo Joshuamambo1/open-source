@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**195 projects** in this category.
+**196 projects** in this category.
 
 ## Projects
 
@@ -197,12 +197,13 @@
 | 187 | [EmbarkStudios/crash-handling](./embarkstudios-crash-handling.md) | ⭐ 175 | Rust | 43/100 |
 | 188 | [NEORUAA/XHS_Downloader_Android](./neoruaa-xhs-downloader-android.md) | ⭐ 318 | Kotlin | 43/100 |
 | 189 | [Dart-Code/Flutter](./dart-code-flutter.md) | ⭐ 345 | JavaScript | 43/100 |
-| 190 | [rodydavis/flutter_piano](./rodydavis-flutter-piano.md) | ⭐ 429 | Dart | 41/100 |
-| 191 | [icepy/manong-weekly](./icepy-manong-weekly.md) | ⭐ 367 | Objective-C | 40/100 |
-| 192 | [OpenMOSS/MOSS-Audio](./openmoss-moss-audio.md) | ⭐ 402 | Python | 39/100 |
-| 193 | [cocoanetics/swiftbash](./cocoanetics-swiftbash.md) | ⭐ 18 | Swift | 36/100 |
-| 194 | [CodyBontecou/isome](./codybontecou-isome.md) | ⭐ 3 | Swift | 36/100 |
-| 195 | [Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground](./moses-code-dev-foodsecurity-difp-android-playground.md) | ⭐ 1 | Java | 30/100 |
+| 190 | [FrankBarretta/LSFG-Android](./frankbarretta-lsfg-android.md) | ⭐ 318 | — | 42/100 |
+| 191 | [rodydavis/flutter_piano](./rodydavis-flutter-piano.md) | ⭐ 429 | Dart | 41/100 |
+| 192 | [icepy/manong-weekly](./icepy-manong-weekly.md) | ⭐ 367 | Objective-C | 40/100 |
+| 193 | [OpenMOSS/MOSS-Audio](./openmoss-moss-audio.md) | ⭐ 402 | Python | 39/100 |
+| 194 | [cocoanetics/swiftbash](./cocoanetics-swiftbash.md) | ⭐ 18 | Swift | 36/100 |
+| 195 | [CodyBontecou/isome](./codybontecou-isome.md) | ⭐ 3 | Swift | 36/100 |
+| 196 | [Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground](./moses-code-dev-foodsecurity-difp-android-playground.md) | ⭐ 1 | Java | 30/100 |
 
 ---
 

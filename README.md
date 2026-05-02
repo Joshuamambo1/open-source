@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14753** |
+| 🗂️ **Total projects** | **14794** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5530 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3003 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1439 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1095 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 906 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 884 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 5543 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3014 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1445 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1098 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 909 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 887 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 514 | [Browse →](./crypto/) |
 | 📊 **Data** | 337 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 320 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 195 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 196 | [Browse →](./mobile/) |
 | 💳 **Payments** | 157 | [Browse →](./payments/) |
 | 📈 **Trading** | 149 | [Browse →](./trading/) |
 | 🔐 **Security** | 120 | [Browse →](./security/) |
-| ✨ **Design** | 47 | [Browse →](./design/) |
+| ✨ **Design** | 48 | [Browse →](./design/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 
@@ -42,13 +42,13 @@
 | 1 | [timescale/timescaledb](./data/timescale-timescaledb.md) | ⭐ 22.5k | Data |
 | 2 | [MaterialDesignInXAML/MaterialDesignInXamlToolkit](./aiml/materialdesigninxaml-materialdesigninxamltoolkit.md) | ⭐ 16.1k | AI/ML |
 | 3 | [luanti-org/luanti](./devtools/luanti-org-luanti.md) | ⭐ 12.8k | DevTools |
-| 4 | [ruvnet/RuView](./aiml/ruvnet-ruview.md) | ⭐ 51.4k | AI/ML |
-| 5 | [ComposioHQ/composio](./aiml/composiohq-composio.md) | ⭐ 28k | AI/ML |
-| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 7 | [redisson/redisson](./frontend/redisson-redisson.md) | ⭐ 24.3k | Frontend |
-| 8 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25k | Design |
-| 9 | [meshery/meshery](./frontend/meshery-meshery.md) | ⭐ 10.2k | Frontend |
-| 10 | [gofiber/fiber](./backend/gofiber-fiber.md) | ⭐ 39.7k | Backend |
+| 4 | [rabbitmq/rabbitmq-server](./frontend/rabbitmq-rabbitmq-server.md) | ⭐ 13.6k | Frontend |
+| 5 | [The-PR-Agent/pr-agent](./aiml/the-pr-agent-pr-agent.md) | ⭐ 11.1k | AI/ML |
+| 6 | [ruvnet/RuView](./aiml/ruvnet-ruview.md) | ⭐ 51.4k | AI/ML |
+| 7 | [ComposioHQ/composio](./aiml/composiohq-composio.md) | ⭐ 28k | AI/ML |
+| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 9 | [redisson/redisson](./frontend/redisson-redisson.md) | ⭐ 24.3k | Frontend |
+| 10 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25k | Design |
 
 ## 🚀 How it works
 

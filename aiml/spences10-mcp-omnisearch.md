@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The MCP Omnisearch project is an open-source, Model Context Protocol (MCP) server that offers a unified interface for accessing multiple search engines, AI tools, and content extraction services. This platform consolidates search capabilities from various sources, including Tavily, Brave, Kagi, Exa, and GitHub, allowing users to query them through a single interface. By providing access to a range of powerful tools and services, MCP Omnisearch aims to streamline research and development workflows.
+Here's a brief summary for the open-source project:
+
+Mcp-omnisearch is an open-source Model Context Protocol (MCP) server that offers a unified interface to multiple search engines, AI tools, and content extraction services. It integrates a range of APIs from various providers, including Tavily, Brave, Kagi, Exa, and others, to provide a comprehensive search experience. This project allows users to search across multiple platforms through a single interface, making information retrieval more efficient and convenient.
 
 ---
 

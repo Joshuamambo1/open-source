@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The Telmate/proxmox-api-go project is an open-source Go library that enables developers to interact with the Proxmox API, allowing for seamless integration with Proxmox-based environments. This library provides a convenient and efficient way to consume the Proxmox API in Go, streamlining the process of automating tasks and building custom applications. By utilizing this library, users can tap into the full potential of Proxmox's robust feature set.
+The Telmate/proxmox-api-go project is an open-source Go library for interacting with the Proxmox API. It enables developers to consume Proxmox API endpoints from their Go applications, providing a convenient and efficient way to automate tasks and build integrations. With this library, users can easily leverage the Proxmox API in their Go-based workflows and applications.
 
 ---
 

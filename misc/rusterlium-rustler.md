@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The rustler project is an open-source initiative that provides a safe Rust bridge for creating Erlang NIF (Native Implemented Function) functions. It allows developers to write Erlang applications in Rust, leveraging the safety and performance benefits of the Rust language while still interacting seamlessly with Erlang code. This bridge enables the creation of high-performance and reliable Erlang applications.
+The rustler project is an open-source solution that enables the creation of Erlang NIF (Native Implemented Function) functions using Rust, a systems programming language known for its memory safety features. This bridge allows developers to write high-performance, concurrent code while still leveraging the strengths of the Erlang ecosystem. By combining Rust's safety guarantees with Erlang's concurrency model, rustler facilitates efficient and secure Erlang application development.
 
 ---
 

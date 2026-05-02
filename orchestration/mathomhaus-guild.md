@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the mathomhaus/guild project:
+Here's a brief summary of the mathomhaus/guild project:
 
-Guild is an open-source, local-first cognition substrate designed for AI agents, providing a persistent and private knowledge base. This Go-based project utilizes a SQLite database for efficient storage and supports both keyword and semantic search methods. By running as a single binary, Guild enables AI agents to learn and adapt locally, without relying on remote servers.
+The mathomhaus/guild project is a local-first AI cognition substrate that provides a persistent and efficient storage solution for AI agents. Built using a single Go binary and a local SQLite database, it enables hybrid keyword and semantic search capabilities. This open-source project is ideal for developers looking to create local AI applications with seamless data management.
 
 ---
 

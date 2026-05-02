@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The fzwoch/obs-teleport project is an open-source OBS Studio plugin designed to facilitate seamless broadcasting and streaming. It offers an open DistroAV-like replacement, providing a simple and straightforward solution for users. This plugin is categorized under AI/ML, indicating its potential for integration with machine learning technologies.
+The fzwoch/obs-teleport project is an open-source OBS Studio plugin that enables seamless integration with an open DistroAV-compatible alternative, providing a similar broadcasting experience to NDI without any compatibility issues. This plugin offers a straightforward and simple solution for users to easily share and broadcast their content. It leverages AI/ML categories to provide a robust and efficient broadcasting experience.
 
 ---
 

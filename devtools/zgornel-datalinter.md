@@ -25,7 +25,7 @@ DevTools · Data
 
 ## 📝 Summary
 
-This open-source project is a linter designed specifically for data science and statistical experiments. It aims to help users identify and fix errors, inconsistencies, and best practices in their code, ensuring it is clean, readable, and maintainable. By utilizing this tool, data scientists and analysts can improve the quality and reliability of their work.
+This open-source project is a linter designed specifically for data science and statistical experiments. It provides developers with a tool to catch errors, inconsistencies, and potential issues in their code, improving the overall quality and reliability of their data-driven projects. By utilizing this linter, data scientists and statisticians can maintain high standards of coding excellence and prevent errors from propagating into their analysis.
 
 ---
 

@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-This project is an open-source terminal Markdown viewer built using the Charm libraries. It provides a convenient way to view Markdown files directly in the terminal, making it a useful tool for developers and writers who work with Markdown. The project's front-end focused design allows users to easily navigate and read Markdown documents through the terminal interface.
+This project is a terminal-based Markdown viewer that utilizes the Charm libraries to provide a functional and feature-rich interface. Built on open-source principles, it offers a flexible solution for users to view and interact with Markdown files directly from the command line. This project is ideal for developers and users seeking a simple, yet powerful Markdown viewer for their terminal applications.
 
 ---
 

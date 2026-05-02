@@ -25,7 +25,7 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-GoogleTakeoutFixer is an open-source tool designed to simplify the process of organizing Google Photos Takeout exports. This tool helps users clean and structure their exported data, making it easier to manage and utilize their photos and other media. By streamlining the process, GoogleTakeoutFixer saves time and effort for users who want to access and utilize their Google Photos data.
+GoogleTakeoutFixer is an open-source tool designed to simplify the process of cleaning and organizing Google Photos Takeout exports. This tool aims to ease the burden of manually sorting and managing large datasets, making it easier to use and share your photos. By streamlining the export process, GoogleTakeoutFixer helps users to efficiently utilize their Google Photos backups.
 
 ---
 

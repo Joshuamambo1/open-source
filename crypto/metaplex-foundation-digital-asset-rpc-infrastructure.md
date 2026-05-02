@@ -25,7 +25,9 @@ Crypto · AI/ML · Backend
 
 ## 📝 Summary
 
-The metaplex-foundation/digital-asset-rpc-infrastructure project is an open-source reference implementation of the Metaplex Digital Asset Standard API. This infrastructure provides a foundation for building and managing digital assets, leveraging expertise from the realms of crypto and AI/ML to facilitate seamless interactions. By utilizing this project, developers can create innovative applications and services that take advantage of the Metaplex Digital Asset Standard.
+Here's a brief summary for the project:
+
+The metaplex-foundation/digital-asset-rpc-infrastructure project is an open-source reference implementation for the Metaplex Digital Asset Standard API, providing a foundation for the development and deployment of digital assets. This project serves as a backend infrastructure for building and interacting with digital assets, combining elements of crypto and AI/ML. It enables developers to create and manage digital assets in a secure and standardized manner.
 
 ---
 

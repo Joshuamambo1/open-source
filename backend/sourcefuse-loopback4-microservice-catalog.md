@@ -1,6 +1,6 @@
 # sourcefuse/loopback4-microservice-catalog
 
-[![Stars](https://img.shields.io/github/stars/sourcefuse/loopback4-microservice-catalog?style=flat-square&color=yellow)](https://github.com/sourcefuse/loopback4-microservice-catalog/stargazers) [![Forks](https://img.shields.io/github/forks/sourcefuse/loopback4-microservice-catalog?style=flat-square&color=blue)](https://github.com/sourcefuse/loopback4-microservice-catalog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sourcefuse/loopback4-microservice-catalog?style=flat-square&color=yellow)](https://github.com/sourcefuse/loopback4-microservice-catalog/stargazers) [![Forks](https://img.shields.io/github/forks/sourcefuse/loopback4-microservice-catalog?style=flat-square&color=blue)](https://github.com/sourcefuse/loopback4-microservice-catalog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A Catalog of Microservices Created by SourceFuse for the Community
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 299 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

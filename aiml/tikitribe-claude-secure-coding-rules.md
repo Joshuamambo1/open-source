@@ -25,9 +25,7 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Claude Secure Coding Rules is an open-source project that provides a comprehensive set of guidelines for secure coding practices tailored specifically for Claude Code and AIML projects. This set of rules aims to ensure the development of AI-powered applications with robust security features, reducing the risk of vulnerabilities and data breaches. By following these rules, developers can improve the overall security posture of their AI-driven projects.
+Claude-secure-coding-rules is an open-source project providing secure coding guidelines specifically designed for Claude code, with a focus on AIML projects. This project helps developers ensure the security and integrity of their AI and machine learning applications. By adhering to these rules, developers can minimize vulnerabilities and create more reliable, secure code.
 
 ---
 

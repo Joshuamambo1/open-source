@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The f3d-app/f3d project is an open-source, fast, and minimalist 3D viewer designed to provide a lightweight and efficient way to visualize 3D models. With its minimalistic approach, it allows users to quickly and easily load and manipulate 3D data without unnecessary features or complexity. This project is ideal for developers and researchers who need a simple yet powerful 3D visualization tool.
+The f3d-app/f3d project is an open-source, fast, and minimalist 3D viewer designed for efficient and streamlined visualization of 3D content. This lightweight viewer provides a simple and intuitive interface for navigating and interacting with 3D models. Its minimalist approach makes it an ideal choice for developers and users seeking a compact and performant 3D visualization solution.
 
 ---
 

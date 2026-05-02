@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-PhotonVision is a free, open-source computer vision solution designed specifically for the FIRST Robotics Competition. It provides a fast and user-friendly interface for teams to develop and deploy computer vision capabilities in their robots. This solution aims to make computer vision accessible and easy to integrate into robotics projects.
+PhotonVision is an open-source, user-friendly computer vision solution optimized for the FIRST Robotics Competition. It offers a fast and efficient way to implement computer vision algorithms, empowering robotics teams to enhance their competition experience. This free resource simplifies the process of integrating computer vision into robotics projects.
 
 ---
 

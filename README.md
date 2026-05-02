@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14212** |
+| 🗂️ **Total projects** | **14251** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5360 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2864 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1381 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1065 | [Browse →](./orchestration/) |
+| 🤖 **AI/ML** | 5374 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2875 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1384 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1066 | [Browse →](./orchestration/) |
 | ⚙️ **Backend** | 870 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 845 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 496 | [Browse →](./crypto/) |
+| 🔧 **DevTools** | 846 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 502 | [Browse →](./crypto/) |
 | 📊 **Data** | 324 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 312 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 177 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 178 | [Browse →](./mobile/) |
 | 💳 **Payments** | 156 | [Browse →](./payments/) |
-| 📈 **Trading** | 144 | [Browse →](./trading/) |
+| 📈 **Trading** | 145 | [Browse →](./trading/) |
 | 🔐 **Security** | 118 | [Browse →](./security/) |
 | ✨ **Design** | 44 | [Browse →](./design/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 27 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [miurla/morphic](./aiml/miurla-morphic.md) | ⭐ 8.8k | AI/ML |
-| 2 | [pnpm/pnpm](./misc/pnpm-pnpm.md) | ⭐ 34.8k | Misc |
-| 3 | [streamlink/streamlink](./aiml/streamlink-streamlink.md) | ⭐ 11.4k | AI/ML |
-| 4 | [unionlabs/union](./crypto/unionlabs-union.md) | ⭐ 74.1k | Crypto |
-| 5 | [WhiskeySockets/Baileys](./aiml/whiskeysockets-baileys.md) | ⭐ 9.2k | AI/ML |
-| 6 | [getsentry/sentry-javascript](./frontend/getsentry-sentry-javascript.md) | ⭐ 8.6k | Frontend |
-| 7 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 8 | [zephyrproject-rtos/zephyr](./misc/zephyrproject-rtos-zephyr.md) | ⭐ 15.1k | Misc |
-| 9 | [warmcat/libwebsockets](./backend/warmcat-libwebsockets.md) | ⭐ 5.3k | Backend |
-| 10 | [Tencent/WeKnora](./aiml/tencent-weknora.md) | ⭐ 14.2k | AI/ML |
+| 2 | [streamlink/streamlink](./aiml/streamlink-streamlink.md) | ⭐ 11.4k | AI/ML |
+| 3 | [unionlabs/union](./crypto/unionlabs-union.md) | ⭐ 74.1k | Crypto |
+| 4 | [WhiskeySockets/Baileys](./aiml/whiskeysockets-baileys.md) | ⭐ 9.2k | AI/ML |
+| 5 | [getsentry/sentry-javascript](./frontend/getsentry-sentry-javascript.md) | ⭐ 8.6k | Frontend |
+| 6 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 7 | [zephyrproject-rtos/zephyr](./misc/zephyrproject-rtos-zephyr.md) | ⭐ 15.1k | Misc |
+| 8 | [warmcat/libwebsockets](./backend/warmcat-libwebsockets.md) | ⭐ 5.3k | Backend |
+| 9 | [Tencent/WeKnora](./aiml/tencent-weknora.md) | ⭐ 14.2k | AI/ML |
+| 10 | [xournalpp/xournalpp](./misc/xournalpp-xournalpp.md) | ⭐ 14.7k | Misc |
 
 ## 🚀 How it works
 

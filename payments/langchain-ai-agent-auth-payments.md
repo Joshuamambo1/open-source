@@ -25,7 +25,7 @@ Payments · Orchestration · AI/ML
 
 ## 📝 Summary
 
-The langchain-ai/agent-auth-payments project is an open-source, full-stack chat agent that integrates authentication, request credits, and payment functionalities. This comprehensive platform provides a seamless experience for users to interact with AI/ML models while ensuring secure transactions and efficient payment processing. By leveraging this project, developers can build robust, payment-enabled chat applications with ease.
+The langchain-ai/agent-auth-payments project is an open-source, full-stack chat agent that integrates authentication, request credits, and payment functionality. This comprehensive solution enables seamless interactions between users and AI/ML models, while also handling financial transactions securely. By leveraging this project, developers can create sophisticated chat applications with built-in payment capabilities.
 
 ---
 

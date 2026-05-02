@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Kothic JS is an open-source, full-featured JavaScript map rendering engine that utilizes HTML5 Canvas to deliver high-performance and visually stunning map visualizations. Leveraging HTML5 Canvas, Kothic JS enables developers to create complex maps with ease, making it an ideal choice for AI and machine learning applications that require interactive and dynamic map representations. This robust JavaScript library simplifies map development and accelerates project timelines.
+Kothic JS is an open-source, full-featured JavaScript map rendering engine utilizing HTML5 Canvas to deliver high-performance and visually appealing map visualization. This project leverages the potential of AI and machine learning to provide advanced mapping capabilities, catering to a wide range of applications. With Kothic JS, users can create complex, interactive maps with ease, unlocking new possibilities in fields such as geographic information systems (GIS), urban planning, and more.
 
 ---
 

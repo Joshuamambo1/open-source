@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Heard is an open-source voice companion project that enables seamless communication between developers and AI coding agents. It allows users to receive voice responses from their AI agents, keeping their hands free to focus on coding tasks. This innovative tool bridges the gap between human developers and AI coding agents, fostering a more intuitive and efficient collaboration experience.
+Here's a brief summary for the open-source project:
+
+"heard" is an innovative open-source project that enables seamless collaboration between developers and AI coding agents. By speaking your agent's replies, heard allows you to stay focused on your workflow without interruption, enhancing productivity and efficiency. This AI/ML project streamlines the coding process by converting agent responses into audible voice communications.
 
 ---
 

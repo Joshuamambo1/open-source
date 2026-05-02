@@ -25,7 +25,9 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-Inkwell is an open-source project that enables real-time scribble exchange between two AI personas, allowing for interactive and dynamic trading or communication scenarios. This innovative platform leverages AI/ML technologies to create a unique and engaging experience. By facilitating exchange and interaction between AI personas, Inkwell opens up new possibilities for AI research and development.
+Here's a brief summary for the open-source project Inkwell:
+
+Inkwell is an innovative, open-source project that enables real-time collaborative storytelling between two AI personas through a dynamic scribble exchange. This project combines elements of trading and artificial intelligence (AI) to create a unique and engaging experience. By facilitating the exchange of ideas between AI entities, Inkwell pushes the boundaries of AI storytelling and creativity.
 
 ---
 

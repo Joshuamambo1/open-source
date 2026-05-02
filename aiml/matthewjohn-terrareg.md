@@ -25,7 +25,7 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-The terrareg project is an open-source Terraform module registry that provides a user-friendly interface (UI) and optional Git integration, allowing for deep analysis of Terraform modules. This platform enables users to easily discover, manage, and optimize their Terraform modules, making it a valuable resource for developers and infrastructure teams. With its intuitive UI and advanced features, terrareg streamlines the Terraform module lifecycle management process.
+Terrareg is an open-source Terraform module registry that provides a user-friendly interface and integrates with Git for version control. It offers in-depth analysis and insights, making it a valuable tool for infrastructure management. The project's demo site can be accessed at https://terrareg-main.gitlab-pr.dockstudios.co.uk.
 
 ---
 

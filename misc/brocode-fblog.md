@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-FBlog is a lightweight, command-line JSON log viewer that allows users to easily navigate and inspect log data. This open-source tool provides a simple and intuitive interface for browsing JSON log files, making it a useful resource for developers and log analysts alike. With FBlog, users can quickly locate specific log entries and gain insights into system activity and performance.
+The fblog project is an open-source, command-line tool designed to easily view and navigate JSON log files. It allows users to quickly scan and filter log data, providing a straightforward interface for log analysis and troubleshooting. By simplifying the process of inspecting JSON logs, fblog makes it easier to identify and resolve issues in a variety of applications and systems.
 
 ---
 

@@ -25,7 +25,7 @@ DevTools · Product
 
 ## 📝 Summary
 
-CmdVault is an open-source project that allows users to store frequently used commands for easy recall. It features a fuzzy-search functionality, enabling users to quickly find and reuse previously saved commands. This tool is designed to help individuals overcome forgetfulness and streamline their workflow.
+The f4rkh4d/cmdvault project is a user-friendly, open-source tool designed to help developers and users store and recall frequently used commands. This tool utilizes fuzzy search functionality, allowing users to easily retrieve commands they've previously saved, even if they can't remember the exact command. As a result, users can save time and improve their productivity by quickly accessing the commands they need.
 
 ---
 

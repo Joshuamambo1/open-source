@@ -25,9 +25,7 @@ Orchestration · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-This project enables a gRPC service to communicate with a MCP server using a single proto annotation, simplifying the process for developers. The autogen feature is designed to facilitate ease of use, even for those who may not be familiar with the complexities of gRPC and MCP. By leveraging this project, developers can more efficiently integrate gRPC services with MCP servers.
+This open-source project enables communication between a gRPC service and an MCP server through a single, streamlined proto annotation. Leveraging the auto-generation capabilities, it simplifies the development process for developers who prefer not to write extensive code. This project is categorized under Orchestration and Backend development.
 
 ---
 

@@ -1,6 +1,6 @@
 # Necrom4/sbb-tui
 
-[![Stars](https://img.shields.io/github/stars/Necrom4/sbb-tui?style=flat-square&color=yellow)](https://github.com/Necrom4/sbb-tui/stargazers) [![Forks](https://img.shields.io/github/forks/Necrom4/sbb-tui?style=flat-square&color=blue)](https://github.com/Necrom4/sbb-tui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Necrom4/sbb-tui?style=flat-square&color=yellow)](https://github.com/Necrom4/sbb-tui/stargazers) [![Forks](https://img.shields.io/github/forks/Necrom4/sbb-tui?style=flat-square&color=blue)](https://github.com/Necrom4/sbb-tui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > TUI client for Switzerland's public transport timetables, inspidered by the SBB/CFF/FFS app
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 298 |
+| ⭐ **Stars** | 299 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

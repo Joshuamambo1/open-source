@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the "godot-mcp" project:
+Here's a brief summary of the open-source project:
 
-The "godot-mcp" project is an open-source implementation of a MCP (Multi-Client Protocol) server designed specifically for integration with the Godot Engine, enabling AI assistant capabilities within the game development environment. This project facilitates seamless communication between Godot and AI services, empowering developers to create more engaging and intelligent game experiences. By leveraging the MCP protocol, developers can tap into the vast potential of AI-driven game development with ease.
+The Godot-MCP project is an open-source implementation of a MCP (Machine Learning Protocol) server for seamless integration with the Godot Engine, enabling AI assistant capabilities within your games and applications. This project bridges the gap between Godot and AI-powered tools, allowing developers to harness the power of machine learning in their projects. By utilizing the MCP protocol, developers can create more intelligent and dynamic gaming experiences.
 
 ---
 

@@ -25,7 +25,9 @@ Data
 
 ## 📝 Summary
 
-GoNB (Gonb) is an open-source project that provides a Go Notebook kernel for Jupyter, enabling users to run Go code in a Jupyter notebook environment. This integration allows developers to leverage Jupyter's interactive and collaborative features, such as visualization and debugging tools, with the Go programming language. GoNB offers a seamless experience for Go developers to work on data science projects and explore the intersection of Go and data science.
+Here's a brief summary for the GoNB project:
+
+GoNB is an open-source project that provides a Go Notebook Kernel for Jupyter, enabling users to leverage the Go programming language within the Jupyter notebook environment. This allows for interactive coding, data analysis, and visualization in Go, expanding the possibilities for data science and scientific computing. With GoNB, developers can now easily integrate Go code into their existing Jupyter workflows.
 
 ---
 

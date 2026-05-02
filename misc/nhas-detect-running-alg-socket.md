@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project utilizes the AF_ALG (Algorithmic Framework) interface to detect running processes on a Linux system. By leveraging AF_ALG, the project provides a unique approach to process detection, offering insights into the system's inner workings. This code serves as a learning resource and a demonstration of the AF_ALG interface's capabilities.
+This open-source project utilizes the Linux kernel's AF_ALG interface to detect running processes. By tapping into this interface, the project provides a novel approach to process detection, showcasing the capabilities of the AF_ALG mechanism. The result is a unique tool for system administrators and security researchers to monitor and analyze system processes.
 
 ---
 

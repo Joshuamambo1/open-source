@@ -1,6 +1,6 @@
 # intel/auto-round
 
-[![Stars](https://img.shields.io/github/stars/intel/auto-round?style=flat-square&color=yellow)](https://github.com/intel/auto-round/stargazers) [![Forks](https://img.shields.io/github/forks/intel/auto-round?style=flat-square&color=blue)](https://github.com/intel/auto-round/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intel/auto-round?style=flat-square&color=yellow)](https://github.com/intel/auto-round/stargazers) [![Forks](https://img.shields.io/github/forks/intel/auto-round?style=flat-square&color=blue)](https://github.com/intel/auto-round/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A SOTA quantization algorithm for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/XPU/CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Transformers.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 124 |
+| 🍴 **Forks** | 125 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

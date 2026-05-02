@@ -41,8 +41,8 @@
 | 31 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 307 | Go | 49/100 |
 | 32 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 453 | JavaScript | 49/100 |
 | 33 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
-| 34 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
-| 35 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
+| 34 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
+| 35 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
 | 36 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
 | 37 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 602 | PHP | 46/100 |
 | 38 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 45/100 |

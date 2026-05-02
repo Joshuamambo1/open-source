@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-This open-source project, "Brooooooklyn/simple-git", is a collection of simple and efficient helper functions for working with the Git version control system. It streamlines common Git operations, making it easier to integrate Git functionality into various backend applications. With its focus on speed and simplicity, this library serves as a useful utility for developers working on Git-based projects.
+Here's a brief summary for the open-source project "Brooooooklyn/simple-git":
+
+This open-source project, "Brooooooklyn/simple-git", provides a collection of simple and efficient git helper functions designed to streamline Git operations. It aims to offer a lightweight alternative for performing common Git tasks, making it a valuable resource for developers working with Git repositories. The project's focus on simplicity and speed enables seamless integration with backend development workflows.
 
 ---
 

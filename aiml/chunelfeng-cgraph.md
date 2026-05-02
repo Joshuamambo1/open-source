@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the CGraph project:
 
-CGraph is an open-source, cross-platform DAG (Directed Acyclic Graph) framework written in C++ and Python, designed for parallel computing in AI/ML applications. It is a dependency-free, widely-used framework that has been included in the "awesome-cpp" list. CGraph enables efficient and scalable computation by leveraging the power of graph-based parallelism.
+CGraph is an open-source, cross-platform, and dependency-free DAG (Directed Acyclic Graph) framework for parallel computing. It supports both C++ and Python, making it a versatile tool for AI/ML applications. CGraph is a featured project in Awesome C++ and encourages community contributions and collaboration.
 
 ---
 

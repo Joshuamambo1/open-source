@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the async-tungstenite project:
-
-Async-tungstenite is an open-source, asynchronous binding for Tungstenite, a lightweight stream-based WebSocket implementation. It allows developers to easily integrate web sockets into their applications, enabling bidirectional, real-time communication between clients and servers. This project provides a convenient and efficient way to handle web socket connections in asynchronous environments.
+The async-tungstenite project provides an asynchronous binding for Tungstenite, a lightweight and efficient WebSocket implementation. This project allows developers to easily create asynchronous WebSocket connections, facilitating the creation of scalable and high-performance web applications. By leveraging async-tungstenite, developers can build robust and efficient real-time communication systems.
 
 ---
 

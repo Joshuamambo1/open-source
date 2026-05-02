@@ -25,9 +25,7 @@ Orchestration · AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-GitMesh is an open-source, policy-as-code engine designed to orchestrate open-source AI agents in a decentralized manner. It enables users to automate and secure AI workflows through customizable policies, promoting transparency and trust in AI decision-making processes. By providing a scalable and flexible framework for AI agent orchestration, GitMesh facilitates the development of more robust, secure, and collaborative AI ecosystems.
+GitMesh is an open-source, policy-as-code engine designed for orchestrating open-source AI agents. It enables secure and scalable management of AI workloads by allowing administrators to define and enforce policies through code. This engine simplifies the process of configuring and managing AI agent orchestration, promoting a more decentralized and transparent approach to AI development.
 
 ---
 

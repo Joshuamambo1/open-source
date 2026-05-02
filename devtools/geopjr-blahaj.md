@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The GeopJr/BLAHAJ project is an open-source, lolcat-like command-line interface (CLI) tool that brings a dash of fun and personality to your local terminal. It features gay sharks as colorful, whimsical characters that can be displayed in the terminal. The project is designed to add some visual flair to development workflows and is categorized under development tools.
+GeopJr/BLAHAJ is an open-source, lolcat-like CLI tool that brings a touch of humor to your terminal experience. This project features "gay sharks" in a playful and colorful display, making it a lighthearted addition to any developer's toolkit.
 
 ---
 

@@ -27,7 +27,7 @@ AI/ML · Frontend · DevTools
 
 Here's a brief summary for the lunemis/mux project:
 
-The lunemis/mux project is an open-source, command-line interface (CLI) tmux session manager with a live preview feature. Designed specifically for AI coding workflows, it streamlines the development process by providing a user-friendly interface for managing multiple tmux sessions. This tool aims to boost developer productivity by offering an integrated solution for efficient AI coding.
+Lunemis/mux is an open-source, text-based user interface (TUI) application designed to manage tmux sessions with a live preview feature. Built specifically for AI coding workflows, it streamlines development processes by providing an intuitive interface for session management and code visualization. This project is ideal for data scientists, machine learning engineers, and developers working with AI and ML tools.
 
 ---
 

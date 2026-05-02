@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The Siddhant-K-code/distill project is an open-source initiative that aims to enhance the reliability of Large Language Model (LLM) outputs by maintaining a clean context. It achieves this through deterministic deduplication, compression, and caching specifically designed for Retrieval-Augmented Generation (RAG) pipelines. This project helps optimize AI/ML workflows by streamlining the process.
+Here's a brief summary for the Siddhant-K-code/distill project:
+
+The Siddhant-K-code/distill project is an open-source initiative that aims to enhance the reliability of Large Language Model (LLM) outputs by ensuring clean context through deterministic deduplication, compression, and caching of Retrieval-Augmented Generation (RAG) pipelines. This project facilitates efficient and consistent results in AI/ML applications. By streamlining RAG pipeline operations, distill enhances the overall performance and accuracy of LLMs.
 
 ---
 

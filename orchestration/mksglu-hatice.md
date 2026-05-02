@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Hatice is an open-source, autonomous coding agent orchestration system designed to streamline the development and deployment of AI and machine learning (ML) models. This innovative platform enables efficient management of complex coding tasks, automating the process of agent orchestration to enhance productivity and reduce the workload of developers. By leveraging Hatice, users can expedite their coding workflows and focus on higher-level tasks.
+Hatice is an open-source, autonomous coding agent orchestration system designed to streamline the development and deployment of AI and ML projects. This innovative platform enables the orchestration of coding agents to automate tasks, simplify workflows, and enhance collaboration among developers. By leveraging Hatice, teams can accelerate their project timelines and improve overall productivity.
 
 ---
 

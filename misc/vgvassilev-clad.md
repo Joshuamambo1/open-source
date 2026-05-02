@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The vgvassilev/clad project is an open-source automatic differentiation library for C/C++ that enables the computation of gradients and higher-order derivatives of mathematical functions. This allows for efficient and accurate computation of gradients, making it a valuable tool for tasks such as optimization, machine learning, and scientific computing. By automatically generating derivative code, clad streamlines the process of numerical differentiation.
+The clad project is an open-source library that provides automatic differentiation for C/C++ programs. This library enables the efficient computation of gradients and Hessians, facilitating the use of gradient-based optimization techniques and sensitivity analysis in a wide range of applications. By automating the process of differentiation, clad simplifies the implementation of complex mathematical models and minimizes the risk of human error.
 
 ---
 

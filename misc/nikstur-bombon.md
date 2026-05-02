@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The bombon project, created by nikstur, generates CycloneDX Software Bills of Materials (SBOMs) using Nix. This open-source project enables users to produce comprehensive SBOMs for Nix-based systems, providing transparency and security through detailed dependency tracking. By leveraging Nix, bombon simplifies the process of managing and analyzing dependencies in software systems.
+Here's a brief summary for the "bombon" project:
+
+The "bombon" project is an open-source tool that generates CycloneDX Software Bills of Materials (SBOMs) for Nix packages. It provides a standardized way to track dependencies and vulnerabilities in Nix-based software systems. By automating SBOM generation, "bombon" facilitates better security and compliance in software development.
 
 ---
 

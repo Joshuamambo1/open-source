@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The gh-poi project is a lightweight, open-source tool designed to help users safely clean up their local branches by identifying and deleting unnecessary or stale branches. It provides a simple and efficient way to manage and declutter local repositories, making it easier to maintain a tidy development environment. With gh-poi, developers can streamline their workflow and reduce clutter.
+The `gh-poi` project, created by seachicken, is an open-source DevTool designed to safely clean up local branches in your Git repository. This utility helps maintain a tidy and organized branch structure, making it easier to manage and collaborate on code. With `gh-poi`, you can efficiently remove unnecessary branches and streamline your Git workflow.
 
 ---
 

@@ -83,9 +83,9 @@
 | 73 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 459 | Rust | 52/100 |
 | 74 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 614 | Go | 52/100 |
 | 75 | [ohaswin/pyscan](./ohaswin-pyscan.md) | ⭐ 242 | Rust | 52/100 |
-| 76 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
-| 77 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
-| 78 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 257 | Go | 52/100 |
+| 76 | [ossf/allstar](./ossf-allstar.md) | ⭐ 1.4k | Go | 52/100 |
+| 77 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 257 | Go | 52/100 |
+| 78 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 752 | Go | 52/100 |
 | 79 | [interlynk-io/sbomasm](./interlynk-io-sbomasm.md) | ⭐ 114 | Go | 51/100 |
 | 80 | [Shopify/ejson](./shopify-ejson.md) | ⭐ 1.5k | Go | 51/100 |
 | 81 | [medbenali/CyberScan](./medbenali-cyberscan.md) | ⭐ 455 | Python | 51/100 |

@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the Clouds Coder project:
+Here's a brief summary for the Clouds Coder project:
 
-Clouds Coder is an open-source, local-first coding agent platform that decouples the Command-Line Interface (CLI) execution plane from the Web user interface, enabling efficient development and deployment. Its features include a Web UI, Skills Studio for skill development, and robust streaming and long-task recovery controls. This platform is ideal for orchestration, AI/ML, and frontend development tasks.
+Clouds Coder is an open-source, local-first coding agent platform that decouples CLI execution from Web user interaction, enabling seamless and scalable coding experiences. It features a Web UI, Skills Studio, and robust controls for resilient streaming and long-task recovery, making it an ideal choice for developers and teams working with orchestration, AI/ML, and frontend technologies. By leveraging this platform, users can streamline their coding workflows and improve overall productivity.
 
 ---
 

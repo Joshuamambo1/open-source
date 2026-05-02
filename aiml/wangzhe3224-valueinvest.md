@@ -25,9 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary for the open-source project:
 
-The "valueinvest" project is an open-source AI/ML platform designed for value investing, built to provide a sophisticated tool for agents to assist with investment decisions. This platform is intended to be used in conjunction with a coding agent, streamlining the process of utilizing its features and capabilities. By leveraging AI and ML, the valueinvest platform aims to provide valuable insights and recommendations for informed investment decisions.
+This is an open-source project, "value invest build for agent", which utilizes AI and ML technologies to facilitate value investing strategies. The project is designed to be utilized through a coding agent, rather than direct personal code review. It's an innovative approach to investing that leverages automation and AI, potentially streamlining the process for users.
 
 ---
 

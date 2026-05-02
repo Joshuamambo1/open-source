@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary of the open-source project:
 
-This open-source project, fcpxml-mcp-server, is the first AI-powered Media Control Protocol (MCP) server for Final Cut Pro XML, enabling natural language control over video edits. By harnessing the power of artificial intelligence, editors can now interact with their videos using simple voice commands. This innovative project streamlines the editing process, making video production more efficient and user-friendly.
+The fcpxml-mcp-server is an AI-powered server designed to work with Final Cut Pro XML, enabling users to control their edits using natural language. This innovative project leverages AI and machine learning capabilities to streamline video editing workflows in Final Cut Pro. By integrating natural language control, users can focus on creative aspects without being bogged down by technical intricacies.
 
 ---
 

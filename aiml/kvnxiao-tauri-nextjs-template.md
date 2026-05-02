@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Tauri Next.js template project:
-
-This open-source project provides a starter template for building cross-platform desktop applications with Tauri 2.0 and Next.js for server-side rendering. The template includes popular tools such as TailwindCSS and opinionated linting configurations, making it an ideal starting point for developers looking to create modern and maintainable applications. With GitHub Actions preconfigured, users can easily automate their development workflow.
+This project provides a template for building cross-platform desktop applications using Tauri 2.0 and server-side generated (SSG) Next.js, along with styling enabled by TailwindCSS. The template also includes preconfigured GitHub Actions and opinionated linting to streamline development. It's suitable for AI/ML, frontend, and DevTools projects.
 
 ---
 

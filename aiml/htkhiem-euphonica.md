@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Euphonica is an open-source MPD client built with Rust, GTK, and Libadwaita, providing a visually appealing and user-friendly interface for music lovers. This project boasts a modern design, making it an attractive alternative for those seeking a sophisticated music player experience. With its Rust foundation, Euphonica aims to deliver high performance and reliability.
+Euphonica is a powerful, open-source MPD client developed with Rust, GTK, and Libadwaita. This project boasts a sleek and modern interface, providing users with a seamless music listening experience. Euphonica's unique fusion of cutting-edge technologies makes it an attractive option for those seeking a sophisticated MPD client.
 
 ---
 

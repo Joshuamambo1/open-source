@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The chaqchase/lla project is an open-source, high-performance replacement for the traditional `ls` command, offering enhanced functionality and capabilities. This blazing fast `ls` alternative provides users with a more efficient and feature-rich experience for managing and exploring files and directories. It is ideal for developers and power users seeking a more powerful file listing utility.
+The chaqchase/lla project is an open-source, high-performance alternative to the traditional `ls` command. It offers enhanced functionality with "superpowers" tailored for developers, providing an improved experience for navigating and managing files. Lla aims to streamline file system interactions.
 
 ---
 

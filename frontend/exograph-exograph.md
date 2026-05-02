@@ -1,6 +1,6 @@
 # exograph/exograph
 
-[![Stars](https://img.shields.io/github/stars/exograph/exograph?style=flat-square&color=yellow)](https://github.com/exograph/exograph/stargazers) [![Forks](https://img.shields.io/github/forks/exograph/exograph?style=flat-square&color=blue)](https://github.com/exograph/exograph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/exograph/exograph?style=flat-square&color=yellow)](https://github.com/exograph/exograph/stargazers) [![Forks](https://img.shields.io/github/forks/exograph/exograph?style=flat-square&color=blue)](https://github.com/exograph/exograph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Build production-ready backends in minutes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

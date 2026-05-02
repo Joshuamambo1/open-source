@@ -25,7 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The Kubernetes NFS CSI driver is an open-source project that enables Kubernetes to access NFS servers on Linux nodes, providing a scalable and efficient way to manage storage resources. This driver integrates with the Container Storage Interface (CSI) standard, allowing for seamless integration with existing Kubernetes deployments. By using this driver, users can easily provision and manage NFS shares as persistent storage volumes within their Kubernetes clusters.
+The kubernetes-csi/csi-driver-nfs project enables Kubernetes to access NFS (Network File System) servers on Linux nodes, allowing for shared storage and flexible data management within containerized environments. This open-source driver simplifies the process of integrating NFS storage with Kubernetes clusters, making it easier to manage and orchestrate distributed applications. By leveraging this driver, users can take advantage of NFS storage's scalability and reliability.
 
 ---
 

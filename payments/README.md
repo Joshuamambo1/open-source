@@ -63,7 +63,7 @@
 | 53 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.1k | Rust | 58/100 |
 | 54 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
 | 55 | [moov-io/ach](./moov-io-ach.md) | ⭐ 541 | Go | 57/100 |
-| 56 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 792 | TypeScript | 57/100 |
+| 56 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 794 | TypeScript | 57/100 |
 | 57 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 888 | TypeScript | 57/100 |
 | 58 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 532 | Perl | 56/100 |
 | 59 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 597 | Python | 56/100 |
@@ -75,8 +75,8 @@
 | 65 | [Silentely/AdBlock-Acceleration](./silentely-adblock-acceleration.md) | ⭐ 549 | Adblock Filter List | 55/100 |
 | 66 | [samber/ro](./samber-ro.md) | ⭐ 641 | Go | 55/100 |
 | 67 | [open-condo-software/condo](./open-condo-software-condo.md) | ⭐ 337 | JavaScript | 54/100 |
-| 68 | [shetabit/payment](./shetabit-payment.md) | ⭐ 939 | PHP | 54/100 |
-| 69 | [Adyen/adyen-magento2](./adyen-adyen-magento2.md) | ⭐ 165 | PHP | 54/100 |
+| 68 | [Adyen/adyen-magento2](./adyen-adyen-magento2.md) | ⭐ 165 | PHP | 54/100 |
+| 69 | [shetabit/payment](./shetabit-payment.md) | ⭐ 939 | PHP | 54/100 |
 | 70 | [crafter-station/elements](./crafter-station-elements.md) | ⭐ 495 | TypeScript | 54/100 |
 | 71 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 177 | PHP | 53/100 |
 | 72 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 379 | PHP | 53/100 |
@@ -100,9 +100,9 @@
 | 90 | [clawfleet/ClawFleet](./clawfleet-clawfleet.md) | ⭐ 139 | Go | 51/100 |
 | 91 | [ad-si/invoice-maker](./ad-si-invoice-maker.md) | ⭐ 168 | Typst | 51/100 |
 | 92 | [ianjwhite99/opencode-with-claude](./ianjwhite99-opencode-with-claude.md) | ⭐ 171 | JavaScript | 51/100 |
-| 93 | [OpenStudy-dev/OpenStudy](./openstudy-dev-openstudy.md) | ⭐ 62 | TypeScript | 51/100 |
-| 94 | [mag123c/toktrack](./mag123c-toktrack.md) | ⭐ 127 | Rust | 51/100 |
-| 95 | [chadingTV/claudecode-discord](./chadingtv-claudecode-discord.md) | ⭐ 42 | TypeScript | 51/100 |
+| 93 | [mag123c/toktrack](./mag123c-toktrack.md) | ⭐ 127 | Rust | 51/100 |
+| 94 | [chadingTV/claudecode-discord](./chadingtv-claudecode-discord.md) | ⭐ 42 | TypeScript | 51/100 |
+| 95 | [OpenStudy-dev/OpenStudy](./openstudy-dev-openstudy.md) | ⭐ 62 | TypeScript | 51/100 |
 | 96 | [magnussolution/magnusbilling7](./magnussolution-magnusbilling7.md) | ⭐ 330 | JavaScript | 51/100 |
 | 97 | [ClickDevTech/CELERITY-panel](./clickdevtech-celerity-panel.md) | ⭐ 124 | JavaScript | 51/100 |
 | 98 | [nutcas3/lets-bet](./nutcas3-lets-bet.md) | ⭐ 99 | Go | 51/100 |

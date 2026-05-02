@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-CyberScraper-2077 is an open-source, powerful web scraper that leverages cutting-edge language models from OpenAI, Gemini, and Ollama for efficient data extraction. This project utilizes AI/ML capabilities to scrape and analyze web content, providing users with a robust tool for data collection and processing. By harnessing the strengths of LLMs, CyberScraper-2077 offers unparalleled flexibility and accuracy in web scraping applications.
+CyberScraper-2077 is an open-source web scraping project that leverages the capabilities of cutting-edge Large Language Models (LLM) from OpenAI, Gemini, and Ollama. This powerful tool enables users to efficiently extract data from websites, providing a valuable resource for data scientists, developers, and researchers. By harnessing the strengths of LLMs, CyberScraper-2077 offers a highly effective and adaptable web scraping solution.
 
 ---
 

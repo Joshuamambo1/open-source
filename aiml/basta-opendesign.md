@@ -25,7 +25,7 @@ AI/ML · Design
 
 ## 📝 Summary
 
-OpenDesign is an open-source project that enables users to create digital designs directly in a web browser, leveraging a Figma-like canvas. This innovative platform is driven by AI coding agents, allowing users to bring their designs to life without needing to write code themselves. By combining design and AI capabilities, OpenDesign aims to streamline the creative process and make web design more accessible.
+The OpenDesign project offers a collaborative, Figma-like canvas for designing and prototyping HTML-based interfaces. Leveraging AI coding agents, this open-source platform streamlines the design-to-code process, enabling users to bring their creative vision to life with greater ease and efficiency. By integrating AI-driven coding capabilities, OpenDesign empowers designers and developers to build and iterate on innovative web experiences.
 
 ---
 

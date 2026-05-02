@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The pcbparts-mcp project is an open-source backend server for searching electronic components, designed to streamline the process of assembling printed circuit boards (PCBs). This server, built by Averyy, provides a centralized platform for component lookup, aiming to simplify and accelerate the PCB assembly workflow. By leveraging this tool, PCB designers and assemblers can efficiently find and procure the necessary components for their projects.
+The pcbparts-mcp project is an open-source backend server for searching electronic components, designed to facilitate PCB assembly by providing a comprehensive database of parts. This server enables users to query and retrieve component information, making it easier to design and manufacture electronic circuits. By leveraging this project, developers and engineers can streamline their component search process and improve overall PCB design efficiency.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-This open-source project, "make-my-server", is a comprehensive Docker Compose setup that integrates Traefik for efficient service management. It provides a versatile infrastructure for developers working with AI/ML, backend, and DevOps/Infrastructure projects, enabling scalable and secure deployments. This setup can be easily customized to suit various project requirements, making it an ideal starting point for complex applications.
+This open-source project, "make-my-server," is a comprehensive Docker Compose setup that integrates Traefik for efficient container orchestration and management. It features a wide range of services, making it a valuable resource for developers and DevOps professionals working on AI/ML, backend, and infrastructural projects. By leveraging this project, users can quickly create and deploy complex server configurations using Docker and Traefik.
 
 ---
 

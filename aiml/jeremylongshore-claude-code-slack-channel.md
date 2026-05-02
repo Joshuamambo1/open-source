@@ -25,9 +25,9 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the project:
+Here's a brief summary of the project:
 
-Claude Code Slack Channel is an open-source project that establishes a two-way bridge between Claude Code and Slack, ensuring seamless communication and collaboration between developers and AI/ML models. This project features robust security measures, including a tamper-evident audit journal, per-thread session isolation, and a five-layer prompt-injection defense. It supports three runtimes: Bun, Node.js, and Docker, making it a versatile tool for DevOps/Infra and AI/ML workflows.
+Claude-Code Slack Channel is an open-source project that establishes a two-way bridge between Claude Code and a Slack channel, enabling seamless communication and collaboration between developers and AI tools. This project boasts robust security features, including a tamper-evident audit journal and prompt-injection defense, ensuring secure and transparent interactions. It supports multiple runtimes and is built with TypeScript, making it versatile and maintainable.
 
 ---
 

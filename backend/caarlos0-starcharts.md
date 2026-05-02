@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The starcharts project, developed by caarlos0, is an open-source tool that enables users to visualize the number of stars a repository receives over time. By analyzing star trends, developers can gain insights into the popularity and community engagement of their projects. This project caters to backend developers by providing a simple way to track and plot star activity.
+The starcharts project by caarlos0 is an open-source initiative that provides a tool for visualizing the number of stars a repository receives over time. This backend-focused project plots the star count history, offering insights into a repository's popularity trend and community engagement. By leveraging starcharts, developers can gain a deeper understanding of their project's growth and adoption.
 
 ---
 

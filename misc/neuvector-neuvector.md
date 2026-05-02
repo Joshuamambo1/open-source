@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The neuvector/neuvector project is an open-source platform that provides network traffic analysis and monitoring capabilities. It enables users to gain visibility into their network activity, detect potential security threats, and improve overall network performance. With its flexible architecture and customizable features, neuvector/neuvector helps organizations to stay secure and efficient in their network operations.
+The neuvector project is an open-source platform providing a comprehensive security solution for cloud and container environments. It integrates network traffic monitoring, threat detection, and incident response capabilities to enhance overall network security and visibility. By leveraging AI-powered analytics, neuvector enables organizations to detect and respond to cyber threats in real-time.
 
 ---
 

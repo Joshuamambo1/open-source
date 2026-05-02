@@ -25,9 +25,7 @@ DevOps/Infra · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the Azure/kubernetes-kms project:
-
-Azure/kubernetes-kms is an open-source plugin that integrates Azure Key Vault with Kubernetes, providing a secure key management system for clusters. This plugin enables users to leverage Azure Key Vault's secrets management capabilities within their Kubernetes deployments, enhancing overall security and compliance. By using this plugin, users can securely manage their sensitive data and secrets within Kubernetes.
+The Azure Kubernetes KMS project is an open-source plugin that integrates Azure Key Vault with Kubernetes, enabling secure secret management for cloud-native applications. This plugin provides a seamless way to use Azure Key Vault as the key management system for Kubernetes, enhancing the security and compliance of cloud deployments. By leveraging Azure Key Vault, developers can easily manage and encrypt sensitive data in Kubernetes environments.
 
 ---
 

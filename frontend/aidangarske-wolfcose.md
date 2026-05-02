@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-WolfCOSE is an open-source project that leverages wolfCrypt to create a lightweight and secure cryptographic library. This project is notable for its compliance with various security standards, including PQC (Post-Quantum Cryptography), MISRA-C (Motor Industry Software Reliability Association C), and FIPS 140-3 (Federal Information Processing Standard 140-3 for cryptographic modules). By utilizing zero allocation, WolfCOSE aims to provide secure and efficient cryptographic operations.
+WolfCOSE is an open-source project that leverages the wolfCrypt library to provide a zero-alloc, post-quantum cryptography (PQC)-enabled, and MISRA-C compliant solution for secure cryptographic operations. Built to meet the stringent requirements of FIPS 140-3, this project offers a robust and secure framework for cryptographic applications. By utilizing wolfCrypt, WolfCOSE aims to provide a reliable and efficient solution for secure cryptographic needs.
 
 ---
 

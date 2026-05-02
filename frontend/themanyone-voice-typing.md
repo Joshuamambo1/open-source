@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"Voice Typing is an open-source voice-to-text tool that enables seamless typing on Linux and Windows terminals. This project provides a simple bash script to utilize offline or networked voice typing capabilities, making it accessible from anywhere, including text-based environments. With Voice Typing, users can enjoy hands-free typing on their terminals without requiring a graphical interface."
+The voice_typing project is an open-source initiative that enables users to type using their voice, both offline and online, across various platforms and environments. With a simple bash script, this project supports voice typing on Linux and Windows (via Windows FL session) and can be utilized in text terminals, as well as within X environments. Its offline capability and user-friendly approach make it a versatile tool for efficient communication.
 
 ---
 

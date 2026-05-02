@@ -25,9 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the claws project:
-
-Claws is an open-source, k9s-inspired TUI (Text User Interface) for managing AWS resources, designed to provide a user-friendly and efficient way to navigate and manage cloud resources directly from the terminal. With its vim-style navigation, users can easily traverse and manipulate AWS resources in a flexible and intuitive manner. This tool is ideal for developers and DevOps professionals looking to streamline their AWS resource management workflow.
+Claws is an open-source, command-line interface (CLI) for managing AWS resources, inspired by k9s and featuring a text-based user interface (TUI) with vim-style navigation. This tool allows users to easily monitor and interact with their AWS resources in a terminal-friendly format. With Claws, users can efficiently manage their AWS resources without relying on a graphical user interface.
 
 ---
 

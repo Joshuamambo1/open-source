@@ -25,7 +25,9 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-The pmetal project is an open-source framework for fine-tuning large language models on Apple Silicon devices, utilizing powdered metal technology to provide high-performance capabilities. This tool enables users to optimize and customize their models for specific tasks, making it a valuable resource for developers and researchers in the AI/ML community. By leveraging Apple Silicon, pmetal offers a unique solution for efficient and effective model fine-tuning.
+Here's a brief summary for the Epistates/pmetal project:
+
+Epistates/pmetal is an open-source framework designed for fine-tuning high-performance Large Language Models (LLMs) on Apple Silicon devices. This project aims to optimize LLM fine-tuning for Apple's M-series chips, providing a high-performance solution for AI/ML applications. By leveraging Apple Silicon's capabilities, pmetal enables developers to achieve faster and more efficient LLM training and deployment.
 
 ---
 

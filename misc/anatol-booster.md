@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The anatol/booster project is an open-source initramfs generator that prioritizes speed and security. It is designed to efficiently create initramfs files, allowing users to customize and optimize their system's boot process. By leveraging a fast and secure approach, booster simplifies the process of managing system initialization.
+The anatol/booster project is an open-source tool designed to efficiently generate initramfs images. It prioritizes both speed and security, making it a reliable choice for system administrators and developers. With booster, users can create initramfs images quickly and securely for various Linux distributions.
 
 ---
 

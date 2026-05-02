@@ -1,0 +1,32 @@
+# PhotonVision/photonvision
+
+[![Stars](https://img.shields.io/github/stars/PhotonVision/photonvision?style=flat-square&color=yellow)](https://github.com/PhotonVision/photonvision/stargazers) [![Forks](https://img.shields.io/github/forks/PhotonVision/photonvision?style=flat-square&color=blue)](https://github.com/PhotonVision/photonvision/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+
+> PhotonVision is the free, fast, and easy-to-use computer vision solution for the FIRST Robotics Competition.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 408 |
+| 🍴 **Forks** | 296 |
+| 💻 **Language** | Java |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+PhotonVision is a free, open-source computer vision solution designed specifically for the FIRST Robotics Competition. It provides a fast and user-friendly interface for teams to develop and deploy computer vision capabilities in their robots. This solution aims to make computer vision accessible and easy to integrate into robotics projects.
+
+---
+
+<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/PhotonVision/photonvision) · [← Back to Misc](./README.md)</sub>

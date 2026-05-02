@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&color=yellow)](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/stargazers) [![Forks](https://img.shields.io/github/forks/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&color=blue)](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
-> 423 plugins, 2,849 skills, 177 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.
+> 425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 280 |
+| 🍴 **Forks** | 281 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |

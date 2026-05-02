@@ -1,6 +1,6 @@
 # demirbey05/erdos-problem-solver-cli
 
-[![Stars](https://img.shields.io/github/stars/demirbey05/erdos-problem-solver-cli?style=flat-square&color=yellow)](https://github.com/demirbey05/erdos-problem-solver-cli/stargazers) [![Forks](https://img.shields.io/github/forks/demirbey05/erdos-problem-solver-cli?style=flat-square&color=blue)](https://github.com/demirbey05/erdos-problem-solver-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/demirbey05/erdos-problem-solver-cli?style=flat-square&color=yellow)](https://github.com/demirbey05/erdos-problem-solver-cli/stargazers) [![Forks](https://img.shields.io/github/forks/demirbey05/erdos-problem-solver-cli?style=flat-square&color=blue)](https://github.com/demirbey05/erdos-problem-solver-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > CLI for quickly solving Erdös Problems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

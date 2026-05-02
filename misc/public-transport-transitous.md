@@ -1,6 +1,6 @@
 # public-transport/transitous
 
-[![Stars](https://img.shields.io/github/stars/public-transport/transitous?style=flat-square&color=yellow)](https://github.com/public-transport/transitous/stargazers) [![Forks](https://img.shields.io/github/forks/public-transport/transitous?style=flat-square&color=blue)](https://github.com/public-transport/transitous/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/public-transport/transitous?style=flat-square&color=yellow)](https://github.com/public-transport/transitous/stargazers) [![Forks](https://img.shields.io/github/forks/public-transport/transitous?style=flat-square&color=blue)](https://github.com/public-transport/transitous/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Free and open public transport routing.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 609 |
-| 🍴 **Forks** | 165 |
+| 🍴 **Forks** | 166 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

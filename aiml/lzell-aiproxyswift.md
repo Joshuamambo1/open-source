@@ -1,6 +1,6 @@
 # lzell/AIProxySwift
 
-[![Stars](https://img.shields.io/github/stars/lzell/AIProxySwift?style=flat-square&color=yellow)](https://github.com/lzell/AIProxySwift/stargazers) [![Forks](https://img.shields.io/github/forks/lzell/AIProxySwift?style=flat-square&color=blue)](https://github.com/lzell/AIProxySwift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lzell/AIProxySwift?style=flat-square&color=yellow)](https://github.com/lzell/AIProxySwift/stargazers) [![Forks](https://img.shields.io/github/forks/lzell/AIProxySwift?style=flat-square&color=blue)](https://github.com/lzell/AIProxySwift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Swift client for AI providers. Can make requests straight to the provider or proxied through our API key protection backend
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 429 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

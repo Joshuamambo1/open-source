@@ -1,6 +1,6 @@
 # lucienhuangfu/eLLM
 
-[![Stars](https://img.shields.io/github/stars/lucienhuangfu/eLLM?style=flat-square&color=yellow)](https://github.com/lucienhuangfu/eLLM/stargazers) [![Forks](https://img.shields.io/github/forks/lucienhuangfu/eLLM?style=flat-square&color=blue)](https://github.com/lucienhuangfu/eLLM/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lucienhuangfu/eLLM?style=flat-square&color=yellow)](https://github.com/lucienhuangfu/eLLM/stargazers) [![Forks](https://img.shields.io/github/forks/lucienhuangfu/eLLM?style=flat-square&color=blue)](https://github.com/lucienhuangfu/eLLM/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > eLLM can infer LLM on CPUs faster than on GPUs
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 290 |
-| 🍴 **Forks** | 29 |
+| ⭐ **Stars** | 296 |
+| 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

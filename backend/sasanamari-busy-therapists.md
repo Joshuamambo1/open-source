@@ -1,6 +1,6 @@
 # sasanamari/busy_therapists
 
-[![Stars](https://img.shields.io/github/stars/sasanamari/busy_therapists?style=flat-square&color=yellow)](https://github.com/sasanamari/busy_therapists/stargazers) [![Forks](https://img.shields.io/github/forks/sasanamari/busy_therapists?style=flat-square&color=blue)](https://github.com/sasanamari/busy_therapists/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sasanamari/busy_therapists?style=flat-square&color=yellow)](https://github.com/sasanamari/busy_therapists/stargazers) [![Forks](https://img.shields.io/github/forks/sasanamari/busy_therapists?style=flat-square&color=blue)](https://github.com/sasanamari/busy_therapists/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Automated therapy finder tool in Germany, compatible with Kostenerstattung applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -1,6 +1,6 @@
 # echo-ae/local_figma_port
 
-[![Stars](https://img.shields.io/github/stars/echo-ae/local_figma_port?style=flat-square&color=yellow)](https://github.com/echo-ae/local_figma_port/stargazers) [![Forks](https://img.shields.io/github/forks/echo-ae/local_figma_port?style=flat-square&color=blue)](https://github.com/echo-ae/local_figma_port/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/echo-ae/local_figma_port?style=flat-square&color=yellow)](https://github.com/echo-ae/local_figma_port/stargazers) [![Forks](https://img.shields.io/github/forks/echo-ae/local_figma_port?style=flat-square&color=blue)](https://github.com/echo-ae/local_figma_port/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first bridge between Figma and AI coding agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

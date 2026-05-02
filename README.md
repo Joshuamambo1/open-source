@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14166** |
+| 🗂️ **Total projects** | **14212** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5345 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2848 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1380 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1062 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 867 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 843 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 494 | [Browse →](./crypto/) |
-| 📊 **Data** | 323 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 5360 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2864 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1381 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1065 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 870 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 845 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 496 | [Browse →](./crypto/) |
+| 📊 **Data** | 324 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 312 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 177 | [Browse →](./mobile/) |
-| 💳 **Payments** | 155 | [Browse →](./payments/) |
-| 📈 **Trading** | 142 | [Browse →](./trading/) |
+| 💳 **Payments** | 156 | [Browse →](./payments/) |
+| 📈 **Trading** | 144 | [Browse →](./trading/) |
 | 🔐 **Security** | 118 | [Browse →](./security/) |
 | ✨ **Design** | 44 | [Browse →](./design/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [pnpm/pnpm](./misc/pnpm-pnpm.md) | ⭐ 34.8k | Misc |
-| 2 | [lutzroeder/netron](./aiml/lutzroeder-netron.md) | ⭐ 32.8k | AI/ML |
-| 3 | [reflex-dev/reflex](./frontend/reflex-dev-reflex.md) | ⭐ 28.4k | Frontend |
-| 4 | [DIYgod/RSSHub](./misc/diygod-rsshub.md) | ⭐ 43.8k | Misc |
-| 5 | [foundry-rs/foundry](./crypto/foundry-rs-foundry.md) | ⭐ 10.3k | Crypto |
-| 6 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 14.9k | AI/ML |
-| 7 | [m1k1o/neko](./frontend/m1k1o-neko.md) | ⭐ 20.7k | Frontend |
-| 8 | [glpi-project/glpi](./data/glpi-project-glpi.md) | ⭐ 5.8k | Data |
-| 9 | [lsdefine/GenericAgent](./crypto/lsdefine-genericagent.md) | ⭐ 8.6k | Crypto |
-| 10 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 1 | [miurla/morphic](./aiml/miurla-morphic.md) | ⭐ 8.8k | AI/ML |
+| 2 | [pnpm/pnpm](./misc/pnpm-pnpm.md) | ⭐ 34.8k | Misc |
+| 3 | [streamlink/streamlink](./aiml/streamlink-streamlink.md) | ⭐ 11.4k | AI/ML |
+| 4 | [unionlabs/union](./crypto/unionlabs-union.md) | ⭐ 74.1k | Crypto |
+| 5 | [WhiskeySockets/Baileys](./aiml/whiskeysockets-baileys.md) | ⭐ 9.2k | AI/ML |
+| 6 | [getsentry/sentry-javascript](./frontend/getsentry-sentry-javascript.md) | ⭐ 8.6k | Frontend |
+| 7 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 8 | [zephyrproject-rtos/zephyr](./misc/zephyrproject-rtos-zephyr.md) | ⭐ 15.1k | Misc |
+| 9 | [warmcat/libwebsockets](./backend/warmcat-libwebsockets.md) | ⭐ 5.3k | Backend |
+| 10 | [Tencent/WeKnora](./aiml/tencent-weknora.md) | ⭐ 14.2k | AI/ML |
 
 ## 🚀 How it works
 

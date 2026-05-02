@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 294 |
-| 🍴 **Forks** | 98 |
+| ⭐ **Stars** | 296 |
+| 🍴 **Forks** | 99 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |

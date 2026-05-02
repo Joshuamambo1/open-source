@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 22 |
-| 🍴 **Forks** | 2 |
+| ⭐ **Stars** | 23 |
+| 🍴 **Forks** | 3 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |

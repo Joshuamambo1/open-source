@@ -1,6 +1,6 @@
 # vizzito/last-mile-optimizer-paper
 
-[![Stars](https://img.shields.io/github/stars/vizzito/last-mile-optimizer-paper?style=flat-square&color=yellow)](https://github.com/vizzito/last-mile-optimizer-paper/stargazers) [![Forks](https://img.shields.io/github/forks/vizzito/last-mile-optimizer-paper?style=flat-square&color=blue)](https://github.com/vizzito/last-mile-optimizer-paper/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vizzito/last-mile-optimizer-paper?style=flat-square&color=yellow)](https://github.com/vizzito/last-mile-optimizer-paper/stargazers) [![Forks](https://img.shields.io/github/forks/vizzito/last-mile-optimizer-paper?style=flat-square&color=blue)](https://github.com/vizzito/last-mile-optimizer-paper/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Rethinking Last-Mile Routing at Scale: Near-Linear Planning on Commodity Hardware
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

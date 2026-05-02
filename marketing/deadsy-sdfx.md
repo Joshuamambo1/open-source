@@ -1,6 +1,6 @@
 # deadsy/sdfx
 
-[![Stars](https://img.shields.io/github/stars/deadsy/sdfx?style=flat-square&color=yellow)](https://github.com/deadsy/sdfx/stargazers) [![Forks](https://img.shields.io/github/forks/deadsy/sdfx?style=flat-square&color=blue)](https://github.com/deadsy/sdfx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deadsy/sdfx?style=flat-square&color=yellow)](https://github.com/deadsy/sdfx/stargazers) [![Forks](https://img.shields.io/github/forks/deadsy/sdfx?style=flat-square&color=blue)](https://github.com/deadsy/sdfx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A simple CAD package using signed distance functions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 613 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

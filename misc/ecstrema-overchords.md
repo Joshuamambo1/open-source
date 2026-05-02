@@ -1,6 +1,6 @@
 # ecstrema/overchords
 
-[![Stars](https://img.shields.io/github/stars/ecstrema/overchords?style=flat-square&color=yellow)](https://github.com/ecstrema/overchords/stargazers) [![Forks](https://img.shields.io/github/forks/ecstrema/overchords?style=flat-square&color=blue)](https://github.com/ecstrema/overchords/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ecstrema/overchords?style=flat-square&color=yellow)](https://github.com/ecstrema/overchords/stargazers) [![Forks](https://img.shields.io/github/forks/ecstrema/overchords?style=flat-square&color=blue)](https://github.com/ecstrema/overchords/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > See the notes being played currently by your speakers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

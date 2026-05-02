@@ -1,6 +1,6 @@
 # DemchaAV/GraphCompose
 
-[![Stars](https://img.shields.io/github/stars/DemchaAV/GraphCompose?style=flat-square&color=yellow)](https://github.com/DemchaAV/GraphCompose/stargazers) [![Forks](https://img.shields.io/github/forks/DemchaAV/GraphCompose?style=flat-square&color=blue)](https://github.com/DemchaAV/GraphCompose/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DemchaAV/GraphCompose?style=flat-square&color=yellow)](https://github.com/DemchaAV/GraphCompose/stargazers) [![Forks](https://img.shields.io/github/forks/DemchaAV/GraphCompose?style=flat-square&color=blue)](https://github.com/DemchaAV/GraphCompose/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative Java document layout engine with semantic authoring, automatic pagination, PDFBox rendering, layout snapshots, and reusable templates.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Java |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

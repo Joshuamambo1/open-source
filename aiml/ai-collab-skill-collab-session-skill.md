@@ -1,6 +1,6 @@
 # AI-Collab-Skill/collab-session-skill
 
-[![Stars](https://img.shields.io/github/stars/AI-Collab-Skill/collab-session-skill?style=flat-square&color=yellow)](https://github.com/AI-Collab-Skill/collab-session-skill/stargazers) [![Forks](https://img.shields.io/github/forks/AI-Collab-Skill/collab-session-skill?style=flat-square&color=blue)](https://github.com/AI-Collab-Skill/collab-session-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AI-Collab-Skill/collab-session-skill?style=flat-square&color=yellow)](https://github.com/AI-Collab-Skill/collab-session-skill/stargazers) [![Forks](https://img.shields.io/github/forks/AI-Collab-Skill/collab-session-skill?style=flat-square&color=blue)](https://github.com/AI-Collab-Skill/collab-session-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skill for async collaborative brainstorming between human+Claude pairs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

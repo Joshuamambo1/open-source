@@ -1,6 +1,6 @@
 # Benboerba620/karpathy-claude-wiki
 
-[![Stars](https://img.shields.io/github/stars/Benboerba620/karpathy-claude-wiki?style=flat-square&color=yellow)](https://github.com/Benboerba620/karpathy-claude-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/Benboerba620/karpathy-claude-wiki?style=flat-square&color=blue)](https://github.com/Benboerba620/karpathy-claude-wiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Benboerba620/karpathy-claude-wiki?style=flat-square&color=yellow)](https://github.com/Benboerba620/karpathy-claude-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/Benboerba620/karpathy-claude-wiki?style=flat-square&color=blue)](https://github.com/Benboerba620/karpathy-claude-wiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Karpathy-style personal wiki for LLMs - markdown + frontmatter, no vector DB, no RAG. Built for Claude Code, works with any file-editing AI agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

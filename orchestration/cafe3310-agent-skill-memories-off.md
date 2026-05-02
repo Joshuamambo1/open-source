@@ -1,6 +1,6 @@
 # cafe3310/agent-skill-memories-off
 
-[![Stars](https://img.shields.io/github/stars/cafe3310/agent-skill-memories-off?style=flat-square&color=yellow)](https://github.com/cafe3310/agent-skill-memories-off/stargazers) [![Forks](https://img.shields.io/github/forks/cafe3310/agent-skill-memories-off?style=flat-square&color=blue)](https://github.com/cafe3310/agent-skill-memories-off/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cafe3310/agent-skill-memories-off?style=flat-square&color=yellow)](https://github.com/cafe3310/agent-skill-memories-off/stargazers) [![Forks](https://img.shields.io/github/forks/cafe3310/agent-skill-memories-off?style=flat-square&color=blue)](https://github.com/cafe3310/agent-skill-memories-off/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 把这些记住，帮我早点下班
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # grapeot/opencode_ios_client
 
-[![Stars](https://img.shields.io/github/stars/grapeot/opencode_ios_client?style=flat-square&color=yellow)](https://github.com/grapeot/opencode_ios_client/stargazers) [![Forks](https://img.shields.io/github/forks/grapeot/opencode_ios_client?style=flat-square&color=blue)](https://github.com/grapeot/opencode_ios_client/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grapeot/opencode_ios_client?style=flat-square&color=yellow)](https://github.com/grapeot/opencode_ios_client/stargazers) [![Forks](https://img.shields.io/github/forks/grapeot/opencode_ios_client?style=flat-square&color=blue)](https://github.com/grapeot/opencode_ios_client/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Native iOS client for OpenCode. AI coding agent on your phone
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 143 |
+| ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Coursemology/coursemology2
 
-[![Stars](https://img.shields.io/github/stars/Coursemology/coursemology2?style=flat-square&color=yellow)](https://github.com/Coursemology/coursemology2/stargazers) [![Forks](https://img.shields.io/github/forks/Coursemology/coursemology2?style=flat-square&color=blue)](https://github.com/Coursemology/coursemology2/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Coursemology/coursemology2?style=flat-square&color=yellow)](https://github.com/Coursemology/coursemology2/stargazers) [![Forks](https://img.shields.io/github/forks/Coursemology/coursemology2?style=flat-square&color=blue)](https://github.com/Coursemology/coursemology2/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Rails 6 re-write of Coursemology
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

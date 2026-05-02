@@ -1,6 +1,6 @@
 # KSEGIT/Version-Sentinel
 
-[![Stars](https://img.shields.io/github/stars/KSEGIT/Version-Sentinel?style=flat-square&color=yellow)](https://github.com/KSEGIT/Version-Sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/KSEGIT/Version-Sentinel?style=flat-square&color=blue)](https://github.com/KSEGIT/Version-Sentinel/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KSEGIT/Version-Sentinel?style=flat-square&color=yellow)](https://github.com/KSEGIT/Version-Sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/KSEGIT/Version-Sentinel?style=flat-square&color=blue)](https://github.com/KSEGIT/Version-Sentinel/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin that hard-blocks dependency additions, bumps, and downgrades until a fresh, source-cited version check is recorded. Supports npm, pip, Poetry/uv, Cargo, and NuGet.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

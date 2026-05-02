@@ -1,6 +1,6 @@
 # No-Trade-No-Life/Yuan
 
-[![Stars](https://img.shields.io/github/stars/No-Trade-No-Life/Yuan?style=flat-square&color=yellow)](https://github.com/No-Trade-No-Life/Yuan/stargazers) [![Forks](https://img.shields.io/github/forks/No-Trade-No-Life/Yuan?style=flat-square&color=blue)](https://github.com/No-Trade-No-Life/Yuan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/No-Trade-No-Life/Yuan?style=flat-square&color=yellow)](https://github.com/No-Trade-No-Life/Yuan/stargazers) [![Forks](https://img.shields.io/github/forks/No-Trade-No-Life/Yuan?style=flat-square&color=blue)](https://github.com/No-Trade-No-Life/Yuan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Yuan -  Personal Investment Operating System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

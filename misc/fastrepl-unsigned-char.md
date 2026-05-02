@@ -1,6 +1,6 @@
 # fastrepl/unsigned-char
 
-[![Stars](https://img.shields.io/github/stars/fastrepl/unsigned-char?style=flat-square&color=yellow)](https://github.com/fastrepl/unsigned-char/stargazers) [![Forks](https://img.shields.io/github/forks/fastrepl/unsigned-char?style=flat-square&color=blue)](https://github.com/fastrepl/unsigned-char/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fastrepl/unsigned-char?style=flat-square&color=yellow)](https://github.com/fastrepl/unsigned-char/stargazers) [![Forks](https://img.shields.io/github/forks/fastrepl/unsigned-char?style=flat-square&color=blue)](https://github.com/fastrepl/unsigned-char/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > → Moved to fastrepl/anarlog (renamed Apr 2026, GPL→MIT)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

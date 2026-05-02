@@ -1,6 +1,6 @@
 # brcrusoe72/agentic-ceo
 
-[![Stars](https://img.shields.io/github/stars/brcrusoe72/agentic-ceo?style=flat-square&color=yellow)](https://github.com/brcrusoe72/agentic-ceo/stargazers) [![Forks](https://img.shields.io/github/forks/brcrusoe72/agentic-ceo?style=flat-square&color=blue)](https://github.com/brcrusoe72/agentic-ceo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brcrusoe72/agentic-ceo?style=flat-square&color=yellow)](https://github.com/brcrusoe72/agentic-ceo/stargazers) [![Forks](https://img.shields.io/github/forks/brcrusoe72/agentic-ceo?style=flat-square&color=blue)](https://github.com/brcrusoe72/agentic-ceo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous multi-agent research system. 3,700+ knowledge entries, 173 hunts, 68 domains, 35 days of autonomous operation, ~$25 total.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

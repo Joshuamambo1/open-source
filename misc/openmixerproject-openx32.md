@@ -1,17 +1,17 @@
 # OpenMixerProject/OpenX32
 
-[![Stars](https://img.shields.io/github/stars/OpenMixerProject/OpenX32?style=flat-square&color=yellow)](https://github.com/OpenMixerProject/OpenX32/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMixerProject/OpenX32?style=flat-square&color=blue)](https://github.com/OpenMixerProject/OpenX32/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenMixerProject/OpenX32?style=flat-square&color=yellow)](https://github.com/OpenMixerProject/OpenX32/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMixerProject/OpenX32?style=flat-square&color=blue)](https://github.com/OpenMixerProject/OpenX32/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Linux and Custom Firmware for the Behringer X32 Audio-Mixing-Console
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 246 |
+| 🍴 **Forks** | 9 |
+| 💻 **Language** | C |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

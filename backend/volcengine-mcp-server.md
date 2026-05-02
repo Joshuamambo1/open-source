@@ -1,6 +1,6 @@
 # volcengine/mcp-server
 
-[![Stars](https://img.shields.io/github/stars/volcengine/mcp-server?style=flat-square&color=yellow)](https://github.com/volcengine/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/volcengine/mcp-server?style=flat-square&color=blue)](https://github.com/volcengine/mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/volcengine/mcp-server?style=flat-square&color=yellow)](https://github.com/volcengine/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/volcengine/mcp-server?style=flat-square&color=blue)](https://github.com/volcengine/mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Volcengine MCP Servers
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 281 |
+| ⭐ **Stars** | 282 |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

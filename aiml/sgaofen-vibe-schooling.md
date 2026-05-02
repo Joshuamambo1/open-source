@@ -1,6 +1,6 @@
 # sgaofen/vibe-schooling
 
-[![Stars](https://img.shields.io/github/stars/sgaofen/vibe-schooling?style=flat-square&color=yellow)](https://github.com/sgaofen/vibe-schooling/stargazers) [![Forks](https://img.shields.io/github/forks/sgaofen/vibe-schooling?style=flat-square&color=blue)](https://github.com/sgaofen/vibe-schooling/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sgaofen/vibe-schooling?style=flat-square&color=yellow)](https://github.com/sgaofen/vibe-schooling/stargazers) [![Forks](https://img.shields.io/github/forks/sgaofen/vibe-schooling?style=flat-square&color=blue)](https://github.com/sgaofen/vibe-schooling/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Vibe Schooling — AI-powered academic automation toolkit. Canvas auto-answering, smart glasses exam pipeline, Claude Code homework methodology.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

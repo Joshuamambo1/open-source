@@ -1,6 +1,6 @@
 # runfinch/finch
 
-[![Stars](https://img.shields.io/github/stars/runfinch/finch?style=flat-square&color=yellow)](https://github.com/runfinch/finch/stargazers) [![Forks](https://img.shields.io/github/forks/runfinch/finch?style=flat-square&color=blue)](https://github.com/runfinch/finch/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runfinch/finch?style=flat-square&color=yellow)](https://github.com/runfinch/finch/stargazers) [![Forks](https://img.shields.io/github/forks/runfinch/finch?style=flat-square&color=blue)](https://github.com/runfinch/finch/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > The Finch CLI is an open source client for container development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

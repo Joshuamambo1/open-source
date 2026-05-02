@@ -1,6 +1,6 @@
 # BlockRunAI/blockrun-mcp
 
-[![Stars](https://img.shields.io/github/stars/BlockRunAI/blockrun-mcp?style=flat-square&color=yellow)](https://github.com/BlockRunAI/blockrun-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/BlockRunAI/blockrun-mcp?style=flat-square&color=blue)](https://github.com/BlockRunAI/blockrun-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlockRunAI/blockrun-mcp?style=flat-square&color=yellow)](https://github.com/BlockRunAI/blockrun-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/BlockRunAI/blockrun-mcp?style=flat-square&color=blue)](https://github.com/BlockRunAI/blockrun-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 464 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

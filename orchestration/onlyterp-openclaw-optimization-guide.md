@@ -1,6 +1,6 @@
 # OnlyTerp/openclaw-optimization-guide
 
-[![Stars](https://img.shields.io/github/stars/OnlyTerp/openclaw-optimization-guide?style=flat-square&color=yellow)](https://github.com/OnlyTerp/openclaw-optimization-guide/stargazers) [![Forks](https://img.shields.io/github/forks/OnlyTerp/openclaw-optimization-guide?style=flat-square&color=blue)](https://github.com/OnlyTerp/openclaw-optimization-guide/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OnlyTerp/openclaw-optimization-guide?style=flat-square&color=yellow)](https://github.com/OnlyTerp/openclaw-optimization-guide/stargazers) [![Forks](https://img.shields.io/github/forks/OnlyTerp/openclaw-optimization-guide?style=flat-square&color=blue)](https://github.com/OnlyTerp/openclaw-optimization-guide/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Make your OpenClaw AI agent faster, smarter, and cheaper. Speed optimization, memory architecture, context management, model selection, and one-shot development guide.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 282 |
-| 🍴 **Forks** | 34 |
+| ⭐ **Stars** | 284 |
+| 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

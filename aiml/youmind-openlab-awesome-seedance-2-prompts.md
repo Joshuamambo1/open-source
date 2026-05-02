@@ -1,6 +1,6 @@
 # YouMind-OpenLab/awesome-seedance-2-prompts
 
-[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-2-prompts?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/awesome-seedance-2-prompts?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-2-prompts?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/awesome-seedance-2-prompts?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 844 |
-| 🍴 **Forks** | 104 |
+| ⭐ **Stars** | 849 |
+| 🍴 **Forks** | 105 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

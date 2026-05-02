@@ -1,17 +1,17 @@
 # troglobit/uget
 
-[![Stars](https://img.shields.io/github/stars/troglobit/uget?style=flat-square&color=yellow)](https://github.com/troglobit/uget/stargazers) [![Forks](https://img.shields.io/github/forks/troglobit/uget?style=flat-square&color=blue)](https://github.com/troglobit/uget/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/troglobit/uget?style=flat-square&color=yellow)](https://github.com/troglobit/uget/stargazers) [![Forks](https://img.shields.io/github/forks/troglobit/uget?style=flat-square&color=blue)](https://github.com/troglobit/uget/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-23%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Really stupid get-file-over-http program/function
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Shell |
+| 📈 **Score** | 23/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

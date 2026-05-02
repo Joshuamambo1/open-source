@@ -1,6 +1,6 @@
 # VHDL-LS/rust_hdl
 
-[![Stars](https://img.shields.io/github/stars/VHDL-LS/rust_hdl?style=flat-square&color=yellow)](https://github.com/VHDL-LS/rust_hdl/stargazers) [![Forks](https://img.shields.io/github/forks/VHDL-LS/rust_hdl?style=flat-square&color=blue)](https://github.com/VHDL-LS/rust_hdl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VHDL-LS/rust_hdl?style=flat-square&color=yellow)](https://github.com/VHDL-LS/rust_hdl/stargazers) [![Forks](https://img.shields.io/github/forks/VHDL-LS/rust_hdl?style=flat-square&color=blue)](https://github.com/VHDL-LS/rust_hdl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A fast VHDL language server and analysis library written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 478 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

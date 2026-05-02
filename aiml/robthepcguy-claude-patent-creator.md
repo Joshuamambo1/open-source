@@ -1,6 +1,6 @@
 # RobThePCGuy/Claude-Patent-Creator
 
-[![Stars](https://img.shields.io/github/stars/RobThePCGuy/Claude-Patent-Creator?style=flat-square&color=yellow)](https://github.com/RobThePCGuy/Claude-Patent-Creator/stargazers) [![Forks](https://img.shields.io/github/forks/RobThePCGuy/Claude-Patent-Creator?style=flat-square&color=blue)](https://github.com/RobThePCGuy/Claude-Patent-Creator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RobThePCGuy/Claude-Patent-Creator?style=flat-square&color=yellow)](https://github.com/RobThePCGuy/Claude-Patent-Creator/stargazers) [![Forks](https://img.shields.io/github/forks/RobThePCGuy/Claude-Patent-Creator?style=flat-square&color=blue)](https://github.com/RobThePCGuy/Claude-Patent-Creator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > USPTO patent creation system with MCP server + Claude Code plugin. Hybrid RAG search over   MPEP/USC/CFR, BigQuery access to 76M+ patents, automated 35 USC 112 compliance checks, prior   art search, diagram generation. GPU-accelerated with skills and autonomous agents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 96 |
+| ⭐ **Stars** | 97 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

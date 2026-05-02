@@ -1,6 +1,6 @@
 # TheFax/MPV-Glass-Remote
 
-[![Stars](https://img.shields.io/github/stars/TheFax/MPV-Glass-Remote?style=flat-square&color=yellow)](https://github.com/TheFax/MPV-Glass-Remote/stargazers) [![Forks](https://img.shields.io/github/forks/TheFax/MPV-Glass-Remote?style=flat-square&color=blue)](https://github.com/TheFax/MPV-Glass-Remote/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheFax/MPV-Glass-Remote?style=flat-square&color=yellow)](https://github.com/TheFax/MPV-Glass-Remote/stargazers) [![Forks](https://img.shields.io/github/forks/TheFax/MPV-Glass-Remote?style=flat-square&color=blue)](https://github.com/TheFax/MPV-Glass-Remote/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight Python web interface for MPV with real-time screenshots and pleasant aesthetics.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

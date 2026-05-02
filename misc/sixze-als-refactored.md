@@ -1,6 +1,6 @@
 # Sixze/ALS-Refactored
 
-[![Stars](https://img.shields.io/github/stars/Sixze/ALS-Refactored?style=flat-square&color=yellow)](https://github.com/Sixze/ALS-Refactored/stargazers) [![Forks](https://img.shields.io/github/forks/Sixze/ALS-Refactored?style=flat-square&color=blue)](https://github.com/Sixze/ALS-Refactored/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sixze/ALS-Refactored?style=flat-square&color=yellow)](https://github.com/Sixze/ALS-Refactored/stargazers) [![Forks](https://img.shields.io/github/forks/Sixze/ALS-Refactored?style=flat-square&color=blue)](https://github.com/Sixze/ALS-Refactored/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Completely reworked and improved C++ version of Advanced Locomotion System V4.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 340 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

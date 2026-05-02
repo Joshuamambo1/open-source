@@ -1,6 +1,6 @@
 # neo4j-labs/create-context-graph
 
-[![Stars](https://img.shields.io/github/stars/neo4j-labs/create-context-graph?style=flat-square&color=yellow)](https://github.com/neo4j-labs/create-context-graph/stargazers) [![Forks](https://img.shields.io/github/forks/neo4j-labs/create-context-graph?style=flat-square&color=blue)](https://github.com/neo4j-labs/create-context-graph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neo4j-labs/create-context-graph?style=flat-square&color=yellow)](https://github.com/neo4j-labs/create-context-graph/stargazers) [![Forks](https://img.shields.io/github/forks/neo4j-labs/create-context-graph?style=flat-square&color=blue)](https://github.com/neo4j-labs/create-context-graph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > AI agents with graph based reasoning memory, scaffolded in seconds
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 535 |
-| 🍴 **Forks** | 66 |
+| 🍴 **Forks** | 67 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

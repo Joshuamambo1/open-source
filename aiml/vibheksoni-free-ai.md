@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 283 |
-| 🍴 **Forks** | 64 |
+| ⭐ **Stars** | 287 |
+| 🍴 **Forks** | 65 |
 | 💻 **Language** | Astro |
 | 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |

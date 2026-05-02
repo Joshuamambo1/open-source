@@ -1,6 +1,6 @@
 # carlovalenti/TRiP
 
-[![Stars](https://img.shields.io/github/stars/carlovalenti/TRiP?style=flat-square&color=yellow)](https://github.com/carlovalenti/TRiP/stargazers) [![Forks](https://img.shields.io/github/forks/carlovalenti/TRiP?style=flat-square&color=blue)](https://github.com/carlovalenti/TRiP/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carlovalenti/TRiP?style=flat-square&color=yellow)](https://github.com/carlovalenti/TRiP/stargazers) [![Forks](https://img.shields.io/github/forks/carlovalenti/TRiP?style=flat-square&color=blue)](https://github.com/carlovalenti/TRiP/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > A complete transformer engine in C — inference, training, chat, vision.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51 |
+| ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | C |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

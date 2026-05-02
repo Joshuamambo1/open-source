@@ -1,6 +1,6 @@
 # glama-ai/lightport
 
-[![Stars](https://img.shields.io/github/stars/glama-ai/lightport?style=flat-square&color=yellow)](https://github.com/glama-ai/lightport/stargazers) [![Forks](https://img.shields.io/github/forks/glama-ai/lightport?style=flat-square&color=blue)](https://github.com/glama-ai/lightport/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/glama-ai/lightport?style=flat-square&color=yellow)](https://github.com/glama-ai/lightport/stargazers) [![Forks](https://img.shields.io/github/forks/glama-ai/lightport?style=flat-square&color=blue)](https://github.com/glama-ai/lightport/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight AI gateway that makes LLM providers OpenAI-compatible.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

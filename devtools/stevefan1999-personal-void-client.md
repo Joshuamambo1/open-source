@@ -1,6 +1,6 @@
 # stevefan1999-personal/void-client
 
-[![Stars](https://img.shields.io/github/stars/stevefan1999-personal/void-client?style=flat-square&color=yellow)](https://github.com/stevefan1999-personal/void-client/tree/feat/native-to-java-port/stargazers) [![Forks](https://img.shields.io/github/forks/stevefan1999-personal/void-client?style=flat-square&color=blue)](https://github.com/stevefan1999-personal/void-client/tree/feat/native-to-java-port/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stevefan1999-personal/void-client?style=flat-square&color=yellow)](https://github.com/stevefan1999-personal/void-client/tree/feat/native-to-java-port/stargazers) [![Forks](https://img.shields.io/github/forks/stevefan1999-personal/void-client?style=flat-square&color=blue)](https://github.com/stevefan1999-personal/void-client/tree/feat/native-to-java-port/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

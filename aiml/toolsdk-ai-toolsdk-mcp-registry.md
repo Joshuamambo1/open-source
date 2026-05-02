@@ -1,6 +1,6 @@
 # toolsdk-ai/toolsdk-mcp-registry
 
-[![Stars](https://img.shields.io/github/stars/toolsdk-ai/toolsdk-mcp-registry?style=flat-square&color=yellow)](https://github.com/toolsdk-ai/toolsdk-mcp-registry/stargazers) [![Forks](https://img.shields.io/github/forks/toolsdk-ai/toolsdk-mcp-registry?style=flat-square&color=blue)](https://github.com/toolsdk-ai/toolsdk-mcp-registry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/toolsdk-ai/toolsdk-mcp-registry?style=flat-square&color=yellow)](https://github.com/toolsdk-ai/toolsdk-mcp-registry/stargazers) [![Forks](https://img.shields.io/github/forks/toolsdk-ai/toolsdk-mcp-registry?style=flat-square&color=blue)](https://github.com/toolsdk-ai/toolsdk-mcp-registry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > MCPSDK.dev(ToolSDK.ai)'s Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations. Supports OAuth2.1, DCR...
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

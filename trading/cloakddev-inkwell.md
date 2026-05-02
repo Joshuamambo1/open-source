@@ -1,0 +1,32 @@
+# CloakdDev/Inkwell
+
+[![Stars](https://img.shields.io/github/stars/CloakdDev/Inkwell?style=flat-square&color=yellow)](https://github.com/CloakdDev/Inkwell/stargazers) [![Forks](https://img.shields.io/github/forks/CloakdDev/Inkwell?style=flat-square&color=blue)](https://github.com/CloakdDev/Inkwell/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+
+> A real-time scribble exchange between two AI personas..
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 34 |
+| 🍴 **Forks** | 1 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Trading · AI/ML
+
+## 📝 Summary
+
+Inkwell is an open-source project that enables real-time scribble exchange between two AI personas, allowing for interactive and dynamic trading or communication scenarios. This innovative platform leverages AI/ML technologies to create a unique and engaging experience. By facilitating exchange and interaction between AI personas, Inkwell opens up new possibilities for AI research and development.
+
+---
+
+<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/CloakdDev/Inkwell) · [← Back to Trading](./README.md)</sub>

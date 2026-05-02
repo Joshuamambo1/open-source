@@ -1,6 +1,6 @@
 # hyxnj666-creator/ai-review-pipeline
 
-[![Stars](https://img.shields.io/github/stars/hyxnj666-creator/ai-review-pipeline?style=flat-square&color=yellow)](https://github.com/hyxnj666-creator/ai-review-pipeline/stargazers) [![Forks](https://img.shields.io/github/forks/hyxnj666-creator/ai-review-pipeline?style=flat-square&color=blue)](https://github.com/hyxnj666-creator/ai-review-pipeline/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyxnj666-creator/ai-review-pipeline?style=flat-square&color=yellow)](https://github.com/hyxnj666-creator/ai-review-pipeline/stargazers) [![Forks](https://img.shields.io/github/forks/hyxnj666-creator/ai-review-pipeline?style=flat-square&color=blue)](https://github.com/hyxnj666-creator/ai-review-pipeline/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > AI code review pipeline — review, auto-fix, test generation & HTML report in one command. Zero dependencies, 6 AI providers (OpenAI/DeepSeek/Claude/Gemini/Qwen/Ollama), npx ready.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

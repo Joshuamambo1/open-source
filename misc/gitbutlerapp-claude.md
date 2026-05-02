@@ -1,6 +1,6 @@
 # gitbutlerapp/claude
 
-[![Stars](https://img.shields.io/github/stars/gitbutlerapp/claude?style=flat-square&color=yellow)](https://github.com/gitbutlerapp/claude/stargazers) [![Forks](https://img.shields.io/github/forks/gitbutlerapp/claude?style=flat-square&color=blue)](https://github.com/gitbutlerapp/claude/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gitbutlerapp/claude?style=flat-square&color=yellow)](https://github.com/gitbutlerapp/claude/stargazers) [![Forks](https://img.shields.io/github/forks/gitbutlerapp/claude?style=flat-square&color=blue)](https://github.com/gitbutlerapp/claude/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-26%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin for GitButler
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 30/100 |
+| 📈 **Score** | 26/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

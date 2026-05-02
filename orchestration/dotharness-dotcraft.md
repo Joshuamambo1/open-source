@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/DotHarness/dotcraft?style=flat-square&color=yellow)](https://github.com/DotHarness/dotcraft/stargazers) [![Forks](https://img.shields.io/github/forks/DotHarness/dotcraft?style=flat-square&color=blue)](https://github.com/DotHarness/dotcraft/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> 面向项目的 Agent Harness，打造持久的 AI 工作空间。A project-scoped agent harness for persistent AI workspaces.
+> A project-scoped agent harness for crafting persistent, reliable, and personalized AI workspaces.
 
 ## 📊 Stats
 

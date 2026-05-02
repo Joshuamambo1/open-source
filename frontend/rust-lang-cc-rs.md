@@ -1,6 +1,6 @@
 # rust-lang/cc-rs
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/cc-rs?style=flat-square&color=yellow)](https://github.com/rust-lang/cc-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/cc-rs?style=flat-square&color=blue)](https://github.com/rust-lang/cc-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/cc-rs?style=flat-square&color=yellow)](https://github.com/rust-lang/cc-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/cc-rs?style=flat-square&color=blue)](https://github.com/rust-lang/cc-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Rust library for build scripts to compile C/C++ code into a Rust library
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 576 |
+| 🍴 **Forks** | 578 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

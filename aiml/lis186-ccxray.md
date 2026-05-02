@@ -1,6 +1,6 @@
 # lis186/ccxray
 
-[![Stars](https://img.shields.io/github/stars/lis186/ccxray?style=flat-square&color=yellow)](https://github.com/lis186/ccxray/stargazers) [![Forks](https://img.shields.io/github/forks/lis186/ccxray?style=flat-square&color=blue)](https://github.com/lis186/ccxray/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lis186/ccxray?style=flat-square&color=yellow)](https://github.com/lis186/ccxray/stargazers) [![Forks](https://img.shields.io/github/forks/lis186/ccxray?style=flat-square&color=blue)](https://github.com/lis186/ccxray/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > X-ray vision for AI agent sessions — a transparent HTTP proxy and dashboard for Claude Code
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 156 |
-| 🍴 **Forks** | 26 |
+| ⭐ **Stars** | 157 |
+| 🍴 **Forks** | 27 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

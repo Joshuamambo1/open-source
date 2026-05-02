@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 536 |
-| 🍴 **Forks** | 406 |
+| ⭐ **Stars** | 537 |
+| 🍴 **Forks** | 407 |
 | 💻 **Language** | Go Template |
 | 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14410** |
+| 🗂️ **Total projects** | **14447** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5423 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2919 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1401 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1074 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 879 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 859 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 505 | [Browse →](./crypto/) |
-| 📊 **Data** | 330 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 5431 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2924 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1411 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1076 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 881 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 863 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 506 | [Browse →](./crypto/) |
+| 📊 **Data** | 331 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 313 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 184 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 186 | [Browse →](./mobile/) |
 | 💳 **Payments** | 156 | [Browse →](./payments/) |
-| 📈 **Trading** | 146 | [Browse →](./trading/) |
-| 🔐 **Security** | 119 | [Browse →](./security/) |
-| ✨ **Design** | 44 | [Browse →](./design/) |
-| 🏷️ **Marketing** | 29 | [Browse →](./marketing/) |
+| 📈 **Trading** | 147 | [Browse →](./trading/) |
+| 🔐 **Security** | 120 | [Browse →](./security/) |
+| ✨ **Design** | 45 | [Browse →](./design/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
+| 🏷️ **Marketing** | 28 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [miurla/morphic](./aiml/miurla-morphic.md) | ⭐ 8.8k | AI/ML |
-| 2 | [streamlink/streamlink](./aiml/streamlink-streamlink.md) | ⭐ 11.4k | AI/ML |
-| 3 | [unionlabs/union](./crypto/unionlabs-union.md) | ⭐ 74.1k | Crypto |
-| 4 | [WhiskeySockets/Baileys](./aiml/whiskeysockets-baileys.md) | ⭐ 9.2k | AI/ML |
-| 5 | [getsentry/sentry-javascript](./frontend/getsentry-sentry-javascript.md) | ⭐ 8.6k | Frontend |
-| 6 | [yamadashy/repomix](./aiml/yamadashy-repomix.md) | ⭐ 24.2k | AI/ML |
-| 7 | [ether/etherpad](./misc/ether-etherpad.md) | ⭐ 18.3k | Misc |
-| 8 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
-| 9 | [zephyrproject-rtos/zephyr](./misc/zephyrproject-rtos-zephyr.md) | ⭐ 15.1k | Misc |
-| 10 | [warmcat/libwebsockets](./backend/warmcat-libwebsockets.md) | ⭐ 5.3k | Backend |
+| 1 | [Yin-Hongwei/music-website](./frontend/yin-hongwei-music-website.md) | ⭐ 6.7k | Frontend |
+| 2 | [grpc/grpc-go](./backend/grpc-grpc-go.md) | ⭐ 22.9k | Backend |
+| 3 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.1k | AI/ML |
+| 4 | [kubernetes/kube-state-metrics](./aiml/kubernetes-kube-state-metrics.md) | ⭐ 6.1k | AI/ML |
+| 5 | [krayin/laravel-crm](./frontend/krayin-laravel-crm.md) | ⭐ 22.4k | Frontend |
+| 6 | [argoproj/argo-cd](./devopsinfra/argoproj-argo-cd.md) | ⭐ 22.8k | DevOps & Infra |
+| 7 | [yamadashy/repomix](./aiml/yamadashy-repomix.md) | ⭐ 24.2k | AI/ML |
+| 8 | [microsoft/ai-agents-for-beginners](./orchestration/microsoft-ai-agents-for-beginners.md) | ⭐ 60.3k | Orchestration |
+| 9 | [ether/etherpad](./misc/ether-etherpad.md) | ⭐ 18.3k | Misc |
+| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
 
 ## 🚀 How it works
 

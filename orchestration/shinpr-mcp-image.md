@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/shinpr/mcp-image?style=flat-square&color=yellow)](https://github.com/shinpr/mcp-image/stargazers) [![Forks](https://img.shields.io/github/forks/shinpr/mcp-image?style=flat-square&color=blue)](https://github.com/shinpr/mcp-image/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> MCP server for AI image generation and editing with automatic prompt optimization and quality presets (fast/balanced/quality). Powered by Gemini (Nano Banana 2 & Pro).
+> MCP server for AI image generation and editing with automatic prompt optimization and quality presets. Powered by Gemini (Nano Banana 2 & Pro), with optional OpenAI GPT Image support.
 
 ## 📊 Stats
 

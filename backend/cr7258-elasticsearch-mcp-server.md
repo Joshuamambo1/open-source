@@ -1,6 +1,6 @@
 # cr7258/elasticsearch-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/cr7258/elasticsearch-mcp-server?style=flat-square&color=yellow)](https://github.com/cr7258/elasticsearch-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cr7258/elasticsearch-mcp-server?style=flat-square&color=blue)](https://github.com/cr7258/elasticsearch-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cr7258/elasticsearch-mcp-server?style=flat-square&color=yellow)](https://github.com/cr7258/elasticsearch-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cr7258/elasticsearch-mcp-server?style=flat-square&color=blue)](https://github.com/cr7258/elasticsearch-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server implementation that provides Elasticsearch and OpenSearch interaction.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 270 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

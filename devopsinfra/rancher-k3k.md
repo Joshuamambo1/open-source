@@ -1,17 +1,17 @@
 # rancher/k3k
 
-[![Stars](https://img.shields.io/github/stars/rancher/k3k?style=flat-square&color=yellow)](https://github.com/rancher/k3k/stargazers) [![Forks](https://img.shields.io/github/forks/rancher/k3k?style=flat-square&color=blue)](https://github.com/rancher/k3k/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rancher/k3k?style=flat-square&color=yellow)](https://github.com/rancher/k3k/stargazers) [![Forks](https://img.shields.io/github/forks/rancher/k3k?style=flat-square&color=blue)](https://github.com/rancher/k3k/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Kubernetes in Kubernetes
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 731 |
+| 🍴 **Forks** | 72 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

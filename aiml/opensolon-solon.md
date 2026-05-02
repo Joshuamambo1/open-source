@@ -1,6 +1,6 @@
 # opensolon/solon
 
-[![Stars](https://img.shields.io/github/stars/opensolon/solon?style=flat-square&color=yellow)](https://github.com/opensolon/solon/stargazers) [![Forks](https://img.shields.io/github/forks/opensolon/solon?style=flat-square&color=blue)](https://github.com/opensolon/solon/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensolon/solon?style=flat-square&color=yellow)](https://github.com/opensolon/solon/stargazers) [![Forks](https://img.shields.io/github/forks/opensolon/solon?style=flat-square&color=blue)](https://github.com/opensolon/solon/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java25; Supports LTS. (Replaceable spring)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 256 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

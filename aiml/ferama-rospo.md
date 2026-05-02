@@ -1,6 +1,6 @@
 # ferama/rospo
 
-[![Stars](https://img.shields.io/github/stars/ferama/rospo?style=flat-square&color=yellow)](https://github.com/ferama/rospo/stargazers) [![Forks](https://img.shields.io/github/forks/ferama/rospo?style=flat-square&color=blue)](https://github.com/ferama/rospo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ferama/rospo?style=flat-square&color=yellow)](https://github.com/ferama/rospo/stargazers) [![Forks](https://img.shields.io/github/forks/ferama/rospo?style=flat-square&color=blue)](https://github.com/ferama/rospo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 🐸 Effortless persistent SSH tunnels with embedded server for seamless connectivity
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

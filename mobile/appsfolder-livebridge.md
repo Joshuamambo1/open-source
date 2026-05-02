@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 420 |
-| 🍴 **Forks** | 16 |
+| ⭐ **Stars** | 427 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |

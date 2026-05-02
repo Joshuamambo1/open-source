@@ -1,6 +1,6 @@
 # wannanbigpig/gin-layout
 
-[![Stars](https://img.shields.io/github/stars/wannanbigpig/gin-layout?style=flat-square&color=yellow)](https://github.com/wannanbigpig/gin-layout/stargazers) [![Forks](https://img.shields.io/github/forks/wannanbigpig/gin-layout?style=flat-square&color=blue)](https://github.com/wannanbigpig/gin-layout/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wannanbigpig/gin-layout?style=flat-square&color=yellow)](https://github.com/wannanbigpig/gin-layout/stargazers) [![Forks](https://img.shields.io/github/forks/wannanbigpig/gin-layout?style=flat-square&color=blue)](https://github.com/wannanbigpig/gin-layout/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Gin framework is used as the core of this project to build a template, based on this project can quickly complete business development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # alliedmodders/sourcemod
 
-[![Stars](https://img.shields.io/github/stars/alliedmodders/sourcemod?style=flat-square&color=yellow)](https://github.com/alliedmodders/sourcemod/stargazers) [![Forks](https://img.shields.io/github/forks/alliedmodders/sourcemod?style=flat-square&color=blue)](https://github.com/alliedmodders/sourcemod/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alliedmodders/sourcemod?style=flat-square&color=yellow)](https://github.com/alliedmodders/sourcemod/stargazers) [![Forks](https://img.shields.io/github/forks/alliedmodders/sourcemod?style=flat-square&color=blue)](https://github.com/alliedmodders/sourcemod/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > SourceMod - Source Engine Scripting and Administration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 466 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

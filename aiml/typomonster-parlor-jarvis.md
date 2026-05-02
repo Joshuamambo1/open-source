@@ -1,6 +1,6 @@
 # typomonster/parlor-jarvis
 
-[![Stars](https://img.shields.io/github/stars/typomonster/parlor-jarvis?style=flat-square&color=yellow)](https://github.com/typomonster/parlor-jarvis/stargazers) [![Forks](https://img.shields.io/github/forks/typomonster/parlor-jarvis?style=flat-square&color=blue)](https://github.com/typomonster/parlor-jarvis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typomonster/parlor-jarvis?style=flat-square&color=yellow)](https://github.com/typomonster/parlor-jarvis/stargazers) [![Forks](https://img.shields.io/github/forks/typomonster/parlor-jarvis?style=flat-square&color=blue)](https://github.com/typomonster/parlor-jarvis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > On-device, real-time multimodal AI. Multilingual voice + vision (en/ko/es/pt/fr) with camera, screen, PDF, and video — runs entirely locally.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

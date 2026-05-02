@@ -1,6 +1,6 @@
 # Sjj1024/PakePlus-iOS
 
-[![Stars](https://img.shields.io/github/stars/Sjj1024/PakePlus-iOS?style=flat-square&color=yellow)](https://github.com/Sjj1024/PakePlus-iOS/stargazers) [![Forks](https://img.shields.io/github/forks/Sjj1024/PakePlus-iOS?style=flat-square&color=blue)](https://github.com/Sjj1024/PakePlus-iOS/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sjj1024/PakePlus-iOS?style=flat-square&color=yellow)](https://github.com/Sjj1024/PakePlus-iOS/stargazers) [![Forks](https://img.shields.io/github/forks/Sjj1024/PakePlus-iOS?style=flat-square&color=blue)](https://github.com/Sjj1024/PakePlus-iOS/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 6.5k |
 | 🍴 **Forks** | 3.7k |
-| 💻 **Language** | HTML |
+| 💻 **Language** | Swift |
 | 📈 **Score** | 99/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

@@ -1,6 +1,6 @@
 # NexusGPU/tensor-fusion
 
-[![Stars](https://img.shields.io/github/stars/NexusGPU/tensor-fusion?style=flat-square&color=yellow)](https://github.com/NexusGPU/tensor-fusion/stargazers) [![Forks](https://img.shields.io/github/forks/NexusGPU/tensor-fusion?style=flat-square&color=blue)](https://github.com/NexusGPU/tensor-fusion/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NexusGPU/tensor-fusion?style=flat-square&color=yellow)](https://github.com/NexusGPU/tensor-fusion/stargazers) [![Forks](https://img.shields.io/github/forks/NexusGPU/tensor-fusion?style=flat-square&color=blue)](https://github.com/NexusGPU/tensor-fusion/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Tensor Fusion is a state-of-the-art GPU virtualization and pooling solution designed to optimize GPU cluster utilization to its fullest potential.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

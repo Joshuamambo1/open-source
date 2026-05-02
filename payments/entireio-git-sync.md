@@ -1,6 +1,6 @@
 # entireio/git-sync
 
-[![Stars](https://img.shields.io/github/stars/entireio/git-sync?style=flat-square&color=yellow)](https://github.com/entireio/git-sync/stargazers) [![Forks](https://img.shields.io/github/forks/entireio/git-sync?style=flat-square&color=blue)](https://github.com/entireio/git-sync/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/entireio/git-sync?style=flat-square&color=yellow)](https://github.com/entireio/git-sync/stargazers) [![Forks](https://img.shields.io/github/forks/entireio/git-sync?style=flat-square&color=blue)](https://github.com/entireio/git-sync/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 313 |
+| ⭐ **Stars** | 328 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -1,6 +1,6 @@
 # cloudflare/svg-hush
 
-[![Stars](https://img.shields.io/github/stars/cloudflare/svg-hush?style=flat-square&color=yellow)](https://github.com/cloudflare/svg-hush/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/svg-hush?style=flat-square&color=blue)](https://github.com/cloudflare/svg-hush/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudflare/svg-hush?style=flat-square&color=yellow)](https://github.com/cloudflare/svg-hush/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/svg-hush?style=flat-square&color=blue)](https://github.com/cloudflare/svg-hush/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Make it safe to serve untrusted SVG files
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 421 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

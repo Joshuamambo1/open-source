@@ -1,6 +1,6 @@
 # MuhammadUsmanGM/claude-code-best-practices
 
-[![Stars](https://img.shields.io/github/stars/MuhammadUsmanGM/claude-code-best-practices?style=flat-square&color=yellow)](https://github.com/MuhammadUsmanGM/claude-code-best-practices/stargazers) [![Forks](https://img.shields.io/github/forks/MuhammadUsmanGM/claude-code-best-practices?style=flat-square&color=blue)](https://github.com/MuhammadUsmanGM/claude-code-best-practices/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MuhammadUsmanGM/claude-code-best-practices?style=flat-square&color=yellow)](https://github.com/MuhammadUsmanGM/claude-code-best-practices/stargazers) [![Forks](https://img.shields.io/github/forks/MuhammadUsmanGM/claude-code-best-practices?style=flat-square&color=blue)](https://github.com/MuhammadUsmanGM/claude-code-best-practices/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive best-practices wiki for Claude Code - setup, CLAUDE.md templates, workflows, multi-agent patterns, and cost optimization.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

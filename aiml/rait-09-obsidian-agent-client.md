@@ -1,6 +1,6 @@
 # RAIT-09/obsidian-agent-client
 
-[![Stars](https://img.shields.io/github/stars/RAIT-09/obsidian-agent-client?style=flat-square&color=yellow)](https://github.com/RAIT-09/obsidian-agent-client/stargazers) [![Forks](https://img.shields.io/github/forks/RAIT-09/obsidian-agent-client?style=flat-square&color=blue)](https://github.com/RAIT-09/obsidian-agent-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RAIT-09/obsidian-agent-client?style=flat-square&color=yellow)](https://github.com/RAIT-09/obsidian-agent-client/stargazers) [![Forks](https://img.shields.io/github/forks/RAIT-09/obsidian-agent-client?style=flat-square&color=blue)](https://github.com/RAIT-09/obsidian-agent-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

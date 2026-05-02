@@ -1,6 +1,6 @@
 # Epistates/turbomcp
 
-[![Stars](https://img.shields.io/github/stars/Epistates/turbomcp?style=flat-square&color=yellow)](https://github.com/Epistates/turbomcp/stargazers) [![Forks](https://img.shields.io/github/forks/Epistates/turbomcp?style=flat-square&color=blue)](https://github.com/Epistates/turbomcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Epistates/turbomcp?style=flat-square&color=yellow)](https://github.com/Epistates/turbomcp/stargazers) [![Forks](https://img.shields.io/github/forks/Epistates/turbomcp?style=flat-square&color=blue)](https://github.com/Epistates/turbomcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A full featured, enterprise grade rust MCP SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

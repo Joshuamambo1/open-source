@@ -1,6 +1,6 @@
 # boxlite-ai/boxlite
 
-[![Stars](https://img.shields.io/github/stars/boxlite-ai/boxlite?style=flat-square&color=yellow)](https://github.com/boxlite-ai/boxlite/stargazers) [![Forks](https://img.shields.io/github/forks/boxlite-ai/boxlite?style=flat-square&color=blue)](https://github.com/boxlite-ai/boxlite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boxlite-ai/boxlite?style=flat-square&color=yellow)](https://github.com/boxlite-ai/boxlite/stargazers) [![Forks](https://img.shields.io/github/forks/boxlite-ai/boxlite?style=flat-square&color=blue)](https://github.com/boxlite-ai/boxlite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Sandboxes for every agent. Embeddable, stateful, snapshots, and hardware isolation.
 
@@ -9,8 +9,8 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 107 |
-| 💻 **Language** | Rust |
+| 🍴 **Forks** | 108 |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

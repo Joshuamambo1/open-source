@@ -1,6 +1,6 @@
 # spring-ai-community/spring-ai-agentcore
 
-[![Stars](https://img.shields.io/github/stars/spring-ai-community/spring-ai-agentcore?style=flat-square&color=yellow)](https://github.com/spring-ai-community/spring-ai-agentcore/stargazers) [![Forks](https://img.shields.io/github/forks/spring-ai-community/spring-ai-agentcore?style=flat-square&color=blue)](https://github.com/spring-ai-community/spring-ai-agentcore/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spring-ai-community/spring-ai-agentcore?style=flat-square&color=yellow)](https://github.com/spring-ai-community/spring-ai-agentcore/stargazers) [![Forks](https://img.shields.io/github/forks/spring-ai-community/spring-ai-agentcore?style=flat-square&color=blue)](https://github.com/spring-ai-community/spring-ai-agentcore/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Spring Boot integrations for Amazon Bedrock AgentCore
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

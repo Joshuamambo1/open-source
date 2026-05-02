@@ -1,6 +1,6 @@
 # VeraSuperHub/vera-eb-suite
 
-[![Stars](https://img.shields.io/github/stars/VeraSuperHub/vera-eb-suite?style=flat-square&color=yellow)](https://github.com/VeraSuperHub/vera-eb-suite/stargazers) [![Forks](https://img.shields.io/github/forks/VeraSuperHub/vera-eb-suite?style=flat-square&color=blue)](https://github.com/VeraSuperHub/vera-eb-suite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VeraSuperHub/vera-eb-suite?style=flat-square&color=yellow)](https://github.com/VeraSuperHub/vera-eb-suite/stargazers) [![Forks](https://img.shields.io/github/forks/VeraSuperHub/vera-eb-suite?style=flat-square&color=blue)](https://github.com/VeraSuperHub/vera-eb-suite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI skills and plugins for EB-1 and EB-2 NIW immigration petitions — from case evaluation to RFE response. Built for Claude.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

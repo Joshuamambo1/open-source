@@ -1,6 +1,6 @@
 # crossplane-contrib/provider-upjet-azure
 
-[![Stars](https://img.shields.io/github/stars/crossplane-contrib/provider-upjet-azure?style=flat-square&color=yellow)](https://github.com/crossplane-contrib/provider-upjet-azure/stargazers) [![Forks](https://img.shields.io/github/forks/crossplane-contrib/provider-upjet-azure?style=flat-square&color=blue)](https://github.com/crossplane-contrib/provider-upjet-azure/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crossplane-contrib/provider-upjet-azure?style=flat-square&color=yellow)](https://github.com/crossplane-contrib/provider-upjet-azure/stargazers) [![Forks](https://img.shields.io/github/forks/crossplane-contrib/provider-upjet-azure?style=flat-square&color=blue)](https://github.com/crossplane-contrib/provider-upjet-azure/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Azure Provider for Crossplane.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

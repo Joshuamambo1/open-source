@@ -1,6 +1,6 @@
 # spences10/claude-code-toolkit
 
-[![Stars](https://img.shields.io/github/stars/spences10/claude-code-toolkit?style=flat-square&color=yellow)](https://github.com/spences10/claude-code-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/spences10/claude-code-toolkit?style=flat-square&color=blue)](https://github.com/spences10/claude-code-toolkit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spences10/claude-code-toolkit?style=flat-square&color=yellow)](https://github.com/spences10/claude-code-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/spences10/claude-code-toolkit?style=flat-square&color=blue)](https://github.com/spences10/claude-code-toolkit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > 🦀 Claude Code toolkit for self improving skills, performance and mcp-essentials
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

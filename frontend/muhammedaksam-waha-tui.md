@@ -1,6 +1,6 @@
 # muhammedaksam/waha-tui
 
-[![Stars](https://img.shields.io/github/stars/muhammedaksam/waha-tui?style=flat-square&color=yellow)](https://github.com/muhammedaksam/waha-tui/stargazers) [![Forks](https://img.shields.io/github/forks/muhammedaksam/waha-tui?style=flat-square&color=blue)](https://github.com/muhammedaksam/waha-tui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/muhammedaksam/waha-tui?style=flat-square&color=yellow)](https://github.com/muhammedaksam/waha-tui/stargazers) [![Forks](https://img.shields.io/github/forks/muhammedaksam/waha-tui?style=flat-square&color=blue)](https://github.com/muhammedaksam/waha-tui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A beautiful Terminal User Interface for WhatsApp using WAHA (WhatsApp HTTP API). Manage your WhatsApp sessions, chats, and messages directly from your terminal with an intuitive TUI powered by OpenTUI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

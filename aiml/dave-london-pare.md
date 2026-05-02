@@ -1,6 +1,6 @@
 # Dave-London/Pare
 
-[![Stars](https://img.shields.io/github/stars/Dave-London/Pare?style=flat-square&color=yellow)](https://github.com/Dave-London/Pare/stargazers) [![Forks](https://img.shields.io/github/forks/Dave-London/Pare?style=flat-square&color=blue)](https://github.com/Dave-London/Pare/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dave-London/Pare?style=flat-square&color=yellow)](https://github.com/Dave-London/Pare/stargazers) [![Forks](https://img.shields.io/github/forks/Dave-London/Pare?style=flat-square&color=blue)](https://github.com/Dave-London/Pare/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Dev tools, optimized for agents. Structured, token-efficient MCP servers for git, test runners, npm, Docker, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

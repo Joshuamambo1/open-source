@@ -1,6 +1,6 @@
 # Boshen/cargo-shear
 
-[![Stars](https://img.shields.io/github/stars/Boshen/cargo-shear?style=flat-square&color=yellow)](https://github.com/Boshen/cargo-shear/stargazers) [![Forks](https://img.shields.io/github/forks/Boshen/cargo-shear?style=flat-square&color=blue)](https://github.com/Boshen/cargo-shear/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Boshen/cargo-shear?style=flat-square&color=yellow)](https://github.com/Boshen/cargo-shear/stargazers) [![Forks](https://img.shields.io/github/forks/Boshen/cargo-shear?style=flat-square&color=blue)](https://github.com/Boshen/cargo-shear/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Remove unused dependencies in a Rust project
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 481 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

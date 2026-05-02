@@ -1,6 +1,6 @@
 # upsidelab/enthusiast
 
-[![Stars](https://img.shields.io/github/stars/upsidelab/enthusiast?style=flat-square&color=yellow)](https://github.com/upsidelab/enthusiast/stargazers) [![Forks](https://img.shields.io/github/forks/upsidelab/enthusiast?style=flat-square&color=blue)](https://github.com/upsidelab/enthusiast/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/upsidelab/enthusiast?style=flat-square&color=yellow)](https://github.com/upsidelab/enthusiast/stargazers) [![Forks](https://img.shields.io/github/forks/upsidelab/enthusiast?style=flat-square&color=blue)](https://github.com/upsidelab/enthusiast/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Open source AI agent for e-commerce
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141 |
+| ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

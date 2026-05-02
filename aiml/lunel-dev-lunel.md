@@ -1,6 +1,6 @@
 # lunel-dev/lunel
 
-[![Stars](https://img.shields.io/github/stars/lunel-dev/lunel?style=flat-square&color=yellow)](https://github.com/lunel-dev/lunel/stargazers) [![Forks](https://img.shields.io/github/forks/lunel-dev/lunel?style=flat-square&color=blue)](https://github.com/lunel-dev/lunel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lunel-dev/lunel?style=flat-square&color=yellow)](https://github.com/lunel-dev/lunel/stargazers) [![Forks](https://img.shields.io/github/forks/lunel-dev/lunel?style=flat-square&color=blue)](https://github.com/lunel-dev/lunel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > ai powered mobile ide and cloud development platform
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 746 |
-| 🍴 **Forks** | 83 |
+| ⭐ **Stars** | 757 |
+| 🍴 **Forks** | 84 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

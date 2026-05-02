@@ -1,6 +1,6 @@
 # physical-superintelligence-lab/Psi0
 
-[![Stars](https://img.shields.io/github/stars/physical-superintelligence-lab/Psi0?style=flat-square&color=yellow)](https://github.com/physical-superintelligence-lab/Psi0/stargazers) [![Forks](https://img.shields.io/github/forks/physical-superintelligence-lab/Psi0?style=flat-square&color=blue)](https://github.com/physical-superintelligence-lab/Psi0/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/physical-superintelligence-lab/Psi0?style=flat-square&color=yellow)](https://github.com/physical-superintelligence-lab/Psi0/stargazers) [![Forks](https://img.shields.io/github/forks/physical-superintelligence-lab/Psi0?style=flat-square&color=blue)](https://github.com/physical-superintelligence-lab/Psi0/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > [RSS26'] Welcome to Psi-Zero, a Humanoid VLA towards Universal Humanoid Intelligence.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

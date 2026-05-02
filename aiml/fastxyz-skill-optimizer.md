@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/fastxyz/skill-optimizer?style=flat-square&color=yellow)](https://github.com/fastxyz/skill-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/fastxyz/skill-optimizer?style=flat-square&color=blue)](https://github.com/fastxyz/skill-optimizer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Benchmark and self-optimize SDK/CLI/MCP guidance so every agent model can use your tool reliably.
+> Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 

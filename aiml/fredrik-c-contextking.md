@@ -1,6 +1,6 @@
 # Fredrik-C/ContextKing
 
-[![Stars](https://img.shields.io/github/stars/Fredrik-C/ContextKing?style=flat-square&color=yellow)](https://github.com/Fredrik-C/ContextKing/stargazers) [![Forks](https://img.shields.io/github/forks/Fredrik-C/ContextKing?style=flat-square&color=blue)](https://github.com/Fredrik-C/ContextKing/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fredrik-C/ContextKing?style=flat-square&color=yellow)](https://github.com/Fredrik-C/ContextKing/stargazers) [![Forks](https://img.shields.io/github/forks/Fredrik-C/ContextKing?style=flat-square&color=blue)](https://github.com/Fredrik-C/ContextKing/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Semantic code navigation toolkit for large C# and TS codebases
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

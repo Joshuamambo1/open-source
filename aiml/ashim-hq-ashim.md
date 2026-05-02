@@ -1,6 +1,6 @@
 # ashim-hq/ashim
 
-[![Stars](https://img.shields.io/github/stars/ashim-hq/ashim?style=flat-square&color=yellow)](https://github.com/ashim-hq/ashim/stargazers) [![Forks](https://img.shields.io/github/forks/ashim-hq/ashim?style=flat-square&color=blue)](https://github.com/ashim-hq/ashim/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ashim-hq/ashim?style=flat-square&color=yellow)](https://github.com/ashim-hq/ashim/stargazers) [![Forks](https://img.shields.io/github/forks/ashim-hq/ashim?style=flat-square&color=blue)](https://github.com/ashim-hq/ashim/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A Self Hosted Image Manipulator - 45+ tools, local AI, and pipelines in a single Docker container. No cloud, 100% Local. Your images never leave your machine.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 41 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

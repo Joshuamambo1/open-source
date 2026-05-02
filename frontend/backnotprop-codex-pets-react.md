@@ -1,17 +1,17 @@
 # backnotprop/codex-pets-react
 
-[![Stars](https://img.shields.io/github/stars/backnotprop/codex-pets-react?style=flat-square&color=yellow)](https://github.com/backnotprop/codex-pets-react/stargazers) [![Forks](https://img.shields.io/github/forks/backnotprop/codex-pets-react?style=flat-square&color=blue)](https://github.com/backnotprop/codex-pets-react/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/backnotprop/codex-pets-react?style=flat-square&color=yellow)](https://github.com/backnotprop/codex-pets-react/stargazers) [![Forks](https://img.shields.io/github/forks/backnotprop/codex-pets-react?style=flat-square&color=blue)](https://github.com/backnotprop/codex-pets-react/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Declarative React wrapper for Codex pet spritesheets
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 9 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

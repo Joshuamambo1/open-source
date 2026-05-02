@@ -1,6 +1,6 @@
 # deadbolthq/certhound-agent
 
-[![Stars](https://img.shields.io/github/stars/deadbolthq/certhound-agent?style=flat-square&color=yellow)](https://github.com/deadbolthq/certhound-agent/stargazers) [![Forks](https://img.shields.io/github/forks/deadbolthq/certhound-agent?style=flat-square&color=blue)](https://github.com/deadbolthq/certhound-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deadbolthq/certhound-agent?style=flat-square&color=yellow)](https://github.com/deadbolthq/certhound-agent/stargazers) [![Forks](https://img.shields.io/github/forks/deadbolthq/certhound-agent?style=flat-square&color=blue)](https://github.com/deadbolthq/certhound-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform Go agent for SSL/TLS certificate inventory and ACME auto-renewal. Single binary, no daemons, runs standalone or with the optional CertHound dashboard.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

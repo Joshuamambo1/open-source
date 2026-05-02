@@ -1,6 +1,6 @@
 # butereleaou-pixel/Compare_Hotblaz
 
-[![Stars](https://img.shields.io/github/stars/butereleaou-pixel/Compare_Hotblaz?style=flat-square&color=yellow)](https://github.com/butereleaou-pixel/Compare_Hotblaz/stargazers) [![Forks](https://img.shields.io/github/forks/butereleaou-pixel/Compare_Hotblaz?style=flat-square&color=blue)](https://github.com/butereleaou-pixel/Compare_Hotblaz/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/butereleaou-pixel/Compare_Hotblaz?style=flat-square&color=yellow)](https://github.com/butereleaou-pixel/Compare_Hotblaz/stargazers) [![Forks](https://img.shields.io/github/forks/butereleaou-pixel/Compare_Hotblaz?style=flat-square&color=blue)](https://github.com/butereleaou-pixel/Compare_Hotblaz/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

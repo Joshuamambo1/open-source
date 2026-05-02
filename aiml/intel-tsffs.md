@@ -1,6 +1,6 @@
 # intel/tsffs
 
-[![Stars](https://img.shields.io/github/stars/intel/tsffs?style=flat-square&color=yellow)](https://github.com/intel/tsffs/stargazers) [![Forks](https://img.shields.io/github/forks/intel/tsffs?style=flat-square&color=blue)](https://github.com/intel/tsffs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intel/tsffs?style=flat-square&color=yellow)](https://github.com/intel/tsffs/stargazers) [![Forks](https://img.shields.io/github/forks/intel/tsffs?style=flat-square&color=blue)](https://github.com/intel/tsffs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

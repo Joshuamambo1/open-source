@@ -1,6 +1,6 @@
 # leox255/loopsy
 
-[![Stars](https://img.shields.io/github/stars/leox255/loopsy?style=flat-square&color=yellow)](https://github.com/leox255/loopsy/stargazers) [![Forks](https://img.shields.io/github/forks/leox255/loopsy?style=flat-square&color=blue)](https://github.com/leox255/loopsy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leox255/loopsy?style=flat-square&color=yellow)](https://github.com/leox255/loopsy/stargazers) [![Forks](https://img.shields.io/github/forks/leox255/loopsy?style=flat-square&color=blue)](https://github.com/leox255/loopsy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-machine AI agent communication, plus a mobile app to control any terminal on your machine.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 59 |
+| ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

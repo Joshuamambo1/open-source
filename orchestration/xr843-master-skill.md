@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/xr843/Master-skill?style=flat-square&color=yellow)](https://github.com/xr843/Master-skill/stargazers) [![Forks](https://img.shields.io/github/forks/xr843/Master-skill?style=flat-square&color=blue)](https://github.com/xr843/Master-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> Chinese Buddhist Master-skill powered by FoJin — 基于佛教经典文献的汉传祖师大德教学角色生成器
+> Buddhist Master-skill powered by FoJin — 三大传统（汉传/藏传/南传）祖师大德 AI 教学角色生成器，CBETA / BDRC / SuttaCentral 引证
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 249 |
+| ⭐ **Stars** | 253 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |

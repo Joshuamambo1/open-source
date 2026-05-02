@@ -1,6 +1,6 @@
 # SecureAuthCorp/oauth2c
 
-[![Stars](https://img.shields.io/github/stars/SecureAuthCorp/oauth2c?style=flat-square&color=yellow)](https://github.com/SecureAuthCorp/oauth2c/stargazers) [![Forks](https://img.shields.io/github/forks/SecureAuthCorp/oauth2c?style=flat-square&color=blue)](https://github.com/SecureAuthCorp/oauth2c/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SecureAuthCorp/oauth2c?style=flat-square&color=yellow)](https://github.com/SecureAuthCorp/oauth2c/stargazers) [![Forks](https://img.shields.io/github/forks/SecureAuthCorp/oauth2c?style=flat-square&color=blue)](https://github.com/SecureAuthCorp/oauth2c/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > User-friendly OAuth2 CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 912 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # lovestaco/mcp
 
-[![Stars](https://img.shields.io/github/stars/lovestaco/mcp?style=flat-square&color=yellow)](https://github.com/lovestaco/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/lovestaco/mcp?style=flat-square&color=blue)](https://github.com/lovestaco/mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lovestaco/mcp?style=flat-square&color=yellow)](https://github.com/lovestaco/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/lovestaco/mcp?style=flat-square&color=blue)](https://github.com/lovestaco/mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-26%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 30/100 |
+| 📈 **Score** | 26/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

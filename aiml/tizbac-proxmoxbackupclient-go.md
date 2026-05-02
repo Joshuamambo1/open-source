@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The tizbac/proxmoxbackupclient_go project is an open-source, in-development backup client for Proxmox written in Go, targeting Windows compatibility. This tool aims to provide a reliable and efficient solution for backing up Proxmox servers and VMs. By leveraging the Go programming language, the project seeks to offer a robust and cross-platform compatible backup client.
+Here's a brief summary for the project:
+
+This open-source project, ProxMox Backup Client Go, is a Windows-compatible backup client written in Go. Its primary goal is to provide a reliable and efficient backup solution for ProxMox environments, utilizing the Go programming language for cross-platform compatibility. By leveraging Go, this client aims to simplify ProxMox backups on Windows systems.
 
 ---
 

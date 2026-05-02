@@ -1,6 +1,6 @@
 # neil-morrison44/pocket-sync
 
-[![Stars](https://img.shields.io/github/stars/neil-morrison44/pocket-sync?style=flat-square&color=yellow)](https://github.com/neil-morrison44/pocket-sync/stargazers) [![Forks](https://img.shields.io/github/forks/neil-morrison44/pocket-sync?style=flat-square&color=blue)](https://github.com/neil-morrison44/pocket-sync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neil-morrison44/pocket-sync?style=flat-square&color=yellow)](https://github.com/neil-morrison44/pocket-sync/stargazers) [![Forks](https://img.shields.io/github/forks/neil-morrison44/pocket-sync?style=flat-square&color=blue)](https://github.com/neil-morrison44/pocket-sync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A GUI tool (Mac, Windows, Linux) for doing stuff with the Analogue Pocket
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 883 |
+| ⭐ **Stars** | 884 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

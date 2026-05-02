@@ -24,9 +24,9 @@
 | 14 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 15 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 52/100 |
 | 16 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 967 | TypeScript | 52/100 |
-| 17 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 136 | MDX | 51/100 |
-| 18 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
-| 19 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 121 | Rust | 51/100 |
+| 17 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 121 | Rust | 51/100 |
+| 18 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 136 | MDX | 51/100 |
+| 19 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
 | 20 | [deadsy/sdfx](./deadsy-sdfx.md) | ⭐ 613 | Go | 51/100 |
 | 21 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 17 | — | 50/100 |
 | 22 | [nil-go/konf](./nil-go-konf.md) | ⭐ 380 | Go | 49/100 |

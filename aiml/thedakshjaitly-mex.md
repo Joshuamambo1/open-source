@@ -1,6 +1,6 @@
 # theDakshJaitly/mex
 
-[![Stars](https://img.shields.io/github/stars/theDakshJaitly/mex?style=flat-square&color=yellow)](https://github.com/theDakshJaitly/mex/stargazers) [![Forks](https://img.shields.io/github/forks/theDakshJaitly/mex?style=flat-square&color=blue)](https://github.com/theDakshJaitly/mex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theDakshJaitly/mex?style=flat-square&color=yellow)](https://github.com/theDakshJaitly/mex/stargazers) [![Forks](https://img.shields.io/github/forks/theDakshJaitly/mex?style=flat-square&color=blue)](https://github.com/theDakshJaitly/mex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 693 |
+| ⭐ **Stars** | 694 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

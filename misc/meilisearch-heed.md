@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Heed is an open-source project that provides fully typed LMDB wrappers with minimal overhead, allowing for efficient and streamlined interactions with the LMDB database library. This project is designed to simplify the development process and reduce errors associated with manual LMDB handling. By providing a typed interface, Heed enables developers to work with LMDB in a more secure and maintainable way.
+The heed project provides a set of fully typed LMDB (Lightning Memory-Mapped Database) wrappers, designed to offer a low-overhead interface for interacting with this highly performant database. This open-source project aims to simplify the use of LMDB while maintaining its high performance capabilities. With heed, developers can access the full power of LMDB with a more streamlined and efficient API.
 
 ---
 

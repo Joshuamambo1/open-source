@@ -1,6 +1,6 @@
 # RackulaLives/Rackula
 
-[![Stars](https://img.shields.io/github/stars/RackulaLives/Rackula?style=flat-square&color=yellow)](https://github.com/RackulaLives/Rackula/stargazers) [![Forks](https://img.shields.io/github/forks/RackulaLives/Rackula?style=flat-square&color=blue)](https://github.com/RackulaLives/Rackula/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RackulaLives/Rackula?style=flat-square&color=yellow)](https://github.com/RackulaLives/Rackula/stargazers) [![Forks](https://img.shields.io/github/forks/RackulaLives/Rackula?style=flat-square&color=blue)](https://github.com/RackulaLives/Rackula/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source drag-and-drop rack layout designer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

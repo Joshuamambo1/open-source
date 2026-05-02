@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project allows users to visualize and explore the properties of 4D shapes through an interactive grapher, enabling a deeper understanding of complex geometric concepts. By providing a dynamic and immersive experience, the project facilitates the discovery of abstract mathematical ideas in a tangible and engaging way. It is a valuable tool for educators, students, and anyone interested in the fascinating realm of higher-dimensional geometry.
+The open-source project "See what 4D shapes look like (interactive grapher)" is an interactive tool that allows users to visualize and explore four-dimensional shapes in a unique and intuitive way. This grapher enables users to manipulate and interact with 4D geometric structures, providing a deeper understanding of their complexities. By making 4D geometry more accessible, this project fosters mathematical exploration and curiosity.
 
 ---
 

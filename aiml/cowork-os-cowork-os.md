@@ -1,6 +1,6 @@
 # CoWork-OS/CoWork-OS
 
-[![Stars](https://img.shields.io/github/stars/CoWork-OS/CoWork-OS?style=flat-square&color=yellow)](https://github.com/CoWork-OS/CoWork-OS/stargazers) [![Forks](https://img.shields.io/github/forks/CoWork-OS/CoWork-OS?style=flat-square&color=blue)](https://github.com/CoWork-OS/CoWork-OS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CoWork-OS/CoWork-OS?style=flat-square&color=yellow)](https://github.com/CoWork-OS/CoWork-OS/stargazers) [![Forks](https://img.shields.io/github/forks/CoWork-OS/CoWork-OS?style=flat-square&color=blue)](https://github.com/CoWork-OS/CoWork-OS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first personal agentic OS and everything app for coding, knowledge work, web design, automations, and artifacts.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 261 |
+| ⭐ **Stars** | 265 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-This open-source project, cv4pve-autosnap, is a tool designed to automatically take snapshots of Proxmox VE virtual machines (VMs) and containers. It ensures data retention and backup of these virtual environments by implementing customized snapshot retention policies. This feature-rich tool helps users maintain a safe and up-to-date backup of their Proxmox VE infrastructure.
+Here's a brief summary for the Corsinvest/cv4pve-autosnap project:
+
+cv4pve-autosnap is an open-source tool that automatically takes snapshots of Proxmox VE VMs and containers, enabling users to implement retention policies and maintain a consistent backup history. This project offers a reliable solution for proactive data protection and disaster recovery in virtualized environments. With cv4pve-autosnap, users can ensure that their virtual infrastructure remains up-to-date and safeguarded against data loss.
 
 ---
 

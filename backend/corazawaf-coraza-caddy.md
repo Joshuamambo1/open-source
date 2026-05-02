@@ -25,7 +25,7 @@ Backend · Security
 
 ## 📝 Summary
 
-Coraza-Caddy is an open-source project that integrates OWASP Coraza, a robust web application firewall (WAF), with the Caddy web server. This middleware enhances the security of web applications by providing a powerful layer of protection against common web attacks, such as SQL injection and cross-site scripting. By leveraging Coraza-Caddy, developers can easily add WAF capabilities to their Caddy-based projects.
+The corazawaf/coraza-caddy project provides an open-source Web Application Firewall (WAF) solution through the OWASP Coraza middleware, integrated with the popular Caddy web server. This integration enables developers to easily protect their web applications from common web attacks and vulnerabilities. By leveraging Coraza's robust WAF capabilities, users can enhance the security and resilience of their web applications.
 
 ---
 

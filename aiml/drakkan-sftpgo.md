@@ -25,9 +25,9 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the drakkan/sftpgo project:
+Here's a brief summary of the project:
 
-SFTPgo is a highly configurable, open-source server that provides secure file transfers and storage through SFTP, HTTP/S, FTP/S, and WebDAV protocols. It also supports cloud storage integrations with S3, Google Cloud Storage, and Azure Blob, making it a versatile solution for file sharing and collaboration. With its customizable features and robust security, SFTPgo is an ideal choice for developers and organizations seeking a reliable and scalable file server solution.
+SFTPgo is an open-source, highly configurable server that provides secure file transfers and storage solutions. It supports multiple protocols, including SFTP, HTTP/S, FTP/S, and WebDAV, as well as cloud storage integrations with S3, Google Cloud Storage, and Azure Blob. This versatile server offers a robust and customizable platform for secure file management and collaboration.
 
 ---
 

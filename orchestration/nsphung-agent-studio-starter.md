@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the nsphung/agent-studio-starter project:
+Here's a brief summary for the nsphung/agent-studio-starter project:
 
-The Agent Studio Starter is an open-source project that simplifies the development of AI agents by providing a pre-built, customizable framework. Built with LangGraph, CopilotKit, and beautiful Generative UIs, this starter kit streamlines the process of creating AI agents and accelerates the development of intelligent systems. By leveraging this starter kit, developers can focus on building innovative AI solutions without starting from scratch.
+The agent-studio-starter project provides a comprehensive open-source starter kit for building AI agents, streamlining the development process with LangGraph, CopilotKit, and a user-friendly Generative UI. This framework simplifies the creation of AI-powered applications, enabling developers to focus on building innovative solutions rather than starting from scratch. With agent-studio-starter, users can accelerate their AI development journey.
 
 ---
 

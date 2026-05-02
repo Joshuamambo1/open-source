@@ -25,7 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Astoriel/dbt-doctor is an open-source project that utilizes AI-driven technology to enhance the quality and governance of dbt projects. It offers features such as automated audit coverage, data profiling, schema drift detection, and auto-generated documentation, all accessible through natural language interactions with AI assistants. This solution empowers developers to streamline dbt project management and ensure data accuracy with ease.
+Astoriel/dbt-doctor is an open-source project that utilizes AI-driven technology to enhance the quality and governance of dbt projects. This innovative tool provides features such as comprehensive audit coverage, data profiling, schema drift detection, and automated documentation generation, all accessible via natural language interactions with an AI assistant. By leveraging AI, dbt-doctor streamlines the process of maintaining high-quality data transformations.
 
 ---
 

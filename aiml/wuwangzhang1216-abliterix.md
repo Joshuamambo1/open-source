@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Abliterix is an open-source tool that automates the alignment adjustment process for Large Language Models (LLMs) using various techniques such as direct steering, LoRA, and MoE expert-granular abliteration. The project utilizes Optuna's Tree of Parzen Estimators (TPE) for multi-objective optimization, allowing for efficient and effective model fine-tuning. This tool aims to simplify the model alignment process and improve overall performance.
+The Abliterix project is an open-source tool that automates the alignment adjustment process for Large Language Models (LLMs). It provides three expert-granular abliteration methods: direct steering, LoRA (Low-Rank Adaptation), and MoE (Multi-Expert), which are optimized using multi-objective Optuna TPE (Tree of Parzen Estimators) for improved performance. This project aims to simplify and enhance the alignment of LLMs for various applications.
 
 ---
 

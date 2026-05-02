@@ -1,8 +1,8 @@
 # Mng-dev-ai/agentrove
 
-[![Stars](https://img.shields.io/github/stars/Mng-dev-ai/agentrove?style=flat-square&color=yellow)](https://github.com/Mng-dev-ai/agentrove/stargazers) [![Forks](https://img.shields.io/github/forks/Mng-dev-ai/agentrove?style=flat-square&color=blue)](https://github.com/Mng-dev-ai/agentrove/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mng-dev-ai/agentrove?style=flat-square&color=yellow)](https://github.com/Mng-dev-ai/agentrove/stargazers) [![Forks](https://img.shields.io/github/forks/Mng-dev-ai/agentrove?style=flat-square&color=blue)](https://github.com/Mng-dev-ai/agentrove/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> A self-hosted web and macOS desktop app for Claude Code and Codex, powered by ACP. Work in per-workspace sandboxes with chat, editor, terminal, git/PR tools, and customizable agent workflows.
+> Self-hosted AI coding workspace for Claude Code, Codex, Copilot, Cursor, and OpenCode, with ACP-powered sandboxes
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 271 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

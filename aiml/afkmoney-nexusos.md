@@ -1,8 +1,8 @@
 # AFKmoney/nexusOS
 
-[![Stars](https://img.shields.io/github/stars/AFKmoney/nexusOS?style=flat-square&color=yellow)](https://github.com/AFKmoney/nexusOS/stargazers) [![Forks](https://img.shields.io/github/forks/AFKmoney/nexusOS?style=flat-square&color=blue)](https://github.com/AFKmoney/nexusOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AFKmoney/nexusOS?style=flat-square&color=yellow)](https://github.com/AFKmoney/nexusOS/stargazers) [![Forks](https://img.shields.io/github/forks/AFKmoney/nexusOS?style=flat-square&color=blue)](https://github.com/AFKmoney/nexusOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> NEXUSos: A 100% sovereign, local AI desktop OS environment. The Neural Body for DAEMON. No cloud, no tracking.
+> Meet Daemon, the Self-Evolving Operating System.
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

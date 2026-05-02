@@ -1,6 +1,6 @@
 # rsamborski/vibecoding
 
-[![Stars](https://img.shields.io/github/stars/rsamborski/vibecoding?style=flat-square&color=yellow)](https://github.com/rsamborski/vibecoding/stargazers) [![Forks](https://img.shields.io/github/forks/rsamborski/vibecoding?style=flat-square&color=blue)](https://github.com/rsamborski/vibecoding/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-26%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rsamborski/vibecoding?style=flat-square&color=yellow)](https://github.com/rsamborski/vibecoding/stargazers) [![Forks](https://img.shields.io/github/forks/rsamborski/vibecoding?style=flat-square&color=blue)](https://github.com/rsamborski/vibecoding/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-22%2F100-brightgreen?style=flat-square)](#)
 
 > Vibecoding experiments
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 26/100 |
+| 📈 **Score** | 22/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

@@ -1,6 +1,6 @@
 # sambigeara/pollen
 
-[![Stars](https://img.shields.io/github/stars/sambigeara/pollen?style=flat-square&color=yellow)](https://github.com/sambigeara/pollen/stargazers) [![Forks](https://img.shields.io/github/forks/sambigeara/pollen?style=flat-square&color=blue)](https://github.com/sambigeara/pollen/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sambigeara/pollen?style=flat-square&color=yellow)](https://github.com/sambigeara/pollen/stargazers) [![Forks](https://img.shields.io/github/forks/sambigeara/pollen?style=flat-square&color=blue)](https://github.com/sambigeara/pollen/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Distributed WASM runtime. Workloads place themselves over a zero-trust mesh. One static binary.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54 |
-| 🍴 **Forks** | 1 |
+| ⭐ **Stars** | 158 |
+| 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

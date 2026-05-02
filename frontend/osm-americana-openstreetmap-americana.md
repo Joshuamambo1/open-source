@@ -1,6 +1,6 @@
 # osm-americana/openstreetmap-americana
 
-[![Stars](https://img.shields.io/github/stars/osm-americana/openstreetmap-americana?style=flat-square&color=yellow)](https://github.com/osm-americana/openstreetmap-americana/stargazers) [![Forks](https://img.shields.io/github/forks/osm-americana/openstreetmap-americana?style=flat-square&color=blue)](https://github.com/osm-americana/openstreetmap-americana/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/osm-americana/openstreetmap-americana?style=flat-square&color=yellow)](https://github.com/osm-americana/openstreetmap-americana/stargazers) [![Forks](https://img.shields.io/github/forks/osm-americana/openstreetmap-americana?style=flat-square&color=blue)](https://github.com/osm-americana/openstreetmap-americana/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A quintessentially American map style
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 235 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Azure-Samples/azure-ai-travel-agents
 
-[![Stars](https://img.shields.io/github/stars/Azure-Samples/azure-ai-travel-agents?style=flat-square&color=yellow)](https://github.com/Azure-Samples/azure-ai-travel-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Azure-Samples/azure-ai-travel-agents?style=flat-square&color=blue)](https://github.com/Azure-Samples/azure-ai-travel-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure-Samples/azure-ai-travel-agents?style=flat-square&color=yellow)](https://github.com/Azure-Samples/azure-ai-travel-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Azure-Samples/azure-ai-travel-agents?style=flat-square&color=blue)](https://github.com/Azure-Samples/azure-ai-travel-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A robust enterprise application sample (deployed on ACA) that leverages MCP and multiple AI agents orchestrated by Langchain.js, Llamaindex.TS and Microsoft Agent Framework.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 430 |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

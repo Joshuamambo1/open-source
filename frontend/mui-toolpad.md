@@ -1,6 +1,6 @@
 # mui/toolpad
 
-[![Stars](https://img.shields.io/github/stars/mui/toolpad?style=flat-square&color=yellow)](https://github.com/mui/toolpad/stargazers) [![Forks](https://img.shields.io/github/forks/mui/toolpad?style=flat-square&color=blue)](https://github.com/mui/toolpad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mui/toolpad?style=flat-square&color=yellow)](https://github.com/mui/toolpad/stargazers) [![Forks](https://img.shields.io/github/forks/mui/toolpad?style=flat-square&color=blue)](https://github.com/mui/toolpad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > ⚠️ 𝐍𝐨𝐭 𝐚𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐦𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 Toolpad: Full stack components and low-code builder for dashboards and internal apps.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 407 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Gentleman-Programming/gentle-ai
 
-[![Stars](https://img.shields.io/github/stars/Gentleman-Programming/gentle-ai?style=flat-square&color=yellow)](https://github.com/Gentleman-Programming/gentle-ai/stargazers) [![Forks](https://img.shields.io/github/forks/Gentleman-Programming/gentle-ai?style=flat-square&color=blue)](https://github.com/Gentleman-Programming/gentle-ai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gentleman-Programming/gentle-ai?style=flat-square&color=yellow)](https://github.com/Gentleman-Programming/gentle-ai/stargazers) [![Forks](https://img.shields.io/github/forks/Gentleman-Programming/gentle-ai?style=flat-square&color=blue)](https://github.com/Gentleman-Programming/gentle-ai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 314 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

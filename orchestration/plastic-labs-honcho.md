@@ -1,6 +1,6 @@
 # plastic-labs/honcho
 
-[![Stars](https://img.shields.io/github/stars/plastic-labs/honcho?style=flat-square&color=yellow)](https://github.com/plastic-labs/honcho/stargazers) [![Forks](https://img.shields.io/github/forks/plastic-labs/honcho?style=flat-square&color=blue)](https://github.com/plastic-labs/honcho/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plastic-labs/honcho?style=flat-square&color=yellow)](https://github.com/plastic-labs/honcho/stargazers) [![Forks](https://img.shields.io/github/forks/plastic-labs/honcho?style=flat-square&color=blue)](https://github.com/plastic-labs/honcho/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Memory library for building stateful agents
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 359 |
+| 🍴 **Forks** | 361 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

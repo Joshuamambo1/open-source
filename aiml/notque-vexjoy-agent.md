@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/notque/vexjoy-agent?style=flat-square&color=yellow)](https://github.com/notque/vexjoy-agent/stargazers) [![Forks](https://img.shields.io/github/forks/notque/vexjoy-agent?style=flat-square&color=blue)](https://github.com/notque/vexjoy-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> VexJoy Agent - Creator of the /do router
+> VexJoy AI Agent with Intelligent Routing
 
 ## 📊 Stats
 

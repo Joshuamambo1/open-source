@@ -1,6 +1,6 @@
 # NativeScript/nativescript-cli
 
-[![Stars](https://img.shields.io/github/stars/NativeScript/nativescript-cli?style=flat-square&color=yellow)](https://github.com/NativeScript/nativescript-cli/stargazers) [![Forks](https://img.shields.io/github/forks/NativeScript/nativescript-cli?style=flat-square&color=blue)](https://github.com/NativeScript/nativescript-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NativeScript/nativescript-cli?style=flat-square&color=yellow)](https://github.com/NativeScript/nativescript-cli/stargazers) [![Forks](https://img.shields.io/github/forks/NativeScript/nativescript-cli?style=flat-square&color=blue)](https://github.com/NativeScript/nativescript-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > NativeScript CLI - command-line tools
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

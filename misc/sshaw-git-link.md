@@ -1,6 +1,6 @@
 # sshaw/git-link
 
-[![Stars](https://img.shields.io/github/stars/sshaw/git-link?style=flat-square&color=yellow)](https://github.com/sshaw/git-link/stargazers) [![Forks](https://img.shields.io/github/forks/sshaw/git-link?style=flat-square&color=blue)](https://github.com/sshaw/git-link/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sshaw/git-link?style=flat-square&color=yellow)](https://github.com/sshaw/git-link/stargazers) [![Forks](https://img.shields.io/github/forks/sshaw/git-link?style=flat-square&color=blue)](https://github.com/sshaw/git-link/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Emacs package to get the GitHub/Bitbucket/GitLab/... URL for a buffer location
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 464 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

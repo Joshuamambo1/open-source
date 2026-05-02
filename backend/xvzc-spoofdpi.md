@@ -1,6 +1,6 @@
 # xvzc/spoofdpi
 
-[![Stars](https://img.shields.io/github/stars/xvzc/spoofdpi?style=flat-square&color=yellow)](https://github.com/xvzc/spoofdpi/stargazers) [![Forks](https://img.shields.io/github/forks/xvzc/spoofdpi?style=flat-square&color=blue)](https://github.com/xvzc/spoofdpi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xvzc/spoofdpi?style=flat-square&color=yellow)](https://github.com/xvzc/spoofdpi/stargazers) [![Forks](https://img.shields.io/github/forks/xvzc/spoofdpi?style=flat-square&color=blue)](https://github.com/xvzc/spoofdpi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > Simple and fast anti-censorship tool written in Go
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 308 |
+| 🍴 **Forks** | 309 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

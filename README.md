@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14794** |
+| 🗂️ **Total projects** | **14843** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5543 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3014 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1445 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1098 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 909 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 887 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 514 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 5559 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3026 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1452 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1100 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 913 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 888 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 516 | [Browse →](./crypto/) |
 | 📊 **Data** | 337 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 320 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 196 | [Browse →](./mobile/) |
-| 💳 **Payments** | 157 | [Browse →](./payments/) |
-| 📈 **Trading** | 149 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 321 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 197 | [Browse →](./mobile/) |
+| 💳 **Payments** | 159 | [Browse →](./payments/) |
+| 📈 **Trading** | 150 | [Browse →](./trading/) |
 | 🔐 **Security** | 120 | [Browse →](./security/) |
 | ✨ **Design** | 48 | [Browse →](./design/) |
 | 🎯 **Product** | 29 | [Browse →](./product/) |
@@ -39,13 +39,13 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [timescale/timescaledb](./data/timescale-timescaledb.md) | ⭐ 22.5k | Data |
+| 1 | [HugoBlox/kit](./aiml/hugoblox-kit.md) | ⭐ 9.4k | AI/ML |
 | 2 | [MaterialDesignInXAML/MaterialDesignInXamlToolkit](./aiml/materialdesigninxaml-materialdesigninxamltoolkit.md) | ⭐ 16.1k | AI/ML |
 | 3 | [luanti-org/luanti](./devtools/luanti-org-luanti.md) | ⭐ 12.8k | DevTools |
-| 4 | [rabbitmq/rabbitmq-server](./frontend/rabbitmq-rabbitmq-server.md) | ⭐ 13.6k | Frontend |
-| 5 | [The-PR-Agent/pr-agent](./aiml/the-pr-agent-pr-agent.md) | ⭐ 11.1k | AI/ML |
-| 6 | [ruvnet/RuView](./aiml/ruvnet-ruview.md) | ⭐ 51.4k | AI/ML |
-| 7 | [ComposioHQ/composio](./aiml/composiohq-composio.md) | ⭐ 28k | AI/ML |
+| 4 | [The-PR-Agent/pr-agent](./aiml/the-pr-agent-pr-agent.md) | ⭐ 11.1k | AI/ML |
+| 5 | [ImageMagick/ImageMagick](./frontend/imagemagick-imagemagick.md) | ⭐ 16.3k | Frontend |
+| 6 | [google/comprehensive-rust](./aiml/google-comprehensive-rust.md) | ⭐ 32.9k | AI/ML |
+| 7 | [nats-io/nats-server](./aiml/nats-io-nats-server.md) | ⭐ 19.7k | AI/ML |
 | 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
 | 9 | [redisson/redisson](./frontend/redisson-redisson.md) | ⭐ 24.3k | Frontend |
 | 10 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25k | Design |

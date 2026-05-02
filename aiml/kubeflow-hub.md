@@ -1,6 +1,6 @@
 # kubeflow/hub
 
-[![Stars](https://img.shields.io/github/stars/kubeflow/hub?style=flat-square&color=yellow)](https://github.com/kubeflow/hub/stargazers) [![Forks](https://img.shields.io/github/forks/kubeflow/hub?style=flat-square&color=blue)](https://github.com/kubeflow/hub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeflow/hub?style=flat-square&color=yellow)](https://github.com/kubeflow/hub/stargazers) [![Forks](https://img.shields.io/github/forks/kubeflow/hub?style=flat-square&color=blue)](https://github.com/kubeflow/hub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Model Registry provides a single pane of glass for ML model developers to index and manage models, versions, and ML artifacts metadata. It fills a gap between model experimentation and production activities. It provides a central interface for all stakeholders in the MLOps lifecycle to collaborate on ML models.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # jasonmccreary/laravel-test-assertions
 
-[![Stars](https://img.shields.io/github/stars/jasonmccreary/laravel-test-assertions?style=flat-square&color=yellow)](https://github.com/jasonmccreary/laravel-test-assertions/stargazers) [![Forks](https://img.shields.io/github/forks/jasonmccreary/laravel-test-assertions?style=flat-square&color=blue)](https://github.com/jasonmccreary/laravel-test-assertions/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jasonmccreary/laravel-test-assertions?style=flat-square&color=yellow)](https://github.com/jasonmccreary/laravel-test-assertions/stargazers) [![Forks](https://img.shields.io/github/forks/jasonmccreary/laravel-test-assertions?style=flat-square&color=blue)](https://github.com/jasonmccreary/laravel-test-assertions/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > A set of helpful assertions when testing Laravel applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 352 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

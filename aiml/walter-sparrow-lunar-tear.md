@@ -1,6 +1,6 @@
 # Walter-Sparrow/lunar-tear
 
-[![Stars](https://img.shields.io/github/stars/Walter-Sparrow/lunar-tear?style=flat-square&color=yellow)](https://github.com/Walter-Sparrow/lunar-tear/stargazers) [![Forks](https://img.shields.io/github/forks/Walter-Sparrow/lunar-tear?style=flat-square&color=blue)](https://github.com/Walter-Sparrow/lunar-tear/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Walter-Sparrow/lunar-tear?style=flat-square&color=yellow)](https://github.com/Walter-Sparrow/lunar-tear/stargazers) [![Forks](https://img.shields.io/github/forks/Walter-Sparrow/lunar-tear?style=flat-square&color=blue)](https://github.com/Walter-Sparrow/lunar-tear/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Private server research project for a certain discontinued mobile game
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 851 |
+| ⭐ **Stars** | 852 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

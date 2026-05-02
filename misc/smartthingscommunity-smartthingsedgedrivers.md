@@ -1,6 +1,6 @@
 # SmartThingsCommunity/SmartThingsEdgeDrivers
 
-[![Stars](https://img.shields.io/github/stars/SmartThingsCommunity/SmartThingsEdgeDrivers?style=flat-square&color=yellow)](https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers/stargazers) [![Forks](https://img.shields.io/github/forks/SmartThingsCommunity/SmartThingsEdgeDrivers?style=flat-square&color=blue)](https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SmartThingsCommunity/SmartThingsEdgeDrivers?style=flat-square&color=yellow)](https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers/stargazers) [![Forks](https://img.shields.io/github/forks/SmartThingsCommunity/SmartThingsEdgeDrivers?style=flat-square&color=blue)](https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 531 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

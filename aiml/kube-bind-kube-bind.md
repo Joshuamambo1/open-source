@@ -1,6 +1,6 @@
 # kube-bind/kube-bind
 
-[![Stars](https://img.shields.io/github/stars/kube-bind/kube-bind?style=flat-square&color=yellow)](https://github.com/kube-bind/kube-bind/stargazers) [![Forks](https://img.shields.io/github/forks/kube-bind/kube-bind?style=flat-square&color=blue)](https://github.com/kube-bind/kube-bind/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kube-bind/kube-bind?style=flat-square&color=yellow)](https://github.com/kube-bind/kube-bind/stargazers) [![Forks](https://img.shields.io/github/forks/kube-bind/kube-bind?style=flat-square&color=blue)](https://github.com/kube-bind/kube-bind/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > An open source project that aims to provide better support for service providers and consumers that reside in distinct Kubernetes clusters.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 207 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

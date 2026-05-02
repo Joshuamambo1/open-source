@@ -1,6 +1,6 @@
 # RimuruW/pi-hashline-edit
 
-[![Stars](https://img.shields.io/github/stars/RimuruW/pi-hashline-edit?style=flat-square&color=yellow)](https://github.com/RimuruW/pi-hashline-edit/stargazers) [![Forks](https://img.shields.io/github/forks/RimuruW/pi-hashline-edit?style=flat-square&color=blue)](https://github.com/RimuruW/pi-hashline-edit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RimuruW/pi-hashline-edit?style=flat-square&color=yellow)](https://github.com/RimuruW/pi-hashline-edit/stargazers) [![Forks](https://img.shields.io/github/forks/RimuruW/pi-hashline-edit?style=flat-square&color=blue)](https://github.com/RimuruW/pi-hashline-edit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > A pi coding agent extension that overrides the built-in read, grep, and edit tools with content-anchored line references (LINE:HASH|content).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

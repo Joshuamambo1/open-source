@@ -1,6 +1,6 @@
 # indigo-dc/oidc-agent
 
-[![Stars](https://img.shields.io/github/stars/indigo-dc/oidc-agent?style=flat-square&color=yellow)](https://github.com/indigo-dc/oidc-agent/stargazers) [![Forks](https://img.shields.io/github/forks/indigo-dc/oidc-agent?style=flat-square&color=blue)](https://github.com/indigo-dc/oidc-agent/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/indigo-dc/oidc-agent?style=flat-square&color=yellow)](https://github.com/indigo-dc/oidc-agent/stargazers) [![Forks](https://img.shields.io/github/forks/indigo-dc/oidc-agent?style=flat-square&color=blue)](https://github.com/indigo-dc/oidc-agent/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > oidc-agent for managing OpenID Connect tokens on the command line
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | C |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

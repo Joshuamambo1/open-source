@@ -1,6 +1,6 @@
 # zippoxer/subtask
 
-[![Stars](https://img.shields.io/github/stars/zippoxer/subtask?style=flat-square&color=yellow)](https://github.com/zippoxer/subtask/stargazers) [![Forks](https://img.shields.io/github/forks/zippoxer/subtask?style=flat-square&color=blue)](https://github.com/zippoxer/subtask/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zippoxer/subtask?style=flat-square&color=yellow)](https://github.com/zippoxer/subtask/stargazers) [![Forks](https://img.shields.io/github/forks/zippoxer/subtask?style=flat-square&color=blue)](https://github.com/zippoxer/subtask/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Skill to do your tasks with subagents in Git worktrees
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 328 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

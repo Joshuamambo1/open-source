@@ -1,6 +1,6 @@
 # wangjiawen2013/charton
 
-[![Stars](https://img.shields.io/github/stars/wangjiawen2013/charton?style=flat-square&color=yellow)](https://github.com/wangjiawen2013/charton/stargazers) [![Forks](https://img.shields.io/github/forks/wangjiawen2013/charton?style=flat-square&color=blue)](https://github.com/wangjiawen2013/charton/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wangjiawen2013/charton?style=flat-square&color=yellow)](https://github.com/wangjiawen2013/charton/stargazers) [![Forks](https://img.shields.io/github/forks/wangjiawen2013/charton?style=flat-square&color=blue)](https://github.com/wangjiawen2013/charton/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Grammar of Graphics in Rust
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 189 |
+| ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

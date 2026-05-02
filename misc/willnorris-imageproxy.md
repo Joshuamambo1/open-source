@@ -1,6 +1,6 @@
 # willnorris/imageproxy
 
-[![Stars](https://img.shields.io/github/stars/willnorris/imageproxy?style=flat-square&color=yellow)](https://github.com/willnorris/imageproxy/stargazers) [![Forks](https://img.shields.io/github/forks/willnorris/imageproxy?style=flat-square&color=blue)](https://github.com/willnorris/imageproxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/willnorris/imageproxy?style=flat-square&color=yellow)](https://github.com/willnorris/imageproxy/stargazers) [![Forks](https://img.shields.io/github/forks/willnorris/imageproxy?style=flat-square&color=blue)](https://github.com/willnorris/imageproxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A caching, resizing image proxy written in Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 505 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

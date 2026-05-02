@@ -1,6 +1,6 @@
 # zearp/Nucintosh
 
-[![Stars](https://img.shields.io/github/stars/zearp/Nucintosh?style=flat-square&color=yellow)](https://github.com/zearp/Nucintosh/stargazers) [![Forks](https://img.shields.io/github/forks/zearp/Nucintosh?style=flat-square&color=blue)](https://github.com/zearp/Nucintosh/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zearp/Nucintosh?style=flat-square&color=yellow)](https://github.com/zearp/Nucintosh/stargazers) [![Forks](https://img.shields.io/github/forks/zearp/Nucintosh?style=flat-square&color=blue)](https://github.com/zearp/Nucintosh/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Intel NUC Hackintosh Stuff
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 796 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

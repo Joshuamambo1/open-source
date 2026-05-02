@@ -1,6 +1,6 @@
 # RustAudio/coreaudio-rs
 
-[![Stars](https://img.shields.io/github/stars/RustAudio/coreaudio-rs?style=flat-square&color=yellow)](https://github.com/RustAudio/coreaudio-rs/stargazers) [![Forks](https://img.shields.io/github/forks/RustAudio/coreaudio-rs?style=flat-square&color=blue)](https://github.com/RustAudio/coreaudio-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RustAudio/coreaudio-rs?style=flat-square&color=yellow)](https://github.com/RustAudio/coreaudio-rs/stargazers) [![Forks](https://img.shields.io/github/forks/RustAudio/coreaudio-rs?style=flat-square&color=blue)](https://github.com/RustAudio/coreaudio-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > A friendly rust interface to Apple's Core Audio API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 290 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

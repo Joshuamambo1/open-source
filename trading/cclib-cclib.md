@@ -1,6 +1,6 @@
 # cclib/cclib
 
-[![Stars](https://img.shields.io/github/stars/cclib/cclib?style=flat-square&color=yellow)](https://github.com/cclib/cclib/stargazers) [![Forks](https://img.shields.io/github/forks/cclib/cclib?style=flat-square&color=blue)](https://github.com/cclib/cclib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cclib/cclib?style=flat-square&color=yellow)](https://github.com/cclib/cclib/stargazers) [![Forks](https://img.shields.io/github/forks/cclib/cclib?style=flat-square&color=blue)](https://github.com/cclib/cclib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Parsers and algorithms for computational chemistry logfiles
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 405 |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

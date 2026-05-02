@@ -1,6 +1,6 @@
 # apache/mynewt-nimble
 
-[![Stars](https://img.shields.io/github/stars/apache/mynewt-nimble?style=flat-square&color=yellow)](https://github.com/apache/mynewt-nimble/stargazers) [![Forks](https://img.shields.io/github/forks/apache/mynewt-nimble?style=flat-square&color=blue)](https://github.com/apache/mynewt-nimble/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/mynewt-nimble?style=flat-square&color=yellow)](https://github.com/apache/mynewt-nimble/stargazers) [![Forks](https://img.shields.io/github/forks/apache/mynewt-nimble?style=flat-square&color=blue)](https://github.com/apache/mynewt-nimble/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Apache mynewt
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 866 |
 | 🍴 **Forks** | 488 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

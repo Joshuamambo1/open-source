@@ -1,6 +1,6 @@
 # sorin-ionescu/prezto
 
-[![Stars](https://img.shields.io/github/stars/sorin-ionescu/prezto?style=flat-square&color=yellow)](https://github.com/sorin-ionescu/prezto/stargazers) [![Forks](https://img.shields.io/github/forks/sorin-ionescu/prezto?style=flat-square&color=blue)](https://github.com/sorin-ionescu/prezto/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sorin-ionescu/prezto?style=flat-square&color=yellow)](https://github.com/sorin-ionescu/prezto/stargazers) [![Forks](https://img.shields.io/github/forks/sorin-ionescu/prezto?style=flat-square&color=blue)](https://github.com/sorin-ionescu/prezto/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > The configuration framework for Zsh
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.5k |
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 100/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-The goern/forgejo-mcp project offers a Model Context Protocol (MCP) server as a mirror for interacting with the Forgejo REST API on Codeberg.org. This open-source project aims to provide tools and resources for backend interactions, enabling users to efficiently manage and access data from the Forgejo platform. By utilizing the MCP server, users can leverage Forgejo's API capabilities with ease.
+Here's a 2-3 sentence summary of the goern/forgejo-mcp project:
+
+Forgejo-MCP is an open-source server that facilitates interactions with the Forgejo REST API, a code collaboration platform. This project acts as a mirror for MCP tools and resources, enabling developers to leverage the Forgejo API in their applications. By utilizing Forgejo-MCP, users can build custom integrations with the Codeberg.org instance of Forgejo.
 
 ---
 

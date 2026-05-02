@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the 'icicle' project:
+Here is a brief summary for the open-source project "snowfallorg/icicle":
 
-Icicle is an open-source project that simplifies the installation process of NixOS-based distributions using gtk4/libadwaita. This tool provides a user-friendly interface for installing NixOS distributions, reducing the complexity associated with manual setup processes. By leveraging gtk4/libadwaita, Icicle aims to enhance the overall user experience for NixOS users.
+Icicle is an open-source project that provides a gtk4/libadwaita installer for NixOS-based Linux distributions. This project offers a user-friendly interface for installing and configuring gtk4/libadwaita on NixOS systems. With Icicle, users can easily install and manage gtk4/libadwaita packages on their NixOS systems.
 
 ---
 

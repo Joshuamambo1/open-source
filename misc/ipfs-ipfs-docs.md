@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The ipfs/ipfs-docs project is an open-source repository containing the documentation website for InterPlanetary File System (IPFS), a decentralized storage system. This website provides users with a comprehensive resource for learning about IPFS, including its features, usage, and development. By contributing to this project, users can help maintain and improve the IPFS documentation.
+The ipfs/ipfs-docs project is an open-source initiative that hosts the official IPFS documentation website. This platform provides comprehensive and up-to-date information on the InterPlanetary File System (IPFS), a decentralized storage network that enables peer-to-peer file sharing. By contributing to this project, developers can help maintain and improve the IPFS documentation, making it a valuable resource for the community.
 
 ---
 

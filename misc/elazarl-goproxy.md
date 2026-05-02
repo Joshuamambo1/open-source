@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The elazarl/goproxy project is an open-source HTTP proxy library for Go that enables developers to easily create and manage HTTP proxy servers. This library provides a simple and efficient way to proxy HTTP requests, making it a useful tool for applications that require HTTP forwarding or tunneling. With goproxy, developers can build robust and scalable proxy servers with minimal code.
+The elazarl/goproxy project is an open-source, lightweight HTTP proxy library designed for use in Go applications. It provides a flexible and customizable way to intercept, modify, and route HTTP requests and responses, making it suitable for a variety of use cases such as testing, caching, and analytics. This library offers a simple and efficient solution for proxying HTTP traffic within Go-based systems.
 
 ---
 

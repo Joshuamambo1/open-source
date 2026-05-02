@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The mvdan/sh project is an open-source shell parser, formatter, and interpreter that supports both bash and zsh syntax. It includes the shfmt tool, which can format shell scripts for better readability. This project aims to provide a standardized and maintainable solution for shell scripting.
+The mvdan/sh project is an open-source shell parser and interpreter that supports both bash and zsh, allowing users to write and execute shell scripts in a more structured and maintainable way. It includes shfmt, a shell code formatter that helps keep scripts clean and readable. This project enables developers to write portable shell code with improved syntax checking and formatting.
 
 ---
 

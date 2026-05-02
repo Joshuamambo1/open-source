@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Taskwarrior-tui is a terminal-based user interface for the task management tool taskwarrior. This open-source project provides a user-friendly command-line interface for managing tasks, allowing users to interact with taskwarrior without needing to type complex commands. By simplifying task management, taskwarrior-tui enables users to stay organized and focused from the comfort of their terminal.
+Taskwarrior-TUI is an open-source, terminal-based user interface for Taskwarrior, a command-line task management tool. This project provides a user-friendly interface for managing tasks, projects, and schedules within the Terminal, enhancing productivity and workflow organization. It is designed to be an intuitive and accessible alternative to the command-line interface of Taskwarrior.
 
 ---
 

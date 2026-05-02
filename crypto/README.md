@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**504 projects** in this category.
+**505 projects** in this category.
 
 ## Projects
 
@@ -482,36 +482,37 @@
 | 472 | [livekit/protocol](./livekit-protocol.md) | ⭐ 137 | Go | 43/100 |
 | 473 | [0xMiden/crypto](./0xmiden-crypto.md) | ⭐ 132 | Rust | 43/100 |
 | 474 | [sushichan044/cc-hooks-ts](./sushichan044-cc-hooks-ts.md) | ⭐ 38 | TypeScript | 43/100 |
-| 475 | [provenance-io/provenance](./provenance-io-provenance.md) | ⭐ 115 | Go | 42/100 |
-| 476 | [MinBZK/nl-wallet](./minbzk-nl-wallet.md) | ⭐ 215 | Rust | 42/100 |
-| 477 | [logos-blockchain/logos-blockchain](./logos-blockchain-logos-blockchain.md) | ⭐ 125 | Rust | 42/100 |
-| 478 | [richkuo/go-trader](./richkuo-go-trader.md) | ⭐ 202 | Go | 42/100 |
-| 479 | [adyen-examples/adyen-node-online-payments](./adyen-examples-adyen-node-online-payments.md) | ⭐ 67 | JavaScript | 42/100 |
-| 480 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
-| 481 | [okx/onchainos-skills](./okx-onchainos-skills.md) | ⭐ 234 | Rust | 42/100 |
-| 482 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 139 | Rust | 42/100 |
-| 483 | [blueshift-gg/quasar](./blueshift-gg-quasar.md) | ⭐ 140 | Rust | 42/100 |
-| 484 | [iotaledger/iota](./iotaledger-iota.md) | ⭐ 101 | Rust | 42/100 |
-| 485 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 110 | Rust | 41/100 |
-| 486 | [RustCrypto/formats](./rustcrypto-formats.md) | ⭐ 319 | Rust | 41/100 |
-| 487 | [Blockstream/lwk](./blockstream-lwk.md) | ⭐ 106 | Rust | 41/100 |
-| 488 | [Scottcjn/bounty-concierge](./scottcjn-bounty-concierge.md) | ⭐ 57 | Python | 41/100 |
-| 489 | [EuniAI/awesome-code-agents](./euniai-awesome-code-agents.md) | ⭐ 99 | Python | 41/100 |
-| 490 | [chenhg5/agencycli](./chenhg5-agencycli.md) | ⭐ 87 | Go | 41/100 |
-| 491 | [wilpel/caveman-compression](./wilpel-caveman-compression.md) | ⭐ 874 | Python | 41/100 |
-| 492 | [s00d/switchshuttle](./s00d-switchshuttle.md) | ⭐ 120 | Rust | 41/100 |
-| 493 | [lamports-dev/richat](./lamports-dev-richat.md) | ⭐ 132 | Rust | 41/100 |
-| 494 | [Scottcjn/iota-agent-mcp](./scottcjn-iota-agent-mcp.md) | ⭐ 39 | JavaScript | 40/100 |
-| 495 | [gcash/bchd](./gcash-bchd.md) | ⭐ 292 | Go | 40/100 |
-| 496 | [Pathos0925/SatoshiGuesser](./pathos0925-satoshiguesser.md) | ⭐ 144 | JavaScript | 40/100 |
-| 497 | [RustCrypto/crypto-bigint](./rustcrypto-crypto-bigint.md) | ⭐ 296 | Rust | 39/100 |
-| 498 | [zmap/zcrypto](./zmap-zcrypto.md) | ⭐ 154 | Go | 39/100 |
-| 499 | [smallstep/crypto](./smallstep-crypto.md) | ⭐ 103 | Go | 37/100 |
-| 500 | [arbales/sequel-privacy](./arbales-sequel-privacy.md) | ⭐ 2 | Ruby | 36/100 |
-| 501 | [vekuz/durcoin](./vekuz-durcoin.md) | ⭐ 1 | PHP | 36/100 |
-| 502 | [onyks-os/TransparentTorProxy](./onyks-os-transparenttorproxy.md) | ⭐ 4 | Python | 36/100 |
-| 503 | [srijansk/agent-relay](./srijansk-agent-relay.md) | ⭐ 4 | Python | 36/100 |
-| 504 | [0x-devc/NOVAI-node](./0x-devc-novai-node.md) | ⭐ 4 | Rust | 32/100 |
+| 475 | [cosmos/solidity-ibc-eureka](./cosmos-solidity-ibc-eureka.md) | ⭐ 101 | Rust | 42/100 |
+| 476 | [provenance-io/provenance](./provenance-io-provenance.md) | ⭐ 115 | Go | 42/100 |
+| 477 | [MinBZK/nl-wallet](./minbzk-nl-wallet.md) | ⭐ 215 | Rust | 42/100 |
+| 478 | [logos-blockchain/logos-blockchain](./logos-blockchain-logos-blockchain.md) | ⭐ 125 | Rust | 42/100 |
+| 479 | [richkuo/go-trader](./richkuo-go-trader.md) | ⭐ 202 | Go | 42/100 |
+| 480 | [adyen-examples/adyen-node-online-payments](./adyen-examples-adyen-node-online-payments.md) | ⭐ 67 | JavaScript | 42/100 |
+| 481 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
+| 482 | [okx/onchainos-skills](./okx-onchainos-skills.md) | ⭐ 234 | Rust | 42/100 |
+| 483 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 139 | Rust | 42/100 |
+| 484 | [blueshift-gg/quasar](./blueshift-gg-quasar.md) | ⭐ 140 | Rust | 42/100 |
+| 485 | [iotaledger/iota](./iotaledger-iota.md) | ⭐ 101 | Rust | 42/100 |
+| 486 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 110 | Rust | 41/100 |
+| 487 | [RustCrypto/formats](./rustcrypto-formats.md) | ⭐ 319 | Rust | 41/100 |
+| 488 | [Blockstream/lwk](./blockstream-lwk.md) | ⭐ 106 | Rust | 41/100 |
+| 489 | [Scottcjn/bounty-concierge](./scottcjn-bounty-concierge.md) | ⭐ 57 | Python | 41/100 |
+| 490 | [EuniAI/awesome-code-agents](./euniai-awesome-code-agents.md) | ⭐ 99 | Python | 41/100 |
+| 491 | [chenhg5/agencycli](./chenhg5-agencycli.md) | ⭐ 87 | Go | 41/100 |
+| 492 | [wilpel/caveman-compression](./wilpel-caveman-compression.md) | ⭐ 874 | Python | 41/100 |
+| 493 | [s00d/switchshuttle](./s00d-switchshuttle.md) | ⭐ 120 | Rust | 41/100 |
+| 494 | [lamports-dev/richat](./lamports-dev-richat.md) | ⭐ 132 | Rust | 41/100 |
+| 495 | [Scottcjn/iota-agent-mcp](./scottcjn-iota-agent-mcp.md) | ⭐ 39 | JavaScript | 40/100 |
+| 496 | [gcash/bchd](./gcash-bchd.md) | ⭐ 292 | Go | 40/100 |
+| 497 | [Pathos0925/SatoshiGuesser](./pathos0925-satoshiguesser.md) | ⭐ 144 | JavaScript | 40/100 |
+| 498 | [RustCrypto/crypto-bigint](./rustcrypto-crypto-bigint.md) | ⭐ 296 | Rust | 39/100 |
+| 499 | [zmap/zcrypto](./zmap-zcrypto.md) | ⭐ 154 | Go | 39/100 |
+| 500 | [smallstep/crypto](./smallstep-crypto.md) | ⭐ 103 | Go | 37/100 |
+| 501 | [arbales/sequel-privacy](./arbales-sequel-privacy.md) | ⭐ 2 | Ruby | 36/100 |
+| 502 | [vekuz/durcoin](./vekuz-durcoin.md) | ⭐ 1 | PHP | 36/100 |
+| 503 | [onyks-os/TransparentTorProxy](./onyks-os-transparenttorproxy.md) | ⭐ 4 | Python | 36/100 |
+| 504 | [srijansk/agent-relay](./srijansk-agent-relay.md) | ⭐ 4 | Python | 36/100 |
+| 505 | [0x-devc/NOVAI-node](./0x-devc-novai-node.md) | ⭐ 4 | Rust | 32/100 |
 
 ---
 

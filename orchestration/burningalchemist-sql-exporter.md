@@ -25,7 +25,7 @@ Orchestration · DevTools · Data
 
 ## 📝 Summary
 
-The burningalchemist/sql_exporter is an open-source project that enables database-agnostic SQL metrics export to Prometheus. This exporter allows users to monitor database performance and query efficiency across various database systems, providing valuable insights for system optimization and improvement. By leveraging Prometheus' metrics collection capabilities, users can gain a comprehensive understanding of their database's behavior and make data-driven decisions.
+The burningalchemist/sql_exporter is an open-source, database-agnostic SQL exporter that enables monitoring of SQL queries and execution metrics for various databases in Prometheus. This tool provides a unified interface for collecting and exposing database performance data, allowing for better visibility and optimization of database operations. By integrating with Prometheus, users can leverage existing monitoring infrastructure to gain insights into their database performance.
 
 ---
 

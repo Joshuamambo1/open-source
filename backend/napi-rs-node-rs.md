@@ -25,7 +25,9 @@ Backend · DevTools
 
 ## 📝 Summary
 
-napi-rs/node-rs is an open-source project providing Node.js bindings for Rust crates, enabling seamless integration between the two programming languages. This project facilitates the creation of high-performance, secure, and efficient Node.js modules written in Rust. By bridging the gap between Node.js and Rust, developers can leverage the strengths of both ecosystems.
+Here's a brief summary for the napi-rs/node-rs project:
+
+The napi-rs/node-rs project provides high-quality, open-source Node.js bindings for Rust crates, enabling seamless integration between the JavaScript and Rust ecosystems. This project facilitates the creation of fast, efficient, and cross-platform Node.js modules using Rust's performance-oriented and safe-by-design design principles. By bridging the gap between Node.js and Rust, napi-rs/node-rs empowers developers to leverage the strengths of both worlds in their projects.
 
 ---
 

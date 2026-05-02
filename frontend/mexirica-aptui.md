@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The mexirica/aptui project is an open-source, text-based user interface (TUI) package manager designed for APT-based Linux distributions. This package manager provides a user-friendly, command-line interface for managing software packages, making it easier for users to install, update, and remove packages. By leveraging the existing power of APT, aptui streamlines package management for a more efficient and streamlined user experience.
+The mexirica/aptui project is an open-source, text-based user interface (TUI) package manager designed specifically for APT-based Linux distributions. It allows users to manage packages and dependencies in a user-friendly, command-line interface, streamlining the process of installing, updating, and removing software. With aptui, users can efficiently interact with their system's package manager without needing to use the command line or a graphical interface.
 
 ---
 

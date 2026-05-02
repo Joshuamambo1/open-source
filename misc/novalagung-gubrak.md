@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the novalagung/gubrak project:
-
-Gubrak is an open-source, Go library that provides functional utilities with a focus on syntactic sugar. Inspired by popular libraries like Lodash, it aims to simplify coding in Go by offering a range of useful functions for everyday tasks. By leveraging Gubrak, developers can write more concise and expressive code.
+Gubrak is an open-source, Go-based utility library that provides functional programming features with syntactic sugar, mirroring the functionality of popular libraries like Lodash but tailored for the Go ecosystem. This library aims to simplify complex operations and improve code readability by offering a set of useful functions and methods. It enables developers to write more concise and efficient Go code.
 
 ---
 

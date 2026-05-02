@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-TheBigRoomXXL/tinyfeed is an open-source project that enables users to generate a webpage from a collection of feeds using a simple command-line interface (CLI) tool. This project allows developers to easily aggregate and visualize feed data, making it a useful tool for web development and data visualization tasks. By utilizing the tinyfeed CLI, users can quickly create a webpage showcasing their feed data.
+TheBigRoomXXL/tinyfeed is an open-source project that enables users to generate a webpage from a collection of feeds using a simple command-line interface (CLI) tool. This project streamlines the process of aggregating and displaying feed content, making it an ideal solution for developers and content curators alike. With tinyfeed, users can quickly create a dynamic webpage showcasing their feeds in a user-friendly format.
 
 ---
 

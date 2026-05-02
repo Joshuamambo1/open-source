@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The BOSH CLI is an open-source command-line interface for interacting with BOSH, a tool for deploying and managing large-scale distributed systems. This project provides a user-friendly interface for users to manage BOSH deployments, including creating, updating, and deleting environments, as well as monitoring and troubleshooting issues. With the BOSH CLI, sysadmins and developers can efficiently manage their cloud infrastructure.
+The BOSH CLI is an open-source command-line interface for managing BOSH, a deployment and management tool for cloud platforms. It provides a flexible and efficient way to interact with BOSH, allowing users to deploy, manage, and monitor their cloud resources. With the BOSH CLI, developers and operators can automate and streamline their cloud infrastructure management tasks.
 
 ---
 

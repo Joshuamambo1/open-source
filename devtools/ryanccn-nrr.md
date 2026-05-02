@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The ryanccn/nrr project is an open-source, lightweight tool designed to efficiently manage npm scripts, providing a fast and streamlined experience for developers. This minimalistic scripts runner is optimized for performance, allowing users to execute tasks with ease and speed. By leveraging nrr, developers can simplify their workflows and boost productivity.
+The ryanccn/nrr project is an open-source, lightweight npm scripts runner designed for high-performance execution. This minimal tool quickly runs npm scripts, streamlining development workflows and saving time for developers. By leveraging its speed and simplicity, nrr offers a seamless experience for managing and executing npm scripts.
 
 ---
 

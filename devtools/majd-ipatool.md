@@ -25,7 +25,7 @@ DevTools · Mobile · Security
 
 ## 📝 Summary
 
-The majd/ipatool is an open-source, command-line utility designed to facilitate the search and download of iOS App Store packages, known as ipa files. This tool enables users to easily retrieve app packages, making it a valuable resource for developers, researchers, and security professionals. With ipatool, users can efficiently access and analyze iOS apps without the need for manual browsing or additional software.
+The majd/ipatool project is an open-source command-line tool that enables users to search and download iOS app packages (IPA files) directly from the App Store. This tool can be useful for developers, security researchers, and individuals looking to download and analyze iOS apps without the need for a physical device. It facilitates efficient and convenient access to App Store contents.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**896 projects** in this category.
+**897 projects** in this category.
 
 ## Projects
 
@@ -880,30 +880,31 @@
 | 870 | [jtsylve/ida-mcp](./jtsylve-ida-mcp.md) | ⭐ 55 | Python | 40/100 |
 | 871 | [zhensherlock/sp500-mcp-server](./zhensherlock-sp500-mcp-server.md) | ⭐ 56 | TypeScript | 40/100 |
 | 872 | [PublicDotCom/publicdotcom-mcp-server](./publicdotcom-publicdotcom-mcp-server.md) | ⭐ 58 | Python | 40/100 |
-| 873 | [nyaruka/courier](./nyaruka-courier.md) | ⭐ 122 | Go | 39/100 |
-| 874 | [ScalableCapital/scalable-cli](./scalablecapital-scalable-cli.md) | ⭐ 205 | Rust | 39/100 |
-| 875 | [cr7258/elasticsearch-mcp-server](./cr7258-elasticsearch-mcp-server.md) | ⭐ 270 | Python | 39/100 |
-| 876 | [q191201771/lalmax](./q191201771-lalmax.md) | ⭐ 158 | Go | 38/100 |
-| 877 | [microsoft/fabric-rti-mcp](./microsoft-fabric-rti-mcp.md) | ⭐ 113 | Python | 38/100 |
-| 878 | [marianfoo/abap-mcp-server](./marianfoo-abap-mcp-server.md) | ⭐ 68 | TypeScript | 37/100 |
-| 879 | [Qihoo360/TinyMCP](./qihoo360-tinymcp.md) | ⭐ 95 | C++ | 37/100 |
-| 880 | [team-telnyx/telnyx-cli](./team-telnyx-telnyx-cli.md) | ⭐ 125 | Go | 37/100 |
-| 881 | [serverless-dna/tendril](./serverless-dna-tendril.md) | ⭐ 166 | TypeScript | 37/100 |
-| 882 | [Laksh-star/mcp-server-tmdb](./laksh-star-mcp-server-tmdb.md) | ⭐ 70 | JavaScript | 37/100 |
-| 883 | [dependabot/proxy](./dependabot-proxy.md) | ⭐ 126 | Go | 37/100 |
-| 884 | [djayatillake/studybible-mcp](./djayatillake-studybible-mcp.md) | ⭐ 43 | Python | 36/100 |
-| 885 | [weirdmachine64/SharkMCP](./weirdmachine64-sharkmcp.md) | ⭐ 21 | Python | 36/100 |
-| 886 | [pawelb0/matrirc](./pawelb0-matrirc.md) | ⭐ 7 | Rust | 36/100 |
-| 887 | [Megapixel99/capture-the-flag](./megapixel99-capture-the-flag.md) | ⭐ 2 | — | 36/100 |
-| 888 | [JoeCardoso13/brush-up-backend](./joecardoso13-brush-up-backend.md) | ⭐ 2 | Python | 36/100 |
-| 889 | [KLOUCEO/klou-verify](./klouceo-klou-verify.md) | ⭐ 2 | — | 36/100 |
-| 890 | [woodyst/rockchip-vaapi](./woodyst-rockchip-vaapi.md) | ⭐ 21 | C | 36/100 |
-| 891 | [proxylity/raptor](./proxylity-raptor.md) | ⭐ 4 | C# | 36/100 |
-| 892 | [useknockout/api](./useknockout-api.md) | ⭐ 31 | Python | 36/100 |
-| 893 | [vkolev/timmygram-server](./vkolev-timmygram-server.md) | ⭐ 3 | Go | 36/100 |
-| 894 | [sasanamari/busy_therapists](./sasanamari-busy-therapists.md) | ⭐ 1 | Python | 32/100 |
-| 895 | [gdsoumya/protomcp](./gdsoumya-protomcp.md) | ⭐ 3 | Go | 32/100 |
-| 896 | [prixe-api/politicians](./prixe-api-politicians.md) | ⭐ 7 | JavaScript | 32/100 |
+| 873 | [hexxla/mcp-ratchet](./hexxla-mcp-ratchet.md) | ⭐ — | — | 39/100 |
+| 874 | [nyaruka/courier](./nyaruka-courier.md) | ⭐ 122 | Go | 39/100 |
+| 875 | [ScalableCapital/scalable-cli](./scalablecapital-scalable-cli.md) | ⭐ 205 | Rust | 39/100 |
+| 876 | [cr7258/elasticsearch-mcp-server](./cr7258-elasticsearch-mcp-server.md) | ⭐ 270 | Python | 39/100 |
+| 877 | [q191201771/lalmax](./q191201771-lalmax.md) | ⭐ 158 | Go | 38/100 |
+| 878 | [microsoft/fabric-rti-mcp](./microsoft-fabric-rti-mcp.md) | ⭐ 113 | Python | 38/100 |
+| 879 | [marianfoo/abap-mcp-server](./marianfoo-abap-mcp-server.md) | ⭐ 68 | TypeScript | 37/100 |
+| 880 | [Qihoo360/TinyMCP](./qihoo360-tinymcp.md) | ⭐ 95 | C++ | 37/100 |
+| 881 | [team-telnyx/telnyx-cli](./team-telnyx-telnyx-cli.md) | ⭐ 125 | Go | 37/100 |
+| 882 | [serverless-dna/tendril](./serverless-dna-tendril.md) | ⭐ 166 | TypeScript | 37/100 |
+| 883 | [Laksh-star/mcp-server-tmdb](./laksh-star-mcp-server-tmdb.md) | ⭐ 70 | JavaScript | 37/100 |
+| 884 | [dependabot/proxy](./dependabot-proxy.md) | ⭐ 126 | Go | 37/100 |
+| 885 | [djayatillake/studybible-mcp](./djayatillake-studybible-mcp.md) | ⭐ 43 | Python | 36/100 |
+| 886 | [weirdmachine64/SharkMCP](./weirdmachine64-sharkmcp.md) | ⭐ 21 | Python | 36/100 |
+| 887 | [pawelb0/matrirc](./pawelb0-matrirc.md) | ⭐ 7 | Rust | 36/100 |
+| 888 | [Megapixel99/capture-the-flag](./megapixel99-capture-the-flag.md) | ⭐ 2 | — | 36/100 |
+| 889 | [JoeCardoso13/brush-up-backend](./joecardoso13-brush-up-backend.md) | ⭐ 2 | Python | 36/100 |
+| 890 | [KLOUCEO/klou-verify](./klouceo-klou-verify.md) | ⭐ 2 | — | 36/100 |
+| 891 | [woodyst/rockchip-vaapi](./woodyst-rockchip-vaapi.md) | ⭐ 21 | C | 36/100 |
+| 892 | [proxylity/raptor](./proxylity-raptor.md) | ⭐ 4 | C# | 36/100 |
+| 893 | [useknockout/api](./useknockout-api.md) | ⭐ 31 | Python | 36/100 |
+| 894 | [vkolev/timmygram-server](./vkolev-timmygram-server.md) | ⭐ 3 | Go | 36/100 |
+| 895 | [sasanamari/busy_therapists](./sasanamari-busy-therapists.md) | ⭐ 1 | Python | 32/100 |
+| 896 | [gdsoumya/protomcp](./gdsoumya-protomcp.md) | ⭐ 3 | Go | 32/100 |
+| 897 | [prixe-api/politicians](./prixe-api-politicians.md) | ⭐ 7 | JavaScript | 32/100 |
 
 ---
 

@@ -39,8 +39,8 @@
 | 29 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 602 | PHP | 50/100 |
 | 30 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 50/100 |
 | 31 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 50/100 |
-| 32 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 305 | Go | 49/100 |
-| 33 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 453 | JavaScript | 49/100 |
+| 32 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 453 | JavaScript | 49/100 |
+| 33 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 305 | Go | 49/100 |
 | 34 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
 | 35 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
 | 36 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |

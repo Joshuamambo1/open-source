@@ -1,6 +1,6 @@
 # firefart/stunner
 
-[![Stars](https://img.shields.io/github/stars/firefart/stunner?style=flat-square&color=yellow)](https://github.com/firefart/stunner/stargazers) [![Forks](https://img.shields.io/github/forks/firefart/stunner?style=flat-square&color=blue)](https://github.com/firefart/stunner/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firefart/stunner?style=flat-square&color=yellow)](https://github.com/firefart/stunner/stargazers) [![Forks](https://img.shields.io/github/forks/firefart/stunner?style=flat-square&color=blue)](https://github.com/firefart/stunner/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 846 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

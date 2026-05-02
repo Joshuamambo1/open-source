@@ -1,6 +1,6 @@
 # AnswerDotAI/fastprogress
 
-[![Stars](https://img.shields.io/github/stars/AnswerDotAI/fastprogress?style=flat-square&color=yellow)](https://github.com/AnswerDotAI/fastprogress/stargazers) [![Forks](https://img.shields.io/github/forks/AnswerDotAI/fastprogress?style=flat-square&color=blue)](https://github.com/AnswerDotAI/fastprogress/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnswerDotAI/fastprogress?style=flat-square&color=yellow)](https://github.com/AnswerDotAI/fastprogress/stargazers) [![Forks](https://img.shields.io/github/forks/AnswerDotAI/fastprogress?style=flat-square&color=blue)](https://github.com/AnswerDotAI/fastprogress/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Simple and flexible progress bar for Jupyter Notebook and console
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

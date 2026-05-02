@@ -1,6 +1,6 @@
 # onnx/turnkeyml
 
-[![Stars](https://img.shields.io/github/stars/onnx/turnkeyml?style=flat-square&color=yellow)](https://github.com/onnx/turnkeyml/stargazers) [![Forks](https://img.shields.io/github/forks/onnx/turnkeyml?style=flat-square&color=blue)](https://github.com/onnx/turnkeyml/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onnx/turnkeyml?style=flat-square&color=yellow)](https://github.com/onnx/turnkeyml/stargazers) [![Forks](https://img.shields.io/github/forks/onnx/turnkeyml?style=flat-square&color=blue)](https://github.com/onnx/turnkeyml/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > No-code CLI designed for accelerating ONNX workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 237 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

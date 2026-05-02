@@ -1,6 +1,6 @@
 # googlicius/obsidian-steward
 
-[![Stars](https://img.shields.io/github/stars/googlicius/obsidian-steward?style=flat-square&color=yellow)](https://github.com/googlicius/obsidian-steward/stargazers) [![Forks](https://img.shields.io/github/forks/googlicius/obsidian-steward?style=flat-square&color=blue)](https://github.com/googlicius/obsidian-steward/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googlicius/obsidian-steward?style=flat-square&color=yellow)](https://github.com/googlicius/obsidian-steward/stargazers) [![Forks](https://img.shields.io/github/forks/googlicius/obsidian-steward?style=flat-square&color=blue)](https://github.com/googlicius/obsidian-steward/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A vault-specific agent equipped with agentic capacity, fast search, flexible commands, vault management, and terminals to "jump" into other CLI agents, such as Claude, Gemini, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

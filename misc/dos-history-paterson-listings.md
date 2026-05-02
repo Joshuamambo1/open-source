@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 575 |
-| 🍴 **Forks** | 62 |
+| ⭐ **Stars** | 605 |
+| 🍴 **Forks** | 66 |
 | 💻 **Language** | Assembly |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |

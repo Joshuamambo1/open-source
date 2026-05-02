@@ -1,6 +1,6 @@
 # mistralai/mistral-vibe
 
-[![Stars](https://img.shields.io/github/stars/mistralai/mistral-vibe?style=flat-square&color=yellow)](https://github.com/mistralai/mistral-vibe/stargazers) [![Forks](https://img.shields.io/github/forks/mistralai/mistral-vibe?style=flat-square&color=blue)](https://github.com/mistralai/mistral-vibe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mistralai/mistral-vibe?style=flat-square&color=yellow)](https://github.com/mistralai/mistral-vibe/stargazers) [![Forks](https://img.shields.io/github/forks/mistralai/mistral-vibe?style=flat-square&color=blue)](https://github.com/mistralai/mistral-vibe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal CLI coding agent by Mistral
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.1k |
-| 🍴 **Forks** | 468 |
+| 🍴 **Forks** | 470 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

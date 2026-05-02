@@ -20,8 +20,8 @@
 | 10 | [deadsy/sdfx](./deadsy-sdfx.md) | ⭐ 613 | Go | 55/100 |
 | 11 | [nowork-studio/toprank](./nowork-studio-toprank.md) | ⭐ 1.6k | Python | 54/100 |
 | 12 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 517 | PHP | 54/100 |
-| 13 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 626 | C# | 53/100 |
-| 14 | [nil-go/konf](./nil-go-konf.md) | ⭐ 380 | Go | 53/100 |
+| 13 | [nil-go/konf](./nil-go-konf.md) | ⭐ 380 | Go | 53/100 |
+| 14 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 626 | C# | 53/100 |
 | 15 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 16 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 967 | TypeScript | 52/100 |
 | 17 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 136 | MDX | 51/100 |
@@ -33,7 +33,7 @@
 | 23 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 332 | Go | 43/100 |
 | 24 | [wdecoster/cramino](./wdecoster-cramino.md) | ⭐ 182 | Rust | 41/100 |
 | 25 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 3 | — | 36/100 |
-| 26 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 11 | Go | 36/100 |
+| 26 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 15 | Go | 36/100 |
 
 ---
 

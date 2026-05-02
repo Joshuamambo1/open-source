@@ -1,6 +1,6 @@
 # intel/ScalableVectorSearch
 
-[![Stars](https://img.shields.io/github/stars/intel/ScalableVectorSearch?style=flat-square&color=yellow)](https://github.com/intel/ScalableVectorSearch/stargazers) [![Forks](https://img.shields.io/github/forks/intel/ScalableVectorSearch?style=flat-square&color=blue)](https://github.com/intel/ScalableVectorSearch/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intel/ScalableVectorSearch?style=flat-square&color=yellow)](https://github.com/intel/ScalableVectorSearch/stargazers) [![Forks](https://img.shields.io/github/forks/intel/ScalableVectorSearch?style=flat-square&color=blue)](https://github.com/intel/ScalableVectorSearch/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 222 |
+| ⭐ **Stars** | 223 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

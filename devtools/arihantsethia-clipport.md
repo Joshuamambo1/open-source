@@ -1,17 +1,17 @@
 # arihantsethia/clipport
 
-[![Stars](https://img.shields.io/github/stars/arihantsethia/clipport?style=flat-square&color=yellow)](https://github.com/arihantsethia/clipport/stargazers) [![Forks](https://img.shields.io/github/forks/arihantsethia/clipport?style=flat-square&color=blue)](https://github.com/arihantsethia/clipport/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arihantsethia/clipport?style=flat-square&color=yellow)](https://github.com/arihantsethia/clipport/stargazers) [![Forks](https://img.shields.io/github/forks/arihantsethia/clipport?style=flat-square&color=blue)](https://github.com/arihantsethia/clipport/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Make iTerm paste work in remote shells, including clipboard image uploads over SSH.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-DevTools
+DevTools · Marketing
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # rolandpg/zettelforge
 
-[![Stars](https://img.shields.io/github/stars/rolandpg/zettelforge?style=flat-square&color=yellow)](https://github.com/rolandpg/zettelforge/stargazers) [![Forks](https://img.shields.io/github/forks/rolandpg/zettelforge?style=flat-square&color=blue)](https://github.com/rolandpg/zettelforge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rolandpg/zettelforge?style=flat-square&color=yellow)](https://github.com/rolandpg/zettelforge/stargazers) [![Forks](https://img.shields.io/github/forks/rolandpg/zettelforge?style=flat-square&color=blue)](https://github.com/rolandpg/zettelforge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic memory for CTI in Python — STIX knowledge graphs, threat-actor alias resolution, offline-first RAG, MCP server for Claude Code and LangChain agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # mcs-cli/mcs
 
-[![Stars](https://img.shields.io/github/stars/mcs-cli/mcs?style=flat-square&color=yellow)](https://github.com/mcs-cli/mcs/stargazers) [![Forks](https://img.shields.io/github/forks/mcs-cli/mcs?style=flat-square&color=blue)](https://github.com/mcs-cli/mcs/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mcs-cli/mcs?style=flat-square&color=yellow)](https://github.com/mcs-cli/mcs/stargazers) [![Forks](https://img.shields.io/github/forks/mcs-cli/mcs?style=flat-square&color=blue)](https://github.com/mcs-cli/mcs/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Managed Claude Stack - Reproducible AI infrastructure for Claude Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 88 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

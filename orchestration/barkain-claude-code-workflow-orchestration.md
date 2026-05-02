@@ -1,6 +1,6 @@
 # barkain/claude-code-workflow-orchestration
 
-[![Stars](https://img.shields.io/github/stars/barkain/claude-code-workflow-orchestration?style=flat-square&color=yellow)](https://github.com/barkain/claude-code-workflow-orchestration/stargazers) [![Forks](https://img.shields.io/github/forks/barkain/claude-code-workflow-orchestration?style=flat-square&color=blue)](https://github.com/barkain/claude-code-workflow-orchestration/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/barkain/claude-code-workflow-orchestration?style=flat-square&color=yellow)](https://github.com/barkain/claude-code-workflow-orchestration/stargazers) [![Forks](https://img.shields.io/github/forks/barkain/claude-code-workflow-orchestration?style=flat-square&color=blue)](https://github.com/barkain/claude-code-workflow-orchestration/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin for multi-step workflow orchestration — automatic task decomposition, parallel agent execution, and specialized agent delegation with native plan mode integration.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 53 |
+| ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

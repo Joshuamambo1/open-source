@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/jark006/JarkViewer?style=flat-square&color=yellow)](https://github.com/jark006/JarkViewer/stargazers) [![Forks](https://img.shields.io/github/forks/jark006/JarkViewer?style=flat-square&color=blue)](https://github.com/jark006/JarkViewer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
-> 一款简约且飞快的看图软件，支持 AVIF、HEIC、JPEG-XL 和 实况照片 等超多新兴图像格式！A simple and lightning-fast image viewer that supports a wide range of emerging image formats such as AVIF, HEIC, JPEG-XL, and Live Photos!
+> 一款简约且飞快的看图软件，支持 AVIF、HEIC、JPEG-XL 和 实况照片 等超多新兴图像格式！A minimalist and lightning-fast image viewer that supports a wide range of emerging image formats such as AVIF, HEIC, JPEG-XL, and Live Photos!
 
 ## 📊 Stats
 

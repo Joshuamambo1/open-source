@@ -1,6 +1,6 @@
 # awakenworks/awaken
 
-[![Stars](https://img.shields.io/github/stars/awakenworks/awaken?style=flat-square&color=yellow)](https://github.com/awakenworks/awaken/stargazers) [![Forks](https://img.shields.io/github/forks/awakenworks/awaken?style=flat-square&color=blue)](https://github.com/awakenworks/awaken/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awakenworks/awaken?style=flat-square&color=yellow)](https://github.com/awakenworks/awaken/stargazers) [![Forks](https://img.shields.io/github/forks/awakenworks/awaken?style=flat-square&color=blue)](https://github.com/awakenworks/awaken/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin extensibility.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

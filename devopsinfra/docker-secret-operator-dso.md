@@ -1,6 +1,6 @@
 # docker-secret-operator/dso
 
-[![Stars](https://img.shields.io/github/stars/docker-secret-operator/dso?style=flat-square&color=yellow)](https://github.com/docker-secret-operator/dso/stargazers) [![Forks](https://img.shields.io/github/forks/docker-secret-operator/dso?style=flat-square&color=blue)](https://github.com/docker-secret-operator/dso/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/docker-secret-operator/dso?style=flat-square&color=yellow)](https://github.com/docker-secret-operator/dso/stargazers) [![Forks](https://img.shields.io/github/forks/docker-secret-operator/dso?style=flat-square&color=blue)](https://github.com/docker-secret-operator/dso/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 34/100 |
+| 📈 **Score** | 30/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

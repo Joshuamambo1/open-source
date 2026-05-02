@@ -1,6 +1,6 @@
 # klemensgc/modular-context-obsidian-plugin
 
-[![Stars](https://img.shields.io/github/stars/klemensgc/modular-context-obsidian-plugin?style=flat-square&color=yellow)](https://github.com/klemensgc/modular-context-obsidian-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/klemensgc/modular-context-obsidian-plugin?style=flat-square&color=blue)](https://github.com/klemensgc/modular-context-obsidian-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/klemensgc/modular-context-obsidian-plugin?style=flat-square&color=yellow)](https://github.com/klemensgc/modular-context-obsidian-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/klemensgc/modular-context-obsidian-plugin?style=flat-square&color=blue)](https://github.com/klemensgc/modular-context-obsidian-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Modular Context | Karpathy LLM Knowledge Base + Gmail & G-Cal — multi-account MCP server for Claude Code, encrypted local-first
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,17 +1,17 @@
 # leox255/loopsy
 
-[![Stars](https://img.shields.io/github/stars/leox255/loopsy?style=flat-square&color=yellow)](https://github.com/leox255/loopsy/stargazers) [![Forks](https://img.shields.io/github/forks/leox255/loopsy?style=flat-square&color=blue)](https://github.com/leox255/loopsy/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leox255/loopsy?style=flat-square&color=yellow)](https://github.com/leox255/loopsy/stargazers) [![Forks](https://img.shields.io/github/forks/leox255/loopsy?style=flat-square&color=blue)](https://github.com/leox255/loopsy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Cross-machine AI agent communication, plus a mobile app to control any terminal on your machine.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 50 |
+| 🍴 **Forks** | 2 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

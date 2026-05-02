@@ -1,6 +1,6 @@
 # hatch3r/hatch3r
 
-[![Stars](https://img.shields.io/github/stars/hatch3r/hatch3r?style=flat-square&color=yellow)](https://github.com/hatch3r/hatch3r/stargazers) [![Forks](https://img.shields.io/github/forks/hatch3r/hatch3r?style=flat-square&color=blue)](https://github.com/hatch3r/hatch3r/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hatch3r/hatch3r?style=flat-square&color=yellow)](https://github.com/hatch3r/hatch3r/stargazers) [![Forks](https://img.shields.io/github/forks/hatch3r/hatch3r?style=flat-square&color=blue)](https://github.com/hatch3r/hatch3r/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready spec driven development setup for AI coding agents in any repo with one command. Pre-configured with 11 agents, 22 skills, 18 rules, 25 commands & MCP integrations for Cursor, GitHub Copilot, Claude Code, Windsurf, Amp, Codex, Gemini CLI, Cline & OpenCode.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

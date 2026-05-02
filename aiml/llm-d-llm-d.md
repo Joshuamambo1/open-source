@@ -1,6 +1,6 @@
 # llm-d/llm-d
 
-[![Stars](https://img.shields.io/github/stars/llm-d/llm-d?style=flat-square&color=yellow)](https://github.com/llm-d/llm-d/stargazers) [![Forks](https://img.shields.io/github/forks/llm-d/llm-d?style=flat-square&color=blue)](https://github.com/llm-d/llm-d/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llm-d/llm-d?style=flat-square&color=yellow)](https://github.com/llm-d/llm-d/stargazers) [![Forks](https://img.shields.io/github/forks/llm-d/llm-d?style=flat-square&color=blue)](https://github.com/llm-d/llm-d/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Achieve state of the art inference performance with modern accelerators on Kubernetes
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 446 |
+| 🍴 **Forks** | 450 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

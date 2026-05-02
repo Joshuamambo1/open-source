@@ -1,6 +1,6 @@
 # beaugunderson/ip-address
 
-[![Stars](https://img.shields.io/github/stars/beaugunderson/ip-address?style=flat-square&color=yellow)](https://github.com/beaugunderson/ip-address/stargazers) [![Forks](https://img.shields.io/github/forks/beaugunderson/ip-address?style=flat-square&color=blue)](https://github.com/beaugunderson/ip-address/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beaugunderson/ip-address?style=flat-square&color=yellow)](https://github.com/beaugunderson/ip-address/stargazers) [![Forks](https://img.shields.io/github/forks/beaugunderson/ip-address?style=flat-square&color=blue)](https://github.com/beaugunderson/ip-address/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 💻 a library for parsing and manipulating IPv4 and IPv6 addresses in JavaScript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 606 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/aaddrick/claude-desktop-debian?style=flat-square&color=yellow)](https://github.com/aaddrick/claude-desktop-debian/stargazers) [![Forks](https://img.shields.io/github/forks/aaddrick/claude-desktop-debian?style=flat-square&color=blue)](https://github.com/aaddrick/claude-desktop-debian/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
-> Claude Desktop for Debian-based Linux distributions
+> Claude Desktop for Linux
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 3.9k |
-| 🍴 **Forks** | 408 |
+| 🍴 **Forks** | 409 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |

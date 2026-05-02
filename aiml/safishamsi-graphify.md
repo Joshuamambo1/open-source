@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/safishamsi/graphify?style=flat-square&color=yellow)](https://github.com/safishamsi/graphify/stargazers) [![Forks](https://img.shields.io/github/forks/safishamsi/graphify?style=flat-square&color=blue)](https://github.com/safishamsi/graphify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+> AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 39.5k |
+| ⭐ **Stars** | 39.7k |
 | 🍴 **Forks** | 4.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |

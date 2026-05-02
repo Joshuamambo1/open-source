@@ -1,6 +1,6 @@
 # PowerShell/DSC
 
-[![Stars](https://img.shields.io/github/stars/PowerShell/DSC?style=flat-square&color=yellow)](https://github.com/PowerShell/DSC/stargazers) [![Forks](https://img.shields.io/github/forks/PowerShell/DSC?style=flat-square&color=blue)](https://github.com/PowerShell/DSC/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PowerShell/DSC?style=flat-square&color=yellow)](https://github.com/PowerShell/DSC/stargazers) [![Forks](https://img.shields.io/github/forks/PowerShell/DSC?style=flat-square&color=blue)](https://github.com/PowerShell/DSC/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > This repo is for the DSC v3 project
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 461 |
+| ⭐ **Stars** | 464 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

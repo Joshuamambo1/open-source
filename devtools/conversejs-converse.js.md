@@ -1,6 +1,6 @@
 # conversejs/converse.js
 
-[![Stars](https://img.shields.io/github/stars/conversejs/converse.js?style=flat-square&color=yellow)](https://github.com/conversejs/converse.js/stargazers) [![Forks](https://img.shields.io/github/forks/conversejs/converse.js?style=flat-square&color=blue)](https://github.com/conversejs/converse.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/conversejs/converse.js?style=flat-square&color=yellow)](https://github.com/conversejs/converse.js/stargazers) [![Forks](https://img.shields.io/github/forks/conversejs/converse.js?style=flat-square&color=blue)](https://github.com/conversejs/converse.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Web-based XMPP/Jabber chat written in JavaScript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 819 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

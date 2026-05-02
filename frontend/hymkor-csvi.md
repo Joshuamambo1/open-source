@@ -1,6 +1,6 @@
 # hymkor/csvi
 
-[![Stars](https://img.shields.io/github/stars/hymkor/csvi?style=flat-square&color=yellow)](https://github.com/hymkor/csvi/stargazers) [![Forks](https://img.shields.io/github/forks/hymkor/csvi?style=flat-square&color=blue)](https://github.com/hymkor/csvi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hymkor/csvi?style=flat-square&color=yellow)](https://github.com/hymkor/csvi/stargazers) [![Forks](https://img.shields.io/github/forks/hymkor/csvi?style=flat-square&color=blue)](https://github.com/hymkor/csvi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Csvi - A terminal CSV editor
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 179 |
+| ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

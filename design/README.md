@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**50 projects** in this category.
+**51 projects** in this category.
 
 ## Projects
 
@@ -52,12 +52,13 @@
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
 | 43 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 45/100 |
 | 44 | [nats-io/nats-architecture-and-design](./nats-io-nats-architecture-and-design.md) | ⭐ 398 | Go | 44/100 |
-| 45 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 141 | Rust | 43/100 |
-| 46 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 410 | TypeScript | 43/100 |
-| 47 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
-| 48 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 39/100 |
-| 49 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 39/100 |
-| 50 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
+| 45 | [oripa/oripa](./oripa-oripa.md) | ⭐ 309 | Java | 43/100 |
+| 46 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 141 | Rust | 43/100 |
+| 47 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 410 | TypeScript | 43/100 |
+| 48 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
+| 49 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 39/100 |
+| 50 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 39/100 |
+| 51 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
 
 ---
 

@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The ancv project is an open-source tool that allows users to render their JSON-formatted resumes or CVs in a visually appealing format suitable for both online display and terminal interfaces. This project enables users to create a clean and organized digital representation of their professional experience, skills, and education. By leveraging JSON input, ancv provides a flexible and easily customizable solution for showcasing personal and professional information.
+The open-source project "alexpovel/ancv" is a tool designed to render JSON resumes or CVs in a visually appealing format for both online and terminal displays. This project aims to simplify the process of showcasing one's professional profile in a modern and easily accessible manner. By leveraging JSON data, it enables users to easily customize and share their CVs across various platforms.
 
 ---
 

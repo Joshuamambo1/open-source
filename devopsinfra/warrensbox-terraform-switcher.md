@@ -25,9 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the warrensbox/terraform-switcher project:
-
-Terraform Switcher is an open-source command line tool that simplifies the process of switching between different versions of Terraform. With support for easy installation via Homebrew and other package managers, this tool helps users manage multiple Terraform versions on their local machines. This project is particularly useful for DevOps and infrastructure professionals who frequently work with different Terraform versions.
+Warrensbox/terraform-switcher is an open-source command line tool designed to simplify the process of switching between different versions of Terraform. This utility, installable via Homebrew and other methods, streamlines the management of multiple Terraform versions, making it a valuable asset for DevOps and infrastructure professionals. By using terraform-switcher, users can easily manage their Terraform configurations without the need to manually switch between versions.
 
 ---
 

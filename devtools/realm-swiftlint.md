@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Realm/SwiftLint is an open-source tool designed to enforce Swift coding standards and conventions, ensuring consistency and readability in Swift projects. This tool helps developers maintain a high level of code quality by analyzing code against a set of predefined rules and guidelines. By integrating SwiftLint into their development workflow, developers can write cleaner, more maintainable, and error-free code.
+Realm/SwiftLint is an open-source tool that helps enforce Swift coding style and conventions, ensuring consistency and quality in Swift development projects. It checks for common Swift programming mistakes and coding standards, providing a set of rules to follow for writing clean, maintainable, and efficient Swift code. By using SwiftLint, developers can improve code readability and reduce errors, making the development process more efficient and enjoyable.
 
 ---
 

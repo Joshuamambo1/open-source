@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The cpdown project is an open-source tool that enables users to easily copy webpage content and YouTube subtitles as clean markdown with a single click or keyboard shortcut. This DevTool simplifies content extraction and formatting, making it ideal for developers, writers, and researchers who frequently work with text data. By streamlining content capture, cpdown saves time and increases productivity.
+The cpdown project is an open-source tool that enables users to easily copy webpage content or YouTube subtitles as clean Markdown with just one click or a shortcut. This feature is particularly useful for developers and writers who need to quickly capture and format text from the web. By simplifying the process of copying and pasting text, cpdown streamlines content creation and saves time.
 
 ---
 

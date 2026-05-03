@@ -25,9 +25,9 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the sdaqo/anipy-cli project:
 
-anipy-cli is an open-source Python tool that allows users to watch and download anime from the terminal, providing a seamless and convenient experience. This command-line interface (CLI) is not only useful for individual anime enthusiasts but also serves as a functional API for developers to integrate into their applications. With anipy-cli, anime fans can easily access and enjoy their favorite shows from the comfort of their terminal.
+anipy-cli is an open-source, command-line tool written in Python that allows users to watch and download anime directly from their terminal. This versatile tool also serves as an API, providing developers with a flexible way to integrate anime content into their applications. With anipy-cli, anime enthusiasts can now enjoy their favorite shows in a more convenient and accessible way.
 
 ---
 

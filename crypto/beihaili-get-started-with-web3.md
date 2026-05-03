@@ -25,7 +25,9 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-This open-source project, "Get-Started-with-Web3," aims to provide an intuitive and beginner-friendly guide for individuals new to Web3 development. It aggregates high-quality open-source resources from the community, offering a structured learning path from the basics to advanced Web3 concepts. With new content added every week, this project helps new users navigate the world of Web3.
+Here's a brief summary of the open-source project in 2-3 sentences:
+
+Get-Started-with-Web3 is an open-source tutorial series designed to help beginners navigate the world of Web3 with ease. By aggregating high-quality resources from the open-source community, this project aims to guide individuals from entry-level to advanced Web3 knowledge, making it a valuable resource for those interested in crypto and AI/ML. New content is added every week to keep the learning journey up-to-date and engaging.
 
 ---
 

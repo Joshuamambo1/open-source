@@ -25,9 +25,9 @@ Crypto · AI/ML · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the open-source project:
 
-This project, "awesome-game-security," is an open-source collection of resources and knowledge related to game security. It covers a range of topics, including cryptography and AI/ML, and aims to provide a comprehensive guide for game developers and security professionals. By contributing to and utilizing this project, individuals can stay up-to-date on the latest game security best practices and techniques.
+The Awesome Game Security project is a curated list of resources and knowledge on game security, encompassing cryptography, artificial intelligence, and machine learning. This open-source project aims to provide a comprehensive collection of information for developers to enhance the security of their games. By contributing to this project, users can help create a more secure gaming ecosystem.
 
 ---
 

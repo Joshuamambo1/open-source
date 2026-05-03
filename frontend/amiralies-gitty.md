@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-This open-source project provides a minimal text-based user interface (TUI) for reading Git diffs, enabling users to easily navigate and understand the changes made to their codebase. The TUI allows for a command-line based experience, making it accessible and convenient for developers who prefer this interface. By utilizing a TUI for Git diffs, users can simplify their workflow and improve their overall development experience.
+This open-source project presents a minimal text-based user interface (TUI) designed specifically for reading Git diffs. It allows users to navigate through the changes made in their Git repository in a compact and visually appealing way. By leveraging a command-line interface, it provides a unique solution for developers working with Git.
 
 ---
 

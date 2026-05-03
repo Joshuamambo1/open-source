@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**207 projects** in this category.
+**208 projects** in this category.
 
 ## Projects
 
@@ -186,35 +186,36 @@
 | 176 | [Kr0oked/Compass](./kr0oked-compass.md) | ⭐ 607 | Kotlin | 49/100 |
 | 177 | [ironfox-oss/IronFox](./ironfox-oss-ironfox.md) | ⭐ 757 | Shell | 49/100 |
 | 178 | [woocommerce/woocommerce-ios](./woocommerce-woocommerce-ios.md) | ⭐ 356 | Swift | 49/100 |
-| 179 | [MixinNetwork/flutter-plugins](./mixinnetwork-flutter-plugins.md) | ⭐ 506 | C | 48/100 |
-| 180 | [tomakino/lyricon](./tomakino-lyricon.md) | ⭐ 516 | Kotlin | 48/100 |
-| 181 | [3846masa/axios-cookiejar-support](./3846masa-axios-cookiejar-support.md) | ⭐ 333 | TypeScript | 48/100 |
-| 182 | [2dust/AndroidLibXrayLite](./2dust-androidlibxraylite.md) | ⭐ 428 | Go | 47/100 |
-| 183 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 774 | Swift | 47/100 |
-| 184 | [minh-ton/reynard-browser](./minh-ton-reynard-browser.md) | ⭐ 407 | Swift | 47/100 |
-| 185 | [BigheadSMZ/Zelda-LA-DX-HD-Updated](./bigheadsmz-zelda-la-dx-hd-updated.md) | ⭐ 732 | C# | 46/100 |
-| 186 | [endigo/flutter_pdfview](./endigo-flutter-pdfview.md) | ⭐ 304 | Dart | 46/100 |
-| 187 | [eerimoq/moblin](./eerimoq-moblin.md) | ⭐ 619 | Swift | 46/100 |
-| 188 | [EngineeringKiosk/GermanTechPodcasts](./engineeringkiosk-germantechpodcasts.md) | ⭐ 179 | Go | 46/100 |
-| 189 | [celestiamobile/AndroidCelestia](./celestiamobile-androidcelestia.md) | ⭐ 200 | Kotlin | 45/100 |
-| 190 | [meshtastic/rust](./meshtastic-rust.md) | ⭐ 132 | Rust | 45/100 |
-| 191 | [moffatman/chan](./moffatman-chan.md) | ⭐ 488 | Dart | 44/100 |
-| 192 | [herzbube/littlego](./herzbube-littlego.md) | ⭐ 152 | Objective-C | 44/100 |
-| 193 | [osmandapp/OsmAnd-iOS](./osmandapp-osmand-ios.md) | ⭐ 339 | Objective-C++ | 44/100 |
-| 194 | [grafana/grafana-kiosk](./grafana-grafana-kiosk.md) | ⭐ 474 | Go | 44/100 |
-| 195 | [forcedotcom/SalesforceMobileSDK-Android](./forcedotcom-salesforcemobilesdk-android.md) | ⭐ 358 | Java | 44/100 |
-| 196 | [NEORUAA/XHS_Downloader_Android](./neoruaa-xhs-downloader-android.md) | ⭐ 320 | Kotlin | 43/100 |
-| 197 | [TobiasBuchholz/Plugin.Firebase](./tobiasbuchholz-plugin.firebase.md) | ⭐ 302 | C# | 43/100 |
-| 198 | [FrankBarretta/LSFG-Android](./frankbarretta-lsfg-android.md) | ⭐ 334 | — | 43/100 |
-| 199 | [EmbarkStudios/crash-handling](./embarkstudios-crash-handling.md) | ⭐ 175 | Rust | 43/100 |
-| 200 | [rodydavis/flutter_piano](./rodydavis-flutter-piano.md) | ⭐ 429 | Dart | 41/100 |
-| 201 | [icepy/manong-weekly](./icepy-manong-weekly.md) | ⭐ 367 | Objective-C | 40/100 |
-| 202 | [Dart-Code/Flutter](./dart-code-flutter.md) | ⭐ 345 | JavaScript | 39/100 |
-| 203 | [OpenMOSS/MOSS-Audio](./openmoss-moss-audio.md) | ⭐ 408 | Python | 39/100 |
-| 204 | [cocoanetics/swiftbash](./cocoanetics-swiftbash.md) | ⭐ 21 | Swift | 36/100 |
-| 205 | [woct0rdho/mathstudio-apk-modernized](./woct0rdho-mathstudio-apk-modernized.md) | ⭐ 5 | Python | 36/100 |
-| 206 | [CodyBontecou/isome](./codybontecou-isome.md) | ⭐ 3 | Swift | 36/100 |
-| 207 | [Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground](./moses-code-dev-foodsecurity-difp-android-playground.md) | ⭐ 1 | Java | 30/100 |
+| 179 | [d4rken-org/octi](./d4rken-org-octi.md) | ⭐ 497 | Kotlin | 48/100 |
+| 180 | [MixinNetwork/flutter-plugins](./mixinnetwork-flutter-plugins.md) | ⭐ 506 | C | 48/100 |
+| 181 | [tomakino/lyricon](./tomakino-lyricon.md) | ⭐ 516 | Kotlin | 48/100 |
+| 182 | [3846masa/axios-cookiejar-support](./3846masa-axios-cookiejar-support.md) | ⭐ 333 | TypeScript | 48/100 |
+| 183 | [2dust/AndroidLibXrayLite](./2dust-androidlibxraylite.md) | ⭐ 428 | Go | 47/100 |
+| 184 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 774 | Swift | 47/100 |
+| 185 | [minh-ton/reynard-browser](./minh-ton-reynard-browser.md) | ⭐ 407 | Swift | 47/100 |
+| 186 | [BigheadSMZ/Zelda-LA-DX-HD-Updated](./bigheadsmz-zelda-la-dx-hd-updated.md) | ⭐ 732 | C# | 46/100 |
+| 187 | [endigo/flutter_pdfview](./endigo-flutter-pdfview.md) | ⭐ 304 | Dart | 46/100 |
+| 188 | [eerimoq/moblin](./eerimoq-moblin.md) | ⭐ 619 | Swift | 46/100 |
+| 189 | [EngineeringKiosk/GermanTechPodcasts](./engineeringkiosk-germantechpodcasts.md) | ⭐ 179 | Go | 46/100 |
+| 190 | [celestiamobile/AndroidCelestia](./celestiamobile-androidcelestia.md) | ⭐ 200 | Kotlin | 45/100 |
+| 191 | [meshtastic/rust](./meshtastic-rust.md) | ⭐ 132 | Rust | 45/100 |
+| 192 | [moffatman/chan](./moffatman-chan.md) | ⭐ 488 | Dart | 44/100 |
+| 193 | [herzbube/littlego](./herzbube-littlego.md) | ⭐ 152 | Objective-C | 44/100 |
+| 194 | [osmandapp/OsmAnd-iOS](./osmandapp-osmand-ios.md) | ⭐ 339 | Objective-C++ | 44/100 |
+| 195 | [grafana/grafana-kiosk](./grafana-grafana-kiosk.md) | ⭐ 474 | Go | 44/100 |
+| 196 | [forcedotcom/SalesforceMobileSDK-Android](./forcedotcom-salesforcemobilesdk-android.md) | ⭐ 358 | Java | 44/100 |
+| 197 | [NEORUAA/XHS_Downloader_Android](./neoruaa-xhs-downloader-android.md) | ⭐ 320 | Kotlin | 43/100 |
+| 198 | [TobiasBuchholz/Plugin.Firebase](./tobiasbuchholz-plugin.firebase.md) | ⭐ 302 | C# | 43/100 |
+| 199 | [FrankBarretta/LSFG-Android](./frankbarretta-lsfg-android.md) | ⭐ 334 | — | 43/100 |
+| 200 | [EmbarkStudios/crash-handling](./embarkstudios-crash-handling.md) | ⭐ 175 | Rust | 43/100 |
+| 201 | [rodydavis/flutter_piano](./rodydavis-flutter-piano.md) | ⭐ 429 | Dart | 41/100 |
+| 202 | [icepy/manong-weekly](./icepy-manong-weekly.md) | ⭐ 367 | Objective-C | 40/100 |
+| 203 | [Dart-Code/Flutter](./dart-code-flutter.md) | ⭐ 345 | JavaScript | 39/100 |
+| 204 | [OpenMOSS/MOSS-Audio](./openmoss-moss-audio.md) | ⭐ 408 | Python | 39/100 |
+| 205 | [cocoanetics/swiftbash](./cocoanetics-swiftbash.md) | ⭐ 21 | Swift | 36/100 |
+| 206 | [woct0rdho/mathstudio-apk-modernized](./woct0rdho-mathstudio-apk-modernized.md) | ⭐ 5 | Python | 36/100 |
+| 207 | [CodyBontecou/isome](./codybontecou-isome.md) | ⭐ 3 | Swift | 36/100 |
+| 208 | [Moses-Code-Dev/FoodSecurity-DIFP-Android-Playground](./moses-code-dev-foodsecurity-difp-android-playground.md) | ⭐ 1 | Java | 30/100 |
 
 ---
 

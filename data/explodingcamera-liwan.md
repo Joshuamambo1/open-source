@@ -25,9 +25,7 @@ Data
 
 ## 📝 Summary
 
-Here's a brief summary for the "liwan" project:
-
-"liwan is an open-source lightweight analytics project designed to provide efficient and scalable data analysis capabilities. It aims to simplify data processing and visualization, making complex analytics more accessible and user-friendly. With its focus on data analysis, liwan is a valuable tool for developers and data scientists looking to streamline their workflows."
+The liwan project is an open-source, lightweight analytics solution designed to provide efficient and scalable data analysis capabilities. Developed as part of the explodingcamera project, liwan aims to simplify data processing and visualization for various applications and industries. Its lightweight architecture makes it an ideal choice for resource-constrained environments and real-time data analysis scenarios.
 
 ---
 

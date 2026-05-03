@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The fjall-rs/lsm-tree project is an open-source implementation of the Log-Structured Merge (LSM) tree data structure in safe Rust, adhering to the K.I.S.S. (Keep it Simple, Stupid) principle. This LSM-tree is designed to provide efficient and safe storage for large amounts of data, making it suitable for applications in artificial intelligence and machine learning. By leveraging Rust's memory safety features, the project aims to simplify the development of high-performance data storage solutions.
+The fjall-rs/lsm-tree project is an open-source implementation of a Log-Structured Merge (LSM) tree in Rust. This K.I.S.S. (Keep it Simple, Stupid) design principle adheres to safe Rust programming, making it a reliable choice for applications. The project is suitable for use in the field of Artificial Intelligence (AI) and Machine Learning (ML), where efficient data storage and retrieval are crucial.
 
 ---
 

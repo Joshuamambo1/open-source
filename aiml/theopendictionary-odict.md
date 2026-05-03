@@ -25,9 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-TheOpenDictionary/odict is an open-source project that provides a fast and offline-first format and toolchain for lexical data, enabling seamless access to dictionaries and lexical resources. This project is ideal for AI/ML applications, frontend development, and data management, offering a robust solution for handling large-scale lexical data. By leveraging odict, developers can build efficient and scalable applications that require access to dictionaries and lexical resources.
+The OpenDictionary (odict) is an open-source project that provides a fast, offline-first format and toolchain for managing lexical data. This project enables efficient storage, querying, and manipulation of dictionaries, making it a valuable resource for AI/ML, frontend, and data applications. By leveraging odict, developers can build robust and scalable solutions for natural language processing and other linguistic tasks.
 
 ---
 

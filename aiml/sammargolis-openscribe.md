@@ -1,6 +1,6 @@
 # sammargolis/OpenScribe
 
-[![Stars](https://img.shields.io/github/stars/sammargolis/OpenScribe?style=flat-square&color=yellow)](https://github.com/sammargolis/OpenScribe/stargazers) [![Forks](https://img.shields.io/github/forks/sammargolis/OpenScribe?style=flat-square&color=blue)](https://github.com/sammargolis/OpenScribe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sammargolis/OpenScribe?style=flat-square&color=yellow)](https://github.com/sammargolis/OpenScribe/stargazers) [![Forks](https://img.shields.io/github/forks/sammargolis/OpenScribe?style=flat-square&color=blue)](https://github.com/sammargolis/OpenScribe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > OpenScribe is an open-source AI scribe that records patient encounters and generates structured clinical notes automatically. You keep full control over data, workflows, and patient privacy with no vendor lock-in.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 162 |
+| ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # baidu-baige/LoongForge
 
-[![Stars](https://img.shields.io/github/stars/baidu-baige/LoongForge?style=flat-square&color=yellow)](https://github.com/baidu-baige/LoongForge/stargazers) [![Forks](https://img.shields.io/github/forks/baidu-baige/LoongForge?style=flat-square&color=blue)](https://github.com/baidu-baige/LoongForge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/baidu-baige/LoongForge?style=flat-square&color=yellow)](https://github.com/baidu-baige/LoongForge/stargazers) [![Forks](https://img.shields.io/github/forks/baidu-baige/LoongForge?style=flat-square&color=blue)](https://github.com/baidu-baige/LoongForge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The otwcode/otwarchive project is an open-source initiative that supports the development and maintenance of the Archive Of Our Own (AO3), a fan-created and fan-curated digital archive of fanfiction. This collaborative effort is led by the Organization for Transformative Works (OTW) and aims to provide a community-driven platform for users to share and preserve their creative works. The project fosters a culture of inclusivity, accessibility, and free expression.
+The otwcode/otwarchive project is an open-source initiative by the Organization for Transformative Works (OTW) to support the Archive of Our Own (AO3), a fan-created digital archive of fanfiction, art, and other fan-generated content. This project allows the community to contribute to and improve the AO3 platform's codebase, promoting transparency and collaboration. By making the code open-source, the OTW aims to ensure the long-term sustainability and accessibility of the AO3 platform.
 
 ---
 

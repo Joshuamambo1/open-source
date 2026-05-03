@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Zen4-bit/Proxima project:
-
-Zen4-bit/Proxima is an open-source, multi-AI MCP (Multipurpose Control Panel) Server that enables seamless integration of popular AI models, including ChatGPT, Claude, Gemini, and Perplexity, into coding tools without relying on APIs. This project simplifies the process of leveraging these AI capabilities, making it easier for developers to incorporate them into their workflows. By providing a centralized interface, Zen4-bit/Proxima streamlines AI-powered development and enhances productivity.
+The Zen4-bit/Proxima project is an open-source, multi-AI server that allows developers to connect popular AI models such as ChatGPT, Claude, Gemini, and Perplexity to their coding tools, streamlining the AI integration process. This server eliminates the need for individual API connections, making it easier to leverage the capabilities of these AI models in various applications. By providing a unified interface, Zen4-bit/Proxima aims to simplify AI development and enhance productivity.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the smixs/visual-skills project:
-
-The visual-skills project provides a set of professional Claude skills for image and video prompting, offering seamless integration with various AI platforms and tools. This open-source project supports a range of hardware and software solutions, including the Nano Banana, GPT Image 2, Seedance 2.0, Kling 3.0, and Veo. By leveraging visual-skills, developers can unlock advanced capabilities for AI-driven image and video generation.
+The visual-skills project is an open-source initiative providing professional Claude Skills for AI image and video prompting. It supports a range of tools, including popular AI models and devices, ensuring seamless integration and enhanced functionality. This project empowers developers to unlock the full potential of AI-driven image and video creation.
 
 ---
 

@@ -1,6 +1,6 @@
 # hibuz/dev-conf-replay
 
-[![Stars](https://img.shields.io/github/stars/hibuz/dev-conf-replay?style=flat-square&color=yellow)](https://github.com/hibuz/dev-conf-replay/stargazers) [![Forks](https://img.shields.io/github/forks/hibuz/dev-conf-replay?style=flat-square&color=blue)](https://github.com/hibuz/dev-conf-replay/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hibuz/dev-conf-replay?style=flat-square&color=yellow)](https://github.com/hibuz/dev-conf-replay/stargazers) [![Forks](https://img.shields.io/github/forks/hibuz/dev-conf-replay?style=flat-square&color=blue)](https://github.com/hibuz/dev-conf-replay/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🍀 최근 국내 IT 세미나 및 개발자💻  컨퍼런스 영상의 다시 보기👀 링크를 한곳에 정리했습니다!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

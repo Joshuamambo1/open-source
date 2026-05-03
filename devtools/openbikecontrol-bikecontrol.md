@@ -1,6 +1,6 @@
 # OpenBikeControl/bikecontrol
 
-[![Stars](https://img.shields.io/github/stars/OpenBikeControl/bikecontrol?style=flat-square&color=yellow)](https://github.com/OpenBikeControl/bikecontrol/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBikeControl/bikecontrol?style=flat-square&color=blue)](https://github.com/OpenBikeControl/bikecontrol/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenBikeControl/bikecontrol?style=flat-square&color=yellow)](https://github.com/OpenBikeControl/bikecontrol/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBikeControl/bikecontrol?style=flat-square&color=blue)](https://github.com/OpenBikeControl/bikecontrol/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Do Virtual Gear Shifting (and more) in any rider app with your Zwift Play, Zwift Click, Zwift Ride or any other controller out there!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 552 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

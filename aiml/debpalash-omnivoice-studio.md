@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/debpalash/OmniVoice-Studio?style=flat-square&color=yellow)](https://github.com/debpalash/OmniVoice-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/debpalash/OmniVoice-Studio?style=flat-square&color=blue)](https://github.com/debpalash/OmniVoice-Studio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
-> A Cinematic audio dubbing, Cloning and voice generation studio
+> The open-source ElevenLabs alternative. Local voice cloning, design, creation and cinematic video dubbing with real-time dictation.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevOps/Infra · Design
 
 ## 📝 Summary
 

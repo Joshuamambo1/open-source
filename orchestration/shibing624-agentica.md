@@ -1,6 +1,6 @@
 # shibing624/agentica
 
-[![Stars](https://img.shields.io/github/stars/shibing624/agentica?style=flat-square&color=yellow)](https://github.com/shibing624/agentica/stargazers) [![Forks](https://img.shields.io/github/forks/shibing624/agentica?style=flat-square&color=blue)](https://github.com/shibing624/agentica/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shibing624/agentica?style=flat-square&color=yellow)](https://github.com/shibing624/agentica/stargazers) [![Forks](https://img.shields.io/github/forks/shibing624/agentica?style=flat-square&color=blue)](https://github.com/shibing624/agentica/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Agentica: Lightweight async-first Python framework for AI agents. 轻量级异步优先的AI Agent框架，支持工具调用、RAG、多智能体和MCP。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

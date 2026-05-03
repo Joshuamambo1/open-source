@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-SharpIDE is an open-source, cross-platform Integrated Development Environment (IDE) designed specifically for .NET development. Built with .NET and utilizing the Godot engine, this modern IDE offers a versatile and customizable environment for coding, debugging, and testing .NET applications. By leveraging the power of .NET and cross-platform capabilities, SharpIDE aims to provide a seamless and efficient development experience.
+SharpIDE is an open-source, cross-platform Integrated Development Environment (IDE) for .NET applications. Built using .NET and Godot, this modern IDE provides a seamless development experience across various operating systems. With its open-source nature and cross-platform compatibility, SharpIDE offers developers a flexible and customizable solution for creating .NET projects.
 
 ---
 

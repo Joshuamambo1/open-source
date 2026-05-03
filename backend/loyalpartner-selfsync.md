@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The selfsync project is an open-source, self-hosted Chrome and Edge Sync server that allows users to store their browser data locally, without relying on Google or Microsoft's cloud services. This includes syncing bookmarks, passwords, and preferences, keeping users' data private and under their control. By hosting the server themselves, users can maintain full ownership and control over their browser data.
+This open-source project, "selfsync," is a self-hosted Chrome and Edge sync server that allows users to store their browser data locally, without relying on Google or Microsoft. It enables users to synchronize bookmarks, passwords, and other preferences across their devices without sending sensitive information to the cloud. By hosting the sync server locally, users maintain control over their data and privacy.
 
 ---
 

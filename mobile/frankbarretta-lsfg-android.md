@@ -1,6 +1,6 @@
 # FrankBarretta/LSFG-Android
 
-[![Stars](https://img.shields.io/github/stars/FrankBarretta/LSFG-Android?style=flat-square&color=yellow)](https://github.com/FrankBarretta/LSFG-Android/stargazers) [![Forks](https://img.shields.io/github/forks/FrankBarretta/LSFG-Android?style=flat-square&color=blue)](https://github.com/FrankBarretta/LSFG-Android/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FrankBarretta/LSFG-Android?style=flat-square&color=yellow)](https://github.com/FrankBarretta/LSFG-Android/stargazers) [![Forks](https://img.shields.io/github/forks/FrankBarretta/LSFG-Android?style=flat-square&color=blue)](https://github.com/FrankBarretta/LSFG-Android/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Lossless Scaling Frames Generator (LSFG) Application for Android
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 319 |
-| 🍴 **Forks** | 17 |
+| ⭐ **Stars** | 325 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

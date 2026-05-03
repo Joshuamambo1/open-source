@@ -1,6 +1,6 @@
 # voctory/trope-cua
 
-[![Stars](https://img.shields.io/github/stars/voctory/trope-cua?style=flat-square&color=yellow)](https://github.com/voctory/trope-cua/stargazers) [![Forks](https://img.shields.io/github/forks/voctory/trope-cua?style=flat-square&color=blue)](https://github.com/voctory/trope-cua/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voctory/trope-cua?style=flat-square&color=yellow)](https://github.com/voctory/trope-cua/stargazers) [![Forks](https://img.shields.io/github/forks/voctory/trope-cua?style=flat-square&color=blue)](https://github.com/voctory/trope-cua/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Background computer use for desktop agents on Windows and macOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # stevefan1999-personal/surrealdb-operator
 
-[![Stars](https://img.shields.io/github/stars/stevefan1999-personal/surrealdb-operator?style=flat-square&color=yellow)](https://github.com/stevefan1999-personal/surrealdb-operator/stargazers) [![Forks](https://img.shields.io/github/forks/stevefan1999-personal/surrealdb-operator?style=flat-square&color=blue)](https://github.com/stevefan1999-personal/surrealdb-operator/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stevefan1999-personal/surrealdb-operator?style=flat-square&color=yellow)](https://github.com/stevefan1999-personal/surrealdb-operator/stargazers) [![Forks](https://img.shields.io/github/forks/stevefan1999-personal/surrealdb-operator?style=flat-square&color=blue)](https://github.com/stevefan1999-personal/surrealdb-operator/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

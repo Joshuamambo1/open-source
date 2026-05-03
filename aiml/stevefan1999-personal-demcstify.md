@@ -1,6 +1,6 @@
 # stevefan1999-personal/demcstify
 
-[![Stars](https://img.shields.io/github/stars/stevefan1999-personal/demcstify?style=flat-square&color=yellow)](https://github.com/stevefan1999-personal/demcstify/stargazers) [![Forks](https://img.shields.io/github/forks/stevefan1999-personal/demcstify?style=flat-square&color=blue)](https://github.com/stevefan1999-personal/demcstify/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stevefan1999-personal/demcstify?style=flat-square&color=yellow)](https://github.com/stevefan1999-personal/demcstify/stargazers) [![Forks](https://img.shields.io/github/forks/stevefan1999-personal/demcstify?style=flat-square&color=blue)](https://github.com/stevefan1999-personal/demcstify/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Decompile Minecraft using Vineflower, reconstruct the code using LLM
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

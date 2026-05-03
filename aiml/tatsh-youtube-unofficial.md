@@ -1,6 +1,6 @@
 # Tatsh/youtube-unofficial
 
-[![Stars](https://img.shields.io/github/stars/Tatsh/youtube-unofficial?style=flat-square&color=yellow)](https://github.com/Tatsh/youtube-unofficial/stargazers) [![Forks](https://img.shields.io/github/forks/Tatsh/youtube-unofficial?style=flat-square&color=blue)](https://github.com/Tatsh/youtube-unofficial/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tatsh/youtube-unofficial?style=flat-square&color=yellow)](https://github.com/Tatsh/youtube-unofficial/stargazers) [![Forks](https://img.shields.io/github/forks/Tatsh/youtube-unofficial?style=flat-square&color=blue)](https://github.com/Tatsh/youtube-unofficial/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Access parts of your account unavailable through normal YouTube API access.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

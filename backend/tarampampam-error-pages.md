@@ -1,8 +1,8 @@
 # tarampampam/error-pages
 
-[![Stars](https://img.shields.io/github/stars/tarampampam/error-pages?style=flat-square&color=yellow)](https://github.com/tarampampam/error-pages/stargazers) [![Forks](https://img.shields.io/github/forks/tarampampam/error-pages?style=flat-square&color=blue)](https://github.com/tarampampam/error-pages/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tarampampam/error-pages?style=flat-square&color=yellow)](https://github.com/tarampampam/error-pages/stargazers) [![Forks](https://img.shields.io/github/forks/tarampampam/error-pages?style=flat-square&color=blue)](https://github.com/tarampampam/error-pages/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
-> 🪂 Tiny, zero-dep HTTP server & Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, and Kubernetes
+> 🪂 Tiny, zero-dep HTTP server & Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The nezhahq/agent project is an open-source initiative focused on developing and advancing AI and machine learning technologies. This project provides a platform for researchers and developers to build and integrate various AI and ML models, enabling the creation of intelligent systems that can learn, reason, and interact with their environment. With its open-source nature, the project fosters collaboration and innovation in the AI and ML community.
+The nezhahq/agent project is an open-source initiative focused on artificial intelligence and machine learning (AI/ML). This project aims to develop and provide a comprehensive AI/ML framework, enabling users to build, train, and deploy intelligent agents for various applications. With a modular design and flexible architecture, the nezhahq/agent project facilitates the integration of diverse AI/ML models and techniques.
 
 ---
 

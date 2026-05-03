@@ -1,6 +1,6 @@
 # sandwichdoge/MinimizeToTray
 
-[![Stars](https://img.shields.io/github/stars/sandwichdoge/MinimizeToTray?style=flat-square&color=yellow)](https://github.com/sandwichdoge/MinimizeToTray/stargazers) [![Forks](https://img.shields.io/github/forks/sandwichdoge/MinimizeToTray?style=flat-square&color=blue)](https://github.com/sandwichdoge/MinimizeToTray/network) [![Language](https://img.shields.io/badge/lang-AutoIt-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sandwichdoge/MinimizeToTray?style=flat-square&color=yellow)](https://github.com/sandwichdoge/MinimizeToTray/stargazers) [![Forks](https://img.shields.io/github/forks/sandwichdoge/MinimizeToTray?style=flat-square&color=blue)](https://github.com/sandwichdoge/MinimizeToTray/network) [![Language](https://img.shields.io/badge/lang-AutoIt-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Hide any Windows to tray icon to be restored later.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | AutoIt |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

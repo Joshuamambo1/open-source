@@ -1,6 +1,6 @@
 # hud-evals/hud-python
 
-[![Stars](https://img.shields.io/github/stars/hud-evals/hud-python?style=flat-square&color=yellow)](https://github.com/hud-evals/hud-python/stargazers) [![Forks](https://img.shields.io/github/forks/hud-evals/hud-python?style=flat-square&color=blue)](https://github.com/hud-evals/hud-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hud-evals/hud-python?style=flat-square&color=yellow)](https://github.com/hud-evals/hud-python/stargazers) [![Forks](https://img.shields.io/github/forks/hud-evals/hud-python?style=flat-square&color=blue)](https://github.com/hud-evals/hud-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > OSS RL environment + evals toolkit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 247 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

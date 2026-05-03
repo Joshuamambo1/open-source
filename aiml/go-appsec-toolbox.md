@@ -1,6 +1,6 @@
 # go-appsec/toolbox
 
-[![Stars](https://img.shields.io/github/stars/go-appsec/toolbox?style=flat-square&color=yellow)](https://github.com/go-appsec/toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/go-appsec/toolbox?style=flat-square&color=blue)](https://github.com/go-appsec/toolbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-appsec/toolbox?style=flat-square&color=yellow)](https://github.com/go-appsec/toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/go-appsec/toolbox?style=flat-square&color=blue)](https://github.com/go-appsec/toolbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Collaborative application security testing between humans and agents via CLI and MCP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

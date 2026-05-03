@@ -1,6 +1,6 @@
 # Tencent/AngelSlim
 
-[![Stars](https://img.shields.io/github/stars/Tencent/AngelSlim?style=flat-square&color=yellow)](https://github.com/Tencent/AngelSlim/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/AngelSlim?style=flat-square&color=blue)](https://github.com/Tencent/AngelSlim/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tencent/AngelSlim?style=flat-square&color=yellow)](https://github.com/Tencent/AngelSlim/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/AngelSlim?style=flat-square&color=blue)](https://github.com/Tencent/AngelSlim/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 851 |
-| 🍴 **Forks** | 94 |
+| ⭐ **Stars** | 874 |
+| 🍴 **Forks** | 95 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

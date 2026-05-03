@@ -1,6 +1,6 @@
 # Tencent/loli_profiler
 
-[![Stars](https://img.shields.io/github/stars/Tencent/loli_profiler?style=flat-square&color=yellow)](https://github.com/Tencent/loli_profiler/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/loli_profiler?style=flat-square&color=blue)](https://github.com/Tencent/loli_profiler/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tencent/loli_profiler?style=flat-square&color=yellow)](https://github.com/Tencent/loli_profiler/stargazers) [![Forks](https://img.shields.io/github/forks/Tencent/loli_profiler?style=flat-square&color=blue)](https://github.com/Tencent/loli_profiler/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Memory instrumentation tool with CI and AI support for android app&game developers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 680 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

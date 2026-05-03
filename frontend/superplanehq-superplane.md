@@ -1,6 +1,6 @@
 # superplanehq/superplane
 
-[![Stars](https://img.shields.io/github/stars/superplanehq/superplane?style=flat-square&color=yellow)](https://github.com/superplanehq/superplane/stargazers) [![Forks](https://img.shields.io/github/forks/superplanehq/superplane?style=flat-square&color=blue)](https://github.com/superplanehq/superplane/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superplanehq/superplane?style=flat-square&color=yellow)](https://github.com/superplanehq/superplane/stargazers) [![Forks](https://img.shields.io/github/forks/superplanehq/superplane?style=flat-square&color=blue)](https://github.com/superplanehq/superplane/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The open source control plane for platform engineering.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 239 |
+| 🍴 **Forks** | 243 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

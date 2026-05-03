@@ -27,7 +27,7 @@ AI/ML · Backend
 
 Here's a brief summary for the open-source project:
 
-The wechat-rpa-bot-skill project is an open-source tool designed specifically for AI intelligent entities, providing a powerful WeChat RPA (Robotic Process Automation) skill that enables headless operation and REST API control. This bridge connects large models to real WeChat operations, breaking down the gap between artificial intelligence and human-like interactions. It facilitates seamless automation of WeChat tasks for AI applications.
+This open-source WeChat RPA (Robotic Process Automation) skill, 'wechat-rpa-bot-skill', is designed for AI intelligent entities, enabling them to interact with WeChat through automation. It supports headless execution and REST API control, bridging the gap between large language models and real-time WeChat interactions. This skill offers a powerful tool for building AI-driven automation solutions.
 
 ---
 

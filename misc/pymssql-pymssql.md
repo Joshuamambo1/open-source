@@ -1,6 +1,6 @@
 # pymssql/pymssql
 
-[![Stars](https://img.shields.io/github/stars/pymssql/pymssql?style=flat-square&color=yellow)](https://github.com/pymssql/pymssql/stargazers) [![Forks](https://img.shields.io/github/forks/pymssql/pymssql?style=flat-square&color=blue)](https://github.com/pymssql/pymssql/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pymssql/pymssql?style=flat-square&color=yellow)](https://github.com/pymssql/pymssql/stargazers) [![Forks](https://img.shields.io/github/forks/pymssql/pymssql?style=flat-square&color=blue)](https://github.com/pymssql/pymssql/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Official home for the pymssql source code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 882 |
 | 🍴 **Forks** | 329 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

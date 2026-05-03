@@ -1,6 +1,6 @@
 # CorsixTH/CorsixTH
 
-[![Stars](https://img.shields.io/github/stars/CorsixTH/CorsixTH?style=flat-square&color=yellow)](https://github.com/CorsixTH/CorsixTH/stargazers) [![Forks](https://img.shields.io/github/forks/CorsixTH/CorsixTH?style=flat-square&color=blue)](https://github.com/CorsixTH/CorsixTH/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CorsixTH/CorsixTH?style=flat-square&color=yellow)](https://github.com/CorsixTH/CorsixTH/stargazers) [![Forks](https://img.shields.io/github/forks/CorsixTH/CorsixTH?style=flat-square&color=blue)](https://github.com/CorsixTH/CorsixTH/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Open source clone of Theme Hospital
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 395 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # PMEAL/porespy
 
-[![Stars](https://img.shields.io/github/stars/PMEAL/porespy?style=flat-square&color=yellow)](https://github.com/PMEAL/porespy/stargazers) [![Forks](https://img.shields.io/github/forks/PMEAL/porespy?style=flat-square&color=blue)](https://github.com/PMEAL/porespy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PMEAL/porespy?style=flat-square&color=yellow)](https://github.com/PMEAL/porespy/stargazers) [![Forks](https://img.shields.io/github/forks/PMEAL/porespy?style=flat-square&color=blue)](https://github.com/PMEAL/porespy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A set of tools for characterizing and analyzing 3D images of porous materials
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 404 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

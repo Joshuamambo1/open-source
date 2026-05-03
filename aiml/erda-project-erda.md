@@ -1,6 +1,6 @@
 # erda-project/erda
 
-[![Stars](https://img.shields.io/github/stars/erda-project/erda?style=flat-square&color=yellow)](https://github.com/erda-project/erda/stargazers) [![Forks](https://img.shields.io/github/forks/erda-project/erda?style=flat-square&color=blue)](https://github.com/erda-project/erda/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erda-project/erda?style=flat-square&color=yellow)](https://github.com/erda-project/erda/stargazers) [![Forks](https://img.shields.io/github/forks/erda-project/erda?style=flat-square&color=blue)](https://github.com/erda-project/erda/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > An enterprise-grade Cloud-Native application platform for Kubernetes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 379 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

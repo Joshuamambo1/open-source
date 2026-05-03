@@ -1,6 +1,6 @@
 # TencentBlueKing/bk-ci
 
-[![Stars](https://img.shields.io/github/stars/TencentBlueKing/bk-ci?style=flat-square&color=yellow)](https://github.com/TencentBlueKing/bk-ci/stargazers) [![Forks](https://img.shields.io/github/forks/TencentBlueKing/bk-ci?style=flat-square&color=blue)](https://github.com/TencentBlueKing/bk-ci/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TencentBlueKing/bk-ci?style=flat-square&color=yellow)](https://github.com/TencentBlueKing/bk-ci/stargazers) [![Forks](https://img.shields.io/github/forks/TencentBlueKing/bk-ci?style=flat-square&color=blue)](https://github.com/TencentBlueKing/bk-ci/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 蓝鲸持续集成平台(蓝盾)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 519 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

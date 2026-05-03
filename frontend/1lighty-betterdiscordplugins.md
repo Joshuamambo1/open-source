@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The 1Lighty/BetterDiscordPlugins project is an open-source collection of customizable plugins designed for BetterDiscord, a popular Discord enhancement tool. This project provides users with a wide range of frontend and backend plugins to enhance their Discord experience. Users can join the project's Discord server for support and community engagement.
+This open-source project, 1Lighty/BetterDiscordPlugins, is a collection of plugins designed to enhance the functionality of BetterDiscord, a popular Discord client modification. Developed by a community-driven team, the plugins aim to provide users with a more personalized and efficient Discord experience. Users can access support and updates by joining the project's Discord server at https://discord.gg/NYvWdN5.
 
 ---
 

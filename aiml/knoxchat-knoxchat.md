@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Knox is an open-source project that provides a vigilant supervisor and management tool for LLM (Large Language Model) teams. Its primary goal is to ensure the development of reliable AI Agent programming extensions for Visual Studio Code (VSCode) and compatible editors. By leveraging Knox, teams can streamline their AI development process and produce high-quality extensions.
+Knox is an open-source, AI/ML project that serves as a supervisor and management tool for Large Language Model (LLM) teams. Its primary function is to ensure the development of reliable AI agent programming extensions for Visual Studio Code (VSCode) and compatible editors. By utilizing Knox, developers can maintain high standards of reliability and rigor in their AI programming extensions.
 
 ---
 

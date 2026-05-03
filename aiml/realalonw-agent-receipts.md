@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the project:
-
-This open-source AI transparency project aims to provide a deeper understanding of artificial intelligence decision-making processes, promoting accountability and trust in AI systems. By exploring and analyzing AI models, developers can gain valuable insights into how AI makes predictions, enabling the identification of potential biases and errors. This project contributes to a more transparent and reliable AI ecosystem.
+This open-source project aims to promote transparency in artificial intelligence (AI) by providing a platform for exploring and understanding AI decision-making processes. The project offers an accessible and interactive way to engage with AI systems, fostering a deeper understanding of their inner workings and potential biases. By making AI more transparent, this project seeks to encourage responsible AI development and deployment.
 
 ---
 

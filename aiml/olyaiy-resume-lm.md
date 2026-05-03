@@ -25,7 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The olyaiy/resume-lm project is an open-source AI-powered resume builder that utilizes Next.js 15, React 19, and Tailwind CSS to create job-ready resumes in minutes. This innovative tool leverages AI to tailor resumes to individual users' needs and preferences, making the process of creating a professional resume efficient and user-friendly. By harnessing the power of AI and modern web technologies, resume-lm empowers users to craft compelling resumes that stand out in today's competitive job market.
+Here's a brief summary for the open-source project:
+
+"resume-lm" is an open-source AI-powered resume builder that enables users to create professional, job-ready resumes in minutes. Built with cutting-edge technologies like Next.js 15, React 19, and Tailwind CSS, this innovative tool streamlines the process of crafting a standout resume. With its AI-driven functionality, users can tailor their resumes to specific job opportunities and enhance their chances of success in the job market.
 
 ---
 

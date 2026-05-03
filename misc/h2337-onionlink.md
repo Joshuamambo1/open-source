@@ -1,17 +1,17 @@
 # h2337/onionlink
 
-[![Stars](https://img.shields.io/github/stars/h2337/onionlink?style=flat-square&color=yellow)](https://github.com/h2337/onionlink/stargazers) [![Forks](https://img.shields.io/github/forks/h2337/onionlink?style=flat-square&color=blue)](https://github.com/h2337/onionlink/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/h2337/onionlink?style=flat-square&color=yellow)](https://github.com/h2337/onionlink/stargazers) [![Forks](https://img.shields.io/github/forks/h2337/onionlink?style=flat-square&color=blue)](https://github.com/h2337/onionlink/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Lobsters: onionlink: 2.5k lines of C++ to connect to v3 onion services, using only libsodium and mbedTLS
+> 2.5k lines of C++ to connect to v3 onion services, using only libsodium and mbedTLS
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 35/100 |
+| 💻 **Language** | C++ |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | lobsters |
 

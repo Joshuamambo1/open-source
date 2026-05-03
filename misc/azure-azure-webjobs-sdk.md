@@ -1,6 +1,6 @@
 # Azure/azure-webjobs-sdk
 
-[![Stars](https://img.shields.io/github/stars/Azure/azure-webjobs-sdk?style=flat-square&color=yellow)](https://github.com/Azure/azure-webjobs-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-webjobs-sdk?style=flat-square&color=blue)](https://github.com/Azure/azure-webjobs-sdk/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/azure-webjobs-sdk?style=flat-square&color=yellow)](https://github.com/Azure/azure-webjobs-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-webjobs-sdk?style=flat-square&color=blue)](https://github.com/Azure/azure-webjobs-sdk/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Azure WebJobs SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 752 |
 | 🍴 **Forks** | 360 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

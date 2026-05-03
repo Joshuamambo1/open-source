@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/WangYihang/Platypus?style=flat-square&color=yellow)](https://github.com/WangYihang/Platypus/stargazers) [![Forks](https://img.shields.io/github/forks/WangYihang/Platypus?style=flat-square&color=blue)](https://github.com/WangYihang/Platypus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
-> :hammer: A modern host manager
+> :hammer: A modern, cross-platform machine manager
 
 ## 📊 Stats
 

@@ -1,17 +1,17 @@
 # p32929/rotato
 
-[![Stars](https://img.shields.io/github/stars/p32929/rotato?style=flat-square&color=yellow)](https://github.com/p32929/rotato/stargazers) [![Forks](https://img.shields.io/github/forks/p32929/rotato?style=flat-square&color=blue)](https://github.com/p32929/rotato/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/p32929/rotato?style=flat-square&color=yellow)](https://github.com/p32929/rotato/stargazers) [![Forks](https://img.shields.io/github/forks/p32929/rotato?style=flat-square&color=blue)](https://github.com/p32929/rotato/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A robust Node.js proxy server that automatically rotates API keys for Gemini and OpenAI APIs when rate limits (429 errors) are encountered. Built with zero dependencies and comprehensive logging.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 55 |
+| 🍴 **Forks** | 18 |
+| 💻 **Language** | HTML |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Frontend · Backend
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # pop-os/cosmic-greeter
 
-[![Stars](https://img.shields.io/github/stars/pop-os/cosmic-greeter?style=flat-square&color=yellow)](https://github.com/pop-os/cosmic-greeter/stargazers) [![Forks](https://img.shields.io/github/forks/pop-os/cosmic-greeter?style=flat-square&color=blue)](https://github.com/pop-os/cosmic-greeter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pop-os/cosmic-greeter?style=flat-square&color=yellow)](https://github.com/pop-os/cosmic-greeter/stargazers) [![Forks](https://img.shields.io/github/forks/pop-os/cosmic-greeter?style=flat-square&color=blue)](https://github.com/pop-os/cosmic-greeter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > libcosmic greeter for greetd, which can be run inside cosmic-comp
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

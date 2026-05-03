@@ -1,6 +1,6 @@
 # lazyville/qsh
 
-[![Stars](https://img.shields.io/github/stars/lazyville/qsh?style=flat-square&color=yellow)](https://github.com/lazyville/qsh/stargazers) [![Forks](https://img.shields.io/github/forks/lazyville/qsh?style=flat-square&color=blue)](https://github.com/lazyville/qsh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lazyville/qsh?style=flat-square&color=yellow)](https://github.com/lazyville/qsh/stargazers) [![Forks](https://img.shields.io/github/forks/lazyville/qsh?style=flat-square&color=blue)](https://github.com/lazyville/qsh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > q - A slim LLM CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

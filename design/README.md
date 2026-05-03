@@ -8,15 +8,15 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
-| 2 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.2k | JavaScript | 100/100 |
+| 1 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.2k | JavaScript | 100/100 |
+| 2 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
 | 3 | [cheat/cheat](./cheat-cheat.md) | ⭐ 13.3k | Go | 98/100 |
 | 4 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.9k | Python | 97/100 |
 | 5 | [vscode-icons/vscode-icons](./vscode-icons-vscode-icons.md) | ⭐ 5k | TypeScript | 96/100 |
 | 6 | [dotnet/csharplang](./dotnet-csharplang.md) | ⭐ 12.6k | C# | 93/100 |
 | 7 | [safing/portmaster](./safing-portmaster.md) | ⭐ 12.5k | Go | 92/100 |
 | 8 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.7k | Scala | 91/100 |
-| 9 | [garrytan/gstack](./garrytan-gstack.md) | ⭐ 88.2k | TypeScript | 90/100 |
+| 9 | [garrytan/gstack](./garrytan-gstack.md) | ⭐ 88.3k | TypeScript | 90/100 |
 | 10 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4k | C++ | 86/100 |
 | 11 | [tw93/Waza](./tw93-waza.md) | ⭐ 4.3k | Shell | 84/100 |
 | 12 | [j178/prek](./j178-prek.md) | ⭐ 7.5k | Rust | 82/100 |
@@ -33,7 +33,7 @@
 | 23 | [metacraft-labs/codetracer](./metacraft-labs-codetracer.md) | ⭐ 1.3k | Rust | 55/100 |
 | 24 | [ciembor/4bit](./ciembor-4bit.md) | ⭐ 1k | JavaScript | 55/100 |
 | 25 | [processing/processing4](./processing-processing4.md) | ⭐ 394 | Java | 55/100 |
-| 26 | [MercuryWorkshop/scramjet](./mercuryworkshop-scramjet.md) | ⭐ 404 | TypeScript | 53/100 |
+| 26 | [MercuryWorkshop/scramjet](./mercuryworkshop-scramjet.md) | ⭐ 406 | TypeScript | 53/100 |
 | 27 | [walles/moor](./walles-moor.md) | ⭐ 1.1k | Go | 53/100 |
 | 28 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
 | 29 | [takram-design-engineering/three-geospatial](./takram-design-engineering-three-geospatial.md) | ⭐ 1.4k | TypeScript | 52/100 |
@@ -56,7 +56,7 @@
 | 46 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 141 | Rust | 43/100 |
 | 47 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 409 | TypeScript | 43/100 |
 | 48 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
-| 49 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 43/100 |
+| 49 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
 
 ---
 

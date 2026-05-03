@@ -25,7 +25,7 @@ Frontend · Data
 
 ## 📝 Summary
 
-Binsider is an open-source project that allows users to analyze ELF binaries with ease. It provides a comprehensive platform to dissect and understand the inner workings of ELF format binaries, making it a valuable tool for reverse engineers, security researchers, and developers. With its user-friendly interface, Binsider empowers users to dig deep into binary files and extract valuable insights.
+The orhun/binsider project is an open-source tool for analyzing ELF binaries, providing users with a detailed understanding of their structure and content. This tool leverages a user-friendly frontend to make complex binary analysis more accessible, empowering users to inspect and dissect ELF binaries with ease. With its data-driven approach, binsider facilitates in-depth analysis and exploration of ELF binaries.
 
 ---
 

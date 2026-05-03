@@ -1,6 +1,6 @@
 # meursyphus/ssgoi
 
-[![Stars](https://img.shields.io/github/stars/meursyphus/ssgoi?style=flat-square&color=yellow)](https://github.com/meursyphus/ssgoi/stargazers) [![Forks](https://img.shields.io/github/forks/meursyphus/ssgoi?style=flat-square&color=blue)](https://github.com/meursyphus/ssgoi/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meursyphus/ssgoi?style=flat-square&color=yellow)](https://github.com/meursyphus/ssgoi/stargazers) [![Forks](https://img.shields.io/github/forks/meursyphus/ssgoi?style=flat-square&color=blue)](https://github.com/meursyphus/ssgoi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > animated page transition for major ssr frameworks and browsers, including Safari
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 890 |
+| ⭐ **Stars** | 892 |
 | 🍴 **Forks** | 46 |
-| 💻 **Language** | MDX |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The dfrankland/envoluntary project is an open-source initiative that streamlines the development process by automatically generating Nix development environments within the user's shell. This project aims to simplify the setup and management of development environments, allowing users to focus on coding with minimal configuration overhead. By leveraging Nix, it provides a reliable and reproducible environment for coding tasks.
+Here's a brief summary for the dfrankland/envoluntary project:
+
+envoluntary is an open-source project that automates the creation of Nix development environments for your shell. This tool streamlines the process of setting up and managing development environments, making it easier to work on various projects in isolation. By utilizing Nix, envoluntary ensures reproducible and reliable environments for your development needs.
 
 ---
 

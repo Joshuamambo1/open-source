@@ -1,6 +1,6 @@
 # docsector/docsector-reader
 
-[![Stars](https://img.shields.io/github/stars/docsector/docsector-reader?style=flat-square&color=yellow)](https://github.com/docsector/docsector-reader/stargazers) [![Forks](https://img.shields.io/github/forks/docsector/docsector-reader?style=flat-square&color=blue)](https://github.com/docsector/docsector-reader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/docsector/docsector-reader?style=flat-square&color=yellow)](https://github.com/docsector/docsector-reader/stargazers) [![Forks](https://img.shields.io/github/forks/docsector/docsector-reader?style=flat-square&color=blue)](https://github.com/docsector/docsector-reader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A documentation rendering engine built with Vue 3, Quasar v2 and Vite.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

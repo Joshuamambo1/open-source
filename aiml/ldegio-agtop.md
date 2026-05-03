@@ -1,6 +1,6 @@
 # ldegio/agtop
 
-[![Stars](https://img.shields.io/github/stars/ldegio/agtop?style=flat-square&color=yellow)](https://github.com/ldegio/agtop/stargazers) [![Forks](https://img.shields.io/github/forks/ldegio/agtop?style=flat-square&color=blue)](https://github.com/ldegio/agtop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ldegio/agtop?style=flat-square&color=yellow)](https://github.com/ldegio/agtop/stargazers) [![Forks](https://img.shields.io/github/forks/ldegio/agtop?style=flat-square&color=blue)](https://github.com/ldegio/agtop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > top-style TUI for monitoring AI coding agent sessions
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 135 |
+| ⭐ **Stars** | 136 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

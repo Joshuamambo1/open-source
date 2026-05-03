@@ -1,6 +1,6 @@
 # tech-leads-club/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/tech-leads-club/agent-skills?style=flat-square&color=yellow)](https://github.com/tech-leads-club/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tech-leads-club/agent-skills?style=flat-square&color=blue)](https://github.com/tech-leads-club/agent-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tech-leads-club/agent-skills?style=flat-square&color=yellow)](https://github.com/tech-leads-club/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tech-leads-club/agent-skills?style=flat-square&color=blue)](https://github.com/tech-leads-club/agent-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 260 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

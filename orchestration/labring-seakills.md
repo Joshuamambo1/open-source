@@ -1,6 +1,6 @@
 # labring/seakills
 
-[![Stars](https://img.shields.io/github/stars/labring/seakills?style=flat-square&color=yellow)](https://github.com/labring/seakills/stargazers) [![Forks](https://img.shields.io/github/forks/labring/seakills?style=flat-square&color=blue)](https://github.com/labring/seakills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/labring/seakills?style=flat-square&color=yellow)](https://github.com/labring/seakills/stargazers) [![Forks](https://img.shields.io/github/forks/labring/seakills?style=flat-square&color=blue)](https://github.com/labring/seakills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent skills for Sealos Cloud — deploy any project, provision databases, object storage & more with one command. Works with Claude Code, Gemini CLI, Codex.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

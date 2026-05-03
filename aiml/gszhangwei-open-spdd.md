@@ -1,6 +1,6 @@
 # gszhangwei/open-spdd
 
-[![Stars](https://img.shields.io/github/stars/gszhangwei/open-spdd?style=flat-square&color=yellow)](https://github.com/gszhangwei/open-spdd/stargazers) [![Forks](https://img.shields.io/github/forks/gszhangwei/open-spdd?style=flat-square&color=blue)](https://github.com/gszhangwei/open-spdd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gszhangwei/open-spdd?style=flat-square&color=yellow)](https://github.com/gszhangwei/open-spdd/stargazers) [![Forks](https://img.shields.io/github/forks/gszhangwei/open-spdd?style=flat-square&color=blue)](https://github.com/gszhangwei/open-spdd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A SPDD AI Coding Assistant Command Template Manager
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 303 |
+| ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

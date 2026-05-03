@@ -1,6 +1,6 @@
 # guidewire-oss/fern-platform
 
-[![Stars](https://img.shields.io/github/stars/guidewire-oss/fern-platform?style=flat-square&color=yellow)](https://github.com/guidewire-oss/fern-platform/stargazers) [![Forks](https://img.shields.io/github/forks/guidewire-oss/fern-platform?style=flat-square&color=blue)](https://github.com/guidewire-oss/fern-platform/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guidewire-oss/fern-platform?style=flat-square&color=yellow)](https://github.com/guidewire-oss/fern-platform/stargazers) [![Forks](https://img.shields.io/github/forks/guidewire-oss/fern-platform?style=flat-square&color=blue)](https://github.com/guidewire-oss/fern-platform/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Unified test intelligence platform with multi-format ingestion, real-time analytics, and AI-powered insights via LLM integration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 444 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # context-labs/halo
 
-[![Stars](https://img.shields.io/github/stars/context-labs/halo?style=flat-square&color=yellow)](https://github.com/context-labs/halo/stargazers) [![Forks](https://img.shields.io/github/forks/context-labs/halo?style=flat-square&color=blue)](https://github.com/context-labs/halo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/context-labs/halo?style=flat-square&color=yellow)](https://github.com/context-labs/halo/stargazers) [![Forks](https://img.shields.io/github/forks/context-labs/halo?style=flat-square&color=blue)](https://github.com/context-labs/halo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Hierarchal Agent Loop Optimizer
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 419 |
+| ⭐ **Stars** | 424 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

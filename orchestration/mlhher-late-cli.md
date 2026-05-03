@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Late-cli is an open-source project that enables the orchestration of entire AI development teams on minimal hardware resources, specifically 5GB of VRAM. This AI coding agent is designed to function like a systems engineer, utilizing ephemeral context and exact-match diffs to optimize performance. By doing so, it aims to reduce costs associated with large language model (LLM) token wrappers and improve reasoning capabilities.
+The late-cli project is an open-source tool designed to efficiently manage and orchestrate AI development teams, leveraging a cutting-edge AI coding agent that can operate on as little as 5GB of VRAM. This innovative solution aims to reduce costs associated with large language model token wrappers and preserve the reasoning capabilities of large language models. By utilizing ephemeral context and exact-match diffs, late-cli enables streamlined AI development processes.
 
 ---
 

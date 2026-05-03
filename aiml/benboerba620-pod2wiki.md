@@ -1,6 +1,6 @@
 # Benboerba620/pod2wiki
 
-[![Stars](https://img.shields.io/github/stars/Benboerba620/pod2wiki?style=flat-square&color=yellow)](https://github.com/Benboerba620/pod2wiki/stargazers) [![Forks](https://img.shields.io/github/forks/Benboerba620/pod2wiki?style=flat-square&color=blue)](https://github.com/Benboerba620/pod2wiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Benboerba620/pod2wiki?style=flat-square&color=yellow)](https://github.com/Benboerba620/pod2wiki/stargazers) [![Forks](https://img.shields.io/github/forks/Benboerba620/pod2wiki?style=flat-square&color=blue)](https://github.com/Benboerba620/pod2wiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 把高质量播客和长文 RSS 自动转成 karpathy-claude-wiki 兼容的 source-summary 页面 / Turn high-signal podcasts and long-form RSS into karpathy-claude-wiki compatible source-summary pages. Part of the zero-code AI investment research toolkit.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12 |
+| ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

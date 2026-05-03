@@ -1,6 +1,6 @@
 # timasoft/hyprviz
 
-[![Stars](https://img.shields.io/github/stars/timasoft/hyprviz?style=flat-square&color=yellow)](https://github.com/timasoft/hyprviz/stargazers) [![Forks](https://img.shields.io/github/forks/timasoft/hyprviz?style=flat-square&color=blue)](https://github.com/timasoft/hyprviz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timasoft/hyprviz?style=flat-square&color=yellow)](https://github.com/timasoft/hyprviz/stargazers) [![Forks](https://img.shields.io/github/forks/timasoft/hyprviz?style=flat-square&color=blue)](https://github.com/timasoft/hyprviz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > GUI for configuring Hyprland, written in blazingly fast Rust! 🚀🦀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

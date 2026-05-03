@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-This open-source project, paketo-buildpacks/samples, is a collection of samples that aid in the development and testing of buildpacks. The samples are geared towards frontend development, providing a useful resource for individuals exploring buildpacks and their applications. By leveraging these samples, developers can gain hands-on experience with buildpacks and improve their understanding of frontend development.
+The paketo-buildpacks/samples project is an open-source collection of frontend code samples, offering developers a starting point for building and experimenting with various web applications. This repository serves as a resource for learning and testing different frontend technologies, allowing users to explore and adapt the provided examples to suit their project needs. By leveraging these samples, developers can streamline their development process and accelerate their learning journey.
 
 ---
 

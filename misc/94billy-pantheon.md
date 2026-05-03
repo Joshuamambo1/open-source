@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Pantheon is an open-source project that aims to recreate the PlayStation 2 (PS2) game engine, specifically targeting Path 1 games. This project targets the VU1, EE, and DMA components of the PS2 hardware, allowing developers to create custom games and experiments using the original engine's architecture. By reverse-engineering the Path 1 engine, Pantheon provides a unique opportunity for researchers and developers to study and build upon the PS2's hardware capabilities.
+Pantheon is an open-source game engine that emulates the functionality of a Path 1 PlayStation 2 game. This engine specifically targets the VU1, EE, and DMA components of the console, allowing developers to recreate and experiment with classic PS2 games. By open-sourcing this engine, the community can contribute and learn from its development.
 
 ---
 

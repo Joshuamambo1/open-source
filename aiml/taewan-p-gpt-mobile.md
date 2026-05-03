@@ -1,6 +1,6 @@
 # Taewan-P/gpt_mobile
 
-[![Stars](https://img.shields.io/github/stars/Taewan-P/gpt_mobile?style=flat-square&color=yellow)](https://github.com/Taewan-P/gpt_mobile/stargazers) [![Forks](https://img.shields.io/github/forks/Taewan-P/gpt_mobile?style=flat-square&color=blue)](https://github.com/Taewan-P/gpt_mobile/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Taewan-P/gpt_mobile?style=flat-square&color=yellow)](https://github.com/Taewan-P/gpt_mobile/stargazers) [![Forks](https://img.shields.io/github/forks/Taewan-P/gpt_mobile?style=flat-square&color=blue)](https://github.com/Taewan-P/gpt_mobile/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 122 |
+| 🍴 **Forks** | 123 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

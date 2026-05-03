@@ -1,17 +1,17 @@
 # Raamyy/azuredevops-commits-migrator
 
-[![Stars](https://img.shields.io/github/stars/Raamyy/azuredevops-commits-migrator?style=flat-square&color=yellow)](https://github.com/Raamyy/azuredevops-commits-migrator/stargazers) [![Forks](https://img.shields.io/github/forks/Raamyy/azuredevops-commits-migrator?style=flat-square&color=blue)](https://github.com/Raamyy/azuredevops-commits-migrator/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Raamyy/azuredevops-commits-migrator?style=flat-square&color=yellow)](https://github.com/Raamyy/azuredevops-commits-migrator/stargazers) [![Forks](https://img.shields.io/github/forks/Raamyy/azuredevops-commits-migrator?style=flat-square&color=blue)](https://github.com/Raamyy/azuredevops-commits-migrator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-18%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag github): Migrating Azure Devops Activity to GitHub 🔄️
+> Bring your Azure Devops contribution history into Github!
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| ⭐ **Stars** | 9 |
+| 🍴 **Forks** | 6 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 18/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

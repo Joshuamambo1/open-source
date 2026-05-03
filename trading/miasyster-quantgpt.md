@@ -1,6 +1,6 @@
 # Miasyster/QuantGPT
 
-[![Stars](https://img.shields.io/github/stars/Miasyster/QuantGPT?style=flat-square&color=yellow)](https://github.com/Miasyster/QuantGPT/stargazers) [![Forks](https://img.shields.io/github/forks/Miasyster/QuantGPT?style=flat-square&color=blue)](https://github.com/Miasyster/QuantGPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Miasyster/QuantGPT?style=flat-square&color=yellow)](https://github.com/Miasyster/QuantGPT/stargazers) [![Forks](https://img.shields.io/github/forks/Miasyster/QuantGPT?style=flat-square&color=blue)](https://github.com/Miasyster/QuantGPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-driven alpha factory — LLM autonomously designs, backtests, and submits factors to WorldQuant BRAIN
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 45 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 47 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

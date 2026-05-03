@@ -1,6 +1,6 @@
 # Firstp1ck/Pacsea
 
-[![Stars](https://img.shields.io/github/stars/Firstp1ck/Pacsea?style=flat-square&color=yellow)](https://github.com/Firstp1ck/Pacsea/stargazers) [![Forks](https://img.shields.io/github/forks/Firstp1ck/Pacsea?style=flat-square&color=blue)](https://github.com/Firstp1ck/Pacsea/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Firstp1ck/Pacsea?style=flat-square&color=yellow)](https://github.com/Firstp1ck/Pacsea/stargazers) [![Forks](https://img.shields.io/github/forks/Firstp1ck/Pacsea?style=flat-square&color=blue)](https://github.com/Firstp1ck/Pacsea/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Fast TUI for searching, inspecting, and queueing pacman/AUR packages.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 257 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

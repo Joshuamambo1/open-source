@@ -1,6 +1,6 @@
 # betrusted-io/xous-core
 
-[![Stars](https://img.shields.io/github/stars/betrusted-io/xous-core?style=flat-square&color=yellow)](https://github.com/betrusted-io/xous-core/stargazers) [![Forks](https://img.shields.io/github/forks/betrusted-io/xous-core?style=flat-square&color=blue)](https://github.com/betrusted-io/xous-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/betrusted-io/xous-core?style=flat-square&color=yellow)](https://github.com/betrusted-io/xous-core/stargazers) [![Forks](https://img.shields.io/github/forks/betrusted-io/xous-core?style=flat-square&color=blue)](https://github.com/betrusted-io/xous-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The Xous microkernel
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 913 |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

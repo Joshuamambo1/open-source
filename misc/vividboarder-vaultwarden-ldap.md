@@ -1,6 +1,6 @@
 # ViViDboarder/vaultwarden_ldap
 
-[![Stars](https://img.shields.io/github/stars/ViViDboarder/vaultwarden_ldap?style=flat-square&color=yellow)](https://github.com/ViViDboarder/vaultwarden_ldap/stargazers) [![Forks](https://img.shields.io/github/forks/ViViDboarder/vaultwarden_ldap?style=flat-square&color=blue)](https://github.com/ViViDboarder/vaultwarden_ldap/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ViViDboarder/vaultwarden_ldap?style=flat-square&color=yellow)](https://github.com/ViViDboarder/vaultwarden_ldap/stargazers) [![Forks](https://img.shields.io/github/forks/ViViDboarder/vaultwarden_ldap?style=flat-square&color=blue)](https://github.com/ViViDboarder/vaultwarden_ldap/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Automate LDAP invites to Vaultwarden
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

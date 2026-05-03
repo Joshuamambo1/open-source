@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The agent-kanban project is an open-source platform that serves as a mission control for AI workforces, providing an agent-first task board for efficient management and orchestration. This innovative tool enables users to effectively coordinate and optimize their AI tasks, streamlining workflows and maximizing productivity. By harnessing the power of AI and automation, agent-kanban empowers users to unlock new levels of efficiency and innovation.
+Here's a brief summary for the open-source project:
+
+Agent-kanban is an agent-first task board designed to serve as mission control for AI workforces, streamlining the orchestration and management of AI/ML tasks. This open-source tool provides a centralized platform for monitoring, managing, and optimizing the performance of AI agents, enabling users to effectively allocate and utilize their AI workforce. By leveraging agent-kanban, users can improve the efficiency and productivity of their AI operations.
 
 ---
 

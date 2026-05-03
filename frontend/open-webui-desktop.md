@@ -1,6 +1,6 @@
 # open-webui/desktop
 
-[![Stars](https://img.shields.io/github/stars/open-webui/desktop?style=flat-square&color=yellow)](https://github.com/open-webui/desktop/stargazers) [![Forks](https://img.shields.io/github/forks/open-webui/desktop?style=flat-square&color=blue)](https://github.com/open-webui/desktop/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-webui/desktop?style=flat-square&color=yellow)](https://github.com/open-webui/desktop/stargazers) [![Forks](https://img.shields.io/github/forks/open-webui/desktop?style=flat-square&color=blue)](https://github.com/open-webui/desktop/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Open WebUI Desktop 🌐
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.6k |
+| ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

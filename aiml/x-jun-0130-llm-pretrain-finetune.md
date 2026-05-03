@@ -27,7 +27,7 @@ AI/ML
 
 Here's a brief summary for the open-source project:
 
-The X-jun-0130/LLM-Pretrain-FineTune project is an open-source implementation of deep learning models for large-scale language understanding. It utilizes Deepspeed, a deep learning optimization library, and pre-trained LLM (Large Language Model) models for medical dialogue applications, enabling the fine-tuning of these models for specific healthcare tasks. This project aims to advance the development of medical dialogue systems.
+The X-jun-0130/LLM-Pretrain-FineTune project is an open-source implementation of pretraining and fine-tuning large language models (LLMs) using Deepspeed, a deep learning optimization library. This project focuses on developing and fine-tuning medical dialogue models to improve healthcare-related tasks and applications. By leveraging the power of LLMs and Deepspeed, the project aims to advance the field of medical dialogue systems.
 
 ---
 

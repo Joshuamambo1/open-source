@@ -1,6 +1,6 @@
 # zipstack/visitran
 
-[![Stars](https://img.shields.io/github/stars/zipstack/visitran?style=flat-square&color=yellow)](https://github.com/zipstack/visitran/stargazers) [![Forks](https://img.shields.io/github/forks/zipstack/visitran?style=flat-square&color=blue)](https://github.com/zipstack/visitran/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zipstack/visitran?style=flat-square&color=yellow)](https://github.com/zipstack/visitran/stargazers) [![Forks](https://img.shields.io/github/forks/zipstack/visitran?style=flat-square&color=blue)](https://github.com/zipstack/visitran/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic & No-Code Data Transformations
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 64 |
+| ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -1,6 +1,6 @@
 # exaile/exaile
 
-[![Stars](https://img.shields.io/github/stars/exaile/exaile?style=flat-square&color=yellow)](https://github.com/exaile/exaile/stargazers) [![Forks](https://img.shields.io/github/forks/exaile/exaile?style=flat-square&color=blue)](https://github.com/exaile/exaile/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/exaile/exaile?style=flat-square&color=yellow)](https://github.com/exaile/exaile/stargazers) [![Forks](https://img.shields.io/github/forks/exaile/exaile?style=flat-square&color=blue)](https://github.com/exaile/exaile/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 🎶 Cross-platform music player
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 388 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

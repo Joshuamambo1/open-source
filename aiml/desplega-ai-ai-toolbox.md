@@ -1,6 +1,6 @@
 # desplega-ai/ai-toolbox
 
-[![Stars](https://img.shields.io/github/stars/desplega-ai/ai-toolbox?style=flat-square&color=yellow)](https://github.com/desplega-ai/ai-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/desplega-ai/ai-toolbox?style=flat-square&color=blue)](https://github.com/desplega-ai/ai-toolbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/desplega-ai/ai-toolbox?style=flat-square&color=yellow)](https://github.com/desplega-ai/ai-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/desplega-ai/ai-toolbox?style=flat-square&color=blue)](https://github.com/desplega-ai/ai-toolbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > AI toolbox, intended to be developed and used by agents!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

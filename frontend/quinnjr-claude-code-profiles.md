@@ -1,6 +1,6 @@
 # quinnjr/claude-code-profiles
 
-[![Stars](https://img.shields.io/github/stars/quinnjr/claude-code-profiles?style=flat-square&color=yellow)](https://github.com/quinnjr/claude-code-profiles/stargazers) [![Forks](https://img.shields.io/github/forks/quinnjr/claude-code-profiles?style=flat-square&color=blue)](https://github.com/quinnjr/claude-code-profiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quinnjr/claude-code-profiles?style=flat-square&color=yellow)](https://github.com/quinnjr/claude-code-profiles/stargazers) [![Forks](https://img.shields.io/github/forks/quinnjr/claude-code-profiles?style=flat-square&color=blue)](https://github.com/quinnjr/claude-code-profiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Manage multiple Claude Code configuration profiles. Switch between work, personal, and other accounts without logging in and out.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27 |
+| ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

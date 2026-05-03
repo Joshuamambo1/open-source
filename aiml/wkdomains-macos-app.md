@@ -1,8 +1,8 @@
 # wkdomains/macos-app
 
-[![Stars](https://img.shields.io/github/stars/wkdomains/macos-app?style=flat-square&color=yellow)](https://github.com/wkdomains/macos-app/stargazers) [![Forks](https://img.shields.io/github/forks/wkdomains/macos-app?style=flat-square&color=blue)](https://github.com/wkdomains/macos-app/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wkdomains/macos-app?style=flat-square&color=yellow)](https://github.com/wkdomains/macos-app/stargazers) [![Forks](https://img.shields.io/github/forks/wkdomains/macos-app?style=flat-square&color=blue)](https://github.com/wkdomains/macos-app/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A macOS browser for developers and coding agents. wkdomains lets tools like Codex and Claude Code see the page you are viewing, capture screenshots, inspect XHR/fetch calls, understand JSON response shapes, and reuse your authenticated browser context through a local API.
 
 ## 📊 Stats
 
@@ -10,8 +10,8 @@
 |---|---|
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Swift |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 

@@ -25,7 +25,9 @@ Security
 
 ## 📝 Summary
 
-Finos/git-proxy is an open-source project designed to enhance security in Git repositories by deploying custom push protections and policies. This tool allows organizations to enforce specific rules and restrictions on Git pushes, promoting secure and controlled collaboration among team members. By leveraging git-proxy, developers can safeguard their codebases against unauthorized changes and maintain a secure development environment.
+Here's a brief summary for the finos/git-proxy project:
+
+Finos/git-proxy is an open-source project that enables organizations to deploy custom push protections and policies on top of Git, enhancing the security of their version control repositories. By integrating with Git, this project allows for the implementation of tailored security measures to prevent unauthorized access and malicious code submissions. It provides a flexible and customizable solution for securing Git repositories.
 
 ---
 

@@ -1,6 +1,6 @@
 # ndonfris/fish-lsp
 
-[![Stars](https://img.shields.io/github/stars/ndonfris/fish-lsp?style=flat-square&color=yellow)](https://github.com/ndonfris/fish-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/ndonfris/fish-lsp?style=flat-square&color=blue)](https://github.com/ndonfris/fish-lsp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ndonfris/fish-lsp?style=flat-square&color=yellow)](https://github.com/ndonfris/fish-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/ndonfris/fish-lsp?style=flat-square&color=blue)](https://github.com/ndonfris/fish-lsp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > LSP implementation for the fish shell language  🐠
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

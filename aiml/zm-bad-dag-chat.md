@@ -1,6 +1,6 @@
 # ZM-BAD/DAG-chat
 
-[![Stars](https://img.shields.io/github/stars/ZM-BAD/DAG-chat?style=flat-square&color=yellow)](https://github.com/ZM-BAD/DAG-chat/stargazers) [![Forks](https://img.shields.io/github/forks/ZM-BAD/DAG-chat?style=flat-square&color=blue)](https://github.com/ZM-BAD/DAG-chat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZM-BAD/DAG-chat?style=flat-square&color=yellow)](https://github.com/ZM-BAD/DAG-chat/stargazers) [![Forks](https://img.shields.io/github/forks/ZM-BAD/DAG-chat?style=flat-square&color=blue)](https://github.com/ZM-BAD/DAG-chat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Chat applications that use DAG to build question-answer relationships.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

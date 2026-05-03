@@ -1,6 +1,6 @@
 # cloudsmith-io/cloudsmith-cli
 
-[![Stars](https://img.shields.io/github/stars/cloudsmith-io/cloudsmith-cli?style=flat-square&color=yellow)](https://github.com/cloudsmith-io/cloudsmith-cli/stargazers) [![Forks](https://img.shields.io/github/forks/cloudsmith-io/cloudsmith-cli?style=flat-square&color=blue)](https://github.com/cloudsmith-io/cloudsmith-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudsmith-io/cloudsmith-cli?style=flat-square&color=yellow)](https://github.com/cloudsmith-io/cloudsmith-cli/stargazers) [![Forks](https://img.shields.io/github/forks/cloudsmith-io/cloudsmith-cli?style=flat-square&color=blue)](https://github.com/cloudsmith-io/cloudsmith-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Cloudsmith Command Line Interface (CLI)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # webrecorder/browsertrix
 
-[![Stars](https://img.shields.io/github/stars/webrecorder/browsertrix?style=flat-square&color=yellow)](https://github.com/webrecorder/browsertrix/stargazers) [![Forks](https://img.shields.io/github/forks/webrecorder/browsertrix?style=flat-square&color=blue)](https://github.com/webrecorder/browsertrix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webrecorder/browsertrix?style=flat-square&color=yellow)](https://github.com/webrecorder/browsertrix/stargazers) [![Forks](https://img.shields.io/github/forks/webrecorder/browsertrix?style=flat-square&color=blue)](https://github.com/webrecorder/browsertrix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 406 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

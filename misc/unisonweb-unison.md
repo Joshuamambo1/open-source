@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.6k |
-| 🍴 **Forks** | 303 |
+| 🍴 **Forks** | 304 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |

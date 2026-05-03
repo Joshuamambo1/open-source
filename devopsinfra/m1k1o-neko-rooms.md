@@ -1,6 +1,6 @@
 # m1k1o/neko-rooms
 
-[![Stars](https://img.shields.io/github/stars/m1k1o/neko-rooms?style=flat-square&color=yellow)](https://github.com/m1k1o/neko-rooms/stargazers) [![Forks](https://img.shields.io/github/forks/m1k1o/neko-rooms?style=flat-square&color=blue)](https://github.com/m1k1o/neko-rooms/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/m1k1o/neko-rooms?style=flat-square&color=yellow)](https://github.com/m1k1o/neko-rooms/stargazers) [![Forks](https://img.shields.io/github/forks/m1k1o/neko-rooms?style=flat-square&color=blue)](https://github.com/m1k1o/neko-rooms/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Selfhosted collaborative browser - room management for n.eko
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 711 |
+| ⭐ **Stars** | 712 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

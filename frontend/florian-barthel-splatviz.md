@@ -1,6 +1,6 @@
 # Florian-Barthel/splatviz
 
-[![Stars](https://img.shields.io/github/stars/Florian-Barthel/splatviz?style=flat-square&color=yellow)](https://github.com/Florian-Barthel/splatviz/stargazers) [![Forks](https://img.shields.io/github/forks/Florian-Barthel/splatviz?style=flat-square&color=blue)](https://github.com/Florian-Barthel/splatviz/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Florian-Barthel/splatviz?style=flat-square&color=yellow)](https://github.com/Florian-Barthel/splatviz/stargazers) [![Forks](https://img.shields.io/github/forks/Florian-Barthel/splatviz?style=flat-square&color=blue)](https://github.com/Florian-Barthel/splatviz/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Full python interactive 3D Gaussian Splatting viewer for real-time editing and analyzing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

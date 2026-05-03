@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15539** |
+| 🗂️ **Total projects** | **15584** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5798 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3210 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1521 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1145 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 948 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 924 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 5817 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3221 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1525 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1146 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 952 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 927 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 528 | [Browse →](./crypto/) |
 | 📊 **Data** | 353 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 334 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 212 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 335 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 213 | [Browse →](./mobile/) |
 | 💳 **Payments** | 165 | [Browse →](./payments/) |
-| 📈 **Trading** | 161 | [Browse →](./trading/) |
+| 📈 **Trading** | 162 | [Browse →](./trading/) |
 | 🔐 **Security** | 127 | [Browse →](./security/) |
 | ✨ **Design** | 52 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
@@ -45,10 +45,10 @@
 | 4 | [flameshot-org/flameshot](./frontend/flameshot-org-flameshot.md) | ⭐ 29.8k | Frontend |
 | 5 | [Budibase/budibase](./orchestration/budibase-budibase.md) | ⭐ 27.9k | Orchestration |
 | 6 | [oapi-codegen/oapi-codegen](./backend/oapi-codegen-oapi-codegen.md) | ⭐ 8.3k | Backend |
-| 7 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
-| 8 | [farion1231/cc-switch](./aiml/farion1231-cc-switch.md) | ⭐ 58.4k | AI/ML |
-| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 10 | [doocs/leetcode](./misc/doocs-leetcode.md) | ⭐ 36k | Misc |
+| 7 | [langchain-ai/open-swe](./orchestration/langchain-ai-open-swe.md) | ⭐ 9.7k | Orchestration |
+| 8 | [openvinotoolkit/openvino](./aiml/openvinotoolkit-openvino.md) | ⭐ 10.2k | AI/ML |
+| 9 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
+| 10 | [rook/rook](./orchestration/rook-rook.md) | ⭐ 13.5k | Orchestration |
 
 ## 🚀 How it works
 

@@ -1,6 +1,6 @@
 # PaulNonatomic/ServiceKit
 
-[![Stars](https://img.shields.io/github/stars/PaulNonatomic/ServiceKit?style=flat-square&color=yellow)](https://github.com/PaulNonatomic/ServiceKit/stargazers) [![Forks](https://img.shields.io/github/forks/PaulNonatomic/ServiceKit?style=flat-square&color=blue)](https://github.com/PaulNonatomic/ServiceKit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaulNonatomic/ServiceKit?style=flat-square&color=yellow)](https://github.com/PaulNonatomic/ServiceKit/stargazers) [![Forks](https://img.shields.io/github/forks/PaulNonatomic/ServiceKit?style=flat-square&color=blue)](https://github.com/PaulNonatomic/ServiceKit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight dependency injection & service locator for Unity. Attribute-based registration, async resolution, fluent API, optional dependencies, service tags, UniTask support.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 

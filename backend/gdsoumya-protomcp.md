@@ -1,6 +1,6 @@
 # gdsoumya/protomcp
 
-[![Stars](https://img.shields.io/github/stars/gdsoumya/protomcp?style=flat-square&color=yellow)](https://github.com/gdsoumya/protomcp/stargazers) [![Forks](https://img.shields.io/github/forks/gdsoumya/protomcp?style=flat-square&color=blue)](https://github.com/gdsoumya/protomcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gdsoumya/protomcp?style=flat-square&color=yellow)](https://github.com/gdsoumya/protomcp/stargazers) [![Forks](https://img.shields.io/github/forks/gdsoumya/protomcp?style=flat-square&color=blue)](https://github.com/gdsoumya/protomcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any gRPC service into an MCP server with a single proto annotation. Zero changes to your gRPC server.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

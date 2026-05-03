@@ -1,6 +1,6 @@
 # rjyo/mosh-android
 
-[![Stars](https://img.shields.io/github/stars/rjyo/mosh-android?style=flat-square&color=yellow)](https://github.com/rjyo/mosh-android/stargazers) [![Forks](https://img.shields.io/github/forks/rjyo/mosh-android?style=flat-square&color=blue)](https://github.com/rjyo/mosh-android/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rjyo/mosh-android?style=flat-square&color=yellow)](https://github.com/rjyo/mosh-android/stargazers) [![Forks](https://img.shields.io/github/forks/rjyo/mosh-android?style=flat-square&color=blue)](https://github.com/rjyo/mosh-android/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Pre-built mosh (mobile shell) static libraries for Android NDK - supports arm64-v8a, armeabi-v7a, x86_64
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

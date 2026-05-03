@@ -1,6 +1,6 @@
 # Chrisiisx/Coding-Stats
 
-[![Stars](https://img.shields.io/github/stars/Chrisiisx/Coding-Stats?style=flat-square&color=yellow)](https://github.com/Chrisiisx/Coding-Stats/stargazers) [![Forks](https://img.shields.io/github/forks/Chrisiisx/Coding-Stats?style=flat-square&color=blue)](https://github.com/Chrisiisx/Coding-Stats/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chrisiisx/Coding-Stats?style=flat-square&color=yellow)](https://github.com/Chrisiisx/Coding-Stats/stargazers) [![Forks](https://img.shields.io/github/forks/Chrisiisx/Coding-Stats?style=flat-square&color=blue)](https://github.com/Chrisiisx/Coding-Stats/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Coding Stats is a private, open-source desktop app that tracks your real coding time across VS Code, terminal, and other dev tools. See daily/weekly trends, identify productive hours, and export your stats. No cloud, no tracking — just local insights to improve your workflow.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/antoinebou12/uml-mcp?style=flat-square&color=yellow)](https://github.com/antoinebou12/uml-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/antoinebou12/uml-mcp?style=flat-square&color=blue)](https://github.com/antoinebou12/uml-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
-> UML-MCP Server is a UML diagram generation tool based on MCP (Model Context Protocol), which can help users generate various types of UML diagrams through natural language description or directly writing PlantUML and Mermaid and Kroki
+> UML-MCP Server is a UML diagram generation tool based on MCP (Model Context Protocol), which can help users generate various types of UML diagrams through natural language description or directly writing PlantUML and Mermaid and Kroki https://uml-mcp.vercel.app/docs
 
 ## 📊 Stats
 

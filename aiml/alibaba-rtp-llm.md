@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 179 |
+| 🍴 **Forks** | 180 |
 | 💻 **Language** | Cuda |
 | 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |

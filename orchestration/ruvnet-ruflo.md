@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=flat-square&color=yellow)](https://github.com/ruvnet/ruflo/stargazers) [![Forks](https://img.shields.io/github/forks/ruvnet/ruflo?style=flat-square&color=blue)](https://github.com/ruvnet/ruflo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+> 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 37.7k |
-| 🍴 **Forks** | 4.3k |
+| ⭐ **Stars** | 38.4k |
+| 🍴 **Forks** | 4.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |

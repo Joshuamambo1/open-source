@@ -1,6 +1,6 @@
 # fuma-nama/fuma-comment
 
-[![Stars](https://img.shields.io/github/stars/fuma-nama/fuma-comment?style=flat-square&color=yellow)](https://github.com/fuma-nama/fuma-comment/stargazers) [![Forks](https://img.shields.io/github/forks/fuma-nama/fuma-comment?style=flat-square&color=blue)](https://github.com/fuma-nama/fuma-comment/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fuma-nama/fuma-comment?style=flat-square&color=yellow)](https://github.com/fuma-nama/fuma-comment/stargazers) [![Forks](https://img.shields.io/github/forks/fuma-nama/fuma-comment?style=flat-square&color=blue)](https://github.com/fuma-nama/fuma-comment/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > user friendly, beautiful comment area to your blog
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

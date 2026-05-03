@@ -1,6 +1,6 @@
 # aws/amazon-cloudwatch-agent
 
-[![Stars](https://img.shields.io/github/stars/aws/amazon-cloudwatch-agent?style=flat-square&color=yellow)](https://github.com/aws/amazon-cloudwatch-agent/stargazers) [![Forks](https://img.shields.io/github/forks/aws/amazon-cloudwatch-agent?style=flat-square&color=blue)](https://github.com/aws/amazon-cloudwatch-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/amazon-cloudwatch-agent?style=flat-square&color=yellow)](https://github.com/aws/amazon-cloudwatch-agent/stargazers) [![Forks](https://img.shields.io/github/forks/aws/amazon-cloudwatch-agent?style=flat-square&color=blue)](https://github.com/aws/amazon-cloudwatch-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 529 |
 | 🍴 **Forks** | 252 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

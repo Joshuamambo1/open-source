@@ -1,6 +1,6 @@
 # wyattjoh/jmap-mcp
 
-[![Stars](https://img.shields.io/github/stars/wyattjoh/jmap-mcp?style=flat-square&color=yellow)](https://github.com/wyattjoh/jmap-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/wyattjoh/jmap-mcp?style=flat-square&color=blue)](https://github.com/wyattjoh/jmap-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wyattjoh/jmap-mcp?style=flat-square&color=yellow)](https://github.com/wyattjoh/jmap-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/wyattjoh/jmap-mcp?style=flat-square&color=blue)](https://github.com/wyattjoh/jmap-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that provides tools for interacting with JMAP (JSON Meta Application Protocol) email servers. Built with Deno and using the jmap-jam client library.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

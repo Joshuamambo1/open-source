@@ -1,6 +1,6 @@
 # OpenLoaf/OpenLoaf
 
-[![Stars](https://img.shields.io/github/stars/OpenLoaf/OpenLoaf?style=flat-square&color=yellow)](https://github.com/OpenLoaf/OpenLoaf/stargazers) [![Forks](https://img.shields.io/github/forks/OpenLoaf/OpenLoaf?style=flat-square&color=blue)](https://github.com/OpenLoaf/OpenLoaf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenLoaf/OpenLoaf?style=flat-square&color=yellow)](https://github.com/OpenLoaf/OpenLoaf/stargazers) [![Forks](https://img.shields.io/github/forks/OpenLoaf/OpenLoaf?style=flat-square&color=blue)](https://github.com/OpenLoaf/OpenLoaf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 🍞Open-source, local-first AI workspace with Agents, multi-model chat (GPT/Claude/Gemini/DeepSeek), Notion-like docs, AI image & video generation, email, calendar & terminal. Your data never leaves your device. AI 工作台：智能代理 + 多模型对话 + 文档管理 + AI 生图/视频 + 邮件/日历/终端
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

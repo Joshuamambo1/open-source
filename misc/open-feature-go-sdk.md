@@ -1,6 +1,6 @@
 # open-feature/go-sdk
 
-[![Stars](https://img.shields.io/github/stars/open-feature/go-sdk?style=flat-square&color=yellow)](https://github.com/open-feature/go-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/open-feature/go-sdk?style=flat-square&color=blue)](https://github.com/open-feature/go-sdk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-feature/go-sdk?style=flat-square&color=yellow)](https://github.com/open-feature/go-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/open-feature/go-sdk?style=flat-square&color=blue)](https://github.com/open-feature/go-sdk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Go SDK for OpenFeature
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 235 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

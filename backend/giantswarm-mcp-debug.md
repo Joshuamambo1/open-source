@@ -1,6 +1,6 @@
 # giantswarm/mcp-debug
 
-[![Stars](https://img.shields.io/github/stars/giantswarm/mcp-debug?style=flat-square&color=yellow)](https://github.com/giantswarm/mcp-debug/stargazers) [![Forks](https://img.shields.io/github/forks/giantswarm/mcp-debug?style=flat-square&color=blue)](https://github.com/giantswarm/mcp-debug/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/giantswarm/mcp-debug?style=flat-square&color=yellow)](https://github.com/giantswarm/mcp-debug/stargazers) [![Forks](https://img.shields.io/github/forks/giantswarm/mcp-debug?style=flat-square&color=blue)](https://github.com/giantswarm/mcp-debug/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line tool for debugging MCP servers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

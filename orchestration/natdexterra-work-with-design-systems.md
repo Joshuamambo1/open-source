@@ -1,6 +1,6 @@
 # natdexterra/work-with-design-systems
 
-[![Stars](https://img.shields.io/github/stars/natdexterra/work-with-design-systems?style=flat-square&color=yellow)](https://github.com/natdexterra/work-with-design-systems/stargazers) [![Forks](https://img.shields.io/github/forks/natdexterra/work-with-design-systems?style=flat-square&color=blue)](https://github.com/natdexterra/work-with-design-systems/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/natdexterra/work-with-design-systems?style=flat-square&color=yellow)](https://github.com/natdexterra/work-with-design-systems/stargazers) [![Forks](https://img.shields.io/github/forks/natdexterra/work-with-design-systems?style=flat-square&color=blue)](https://github.com/natdexterra/work-with-design-systems/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Inspect, build, or extend Figma design systems from Claude Code. Read-only audits with WCAG checks and component scoring, build mode with variable bindings and slots, optional Phase 6 sync to tokens.css + AI rules.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

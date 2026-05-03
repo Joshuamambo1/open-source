@@ -1,6 +1,6 @@
 # AscendingCreations/AxumSession
 
-[![Stars](https://img.shields.io/github/stars/AscendingCreations/AxumSession?style=flat-square&color=yellow)](https://github.com/AscendingCreations/AxumSession/stargazers) [![Forks](https://img.shields.io/github/forks/AscendingCreations/AxumSession?style=flat-square&color=blue)](https://github.com/AscendingCreations/AxumSession/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AscendingCreations/AxumSession?style=flat-square&color=yellow)](https://github.com/AscendingCreations/AxumSession/stargazers) [![Forks](https://img.shields.io/github/forks/AscendingCreations/AxumSession?style=flat-square&color=blue)](https://github.com/AscendingCreations/AxumSession/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Axum Session Management Libraries that use Sqlx
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -34,7 +34,7 @@
 | 24 | [nil-go/konf](./nil-go-konf.md) | ⭐ 380 | Go | 49/100 |
 | 25 | [garritfra/cell](./garritfra-cell.md) | ⭐ 257 | Rust | 47/100 |
 | 26 | [angr/cle](./angr-cle.md) | ⭐ 480 | Python | 45/100 |
-| 27 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 335 | Go | 43/100 |
+| 27 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 336 | Go | 43/100 |
 | 28 | [AzureIvory/block-ads](./azureivory-block-ads.md) | ⭐ 197 | Go | 42/100 |
 | 29 | [wdecoster/cramino](./wdecoster-cramino.md) | ⭐ 182 | Rust | 41/100 |
 | 30 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 249 | Go | 38/100 |

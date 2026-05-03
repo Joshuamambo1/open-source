@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/rhino-acoustic/NeuronFS?style=flat-square&color=yellow)](https://github.com/rhino-acoustic/NeuronFS/stargazers) [![Forks](https://img.shields.io/github/forks/rhino-acoustic/NeuronFS?style=flat-square&color=blue)](https://github.com/rhino-acoustic/NeuronFS/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> mkdir beats vector DB. B-tree NeuronFS: 0-byte folders govern AI — ₩0 infrastructure, ~200x token efficiency. OS-native constraint engine for LLM agents.
+> A filesystem-native governance layer for AI agents. Folders are rules, counters are activation, Git is the audit trail.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · AI/ML
 
 ## 📝 Summary
 

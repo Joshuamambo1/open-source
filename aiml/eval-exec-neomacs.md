@@ -1,6 +1,6 @@
 # eval-exec/neomacs
 
-[![Stars](https://img.shields.io/github/stars/eval-exec/neomacs?style=flat-square&color=yellow)](https://github.com/eval-exec/neomacs/stargazers) [![Forks](https://img.shields.io/github/forks/eval-exec/neomacs?style=flat-square&color=blue)](https://github.com/eval-exec/neomacs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eval-exec/neomacs?style=flat-square&color=yellow)](https://github.com/eval-exec/neomacs/stargazers) [![Forks](https://img.shields.io/github/forks/eval-exec/neomacs?style=flat-square&color=blue)](https://github.com/eval-exec/neomacs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 692 |
-| 🍴 **Forks** | 24 |
+| 🍴 **Forks** | 25 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML · Design · Product
 
 ## 📝 Summary
 

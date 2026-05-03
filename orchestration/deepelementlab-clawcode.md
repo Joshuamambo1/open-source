@@ -1,6 +1,6 @@
 # deepelementlab/clawcode
 
-[![Stars](https://img.shields.io/github/stars/deepelementlab/clawcode?style=flat-square&color=yellow)](https://github.com/deepelementlab/clawcode/stargazers) [![Forks](https://img.shields.io/github/forks/deepelementlab/clawcode?style=flat-square&color=blue)](https://github.com/deepelementlab/clawcode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepelementlab/clawcode?style=flat-square&color=yellow)](https://github.com/deepelementlab/clawcode/stargazers) [![Forks](https://img.shields.io/github/forks/deepelementlab/clawcode?style=flat-square&color=blue)](https://github.com/deepelementlab/clawcode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > ClawCode is claude code inspired implementation in python and Rust focused on agents and experience-based evolution, and is an Open-source coding-agent CLI for Anthropic, OpenAI, Gemini, DeepSeek, GLM, Kimit, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 114 |
-| 🍴 **Forks** | 42 |
+| ⭐ **Stars** | 124 |
+| 🍴 **Forks** | 44 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

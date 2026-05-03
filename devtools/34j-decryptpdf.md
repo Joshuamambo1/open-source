@@ -1,6 +1,6 @@
 # 34j/decryptpdf
 
-[![Stars](https://img.shields.io/github/stars/34j/decryptpdf?style=flat-square&color=yellow)](https://github.com/34j/decryptpdf/stargazers) [![Forks](https://img.shields.io/github/forks/34j/decryptpdf?style=flat-square&color=blue)](https://github.com/34j/decryptpdf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/34j/decryptpdf?style=flat-square&color=yellow)](https://github.com/34j/decryptpdf/stargazers) [![Forks](https://img.shields.io/github/forks/34j/decryptpdf?style=flat-square&color=blue)](https://github.com/34j/decryptpdf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Simple CLI tool for decrypting PDF files. `uvx decryptpdf my.pdf` `pipx run decryptpdf my.pdf` (PDF password remover / unlocker, ✔Batch processing, ✔CLI)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

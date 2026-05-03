@@ -1,6 +1,6 @@
 # mixpanel/mixpanel-android
 
-[![Stars](https://img.shields.io/github/stars/mixpanel/mixpanel-android?style=flat-square&color=yellow)](https://github.com/mixpanel/mixpanel-android/stargazers) [![Forks](https://img.shields.io/github/forks/mixpanel/mixpanel-android?style=flat-square&color=blue)](https://github.com/mixpanel/mixpanel-android/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mixpanel/mixpanel-android?style=flat-square&color=yellow)](https://github.com/mixpanel/mixpanel-android/stargazers) [![Forks](https://img.shields.io/github/forks/mixpanel/mixpanel-android?style=flat-square&color=blue)](https://github.com/mixpanel/mixpanel-android/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Official Android Tracking Library for Mixpanel Analytics
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 372 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

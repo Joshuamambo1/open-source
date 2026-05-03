@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15688** |
+| 🗂️ **Total projects** | **15714** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,15 +18,15 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5848 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3256 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1540 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 5857 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3263 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1545 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 1149 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 960 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 963 | [Browse →](./backend/) |
 | 🔧 **DevTools** | 930 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 533 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 534 | [Browse →](./crypto/) |
 | 📊 **Data** | 355 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 335 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 336 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 217 | [Browse →](./mobile/) |
 | 💳 **Payments** | 164 | [Browse →](./payments/) |
 | 📈 **Trading** | 161 | [Browse →](./trading/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [utmapp/UTM](./aiml/utmapp-utm.md) | ⭐ 33.9k | AI/ML |
-| 2 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
-| 3 | [rook/rook](./orchestration/rook-rook.md) | ⭐ 13.5k | Orchestration |
-| 4 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 5 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 27.9k | AI/ML |
-| 6 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 38.4k | Orchestration |
-| 7 | [h2oai/h2o-3](./aiml/h2oai-h2o-3.md) | ⭐ 7.5k | AI/ML |
-| 8 | [Graylog2/graylog2-server](./backend/graylog2-graylog2-server.md) | ⭐ 8k | Backend |
-| 9 | [run-llama/llama_index](./orchestration/run-llama-llama-index.md) | ⭐ 49.1k | Orchestration |
-| 10 | [PrefectHQ/prefect](./orchestration/prefecthq-prefect.md) | ⭐ 22.3k | Orchestration |
+| 2 | [PatrickJS/awesome-angular](./aiml/patrickjs-awesome-angular.md) | ⭐ 10k | AI/ML |
+| 3 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
+| 4 | [rook/rook](./orchestration/rook-rook.md) | ⭐ 13.5k | Orchestration |
+| 5 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 6 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 27.9k | AI/ML |
+| 7 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 38.4k | Orchestration |
+| 8 | [h2oai/h2o-3](./aiml/h2oai-h2o-3.md) | ⭐ 7.5k | AI/ML |
+| 9 | [Graylog2/graylog2-server](./backend/graylog2-graylog2-server.md) | ⭐ 8k | Backend |
+| 10 | [run-llama/llama_index](./orchestration/run-llama-llama-index.md) | ⭐ 49.1k | Orchestration |
 
 ## 🚀 How it works
 

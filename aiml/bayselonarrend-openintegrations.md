@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Bayselonarrend/OpenIntegrations?style=flat-square&color=yellow)](https://github.com/Bayselonarrend/OpenIntegrations/stargazers) [![Forks](https://img.shields.io/github/forks/Bayselonarrend/OpenIntegrations?style=flat-square&color=blue)](https://github.com/Bayselonarrend/OpenIntegrations/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
-> Набор инструментов интеграции с популярными сервисами и технологиями для 1С:Предприятие, OneScript и CLI (Telegram, VK, Bitrix24, Google, Яндекс, S3, PostgreSQL, SQLite, MySQL и др.)
+> Набор инструментов интеграции с популярными сервисами и технологиями для 1С:Предприятие, OneScript и CLI+MCP (Telegram, VK, Bitrix24, Google, Яндекс, S3, PostgreSQL, SQLite, MySQL и др.)
 
 ## 📊 Stats
 

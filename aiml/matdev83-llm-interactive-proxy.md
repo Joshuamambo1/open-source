@@ -1,6 +1,6 @@
 # matdev83/llm-interactive-proxy
 
-[![Stars](https://img.shields.io/github/stars/matdev83/llm-interactive-proxy?style=flat-square&color=yellow)](https://github.com/matdev83/llm-interactive-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/matdev83/llm-interactive-proxy?style=flat-square&color=blue)](https://github.com/matdev83/llm-interactive-proxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matdev83/llm-interactive-proxy?style=flat-square&color=yellow)](https://github.com/matdev83/llm-interactive-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/matdev83/llm-interactive-proxy?style=flat-square&color=blue)](https://github.com/matdev83/llm-interactive-proxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Connect any LLM-powered client app, such as a coding agent, to any supported inference backend/model.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

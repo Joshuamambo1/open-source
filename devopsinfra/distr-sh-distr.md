@@ -1,6 +1,6 @@
 # distr-sh/distr
 
-[![Stars](https://img.shields.io/github/stars/distr-sh/distr?style=flat-square&color=yellow)](https://github.com/distr-sh/distr/stargazers) [![Forks](https://img.shields.io/github/forks/distr-sh/distr?style=flat-square&color=blue)](https://github.com/distr-sh/distr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/distr-sh/distr?style=flat-square&color=yellow)](https://github.com/distr-sh/distr/stargazers) [![Forks](https://img.shields.io/github/forks/distr-sh/distr?style=flat-square&color=blue)](https://github.com/distr-sh/distr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box. Supporting Docker Compose, Docker Swarm and Helm based applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

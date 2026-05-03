@@ -1,6 +1,6 @@
 # mCodex/react-native-sensitive-info
 
-[![Stars](https://img.shields.io/github/stars/mCodex/react-native-sensitive-info?style=flat-square&color=yellow)](https://github.com/mCodex/react-native-sensitive-info/stargazers) [![Forks](https://img.shields.io/github/forks/mCodex/react-native-sensitive-info?style=flat-square&color=blue)](https://github.com/mCodex/react-native-sensitive-info/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mCodex/react-native-sensitive-info?style=flat-square&color=yellow)](https://github.com/mCodex/react-native-sensitive-info/stargazers) [![Forks](https://img.shields.io/github/forks/mCodex/react-native-sensitive-info?style=flat-square&color=blue)](https://github.com/mCodex/react-native-sensitive-info/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🔐 React Native secure storage, rebuilt with Nitro Modules ⚡️ Biometric-ready, StrongBox-aware, and metadata-rich for modern mobile apps
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

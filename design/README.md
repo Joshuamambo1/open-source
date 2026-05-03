@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
-| 2 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.2k | JavaScript | 100/100 |
+| 1 | [alyssaxuu/screenity](./alyssaxuu-screenity.md) | ⭐ 18.2k | JavaScript | 100/100 |
+| 2 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25k | JavaScript | 100/100 |
 | 3 | [cheat/cheat](./cheat-cheat.md) | ⭐ 13.3k | Go | 98/100 |
 | 4 | [roboflow/rf-detr](./roboflow-rf-detr.md) | ⭐ 6.9k | Python | 97/100 |
 | 5 | [vscode-icons/vscode-icons](./vscode-icons-vscode-icons.md) | ⭐ 5k | TypeScript | 96/100 |
@@ -22,8 +22,8 @@
 | 12 | [j178/prek](./j178-prek.md) | ⭐ 7.5k | Rust | 82/100 |
 | 13 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
 | 14 | [pqoqubbw/icons](./pqoqubbw-icons.md) | ⭐ 7.5k | TypeScript | 79/100 |
-| 15 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.8k | TypeScript | 78/100 |
-| 16 | [lowRISC/opentitan](./lowrisc-opentitan.md) | ⭐ 3.3k | SystemVerilog | 78/100 |
+| 15 | [lowRISC/opentitan](./lowrisc-opentitan.md) | ⭐ 3.3k | SystemVerilog | 78/100 |
+| 16 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.8k | TypeScript | 78/100 |
 | 17 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |
 | 18 | [sipsorcery-org/sipsorcery](./sipsorcery-org-sipsorcery.md) | ⭐ 1.9k | C# | 71/100 |
 | 19 | [aws-samples/amazon-bedrock-workshop](./aws-samples-amazon-bedrock-workshop.md) | ⭐ 2.1k | Jupyter Notebook | 69/100 |
@@ -41,8 +41,8 @@
 | 31 | [processing/processing4](./processing-processing4.md) | ⭐ 394 | Java | 51/100 |
 | 32 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 50/100 |
 | 33 | [NX211/homer-icons](./nx211-homer-icons.md) | ⭐ 975 | Python | 50/100 |
-| 34 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 461 | JavaScript | 49/100 |
-| 35 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 329 | Go | 49/100 |
+| 34 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 329 | Go | 49/100 |
+| 35 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 461 | JavaScript | 49/100 |
 | 36 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
 | 37 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
 | 38 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |

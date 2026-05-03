@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
+Here's a brief summary of the project:
 
-The zhe-qi/clhoria-template is a production-ready Hono backend template that seamlessly integrates AI capabilities, enabling developers to create architecture-conformant code with the assistance of AI coding agents. This template comes with built-in features such as authentication, caching, and rate limiting, making it ready to use straight out of the box. By leveraging feedforward guides, feedback sensors, and progressive specialization, the AI agent harness within the template ensures reliable and efficient code generation.
+The zhe-qi/clhoria-template is an open-source, production-ready Hono backend template that serves as an AI agent harness. It provides a robust framework for feedforward guides, feedback sensors, and progressive specialization, enabling AI coding agents to generate architecture-conformant code reliably. This template is equipped with features like authentication, caching, and rate limiting, making it suitable for direct use in production environments.
 
 ---
 

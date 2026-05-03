@@ -1,6 +1,6 @@
 # gemini-cli-extensions/alloydb
 
-[![Stars](https://img.shields.io/github/stars/gemini-cli-extensions/alloydb?style=flat-square&color=yellow)](https://github.com/gemini-cli-extensions/alloydb/stargazers) [![Forks](https://img.shields.io/github/forks/gemini-cli-extensions/alloydb?style=flat-square&color=blue)](https://github.com/gemini-cli-extensions/alloydb/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gemini-cli-extensions/alloydb?style=flat-square&color=yellow)](https://github.com/gemini-cli-extensions/alloydb/stargazers) [![Forks](https://img.shields.io/github/forks/gemini-cli-extensions/alloydb?style=flat-square&color=blue)](https://github.com/gemini-cli-extensions/alloydb/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Skills for AlloyDB
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -27,7 +27,7 @@ AI/ML · Security
 
 Here's a brief summary of the biandratti/huginn-net project:
 
-Huginn-net is an open-source, multi-protocol passive fingerprinting library written in Rust. It enables the analysis of network protocols, including TCP and HTTP (similar to p0f-style analysis) as well as TLS connections (leveraging JA4-style analysis techniques). This library provides a powerful tool for security researchers and developers to identify and analyze network traffic.
+Huginn-net is an open-source library for passive network fingerprinting, capable of analyzing TCP, HTTP, and TLS protocols to identify network characteristics and device types. Developed in Rust, this multi-protocol library leverages techniques like p0f-style TCP analysis and JA4-style TLS analysis to provide detailed insights. It can be used in various applications, including security and AI/ML research.
 
 ---
 

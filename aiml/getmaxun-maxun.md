@@ -25,7 +25,9 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Maxun is an open-source, no-code platform for effortless web scraping, crawling, search, and AI data extraction. This innovative tool enables users to transform websites into structured APIs in just a few minutes, making it an ideal solution for data-intensive projects. By leveraging Maxun, developers can streamline data extraction processes and unlock valuable insights.
+Here's a 2-3 sentence summary for the getmaxun/maxun project:
+
+Maxun is an open-source, no-code platform for web scraping, crawling, and AI-powered data extraction. This innovative tool enables users to quickly transform websites into structured APIs, streamlining data access and analysis. By leveraging AI and machine learning capabilities, Maxun simplifies data extraction and makes it accessible to developers and non-technical users alike.
 
 ---
 

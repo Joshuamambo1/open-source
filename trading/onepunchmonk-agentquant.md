@@ -1,6 +1,6 @@
 # OnePunchMonk/AgentQuant
 
-[![Stars](https://img.shields.io/github/stars/OnePunchMonk/AgentQuant?style=flat-square&color=yellow)](https://github.com/OnePunchMonk/AgentQuant/stargazers) [![Forks](https://img.shields.io/github/forks/OnePunchMonk/AgentQuant?style=flat-square&color=blue)](https://github.com/OnePunchMonk/AgentQuant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OnePunchMonk/AgentQuant?style=flat-square&color=yellow)](https://github.com/OnePunchMonk/AgentQuant/stargazers) [![Forks](https://img.shields.io/github/forks/OnePunchMonk/AgentQuant?style=flat-square&color=blue)](https://github.com/OnePunchMonk/AgentQuant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous quantitative trading research platform that transforms stock lists into fully backtested strategies using AI agents, real market data, and mathematical formulations, all without requiring any coding.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

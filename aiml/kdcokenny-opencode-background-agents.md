@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the project:
 
-This project provides Claude Code-style background agents for OpenCode, allowing for asynchronous delegation with context persistence. The agents enable users to efficiently run tasks in the background while maintaining context, streamlining AI/ML workflows. By leveraging this feature, developers can optimize their OpenCode applications for improved productivity and performance.
+This open-source project provides Claude Code-style background agents for OpenCode, enabling async delegation with context persistence. These agents facilitate efficient and scalable background processing, allowing developers to leverage AI/ML capabilities with reduced latency and increased reliability. By utilizing this project, developers can create robust and high-performance applications that integrate seamlessly with OpenCode.
 
 ---
 

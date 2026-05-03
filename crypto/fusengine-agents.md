@@ -1,6 +1,6 @@
 # fusengine/agents
 
-[![Stars](https://img.shields.io/github/stars/fusengine/agents?style=flat-square&color=yellow)](https://github.com/fusengine/agents/stargazers) [![Forks](https://img.shields.io/github/forks/fusengine/agents?style=flat-square&color=blue)](https://github.com/fusengine/agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fusengine/agents?style=flat-square&color=yellow)](https://github.com/fusengine/agents/stargazers) [![Forks](https://img.shields.io/github/forks/fusengine/agents?style=flat-square&color=blue)](https://github.com/fusengine/agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Redefining development through cognitive automation and collaborative agent systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

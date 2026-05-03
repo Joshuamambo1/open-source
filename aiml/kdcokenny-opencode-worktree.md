@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The opencode-worktree project offers a seamless and hassle-free experience for working with OpenCode, a collaborative platform for AI and ML development. This open-source tool automates the creation of zero-friction git worktrees, instantly launching terminals and synchronizing files for a productive workflow. Upon exit, it also cleans up any temporary resources, streamlining the development process.
+This open-source project, kdcokenny/opencode-worktree, provides a seamless Git worktree experience for OpenCode users. It automatically spawns terminals, synchronizes files, and cleans up when the session is closed, streamlining development workflows. This tool is ideal for AI/ML developers seeking to optimize their collaboration and coding efficiency with OpenCode.
 
 ---
 

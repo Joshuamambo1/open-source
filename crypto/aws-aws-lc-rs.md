@@ -1,6 +1,6 @@
 # aws/aws-lc-rs
 
-[![Stars](https://img.shields.io/github/stars/aws/aws-lc-rs?style=flat-square&color=yellow)](https://github.com/aws/aws-lc-rs/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-lc-rs?style=flat-square&color=blue)](https://github.com/aws/aws-lc-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/aws-lc-rs?style=flat-square&color=yellow)](https://github.com/aws/aws-lc-rs/stargazers) [![Forks](https://img.shields.io/github/forks/aws/aws-lc-rs?style=flat-square&color=blue)](https://github.com/aws/aws-lc-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 584 |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

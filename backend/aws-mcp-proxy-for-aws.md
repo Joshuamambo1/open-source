@@ -1,6 +1,6 @@
 # aws/mcp-proxy-for-aws
 
-[![Stars](https://img.shields.io/github/stars/aws/mcp-proxy-for-aws?style=flat-square&color=yellow)](https://github.com/aws/mcp-proxy-for-aws/stargazers) [![Forks](https://img.shields.io/github/forks/aws/mcp-proxy-for-aws?style=flat-square&color=blue)](https://github.com/aws/mcp-proxy-for-aws/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/mcp-proxy-for-aws?style=flat-square&color=yellow)](https://github.com/aws/mcp-proxy-for-aws/stargazers) [![Forks](https://img.shields.io/github/forks/aws/mcp-proxy-for-aws?style=flat-square&color=blue)](https://github.com/aws/mcp-proxy-for-aws/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > AWS MCP Proxy Server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 261 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

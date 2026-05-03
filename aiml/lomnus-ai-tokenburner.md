@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The TokenBurner is an open-source, on-demand token burning solution powered by Claude Code. This tool allows users to stress test, inflate metrics, or simply burn tokens as needed, providing a flexible and programmable way to manage token supply. By leveraging Claude Code's capabilities, TokenBurner offers a customizable and efficient solution for token management.
+The TokenBurner project is an open-source, on-demand token burning tool built using Claude Code. It enables users to stress test, inflate metrics, or simply "set money on fire" by burning tokens with ease. This versatile tool is designed for developers and AI/ML enthusiasts looking to experiment with token management.
 
 ---
 

@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The OpenSearch Java Client is an open-source project that provides a Java API for interacting with OpenSearch, a highly scalable search and analytics engine. This client enables developers to easily integrate OpenSearch into their Java applications, making it simple to perform search queries, index data, and manage OpenSearch clusters. By using the OpenSearch Java Client, developers can focus on building innovative applications without the need to handle the underlying search engine complexities.
+The OpenSearch Java Client is an open-source project that allows developers to interact with OpenSearch, a powerful and scalable search and analytics engine, using Java. This client provides a simple and intuitive API for indexing, searching, and managing data in OpenSearch, making it easier to integrate OpenSearch into Java-based applications. With the OpenSearch Java Client, developers can build robust and efficient search solutions.
 
 ---
 

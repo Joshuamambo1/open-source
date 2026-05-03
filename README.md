@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15378** |
+| 🗂️ **Total projects** | **15426** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5739 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3174 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1502 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 5760 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3183 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1507 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 1140 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 939 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 917 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 526 | [Browse →](./crypto/) |
-| 📊 **Data** | 347 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 330 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 208 | [Browse →](./mobile/) |
+| ⚙️ **Backend** | 943 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 920 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 527 | [Browse →](./crypto/) |
+| 📊 **Data** | 349 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 331 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 209 | [Browse →](./mobile/) |
 | 💳 **Payments** | 163 | [Browse →](./payments/) |
-| 📈 **Trading** | 156 | [Browse →](./trading/) |
+| 📈 **Trading** | 157 | [Browse →](./trading/) |
 | 🔐 **Security** | 126 | [Browse →](./security/) |
 | ✨ **Design** | 51 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
@@ -42,13 +42,13 @@
 | 1 | [Dooy/chatgpt-web-midjourney-proxy](./aiml/dooy-chatgpt-web-midjourney-proxy.md) | ⭐ 6.7k | AI/ML |
 | 2 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.4k | AI/ML |
 | 3 | [beekeeper-studio/beekeeper-studio](./backend/beekeeper-studio-beekeeper-studio.md) | ⭐ 22.7k | Backend |
-| 4 | [getmaxun/maxun](./aiml/getmaxun-maxun.md) | ⭐ 15.5k | AI/ML |
+| 4 | [v2rayA/v2rayA](./frontend/v2raya-v2raya.md) | ⭐ 15k | Frontend |
 | 5 | [quic-go/quic-go](./frontend/quic-go-quic-go.md) | ⭐ 11.6k | Frontend |
-| 6 | [emacs-lsp/lsp-mode](./aiml/emacs-lsp-lsp-mode.md) | ⭐ 5.1k | AI/ML |
-| 7 | [nicolargo/glances](./backend/nicolargo-glances.md) | ⭐ 32.4k | Backend |
-| 8 | [travisvn/awesome-claude-skills](./aiml/travisvn-awesome-claude-skills.md) | ⭐ 12.1k | AI/ML |
-| 9 | [python-pillow/Pillow](./misc/python-pillow-pillow.md) | ⭐ 13.6k | Misc |
-| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 6 | [getmaxun/maxun](./aiml/getmaxun-maxun.md) | ⭐ 15.5k | AI/ML |
+| 7 | [emacs-lsp/lsp-mode](./aiml/emacs-lsp-lsp-mode.md) | ⭐ 5.1k | AI/ML |
+| 8 | [nicolargo/glances](./backend/nicolargo-glances.md) | ⭐ 32.4k | Backend |
+| 9 | [stashapp/stash](./misc/stashapp-stash.md) | ⭐ 12.3k | Misc |
+| 10 | [travisvn/awesome-claude-skills](./aiml/travisvn-awesome-claude-skills.md) | ⭐ 12.1k | AI/ML |
 
 ## 🚀 How it works
 

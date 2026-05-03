@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-VOICEVOX/voicevox_core is an open-source core component of the VOICEVOX text-to-speech software, offering high-quality voice synthesis at no cost. This project aims to provide a robust and flexible platform for text-to-speech functionality, suitable for various applications and languages. With its focus on quality and accessibility, VOICEVOX/voicevox_core is an attractive option for developers seeking a reliable text-to-speech solution.
+VOICEVOX/voicevox_core is an open-source project that provides a high-quality, free text-to-speech software core. This core is a key component of the VOICEVOX software, enabling users to generate high-quality speech from text inputs. By utilizing this project, developers can incorporate text-to-speech functionality into their applications.
 
 ---
 

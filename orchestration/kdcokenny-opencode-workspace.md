@@ -25,9 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "kdcokenny/opencode-workspace":
+Here's a brief summary for the open-source project:
 
-The opencode-workspace is an open-source, multi-agent orchestration harness for OpenCode, providing a unified installation experience and complete control over AI/ML workflows. This bundled solution streamlines the development process, enabling users to manage complex AI/ML projects with ease. By consolidating essential tools and features, opencode-workspace simplifies the journey from development to deployment.
+The opencode-workspace is a comprehensive, all-in-one orchestration harness designed for OpenCode. This open-source tool streamlines multi-agent orchestration, providing users with a single point of control for managing complex workflows. With opencode-workspace, developers can easily manage and coordinate AI/ML tasks, simplifying the development process and accelerating project outcomes.
 
 ---
 

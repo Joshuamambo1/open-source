@@ -1,6 +1,6 @@
 # FulAppiOS/Agent-Quest
 
-[![Stars](https://img.shields.io/github/stars/FulAppiOS/Agent-Quest?style=flat-square&color=yellow)](https://github.com/FulAppiOS/Agent-Quest/stargazers) [![Forks](https://img.shields.io/github/forks/FulAppiOS/Agent-Quest?style=flat-square&color=blue)](https://github.com/FulAppiOS/Agent-Quest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FulAppiOS/Agent-Quest?style=flat-square&color=yellow)](https://github.com/FulAppiOS/Agent-Quest/stargazers) [![Forks](https://img.shields.io/github/forks/FulAppiOS/Agent-Quest?style=flat-square&color=blue)](https://github.com/FulAppiOS/Agent-Quest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time gamified dashboard for monitoring Claude Code and Codex AI agents in a medieval fantasy setting
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49 |
+| ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

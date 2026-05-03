@@ -1,6 +1,6 @@
 # Willxup/cpa-usage-keeper
 
-[![Stars](https://img.shields.io/github/stars/Willxup/cpa-usage-keeper?style=flat-square&color=yellow)](https://github.com/Willxup/cpa-usage-keeper/stargazers) [![Forks](https://img.shields.io/github/forks/Willxup/cpa-usage-keeper?style=flat-square&color=blue)](https://github.com/Willxup/cpa-usage-keeper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Willxup/cpa-usage-keeper?style=flat-square&color=yellow)](https://github.com/Willxup/cpa-usage-keeper/stargazers) [![Forks](https://img.shields.io/github/forks/Willxup/cpa-usage-keeper?style=flat-square&color=blue)](https://github.com/Willxup/cpa-usage-keeper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 独立的 Cli-Proxy-API用量追踪与展示服务，内置 SQLite 持久化和 Dashboard / Standalone Cli-Proxy-API usage tracker with SQLite persistence and built-in dashboard.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 173 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 185 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

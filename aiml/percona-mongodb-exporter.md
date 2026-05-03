@@ -1,6 +1,6 @@
 # percona/mongodb_exporter
 
-[![Stars](https://img.shields.io/github/stars/percona/mongodb_exporter?style=flat-square&color=yellow)](https://github.com/percona/mongodb_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/percona/mongodb_exporter?style=flat-square&color=blue)](https://github.com/percona/mongodb_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/percona/mongodb_exporter?style=flat-square&color=yellow)](https://github.com/percona/mongodb_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/percona/mongodb_exporter?style=flat-square&color=blue)](https://github.com/percona/mongodb_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A Prometheus exporter for MongoDB including sharding, replication and storage engines
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 457 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

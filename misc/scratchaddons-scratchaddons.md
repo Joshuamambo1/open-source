@@ -1,6 +1,6 @@
 # ScratchAddons/ScratchAddons
 
-[![Stars](https://img.shields.io/github/stars/ScratchAddons/ScratchAddons?style=flat-square&color=yellow)](https://github.com/ScratchAddons/ScratchAddons/stargazers) [![Forks](https://img.shields.io/github/forks/ScratchAddons/ScratchAddons?style=flat-square&color=blue)](https://github.com/ScratchAddons/ScratchAddons/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ScratchAddons/ScratchAddons?style=flat-square&color=yellow)](https://github.com/ScratchAddons/ScratchAddons/stargazers) [![Forks](https://img.shields.io/github/forks/ScratchAddons/ScratchAddons?style=flat-square&color=blue)](https://github.com/ScratchAddons/ScratchAddons/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > All-in-one browser extension for Scratch.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 805 |
 | 🍴 **Forks** | 427 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

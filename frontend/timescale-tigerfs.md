@@ -25,9 +25,7 @@ Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the timescale/tigerfs project:
-
-Tigerfs is an open-source project that allows you to mount a PostgreSQL database as a filesystem, enabling developers to interact with databases using familiar Linux commands like ls and cat. This innovative approach simplifies database exploration and integration with applications that require file-based access. By leveraging Tigerfs, developers can build applications that seamlessly combine file and database operations.
+The timescale/tigerfs project allows developers to mount a PostgreSQL database as a filesystem, enabling the use of familiar file system commands like ls and cat to interact with and explore database contents. This innovative approach simplifies the process of working with data and applications, making it easier to build and manage data-driven projects. By leveraging PostgreSQL as a filesystem, developers can tap into the robust features and functionality of the database from a more traditional file system perspective.
 
 ---
 

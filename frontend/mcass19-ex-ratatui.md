@@ -1,6 +1,6 @@
 # mcass19/ex_ratatui
 
-[![Stars](https://img.shields.io/github/stars/mcass19/ex_ratatui?style=flat-square&color=yellow)](https://github.com/mcass19/ex_ratatui/stargazers) [![Forks](https://img.shields.io/github/forks/mcass19/ex_ratatui?style=flat-square&color=blue)](https://github.com/mcass19/ex_ratatui/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mcass19/ex_ratatui?style=flat-square&color=yellow)](https://github.com/mcass19/ex_ratatui/stargazers) [![Forks](https://img.shields.io/github/forks/mcass19/ex_ratatui?style=flat-square&color=blue)](https://github.com/mcass19/ex_ratatui/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Elixir bindings for the Rust ratatui terminal UI library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

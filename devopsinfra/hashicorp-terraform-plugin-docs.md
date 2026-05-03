@@ -1,6 +1,6 @@
 # hashicorp/terraform-plugin-docs
 
-[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-plugin-docs?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-plugin-docs/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-plugin-docs?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-plugin-docs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-plugin-docs?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-plugin-docs/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-plugin-docs?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-plugin-docs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Generate and validate Terraform plugin/provider documentation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 262 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

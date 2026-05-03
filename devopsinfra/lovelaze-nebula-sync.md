@@ -25,7 +25,9 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The nebula-sync project is an open-source tool designed to synchronize configurations across multiple Pi-hole instances, simplifying the management of network-wide settings. This DevOps/Infra project enables seamless replication of configuration changes across multiple Pi-hole v6.x instances, reducing the administrative burden and improving network consistency. By streamlining configuration synchronization, nebula-sync enhances the overall efficiency of network management.
+Here's a brief summary for the lovelaze/nebula-sync project:
+
+Nebula Sync is an open-source project designed to synchronize configuration across multiple Pi-hole v6.x instances, streamlining management and maintenance of your network's DNS filtering system. This DevOps tool enables easy replication of settings, updates, and customizations across multiple Pi-hole instances, reducing administrative overhead and ensuring consistency. By automating configuration synchronization, Nebula Sync helps ensure a unified and secure DNS filtering experience across your network.
 
 ---
 

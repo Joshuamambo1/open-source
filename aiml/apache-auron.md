@@ -1,6 +1,6 @@
 # apache/auron
 
-[![Stars](https://img.shields.io/github/stars/apache/auron?style=flat-square&color=yellow)](https://github.com/apache/auron/stargazers) [![Forks](https://img.shields.io/github/forks/apache/auron?style=flat-square&color=blue)](https://github.com/apache/auron/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/auron?style=flat-square&color=yellow)](https://github.com/apache/auron/stargazers) [![Forks](https://img.shields.io/github/forks/apache/auron?style=flat-square&color=blue)](https://github.com/apache/auron/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The Auron accelerator for distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # jeffhuber/rubiks-solver
 
-[![Stars](https://img.shields.io/github/stars/jeffhuber/rubiks-solver?style=flat-square&color=yellow)](https://github.com/jeffhuber/rubiks-solver/stargazers) [![Forks](https://img.shields.io/github/forks/jeffhuber/rubiks-solver?style=flat-square&color=blue)](https://github.com/jeffhuber/rubiks-solver/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeffhuber/rubiks-solver?style=flat-square&color=yellow)](https://github.com/jeffhuber/rubiks-solver/stargazers) [![Forks](https://img.shields.io/github/forks/jeffhuber/rubiks-solver?style=flat-square&color=blue)](https://github.com/jeffhuber/rubiks-solver/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Browser-based Rubik's Cube solver — upload a flat-net image, get the step-by-step solution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

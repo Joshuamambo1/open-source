@@ -1,6 +1,6 @@
 # AntdUI/AntdUI
 
-[![Stars](https://img.shields.io/github/stars/AntdUI/AntdUI?style=flat-square&color=yellow)](https://github.com/AntdUI/AntdUI/stargazers) [![Forks](https://img.shields.io/github/forks/AntdUI/AntdUI?style=flat-square&color=blue)](https://github.com/AntdUI/AntdUI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AntdUI/AntdUI?style=flat-square&color=yellow)](https://github.com/AntdUI/AntdUI/stargazers) [![Forks](https://img.shields.io/github/forks/AntdUI/AntdUI?style=flat-square&color=blue)](https://github.com/AntdUI/AntdUI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 👚 Winform interface library based on the Ant Design
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 994 |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

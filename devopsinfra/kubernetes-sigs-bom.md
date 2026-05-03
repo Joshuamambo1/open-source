@@ -1,6 +1,6 @@
 # kubernetes-sigs/bom
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/bom?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/bom/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/bom?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/bom/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/bom?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/bom/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/bom?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/bom/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A utility to generate SPDX-compliant Bill of Materials manifests
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 454 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

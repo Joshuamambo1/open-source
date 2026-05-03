@@ -1,6 +1,6 @@
 # bergside/awesome-design-skills
 
-[![Stars](https://img.shields.io/github/stars/bergside/awesome-design-skills?style=flat-square&color=yellow)](https://github.com/bergside/awesome-design-skills/stargazers) [![Forks](https://img.shields.io/github/forks/bergside/awesome-design-skills?style=flat-square&color=blue)](https://github.com/bergside/awesome-design-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bergside/awesome-design-skills?style=flat-square&color=yellow)](https://github.com/bergside/awesome-design-skills/stargazers) [![Forks](https://img.shields.io/github/forks/bergside/awesome-design-skills?style=flat-square&color=blue)](https://github.com/bergside/awesome-design-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > List of awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 288 |
-| 🍴 **Forks** | 31 |
+| ⭐ **Stars** | 290 |
+| 🍴 **Forks** | 32 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

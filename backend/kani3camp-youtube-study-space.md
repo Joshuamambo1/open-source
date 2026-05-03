@@ -1,6 +1,6 @@
 # kani3camp/youtube-study-space
 
-[![Stars](https://img.shields.io/github/stars/kani3camp/youtube-study-space?style=flat-square&color=yellow)](https://github.com/kani3camp/youtube-study-space/stargazers) [![Forks](https://img.shields.io/github/forks/kani3camp/youtube-study-space?style=flat-square&color=blue)](https://github.com/kani3camp/youtube-study-space/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kani3camp/youtube-study-space?style=flat-square&color=yellow)](https://github.com/kani3camp/youtube-study-space/stargazers) [![Forks](https://img.shields.io/github/forks/kani3camp/youtube-study-space?style=flat-square&color=blue)](https://github.com/kani3camp/youtube-study-space/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Youtube-based online study space! You can enter the study-room by using command in youtube live chat.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

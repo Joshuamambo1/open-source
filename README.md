@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15064** |
+| 🗂️ **Total projects** | **15095** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,16 +18,16 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5631 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3090 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1474 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 5643 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3099 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1476 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 1121 | [Browse →](./orchestration/) |
 | ⚙️ **Backend** | 923 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 896 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 518 | [Browse →](./crypto/) |
-| 📊 **Data** | 343 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 322 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 203 | [Browse →](./mobile/) |
+| 🔧 **DevTools** | 899 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 519 | [Browse →](./crypto/) |
+| 📊 **Data** | 344 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 324 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 204 | [Browse →](./mobile/) |
 | 💳 **Payments** | 162 | [Browse →](./payments/) |
 | 📈 **Trading** | 153 | [Browse →](./trading/) |
 | 🔐 **Security** | 122 | [Browse →](./security/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [react-hook-form/react-hook-form](./frontend/react-hook-form-react-hook-form.md) | ⭐ 44.7k | Frontend |
-| 2 | [tldraw/tldraw](./frontend/tldraw-tldraw.md) | ⭐ 46.8k | Frontend |
-| 3 | [The-PR-Agent/pr-agent](./aiml/the-pr-agent-pr-agent.md) | ⭐ 11.1k | AI/ML |
-| 4 | [kovidgoyal/calibre](./misc/kovidgoyal-calibre.md) | ⭐ 24.7k | Misc |
-| 5 | [Yin-Hongwei/music-website](./frontend/yin-hongwei-music-website.md) | ⭐ 6.7k | Frontend |
-| 6 | [grpc/grpc-go](./backend/grpc-grpc-go.md) | ⭐ 22.9k | Backend |
-| 7 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.1k | AI/ML |
-| 8 | [kubernetes/kube-state-metrics](./aiml/kubernetes-kube-state-metrics.md) | ⭐ 6.1k | AI/ML |
-| 9 | [krayin/laravel-crm](./frontend/krayin-laravel-crm.md) | ⭐ 22.4k | Frontend |
-| 10 | [ToolJet/ToolJet](./aiml/tooljet-tooljet.md) | ⭐ 37.9k | AI/ML |
+| 1 | [2dust/v2rayNG](./devtools/2dust-v2rayng.md) | ⭐ 55.3k | DevTools |
+| 2 | [react-hook-form/react-hook-form](./frontend/react-hook-form-react-hook-form.md) | ⭐ 44.7k | Frontend |
+| 3 | [tldraw/tldraw](./frontend/tldraw-tldraw.md) | ⭐ 46.8k | Frontend |
+| 4 | [Yin-Hongwei/music-website](./frontend/yin-hongwei-music-website.md) | ⭐ 6.7k | Frontend |
+| 5 | [grpc/grpc-go](./backend/grpc-grpc-go.md) | ⭐ 22.9k | Backend |
+| 6 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.1k | AI/ML |
+| 7 | [kubernetes/kube-state-metrics](./aiml/kubernetes-kube-state-metrics.md) | ⭐ 6.1k | AI/ML |
+| 8 | [krayin/laravel-crm](./frontend/krayin-laravel-crm.md) | ⭐ 22.4k | Frontend |
+| 9 | [ToolJet/ToolJet](./aiml/tooljet-tooljet.md) | ⭐ 37.9k | AI/ML |
+| 10 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
 
 ## 🚀 How it works
 

@@ -1,6 +1,6 @@
 # SpharxTeam/AgentOS
 
-[![Stars](https://img.shields.io/github/stars/SpharxTeam/AgentOS?style=flat-square&color=yellow)](https://github.com/SpharxTeam/AgentOS/stargazers) [![Forks](https://img.shields.io/github/forks/SpharxTeam/AgentOS?style=flat-square&color=blue)](https://github.com/SpharxTeam/AgentOS/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SpharxTeam/AgentOS?style=flat-square&color=yellow)](https://github.com/SpharxTeam/AgentOS/stargazers) [![Forks](https://img.shields.io/github/forks/SpharxTeam/AgentOS?style=flat-square&color=blue)](https://github.com/SpharxTeam/AgentOS/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Airymax AgentOS: 200K+ context & 10M memory, 1000h tasks at 99.1% accuracy, 80% token reduction, 5× industry efficiency. Natively compatible with OpenClaw, openJiuwen, LangChain, Claude & OpenAI APIs; more agent protocols coming.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 936 |
-| 🍴 **Forks** | 108 |
+| ⭐ **Stars** | 946 |
+| 🍴 **Forks** | 109 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

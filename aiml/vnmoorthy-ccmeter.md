@@ -1,6 +1,6 @@
 # vnmoorthy/ccmeter
 
-[![Stars](https://img.shields.io/github/stars/vnmoorthy/ccmeter?style=flat-square&color=yellow)](https://github.com/vnmoorthy/ccmeter/stargazers) [![Forks](https://img.shields.io/github/forks/vnmoorthy/ccmeter?style=flat-square&color=blue)](https://github.com/vnmoorthy/ccmeter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vnmoorthy/ccmeter?style=flat-square&color=yellow)](https://github.com/vnmoorthy/ccmeter/stargazers) [![Forks](https://img.shields.io/github/forks/vnmoorthy/ccmeter?style=flat-square&color=blue)](https://github.com/vnmoorthy/ccmeter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first spend & cache-efficiency dashboard for Claude Code. Reads ~/.claude/projects, tells you exactly what's costing you. No telemetry, no API key.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

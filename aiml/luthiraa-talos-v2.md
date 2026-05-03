@@ -1,6 +1,6 @@
 # Luthiraa/TALOS-V2
 
-[![Stars](https://img.shields.io/github/stars/Luthiraa/TALOS-V2?style=flat-square&color=yellow)](https://github.com/Luthiraa/TALOS-V2/stargazers) [![Forks](https://img.shields.io/github/forks/Luthiraa/TALOS-V2?style=flat-square&color=blue)](https://github.com/Luthiraa/TALOS-V2/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Luthiraa/TALOS-V2?style=flat-square&color=yellow)](https://github.com/Luthiraa/TALOS-V2/stargazers) [![Forks](https://img.shields.io/github/forks/Luthiraa/TALOS-V2?style=flat-square&color=blue)](https://github.com/Luthiraa/TALOS-V2/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > hardware implementation of transformers running microgpt at 50k+ tkps
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 130 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 199 |
+| 🍴 **Forks** | 14 |
 | 💻 **Language** | Verilog |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

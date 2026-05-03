@@ -1,6 +1,6 @@
 # zmap/zgrab2
 
-[![Stars](https://img.shields.io/github/stars/zmap/zgrab2?style=flat-square&color=yellow)](https://github.com/zmap/zgrab2/stargazers) [![Forks](https://img.shields.io/github/forks/zmap/zgrab2?style=flat-square&color=blue)](https://github.com/zmap/zgrab2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zmap/zgrab2?style=flat-square&color=yellow)](https://github.com/zmap/zgrab2/stargazers) [![Forks](https://img.shields.io/github/forks/zmap/zgrab2?style=flat-square&color=blue)](https://github.com/zmap/zgrab2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Fast Application Layer Scanner
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 363 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

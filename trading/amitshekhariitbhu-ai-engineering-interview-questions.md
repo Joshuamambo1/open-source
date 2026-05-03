@@ -1,6 +1,6 @@
 # amitshekhariitbhu/ai-engineering-interview-questions
 
-[![Stars](https://img.shields.io/github/stars/amitshekhariitbhu/ai-engineering-interview-questions?style=flat-square&color=yellow)](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/stargazers) [![Forks](https://img.shields.io/github/forks/amitshekhariitbhu/ai-engineering-interview-questions?style=flat-square&color=blue)](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amitshekhariitbhu/ai-engineering-interview-questions?style=flat-square&color=yellow)](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/stargazers) [![Forks](https://img.shields.io/github/forks/amitshekhariitbhu/ai-engineering-interview-questions?style=flat-square&color=blue)](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Your Cheat Sheet for AI Engineering Interview – Questions and Answers.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 260 |
+| 🍴 **Forks** | 261 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # salespeak-ai/buyer-eval-skill
 
-[![Stars](https://img.shields.io/github/stars/salespeak-ai/buyer-eval-skill?style=flat-square&color=yellow)](https://github.com/salespeak-ai/buyer-eval-skill/stargazers) [![Forks](https://img.shields.io/github/forks/salespeak-ai/buyer-eval-skill?style=flat-square&color=blue)](https://github.com/salespeak-ai/buyer-eval-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/salespeak-ai/buyer-eval-skill?style=flat-square&color=yellow)](https://github.com/salespeak-ai/buyer-eval-skill/stargazers) [![Forks](https://img.shields.io/github/forks/salespeak-ai/buyer-eval-skill?style=flat-square&color=blue)](https://github.com/salespeak-ai/buyer-eval-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > B2B software vendor evaluation skill for Claude Code — domain-expert questions, vendor AI agent conversations, evidence-based scoring
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

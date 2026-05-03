@@ -1,6 +1,6 @@
 # streamnative/streamnative-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/streamnative/streamnative-mcp-server?style=flat-square&color=yellow)](https://github.com/streamnative/streamnative-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/streamnative/streamnative-mcp-server?style=flat-square&color=blue)](https://github.com/streamnative/streamnative-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/streamnative/streamnative-mcp-server?style=flat-square&color=yellow)](https://github.com/streamnative/streamnative-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/streamnative/streamnative-mcp-server?style=flat-square&color=blue)](https://github.com/streamnative/streamnative-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Developer-friendly MCP server bridging Kafka and Pulsar protocols—built with ❤️ by StreamNative for an agentic, streaming-first future.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

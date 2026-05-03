@@ -1,6 +1,6 @@
 # baturyilmaz/uartterminal.com
 
-[![Stars](https://img.shields.io/github/stars/baturyilmaz/uartterminal.com?style=flat-square&color=yellow)](https://github.com/baturyilmaz/uartterminal.com/stargazers) [![Forks](https://img.shields.io/github/forks/baturyilmaz/uartterminal.com?style=flat-square&color=blue)](https://github.com/baturyilmaz/uartterminal.com/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/baturyilmaz/uartterminal.com?style=flat-square&color=yellow)](https://github.com/baturyilmaz/uartterminal.com/stargazers) [![Forks](https://img.shields.io/github/forks/baturyilmaz/uartterminal.com?style=flat-square&color=blue)](https://github.com/baturyilmaz/uartterminal.com/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

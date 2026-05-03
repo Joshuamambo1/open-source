@@ -1,6 +1,6 @@
 # artifact-keeper/artifact-keeper
 
-[![Stars](https://img.shields.io/github/stars/artifact-keeper/artifact-keeper?style=flat-square&color=yellow)](https://github.com/artifact-keeper/artifact-keeper/stargazers) [![Forks](https://img.shields.io/github/forks/artifact-keeper/artifact-keeper?style=flat-square&color=blue)](https://github.com/artifact-keeper/artifact-keeper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/artifact-keeper/artifact-keeper?style=flat-square&color=yellow)](https://github.com/artifact-keeper/artifact-keeper/stargazers) [![Forks](https://img.shields.io/github/forks/artifact-keeper/artifact-keeper?style=flat-square&color=blue)](https://github.com/artifact-keeper/artifact-keeper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40+ package formats, security scanning, WASM plugins, and edge replication.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 560 |
+| ⭐ **Stars** | 562 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # upcomingsimplecoder/mosaic
 
-[![Stars](https://img.shields.io/github/stars/upcomingsimplecoder/mosaic?style=flat-square&color=yellow)](https://github.com/upcomingsimplecoder/mosaic/stargazers) [![Forks](https://img.shields.io/github/forks/upcomingsimplecoder/mosaic?style=flat-square&color=blue)](https://github.com/upcomingsimplecoder/mosaic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/upcomingsimplecoder/mosaic?style=flat-square&color=yellow)](https://github.com/upcomingsimplecoder/mosaic/stargazers) [![Forks](https://img.shields.io/github/forks/upcomingsimplecoder/mosaic?style=flat-square&color=blue)](https://github.com/upcomingsimplecoder/mosaic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Trust primitives for AI agent memory - wire spec, reference servers, conformance suite
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

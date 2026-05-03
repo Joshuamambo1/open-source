@@ -1,6 +1,6 @@
 # onvoyage-ai/gtm-engineer-skills
 
-[![Stars](https://img.shields.io/github/stars/onvoyage-ai/gtm-engineer-skills?style=flat-square&color=yellow)](https://github.com/onvoyage-ai/gtm-engineer-skills/stargazers) [![Forks](https://img.shields.io/github/forks/onvoyage-ai/gtm-engineer-skills?style=flat-square&color=blue)](https://github.com/onvoyage-ai/gtm-engineer-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onvoyage-ai/gtm-engineer-skills?style=flat-square&color=yellow)](https://github.com/onvoyage-ai/gtm-engineer-skills/stargazers) [![Forks](https://img.shields.io/github/forks/onvoyage-ai/gtm-engineer-skills?style=flat-square&color=blue)](https://github.com/onvoyage-ai/gtm-engineer-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skill for improving website AEO (AI Engine Optimization) and GEO (Generative Engine Optimization) scores — 16 foundational checks, 6 intelligence dimensions, framework-specific fixes
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 936 |
+| ⭐ **Stars** | 941 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

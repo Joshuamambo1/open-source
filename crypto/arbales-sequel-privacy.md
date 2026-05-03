@@ -1,6 +1,6 @@
 # arbales/sequel-privacy
 
-[![Stars](https://img.shields.io/github/stars/arbales/sequel-privacy?style=flat-square&color=yellow)](https://github.com/arbales/sequel-privacy/stargazers) [![Forks](https://img.shields.io/github/forks/arbales/sequel-privacy?style=flat-square&color=blue)](https://github.com/arbales/sequel-privacy/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arbales/sequel-privacy?style=flat-square&color=yellow)](https://github.com/arbales/sequel-privacy/stargazers) [![Forks](https://img.shields.io/github/forks/arbales/sequel-privacy?style=flat-square&color=blue)](https://github.com/arbales/sequel-privacy/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > a Sequel::Model plugin for object and field-level privacy definition and enforcement
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

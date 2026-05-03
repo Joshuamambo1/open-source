@@ -1,6 +1,6 @@
 # sbezverk/gobmp
 
-[![Stars](https://img.shields.io/github/stars/sbezverk/gobmp?style=flat-square&color=yellow)](https://github.com/sbezverk/gobmp/stargazers) [![Forks](https://img.shields.io/github/forks/sbezverk/gobmp?style=flat-square&color=blue)](https://github.com/sbezverk/gobmp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sbezverk/gobmp?style=flat-square&color=yellow)](https://github.com/sbezverk/gobmp/stargazers) [![Forks](https://img.shields.io/github/forks/sbezverk/gobmp?style=flat-square&color=blue)](https://github.com/sbezverk/gobmp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > go based implementation of BGP's BMP protocol
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 121 |
+| ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

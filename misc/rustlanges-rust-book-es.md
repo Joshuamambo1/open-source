@@ -1,6 +1,6 @@
 # RustLangES/rust-book-es
 
-[![Stars](https://img.shields.io/github/stars/RustLangES/rust-book-es?style=flat-square&color=yellow)](https://github.com/RustLangES/rust-book-es/stargazers) [![Forks](https://img.shields.io/github/forks/RustLangES/rust-book-es?style=flat-square&color=blue)](https://github.com/RustLangES/rust-book-es/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RustLangES/rust-book-es?style=flat-square&color=yellow)](https://github.com/RustLangES/rust-book-es/stargazers) [![Forks](https://img.shields.io/github/forks/RustLangES/rust-book-es?style=flat-square&color=blue)](https://github.com/RustLangES/rust-book-es/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Libro de Rust en Español!
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 150 |
-| 🍴 **Forks** | 40 |
+| ⭐ **Stars** | 151 |
+| 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

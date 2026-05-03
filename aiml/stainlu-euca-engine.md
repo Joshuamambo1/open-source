@@ -1,6 +1,6 @@
 # stainlu/euca-engine
 
-[![Stars](https://img.shields.io/github/stars/stainlu/euca-engine?style=flat-square&color=yellow)](https://github.com/stainlu/euca-engine/stargazers) [![Forks](https://img.shields.io/github/forks/stainlu/euca-engine?style=flat-square&color=blue)](https://github.com/stainlu/euca-engine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stainlu/euca-engine?style=flat-square&color=yellow)](https://github.com/stainlu/euca-engine/stargazers) [![Forks](https://img.shields.io/github/forks/stainlu/euca-engine?style=flat-square&color=blue)](https://github.com/stainlu/euca-engine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > ECS-first game engine for ai agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

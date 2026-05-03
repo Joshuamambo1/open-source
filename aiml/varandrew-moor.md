@@ -1,6 +1,6 @@
 # varandrew/moor
 
-[![Stars](https://img.shields.io/github/stars/varandrew/moor?style=flat-square&color=yellow)](https://github.com/varandrew/moor/stargazers) [![Forks](https://img.shields.io/github/forks/varandrew/moor?style=flat-square&color=blue)](https://github.com/varandrew/moor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/varandrew/moor?style=flat-square&color=yellow)](https://github.com/varandrew/moor/stargazers) [![Forks](https://img.shields.io/github/forks/varandrew/moor?style=flat-square&color=blue)](https://github.com/varandrew/moor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Moor is a local MCP control plane for Mac. It gives every coding agent one safe, observable, configurable gateway to your MCP servers.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 61 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 81 |
+| 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # gowvp/owl
 
-[![Stars](https://img.shields.io/github/stars/gowvp/owl?style=flat-square&color=yellow)](https://github.com/gowvp/owl/stargazers) [![Forks](https://img.shields.io/github/forks/gowvp/owl?style=flat-square&color=blue)](https://github.com/gowvp/owl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gowvp/owl?style=flat-square&color=yellow)](https://github.com/gowvp/owl/stargazers) [![Forks](https://img.shields.io/github/forks/gowvp/owl?style=flat-square&color=blue)](https://github.com/gowvp/owl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > GB28181 - 2022 NVR | ONVIF/RTMP/RTSP | ZLMediaKit | 本地 YOLO 检测 | 私有部署 | Frigate 中文平替
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 725 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

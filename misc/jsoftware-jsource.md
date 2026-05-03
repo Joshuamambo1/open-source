@@ -1,6 +1,6 @@
 # jsoftware/jsource
 
-[![Stars](https://img.shields.io/github/stars/jsoftware/jsource?style=flat-square&color=yellow)](https://github.com/jsoftware/jsource/stargazers) [![Forks](https://img.shields.io/github/forks/jsoftware/jsource?style=flat-square&color=blue)](https://github.com/jsoftware/jsource/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jsoftware/jsource?style=flat-square&color=yellow)](https://github.com/jsoftware/jsource/stargazers) [![Forks](https://img.shields.io/github/forks/jsoftware/jsource?style=flat-square&color=blue)](https://github.com/jsoftware/jsource/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > J engine source mirror
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 734 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | C |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

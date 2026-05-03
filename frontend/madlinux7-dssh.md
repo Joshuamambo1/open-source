@@ -1,6 +1,6 @@
 # madLinux7/dssh
 
-[![Stars](https://img.shields.io/github/stars/madLinux7/dssh?style=flat-square&color=yellow)](https://github.com/madLinux7/dssh/stargazers) [![Forks](https://img.shields.io/github/forks/madLinux7/dssh?style=flat-square&color=blue)](https://github.com/madLinux7/dssh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/madLinux7/dssh?style=flat-square&color=yellow)](https://github.com/madLinux7/dssh/stargazers) [![Forks](https://img.shields.io/github/forks/madLinux7/dssh?style=flat-square&color=blue)](https://github.com/madLinux7/dssh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The only SSH connection manager you'll ever need. CLI & TUI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 80 |
+| ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

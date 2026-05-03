@@ -1,6 +1,6 @@
 # FloatTech/ZeroBot-Plugin
 
-[![Stars](https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&color=yellow)](https://github.com/FloatTech/ZeroBot-Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/FloatTech/ZeroBot-Plugin?style=flat-square&color=blue)](https://github.com/FloatTech/ZeroBot-Plugin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&color=yellow)](https://github.com/FloatTech/ZeroBot-Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/FloatTech/ZeroBot-Plugin?style=flat-square&color=blue)](https://github.com/FloatTech/ZeroBot-Plugin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 ZeroBot 的 OneBot 插件
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

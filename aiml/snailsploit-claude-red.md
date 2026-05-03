@@ -1,6 +1,6 @@
 # SnailSploit/Claude-Red
 
-[![Stars](https://img.shields.io/github/stars/SnailSploit/Claude-Red?style=flat-square&color=yellow)](https://github.com/SnailSploit/Claude-Red/stargazers) [![Forks](https://img.shields.io/github/forks/SnailSploit/Claude-Red?style=flat-square&color=blue)](https://github.com/SnailSploit/Claude-Red/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SnailSploit/Claude-Red?style=flat-square&color=yellow)](https://github.com/SnailSploit/Claude-Red/stargazers) [![Forks](https://img.shields.io/github/forks/SnailSploit/Claude-Red?style=flat-square&color=blue)](https://github.com/SnailSploit/Claude-Red/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 197 |
+| ⭐ **Stars** | 1.2k |
+| 🍴 **Forks** | 199 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

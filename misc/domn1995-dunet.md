@@ -1,6 +1,6 @@
 # domn1995/dunet
 
-[![Stars](https://img.shields.io/github/stars/domn1995/dunet?style=flat-square&color=yellow)](https://github.com/domn1995/dunet/stargazers) [![Forks](https://img.shields.io/github/forks/domn1995/dunet?style=flat-square&color=blue)](https://github.com/domn1995/dunet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/domn1995/dunet?style=flat-square&color=yellow)](https://github.com/domn1995/dunet/stargazers) [![Forks](https://img.shields.io/github/forks/domn1995/dunet?style=flat-square&color=blue)](https://github.com/domn1995/dunet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > C# discriminated union source generator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 875 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

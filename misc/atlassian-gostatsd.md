@@ -1,6 +1,6 @@
 # atlassian/gostatsd
 
-[![Stars](https://img.shields.io/github/stars/atlassian/gostatsd?style=flat-square&color=yellow)](https://github.com/atlassian/gostatsd/stargazers) [![Forks](https://img.shields.io/github/forks/atlassian/gostatsd?style=flat-square&color=blue)](https://github.com/atlassian/gostatsd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atlassian/gostatsd?style=flat-square&color=yellow)](https://github.com/atlassian/gostatsd/stargazers) [![Forks](https://img.shields.io/github/forks/atlassian/gostatsd?style=flat-square&color=blue)](https://github.com/atlassian/gostatsd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > An implementation of Etsy's statsd in Go with tags support
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 398 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

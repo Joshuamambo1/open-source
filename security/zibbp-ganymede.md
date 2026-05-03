@@ -1,6 +1,6 @@
 # Zibbp/ganymede
 
-[![Stars](https://img.shields.io/github/stars/Zibbp/ganymede?style=flat-square&color=yellow)](https://github.com/Zibbp/ganymede/stargazers) [![Forks](https://img.shields.io/github/forks/Zibbp/ganymede?style=flat-square&color=blue)](https://github.com/Zibbp/ganymede/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zibbp/ganymede?style=flat-square&color=yellow)](https://github.com/Zibbp/ganymede/stargazers) [![Forks](https://img.shields.io/github/forks/Zibbp/ganymede?style=flat-square&color=blue)](https://github.com/Zibbp/ganymede/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 952 |
+| ⭐ **Stars** | 951 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

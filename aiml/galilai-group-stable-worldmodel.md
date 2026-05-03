@@ -1,17 +1,17 @@
 # galilai-group/stable-worldmodel
 
-[![Stars](https://img.shields.io/github/stars/galilai-group/stable-worldmodel?style=flat-square&color=yellow)](https://github.com/galilai-group/stable-worldmodel/stargazers) [![Forks](https://img.shields.io/github/forks/galilai-group/stable-worldmodel?style=flat-square&color=blue)](https://github.com/galilai-group/stable-worldmodel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/galilai-group/stable-worldmodel?style=flat-square&color=yellow)](https://github.com/galilai-group/stable-worldmodel/stargazers) [![Forks](https://img.shields.io/github/forks/galilai-group/stable-worldmodel?style=flat-square&color=blue)](https://github.com/galilai-group/stable-worldmodel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Reliable, minimal and scalable library for evaluating and conducting world model research
+> A platform for reproducible world model research and evaluation
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 521 |
+| ⭐ **Stars** | 523 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

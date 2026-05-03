@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/dodo-reach/hermes-desktop?style=flat-square&color=yellow)](https://github.com/dodo-reach/hermes-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/dodo-reach/hermes-desktop?style=flat-square&color=blue)](https://github.com/dodo-reach/hermes-desktop/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
-> A native Mac workspace for Hermes: real SSH, real terminal, real session data.
+> The safest, simplest way to manage Hermes from your Mac. Pure SSH. No gateways, no exposed ports, no browser layer.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 747 |
+| ⭐ **Stars** | 748 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 56/100 |

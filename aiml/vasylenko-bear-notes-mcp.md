@@ -1,6 +1,6 @@
 # vasylenko/bear-notes-mcp
 
-[![Stars](https://img.shields.io/github/stars/vasylenko/bear-notes-mcp?style=flat-square&color=yellow)](https://github.com/vasylenko/bear-notes-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/vasylenko/bear-notes-mcp?style=flat-square&color=blue)](https://github.com/vasylenko/bear-notes-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vasylenko/bear-notes-mcp?style=flat-square&color=yellow)](https://github.com/vasylenko/bear-notes-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/vasylenko/bear-notes-mcp?style=flat-square&color=blue)](https://github.com/vasylenko/bear-notes-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 188 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

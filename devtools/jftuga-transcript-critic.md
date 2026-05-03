@@ -1,6 +1,6 @@
 # jftuga/transcript-critic
 
-[![Stars](https://img.shields.io/github/stars/jftuga/transcript-critic?style=flat-square&color=yellow)](https://github.com/jftuga/transcript-critic/stargazers) [![Forks](https://img.shields.io/github/forks/jftuga/transcript-critic?style=flat-square&color=blue)](https://github.com/jftuga/transcript-critic/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jftuga/transcript-critic?style=flat-square&color=yellow)](https://github.com/jftuga/transcript-critic/stargazers) [![Forks](https://img.shields.io/github/forks/jftuga/transcript-critic?style=flat-square&color=blue)](https://github.com/jftuga/transcript-critic/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skill that transcribes audio/video with whisper.cpp to get structured critical analysis including timestamped summaries, evidence notes, logical fallacies, and underdeveloped areas
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

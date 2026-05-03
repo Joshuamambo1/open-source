@@ -1,6 +1,6 @@
 # logseq/publish-spa
 
-[![Stars](https://img.shields.io/github/stars/logseq/publish-spa?style=flat-square&color=yellow)](https://github.com/logseq/publish-spa/stargazers) [![Forks](https://img.shields.io/github/forks/logseq/publish-spa?style=flat-square&color=blue)](https://github.com/logseq/publish-spa/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/logseq/publish-spa?style=flat-square&color=yellow)](https://github.com/logseq/publish-spa/stargazers) [![Forks](https://img.shields.io/github/forks/logseq/publish-spa?style=flat-square&color=blue)](https://github.com/logseq/publish-spa/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A github action and CLI to publish logseq graphs as a SPA app
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

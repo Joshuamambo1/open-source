@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the SamuNatsu/mihomosh project:
-
-SamuNatsu/mihomosh is an open-source, command-line interface (CLI) toolkit designed to simplify tasks for users of Mihomo. This DevTools project provides a collection of tools and utilities to streamline interactions with Mihomo, enhancing user efficiency and convenience. By leveraging the power of a CLI, users can automate and customize their Mihomo experiences with ease.
+SamuNatsu/mihomosh is an open-source, command-line interface (CLI) toolkit designed to simplify interactions with Mihomo, a cloud-based platform. This DevTools project provides a streamlined interface for users to manage and configure Mihomo services from the terminal, increasing productivity and efficiency. By leveraging the power of a CLI, users can automate tasks and reduce the complexity of interacting with the Mihomo platform.
 
 ---
 

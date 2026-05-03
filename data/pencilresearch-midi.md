@@ -1,6 +1,6 @@
 # pencilresearch/midi
 
-[![Stars](https://img.shields.io/github/stars/pencilresearch/midi?style=flat-square&color=yellow)](https://github.com/pencilresearch/midi/stargazers) [![Forks](https://img.shields.io/github/forks/pencilresearch/midi?style=flat-square&color=blue)](https://github.com/pencilresearch/midi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pencilresearch/midi?style=flat-square&color=yellow)](https://github.com/pencilresearch/midi/stargazers) [![Forks](https://img.shields.io/github/forks/pencilresearch/midi?style=flat-square&color=blue)](https://github.com/pencilresearch/midi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > MIDI CC & NRPN database
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 320 |
-| 🍴 **Forks** | 83 |
+| 🍴 **Forks** | 84 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

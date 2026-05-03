@@ -1,6 +1,6 @@
 # aklos/scryer
 
-[![Stars](https://img.shields.io/github/stars/aklos/scryer?style=flat-square&color=yellow)](https://github.com/aklos/scryer/stargazers) [![Forks](https://img.shields.io/github/forks/aklos/scryer?style=flat-square&color=blue)](https://github.com/aklos/scryer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aklos/scryer?style=flat-square&color=yellow)](https://github.com/aklos/scryer/stargazers) [![Forks](https://img.shields.io/github/forks/aklos/scryer?style=flat-square&color=blue)](https://github.com/aklos/scryer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Visual architecture modeling for AI agents. Edit C4 diagrams in a drag-and-drop editor. AI reads, modifies, and implements the same model through built-in MCP server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

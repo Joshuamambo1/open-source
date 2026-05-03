@@ -1,6 +1,6 @@
 # aws/eks-anywhere
 
-[![Stars](https://img.shields.io/github/stars/aws/eks-anywhere?style=flat-square&color=yellow)](https://github.com/aws/eks-anywhere/stargazers) [![Forks](https://img.shields.io/github/forks/aws/eks-anywhere?style=flat-square&color=blue)](https://github.com/aws/eks-anywhere/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/eks-anywhere?style=flat-square&color=yellow)](https://github.com/aws/eks-anywhere/stargazers) [![Forks](https://img.shields.io/github/forks/aws/eks-anywhere?style=flat-square&color=blue)](https://github.com/aws/eks-anywhere/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Run Amazon EKS on your own infrastructure 🚀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

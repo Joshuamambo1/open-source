@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-specification
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-specification?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-specification/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-specification?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-specification/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-specification?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-specification/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-specification?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-specification/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Specifications for OpenTelemetry
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 976 |
 | 💻 **Language** | Makefile |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

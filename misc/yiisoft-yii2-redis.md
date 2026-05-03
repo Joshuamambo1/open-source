@@ -1,6 +1,6 @@
 # yiisoft/yii2-redis
 
-[![Stars](https://img.shields.io/github/stars/yiisoft/yii2-redis?style=flat-square&color=yellow)](https://github.com/yiisoft/yii2-redis/stargazers) [![Forks](https://img.shields.io/github/forks/yiisoft/yii2-redis?style=flat-square&color=blue)](https://github.com/yiisoft/yii2-redis/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yiisoft/yii2-redis?style=flat-square&color=yellow)](https://github.com/yiisoft/yii2-redis/stargazers) [![Forks](https://img.shields.io/github/forks/yiisoft/yii2-redis?style=flat-square&color=blue)](https://github.com/yiisoft/yii2-redis/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Yii 2 Redis extension.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 449 |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

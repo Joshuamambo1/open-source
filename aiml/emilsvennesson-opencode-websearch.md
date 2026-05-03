@@ -1,6 +1,6 @@
 # emilsvennesson/opencode-websearch
 
-[![Stars](https://img.shields.io/github/stars/emilsvennesson/opencode-websearch?style=flat-square&color=yellow)](https://github.com/emilsvennesson/opencode-websearch/stargazers) [![Forks](https://img.shields.io/github/forks/emilsvennesson/opencode-websearch?style=flat-square&color=blue)](https://github.com/emilsvennesson/opencode-websearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emilsvennesson/opencode-websearch?style=flat-square&color=yellow)](https://github.com/emilsvennesson/opencode-websearch/stargazers) [![Forks](https://img.shields.io/github/forks/emilsvennesson/opencode-websearch?style=flat-square&color=blue)](https://github.com/emilsvennesson/opencode-websearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Native web search for OpenCode, powered by your model's built-in search capability. No extra API keys or search services required. Inspired by Claude Code's WebSearch tool.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

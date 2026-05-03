@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-This open-source project, pydantic-ai-skills, enables seamless integration of Agent Skills with Pydantic AI, a Python framework for building AI applications. It facilitates the use of both filesystem-based and programmatically defined skills, making it easier to develop and deploy AI-powered projects. This package streamlines the process of creating and managing AI skills, promoting efficient and scalable AI development.
+The pydantic-ai-skills package provides Agent Skills support for Pydantic AI, enabling progressive disclosure and seamless integration with AI/ML workflows. This open-source project offers support for both filesystem and programmatic skills, catering to diverse use cases. By leveraging this package, developers can simplify the process of integrating AI skills into their applications.
 
 ---
 

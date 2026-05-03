@@ -1,6 +1,6 @@
 # open-jarvis/OpenJarvis
 
-[![Stars](https://img.shields.io/github/stars/open-jarvis/OpenJarvis?style=flat-square&color=yellow)](https://github.com/open-jarvis/OpenJarvis/stargazers) [![Forks](https://img.shields.io/github/forks/open-jarvis/OpenJarvis?style=flat-square&color=blue)](https://github.com/open-jarvis/OpenJarvis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-jarvis/OpenJarvis?style=flat-square&color=yellow)](https://github.com/open-jarvis/OpenJarvis/stargazers) [![Forks](https://img.shields.io/github/forks/open-jarvis/OpenJarvis?style=flat-square&color=blue)](https://github.com/open-jarvis/OpenJarvis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Personal AI, On Personal Devices
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.4k |
+| ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 759 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

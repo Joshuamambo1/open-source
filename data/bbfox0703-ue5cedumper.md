@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The UE5CEDumper is an open-source project that serves as a runtime data inspector and structure explorer for Unreal Engine 4 and 5. It allows developers to inspect and explore their project's data, facilitating a deeper understanding of their game or application's internal workings. This tool is a valuable asset for developers during the development process, enabling them to identify and troubleshoot issues more efficiently.
+The UE5CEDumper is an open-source project that provides a runtime data inspector and structure explorer for UE4 and UE5 game development. This tool allows developers to inspect and explore data structures in real-time, facilitating a deeper understanding of their game's inner workings. By analyzing runtime data, developers can identify potential issues and optimize their game's performance.
 
 ---
 

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Lisa is an open-source, live dynamic wavetables synthesizer that allows users to play and program their sounds in real-time. This innovative tool empowers musicians and sound designers to experiment with a wide range of sounds and textures, fostering creativity and improvisation. By offering a dynamic and interactive interface, Lisa offers a unique approach to sound generation and manipulation.
+Lisa is an open-source, live dynamic wavetables synthesizer that allows users to play and program in real-time. This innovative tool enables musicians and sound designers to experiment and create unique sounds on the fly, making it an invaluable resource for those seeking to push the boundaries of electronic music production. By leveraging the power of wavetables, Lisa offers a dynamic and interactive approach to sound generation.
 
 ---
 

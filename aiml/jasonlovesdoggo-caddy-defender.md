@@ -25,7 +25,7 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-Caddy-Defender is an open-source Caddy module that helps protect websites from AI-powered attacks and unwanted data scraping by cloud services. This module allows users to block or manipulate requests originating from suspicious sources, such as AIs or cloud services, to train on their websites. By utilizing Caddy-Defender, website owners can maintain the integrity of their data and prevent unauthorized use.
+Caddy-Defender is an open-source Caddy module designed to protect websites from automated threats, such as AIs and cloud services, that attempt to train on or scrape website content. This module provides a layer of defense by blocking or manipulating requests from suspicious sources, helping to safeguard website integrity and prevent data misuse. By leveraging Caddy-Defender, website owners can ensure their online presence remains secure and protected.
 
 ---
 

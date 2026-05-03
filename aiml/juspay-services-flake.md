@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The juspay/services-flake project provides NixOS-like services for Nix flakes, offering a flexible and configurable solution for managing services in a Nix-based environment. This project, maintained by @shivaraj-bh, enables users to define and deploy services in a declarative manner, streamlining service management and configuration. It is particularly suited for use cases involving AI/ML applications.
+The juspay/services-flake project provides NixOS-like services for Nix flakes, offering a modular and composable approach to managing system services. This open-source initiative is designed to streamline the configuration and deployment of services in Nix flake-based environments, making it easier to manage complex systems. By leveraging this project, developers can write more efficient and maintainable code for their Nix flake projects.
 
 ---
 

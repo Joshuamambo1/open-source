@@ -25,9 +25,9 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the kubewall project:
+Here's a brief summary for the kubewall project:
 
-kubewall is an open-source, single-binary Kubernetes dashboard that offers multi-cluster management capabilities, allowing users to efficiently manage and monitor their clusters from a centralized interface. Additionally, kubewall integrates AI/ML technologies to provide intelligent insights and automation features, enhancing the overall Kubernetes experience. This project offers a user-friendly and powerful solution for Kubernetes administrators and developers.
+Kubewall is an open-source, single-binary Kubernetes dashboard that provides multi-cluster management capabilities and integrates with various AI technologies. This comprehensive platform enables users to efficiently manage and monitor their Kubernetes clusters while leveraging the power of artificial intelligence for enhanced insights and decision-making. By streamlining cluster management and AI integration, Kubewall simplifies the complex task of Kubernetes cluster administration.
 
 ---
 

@@ -1,6 +1,6 @@
 # T-Troll/alienfx-tools
 
-[![Stars](https://img.shields.io/github/stars/T-Troll/alienfx-tools?style=flat-square&color=yellow)](https://github.com/T-Troll/alienfx-tools/stargazers) [![Forks](https://img.shields.io/github/forks/T-Troll/alienfx-tools?style=flat-square&color=blue)](https://github.com/T-Troll/alienfx-tools/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/T-Troll/alienfx-tools?style=flat-square&color=yellow)](https://github.com/T-Troll/alienfx-tools/stargazers) [![Forks](https://img.shields.io/github/forks/T-Troll/alienfx-tools?style=flat-square&color=blue)](https://github.com/T-Troll/alienfx-tools/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Alienware systems lights, fans, and power control tools and apps
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 780 |
+| ⭐ **Stars** | 781 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

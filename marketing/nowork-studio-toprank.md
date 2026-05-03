@@ -1,6 +1,6 @@
 # nowork-studio/toprank
 
-[![Stars](https://img.shields.io/github/stars/nowork-studio/toprank?style=flat-square&color=yellow)](https://github.com/nowork-studio/toprank/stargazers) [![Forks](https://img.shields.io/github/forks/nowork-studio/toprank?style=flat-square&color=blue)](https://github.com/nowork-studio/toprank/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nowork-studio/toprank?style=flat-square&color=yellow)](https://github.com/nowork-studio/toprank/stargazers) [![Forks](https://img.shields.io/github/forks/nowork-studio/toprank?style=flat-square&color=blue)](https://github.com/nowork-studio/toprank/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 220 |
+| 🍴 **Forks** | 221 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

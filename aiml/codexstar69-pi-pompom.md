@@ -1,6 +1,6 @@
 # codexstar69/pi-pompom
 
-[![Stars](https://img.shields.io/github/stars/codexstar69/pi-pompom?style=flat-square&color=yellow)](https://github.com/codexstar69/pi-pompom/stargazers) [![Forks](https://img.shields.io/github/forks/codexstar69/pi-pompom?style=flat-square&color=blue)](https://github.com/codexstar69/pi-pompom/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codexstar69/pi-pompom?style=flat-square&color=yellow)](https://github.com/codexstar69/pi-pompom/stargazers) [![Forks](https://img.shields.io/github/forks/codexstar69/pi-pompom?style=flat-square&color=blue)](https://github.com/codexstar69/pi-pompom/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A 3D raymarched virtual pet companion for Pi CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

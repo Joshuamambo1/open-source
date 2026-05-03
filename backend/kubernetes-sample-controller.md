@@ -1,6 +1,6 @@
 # kubernetes/sample-controller
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/sample-controller?style=flat-square&color=yellow)](https://github.com/kubernetes/sample-controller/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/sample-controller?style=flat-square&color=blue)](https://github.com/kubernetes/sample-controller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/sample-controller?style=flat-square&color=yellow)](https://github.com/kubernetes/sample-controller/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/sample-controller?style=flat-square&color=blue)](https://github.com/kubernetes/sample-controller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Repository for sample controller. Complements sample-apiserver
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

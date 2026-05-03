@@ -1,6 +1,6 @@
 # webadderallorg/Recordly
 
-[![Stars](https://img.shields.io/github/stars/webadderallorg/Recordly?style=flat-square&color=yellow)](https://github.com/webadderallorg/Recordly/stargazers) [![Forks](https://img.shields.io/github/forks/webadderallorg/Recordly?style=flat-square&color=blue)](https://github.com/webadderallorg/Recordly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webadderallorg/Recordly?style=flat-square&color=yellow)](https://github.com/webadderallorg/Recordly/stargazers) [![Forks](https://img.shields.io/github/forks/webadderallorg/Recordly?style=flat-square&color=blue)](https://github.com/webadderallorg/Recordly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
 
 > Create polished screen recordings without editing. Mac/Windows/Linux
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11.6k |
-| 🍴 **Forks** | 830 |
+| ⭐ **Stars** | 11.7k |
+| 🍴 **Forks** | 838 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 97/100 |
+| 📈 **Score** | 98/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

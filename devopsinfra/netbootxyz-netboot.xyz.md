@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11.7k |
-| 🍴 **Forks** | 809 |
+| 🍴 **Forks** | 808 |
 | 💻 **Language** | Jinja |
 | 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | — |

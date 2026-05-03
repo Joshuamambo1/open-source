@@ -1,6 +1,6 @@
 # warpdot-dev/composio
 
-[![Stars](https://img.shields.io/github/stars/warpdot-dev/composio?style=flat-square&color=yellow)](https://github.com/warpdot-dev/composio/stargazers) [![Forks](https://img.shields.io/github/forks/warpdot-dev/composio?style=flat-square&color=blue)](https://github.com/warpdot-dev/composio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/warpdot-dev/composio?style=flat-square&color=yellow)](https://github.com/warpdot-dev/composio/stargazers) [![Forks](https://img.shields.io/github/forks/warpdot-dev/composio?style=flat-square&color=blue)](https://github.com/warpdot-dev/composio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 166 |
+| ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

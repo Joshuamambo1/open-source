@@ -18,9 +18,9 @@
 | 8 | [productdevbook/hucre](./productdevbook-hucre.md) | ⭐ 1.2k | TypeScript | 59/100 |
 | 9 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 725 | Adblock Filter List | 57/100 |
 | 10 | [maaslalani/sheets](./maaslalani-sheets.md) | ⭐ 2.2k | Go | 56/100 |
-| 11 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 519 | PHP | 54/100 |
-| 12 | [nowork-studio/toprank](./nowork-studio-toprank.md) | ⭐ 1.6k | Python | 54/100 |
-| 13 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 627 | C# | 53/100 |
+| 11 | [nowork-studio/toprank](./nowork-studio-toprank.md) | ⭐ 1.6k | Python | 55/100 |
+| 12 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 519 | PHP | 54/100 |
+| 13 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 628 | C# | 53/100 |
 | 14 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 15 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 967 | TypeScript | 52/100 |
 | 16 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 52/100 |

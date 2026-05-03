@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 62 |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 65 |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | TeX |
 | 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |

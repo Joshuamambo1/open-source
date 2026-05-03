@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-RichGo is an open-source project that enhances the readability of `go test` outputs by adding text decorations. This tool makes it easier to quickly identify and diagnose issues in Go code, providing a more comprehensive view of test results. By enriching `go test` outputs, RichGo streamlines the development process and improves overall code quality.
+This open-source project, "richgo," enhances the standard `go test` output by adding text decorations, making it easier to read and understand the test results. It provides a more visually appealing way to view test failures and successes, allowing developers to quickly identify and diagnose issues. Richgo can be particularly useful for large codebases where standard test output can become overwhelming.
 
 ---
 

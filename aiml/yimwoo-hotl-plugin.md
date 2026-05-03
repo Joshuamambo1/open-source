@@ -1,6 +1,6 @@
 # yimwoo/hotl-plugin
 
-[![Stars](https://img.shields.io/github/stars/yimwoo/hotl-plugin?style=flat-square&color=yellow)](https://github.com/yimwoo/hotl-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/yimwoo/hotl-plugin?style=flat-square&color=blue)](https://github.com/yimwoo/hotl-plugin/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yimwoo/hotl-plugin?style=flat-square&color=yellow)](https://github.com/yimwoo/hotl-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/yimwoo/hotl-plugin?style=flat-square&color=blue)](https://github.com/yimwoo/hotl-plugin/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > HOTL plugin for Codex, Claude Code, and Cline. Human-on-the-Loop AI coding workflows with planning, review, and verification.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21 |
+| ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

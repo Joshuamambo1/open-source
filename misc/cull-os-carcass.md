@@ -1,6 +1,6 @@
 # cull-os/carcass
 
-[![Stars](https://img.shields.io/github/stars/cull-os/carcass?style=flat-square&color=yellow)](https://github.com/cull-os/carcass/stargazers) [![Forks](https://img.shields.io/github/forks/cull-os/carcass?style=flat-square&color=blue)](https://github.com/cull-os/carcass/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cull-os/carcass?style=flat-square&color=yellow)](https://github.com/cull-os/carcass/stargazers) [![Forks](https://img.shields.io/github/forks/cull-os/carcass?style=flat-square&color=blue)](https://github.com/cull-os/carcass/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > The Cull monorepository.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

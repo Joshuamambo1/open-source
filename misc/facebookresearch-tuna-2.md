@@ -1,17 +1,17 @@
 # facebookresearch/tuna-2
 
-[![Stars](https://img.shields.io/github/stars/facebookresearch/tuna-2?style=flat-square&color=yellow)](https://github.com/facebookresearch/tuna-2/stargazers) [![Forks](https://img.shields.io/github/forks/facebookresearch/tuna-2?style=flat-square&color=blue)](https://github.com/facebookresearch/tuna-2/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebookresearch/tuna-2?style=flat-square&color=yellow)](https://github.com/facebookresearch/tuna-2/stargazers) [![Forks](https://img.shields.io/github/forks/facebookresearch/tuna-2?style=flat-square&color=blue)](https://github.com/facebookresearch/tuna-2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Official implementation of Tuna-2: Pixel Embeddings Beat Vision Encoders for Unified Understanding and Generation
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 490 |
+| 🍴 **Forks** | 16 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

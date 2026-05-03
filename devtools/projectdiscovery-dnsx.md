@@ -1,6 +1,6 @@
 # projectdiscovery/dnsx
 
-[![Stars](https://img.shields.io/github/stars/projectdiscovery/dnsx?style=flat-square&color=yellow)](https://github.com/projectdiscovery/dnsx/stargazers) [![Forks](https://img.shields.io/github/forks/projectdiscovery/dnsx?style=flat-square&color=blue)](https://github.com/projectdiscovery/dnsx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/projectdiscovery/dnsx?style=flat-square&color=yellow)](https://github.com/projectdiscovery/dnsx/stargazers) [![Forks](https://img.shields.io/github/forks/projectdiscovery/dnsx?style=flat-square&color=blue)](https://github.com/projectdiscovery/dnsx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 311 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

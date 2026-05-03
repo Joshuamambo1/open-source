@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This project, "malob/nix-config", is an open-source collection of Nix system configurations. It provides users with a set of configurations to manage their Nix environments, streamlining the process of setting up and customizing their Nix systems. By sharing these configurations, the project aims to facilitate collaboration and learning within the Nix community.
+This open-source project, malob/nix-config, provides a collection of system configurations for the Nix package manager. It contains a set of customizable configurations that users can leverage to tailor their Nix environments to their specific needs. By utilizing this repository, users can simplify the process of setting up and managing their Nix system configurations.
 
 ---
 

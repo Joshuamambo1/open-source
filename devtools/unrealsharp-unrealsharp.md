@@ -1,6 +1,6 @@
 # UnrealSharp/UnrealSharp
 
-[![Stars](https://img.shields.io/github/stars/UnrealSharp/UnrealSharp?style=flat-square&color=yellow)](https://github.com/UnrealSharp/UnrealSharp/stargazers) [![Forks](https://img.shields.io/github/forks/UnrealSharp/UnrealSharp?style=flat-square&color=blue)](https://github.com/UnrealSharp/UnrealSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UnrealSharp/UnrealSharp?style=flat-square&color=yellow)](https://github.com/UnrealSharp/UnrealSharp/stargazers) [![Forks](https://img.shields.io/github/forks/UnrealSharp/UnrealSharp?style=flat-square&color=blue)](https://github.com/UnrealSharp/UnrealSharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > UnrealSharp is a plugin to Unreal Engine 5, which enables developers to create games using C# (.NET10) with Hot Reload
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 190 |
+| 🍴 **Forks** | 191 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

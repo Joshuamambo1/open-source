@@ -1,6 +1,6 @@
 # AgriciDaniel/codex-seo
 
-[![Stars](https://img.shields.io/github/stars/AgriciDaniel/codex-seo?style=flat-square&color=yellow)](https://github.com/AgriciDaniel/codex-seo/stargazers) [![Forks](https://img.shields.io/github/forks/AgriciDaniel/codex-seo?style=flat-square&color=blue)](https://github.com/AgriciDaniel/codex-seo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgriciDaniel/codex-seo?style=flat-square&color=yellow)](https://github.com/AgriciDaniel/codex-seo/stargazers) [![Forks](https://img.shields.io/github/forks/AgriciDaniel/codex-seo?style=flat-square&color=blue)](https://github.com/AgriciDaniel/codex-seo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Codex-first SEO skill suite. 26 workflows, 24 TOML agents, DataForSEO/Gemini/Google/Firecrawl integrations, GEO/AEO, CWV, schema, backlinks, local/maps, and deterministic reports.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 52 |
+| ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

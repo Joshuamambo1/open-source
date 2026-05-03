@@ -1,6 +1,6 @@
 # Diplomat-ai/diplomat-agent
 
-[![Stars](https://img.shields.io/github/stars/Diplomat-ai/diplomat-agent?style=flat-square&color=yellow)](https://github.com/Diplomat-ai/diplomat-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Diplomat-ai/diplomat-agent?style=flat-square&color=blue)](https://github.com/Diplomat-ai/diplomat-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Diplomat-ai/diplomat-agent?style=flat-square&color=yellow)](https://github.com/Diplomat-ai/diplomat-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Diplomat-ai/diplomat-agent?style=flat-square&color=blue)](https://github.com/Diplomat-ai/diplomat-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > What can your AI agent do to the real world? Scan your code. See which tool calls have zero checks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

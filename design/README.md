@@ -44,9 +44,9 @@
 | 34 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 50/100 |
 | 35 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 459 | JavaScript | 49/100 |
 | 36 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 321 | Go | 49/100 |
-| 37 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 109 | Rust | 48/100 |
-| 38 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
-| 39 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
+| 37 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
+| 38 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 109 | Rust | 48/100 |
+| 39 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
 | 40 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
 | 41 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 602 | PHP | 46/100 |
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
@@ -54,7 +54,7 @@
 | 44 | [nats-io/nats-architecture-and-design](./nats-io-nats-architecture-and-design.md) | ⭐ 398 | Go | 44/100 |
 | 45 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
 | 46 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 141 | Rust | 43/100 |
-| 47 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 408 | TypeScript | 43/100 |
+| 47 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 409 | TypeScript | 43/100 |
 | 48 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 43/100 |
 | 49 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 43/100 |
 

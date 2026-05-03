@@ -1,6 +1,6 @@
 # miurahr/pykakasi
 
-[![Stars](https://img.shields.io/github/stars/miurahr/pykakasi?style=flat-square&color=yellow)](https://github.com/miurahr/pykakasi/stargazers) [![Forks](https://img.shields.io/github/forks/miurahr/pykakasi?style=flat-square&color=blue)](https://github.com/miurahr/pykakasi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miurahr/pykakasi?style=flat-square&color=yellow)](https://github.com/miurahr/pykakasi/stargazers) [![Forks](https://img.shields.io/github/forks/miurahr/pykakasi?style=flat-square&color=blue)](https://github.com/miurahr/pykakasi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight converter from Japanese Kana-kanji sentences into Kana-Roman.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 447 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

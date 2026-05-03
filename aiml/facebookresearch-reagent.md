@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-ReAgent is an open-source platform designed to facilitate the development and deployment of reasoning systems, including reinforcement learning and contextual bandits. This AI/ML framework provides a modular and scalable architecture for building and experimenting with various reasoning tasks, enabling researchers and developers to focus on advancing the field. By streamlining the process of creating and testing reasoning systems, ReAgent aims to accelerate innovation and collaboration in the AI research community.
+ReAgent is an open-source platform for building and managing reasoning systems, including reinforcement learning and contextual bandits. It provides a flexible and scalable framework for researchers and developers to design, test, and deploy complex reasoning models. With ReAgent, users can easily integrate various algorithms and tools to create custom reasoning systems for a wide range of applications.
 
 ---
 

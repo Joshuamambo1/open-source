@@ -1,6 +1,6 @@
 # lirantal/agent-rules
 
-[![Stars](https://img.shields.io/github/stars/lirantal/agent-rules?style=flat-square&color=yellow)](https://github.com/lirantal/agent-rules/stargazers) [![Forks](https://img.shields.io/github/forks/lirantal/agent-rules?style=flat-square&color=blue)](https://github.com/lirantal/agent-rules/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lirantal/agent-rules?style=flat-square&color=yellow)](https://github.com/lirantal/agent-rules/stargazers) [![Forks](https://img.shields.io/github/forks/lirantal/agent-rules?style=flat-square&color=blue)](https://github.com/lirantal/agent-rules/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Rules and instructions for agentic coding tools like Cursor, Claude CLI, Gemini CLI, Qodo, Cline and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

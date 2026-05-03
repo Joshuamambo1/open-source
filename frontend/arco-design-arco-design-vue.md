@@ -1,6 +1,6 @@
 # arco-design/arco-design-vue
 
-[![Stars](https://img.shields.io/github/stars/arco-design/arco-design-vue?style=flat-square&color=yellow)](https://github.com/arco-design/arco-design-vue/stargazers) [![Forks](https://img.shields.io/github/forks/arco-design/arco-design-vue?style=flat-square&color=blue)](https://github.com/arco-design/arco-design-vue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arco-design/arco-design-vue?style=flat-square&color=yellow)](https://github.com/arco-design/arco-design-vue/stargazers) [![Forks](https://img.shields.io/github/forks/arco-design/arco-design-vue?style=flat-square&color=blue)](https://github.com/arco-design/arco-design-vue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A Vue.js 3 UI Library based on Arco Design
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 606 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

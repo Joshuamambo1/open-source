@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Livecodes is an open-source project that offers a code playground, providing a seamless environment for developers to write, experiment, and test their code. This platform aims to offer a hassle-free experience, allowing users to focus on coding without the complexity of setup and configuration. By leveraging open-source principles, Livecodes aims to make coding more accessible and enjoyable for developers of all levels.
+Livecodes is an open-source code playground project that aims to provide a seamless environment for coding and experimentation. This platform allows developers to write and run code without the hassle of setting up complex development tools, focusing on ease of use and simplicity. By offering a straightforward code execution experience, Livecodes is designed to facilitate learning and development.
 
 ---
 

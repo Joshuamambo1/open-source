@@ -1,6 +1,6 @@
 # rachartier/tiny-glimmer.nvim
 
-[![Stars](https://img.shields.io/github/stars/rachartier/tiny-glimmer.nvim?style=flat-square&color=yellow)](https://github.com/rachartier/tiny-glimmer.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/rachartier/tiny-glimmer.nvim?style=flat-square&color=blue)](https://github.com/rachartier/tiny-glimmer.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rachartier/tiny-glimmer.nvim?style=flat-square&color=yellow)](https://github.com/rachartier/tiny-glimmer.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/rachartier/tiny-glimmer.nvim?style=flat-square&color=blue)](https://github.com/rachartier/tiny-glimmer.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A Neovim plugin that adds smooth, customizable animations to text operations like yank, paste, search, undo/redo, and more.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 417 |
+| ⭐ **Stars** | 418 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

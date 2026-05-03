@@ -1,6 +1,6 @@
 # trailofbits/mquire
 
-[![Stars](https://img.shields.io/github/stars/trailofbits/mquire?style=flat-square&color=yellow)](https://github.com/trailofbits/mquire/stargazers) [![Forks](https://img.shields.io/github/forks/trailofbits/mquire?style=flat-square&color=blue)](https://github.com/trailofbits/mquire/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trailofbits/mquire?style=flat-square&color=yellow)](https://github.com/trailofbits/mquire/stargazers) [![Forks](https://img.shields.io/github/forks/trailofbits/mquire?style=flat-square&color=blue)](https://github.com/trailofbits/mquire/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

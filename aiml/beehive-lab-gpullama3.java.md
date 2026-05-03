@@ -1,6 +1,6 @@
 # beehive-lab/GPULlama3.java
 
-[![Stars](https://img.shields.io/github/stars/beehive-lab/GPULlama3.java?style=flat-square&color=yellow)](https://github.com/beehive-lab/GPULlama3.java/stargazers) [![Forks](https://img.shields.io/github/forks/beehive-lab/GPULlama3.java?style=flat-square&color=blue)](https://github.com/beehive-lab/GPULlama3.java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beehive-lab/GPULlama3.java?style=flat-square&color=yellow)](https://github.com/beehive-lab/GPULlama3.java/stargazers) [![Forks](https://img.shields.io/github/forks/beehive-lab/GPULlama3.java?style=flat-square&color=blue)](https://github.com/beehive-lab/GPULlama3.java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > GPU-accelerated Llama3.java inference in pure Java using TornadoVM.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 254 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

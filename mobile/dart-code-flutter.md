@@ -1,6 +1,6 @@
 # Dart-Code/Flutter
 
-[![Stars](https://img.shields.io/github/stars/Dart-Code/Flutter?style=flat-square&color=yellow)](https://github.com/Dart-Code/Flutter/stargazers) [![Forks](https://img.shields.io/github/forks/Dart-Code/Flutter?style=flat-square&color=blue)](https://github.com/Dart-Code/Flutter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dart-Code/Flutter?style=flat-square&color=yellow)](https://github.com/Dart-Code/Flutter/stargazers) [![Forks](https://img.shields.io/github/forks/Dart-Code/Flutter?style=flat-square&color=blue)](https://github.com/Dart-Code/Flutter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Flutter support for VS Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

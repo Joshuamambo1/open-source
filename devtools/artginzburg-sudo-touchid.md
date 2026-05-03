@@ -25,9 +25,7 @@ DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The `sudo-touchid` project provides permanent TouchID support for `sudo` operations on Apple devices, allowing users to authenticate with their fingerprint instead of entering a password. This open-source solution offers an additional layer of convenience and security for system administrators and users who frequently require elevated permissions. By integrating TouchID with `sudo`, users can streamline their workflow and reduce the risk of password exposure.
+The sudo-touchid project provides a simple method to enable permanent TouchID authentication for sudo commands on Apple devices. This open-source tool allows users to utilize TouchID for elevated privileges, adding an extra layer of security and convenience to their sudo interactions. By integrating TouchID into the sudo workflow, users can enjoy a more seamless and secure experience.
 
 ---
 

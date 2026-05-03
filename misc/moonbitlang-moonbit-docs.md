@@ -1,6 +1,6 @@
 # moonbitlang/moonbit-docs
 
-[![Stars](https://img.shields.io/github/stars/moonbitlang/moonbit-docs?style=flat-square&color=yellow)](https://github.com/moonbitlang/moonbit-docs/stargazers) [![Forks](https://img.shields.io/github/forks/moonbitlang/moonbit-docs?style=flat-square&color=blue)](https://github.com/moonbitlang/moonbit-docs/network) [![Language](https://img.shields.io/badge/lang-MoonBit-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moonbitlang/moonbit-docs?style=flat-square&color=yellow)](https://github.com/moonbitlang/moonbit-docs/stargazers) [![Forks](https://img.shields.io/github/forks/moonbitlang/moonbit-docs?style=flat-square&color=blue)](https://github.com/moonbitlang/moonbit-docs/network) [![Language](https://img.shields.io/badge/lang-MoonBit-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The docs of MoonBit programming language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | MoonBit |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

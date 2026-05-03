@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Cosmic-utils/tweaks is an open-source tool designed to provide users of the COSMIC desktop with a convenient way to customize and personalize their environment. This tweaking tool offers a range of options to enhance the user experience, allowing users to tailor their desktop to their preferences. By offering a flexible and user-friendly interface, cosmic-utils/tweaks makes it easy to optimize and refine the COSMIC desktop.
+Cosmic-utils/tweaks is an open-source project designed to provide users of the COSMIC desktop with a versatile tweaking tool. This utility allows users to customize various aspects of their desktop environment, giving them greater control over their computing experience. By offering a range of tweakable settings, it enhances the overall usability and personalization of the COSMIC desktop.
 
 ---
 

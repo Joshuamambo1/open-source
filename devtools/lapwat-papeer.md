@@ -1,6 +1,6 @@
 # lapwat/papeer
 
-[![Stars](https://img.shields.io/github/stars/lapwat/papeer?style=flat-square&color=yellow)](https://github.com/lapwat/papeer/stargazers) [![Forks](https://img.shields.io/github/forks/lapwat/papeer?style=flat-square&color=blue)](https://github.com/lapwat/papeer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lapwat/papeer?style=flat-square&color=yellow)](https://github.com/lapwat/papeer/stargazers) [![Forks](https://img.shields.io/github/forks/lapwat/papeer?style=flat-square&color=blue)](https://github.com/lapwat/papeer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Scrape the web in the eink era. Convert websites into ebooks and markdown.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

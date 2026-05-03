@@ -23,7 +23,7 @@
 | 13 | [git-town/git-town](./git-town-git-town.md) | ⭐ 3.2k | Gherkin | 71/100 |
 | 14 | [NVIDIA/cuda-python](./nvidia-cuda-python.md) | ⭐ 3.2k | Cython | 67/100 |
 | 15 | [beam-community/elixir-companies](./beam-community-elixir-companies.md) | ⭐ 1.7k | Astro | 63/100 |
-| 16 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 697 | Rust | 56/100 |
+| 16 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 698 | Rust | 56/100 |
 | 17 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 537 | C | 56/100 |
 | 18 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 55/100 |
 | 19 | [pimutils/todoman](./pimutils-todoman.md) | ⭐ 574 | Python | 55/100 |

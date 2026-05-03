@@ -1,6 +1,6 @@
 # jtrackingai/analytics-tracking-automation
 
-[![Stars](https://img.shields.io/github/stars/jtrackingai/analytics-tracking-automation?style=flat-square&color=yellow)](https://github.com/jtrackingai/analytics-tracking-automation/stargazers) [![Forks](https://img.shields.io/github/forks/jtrackingai/analytics-tracking-automation?style=flat-square&color=blue)](https://github.com/jtrackingai/analytics-tracking-automation/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jtrackingai/analytics-tracking-automation?style=flat-square&color=yellow)](https://github.com/jtrackingai/analytics-tracking-automation/stargazers) [![Forks](https://img.shields.io/github/forks/jtrackingai/analytics-tracking-automation?style=flat-square&color=blue)](https://github.com/jtrackingai/analytics-tracking-automation/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered GA4 + GTM event tracking — automates site analysis, event schema, GTM sync, preview verification, and publishing. Works with Cursor, Codex, and any AI agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # HexmosTech/git-lrc
 
-[![Stars](https://img.shields.io/github/stars/HexmosTech/git-lrc?style=flat-square&color=yellow)](https://github.com/HexmosTech/git-lrc/stargazers) [![Forks](https://img.shields.io/github/forks/HexmosTech/git-lrc?style=flat-square&color=blue)](https://github.com/HexmosTech/git-lrc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HexmosTech/git-lrc?style=flat-square&color=yellow)](https://github.com/HexmosTech/git-lrc/stargazers) [![Forks](https://img.shields.io/github/forks/HexmosTech/git-lrc?style=flat-square&color=blue)](https://github.com/HexmosTech/git-lrc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Free, Micro AI Code Reviews That Run on Commit
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 809 |
-| 🍴 **Forks** | 122 |
+| ⭐ **Stars** | 810 |
+| 🍴 **Forks** | 123 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

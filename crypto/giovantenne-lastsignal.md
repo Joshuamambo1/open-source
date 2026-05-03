@@ -25,7 +25,7 @@ Crypto · Security
 
 ## 📝 Summary
 
-The lastsignal project is an open-source, self-hosted dead man's switch designed to securely deliver encrypted messages to loved ones in the event of an individual's absence or unresponsiveness. This tool prioritizes end-to-end encryption (E2EE) to protect the privacy of both the sender and recipients. By offering a user-friendly solution, lastsignal empowers individuals to ensure that their loved ones receive critical information safely and discreetly.
+The LastSignal project is an open-source, self-hosted dead man's switch that enables individuals to send encrypted messages (E2EE) to loved ones in the event of their unavailability or passing, providing peace of mind for those left behind. This secure tool ensures that sensitive information remains confidential and only accessible when intended. By hosting LastSignal locally, users can maintain control over their digital legacy and communicate crucial information to those who need it.
 
 ---
 

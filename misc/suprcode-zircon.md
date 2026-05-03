@@ -1,6 +1,6 @@
 # Suprcode/Zircon
 
-[![Stars](https://img.shields.io/github/stars/Suprcode/Zircon?style=flat-square&color=yellow)](https://github.com/Suprcode/Zircon/stargazers) [![Forks](https://img.shields.io/github/forks/Suprcode/Zircon?style=flat-square&color=blue)](https://github.com/Suprcode/Zircon/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Suprcode/Zircon?style=flat-square&color=yellow)](https://github.com/Suprcode/Zircon/stargazers) [![Forks](https://img.shields.io/github/forks/Suprcode/Zircon?style=flat-square&color=blue)](https://github.com/Suprcode/Zircon/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Legend of Mir 3 - Official Public Zircon Source
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 433 |
 | 🍴 **Forks** | 319 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

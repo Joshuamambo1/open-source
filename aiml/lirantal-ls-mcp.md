@@ -1,6 +1,6 @@
 # lirantal/ls-mcp
 
-[![Stars](https://img.shields.io/github/stars/lirantal/ls-mcp?style=flat-square&color=yellow)](https://github.com/lirantal/ls-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/lirantal/ls-mcp?style=flat-square&color=blue)](https://github.com/lirantal/ls-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lirantal/ls-mcp?style=flat-square&color=yellow)](https://github.com/lirantal/ls-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/lirantal/ls-mcp?style=flat-square&color=blue)](https://github.com/lirantal/ls-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > List MCP Server configurations in your system used by AI applications like Cursor, Claude Desktop, VS Code and others
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

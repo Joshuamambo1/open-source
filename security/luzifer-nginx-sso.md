@@ -25,7 +25,9 @@ Security
 
 ## 📝 Summary
 
-Luzifer/nginx-sso is an open-source project that provides a Single Sign-On (SSO) authentication solution for the auth_request module in the popular web server software, Nginx. This project enables seamless authentication and authorization across multiple web applications, streamlining user access and reducing the need for individual login credentials. By leveraging the auth_request module, Luzifer/nginx-sso simplifies the process of implementing SSO for Nginx-based applications.
+Here's a brief summary for the Luzifer/nginx-sso project:
+
+Luzifer/nginx-sso is an open-source Single Sign-On (SSO) authentication provider designed to work seamlessly with the auth_request module in NGINX. This project enables secure and efficient user authentication across multiple applications and services, streamlining the login process for users. By leveraging NGINX's existing infrastructure, Luzifer/nginx-sso provides a scalable and reliable SSO solution for modern web applications.
 
 ---
 

@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-LenovoLegionLinux is an open-source project that provides drivers and tools for controlling Lenovo Legion laptops in Linux. It enables users to manage their laptop's fan speed and power mode, enhancing the overall Linux experience on these devices. This project helps bridge the gap between Lenovo Legion laptops and Linux, providing users with more control over their system's performance and behavior.
+This open-source project, LenovoLegionLinux, provides a collection of drivers and tools to enhance the functionality of Lenovo Legion laptops running on Linux. The project offers fan control and power mode management capabilities, allowing users to customize their laptop's performance and power efficiency. This initiative aims to improve the overall Linux experience on Lenovo Legion laptops.
 
 ---
 

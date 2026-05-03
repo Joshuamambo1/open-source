@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a 3-sentence summary of the tmonk/mcp-stata project:
-
-tmonk/mcp-stata is an open-source Model Context Protocol (MCP) server designed to seamlessly integrate large language model assistance into Stata workflows. This lightweight server enables economists to execute Stata commands, inspect data, retrieve results, and view graphs directly within their chat interface. By bridging the gap between Stata and AI, this project streamlines data analysis and research processes.
+The tmonk/mcp-stata project provides a Model Context Protocol (MCP) server for Stata, allowing users to execute commands, inspect data, and retrieve results directly within their chat interface. This integration enables economists to seamlessly incorporate Large Language Model (LLM) assistance into their Stata workflow, streamlining their data analysis and research process. The project offers a lightweight, open-source solution for enhancing Stata's capabilities with AI-powered tools.
 
 ---
 

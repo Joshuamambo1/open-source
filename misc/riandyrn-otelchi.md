@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The 'otelchi' project provides an OpenTelemetry instrumentation for the go-chi/chi router, allowing for the collection of telemetry data on web application requests. This integration enables developers to monitor and optimize their applications with enhanced visibility and insights. By leveraging OpenTelemetry, 'otelchi' streamlines the process of instrumenting go-chi/chi applications for observability and performance analysis.
+The riandyrn/otelchi project provides OpenTelemetry instrumentation for the go-chi/chi router, enabling efficient and standardized monitoring and tracing of web applications built with go-chi. By integrating OpenTelemetry, developers can gain insights into their application's performance and behavior, facilitating optimization and improvement. This instrumentation helps bridge the gap between OpenTelemetry and the go-chi framework.
 
 ---
 

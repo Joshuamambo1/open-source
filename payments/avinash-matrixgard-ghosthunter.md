@@ -1,6 +1,6 @@
 # avinash-matrixgard/ghosthunter
 
-[![Stars](https://img.shields.io/github/stars/avinash-matrixgard/ghosthunter?style=flat-square&color=yellow)](https://github.com/avinash-matrixgard/ghosthunter/stargazers) [![Forks](https://img.shields.io/github/forks/avinash-matrixgard/ghosthunter?style=flat-square&color=blue)](https://github.com/avinash-matrixgard/ghosthunter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avinash-matrixgard/ghosthunter?style=flat-square&color=yellow)](https://github.com/avinash-matrixgard/ghosthunter/stargazers) [![Forks](https://img.shields.io/github/forks/avinash-matrixgard/ghosthunter?style=flat-square&color=blue)](https://github.com/avinash-matrixgard/ghosthunter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > AI cloud-cost investigator. Dual-model (Opus + Sonnet) reasoning over AWS / GCP billing exports with a 7-layer command validator. Paranoid mode by default — never touches your cloud unless you opt in. By MatrixGard.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

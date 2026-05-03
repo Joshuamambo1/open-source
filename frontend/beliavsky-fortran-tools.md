@@ -25,9 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Beliavsky/Fortran-Tools open-source project:
-
-The Beliavsky/Fortran-Tools project is an open-source collection of links to various tools and resources for working with Fortran, including compilers, preprocessors, formatters, static analyzers, transpilers, IDEs, and build systems. This comprehensive resource aims to streamline the development process for Fortran programmers by providing a centralized location for accessing essential tools. By aggregating these links, Beliavsky/Fortran-Tools facilitates collaboration and productivity among Fortran developers.
+The Beliavsky/Fortran-Tools project is an open-source collection of links to essential tools for Fortran development, including compilers, preprocessors, formatters, static analyzers, transpilers, integrated development environments (IDEs), and build systems. This comprehensive resource aims to streamline Fortran development by providing easy access to a wide range of tools and software. It is categorized under the Frontend category, making it a valuable asset for Fortran developers and programmers.
 
 ---
 

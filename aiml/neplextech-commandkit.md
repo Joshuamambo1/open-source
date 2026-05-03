@@ -27,7 +27,7 @@ AI/ML · DevTools · Data
 
 Here's a brief summary for the neplextech/commandkit project:
 
-Commandkit is a comprehensive Discord.js meta-framework that simplifies the development of Discord bots with AI-powered features, including an advanced command handler and analytics capabilities. This open-source project also provides useful tools like feature flags, allowing developers to easily manage their bot's functionality and performance. With Commandkit, developers can build powerful and efficient Discord bots with minimal effort.
+Neplextech/commandkit is an open-source, Discord.js meta-framework designed to enhance the development experience for Discord bot creators. This powerful framework offers cutting-edge features such as an AI-powered command handler, analytics, and feature flags, allowing developers to build more sophisticated and efficient bots. With its rich set of tools, commandkit streamlines the development process and empowers developers to create exceptional Discord experiences.
 
 ---
 

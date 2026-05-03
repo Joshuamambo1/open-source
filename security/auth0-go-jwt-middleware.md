@@ -25,7 +25,7 @@ Security
 
 ## 📝 Summary
 
-The auth0/go-jwt-middleware project is a lightweight, open-source middleware for the Go programming language that enables easy validation of JSON Web Tokens (JWTs) in HTTP requests. It allows developers to securely authenticate and authorize API requests by checking for valid JWTs in incoming requests. This middleware simplifies the process of implementing JWT-based authentication in Go applications.
+The auth0/go-jwt-middleware project is an open-source middleware for the Go programming language, designed to securely verify JSON Web Tokens (JWTs) in HTTP requests. This middleware provides a simple and efficient way to authenticate and authorize incoming requests, making it an essential tool for building secure web applications. By integrating with this middleware, developers can easily implement JWT-based authentication in their Go-based projects.
 
 ---
 

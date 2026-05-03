@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-KMRI is an open-source compression format designed for MRI-style 3D volumes, enabling efficient storage and transmission of medical imaging data. This chunk-based format aims to provide a compact representation of volumetric data, facilitating faster data processing and communication. By leveraging a novel compression approach, KMRI has the potential to accelerate the adoption of MRI imaging in various medical applications.
+KMRI is an open-source compression format designed for MRI-style 3D volumes. It utilizes a chunk-based approach to efficiently compress and store volumetric data, making it suitable for applications requiring high-performance and data storage optimization. By leveraging this format, users can achieve better compression ratios and faster data processing times.
 
 ---
 

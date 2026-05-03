@@ -1,6 +1,6 @@
 # ardanlabs/service
 
-[![Stars](https://img.shields.io/github/stars/ardanlabs/service?style=flat-square&color=yellow)](https://github.com/ardanlabs/service/stargazers) [![Forks](https://img.shields.io/github/forks/ardanlabs/service?style=flat-square&color=blue)](https://github.com/ardanlabs/service/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ardanlabs/service?style=flat-square&color=yellow)](https://github.com/ardanlabs/service/stargazers) [![Forks](https://img.shields.io/github/forks/ardanlabs/service?style=flat-square&color=blue)](https://github.com/ardanlabs/service/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Starter-kit for writing services in Go using Kubernetes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 723 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

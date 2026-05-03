@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project allows users to access and interact with Wikipedia content from the comfort of their terminal. By leveraging a command-line interface, users can search for articles, view summaries, and even browse through Wikipedia's vast repository of information. This unique tool provides a convenient and efficient way to tap into the wealth of knowledge available on Wikipedia.
+"Wikipedia in the Terminal" is a command-line interface project that allows users to access Wikipedia content directly from their terminal. This open-source project leverages the power of the terminal to provide a unique browsing experience, enabling users to search and view articles without the need for a graphical interface. By bringing Wikipedia content to the terminal, users can access information in a concise and efficient manner.
 
 ---
 

@@ -1,6 +1,6 @@
 # maxanatsko/mcp-engine-public
 
-[![Stars](https://img.shields.io/github/stars/maxanatsko/mcp-engine-public?style=flat-square&color=yellow)](https://github.com/maxanatsko/mcp-engine-public/stargazers) [![Forks](https://img.shields.io/github/forks/maxanatsko/mcp-engine-public?style=flat-square&color=blue)](https://github.com/maxanatsko/mcp-engine-public/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maxanatsko/mcp-engine-public?style=flat-square&color=yellow)](https://github.com/maxanatsko/mcp-engine-public/stargazers) [![Forks](https://img.shields.io/github/forks/maxanatsko/mcp-engine-public?style=flat-square&color=blue)](https://github.com/maxanatsko/mcp-engine-public/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The MCP Engine is a Power BI tool that lets AI assistants like Claude interact with your Power BI models programmatically: read your model structure, run DAX queries, create and modify measures, manage relationships, and perform advanced analytics - all through natural conversation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

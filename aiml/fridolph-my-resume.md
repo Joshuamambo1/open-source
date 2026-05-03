@@ -1,6 +1,6 @@
 # Fridolph/my-resume
 
-[![Stars](https://img.shields.io/github/stars/Fridolph/my-resume?style=flat-square&color=yellow)](https://github.com/Fridolph/my-resume/stargazers) [![Forks](https://img.shields.io/github/forks/Fridolph/my-resume?style=flat-square&color=blue)](https://github.com/Fridolph/my-resume/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fridolph/my-resume?style=flat-square&color=yellow)](https://github.com/Fridolph/my-resume/stargazers) [![Forks](https://img.shields.io/github/forks/Fridolph/my-resume?style=flat-square&color=blue)](https://github.com/Fridolph/my-resume/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 个人简历 2026 全栈完整版更新，支持自动化部署，后续持续学习和加入 AI 功能，欢迎交流学习。有帮助Star鼓励下吧，谢谢！
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

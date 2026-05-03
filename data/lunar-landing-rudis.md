@@ -1,6 +1,6 @@
 # lunar-landing/rudis
 
-[![Stars](https://img.shields.io/github/stars/lunar-landing/rudis?style=flat-square&color=yellow)](https://github.com/lunar-landing/rudis/stargazers) [![Forks](https://img.shields.io/github/forks/lunar-landing/rudis?style=flat-square&color=blue)](https://github.com/lunar-landing/rudis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lunar-landing/rudis?style=flat-square&color=yellow)](https://github.com/lunar-landing/rudis/stargazers) [![Forks](https://img.shields.io/github/forks/lunar-landing/rudis?style=flat-square&color=blue)](https://github.com/lunar-landing/rudis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Rudis is a high-performance in memory database
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 407 |
+| ⭐ **Stars** | 408 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

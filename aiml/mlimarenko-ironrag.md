@@ -25,7 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The IronRAG open-source project provides a one-click knowledge system that integrates seamlessly with documents, internal bots, and AI agents. This innovative system streamlines the process of knowledge management, enabling users to easily access, share, and utilize knowledge across various applications. By simplifying knowledge sharing and management, IronRAG aims to boost collaboration and efficiency within organizations.
+IronRAG is an open-source project that enables the creation of a one-click knowledge system for documents, internal bots, and AI agents. This system facilitates seamless integration and automation, streamlining workflows and improving collaboration between teams and AI systems. By leveraging IronRAG, developers can build and deploy scalable, efficient knowledge management systems.
 
 ---
 

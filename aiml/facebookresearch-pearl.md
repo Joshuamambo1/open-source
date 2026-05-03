@@ -25,9 +25,7 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Pearl is an open-source, production-ready Reinforcement Learning AI agent library developed by the Applied Reinforcement Learning team at Meta. This library provides a robust and scalable framework for building and deploying Reinforcement Learning models in various applications. With Pearl, developers can access a range of tools and techniques to create more efficient and effective Reinforcement Learning agents.
+Pearl is an open-source library for production-ready reinforcement learning (RL) AI agents developed by the Applied Reinforcement Learning team at Meta. This library provides a comprehensive framework for building, training, and deploying RL models, enabling users to create scalable and efficient AI solutions. By leveraging Pearl, developers can accelerate the development of RL-based applications and improve their overall performance.
 
 ---
 

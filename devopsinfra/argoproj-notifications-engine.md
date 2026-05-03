@@ -25,7 +25,9 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The notifications-engine project provides an affordable and open-source notifications system for Kubernetes environments, enabling developers and operators to receive alerts and updates on cluster events. This solution helps improve cluster monitoring and reduces the complexity of notification setups. By leveraging this project, users can streamline their notification workflows and enhance their overall Kubernetes management experience.
+Here's a brief summary for the argoproj/notifications-engine project:
+
+The argoproj/notifications-engine is an open-source project that provides affordable and scalable notifications for Kubernetes environments. This project offers a flexible and customizable solution for sending notifications when specific events occur, allowing users to stay informed about their cluster's status. By leveraging this notifications engine, users can simplify their DevOps workflows and stay up-to-date with critical events in their Kubernetes cluster.
 
 ---
 

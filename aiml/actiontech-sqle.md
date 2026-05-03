@@ -1,6 +1,6 @@
 # actiontech/sqle
 
-[![Stars](https://img.shields.io/github/stars/actiontech/sqle?style=flat-square&color=yellow)](https://github.com/actiontech/sqle/stargazers) [![Forks](https://img.shields.io/github/forks/actiontech/sqle?style=flat-square&color=blue)](https://github.com/actiontech/sqle/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/actiontech/sqle?style=flat-square&color=yellow)](https://github.com/actiontech/sqle/stargazers) [![Forks](https://img.shields.io/github/forks/actiontech/sqle?style=flat-square&color=blue)](https://github.com/actiontech/sqle/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 一个支持多种不同类型数据库，覆盖事前控制、事后监督、标准发布场景，帮助您建立质量规范的SQL全生命周期质量管理平台
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

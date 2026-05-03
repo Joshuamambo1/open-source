@@ -25,7 +25,7 @@ Frontend · DevTools · Security
 
 ## 📝 Summary
 
-The replydev/cotp project is a secure, open-source command-line authenticator application that enables users to manage Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) credentials with encryption. This tool provides a convenient and trustworthy way to import and manage authentication tokens from various sources, ensuring robust security and confidentiality. It is designed to be user-friendly and accessible via the command line.
+The replydev/cotp project is an open-source, command-line authenticator app that provides secure and trustworthy two-factor authentication using Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) protocols. This tool is particularly useful for those who need to import their existing authenticator secrets, making it a convenient option for users. With cotp, users can easily manage their authentication credentials with confidence.
 
 ---
 

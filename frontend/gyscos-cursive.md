@@ -1,6 +1,6 @@
 # gyscos/cursive
 
-[![Stars](https://img.shields.io/github/stars/gyscos/cursive?style=flat-square&color=yellow)](https://github.com/gyscos/cursive/stargazers) [![Forks](https://img.shields.io/github/forks/gyscos/cursive?style=flat-square&color=blue)](https://github.com/gyscos/cursive/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gyscos/cursive?style=flat-square&color=yellow)](https://github.com/gyscos/cursive/stargazers) [![Forks](https://img.shields.io/github/forks/gyscos/cursive?style=flat-square&color=blue)](https://github.com/gyscos/cursive/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > A Text User Interface library for the Rust programming language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 265 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

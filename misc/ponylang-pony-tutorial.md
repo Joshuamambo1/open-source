@@ -1,6 +1,6 @@
 # ponylang/pony-tutorial
 
-[![Stars](https://img.shields.io/github/stars/ponylang/pony-tutorial?style=flat-square&color=yellow)](https://github.com/ponylang/pony-tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/ponylang/pony-tutorial?style=flat-square&color=blue)](https://github.com/ponylang/pony-tutorial/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ponylang/pony-tutorial?style=flat-square&color=yellow)](https://github.com/ponylang/pony-tutorial/stargazers) [![Forks](https://img.shields.io/github/forks/ponylang/pony-tutorial?style=flat-square&color=blue)](https://github.com/ponylang/pony-tutorial/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > :horse: Tutorial for the Pony programming language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 363 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

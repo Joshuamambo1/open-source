@@ -1,6 +1,6 @@
 # YaoApp/yao
 
-[![Stars](https://img.shields.io/github/stars/YaoApp/yao?style=flat-square&color=yellow)](https://github.com/YaoApp/yao/stargazers) [![Forks](https://img.shields.io/github/forks/YaoApp/yao?style=flat-square&color=blue)](https://github.com/YaoApp/yao/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YaoApp/yao?style=flat-square&color=yellow)](https://github.com/YaoApp/yao/stargazers) [![Forks](https://img.shields.io/github/forks/YaoApp/yao?style=flat-square&color=blue)](https://github.com/YaoApp/yao/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ Build AI agents and web apps — with a single binary.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.5k |
 | 🍴 **Forks** | 683 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

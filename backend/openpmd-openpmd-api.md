@@ -1,6 +1,6 @@
 # openPMD/openPMD-api
 
-[![Stars](https://img.shields.io/github/stars/openPMD/openPMD-api?style=flat-square&color=yellow)](https://github.com/openPMD/openPMD-api/stargazers) [![Forks](https://img.shields.io/github/forks/openPMD/openPMD-api?style=flat-square&color=blue)](https://github.com/openPMD/openPMD-api/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openPMD/openPMD-api?style=flat-square&color=yellow)](https://github.com/openPMD/openPMD-api/stargazers) [![Forks](https://img.shields.io/github/forks/openPMD/openPMD-api?style=flat-square&color=blue)](https://github.com/openPMD/openPMD-api/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > :floppy_disk: C++ & Python API for Scientific I/O
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

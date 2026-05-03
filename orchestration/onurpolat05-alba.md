@@ -1,6 +1,6 @@
 # onurpolat05/ALBA
 
-[![Stars](https://img.shields.io/github/stars/onurpolat05/ALBA?style=flat-square&color=yellow)](https://github.com/onurpolat05/ALBA/stargazers) [![Forks](https://img.shields.io/github/forks/onurpolat05/ALBA?style=flat-square&color=blue)](https://github.com/onurpolat05/ALBA/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onurpolat05/ALBA?style=flat-square&color=yellow)](https://github.com/onurpolat05/ALBA/stargazers) [![Forks](https://img.shields.io/github/forks/onurpolat05/ALBA?style=flat-square&color=blue)](https://github.com/onurpolat05/ALBA/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Turn Claude Code into a personal AI agent with persistent memory. Interactive setup, 9 skills, 6 hooks, role-agnostic. Zero dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

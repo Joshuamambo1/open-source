@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/nguyenduchoai/bizclaw?style=flat-square&color=yellow)](https://github.com/nguyenduchoai/bizclaw/stargazers) [![Forks](https://img.shields.io/github/forks/nguyenduchoai/bizclaw?style=flat-square&color=blue)](https://github.com/nguyenduchoai/bizclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được.
+> BizClaw là nền tảng AI Agent kiến trúc trait-driven chạy trên điện thoại android . Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Mobile
 
 ## 📝 Summary
 

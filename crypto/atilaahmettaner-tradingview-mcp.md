@@ -1,6 +1,6 @@
 # atilaahmettaner/tradingview-mcp
 
-[![Stars](https://img.shields.io/github/stars/atilaahmettaner/tradingview-mcp?style=flat-square&color=yellow)](https://github.com/atilaahmettaner/tradingview-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/atilaahmettaner/tradingview-mcp?style=flat-square&color=blue)](https://github.com/atilaahmettaner/tradingview-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atilaahmettaner/tradingview-mcp?style=flat-square&color=yellow)](https://github.com/atilaahmettaner/tradingview-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/atilaahmettaner/tradingview-mcp?style=flat-square&color=blue)](https://github.com/atilaahmettaner/tradingview-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time crypto & stock screening, advanced technical indicators, Bollinger Bands intelligence, candlestick patterns + native Claude Desktop integration. Multi-exchange (Binance, KuCoin, Bybit+). Open-source AI trading infrastructure.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 505 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

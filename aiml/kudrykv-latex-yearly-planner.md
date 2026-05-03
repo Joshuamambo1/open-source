@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/kudrykv/latex-yearly-planner?style=flat-square&color=yellow)](https://github.com/kudrykv/latex-yearly-planner/stargazers) [![Forks](https://img.shields.io/github/forks/kudrykv/latex-yearly-planner?style=flat-square&color=blue)](https://github.com/kudrykv/latex-yearly-planner/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
-> Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://war.ukraine.ua/support-ukraine/
+> Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://savelife.in.ua/en/
 
 ## 📊 Stats
 

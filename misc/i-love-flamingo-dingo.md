@@ -1,6 +1,6 @@
 # i-love-flamingo/dingo
 
-[![Stars](https://img.shields.io/github/stars/i-love-flamingo/dingo?style=flat-square&color=yellow)](https://github.com/i-love-flamingo/dingo/stargazers) [![Forks](https://img.shields.io/github/forks/i-love-flamingo/dingo?style=flat-square&color=blue)](https://github.com/i-love-flamingo/dingo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/i-love-flamingo/dingo?style=flat-square&color=yellow)](https://github.com/i-love-flamingo/dingo/stargazers) [![Forks](https://img.shields.io/github/forks/i-love-flamingo/dingo?style=flat-square&color=blue)](https://github.com/i-love-flamingo/dingo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Go Dependency Injection Framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 188 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

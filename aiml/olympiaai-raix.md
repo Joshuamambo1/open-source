@@ -1,6 +1,6 @@
 # OlympiaAI/raix
 
-[![Stars](https://img.shields.io/github/stars/OlympiaAI/raix?style=flat-square&color=yellow)](https://github.com/OlympiaAI/raix/stargazers) [![Forks](https://img.shields.io/github/forks/OlympiaAI/raix?style=flat-square&color=blue)](https://github.com/OlympiaAI/raix/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OlympiaAI/raix?style=flat-square&color=yellow)](https://github.com/OlympiaAI/raix/stargazers) [![Forks](https://img.shields.io/github/forks/OlympiaAI/raix?style=flat-square&color=blue)](https://github.com/OlympiaAI/raix/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Ruby AI eXtensions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

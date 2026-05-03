@@ -1,6 +1,6 @@
 # phogolabs/prana
 
-[![Stars](https://img.shields.io/github/stars/phogolabs/prana?style=flat-square&color=yellow)](https://github.com/phogolabs/prana/stargazers) [![Forks](https://img.shields.io/github/forks/phogolabs/prana?style=flat-square&color=blue)](https://github.com/phogolabs/prana/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phogolabs/prana?style=flat-square&color=yellow)](https://github.com/phogolabs/prana/stargazers) [![Forks](https://img.shields.io/github/forks/phogolabs/prana?style=flat-square&color=blue)](https://github.com/phogolabs/prana/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Golang Database Management and Code Generation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

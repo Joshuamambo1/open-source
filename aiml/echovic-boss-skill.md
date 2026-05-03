@@ -1,6 +1,6 @@
 # echoVic/boss-skill
 
-[![Stars](https://img.shields.io/github/stars/echoVic/boss-skill?style=flat-square&color=yellow)](https://github.com/echoVic/boss-skill/stargazers) [![Forks](https://img.shields.io/github/forks/echoVic/boss-skill?style=flat-square&color=blue)](https://github.com/echoVic/boss-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/echoVic/boss-skill?style=flat-square&color=yellow)](https://github.com/echoVic/boss-skill/stargazers) [![Forks](https://img.shields.io/github/forks/echoVic/boss-skill?style=flat-square&color=blue)](https://github.com/echoVic/boss-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Boss Skill - BMAD 全自动研发流水线（多 Agent 编排）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 321 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

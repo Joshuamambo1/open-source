@@ -1,6 +1,6 @@
 # open-deveco/deveco-toolbox
 
-[![Stars](https://img.shields.io/github/stars/open-deveco/deveco-toolbox?style=flat-square&color=yellow)](https://github.com/open-deveco/deveco-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/open-deveco/deveco-toolbox?style=flat-square&color=blue)](https://github.com/open-deveco/deveco-toolbox/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-deveco/deveco-toolbox?style=flat-square&color=yellow)](https://github.com/open-deveco/deveco-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/open-deveco/deveco-toolbox?style=flat-square&color=blue)](https://github.com/open-deveco/deveco-toolbox/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 在AI IDE中完成鸿蒙HarmonyOS应用与元服务的开发，编译构建及测试
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

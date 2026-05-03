@@ -1,6 +1,6 @@
 # krzyzanowskim/CryptoSwift
 
-[![Stars](https://img.shields.io/github/stars/krzyzanowskim/CryptoSwift?style=flat-square&color=yellow)](https://github.com/krzyzanowskim/CryptoSwift/stargazers) [![Forks](https://img.shields.io/github/forks/krzyzanowskim/CryptoSwift?style=flat-square&color=blue)](https://github.com/krzyzanowskim/CryptoSwift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krzyzanowskim/CryptoSwift?style=flat-square&color=yellow)](https://github.com/krzyzanowskim/CryptoSwift/stargazers) [![Forks](https://img.shields.io/github/forks/krzyzanowskim/CryptoSwift?style=flat-square&color=blue)](https://github.com/krzyzanowskim/CryptoSwift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
 > CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.5k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 96/100 |
+| 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

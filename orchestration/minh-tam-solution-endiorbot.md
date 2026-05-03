@@ -1,6 +1,6 @@
 # Minh-Tam-Solution/EndiorBot
 
-[![Stars](https://img.shields.io/github/stars/Minh-Tam-Solution/EndiorBot?style=flat-square&color=yellow)](https://github.com/Minh-Tam-Solution/EndiorBot/stargazers) [![Forks](https://img.shields.io/github/forks/Minh-Tam-Solution/EndiorBot?style=flat-square&color=blue)](https://github.com/Minh-Tam-Solution/EndiorBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Minh-Tam-Solution/EndiorBot?style=flat-square&color=yellow)](https://github.com/Minh-Tam-Solution/EndiorBot/stargazers) [![Forks](https://img.shields.io/github/forks/Minh-Tam-Solution/EndiorBot?style=flat-square&color=blue)](https://github.com/Minh-Tam-Solution/EndiorBot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI agent orchestrator for SDLC workflows — 14 role-based agents, 5 channels, 39 unified commands. Tool-agnostic. MIT.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16 |
+| ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

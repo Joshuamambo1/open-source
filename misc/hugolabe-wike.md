@@ -1,6 +1,6 @@
 # hugolabe/Wike
 
-[![Stars](https://img.shields.io/github/stars/hugolabe/Wike?style=flat-square&color=yellow)](https://github.com/hugolabe/Wike/stargazers) [![Forks](https://img.shields.io/github/forks/hugolabe/Wike?style=flat-square&color=blue)](https://github.com/hugolabe/Wike/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hugolabe/Wike?style=flat-square&color=yellow)](https://github.com/hugolabe/Wike/stargazers) [![Forks](https://img.shields.io/github/forks/hugolabe/Wike?style=flat-square&color=blue)](https://github.com/hugolabe/Wike/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Wikipedia Reader for the GNOME Desktop
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # openJiuwen-ai/agent-core
 
-[![Stars](https://img.shields.io/github/stars/openJiuwen-ai/agent-core?style=flat-square&color=yellow)](https://github.com/openJiuwen-ai/agent-core/stargazers) [![Forks](https://img.shields.io/github/forks/openJiuwen-ai/agent-core?style=flat-square&color=blue)](https://github.com/openJiuwen-ai/agent-core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openJiuwen-ai/agent-core?style=flat-square&color=yellow)](https://github.com/openJiuwen-ai/agent-core/stargazers) [![Forks](https://img.shields.io/github/forks/openJiuwen-ai/agent-core?style=flat-square&color=blue)](https://github.com/openJiuwen-ai/agent-core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > openJiuwen agent-core provides a complete set of SDK capabilities related to AI Agent development, running, optimization, and evolution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

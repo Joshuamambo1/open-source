@@ -1,6 +1,6 @@
 # ConorWilliams/libfork
 
-[![Stars](https://img.shields.io/github/stars/ConorWilliams/libfork?style=flat-square&color=yellow)](https://github.com/ConorWilliams/libfork/stargazers) [![Forks](https://img.shields.io/github/forks/ConorWilliams/libfork?style=flat-square&color=blue)](https://github.com/ConorWilliams/libfork/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ConorWilliams/libfork?style=flat-square&color=yellow)](https://github.com/ConorWilliams/libfork/stargazers) [![Forks](https://img.shields.io/github/forks/ConorWilliams/libfork?style=flat-square&color=blue)](https://github.com/ConorWilliams/libfork/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A bleeding-edge, lock-free, wait-free, continuation-stealing tasking library built on C++20's coroutines
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 858 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

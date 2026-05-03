@@ -1,6 +1,6 @@
 # SHORiN-KiWATA/Shorin-ArchLinux-Guide
 
-[![Stars](https://img.shields.io/github/stars/SHORiN-KiWATA/Shorin-ArchLinux-Guide?style=flat-square&color=yellow)](https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide/stargazers) [![Forks](https://img.shields.io/github/forks/SHORiN-KiWATA/Shorin-ArchLinux-Guide?style=flat-square&color=blue)](https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SHORiN-KiWATA/Shorin-ArchLinux-Guide?style=flat-square&color=yellow)](https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide/stargazers) [![Forks](https://img.shields.io/github/forks/SHORiN-KiWATA/Shorin-ArchLinux-Guide?style=flat-square&color=blue)](https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 【2026最适合新手的Arch Linux教程】具体内容包括：系统安装教程、win+linux双系统、N卡驱动、桌面环境、中文输入法、Linux玩游戏、常用虚拟机程序、显卡直通、干净删除linux等。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

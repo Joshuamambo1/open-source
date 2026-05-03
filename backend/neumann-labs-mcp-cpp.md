@@ -1,6 +1,6 @@
 # Neumann-Labs/mcp-cpp
 
-[![Stars](https://img.shields.io/github/stars/Neumann-Labs/mcp-cpp?style=flat-square&color=yellow)](https://github.com/Neumann-Labs/mcp-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/Neumann-Labs/mcp-cpp?style=flat-square&color=blue)](https://github.com/Neumann-Labs/mcp-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Neumann-Labs/mcp-cpp?style=flat-square&color=yellow)](https://github.com/Neumann-Labs/mcp-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/Neumann-Labs/mcp-cpp?style=flat-square&color=blue)](https://github.com/Neumann-Labs/mcp-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > A C++ SDK for the Model Context Protocol (MCP). The SDK will provide a framework for creating MCP servers and clients in C++.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

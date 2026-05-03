@@ -1,6 +1,6 @@
 # rhysd/hgrep
 
-[![Stars](https://img.shields.io/github/stars/rhysd/hgrep?style=flat-square&color=yellow)](https://github.com/rhysd/hgrep/stargazers) [![Forks](https://img.shields.io/github/forks/rhysd/hgrep?style=flat-square&color=blue)](https://github.com/rhysd/hgrep/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rhysd/hgrep?style=flat-square&color=yellow)](https://github.com/rhysd/hgrep/stargazers) [![Forks](https://img.shields.io/github/forks/rhysd/hgrep?style=flat-square&color=blue)](https://github.com/rhysd/hgrep/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Grep with human-friendly search results
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 511 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # opentiny/webmcp-sdk
 
-[![Stars](https://img.shields.io/github/stars/opentiny/webmcp-sdk?style=flat-square&color=yellow)](https://github.com/opentiny/webmcp-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/opentiny/webmcp-sdk?style=flat-square&color=blue)](https://github.com/opentiny/webmcp-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opentiny/webmcp-sdk?style=flat-square&color=yellow)](https://github.com/opentiny/webmcp-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/opentiny/webmcp-sdk?style=flat-square&color=blue)](https://github.com/opentiny/webmcp-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A smart application development toolkit that instantly empowers your applications with AI capabilities. Using WebMCP + WebSkills, just a few lines of code can transform your existing business applications into intelligent ones.一套前端智能应用开发工具包，让你的应用瞬间拥有 AI 能力。用 WebMCP + WebSkills，几行代码让「现有业务应用」秒变智能应用
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 47 |
+| ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

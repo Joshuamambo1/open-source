@@ -14,8 +14,8 @@
 | 4 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
 | 5 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.4k | TypeScript | 99/100 |
 | 6 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.9k | C++ | 96/100 |
-| 7 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.2k | Rust | 92/100 |
-| 8 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9.1k | Python | 92/100 |
+| 7 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9.1k | Python | 92/100 |
+| 8 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.2k | Rust | 92/100 |
 | 9 | [liuchong/awesome-roadmaps](./liuchong-awesome-roadmaps.md) | ⭐ 6.9k | — | 88/100 |
 | 10 | [johnste/finicky](./johnste-finicky.md) | ⭐ 4.8k | Go | 86/100 |
 | 11 | [dreamworksanimation/openmoonray](./dreamworksanimation-openmoonray.md) | ⭐ 4.6k | CMake | 77/100 |
@@ -29,7 +29,7 @@
 | 19 | [pimutils/todoman](./pimutils-todoman.md) | ⭐ 574 | Python | 55/100 |
 | 20 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 740 | Go | 54/100 |
 | 21 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | TypeScript | 53/100 |
-| 22 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 659 | Shell | 52/100 |
+| 22 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 660 | Shell | 52/100 |
 | 23 | [eph5xx/tweakidea](./eph5xx-tweakidea.md) | ⭐ 14 | Python | 50/100 |
 | 24 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 464 | Rust | 48/100 |
 | 25 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |

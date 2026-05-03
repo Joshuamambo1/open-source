@@ -1,6 +1,6 @@
 # Icinga/icingaweb2
 
-[![Stars](https://img.shields.io/github/stars/Icinga/icingaweb2?style=flat-square&color=yellow)](https://github.com/Icinga/icingaweb2/stargazers) [![Forks](https://img.shields.io/github/forks/Icinga/icingaweb2?style=flat-square&color=blue)](https://github.com/Icinga/icingaweb2/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Icinga/icingaweb2?style=flat-square&color=yellow)](https://github.com/Icinga/icingaweb2/stargazers) [![Forks](https://img.shields.io/github/forks/Icinga/icingaweb2?style=flat-square&color=blue)](https://github.com/Icinga/icingaweb2/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight and extensible web interface to keep an eye on your environment. Analyse problems and act on them.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 839 |
 | 🍴 **Forks** | 282 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # neo4j/neo4j-go-driver
 
-[![Stars](https://img.shields.io/github/stars/neo4j/neo4j-go-driver?style=flat-square&color=yellow)](https://github.com/neo4j/neo4j-go-driver/stargazers) [![Forks](https://img.shields.io/github/forks/neo4j/neo4j-go-driver?style=flat-square&color=blue)](https://github.com/neo4j/neo4j-go-driver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neo4j/neo4j-go-driver?style=flat-square&color=yellow)](https://github.com/neo4j/neo4j-go-driver/stargazers) [![Forks](https://img.shields.io/github/forks/neo4j/neo4j-go-driver?style=flat-square&color=blue)](https://github.com/neo4j/neo4j-go-driver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Neo4j Bolt Driver for Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 550 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

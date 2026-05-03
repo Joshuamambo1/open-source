@@ -1,6 +1,6 @@
 # leonardomso/rust-skills
 
-[![Stars](https://img.shields.io/github/stars/leonardomso/rust-skills?style=flat-square&color=yellow)](https://github.com/leonardomso/rust-skills/stargazers) [![Forks](https://img.shields.io/github/forks/leonardomso/rust-skills?style=flat-square&color=blue)](https://github.com/leonardomso/rust-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leonardomso/rust-skills?style=flat-square&color=yellow)](https://github.com/leonardomso/rust-skills/stargazers) [![Forks](https://img.shields.io/github/forks/leonardomso/rust-skills?style=flat-square&color=blue)](https://github.com/leonardomso/rust-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of 179 rules that AI coding agents can use when writing Rust.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 164 |
-| 🍴 **Forks** | 23 |
+| 🍴 **Forks** | 24 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

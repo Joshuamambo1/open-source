@@ -15,7 +15,7 @@
 | 5 | [apache/plc4x](./apache-plc4x.md) | ⭐ 1.6k | Java | 68/100 |
 | 6 | [danielbrendel/hortusfox-web](./danielbrendel-hortusfox-web.md) | ⭐ 1.5k | PHP | 62/100 |
 | 7 | [museofficial/muse](./museofficial-muse.md) | ⭐ 1.2k | TypeScript | 60/100 |
-| 8 | [productdevbook/hucre](./productdevbook-hucre.md) | ⭐ 1.2k | TypeScript | 59/100 |
+| 8 | [productdevbook/hucre](./productdevbook-hucre.md) | ⭐ 1.3k | TypeScript | 59/100 |
 | 9 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 853 | Dart | 58/100 |
 | 10 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 725 | Adblock Filter List | 57/100 |
 | 11 | [maaslalani/sheets](./maaslalani-sheets.md) | ⭐ 2.2k | Go | 56/100 |

@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Claude-Tap is an open-source project that enables local reverse proxying of Claude Code API requests, allowing for the inspection of system prompts, messages, tools, and token usage. This project aims to facilitate the development and debugging of AI/ML applications that integrate with the Claude Code API. With Claude-Tap, developers can gain valuable insights into their application's interactions with the Claude Code API.
+Claude-Tap is an open-source project that enables developers to inspect and tap into Claude Code API requests via a local reverse proxy. It provides a convenient way to inspect system prompts, messages, tools, and token usage, making it easier to understand and work with the Claude AI platform. This project is ideal for developers and researchers looking to leverage the power of AI while maintaining control over their code and data.
 
 ---
 

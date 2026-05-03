@@ -1,6 +1,6 @@
 # clj-commons/pomegranate
 
-[![Stars](https://img.shields.io/github/stars/clj-commons/pomegranate?style=flat-square&color=yellow)](https://github.com/clj-commons/pomegranate/stargazers) [![Forks](https://img.shields.io/github/forks/clj-commons/pomegranate?style=flat-square&color=blue)](https://github.com/clj-commons/pomegranate/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clj-commons/pomegranate?style=flat-square&color=yellow)](https://github.com/clj-commons/pomegranate/stargazers) [![Forks](https://img.shields.io/github/forks/clj-commons/pomegranate?style=flat-square&color=blue)](https://github.com/clj-commons/pomegranate/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A sane Clojure API for Maven Artifact Resolver + dynamic runtime modification of the classpath
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 512 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

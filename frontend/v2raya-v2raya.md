@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-v2rayA is an open-source web-based client for Project V, a popular VPN and proxy solution. It supports multiple protocols, including VMess, VLESS, SS, SSR, Trojan, Tuic, and Juicity, offering users a convenient and accessible interface for managing their connections. With a focus on simplicity and ease of use, v2rayA aims to provide a seamless experience for users to configure and control their Project V setups.
+Here's a brief summary for the v2rayA project:
+
+v2rayA is an open-source web-based GUI client for Project V, allowing users to easily manage and configure various protocols such as VMess, VLESS, SS, SSR, Trojan, Tuic, and Juicity. This user-friendly interface simplifies the process of setting up and controlling VPN connections, making it accessible to both technical and non-technical users. With v2rayA, users can efficiently manage their Project V instances remotely.
 
 ---
 

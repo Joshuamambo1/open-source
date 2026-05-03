@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The wasvy project is an open-source initiative that enables WASI-powered modding for the Bevy game engine. This project facilitates the creation and deployment of high-performance, cross-platform mods by leveraging the WebAssembly System Interface (WASI). With wasvy, developers can now easily craft and share mods that run on multiple platforms, including Windows, macOS, and Linux.
+Wasvy is an open-source project that enables WASI (WebAssembly System Interface) powered modding for the Bevy game engine. It allows developers to create and distribute mods that run seamlessly on various platforms, leveraging the efficiency and portability of WebAssembly. This project simplifies the process of creating cross-platform mods for Bevy, expanding its modding capabilities.
 
 ---
 

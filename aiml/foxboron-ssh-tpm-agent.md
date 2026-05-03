@@ -1,6 +1,6 @@
 # Foxboron/ssh-tpm-agent
 
-[![Stars](https://img.shields.io/github/stars/Foxboron/ssh-tpm-agent?style=flat-square&color=yellow)](https://github.com/Foxboron/ssh-tpm-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Foxboron/ssh-tpm-agent?style=flat-square&color=blue)](https://github.com/Foxboron/ssh-tpm-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Foxboron/ssh-tpm-agent?style=flat-square&color=yellow)](https://github.com/Foxboron/ssh-tpm-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Foxboron/ssh-tpm-agent?style=flat-square&color=blue)](https://github.com/Foxboron/ssh-tpm-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > :computer: :key: ssh-agent for TPMs
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 656 |
+| ⭐ **Stars** | 657 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

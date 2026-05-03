@@ -1,6 +1,6 @@
 # lichess-org/api
 
-[![Stars](https://img.shields.io/github/stars/lichess-org/api?style=flat-square&color=yellow)](https://github.com/lichess-org/api/stargazers) [![Forks](https://img.shields.io/github/forks/lichess-org/api?style=flat-square&color=blue)](https://github.com/lichess-org/api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lichess-org/api?style=flat-square&color=yellow)](https://github.com/lichess-org/api/stargazers) [![Forks](https://img.shields.io/github/forks/lichess-org/api?style=flat-square&color=blue)](https://github.com/lichess-org/api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Lichess API documentation and examples
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 557 |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

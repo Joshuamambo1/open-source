@@ -1,6 +1,6 @@
 # rarce/git-wiki
 
-[![Stars](https://img.shields.io/github/stars/rarce/git-wiki?style=flat-square&color=yellow)](https://github.com/rarce/git-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/rarce/git-wiki?style=flat-square&color=blue)](https://github.com/rarce/git-wiki/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rarce/git-wiki?style=flat-square&color=yellow)](https://github.com/rarce/git-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/rarce/git-wiki?style=flat-square&color=blue)](https://github.com/rarce/git-wiki/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skill implementing Karpathy's LLM-wiki pattern on a personal GitHub repo, with qmd for on-device hybrid search.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

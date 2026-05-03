@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 152 |
+| 🍴 **Forks** | 153 |
 | 💻 **Language** | Pascal |
 | 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |

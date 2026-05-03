@@ -25,7 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The sktime/skpro project provides a unified framework for tabular data analysis in Python, offering tools for probabilistic regression, time-to-event prediction, and modeling probability distributions. This open-source platform enables seamless integration of various machine learning techniques to tackle complex data science tasks. By streamlining data analysis, sktime/skpro accelerates research and development in AI and ML applications.
+Here's a brief summary for the sktime/skpro project:
+
+sktime/skpro is an open-source framework that unifies various machine learning tasks for tabular data, including probabilistic regression, time-to-event prediction, and probability distribution modeling. This Python-based framework enables users to seamlessly combine and leverage a range of techniques for complex prediction and analysis tasks. By consolidating these capabilities, sktime/skpro facilitates more efficient and effective data analysis for AI and machine learning applications.
 
 ---
 

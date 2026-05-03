@@ -1,6 +1,6 @@
 # legluondunet/MyLittleLutrisScripts
 
-[![Stars](https://img.shields.io/github/stars/legluondunet/MyLittleLutrisScripts?style=flat-square&color=yellow)](https://github.com/legluondunet/MyLittleLutrisScripts/stargazers) [![Forks](https://img.shields.io/github/forks/legluondunet/MyLittleLutrisScripts?style=flat-square&color=blue)](https://github.com/legluondunet/MyLittleLutrisScripts/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/legluondunet/MyLittleLutrisScripts?style=flat-square&color=yellow)](https://github.com/legluondunet/MyLittleLutrisScripts/stargazers) [![Forks](https://img.shields.io/github/forks/legluondunet/MyLittleLutrisScripts?style=flat-square&color=blue)](https://github.com/legluondunet/MyLittleLutrisScripts/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Lutris scripts for old games.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 319 |
+| ⭐ **Stars** | 320 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

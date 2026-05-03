@@ -1,6 +1,6 @@
 # pychess/pychess
 
-[![Stars](https://img.shields.io/github/stars/pychess/pychess?style=flat-square&color=yellow)](https://github.com/pychess/pychess/stargazers) [![Forks](https://img.shields.io/github/forks/pychess/pychess?style=flat-square&color=blue)](https://github.com/pychess/pychess/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pychess/pychess?style=flat-square&color=yellow)](https://github.com/pychess/pychess/stargazers) [![Forks](https://img.shields.io/github/forks/pychess/pychess?style=flat-square&color=blue)](https://github.com/pychess/pychess/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > PyChess - a chess client for Linux/Windows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 796 |
 | 🍴 **Forks** | 210 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Sly-Harvey/NixOS
 
-[![Stars](https://img.shields.io/github/stars/Sly-Harvey/NixOS?style=flat-square&color=yellow)](https://github.com/Sly-Harvey/NixOS/stargazers) [![Forks](https://img.shields.io/github/forks/Sly-Harvey/NixOS?style=flat-square&color=blue)](https://github.com/Sly-Harvey/NixOS/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sly-Harvey/NixOS?style=flat-square&color=yellow)](https://github.com/Sly-Harvey/NixOS/stargazers) [![Forks](https://img.shields.io/github/forks/Sly-Harvey/NixOS?style=flat-square&color=blue)](https://github.com/Sly-Harvey/NixOS/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > NixOS + Hyprland rice with flakes, home-manager and dev-shells
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 533 |
+| ⭐ **Stars** | 534 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

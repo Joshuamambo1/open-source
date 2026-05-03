@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15426** |
+| 🗂️ **Total projects** | **15470** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5760 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3183 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1507 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1140 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 943 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 920 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 527 | [Browse →](./crypto/) |
-| 📊 **Data** | 349 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 5773 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3192 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1513 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1141 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 947 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 922 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 528 | [Browse →](./crypto/) |
+| 📊 **Data** | 351 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 331 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 209 | [Browse →](./mobile/) |
-| 💳 **Payments** | 163 | [Browse →](./payments/) |
-| 📈 **Trading** | 157 | [Browse →](./trading/) |
-| 🔐 **Security** | 126 | [Browse →](./security/) |
+| 💳 **Payments** | 165 | [Browse →](./payments/) |
+| 📈 **Trading** | 159 | [Browse →](./trading/) |
+| 🔐 **Security** | 127 | [Browse →](./security/) |
 | ✨ **Design** | 51 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
-| 🎯 **Product** | 29 | [Browse →](./product/) |
+| 🎯 **Product** | 30 | [Browse →](./product/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Dooy/chatgpt-web-midjourney-proxy](./aiml/dooy-chatgpt-web-midjourney-proxy.md) | ⭐ 6.7k | AI/ML |
-| 2 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.4k | AI/ML |
-| 3 | [beekeeper-studio/beekeeper-studio](./backend/beekeeper-studio-beekeeper-studio.md) | ⭐ 22.7k | Backend |
-| 4 | [v2rayA/v2rayA](./frontend/v2raya-v2raya.md) | ⭐ 15k | Frontend |
-| 5 | [quic-go/quic-go](./frontend/quic-go-quic-go.md) | ⭐ 11.6k | Frontend |
-| 6 | [getmaxun/maxun](./aiml/getmaxun-maxun.md) | ⭐ 15.5k | AI/ML |
-| 7 | [emacs-lsp/lsp-mode](./aiml/emacs-lsp-lsp-mode.md) | ⭐ 5.1k | AI/ML |
+| 1 | [Laravel-Lang/lang](./payments/laravel-lang-lang.md) | ⭐ 7.8k | Payments |
+| 2 | [Dooy/chatgpt-web-midjourney-proxy](./aiml/dooy-chatgpt-web-midjourney-proxy.md) | ⭐ 6.7k | AI/ML |
+| 3 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.4k | AI/ML |
+| 4 | [ShareX/ShareX](./product/sharex-sharex.md) | ⭐ 37k | Product |
+| 5 | [beekeeper-studio/beekeeper-studio](./backend/beekeeper-studio-beekeeper-studio.md) | ⭐ 22.7k | Backend |
+| 6 | [quic-go/quic-go](./frontend/quic-go-quic-go.md) | ⭐ 11.6k | Frontend |
+| 7 | [getmaxun/maxun](./aiml/getmaxun-maxun.md) | ⭐ 15.5k | AI/ML |
 | 8 | [nicolargo/glances](./backend/nicolargo-glances.md) | ⭐ 32.4k | Backend |
 | 9 | [stashapp/stash](./misc/stashapp-stash.md) | ⭐ 12.3k | Misc |
-| 10 | [travisvn/awesome-claude-skills](./aiml/travisvn-awesome-claude-skills.md) | ⭐ 12.1k | AI/ML |
+| 10 | [v2rayA/v2rayA](./frontend/v2raya-v2raya.md) | ⭐ 15k | Frontend |
 
 ## 🚀 How it works
 

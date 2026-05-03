@@ -1,6 +1,6 @@
 # rudderlabs/rudder-server
 
-[![Stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=flat-square&color=yellow)](https://github.com/rudderlabs/rudder-server/stargazers) [![Forks](https://img.shields.io/github/forks/rudderlabs/rudder-server?style=flat-square&color=blue)](https://github.com/rudderlabs/rudder-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=flat-square&color=yellow)](https://github.com/rudderlabs/rudder-server/stargazers) [![Forks](https://img.shields.io/github/forks/rudderlabs/rudder-server?style=flat-square&color=blue)](https://github.com/rudderlabs/rudder-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Privacy and Security focused Segment-alternative, in Golang and React
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

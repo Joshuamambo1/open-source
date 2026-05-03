@@ -1,6 +1,6 @@
 # paritytech/subxt
 
-[![Stars](https://img.shields.io/github/stars/paritytech/subxt?style=flat-square&color=yellow)](https://github.com/paritytech/subxt/stargazers) [![Forks](https://img.shields.io/github/forks/paritytech/subxt?style=flat-square&color=blue)](https://github.com/paritytech/subxt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paritytech/subxt?style=flat-square&color=yellow)](https://github.com/paritytech/subxt/stargazers) [![Forks](https://img.shields.io/github/forks/paritytech/subxt?style=flat-square&color=blue)](https://github.com/paritytech/subxt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Interact with Substrate based nodes in Rust or WebAssembly
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 483 |
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,9 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the radis/radis project:
+Here's a brief summary for the open-source project:
 
-Radis is an open-source, high-performance tool for simulating and analyzing high-resolution infrared molecular spectra. This code provides line-by-line calculations, enabling researchers to accurately model and interpret complex spectral data. By leveraging this software, scientists can gain valuable insights into molecular structures and interactions.
+Radis is a high-performance, open-source library for simulating and analyzing high-resolution infrared molecular spectra. Developed for the scientific community, this code provides a fast and efficient way to model and interpret complex spectroscopic data. By leveraging its line-by-line approach, Radis enables researchers to gain deeper insights into molecular structures and interactions.
 
 ---
 

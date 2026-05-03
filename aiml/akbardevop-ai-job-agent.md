@@ -1,6 +1,6 @@
 # AkbarDevop/ai-job-agent
 
-[![Stars](https://img.shields.io/github/stars/AkbarDevop/ai-job-agent?style=flat-square&color=yellow)](https://github.com/AkbarDevop/ai-job-agent/stargazers) [![Forks](https://img.shields.io/github/forks/AkbarDevop/ai-job-agent?style=flat-square&color=blue)](https://github.com/AkbarDevop/ai-job-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AkbarDevop/ai-job-agent?style=flat-square&color=yellow)](https://github.com/AkbarDevop/ai-job-agent/stargazers) [![Forks](https://img.shields.io/github/forks/AkbarDevop/ai-job-agent?style=flat-square&color=blue)](https://github.com/AkbarDevop/ai-job-agent/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered job application automation toolkit — LinkedIn Easy Apply, Greenhouse, Lever, Jobvite, Ashby, Outlook triage, tracking. Built with Claude Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

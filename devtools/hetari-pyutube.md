@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-The hetari/pyutube project is a user-friendly, open-source command line tool designed to simplify the process of downloading YouTube videos and playlists. With fewer steps required, users can easily access and save their favorite content from YouTube in a hassle-free manner. This tool aims to provide an efficient solution for those seeking to download YouTube content.
+Here's a brief summary for the hetari/pyutube project:
+
+hetari/pyutube is an open-source, user-friendly command-line tool for downloading YouTube videos and playlists with ease. This project simplifies the process by reducing the number of steps required, making it a convenient option for users who want to access their favorite content offline. With hetari/pyutube, you can quickly and efficiently download YouTube content from the comfort of your terminal.
 
 ---
 

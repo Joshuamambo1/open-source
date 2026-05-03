@@ -1,6 +1,6 @@
 # yousifamanuel/clawd-mochi
 
-[![Stars](https://img.shields.io/github/stars/yousifamanuel/clawd-mochi?style=flat-square&color=yellow)](https://github.com/yousifamanuel/clawd-mochi/stargazers) [![Forks](https://img.shields.io/github/forks/yousifamanuel/clawd-mochi?style=flat-square&color=blue)](https://github.com/yousifamanuel/clawd-mochi/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yousifamanuel/clawd-mochi?style=flat-square&color=yellow)](https://github.com/yousifamanuel/clawd-mochi/stargazers) [![Forks](https://img.shields.io/github/forks/yousifamanuel/clawd-mochi?style=flat-square&color=blue)](https://github.com/yousifamanuel/clawd-mochi/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Clawd Mochi: a physical desk companion inspired by Clawd (Claude Code mascot)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 232 |
+| ⭐ **Stars** | 234 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

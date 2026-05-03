@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The johnfkoo951/cmds-system-files project is an open-source knowledge architecture designed for a 10,000-note Obsidian vault. It consists of five system files, seven shared rules, and eight slash commands, making it a comprehensive framework for organizing and managing complex knowledge systems. This project aims to facilitate collaboration between humans and AI agents, providing a publicly accessible model for knowledge sharing and integration.
+The johnfkoo951/cmds-system-files project is an open-source knowledge architecture designed for a large-scale Obsidian vault, featuring a robust system of 5 core files, 7 shared rules, and 8 customizable slash commands. This innovative framework aims to facilitate seamless collaboration between humans and AI agents, fostering a more efficient and interconnected knowledge-sharing environment. It is openly accessible at https://system.cmdspace.work.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**126 projects** in this category.
+**127 projects** in this category.
 
 ## Projects
 
@@ -69,18 +69,18 @@
 | 59 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 1.1k | Rust | 57/100 |
 | 60 | [konstruktoid/ansible-role-hardening](./konstruktoid-ansible-role-hardening.md) | ⭐ 628 | Jinja | 56/100 |
 | 61 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 488 | Java | 56/100 |
-| 62 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 507 | JavaScript | 55/100 |
-| 63 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 164 | Go | 55/100 |
-| 64 | [ValueMelody/melody-auth](./valuemelody-melody-auth.md) | ⭐ 609 | TypeScript | 55/100 |
-| 65 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 544 | Go | 55/100 |
-| 66 | [web-auth/webauthn-framework](./web-auth-webauthn-framework.md) | ⭐ 505 | PHP | 55/100 |
+| 62 | [web-auth/webauthn-framework](./web-auth-webauthn-framework.md) | ⭐ 506 | PHP | 55/100 |
+| 63 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 507 | JavaScript | 55/100 |
+| 64 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 164 | Go | 55/100 |
+| 65 | [ValueMelody/melody-auth](./valuemelody-melody-auth.md) | ⭐ 609 | TypeScript | 55/100 |
+| 66 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 544 | Go | 55/100 |
 | 67 | [NewLifeX/NewLife.Cube](./newlifex-newlife.cube.md) | ⭐ 628 | JavaScript | 54/100 |
 | 68 | [oxyno-zeta/s3-proxy](./oxyno-zeta-s3-proxy.md) | ⭐ 458 | Go | 54/100 |
 | 69 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 321 | Python | 53/100 |
 | 70 | [Luzifer/nginx-sso](./luzifer-nginx-sso.md) | ⭐ 303 | Go | 53/100 |
 | 71 | [auth0/go-jwt-middleware](./auth0-go-jwt-middleware.md) | ⭐ 1.2k | Go | 53/100 |
-| 72 | [rfc-st/humble](./rfc-st-humble.md) | ⭐ 362 | Python | 53/100 |
-| 73 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 386 | Rust | 53/100 |
+| 72 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 386 | Rust | 53/100 |
+| 73 | [rfc-st/humble](./rfc-st-humble.md) | ⭐ 362 | Python | 53/100 |
 | 74 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 336 | Python | 53/100 |
 | 75 | [intigriti/misconfig-mapper](./intigriti-misconfig-mapper.md) | ⭐ 903 | Go | 53/100 |
 | 76 | [theopenlane/core](./theopenlane-core.md) | ⭐ 242 | Go | 52/100 |
@@ -128,12 +128,13 @@
 | 118 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 246 | Rust | 43/100 |
 | 119 | [bartei/git-agecrypt](./bartei-git-agecrypt.md) | ⭐ 9 | Rust | 42/100 |
 | 120 | [mytech-today-now/OO](./mytech-today-now-oo.md) | ⭐ 3 | PowerShell | 42/100 |
-| 121 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 148 | Rust | 41/100 |
-| 122 | [Tatsh/dbeaver-creds](./tatsh-dbeaver-creds.md) | ⭐ 33 | C | 41/100 |
-| 123 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 22 | TypeScript | 40/100 |
+| 121 | [Tatsh/dbeaver-creds](./tatsh-dbeaver-creds.md) | ⭐ 33 | C | 41/100 |
+| 122 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 22 | TypeScript | 40/100 |
+| 123 | [Zellic/publications](./zellic-publications.md) | ⭐ — | — | 39/100 |
 | 124 | [depado/gin-auth-example](./depado-gin-auth-example.md) | ⭐ 185 | Go | 38/100 |
-| 125 | [ItalyPaleAle/traefik-forward-auth](./italypaleale-traefik-forward-auth.md) | ⭐ 104 | Go | 37/100 |
-| 126 | [DslsDZC/HIC](./dslsdzc-hic.md) | ⭐ 13 | C | 36/100 |
+| 125 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 148 | Rust | 37/100 |
+| 126 | [ItalyPaleAle/traefik-forward-auth](./italypaleale-traefik-forward-auth.md) | ⭐ 104 | Go | 37/100 |
+| 127 | [DslsDZC/HIC](./dslsdzc-hic.md) | ⭐ 13 | C | 36/100 |
 
 ---
 

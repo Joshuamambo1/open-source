@@ -25,7 +25,9 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The Modern-Red-Team-Infrastructure project provides a comprehensive architecture model for professional Red Teams, integrating platform solutions and tooling to enhance their capabilities. This open-source framework utilizes AI/ML, DevTools, and DevOps/Infra categories to support the development of sophisticated red teaming operations. By streamlining and optimizing these processes, the project aims to elevate the effectiveness of Red Teams in simulating real-world cyber threats.
+Here's a brief summary for the Modern-Red-Team-Infrastructure project:
+
+The Modern-Red-Team-Infrastructure project offers an open-source, comprehensive architecture model that integrates AI/ML, DevTools, and DevOps/Infra solutions to support a professional Red Team. This infrastructure aims to provide a scalable, secure, and efficient platform for Red Teams to conduct simulations, exercises, and real-world operations. By adopting this architecture, organizations can streamline their Red Team operations and enhance their overall cybersecurity posture.
 
 ---
 

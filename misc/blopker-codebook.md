@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The blopker/codebook project is an open-source code spell checker designed to detect and correct coding mistakes, focusing on code syntax rather than mere grammar. This tool aims to improve the overall quality and maintainability of code by identifying potential errors and suggesting corrections. By enhancing code accuracy, developers can write more reliable and efficient software.
+The blopker/codebook project is an open-source spell checking tool specifically designed for code snippets and programming languages, aiming to identify and correct typos and syntax errors in code. This unique tool helps programmers maintain code quality and readability by flagging potential mistakes. By utilizing a code-specific approach, it enhances the overall development experience and reduces errors.
 
 ---
 

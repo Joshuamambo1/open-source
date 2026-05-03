@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-LeelaChessZero (LC0) is an open-source neural network-based chess engine that leverages GPU acceleration for enhanced performance. This project offers broad hardware support, making it accessible to a wide range of users. By utilizing AI and machine learning, LC0 aims to provide a powerful and efficient chess engine for the community.
+LeelaChessZero (lc0) is an open-source neural network-based chess engine that harnesses the power of GPU acceleration to deliver high-performance gameplay. This AI/ML project offers broad hardware support, making it accessible to a wide range of users. With its advanced neural network technology, lc0 is a powerful tool for chess enthusiasts and AI researchers alike.
 
 ---
 

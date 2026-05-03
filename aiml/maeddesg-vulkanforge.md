@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-VulkanForge is an open-source project that leverages the Vulkan API to run native FP8 models on AMD hardware. This Rust-based engine is designed to provide high-performance and efficient language modeling capabilities. VulkanForge is a 14 MB LLM (Large Language Model) engine that utilizes AMD-specific features to optimize model execution.
+Here's a summary of the VulkanForge project:
+
+VulkanForge is an open-source, 14 MB Vulkan-based Large Language Model (LLM) engine that allows for native execution of FP8 models on AMD hardware. This Rust-based project enables efficient and optimized performance on AMD graphics processing units (GPUs), making it a promising solution for AI and ML applications. By leveraging Vulkan, VulkanForge provides a high-performance platform for running complex models without significant resource overhead.
 
 ---
 

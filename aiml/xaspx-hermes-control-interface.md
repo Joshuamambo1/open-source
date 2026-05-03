@@ -1,6 +1,6 @@
 # xaspx/hermes-control-interface
 
-[![Stars](https://img.shields.io/github/stars/xaspx/hermes-control-interface?style=flat-square&color=yellow)](https://github.com/xaspx/hermes-control-interface/stargazers) [![Forks](https://img.shields.io/github/forks/xaspx/hermes-control-interface?style=flat-square&color=blue)](https://github.com/xaspx/hermes-control-interface/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xaspx/hermes-control-interface?style=flat-square&color=yellow)](https://github.com/xaspx/hermes-control-interface/stargazers) [![Forks](https://img.shields.io/github/forks/xaspx/hermes-control-interface?style=flat-square&color=blue)](https://github.com/xaspx/hermes-control-interface/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 535 |
+| ⭐ **Stars** | 547 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # pgEdge/spock
 
-[![Stars](https://img.shields.io/github/stars/pgEdge/spock?style=flat-square&color=yellow)](https://github.com/pgEdge/spock/stargazers) [![Forks](https://img.shields.io/github/forks/pgEdge/spock?style=flat-square&color=blue)](https://github.com/pgEdge/spock/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pgEdge/spock?style=flat-square&color=yellow)](https://github.com/pgEdge/spock/stargazers) [![Forks](https://img.shields.io/github/forks/pgEdge/spock?style=flat-square&color=blue)](https://github.com/pgEdge/spock/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Logical multi-master PostgreSQL replication
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 705 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | C |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # mos1128/ccg-gateway
 
-[![Stars](https://img.shields.io/github/stars/mos1128/ccg-gateway?style=flat-square&color=yellow)](https://github.com/mos1128/ccg-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/mos1128/ccg-gateway?style=flat-square&color=blue)](https://github.com/mos1128/ccg-gateway/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mos1128/ccg-gateway?style=flat-square&color=yellow)](https://github.com/mos1128/ccg-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/mos1128/ccg-gateway?style=flat-square&color=blue)](https://github.com/mos1128/ccg-gateway/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > 为 Claude Code、Codex、Gemini CLI 打造的效率工具，集智能网关与配置管理于一体
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

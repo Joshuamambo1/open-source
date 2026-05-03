@@ -25,7 +25,7 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The Neo-go project is an open-source, Go-based implementation of a Neo blockchain node and SDK. This comprehensive package enables developers to interact with the Neo network, providing a reliable and efficient way to build and integrate Neo blockchain applications. With Neo-go, users can leverage the power of the Neo blockchain for various use cases.
+This open-source project, "neo-go", is a Go Node and SDK for the Neo blockchain, enabling developers to interact with the Neo network in a secure and efficient manner. The project provides a robust foundation for building Neo-based applications, including wallets, exchanges, and other blockchain-related services. With its Go-based implementation, neo-go offers a high-performance and scalable solution for the Neo ecosystem.
 
 ---
 

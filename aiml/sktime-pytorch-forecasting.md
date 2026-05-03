@@ -25,7 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The sktime/pytorch-forecasting project is an open-source library that integrates time series forecasting capabilities with PyTorch, a popular deep learning framework. It enables users to leverage PyTorch's power for forecasting tasks, making it easier to build, train, and deploy accurate time series models. This project facilitates the development of robust and scalable time series forecasting solutions.
+The sktime/pytorch-forecasting project is an open-source library that leverages PyTorch to provide efficient and flexible time series forecasting capabilities. With its comprehensive framework, users can easily develop and deploy predictive models for various time series tasks, from simple univariate forecasting to complex multivariate scenarios. This library fosters innovation in time series analysis and enables data scientists to build accurate and scalable forecasting models.
 
 ---
 

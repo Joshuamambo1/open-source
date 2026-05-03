@@ -1,6 +1,6 @@
 # dasniko/keycloak-extensions-demo
 
-[![Stars](https://img.shields.io/github/stars/dasniko/keycloak-extensions-demo?style=flat-square&color=yellow)](https://github.com/dasniko/keycloak-extensions-demo/stargazers) [![Forks](https://img.shields.io/github/forks/dasniko/keycloak-extensions-demo?style=flat-square&color=blue)](https://github.com/dasniko/keycloak-extensions-demo/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dasniko/keycloak-extensions-demo?style=flat-square&color=yellow)](https://github.com/dasniko/keycloak-extensions-demo/stargazers) [![Forks](https://img.shields.io/github/forks/dasniko/keycloak-extensions-demo?style=flat-square&color=blue)](https://github.com/dasniko/keycloak-extensions-demo/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Demos, examples and playground for Keycloak extensions, providers, SPI implementations, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 420 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

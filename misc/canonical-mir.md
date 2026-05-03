@@ -1,6 +1,6 @@
 # canonical/mir
 
-[![Stars](https://img.shields.io/github/stars/canonical/mir?style=flat-square&color=yellow)](https://github.com/canonical/mir/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/mir?style=flat-square&color=blue)](https://github.com/canonical/mir/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/canonical/mir?style=flat-square&color=yellow)](https://github.com/canonical/mir/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/mir?style=flat-square&color=blue)](https://github.com/canonical/mir/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The Mir compositor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 761 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

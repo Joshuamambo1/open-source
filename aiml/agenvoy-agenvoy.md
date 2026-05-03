@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Agenvoy is an open-source, agent-based framework designed to support self-improving memory and sandbox execution. This AI/ML project provides a pluggable architecture for tool extensions, enabling users to seamlessly integrate custom tools and functionality into the framework. By leveraging this flexible and modular design, users can build, test, and deploy sophisticated agent-based systems.
+Agenvoy is an open-source, self-improving framework that enables users to build, manage, and extend their own AI systems. This platform offers a pluggable architecture with sandbox execution capabilities, allowing for seamless integration of various tools and extensions. By harnessing Agenvoy's agentic framework, developers can create sophisticated AI models that adapt and learn over time.
 
 ---
 

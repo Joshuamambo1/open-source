@@ -1,17 +1,17 @@
 # lifthrasiir/wah
 
-[![Stars](https://img.shields.io/github/stars/lifthrasiir/wah?style=flat-square&color=yellow)](https://github.com/lifthrasiir/wah/stargazers) [![Forks](https://img.shields.io/github/forks/lifthrasiir/wah?style=flat-square&color=blue)](https://github.com/lifthrasiir/wah/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lifthrasiir/wah?style=flat-square&color=yellow)](https://github.com/lifthrasiir/wah/stargazers) [![Forks](https://img.shields.io/github/forks/lifthrasiir/wah?style=flat-square&color=blue)](https://github.com/lifthrasiir/wah/network) [![Language](https://img.shields.io/badge/lang-WebAssembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> WebAssembly interpreter in a Header (WAH)
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 42 |
+| 🍴 **Forks** | 2 |
+| 💻 **Language** | WebAssembly |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

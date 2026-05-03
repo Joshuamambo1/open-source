@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Innei/Kagura is an open-source project that integrates AI capabilities into Slack, allowing users to access powerful tools like Claude Agent SDK and OpenAI Codex CLI within their workspace. This integration provides a seamless user experience with features such as thread-aware context, streaming UI, and persistent memory, enabling users to harness the full potential of AI in their communication and collaboration. By leveraging Kagura, teams can unlock new levels of productivity and innovation in their Slack workspace.
+Innei/Kagura is an open-source project that brings AI capabilities to Slack workspaces. It seamlessly integrates Claude Agent SDK and OpenAI Codex CLI, providing a native, thread-aware experience with streaming user interface and persistent memory. This integration enables users to leverage AI for enhanced productivity and efficiency within their Slack environment.
 
 ---
 

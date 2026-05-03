@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 308 |
+| ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 46/100 |
@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The 1weiho/open-slide project is an open-source slide framework designed specifically for agents, providing a foundation for seamless integration with AI and ML technologies. This frontend-focused framework enables the creation of interactive and dynamic slides, empowering users to craft engaging presentations and interfaces. By leveraging open-slide, developers can accelerate their project development and enhance user experience.
+The open-slide project by 1weiho provides a comprehensive framework for building slides that can be interacted with by agents, enabling the creation of dynamic and adaptive presentation systems. This open-source initiative combines AI/ML and frontend technologies to facilitate the development of intelligent slide-based interfaces. By leveraging this framework, developers can design and implement sophisticated slide-based applications for various use cases.
 
 ---
 

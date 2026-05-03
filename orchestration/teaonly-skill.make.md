@@ -1,6 +1,6 @@
 # Teaonly/SKILL.make
 
-[![Stars](https://img.shields.io/github/stars/Teaonly/SKILL.make?style=flat-square&color=yellow)](https://github.com/Teaonly/SKILL.make/stargazers) [![Forks](https://img.shields.io/github/forks/Teaonly/SKILL.make?style=flat-square&color=blue)](https://github.com/Teaonly/SKILL.make/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Teaonly/SKILL.make?style=flat-square&color=yellow)](https://github.com/Teaonly/SKILL.make/stargazers) [![Forks](https://img.shields.io/github/forks/Teaonly/SKILL.make?style=flat-square&color=blue)](https://github.com/Teaonly/SKILL.make/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Specification and Tools for Makefile-formatted Agent Skills.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 64 |
+| ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

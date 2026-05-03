@@ -1,6 +1,6 @@
 # tobilg/polyglot
 
-[![Stars](https://img.shields.io/github/stars/tobilg/polyglot?style=flat-square&color=yellow)](https://github.com/tobilg/polyglot/stargazers) [![Forks](https://img.shields.io/github/forks/tobilg/polyglot?style=flat-square&color=blue)](https://github.com/tobilg/polyglot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tobilg/polyglot?style=flat-square&color=yellow)](https://github.com/tobilg/polyglot/stargazers) [![Forks](https://img.shields.io/github/forks/tobilg/polyglot?style=flat-square&color=blue)](https://github.com/tobilg/polyglot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 798 |
+| ⭐ **Stars** | 799 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # OAI/Arazzo-Specification
 
-[![Stars](https://img.shields.io/github/stars/OAI/Arazzo-Specification?style=flat-square&color=yellow)](https://github.com/OAI/Arazzo-Specification/stargazers) [![Forks](https://img.shields.io/github/forks/OAI/Arazzo-Specification?style=flat-square&color=blue)](https://github.com/OAI/Arazzo-Specification/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OAI/Arazzo-Specification?style=flat-square&color=yellow)](https://github.com/OAI/Arazzo-Specification/stargazers) [![Forks](https://img.shields.io/github/forks/OAI/Arazzo-Specification?style=flat-square&color=blue)](https://github.com/OAI/Arazzo-Specification/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The Arazzo Specification - A Tapestry for Deterministic API Workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

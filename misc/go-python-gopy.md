@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The go-python/gopy project is an open-source tool that automates the process of creating CPython extension modules from Go packages. This allows developers to seamlessly integrate Go code with Python applications, enabling them to leverage the strengths of both programming languages. By simplifying the extension module generation process, gopy facilitates cross-language collaboration and development.
+gopy is an open-source project that automatically generates a CPython extension module from a Go package. This allows developers to easily integrate Go code into Python applications, expanding their capabilities and enabling seamless collaboration between the two languages. By bridging the gap between Go and Python, gopy simplifies the process of building hybrid applications.
 
 ---
 

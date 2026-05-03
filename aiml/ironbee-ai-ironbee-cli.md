@@ -1,6 +1,6 @@
 # ironbee-ai/ironbee-cli
 
-[![Stars](https://img.shields.io/github/stars/ironbee-ai/ironbee-cli?style=flat-square&color=yellow)](https://github.com/ironbee-ai/ironbee-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ironbee-ai/ironbee-cli?style=flat-square&color=blue)](https://github.com/ironbee-ai/ironbee-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ironbee-ai/ironbee-cli?style=flat-square&color=yellow)](https://github.com/ironbee-ai/ironbee-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ironbee-ai/ironbee-cli?style=flat-square&color=blue)](https://github.com/ironbee-ai/ironbee-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > IronBee CLI - Verification and Intelligence Layer for Coding Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/open-agreements/open-agreements?style=flat-square&color=yellow)](https://github.com/open-agreements/open-agreements/stargazers) [![Forks](https://img.shields.io/github/forks/open-agreements/open-agreements?style=flat-square&color=blue)](https://github.com/open-agreements/open-agreements/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Fill standard legal agreement templates and produce signable DOCX files. 25 templates covering NDAs, cloud terms, SAFEs, and NVCA financing documents.
+> Fill standard legal agreement templates and produce signable DOCX files.
 
 ## 📊 Stats
 

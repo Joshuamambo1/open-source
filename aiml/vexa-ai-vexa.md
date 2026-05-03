@@ -1,6 +1,6 @@
 # Vexa-ai/vexa
 
-[![Stars](https://img.shields.io/github/stars/Vexa-ai/vexa?style=flat-square&color=yellow)](https://github.com/Vexa-ai/vexa/stargazers) [![Forks](https://img.shields.io/github/forks/Vexa-ai/vexa?style=flat-square&color=blue)](https://github.com/Vexa-ai/vexa/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vexa-ai/vexa?style=flat-square&color=yellow)](https://github.com/Vexa-ai/vexa/stargazers) [![Forks](https://img.shields.io/github/forks/Vexa-ai/vexa?style=flat-square&color=blue)](https://github.com/Vexa-ai/vexa/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 259 |
+| 🍴 **Forks** | 261 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

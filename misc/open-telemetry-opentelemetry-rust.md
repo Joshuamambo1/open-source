@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-rust
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-rust?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-rust/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-rust?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-rust?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-rust/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-rust?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > The Rust OpenTelemetry implementation
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 655 |
+| 🍴 **Forks** | 656 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

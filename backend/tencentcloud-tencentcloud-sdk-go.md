@@ -1,6 +1,6 @@
 # TencentCloud/tencentcloud-sdk-go
 
-[![Stars](https://img.shields.io/github/stars/TencentCloud/tencentcloud-sdk-go?style=flat-square&color=yellow)](https://github.com/TencentCloud/tencentcloud-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloud/tencentcloud-sdk-go?style=flat-square&color=blue)](https://github.com/TencentCloud/tencentcloud-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TencentCloud/tencentcloud-sdk-go?style=flat-square&color=yellow)](https://github.com/TencentCloud/tencentcloud-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloud/tencentcloud-sdk-go?style=flat-square&color=blue)](https://github.com/TencentCloud/tencentcloud-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Tencent Cloud API 3.0 SDK for Golang
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 734 |
 | 🍴 **Forks** | 207 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

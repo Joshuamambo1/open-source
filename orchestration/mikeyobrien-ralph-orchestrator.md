@@ -1,6 +1,6 @@
 # mikeyobrien/ralph-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/mikeyobrien/ralph-orchestrator?style=flat-square&color=yellow)](https://github.com/mikeyobrien/ralph-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/mikeyobrien/ralph-orchestrator?style=flat-square&color=blue)](https://github.com/mikeyobrien/ralph-orchestrator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mikeyobrien/ralph-orchestrator?style=flat-square&color=yellow)](https://github.com/mikeyobrien/ralph-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/mikeyobrien/ralph-orchestrator?style=flat-square&color=blue)](https://github.com/mikeyobrien/ralph-orchestrator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 263 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

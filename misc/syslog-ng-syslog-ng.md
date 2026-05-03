@@ -1,6 +1,6 @@
 # syslog-ng/syslog-ng
 
-[![Stars](https://img.shields.io/github/stars/syslog-ng/syslog-ng?style=flat-square&color=yellow)](https://github.com/syslog-ng/syslog-ng/stargazers) [![Forks](https://img.shields.io/github/forks/syslog-ng/syslog-ng?style=flat-square&color=blue)](https://github.com/syslog-ng/syslog-ng/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/syslog-ng/syslog-ng?style=flat-square&color=yellow)](https://github.com/syslog-ng/syslog-ng/stargazers) [![Forks](https://img.shields.io/github/forks/syslog-ng/syslog-ng?style=flat-square&color=blue)](https://github.com/syslog-ng/syslog-ng/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 498 |
 | 💻 **Language** | C |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

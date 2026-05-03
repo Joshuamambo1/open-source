@@ -1,6 +1,6 @@
 # neo4j-contrib/neo4j-skills
 
-[![Stars](https://img.shields.io/github/stars/neo4j-contrib/neo4j-skills?style=flat-square&color=yellow)](https://github.com/neo4j-contrib/neo4j-skills/stargazers) [![Forks](https://img.shields.io/github/forks/neo4j-contrib/neo4j-skills?style=flat-square&color=blue)](https://github.com/neo4j-contrib/neo4j-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neo4j-contrib/neo4j-skills?style=flat-square&color=yellow)](https://github.com/neo4j-contrib/neo4j-skills/stargazers) [![Forks](https://img.shields.io/github/forks/neo4j-contrib/neo4j-skills?style=flat-square&color=blue)](https://github.com/neo4j-contrib/neo4j-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Neo4j Skills for Coding and other Agents including Cypher
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 43 |
+| ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

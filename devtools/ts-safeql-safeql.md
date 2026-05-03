@@ -1,6 +1,6 @@
 # ts-safeql/safeql
 
-[![Stars](https://img.shields.io/github/stars/ts-safeql/safeql?style=flat-square&color=yellow)](https://github.com/ts-safeql/safeql/stargazers) [![Forks](https://img.shields.io/github/forks/ts-safeql/safeql?style=flat-square&color=blue)](https://github.com/ts-safeql/safeql/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ts-safeql/safeql?style=flat-square&color=yellow)](https://github.com/ts-safeql/safeql/stargazers) [![Forks](https://img.shields.io/github/forks/ts-safeql/safeql?style=flat-square&color=blue)](https://github.com/ts-safeql/safeql/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Validate and auto-generate TypeScript types from raw SQL queries in PostgreSQL.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

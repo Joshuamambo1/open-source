@@ -1,6 +1,6 @@
 # soklet/soklet
 
-[![Stars](https://img.shields.io/github/stars/soklet/soklet?style=flat-square&color=yellow)](https://github.com/soklet/soklet/stargazers) [![Forks](https://img.shields.io/github/forks/soklet/soklet?style=flat-square&color=blue)](https://github.com/soklet/soklet/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/soklet/soklet?style=flat-square&color=yellow)](https://github.com/soklet/soklet/stargazers) [![Forks](https://img.shields.io/github/forks/soklet/soklet?style=flat-square&color=blue)](https://github.com/soklet/soklet/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Soklet is a zero-dependency Java HTTP/1.1 and Server-Sent Event + MCP server, well-suited for building RESTful APIs and tool-backed agentic systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

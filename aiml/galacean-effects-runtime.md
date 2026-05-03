@@ -1,6 +1,6 @@
 # galacean/effects-runtime
 
-[![Stars](https://img.shields.io/github/stars/galacean/effects-runtime?style=flat-square&color=yellow)](https://github.com/galacean/effects-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/galacean/effects-runtime?style=flat-square&color=blue)](https://github.com/galacean/effects-runtime/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/galacean/effects-runtime?style=flat-square&color=yellow)](https://github.com/galacean/effects-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/galacean/effects-runtime?style=flat-square&color=blue)](https://github.com/galacean/effects-runtime/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > It can load and render cool animation effects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 608 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

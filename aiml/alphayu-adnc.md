@@ -1,6 +1,6 @@
 # AlphaYu/adnc
 
-[![Stars](https://img.shields.io/github/stars/AlphaYu/adnc?style=flat-square&color=yellow)](https://github.com/AlphaYu/adnc/stargazers) [![Forks](https://img.shields.io/github/forks/AlphaYu/adnc?style=flat-square&color=blue)](https://github.com/AlphaYu/adnc/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlphaYu/adnc?style=flat-square&color=yellow)](https://github.com/AlphaYu/adnc/stargazers) [![Forks](https://img.shields.io/github/forks/AlphaYu/adnc?style=flat-square&color=blue)](https://github.com/AlphaYu/adnc/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A pragmatic .NET 8 framework for modular monoliths to evolve seamlessly into distributed microservices.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 394 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

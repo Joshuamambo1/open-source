@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14961** |
+| 🗂️ **Total projects** | **14993** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5594 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3066 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1466 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1107 | [Browse →](./orchestration/) |
+| 🤖 **AI/ML** | 5600 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3075 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1469 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1111 | [Browse →](./orchestration/) |
 | ⚙️ **Backend** | 918 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 893 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 896 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 518 | [Browse →](./crypto/) |
-| 📊 **Data** | 341 | [Browse →](./data/) |
+| 📊 **Data** | 342 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 322 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 199 | [Browse →](./mobile/) |
-| 💳 **Payments** | 159 | [Browse →](./payments/) |
+| 📱 **Mobile** | 204 | [Browse →](./mobile/) |
+| 💳 **Payments** | 160 | [Browse →](./payments/) |
 | 📈 **Trading** | 152 | [Browse →](./trading/) |
 | 🔐 **Security** | 120 | [Browse →](./security/) |
 | ✨ **Design** | 49 | [Browse →](./design/) |
@@ -40,10 +40,10 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [HugoBlox/kit](./aiml/hugoblox-kit.md) | ⭐ 9.4k | AI/ML |
-| 2 | [luanti-org/luanti](./devtools/luanti-org-luanti.md) | ⭐ 12.8k | DevTools |
-| 3 | [xtekky/gpt4free](./aiml/xtekky-gpt4free.md) | ⭐ 66.2k | AI/ML |
-| 4 | [Leonxlnx/taste-skill](./aiml/leonxlnx-taste-skill.md) | ⭐ 14.5k | AI/ML |
-| 5 | [The-PR-Agent/pr-agent](./aiml/the-pr-agent-pr-agent.md) | ⭐ 11.1k | AI/ML |
+| 2 | [xtekky/gpt4free](./aiml/xtekky-gpt4free.md) | ⭐ 66.2k | AI/ML |
+| 3 | [Leonxlnx/taste-skill](./aiml/leonxlnx-taste-skill.md) | ⭐ 14.5k | AI/ML |
+| 4 | [The-PR-Agent/pr-agent](./aiml/the-pr-agent-pr-agent.md) | ⭐ 11.1k | AI/ML |
+| 5 | [kovidgoyal/calibre](./misc/kovidgoyal-calibre.md) | ⭐ 24.7k | Misc |
 | 6 | [ImageMagick/ImageMagick](./frontend/imagemagick-imagemagick.md) | ⭐ 16.3k | Frontend |
 | 7 | [google/comprehensive-rust](./aiml/google-comprehensive-rust.md) | ⭐ 32.9k | AI/ML |
 | 8 | [nats-io/nats-server](./aiml/nats-io-nats-server.md) | ⭐ 19.7k | AI/ML |

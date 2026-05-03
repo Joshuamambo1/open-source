@@ -1,6 +1,6 @@
 # Lissy93/who-dat
 
-[![Stars](https://img.shields.io/github/stars/Lissy93/who-dat?style=flat-square&color=yellow)](https://github.com/Lissy93/who-dat/stargazers) [![Forks](https://img.shields.io/github/forks/Lissy93/who-dat?style=flat-square&color=blue)](https://github.com/Lissy93/who-dat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lissy93/who-dat?style=flat-square&color=yellow)](https://github.com/Lissy93/who-dat/stargazers) [![Forks](https://img.shields.io/github/forks/Lissy93/who-dat?style=flat-square&color=blue)](https://github.com/Lissy93/who-dat/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 🔎 A free no-CORS WHOIS/RDAP lookup API, for fetching domain registration info
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 273 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

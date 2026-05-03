@@ -1,6 +1,6 @@
 # chainguard-forks/kaniko
 
-[![Stars](https://img.shields.io/github/stars/chainguard-forks/kaniko?style=flat-square&color=yellow)](https://github.com/chainguard-forks/kaniko/stargazers) [![Forks](https://img.shields.io/github/forks/chainguard-forks/kaniko?style=flat-square&color=blue)](https://github.com/chainguard-forks/kaniko/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chainguard-forks/kaniko?style=flat-square&color=yellow)](https://github.com/chainguard-forks/kaniko/stargazers) [![Forks](https://img.shields.io/github/forks/chainguard-forks/kaniko?style=flat-square&color=blue)](https://github.com/chainguard-forks/kaniko/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Build Container Images In Kubernetes
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 886 |
-| 🍴 **Forks** | 86 |
+| 🍴 **Forks** | 87 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

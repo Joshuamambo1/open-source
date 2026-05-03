@@ -1,6 +1,6 @@
 # alexk-dev/golemcore-bot
 
-[![Stars](https://img.shields.io/github/stars/alexk-dev/golemcore-bot?style=flat-square&color=yellow)](https://github.com/alexk-dev/golemcore-bot/stargazers) [![Forks](https://img.shields.io/github/forks/alexk-dev/golemcore-bot?style=flat-square&color=blue)](https://github.com/alexk-dev/golemcore-bot/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexk-dev/golemcore-bot?style=flat-square&color=yellow)](https://github.com/alexk-dev/golemcore-bot/stargazers) [![Forks](https://img.shields.io/github/forks/alexk-dev/golemcore-bot?style=flat-square&color=blue)](https://github.com/alexk-dev/golemcore-bot/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Platform for AI-Native Companies
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

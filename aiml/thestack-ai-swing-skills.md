@@ -1,6 +1,6 @@
 # TheStack-ai/swing-skills
 
-[![Stars](https://img.shields.io/github/stars/TheStack-ai/swing-skills?style=flat-square&color=yellow)](https://github.com/TheStack-ai/swing-skills/stargazers) [![Forks](https://img.shields.io/github/forks/TheStack-ai/swing-skills?style=flat-square&color=blue)](https://github.com/TheStack-ai/swing-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheStack-ai/swing-skills?style=flat-square&color=yellow)](https://github.com/TheStack-ai/swing-skills/stargazers) [![Forks](https://img.shields.io/github/forks/TheStack-ai/swing-skills?style=flat-square&color=blue)](https://github.com/TheStack-ai/swing-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Claude Code skills — 6 cognitive firewalls block AI hallucination, bias & sloppy reasoning. npx skills add
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

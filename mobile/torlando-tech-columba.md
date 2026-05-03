@@ -1,6 +1,6 @@
 # torlando-tech/columba
 
-[![Stars](https://img.shields.io/github/stars/torlando-tech/columba?style=flat-square&color=yellow)](https://github.com/torlando-tech/columba/stargazers) [![Forks](https://img.shields.io/github/forks/torlando-tech/columba?style=flat-square&color=blue)](https://github.com/torlando-tech/columba/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/torlando-tech/columba?style=flat-square&color=yellow)](https://github.com/torlando-tech/columba/stargazers) [![Forks](https://img.shields.io/github/forks/torlando-tech/columba?style=flat-square&color=blue)](https://github.com/torlando-tech/columba/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Native Android messaging app using Bluetooth LE, TCP, or RNode (LoRa) over LXMF and Reticulum
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 774 |
-| 🍴 **Forks** | 72 |
+| ⭐ **Stars** | 776 |
+| 🍴 **Forks** | 73 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

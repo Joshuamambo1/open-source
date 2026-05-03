@@ -1,6 +1,6 @@
 # rancher/k3k
 
-[![Stars](https://img.shields.io/github/stars/rancher/k3k?style=flat-square&color=yellow)](https://github.com/rancher/k3k/stargazers) [![Forks](https://img.shields.io/github/forks/rancher/k3k?style=flat-square&color=blue)](https://github.com/rancher/k3k/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rancher/k3k?style=flat-square&color=yellow)](https://github.com/rancher/k3k/stargazers) [![Forks](https://img.shields.io/github/forks/rancher/k3k?style=flat-square&color=blue)](https://github.com/rancher/k3k/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes in Kubernetes
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 771 |
+| ⭐ **Stars** | 784 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

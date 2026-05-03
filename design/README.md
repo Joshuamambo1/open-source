@@ -20,8 +20,8 @@
 | 10 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4k | C++ | 86/100 |
 | 11 | [tw93/Waza](./tw93-waza.md) | ⭐ 4.3k | Shell | 84/100 |
 | 12 | [j178/prek](./j178-prek.md) | ⭐ 7.5k | Rust | 82/100 |
-| 13 | [pqoqubbw/icons](./pqoqubbw-icons.md) | ⭐ 7.5k | TypeScript | 79/100 |
-| 14 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
+| 13 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
+| 14 | [pqoqubbw/icons](./pqoqubbw-icons.md) | ⭐ 7.5k | TypeScript | 79/100 |
 | 15 | [lowRISC/opentitan](./lowrisc-opentitan.md) | ⭐ 3.3k | SystemVerilog | 78/100 |
 | 16 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.8k | TypeScript | 78/100 |
 | 17 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |
@@ -46,8 +46,8 @@
 | 36 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 321 | Go | 49/100 |
 | 37 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 109 | Rust | 48/100 |
 | 38 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 48/100 |
-| 39 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
-| 40 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
+| 39 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
+| 40 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
 | 41 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 602 | PHP | 46/100 |
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
 | 43 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 45/100 |

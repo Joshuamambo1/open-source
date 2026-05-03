@@ -1,6 +1,6 @@
 # cheatsnake/airstation
 
-[![Stars](https://img.shields.io/github/stars/cheatsnake/airstation?style=flat-square&color=yellow)](https://github.com/cheatsnake/airstation/stargazers) [![Forks](https://img.shields.io/github/forks/cheatsnake/airstation?style=flat-square&color=blue)](https://github.com/cheatsnake/airstation/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cheatsnake/airstation?style=flat-square&color=yellow)](https://github.com/cheatsnake/airstation/stargazers) [![Forks](https://img.shields.io/github/forks/cheatsnake/airstation?style=flat-square&color=blue)](https://github.com/cheatsnake/airstation/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 🎵 Your own online radio station
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 318 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

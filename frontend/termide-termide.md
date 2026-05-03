@@ -1,6 +1,6 @@
 # termide/termide
 
-[![Stars](https://img.shields.io/github/stars/termide/termide?style=flat-square&color=yellow)](https://github.com/termide/termide/stargazers) [![Forks](https://img.shields.io/github/forks/termide/termide?style=flat-square&color=blue)](https://github.com/termide/termide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/termide/termide?style=flat-square&color=yellow)](https://github.com/termide/termide/stargazers) [![Forks](https://img.shields.io/github/forks/termide/termide?style=flat-square&color=blue)](https://github.com/termide/termide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform terminal-based IDE, file manager, and virtual terminal written in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

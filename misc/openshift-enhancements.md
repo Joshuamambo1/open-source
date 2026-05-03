@@ -1,6 +1,6 @@
 # openshift/enhancements
 
-[![Stars](https://img.shields.io/github/stars/openshift/enhancements?style=flat-square&color=yellow)](https://github.com/openshift/enhancements/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/enhancements?style=flat-square&color=blue)](https://github.com/openshift/enhancements/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openshift/enhancements?style=flat-square&color=yellow)](https://github.com/openshift/enhancements/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/enhancements?style=flat-square&color=blue)](https://github.com/openshift/enhancements/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Enhancements tracking repository for OKD
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 558 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

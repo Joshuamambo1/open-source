@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The tank-os project is an open-source initiative that creates a Fedora boot CD image for running OpenClaw as a rootless Podman workload. This allows users to deploy and manage OpenClaw applications in a secure and isolated environment. The project leverages Fedora and Podman to provide a robust and scalable solution for running containerized workloads.
+tank-os is an open-source project that provides a Fedora boot image, specifically designed to run OpenClaw as a rootless workload using Podman. This project enables secure and isolated containerization, allowing users to leverage OpenClaw's capabilities while maintaining a robust rootless environment. The tank-os project is a valuable resource for developers and enthusiasts looking to explore OpenClaw and Podman in a secure setting.
 
 ---
 

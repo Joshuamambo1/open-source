@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-InterposeKit is an open-source library for Swift that enables elegant swizzling. It provides a modern and efficient way to modify and extend the behavior of existing classes, making it easier to implement complex functionality without modifying the underlying code. With InterposeKit, developers can add custom functionality to existing classes with minimal overhead.
+InterposeKit is an open-source library for Swift that enables elegant swizzling, allowing developers to modify and extend existing classes and protocols in a non-intrusive way. This library offers a modern and efficient approach to swizzling, making it easier to implement complex behaviors and interactions. With InterposeKit, developers can write cleaner, more maintainable code while maintaining the integrity of their existing codebase.
 
 ---
 

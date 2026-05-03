@@ -1,6 +1,6 @@
 # bartstc/vite-ts-react-template
 
-[![Stars](https://img.shields.io/github/stars/bartstc/vite-ts-react-template?style=flat-square&color=yellow)](https://github.com/bartstc/vite-ts-react-template/stargazers) [![Forks](https://img.shields.io/github/forks/bartstc/vite-ts-react-template?style=flat-square&color=blue)](https://github.com/bartstc/vite-ts-react-template/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bartstc/vite-ts-react-template?style=flat-square&color=yellow)](https://github.com/bartstc/vite-ts-react-template/stargazers) [![Forks](https://img.shields.io/github/forks/bartstc/vite-ts-react-template?style=flat-square&color=blue)](https://github.com/bartstc/vite-ts-react-template/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > This project provides a basic dev setup intended for Single Page Application (SPA) development. It contains key tools, settings for seamless DX, and an demo app presenting good practices and used tooling in action.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

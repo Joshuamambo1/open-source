@@ -11,7 +11,7 @@
 | 1 | [Tyrrrz/YoutubeDownloader](./tyrrrz-youtubedownloader.md) | ⭐ 14.9k | C# | 100/100 |
 | 2 | [alvr-org/ALVR](./alvr-org-alvr.md) | ⭐ 7.6k | Rust | 91/100 |
 | 3 | [jiji262/douyin-downloader](./jiji262-douyin-downloader.md) | ⭐ 7.5k | Python | 90/100 |
-| 4 | [tonhowtf/omniget](./tonhowtf-omniget.md) | ⭐ 3.3k | Rust | 77/100 |
+| 4 | [tonhowtf/omniget](./tonhowtf-omniget.md) | ⭐ 3.4k | Svelte | 77/100 |
 | 5 | [apache/plc4x](./apache-plc4x.md) | ⭐ 1.6k | Java | 68/100 |
 | 6 | [danielbrendel/hortusfox-web](./danielbrendel-hortusfox-web.md) | ⭐ 1.5k | PHP | 62/100 |
 | 7 | [museofficial/muse](./museofficial-muse.md) | ⭐ 1.2k | TypeScript | 60/100 |
@@ -26,10 +26,10 @@
 | 16 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 17 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 967 | TypeScript | 52/100 |
 | 18 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 52/100 |
-| 19 | [deadsy/sdfx](./deadsy-sdfx.md) | ⭐ 613 | Go | 51/100 |
-| 20 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 137 | MDX | 51/100 |
-| 21 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
-| 22 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 121 | Rust | 51/100 |
+| 19 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 121 | Rust | 51/100 |
+| 20 | [deadsy/sdfx](./deadsy-sdfx.md) | ⭐ 613 | Go | 51/100 |
+| 21 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 137 | MDX | 51/100 |
+| 22 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
 | 23 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 17 | — | 50/100 |
 | 24 | [nil-go/konf](./nil-go-konf.md) | ⭐ 380 | Go | 49/100 |
 | 25 | [garritfra/cell](./garritfra-cell.md) | ⭐ 257 | Rust | 47/100 |

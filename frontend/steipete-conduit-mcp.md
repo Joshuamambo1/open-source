@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The conduit-mcp project is an open-source, versatile server designed to interact with various filesystems and web services. It provides a range of functionalities, including webpage-to-Markdown conversion, image processing, diffing, and archiving, making it a powerful tool for data manipulation and management. This server can read, write, find, and list data across multiple platforms, streamlining workflows and enhancing productivity.
+Conduit-MCP is an open-source project that provides a powerful server for managing files across various filesystems and web sources. It offers a range of features, including webpage-to-Markdown conversion, image processing, and diffing capabilities, making it a versatile tool for developers and users alike. With its focus on file management and manipulation, Conduit-MCP is designed to streamline workflows and simplify complex tasks.
 
 ---
 

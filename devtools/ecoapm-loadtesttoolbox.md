@@ -1,6 +1,6 @@
 # ecoAPM/LoadTestToolbox
 
-[![Stars](https://img.shields.io/github/stars/ecoAPM/LoadTestToolbox?style=flat-square&color=yellow)](https://github.com/ecoAPM/LoadTestToolbox/stargazers) [![Forks](https://img.shields.io/github/forks/ecoAPM/LoadTestToolbox?style=flat-square&color=blue)](https://github.com/ecoAPM/LoadTestToolbox/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ecoAPM/LoadTestToolbox?style=flat-square&color=yellow)](https://github.com/ecoAPM/LoadTestToolbox/stargazers) [![Forks](https://img.shields.io/github/forks/ecoAPM/LoadTestToolbox?style=flat-square&color=blue)](https://github.com/ecoAPM/LoadTestToolbox/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight tools for load testing web applications, written in C#
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

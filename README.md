@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15504** |
+| 🗂️ **Total projects** | **15539** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5784 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3202 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1516 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1143 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 947 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 5798 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3210 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1521 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1145 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 948 | [Browse →](./backend/) |
 | 🔧 **DevTools** | 924 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 528 | [Browse →](./crypto/) |
 | 📊 **Data** | 353 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 332 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 211 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 334 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 212 | [Browse →](./mobile/) |
 | 💳 **Payments** | 165 | [Browse →](./payments/) |
-| 📈 **Trading** | 160 | [Browse →](./trading/) |
+| 📈 **Trading** | 161 | [Browse →](./trading/) |
 | 🔐 **Security** | 127 | [Browse →](./security/) |
-| ✨ **Design** | 51 | [Browse →](./design/) |
+| ✨ **Design** | 52 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🎯 **Product** | 30 | [Browse →](./product/) |
 
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [Laravel-Lang/lang](./payments/laravel-lang-lang.md) | ⭐ 7.8k | Payments |
-| 2 | [ShareX/ShareX](./product/sharex-sharex.md) | ⭐ 37k | Product |
-| 3 | [beekeeper-studio/beekeeper-studio](./backend/beekeeper-studio-beekeeper-studio.md) | ⭐ 22.7k | Backend |
-| 4 | [getmaxun/maxun](./aiml/getmaxun-maxun.md) | ⭐ 15.5k | AI/ML |
-| 5 | [stashapp/stash](./misc/stashapp-stash.md) | ⭐ 12.3k | Misc |
-| 6 | [v2rayA/v2rayA](./frontend/v2raya-v2raya.md) | ⭐ 15k | Frontend |
-| 7 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](./aiml/youmind-openlab-awesome-nano-banana-pro-prompts.md) | ⭐ 11.8k | AI/ML |
-| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 9 | [apache/thrift](./backend/apache-thrift.md) | ⭐ 10.9k | Backend |
-| 10 | [PaddlePaddle/PaddleOCR](./aiml/paddlepaddle-paddleocr.md) | ⭐ 77k | AI/ML |
+| 2 | [reactos/reactos](./frontend/reactos-reactos.md) | ⭐ 17.5k | Frontend |
+| 3 | [ShareX/ShareX](./product/sharex-sharex.md) | ⭐ 37k | Product |
+| 4 | [flameshot-org/flameshot](./frontend/flameshot-org-flameshot.md) | ⭐ 29.8k | Frontend |
+| 5 | [Budibase/budibase](./orchestration/budibase-budibase.md) | ⭐ 27.9k | Orchestration |
+| 6 | [oapi-codegen/oapi-codegen](./backend/oapi-codegen-oapi-codegen.md) | ⭐ 8.3k | Backend |
+| 7 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
+| 8 | [farion1231/cc-switch](./aiml/farion1231-cc-switch.md) | ⭐ 58.4k | AI/ML |
+| 9 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 10 | [doocs/leetcode](./misc/doocs-leetcode.md) | ⭐ 36k | Misc |
 
 ## 🚀 How it works
 

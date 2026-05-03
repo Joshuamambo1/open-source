@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Awesome-Rust is an open-source project that serves as a curated list of various Rust-related resources, including frameworks, libraries, tools, and communities. It aims to provide a comprehensive directory for developers to explore and discover the best of what Rust has to offer. This project is particularly useful for those looking to get started with Rust or seeking new tools and libraries to enhance their projects.
+Awesome Rust is an open-source repository that curates a comprehensive list of Rust resources, including libraries, frameworks, tools, and projects. It aims to provide a centralized hub for discovering and exploring the vast ecosystem of Rust-related projects and technologies. This curated collection helps developers navigate the Rust landscape and discover new tools and libraries to enhance their development experience.
 
 ---
 

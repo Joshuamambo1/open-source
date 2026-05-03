@@ -1,6 +1,6 @@
 # DhanushNehru/codeskeleton
 
-[![Stars](https://img.shields.io/github/stars/DhanushNehru/codeskeleton?style=flat-square&color=yellow)](https://github.com/DhanushNehru/codeskeleton/stargazers) [![Forks](https://img.shields.io/github/forks/DhanushNehru/codeskeleton?style=flat-square&color=blue)](https://github.com/DhanushNehru/codeskeleton/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DhanushNehru/codeskeleton?style=flat-square&color=yellow)](https://github.com/DhanushNehru/codeskeleton/stargazers) [![Forks](https://img.shields.io/github/forks/DhanushNehru/codeskeleton?style=flat-square&color=blue)](https://github.com/DhanushNehru/codeskeleton/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Reveal the skeleton of your codebase — turn any folder of code, docs, and assets into a blazing-fast queryable knowledge graph. Built in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

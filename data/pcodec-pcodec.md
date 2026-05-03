@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The pcodec project is an open-source, lossless codec designed for compressing numerical data. It enables efficient storage and transmission of numerical arrays, reducing the storage space required while preserving data integrity. By leveraging advanced compression algorithms, pcodec optimizes data compression without compromising accuracy.
+pcodec is an open-source, lossless codec designed to efficiently compress and decompress numerical data. This project aims to provide a reliable and high-performance solution for data compression, enabling users to store and transmit numerical data in a more compact and space-efficient manner. By leveraging pcodec, developers can optimize data storage and reduce transfer times for numerical datasets.
 
 ---
 

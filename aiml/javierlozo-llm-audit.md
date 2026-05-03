@@ -1,6 +1,6 @@
 # Javierlozo/llm-audit
 
-[![Stars](https://img.shields.io/github/stars/Javierlozo/llm-audit?style=flat-square&color=yellow)](https://github.com/Javierlozo/llm-audit/stargazers) [![Forks](https://img.shields.io/github/forks/Javierlozo/llm-audit?style=flat-square&color=blue)](https://github.com/Javierlozo/llm-audit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Javierlozo/llm-audit?style=flat-square&color=yellow)](https://github.com/Javierlozo/llm-audit/stargazers) [![Forks](https://img.shields.io/github/forks/Javierlozo/llm-audit?style=flat-square&color=blue)](https://github.com/Javierlozo/llm-audit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Static analysis for TypeScript / JavaScript LLM-application code. OWASP LLM Top 10 at commit time. A complement to Semgrep's p/ai-best-practices for the TS/JS ecosystem.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

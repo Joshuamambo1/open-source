@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The devswha/patina project is an open-source AI/ML tool that utilizes Claude Code skills to detect and remove AI-generated writing patterns from text in multiple languages, including Korean, English, Chinese, and Japanese. This project aims to help users identify and eliminate artificial language constructs, resulting in more natural and authentic text. By removing AI writing patterns, patina enables users to produce high-quality, human-like content.
+The patina project is an open-source AI tool designed to detect and eliminate AI-generated writing patterns from texts in multiple languages, including Korean, English, Chinese, and Japanese. This Claude Code skill aims to enhance the authenticity and readability of AI-generated content by reducing its reliance on predictable patterns and language structures. By doing so, patina seeks to improve the overall quality and credibility of AI-generated texts.
 
 ---
 

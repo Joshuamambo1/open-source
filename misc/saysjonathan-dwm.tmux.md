@@ -1,6 +1,6 @@
 # saysjonathan/dwm.tmux
 
-[![Stars](https://img.shields.io/github/stars/saysjonathan/dwm.tmux?style=flat-square&color=yellow)](https://github.com/saysjonathan/dwm.tmux/stargazers) [![Forks](https://img.shields.io/github/forks/saysjonathan/dwm.tmux?style=flat-square&color=blue)](https://github.com/saysjonathan/dwm.tmux/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saysjonathan/dwm.tmux?style=flat-square&color=yellow)](https://github.com/saysjonathan/dwm.tmux/stargazers) [![Forks](https://img.shields.io/github/forks/saysjonathan/dwm.tmux?style=flat-square&color=blue)](https://github.com/saysjonathan/dwm.tmux/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > dwm-inspired tiling pane management for tmux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 187 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

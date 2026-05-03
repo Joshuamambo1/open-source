@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**51 projects** in this category.
+**52 projects** in this category.
 
 ## Projects
 
@@ -22,8 +22,8 @@
 | 12 | [j178/prek](./j178-prek.md) | ⭐ 7.5k | Rust | 82/100 |
 | 13 | [pqoqubbw/icons](./pqoqubbw-icons.md) | ⭐ 7.6k | TypeScript | 79/100 |
 | 14 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
-| 15 | [lowRISC/opentitan](./lowrisc-opentitan.md) | ⭐ 3.3k | SystemVerilog | 78/100 |
-| 16 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.8k | TypeScript | 78/100 |
+| 15 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.8k | TypeScript | 78/100 |
+| 16 | [lowRISC/opentitan](./lowrisc-opentitan.md) | ⭐ 3.3k | SystemVerilog | 78/100 |
 | 17 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |
 | 18 | [sipsorcery-org/sipsorcery](./sipsorcery-org-sipsorcery.md) | ⭐ 1.9k | C# | 71/100 |
 | 19 | [aws-samples/amazon-bedrock-workshop](./aws-samples-amazon-bedrock-workshop.md) | ⭐ 2.1k | Jupyter Notebook | 69/100 |
@@ -47,18 +47,19 @@
 | 37 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
 | 38 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
 | 39 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 109 | Rust | 48/100 |
-| 40 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 602 | PHP | 46/100 |
-| 41 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 46/100 |
-| 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
-| 43 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 45/100 |
-| 44 | [nats-io/nats-architecture-and-design](./nats-io-nats-architecture-and-design.md) | ⭐ 398 | Go | 44/100 |
-| 45 | [oripa/oripa](./oripa-oripa.md) | ⭐ 309 | Java | 43/100 |
-| 46 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 141 | Rust | 43/100 |
-| 47 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 411 | TypeScript | 43/100 |
-| 48 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
-| 49 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 39/100 |
-| 50 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 39/100 |
-| 51 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
+| 40 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 46/100 |
+| 41 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
+| 42 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 602 | PHP | 46/100 |
+| 43 | [KinkyMakers/OSSM-hardware](./kinkymakers-ossm-hardware.md) | ⭐ 488 | C++ | 45/100 |
+| 44 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 45/100 |
+| 45 | [nats-io/nats-architecture-and-design](./nats-io-nats-architecture-and-design.md) | ⭐ 398 | Go | 44/100 |
+| 46 | [oripa/oripa](./oripa-oripa.md) | ⭐ 309 | Java | 43/100 |
+| 47 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 141 | Rust | 43/100 |
+| 48 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 411 | TypeScript | 43/100 |
+| 49 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
+| 50 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 39/100 |
+| 51 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 304 | Ada | 39/100 |
+| 52 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # zalando-incubator/kube-metrics-adapter
 
-[![Stars](https://img.shields.io/github/stars/zalando-incubator/kube-metrics-adapter?style=flat-square&color=yellow)](https://github.com/zalando-incubator/kube-metrics-adapter/stargazers) [![Forks](https://img.shields.io/github/forks/zalando-incubator/kube-metrics-adapter?style=flat-square&color=blue)](https://github.com/zalando-incubator/kube-metrics-adapter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zalando-incubator/kube-metrics-adapter?style=flat-square&color=yellow)](https://github.com/zalando-incubator/kube-metrics-adapter/stargazers) [![Forks](https://img.shields.io/github/forks/zalando-incubator/kube-metrics-adapter?style=flat-square&color=blue)](https://github.com/zalando-incubator/kube-metrics-adapter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > General purpose metrics adapter for Kubernetes HPA metrics
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 542 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

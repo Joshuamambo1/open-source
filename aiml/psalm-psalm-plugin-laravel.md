@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 328 |
-| 🍴 **Forks** | 76 |
+| 🍴 **Forks** | 77 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |

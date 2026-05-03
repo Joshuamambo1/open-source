@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, sfortis/openai_tts, integrates a high-quality text-to-speech component into Home Assistant, leveraging the OpenAI speech engine or compatible endpoints. It offers customizable features such as chime and audio normalization, enhancing the overall user experience. This AI-powered component aims to provide seamless and natural voice interactions for Home Assistant users.
+Here's a brief summary for the sfortis/openai_tts project:
+
+The sfortis/openai_tts project is an open-source, customizable Text-to-Speech (TTS) component for Home Assistant that leverages the OpenAI speech engine for high-quality voice synthesis. This component offers advanced features, including chime and audio normalization, allowing users to tailor their voice assistant experience. By utilizing the OpenAI speech engine, this project provides a seamless and engaging voice interface for Home Assistant users.
 
 ---
 

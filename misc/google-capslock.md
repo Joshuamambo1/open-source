@@ -1,6 +1,6 @@
 # google/capslock
 
-[![Stars](https://img.shields.io/github/stars/google/capslock?style=flat-square&color=yellow)](https://github.com/google/capslock/stargazers) [![Forks](https://img.shields.io/github/forks/google/capslock?style=flat-square&color=blue)](https://github.com/google/capslock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/capslock?style=flat-square&color=yellow)](https://github.com/google/capslock/stargazers) [![Forks](https://img.shields.io/github/forks/google/capslock?style=flat-square&color=blue)](https://github.com/google/capslock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

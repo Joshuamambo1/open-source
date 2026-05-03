@@ -1,6 +1,6 @@
 # line/line-fido2-server
 
-[![Stars](https://img.shields.io/github/stars/line/line-fido2-server?style=flat-square&color=yellow)](https://github.com/line/line-fido2-server/stargazers) [![Forks](https://img.shields.io/github/forks/line/line-fido2-server?style=flat-square&color=blue)](https://github.com/line/line-fido2-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/line/line-fido2-server?style=flat-square&color=yellow)](https://github.com/line/line-fido2-server/stargazers) [![Forks](https://img.shields.io/github/forks/line/line-fido2-server?style=flat-square&color=blue)](https://github.com/line/line-fido2-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 576 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

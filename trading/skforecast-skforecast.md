@@ -1,6 +1,6 @@
 # skforecast/skforecast
 
-[![Stars](https://img.shields.io/github/stars/skforecast/skforecast?style=flat-square&color=yellow)](https://github.com/skforecast/skforecast/stargazers) [![Forks](https://img.shields.io/github/forks/skforecast/skforecast?style=flat-square&color=blue)](https://github.com/skforecast/skforecast/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skforecast/skforecast?style=flat-square&color=yellow)](https://github.com/skforecast/skforecast/stargazers) [![Forks](https://img.shields.io/github/forks/skforecast/skforecast?style=flat-square&color=blue)](https://github.com/skforecast/skforecast/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Python library for time series forecasting using scikit-learn compatible models, statistical methods, and foundation models
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

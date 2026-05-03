@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 17.9k |
-| 🍴 **Forks** | 689 |
+| 🍴 **Forks** | 688 |
 | 💻 **Language** | WebAssembly |
 | 📈 **Score** | 92/100 |
 | 🗓️ **Last push** | — |

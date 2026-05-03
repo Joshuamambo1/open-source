@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/skyhook-io/radar?style=flat-square&color=yellow)](https://github.com/skyhook-io/radar/stargazers) [![Forks](https://img.shields.io/github/forks/skyhook-io/radar?style=flat-square&color=blue)](https://github.com/skyhook-io/radar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
-> Modern Kubernetes visibility. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
+> The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # llm2014/llm_benchmark
 
-[![Stars](https://img.shields.io/github/stars/llm2014/llm_benchmark?style=flat-square&color=yellow)](https://github.com/llm2014/llm_benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/llm2014/llm_benchmark?style=flat-square&color=blue)](https://github.com/llm2014/llm_benchmark/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llm2014/llm_benchmark?style=flat-square&color=yellow)](https://github.com/llm2014/llm_benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/llm2014/llm_benchmark?style=flat-square&color=blue)](https://github.com/llm2014/llm_benchmark/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

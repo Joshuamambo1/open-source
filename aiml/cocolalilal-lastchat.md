@@ -1,6 +1,6 @@
 # Cocolalilal/LastChat
 
-[![Stars](https://img.shields.io/github/stars/Cocolalilal/LastChat?style=flat-square&color=yellow)](https://github.com/Cocolalilal/LastChat/stargazers) [![Forks](https://img.shields.io/github/forks/Cocolalilal/LastChat?style=flat-square&color=blue)](https://github.com/Cocolalilal/LastChat/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cocolalilal/LastChat?style=flat-square&color=yellow)](https://github.com/Cocolalilal/LastChat/stargazers) [![Forks](https://img.shields.io/github/forks/Cocolalilal/LastChat?style=flat-square&color=blue)](https://github.com/Cocolalilal/LastChat/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A Fork of Rikkahub with an overhauled UI and feature additions
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 163 |
+| ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

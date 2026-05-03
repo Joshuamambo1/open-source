@@ -1,6 +1,6 @@
 # Consensys/linea-monorepo
 
-[![Stars](https://img.shields.io/github/stars/Consensys/linea-monorepo?style=flat-square&color=yellow)](https://github.com/Consensys/linea-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/Consensys/linea-monorepo?style=flat-square&color=blue)](https://github.com/Consensys/linea-monorepo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Consensys/linea-monorepo?style=flat-square&color=yellow)](https://github.com/Consensys/linea-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/Consensys/linea-monorepo?style=flat-square&color=blue)](https://github.com/Consensys/linea-monorepo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The principal Linea repository. This mainly includes the smart contracts covering Linea's core functions, the Prover in charge of generating ZK proofs, the Coordinator responsible for multiple orchestrations, and the Postman to execute bridge messages
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

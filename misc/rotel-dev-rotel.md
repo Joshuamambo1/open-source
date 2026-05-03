@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the rotel-dev/rotel project:
-
-Rotel is an open-source project that provides a high-performance, resource-efficient OpenTelemetry collection solution. It enables developers to efficiently collect and manage telemetry data, facilitating better observability and monitoring of applications. By leveraging this project, developers can gain a deeper understanding of their systems and make data-driven decisions.
+The rotel project is an open-source implementation of OpenTelemetry collection, designed to provide high-performance and resource-efficient tracing and monitoring capabilities. It enables developers to collect and analyze telemetry data from applications with minimal overhead, making it an ideal choice for resource-constrained environments. By leveraging OpenTelemetry, rotel facilitates better understanding of application performance and behavior.
 
 ---
 

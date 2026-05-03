@@ -1,6 +1,6 @@
 # cyijun/agent-smith
 
-[![Stars](https://img.shields.io/github/stars/cyijun/agent-smith?style=flat-square&color=yellow)](https://github.com/cyijun/agent-smith/stargazers) [![Forks](https://img.shields.io/github/forks/cyijun/agent-smith?style=flat-square&color=blue)](https://github.com/cyijun/agent-smith/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyijun/agent-smith?style=flat-square&color=yellow)](https://github.com/cyijun/agent-smith/stargazers) [![Forks](https://img.shields.io/github/forks/cyijun/agent-smith?style=flat-square&color=blue)](https://github.com/cyijun/agent-smith/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Smith has taken over your terminal: he recursively breaks down tasks and mercilessly executes them with Claude Code CLI/Opencode/openclaw until your project is "assimilated." Red pill or blue pill? On GitHub, only cloning his code matters.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

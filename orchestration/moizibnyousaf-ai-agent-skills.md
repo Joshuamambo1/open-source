@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The Ai-Agent-Skills project is an open-source library of curated agent skills, designed to facilitate the development and integration of various AI and machine learning capabilities. This project provides developers with a comprehensive collection of pre-built skills, enabling them to efficiently build and deploy intelligent agents across different applications and domains. By leveraging this library, users can accelerate their AI and ML endeavors and focus on higher-level development tasks.
+Here's a brief summary for the project:
+
+The Ai-Agent-Skills library is an open-source collection of curated agent skills designed to streamline AI and machine learning development. This repository offers a comprehensive set of tools and techniques for building intelligent agents, making it an essential resource for developers and researchers in the field. By leveraging this library, users can accelerate their AI projects and focus on innovation.
 
 ---
 

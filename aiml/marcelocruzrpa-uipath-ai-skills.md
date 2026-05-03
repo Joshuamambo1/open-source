@@ -1,6 +1,6 @@
 # marcelocruzrpa/uipath-ai-skills
 
-[![Stars](https://img.shields.io/github/stars/marcelocruzrpa/uipath-ai-skills?style=flat-square&color=yellow)](https://github.com/marcelocruzrpa/uipath-ai-skills/stargazers) [![Forks](https://img.shields.io/github/forks/marcelocruzrpa/uipath-ai-skills?style=flat-square&color=blue)](https://github.com/marcelocruzrpa/uipath-ai-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marcelocruzrpa/uipath-ai-skills?style=flat-square&color=yellow)](https://github.com/marcelocruzrpa/uipath-ai-skills/stargazers) [![Forks](https://img.shields.io/github/forks/marcelocruzrpa/uipath-ai-skills?style=flat-square&color=blue)](https://github.com/marcelocruzrpa/uipath-ai-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > AI skills that turns coding agents into UiPath experts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

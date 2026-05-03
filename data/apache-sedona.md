@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Sedona is an open-source, cluster computing framework designed to efficiently process large-scale geospatial data. This framework enables users to harness distributed computing resources to analyze and manipulate complex geospatial datasets, accelerating geospatial data processing and analytics. By leveraging Sedona, users can unlock insights from geospatial data at scale.
+Apache Sedona is an open-source cluster computing framework designed to efficiently process large-scale geospatial data. It enables scalable and distributed geospatial data processing, allowing users to leverage big data technologies for geographic information systems (GIS) applications. With Sedona, users can run complex geospatial analytics and computations on massive datasets in parallel.
 
 ---
 

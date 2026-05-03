@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The universal-tool-calling-protocol/code-mode is an open-source, plug-and-play library that enables agents to seamlessly integrate and execute various tools, such as MCP and UTCP, through code execution. This library facilitates efficient and streamlined interactions between agents and tools, promoting automation and innovation in AI and ML applications. By leveraging this library, developers can simplify the process of tool integration and focus on developing advanced AI and ML solutions.
+Here's a brief summary of the open-source project:
+
+The universal-tool-calling-protocol/code-mode is an open-source library that enables seamless communication between agents and tools in the MCP and UTCP ecosystems through code execution. This plug-and-play library simplifies the process of integrating tools and agents, reducing development time and effort. It is particularly useful in AI/ML applications where efficient tool calling is crucial.
 
 ---
 

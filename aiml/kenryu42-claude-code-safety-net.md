@@ -1,6 +1,6 @@
 # kenryu42/claude-code-safety-net
 
-[![Stars](https://img.shields.io/github/stars/kenryu42/claude-code-safety-net?style=flat-square&color=yellow)](https://github.com/kenryu42/claude-code-safety-net/stargazers) [![Forks](https://img.shields.io/github/forks/kenryu42/claude-code-safety-net?style=flat-square&color=blue)](https://github.com/kenryu42/claude-code-safety-net/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kenryu42/claude-code-safety-net?style=flat-square&color=yellow)](https://github.com/kenryu42/claude-code-safety-net/stargazers) [![Forks](https://img.shields.io/github/forks/kenryu42/claude-code-safety-net?style=flat-square&color=blue)](https://github.com/kenryu42/claude-code-safety-net/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

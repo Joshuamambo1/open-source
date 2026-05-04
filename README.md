@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15896** |
+| 🗂️ **Total projects** | **15946** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5922 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3306 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1567 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1159 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 973 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 940 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 537 | [Browse →](./crypto/) |
-| 📊 **Data** | 361 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 339 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 218 | [Browse →](./mobile/) |
-| 💳 **Payments** | 165 | [Browse →](./payments/) |
-| 📈 **Trading** | 163 | [Browse →](./trading/) |
+| 🤖 **AI/ML** | 5938 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3314 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1574 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1160 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 976 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 946 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 539 | [Browse →](./crypto/) |
+| 📊 **Data** | 362 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 340 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 220 | [Browse →](./mobile/) |
+| 💳 **Payments** | 166 | [Browse →](./payments/) |
+| 📈 **Trading** | 164 | [Browse →](./trading/) |
 | 🔐 **Security** | 130 | [Browse →](./security/) |
 | ✨ **Design** | 53 | [Browse →](./design/) |
-| 🎯 **Product** | 32 | [Browse →](./product/) |
+| 🎯 **Product** | 33 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [plankanban/planka](./frontend/plankanban-planka.md) | ⭐ 11.9k | Frontend |
-| 2 | [HumanSignal/label-studio](./aiml/humansignal-label-studio.md) | ⭐ 27.2k | AI/ML |
-| 3 | [alibaba/spring-cloud-alibaba](./frontend/alibaba-spring-cloud-alibaba.md) | ⭐ 29.1k | Frontend |
-| 4 | [microsoft/presidio](./aiml/microsoft-presidio.md) | ⭐ 7.9k | AI/ML |
-| 5 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
-| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 7 | [zitadel/zitadel](./aiml/zitadel-zitadel.md) | ⭐ 13.7k | AI/ML |
-| 8 | [mvanhorn/last30days-skill](./trading/mvanhorn-last30days-skill.md) | ⭐ 24.7k | Trading |
-| 9 | [goauthentik/authentik](./aiml/goauthentik-authentik.md) | ⭐ 21.3k | AI/ML |
-| 10 | [PrefectHQ/prefect](./orchestration/prefecthq-prefect.md) | ⭐ 22.3k | Orchestration |
+| 1 | [HumanSignal/label-studio](./aiml/humansignal-label-studio.md) | ⭐ 27.2k | AI/ML |
+| 2 | [alibaba/spring-cloud-alibaba](./frontend/alibaba-spring-cloud-alibaba.md) | ⭐ 29.1k | Frontend |
+| 3 | [microsoft/presidio](./aiml/microsoft-presidio.md) | ⭐ 7.9k | AI/ML |
+| 4 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.9k | Frontend |
+| 5 | [fmtlib/fmt](./misc/fmtlib-fmt.md) | ⭐ 23.5k | Misc |
+| 6 | [alibaba/MNN](./aiml/alibaba-mnn.md) | ⭐ 15.1k | AI/ML |
+| 7 | [langchain-ai/langgraph](./orchestration/langchain-ai-langgraph.md) | ⭐ 31.1k | Orchestration |
+| 8 | [affaan-m/everything-claude-code](./aiml/affaan-m-everything-claude-code.md) | ⭐ 172.9k | AI/ML |
+| 9 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
+| 10 | [warpdotdev/warp](./aiml/warpdotdev-warp.md) | ⭐ 53.8k | AI/ML |
 
 ## 🚀 How it works
 

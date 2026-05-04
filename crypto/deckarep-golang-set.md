@@ -1,6 +1,6 @@
 # deckarep/golang-set
 
-[![Stars](https://img.shields.io/github/stars/deckarep/golang-set?style=flat-square&color=yellow)](https://github.com/deckarep/golang-set/stargazers) [![Forks](https://img.shields.io/github/forks/deckarep/golang-set?style=flat-square&color=blue)](https://github.com/deckarep/golang-set/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deckarep/golang-set?style=flat-square&color=yellow)](https://github.com/deckarep/golang-set/stargazers) [![Forks](https://img.shields.io/github/forks/deckarep/golang-set?style=flat-square&color=blue)](https://github.com/deckarep/golang-set/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > A simple, battle-tested and generic set type for the Go language. Trusted by GoogleCloudPlatform, Docker, 1Password, Ethereum and Hashicorp.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

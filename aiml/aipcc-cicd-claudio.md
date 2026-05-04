@@ -1,6 +1,6 @@
 # aipcc-cicd/claudio
 
-[![Stars](https://img.shields.io/github/stars/aipcc-cicd/claudio?style=flat-square&color=yellow)](https://github.com/aipcc-cicd/claudio/stargazers) [![Forks](https://img.shields.io/github/forks/aipcc-cicd/claudio?style=flat-square&color=blue)](https://github.com/aipcc-cicd/claudio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aipcc-cicd/claudio?style=flat-square&color=yellow)](https://github.com/aipcc-cicd/claudio/stargazers) [![Forks](https://img.shields.io/github/forks/aipcc-cicd/claudio?style=flat-square&color=blue)](https://github.com/aipcc-cicd/claudio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Portable Claude Code Setup
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

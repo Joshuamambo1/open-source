@@ -1,6 +1,6 @@
 # CoolBanHub/aggo
 
-[![Stars](https://img.shields.io/github/stars/CoolBanHub/aggo?style=flat-square&color=yellow)](https://github.com/CoolBanHub/aggo/stargazers) [![Forks](https://img.shields.io/github/forks/CoolBanHub/aggo?style=flat-square&color=blue)](https://github.com/CoolBanHub/aggo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CoolBanHub/aggo?style=flat-square&color=yellow)](https://github.com/CoolBanHub/aggo/stargazers) [![Forks](https://img.shields.io/github/forks/CoolBanHub/aggo?style=flat-square&color=blue)](https://github.com/CoolBanHub/aggo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > AGGO 是一个基于 Go 语言和 CloudWeGo Eino 框架构建的企业级 AI Agent 框架，提供完整的对话 AI、知识管理、记忆系统和工具调用能力
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

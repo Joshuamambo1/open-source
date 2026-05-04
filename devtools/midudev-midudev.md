@@ -1,6 +1,6 @@
 # midudev/midudev
 
-[![Stars](https://img.shields.io/github/stars/midudev/midudev?style=flat-square&color=yellow)](https://github.com/midudev/midudev/stargazers) [![Forks](https://img.shields.io/github/forks/midudev/midudev?style=flat-square&color=blue)](https://github.com/midudev/midudev/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/midudev/midudev?style=flat-square&color=yellow)](https://github.com/midudev/midudev/stargazers) [![Forks](https://img.shields.io/github/forks/midudev/midudev?style=flat-square&color=blue)](https://github.com/midudev/midudev/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > This is my personal repo for README. It gets automatically updated to fetch latest videos, photos and articles from my blog.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

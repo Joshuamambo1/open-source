@@ -1,6 +1,6 @@
 # doug-gilbert/sg3_utils
 
-[![Stars](https://img.shields.io/github/stars/doug-gilbert/sg3_utils?style=flat-square&color=yellow)](https://github.com/doug-gilbert/sg3_utils/stargazers) [![Forks](https://img.shields.io/github/forks/doug-gilbert/sg3_utils?style=flat-square&color=blue)](https://github.com/doug-gilbert/sg3_utils/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doug-gilbert/sg3_utils?style=flat-square&color=yellow)](https://github.com/doug-gilbert/sg3_utils/stargazers) [![Forks](https://img.shields.io/github/forks/doug-gilbert/sg3_utils?style=flat-square&color=blue)](https://github.com/doug-gilbert/sg3_utils/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Author's own git mirror of his sg3_utils subversion repository. Note: default branch is now _main_. It includes tags from the various releases.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | C |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

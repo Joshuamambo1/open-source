@@ -1,6 +1,6 @@
 # easystats/parameters
 
-[![Stars](https://img.shields.io/github/stars/easystats/parameters?style=flat-square&color=yellow)](https://github.com/easystats/parameters/stargazers) [![Forks](https://img.shields.io/github/forks/easystats/parameters?style=flat-square&color=blue)](https://github.com/easystats/parameters/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/easystats/parameters?style=flat-square&color=yellow)](https://github.com/easystats/parameters/stargazers) [![Forks](https://img.shields.io/github/forks/easystats/parameters?style=flat-square&color=blue)](https://github.com/easystats/parameters/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > :bar_chart: Computation and processing of models' parameters
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 490 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | R |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

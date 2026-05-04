@@ -1,6 +1,6 @@
 # aattaran/deepclaude
 
-[![Stars](https://img.shields.io/github/stars/aattaran/deepclaude?style=flat-square&color=yellow)](https://github.com/aattaran/deepclaude/stargazers) [![Forks](https://img.shields.io/github/forks/aattaran/deepclaude?style=flat-square&color=blue)](https://github.com/aattaran/deepclaude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aattaran/deepclaude?style=flat-square&color=yellow)](https://github.com/aattaran/deepclaude/stargazers) [![Forks](https://img.shields.io/github/forks/aattaran/deepclaude?style=flat-square&color=blue)](https://github.com/aattaran/deepclaude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 135 |
-| 🍴 **Forks** | 6 |
+| ⭐ **Stars** | 389 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

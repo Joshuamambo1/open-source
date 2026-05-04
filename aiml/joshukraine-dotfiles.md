@@ -1,6 +1,6 @@
 # joshukraine/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/joshukraine/dotfiles?style=flat-square&color=yellow)](https://github.com/joshukraine/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/joshukraine/dotfiles?style=flat-square&color=blue)](https://github.com/joshukraine/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joshukraine/dotfiles?style=flat-square&color=yellow)](https://github.com/joshukraine/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/joshukraine/dotfiles?style=flat-square&color=blue)](https://github.com/joshukraine/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > :round_pushpin: My dotfiles for macOS using Neovim, Zsh, and Ghostty + Tmux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

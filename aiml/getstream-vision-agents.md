@@ -1,6 +1,6 @@
 # GetStream/Vision-Agents
 
-[![Stars](https://img.shields.io/github/stars/GetStream/Vision-Agents?style=flat-square&color=yellow)](https://github.com/GetStream/Vision-Agents/stargazers) [![Forks](https://img.shields.io/github/forks/GetStream/Vision-Agents?style=flat-square&color=blue)](https://github.com/GetStream/Vision-Agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GetStream/Vision-Agents?style=flat-square&color=yellow)](https://github.com/GetStream/Vision-Agents/stargazers) [![Forks](https://img.shields.io/github/forks/GetStream/Vision-Agents?style=flat-square&color=blue)](https://github.com/GetStream/Vision-Agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
 > Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.7k |
-| 🍴 **Forks** | 633 |
+| 🍴 **Forks** | 634 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 94/100 |
+| 📈 **Score** | 95/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

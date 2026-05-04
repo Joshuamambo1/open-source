@@ -1,6 +1,6 @@
 # romgX/openrelay
 
-[![Stars](https://img.shields.io/github/stars/romgX/openrelay?style=flat-square&color=yellow)](https://github.com/romgX/openrelay/stargazers) [![Forks](https://img.shields.io/github/forks/romgX/openrelay?style=flat-square&color=blue)](https://github.com/romgX/openrelay/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/romgX/openrelay?style=flat-square&color=yellow)](https://github.com/romgX/openrelay/stargazers) [![Forks](https://img.shields.io/github/forks/romgX/openrelay?style=flat-square&color=blue)](https://github.com/romgX/openrelay/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 236 |
+| 🍴 **Forks** | 238 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

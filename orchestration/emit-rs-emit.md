@@ -1,6 +1,6 @@
 # emit-rs/emit
 
-[![Stars](https://img.shields.io/github/stars/emit-rs/emit?style=flat-square&color=yellow)](https://github.com/emit-rs/emit/stargazers) [![Forks](https://img.shields.io/github/forks/emit-rs/emit?style=flat-square&color=blue)](https://github.com/emit-rs/emit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emit-rs/emit?style=flat-square&color=yellow)](https://github.com/emit-rs/emit/stargazers) [![Forks](https://img.shields.io/github/forks/emit-rs/emit?style=flat-square&color=blue)](https://github.com/emit-rs/emit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Developer-first diagnostics for Rust applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

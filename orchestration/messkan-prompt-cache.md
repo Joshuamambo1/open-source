@@ -1,6 +1,6 @@
 # messkan/prompt-cache
 
-[![Stars](https://img.shields.io/github/stars/messkan/prompt-cache?style=flat-square&color=yellow)](https://github.com/messkan/prompt-cache/stargazers) [![Forks](https://img.shields.io/github/forks/messkan/prompt-cache?style=flat-square&color=blue)](https://github.com/messkan/prompt-cache/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/messkan/prompt-cache?style=flat-square&color=yellow)](https://github.com/messkan/prompt-cache/stargazers) [![Forks](https://img.shields.io/github/forks/messkan/prompt-cache?style=flat-square&color=blue)](https://github.com/messkan/prompt-cache/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching.A drop-in, provider-agnostic LLM proxy written in Go with sub-millisecond response
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 217 |
+| ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

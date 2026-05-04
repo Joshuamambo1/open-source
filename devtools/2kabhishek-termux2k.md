@@ -1,6 +1,6 @@
 # 2KAbhishek/termux2k
 
-[![Stars](https://img.shields.io/github/stars/2KAbhishek/termux2k?style=flat-square&color=yellow)](https://github.com/2KAbhishek/termux2k/stargazers) [![Forks](https://img.shields.io/github/forks/2KAbhishek/termux2k?style=flat-square&color=blue)](https://github.com/2KAbhishek/termux2k/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/2KAbhishek/termux2k?style=flat-square&color=yellow)](https://github.com/2KAbhishek/termux2k/stargazers) [![Forks](https://img.shields.io/github/forks/2KAbhishek/termux2k?style=flat-square&color=blue)](https://github.com/2KAbhishek/termux2k/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > CLI Dev Setup in Your Hands ✋📱
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

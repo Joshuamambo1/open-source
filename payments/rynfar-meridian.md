@@ -1,6 +1,6 @@
 # rynfar/meridian
 
-[![Stars](https://img.shields.io/github/stars/rynfar/meridian?style=flat-square&color=yellow)](https://github.com/rynfar/meridian/stargazers) [![Forks](https://img.shields.io/github/forks/rynfar/meridian?style=flat-square&color=blue)](https://github.com/rynfar/meridian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rynfar/meridian?style=flat-square&color=yellow)](https://github.com/rynfar/meridian/stargazers) [![Forks](https://img.shields.io/github/forks/rynfar/meridian?style=flat-square&color=blue)](https://github.com/rynfar/meridian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline. Proxy that bridges Anthropic's official SDK to enable Claude Max in third-party tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

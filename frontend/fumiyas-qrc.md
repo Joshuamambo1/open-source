@@ -1,6 +1,6 @@
 # fumiyas/qrc
 
-[![Stars](https://img.shields.io/github/stars/fumiyas/qrc?style=flat-square&color=yellow)](https://github.com/fumiyas/qrc/stargazers) [![Forks](https://img.shields.io/github/forks/fumiyas/qrc?style=flat-square&color=blue)](https://github.com/fumiyas/qrc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fumiyas/qrc?style=flat-square&color=yellow)](https://github.com/fumiyas/qrc/stargazers) [![Forks](https://img.shields.io/github/forks/fumiyas/qrc?style=flat-square&color=blue)](https://github.com/fumiyas/qrc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > QR code generator for text terminals (ANSI color, Unicode, Sixel)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 402 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # opgginc/opencode-bar
 
-[![Stars](https://img.shields.io/github/stars/opgginc/opencode-bar?style=flat-square&color=yellow)](https://github.com/opgginc/opencode-bar/stargazers) [![Forks](https://img.shields.io/github/forks/opgginc/opencode-bar?style=flat-square&color=blue)](https://github.com/opgginc/opencode-bar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opgginc/opencode-bar?style=flat-square&color=yellow)](https://github.com/opgginc/opencode-bar/stargazers) [![Forks](https://img.shields.io/github/forks/opgginc/opencode-bar?style=flat-square&color=blue)](https://github.com/opgginc/opencode-bar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Effortless token usage tracker for OpenCode
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 249 |
+| ⭐ **Stars** | 250 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # orhun/halp
 
-[![Stars](https://img.shields.io/github/stars/orhun/halp?style=flat-square&color=yellow)](https://github.com/orhun/halp/stargazers) [![Forks](https://img.shields.io/github/forks/orhun/halp?style=flat-square&color=blue)](https://github.com/orhun/halp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orhun/halp?style=flat-square&color=yellow)](https://github.com/orhun/halp/stargazers) [![Forks](https://img.shields.io/github/forks/orhun/halp?style=flat-square&color=blue)](https://github.com/orhun/halp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI tool to get help with CLI tools 🐙
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 759 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

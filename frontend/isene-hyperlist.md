@@ -1,17 +1,17 @@
 # isene/hyperlist
 
-[![Stars](https://img.shields.io/github/stars/isene/hyperlist?style=flat-square&color=yellow)](https://github.com/isene/hyperlist/stargazers) [![Forks](https://img.shields.io/github/forks/isene/hyperlist?style=flat-square&color=blue)](https://github.com/isene/hyperlist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/isene/hyperlist?style=flat-square&color=yellow)](https://github.com/isene/hyperlist/stargazers) [![Forks](https://img.shields.io/github/forks/isene/hyperlist?style=flat-square&color=blue)](https://github.com/isene/hyperlist/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A powerful Terminal User Interface (TUI) application for creating, editing, and managing HyperLists - a methodology for describing anything in a hierarchical, structured format.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 42 |
+| 🍴 **Forks** | 1 |
+| 💻 **Language** | Ruby |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

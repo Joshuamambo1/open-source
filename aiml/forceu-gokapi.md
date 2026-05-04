@@ -1,6 +1,6 @@
 # Forceu/Gokapi
 
-[![Stars](https://img.shields.io/github/stars/Forceu/Gokapi?style=flat-square&color=yellow)](https://github.com/Forceu/Gokapi/stargazers) [![Forks](https://img.shields.io/github/forks/Forceu/Gokapi?style=flat-square&color=blue)](https://github.com/Forceu/Gokapi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Forceu/Gokapi?style=flat-square&color=yellow)](https://github.com/Forceu/Gokapi/stargazers) [![Forks](https://img.shields.io/github/forks/Forceu/Gokapi?style=flat-square&color=blue)](https://github.com/Forceu/Gokapi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/Enderfga/openclaw-claude-code?style=flat-square&color=yellow)](https://github.com/Enderfga/openclaw-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/Enderfga/openclaw-claude-code?style=flat-square&color=blue)](https://github.com/Enderfga/openclaw-claude-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
-> OpenClaw plugin — turn Claude Code CLI into a programmable, headless coding engine with plenty of tools, agent teams, and multi-model proxy
+> Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 428 |
+| ⭐ **Stars** | 430 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |

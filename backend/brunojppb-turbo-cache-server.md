@@ -1,6 +1,6 @@
 # brunojppb/turbo-cache-server
 
-[![Stars](https://img.shields.io/github/stars/brunojppb/turbo-cache-server?style=flat-square&color=yellow)](https://github.com/brunojppb/turbo-cache-server/stargazers) [![Forks](https://img.shields.io/github/forks/brunojppb/turbo-cache-server?style=flat-square&color=blue)](https://github.com/brunojppb/turbo-cache-server/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brunojppb/turbo-cache-server?style=flat-square&color=yellow)](https://github.com/brunojppb/turbo-cache-server/stargazers) [![Forks](https://img.shields.io/github/forks/brunojppb/turbo-cache-server?style=flat-square&color=blue)](https://github.com/brunojppb/turbo-cache-server/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Blazingly fast Turborepo remote cache server written in Rust as a Github Action with Docker support for Linux and MacOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 185 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

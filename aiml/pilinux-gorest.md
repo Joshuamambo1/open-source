@@ -1,6 +1,6 @@
 # pilinux/gorest
 
-[![Stars](https://img.shields.io/github/stars/pilinux/gorest?style=flat-square&color=yellow)](https://github.com/pilinux/gorest/stargazers) [![Forks](https://img.shields.io/github/forks/pilinux/gorest?style=flat-square&color=blue)](https://github.com/pilinux/gorest/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pilinux/gorest?style=flat-square&color=yellow)](https://github.com/pilinux/gorest/stargazers) [![Forks](https://img.shields.io/github/forks/pilinux/gorest?style=flat-square&color=blue)](https://github.com/pilinux/gorest/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Go RESTful API starter kit with Gin, JWT, GORM (MySQL, PostgreSQL, SQLite), Redis, Mongo, 2FA, email verification, password recovery
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 494 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

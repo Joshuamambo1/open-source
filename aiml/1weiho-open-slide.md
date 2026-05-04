@@ -1,6 +1,6 @@
 # 1weiho/open-slide
 
-[![Stars](https://img.shields.io/github/stars/1weiho/open-slide?style=flat-square&color=yellow)](https://github.com/1weiho/open-slide/stargazers) [![Forks](https://img.shields.io/github/forks/1weiho/open-slide?style=flat-square&color=blue)](https://github.com/1weiho/open-slide/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1weiho/open-slide?style=flat-square&color=yellow)](https://github.com/1weiho/open-slide/stargazers) [![Forks](https://img.shields.io/github/forks/1weiho/open-slide?style=flat-square&color=blue)](https://github.com/1weiho/open-slide/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A slide framework built for agents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 480 |
-| 🍴 **Forks** | 28 |
+| ⭐ **Stars** | 614 |
+| 🍴 **Forks** | 39 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

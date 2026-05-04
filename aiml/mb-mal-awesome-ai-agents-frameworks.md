@@ -1,6 +1,6 @@
 # mb-mal/awesome-ai-agents-frameworks
 
-[![Stars](https://img.shields.io/github/stars/mb-mal/awesome-ai-agents-frameworks?style=flat-square&color=yellow)](https://github.com/mb-mal/awesome-ai-agents-frameworks/stargazers) [![Forks](https://img.shields.io/github/forks/mb-mal/awesome-ai-agents-frameworks?style=flat-square&color=blue)](https://github.com/mb-mal/awesome-ai-agents-frameworks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mb-mal/awesome-ai-agents-frameworks?style=flat-square&color=yellow)](https://github.com/mb-mal/awesome-ai-agents-frameworks/stargazers) [![Forks](https://img.shields.io/github/forks/mb-mal/awesome-ai-agents-frameworks?style=flat-square&color=blue)](https://github.com/mb-mal/awesome-ai-agents-frameworks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 49 |
-| 🍴 **Forks** | 10 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

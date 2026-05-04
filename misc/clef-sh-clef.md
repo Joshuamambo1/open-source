@@ -1,6 +1,6 @@
 # clef-sh/clef
 
-[![Stars](https://img.shields.io/github/stars/clef-sh/clef?style=flat-square&color=yellow)](https://github.com/clef-sh/clef/stargazers) [![Forks](https://img.shields.io/github/forks/clef-sh/clef?style=flat-square&color=blue)](https://github.com/clef-sh/clef/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clef-sh/clef?style=flat-square&color=yellow)](https://github.com/clef-sh/clef/stargazers) [![Forks](https://img.shields.io/github/forks/clef-sh/clef?style=flat-square&color=blue)](https://github.com/clef-sh/clef/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Git-native secrets-as-code workflow layer.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

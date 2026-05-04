@@ -1,6 +1,6 @@
 # Interlisp/medley
 
-[![Stars](https://img.shields.io/github/stars/Interlisp/medley?style=flat-square&color=yellow)](https://github.com/Interlisp/medley/stargazers) [![Forks](https://img.shields.io/github/forks/Interlisp/medley?style=flat-square&color=blue)](https://github.com/Interlisp/medley/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Interlisp/medley?style=flat-square&color=yellow)](https://github.com/Interlisp/medley/stargazers) [![Forks](https://img.shields.io/github/forks/Interlisp/medley?style=flat-square&color=blue)](https://github.com/Interlisp/medley/network) [![Language](https://img.shields.io/badge/lang-Common%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The main repo for the Medley Interlisp project. Wiki, Issues are here. Other repositories include maiko (the VM implementation) and Interlisp.github.io (web site sources)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 439 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Common Lisp |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

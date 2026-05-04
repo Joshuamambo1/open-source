@@ -1,6 +1,6 @@
 # SectorLabs/django-postgres-extra
 
-[![Stars](https://img.shields.io/github/stars/SectorLabs/django-postgres-extra?style=flat-square&color=yellow)](https://github.com/SectorLabs/django-postgres-extra/stargazers) [![Forks](https://img.shields.io/github/forks/SectorLabs/django-postgres-extra?style=flat-square&color=blue)](https://github.com/SectorLabs/django-postgres-extra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SectorLabs/django-postgres-extra?style=flat-square&color=yellow)](https://github.com/SectorLabs/django-postgres-extra/stargazers) [![Forks](https://img.shields.io/github/forks/SectorLabs/django-postgres-extra?style=flat-square&color=blue)](https://github.com/SectorLabs/django-postgres-extra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Bringing all of PostgreSQL's awesomeness to Django.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 756 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

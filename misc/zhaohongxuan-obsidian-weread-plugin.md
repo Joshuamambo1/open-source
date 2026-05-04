@@ -1,6 +1,6 @@
 # zhaohongxuan/obsidian-weread-plugin
 
-[![Stars](https://img.shields.io/github/stars/zhaohongxuan/obsidian-weread-plugin?style=flat-square&color=yellow)](https://github.com/zhaohongxuan/obsidian-weread-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/zhaohongxuan/obsidian-weread-plugin?style=flat-square&color=blue)](https://github.com/zhaohongxuan/obsidian-weread-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhaohongxuan/obsidian-weread-plugin?style=flat-square&color=yellow)](https://github.com/zhaohongxuan/obsidian-weread-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/zhaohongxuan/obsidian-weread-plugin?style=flat-square&color=blue)](https://github.com/zhaohongxuan/obsidian-weread-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Obsidian Weread Plugin is a plugin to sync Weread(微信读书) hightlights and annotations into your Obsidian Vault.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 123 |
+| 🍴 **Forks** | 124 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

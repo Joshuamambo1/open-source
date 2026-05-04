@@ -1,6 +1,6 @@
 # analogdevicesinc/no-OS
 
-[![Stars](https://img.shields.io/github/stars/analogdevicesinc/no-OS?style=flat-square&color=yellow)](https://github.com/analogdevicesinc/no-OS/stargazers) [![Forks](https://img.shields.io/github/forks/analogdevicesinc/no-OS?style=flat-square&color=blue)](https://github.com/analogdevicesinc/no-OS/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/analogdevicesinc/no-OS?style=flat-square&color=yellow)](https://github.com/analogdevicesinc/no-OS/stargazers) [![Forks](https://img.shields.io/github/forks/analogdevicesinc/no-OS?style=flat-square&color=blue)](https://github.com/analogdevicesinc/no-OS/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Software drivers in C for systems without an operating system
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | C |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

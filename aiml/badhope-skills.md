@@ -1,6 +1,6 @@
 # badhope/skills
 
-[![Stars](https://img.shields.io/github/stars/badhope/skills?style=flat-square&color=yellow)](https://github.com/badhope/skills/stargazers) [![Forks](https://img.shields.io/github/forks/badhope/skills?style=flat-square&color=blue)](https://github.com/badhope/skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/badhope/skills?style=flat-square&color=yellow)](https://github.com/badhope/skills/stargazers) [![Forks](https://img.shields.io/github/forks/badhope/skills?style=flat-square&color=blue)](https://github.com/badhope/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Mega-Agent Platform - 11 Expert Engines + 80+ Professional Tools for ALL LLMs
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 5 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

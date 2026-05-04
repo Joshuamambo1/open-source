@@ -1,6 +1,6 @@
 # ybgwon96/easyclaw
 
-[![Stars](https://img.shields.io/github/stars/ybgwon96/easyclaw?style=flat-square&color=yellow)](https://github.com/ybgwon96/easyclaw/stargazers) [![Forks](https://img.shields.io/github/forks/ybgwon96/easyclaw?style=flat-square&color=blue)](https://github.com/ybgwon96/easyclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ybgwon96/easyclaw?style=flat-square&color=yellow)](https://github.com/ybgwon96/easyclaw/stargazers) [![Forks](https://img.shields.io/github/forks/ybgwon96/easyclaw?style=flat-square&color=blue)](https://github.com/ybgwon96/easyclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > One-click installer for OpenClaw AI agent. macOS & Windows.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 114 |
+| ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

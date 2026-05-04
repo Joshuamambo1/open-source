@@ -1,17 +1,17 @@
 # giancarloerra/SocratiCode
 
-[![Stars](https://img.shields.io/github/stars/giancarloerra/SocratiCode?style=flat-square&color=yellow)](https://github.com/giancarloerra/SocratiCode/stargazers) [![Forks](https://img.shields.io/github/forks/giancarloerra/SocratiCode?style=flat-square&color=blue)](https://github.com/giancarloerra/SocratiCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/giancarloerra/SocratiCode?style=flat-square&color=yellow)](https://github.com/giancarloerra/SocratiCode/stargazers) [![Forks](https://img.shields.io/github/forks/giancarloerra/SocratiCode?style=flat-square&color=blue)](https://github.com/giancarloerra/SocratiCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
-> Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, private & local Plugin/Skill or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, interactive HTML viewer, cross-project & branch-aware search, DB/API/infra knowledge. 61% less tokens, 84% fewer calls, 37x faster. Cloud in private beta.
+> Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, interactive HTML viewer, cross-project & branch-aware search, DB/API/infra knowledge. 61% less tokens, 84% fewer calls, 37x faster. Cloud in beta.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 273 |
+| ⭐ **Stars** | 2.1k |
+| 🍴 **Forks** | 282 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # takashiishida/arxiv-latex-mcp
 
-[![Stars](https://img.shields.io/github/stars/takashiishida/arxiv-latex-mcp?style=flat-square&color=yellow)](https://github.com/takashiishida/arxiv-latex-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/takashiishida/arxiv-latex-mcp?style=flat-square&color=blue)](https://github.com/takashiishida/arxiv-latex-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/takashiishida/arxiv-latex-mcp?style=flat-square&color=yellow)](https://github.com/takashiishida/arxiv-latex-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/takashiishida/arxiv-latex-mcp?style=flat-square&color=blue)](https://github.com/takashiishida/arxiv-latex-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that uses arxiv-to-prompt to fetch and process arXiv LaTeX sources for precise interpretation of mathematical expressions in scientific papers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

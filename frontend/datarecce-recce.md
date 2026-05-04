@@ -1,6 +1,6 @@
 # DataRecce/recce
 
-[![Stars](https://img.shields.io/github/stars/DataRecce/recce?style=flat-square&color=yellow)](https://github.com/DataRecce/recce/stargazers) [![Forks](https://img.shields.io/github/forks/DataRecce/recce?style=flat-square&color=blue)](https://github.com/DataRecce/recce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataRecce/recce?style=flat-square&color=yellow)](https://github.com/DataRecce/recce/stargazers) [![Forks](https://img.shields.io/github/forks/DataRecce/recce?style=flat-square&color=blue)](https://github.com/DataRecce/recce/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The data-validation toolkit for enhanced dbt (data build tool) PR review
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 454 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

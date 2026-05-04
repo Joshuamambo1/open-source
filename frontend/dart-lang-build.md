@@ -1,6 +1,6 @@
 # dart-lang/build
 
-[![Stars](https://img.shields.io/github/stars/dart-lang/build?style=flat-square&color=yellow)](https://github.com/dart-lang/build/stargazers) [![Forks](https://img.shields.io/github/forks/dart-lang/build?style=flat-square&color=blue)](https://github.com/dart-lang/build/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dart-lang/build?style=flat-square&color=yellow)](https://github.com/dart-lang/build/stargazers) [![Forks](https://img.shields.io/github/forks/dart-lang/build?style=flat-square&color=blue)](https://github.com/dart-lang/build/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A build system for Dart written in Dart
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 847 |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/subinium/agf?style=flat-square&color=yellow)](https://github.com/subinium/agf/stargazers) [![Forks](https://img.shields.io/github/forks/subinium/agf?style=flat-square&color=blue)](https://github.com/subinium/agf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> AI Agent Session Finder — TUI to find, resume and manage sessions across Claude Code, Codex, Gemini, Kiro, OpenCode, Cursor, pi
+> AI Agent Session Finder — TUI to find, resume and manage sessions across Claude Code, Codex, Gemini, Kiro, OpenCode, Cursor, pi, Hermes
 
 ## 📊 Stats
 

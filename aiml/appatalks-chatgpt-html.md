@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/appatalks/chatgpt-html?style=flat-square&color=yellow)](https://github.com/appatalks/chatgpt-html/stargazers) [![Forks](https://img.shields.io/github/forks/appatalks/chatgpt-html?style=flat-square&color=blue)](https://github.com/appatalks/chatgpt-html/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> OpenAI, Google, Copilot | Generative Language Chat
+> Eva - Is your AI. The future is now.
 
 ## 📊 Stats
 

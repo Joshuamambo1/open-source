@@ -1,6 +1,6 @@
 # paragon-intelligence/agentle
 
-[![Stars](https://img.shields.io/github/stars/paragon-intelligence/agentle?style=flat-square&color=yellow)](https://github.com/paragon-intelligence/agentle/stargazers) [![Forks](https://img.shields.io/github/forks/paragon-intelligence/agentle?style=flat-square&color=blue)](https://github.com/paragon-intelligence/agentle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paragon-intelligence/agentle?style=flat-square&color=yellow)](https://github.com/paragon-intelligence/agentle/stargazers) [![Forks](https://img.shields.io/github/forks/paragon-intelligence/agentle?style=flat-square&color=blue)](https://github.com/paragon-intelligence/agentle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Build production-ready AI agents in days, not months. Python 3.13+. Save development time with minimal code, deploy anywhere with confidence, and scale from simple assistants to complex multi-agent systems without the headaches.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15804** |
+| 🗂️ **Total projects** | **15853** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5889 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3286 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1559 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1154 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 966 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 931 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 5905 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3299 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1563 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1157 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 968 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 937 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 536 | [Browse →](./crypto/) |
-| 📊 **Data** | 359 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 337 | [Browse →](./devopsinfra/) |
+| 📊 **Data** | 361 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 338 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 218 | [Browse →](./mobile/) |
 | 💳 **Payments** | 164 | [Browse →](./payments/) |
-| 📈 **Trading** | 162 | [Browse →](./trading/) |
-| 🔐 **Security** | 129 | [Browse →](./security/) |
+| 📈 **Trading** | 163 | [Browse →](./trading/) |
+| 🔐 **Security** | 130 | [Browse →](./security/) |
 | ✨ **Design** | 52 | [Browse →](./design/) |
 | 🎯 **Product** | 31 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [plankanban/planka](./frontend/plankanban-planka.md) | ⭐ 11.9k | Frontend |
-| 2 | [opendatalab/MinerU](./orchestration/opendatalab-mineru.md) | ⭐ 61.9k | Orchestration |
-| 3 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 131.3k | AI/ML |
-| 4 | [vuetifyjs/vuetify](./frontend/vuetifyjs-vuetify.md) | ⭐ 41k | Frontend |
-| 5 | [PaddlePaddle/Paddle](./aiml/paddlepaddle-paddle.md) | ⭐ 23.9k | AI/ML |
-| 6 | [ChenYilong/CYLTabBarController](./frontend/chenyilong-cyltabbarcontroller.md) | ⭐ 7k | Frontend |
-| 7 | [FlowiseAI/Flowise](./orchestration/flowiseai-flowise.md) | ⭐ 52.5k | Orchestration |
-| 8 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
-| 9 | [liyupi/codefather](./aiml/liyupi-codefather.md) | ⭐ 7.2k | AI/ML |
-| 10 | [onyx-dot-app/onyx](./aiml/onyx-dot-app-onyx.md) | ⭐ 28.9k | AI/ML |
+| 2 | [alibaba/spring-cloud-alibaba](./frontend/alibaba-spring-cloud-alibaba.md) | ⭐ 29.1k | Frontend |
+| 3 | [opendatalab/MinerU](./orchestration/opendatalab-mineru.md) | ⭐ 61.9k | Orchestration |
+| 4 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 131.3k | AI/ML |
+| 5 | [vuetifyjs/vuetify](./frontend/vuetifyjs-vuetify.md) | ⭐ 41k | Frontend |
+| 6 | [PaddlePaddle/Paddle](./aiml/paddlepaddle-paddle.md) | ⭐ 23.9k | AI/ML |
+| 7 | [ChenYilong/CYLTabBarController](./frontend/chenyilong-cyltabbarcontroller.md) | ⭐ 7k | Frontend |
+| 8 | [FlowiseAI/Flowise](./orchestration/flowiseai-flowise.md) | ⭐ 52.5k | Orchestration |
+| 9 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
+| 10 | [liyupi/codefather](./aiml/liyupi-codefather.md) | ⭐ 7.2k | AI/ML |
 
 ## 🚀 How it works
 

@@ -1,6 +1,6 @@
 # default-anton/pi-subdir-context
 
-[![Stars](https://img.shields.io/github/stars/default-anton/pi-subdir-context?style=flat-square&color=yellow)](https://github.com/default-anton/pi-subdir-context/stargazers) [![Forks](https://img.shields.io/github/forks/default-anton/pi-subdir-context?style=flat-square&color=blue)](https://github.com/default-anton/pi-subdir-context/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/default-anton/pi-subdir-context?style=flat-square&color=yellow)](https://github.com/default-anton/pi-subdir-context/stargazers) [![Forks](https://img.shields.io/github/forks/default-anton/pi-subdir-context?style=flat-square&color=blue)](https://github.com/default-anton/pi-subdir-context/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically load AGENTS.md context from subdirectories in pi coding agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

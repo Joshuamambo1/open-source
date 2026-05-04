@@ -1,6 +1,6 @@
 # braintree/braintree_python
 
-[![Stars](https://img.shields.io/github/stars/braintree/braintree_python?style=flat-square&color=yellow)](https://github.com/braintree/braintree_python/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree_python?style=flat-square&color=blue)](https://github.com/braintree/braintree_python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/braintree/braintree_python?style=flat-square&color=yellow)](https://github.com/braintree/braintree_python/stargazers) [![Forks](https://img.shields.io/github/forks/braintree/braintree_python?style=flat-square&color=blue)](https://github.com/braintree/braintree_python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Braintree Python library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 247 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

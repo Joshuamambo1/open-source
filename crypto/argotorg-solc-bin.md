@@ -1,6 +1,6 @@
 # argotorg/solc-bin
 
-[![Stars](https://img.shields.io/github/stars/argotorg/solc-bin?style=flat-square&color=yellow)](https://github.com/argotorg/solc-bin/stargazers) [![Forks](https://img.shields.io/github/forks/argotorg/solc-bin?style=flat-square&color=blue)](https://github.com/argotorg/solc-bin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/argotorg/solc-bin?style=flat-square&color=yellow)](https://github.com/argotorg/solc-bin/stargazers) [![Forks](https://img.shields.io/github/forks/argotorg/solc-bin?style=flat-square&color=blue)](https://github.com/argotorg/solc-bin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > This repository contains current and historical builds of the Solidity Compiler.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 432 |
 | 🍴 **Forks** | 263 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

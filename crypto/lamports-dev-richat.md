@@ -1,6 +1,6 @@
 # lamports-dev/richat
 
-[![Stars](https://img.shields.io/github/stars/lamports-dev/richat?style=flat-square&color=yellow)](https://github.com/lamports-dev/richat/stargazers) [![Forks](https://img.shields.io/github/forks/lamports-dev/richat?style=flat-square&color=blue)](https://github.com/lamports-dev/richat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lamports-dev/richat?style=flat-square&color=yellow)](https://github.com/lamports-dev/richat/stargazers) [![Forks](https://img.shields.io/github/forks/lamports-dev/richat?style=flat-square&color=blue)](https://github.com/lamports-dev/richat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Solana Geyser Stream, Yellowstone gRPC, Solana PubSub
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 726 |
-| 🍴 **Forks** | 181 |
+| 🍴 **Forks** | 182 |
 | 💻 **Language** | Jsonnet |
 | 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |

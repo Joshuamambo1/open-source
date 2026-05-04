@@ -1,6 +1,6 @@
 # graphql-hive/console
 
-[![Stars](https://img.shields.io/github/stars/graphql-hive/console?style=flat-square&color=yellow)](https://github.com/graphql-hive/console/stargazers) [![Forks](https://img.shields.io/github/forks/graphql-hive/console?style=flat-square&color=blue)](https://github.com/graphql-hive/console/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/graphql-hive/console?style=flat-square&color=yellow)](https://github.com/graphql-hive/console/stargazers) [![Forks](https://img.shields.io/github/forks/graphql-hive/console?style=flat-square&color=blue)](https://github.com/graphql-hive/console/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Hive Console is part of the Hive GraphQL platform. Schema registry and analytics for GraphQL federation and other GraphQL APIs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 476 |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

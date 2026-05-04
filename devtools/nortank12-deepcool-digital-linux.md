@@ -1,6 +1,6 @@
 # Nortank12/deepcool-digital-linux
 
-[![Stars](https://img.shields.io/github/stars/Nortank12/deepcool-digital-linux?style=flat-square&color=yellow)](https://github.com/Nortank12/deepcool-digital-linux/stargazers) [![Forks](https://img.shields.io/github/forks/Nortank12/deepcool-digital-linux?style=flat-square&color=blue)](https://github.com/Nortank12/deepcool-digital-linux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nortank12/deepcool-digital-linux?style=flat-square&color=yellow)](https://github.com/Nortank12/deepcool-digital-linux/stargazers) [![Forks](https://img.shields.io/github/forks/Nortank12/deepcool-digital-linux?style=flat-square&color=blue)](https://github.com/Nortank12/deepcool-digital-linux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Linux version for the DeepCool Digital Windows software.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 331 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

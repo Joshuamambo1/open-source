@@ -1,6 +1,6 @@
 # pinpoint-apm/pinpoint
 
-[![Stars](https://img.shields.io/github/stars/pinpoint-apm/pinpoint?style=flat-square&color=yellow)](https://github.com/pinpoint-apm/pinpoint/stargazers) [![Forks](https://img.shields.io/github/forks/pinpoint-apm/pinpoint?style=flat-square&color=blue)](https://github.com/pinpoint-apm/pinpoint/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pinpoint-apm/pinpoint?style=flat-square&color=yellow)](https://github.com/pinpoint-apm/pinpoint/stargazers) [![Forks](https://img.shields.io/github/forks/pinpoint-apm/pinpoint?style=flat-square&color=blue)](https://github.com/pinpoint-apm/pinpoint/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
 
 > APM, (Application Performance Management) tool for large-scale distributed systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.8k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 94/100 |
+| 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

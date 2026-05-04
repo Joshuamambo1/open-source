@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/agentforce314/clawcodex?style=flat-square&color=yellow)](https://github.com/agentforce314/clawcodex/stargazers) [![Forks](https://img.shields.io/github/forks/agentforce314/clawcodex?style=flat-square&color=blue)](https://github.com/agentforce314/clawcodex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> ClawCodex - Claude Code full rebuilt in Python. LLM -agnostic Coding Agent.
+> ClawCodex - Claude Code full rebuilt in Python. LLM-agnostic Coding Agent.
 
 ## 📊 Stats
 

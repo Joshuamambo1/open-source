@@ -1,6 +1,6 @@
 # r3-team/r3
 
-[![Stars](https://img.shields.io/github/stars/r3-team/r3?style=flat-square&color=yellow)](https://github.com/r3-team/r3/stargazers) [![Forks](https://img.shields.io/github/forks/r3-team/r3?style=flat-square&color=blue)](https://github.com/r3-team/r3/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/r3-team/r3?style=flat-square&color=yellow)](https://github.com/r3-team/r3/stargazers) [![Forks](https://img.shields.io/github/forks/r3-team/r3?style=flat-square&color=blue)](https://github.com/r3-team/r3/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > REI3 - Free and open low code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 560 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

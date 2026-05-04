@@ -1,6 +1,6 @@
 # supabitapp/supacode
 
-[![Stars](https://img.shields.io/github/stars/supabitapp/supacode?style=flat-square&color=yellow)](https://github.com/supabitapp/supacode/stargazers) [![Forks](https://img.shields.io/github/forks/supabitapp/supacode?style=flat-square&color=blue)](https://github.com/supabitapp/supacode/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabitapp/supacode?style=flat-square&color=yellow)](https://github.com/supabitapp/supacode/stargazers) [![Forks](https://img.shields.io/github/forks/supabitapp/supacode?style=flat-square&color=blue)](https://github.com/supabitapp/supacode/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > worktree coding agents command center.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 965 |
+| ⭐ **Stars** | 968 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

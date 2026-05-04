@@ -1,6 +1,6 @@
 # anistark/feluda
 
-[![Stars](https://img.shields.io/github/stars/anistark/feluda?style=flat-square&color=yellow)](https://github.com/anistark/feluda/stargazers) [![Forks](https://img.shields.io/github/forks/anistark/feluda?style=flat-square&color=blue)](https://github.com/anistark/feluda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anistark/feluda?style=flat-square&color=yellow)](https://github.com/anistark/feluda/stargazers) [![Forks](https://img.shields.io/github/forks/anistark/feluda?style=flat-square&color=blue)](https://github.com/anistark/feluda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Detect license usage restrictions in your project!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 450 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # braedonsaunders/codeflow
 
-[![Stars](https://img.shields.io/github/stars/braedonsaunders/codeflow?style=flat-square&color=yellow)](https://github.com/braedonsaunders/codeflow/stargazers) [![Forks](https://img.shields.io/github/forks/braedonsaunders/codeflow?style=flat-square&color=blue)](https://github.com/braedonsaunders/codeflow/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/braedonsaunders/codeflow?style=flat-square&color=yellow)](https://github.com/braedonsaunders/codeflow/stargazers) [![Forks](https://img.shields.io/github/forks/braedonsaunders/codeflow?style=flat-square&color=blue)](https://github.com/braedonsaunders/codeflow/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 442 |
+| ⭐ **Stars** | 2.9k |
+| 🍴 **Forks** | 444 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

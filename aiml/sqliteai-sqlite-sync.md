@@ -1,6 +1,6 @@
 # sqliteai/sqlite-sync
 
-[![Stars](https://img.shields.io/github/stars/sqliteai/sqlite-sync?style=flat-square&color=yellow)](https://github.com/sqliteai/sqlite-sync/stargazers) [![Forks](https://img.shields.io/github/forks/sqliteai/sqlite-sync?style=flat-square&color=blue)](https://github.com/sqliteai/sqlite-sync/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sqliteai/sqlite-sync?style=flat-square&color=yellow)](https://github.com/sqliteai/sqlite-sync/stargazers) [![Forks](https://img.shields.io/github/forks/sqliteai/sqlite-sync?style=flat-square&color=blue)](https://github.com/sqliteai/sqlite-sync/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > CRDT-based offline-first sync for SQLite. Syncs automatically with SQLite Cloud, PostgreSQL, and Supabase. No conflicts, no data loss, no backend to build. For offline-first apps and AI agents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 454 |
+| ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | C |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

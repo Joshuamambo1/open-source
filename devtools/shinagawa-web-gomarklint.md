@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/shinagawa-web/gomarklint?style=flat-square&color=yellow)](https://github.com/shinagawa-web/gomarklint/stargazers) [![Forks](https://img.shields.io/github/forks/shinagawa-web/gomarklint?style=flat-square&color=blue)](https://github.com/shinagawa-web/gomarklint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> A fast and configurable Markdown linter written in Go
+> Catch broken links before your readers do.
 
 ## 📊 Stats
 

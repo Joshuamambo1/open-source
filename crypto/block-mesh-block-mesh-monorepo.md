@@ -1,6 +1,6 @@
 # block-mesh/block-mesh-monorepo
 
-[![Stars](https://img.shields.io/github/stars/block-mesh/block-mesh-monorepo?style=flat-square&color=yellow)](https://github.com/block-mesh/block-mesh-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/block-mesh/block-mesh-monorepo?style=flat-square&color=blue)](https://github.com/block-mesh/block-mesh-monorepo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/block-mesh/block-mesh-monorepo?style=flat-square&color=yellow)](https://github.com/block-mesh/block-mesh-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/block-mesh/block-mesh-monorepo?style=flat-square&color=blue)](https://github.com/block-mesh/block-mesh-monorepo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

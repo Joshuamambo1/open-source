@@ -1,6 +1,6 @@
 # dimdenGD/OldTwitter
 
-[![Stars](https://img.shields.io/github/stars/dimdenGD/OldTwitter?style=flat-square&color=yellow)](https://github.com/dimdenGD/OldTwitter/stargazers) [![Forks](https://img.shields.io/github/forks/dimdenGD/OldTwitter?style=flat-square&color=blue)](https://github.com/dimdenGD/OldTwitter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dimdenGD/OldTwitter?style=flat-square&color=yellow)](https://github.com/dimdenGD/OldTwitter/stargazers) [![Forks](https://img.shields.io/github/forks/dimdenGD/OldTwitter?style=flat-square&color=blue)](https://github.com/dimdenGD/OldTwitter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Extension to return old Twitter layout from 2015 / 2018.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 208 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

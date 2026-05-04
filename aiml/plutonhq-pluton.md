@@ -1,6 +1,6 @@
 # plutonhq/pluton
 
-[![Stars](https://img.shields.io/github/stars/plutonhq/pluton?style=flat-square&color=yellow)](https://github.com/plutonhq/pluton/stargazers) [![Forks](https://img.shields.io/github/forks/plutonhq/pluton?style=flat-square&color=blue)](https://github.com/plutonhq/pluton/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plutonhq/pluton?style=flat-square&color=yellow)](https://github.com/plutonhq/pluton/stargazers) [![Forks](https://img.shields.io/github/forks/plutonhq/pluton?style=flat-square&color=blue)](https://github.com/plutonhq/pluton/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, self-hosted backup solution for secure, encrypted backups across local and cloud storage.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 339 |
-| 🍴 **Forks** | 7 |
+| ⭐ **Stars** | 347 |
+| 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

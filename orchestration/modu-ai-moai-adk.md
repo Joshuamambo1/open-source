@@ -1,6 +1,6 @@
 # modu-ai/moai-adk
 
-[![Stars](https://img.shields.io/github/stars/modu-ai/moai-adk?style=flat-square&color=yellow)](https://github.com/modu-ai/moai-adk/stargazers) [![Forks](https://img.shields.io/github/forks/modu-ai/moai-adk?style=flat-square&color=blue)](https://github.com/modu-ai/moai-adk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modu-ai/moai-adk?style=flat-square&color=yellow)](https://github.com/modu-ai/moai-adk/stargazers) [![Forks](https://img.shields.io/github/forks/modu-ai/moai-adk?style=flat-square&color=blue)](https://github.com/modu-ai/moai-adk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 977 |
+| ⭐ **Stars** | 978 |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

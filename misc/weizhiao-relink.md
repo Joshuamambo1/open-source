@@ -1,6 +1,6 @@
 # weizhiao/Relink
 
-[![Stars](https://img.shields.io/github/stars/weizhiao/Relink?style=flat-square&color=yellow)](https://github.com/weizhiao/Relink/stargazers) [![Forks](https://img.shields.io/github/forks/weizhiao/Relink?style=flat-square&color=blue)](https://github.com/weizhiao/Relink/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weizhiao/Relink?style=flat-square&color=yellow)](https://github.com/weizhiao/Relink/stargazers) [![Forks](https://img.shields.io/github/forks/weizhiao/Relink?style=flat-square&color=blue)](https://github.com/weizhiao/Relink/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance, no_std-friendly ELF loader and runtime linker for Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

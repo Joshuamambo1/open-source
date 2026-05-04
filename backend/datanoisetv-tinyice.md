@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/DatanoiseTV/tinyice?style=flat-square&color=yellow)](https://github.com/DatanoiseTV/tinyice/stargazers) [![Forks](https://img.shields.io/github/forks/DatanoiseTV/tinyice?style=flat-square&color=blue)](https://github.com/DatanoiseTV/tinyice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support and a lot more.
+> Streaming server for Audio and Video (icecast compatible) written in Go with multiple mountpoint, multi-source, and relaying support and a lot more.
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # Marcel-Bich/marcel-bich-claude-marketplace
 
-[![Stars](https://img.shields.io/github/stars/Marcel-Bich/marcel-bich-claude-marketplace?style=flat-square&color=yellow)](https://github.com/Marcel-Bich/marcel-bich-claude-marketplace/stargazers) [![Forks](https://img.shields.io/github/forks/Marcel-Bich/marcel-bich-claude-marketplace?style=flat-square&color=blue)](https://github.com/Marcel-Bich/marcel-bich-claude-marketplace/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Marcel-Bich/marcel-bich-claude-marketplace?style=flat-square&color=yellow)](https://github.com/Marcel-Bich/marcel-bich-claude-marketplace/stargazers) [![Forks](https://img.shields.io/github/forks/Marcel-Bich/marcel-bich-claude-marketplace?style=flat-square&color=blue)](https://github.com/Marcel-Bich/marcel-bich-claude-marketplace/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of mainly my own productivity plugins for Claude Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

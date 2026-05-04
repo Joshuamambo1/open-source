@@ -1,6 +1,6 @@
 # HKUSTDial/DeepEye
 
-[![Stars](https://img.shields.io/github/stars/HKUSTDial/DeepEye?style=flat-square&color=yellow)](https://github.com/HKUSTDial/DeepEye/stargazers) [![Forks](https://img.shields.io/github/forks/HKUSTDial/DeepEye?style=flat-square&color=blue)](https://github.com/HKUSTDial/DeepEye/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HKUSTDial/DeepEye?style=flat-square&color=yellow)](https://github.com/HKUSTDial/DeepEye/stargazers) [![Forks](https://img.shields.io/github/forks/HKUSTDial/DeepEye?style=flat-square&color=blue)](https://github.com/HKUSTDial/DeepEye/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > DeepEye: An Autonomous Data Agent System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

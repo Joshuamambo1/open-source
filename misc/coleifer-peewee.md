@@ -1,6 +1,6 @@
 # coleifer/peewee
 
-[![Stars](https://img.shields.io/github/stars/coleifer/peewee?style=flat-square&color=yellow)](https://github.com/coleifer/peewee/stargazers) [![Forks](https://img.shields.io/github/forks/coleifer/peewee?style=flat-square&color=blue)](https://github.com/coleifer/peewee/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coleifer/peewee?style=flat-square&color=yellow)](https://github.com/coleifer/peewee/stargazers) [![Forks](https://img.shields.io/github/forks/coleifer/peewee?style=flat-square&color=blue)](https://github.com/coleifer/peewee/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > a small, expressive orm -- supports postgresql, mysql, sqlite
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 92/100 |
+| 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

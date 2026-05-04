@@ -1,6 +1,6 @@
 # sulu/sulu
 
-[![Stars](https://img.shields.io/github/stars/sulu/sulu?style=flat-square&color=yellow)](https://github.com/sulu/sulu/stargazers) [![Forks](https://img.shields.io/github/forks/sulu/sulu?style=flat-square&color=blue)](https://github.com/sulu/sulu/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sulu/sulu?style=flat-square&color=yellow)](https://github.com/sulu/sulu/stargazers) [![Forks](https://img.shields.io/github/forks/sulu/sulu?style=flat-square&color=blue)](https://github.com/sulu/sulu/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Core framework that implements the functionality of the Sulu content management system
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 357 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

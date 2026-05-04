@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15969** |
+| 🗂️ **Total projects** | **16002** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,16 +18,16 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5947 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3321 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1576 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1161 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 977 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 947 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 5956 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3327 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1579 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1164 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 982 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 948 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 540 | [Browse →](./crypto/) |
-| 📊 **Data** | 362 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 341 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 220 | [Browse →](./mobile/) |
+| 📊 **Data** | 365 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 343 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 221 | [Browse →](./mobile/) |
 | 💳 **Payments** | 166 | [Browse →](./payments/) |
 | 📈 **Trading** | 164 | [Browse →](./trading/) |
 | 🔐 **Security** | 130 | [Browse →](./security/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [HumanSignal/label-studio](./aiml/humansignal-label-studio.md) | ⭐ 27.2k | AI/ML |
+| 1 | [mattermost-community/focalboard](./misc/mattermost-community-focalboard.md) | ⭐ 26.1k | Misc |
 | 2 | [microsoft/presidio](./aiml/microsoft-presidio.md) | ⭐ 7.9k | AI/ML |
-| 3 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.9k | Frontend |
-| 4 | [fmtlib/fmt](./misc/fmtlib-fmt.md) | ⭐ 23.5k | Misc |
-| 5 | [alibaba/MNN](./aiml/alibaba-mnn.md) | ⭐ 15.1k | AI/ML |
-| 6 | [langchain-ai/langgraph](./orchestration/langchain-ai-langgraph.md) | ⭐ 31.1k | Orchestration |
-| 7 | [affaan-m/everything-claude-code](./aiml/affaan-m-everything-claude-code.md) | ⭐ 172.9k | AI/ML |
-| 8 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
-| 9 | [warpdotdev/warp](./aiml/warpdotdev-warp.md) | ⭐ 53.8k | AI/ML |
-| 10 | [Kilo-Org/kilocode](./aiml/kilo-org-kilocode.md) | ⭐ 18.9k | AI/ML |
+| 3 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 4 | [zitadel/zitadel](./aiml/zitadel-zitadel.md) | ⭐ 13.7k | AI/ML |
+| 5 | [K-Dense-AI/scientific-agent-skills](./orchestration/k-dense-ai-scientific-agent-skills.md) | ⭐ 20k | Orchestration |
+| 6 | [mastra-ai/mastra](./aiml/mastra-ai-mastra.md) | ⭐ 23.5k | AI/ML |
+| 7 | [knative/docs](./aiml/knative-docs.md) | ⭐ 5k | AI/ML |
+| 8 | [apache/hudi](./data/apache-hudi.md) | ⭐ 6.2k | Data |
+| 9 | [community-scripts/ProxmoxVE](./aiml/community-scripts-proxmoxve.md) | ⭐ 27.9k | AI/ML |
+| 10 | [screenpipe/screenpipe](./aiml/screenpipe-screenpipe.md) | ⭐ 18.5k | AI/ML |
 
 ## 🚀 How it works
 

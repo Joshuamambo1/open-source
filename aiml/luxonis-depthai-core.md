@@ -1,6 +1,6 @@
 # luxonis/depthai-core
 
-[![Stars](https://img.shields.io/github/stars/luxonis/depthai-core?style=flat-square&color=yellow)](https://github.com/luxonis/depthai-core/stargazers) [![Forks](https://img.shields.io/github/forks/luxonis/depthai-core?style=flat-square&color=blue)](https://github.com/luxonis/depthai-core/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luxonis/depthai-core?style=flat-square&color=yellow)](https://github.com/luxonis/depthai-core/stargazers) [![Forks](https://img.shields.io/github/forks/luxonis/depthai-core?style=flat-square&color=blue)](https://github.com/luxonis/depthai-core/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > DepthAI C++ Library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

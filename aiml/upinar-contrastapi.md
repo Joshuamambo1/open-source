@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/UPinar/contrastapi?style=flat-square&color=yellow)](https://github.com/UPinar/contrastapi/stargazers) [![Forks](https://img.shields.io/github/forks/UPinar/contrastapi?style=flat-square&color=blue)](https://github.com/UPinar/contrastapi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Security intelligence MCP server for AI agents — 42 tools: CVE/KEV/CWE, domain audit, IOC/threat intel, MITRE ATLAS (AI/ML attacks) + bulk technique drill, MITRE D3FEND (defenses). Free tier, no API key.
+> Security intelligence MCP server for AI agents — 47 tools + 7 Resources + 3 Prompts: CVE/EPSS/KEV (340K+), MITRE CWE/ATLAS/D3FEND, domain recon, IOC threat intel, OSINT, code security, web intelligence (robots.txt, redirects, email verify, brand, SEO). Free, no API key, 100 req/hr.
 
 ## 📊 Stats
 

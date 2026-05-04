@@ -1,6 +1,6 @@
 # NationalLibraryOfNorway/warchaeology
 
-[![Stars](https://img.shields.io/github/stars/NationalLibraryOfNorway/warchaeology?style=flat-square&color=yellow)](https://github.com/NationalLibraryOfNorway/warchaeology/stargazers) [![Forks](https://img.shields.io/github/forks/NationalLibraryOfNorway/warchaeology?style=flat-square&color=blue)](https://github.com/NationalLibraryOfNorway/warchaeology/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NationalLibraryOfNorway/warchaeology?style=flat-square&color=yellow)](https://github.com/NationalLibraryOfNorway/warchaeology/stargazers) [![Forks](https://img.shields.io/github/forks/NationalLibraryOfNorway/warchaeology?style=flat-square&color=blue)](https://github.com/NationalLibraryOfNorway/warchaeology/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Command line tool for digging into WARC files
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

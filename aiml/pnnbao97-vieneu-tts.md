@@ -1,6 +1,6 @@
 # pnnbao97/VieNeu-TTS
 
-[![Stars](https://img.shields.io/github/stars/pnnbao97/VieNeu-TTS?style=flat-square&color=yellow)](https://github.com/pnnbao97/VieNeu-TTS/stargazers) [![Forks](https://img.shields.io/github/forks/pnnbao97/VieNeu-TTS?style=flat-square&color=blue)](https://github.com/pnnbao97/VieNeu-TTS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pnnbao97/VieNeu-TTS?style=flat-square&color=yellow)](https://github.com/pnnbao97/VieNeu-TTS/stargazers) [![Forks](https://img.shields.io/github/forks/pnnbao97/VieNeu-TTS?style=flat-square&color=blue)](https://github.com/pnnbao97/VieNeu-TTS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 24kHz audio quality • Chuyển văn bản thành giọng nói tiếng Việt • Text to speech tiếng Việt • TTS tiếng Việt
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 407 |
+| 🍴 **Forks** | 411 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

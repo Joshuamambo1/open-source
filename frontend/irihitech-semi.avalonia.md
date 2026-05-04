@@ -1,6 +1,6 @@
 # irihitech/Semi.Avalonia
 
-[![Stars](https://img.shields.io/github/stars/irihitech/Semi.Avalonia?style=flat-square&color=yellow)](https://github.com/irihitech/Semi.Avalonia/stargazers) [![Forks](https://img.shields.io/github/forks/irihitech/Semi.Avalonia?style=flat-square&color=blue)](https://github.com/irihitech/Semi.Avalonia/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/irihitech/Semi.Avalonia?style=flat-square&color=yellow)](https://github.com/irihitech/Semi.Avalonia/stargazers) [![Forks](https://img.shields.io/github/forks/irihitech/Semi.Avalonia?style=flat-square&color=blue)](https://github.com/irihitech/Semi.Avalonia/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Avalonia theme inspired by Semi Design
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 156 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

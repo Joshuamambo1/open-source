@@ -1,6 +1,6 @@
 # chaogei/windsurf-account-manager-simple
 
-[![Stars](https://img.shields.io/github/stars/chaogei/windsurf-account-manager-simple?style=flat-square&color=yellow)](https://github.com/chaogei/windsurf-account-manager-simple/stargazers) [![Forks](https://img.shields.io/github/forks/chaogei/windsurf-account-manager-simple?style=flat-square&color=blue)](https://github.com/chaogei/windsurf-account-manager-simple/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chaogei/windsurf-account-manager-simple?style=flat-square&color=yellow)](https://github.com/chaogei/windsurf-account-manager-simple/stargazers) [![Forks](https://img.shields.io/github/forks/chaogei/windsurf-account-manager-simple?style=flat-square&color=blue)](https://github.com/chaogei/windsurf-account-manager-simple/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 298 |
+| ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

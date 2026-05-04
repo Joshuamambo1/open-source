@@ -1,6 +1,6 @@
 # fluent/fluent-plugin-kafka
 
-[![Stars](https://img.shields.io/github/stars/fluent/fluent-plugin-kafka?style=flat-square&color=yellow)](https://github.com/fluent/fluent-plugin-kafka/stargazers) [![Forks](https://img.shields.io/github/forks/fluent/fluent-plugin-kafka?style=flat-square&color=blue)](https://github.com/fluent/fluent-plugin-kafka/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fluent/fluent-plugin-kafka?style=flat-square&color=yellow)](https://github.com/fluent/fluent-plugin-kafka/stargazers) [![Forks](https://img.shields.io/github/forks/fluent/fluent-plugin-kafka?style=flat-square&color=blue)](https://github.com/fluent/fluent-plugin-kafka/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Kafka input and output plugin for Fluentd
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

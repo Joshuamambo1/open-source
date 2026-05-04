@@ -1,6 +1,6 @@
 # preiter93/edtui
 
-[![Stars](https://img.shields.io/github/stars/preiter93/edtui?style=flat-square&color=yellow)](https://github.com/preiter93/edtui/stargazers) [![Forks](https://img.shields.io/github/forks/preiter93/edtui?style=flat-square&color=blue)](https://github.com/preiter93/edtui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/preiter93/edtui?style=flat-square&color=yellow)](https://github.com/preiter93/edtui/stargazers) [![Forks](https://img.shields.io/github/forks/preiter93/edtui?style=flat-square&color=blue)](https://github.com/preiter93/edtui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > A vim-inspired editor widget for ratatui
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

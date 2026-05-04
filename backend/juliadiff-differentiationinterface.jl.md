@@ -1,6 +1,6 @@
 # JuliaDiff/DifferentiationInterface.jl
 
-[![Stars](https://img.shields.io/github/stars/JuliaDiff/DifferentiationInterface.jl?style=flat-square&color=yellow)](https://github.com/JuliaDiff/DifferentiationInterface.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaDiff/DifferentiationInterface.jl?style=flat-square&color=blue)](https://github.com/JuliaDiff/DifferentiationInterface.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuliaDiff/DifferentiationInterface.jl?style=flat-square&color=yellow)](https://github.com/JuliaDiff/DifferentiationInterface.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaDiff/DifferentiationInterface.jl?style=flat-square&color=blue)](https://github.com/JuliaDiff/DifferentiationInterface.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An interface to various automatic differentiation backends in Julia.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 301 |
+| ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # fastapi/fastapi-cli
 
-[![Stars](https://img.shields.io/github/stars/fastapi/fastapi-cli?style=flat-square&color=yellow)](https://github.com/fastapi/fastapi-cli/stargazers) [![Forks](https://img.shields.io/github/forks/fastapi/fastapi-cli?style=flat-square&color=blue)](https://github.com/fastapi/fastapi-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fastapi/fastapi-cli?style=flat-square&color=yellow)](https://github.com/fastapi/fastapi-cli/stargazers) [![Forks](https://img.shields.io/github/forks/fastapi/fastapi-cli?style=flat-square&color=blue)](https://github.com/fastapi/fastapi-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Run and manage FastAPI apps from the command line with FastAPI CLI. 🚀
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 599 |
+| ⭐ **Stars** | 600 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # ory/x
 
-[![Stars](https://img.shields.io/github/stars/ory/x?style=flat-square&color=yellow)](https://github.com/ory/x/stargazers) [![Forks](https://img.shields.io/github/forks/ory/x?style=flat-square&color=blue)](https://github.com/ory/x/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ory/x?style=flat-square&color=yellow)](https://github.com/ory/x/stargazers) [![Forks](https://img.shields.io/github/forks/ory/x?style=flat-square&color=blue)](https://github.com/ory/x/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Libraries used in the Ory ecosystem
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

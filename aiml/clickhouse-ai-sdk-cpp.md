@@ -1,6 +1,6 @@
 # ClickHouse/ai-sdk-cpp
 
-[![Stars](https://img.shields.io/github/stars/ClickHouse/ai-sdk-cpp?style=flat-square&color=yellow)](https://github.com/ClickHouse/ai-sdk-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/ClickHouse/ai-sdk-cpp?style=flat-square&color=blue)](https://github.com/ClickHouse/ai-sdk-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ClickHouse/ai-sdk-cpp?style=flat-square&color=yellow)](https://github.com/ClickHouse/ai-sdk-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/ClickHouse/ai-sdk-cpp?style=flat-square&color=blue)](https://github.com/ClickHouse/ai-sdk-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The AI Toolkit for Modern C++. From the engineers at ClickHouse, ai-sdk-cpp is a free, open‑source library for building AI‑powered applications and agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

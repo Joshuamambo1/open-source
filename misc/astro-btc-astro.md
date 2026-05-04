@@ -1,6 +1,6 @@
 # astro-btc/Astro
 
-[![Stars](https://img.shields.io/github/stars/astro-btc/Astro?style=flat-square&color=yellow)](https://github.com/astro-btc/Astro/stargazers) [![Forks](https://img.shields.io/github/forks/astro-btc/Astro?style=flat-square&color=blue)](https://github.com/astro-btc/Astro/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/astro-btc/Astro?style=flat-square&color=yellow)](https://github.com/astro-btc/Astro/stargazers) [![Forks](https://img.shields.io/github/forks/astro-btc/Astro?style=flat-square&color=blue)](https://github.com/astro-btc/Astro/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 416 |
-| 🍴 **Forks** | 114 |
+| ⭐ **Stars** | 417 |
+| 🍴 **Forks** | 115 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

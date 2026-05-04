@@ -1,6 +1,6 @@
 # mtzanidakis/praktor
 
-[![Stars](https://img.shields.io/github/stars/mtzanidakis/praktor?style=flat-square&color=yellow)](https://github.com/mtzanidakis/praktor/stargazers) [![Forks](https://img.shields.io/github/forks/mtzanidakis/praktor?style=flat-square&color=blue)](https://github.com/mtzanidakis/praktor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mtzanidakis/praktor?style=flat-square&color=yellow)](https://github.com/mtzanidakis/praktor/stargazers) [![Forks](https://img.shields.io/github/forks/mtzanidakis/praktor?style=flat-square&color=blue)](https://github.com/mtzanidakis/praktor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent Claude Code orchestrator with Telegram I/O, Docker isolation, swarm patterns, and Mission Control UI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

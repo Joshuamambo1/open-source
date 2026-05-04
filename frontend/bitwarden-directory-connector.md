@@ -1,6 +1,6 @@
 # bitwarden/directory-connector
 
-[![Stars](https://img.shields.io/github/stars/bitwarden/directory-connector?style=flat-square&color=yellow)](https://github.com/bitwarden/directory-connector/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/directory-connector?style=flat-square&color=blue)](https://github.com/bitwarden/directory-connector/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitwarden/directory-connector?style=flat-square&color=yellow)](https://github.com/bitwarden/directory-connector/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/directory-connector?style=flat-square&color=blue)](https://github.com/bitwarden/directory-connector/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A tool for syncing a directory (AD, LDAP, Azure, G Suite, Okta) to an organization.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 307 |
+| ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # BetterDB-inc/monitor
 
-[![Stars](https://img.shields.io/github/stars/BetterDB-inc/monitor?style=flat-square&color=yellow)](https://github.com/BetterDB-inc/monitor/stargazers) [![Forks](https://img.shields.io/github/forks/BetterDB-inc/monitor?style=flat-square&color=blue)](https://github.com/BetterDB-inc/monitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BetterDB-inc/monitor?style=flat-square&color=yellow)](https://github.com/BetterDB-inc/monitor/stargazers) [![Forks](https://img.shields.io/github/forks/BetterDB-inc/monitor?style=flat-square&color=blue)](https://github.com/BetterDB-inc/monitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time monitoring, slowlog analysis, and audit trails for Valkey and Redis
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

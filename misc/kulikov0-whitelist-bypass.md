@@ -1,6 +1,6 @@
 # kulikov0/whitelist-bypass
 
-[![Stars](https://img.shields.io/github/stars/kulikov0/whitelist-bypass?style=flat-square&color=yellow)](https://github.com/kulikov0/whitelist-bypass/stargazers) [![Forks](https://img.shields.io/github/forks/kulikov0/whitelist-bypass?style=flat-square&color=blue)](https://github.com/kulikov0/whitelist-bypass/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kulikov0/whitelist-bypass?style=flat-square&color=yellow)](https://github.com/kulikov0/whitelist-bypass/stargazers) [![Forks](https://img.shields.io/github/forks/kulikov0/whitelist-bypass?style=flat-square&color=blue)](https://github.com/kulikov0/whitelist-bypass/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 954 |
+| ⭐ **Stars** | 957 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -11,7 +11,7 @@
 | 1 | [Tyrrrz/YoutubeDownloader](./tyrrrz-youtubedownloader.md) | ⭐ 14.9k | C# | 100/100 |
 | 2 | [alvr-org/ALVR](./alvr-org-alvr.md) | ⭐ 7.6k | Rust | 91/100 |
 | 3 | [jiji262/douyin-downloader](./jiji262-douyin-downloader.md) | ⭐ 7.5k | Python | 90/100 |
-| 4 | [tonhowtf/omniget](./tonhowtf-omniget.md) | ⭐ 3.5k | Svelte | 78/100 |
+| 4 | [tonhowtf/omniget](./tonhowtf-omniget.md) | ⭐ 3.5k | Svelte | 79/100 |
 | 5 | [apache/plc4x](./apache-plc4x.md) | ⭐ 1.6k | Java | 68/100 |
 | 6 | [danielbrendel/hortusfox-web](./danielbrendel-hortusfox-web.md) | ⭐ 1.5k | PHP | 62/100 |
 | 7 | [museofficial/muse](./museofficial-muse.md) | ⭐ 1.2k | TypeScript | 60/100 |
@@ -30,14 +30,14 @@
 | 20 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 138 | MDX | 51/100 |
 | 21 | [bitfaster/BitFaster.Caching](./bitfaster-bitfaster.caching.md) | ⭐ 590 | C# | 51/100 |
 | 22 | [nil-go/konf](./nil-go-konf.md) | ⭐ 380 | Go | 49/100 |
-| 23 | [garritfra/cell](./garritfra-cell.md) | ⭐ 262 | Rust | 47/100 |
+| 23 | [garritfra/cell](./garritfra-cell.md) | ⭐ 263 | Rust | 47/100 |
 | 24 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 121 | Rust | 47/100 |
 | 25 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 17 | — | 46/100 |
 | 26 | [angr/cle](./angr-cle.md) | ⭐ 480 | Python | 45/100 |
 | 27 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 337 | Go | 43/100 |
 | 28 | [AzureIvory/block-ads](./azureivory-block-ads.md) | ⭐ 197 | Go | 42/100 |
 | 29 | [wdecoster/cramino](./wdecoster-cramino.md) | ⭐ 182 | Rust | 41/100 |
-| 30 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 292 | Go | 38/100 |
+| 30 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 295 | Go | 38/100 |
 | 31 | [leeseomin/VoidPlayer-releases](./leeseomin-voidplayer-releases.md) | ⭐ 3 | — | 32/100 |
 
 ---

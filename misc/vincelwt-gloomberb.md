@@ -1,6 +1,6 @@
 # vincelwt/gloomberb
 
-[![Stars](https://img.shields.io/github/stars/vincelwt/gloomberb?style=flat-square&color=yellow)](https://github.com/vincelwt/gloomberb/stargazers) [![Forks](https://img.shields.io/github/forks/vincelwt/gloomberb?style=flat-square&color=blue)](https://github.com/vincelwt/gloomberb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vincelwt/gloomberb?style=flat-square&color=yellow)](https://github.com/vincelwt/gloomberb/stargazers) [![Forks](https://img.shields.io/github/forks/vincelwt/gloomberb?style=flat-square&color=blue)](https://github.com/vincelwt/gloomberb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Finance terminal, in your terminal.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 436 |
+| ⭐ **Stars** | 439 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

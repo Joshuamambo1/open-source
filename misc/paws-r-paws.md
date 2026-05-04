@@ -1,6 +1,6 @@
 # paws-r/paws
 
-[![Stars](https://img.shields.io/github/stars/paws-r/paws?style=flat-square&color=yellow)](https://github.com/paws-r/paws/stargazers) [![Forks](https://img.shields.io/github/forks/paws-r/paws?style=flat-square&color=blue)](https://github.com/paws-r/paws/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paws-r/paws?style=flat-square&color=yellow)](https://github.com/paws-r/paws/stargazers) [![Forks](https://img.shields.io/github/forks/paws-r/paws?style=flat-square&color=blue)](https://github.com/paws-r/paws/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Paws, a package for Amazon Web Services in R
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | R |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

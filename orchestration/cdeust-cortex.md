@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/cdeust/Cortex?style=flat-square&color=yellow)](https://github.com/cdeust/Cortex/stargazers) [![Forks](https://img.shields.io/github/forks/cdeust/Cortex?style=flat-square&color=blue)](https://github.com/cdeust/Cortex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Persistent memory for Claude Code — 41 neuroscience papers, 20 biological mechanisms. 97.8% R@10 LongMemEval | 92.6% R@10 LoCoMo | +33.4% BEAM-10M over flat retrieval (0.471 vs 0.353). Stage-Aware Context Assembly. PostgreSQL + pgvector.
+> Persistent memory for Claude Code — 41 neuroscience papers, 26 biological mechanisms with paper-bearing per-mechanism ablation evidence (E1 v3). LongMemEval R@10 98.4% / MRR 0.9124 (n=500). LoCoMo R@10 94.2% / MRR 0.8278 (n=1986). BEAM-10M +33.4% over flat retrieval. PostgreSQL + pgvector. Verified via 31-row two-benchmark ablation campaign.
 
 ## 📊 Stats
 

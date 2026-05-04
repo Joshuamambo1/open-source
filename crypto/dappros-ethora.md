@@ -1,6 +1,6 @@
 # dappros/ethora
 
-[![Stars](https://img.shields.io/github/stars/dappros/ethora?style=flat-square&color=yellow)](https://github.com/dappros/ethora/stargazers) [![Forks](https://img.shields.io/github/forks/dappros/ethora?style=flat-square&color=blue)](https://github.com/dappros/ethora/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dappros/ethora?style=flat-square&color=yellow)](https://github.com/dappros/ethora/stargazers) [![Forks](https://img.shields.io/github/forks/dappros/ethora?style=flat-square&color=blue)](https://github.com/dappros/ethora/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source engine for chat 💬, AI assistants 🤖 & wallets 🪪. React, Typescript, Python, XMPP. Build future apps with chat, AI agents and web3.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 531 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

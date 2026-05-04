@@ -25,7 +25,7 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The kerberos-io/agent project is an open-source, scalable video surveillance system designed to bring about a more peaceful world. This AI-powered system enables users to monitor and analyze video feeds in real-time, providing valuable insights and enhancing safety and security. By promoting transparency and community-driven development, kerberos-io/agent empowers individuals and organizations to make a positive impact through advanced surveillance and monitoring capabilities.
+The kerberos-io/agent project is an open-source, scalable video surveillance system designed to promote a safer and more peaceful world. Leveraging AI and ML capabilities, this system provides real-time monitoring and analysis to support various applications, from security and law enforcement to social good initiatives. Its modular architecture makes it accessible to a wide range of users and communities.
 
 ---
 

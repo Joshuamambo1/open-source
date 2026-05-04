@@ -1,6 +1,6 @@
 # lifting-bits/remill
 
-[![Stars](https://img.shields.io/github/stars/lifting-bits/remill?style=flat-square&color=yellow)](https://github.com/lifting-bits/remill/stargazers) [![Forks](https://img.shields.io/github/forks/lifting-bits/remill?style=flat-square&color=blue)](https://github.com/lifting-bits/remill/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lifting-bits/remill?style=flat-square&color=yellow)](https://github.com/lifting-bits/remill/stargazers) [![Forks](https://img.shields.io/github/forks/lifting-bits/remill?style=flat-square&color=blue)](https://github.com/lifting-bits/remill/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Library for lifting machine code to LLVM bitcode
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

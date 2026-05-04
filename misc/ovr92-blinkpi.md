@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-BlinkPi is an open-source project that empowers users to utilize their hardware in a flexible and customizable manner. By providing an adaptable framework, BlinkPi enables individuals to tailor their hardware to suit their needs and preferences. This project promotes hardware freedom and encourages users to explore new possibilities with their devices.
+BlinkPi is an open-source project that empowers users to utilize their hardware according to their preferences. This project aims to create a customizable and flexible framework for interacting with one's hardware. By providing a versatile platform, BlinkPi allows users to unlock the full potential of their devices and tailor their experiences to suit their needs.
 
 ---
 

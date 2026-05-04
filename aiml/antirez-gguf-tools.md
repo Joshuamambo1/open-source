@@ -1,6 +1,6 @@
 # antirez/gguf-tools
 
-[![Stars](https://img.shields.io/github/stars/antirez/gguf-tools?style=flat-square&color=yellow)](https://github.com/antirez/gguf-tools/stargazers) [![Forks](https://img.shields.io/github/forks/antirez/gguf-tools?style=flat-square&color=blue)](https://github.com/antirez/gguf-tools/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antirez/gguf-tools?style=flat-square&color=yellow)](https://github.com/antirez/gguf-tools/stargazers) [![Forks](https://img.shields.io/github/forks/antirez/gguf-tools?style=flat-square&color=blue)](https://github.com/antirez/gguf-tools/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > GGUF implementation in C as a library and a tools CLI program
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | C |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

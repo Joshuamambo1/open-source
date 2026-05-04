@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the Pluto project:
-
-Pluto is an open-source coordination server designed for high-performance, real-time collaboration between multiple AI agents. Built on Erlang/OTP, Pluto ensures safe and seamless interactions between autonomous systems, enabling efficient and scalable AI applications. This project supports the orchestration and development of AI/ML systems, with a focus on frontend integration.
+Pluto is an open-source, high-performance coordination server that enables real-time collaboration between multiple AI agents, facilitating safe and efficient interactions. Built on Erlang/OTP, Pluto provides a robust and scalable architecture for complex AI systems. This project caters to the needs of AI/ML developers and frontend engineers working on orchestration and multi-agent collaboration tasks.
 
 ---
 

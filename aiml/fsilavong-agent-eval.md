@@ -25,9 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the Agent-evals project:
-
-Agent-evals is an open-source project that utilizes Claude, a large language model, to enable users to create their own custom evaluation tools. This project aims to provide a flexible framework for building personalized evaluation metrics, empowering users to tailor their evaluation processes to specific needs. By leveraging Claude's capabilities, Agent-evals makes it possible to easily design and implement custom evaluations.
+Agent-evals is an open-source project that enables users to build their own evaluation tools for the Claude AI platform. By utilizing Claude's skill to create custom evals, users can tailor their evaluation processes to meet their specific needs and improve the performance of their AI models. This project facilitates the development of personalized evaluation tools for users of the Claude AI platform.
 
 ---
 

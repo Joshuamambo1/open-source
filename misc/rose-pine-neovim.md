@@ -1,6 +1,6 @@
 # rose-pine/neovim
 
-[![Stars](https://img.shields.io/github/stars/rose-pine/neovim?style=flat-square&color=yellow)](https://github.com/rose-pine/neovim/stargazers) [![Forks](https://img.shields.io/github/forks/rose-pine/neovim?style=flat-square&color=blue)](https://github.com/rose-pine/neovim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rose-pine/neovim?style=flat-square&color=yellow)](https://github.com/rose-pine/neovim/stargazers) [![Forks](https://img.shields.io/github/forks/rose-pine/neovim?style=flat-square&color=blue)](https://github.com/rose-pine/neovim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Soho vibes for Neovim
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -16,16 +16,16 @@
 | 6 | [danielbrendel/hortusfox-web](./danielbrendel-hortusfox-web.md) | ⭐ 1.5k | PHP | 62/100 |
 | 7 | [museofficial/muse](./museofficial-muse.md) | ⭐ 1.2k | TypeScript | 60/100 |
 | 8 | [productdevbook/hucre](./productdevbook-hucre.md) | ⭐ 1.3k | TypeScript | 59/100 |
-| 9 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 853 | Dart | 58/100 |
+| 9 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 855 | Dart | 58/100 |
 | 10 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 725 | Adblock Filter List | 57/100 |
 | 11 | [maaslalani/sheets](./maaslalani-sheets.md) | ⭐ 2.2k | Go | 56/100 |
 | 12 | [nowork-studio/toprank](./nowork-studio-toprank.md) | ⭐ 1.6k | Python | 55/100 |
 | 13 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 522 | PHP | 54/100 |
 | 14 | [pH-7/Download-Simply-Videos-From-YouTube](./ph-7-download-simply-videos-from-youtube.md) | ⭐ 372 | Python | 54/100 |
-| 15 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
-| 16 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 644 | C# | 53/100 |
-| 17 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 967 | TypeScript | 52/100 |
-| 18 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 52/100 |
+| 15 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 648 | C# | 54/100 |
+| 16 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
+| 17 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 52/100 |
+| 18 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 967 | TypeScript | 52/100 |
 | 19 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 122 | Rust | 51/100 |
 | 20 | [deadsy/sdfx](./deadsy-sdfx.md) | ⭐ 613 | Go | 51/100 |
 | 21 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 138 | MDX | 51/100 |

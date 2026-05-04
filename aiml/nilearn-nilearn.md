@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Nilearn is an open-source Python library that provides a set of tools for machine learning and data analysis in neuroimaging. It enables researchers to efficiently preprocess and analyze brain imaging data, including functional magnetic resonance imaging (fMRI) and other neuroimaging modalities. With Nilearn, scientists can accelerate their research and gain insights into the brain's structure and function.
+Nilearn is an open-source Python library that provides a set of tools for machine learning on neuroimaging data, making it easier to analyze and understand the brain. With its extensive range of pre-built algorithms and intuitive API, Nilearn enables researchers to efficiently apply machine learning techniques to functional MRI (fMRI), electroencephalography (EEG), and other neuroimaging modalities. By streamlining the process of data analysis, Nilearn accelerates the discovery of new insights in neuroscience and related fields.
 
 ---
 

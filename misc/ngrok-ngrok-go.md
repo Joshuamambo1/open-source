@@ -1,6 +1,6 @@
 # ngrok/ngrok-go
 
-[![Stars](https://img.shields.io/github/stars/ngrok/ngrok-go?style=flat-square&color=yellow)](https://github.com/ngrok/ngrok-go/stargazers) [![Forks](https://img.shields.io/github/forks/ngrok/ngrok-go?style=flat-square&color=blue)](https://github.com/ngrok/ngrok-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ngrok/ngrok-go?style=flat-square&color=yellow)](https://github.com/ngrok/ngrok-go/stargazers) [![Forks](https://img.shields.io/github/forks/ngrok/ngrok-go?style=flat-square&color=blue)](https://github.com/ngrok/ngrok-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Embed ngrok secure ingress into your Go apps as a net.Listener with a single line of code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 852 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

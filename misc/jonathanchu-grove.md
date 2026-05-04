@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Grove.el is an open-source Emacs mode inspired by Obsidian, a popular note-taking application. This project enables users to create a note-taking system within Emacs, leveraging the flexibility and customization capabilities of the editor to organize and connect their notes. With Grove.el, users can enjoy a seamless note-taking experience within the Emacs ecosystem.
+Grove.el is an open-source project that brings Obsidian-like note-taking functionality to the Emacs editor. This project enables users to create a note-taking system within Emacs, allowing for seamless organization and linking of notes. By leveraging the flexibility of Emacs, Grove.el provides a customizable and feature-rich note-taking experience.
 
 ---
 

@@ -25,9 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the sysprog21/zhtw-mcp project:
-
-sysprog21/zhtw-mcp is an open-source linguistic linter designed to improve Traditional Chinese (zh-TW) text quality by detecting grammatical and stylistic errors. This tool helps developers and writers refine their Chinese content by providing real-time feedback on syntax, semantics, and readability. By utilizing zhtw-mcp, users can enhance the overall coherence and effectiveness of their Traditional Chinese communications.
+The sysprog21/zhtw-mcp project is an open-source linguistic linter designed to improve Traditional Chinese (zh-TW) writing quality. This tool helps detect and correct grammatical, stylistic, and formatting errors in Chinese text, making it a valuable resource for writers, editors, and developers working with Traditional Chinese content. By incorporating this linter into development workflows, users can enhance the accuracy and consistency of their Chinese text.
 
 ---
 

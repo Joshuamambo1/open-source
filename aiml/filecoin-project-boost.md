@@ -1,6 +1,6 @@
 # filecoin-project/boost
 
-[![Stars](https://img.shields.io/github/stars/filecoin-project/boost?style=flat-square&color=yellow)](https://github.com/filecoin-project/boost/stargazers) [![Forks](https://img.shields.io/github/forks/filecoin-project/boost?style=flat-square&color=blue)](https://github.com/filecoin-project/boost/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/filecoin-project/boost?style=flat-square&color=yellow)](https://github.com/filecoin-project/boost/stargazers) [![Forks](https://img.shields.io/github/forks/filecoin-project/boost?style=flat-square&color=blue)](https://github.com/filecoin-project/boost/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Boost is a tool for Filecoin storage providers to manage data storage and retrievals on Filecoin.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

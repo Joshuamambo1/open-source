@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Warp is a lightweight, flexible, and easy-to-use web server framework designed for building high-performance web applications. Built on top of the Rust programming language, Warp provides a composable and modular architecture for handling HTTP requests and responses. With Warp, developers can create scalable and efficient web servers with minimal overhead and configuration.
+Warp is an open-source, composable web server framework that aims to provide a simple and efficient way to build web applications. It offers a high-performance and customizable framework for building backend services, allowing developers to focus on their application logic without the need for complex configuration. With its easy-to-use API, Warp enables developers to create robust and scalable web applications quickly and effectively.
 
 ---
 

@@ -25,9 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Burnless project:
-
-Burnless is an open-source protocol designed to optimize API usage and reduce costs. By implementing this protocol, developers can significantly cut down their API expenses, as demonstrated by the project's creator who saw a 16x reduction in their API bill on their heaviest development day. This innovative solution aims to help developers manage their API resources more efficiently.
+Burnless is an open-source project that aims to reduce API costs by providing an efficient protocol for API interactions. By implementing Burnless, developers can significantly lower their API expenses, with some users experiencing a 16x reduction in costs on their heaviest development days. This protocol is designed to optimize API usage, making it a valuable resource for developers looking to streamline their backend operations.
 
 ---
 

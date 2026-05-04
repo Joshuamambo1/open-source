@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-HeatSpectra is an open-source, real-time 3D heat transfer simulator. This project allows users to visualize and interact with complex heat transfer phenomena in a dynamic, three-dimensional environment. By providing a realistic simulation of heat transfer, HeatSpectra has the potential to aid in the development and optimization of thermal systems in various fields.
+HeatSpectra is an open-source, real-time 3D heat transfer simulator that allows users to visualize and interact with complex thermal dynamics. This project enables users to experiment with various scenarios and parameters to gain a deeper understanding of heat transfer phenomena. By providing a dynamic and immersive simulation environment, HeatSpectra facilitates research, education, and exploration in the field of thermodynamics.
 
 ---
 

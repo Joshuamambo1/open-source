@@ -1,6 +1,6 @@
 # grafana/cloudcost-exporter
 
-[![Stars](https://img.shields.io/github/stars/grafana/cloudcost-exporter?style=flat-square&color=yellow)](https://github.com/grafana/cloudcost-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/cloudcost-exporter?style=flat-square&color=blue)](https://github.com/grafana/cloudcost-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/cloudcost-exporter?style=flat-square&color=yellow)](https://github.com/grafana/cloudcost-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/cloudcost-exporter?style=flat-square&color=blue)](https://github.com/grafana/cloudcost-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Prometheus Exporter for Cloud Provider cost metrics
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The shellfirm project provides a safety net for AI coding agents and human terminal commands, offering guardrails to prevent unintended consequences and ensure secure interactions. This open-source initiative aims to bridge the gap between AI-powered automation and human oversight, promoting safer and more reliable collaboration. By implementing robust safety measures, shellfirm enables the responsible development and deployment of AI coding agents.
+The open-source project "shellfirm" by kaplanelad provides essential safety guardrails for both AI coding agents and human terminal commands, helping to prevent unintended consequences and errors. This project aims to bridge the gap between AI-generated code and human terminal interactions, promoting a safer and more secure coding environment. By implementing safeguards, shellfirm enables developers to work alongside AI agents with greater confidence and control.
 
 ---
 

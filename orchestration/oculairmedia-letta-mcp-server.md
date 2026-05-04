@@ -25,9 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the Letta-MCP-server project:
-
-The Letta-MCP-server is an open-source project that serves as a centralized management platform for Letta servers, enabling seamless communication with agents and efficient orchestration of AI/ML tasks. This MCP (Management and Control Plane) server streamlines the management process, providing a single interface for monitoring and controlling multiple Letta servers and their associated agents. By leveraging this platform, developers can simplify the development and deployment of AI/ML applications.
+The Letta-MCP-server is an open-source project that provides a central management platform for Letta servers, enabling efficient communication and orchestration with agents. This MCP server facilitates seamless interaction and coordination between Letta servers and their associated agents, enhancing overall system performance and scalability. By leveraging this MCP server, users can streamline their workflow and unlock the full potential of their Letta server deployments.
 
 ---
 

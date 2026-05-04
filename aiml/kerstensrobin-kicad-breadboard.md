@@ -1,6 +1,6 @@
 # kerstensrobin/kicad-breadboard
 
-[![Stars](https://img.shields.io/github/stars/kerstensrobin/kicad-breadboard?style=flat-square&color=yellow)](https://github.com/kerstensrobin/kicad-breadboard/stargazers) [![Forks](https://img.shields.io/github/forks/kerstensrobin/kicad-breadboard?style=flat-square&color=blue)](https://github.com/kerstensrobin/kicad-breadboard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kerstensrobin/kicad-breadboard?style=flat-square&color=yellow)](https://github.com/kerstensrobin/kicad-breadboard/stargazers) [![Forks](https://img.shields.io/github/forks/kerstensrobin/kicad-breadboard?style=flat-square&color=blue)](https://github.com/kerstensrobin/kicad-breadboard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > A tool for those who fancy breadboards, to practice and prepare their circuits on a breadboard should none be available.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 33/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

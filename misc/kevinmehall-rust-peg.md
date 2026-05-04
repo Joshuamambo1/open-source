@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The rust-peg project is an open-source tool for generating parsers in Rust using Parsing Expression Grammars (PEGs). It allows developers to define the syntax of their programming languages or data formats using a concise and readable grammar, which can then be compiled into a high-performance parser. This project enables the rapid development of robust and efficient parsers for various applications.
+The rust-peg project is an open-source implementation of a Parsing Expression Grammar (PEG) parser generator for Rust. It allows users to define grammars and generate parsers from them, making it a useful tool for parsing and processing data in Rust applications. By leveraging the PEG paradigm, developers can create robust and efficient parsers for various data formats.
 
 ---
 

@@ -1,6 +1,6 @@
 # nylo-core/nylo
 
-[![Stars](https://img.shields.io/github/stars/nylo-core/nylo?style=flat-square&color=yellow)](https://github.com/nylo-core/nylo/stargazers) [![Forks](https://img.shields.io/github/forks/nylo-core/nylo?style=flat-square&color=blue)](https://github.com/nylo-core/nylo/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nylo-core/nylo?style=flat-square&color=yellow)](https://github.com/nylo-core/nylo/stargazers) [![Forks](https://img.shields.io/github/forks/nylo-core/nylo?style=flat-square&color=blue)](https://github.com/nylo-core/nylo/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Nylo is the fastest way to build your next Flutter mobile app. Streamline your projects with Nylo's opinionated approach to building Flutter apps. Develop your next idea  ⚡️
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 852 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

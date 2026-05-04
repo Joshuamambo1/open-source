@@ -1,6 +1,6 @@
 # thatsme/giulia
 
-[![Stars](https://img.shields.io/github/stars/thatsme/giulia?style=flat-square&color=yellow)](https://github.com/thatsme/giulia/stargazers) [![Forks](https://img.shields.io/github/forks/thatsme/giulia?style=flat-square&color=blue)](https://github.com/thatsme/giulia/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thatsme/giulia?style=flat-square&color=yellow)](https://github.com/thatsme/giulia/stargazers) [![Forks](https://img.shields.io/github/forks/thatsme/giulia?style=flat-square&color=blue)](https://github.com/thatsme/giulia/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A persistent, local-first AI development daemon built in Elixir/OTP. AST-level code intelligence, Property Graph, runtime BEAM introspection, and semantic search — all via a 80+ endpoint REST API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

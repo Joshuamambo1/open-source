@@ -1,6 +1,6 @@
 # numandev1/react-native-compressor
 
-[![Stars](https://img.shields.io/github/stars/numandev1/react-native-compressor?style=flat-square&color=yellow)](https://github.com/numandev1/react-native-compressor/stargazers) [![Forks](https://img.shields.io/github/forks/numandev1/react-native-compressor?style=flat-square&color=blue)](https://github.com/numandev1/react-native-compressor/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/numandev1/react-native-compressor?style=flat-square&color=yellow)](https://github.com/numandev1/react-native-compressor/stargazers) [![Forks](https://img.shields.io/github/forks/numandev1/react-native-compressor?style=flat-square&color=blue)](https://github.com/numandev1/react-native-compressor/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🗜️Compress Image, Video, and Audio same like Whatsapp 🚀✨
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

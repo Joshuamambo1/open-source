@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16329** |
+| 🗂️ **Total projects** | **16355** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6063 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3425 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1612 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1182 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 1003 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 6073 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3429 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1615 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1184 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 1004 | [Browse →](./backend/) |
 | 🔧 **DevTools** | 956 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 546 | [Browse →](./crypto/) |
-| 📊 **Data** | 375 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 354 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 225 | [Browse →](./mobile/) |
+| ⛓️ **Crypto** | 550 | [Browse →](./crypto/) |
+| 📊 **Data** | 376 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 353 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 226 | [Browse →](./mobile/) |
+| 📈 **Trading** | 168 | [Browse →](./trading/) |
 | 💳 **Payments** | 168 | [Browse →](./payments/) |
-| 📈 **Trading** | 167 | [Browse →](./trading/) |
 | 🔐 **Security** | 135 | [Browse →](./security/) |
 | ✨ **Design** | 55 | [Browse →](./design/) |
 | 🎯 **Product** | 32 | [Browse →](./product/) |
@@ -42,13 +42,13 @@
 | 1 | [google-ai-edge/mediapipe](./aiml/google-ai-edge-mediapipe.md) | ⭐ 35.1k | AI/ML |
 | 2 | [pola-rs/polars](./data/pola-rs-polars.md) | ⭐ 38.4k | Data |
 | 3 | [arkime/arkime](./data/arkime-arkime.md) | ⭐ 7.4k | Data |
-| 4 | [farion1231/cc-switch](./aiml/farion1231-cc-switch.md) | ⭐ 59k | AI/ML |
-| 5 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 6 | [mastra-ai/mastra](./aiml/mastra-ai-mastra.md) | ⭐ 23.6k | AI/ML |
-| 7 | [knative/docs](./aiml/knative-docs.md) | ⭐ 5k | AI/ML |
-| 8 | [ghostfolio/ghostfolio](./trading/ghostfolio-ghostfolio.md) | ⭐ 8.3k | Trading |
-| 9 | [novuhq/novu](./aiml/novuhq-novu.md) | ⭐ 38.9k | AI/ML |
-| 10 | [langchain4j/langchain4j](./orchestration/langchain4j-langchain4j.md) | ⭐ 11.8k | Orchestration |
+| 4 | [kivy/kivy](./frontend/kivy-kivy.md) | ⭐ 18.9k | Frontend |
+| 5 | [farion1231/cc-switch](./aiml/farion1231-cc-switch.md) | ⭐ 59k | AI/ML |
+| 6 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
+| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 8 | [knative/docs](./aiml/knative-docs.md) | ⭐ 5k | AI/ML |
+| 9 | [PrefectHQ/fastmcp](./aiml/prefecthq-fastmcp.md) | ⭐ 25k | AI/ML |
+| 10 | [ghostfolio/ghostfolio](./trading/ghostfolio-ghostfolio.md) | ⭐ 8.3k | Trading |
 
 ## 🚀 How it works
 

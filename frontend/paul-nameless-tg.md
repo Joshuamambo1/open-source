@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The paul-nameless/tg project is an open-source terminal-based Telegram client, allowing users to access and interact with Telegram's messaging platform directly from the command line. This project provides a unique alternative to traditional desktop or mobile Telegram clients, offering users flexibility and convenience. With tg, users can send messages, manage contacts, and engage in group chats from the comfort of their terminal.
+Here's a brief summary for the open-source project "paul-nameless/tg":
+
+This open-source project, "paul-nameless/tg", is a terminal-based client for Telegram, allowing users to access and interact with the messaging platform from the comfort of their command line interface. The project provides a streamlined and accessible way to use Telegram, catering to users who prefer text-based interfaces or require the flexibility of a terminal client. By being open-source, the project is community-driven and encourages contributions and improvements.
 
 ---
 

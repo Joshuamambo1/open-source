@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/elva-labs/awsesh?style=flat-square&color=yellow)](https://github.com/elva-labs/awsesh/stargazers) [![Forks](https://img.shields.io/github/forks/elva-labs/awsesh?style=flat-square&color=blue)](https://github.com/elva-labs/awsesh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> An AWS session and credential manager and SDK (beta) ✨
+> An AWS session and credential manager and SDK ✨
 
 ## 📊 Stats
 

@@ -1,8 +1,8 @@
 # ainaomotayo/nanochat-jax
 
-[![Stars](https://img.shields.io/github/stars/ainaomotayo/nanochat-jax?style=flat-square&color=yellow)](https://github.com/ainaomotayo/nanochat-jax/stargazers) [![Forks](https://img.shields.io/github/forks/ainaomotayo/nanochat-jax?style=flat-square&color=blue)](https://github.com/ainaomotayo/nanochat-jax/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ainaomotayo/nanochat-jax?style=flat-square&color=yellow)](https://github.com/ainaomotayo/nanochat-jax/stargazers) [![Forks](https://img.shields.io/github/forks/ainaomotayo/nanochat-jax?style=flat-square&color=blue)](https://github.com/ainaomotayo/nanochat-jax/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
-> Mentioned in dev.to article (tag ai): I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.
+> Faithful JAX/Flax NNX port of the nanochat architecture with empirical scaling law experiments
 
 ## 📊 Stats
 
@@ -10,8 +10,8 @@
 |---|---|
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 36/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 30/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | devto |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 

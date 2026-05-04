@@ -1,6 +1,6 @@
 # isair/jarvis
 
-[![Stars](https://img.shields.io/github/stars/isair/jarvis?style=flat-square&color=yellow)](https://github.com/isair/jarvis/stargazers) [![Forks](https://img.shields.io/github/forks/isair/jarvis?style=flat-square&color=blue)](https://github.com/isair/jarvis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/isair/jarvis?style=flat-square&color=yellow)](https://github.com/isair/jarvis/stargazers) [![Forks](https://img.shields.io/github/forks/isair/jarvis?style=flat-square&color=blue)](https://github.com/isair/jarvis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room, and get conversational responses. It remembers everything, knows location and time, can check the web, control Chrome, track nutrition, and more with support for unlimited MCPs / tools without context rot.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 544 |
-| 🍴 **Forks** | 88 |
+| ⭐ **Stars** | 580 |
+| 🍴 **Forks** | 97 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

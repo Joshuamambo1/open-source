@@ -1,6 +1,6 @@
 # ChainSafe/lodestar
 
-[![Stars](https://img.shields.io/github/stars/ChainSafe/lodestar?style=flat-square&color=yellow)](https://github.com/ChainSafe/lodestar/stargazers) [![Forks](https://img.shields.io/github/forks/ChainSafe/lodestar?style=flat-square&color=blue)](https://github.com/ChainSafe/lodestar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChainSafe/lodestar?style=flat-square&color=yellow)](https://github.com/ChainSafe/lodestar/stargazers) [![Forks](https://img.shields.io/github/forks/ChainSafe/lodestar?style=flat-square&color=blue)](https://github.com/ChainSafe/lodestar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🌟 Ethereum Consensus client for the Zig and TypeScript ecosystem
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 456 |
+| 🍴 **Forks** | 457 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

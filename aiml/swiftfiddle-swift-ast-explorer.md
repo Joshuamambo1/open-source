@@ -1,6 +1,6 @@
 # SwiftFiddle/swift-ast-explorer
 
-[![Stars](https://img.shields.io/github/stars/SwiftFiddle/swift-ast-explorer?style=flat-square&color=yellow)](https://github.com/SwiftFiddle/swift-ast-explorer/stargazers) [![Forks](https://img.shields.io/github/forks/SwiftFiddle/swift-ast-explorer?style=flat-square&color=blue)](https://github.com/SwiftFiddle/swift-ast-explorer/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SwiftFiddle/swift-ast-explorer?style=flat-square&color=yellow)](https://github.com/SwiftFiddle/swift-ast-explorer/stargazers) [![Forks](https://img.shields.io/github/forks/SwiftFiddle/swift-ast-explorer?style=flat-square&color=blue)](https://github.com/SwiftFiddle/swift-ast-explorer/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > AST visualizer for Swift source code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 654 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

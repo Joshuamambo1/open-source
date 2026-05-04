@@ -25,7 +25,7 @@ Backend · Data
 
 ## 📝 Summary
 
-Woodglue is an open-source, self-documenting API and data server that allows for asynchronous data management. This project provides a robust backend solution for handling and serving data, while also automatically generating documentation for ease of use and maintenance. By utilizing Woodglue, developers can streamline their workflow and focus on building applications without the hassle of manual documentation.
+Woodglue is an open-source, self-documenting API/Data async server designed to provide a robust backend solution. It enables developers to build and manage data-driven applications with ease, thanks to its asynchronous architecture and automated documentation features. This project aims to simplify backend development by streamlining data management and API creation.
 
 ---
 

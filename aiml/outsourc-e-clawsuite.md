@@ -1,6 +1,6 @@
 # outsourc-e/clawsuite
 
-[![Stars](https://img.shields.io/github/stars/outsourc-e/clawsuite?style=flat-square&color=yellow)](https://github.com/outsourc-e/clawsuite/stargazers) [![Forks](https://img.shields.io/github/forks/outsourc-e/clawsuite?style=flat-square&color=blue)](https://github.com/outsourc-e/clawsuite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/outsourc-e/clawsuite?style=flat-square&color=yellow)](https://github.com/outsourc-e/clawsuite/stargazers) [![Forks](https://img.shields.io/github/forks/outsourc-e/clawsuite?style=flat-square&color=blue)](https://github.com/outsourc-e/clawsuite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > All-in-one command center for OpenClaw agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 330 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

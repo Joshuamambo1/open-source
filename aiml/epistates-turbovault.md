@@ -1,6 +1,6 @@
 # Epistates/turbovault
 
-[![Stars](https://img.shields.io/github/stars/Epistates/turbovault?style=flat-square&color=yellow)](https://github.com/Epistates/turbovault/stargazers) [![Forks](https://img.shields.io/github/forks/Epistates/turbovault?style=flat-square&color=blue)](https://github.com/Epistates/turbovault/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Epistates/turbovault?style=flat-square&color=yellow)](https://github.com/Epistates/turbovault/stargazers) [![Forks](https://img.shields.io/github/forks/Epistates/turbovault?style=flat-square&color=blue)](https://github.com/Epistates/turbovault/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Markdown and OFM SDK w/ MCP server that transforms your Obsidian vault into an intelligent knowledge system
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

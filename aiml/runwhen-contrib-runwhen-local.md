@@ -25,7 +25,7 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-RunWhen Local is an open-source project that offers a comprehensive troubleshooting cheat sheet specifically designed for Kubernetes environments. This tool aims to streamline the debugging process, providing developers and DevOps teams with a tailored set of solutions to common issues. By leveraging RunWhen Local, users can efficiently identify and resolve problems in their Kubernetes environments.
+RunWhen Local is an open-source project that offers a comprehensive troubleshooting guide specifically designed for Kubernetes environments. This project provides a tailored cheat sheet to help users navigate and resolve common issues in their Kubernetes settings. By leveraging RunWhen Local, developers can streamline their debugging process and improve the overall efficiency of their Kubernetes operations.
 
 ---
 

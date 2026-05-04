@@ -1,6 +1,6 @@
 # KudoAI/chatgpt.js
 
-[![Stars](https://img.shields.io/github/stars/KudoAI/chatgpt.js?style=flat-square&color=yellow)](https://github.com/KudoAI/chatgpt.js/stargazers) [![Forks](https://img.shields.io/github/forks/KudoAI/chatgpt.js?style=flat-square&color=blue)](https://github.com/KudoAI/chatgpt.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KudoAI/chatgpt.js?style=flat-square&color=yellow)](https://github.com/KudoAI/chatgpt.js/stargazers) [![Forks](https://img.shields.io/github/forks/KudoAI/chatgpt.js?style=flat-square&color=blue)](https://github.com/KudoAI/chatgpt.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 A powerful, open source JavaScript library for ChatGPT
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

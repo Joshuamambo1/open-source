@@ -1,6 +1,6 @@
 # ricardoaponte/sensiblejs
 
-[![Stars](https://img.shields.io/github/stars/ricardoaponte/sensiblejs?style=flat-square&color=yellow)](https://github.com/ricardoaponte/sensiblejs/stargazers) [![Forks](https://img.shields.io/github/forks/ricardoaponte/sensiblejs?style=flat-square&color=blue)](https://github.com/ricardoaponte/sensiblejs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ricardoaponte/sensiblejs?style=flat-square&color=yellow)](https://github.com/ricardoaponte/sensiblejs/stargazers) [![Forks](https://img.shields.io/github/forks/ricardoaponte/sensiblejs?style=flat-square&color=blue)](https://github.com/ricardoaponte/sensiblejs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Reactive UI in ~10KB. No build step. No virtual DOM. No dependencies. Just HTML attributes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

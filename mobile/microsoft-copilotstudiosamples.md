@@ -1,6 +1,6 @@
 # microsoft/CopilotStudioSamples
 
-[![Stars](https://img.shields.io/github/stars/microsoft/CopilotStudioSamples?style=flat-square&color=yellow)](https://github.com/microsoft/CopilotStudioSamples/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/CopilotStudioSamples?style=flat-square&color=blue)](https://github.com/microsoft/CopilotStudioSamples/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/CopilotStudioSamples?style=flat-square&color=yellow)](https://github.com/microsoft/CopilotStudioSamples/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/CopilotStudioSamples?style=flat-square&color=blue)](https://github.com/microsoft/CopilotStudioSamples/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 735 |
 | 🍴 **Forks** | 471 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

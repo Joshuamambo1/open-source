@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-This project is an open-source, 4-week hackathon focused on real-world debugging skills, moving away from the traditional LeetCode problem-solving approach. The project aims to provide a more practical and applicable experience for developers, helping them develop essential debugging skills for real-world applications. By focusing on real-world debugging, this hackathon offers a valuable learning opportunity for frontend developers.
+The "4-Week Real-World Debugging Hackathon" is an open-source project that shifted the focus of traditional hackathons from solving Leetcode problems to tackling real-world debugging challenges. This initiative aims to bridge the gap between theoretical knowledge and practical problem-solving skills in the field of frontend development. By offering a unique alternative to traditional hackathons, this project encourages developers to hone their debugging skills in a more applicable and engaging way.
 
 ---
 

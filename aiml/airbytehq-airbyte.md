@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=flat-square&color=yellow)](https://github.com/airbytehq/airbyte/stargazers) [![Forks](https://img.shields.io/github/forks/airbytehq/airbyte?style=flat-square&color=blue)](https://github.com/airbytehq/airbyte/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
+> Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 
 ## 📊 Stats
 

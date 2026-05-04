@@ -1,6 +1,6 @@
 # SirDiabo/N64RecompLauncher
 
-[![Stars](https://img.shields.io/github/stars/SirDiabo/N64RecompLauncher?style=flat-square&color=yellow)](https://github.com/SirDiabo/N64RecompLauncher/stargazers) [![Forks](https://img.shields.io/github/forks/SirDiabo/N64RecompLauncher?style=flat-square&color=blue)](https://github.com/SirDiabo/N64RecompLauncher/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SirDiabo/N64RecompLauncher?style=flat-square&color=yellow)](https://github.com/SirDiabo/N64RecompLauncher/stargazers) [![Forks](https://img.shields.io/github/forks/SirDiabo/N64RecompLauncher?style=flat-square&color=blue)](https://github.com/SirDiabo/N64RecompLauncher/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A Launcher that Downloads and Updates N64 Recompilations
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 644 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 648 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -30,11 +30,11 @@
 | 20 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 537 | C | 56/100 |
 | 21 | [pimutils/todoman](./pimutils-todoman.md) | ⭐ 575 | Python | 55/100 |
 | 22 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 740 | Go | 54/100 |
-| 23 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 661 | Shell | 52/100 |
-| 24 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | TypeScript | 49/100 |
-| 25 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
-| 26 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 464 | Rust | 48/100 |
-| 27 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 47/100 |
+| 23 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 663 | Shell | 52/100 |
+| 24 | [htlin222/dotfiles](./htlin222-dotfiles.md) | ⭐ 76 | Lua | 51/100 |
+| 25 | [samueljun/tomato-clock](./samueljun-tomato-clock.md) | ⭐ 354 | TypeScript | 49/100 |
+| 26 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 475 | Go | 48/100 |
+| 27 | [ralfbiedert/interoptopus](./ralfbiedert-interoptopus.md) | ⭐ 464 | Rust | 48/100 |
 | 28 | [getsentry/relay](./getsentry-relay.md) | ⭐ 376 | Rust | 46/100 |
 | 29 | [eph5xx/tweakidea](./eph5xx-tweakidea.md) | ⭐ 14 | Python | 46/100 |
 | 30 | [guardian/coverdrop](./guardian-coverdrop.md) | ⭐ 336 | Rust | 44/100 |

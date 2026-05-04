@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-This open-source project provides a Docker Compose stack for deploying wger, a web-based system for managing workout and exercise routines. The project aims to simplify the deployment process by offering a pre-configured environment for wger, allowing users to quickly set up and run the application. It is a useful tool for developers and users looking to deploy wger in a containerized environment.
+The wger-project/docker repository provides a pre-configured Docker Compose stack for deploying the wger project, a comprehensive software solution for managing workouts and exercise routines. With this stack, users can easily set up and run a wger instance on their local machine or in a cloud environment, streamlining the development and testing process. This project offers a convenient and efficient way to deploy and manage wger applications.
 
 ---
 

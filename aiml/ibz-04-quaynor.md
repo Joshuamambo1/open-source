@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project facilitates the creation of agents utilizing local Large Language Models (LLMs), making it easier to develop and apply AI applications. By leveraging local LLMs, developers can reduce reliance on cloud-based services and improve data security and control. This project offers a streamlined approach to building AI-powered agents.
+Here's a brief summary for the open-source project:
+
+This open-source project provides an intuitive way to create intelligent agents utilizing local large language models (LLMs), making it easy to integrate AI capabilities into various applications. By leveraging local LLMs, developers can build more efficient and secure AI-powered solutions with minimal reliance on cloud-based services. The project aims to bridge the gap between AI researchers and developers, enabling them to create more effective and localized intelligent agents.
 
 ---
 

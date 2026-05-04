@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-The Shopify/toxiproxy project is an open-source TCP proxy designed to simulate real-world network and system conditions for chaos and resiliency testing. This tool enables developers to test their applications' ability to handle various failure scenarios, such as network latency, packet loss, and connection timeouts, in a controlled and repeatable manner. By emulating these conditions, toxiproxy helps developers improve the reliability and fault-tolerance of their systems.
+Here's a brief summary for the Shopify/toxiproxy project:
+
+Toxiproxy is an open-source TCP proxy that enables developers to simulate various network and system conditions, facilitating chaos and resiliency testing for their applications. By mimicking real-world scenarios such as latency, packet loss, and connection resets, Toxiproxy helps teams assess their system's robustness and identify areas for improvement. This tool is a valuable resource for ensuring the reliability and resilience of applications in a controlled and repeatable manner.
 
 ---
 

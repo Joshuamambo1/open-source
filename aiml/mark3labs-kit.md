@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-KIT (Knowledge Inference Tool) is an open-source, lightweight AI agent designed to assist with coding tasks. This AI-powered tool leverages machine learning capabilities to provide developers with intuitive support, allowing them to focus on coding and problem-solving. By incorporating KIT into your workflow, you can streamline your coding process and improve overall productivity.
+KIT (Knowledge Inference Tool) is an open-source, lightweight AI agent designed to facilitate coding by leveraging AI capabilities. This tool utilizes machine learning to provide developers with intelligent coding assistance, enhancing productivity and efficiency in software development. By integrating KIT into their workflow, developers can streamline their coding process and focus on more complex aspects of their projects.
 
 ---
 

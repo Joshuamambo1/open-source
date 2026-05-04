@@ -25,7 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-elva-labs/awsesh is an open-source beta SDK and credential manager that simplifies interactions with AWS services. It provides a unified interface for managing AWS sessions and credentials, making it easier to integrate AWS functionality into applications. This project supports developers in efficiently handling AWS operations.
+Here's a brief summary for the open-source project elva-labs/awsesh:
+
+elva-labs/awsesh is an open-source, beta-level AWS session and credential manager SDK. This tool provides a convenient way to manage AWS sessions and credentials, making it easier for developers to interact with AWS services in their applications. With awsesh, developers can simplify the process of handling AWS authentication and sessions.
 
 ---
 

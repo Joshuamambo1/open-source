@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Audion is an open-source music sequencing language that allows users to create and manage musical compositions in a unique and expressive way. It provides a flexible and customizable framework for sequencing and arranging audio, making it an attractive option for musicians, sound designers, and developers. With Audion, users can bring their musical ideas to life and experiment with new sounds and techniques.
+Audion is an open-source music sequencing language designed to simplify the process of creating music. This project allows users to write music in a text-based format, using a programming-like approach to define melodies, rhythms, and harmonies. By leveraging a scripting language, Audion enables musicians and developers to collaborate on music composition in a unique and innovative way.
 
 ---
 

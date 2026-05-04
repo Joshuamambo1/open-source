@@ -1,0 +1,32 @@
+# sepandhaghighi/nafas
+
+[![Stars](https://img.shields.io/github/stars/sepandhaghighi/nafas?style=flat-square&color=yellow)](https://github.com/sepandhaghighi/nafas/stargazers) [![Forks](https://img.shields.io/github/forks/sepandhaghighi/nafas?style=flat-square&color=blue)](https://github.com/sepandhaghighi/nafas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+
+> 🧘‍♂️ Breathing Gymnastics Application
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 195 |
+| 🍴 **Forks** | 9 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+AI/ML · DevTools
+
+## 📝 Summary
+
+The nafas project is an open-source Breathing Gymnastics Application designed to improve respiratory health and well-being. This application utilizes AI/ML techniques to guide users through various breathing exercises, providing a personalized and immersive experience. By leveraging AI and machine learning, nafas aims to make breathing exercises more accessible and effective for users worldwide.
+
+---
+
+<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/sepandhaghighi/nafas) · [← Back to AI/ML](./README.md)</sub>

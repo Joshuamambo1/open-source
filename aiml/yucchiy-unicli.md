@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-UniCli is an open-source command-line interface (CLI) tool that empowers users to control the Unity Editor from the terminal. This tool enables both humans and AI agents to automate Unity tasks, such as compilations, tests, and editor commands, streamlining development workflows and enhancing productivity. With UniCli, developers can harness the power of the terminal to simplify and accelerate their Unity development processes.
+UniCli is an open-source command-line tool that enables seamless interaction with the Unity Editor, allowing users to run compilations, tests, and editor commands from the terminal. This automation capability empowers both humans and AI agents to streamline development workflows and increase productivity. By leveraging UniCli, developers can reduce manual errors and improve collaboration through standardized terminal-based workflows.
 
 ---
 

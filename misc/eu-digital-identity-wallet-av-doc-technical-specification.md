@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The PR: Restoring Privacy and Freedom project aims to promote individual rights to privacy and freedom in the digital age. It is an open-source initiative that likely seeks to address various issues related to online surveillance, data protection, and censorship. By working together, the community behind this project strives to create tools and solutions that empower users to regain control over their digital lives.
+Here's a brief summary of the open-source project "PR: Restoring Privacy and Freedom":
+
+PR: Restoring Privacy and Freedom is an open-source initiative aimed at protecting individual rights and freedoms in the digital age. The project focuses on creating tools and solutions that promote online anonymity, data security, and user privacy. By leveraging open-source technology, PR seeks to empower users with the means to reclaim control over their digital lives.
 
 ---
 

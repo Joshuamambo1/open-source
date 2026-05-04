@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the VirtusLab/cellar project:
+Here's a brief summary of the VirtusLab/cellar project:
 
-Cellar is an open-source, command-line interface (CLI) tool that enables developers to effortlessly query and inspect Maven JVM dependencies. Leveraging Coursier and tasty-query, it provides features such as symbol signature retrieval, package listing, name-based searching, and dependency tree inspection. This tool empowers AI/ML and backend developers with a convenient and powerful way to explore and understand their dependencies.
+Cellar is an open-source CLI tool designed to simplify interactions with the public API of Maven JVM dependencies. It enables developers to query and analyze dependencies using features such as symbol signature retrieval, package listing, and dependency tree inspection. Leveraging Coursier and tasty-query, Cellar streamlines the process of working with dependencies in AI/ML and backend development.
 
 ---
 

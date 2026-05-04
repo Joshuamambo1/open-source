@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The dtop project is an open-source terminal dashboard designed to provide a unified view of Docker monitoring across multiple hosts. It seamlessly integrates with Dozzle, a Docker logging service, to offer real-time logging and monitoring capabilities. This tool enables DevOps teams to efficiently manage and troubleshoot Dockerized applications across their infrastructure.
+The dtop project is an open-source terminal-based dashboard for monitoring Docker instances across multiple hosts. It integrates with Dozzle, a real-time Docker log streaming service, to provide a comprehensive view of Docker activity. This tool enables developers and DevOps professionals to efficiently monitor and manage their Docker deployments from the command line.
 
 ---
 

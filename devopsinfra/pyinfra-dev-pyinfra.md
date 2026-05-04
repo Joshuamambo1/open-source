@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-PyInfra 3.8.0 is now available as an open-source project, offering improved DevOps and infrastructure management capabilities. This release aims to enhance the functionality and usability of the tool, catering to the needs of developers and infrastructure professionals alike. By leveraging PyInfra, users can streamline their infrastructure management processes and improve overall efficiency.
+PyInfra, a popular open-source project for infrastructure automation, has released a new version 3.8.0. This update aims to improve the tool's efficiency and usability, making it easier for developers to manage and automate their infrastructure configurations. With the latest release, users can expect enhanced features and bug fixes to streamline their DevOps workflows.
 
 ---
 

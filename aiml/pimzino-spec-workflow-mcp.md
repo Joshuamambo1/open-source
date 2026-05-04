@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Pimzino/spec-workflow-mcp project:
+Here's a brief summary for the Pimzino/spec-workflow-mcp open-source project:
 
-Pimzino/spec-workflow-mcp is an open-source Model Context Protocol (MCP) server that facilitates structured spec-driven development workflows for AI-assisted software development. This project provides a real-time web dashboard and integrates with Visual Studio Code (VSCode) via an extension, enabling seamless monitoring and management of project progress directly within the development environment. By leveraging AI-powered tools, this platform aims to enhance collaboration and efficiency in software development workflows.
+Pimzino/spec-workflow-mcp is an open-source Model Context Protocol (MCP) server that streamlines AI-assisted software development through a structured spec-driven development workflow. This project provides a real-time web dashboard and a VSCode extension, allowing developers to monitor and manage project progress directly within their development environment. By leveraging AI technology, it enhances the software development process with increased efficiency and productivity.
 
 ---
 

@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-ClickFS is an open-source project that enables users to mount ClickHouse, a columnar database management system, as a read-only filesystem. This allows developers to interact with ClickHouse data as if it were a traditional filesystem, simplifying data access and analysis. By providing a filesystem interface, ClickFS streamlines the process of querying and extracting data from ClickHouse.
+ClickFS is an open-source project that enables the mounting of ClickHouse as a read-only filesystem, providing developers with a convenient and unified way to interact with ClickHouse data. This tool allows users to access ClickHouse data using standard filesystem operations, streamlining data integration and analysis workflows. By leveraging ClickFS, developers can simplify their interactions with ClickHouse and focus on more complex tasks.
 
 ---
 

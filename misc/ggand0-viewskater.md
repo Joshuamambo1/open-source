@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "ggand0/viewskater":
-
-Viewskater is an open-source, high-performance image viewer designed for efficiently browsing large collections of images. This versatile tool provides a streamlined interface for quickly navigating through and managing extensive libraries of visuals. With its optimized architecture, Viewskater enables users to explore and interact with their image collections in a seamless and intuitive manner.
+ViewSkater is an open-source, high-performance image viewer designed for efficiently browsing large collections of images. This tool enables users to quickly navigate and visualize numerous images without compromising on speed or functionality. By leveraging a streamlined interface and optimized features, ViewSkater simplifies image management and exploration.
 
 ---
 

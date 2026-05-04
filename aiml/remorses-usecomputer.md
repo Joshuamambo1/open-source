@@ -27,7 +27,7 @@ AI/ML · DevTools
 
 Here's a brief summary for the open-source project:
 
-"remorses/usecomputer" is an open-source, fast computer automation CLI designed for AI agents. This powerful tool enables AI agents to control and interact with desktops through a range of actions, including screenshots, clicks, typing, scrolling, and more. Suitable for AI/ML development and automation tasks, it provides a flexible and efficient way to automate desktop interactions.
+"remorses/usecomputer is an open-source, fast computer automation CLI designed for AI agents. It enables control of any desktop using various interactions such as screenshots, clicks, typing, scrolling, and more, providing a powerful tool for automating tasks. This project is ideal for developers and researchers working with AI/ML applications."
 
 ---
 

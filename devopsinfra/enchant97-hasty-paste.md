@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Hasty-Paste is an open-source project designed to facilitate rapid data transfer and pasting, ideal for use in DevOps and infrastructure environments. This tool allows users to efficiently transfer and share data, streamlining workflows and improving collaboration. By enabling fast and seamless data exchange, Hasty-Paste enhances productivity and reduces the time spent on data-related tasks.
+Hasty-Paste is an open-source DevOps tool designed for efficient clipboard management. This project enables users to paste multiple items simultaneously, streamlining tasks and reducing the need for repetitive copying and pasting. By automating this process, Hasty-Paste aims to save time and increase productivity in various workflows.
 
 ---
 

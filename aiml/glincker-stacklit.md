@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The open-source project "stacklit" revolutionizes AI development by providing instant codebase context with a single command. This tool significantly reduces exploration time, replacing thousands of tokens of manual configuration with just 250 tokens. It auto-configures Claude Code, Cursor, and Aider for seamless integration.
+The stacklit project is an open-source tool that significantly speeds up the development process by providing AI agents with instant codebase context. With a single command, it auto-configures essential tools like Claude Code, Cursor, and Aider, reducing the need for tedious exploration and setup. This results in a substantial reduction of effort, from hundreds of tokens to just a few.
 
 ---
 

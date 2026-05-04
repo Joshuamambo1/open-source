@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Corteza is an open-source, low-code platform that enables developers and non-technical users to build custom applications without extensive coding knowledge. This platform provides a user-friendly interface for creating, customizing, and deploying business applications, making it an ideal solution for organizations seeking to streamline their operations and enhance productivity. With Corteza, users can create data-driven applications, workflows, and integrations, all while maintaining flexibility and scalability.
+The Corteza project is an open-source, low-code platform that empowers users to build custom business applications without extensive coding knowledge. This versatile platform provides a user-friendly interface for designing, deploying, and managing applications, making it an ideal solution for businesses looking to streamline their operations and improve productivity. By leveraging Corteza, organizations can rapidly create tailored applications to meet their unique needs.
 
 ---
 

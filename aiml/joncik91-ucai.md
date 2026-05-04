@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The ucai project is an open-source plugin for Claude Code, designed to eliminate the need for external frameworks by leveraging the tool's native architecture. This plugin provides a comprehensive solution to common problems, rivaling community frameworks such as GSD, BMAD, Ralph, and Agent OS. By utilizing native tools, ucai streamlines workflows and enhances efficiency for AI/ML development and DevTools.
+The 'ucai' project is an open-source plugin for Claude Code, which aims to replicate the functionality of existing community frameworks like GSD, BMAD, Ralph, and Agent OS, utilizing Claude Code's native architecture for improved efficiency. This plugin offers an alternative solution to the mentioned frameworks, providing a more native integration with Claude Code.
 
 ---
 

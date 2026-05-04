@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The cargo-clone project is an open-source tool that provides a cargo subcommand for fetching the source code of a Rust crate. This allows developers to easily clone or replicate the codebase of any public Rust crate, facilitating education, research, and comparison purposes. The project aims to simplify the process of accessing and analyzing Rust crate implementations.
+The cargo-clone subcommand is a utility for fetching the source code of a Rust crate. It allows users to easily retrieve the code of a crate, making it easier to inspect, test, or even create a local clone of a package. This tool simplifies the process of accessing and working with Rust crate source code.
 
 ---
 

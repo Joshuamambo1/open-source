@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**132 projects** in this category.
+**133 projects** in this category.
 
 ## Projects
 
@@ -108,38 +108,39 @@
 | 98 | [LinOTP/LinOTP](./linotp-linotp.md) | ⭐ 546 | Python | 48/100 |
 | 99 | [apache/casbin-caddy-authz](./apache-casbin-caddy-authz.md) | ⭐ 249 | Go | 48/100 |
 | 100 | [threefoldtech/mycelium](./threefoldtech-mycelium.md) | ⭐ 178 | Rust | 48/100 |
-| 101 | [Mister-iks/pcybox-orbis](./mister-iks-pcybox-orbis.md) | ⭐ 56 | JavaScript | 47/100 |
-| 102 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 765 | — | 47/100 |
-| 103 | [falcosecurity/plugins](./falcosecurity-plugins.md) | ⭐ 114 | Go | 47/100 |
-| 104 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 47/100 |
-| 105 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 167 | Go | 47/100 |
-| 106 | [lukaszraczylo/traefikoidc](./lukaszraczylo-traefikoidc.md) | ⭐ 185 | Go | 47/100 |
-| 107 | [Shopify/ejson](./shopify-ejson.md) | ⭐ 1.5k | Go | 47/100 |
-| 108 | [404tk/cloudtoolkit](./404tk-cloudtoolkit.md) | ⭐ 107 | Go | 47/100 |
-| 109 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 499 | Go | 45/100 |
-| 110 | [Tatsh/dbeaver-creds](./tatsh-dbeaver-creds.md) | ⭐ 33 | C | 45/100 |
-| 111 | [powdr-labs/powdr](./powdr-labs-powdr.md) | ⭐ 492 | Rust | 45/100 |
-| 112 | [Snowflake-Labs/sansshell](./snowflake-labs-sansshell.md) | ⭐ 122 | Go | 45/100 |
-| 113 | [parallaxsecond/parsec](./parallaxsecond-parsec.md) | ⭐ 508 | Rust | 45/100 |
-| 114 | [cloudflare/svg-hush](./cloudflare-svg-hush.md) | ⭐ 421 | Rust | 44/100 |
-| 115 | [tkhq/qos](./tkhq-qos.md) | ⭐ 105 | Rust | 44/100 |
-| 116 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 455 | — | 44/100 |
-| 117 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 408 | C# | 44/100 |
-| 118 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 44/100 |
-| 119 | [nuxt/hints](./nuxt-hints.md) | ⭐ 334 | TypeScript | 43/100 |
-| 120 | [ex-machina-co/opencode-anthropic-auth](./ex-machina-co-opencode-anthropic-auth.md) | ⭐ 381 | TypeScript | 43/100 |
-| 121 | [rushter/hexora](./rushter-hexora.md) | ⭐ 150 | Rust | 43/100 |
-| 122 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 246 | Rust | 43/100 |
-| 123 | [foundryzero/llef](./foundryzero-llef.md) | ⭐ 483 | Python | 43/100 |
-| 124 | [canonical/authd](./canonical-authd.md) | ⭐ 289 | Go | 43/100 |
-| 125 | [bartei/git-agecrypt](./bartei-git-agecrypt.md) | ⭐ 10 | Rust | 42/100 |
-| 126 | [mytech-today-now/OO](./mytech-today-now-oo.md) | ⭐ 3 | PowerShell | 42/100 |
-| 127 | [facebookincubator/TTPForge](./facebookincubator-ttpforge.md) | ⭐ 420 | Go | 40/100 |
-| 128 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 22 | TypeScript | 40/100 |
-| 129 | [depado/gin-auth-example](./depado-gin-auth-example.md) | ⭐ 185 | Go | 38/100 |
-| 130 | [ItalyPaleAle/traefik-forward-auth](./italypaleale-traefik-forward-auth.md) | ⭐ 104 | Go | 37/100 |
-| 131 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 148 | Rust | 37/100 |
-| 132 | [DslsDZC/HIC](./dslsdzc-hic.md) | ⭐ 13 | C | 36/100 |
+| 101 | [MixinNetwork/kraken](./mixinnetwork-kraken.md) | ⭐ 351 | Go | 47/100 |
+| 102 | [Mister-iks/pcybox-orbis](./mister-iks-pcybox-orbis.md) | ⭐ 56 | JavaScript | 47/100 |
+| 103 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 765 | — | 47/100 |
+| 104 | [falcosecurity/plugins](./falcosecurity-plugins.md) | ⭐ 114 | Go | 47/100 |
+| 105 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 47/100 |
+| 106 | [PrivateCaptcha/PrivateCaptcha](./privatecaptcha-privatecaptcha.md) | ⭐ 167 | Go | 47/100 |
+| 107 | [lukaszraczylo/traefikoidc](./lukaszraczylo-traefikoidc.md) | ⭐ 185 | Go | 47/100 |
+| 108 | [Shopify/ejson](./shopify-ejson.md) | ⭐ 1.5k | Go | 47/100 |
+| 109 | [404tk/cloudtoolkit](./404tk-cloudtoolkit.md) | ⭐ 107 | Go | 47/100 |
+| 110 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 499 | Go | 45/100 |
+| 111 | [Tatsh/dbeaver-creds](./tatsh-dbeaver-creds.md) | ⭐ 33 | C | 45/100 |
+| 112 | [powdr-labs/powdr](./powdr-labs-powdr.md) | ⭐ 492 | Rust | 45/100 |
+| 113 | [Snowflake-Labs/sansshell](./snowflake-labs-sansshell.md) | ⭐ 122 | Go | 45/100 |
+| 114 | [parallaxsecond/parsec](./parallaxsecond-parsec.md) | ⭐ 508 | Rust | 45/100 |
+| 115 | [cloudflare/svg-hush](./cloudflare-svg-hush.md) | ⭐ 421 | Rust | 44/100 |
+| 116 | [tkhq/qos](./tkhq-qos.md) | ⭐ 105 | Rust | 44/100 |
+| 117 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 455 | — | 44/100 |
+| 118 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 408 | C# | 44/100 |
+| 119 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 44/100 |
+| 120 | [nuxt/hints](./nuxt-hints.md) | ⭐ 334 | TypeScript | 43/100 |
+| 121 | [ex-machina-co/opencode-anthropic-auth](./ex-machina-co-opencode-anthropic-auth.md) | ⭐ 381 | TypeScript | 43/100 |
+| 122 | [rushter/hexora](./rushter-hexora.md) | ⭐ 150 | Rust | 43/100 |
+| 123 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 246 | Rust | 43/100 |
+| 124 | [foundryzero/llef](./foundryzero-llef.md) | ⭐ 483 | Python | 43/100 |
+| 125 | [canonical/authd](./canonical-authd.md) | ⭐ 289 | Go | 43/100 |
+| 126 | [bartei/git-agecrypt](./bartei-git-agecrypt.md) | ⭐ 10 | Rust | 42/100 |
+| 127 | [mytech-today-now/OO](./mytech-today-now-oo.md) | ⭐ 3 | PowerShell | 42/100 |
+| 128 | [facebookincubator/TTPForge](./facebookincubator-ttpforge.md) | ⭐ 420 | Go | 40/100 |
+| 129 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 22 | TypeScript | 40/100 |
+| 130 | [depado/gin-auth-example](./depado-gin-auth-example.md) | ⭐ 185 | Go | 38/100 |
+| 131 | [ItalyPaleAle/traefik-forward-auth](./italypaleale-traefik-forward-auth.md) | ⭐ 104 | Go | 37/100 |
+| 132 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 148 | Rust | 37/100 |
+| 133 | [DslsDZC/HIC](./dslsdzc-hic.md) | ⭐ 13 | C | 36/100 |
 
 ---
 

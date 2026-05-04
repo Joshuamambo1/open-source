@@ -25,9 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The tfupdate tool is a simple, open-source utility designed to streamline the process of updating version constraints in Terraform and OpenTofu configurations. This tool helps developers and DevOps teams maintain up-to-date dependencies, ensuring seamless integration with the latest infrastructure and AI/ML services. By automating version updates, tfupdate saves time and reduces the risk of configuration drift.
+The minamijoyo/tfupdate project is an open-source tool designed to simplify the process of updating version constraints in Terraform and OpenTofu configurations. This tool helps maintain consistency and ensures that dependencies are up-to-date, making it easier to manage complex infrastructure as code. By streamlining version updates, tfupdate enhances the efficiency and reliability of DevOps/Infra workflows.
 
 ---
 

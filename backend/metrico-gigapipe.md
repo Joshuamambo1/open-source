@@ -25,9 +25,9 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the metrico/gigapipe project:
+Here's a brief summary of the metrico/gigapipe project:
 
-Gigapipe is an open-source, cloud-native observability warehouse that provides a unified platform for monitoring and logging. It serves as a drop-in alternative to popular tools like Grafana LGTMP and offers all-in-one support for OpenTelemetry, Loki, Prometheus, Tempo, and Pyroscope. This indie solution enables developers to easily monitor and analyze their applications in a fast, light, and on-premises manner.
+Gigapipe is an open-source, cloud-native observability warehouse that provides a drop-in alternative to Grafana's LGTMP. It offers a comprehensive set of features, including support for OpenTelemetry, Loki, Prometheus, Tempo, and Pyroscope, making it a powerful all-in-one solution for monitoring and logging. As a lightweight and fast on-prem alternative, Gigapipe simplifies observability for developers and teams.
 
 ---
 

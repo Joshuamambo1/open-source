@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project is a JAX reimplementation of Karpathy's NanoChat, a minimalistic chatbot, with a focus on exploring the capabilities and limitations of XLA (Accelerated Linear Algebra) in neural network acceleration. The project aims to demonstrate the benefits and drawbacks of using XLA for AI/ML tasks. By comparing the results with the original implementation, it provides valuable insights into the strengths and weaknesses of XLA in a real-world setting.
+This open-source project is an implementation of Karpathy's NanoChat in JAX, aiming to compare and contrast the performance of XLA (Accelerated Linear Algebra) in this context. By rebuilding the original chatbot, the project evaluates the strengths and weaknesses of XLA in achieving efficient machine learning computations. This project offers valuable insights for developers working with AI/ML and frontend technologies.
 
 ---
 

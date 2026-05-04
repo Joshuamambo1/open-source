@@ -25,7 +25,7 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-EduClopez/ui-craft is an open-source project that empowers developers to design high-quality interfaces for AI agents, mirroring the craftsmanship of a skilled artisan. This project combines expertise in AI, frontend development, and design to create intuitive and visually appealing interfaces that elevate the user experience. By leveraging ui-craft, developers can craft sophisticated interfaces that bring AI-powered applications to life.
+"ui-craft is an open-source project that enables AI agents to design and build high-quality user interfaces with a focus on craft-level design principles. This project aims to bridge the gap between engineering and design skills for AI agents, allowing them to create intuitive and visually appealing interfaces. By leveraging ui-craft, developers and AI researchers can collaborate to create more effective and user-centered AI systems."
 
 ---
 

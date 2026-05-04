@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The Shield project is an open-source, standalone system designed to provide backup and restore capabilities for a wide range of data systems. This versatile tool allows users to easily manage their data, ensuring business continuity and minimizing potential losses due to data corruption or system failures. By supporting multiple data systems through its pluggable architecture, Shield offers a flexible and reliable solution for data protection.
+The shield project is an open-source system that enables backup and restore operations for a diverse range of data systems. This standalone platform offers a flexible and pluggable architecture, allowing it to support various data sources and formats. By providing a robust backup and restore solution, shield helps ensure data integrity and availability across multiple systems.
 
 ---
 

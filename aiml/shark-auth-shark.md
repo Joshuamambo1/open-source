@@ -1,17 +1,17 @@
 # shark-auth/shark
 
-[![Stars](https://img.shields.io/github/stars/shark-auth/shark?style=flat-square&color=yellow)](https://github.com/shark-auth/shark/stargazers) [![Forks](https://img.shields.io/github/forks/shark-auth/shark?style=flat-square&color=blue)](https://github.com/shark-auth/shark/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shark-auth/shark?style=flat-square&color=yellow)](https://github.com/shark-auth/shark/stargazers) [![Forks](https://img.shields.io/github/forks/shark-auth/shark?style=flat-square&color=blue)](https://github.com/shark-auth/shark/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Open Source Single Binary Authentication for the Agentic Era.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 6 |
+| 🍴 **Forks** | 1 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend · Security
+AI/ML · Security
 
 ## 📝 Summary
 

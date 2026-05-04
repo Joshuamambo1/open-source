@@ -1,6 +1,6 @@
 # agent-ecosystem/skill-validator
 
-[![Stars](https://img.shields.io/github/stars/agent-ecosystem/skill-validator?style=flat-square&color=yellow)](https://github.com/agent-ecosystem/skill-validator/stargazers) [![Forks](https://img.shields.io/github/forks/agent-ecosystem/skill-validator?style=flat-square&color=blue)](https://github.com/agent-ecosystem/skill-validator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agent-ecosystem/skill-validator?style=flat-square&color=yellow)](https://github.com/agent-ecosystem/skill-validator/stargazers) [![Forks](https://img.shields.io/github/forks/agent-ecosystem/skill-validator?style=flat-square&color=blue)](https://github.com/agent-ecosystem/skill-validator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Validate Skill content against Agent Skill specification, with additional content density and quality checks.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 126 |
+| ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # lucarp/terminalsync
 
-[![Stars](https://img.shields.io/github/stars/lucarp/terminalsync?style=flat-square&color=yellow)](https://github.com/lucarp/terminalsync/stargazers) [![Forks](https://img.shields.io/github/forks/lucarp/terminalsync?style=flat-square&color=blue)](https://github.com/lucarp/terminalsync/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lucarp/terminalsync?style=flat-square&color=yellow)](https://github.com/lucarp/terminalsync/stargazers) [![Forks](https://img.shields.io/github/forks/lucarp/terminalsync?style=flat-square&color=blue)](https://github.com/lucarp/terminalsync/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror a terminal to your phone — E2E encrypted, peer-to-peer, no daemon
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

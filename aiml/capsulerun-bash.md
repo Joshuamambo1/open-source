@@ -1,17 +1,17 @@
 # capsulerun/bash
 
-[![Stars](https://img.shields.io/github/stars/capsulerun/bash?style=flat-square&color=yellow)](https://github.com/capsulerun/bash/stargazers) [![Forks](https://img.shields.io/github/forks/capsulerun/bash?style=flat-square&color=blue)](https://github.com/capsulerun/bash/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/capsulerun/bash?style=flat-square&color=yellow)](https://github.com/capsulerun/bash/stargazers) [![Forks](https://img.shields.io/github/forks/capsulerun/bash?style=flat-square&color=blue)](https://github.com/capsulerun/bash/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Sandboxed bash for agents. Full state capture on every run.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

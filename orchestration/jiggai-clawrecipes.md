@@ -1,6 +1,6 @@
 # JIGGAI/ClawRecipes
 
-[![Stars](https://img.shields.io/github/stars/JIGGAI/ClawRecipes?style=flat-square&color=yellow)](https://github.com/JIGGAI/ClawRecipes/stargazers) [![Forks](https://img.shields.io/github/forks/JIGGAI/ClawRecipes?style=flat-square&color=blue)](https://github.com/JIGGAI/ClawRecipes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JIGGAI/ClawRecipes?style=flat-square&color=yellow)](https://github.com/JIGGAI/ClawRecipes/stargazers) [![Forks](https://img.shields.io/github/forks/JIGGAI/ClawRecipes?style=flat-square&color=blue)](https://github.com/JIGGAI/ClawRecipes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Save 120+ Hours of Setup Pain (I did it for you) – Launch Your OpenClaw Agent Teams with 1 Command (15+ Recipes)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 98 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

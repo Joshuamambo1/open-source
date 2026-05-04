@@ -21,7 +21,7 @@
 | 11 | [sub-store-org/Sub-Store](./sub-store-org-sub-store.md) | ⭐ 9.4k | JavaScript | 100/100 |
 | 12 | [knadh/listmonk](./knadh-listmonk.md) | ⭐ 19.9k | Go | 100/100 |
 | 13 | [99designs/gqlgen](./99designs-gqlgen.md) | ⭐ 10.7k | Go | 99/100 |
-| 14 | [7Sageer/sublink-worker](./7sageer-sublink-worker.md) | ⭐ 4.6k | JavaScript | 97/100 |
+| 14 | [7Sageer/sublink-worker](./7sageer-sublink-worker.md) | ⭐ 4.6k | JavaScript | 98/100 |
 | 15 | [FreeTubeApp/FreeTube](./freetubeapp-freetube.md) | ⭐ 20.7k | Vue | 97/100 |
 | 16 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 96/100 |
 | 17 | [getlago/lago](./getlago-lago.md) | ⭐ 9.6k | Go | 94/100 |
@@ -58,8 +58,8 @@
 | 48 | [stripe/stripe-cli](./stripe-stripe-cli.md) | ⭐ 2k | Go | 61/100 |
 | 49 | [rynfar/meridian](./rynfar-meridian.md) | ⭐ 1.1k | TypeScript | 60/100 |
 | 50 | [heyhuynhgiabuu/proxypal](./heyhuynhgiabuu-proxypal.md) | ⭐ 1.1k | TypeScript | 60/100 |
-| 51 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 1.2k | C# | 59/100 |
-| 52 | [beam-community/stripity-stripe](./beam-community-stripity-stripe.md) | ⭐ 1.1k | Elixir | 59/100 |
+| 51 | [beam-community/stripity-stripe](./beam-community-stripity-stripe.md) | ⭐ 1.1k | Elixir | 59/100 |
+| 52 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 1.2k | C# | 59/100 |
 | 53 | [SolidInvoice/SolidInvoice](./solidinvoice-solidinvoice.md) | ⭐ 878 | PHP | 58/100 |
 | 54 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
 | 55 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.1k | Rust | 58/100 |
@@ -80,12 +80,12 @@
 | 70 | [open-condo-software/condo](./open-condo-software-condo.md) | ⭐ 338 | JavaScript | 54/100 |
 | 71 | [shetabit/payment](./shetabit-payment.md) | ⭐ 939 | PHP | 54/100 |
 | 72 | [crafter-station/elements](./crafter-station-elements.md) | ⭐ 495 | TypeScript | 54/100 |
-| 73 | [raystack/frontier](./raystack-frontier.md) | ⭐ 331 | Go | 53/100 |
-| 74 | [elC0mpa/aws-doctor](./elc0mpa-aws-doctor.md) | ⭐ 419 | Go | 53/100 |
-| 75 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
-| 76 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 383 | PHP | 53/100 |
-| 77 | [agentic-commerce-protocol/agentic-commerce-protocol](./agentic-commerce-protocol-agentic-commerce-protocol.md) | ⭐ 1.4k | JavaScript | 53/100 |
-| 78 | [PatWie/drafft-ink](./patwie-drafft-ink.md) | ⭐ 474 | Rust | 53/100 |
+| 73 | [PatWie/drafft-ink](./patwie-drafft-ink.md) | ⭐ 474 | Rust | 53/100 |
+| 74 | [raystack/frontier](./raystack-frontier.md) | ⭐ 331 | Go | 53/100 |
+| 75 | [elC0mpa/aws-doctor](./elc0mpa-aws-doctor.md) | ⭐ 419 | Go | 53/100 |
+| 76 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
+| 77 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 383 | PHP | 53/100 |
+| 78 | [agentic-commerce-protocol/agentic-commerce-protocol](./agentic-commerce-protocol-agentic-commerce-protocol.md) | ⭐ 1.4k | JavaScript | 53/100 |
 | 79 | [vibheksoni/free-ai](./vibheksoni-free-ai.md) | ⭐ 331 | Astro | 53/100 |
 | 80 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 177 | PHP | 53/100 |
 | 81 | [tddworks/asc-cli](./tddworks-asc-cli.md) | ⭐ 180 | Swift | 52/100 |
@@ -174,7 +174,7 @@
 | 164 | [stripe/link-cli](./stripe-link-cli.md) | ⭐ 438 | TypeScript | 39/100 |
 | 165 | [juspay/decision-engine](./juspay-decision-engine.md) | ⭐ 114 | Rust | 39/100 |
 | 166 | [entireio/git-sync](./entireio-git-sync.md) | ⭐ 381 | Go | 39/100 |
-| 167 | [raine/claude-code-proxy](./raine-claude-code-proxy.md) | ⭐ 71 | TypeScript | 37/100 |
+| 167 | [raine/claude-code-proxy](./raine-claude-code-proxy.md) | ⭐ 72 | TypeScript | 37/100 |
 | 168 | [stripe/purl](./stripe-purl.md) | ⭐ 171 | Rust | 37/100 |
 
 ---

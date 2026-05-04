@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**136 projects** in this category.
+**137 projects** in this category.
 
 ## Projects
 
@@ -67,8 +67,8 @@
 | 57 | [hectorm/otpauth](./hectorm-otpauth.md) | ⭐ 1.4k | JavaScript | 61/100 |
 | 58 | [omegaee/my-fingerprint](./omegaee-my-fingerprint.md) | ⭐ 1.2k | TypeScript | 61/100 |
 | 59 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 60/100 |
-| 60 | [symfony/security-http](./symfony-security-http.md) | ⭐ 1.7k | PHP | 57/100 |
-| 61 | [Zibbp/ganymede](./zibbp-ganymede.md) | ⭐ 951 | Go | 57/100 |
+| 60 | [Zibbp/ganymede](./zibbp-ganymede.md) | ⭐ 951 | Go | 57/100 |
+| 61 | [symfony/security-http](./symfony-security-http.md) | ⭐ 1.7k | PHP | 57/100 |
 | 62 | [roddhjav/apparmor.d](./roddhjav-apparmor.d.md) | ⭐ 765 | Go | 57/100 |
 | 63 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 1.1k | Rust | 57/100 |
 | 64 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 507 | TypeScript | 57/100 |
@@ -124,10 +124,10 @@
 | 114 | [Tatsh/dbeaver-creds](./tatsh-dbeaver-creds.md) | ⭐ 33 | C | 45/100 |
 | 115 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 500 | Go | 45/100 |
 | 116 | [Snowflake-Labs/sansshell](./snowflake-labs-sansshell.md) | ⭐ 122 | Go | 45/100 |
-| 117 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 44/100 |
-| 118 | [cloudflare/svg-hush](./cloudflare-svg-hush.md) | ⭐ 421 | Rust | 44/100 |
-| 119 | [tkhq/qos](./tkhq-qos.md) | ⭐ 105 | Rust | 44/100 |
-| 120 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 408 | C# | 44/100 |
+| 117 | [FanTranslatorsInternational/Kuriimu2](./fantranslatorsinternational-kuriimu2.md) | ⭐ 408 | C# | 44/100 |
+| 118 | [TiltedLunar123/SIEMForge](./tiltedlunar123-siemforge.md) | ⭐ 1 | Python | 44/100 |
+| 119 | [cloudflare/svg-hush](./cloudflare-svg-hush.md) | ⭐ 421 | Rust | 44/100 |
+| 120 | [tkhq/qos](./tkhq-qos.md) | ⭐ 105 | Rust | 44/100 |
 | 121 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 44/100 |
 | 122 | [canonical/authd](./canonical-authd.md) | ⭐ 289 | Go | 43/100 |
 | 123 | [foundryzero/llef](./foundryzero-llef.md) | ⭐ 483 | Python | 43/100 |
@@ -136,14 +136,15 @@
 | 126 | [nuxt/hints](./nuxt-hints.md) | ⭐ 334 | TypeScript | 43/100 |
 | 127 | [ex-machina-co/opencode-anthropic-auth](./ex-machina-co-opencode-anthropic-auth.md) | ⭐ 382 | TypeScript | 43/100 |
 | 128 | [mytech-today-now/OO](./mytech-today-now-oo.md) | ⭐ 3 | PowerShell | 42/100 |
-| 129 | [bartei/git-agecrypt](./bartei-git-agecrypt.md) | ⭐ 10 | Rust | 42/100 |
-| 130 | [parallaxsecond/parsec](./parallaxsecond-parsec.md) | ⭐ 508 | Rust | 41/100 |
-| 131 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 22 | TypeScript | 40/100 |
-| 132 | [facebookincubator/TTPForge](./facebookincubator-ttpforge.md) | ⭐ 420 | Go | 40/100 |
-| 133 | [depado/gin-auth-example](./depado-gin-auth-example.md) | ⭐ 185 | Go | 38/100 |
-| 134 | [ItalyPaleAle/traefik-forward-auth](./italypaleale-traefik-forward-auth.md) | ⭐ 104 | Go | 37/100 |
-| 135 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 148 | Rust | 37/100 |
-| 136 | [DslsDZC/HIC](./dslsdzc-hic.md) | ⭐ 13 | C | 36/100 |
+| 129 | [Azure/go-ntlmssp](./azure-go-ntlmssp.md) | ⭐ 203 | Go | 42/100 |
+| 130 | [bartei/git-agecrypt](./bartei-git-agecrypt.md) | ⭐ 10 | Rust | 42/100 |
+| 131 | [parallaxsecond/parsec](./parallaxsecond-parsec.md) | ⭐ 508 | Rust | 41/100 |
+| 132 | [himself65/auth-spec](./himself65-auth-spec.md) | ⭐ 22 | TypeScript | 40/100 |
+| 133 | [facebookincubator/TTPForge](./facebookincubator-ttpforge.md) | ⭐ 420 | Go | 40/100 |
+| 134 | [depado/gin-auth-example](./depado-gin-auth-example.md) | ⭐ 185 | Go | 38/100 |
+| 135 | [ItalyPaleAle/traefik-forward-auth](./italypaleale-traefik-forward-auth.md) | ⭐ 104 | Go | 37/100 |
+| 136 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 148 | Rust | 37/100 |
+| 137 | [DslsDZC/HIC](./dslsdzc-hic.md) | ⭐ 13 | C | 36/100 |
 
 ---
 

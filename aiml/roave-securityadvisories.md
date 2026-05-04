@@ -1,6 +1,6 @@
 # Roave/SecurityAdvisories
 
-[![Stars](https://img.shields.io/github/stars/Roave/SecurityAdvisories?style=flat-square&color=yellow)](https://github.com/Roave/SecurityAdvisories/stargazers) [![Forks](https://img.shields.io/github/forks/Roave/SecurityAdvisories?style=flat-square&color=blue)](https://github.com/Roave/SecurityAdvisories/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Roave/SecurityAdvisories?style=flat-square&color=yellow)](https://github.com/Roave/SecurityAdvisories/stargazers) [![Forks](https://img.shields.io/github/forks/Roave/SecurityAdvisories?style=flat-square&color=blue)](https://github.com/Roave/SecurityAdvisories/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > :closed_lock_with_key: Security advisories as a simple composer exclusion list, updated daily
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

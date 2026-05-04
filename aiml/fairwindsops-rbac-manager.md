@@ -1,6 +1,6 @@
 # FairwindsOps/rbac-manager
 
-[![Stars](https://img.shields.io/github/stars/FairwindsOps/rbac-manager?style=flat-square&color=yellow)](https://github.com/FairwindsOps/rbac-manager/stargazers) [![Forks](https://img.shields.io/github/forks/FairwindsOps/rbac-manager?style=flat-square&color=blue)](https://github.com/FairwindsOps/rbac-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FairwindsOps/rbac-manager?style=flat-square&color=yellow)](https://github.com/FairwindsOps/rbac-manager/stargazers) [![Forks](https://img.shields.io/github/forks/FairwindsOps/rbac-manager?style=flat-square&color=blue)](https://github.com/FairwindsOps/rbac-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

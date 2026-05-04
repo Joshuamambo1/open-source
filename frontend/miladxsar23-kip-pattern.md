@@ -1,17 +1,17 @@
 # Miladxsar23/kip-pattern
 
-[![Stars](https://img.shields.io/github/stars/Miladxsar23/kip-pattern?style=flat-square&color=yellow)](https://github.com/Miladxsar23/kip-pattern/stargazers) [![Forks](https://img.shields.io/github/forks/Miladxsar23/kip-pattern?style=flat-square&color=blue)](https://github.com/Miladxsar23/kip-pattern/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Miladxsar23/kip-pattern?style=flat-square&color=yellow)](https://github.com/Miladxsar23/kip-pattern/stargazers) [![Forks](https://img.shields.io/github/forks/Miladxsar23/kip-pattern?style=flat-square&color=blue)](https://github.com/Miladxsar23/kip-pattern/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> 🛡️ Keep It Private (KIP) Pattern: An encapsulation-first component architecture for React to stop leaking internal logic and prevent God files.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Design
 
 ## 📝 Summary
 

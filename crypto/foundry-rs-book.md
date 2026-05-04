@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 945 |
-| 🍴 **Forks** | 973 |
+| 🍴 **Forks** | 974 |
 | 💻 **Language** | Solidity |
 | 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |

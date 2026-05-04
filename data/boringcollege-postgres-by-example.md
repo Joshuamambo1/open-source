@@ -1,6 +1,6 @@
 # boringcollege/postgres-by-example
 
-[![Stars](https://img.shields.io/github/stars/boringcollege/postgres-by-example?style=flat-square&color=yellow)](https://github.com/boringcollege/postgres-by-example/stargazers) [![Forks](https://img.shields.io/github/forks/boringcollege/postgres-by-example?style=flat-square&color=blue)](https://github.com/boringcollege/postgres-by-example/network) [![Language](https://img.shields.io/badge/lang-PLpgSQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boringcollege/postgres-by-example?style=flat-square&color=yellow)](https://github.com/boringcollege/postgres-by-example/stargazers) [![Forks](https://img.shields.io/github/forks/boringcollege/postgres-by-example?style=flat-square&color=blue)](https://github.com/boringcollege/postgres-by-example/network) [![Language](https://img.shields.io/badge/lang-PLpgSQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Yet another postgresql book!
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49 |
+| ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | PLpgSQL |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

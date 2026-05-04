@@ -1,6 +1,6 @@
 # openmc-dev/openmc
 
-[![Stars](https://img.shields.io/github/stars/openmc-dev/openmc?style=flat-square&color=yellow)](https://github.com/openmc-dev/openmc/stargazers) [![Forks](https://img.shields.io/github/forks/openmc-dev/openmc?style=flat-square&color=blue)](https://github.com/openmc-dev/openmc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openmc-dev/openmc?style=flat-square&color=yellow)](https://github.com/openmc-dev/openmc/stargazers) [![Forks](https://img.shields.io/github/forks/openmc-dev/openmc?style=flat-square&color=blue)](https://github.com/openmc-dev/openmc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > OpenMC Monte Carlo Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 632 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

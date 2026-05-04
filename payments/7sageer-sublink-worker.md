@@ -1,6 +1,6 @@
 # 7Sageer/sublink-worker
 
-[![Stars](https://img.shields.io/github/stars/7Sageer/sublink-worker?style=flat-square&color=yellow)](https://github.com/7Sageer/sublink-worker/stargazers) [![Forks](https://img.shields.io/github/forks/7Sageer/sublink-worker?style=flat-square&color=blue)](https://github.com/7Sageer/sublink-worker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/7Sageer/sublink-worker?style=flat-square&color=yellow)](https://github.com/7Sageer/sublink-worker/stargazers) [![Forks](https://img.shields.io/github/forks/7Sageer/sublink-worker?style=flat-square&color=blue)](https://github.com/7Sageer/sublink-worker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
 
 > One Worker, All Subscriptions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 8.5k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 97/100 |
+| 📈 **Score** | 98/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Checkmarx/2ms
 
-[![Stars](https://img.shields.io/github/stars/Checkmarx/2ms?style=flat-square&color=yellow)](https://github.com/Checkmarx/2ms/stargazers) [![Forks](https://img.shields.io/github/forks/Checkmarx/2ms?style=flat-square&color=blue)](https://github.com/Checkmarx/2ms/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Checkmarx/2ms?style=flat-square&color=yellow)](https://github.com/Checkmarx/2ms/stargazers) [![Forks](https://img.shields.io/github/forks/Checkmarx/2ms?style=flat-square&color=blue)](https://github.com/Checkmarx/2ms/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Too many secrets (2MS) helps people protect their secrets on any file or on systems like CMS, chats and git
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 152 |
+| ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,17 +1,17 @@
 # highpost/tailscale-macos-container
 
-[![Stars](https://img.shields.io/github/stars/highpost/tailscale-macos-container?style=flat-square&color=yellow)](https://github.com/highpost/tailscale-macos-container/stargazers) [![Forks](https://img.shields.io/github/forks/highpost/tailscale-macos-container?style=flat-square&color=blue)](https://github.com/highpost/tailscale-macos-container/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/highpost/tailscale-macos-container?style=flat-square&color=yellow)](https://github.com/highpost/tailscale-macos-container/stargazers) [![Forks](https://img.shields.io/github/forks/highpost/tailscale-macos-container?style=flat-square&color=blue)](https://github.com/highpost/tailscale-macos-container/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Using Tailscale with Apple's containerization stack
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| ⭐ **Stars** | 13 |
+| 🍴 **Forks** | 1 |
+| 💻 **Language** | Shell |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

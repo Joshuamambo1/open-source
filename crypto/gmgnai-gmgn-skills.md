@@ -25,7 +25,7 @@ Crypto · Trading · AI/ML
 
 ## 📝 Summary
 
-The GMGN-skills project is an open-source, AI-powered framework that enables seamless integration with the GMGN OpenAPI, allowing users to query and manipulate various data sources, including tokens, wallets, and market data. This framework supports execution of on-chain trades across multiple blockchain platforms, including Solana, BSC, and Base, facilitating more efficient and sophisticated trading strategies. By harnessing the power of AI and blockchain, GMGN-skills aims to revolutionize the crypto trading landscape.
+The GMGN Skil project is an open-source initiative that provides a comprehensive set of AI skills for integrating with the GMGN OpenAPI, enabling developers to query essential data such as tokens, wallets, and market information across multiple blockchain networks, including Solana, BSC, and Base. With this project, developers can build AI-powered trading systems that can execute on-chain trades seamlessly. This empowers the creation of sophisticated AI-driven trading platforms.
 
 ---
 

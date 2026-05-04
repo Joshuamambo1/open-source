@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The encounter/objdiff project is an open-source, local diffing tool designed specifically for decompilation projects. It allows developers to efficiently compare and analyze the differences between decompiled object files, making it easier to track changes and identify discrepancies. This tool is particularly useful for projects requiring meticulous source code integrity, such as reverse engineering and software analysis.
+Encounter/objdiff is an open-source, local diffing tool specifically designed for use in decompilation projects. It enables developers to efficiently compare and analyze changes between decompiled objects, facilitating a more streamlined development process. This tool is particularly valuable for projects that require meticulous code reviews and version control.
 
 ---
 

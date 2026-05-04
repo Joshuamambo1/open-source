@@ -25,7 +25,7 @@ Backend · DevTools · Security
 
 ## 📝 Summary
 
-Project interactsh is an open-source tool that enables gathering and analyzing out-of-band (OOB) interactions. This project includes both a server and a client library, allowing developers to build custom tools for capturing and processing OOB interactions. It is designed for use in security testing and development, providing a flexible framework for researchers and engineers to work with OOB interactions.
+Project InteractSH is an open-source, out-of-band (OOB) interaction gathering server and client library designed to aid in security testing and penetration testing. It enables developers to easily collect and analyze interactive shell interactions, facilitating more effective vulnerability exploitation and remediation. By providing a convenient tool for OOB interactions, Project InteractSH improves the efficiency and accuracy of security research and testing.
 
 ---
 

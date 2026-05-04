@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The OpenDraft project is an open-source AI tool designed to assist with writing research theses, utilizing 19 specialized agents that can generate over 20,000 words in just 10 minutes. This system leverages verified citations from a vast database of 250 million+ papers to provide accurate and reliable references. OpenDraft exports files in PDF, Word, and LaTeX formats, making it a valuable resource for researchers and writers.
+OpenDraft is an open-source AI thesis writer that utilizes 19 specialized agents to generate comprehensive research drafts efficiently. With the ability to produce over 20,000-word drafts in just 10 minutes, OpenDraft leverages a vast database of 250 million+ papers to provide verified citations. This tool is free to use and exportable in various formats, including PDF, Word, and LaTeX, under the permissive MIT license.
 
 ---
 

@@ -1,6 +1,6 @@
 # lvgl/lv_port_pc_vscode
 
-[![Stars](https://img.shields.io/github/stars/lvgl/lv_port_pc_vscode?style=flat-square&color=yellow)](https://github.com/lvgl/lv_port_pc_vscode/stargazers) [![Forks](https://img.shields.io/github/forks/lvgl/lv_port_pc_vscode?style=flat-square&color=blue)](https://github.com/lvgl/lv_port_pc_vscode/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lvgl/lv_port_pc_vscode?style=flat-square&color=yellow)](https://github.com/lvgl/lv_port_pc_vscode/stargazers) [![Forks](https://img.shields.io/github/forks/lvgl/lv_port_pc_vscode?style=flat-square&color=blue)](https://github.com/lvgl/lv_port_pc_vscode/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 470 |
 | 🍴 **Forks** | 313 |
 | 💻 **Language** | C |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

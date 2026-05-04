@@ -1,6 +1,6 @@
 # clap-rs/clap-verbosity-flag
 
-[![Stars](https://img.shields.io/github/stars/clap-rs/clap-verbosity-flag?style=flat-square&color=yellow)](https://github.com/clap-rs/clap-verbosity-flag/stargazers) [![Forks](https://img.shields.io/github/forks/clap-rs/clap-verbosity-flag?style=flat-square&color=blue)](https://github.com/clap-rs/clap-verbosity-flag/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clap-rs/clap-verbosity-flag?style=flat-square&color=yellow)](https://github.com/clap-rs/clap-verbosity-flag/stargazers) [![Forks](https://img.shields.io/github/forks/clap-rs/clap-verbosity-flag?style=flat-square&color=blue)](https://github.com/clap-rs/clap-verbosity-flag/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Easily add a --verbose flag to CLIs using Clap
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

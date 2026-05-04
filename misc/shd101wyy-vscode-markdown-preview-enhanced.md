@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This project, "vscode-markdown-preview-enhanced", is a high-quality, open-source extension for Visual Studio Code that provides an enhanced markdown preview experience. It offers a robust set of features to improve markdown editing and visualization, making it a popular choice among developers and users. With this extension, users can create and view markdown content with ease and precision.
+This project, vscode-markdown-preview-enhanced, is an open-source extension for Visual Studio Code that provides a highly enhanced markdown preview experience. It offers a range of features and improvements over the standard markdown preview, setting it apart as one of the top choices for markdown enthusiasts. By enhancing the preview functionality, developers can create and edit markdown files more efficiently and effectively.
 
 ---
 

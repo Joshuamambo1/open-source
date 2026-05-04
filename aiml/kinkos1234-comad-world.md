@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The comad-world project is an open-source, config-driven AI agent system designed to adapt to various domains. This modular system consists of six modules and a single YAML file, allowing users to easily switch between predefined configurations to create a new knowledge system. This flexibility makes it an ideal solution for developers seeking a versatile AI framework.
+The comad-world project is an open-source, config-driven AI agent system designed for various domains. With a simple YAML file configuration and six interchangeable modules, users can easily swap presets to create new knowledge systems tailored to their needs. This flexible framework allows developers to build and deploy AI agents quickly and efficiently.
 
 ---
 

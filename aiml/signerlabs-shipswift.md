@@ -25,7 +25,7 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-ShipSwift is an open-source, AI-native SwiftUI component library that enables developers to create seamless full-stack experiences. It offers instant access to its features via MCP, allowing for streamlined integration and development. This library caters to AI/ML and mobile applications, providing a robust and efficient solution for building futuristic interfaces.
+ShipSwift is an open-source project that offers an AI-native SwiftUI component library, providing full-stack recipes to streamline development. It enables instant access through its connection via the Machine Learning Platform (MCP), facilitating seamless integration of AI capabilities into frontend and mobile applications. This library supports the creation of efficient, AI-powered user interfaces.
 
 ---
 

@@ -1,6 +1,6 @@
 # riscv/meta-riscv
 
-[![Stars](https://img.shields.io/github/stars/riscv/meta-riscv?style=flat-square&color=yellow)](https://github.com/riscv/meta-riscv/stargazers) [![Forks](https://img.shields.io/github/forks/riscv/meta-riscv?style=flat-square&color=blue)](https://github.com/riscv/meta-riscv/network) [![Language](https://img.shields.io/badge/lang-BitBake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/riscv/meta-riscv?style=flat-square&color=yellow)](https://github.com/riscv/meta-riscv/stargazers) [![Forks](https://img.shields.io/github/forks/riscv/meta-riscv?style=flat-square&color=blue)](https://github.com/riscv/meta-riscv/network) [![Language](https://img.shields.io/badge/lang-BitBake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > OpenEmbedded/Yocto layer for RISC-V Architecture
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 434 |
+| ⭐ **Stars** | 435 |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | BitBake |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

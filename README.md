@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15771** |
+| 🗂️ **Total projects** | **15804** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5879 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3277 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1554 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1152 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 965 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 930 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 535 | [Browse →](./crypto/) |
-| 📊 **Data** | 357 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 5889 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3286 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1559 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1154 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 966 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 931 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 536 | [Browse →](./crypto/) |
+| 📊 **Data** | 359 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 337 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 217 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 218 | [Browse →](./mobile/) |
 | 💳 **Payments** | 164 | [Browse →](./payments/) |
-| 📈 **Trading** | 161 | [Browse →](./trading/) |
+| 📈 **Trading** | 162 | [Browse →](./trading/) |
 | 🔐 **Security** | 129 | [Browse →](./security/) |
 | ✨ **Design** | 52 | [Browse →](./design/) |
 | 🎯 **Product** | 31 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [opendatalab/MinerU](./orchestration/opendatalab-mineru.md) | ⭐ 61.9k | Orchestration |
-| 2 | [akfamily/akshare](./trading/akfamily-akshare.md) | ⭐ 18.8k | Trading |
-| 3 | [krzyzanowskim/CryptoSwift](./crypto/krzyzanowskim-cryptoswift.md) | ⭐ 10.5k | Crypto |
-| 4 | [rook/rook](./orchestration/rook-rook.md) | ⭐ 13.5k | Orchestration |
-| 5 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 6 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 27.9k | AI/ML |
-| 7 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 38.4k | Orchestration |
-| 8 | [h2oai/h2o-3](./aiml/h2oai-h2o-3.md) | ⭐ 7.5k | AI/ML |
-| 9 | [Graylog2/graylog2-server](./backend/graylog2-graylog2-server.md) | ⭐ 8k | Backend |
-| 10 | [run-llama/llama_index](./orchestration/run-llama-llama-index.md) | ⭐ 49.1k | Orchestration |
+| 1 | [plankanban/planka](./frontend/plankanban-planka.md) | ⭐ 11.9k | Frontend |
+| 2 | [opendatalab/MinerU](./orchestration/opendatalab-mineru.md) | ⭐ 61.9k | Orchestration |
+| 3 | [NousResearch/hermes-agent](./aiml/nousresearch-hermes-agent.md) | ⭐ 131.3k | AI/ML |
+| 4 | [vuetifyjs/vuetify](./frontend/vuetifyjs-vuetify.md) | ⭐ 41k | Frontend |
+| 5 | [PaddlePaddle/Paddle](./aiml/paddlepaddle-paddle.md) | ⭐ 23.9k | AI/ML |
+| 6 | [ChenYilong/CYLTabBarController](./frontend/chenyilong-cyltabbarcontroller.md) | ⭐ 7k | Frontend |
+| 7 | [FlowiseAI/Flowise](./orchestration/flowiseai-flowise.md) | ⭐ 52.5k | Orchestration |
+| 8 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
+| 9 | [liyupi/codefather](./aiml/liyupi-codefather.md) | ⭐ 7.2k | AI/ML |
+| 10 | [onyx-dot-app/onyx](./aiml/onyx-dot-app-onyx.md) | ⭐ 28.9k | AI/ML |
 
 ## 🚀 How it works
 

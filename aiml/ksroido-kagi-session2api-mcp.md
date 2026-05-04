@@ -1,6 +1,6 @@
 # KSroido/Kagi-Session2API-MCP
 
-[![Stars](https://img.shields.io/github/stars/KSroido/Kagi-Session2API-MCP?style=flat-square&color=yellow)](https://github.com/KSroido/Kagi-Session2API-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/KSroido/Kagi-Session2API-MCP?style=flat-square&color=blue)](https://github.com/KSroido/Kagi-Session2API-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KSroido/Kagi-Session2API-MCP?style=flat-square&color=yellow)](https://github.com/KSroido/Kagi-Session2API-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/KSroido/Kagi-Session2API-MCP?style=flat-square&color=blue)](https://github.com/KSroido/Kagi-Session2API-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Free Kagi Search MCP server — access search and summarizer via session tokens, no API key needed. Works with Claude Desktop, Cursor, Windsurf, Hermes and any MCP client.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 55 |
-| 🍴 **Forks** | 5 |
+| ⭐ **Stars** | 65 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

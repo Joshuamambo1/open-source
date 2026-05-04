@@ -1,6 +1,6 @@
 # jbrooksuk/artisan.page
 
-[![Stars](https://img.shields.io/github/stars/jbrooksuk/artisan.page?style=flat-square&color=yellow)](https://github.com/jbrooksuk/artisan.page/stargazers) [![Forks](https://img.shields.io/github/forks/jbrooksuk/artisan.page?style=flat-square&color=blue)](https://github.com/jbrooksuk/artisan.page/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jbrooksuk/artisan.page?style=flat-square&color=yellow)](https://github.com/jbrooksuk/artisan.page/stargazers) [![Forks](https://img.shields.io/github/forks/jbrooksuk/artisan.page?style=flat-square&color=blue)](https://github.com/jbrooksuk/artisan.page/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A bookmarkable, searchable cheatsheet for Laravel's Artisan commands.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 410 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-PlotSquared is an open-source project that aims to revolutionize the way Minecraft plot worlds are created and managed, offering a more efficient and user-friendly experience. This project provides a powerful toolset for developers and server administrators to build and customize plot worlds, enhancing the overall Minecraft experience. With PlotSquared, users can easily create, manage, and interact with plot worlds, streamlining the process of world-building and exploration.
+PlotSquared is an open-source project that aims to revolutionize the plotworld concept by providing a cutting-edge platform for creating and managing virtual territories. This project combines frontend and backend capabilities to offer a seamless user experience and unparalleled flexibility. By leveraging PlotSquared, users can efficiently design, build, and explore their own custom plotworlds.
 
 ---
 

@@ -1,6 +1,6 @@
 # DevExpress/DevExtreme
 
-[![Stars](https://img.shields.io/github/stars/DevExpress/DevExtreme?style=flat-square&color=yellow)](https://github.com/DevExpress/DevExtreme/stargazers) [![Forks](https://img.shields.io/github/forks/DevExpress/DevExtreme?style=flat-square&color=blue)](https://github.com/DevExpress/DevExtreme/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DevExpress/DevExtreme?style=flat-square&color=yellow)](https://github.com/DevExpress/DevExtreme/stargazers) [![Forks](https://img.shields.io/github/forks/DevExpress/DevExtreme?style=flat-square&color=blue)](https://github.com/DevExpress/DevExtreme/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > HTML5 JavaScript Component Suite for Responsive Web Development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 667 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

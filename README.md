@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16063** |
+| 🗂️ **Total projects** | **16116** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5974 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3347 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1586 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 5995 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3358 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1591 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 1166 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 987 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 949 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 990 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 951 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 541 | [Browse →](./crypto/) |
-| 📊 **Data** | 366 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 345 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 222 | [Browse →](./mobile/) |
+| 📊 **Data** | 368 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 350 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 224 | [Browse →](./mobile/) |
 | 📈 **Trading** | 166 | [Browse →](./trading/) |
 | 💳 **Payments** | 166 | [Browse →](./payments/) |
-| 🔐 **Security** | 130 | [Browse →](./security/) |
+| 🔐 **Security** | 132 | [Browse →](./security/) |
 | ✨ **Design** | 54 | [Browse →](./design/) |
 | 🎯 **Product** | 33 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
@@ -39,10 +39,10 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [microsoft/presidio](./aiml/microsoft-presidio.md) | ⭐ 7.9k | AI/ML |
+| 1 | [pola-rs/polars](./data/pola-rs-polars.md) | ⭐ 38.4k | Data |
 | 2 | [hazelcast/hazelcast](./data/hazelcast-hazelcast.md) | ⭐ 6.6k | Data |
 | 3 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 4 | [zitadel/zitadel](./aiml/zitadel-zitadel.md) | ⭐ 13.7k | AI/ML |
+| 4 | [ceph/ceph](./crypto/ceph-ceph.md) | ⭐ 16.5k | Crypto |
 | 5 | [K-Dense-AI/scientific-agent-skills](./orchestration/k-dense-ai-scientific-agent-skills.md) | ⭐ 20k | Orchestration |
 | 6 | [mastra-ai/mastra](./aiml/mastra-ai-mastra.md) | ⭐ 23.5k | AI/ML |
 | 7 | [knative/docs](./aiml/knative-docs.md) | ⭐ 5k | AI/ML |

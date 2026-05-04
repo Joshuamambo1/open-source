@@ -1,6 +1,6 @@
 # debugmcp/mcp-debugger
 
-[![Stars](https://img.shields.io/github/stars/debugmcp/mcp-debugger?style=flat-square&color=yellow)](https://github.com/debugmcp/mcp-debugger/stargazers) [![Forks](https://img.shields.io/github/forks/debugmcp/mcp-debugger?style=flat-square&color=blue)](https://github.com/debugmcp/mcp-debugger/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/debugmcp/mcp-debugger?style=flat-square&color=yellow)](https://github.com/debugmcp/mcp-debugger/stargazers) [![Forks](https://img.shields.io/github/forks/debugmcp/mcp-debugger?style=flat-square&color=blue)](https://github.com/debugmcp/mcp-debugger/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > LLM-driven debugger server – give your AI agents step-through debugging superpowers
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 101 |
+| ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

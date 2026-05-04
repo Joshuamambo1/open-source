@@ -1,6 +1,6 @@
 # Mintplex-Labs/anythingllm-docs
 
-[![Stars](https://img.shields.io/github/stars/Mintplex-Labs/anythingllm-docs?style=flat-square&color=yellow)](https://github.com/Mintplex-Labs/anythingllm-docs/stargazers) [![Forks](https://img.shields.io/github/forks/Mintplex-Labs/anythingllm-docs?style=flat-square&color=blue)](https://github.com/Mintplex-Labs/anythingllm-docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mintplex-Labs/anythingllm-docs?style=flat-square&color=yellow)](https://github.com/Mintplex-Labs/anythingllm-docs/stargazers) [![Forks](https://img.shields.io/github/forks/Mintplex-Labs/anythingllm-docs?style=flat-square&color=blue)](https://github.com/Mintplex-Labs/anythingllm-docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Documentation of AnythingLLM by Mintplex Labs Inc.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 326 |
+| ⭐ **Stars** | 327 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

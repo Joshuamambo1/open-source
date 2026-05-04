@@ -1,6 +1,6 @@
 # linebender/color
 
-[![Stars](https://img.shields.io/github/stars/linebender/color?style=flat-square&color=yellow)](https://github.com/linebender/color/stargazers) [![Forks](https://img.shields.io/github/forks/linebender/color?style=flat-square&color=blue)](https://github.com/linebender/color/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linebender/color?style=flat-square&color=yellow)](https://github.com/linebender/color/stargazers) [![Forks](https://img.shields.io/github/forks/linebender/color?style=flat-square&color=blue)](https://github.com/linebender/color/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Color in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

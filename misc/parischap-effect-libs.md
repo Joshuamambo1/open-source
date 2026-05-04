@@ -1,6 +1,6 @@
 # parischap/effect-libs
 
-[![Stars](https://img.shields.io/github/stars/parischap/effect-libs?style=flat-square&color=yellow)](https://github.com/parischap/effect-libs/stargazers) [![Forks](https://img.shields.io/github/forks/parischap/effect-libs?style=flat-square&color=blue)](https://github.com/parischap/effect-libs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/parischap/effect-libs?style=flat-square&color=yellow)](https://github.com/parischap/effect-libs/stargazers) [![Forks](https://img.shields.io/github/forks/parischap/effect-libs?style=flat-square&color=blue)](https://github.com/parischap/effect-libs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > effect-libs is a set of open-source libraries to be used in complement to the effect library. Offers Date and number parsing/formatting, sscanf/sprintf templating, number rounding, object pretty-printing, ansi-colors for terminal printing, simple yet robust pattern matching, non-recursive and cycle-safe tree structure, and some other cool stuff
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

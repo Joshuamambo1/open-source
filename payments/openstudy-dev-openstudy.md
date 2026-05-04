@@ -1,6 +1,6 @@
 # OpenStudy-dev/OpenStudy
 
-[![Stars](https://img.shields.io/github/stars/OpenStudy-dev/OpenStudy?style=flat-square&color=yellow)](https://github.com/OpenStudy-dev/OpenStudy/stargazers) [![Forks](https://img.shields.io/github/forks/OpenStudy-dev/OpenStudy?style=flat-square&color=blue)](https://github.com/OpenStudy-dev/OpenStudy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenStudy-dev/OpenStudy?style=flat-square&color=yellow)](https://github.com/OpenStudy-dev/OpenStudy/stargazers) [![Forks](https://img.shields.io/github/forks/OpenStudy-dev/OpenStudy?style=flat-square&color=blue)](https://github.com/OpenStudy-dev/OpenStudy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hostable study dashboard with a built-in MCP server so Claude can read, write, and teach from your courses, lectures, and deadlines — Making better use of your Claude/ChatGPT subscription
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # pgrok/pgrok
 
-[![Stars](https://img.shields.io/github/stars/pgrok/pgrok?style=flat-square&color=yellow)](https://github.com/pgrok/pgrok/stargazers) [![Forks](https://img.shields.io/github/forks/pgrok/pgrok?style=flat-square&color=blue)](https://github.com/pgrok/pgrok/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pgrok/pgrok?style=flat-square&color=yellow)](https://github.com/pgrok/pgrok/stargazers) [![Forks](https://img.shields.io/github/forks/pgrok/pgrok?style=flat-square&color=blue)](https://github.com/pgrok/pgrok/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

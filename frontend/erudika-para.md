@@ -1,6 +1,6 @@
 # Erudika/para
 
-[![Stars](https://img.shields.io/github/stars/Erudika/para?style=flat-square&color=yellow)](https://github.com/Erudika/para/stargazers) [![Forks](https://img.shields.io/github/forks/Erudika/para?style=flat-square&color=blue)](https://github.com/Erudika/para/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Erudika/para?style=flat-square&color=yellow)](https://github.com/Erudika/para/stargazers) [![Forks](https://img.shields.io/github/forks/Erudika/para?style=flat-square&color=blue)](https://github.com/Erudika/para/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Multitenant backend server for building web and mobile apps rapidly. The backend for busy developers. (self-hosted or hosted)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 568 |
+| ⭐ **Stars** | 569 |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

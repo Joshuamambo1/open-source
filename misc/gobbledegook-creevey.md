@@ -1,6 +1,6 @@
 # gobbledegook/creevey
 
-[![Stars](https://img.shields.io/github/stars/gobbledegook/creevey?style=flat-square&color=yellow)](https://github.com/gobbledegook/creevey/stargazers) [![Forks](https://img.shields.io/github/forks/gobbledegook/creevey?style=flat-square&color=blue)](https://github.com/gobbledegook/creevey/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gobbledegook/creevey?style=flat-square&color=yellow)](https://github.com/gobbledegook/creevey/stargazers) [![Forks](https://img.shields.io/github/forks/gobbledegook/creevey?style=flat-square&color=blue)](https://github.com/gobbledegook/creevey/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Phoenix Slides
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 436 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | C |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

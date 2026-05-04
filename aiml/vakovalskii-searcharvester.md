@@ -1,6 +1,6 @@
 # vakovalskii/searcharvester
 
-[![Stars](https://img.shields.io/github/stars/vakovalskii/searcharvester?style=flat-square&color=yellow)](https://github.com/vakovalskii/searcharvester/stargazers) [![Forks](https://img.shields.io/github/forks/vakovalskii/searcharvester?style=flat-square&color=blue)](https://github.com/vakovalskii/searcharvester/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vakovalskii/searcharvester?style=flat-square&color=yellow)](https://github.com/vakovalskii/searcharvester/stargazers) [![Forks](https://img.shields.io/github/forks/vakovalskii/searcharvester?style=flat-square&color=blue)](https://github.com/vakovalskii/searcharvester/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted search + markdown harvester for AI agents. SearXNG (100+ engines) + FastAPI + trafilatura. Tavily-compatible /search plus /extract with size presets and pagination. One-command Docker Compose.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 213 |
+| ⭐ **Stars** | 214 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

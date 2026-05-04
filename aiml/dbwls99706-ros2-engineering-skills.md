@@ -1,6 +1,6 @@
 # dbwls99706/ros2-engineering-skills
 
-[![Stars](https://img.shields.io/github/stars/dbwls99706/ros2-engineering-skills?style=flat-square&color=yellow)](https://github.com/dbwls99706/ros2-engineering-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dbwls99706/ros2-engineering-skills?style=flat-square&color=blue)](https://github.com/dbwls99706/ros2-engineering-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dbwls99706/ros2-engineering-skills?style=flat-square&color=yellow)](https://github.com/dbwls99706/ros2-engineering-skills/stargazers) [![Forks](https://img.shields.io/github/forks/dbwls99706/ros2-engineering-skills?style=flat-square&color=blue)](https://github.com/dbwls99706/ros2-engineering-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skill for production-grade ROS 2 development. Progressive-disclosure SKILL.md covering workspace, nodes, executors, QoS, ros2_control, Nav2, MoveIt 2, real-time, and deployment. Works with Claude Code, Codex, Cursor, Gemini CLI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 60 |
+| ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

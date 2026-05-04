@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The MCP Gateway is an open-source, universal solution for single-port multiplexing, designed to work seamlessly with Meta-MCP. By leveraging this technology, users can achieve significant context token savings of approximately 95%. This project is ideal for AI/ML environments where efficient resource allocation is crucial.
+Here's a brief summary for the open-source project:
+
+The MCP Gateway, developed by MikkoParkkola, is an open-source project that enables single-port multiplexing with Meta-MCP, resulting in significant context token savings of around 95%. This project offers a universal solution for AI/ML applications, streamlining communication and improving efficiency. By utilizing the MCP Gateway, developers can optimize their workflows and reduce computational overhead.
 
 ---
 

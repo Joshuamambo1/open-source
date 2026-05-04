@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-Image Gen MCP is an open-source project that utilizes a single MCP (Master Control Program) server with goal-shaped routing to efficiently manage and optimize image generation tasks. This project aims to simplify the process of image creation by leveraging a centralized server and a routing system that is tailored to specific goals. By doing so, it enables developers to generate high-quality images while minimizing computational resources and improving overall performance.
+Image Gen MCP is an open-source project that enables a single MCP server to handle goal-shaped routing, a scalable approach to image generation and processing. This project aims to simplify image-related tasks by leveraging a single, efficient server. By utilizing goal-shaped routing, developers can build robust and high-performing image generation systems.
 
 ---
 

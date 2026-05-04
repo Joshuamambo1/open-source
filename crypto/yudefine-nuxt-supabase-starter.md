@@ -1,6 +1,6 @@
 # YuDefine/nuxt-supabase-starter
 
-[![Stars](https://img.shields.io/github/stars/YuDefine/nuxt-supabase-starter?style=flat-square&color=yellow)](https://github.com/YuDefine/nuxt-supabase-starter/stargazers) [![Forks](https://img.shields.io/github/forks/YuDefine/nuxt-supabase-starter?style=flat-square&color=blue)](https://github.com/YuDefine/nuxt-supabase-starter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YuDefine/nuxt-supabase-starter?style=flat-square&color=yellow)](https://github.com/YuDefine/nuxt-supabase-starter/stargazers) [![Forks](https://img.shields.io/github/forks/YuDefine/nuxt-supabase-starter?style=flat-square&color=blue)](https://github.com/YuDefine/nuxt-supabase-starter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Nuxt + Supabase 快速開發範本，含 AI 輔助工作流程（Claude Code）、TDD、Spectra (OpenSpec)
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 2 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | JavaScript |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

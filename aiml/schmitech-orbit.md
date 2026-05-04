@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/schmitech/orbit?style=flat-square&color=yellow)](https://github.com/schmitech/orbit/stargazers) [![Forks](https://img.shields.io/github/forks/schmitech/orbit?style=flat-square&color=blue)](https://github.com/schmitech/orbit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> One API for 20+ LLM providers, your databases, and your files — self-hosted, open-source AI gateway with RAG, voice, and guardrails.
+> The self-hosted AI gateway for production RAG across LLMs, databases, APIs, and files.
 
 ## 📊 Stats
 

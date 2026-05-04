@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Claude-Skills is an open-source collection of 266 AI skills and agent plugins across 17 domains, empowering developers to utilize various coding agents like Claude Code, Codex, and Gemini CLI. This extensive library spans 67 cs-* agents and 674+ Python tools, catering to diverse fields such as engineering, marketing, and vertical advisors. It serves as a comprehensive resource for AI/ML and backend development.
+The Claude-Skills project is an open-source repository of 266 AI skills and agent plugins across 17 domains, including engineering, marketing, and compliance. These skills are designed to work seamlessly with various coding agents, such as Claude Code, Codex, Gemini CLI, and more, enabling users to leverage their capabilities. With a focus on backend development and AI/ML, this project offers over 67 cs-* agents and 674+ Python tools to enhance coding productivity.
 
 ---
 

@@ -1,6 +1,6 @@
 # JamsusMaximus/trainingpeaks-mcp
 
-[![Stars](https://img.shields.io/github/stars/JamsusMaximus/trainingpeaks-mcp?style=flat-square&color=yellow)](https://github.com/JamsusMaximus/trainingpeaks-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JamsusMaximus/trainingpeaks-mcp?style=flat-square&color=blue)](https://github.com/JamsusMaximus/trainingpeaks-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JamsusMaximus/trainingpeaks-mcp?style=flat-square&color=yellow)](https://github.com/JamsusMaximus/trainingpeaks-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JamsusMaximus/trainingpeaks-mcp?style=flat-square&color=blue)](https://github.com/JamsusMaximus/trainingpeaks-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > TrainingPeaks MCP server for Claude Desktop, Code and Cowork. No API approval needed - works with any account. Query workouts, CTL/ATL/TSB fitness data, power PRs via natural language.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

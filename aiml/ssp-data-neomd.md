@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ssp-data/neomd?style=flat-square&color=yellow)](https://github.com/ssp-data/neomd/stargazers) [![Forks](https://img.shields.io/github/forks/ssp-data/neomd?style=flat-square&color=blue)](https://github.com/ssp-data/neomd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> A minimal email TUI where you read with Markdown and write in Neovim.
+> Keyboard-first TUI email: write in Neovim, render as Markdown, screen senders first, organize emails once.
 
 ## 📊 Stats
 

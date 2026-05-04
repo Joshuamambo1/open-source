@@ -1,6 +1,6 @@
 # yaojingang/GEOFlow
 
-[![Stars](https://img.shields.io/github/stars/yaojingang/GEOFlow?style=flat-square&color=yellow)](https://github.com/yaojingang/GEOFlow/stargazers) [![Forks](https://img.shields.io/github/forks/yaojingang/GEOFlow?style=flat-square&color=blue)](https://github.com/yaojingang/GEOFlow/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yaojingang/GEOFlow?style=flat-square&color=yellow)](https://github.com/yaojingang/GEOFlow/stargazers) [![Forks](https://img.shields.io/github/forks/yaojingang/GEOFlow?style=flat-square&color=blue)](https://github.com/yaojingang/GEOFlow/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source GEO content production system with AI tasks, review workflow, and publishing.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 288 |
+| 🍴 **Forks** | 293 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

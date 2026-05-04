@@ -1,6 +1,6 @@
 # LukasNiessen/terrashark
 
-[![Stars](https://img.shields.io/github/stars/LukasNiessen/terrashark?style=flat-square&color=yellow)](https://github.com/LukasNiessen/terrashark/stargazers) [![Forks](https://img.shields.io/github/forks/LukasNiessen/terrashark?style=flat-square&color=blue)](https://github.com/LukasNiessen/terrashark/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LukasNiessen/terrashark?style=flat-square&color=yellow)](https://github.com/LukasNiessen/terrashark/stargazers) [![Forks](https://img.shields.io/github/forks/LukasNiessen/terrashark?style=flat-square&color=blue)](https://github.com/LukasNiessen/terrashark/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform Skill for Claude Code and Codex. LLMs hallucinate a lot with Terraform - TerraShark fixes this. It eliminates hallucinations, is designed for modular and secure code and grounds your IaC in the official Hashicorp Terraform best practices.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 188 |
+| ⭐ **Stars** | 189 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

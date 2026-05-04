@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The DAG Workflow Engine is an open-source project that enables the creation and management of directed acyclic graphs (DAGs) to orchestrate complex workflows. This engine allows users to define and execute workflows as a series of interconnected tasks, making it a powerful tool for automating tasks and processes. By leveraging DAGs, developers can create robust, flexible, and scalable workflow systems.
+The DAG Workflow Engine is an open-source project that enables the execution of directed acyclic graphs (DAGs), providing a robust framework for modeling and orchestrating complex workflows. Built to handle scalable and efficient workflow management, it allows developers to create and manage graph-based workflows with ease. This project is particularly useful for applications that require the coordination of multiple tasks and operations.
 
 ---
 

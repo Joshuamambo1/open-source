@@ -1,6 +1,6 @@
 # Valdecy/pyMetaheuristic
 
-[![Stars](https://img.shields.io/github/stars/Valdecy/pyMetaheuristic?style=flat-square&color=yellow)](https://github.com/Valdecy/pyMetaheuristic/stargazers) [![Forks](https://img.shields.io/github/forks/Valdecy/pyMetaheuristic?style=flat-square&color=blue)](https://github.com/Valdecy/pyMetaheuristic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Valdecy/pyMetaheuristic?style=flat-square&color=yellow)](https://github.com/Valdecy/pyMetaheuristic/stargazers) [![Forks](https://img.shields.io/github/forks/Valdecy/pyMetaheuristic?style=flat-square&color=blue)](https://github.com/Valdecy/pyMetaheuristic/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > pymetaheuristic: A Python Library for Metaheuristic Optimization and Collaborative Search
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 388 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

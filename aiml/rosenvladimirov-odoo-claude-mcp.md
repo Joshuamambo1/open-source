@@ -1,6 +1,6 @@
 # rosenvladimirov/odoo-claude-mcp
 
-[![Stars](https://img.shields.io/github/stars/rosenvladimirov/odoo-claude-mcp?style=flat-square&color=yellow)](https://github.com/rosenvladimirov/odoo-claude-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/rosenvladimirov/odoo-claude-mcp?style=flat-square&color=blue)](https://github.com/rosenvladimirov/odoo-claude-mcp/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rosenvladimirov/odoo-claude-mcp?style=flat-square&color=yellow)](https://github.com/rosenvladimirov/odoo-claude-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/rosenvladimirov/odoo-claude-mcp?style=flat-square&color=blue)](https://github.com/rosenvladimirov/odoo-claude-mcp/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted MCP server connecting Claude to Odoo 15→19 — 197+ tools, multi-tenant, Bulgaria l10n
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

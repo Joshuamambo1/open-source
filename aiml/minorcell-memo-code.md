@@ -1,6 +1,6 @@
 # minorcell/memo-code
 
-[![Stars](https://img.shields.io/github/stars/minorcell/memo-code?style=flat-square&color=yellow)](https://github.com/minorcell/memo-code/stargazers) [![Forks](https://img.shields.io/github/forks/minorcell/memo-code?style=flat-square&color=blue)](https://github.com/minorcell/memo-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minorcell/memo-code?style=flat-square&color=yellow)](https://github.com/minorcell/memo-code/stargazers) [![Forks](https://img.shields.io/github/forks/minorcell/memo-code?style=flat-square&color=blue)](https://github.com/minorcell/memo-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight coding agent that runs in your terminal.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27 |
+| ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

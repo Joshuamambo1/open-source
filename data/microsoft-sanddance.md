@@ -1,6 +1,6 @@
 # microsoft/SandDance
 
-[![Stars](https://img.shields.io/github/stars/microsoft/SandDance?style=flat-square&color=yellow)](https://github.com/microsoft/SandDance/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/SandDance?style=flat-square&color=blue)](https://github.com/microsoft/SandDance/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/SandDance?style=flat-square&color=yellow)](https://github.com/microsoft/SandDance/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/SandDance?style=flat-square&color=blue)](https://github.com/microsoft/SandDance/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > Visually explore, understand, and present your data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.1k |
 | 🍴 **Forks** | 573 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

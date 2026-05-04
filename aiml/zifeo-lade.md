@@ -1,6 +1,6 @@
 # zifeo/lade
 
-[![Stars](https://img.shields.io/github/stars/zifeo/lade?style=flat-square&color=yellow)](https://github.com/zifeo/lade/stargazers) [![Forks](https://img.shields.io/github/forks/zifeo/lade?style=flat-square&color=blue)](https://github.com/zifeo/lade/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zifeo/lade?style=flat-square&color=yellow)](https://github.com/zifeo/lade/stargazers) [![Forks](https://img.shields.io/github/forks/zifeo/lade?style=flat-square&color=blue)](https://github.com/zifeo/lade/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically load secrets from your preferred vault as environment variables or files, and clear them once your shell command is over.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

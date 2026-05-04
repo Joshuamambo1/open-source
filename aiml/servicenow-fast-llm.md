@@ -1,6 +1,6 @@
 # ServiceNow/Fast-LLM
 
-[![Stars](https://img.shields.io/github/stars/ServiceNow/Fast-LLM?style=flat-square&color=yellow)](https://github.com/ServiceNow/Fast-LLM/stargazers) [![Forks](https://img.shields.io/github/forks/ServiceNow/Fast-LLM?style=flat-square&color=blue)](https://github.com/ServiceNow/Fast-LLM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ServiceNow/Fast-LLM?style=flat-square&color=yellow)](https://github.com/ServiceNow/Fast-LLM/stargazers) [![Forks](https://img.shields.io/github/forks/ServiceNow/Fast-LLM?style=flat-square&color=blue)](https://github.com/ServiceNow/Fast-LLM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Accelerating your LLM training to full speed! Made with ❤️ by ServiceNow Research
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

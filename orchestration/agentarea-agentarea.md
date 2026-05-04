@@ -1,6 +1,6 @@
 # agentarea/agentarea
 
-[![Stars](https://img.shields.io/github/stars/agentarea/agentarea?style=flat-square&color=yellow)](https://github.com/agentarea/agentarea/stargazers) [![Forks](https://img.shields.io/github/forks/agentarea/agentarea?style=flat-square&color=blue)](https://github.com/agentarea/agentarea/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentarea/agentarea?style=flat-square&color=yellow)](https://github.com/agentarea/agentarea/stargazers) [![Forks](https://img.shields.io/github/forks/agentarea/agentarea?style=flat-square&color=blue)](https://github.com/agentarea/agentarea/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Cloud-native AI Agents orchestration platform for zero-human organizations
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

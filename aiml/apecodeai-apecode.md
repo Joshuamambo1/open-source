@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the ApeCodeAI/apecode project:
-
-ApeCode is a lightweight AI code agent built in Python, inspired by Claude Code and Kimi-CLI. This open-source project provides a simple and efficient way to integrate AI capabilities into various applications. With ApeCode, developers can now leverage AI-powered code generation and completion features in a seamless and user-friendly manner.
+ApeCodeAI's apecode is an open-source, lightweight AI code agent written in Python, inspired by Claude Code and Kimi-CLI. This project enables users to interact with a code assistant, providing a seamless coding experience. It is designed to be a simple yet effective tool for developers looking to incorporate AI-powered coding assistance into their workflow.
 
 ---
 

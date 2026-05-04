@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/grove/pg-trickle?style=flat-square&color=yellow)](https://github.com/grove/pg-trickle/blob/main/blog/pgvector-tooling-landscape.md/stargazers) [![Forks](https://img.shields.io/github/forks/grove/pg-trickle?style=flat-square&color=blue)](https://github.com/grove/pg-trickle/blob/main/blog/pgvector-tooling-landscape.md/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> A PostgreSQL extension for streaming tables with incremental view maintenance, powered by differential dataflow in Rust.
+> A PostgreSQL 18+ extension for streaming tables with incremental view maintenance, powered by differential dataflow in Rust.
 
 ## 📊 Stats
 

@@ -25,7 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-The AndroidMic project enables users to utilize their Android smartphone as a microphone for their PC, providing a convenient and wireless audio solution. This open-source project allows for seamless integration, allowing users to access their phone's microphone capabilities directly on their computer. By leveraging this technology, users can easily enhance their recording or communication experiences with improved audio quality.
+The AndroidMic project is an open-source solution that enables users to repurpose their Android smartphone as a microphone for their computer. By leveraging the phone's microphone capabilities, this project provides a convenient and cost-effective alternative to traditional USB microphones or dedicated audio interfaces. This allows for a seamless and wireless audio experience.
 
 ---
 

@@ -1,6 +1,6 @@
 # livekit/egress
 
-[![Stars](https://img.shields.io/github/stars/livekit/egress?style=flat-square&color=yellow)](https://github.com/livekit/egress/stargazers) [![Forks](https://img.shields.io/github/forks/livekit/egress?style=flat-square&color=blue)](https://github.com/livekit/egress/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/livekit/egress?style=flat-square&color=yellow)](https://github.com/livekit/egress/stargazers) [![Forks](https://img.shields.io/github/forks/livekit/egress?style=flat-square&color=blue)](https://github.com/livekit/egress/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Export and record WebRTC sessions and tracks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 328 |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

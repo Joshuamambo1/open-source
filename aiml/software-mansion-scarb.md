@@ -1,6 +1,6 @@
 # software-mansion/scarb
 
-[![Stars](https://img.shields.io/github/stars/software-mansion/scarb?style=flat-square&color=yellow)](https://github.com/software-mansion/scarb/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/scarb?style=flat-square&color=blue)](https://github.com/software-mansion/scarb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/software-mansion/scarb?style=flat-square&color=yellow)](https://github.com/software-mansion/scarb/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/scarb?style=flat-square&color=blue)](https://github.com/software-mansion/scarb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The Cairo package manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 220 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

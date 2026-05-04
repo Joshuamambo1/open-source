@@ -25,7 +25,7 @@ Trading · Frontend · Backend
 
 ## 📝 Summary
 
-MatPlotLibNet is an open-source project that enables server-rendered charting for .NET applications, particularly designed for trading systems. This project offers a solution for generating high-quality charts on the server-side, reducing the load on client-side resources and improving overall performance. By leveraging MatPlotLibNet, developers can create robust and scalable trading interfaces with seamless chart rendering.
+MatPlotLibNet is an open-source project that provides server-rendered charting capabilities for .NET trading systems. It aims to enable seamless chart display and analysis, allowing developers to integrate high-quality visualizations into their trading applications. By leveraging MatPlotLibNet, developers can create robust and scalable charting solutions for their trading systems.
 
 ---
 

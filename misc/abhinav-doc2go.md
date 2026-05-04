@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the 'abhinav/doc2go' project:
+Here's a brief summary for the "abhinav/doc2go" project:
 
-The 'abhinav/doc2go' project is an open-source tool that automatically generates a command-line interface (CLI) to access and interact with a Go project's documentation. This tool simplifies the documentation process by providing a convenient way to access project information, making it easier for developers to navigate and understand the project's structure and functionality.
+"abhinav/doc2go" is an open-source project that facilitates easy access to Go project documentation on the go. It aims to provide a convenient way to view and manage documentation for Go projects, making it a valuable tool for developers. This project is designed to simplify the process of accessing project documentation, saving time and increasing productivity.
 
 ---
 

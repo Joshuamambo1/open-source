@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/AlexAnys/awesome-openclaw-usecases-zh?style=flat-square&color=yellow)](https://github.com/AlexAnys/awesome-openclaw-usecases-zh/stargazers) [![Forks](https://img.shields.io/github/forks/AlexAnys/awesome-openclaw-usecases-zh?style=flat-square&color=blue)](https://github.com/AlexAnys/awesome-openclaw-usecases-zh/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
-> 🇨🇳 OpenClaw中文用例大全 | 49个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases
+> 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Product
+AI/ML · Product
 
 ## 📝 Summary
 

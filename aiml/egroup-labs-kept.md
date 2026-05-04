@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Kept is an open-source project that enables users to search, archive, and recall their conversations with various AI models, including ChatGPT, Claude, Gemini, Grok, and Kimi. Built with a local-first approach, Kept allows for more control and data privacy, and is licensed under the permissive MIT license. This project facilitates seamless interaction with AI models while prioritizing user autonomy and data management.
+Kept is an open-source project that enables users to search, archive, and recall their AI conversations from various platforms such as ChatGPT, Claude, Gemini, Grok, and Kimi. Built with a local-first approach, Kept provides a secure and decentralized way to store and manage AI interactions. Leveraging the MIT license, this project promotes collaboration and innovation in the AI space.
 
 ---
 

@@ -25,9 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the Mattermost Operator for Kubernetes project:
-
-The Mattermost Operator is an open-source project that simplifies the deployment and management of Mattermost, a popular collaboration platform, on Kubernetes clusters. This operator automates the setup and configuration of Mattermost, providing a scalable and highly available solution for teams. With the Mattermost Operator, users can easily install, upgrade, and manage Mattermost across their Kubernetes environment.
+The Mattermost Operator for Kubernetes is an open-source project that streamlines the deployment and management of Mattermost, a popular team communication platform, on container orchestration platforms like Kubernetes. This project provides a scalable and efficient way to run Mattermost in a Kubernetes environment, enabling users to easily configure and monitor their Mattermost instance. By leveraging the Operator framework, Mattermost can be treated as a first-class Kubernetes resource, simplifying its operation and maintenance.
 
 ---
 

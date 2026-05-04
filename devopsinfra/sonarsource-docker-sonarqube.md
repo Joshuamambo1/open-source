@@ -25,9 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the SonarSource/docker-sonarqube project:
-
-The SonarSource/docker-sonarqube project provides a Docker container for SonarQube, a widely used open-source platform for continuous code inspection and quality management. This project allows developers to easily run SonarQube in a containerized environment, simplifying the process of integrating static code analysis into their development workflows. By leveraging Docker, users can quickly spin up a SonarQube instance for testing, development, or production use cases.
+This project, SonarSource/docker-sonarqube, provides a Docker container for SonarQube, a popular open-source tool for continuous code inspection and quality management. It offers an easy-to-use solution for deploying SonarQube in a containerized environment, streamlining the process of integrating code analysis and quality metrics into DevOps pipelines. With this project, developers can quickly set up a SonarQube instance for analyzing their codebase.
 
 ---
 

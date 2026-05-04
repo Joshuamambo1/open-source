@@ -1,6 +1,6 @@
 # iOfficeAI/OfficeCLI
 
-[![Stars](https://img.shields.io/github/stars/iOfficeAI/OfficeCLI?style=flat-square&color=yellow)](https://github.com/iOfficeAI/OfficeCLI/stargazers) [![Forks](https://img.shields.io/github/forks/iOfficeAI/OfficeCLI?style=flat-square&color=blue)](https://github.com/iOfficeAI/OfficeCLI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iOfficeAI/OfficeCLI?style=flat-square&color=yellow)](https://github.com/iOfficeAI/OfficeCLI/stargazers) [![Forks](https://img.shields.io/github/forks/iOfficeAI/OfficeCLI?style=flat-square&color=blue)](https://github.com/iOfficeAI/OfficeCLI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 216 |
+| ⭐ **Stars** | 2.9k |
+| 🍴 **Forks** | 219 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

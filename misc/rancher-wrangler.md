@@ -1,6 +1,6 @@
 # rancher/wrangler
 
-[![Stars](https://img.shields.io/github/stars/rancher/wrangler?style=flat-square&color=yellow)](https://github.com/rancher/wrangler/stargazers) [![Forks](https://img.shields.io/github/forks/rancher/wrangler?style=flat-square&color=blue)](https://github.com/rancher/wrangler/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rancher/wrangler?style=flat-square&color=yellow)](https://github.com/rancher/wrangler/stargazers) [![Forks](https://img.shields.io/github/forks/rancher/wrangler?style=flat-square&color=blue)](https://github.com/rancher/wrangler/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Write controllers like a boss
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 288 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

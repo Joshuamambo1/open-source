@@ -1,6 +1,6 @@
 # nestjs/graphql
 
-[![Stars](https://img.shields.io/github/stars/nestjs/graphql?style=flat-square&color=yellow)](https://github.com/nestjs/graphql/stargazers) [![Forks](https://img.shields.io/github/forks/nestjs/graphql?style=flat-square&color=blue)](https://github.com/nestjs/graphql/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nestjs/graphql?style=flat-square&color=yellow)](https://github.com/nestjs/graphql/stargazers) [![Forks](https://img.shields.io/github/forks/nestjs/graphql?style=flat-square&color=blue)](https://github.com/nestjs/graphql/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > GraphQL (TypeScript) module for Nest framework (node.js) 🍷
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 425 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

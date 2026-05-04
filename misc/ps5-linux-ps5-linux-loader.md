@@ -1,6 +1,6 @@
 # ps5-linux/ps5-linux-loader
 
-[![Stars](https://img.shields.io/github/stars/ps5-linux/ps5-linux-loader?style=flat-square&color=yellow)](https://github.com/ps5-linux/ps5-linux-loader/stargazers) [![Forks](https://img.shields.io/github/forks/ps5-linux/ps5-linux-loader?style=flat-square&color=blue)](https://github.com/ps5-linux/ps5-linux-loader/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ps5-linux/ps5-linux-loader?style=flat-square&color=yellow)](https://github.com/ps5-linux/ps5-linux-loader/stargazers) [![Forks](https://img.shields.io/github/forks/ps5-linux/ps5-linux-loader?style=flat-square&color=blue)](https://github.com/ps5-linux/ps5-linux-loader/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Linux payload implementing the HV exploit and a custom bootloader
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 71 |
+| 🍴 **Forks** | 73 |
 | 💻 **Language** | C |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

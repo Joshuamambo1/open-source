@@ -25,7 +25,9 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-Wallace-cli is an open-source project that provides a command-line interface for analyzing and visualizing CSS styles. It generates a detailed report with pretty analytics, helping developers understand and optimize their CSS usage. This tool is ideal for those who prefer a text-based interface or need to integrate CSS analysis into their existing workflows.
+Here's a brief summary for the project:
+
+Project Wallace is an open-source command-line interface (CLI) tool that provides detailed CSS analytics and insights. It offers a straightforward and visually appealing way to analyze and understand CSS performance on the command line. By leveraging Wallace, developers can optimize and refine their front-end code, leading to faster and more efficient web applications.
 
 ---
 

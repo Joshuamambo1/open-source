@@ -1,6 +1,6 @@
 # kingbootoshi/ghostbox
 
-[![Stars](https://img.shields.io/github/stars/kingbootoshi/ghostbox?style=flat-square&color=yellow)](https://github.com/kingbootoshi/ghostbox/stargazers) [![Forks](https://img.shields.io/github/forks/kingbootoshi/ghostbox?style=flat-square&color=blue)](https://github.com/kingbootoshi/ghostbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kingbootoshi/ghostbox?style=flat-square&color=yellow)](https://github.com/kingbootoshi/ghostbox/stargazers) [![Forks](https://img.shields.io/github/forks/kingbootoshi/ghostbox?style=flat-square&color=blue)](https://github.com/kingbootoshi/ghostbox/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Distributed AI agent orchestration - self-evolving ghosts in sandboxed containers
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 3 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | Swift |
 | 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

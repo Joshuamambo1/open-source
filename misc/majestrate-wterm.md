@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project majestrate/wterm:
-
-wterm is an open-source, Wayland-enabled terminal emulator forked from st, providing users with a customizable and efficient terminal experience. This project offers an alternative to traditional terminal emulators, designed to work seamlessly with Wayland-based desktop environments. wterm's flexible architecture makes it an attractive option for developers and users seeking a high-performance terminal solution.
+Wterm is an open-source, Wayland-compliant terminal emulator that aims to provide a high-performance, customizable, and user-friendly experience. It is a fork of the st terminal, offering a modern twist on the classic terminal. With its focus on Wayland compatibility, wterm enables seamless integration with the latest Linux desktop environments.
 
 ---
 

@@ -25,7 +25,9 @@ Frontend · Data
 
 ## 📝 Summary
 
-Datafusion-postgres is an open-source project that provides a Postgres protocol frontend for DataFusion, allowing users to interact with DataFusion through standard Postgres commands. This enables seamless integration with existing Postgres clients and tools, making it easier to work with DataFusion. The project contributes to the DataFusion ecosystem by expanding its connectivity options.
+Here's a brief summary for the open-source project:
+
+The datafusion-postgres project provides a Postgres protocol frontend for DataFusion, enabling seamless interaction between DataFusion and PostgreSQL databases. This frontend facilitates the exchange of data between DataFusion and PostgreSQL, allowing users to leverage the capabilities of both systems. By integrating with DataFusion, users can access and query PostgreSQL data more efficiently.
 
 ---
 

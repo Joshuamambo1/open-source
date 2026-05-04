@@ -1,6 +1,6 @@
 # wlucha/angular-starter
 
-[![Stars](https://img.shields.io/github/stars/wlucha/angular-starter?style=flat-square&color=yellow)](https://github.com/wlucha/angular-starter/stargazers) [![Forks](https://img.shields.io/github/forks/wlucha/angular-starter?style=flat-square&color=blue)](https://github.com/wlucha/angular-starter/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wlucha/angular-starter?style=flat-square&color=yellow)](https://github.com/wlucha/angular-starter/stargazers) [![Forks](https://img.shields.io/github/forks/wlucha/angular-starter?style=flat-square&color=blue)](https://github.com/wlucha/angular-starter/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > :rocket: Angular 21 Starter with Jest, Playwright, Transloco, Material, Tailwind, Storybook, Docker, ESLint & Prettier :rocket:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 414 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

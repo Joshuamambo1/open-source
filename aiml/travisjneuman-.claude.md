@@ -1,6 +1,6 @@
 # travisjneuman/.claude
 
-[![Stars](https://img.shields.io/github/stars/travisjneuman/.claude?style=flat-square&color=yellow)](https://github.com/travisjneuman/.claude/stargazers) [![Forks](https://img.shields.io/github/forks/travisjneuman/.claude?style=flat-square&color=blue)](https://github.com/travisjneuman/.claude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/travisjneuman/.claude?style=flat-square&color=yellow)](https://github.com/travisjneuman/.claude/stargazers) [![Forks](https://img.shields.io/github/forks/travisjneuman/.claude?style=flat-square&color=blue)](https://github.com/travisjneuman/.claude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The Ultimate Claude Code Toolkit — 127 skills, 86 agents, 109 marketplace repos (11,700+ community skills), 30 commands, 8 hooks, GSD framework. Drop-in ~/.claude config that auto-activates the right resources from your prompt. Zero config required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

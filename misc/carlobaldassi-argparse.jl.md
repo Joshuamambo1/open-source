@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The ArgParse.jl package is an open-source tool for parsing command-line arguments in Julia programs. It provides a flexible and user-friendly way to handle command-line inputs, allowing developers to easily create robust and interactive command-line interfaces. With ArgParse.jl, users can define custom argument structures and options to suit their program's needs.
+ArgParse.jl is an open-source package for Julia that simplifies parsing command-line arguments in Julia programs. It allows developers to easily define the structure of their command-line interface and validate user input. With ArgParse.jl, users can write more robust and user-friendly command-line interfaces for their Julia applications.
 
 ---
 

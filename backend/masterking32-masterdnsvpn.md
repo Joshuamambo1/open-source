@@ -25,7 +25,9 @@ Backend · DevTools
 
 ## 📝 Summary
 
-MasterDnsVPN is an open-source project that offers a highly optimized DNS tunneling VPN solution for bypassing censorship. This advanced tool boasts features such as low-overhead ARQ, resolver load balancing, and high packet-loss stability, ensuring a fast and reliable connection. By leveraging these capabilities, users can securely access the internet and overcome online restrictions.
+Here's a brief summary for the MasterDnsVPN project:
+
+MasterDnsVPN is an open-source, advanced DNS tunneling VPN designed for censorship bypass and optimized for high-speed performance. Built with low-overhead ARQ (Automatic Repeat Request) and resolver load balancing, this project enhances stability and speed compared to existing solutions like DNSTT and SlipStream. Its robust features make it a reliable tool for users seeking to bypass online restrictions.
 
 ---
 

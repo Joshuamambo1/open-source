@@ -1,6 +1,6 @@
 # MercuryWorkshop/scramjet
 
-[![Stars](https://img.shields.io/github/stars/MercuryWorkshop/scramjet?style=flat-square&color=yellow)](https://github.com/MercuryWorkshop/scramjet/stargazers) [![Forks](https://img.shields.io/github/forks/MercuryWorkshop/scramjet?style=flat-square&color=blue)](https://github.com/MercuryWorkshop/scramjet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MercuryWorkshop/scramjet?style=flat-square&color=yellow)](https://github.com/MercuryWorkshop/scramjet/stargazers) [![Forks](https://img.shields.io/github/forks/MercuryWorkshop/scramjet?style=flat-square&color=blue)](https://github.com/MercuryWorkshop/scramjet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Scramjet is a versatile web proxy designed to bypass internet censorship.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 407 |
+| ⭐ **Stars** | 408 |
 | 🍴 **Forks** | 710 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

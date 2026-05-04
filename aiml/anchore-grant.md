@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Anchore Grant is an open-source license scanner designed to identify and analyze the licensing of container images and filesystems. This AI-powered tool helps users understand the licensing implications of their dependencies and maintain compliance with licensing regulations. By scanning container images and filesystems, Anchore Grant provides valuable insights into the open-source components used within applications.
+Anchore Grant is an open-source license scanner designed to detect and identify licenses in container images and filesystems, providing valuable insights for companies to manage their intellectual property and compliance. Leveraging AI/ML capabilities, the tool efficiently scans and analyzes large datasets to accurately identify software licenses. By automating this process, Anchore Grant aids organizations in maintaining a comprehensive view of their software assets.
 
 ---
 

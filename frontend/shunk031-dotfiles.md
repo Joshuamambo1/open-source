@@ -1,6 +1,6 @@
 # shunk031/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/shunk031/dotfiles?style=flat-square&color=yellow)](https://github.com/shunk031/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/shunk031/dotfiles?style=flat-square&color=blue)](https://github.com/shunk031/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shunk031/dotfiles?style=flat-square&color=yellow)](https://github.com/shunk031/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/shunk031/dotfiles?style=flat-square&color=blue)](https://github.com/shunk031/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 💻 My dotfiles powered by chezmoi; Primarily built with Rust-based applications (sheldon/startship/mise etc.)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

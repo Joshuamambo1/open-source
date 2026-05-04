@@ -1,6 +1,6 @@
 # tonkotsu-ai/handle
 
-[![Stars](https://img.shields.io/github/stars/tonkotsu-ai/handle?style=flat-square&color=yellow)](https://github.com/tonkotsu-ai/handle/stargazers) [![Forks](https://img.shields.io/github/forks/tonkotsu-ai/handle?style=flat-square&color=blue)](https://github.com/tonkotsu-ai/handle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tonkotsu-ai/handle?style=flat-square&color=yellow)](https://github.com/tonkotsu-ai/handle/stargazers) [![Forks](https://img.shields.io/github/forks/tonkotsu-ai/handle?style=flat-square&color=blue)](https://github.com/tonkotsu-ai/handle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Refine UI directly in the browser and feed the changes to your coding agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

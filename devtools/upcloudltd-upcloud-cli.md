@@ -1,6 +1,6 @@
 # UpCloudLtd/upcloud-cli
 
-[![Stars](https://img.shields.io/github/stars/UpCloudLtd/upcloud-cli?style=flat-square&color=yellow)](https://github.com/UpCloudLtd/upcloud-cli/stargazers) [![Forks](https://img.shields.io/github/forks/UpCloudLtd/upcloud-cli?style=flat-square&color=blue)](https://github.com/UpCloudLtd/upcloud-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UpCloudLtd/upcloud-cli?style=flat-square&color=yellow)](https://github.com/UpCloudLtd/upcloud-cli/stargazers) [![Forks](https://img.shields.io/github/forks/UpCloudLtd/upcloud-cli?style=flat-square&color=blue)](https://github.com/UpCloudLtd/upcloud-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > UpCloud command line client (upctl)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

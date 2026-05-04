@@ -1,6 +1,6 @@
 # yousifamanuel/terraink
 
-[![Stars](https://img.shields.io/github/stars/yousifamanuel/terraink?style=flat-square&color=yellow)](https://github.com/yousifamanuel/terraink/stargazers) [![Forks](https://img.shields.io/github/forks/yousifamanuel/terraink?style=flat-square&color=blue)](https://github.com/yousifamanuel/terraink/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yousifamanuel/terraink?style=flat-square&color=yellow)](https://github.com/yousifamanuel/terraink/stargazers) [![Forks](https://img.shields.io/github/forks/yousifamanuel/terraink?style=flat-square&color=blue)](https://github.com/yousifamanuel/terraink/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Terraink: The Cartographic Poster Engine that creates unique and customizable map posters
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 327 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

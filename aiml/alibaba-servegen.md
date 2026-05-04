@@ -25,7 +25,7 @@ AI/ML · Marketing
 
 ## 📝 Summary
 
-ServeGen is an open-source framework designed to generate realistic Large Language Model (LLM) serving workloads. This tool helps developers and researchers create authentic simulations of LLM interactions, facilitating the testing and optimization of AI models in production environments. By utilizing ServeGen, users can streamline the development and deployment of AI-powered applications with increased efficiency and accuracy.
+ServeGen is an open-source framework designed to generate realistic Large Language Model (LLM) serving workloads. This tool enables developers to simulate and test the performance of LLMs in various scenarios, facilitating the optimization and improvement of these models. By providing a realistic workload generation framework, ServeGen helps accelerate the development and deployment of efficient LLM serving systems.
 
 ---
 

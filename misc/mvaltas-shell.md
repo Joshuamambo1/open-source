@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, "shell" by mvaltas, provides a collection of shell functions and aliases that can enhance user experience and productivity when working in the terminal. The repository offers a set of custom commands that simplify various tasks, making it easier to navigate and manage files, directories, and system processes. By utilizing these functions, users can streamline their shell workflow and increase efficiency.
+This open-source project, 'shell' by mvaltas, provides a collection of shell functions and aliases to enhance the user experience and streamline various tasks. The project aims to offer a set of convenient and reusable commands for users to simplify their workflow and improve terminal efficiency. By using these functions and aliases, users can automate repetitive tasks and increase productivity.
 
 ---
 

@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Concourse/docker-image-resource is an open-source project that allows users to easily manage and integrate Docker images within their continuous integration and continuous deployment (CI/CD) pipelines. This resource enables seamless automation of Docker image building, pushing, and pulling, streamlining the process of deploying containerized applications. By leveraging this project, users can simplify their DevOps workflows and improve overall efficiency.
+The Concourse Docker Image Resource is an open-source project that enables seamless integration of Docker images into Concourse pipelines. This resource allows users to fetch, build, and manage Docker images from various sources, simplifying the DevOps and infrastructure processes. By leveraging this resource, teams can automate Docker image management and streamline their pipeline workflows.
 
 ---
 

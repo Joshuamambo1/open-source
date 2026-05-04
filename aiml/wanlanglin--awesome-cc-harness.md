@@ -1,6 +1,6 @@
 # WanLanglin/-awesome-cc-harness
 
-[![Stars](https://img.shields.io/github/stars/WanLanglin/-awesome-cc-harness?style=flat-square&color=yellow)](https://github.com/WanLanglin/-awesome-cc-harness/stargazers) [![Forks](https://img.shields.io/github/forks/WanLanglin/-awesome-cc-harness?style=flat-square&color=blue)](https://github.com/WanLanglin/-awesome-cc-harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WanLanglin/-awesome-cc-harness?style=flat-square&color=yellow)](https://github.com/WanLanglin/-awesome-cc-harness/stargazers) [![Forks](https://img.shields.io/github/forks/WanLanglin/-awesome-cc-harness?style=flat-square&color=blue)](https://github.com/WanLanglin/-awesome-cc-harness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Reverse-engineering Claude Code's 512K LOC TypeScript source: agent loop, tool system, permission model, Grove training pipeline, anti-distillation defense
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

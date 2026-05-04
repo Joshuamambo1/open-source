@@ -1,6 +1,6 @@
 # Human-Agent-Society/CORAL
 
-[![Stars](https://img.shields.io/github/stars/Human-Agent-Society/CORAL?style=flat-square&color=yellow)](https://github.com/Human-Agent-Society/CORAL/stargazers) [![Forks](https://img.shields.io/github/forks/Human-Agent-Society/CORAL?style=flat-square&color=blue)](https://github.com/Human-Agent-Society/CORAL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Human-Agent-Society/CORAL?style=flat-square&color=yellow)](https://github.com/Human-Agent-Society/CORAL/stargazers) [![Forks](https://img.shields.io/github/forks/Human-Agent-Society/CORAL?style=flat-square&color=blue)](https://github.com/Human-Agent-Society/CORAL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 614 |
-| 🍴 **Forks** | 79 |
+| ⭐ **Stars** | 615 |
+| 🍴 **Forks** | 81 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

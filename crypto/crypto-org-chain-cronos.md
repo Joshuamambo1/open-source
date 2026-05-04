@@ -1,6 +1,6 @@
 # crypto-org-chain/cronos
 
-[![Stars](https://img.shields.io/github/stars/crypto-org-chain/cronos?style=flat-square&color=yellow)](https://github.com/crypto-org-chain/cronos/stargazers) [![Forks](https://img.shields.io/github/forks/crypto-org-chain/cronos?style=flat-square&color=blue)](https://github.com/crypto-org-chain/cronos/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crypto-org-chain/cronos?style=flat-square&color=yellow)](https://github.com/crypto-org-chain/cronos/stargazers) [![Forks](https://img.shields.io/github/forks/crypto-org-chain/cronos?style=flat-square&color=blue)](https://github.com/crypto-org-chain/cronos/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Cronos is the first Ethereum-compatible blockchain network built on Cosmos SDK technology. Cronos aims to massively scale the DeFi, GameFi, and overall Web3 user community by providing builders with the ability to instantly port apps and crypto assets from other chains while benefiting from low transaction fees, high throughput, and fast finality.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 325 |
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # havenweb/haven
 
-[![Stars](https://img.shields.io/github/stars/havenweb/haven?style=flat-square&color=yellow)](https://github.com/havenweb/haven/stargazers) [![Forks](https://img.shields.io/github/forks/havenweb/haven?style=flat-square&color=blue)](https://github.com/havenweb/haven/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/havenweb/haven?style=flat-square&color=yellow)](https://github.com/havenweb/haven/stargazers) [![Forks](https://img.shields.io/github/forks/havenweb/haven?style=flat-square&color=blue)](https://github.com/havenweb/haven/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hostable private blogging
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 773 |
+| ⭐ **Stars** | 774 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

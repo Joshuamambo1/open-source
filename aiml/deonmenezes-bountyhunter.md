@@ -25,9 +25,9 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the deonmenezes/bountyhunter project:
+Here's a 2-3 sentence summary for the open-source project:
 
-The deonmenezes/bountyhunter is an open-source, autonomous bug bounty hunting framework designed for Claude Code. This AI-powered framework utilizes a 7-phase finite state machine (FSM), parallel hunter agents, and a 3-round adversarial verification process to efficiently identify vulnerabilities. It also features a speed-tunable control plane with multiple harness modes for flexible deployment.
+"BountyHunter is an autonomous bug bounty hunting framework designed for Claude Code, utilizing a 7-phase Finite State Machine (FSM) to efficiently identify vulnerabilities. Equipped with parallel hunter agents and a 3-round adversarial verification process, BountyHunter ensures robust security through the MCP control plane. This open-source framework offers customizable speed modes, allowing users to adjust the pace of the hunting process."
 
 ---
 

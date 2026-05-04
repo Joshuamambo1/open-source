@@ -1,6 +1,6 @@
 # ldez/traefik-certs-dumper
 
-[![Stars](https://img.shields.io/github/stars/ldez/traefik-certs-dumper?style=flat-square&color=yellow)](https://github.com/ldez/traefik-certs-dumper/stargazers) [![Forks](https://img.shields.io/github/forks/ldez/traefik-certs-dumper?style=flat-square&color=blue)](https://github.com/ldez/traefik-certs-dumper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ldez/traefik-certs-dumper?style=flat-square&color=yellow)](https://github.com/ldez/traefik-certs-dumper/stargazers) [![Forks](https://img.shields.io/github/forks/ldez/traefik-certs-dumper?style=flat-square&color=blue)](https://github.com/ldez/traefik-certs-dumper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Dump ACME data from Traefik to certificates
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 607 |
+| ⭐ **Stars** | 608 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

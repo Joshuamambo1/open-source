@@ -1,6 +1,6 @@
 # UmeLabs/node.umelabs.dev
 
-[![Stars](https://img.shields.io/github/stars/UmeLabs/node.umelabs.dev?style=flat-square&color=yellow)](https://github.com/UmeLabs/node.umelabs.dev/stargazers) [![Forks](https://img.shields.io/github/forks/UmeLabs/node.umelabs.dev?style=flat-square&color=blue)](https://github.com/UmeLabs/node.umelabs.dev/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UmeLabs/node.umelabs.dev?style=flat-square&color=yellow)](https://github.com/UmeLabs/node.umelabs.dev/stargazers) [![Forks](https://img.shields.io/github/forks/UmeLabs/node.umelabs.dev?style=flat-square&color=blue)](https://github.com/UmeLabs/node.umelabs.dev/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 每天24:00点前更新免费SS/SSR节点
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

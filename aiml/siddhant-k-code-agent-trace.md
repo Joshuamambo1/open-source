@@ -1,6 +1,6 @@
 # Siddhant-K-code/agent-trace
 
-[![Stars](https://img.shields.io/github/stars/Siddhant-K-code/agent-trace?style=flat-square&color=yellow)](https://github.com/Siddhant-K-code/agent-trace/stargazers) [![Forks](https://img.shields.io/github/forks/Siddhant-K-code/agent-trace?style=flat-square&color=blue)](https://github.com/Siddhant-K-code/agent-trace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Siddhant-K-code/agent-trace?style=flat-square&color=yellow)](https://github.com/Siddhant-K-code/agent-trace/stargazers) [![Forks](https://img.shields.io/github/forks/Siddhant-K-code/agent-trace?style=flat-square&color=blue)](https://github.com/Siddhant-K-code/agent-trace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > strace for AI agents. Capture and replay every tool call, prompt, and response from Claude Code, Cursor, Gemini CLI or any MCP client
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

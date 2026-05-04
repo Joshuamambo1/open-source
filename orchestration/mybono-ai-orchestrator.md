@@ -25,7 +25,9 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Mybono/ai-orchestrator is an open-source project that enables portable, multi-agent AI development setup for Claude Code and Ollama. This Bash-based orchestration tool allows for role-based local Large Language Model (LLM) management, streamlining tasks such as planning, coding, reviewing, and committing. With zero dependencies, it supports any language stack, making it a versatile and accessible solution for AI and ML development.
+Here's a brief summary for the Mybono/ai-orchestrator project:
+
+The Mybono/ai-orchestrator is an open-source project that provides a portable, multi-agent AI development setup for Claude Code and Ollama. This Bash-based, role-based local LLM (Large Language Model) orchestration tool enables effortless planning, coding, reviewing, and committing of AI projects, with zero dependencies required. It supports any language stack, making it a versatile and powerful tool for AI/ML development and DevOps.
 
 ---
 

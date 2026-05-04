@@ -1,6 +1,6 @@
 # augurlabs/augur
 
-[![Stars](https://img.shields.io/github/stars/augurlabs/augur?style=flat-square&color=yellow)](https://github.com/augurlabs/augur/stargazers) [![Forks](https://img.shields.io/github/forks/augurlabs/augur?style=flat-square&color=blue)](https://github.com/augurlabs/augur/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/augurlabs/augur?style=flat-square&color=yellow)](https://github.com/augurlabs/augur/stargazers) [![Forks](https://img.shields.io/github/forks/augurlabs/augur?style=flat-square&color=blue)](https://github.com/augurlabs/augur/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Python library and web service for Open Source Software Health and Sustainability metrics & data collection. You can find our documentation and new contributor information easily here: https://oss-augur.readthedocs.io/en/main/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 695 |
 | 🍴 **Forks** | 992 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

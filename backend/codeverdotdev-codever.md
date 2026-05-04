@@ -1,6 +1,6 @@
 # CodeverDotDev/codever
 
-[![Stars](https://img.shields.io/github/stars/CodeverDotDev/codever?style=flat-square&color=yellow)](https://github.com/CodeverDotDev/codever/stargazers) [![Forks](https://img.shields.io/github/forks/CodeverDotDev/codever?style=flat-square&color=blue)](https://github.com/CodeverDotDev/codever/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CodeverDotDev/codever?style=flat-square&color=yellow)](https://github.com/CodeverDotDev/codever/stargazers) [![Forks](https://img.shields.io/github/forks/CodeverDotDev/codever?style=flat-square&color=blue)](https://github.com/CodeverDotDev/codever/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Bookmarks, Snippets and Notes Manager for Developers & Co (website)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

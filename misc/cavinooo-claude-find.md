@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Claude-Find is an open-source project that enables users to retrieve and access deep memory from their Claude code sessions. This tool provides a convenient way to pull information from past interactions with the Claude AI model, streamlining the development process and enhancing productivity. By utilizing Claude-Find, developers can easily access and utilize relevant data from previous sessions.
+Claude-Find is an open-source project designed to help users retrieve information from their Claude code sessions across various instances. This tool allows users to pull deep memory from their Claude interactions, making it easier to recall and reuse previously discussed topics or code snippets. By utilizing Claude-Find, users can streamline their workflow and enhance productivity within their code development sessions.
 
 ---
 

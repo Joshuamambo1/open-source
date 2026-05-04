@@ -1,6 +1,6 @@
 # Automattic/newspack-plugin
 
-[![Stars](https://img.shields.io/github/stars/Automattic/newspack-plugin?style=flat-square&color=yellow)](https://github.com/Automattic/newspack-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Automattic/newspack-plugin?style=flat-square&color=blue)](https://github.com/Automattic/newspack-plugin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Automattic/newspack-plugin?style=flat-square&color=yellow)](https://github.com/Automattic/newspack-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Automattic/newspack-plugin?style=flat-square&color=blue)](https://github.com/Automattic/newspack-plugin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > An advanced open-source publishing and revenue-generating platform for news organizations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

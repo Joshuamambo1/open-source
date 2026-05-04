@@ -1,6 +1,6 @@
 # tlbx-ai/MidTerm
 
-[![Stars](https://img.shields.io/github/stars/tlbx-ai/MidTerm?style=flat-square&color=yellow)](https://github.com/tlbx-ai/MidTerm/stargazers) [![Forks](https://img.shields.io/github/forks/tlbx-ai/MidTerm?style=flat-square&color=blue)](https://github.com/tlbx-ai/MidTerm/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tlbx-ai/MidTerm?style=flat-square&color=yellow)](https://github.com/tlbx-ai/MidTerm/stargazers) [![Forks](https://img.shields.io/github/forks/tlbx-ai/MidTerm?style=flat-square&color=blue)](https://github.com/tlbx-ai/MidTerm/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Browser based agent orchestrator / You host the server wherever you want / Harnesses all CLI AI harnesses / Mobile and VR Voice coding
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

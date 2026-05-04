@@ -1,6 +1,6 @@
 # aaron-he-zhu/seo-geo-claude-skills
 
-[![Stars](https://img.shields.io/github/stars/aaron-he-zhu/seo-geo-claude-skills?style=flat-square&color=yellow)](https://github.com/aaron-he-zhu/seo-geo-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/aaron-he-zhu/seo-geo-claude-skills?style=flat-square&color=blue)](https://github.com/aaron-he-zhu/seo-geo-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aaron-he-zhu/seo-geo-claude-skills?style=flat-square&color=yellow)](https://github.com/aaron-he-zhu/seo-geo-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/aaron-he-zhu/seo-geo-claude-skills?style=flat-square&color=blue)](https://github.com/aaron-he-zhu/seo-geo-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content writing, technical audits, rank tracking. CORE-EEAT + CITE frameworks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # benjaminshoemaker/ai_coding_project_base
 
-[![Stars](https://img.shields.io/github/stars/benjaminshoemaker/ai_coding_project_base?style=flat-square&color=yellow)](https://github.com/benjaminshoemaker/ai_coding_project_base/stargazers) [![Forks](https://img.shields.io/github/forks/benjaminshoemaker/ai_coding_project_base?style=flat-square&color=blue)](https://github.com/benjaminshoemaker/ai_coding_project_base/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/benjaminshoemaker/ai_coding_project_base?style=flat-square&color=yellow)](https://github.com/benjaminshoemaker/ai_coding_project_base/stargazers) [![Forks](https://img.shields.io/github/forks/benjaminshoemaker/ai_coding_project_base?style=flat-square&color=blue)](https://github.com/benjaminshoemaker/ai_coding_project_base/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > A structured prompt framework for building software products with AI coding assistants. This toolkit guides you through product specification, technical design, and implementation planning—producing documents that AI agents can execute against.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

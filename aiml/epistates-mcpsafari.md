@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the Epistates/MCPSafari project:
-
-MCPSafari is an open-source, native Safari MCP (Multi-Criteria Problem) server designed specifically for AI agents. This project allows for seamless integration of AI decision-making capabilities with the Safari browser, enabling efficient and informed decision-making processes. By leveraging the MCP framework, MCPSafari facilitates the development of sophisticated AI-powered applications.
+MCPSafari is an open-source, native Safari MCP (Multi-Client/Protocol) server designed specifically for AI agents. This project allows for seamless communication between AI agents and the Safari browser, facilitating the development of AI-powered applications that interact with web content. By providing a native MCP server, MCPSafari streamlines the process of integrating AI agents with web-based systems.
 
 ---
 

@@ -1,6 +1,6 @@
 # junhoyeo/tokscale
 
-[![Stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=flat-square&color=yellow)](https://github.com/junhoyeo/tokscale/stargazers) [![Forks](https://img.shields.io/github/forks/junhoyeo/tokscale?style=flat-square&color=blue)](https://github.com/junhoyeo/tokscale/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=flat-square&color=yellow)](https://github.com/junhoyeo/tokscale/stargazers) [![Forks](https://img.shields.io/github/forks/junhoyeo/tokscale?style=flat-square&color=blue)](https://github.com/junhoyeo/tokscale/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 169 |
+| 🍴 **Forks** | 171 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

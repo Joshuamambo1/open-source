@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 766 |
-| 🍴 **Forks** | 70 |
+| ⭐ **Stars** | 767 |
+| 🍴 **Forks** | 69 |
 | 💻 **Language** | HLSL |
 | 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |

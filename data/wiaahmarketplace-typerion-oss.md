@@ -1,6 +1,6 @@
 # wiaahmarketplace/typerion-oss
 
-[![Stars](https://img.shields.io/github/stars/wiaahmarketplace/typerion-oss?style=flat-square&color=yellow)](https://github.com/wiaahmarketplace/typerion-oss/stargazers) [![Forks](https://img.shields.io/github/forks/wiaahmarketplace/typerion-oss?style=flat-square&color=blue)](https://github.com/wiaahmarketplace/typerion-oss/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wiaahmarketplace/typerion-oss?style=flat-square&color=yellow)](https://github.com/wiaahmarketplace/typerion-oss/stargazers) [![Forks](https://img.shields.io/github/forks/wiaahmarketplace/typerion-oss?style=flat-square&color=blue)](https://github.com/wiaahmarketplace/typerion-oss/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Detect cross-target data inconsistencies before they hit production
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | Shell |
 | 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |

@@ -1,6 +1,6 @@
 # OpenSpace/OpenSpace
 
-[![Stars](https://img.shields.io/github/stars/OpenSpace/OpenSpace?style=flat-square&color=yellow)](https://github.com/OpenSpace/OpenSpace/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSpace/OpenSpace?style=flat-square&color=blue)](https://github.com/OpenSpace/OpenSpace/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenSpace/OpenSpace?style=flat-square&color=yellow)](https://github.com/OpenSpace/OpenSpace/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSpace/OpenSpace?style=flat-square&color=blue)](https://github.com/OpenSpace/OpenSpace/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > This is the official GitHub repository for OpenSpace: an open source astrovisualization project. For instructions on how to build and run OpenSpace, see the Getting Started Guides on the wiki page at http://docs.openspaceproject.com.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 186 |
+| 🍴 **Forks** | 188 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

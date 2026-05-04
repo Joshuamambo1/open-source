@@ -1,6 +1,6 @@
 # lotus-data/lotus
 
-[![Stars](https://img.shields.io/github/stars/lotus-data/lotus?style=flat-square&color=yellow)](https://github.com/lotus-data/lotus/stargazers) [![Forks](https://img.shields.io/github/forks/lotus-data/lotus?style=flat-square&color=blue)](https://github.com/lotus-data/lotus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lotus-data/lotus?style=flat-square&color=yellow)](https://github.com/lotus-data/lotus/stargazers) [![Forks](https://img.shields.io/github/forks/lotus-data/lotus?style=flat-square&color=blue)](https://github.com/lotus-data/lotus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > AI-Powered Data Processing: Use LOTUS to process all of your datasets with LLMs and embeddings. Enjoy up to 1000x speedups with fast, accurate query processing, that's as simple as writing Pandas code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

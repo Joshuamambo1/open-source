@@ -1,6 +1,6 @@
 # matt1398/claude-devtools
 
-[![Stars](https://img.shields.io/github/stars/matt1398/claude-devtools?style=flat-square&color=yellow)](https://github.com/matt1398/claude-devtools/stargazers) [![Forks](https://img.shields.io/github/forks/matt1398/claude-devtools?style=flat-square&color=blue)](https://github.com/matt1398/claude-devtools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matt1398/claude-devtools?style=flat-square&color=yellow)](https://github.com/matt1398/claude-devtools/stargazers) [![Forks](https://img.shields.io/github/forks/matt1398/claude-devtools?style=flat-square&color=blue)](https://github.com/matt1398/claude-devtools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 243 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

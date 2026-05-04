@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-DeepSeek-MCP is an open-source, lightweight server that enables easy integration of DeepSeek as a supervised worker with Claude Code, Codex, or any other MCP client. This project provides a cost-effective solution for utilizing DeepSeek's capabilities within a larger AI framework. It serves as a dev tool for developers working with MCP clients and AI/ML applications.
+The DeepSeek MCP server is an open-source stdio server that provides a cost-effective supervised worker for integrating AI models like Claude Code and Codex into various MCP clients. This lightweight server enables developers to leverage the capabilities of these advanced models within their applications. It is designed for use in AI/ML and backend development.
 
 ---
 

@@ -1,6 +1,6 @@
 # SAP/spartacus
 
-[![Stars](https://img.shields.io/github/stars/SAP/spartacus?style=flat-square&color=yellow)](https://github.com/SAP/spartacus/stargazers) [![Forks](https://img.shields.io/github/forks/SAP/spartacus?style=flat-square&color=blue)](https://github.com/SAP/spartacus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SAP/spartacus?style=flat-square&color=yellow)](https://github.com/SAP/spartacus/stargazers) [![Forks](https://img.shields.io/github/forks/SAP/spartacus?style=flat-square&color=blue)](https://github.com/SAP/spartacus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Spartacus is a lean, Angular-based JavaScript storefront for SAP Commerce Cloud that communicates exclusively through the Commerce REST API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 779 |
 | 🍴 **Forks** | 408 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

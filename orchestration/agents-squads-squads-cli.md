@@ -1,6 +1,6 @@
 # agents-squads/squads-cli
 
-[![Stars](https://img.shields.io/github/stars/agents-squads/squads-cli?style=flat-square&color=yellow)](https://github.com/agents-squads/squads-cli/stargazers) [![Forks](https://img.shields.io/github/forks/agents-squads/squads-cli?style=flat-square&color=blue)](https://github.com/agents-squads/squads-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agents-squads/squads-cli?style=flat-square&color=yellow)](https://github.com/agents-squads/squads-cli/stargazers) [![Forks](https://img.shields.io/github/forks/agents-squads/squads-cli?style=flat-square&color=blue)](https://github.com/agents-squads/squads-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > CLI for managing AI agent squads. Status, memory, goals, feedback, and dashboard for your autonomous agents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 43 |
+| ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

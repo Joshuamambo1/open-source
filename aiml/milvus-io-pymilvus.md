@@ -1,6 +1,6 @@
 # milvus-io/pymilvus
 
-[![Stars](https://img.shields.io/github/stars/milvus-io/pymilvus?style=flat-square&color=yellow)](https://github.com/milvus-io/pymilvus/stargazers) [![Forks](https://img.shields.io/github/forks/milvus-io/pymilvus?style=flat-square&color=blue)](https://github.com/milvus-io/pymilvus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/milvus-io/pymilvus?style=flat-square&color=yellow)](https://github.com/milvus-io/pymilvus/stargazers) [![Forks](https://img.shields.io/github/forks/milvus-io/pymilvus?style=flat-square&color=blue)](https://github.com/milvus-io/pymilvus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Python SDK for Milvus Vector Database
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 430 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

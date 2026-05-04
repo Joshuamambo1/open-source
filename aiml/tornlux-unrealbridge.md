@@ -25,7 +25,7 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-TornLux/UnrealBridge is an open-source project that provides a typed control surface for Unreal Engine, allowing AI agents to interact with assets, author Blueprints and AnimBPs, and edit levels with undoable writes and reactive events. This project enables AI agents to have a more intuitive and collaborative experience within the Unreal Engine environment. It integrates AI/ML capabilities with frontend and security features.
+TornLux/UnrealBridge is an open-source project that provides a typed control surface for Unreal Engine, allowing AI agents to interact with assets and levels in a more intuitive and controlled manner. This project enables AI agents to author Blueprints, AnimBPs, and edit levels, while also providing reactive events and undoable writes for a more seamless editing experience. By leveraging Unreal Engine's capabilities, TornLux/UnrealBridge unlocks new possibilities for AI-driven content creation and level editing.
 
 ---
 

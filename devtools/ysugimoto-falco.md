@@ -1,6 +1,6 @@
 # ysugimoto/falco
 
-[![Stars](https://img.shields.io/github/stars/ysugimoto/falco?style=flat-square&color=yellow)](https://github.com/ysugimoto/falco/stargazers) [![Forks](https://img.shields.io/github/forks/ysugimoto/falco?style=flat-square&color=blue)](https://github.com/ysugimoto/falco/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ysugimoto/falco?style=flat-square&color=yellow)](https://github.com/ysugimoto/falco/stargazers) [![Forks](https://img.shields.io/github/forks/ysugimoto/falco?style=flat-square&color=blue)](https://github.com/ysugimoto/falco/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > falco is a VCL developer tool dedicated to Fastly
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

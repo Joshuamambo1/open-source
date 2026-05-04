@@ -1,6 +1,6 @@
 # StressOzz/Zapret-Manager
 
-[![Stars](https://img.shields.io/github/stars/StressOzz/Zapret-Manager?style=flat-square&color=yellow)](https://github.com/StressOzz/Zapret-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/StressOzz/Zapret-Manager?style=flat-square&color=blue)](https://github.com/StressOzz/Zapret-Manager/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StressOzz/Zapret-Manager?style=flat-square&color=yellow)](https://github.com/StressOzz/Zapret-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/StressOzz/Zapret-Manager?style=flat-square&color=blue)](https://github.com/StressOzz/Zapret-Manager/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Универсальный менеджер для обхода блокировок на OpenWrt
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 49 |
+| 🍴 **Forks** | 48 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

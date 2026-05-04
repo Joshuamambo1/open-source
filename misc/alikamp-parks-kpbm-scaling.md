@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project showcases a remarkable 37x speedup in the Lattice Boltzmann method for simulating cylinder flow, a complex fluid dynamics phenomenon. The optimized implementation leverages improved algorithms and techniques to achieve significant performance gains, making it an attractive resource for researchers and developers in the field of computational fluid dynamics. By providing a faster and more efficient solution, this project has the potential to accelerate breakthroughs in various applications, such as aerodynamics, heat transfer, and fluid mechanics.
+This open-source project achieves a significant speedup of 37 times in simulating lattice Boltzmann cylinder flow, a complex computational fluid dynamics problem. The project's optimization is likely to benefit various fields, including fluid dynamics, heat transfer, and materials science, by providing more efficient and accurate results. The code is available on GitHub, making it accessible to researchers and developers worldwide.
 
 ---
 

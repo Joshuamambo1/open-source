@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The linode/terraform-provider-linode is an open-source Terraform provider that enables users to manage Linode infrastructure resources using infrastructure as code (IaC) principles. This provider allows developers to automate the creation, configuration, and management of Linode virtual machines, networks, and other resources, simplifying the process of deploying and managing cloud infrastructure. By leveraging Terraform, users can version control their infrastructure configurations and ensure reproducibility and consistency across their environments.
+The terraform-provider-linode project is an open-source provider that enables users to manage Linode infrastructure using Terraform, a popular infrastructure-as-code tool. This provider allows users to create, update, and delete Linode resources such as instances, disks, and networks, streamlining infrastructure management and deployment. By integrating Linode with Terraform, users can automate and version their infrastructure configurations.
 
 ---
 

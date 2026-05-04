@@ -1,17 +1,17 @@
 # StartupHakk/OpenMonoAgent.ai
 
-[![Stars](https://img.shields.io/github/stars/StartupHakk/OpenMonoAgent.ai?style=flat-square&color=yellow)](https://github.com/StartupHakk/OpenMonoAgent.ai/stargazers) [![Forks](https://img.shields.io/github/forks/StartupHakk/OpenMonoAgent.ai?style=flat-square&color=blue)](https://github.com/StartupHakk/OpenMonoAgent.ai/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StartupHakk/OpenMonoAgent.ai?style=flat-square&color=yellow)](https://github.com/StartupHakk/OpenMonoAgent.ai/stargazers) [![Forks](https://img.shields.io/github/forks/StartupHakk/OpenMonoAgent.ai?style=flat-square&color=blue)](https://github.com/StartupHakk/OpenMonoAgent.ai/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
-> AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.
+> (BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 166 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 205 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

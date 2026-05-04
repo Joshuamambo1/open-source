@@ -1,6 +1,6 @@
 # golang/review
 
-[![Stars](https://img.shields.io/github/stars/golang/review?style=flat-square&color=yellow)](https://github.com/golang/review/stargazers) [![Forks](https://img.shields.io/github/forks/golang/review?style=flat-square&color=blue)](https://github.com/golang/review/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/golang/review?style=flat-square&color=yellow)](https://github.com/golang/review/stargazers) [![Forks](https://img.shields.io/github/forks/golang/review?style=flat-square&color=blue)](https://github.com/golang/review/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > [mirror] Tool for working with Gerrit code reviews
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

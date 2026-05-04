@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/adnaan-worker/Adnify?style=flat-square&color=yellow)](https://github.com/adnaan-worker/Adnify/stargazers) [![Forks](https://img.shields.io/github/forks/adnaan-worker/Adnify?style=flat-square&color=blue)](https://github.com/adnaan-worker/Adnify/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Adnify—— 轻量级、高定制化 AI Agent 编辑器，碾压主流 AI 编程工具的极致体验！轻量化架构秒启不卡顿，支持 AI Agent 全流程定制（逻辑编排 / 工具审批 / 智能交互），深度集成 XTerminal（WebGL 加速 + 自定义快捷键），搭配 Markdown 多模式编辑、主题自定义、Git 一体化管理，告别臃肿模板，让 AI 开发完全贴合你的习惯。
+> Adnify—A lightweight, highly customizable AI Agent Editor.It delivers a superior experience beyond mainstream AI coding tools, featuring instant startup and lag-free performance.
 
 ## 📊 Stats
 

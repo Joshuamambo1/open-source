@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/yessGlory17/argus?style=flat-square&color=yellow)](https://github.com/yessGlory17/argus/stargazers) [![Forks](https://img.shields.io/github/forks/yessGlory17/argus?style=flat-square&color=blue)](https://github.com/yessGlory17/argus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Claude Code Session Debugger & Performance Analyzer
+> Claude Code Agent Monitoring & Observability on VSCode
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # GrimAnticheat/Grim
 
-[![Stars](https://img.shields.io/github/stars/GrimAnticheat/Grim?style=flat-square&color=yellow)](https://github.com/GrimAnticheat/Grim/stargazers) [![Forks](https://img.shields.io/github/forks/GrimAnticheat/Grim?style=flat-square&color=blue)](https://github.com/GrimAnticheat/Grim/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GrimAnticheat/Grim?style=flat-square&color=yellow)](https://github.com/GrimAnticheat/Grim/stargazers) [![Forks](https://img.shields.io/github/forks/GrimAnticheat/Grim?style=flat-square&color=blue)](https://github.com/GrimAnticheat/Grim/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Fully async, multithreaded, predictive, open source, 3.01 reach, 1.005 timer, 0.01% speed, 99.99% antikb, "bypassable" 1.8-1.21 minecraft anticheat.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 557 |
+| 🍴 **Forks** | 559 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

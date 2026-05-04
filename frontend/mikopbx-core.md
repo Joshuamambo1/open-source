@@ -1,6 +1,6 @@
 # mikopbx/Core
 
-[![Stars](https://img.shields.io/github/stars/mikopbx/Core?style=flat-square&color=yellow)](https://github.com/mikopbx/Core/stargazers) [![Forks](https://img.shields.io/github/forks/mikopbx/Core?style=flat-square&color=blue)](https://github.com/mikopbx/Core/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mikopbx/Core?style=flat-square&color=yellow)](https://github.com/mikopbx/Core/stargazers) [![Forks](https://img.shields.io/github/forks/mikopbx/Core?style=flat-square&color=blue)](https://github.com/mikopbx/Core/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MikoPBX — free open-source PBX for small business, built on Asterisk 22, PHP 8.4, and Phalcon 5. Deploy as ISO, Docker, LXC, or in the cloud.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 533 |
+| ⭐ **Stars** | 534 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

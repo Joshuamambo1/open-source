@@ -1,6 +1,6 @@
 # rust-sailfish/sailfish
 
-[![Stars](https://img.shields.io/github/stars/rust-sailfish/sailfish?style=flat-square&color=yellow)](https://github.com/rust-sailfish/sailfish/stargazers) [![Forks](https://img.shields.io/github/forks/rust-sailfish/sailfish?style=flat-square&color=blue)](https://github.com/rust-sailfish/sailfish/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-sailfish/sailfish?style=flat-square&color=yellow)](https://github.com/rust-sailfish/sailfish/stargazers) [![Forks](https://img.shields.io/github/forks/rust-sailfish/sailfish?style=flat-square&color=blue)](https://github.com/rust-sailfish/sailfish/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Simple, small, and extremely fast template engine for Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 971 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

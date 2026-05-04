@@ -1,6 +1,6 @@
 # wagtail/django-modelcluster
 
-[![Stars](https://img.shields.io/github/stars/wagtail/django-modelcluster?style=flat-square&color=yellow)](https://github.com/wagtail/django-modelcluster/stargazers) [![Forks](https://img.shields.io/github/forks/wagtail/django-modelcluster?style=flat-square&color=blue)](https://github.com/wagtail/django-modelcluster/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wagtail/django-modelcluster?style=flat-square&color=yellow)](https://github.com/wagtail/django-modelcluster/stargazers) [![Forks](https://img.shields.io/github/forks/wagtail/django-modelcluster?style=flat-square&color=blue)](https://github.com/wagtail/django-modelcluster/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Django extension to allow working with 'clusters' of models as a single unit, independently of the database
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 513 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

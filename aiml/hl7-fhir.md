@@ -1,6 +1,6 @@
 # HL7/fhir
 
-[![Stars](https://img.shields.io/github/stars/HL7/fhir?style=flat-square&color=yellow)](https://github.com/HL7/fhir/stargazers) [![Forks](https://img.shields.io/github/forks/HL7/fhir?style=flat-square&color=blue)](https://github.com/HL7/fhir/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HL7/fhir?style=flat-square&color=yellow)](https://github.com/HL7/fhir/stargazers) [![Forks](https://img.shields.io/github/forks/HL7/fhir?style=flat-square&color=blue)](https://github.com/HL7/fhir/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Official source for the HL7 FHIR Specification
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 702 |
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

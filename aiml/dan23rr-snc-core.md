@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project introduces a thermodynamic trust layer designed to mitigate Large Language Model (LLM) hallucinations, reducing their occurrence by 52%. By applying thermodynamic principles, the project addresses a significant challenge in the AI/ML field, enabling more accurate and reliable LLM performance. The project's innovative approach has the potential to improve the overall trustworthiness of language models.
+The open-source project aims to mitigate the issue of "hallucinations" in large language models (LLMs) by introducing a thermodynamic trust layer, resulting in a significant reduction of hallucinations by 52%. This innovative solution has the potential to improve the reliability and accuracy of AI-driven applications. By leveraging thermodynamic principles, the project seeks to enhance the overall trustworthiness of LLMs.
 
 ---
 

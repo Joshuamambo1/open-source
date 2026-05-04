@@ -1,6 +1,6 @@
 # microsoft/DirectXMesh
 
-[![Stars](https://img.shields.io/github/stars/microsoft/DirectXMesh?style=flat-square&color=yellow)](https://github.com/microsoft/DirectXMesh/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/DirectXMesh?style=flat-square&color=blue)](https://github.com/microsoft/DirectXMesh/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/DirectXMesh?style=flat-square&color=yellow)](https://github.com/microsoft/DirectXMesh/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/DirectXMesh?style=flat-square&color=blue)](https://github.com/microsoft/DirectXMesh/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > DirectXMesh geometry processing library
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 846 |
-| 🍴 **Forks** | 162 |
+| 🍴 **Forks** | 164 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

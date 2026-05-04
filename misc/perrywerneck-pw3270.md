@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The pw3270 project is an open-source 3270 emulator developed for the gtk platform, providing a graphical interface for users to interact with mainframe systems. This emulator enables users to connect to and manage 3270 devices via a convenient and user-friendly interface. With pw3270, users can access and control their mainframe terminals from a local workstation.
+The pw3270 project is an open-source 3270 terminal emulator designed for GTK, allowing users to access and interact with IBM 3270-based systems. It provides a user-friendly interface for emulating 3270 terminals, making it easier to connect and communicate with mainframe systems. The project aims to offer a reliable and feature-rich alternative for users who need to access 3270-based applications and data.
 
 ---
 

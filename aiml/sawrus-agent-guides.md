@@ -1,6 +1,6 @@
 # sawrus/agent-guides
 
-[![Stars](https://img.shields.io/github/stars/sawrus/agent-guides?style=flat-square&color=yellow)](https://github.com/sawrus/agent-guides/stargazers) [![Forks](https://img.shields.io/github/forks/sawrus/agent-guides?style=flat-square&color=blue)](https://github.com/sawrus/agent-guides/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sawrus/agent-guides?style=flat-square&color=yellow)](https://github.com/sawrus/agent-guides/stargazers) [![Forks](https://img.shields.io/github/forks/sawrus/agent-guides?style=flat-square&color=blue)](https://github.com/sawrus/agent-guides/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Install a full engineering team into your AI agent. 7 SDLC roles · 105+ skills · 18 areas — Claude Code, opencode, Cursor, Codex, kilocode, antigravity, Gemini.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

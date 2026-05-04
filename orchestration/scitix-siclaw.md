@@ -1,6 +1,6 @@
 # scitix/siclaw
 
-[![Stars](https://img.shields.io/github/stars/scitix/siclaw?style=flat-square&color=yellow)](https://github.com/scitix/siclaw/stargazers) [![Forks](https://img.shields.io/github/forks/scitix/siclaw?style=flat-square&color=blue)](https://github.com/scitix/siclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scitix/siclaw?style=flat-square&color=yellow)](https://github.com/scitix/siclaw/stargazers) [![Forks](https://img.shields.io/github/forks/scitix/siclaw?style=flat-square&color=blue)](https://github.com/scitix/siclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 177 |
+| ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

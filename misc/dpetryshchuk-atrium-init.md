@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project proposes a sharing system for individual knowledge wikis, allowing users to easily share knowledge and ideas with others. By providing a platform for collaboration and knowledge exchange, the project aims to facilitate the growth and dissemination of individual expertise. This sharing system can be adapted for various purposes, from personal learning to professional networking.
+This open-source project aims to establish a sharing system for individual knowledge wikis, allowing users to collaborate and exchange information more effectively. By providing an example of such a system, the project seeks to facilitate knowledge sharing and potentially bridge the gap between isolated knowledge bases. This initiative has the potential to expand access to knowledge and foster a more connected community.
 
 ---
 

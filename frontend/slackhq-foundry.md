@@ -1,6 +1,6 @@
 # slackhq/foundry
 
-[![Stars](https://img.shields.io/github/stars/slackhq/foundry?style=flat-square&color=yellow)](https://github.com/slackhq/foundry/stargazers) [![Forks](https://img.shields.io/github/forks/slackhq/foundry?style=flat-square&color=blue)](https://github.com/slackhq/foundry/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/slackhq/foundry?style=flat-square&color=yellow)](https://github.com/slackhq/foundry/stargazers) [![Forks](https://img.shields.io/github/forks/slackhq/foundry?style=flat-square&color=blue)](https://github.com/slackhq/foundry/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Gradle and IntelliJ build tooling used in Slack's Android repo
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 474 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

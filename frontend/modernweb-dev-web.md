@@ -1,6 +1,6 @@
 # modernweb-dev/web
 
-[![Stars](https://img.shields.io/github/stars/modernweb-dev/web?style=flat-square&color=yellow)](https://github.com/modernweb-dev/web/stargazers) [![Forks](https://img.shields.io/github/forks/modernweb-dev/web?style=flat-square&color=blue)](https://github.com/modernweb-dev/web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modernweb-dev/web?style=flat-square&color=yellow)](https://github.com/modernweb-dev/web/stargazers) [![Forks](https://img.shields.io/github/forks/modernweb-dev/web?style=flat-square&color=blue)](https://github.com/modernweb-dev/web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Guides, tools and libraries for modern web development.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 331 |
+| 🍴 **Forks** | 330 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

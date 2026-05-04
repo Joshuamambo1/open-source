@@ -1,6 +1,6 @@
 # lightningpixel/modly
 
-[![Stars](https://img.shields.io/github/stars/lightningpixel/modly?style=flat-square&color=yellow)](https://github.com/lightningpixel/modly/stargazers) [![Forks](https://img.shields.io/github/forks/lightningpixel/modly?style=flat-square&color=blue)](https://github.com/lightningpixel/modly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightningpixel/modly?style=flat-square&color=yellow)](https://github.com/lightningpixel/modly/stargazers) [![Forks](https://img.shields.io/github/forks/lightningpixel/modly?style=flat-square&color=blue)](https://github.com/lightningpixel/modly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop app to generate 3D models from images using local AI — runs entirely on your GPU
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 259 |
+| 🍴 **Forks** | 260 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

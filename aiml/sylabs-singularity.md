@@ -1,6 +1,6 @@
 # sylabs/singularity
 
-[![Stars](https://img.shields.io/github/stars/sylabs/singularity?style=flat-square&color=yellow)](https://github.com/sylabs/singularity/stargazers) [![Forks](https://img.shields.io/github/forks/sylabs/singularity?style=flat-square&color=blue)](https://github.com/sylabs/singularity/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sylabs/singularity?style=flat-square&color=yellow)](https://github.com/sylabs/singularity/stargazers) [![Forks](https://img.shields.io/github/forks/sylabs/singularity?style=flat-square&color=blue)](https://github.com/sylabs/singularity/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 960 |
+| ⭐ **Stars** | 961 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

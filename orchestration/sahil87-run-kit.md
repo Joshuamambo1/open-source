@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The sahil87/run-kit is an open-source, web-based tool that simplifies the management of long-running tasks using TMUX orchestration. This kit streamlines complex workflows by providing a centralized interface for task execution, monitoring, and management, making it ideal for AI/ML and other resource-intensive applications. By leveraging TMUX's robust task management capabilities, users can efficiently handle large-scale computations and complex workflows.
+The sahil87/run-kit project is an open-source, web-based TMUX orchestration kit designed for running and managing long-running tasks efficiently. This tool allows users to orchestrate and manage complex tasks, making it particularly useful for AI/ML workflows that require prolonged computing resources. By leveraging TMUX, the kit provides a robust and scalable solution for task execution and management.
 
 ---
 

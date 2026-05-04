@@ -1,6 +1,6 @@
 # Pometry/Raphtory
 
-[![Stars](https://img.shields.io/github/stars/Pometry/Raphtory?style=flat-square&color=yellow)](https://github.com/Pometry/Raphtory/stargazers) [![Forks](https://img.shields.io/github/forks/Pometry/Raphtory?style=flat-square&color=blue)](https://github.com/Pometry/Raphtory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pometry/Raphtory?style=flat-square&color=yellow)](https://github.com/Pometry/Raphtory/stargazers) [![Forks](https://img.shields.io/github/forks/Pometry/Raphtory?style=flat-square&color=blue)](https://github.com/Pometry/Raphtory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 609 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

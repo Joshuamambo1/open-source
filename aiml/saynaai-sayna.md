@@ -1,6 +1,6 @@
 # SaynaAI/sayna
 
-[![Stars](https://img.shields.io/github/stars/SaynaAI/sayna?style=flat-square&color=yellow)](https://github.com/SaynaAI/sayna/stargazers) [![Forks](https://img.shields.io/github/forks/SaynaAI/sayna?style=flat-square&color=blue)](https://github.com/SaynaAI/sayna/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SaynaAI/sayna?style=flat-square&color=yellow)](https://github.com/SaynaAI/sayna/stargazers) [![Forks](https://img.shields.io/github/forks/SaynaAI/sayna?style=flat-square&color=blue)](https://github.com/SaynaAI/sayna/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Sayna is a unified Voice Layer for AI Agents with a seemless integration to an existing agentic frameworks
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 168 |
+| ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

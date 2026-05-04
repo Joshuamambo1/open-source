@@ -1,6 +1,6 @@
 # rsvim/rsvim
 
-[![Stars](https://img.shields.io/github/stars/rsvim/rsvim?style=flat-square&color=yellow)](https://github.com/rsvim/rsvim/stargazers) [![Forks](https://img.shields.io/github/forks/rsvim/rsvim?style=flat-square&color=blue)](https://github.com/rsvim/rsvim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rsvim/rsvim?style=flat-square&color=yellow)](https://github.com/rsvim/rsvim/stargazers) [![Forks](https://img.shields.io/github/forks/rsvim/rsvim?style=flat-square&color=blue)](https://github.com/rsvim/rsvim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The VIM editor reinvented in Rust+TypeScript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 511 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

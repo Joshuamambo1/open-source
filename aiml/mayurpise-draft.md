@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The draft plugin is an open-source, context-driven development tool designed to enhance coding experiences with AI-powered code completion features for various platforms, including Claude Code, Cursor, GitHub Copilot, and Gemini. This plugin aims to streamline development workflows by providing intelligent code suggestions and assistance. By integrating with these AI-driven code completion tools, draft enables developers to write more efficiently and effectively.
+The draft plugin, an open-source project, enhances coding experiences with Context-Driven Development capabilities for popular AI-powered tools such as Claude Code, Cursor, GitHub Copilot, and Gemini. This plugin allows developers to leverage AI-driven suggestions and code completion in a more contextually relevant manner. By integrating with these AI tools, draft aims to streamline the coding process and improve overall developer productivity.
 
 ---
 

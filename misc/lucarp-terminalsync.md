@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project allows users to mirror their terminal sessions to their smartphones in a secure and decentralized manner. The terminal mirroring process is end-to-end encrypted and peer-to-peer, eliminating the need for a daemon. This innovative solution provides users with a flexible and encrypted way to access their terminal sessions remotely on their mobile devices.
+This open-source project allows users to mirror their terminal to their phone in a peer-to-peer connection, providing end-to-end encryption for secure transmission. The project operates without the need for a daemon, making it a lightweight and convenient solution for remote terminal access. It enables users to access their terminal remotely on their phone, enhancing productivity and flexibility.
 
 ---
 

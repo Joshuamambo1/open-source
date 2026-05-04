@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The iFixAi Diagnostic is an open-source tool designed to assess AI misalignment, providing a letter-grade evaluation within five minutes across multiple platforms. This comprehensive tool comprises 32 tests across various categories, including fabrication, manipulation, and unpredictability, and is compatible with popular AI providers such as OpenAI and Azure. Its content-addressed manifest enables bit-identical replay, ensuring reproducibility and reliability.
+The iFixAi diagnostic is an open-source tool for identifying potential misalignment issues in AI systems. This comprehensive framework consists of 32 tests across various aspects, including fabrication, manipulation, and unpredictability, and is designed to be provider-agnostic, supporting multiple AI platforms such as OpenAI and Anthropic. It provides a quick and reliable letter-grade assessment, along with a content-addressed manifest for reproducibility and verification.
 
 ---
 

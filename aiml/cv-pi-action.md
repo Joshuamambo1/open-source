@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the cv/pi-action project:
+Here's a brief summary for the cv/pi-action open-source project:
 
-The cv/pi-action is an open-source GitHub Action that simplifies the integration of the PI coding agent with GitHub issues and pull requests. This action enables users to trigger the PI coding agent via comment triggers, streamlining the process of invoking the tool to analyze and suggest code improvements. By automating this process, developers can easily leverage the PI coding agent's capabilities to enhance their code quality.
+The cv/pi-action project is an open-source GitHub Action that enables the invocation of the PI coding agent on issues and pull requests (PRs) via comment triggers. This AI-powered tool leverages the PI coding agent to provide intelligent coding support, streamlining development workflows and enhancing collaboration. By integrating the PI coding agent into GitHub workflows, developers can access real-time coding assistance and suggestions.
 
 ---
 

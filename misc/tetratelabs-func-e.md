@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Func-e is an open-source project that simplifies the process of running Envoy, a popular networking proxy. Developed by Tetratelabs, this project aims to make Envoy more accessible and easier to use, providing a streamlined experience for users. With func-e, users can quickly and efficiently deploy and manage Envoy, unlocking its full potential in a variety of applications.
+Here's a brief summary for the tetratelabs/func-e project:
+
+Func-e is an open-source project that simplifies running Envoy, a popular service proxy, by providing an easy-to-use solution for deployment and management. Pronounced as "funky", func-e streamlines the process of getting up and running with Envoy, making it a valuable tool for developers and organizations. This project aims to make Envoy more accessible and user-friendly.
 
 ---
 

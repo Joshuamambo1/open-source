@@ -25,9 +25,9 @@ DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the open-source project "jreisinger/checkip":
 
-The `jreisinger/checkip` project is an open-source tool designed to retrieve and display security-related information about IP addresses. This utility offers a simple and efficient way to gather essential details about IP addresses, making it a valuable resource for developers and security professionals. By using this tool, users can quickly access relevant information to aid in their security assessments and development processes.
+The jreisinger/checkip project is an open-source tool designed to retrieve detailed security information about IP addresses. By utilizing this tool, users can conduct thorough IP address research to identify potential security risks and vulnerabilities. This DevTools project is particularly useful for security professionals and researchers.
 
 ---
 

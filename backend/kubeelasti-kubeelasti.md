@@ -1,6 +1,6 @@
 # KubeElasti/KubeElasti
 
-[![Stars](https://img.shields.io/github/stars/KubeElasti/KubeElasti?style=flat-square&color=yellow)](https://github.com/KubeElasti/KubeElasti/stargazers) [![Forks](https://img.shields.io/github/forks/KubeElasti/KubeElasti?style=flat-square&color=blue)](https://github.com/KubeElasti/KubeElasti/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KubeElasti/KubeElasti?style=flat-square&color=yellow)](https://github.com/KubeElasti/KubeElasti/stargazers) [![Forks](https://img.shields.io/github/forks/KubeElasti/KubeElasti?style=flat-square&color=blue)](https://github.com/KubeElasti/KubeElasti/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes-native scale-to-zero with zero traffic loss, no code changes, and direct integration with kubernetes resources
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 234 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # srixivas/PcapXray
 
-[![Stars](https://img.shields.io/github/stars/srixivas/PcapXray?style=flat-square&color=yellow)](https://github.com/srixivas/PcapXray/stargazers) [![Forks](https://img.shields.io/github/forks/srixivas/PcapXray?style=flat-square&color=blue)](https://github.com/srixivas/PcapXray/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/srixivas/PcapXray?style=flat-square&color=yellow)](https://github.com/srixivas/PcapXray/stargazers) [![Forks](https://img.shields.io/github/forks/srixivas/PcapXray?style=flat-square&color=blue)](https://github.com/srixivas/PcapXray/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 291 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

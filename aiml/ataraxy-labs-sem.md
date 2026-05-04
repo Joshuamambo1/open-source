@@ -1,6 +1,6 @@
 # Ataraxy-Labs/sem
 
-[![Stars](https://img.shields.io/github/stars/Ataraxy-Labs/sem?style=flat-square&color=yellow)](https://github.com/Ataraxy-Labs/sem/stargazers) [![Forks](https://img.shields.io/github/forks/Ataraxy-Labs/sem?style=flat-square&color=blue)](https://github.com/Ataraxy-Labs/sem/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ataraxy-Labs/sem?style=flat-square&color=yellow)](https://github.com/Ataraxy-Labs/sem/stargazers) [![Forks](https://img.shields.io/github/forks/Ataraxy-Labs/sem?style=flat-square&color=blue)](https://github.com/Ataraxy-Labs/sem/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Semantic version control — entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

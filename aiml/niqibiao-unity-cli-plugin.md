@@ -1,6 +1,6 @@
 # niqibiao/unity-cli-plugin
 
-[![Stars](https://img.shields.io/github/stars/niqibiao/unity-cli-plugin?style=flat-square&color=yellow)](https://github.com/niqibiao/unity-cli-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/niqibiao/unity-cli-plugin?style=flat-square&color=blue)](https://github.com/niqibiao/unity-cli-plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/niqibiao/unity-cli-plugin?style=flat-square&color=yellow)](https://github.com/niqibiao/unity-cli-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/niqibiao/unity-cli-plugin?style=flat-square&color=blue)](https://github.com/niqibiao/unity-cli-plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code / Codex plugin for Unity — AI-driven scene editing, GameObject/Component manipulation, profiling, and C# REPL via 40+ built-in commands. Works with any Unity 2022.3+ project.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

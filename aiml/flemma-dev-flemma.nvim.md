@@ -1,6 +1,6 @@
 # Flemma-Dev/flemma.nvim
 
-[![Stars](https://img.shields.io/github/stars/Flemma-Dev/flemma.nvim?style=flat-square&color=yellow)](https://github.com/Flemma-Dev/flemma.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/Flemma-Dev/flemma.nvim?style=flat-square&color=blue)](https://github.com/Flemma-Dev/flemma.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Flemma-Dev/flemma.nvim?style=flat-square&color=yellow)](https://github.com/Flemma-Dev/flemma.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/Flemma-Dev/flemma.nvim?style=flat-square&color=blue)](https://github.com/Flemma-Dev/flemma.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > An AI workspace inside Neovim where every conversation is a document you own.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # soub4i/gh-relay
 
-[![Stars](https://img.shields.io/github/stars/soub4i/gh-relay?style=flat-square&color=yellow)](https://github.com/soub4i/gh-relay/stargazers) [![Forks](https://img.shields.io/github/forks/soub4i/gh-relay?style=flat-square&color=blue)](https://github.com/soub4i/gh-relay/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/soub4i/gh-relay?style=flat-square&color=yellow)](https://github.com/soub4i/gh-relay/stargazers) [![Forks](https://img.shields.io/github/forks/soub4i/gh-relay?style=flat-square&color=blue)](https://github.com/soub4i/gh-relay/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Share a private GitHub repo with anyone, no collaborator invite, no paid seat, no cleanup.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 56 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

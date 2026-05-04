@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Azure/azure-storage-fuse project is an open-source virtual file system adapter that enables seamless integration with Azure Blob storage. This solution allows users to access and manage their Azure Blob storage data as if it were a local file system, facilitating efficient data transfer and manipulation. With azure-storage-fuse, developers can leverage the scalability and reliability of Azure Blob storage in a more intuitive and accessible way.
+Azure Storage Fuse is an open-source project that enables users to mount Azure Blob Storage as a virtual file system on their local machines, facilitating seamless integration and high-performance file operations. This adapter provides a convenient interface for interacting with Azure Blob Storage, allowing developers to utilize familiar file system APIs and commands. With Azure Storage Fuse, users can easily manage and access their Azure Blob Storage data as if it were a local file system.
 
 ---
 

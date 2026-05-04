@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The lean-lsp-mcp project is an open-source implementation of the Lean MCP (Mathematical Components Platform) plugin for LSP (Language Server Protocol) clients. This project allows for seamless integration of Lean's theorem proving capabilities with various development environments that support LSP. By providing a standardized interface, lean-lsp-mcp facilitates the sharing of mathematical knowledge and collaboration in a distributed setting.
+The lean-lsp-mcp project is an open-source implementation of the Lean Theorem Prover's MCP (Mathematical Components Platform) protocol in the form of a Language Server Protocol (LSP) client. This allows MCP to be used within integrated development environments (IDEs) that support LSP, streamlining the interactive development of mathematical theories. The project aims to enhance the usability and collaboration aspects of MCP.
 
 ---
 

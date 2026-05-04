@@ -1,6 +1,6 @@
 # nidhinjs/prompt-master
 
-[![Stars](https://img.shields.io/github/stars/nidhinjs/prompt-master?style=flat-square&color=yellow)](https://github.com/nidhinjs/prompt-master/stargazers) [![Forks](https://img.shields.io/github/forks/nidhinjs/prompt-master?style=flat-square&color=blue)](https://github.com/nidhinjs/prompt-master/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nidhinjs/prompt-master?style=flat-square&color=yellow)](https://github.com/nidhinjs/prompt-master/stargazers) [![Forks](https://img.shields.io/github/forks/nidhinjs/prompt-master?style=flat-square&color=blue)](https://github.com/nidhinjs/prompt-master/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
 
 > A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.1k |
-| 🍴 **Forks** | 764 |
+| 🍴 **Forks** | 767 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 91/100 |
+| 📈 **Score** | 92/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

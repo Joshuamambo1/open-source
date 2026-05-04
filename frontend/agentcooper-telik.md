@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-This open-source project offers a native macOS application designed to track YouTube channels without the need for a Google login. The app allows users to monitor their favorite channels and stay up-to-date with their latest content. By providing a Google login-free experience, users have more control over their online interactions.
+This open-source project offers a native macOS application that enables users to track their favorite YouTube channels without the need for a Google login. The app provides a convenient and straightforward way to monitor channel activity, allowing users to stay up-to-date with their favorite creators. By utilizing this application, users can bypass the requirement for a Google account login, providing a more seamless and personalized experience.
 
 ---
 

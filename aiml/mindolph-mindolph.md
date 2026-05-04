@@ -1,6 +1,6 @@
 # mindolph/Mindolph
 
-[![Stars](https://img.shields.io/github/stars/mindolph/Mindolph?style=flat-square&color=yellow)](https://github.com/mindolph/Mindolph/stargazers) [![Forks](https://img.shields.io/github/forks/mindolph/Mindolph?style=flat-square&color=blue)](https://github.com/mindolph/Mindolph/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mindolph/Mindolph?style=flat-square&color=yellow)](https://github.com/mindolph/Mindolph/stargazers) [![Forks](https://img.shields.io/github/forks/mindolph/Mindolph?style=flat-square&color=blue)](https://github.com/mindolph/Mindolph/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Mindolph is an open source personal knowledge management software with Gen-AI support for all desktop platforms.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 195 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -22,8 +22,8 @@
 | 12 | [j178/prek](./j178-prek.md) | ⭐ 7.5k | Rust | 82/100 |
 | 13 | [pqoqubbw/icons](./pqoqubbw-icons.md) | ⭐ 7.6k | TypeScript | 79/100 |
 | 14 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 79/100 |
-| 15 | [lowRISC/opentitan](./lowrisc-opentitan.md) | ⭐ 3.3k | SystemVerilog | 78/100 |
-| 16 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.8k | TypeScript | 78/100 |
+| 15 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.8k | TypeScript | 78/100 |
+| 16 | [lowRISC/opentitan](./lowrisc-opentitan.md) | ⭐ 3.3k | SystemVerilog | 78/100 |
 | 17 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 72/100 |
 | 18 | [sipsorcery-org/sipsorcery](./sipsorcery-org-sipsorcery.md) | ⭐ 1.9k | C# | 71/100 |
 | 19 | [aws-samples/amazon-bedrock-workshop](./aws-samples-amazon-bedrock-workshop.md) | ⭐ 2.1k | Jupyter Notebook | 69/100 |
@@ -50,7 +50,7 @@
 | 40 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 46/100 |
 | 41 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 523 | Python | 46/100 |
 | 42 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 45/100 |
-| 43 | [KinkyMakers/OSSM-hardware](./kinkymakers-ossm-hardware.md) | ⭐ 488 | C++ | 45/100 |
+| 43 | [KinkyMakers/OSSM-hardware](./kinkymakers-ossm-hardware.md) | ⭐ 490 | C++ | 45/100 |
 | 44 | [goadesign/examples](./goadesign-examples.md) | ⭐ 205 | Go | 44/100 |
 | 45 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 44/100 |
 | 46 | [nats-io/nats-architecture-and-design](./nats-io-nats-architecture-and-design.md) | ⭐ 398 | Go | 44/100 |

@@ -1,6 +1,6 @@
 # tang-vu/ContribAI
 
-[![Stars](https://img.shields.io/github/stars/tang-vu/ContribAI?style=flat-square&color=yellow)](https://github.com/tang-vu/ContribAI/stargazers) [![Forks](https://img.shields.io/github/forks/tang-vu/ContribAI?style=flat-square&color=blue)](https://github.com/tang-vu/ContribAI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tang-vu/ContribAI?style=flat-square&color=yellow)](https://github.com/tang-vu/ContribAI/stargazers) [![Forks](https://img.shields.io/github/forks/tang-vu/ContribAI?style=flat-square&color=blue)](https://github.com/tang-vu/ContribAI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI agent that contributes to open source — discovers repos, analyzes code, generates fixes, and submits PRs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 239 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

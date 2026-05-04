@@ -25,9 +25,7 @@ Data · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Downtify is an open-source project that allows users to download their playlists and songs from various music platforms, along with album art and metadata, in a self-hosted format. The project utilizes Docker for a seamless deployment, enabling users to host their music library locally. This solution provides a convenient and private way to access music collections.
+The downtify project is an open-source tool that allows users to download their playlists and songs, along with album art and metadata, in a self-hosted format. Utilizing Docker for deployment, downtify enables users to easily store and access their music collections offline. This project caters to those seeking a centralized, self-managed music library solution.
 
 ---
 

@@ -1,6 +1,6 @@
 # hpcc-systems/hpcc-js-wasm
 
-[![Stars](https://img.shields.io/github/stars/hpcc-systems/hpcc-js-wasm?style=flat-square&color=yellow)](https://github.com/hpcc-systems/hpcc-js-wasm/stargazers) [![Forks](https://img.shields.io/github/forks/hpcc-systems/hpcc-js-wasm?style=flat-square&color=blue)](https://github.com/hpcc-systems/hpcc-js-wasm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hpcc-systems/hpcc-js-wasm?style=flat-square&color=yellow)](https://github.com/hpcc-systems/hpcc-js-wasm/stargazers) [![Forks](https://img.shields.io/github/forks/hpcc-systems/hpcc-js-wasm?style=flat-square&color=blue)](https://github.com/hpcc-systems/hpcc-js-wasm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > HPCC-Systems Web-Assembly (JavaScript)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

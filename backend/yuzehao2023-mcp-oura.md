@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The MCP-oura project is an open-source implementation of a server for integrating with the Oura API, utilizing the MCP protocol. This project enables seamless communication between devices and the Oura platform, facilitating data exchange and synchronization. By leveraging the MCP-oura server, users can unlock a range of features and insights from their Oura wearable devices.
+This is an open-source project that provides a MCP server for integrating with the Oura API. The MCP server enables seamless communication between Oura devices and various applications, allowing for the retrieval and analysis of sleep, activity, and other health data. By utilizing this project, developers can build applications that leverage Oura's rich health insights.
 
 ---
 

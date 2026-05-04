@@ -1,6 +1,6 @@
 # symgraph/GhidrAssistMCP
 
-[![Stars](https://img.shields.io/github/stars/symgraph/GhidrAssistMCP?style=flat-square&color=yellow)](https://github.com/symgraph/GhidrAssistMCP/stargazers) [![Forks](https://img.shields.io/github/forks/symgraph/GhidrAssistMCP?style=flat-square&color=blue)](https://github.com/symgraph/GhidrAssistMCP/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/symgraph/GhidrAssistMCP?style=flat-square&color=yellow)](https://github.com/symgraph/GhidrAssistMCP/stargazers) [![Forks](https://img.shields.io/github/forks/symgraph/GhidrAssistMCP?style=flat-square&color=blue)](https://github.com/symgraph/GhidrAssistMCP/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An native MCP server extension for Ghidra
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 591 |
+| ⭐ **Stars** | 592 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

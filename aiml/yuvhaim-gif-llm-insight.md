@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project provides a customizable home setup for iterative benchmarking of large language models (LLMs) with attribute-weighted methods. The setup allows users to fine-tune and evaluate LLMs, facilitating the exploration of various attribute-weighting techniques. By contributing to this project, developers can improve the accuracy and efficiency of LLMs in real-world applications.
+This open-source project offers a customizable "home rig" for iterative attribute-weighted LLM (Large Language Model) benchmarking. It enables users to evaluate and compare the performance of various LLMs with different attribute weights, facilitating the development and refinement of more effective language models. By providing a flexible framework for benchmarking, this project aims to advance the field of AI and ML research.
 
 ---
 

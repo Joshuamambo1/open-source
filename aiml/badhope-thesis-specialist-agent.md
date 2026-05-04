@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/badhope/Thesis-Specialist-Agent?style=flat-square&color=yellow)](https://github.com/badhope/Thesis-Specialist-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/badhope/Thesis-Specialist-Agent?style=flat-square&color=blue)](https://github.com/badhope/Thesis-Specialist-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
-> MCP Mega-Agent Platform - 11 Expert Engines + 80+ Professional Tools for ALL LLMs
+> Thesis Specialist is an innovative Folder-as-Agent platform designed specifically for academic thesis writing. The entire platform can be downloaded and directly submitted to any Large Language Model (LLM) such as Doubao, Claude, GPT, or Gemini for immediate use.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 30 |
-| 🍴 **Forks** | 5 |
+| ⭐ **Stars** | 2 |
+| 🍴 **Forks** | — |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Design
 
 ## 📝 Summary
 

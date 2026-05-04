@@ -1,6 +1,6 @@
 # agntcy/dir
 
-[![Stars](https://img.shields.io/github/stars/agntcy/dir?style=flat-square&color=yellow)](https://github.com/agntcy/dir/stargazers) [![Forks](https://img.shields.io/github/forks/agntcy/dir?style=flat-square&color=blue)](https://github.com/agntcy/dir/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agntcy/dir?style=flat-square&color=yellow)](https://github.com/agntcy/dir/stargazers) [![Forks](https://img.shields.io/github/forks/agntcy/dir?style=flat-square&color=blue)](https://github.com/agntcy/dir/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Distributed Announce and Discovery of Multi-Agentic-Systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

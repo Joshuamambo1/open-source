@@ -25,9 +25,9 @@ Mobile
 
 ## 📝 Summary
 
-Here is a brief summary for the MyPilot project:
+Here's a brief summary of the MyPilot project:
 
-MyPilot is an open-source, remote interaction console designed for Claude Code, enabling real-time push of hook events to iOS devices (iPhone, iPad, Apple Watch) and supporting remote approval and interaction. This mobile-focused project provides a convenient and efficient way to manage and respond to events remotely. By leveraging MyPilot, users can streamline their workflows and stay connected in real-time.
+MyPilot is an open-source, remote interaction console designed for Claude Code, allowing for real-time push of Hook events to iPhone, iPad, and Apple Watch devices. It supports remote approval and interaction capabilities, enhancing the overall user experience. This project falls under the mobile category, catering to users with Apple devices.
 
 ---
 

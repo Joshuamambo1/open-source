@@ -1,6 +1,6 @@
 # foundryzero/llef
 
-[![Stars](https://img.shields.io/github/stars/foundryzero/llef?style=flat-square&color=yellow)](https://github.com/foundryzero/llef/stargazers) [![Forks](https://img.shields.io/github/forks/foundryzero/llef?style=flat-square&color=blue)](https://github.com/foundryzero/llef/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foundryzero/llef?style=flat-square&color=yellow)](https://github.com/foundryzero/llef/stargazers) [![Forks](https://img.shields.io/github/forks/foundryzero/llef?style=flat-square&color=blue)](https://github.com/foundryzero/llef/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > LLEF is a plugin for LLDB to make it more useful for RE and VR
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 483 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

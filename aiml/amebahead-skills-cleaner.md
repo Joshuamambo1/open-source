@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The skills-cleaner project is an open-source tool designed to monitor and analyze the usage of skills by AI agents, helping to identify and eliminate redundant or overlapping skills that may impede efficient performance. This capability enables AI developers to refine their models, optimize resource allocation, and improve overall system efficiency. By streamlining AI skills, the project facilitates the creation of more effective and robust AI systems.
+Here's a brief summary for the open-source project "amebahead/skills-cleaner":
+
+The skills-cleaner project is an open-source tool designed to track and analyze the usage of skills by AI agents, providing valuable insights into their abilities and weaknesses. It also includes functionality to identify and remove redundant or overlapping skills, helping to optimize AI performance and efficiency. This project is a valuable resource for developers working with AI/ML systems, enabling them to refine their models and improve overall system performance.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Vortiago/mcp-outline project:
-
-The Vortiago/mcp-outline project is an open-source Model Context Protocol (MCP) server that facilitates seamless interactions between AI assistants and Outline documentation services. By enabling AI assistants to access and utilize Outline documentation, this project bridges the gap between AI capabilities and knowledge management systems. This integration empowers AI assistants to provide more informed and accurate responses to user queries.
+Vortiago/mcp-outline is an open-source project that provides a Model Context Protocol (MCP) server, allowing AI assistants to seamlessly interact with Outline documentation services. This integration enables AI-powered applications to access and utilize Outline documentation in a more efficient and automated manner. By facilitating communication between AI systems and Outline, this project promotes improved collaboration and productivity in documentation creation and management.
 
 ---
 

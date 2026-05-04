@@ -25,9 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the TrueLayer/ginepro project:
+Here's a brief summary for TrueLayer/ginepro:
 
-TrueLayer/ginepro is an open-source client-side gRPC channel implementation, specifically designed for use with the tonic framework. This project enables developers to create efficient and reliable gRPC connections, allowing for seamless communication between applications. By utilizing ginepro, developers can build robust and scalable networking solutions.
+Ginepro is an open-source, client-side gRPC channel implementation for Tonic, allowing developers to create efficient and scalable gRPC connections. This project enables seamless communication between clients and servers, facilitating the development of fast and reliable microservices. By leveraging ginepro, developers can unlock improved performance and flexibility in their cloud-native applications.
 
 ---
 

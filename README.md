@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15946** |
+| 🗂️ **Total projects** | **15969** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,15 +18,15 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5938 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3314 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1574 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1160 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 976 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 946 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 539 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 5947 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3321 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1576 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1161 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 977 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 947 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 540 | [Browse →](./crypto/) |
 | 📊 **Data** | 362 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 340 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 341 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 220 | [Browse →](./mobile/) |
 | 💳 **Payments** | 166 | [Browse →](./payments/) |
 | 📈 **Trading** | 164 | [Browse →](./trading/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [HumanSignal/label-studio](./aiml/humansignal-label-studio.md) | ⭐ 27.2k | AI/ML |
-| 2 | [alibaba/spring-cloud-alibaba](./frontend/alibaba-spring-cloud-alibaba.md) | ⭐ 29.1k | Frontend |
-| 3 | [microsoft/presidio](./aiml/microsoft-presidio.md) | ⭐ 7.9k | AI/ML |
-| 4 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.9k | Frontend |
-| 5 | [fmtlib/fmt](./misc/fmtlib-fmt.md) | ⭐ 23.5k | Misc |
-| 6 | [alibaba/MNN](./aiml/alibaba-mnn.md) | ⭐ 15.1k | AI/ML |
-| 7 | [langchain-ai/langgraph](./orchestration/langchain-ai-langgraph.md) | ⭐ 31.1k | Orchestration |
-| 8 | [affaan-m/everything-claude-code](./aiml/affaan-m-everything-claude-code.md) | ⭐ 172.9k | AI/ML |
-| 9 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
-| 10 | [warpdotdev/warp](./aiml/warpdotdev-warp.md) | ⭐ 53.8k | AI/ML |
+| 2 | [microsoft/presidio](./aiml/microsoft-presidio.md) | ⭐ 7.9k | AI/ML |
+| 3 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.9k | Frontend |
+| 4 | [fmtlib/fmt](./misc/fmtlib-fmt.md) | ⭐ 23.5k | Misc |
+| 5 | [alibaba/MNN](./aiml/alibaba-mnn.md) | ⭐ 15.1k | AI/ML |
+| 6 | [langchain-ai/langgraph](./orchestration/langchain-ai-langgraph.md) | ⭐ 31.1k | Orchestration |
+| 7 | [affaan-m/everything-claude-code](./aiml/affaan-m-everything-claude-code.md) | ⭐ 172.9k | AI/ML |
+| 8 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
+| 9 | [warpdotdev/warp](./aiml/warpdotdev-warp.md) | ⭐ 53.8k | AI/ML |
+| 10 | [Kilo-Org/kilocode](./aiml/kilo-org-kilocode.md) | ⭐ 18.9k | AI/ML |
 
 ## 🚀 How it works
 

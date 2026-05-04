@@ -1,6 +1,6 @@
 # hey-api/openapi-ts
 
-[![Stars](https://img.shields.io/github/stars/hey-api/openapi-ts?style=flat-square&color=yellow)](https://github.com/hey-api/openapi-ts/stargazers) [![Forks](https://img.shields.io/github/forks/hey-api/openapi-ts?style=flat-square&color=blue)](https://github.com/hey-api/openapi-ts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hey-api/openapi-ts?style=flat-square&color=yellow)](https://github.com/hey-api/openapi-ts/stargazers) [![Forks](https://img.shields.io/github/forks/hey-api/openapi-ts?style=flat-square&color=blue)](https://github.com/hey-api/openapi-ts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > 🌀 OpenAPI to TypeScript codegen. Production-ready SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 356 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

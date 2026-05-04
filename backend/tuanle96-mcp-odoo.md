@@ -1,6 +1,6 @@
 # tuanle96/mcp-odoo
 
-[![Stars](https://img.shields.io/github/stars/tuanle96/mcp-odoo?style=flat-square&color=yellow)](https://github.com/tuanle96/mcp-odoo/stargazers) [![Forks](https://img.shields.io/github/forks/tuanle96/mcp-odoo?style=flat-square&color=blue)](https://github.com/tuanle96/mcp-odoo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tuanle96/mcp-odoo?style=flat-square&color=yellow)](https://github.com/tuanle96/mcp-odoo/stargazers) [![Forks](https://img.shields.io/github/forks/tuanle96/mcp-odoo?style=flat-square&color=blue)](https://github.com/tuanle96/mcp-odoo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server for Odoo
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 299 |
-| 🍴 **Forks** | 136 |
+| 🍴 **Forks** | 137 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

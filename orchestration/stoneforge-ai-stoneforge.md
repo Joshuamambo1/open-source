@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Stoneforge is an open-source project that provides a web dashboard and runtime for managing AI coding agents. This platform enables users to orchestrate and deploy AI models, making it easier to automate coding tasks and streamline software development workflows. With Stoneforge, developers can harness the power of artificial intelligence to accelerate their coding processes and improve overall productivity.
+Here's a summary for the stoneforge-ai/stoneforge project:
+
+Stoneforge is an open-source platform that provides a web dashboard and runtime environment for orchestrating AI coding agents. It enables developers to manage and coordinate multiple AI models, streamlining the development and deployment of complex AI applications. By providing a unified framework for AI orchestration, Stoneforge accelerates AI development and collaboration across teams and organizations.
 
 ---
 

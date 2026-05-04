@@ -1,6 +1,6 @@
 # darksworm/argonaut
 
-[![Stars](https://img.shields.io/github/stars/darksworm/argonaut?style=flat-square&color=yellow)](https://github.com/darksworm/argonaut/stargazers) [![Forks](https://img.shields.io/github/forks/darksworm/argonaut?style=flat-square&color=blue)](https://github.com/darksworm/argonaut/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/darksworm/argonaut?style=flat-square&color=yellow)](https://github.com/darksworm/argonaut/stargazers) [![Forks](https://img.shields.io/github/forks/darksworm/argonaut?style=flat-square&color=blue)](https://github.com/darksworm/argonaut/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

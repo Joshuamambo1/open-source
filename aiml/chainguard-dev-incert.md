@@ -1,6 +1,6 @@
 # chainguard-dev/incert
 
-[![Stars](https://img.shields.io/github/stars/chainguard-dev/incert?style=flat-square&color=yellow)](https://github.com/chainguard-dev/incert/stargazers) [![Forks](https://img.shields.io/github/forks/chainguard-dev/incert?style=flat-square&color=blue)](https://github.com/chainguard-dev/incert/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chainguard-dev/incert?style=flat-square&color=yellow)](https://github.com/chainguard-dev/incert/stargazers) [![Forks](https://img.shields.io/github/forks/chainguard-dev/incert?style=flat-square&color=blue)](https://github.com/chainguard-dev/incert/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Add CA certificates into containers
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 168 |
+| ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # mwiede/jsch
 
-[![Stars](https://img.shields.io/github/stars/mwiede/jsch?style=flat-square&color=yellow)](https://github.com/mwiede/jsch/stargazers) [![Forks](https://img.shields.io/github/forks/mwiede/jsch?style=flat-square&color=blue)](https://github.com/mwiede/jsch/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mwiede/jsch?style=flat-square&color=yellow)](https://github.com/mwiede/jsch/stargazers) [![Forks](https://img.shields.io/github/forks/mwiede/jsch?style=flat-square&color=blue)](https://github.com/mwiede/jsch/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > fork of the popular jsch library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

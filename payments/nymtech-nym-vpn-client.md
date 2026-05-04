@@ -1,6 +1,6 @@
 # nymtech/nym-vpn-client
 
-[![Stars](https://img.shields.io/github/stars/nymtech/nym-vpn-client?style=flat-square&color=yellow)](https://github.com/nymtech/nym-vpn-client/stargazers) [![Forks](https://img.shields.io/github/forks/nymtech/nym-vpn-client?style=flat-square&color=blue)](https://github.com/nymtech/nym-vpn-client/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nymtech/nym-vpn-client?style=flat-square&color=yellow)](https://github.com/nymtech/nym-vpn-client/stargazers) [![Forks](https://img.shields.io/github/forks/nymtech/nym-vpn-client?style=flat-square&color=blue)](https://github.com/nymtech/nym-vpn-client/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform open source VPN client built in Rust, with mixnet anonymity and WireGuard speed. Protects metadata, not just IP addresses. Zero-knowledge payments for unlinkable online activities.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 403 |
-| 🍴 **Forks** | 44 |
+| ⭐ **Stars** | 408 |
+| 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

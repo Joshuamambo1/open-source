@@ -1,6 +1,6 @@
 # gitext-rs/git-stack
 
-[![Stars](https://img.shields.io/github/stars/gitext-rs/git-stack?style=flat-square&color=yellow)](https://github.com/gitext-rs/git-stack/stargazers) [![Forks](https://img.shields.io/github/forks/gitext-rs/git-stack?style=flat-square&color=blue)](https://github.com/gitext-rs/git-stack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gitext-rs/git-stack?style=flat-square&color=yellow)](https://github.com/gitext-rs/git-stack/stargazers) [![Forks](https://img.shields.io/github/forks/gitext-rs/git-stack?style=flat-square&color=blue)](https://github.com/gitext-rs/git-stack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Stacked branch management for Git
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 641 |
+| ⭐ **Stars** | 642 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

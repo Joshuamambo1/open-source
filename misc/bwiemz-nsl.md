@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-NeuralScript is a pure-Rust Ahead-Of-Time (AOT) compiler, offering a novel approach to compiling code. This open-source project leverages Rust's capabilities to provide a high-performance compilation system, potentially optimizing code for various platforms. By utilizing Rust's strong type system and other features, NeuralScript aims to deliver efficient and reliable compilation results.
+NeuralScript is an open-source, pure-Rust Ahead-of-Time (AOT) compiler that enables developers to compile their code into efficient, standalone executables. This project aims to provide a fast and flexible compilation solution, leveraging the Rust programming language for its safety and performance benefits. By using NeuralScript, developers can create robust and high-performance applications.
 
 ---
 

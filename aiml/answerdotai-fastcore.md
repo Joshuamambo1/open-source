@@ -1,6 +1,6 @@
 # AnswerDotAI/fastcore
 
-[![Stars](https://img.shields.io/github/stars/AnswerDotAI/fastcore?style=flat-square&color=yellow)](https://github.com/AnswerDotAI/fastcore/stargazers) [![Forks](https://img.shields.io/github/forks/AnswerDotAI/fastcore?style=flat-square&color=blue)](https://github.com/AnswerDotAI/fastcore/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnswerDotAI/fastcore?style=flat-square&color=yellow)](https://github.com/AnswerDotAI/fastcore/stargazers) [![Forks](https://img.shields.io/github/forks/AnswerDotAI/fastcore?style=flat-square&color=blue)](https://github.com/AnswerDotAI/fastcore/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Python supercharged for the fastai library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 295 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

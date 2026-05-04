@@ -1,6 +1,6 @@
 # EmmyLuaLs/emmylua-analyzer-rust
 
-[![Stars](https://img.shields.io/github/stars/EmmyLuaLs/emmylua-analyzer-rust?style=flat-square&color=yellow)](https://github.com/EmmyLuaLs/emmylua-analyzer-rust/stargazers) [![Forks](https://img.shields.io/github/forks/EmmyLuaLs/emmylua-analyzer-rust?style=flat-square&color=blue)](https://github.com/EmmyLuaLs/emmylua-analyzer-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EmmyLuaLs/emmylua-analyzer-rust?style=flat-square&color=yellow)](https://github.com/EmmyLuaLs/emmylua-analyzer-rust/stargazers) [![Forks](https://img.shields.io/github/forks/EmmyLuaLs/emmylua-analyzer-rust?style=flat-square&color=blue)](https://github.com/EmmyLuaLs/emmylua-analyzer-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

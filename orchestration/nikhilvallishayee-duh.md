@@ -1,6 +1,6 @@
 # nikhilvallishayee/duh
 
-[![Stars](https://img.shields.io/github/stars/nikhilvallishayee/duh?style=flat-square&color=yellow)](https://github.com/nikhilvallishayee/duh/stargazers) [![Forks](https://img.shields.io/github/forks/nikhilvallishayee/duh?style=flat-square&color=blue)](https://github.com/nikhilvallishayee/duh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikhilvallishayee/duh?style=flat-square&color=yellow)](https://github.com/nikhilvallishayee/duh/stargazers) [![Forks](https://img.shields.io/github/forks/nikhilvallishayee/duh?style=flat-square&color=blue)](https://github.com/nikhilvallishayee/duh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > D.U.H. — D.U.H is a Universal Harness. Provider-agnostic AI coding agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

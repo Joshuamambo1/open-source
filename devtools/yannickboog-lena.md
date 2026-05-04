@@ -25,7 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Lena is a free, open-source macOS menu bar app designed to help developers quickly store and copy CLI commands. This intuitive tool streamlines the process of accessing and sharing terminal commands, making it an essential addition to any developer's workflow. By centralizing command storage and providing easy copying functionality, Lena simplifies the way developers collaborate and document their code.
+Here's a brief summary of the Lena project:
+
+Lena is a free, open-source macOS menu bar app that allows users to store, organize, and easily copy CLI commands. This handy tool is designed to streamline the process of working with terminal commands, making it easier to recall and reuse them. By leveraging Lena, developers and power users can save time and boost productivity when working with the command line.
 
 ---
 

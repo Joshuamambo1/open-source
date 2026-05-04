@@ -1,6 +1,6 @@
 # Leavesfly/TinyAI
 
-[![Stars](https://img.shields.io/github/stars/Leavesfly/TinyAI?style=flat-square&color=yellow)](https://github.com/Leavesfly/TinyAI/stargazers) [![Forks](https://img.shields.io/github/forks/Leavesfly/TinyAI?style=flat-square&color=blue)](https://github.com/Leavesfly/TinyAI/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Leavesfly/TinyAI?style=flat-square&color=yellow)](https://github.com/Leavesfly/TinyAI/stargazers) [![Forks](https://img.shields.io/github/forks/Leavesfly/TinyAI?style=flat-square&color=blue)](https://github.com/Leavesfly/TinyAI/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > 全栈式轻量级AI框架，TinyAI IS ALL YOU NEED。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

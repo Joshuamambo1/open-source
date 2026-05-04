@@ -38,7 +38,7 @@
 | 28 | [getsentry/relay](./getsentry-relay.md) | ⭐ 376 | Rust | 46/100 |
 | 29 | [eph5xx/tweakidea](./eph5xx-tweakidea.md) | ⭐ 14 | Python | 46/100 |
 | 30 | [guardian/coverdrop](./guardian-coverdrop.md) | ⭐ 336 | Rust | 44/100 |
-| 31 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 313 | Rust | 43/100 |
+| 31 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 314 | Rust | 43/100 |
 | 32 | [verona-team/verona-atlas](./verona-team-verona-atlas.md) | ⭐ 16 | Python | 32/100 |
 
 ---

@@ -1,6 +1,6 @@
 # Doezer/Questarr
 
-[![Stars](https://img.shields.io/github/stars/Doezer/Questarr?style=flat-square&color=yellow)](https://github.com/Doezer/Questarr/stargazers) [![Forks](https://img.shields.io/github/forks/Doezer/Questarr?style=flat-square&color=blue)](https://github.com/Doezer/Questarr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Doezer/Questarr?style=flat-square&color=yellow)](https://github.com/Doezer/Questarr/stargazers) [![Forks](https://img.shields.io/github/forks/Doezer/Questarr?style=flat-square&color=blue)](https://github.com/Doezer/Questarr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Video games manager for -arr users
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 367 |
+| ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

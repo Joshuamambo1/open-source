@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-This open-source project provides a full-featured CLI textarea component for React Ink, allowing developers to create dynamic and interactive text-based interfaces in the terminal. The component is designed to be highly customizable and includes features such as syntax highlighting, line numbers, and scrolling functionality. By using this component, developers can create complex and engaging command-line interfaces for their React applications.
+This open-source project provides a full-featured CLI textarea component for React Ink, enabling developers to create interactive command-line interfaces with a robust and customizable textarea element. The component offers a range of functionalities, enhancing the user experience and development efficiency for CLI applications. It can be easily integrated into React Ink projects, streamlining the development process.
 
 ---
 

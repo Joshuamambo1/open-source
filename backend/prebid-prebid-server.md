@@ -1,6 +1,6 @@
 # prebid/prebid-server
 
-[![Stars](https://img.shields.io/github/stars/prebid/prebid-server?style=flat-square&color=yellow)](https://github.com/prebid/prebid-server/stargazers) [![Forks](https://img.shields.io/github/forks/prebid/prebid-server?style=flat-square&color=blue)](https://github.com/prebid/prebid-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prebid/prebid-server?style=flat-square&color=yellow)](https://github.com/prebid/prebid-server/stargazers) [![Forks](https://img.shields.io/github/forks/prebid/prebid-server?style=flat-square&color=blue)](https://github.com/prebid/prebid-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source solution for running real-time advertising auctions in the cloud.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 549 |
 | 🍴 **Forks** | 890 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

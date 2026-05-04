@@ -1,6 +1,6 @@
 # Potarix/agent-hub
 
-[![Stars](https://img.shields.io/github/stars/Potarix/agent-hub?style=flat-square&color=yellow)](https://github.com/Potarix/agent-hub/stargazers) [![Forks](https://img.shields.io/github/forks/Potarix/agent-hub?style=flat-square&color=blue)](https://github.com/Potarix/agent-hub/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Potarix/agent-hub?style=flat-square&color=yellow)](https://github.com/Potarix/agent-hub/stargazers) [![Forks](https://img.shields.io/github/forks/Potarix/agent-hub?style=flat-square&color=blue)](https://github.com/Potarix/agent-hub/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > One place to talk to all your agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

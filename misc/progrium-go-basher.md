@@ -1,6 +1,6 @@
 # progrium/go-basher
 
-[![Stars](https://img.shields.io/github/stars/progrium/go-basher?style=flat-square&color=yellow)](https://github.com/progrium/go-basher/stargazers) [![Forks](https://img.shields.io/github/forks/progrium/go-basher?style=flat-square&color=blue)](https://github.com/progrium/go-basher/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/progrium/go-basher?style=flat-square&color=yellow)](https://github.com/progrium/go-basher/stargazers) [![Forks](https://img.shields.io/github/forks/progrium/go-basher?style=flat-square&color=blue)](https://github.com/progrium/go-basher/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Library for writing hybrid Go and Bash programs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 388 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

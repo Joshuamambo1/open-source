@@ -1,6 +1,6 @@
 # propeller-heads/tycho-indexer
 
-[![Stars](https://img.shields.io/github/stars/propeller-heads/tycho-indexer?style=flat-square&color=yellow)](https://github.com/propeller-heads/tycho-indexer/stargazers) [![Forks](https://img.shields.io/github/forks/propeller-heads/tycho-indexer?style=flat-square&color=blue)](https://github.com/propeller-heads/tycho-indexer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/propeller-heads/tycho-indexer?style=flat-square&color=yellow)](https://github.com/propeller-heads/tycho-indexer/stargazers) [![Forks](https://img.shields.io/github/forks/propeller-heads/tycho-indexer?style=flat-square&color=blue)](https://github.com/propeller-heads/tycho-indexer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Low latency indexer service for blockchain data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

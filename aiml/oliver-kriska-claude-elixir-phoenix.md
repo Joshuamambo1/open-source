@@ -1,6 +1,6 @@
 # oliver-kriska/claude-elixir-phoenix
 
-[![Stars](https://img.shields.io/github/stars/oliver-kriska/claude-elixir-phoenix?style=flat-square&color=yellow)](https://github.com/oliver-kriska/claude-elixir-phoenix/stargazers) [![Forks](https://img.shields.io/github/forks/oliver-kriska/claude-elixir-phoenix?style=flat-square&color=blue)](https://github.com/oliver-kriska/claude-elixir-phoenix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oliver-kriska/claude-elixir-phoenix?style=flat-square&color=yellow)](https://github.com/oliver-kriska/claude-elixir-phoenix/stargazers) [![Forks](https://img.shields.io/github/forks/oliver-kriska/claude-elixir-phoenix?style=flat-square&color=blue)](https://github.com/oliver-kriska/claude-elixir-phoenix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin for Elixir/Phoenix/LiveView — 20 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic verification, review with 4-agent parallel audits, and capture learnings as reusable knowledge.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 293 |
+| ⭐ **Stars** | 294 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

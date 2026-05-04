@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The imagemeta open-source project is a Go library that provides a comprehensive and high-performance solution for extracting metadata from various image file formats, including JPEG, HEIC, AVIF, TIFF, and Camera Raw. It supports both Exif and XMP metadata standards, offering a reliable tool for developers working with image data. This library is designed to be easy to use and extend, making it a valuable resource for anyone requiring efficient image metadata extraction.
+This open-source project, imagemeta, provides a Go library for extracting metadata from various image formats, including JPEG, HEIC, AVIF, TIFF, and Camera Raw, with a focus on performance and feature enhancement. It supports extraction of Exif and XMP metadata, making it a valuable tool for developers working with image data. The library aims to simplify the process of accessing image metadata in Go applications.
 
 ---
 

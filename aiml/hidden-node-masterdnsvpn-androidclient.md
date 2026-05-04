@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary:
 
-The Hidden-Node/MasterDnsVPN-AndroidClient is an open-source Android client for MasterDnsVPN, a community-driven build based on the upstream Go core. This project allows users to connect securely to their own MasterDnsVPN server, leveraging customizable domain, key, and resolver settings. By installing signed APKs from the Releases section, users can enjoy a secure and reliable VPN experience on their Android devices.
+The Hidden-Node/MasterDnsVPN-AndroidClient is an open-source Android application that allows users to connect to their own MasterDnsVPN server, providing a secure and private browsing experience. Built on the upstream Go core, this community-built client offers a simple and intuitive way to access MasterDnsVPN services on Android devices. Users can download signed APKs from the project's Releases page and start using the client immediately.
 
 ---
 

@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-The Emacs-MCP-server is an open-source, pure ELISP implementation designed to provide a simple and customizable server for managing Emacs sessions. This project allows users to remotely control and interact with their Emacs environments, facilitating efficient collaboration and workflow management. It serves as a backend component, enabling seamless integration with other tools and applications.
+Here's a brief summary for the emacs-mcp-server project:
+
+emacs-mcp-server is an open-source, pure ELISP implementation of a Multi-Client Protocol (MCP) server for Emacs, designed to provide a robust backend for MCP clients. This project allows for seamless integration of Emacs with other tools and systems that support the MCP protocol. Its open-source nature makes it accessible to the community for development and customization.
 
 ---
 

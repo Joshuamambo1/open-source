@@ -1,8 +1,8 @@
 # DigitalArchivst/Open-Genealogy
 
-[![Stars](https://img.shields.io/github/stars/DigitalArchivst/Open-Genealogy?style=flat-square&color=yellow)](https://github.com/DigitalArchivst/Open-Genealogy/stargazers) [![Forks](https://img.shields.io/github/forks/DigitalArchivst/Open-Genealogy?style=flat-square&color=blue)](https://github.com/DigitalArchivst/Open-Genealogy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DigitalArchivst/Open-Genealogy?style=flat-square&color=yellow)](https://github.com/DigitalArchivst/Open-Genealogy/stargazers) [![Forks](https://img.shields.io/github/forks/DigitalArchivst/Open-Genealogy?style=flat-square&color=blue)](https://github.com/DigitalArchivst/Open-Genealogy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
-> Collection of genealogy resources
+> GPS-aligned AI prompts and Agent Skills for genealogical research (CC-BY-NC-SA-4.0)
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

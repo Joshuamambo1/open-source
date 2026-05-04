@@ -25,7 +25,7 @@ Crypto · Trading · AI/ML
 
 ## 📝 Summary
 
-This open-source project, Openclaw AI Polymarket Trading Bot, is a TypeScript-based bot that utilizes an AI agent to predict cryptocurrency prices on Polymarket's 5-minute BTC Up/Down markets. The bot tracks its performance and can execute trades automatically based on the AI's predictions, allowing users to test its effectiveness in a paper or live trading environment.
+The Openclaw AI Polymarket Trading Bot is an open-source, TypeScript-based trading bot that utilizes AI predictions to inform cryptocurrency trades on Polymarket's 5-minute BTC Up/Down markets. This bot tracks results and can execute trades automatically, providing users with a data-driven approach to cryptocurrency trading. The bot's AI agent enables users to make informed decisions and potentially maximize their trading outcomes.
 
 ---
 

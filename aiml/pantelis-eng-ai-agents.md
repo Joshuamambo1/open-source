@@ -1,6 +1,6 @@
 # pantelis/eng-ai-agents
 
-[![Stars](https://img.shields.io/github/stars/pantelis/eng-ai-agents?style=flat-square&color=yellow)](https://github.com/pantelis/eng-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/pantelis/eng-ai-agents?style=flat-square&color=blue)](https://github.com/pantelis/eng-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pantelis/eng-ai-agents?style=flat-square&color=yellow)](https://github.com/pantelis/eng-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/pantelis/eng-ai-agents?style=flat-square&color=blue)](https://github.com/pantelis/eng-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Docker Dev Environments for AI, CV and Robotics Courses at NJIT and NYU
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

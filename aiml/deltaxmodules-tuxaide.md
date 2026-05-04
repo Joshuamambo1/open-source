@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-TuxAide is an open-source, local AI assistant designed to run within a Linux terminal, providing users with a convenient and intuitive interface to various AI functionalities. This project aims to streamline interactions between users and artificial intelligence, making it easily accessible for Linux users. By integrating AI capabilities into the terminal, TuxAide aims to enhance user productivity and efficiency.
+TuxAide is an open-source, local AI assistant designed to run within a Linux terminal, providing users with a conversational interface for interacting with their system. This project allows users to leverage AI-powered functionality from the comfort of their terminal, streamlining tasks and workflows. By harnessing the power of AI, TuxAide aims to enhance user productivity and experience within the Linux environment.
 
 ---
 

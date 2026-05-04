@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-ResearchArena is an open-source project that aims to provide a comprehensive environment for artificial intelligence (AI) and machine learning (ML) research and development. This platform offers a suite of tools and resources for data scientists and researchers to experiment, collaborate, and share their work in a seamless and structured manner. By leveraging ResearchArena, users can accelerate their AI/ML projects and contribute to the advancement of this rapidly evolving field.
+ResearchArena is an open-source project providing a comprehensive platform for artificial intelligence (AI) and machine learning (ML) research and development. This DevTools repository offers a suite of tools and resources to streamline the AI/ML workflow, making it easier for developers and researchers to experiment, collaborate, and innovate. With ResearchArena, users can efficiently manage, analyze, and visualize complex AI/ML projects.
 
 ---
 

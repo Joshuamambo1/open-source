@@ -41,8 +41,8 @@
 | 31 | [processing/processing4](./processing-processing4.md) | ⭐ 394 | Java | 51/100 |
 | 32 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 602 | PHP | 50/100 |
 | 33 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 50/100 |
-| 34 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 464 | JavaScript | 49/100 |
-| 35 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 356 | Go | 49/100 |
+| 34 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 356 | Go | 49/100 |
+| 35 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 466 | JavaScript | 49/100 |
 | 36 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 109 | Rust | 48/100 |
 | 37 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 125 | Rust | 48/100 |
 | 38 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
@@ -58,7 +58,7 @@
 | 48 | [oripa/oripa](./oripa-oripa.md) | ⭐ 309 | Java | 43/100 |
 | 49 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
 | 50 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 142 | Rust | 43/100 |
-| 51 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 415 | TypeScript | 43/100 |
+| 51 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 416 | TypeScript | 43/100 |
 | 52 | [graelo/pumas](./graelo-pumas.md) | ⭐ 214 | Rust | 42/100 |
 | 53 | [nats-io/nats-architecture-and-design](./nats-io-nats-architecture-and-design.md) | ⭐ 398 | Go | 40/100 |
 | 54 | [sandwichdoge/MinimizeToTray](./sandwichdoge-minimizetotray.md) | ⭐ 306 | AutoIt | 39/100 |

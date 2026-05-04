@@ -1,6 +1,6 @@
 # inspircd/inspircd
 
-[![Stars](https://img.shields.io/github/stars/inspircd/inspircd?style=flat-square&color=yellow)](https://github.com/inspircd/inspircd/stargazers) [![Forks](https://img.shields.io/github/forks/inspircd/inspircd?style=flat-square&color=blue)](https://github.com/inspircd/inspircd/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inspircd/inspircd?style=flat-square&color=yellow)](https://github.com/inspircd/inspircd/stargazers) [![Forks](https://img.shields.io/github/forks/inspircd/inspircd?style=flat-square&color=blue)](https://github.com/inspircd/inspircd/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance Internet Relay Chat (IRCv3) server for UNIX-like and Windows systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 279 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

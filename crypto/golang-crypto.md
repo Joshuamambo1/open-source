@@ -1,6 +1,6 @@
 # golang/crypto
 
-[![Stars](https://img.shields.io/github/stars/golang/crypto?style=flat-square&color=yellow)](https://github.com/golang/crypto/stargazers) [![Forks](https://img.shields.io/github/forks/golang/crypto?style=flat-square&color=blue)](https://github.com/golang/crypto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/golang/crypto?style=flat-square&color=yellow)](https://github.com/golang/crypto/stargazers) [![Forks](https://img.shields.io/github/forks/golang/crypto?style=flat-square&color=blue)](https://github.com/golang/crypto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > [mirror] Go supplementary cryptography libraries
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

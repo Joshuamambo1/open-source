@@ -1,6 +1,6 @@
 # NVIDIA/physicsnemo-sym
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/physicsnemo-sym?style=flat-square&color=yellow)](https://github.com/NVIDIA/physicsnemo-sym/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/physicsnemo-sym?style=flat-square&color=blue)](https://github.com/NVIDIA/physicsnemo-sym/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/physicsnemo-sym?style=flat-square&color=yellow)](https://github.com/NVIDIA/physicsnemo-sym/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/physicsnemo-sym?style=flat-square&color=blue)](https://github.com/NVIDIA/physicsnemo-sym/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Framework providing pythonic APIs, algorithms and utilities to be used with PhysicsNeMo core to physics inform model training as well as higher level abstraction for domain experts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 328 |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

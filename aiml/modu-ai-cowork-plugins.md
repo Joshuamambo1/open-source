@@ -1,6 +1,6 @@
 # modu-ai/cowork-plugins
 
-[![Stars](https://img.shields.io/github/stars/modu-ai/cowork-plugins?style=flat-square&color=yellow)](https://github.com/modu-ai/cowork-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/modu-ai/cowork-plugins?style=flat-square&color=blue)](https://github.com/modu-ai/cowork-plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modu-ai/cowork-plugins?style=flat-square&color=yellow)](https://github.com/modu-ai/cowork-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/modu-ai/cowork-plugins?style=flat-square&color=blue)](https://github.com/modu-ai/cowork-plugins/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Cowork 도메인 전문가 AI 마켓플레이스 — 16 plugins · 64 skills for business, marketing, legal, finance, HR, content, operations, education, lifestyle, product, support, office docs, data analysis, and research
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 43 |
-| 💻 **Language** | Python |
+| 💻 **Language** | HTML |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

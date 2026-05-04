@@ -1,6 +1,6 @@
 # suenot/profitmaker
 
-[![Stars](https://img.shields.io/github/stars/suenot/profitmaker?style=flat-square&color=yellow)](https://github.com/suenot/profitmaker/stargazers) [![Forks](https://img.shields.io/github/forks/suenot/profitmaker?style=flat-square&color=blue)](https://github.com/suenot/profitmaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suenot/profitmaker?style=flat-square&color=yellow)](https://github.com/suenot/profitmaker/stargazers) [![Forks](https://img.shields.io/github/forks/suenot/profitmaker?style=flat-square&color=blue)](https://github.com/suenot/profitmaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Open source, customized, extendable trading platform that supports 100+ crypto exchanges.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

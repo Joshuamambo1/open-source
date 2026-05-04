@@ -1,6 +1,6 @@
 # steipete/RepoBar
 
-[![Stars](https://img.shields.io/github/stars/steipete/RepoBar?style=flat-square&color=yellow)](https://github.com/steipete/RepoBar/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/RepoBar?style=flat-square&color=blue)](https://github.com/steipete/RepoBar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steipete/RepoBar?style=flat-square&color=yellow)](https://github.com/steipete/RepoBar/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/RepoBar?style=flat-square&color=blue)](https://github.com/steipete/RepoBar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
+| ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

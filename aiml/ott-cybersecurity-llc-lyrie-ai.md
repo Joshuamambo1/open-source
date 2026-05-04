@@ -1,6 +1,6 @@
 # OTT-Cybersecurity-LLC/lyrie-ai
 
-[![Stars](https://img.shields.io/github/stars/OTT-Cybersecurity-LLC/lyrie-ai?style=flat-square&color=yellow)](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai/stargazers) [![Forks](https://img.shields.io/github/forks/OTT-Cybersecurity-LLC/lyrie-ai?style=flat-square&color=blue)](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OTT-Cybersecurity-LLC/lyrie-ai?style=flat-square&color=yellow)](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai/stargazers) [![Forks](https://img.shields.io/github/forks/OTT-Cybersecurity-LLC/lyrie-ai?style=flat-square&color=blue)](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Lyrie.ai — The world's first autonomous AI cybersecurity agent. Built by OTT Cybersecurity LLC.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 544 |
 | 🍴 **Forks** | 63 |
-| 💻 **Language** | Python |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

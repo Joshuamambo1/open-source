@@ -1,6 +1,6 @@
 # walterlow/freecut
 
-[![Stars](https://img.shields.io/github/stars/walterlow/freecut?style=flat-square&color=yellow)](https://github.com/walterlow/freecut/stargazers) [![Forks](https://img.shields.io/github/forks/walterlow/freecut?style=flat-square&color=blue)](https://github.com/walterlow/freecut/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/walterlow/freecut?style=flat-square&color=yellow)](https://github.com/walterlow/freecut/stargazers) [![Forks](https://img.shields.io/github/forks/walterlow/freecut?style=flat-square&color=blue)](https://github.com/walterlow/freecut/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, real-time preview, and high-quality exports.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 177 |
+| 🍴 **Forks** | 176 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # darrylmorley/whatcable
 
-[![Stars](https://img.shields.io/github/stars/darrylmorley/whatcable?style=flat-square&color=yellow)](https://github.com/darrylmorley/whatcable/stargazers) [![Forks](https://img.shields.io/github/forks/darrylmorley/whatcable?style=flat-square&color=blue)](https://github.com/darrylmorley/whatcable/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/darrylmorley/whatcable?style=flat-square&color=yellow)](https://github.com/darrylmorley/whatcable/stargazers) [![Forks](https://img.shields.io/github/forks/darrylmorley/whatcable?style=flat-square&color=blue)](https://github.com/darrylmorley/whatcable/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

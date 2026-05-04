@@ -1,6 +1,6 @@
 # AICrafterZheng/AI-Frontiers-Digest
 
-[![Stars](https://img.shields.io/github/stars/AICrafterZheng/AI-Frontiers-Digest?style=flat-square&color=yellow)](https://github.com/AICrafterZheng/AI-Frontiers-Digest/stargazers) [![Forks](https://img.shields.io/github/forks/AICrafterZheng/AI-Frontiers-Digest?style=flat-square&color=blue)](https://github.com/AICrafterZheng/AI-Frontiers-Digest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AICrafterZheng/AI-Frontiers-Digest?style=flat-square&color=yellow)](https://github.com/AICrafterZheng/AI-Frontiers-Digest/stargazers) [![Forks](https://img.shields.io/github/forks/AICrafterZheng/AI-Frontiers-Digest?style=flat-square&color=blue)](https://github.com/AICrafterZheng/AI-Frontiers-Digest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > AI Frontiers Digest leverages LLMs to intelligently curate and summarize the latest developments in AI, while also generating engaging Podcasts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

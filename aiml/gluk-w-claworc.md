@@ -1,8 +1,8 @@
 # gluk-w/claworc
 
-[![Stars](https://img.shields.io/github/stars/gluk-w/claworc?style=flat-square&color=yellow)](https://github.com/gluk-w/claworc/stargazers) [![Forks](https://img.shields.io/github/forks/gluk-w/claworc?style=flat-square&color=blue)](https://github.com/gluk-w/claworc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gluk-w/claworc?style=flat-square&color=yellow)](https://github.com/gluk-w/claworc/stargazers) [![Forks](https://img.shields.io/github/forks/gluk-w/claworc?style=flat-square&color=blue)](https://github.com/gluk-w/claworc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Openclaw Orchestrator
+> User-friendly orchestrator for OpenClaw
 
 ## 📊 Stats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 225 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

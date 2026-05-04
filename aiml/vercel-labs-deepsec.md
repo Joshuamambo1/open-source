@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 125 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 162 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
@@ -25,7 +25,7 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Deepsec is an open-source security harness that leverages coding agents to detect vulnerabilities in codebases. This AI-powered tool helps developers identify potential security weaknesses, enabling them to strengthen their code and prevent common web application vulnerabilities. By integrating Deepsec into their development workflow, developers can ensure the security and reliability of their applications.
+Deepsec is an open-source, AI-powered security harness designed to detect vulnerabilities in codebases. Leveraging coding agents, it provides a robust platform for identifying potential security risks, empowering developers to strengthen their application's defenses. By utilizing Deepsec, developers can automate security testing, streamline their workflows, and ensure the integrity of their code.
 
 ---
 

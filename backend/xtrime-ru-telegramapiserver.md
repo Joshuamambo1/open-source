@@ -1,6 +1,6 @@
 # xtrime-ru/TelegramApiServer
 
-[![Stars](https://img.shields.io/github/stars/xtrime-ru/TelegramApiServer?style=flat-square&color=yellow)](https://github.com/xtrime-ru/TelegramApiServer/stargazers) [![Forks](https://img.shields.io/github/forks/xtrime-ru/TelegramApiServer?style=flat-square&color=blue)](https://github.com/xtrime-ru/TelegramApiServer/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xtrime-ru/TelegramApiServer?style=flat-square&color=yellow)](https://github.com/xtrime-ru/TelegramApiServer/stargazers) [![Forks](https://img.shields.io/github/forks/xtrime-ru/TelegramApiServer?style=flat-square&color=blue)](https://github.com/xtrime-ru/TelegramApiServer/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, simple, async php telegram api server: MadelineProto + Amp HTTP Server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 638 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

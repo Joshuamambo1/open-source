@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, mbrea-c/bevy_animation_graph, provides animation graph functionality for the Bevy game engine, allowing developers to create complex animations and behaviors through a node-based graph editor. The project enables users to visualize and edit animation parameters, transitions, and logic in a flexible and intuitive manner. By leveraging animation graphs, game developers can streamline their animation workflows and create more dynamic and engaging experiences.
+The mbrea-c/bevy_animation_graph project brings animation graph functionality to the Bevy game engine, allowing developers to create complex and dynamic animations with ease. This open-source library provides a flexible and customizable way to manage and manipulate animations, making it an ideal addition for game developers and animators. By integrating animation graphs into Bevy, users can create more sophisticated and engaging game experiences.
 
 ---
 

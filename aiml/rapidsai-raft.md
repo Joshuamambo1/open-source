@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the rapidsai/raft project:
-
-RAFT is an open-source library that provides essential algorithms and primitives for machine learning and information retrieval, optimized for high-performance applications through CUDA acceleration. This library serves as a building block for developers to create efficient and scalable applications. By leveraging RAFT, users can focus on writing high-performance code without the need to implement low-level optimizations.
+RAFT (RAID Accelerated Transform Framework) is an open-source project that provides a collection of widely-used, CUDA-accelerated algorithms and primitives for machine learning and information retrieval. These building blocks are designed to simplify the development of high-performance applications in AI/ML and information retrieval. By leveraging RAFT, developers can focus on crafting efficient and scalable solutions without the need for low-level optimization.
 
 ---
 

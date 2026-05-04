@@ -27,7 +27,7 @@ Crypto · AI/ML · Backend
 
 Here's a brief summary for the massive-com/mcp_massive project:
 
-The massive-com/mcp_massive project provides an open-source MCP server for Massive.com, a platform offering financial market data. This server enables developers to access and utilize Massive.com's financial market data for various applications, such as AI/ML models or cryptocurrency analysis tools. By contributing to this project, users can help advance the accessibility and integration of financial market data in the open-source community.
+The massive-com/mcp_massive project is an open-source implementation of an MCP (Massive Crypto Price) server for Massive.com Financial Market Data. This server enables access to real-time and historical crypto market data, catering to the needs of developers and researchers in the AI/ML and crypto spaces. By providing a robust and scalable data infrastructure, mcp_massive facilitates the development of innovative projects and applications in the financial and technology sectors.
 
 ---
 

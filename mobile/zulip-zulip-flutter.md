@@ -1,6 +1,6 @@
 # zulip/zulip-flutter
 
-[![Stars](https://img.shields.io/github/stars/zulip/zulip-flutter?style=flat-square&color=yellow)](https://github.com/zulip/zulip-flutter/stargazers) [![Forks](https://img.shields.io/github/forks/zulip/zulip-flutter?style=flat-square&color=blue)](https://github.com/zulip/zulip-flutter/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zulip/zulip-flutter?style=flat-square&color=yellow)](https://github.com/zulip/zulip-flutter/stargazers) [![Forks](https://img.shields.io/github/forks/zulip/zulip-flutter?style=flat-square&color=blue)](https://github.com/zulip/zulip-flutter/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Zulip mobile apps for Android and iOS, using Flutter.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 443 |
+| ⭐ **Stars** | 444 |
 | 🍴 **Forks** | 442 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

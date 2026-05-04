@@ -1,6 +1,6 @@
 # kovetskiy/mark
 
-[![Stars](https://img.shields.io/github/stars/kovetskiy/mark?style=flat-square&color=yellow)](https://github.com/kovetskiy/mark/stargazers) [![Forks](https://img.shields.io/github/forks/kovetskiy/mark?style=flat-square&color=blue)](https://github.com/kovetskiy/mark/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kovetskiy/mark?style=flat-square&color=yellow)](https://github.com/kovetskiy/mark/stargazers) [![Forks](https://img.shields.io/github/forks/kovetskiy/mark?style=flat-square&color=blue)](https://github.com/kovetskiy/mark/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Sync your markdown files with Confluence pages.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 210 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

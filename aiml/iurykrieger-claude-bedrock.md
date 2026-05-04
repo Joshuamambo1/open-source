@@ -25,7 +25,7 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Claude Bedrock is an open-source project that automates Second Brain management for Obsidian users, leveraging Claude Code skills to streamline entity management, ingestion, compression, and synchronization. This tool simplifies the process of maintaining a well-organized and up-to-date Obsidian vault, freeing users to focus on knowledge creation. By integrating AI-driven automation, Claude Bedrock enhances the overall Second Brain experience.
+Claude Bedrock is an open-source project that automates the management of Obsidian vaults using Claude Code skills, enabling seamless entity management, ingestion, compression, and synchronization. This project integrates AI-driven automation to streamline workflow and enhance productivity for Obsidian users. By leveraging Claude Code skills, users can efficiently organize and maintain their knowledge bases.
 
 ---
 

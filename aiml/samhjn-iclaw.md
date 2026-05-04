@@ -1,6 +1,6 @@
 # samhjn/iClaw
 
-[![Stars](https://img.shields.io/github/stars/samhjn/iClaw?style=flat-square&color=yellow)](https://github.com/samhjn/iClaw/stargazers) [![Forks](https://img.shields.io/github/forks/samhjn/iClaw?style=flat-square&color=blue)](https://github.com/samhjn/iClaw/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samhjn/iClaw?style=flat-square&color=yellow)](https://github.com/samhjn/iClaw/stargazers) [![Forks](https://img.shields.io/github/forks/samhjn/iClaw?style=flat-square&color=blue)](https://github.com/samhjn/iClaw/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > A native iOS AI Agent app — multiple customizable AI assistants, right on your phone
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

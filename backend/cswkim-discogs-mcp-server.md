@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The cswkim/discogs-mcp-server project is an open-source implementation of a MCP (Music Control Protocol) server designed specifically for integration with Discogs, a popular music metadata platform. This server enables seamless communication between Discogs and other devices or applications that support the MCP protocol, facilitating a unified music experience. By utilizing this project, developers can build Discogs-enabled music systems and applications with ease.
+The cswkim/discogs-mcp-server project is an open-source implementation of a Music Control Protocol (MCP) server specifically designed for use with Discogs, a popular online music database. This server enables seamless integration with various music players and clients, allowing users to control and manage their music collections more efficiently. By providing an MCP interface, it facilitates a more streamlined and user-friendly experience for Discogs users.
 
 ---
 

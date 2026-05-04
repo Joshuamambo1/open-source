@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Katzenpost is an open-source project focused on researching and developing mix network protocols to enhance online anonymity and security. By leveraging free and open-source software, the project aims to create a more private and secure communication environment for users. Katzenpost contributes to the advancement of mix network protocols, improving the protection of users' online identities and communications.
+Katzenpost is an open-source project focused on developing and researching mix network protocols. This free software aims to improve the security and anonymity of online communications, providing a layer of protection against surveillance and interception. By advancing mix network protocols, Katzenpost contributes to the development of more secure and private online environments.
 
 ---
 

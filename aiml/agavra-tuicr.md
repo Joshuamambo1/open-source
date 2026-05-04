@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Tuicr is an open-source, terminal-based user interface designed for local code review, providing a streamlined and efficient way to collaborate and analyze code changes. This project is suitable for developers and teams working on AI/ML projects, leveraging the power of the terminal to simplify code review workflows. By using Tuicr, teams can focus on code quality and improvement without the complexity of traditional code review tools.
+Tuicr is an open-source terminal-based user interface for local code review, designed to streamline the process of reviewing and providing feedback on code changes. This tool aims to simplify the code review workflow, making it more efficient and user-friendly for developers and reviewers alike. By leveraging a terminal UI, Tuicr provides a lightweight and accessible solution for local code review.
 
 ---
 

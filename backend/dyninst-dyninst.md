@@ -1,6 +1,6 @@
 # dyninst/dyninst
 
-[![Stars](https://img.shields.io/github/stars/dyninst/dyninst?style=flat-square&color=yellow)](https://github.com/dyninst/dyninst/stargazers) [![Forks](https://img.shields.io/github/forks/dyninst/dyninst?style=flat-square&color=blue)](https://github.com/dyninst/dyninst/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dyninst/dyninst?style=flat-square&color=yellow)](https://github.com/dyninst/dyninst/stargazers) [![Forks](https://img.shields.io/github/forks/dyninst/dyninst?style=flat-square&color=blue)](https://github.com/dyninst/dyninst/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > DyninstAPI: Tools for binary instrumentation, analysis, and modification.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 823 |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | C |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

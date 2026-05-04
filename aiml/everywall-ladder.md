@@ -27,7 +27,7 @@ AI/ML
 
 Here's a brief summary of the everywall/ladder project:
 
-everywall/ladder is an open-source, self-hosted solution that offers a proxy service to remove CORS (Cross-Origin Resource Sharing) headers and modify HTML, making it a viable alternative to hosted services like 12ft.io and 1ft.io. This project is designed to provide developers with more control over their web applications, enhancing flexibility and customization options. By leveraging AI/ML capabilities, everywall/ladder enables users to create seamless and secure web experiences.
+everywall/ladder is an open-source, self-hosted solution that acts as a proxy to remove CORS (Cross-Origin Resource Sharing) headers and modify HTML content. This project aims to provide an alternative to services like 12ft.io and 1ft.io, offering users greater control and flexibility over their web browsing experience. By leveraging AI/ML capabilities, ladder enhances the functionality of its proxy, making it a valuable tool for web developers and users alike.
 
 ---
 

@@ -25,9 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the carterlasalle/mac_messages_mcp project:
-
-mac_messages_mcp is an open-source Model Context Protocol (MCP) server that securely interfaces with iMessage databases, enabling Large Language Models (LLMs) to analyze and query iMessage conversations. This project boasts robust features for phone number validation, attachment processing, contact management, and group chat handling, making it a comprehensive solution for iMessage data analysis. By providing full support for sending and receiving messages, mac_messages_mcp unlocks new possibilities for AI-driven conversation analysis and insights.
+This open-source project, carterlasalle/mac_messages_mcp, provides a secure Model Context Protocol (MCP) server that enables Large Language Models (LLMs) to access and analyze iMessage conversations stored in the user's database. The project offers robust features for phone number validation, attachment processing, contact management, and group chat handling, ensuring seamless interaction with iMessage data. By utilizing this MCP server, developers can build innovative AI applications that integrate with iMessage conversations.
 
 ---
 

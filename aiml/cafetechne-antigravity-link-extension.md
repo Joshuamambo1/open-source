@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the cafeTechne/antigravity-link-extension project:
+Here's a brief summary for the open-source project:
 
-The antigravity-link-extension is an open-source mobile companion that seamlessly connects to Google's Antigravity IDE, enabling users to mirror AI sessions, send messages, and control the generation process on-the-go. This extension also allows for automation of tasks via 9 MCP tools or OpenAPI, significantly enhancing productivity for developers. By bridging the gap between the desktop and mobile experience, this extension empowers users to work more efficiently with their AI models.
+The antigravity-link-extension is a mobile companion for Google's Antigravity IDE, allowing users to mirror AI sessions, send messages, and control generation remotely. This extension can also automate workflows through integration with 9 MCP tools or OpenAPI, enhancing the productivity and convenience of Antigravity users. By extending the capabilities of Antigravity, this project empowers developers to work more efficiently and effectively.
 
 ---
 

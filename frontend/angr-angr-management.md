@@ -1,6 +1,6 @@
 # angr/angr-management
 
-[![Stars](https://img.shields.io/github/stars/angr/angr-management?style=flat-square&color=yellow)](https://github.com/angr/angr-management/stargazers) [![Forks](https://img.shields.io/github/forks/angr/angr-management?style=flat-square&color=blue)](https://github.com/angr/angr-management/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/angr/angr-management?style=flat-square&color=yellow)](https://github.com/angr/angr-management/stargazers) [![Forks](https://img.shields.io/github/forks/angr/angr-management?style=flat-square&color=blue)](https://github.com/angr/angr-management/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The official angr GUI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

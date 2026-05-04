@@ -25,9 +25,9 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "av1155/houndarr":
+Here's a brief summary for the project:
 
-Houndarr is a self-hosted companion for managing Anilist, MyAnimeList, and other anime databases. It offers controlled missing, cutoff, and upgrade searches, allowing users to efficiently manage their anime collections and stay up-to-date with new releases. With Houndarr, users can host their own instance and customize their experience to suit their needs.
+Houndarr is an open-source, self-hosted companion for Anime and Manga enthusiasts, offering features such as controlled missing episode searches, cutoff tracking, and upgrade notifications. This project is designed to streamline the experience of staying up-to-date with the latest episodes and releases. By hosting it yourself, users can ensure their data remains private and customizable.
 
 ---
 

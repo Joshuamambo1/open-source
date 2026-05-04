@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The rustls/rustls-native-certs project is an open-source integration that allows rustls, a modern TLS library, to leverage native operating system certificate stores. This enables rustls to securely verify the identities of servers and clients without requiring users to manually manage certificates or private keys. By utilizing native certificate stores, rustls-native-certs simplifies the process of establishing trust in TLS connections.
+This open-source project, "rustls/rustls-native-certs," allows integration with operating system (OS) certificate stores for use with the rustls library, enabling secure TLS connections. By leveraging the OS's built-in certificate management, it provides a convenient and secure way to manage trusted certificates. This integration is particularly useful for applications that require robust TLS security and ease of certificate management.
 
 ---
 

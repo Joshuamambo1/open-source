@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The iup-go project by gen2brain is an open-source, cross-platform UI library that provides a comprehensive set of native controls for building robust and visually appealing applications. It enables developers to create user interfaces that run seamlessly across various operating systems, including Windows, macOS, and Linux. This versatile library is well-suited for AI/ML and frontend projects, streamlining the development process and enhancing overall user experience.
+The iup-go project is an open-source, cross-platform UI library that provides native controls for developing graphical user interfaces. It offers a versatile and efficient solution for creating intuitive and engaging user experiences across various platforms. This library is suitable for applications involving artificial intelligence (AI) and machine learning (ML) that require seamless and native user interfaces.
 
 ---
 

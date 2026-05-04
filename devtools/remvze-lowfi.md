@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The lowfi project allows users to stream SomaFM, a popular online radio station, directly from their terminal. This open-source tool provides an intuitive command-line interface for accessing a wide range of SomaFM stations. It offers a seamless, low-bandwidth alternative to traditional web-based streaming.
+The lowfi project is an open-source, command-line interface (CLI) client for SomaFM, a popular online radio station. It allows users to access and control SomaFM streams directly from their terminal, providing a simple and intuitive way to enjoy their favorite online radio content. With lowfi, users can explore SomaFM's diverse range of channels and discover new music from the comfort of their own terminal.
 
 ---
 

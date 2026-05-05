@@ -1,6 +1,6 @@
 # james-6-23/codex2api
 
-[![Stars](https://img.shields.io/github/stars/james-6-23/codex2api?style=flat-square&color=yellow)](https://github.com/james-6-23/codex2api/stargazers) [![Forks](https://img.shields.io/github/forks/james-6-23/codex2api?style=flat-square&color=blue)](https://github.com/james-6-23/codex2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/james-6-23/codex2api?style=flat-square&color=yellow)](https://github.com/james-6-23/codex2api/stargazers) [![Forks](https://img.shields.io/github/forks/james-6-23/codex2api?style=flat-square&color=blue)](https://github.com/james-6-23/codex2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 959 |
-| 🍴 **Forks** | 182 |
+| ⭐ **Stars** | 965 |
+| 🍴 **Forks** | 183 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Lunalytics is an open-source monitoring tool developed with Node.js, offering a scalable and customizable solution for real-time monitoring and data analysis. This frontend-focused tool provides users with valuable insights into system performance, allowing for more informed decision-making and efficient system optimization. By leveraging Node.js, Lunalytics ensures a robust and high-performance monitoring experience.
+Lunalytics is an open-source monitoring tool developed with Node.js, designed to provide real-time visibility and insights into system performance. This frontend-focused project offers a scalable and customizable solution for monitoring and analytics, empowering users to optimize their systems and make data-driven decisions. With Lunalytics, users can gain a deeper understanding of their system's behavior and make improvements to ensure optimal performance and efficiency.
 
 ---
 

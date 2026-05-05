@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project introduces a novel approach to emotion steering for vision-language large models (vLLMs) while preserving batching efficiency. By adjusting emotions on a per-request basis, this method aims to enhance the emotional intelligence and user experience of vLLM-powered applications. It offers a scalable solution for developers looking to fine-tune the emotional tone of their AI-driven projects.
+This open-source project enhances the performance of vLLM (vocal Large Language Models) by incorporating per-request emotion steering, while maintaining the benefits of batching. This innovative approach aims to improve the accuracy and relevance of vLLM outputs by adapting to the emotional context of each individual request. By leveraging this technique, developers can create more personalized and effective AI-powered applications.
 
 ---
 

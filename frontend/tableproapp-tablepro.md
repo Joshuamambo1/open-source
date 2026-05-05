@@ -1,6 +1,6 @@
 # TableProApp/TablePro
 
-[![Stars](https://img.shields.io/github/stars/TableProApp/TablePro?style=flat-square&color=yellow)](https://github.com/TableProApp/TablePro/stargazers) [![Forks](https://img.shields.io/github/forks/TableProApp/TablePro?style=flat-square&color=blue)](https://github.com/TableProApp/TablePro/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TableProApp/TablePro?style=flat-square&color=yellow)](https://github.com/TableProApp/TablePro/stargazers) [![Forks](https://img.shields.io/github/forks/TableProApp/TablePro?style=flat-square&color=blue)](https://github.com/TableProApp/TablePro/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A native database client for developers who use one every day.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 144 |
+| ⭐ **Stars** | 2.5k |
+| 🍴 **Forks** | 154 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

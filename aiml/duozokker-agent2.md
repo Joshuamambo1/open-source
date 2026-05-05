@@ -1,6 +1,6 @@
 # duozokker/agent2
 
-[![Stars](https://img.shields.io/github/stars/duozokker/agent2?style=flat-square&color=yellow)](https://github.com/duozokker/agent2/stargazers) [![Forks](https://img.shields.io/github/forks/duozokker/agent2?style=flat-square&color=blue)](https://github.com/duozokker/agent2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/duozokker/agent2?style=flat-square&color=yellow)](https://github.com/duozokker/agent2/stargazers) [![Forks](https://img.shields.io/github/forks/duozokker/agent2?style=flat-square&color=blue)](https://github.com/duozokker/agent2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Turn domain experts into production AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # flankerhqd/jebmcp
 
-[![Stars](https://img.shields.io/github/stars/flankerhqd/jebmcp?style=flat-square&color=yellow)](https://github.com/flankerhqd/jebmcp/stargazers) [![Forks](https://img.shields.io/github/forks/flankerhqd/jebmcp?style=flat-square&color=blue)](https://github.com/flankerhqd/jebmcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flankerhqd/jebmcp?style=flat-square&color=yellow)](https://github.com/flankerhqd/jebmcp/stargazers) [![Forks](https://img.shields.io/github/forks/flankerhqd/jebmcp?style=flat-square&color=blue)](https://github.com/flankerhqd/jebmcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 232 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

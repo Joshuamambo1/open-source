@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Free Open-Source Documentation Creator Tool is an open-source project designed to facilitate the creation and management of documentation. This user-friendly tool enables users to generate professional-looking documentation with ease, catering to various needs such as personal projects, educational institutions, or small to medium-sized businesses. By harnessing the power of this tool, users can streamline their documentation processes and share knowledge effectively.
+This open-source project is a documentation creator tool designed to simplify the process of generating high-quality documentation for various projects. The tool is free, accessible, and customizable, allowing users to easily tailor it to their specific needs. With its open-source nature, the community can collaborate, contribute, and benefit from the tool's continuous improvement.
 
 ---
 

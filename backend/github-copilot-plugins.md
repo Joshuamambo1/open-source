@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The GitHub Copilot plugins collection is an open-source project that provides extensibility tools for GitHub Copilot, enabling developers to enhance and customize its functionality. This collection includes MCP servers, skills, hooks, and other extensibility tools, allowing users to expand the capabilities of the copilot. By leveraging this collection, developers can create personalized integrations and improve their coding experience.
+This open-source project, github/copilot-plugins, is the official collection of extensibility tools for GitHub Copilot. It includes MCP servers, skills, hooks, and other plugins that enable developers to customize and extend the functionality of GitHub Copilot. By contributing to this project, developers can help shape the future of GitHub Copilot and enhance its capabilities.
 
 ---
 

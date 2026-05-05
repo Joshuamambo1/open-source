@@ -1,6 +1,6 @@
 # meilisearch/heed
 
-[![Stars](https://img.shields.io/github/stars/meilisearch/heed?style=flat-square&color=yellow)](https://github.com/meilisearch/heed/stargazers) [![Forks](https://img.shields.io/github/forks/meilisearch/heed?style=flat-square&color=blue)](https://github.com/meilisearch/heed/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meilisearch/heed?style=flat-square&color=yellow)](https://github.com/meilisearch/heed/stargazers) [![Forks](https://img.shields.io/github/forks/meilisearch/heed?style=flat-square&color=blue)](https://github.com/meilisearch/heed/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Fully typed LMDB wrappers with minimum overhead 🐦
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 875 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

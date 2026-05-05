@@ -1,6 +1,6 @@
 # decolua/9router
 
-[![Stars](https://img.shields.io/github/stars/decolua/9router?style=flat-square&color=yellow)](https://github.com/decolua/9router/stargazers) [![Forks](https://img.shields.io/github/forks/decolua/9router?style=flat-square&color=blue)](https://github.com/decolua/9router/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/decolua/9router?style=flat-square&color=yellow)](https://github.com/decolua/9router/stargazers) [![Forks](https://img.shields.io/github/forks/decolua/9router?style=flat-square&color=blue)](https://github.com/decolua/9router/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > 🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 899 |
+| ⭐ **Stars** | 3.9k |
+| 🍴 **Forks** | 908 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # open-policy-agent/regal
 
-[![Stars](https://img.shields.io/github/stars/open-policy-agent/regal?style=flat-square&color=yellow)](https://github.com/open-policy-agent/regal/stargazers) [![Forks](https://img.shields.io/github/forks/open-policy-agent/regal?style=flat-square&color=blue)](https://github.com/open-policy-agent/regal/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-policy-agent/regal?style=flat-square&color=yellow)](https://github.com/open-policy-agent/regal/stargazers) [![Forks](https://img.shields.io/github/forks/open-policy-agent/regal?style=flat-square&color=blue)](https://github.com/open-policy-agent/regal/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Regal is a linter and language server for Rego, bringing your policy development experience to the next level!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

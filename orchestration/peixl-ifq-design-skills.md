@@ -1,6 +1,6 @@
 # peixl/ifq-design-skills
 
-[![Stars](https://img.shields.io/github/stars/peixl/ifq-design-skills?style=flat-square&color=yellow)](https://github.com/peixl/ifq-design-skills/stargazers) [![Forks](https://img.shields.io/github/forks/peixl/ifq-design-skills?style=flat-square&color=blue)](https://github.com/peixl/ifq-design-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/peixl/ifq-design-skills?style=flat-square&color=yellow)](https://github.com/peixl/ifq-design-skills/stargazers) [![Forks](https://img.shields.io/github/forks/peixl/ifq-design-skills?style=flat-square&color=blue)](https://github.com/peixl/ifq-design-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-native design skill: ordinary prompts -> verified HTML-first prototypes, decks, dashboards, motion demos, and export-ready visuals.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # MatanYemini/bitbucket-mcp
 
-[![Stars](https://img.shields.io/github/stars/MatanYemini/bitbucket-mcp?style=flat-square&color=yellow)](https://github.com/MatanYemini/bitbucket-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MatanYemini/bitbucket-mcp?style=flat-square&color=blue)](https://github.com/MatanYemini/bitbucket-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MatanYemini/bitbucket-mcp?style=flat-square&color=yellow)](https://github.com/MatanYemini/bitbucket-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MatanYemini/bitbucket-mcp?style=flat-square&color=blue)](https://github.com/MatanYemini/bitbucket-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Bitbucket MCP - A Model Context Protocol (MCP) server for integrating with Bitbucket Cloud and Server APIs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

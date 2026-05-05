@@ -25,9 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the TJCurnutte/memory-hive project:
+Here's a brief summary of the project:
 
-The memory-hive project provides a persistent memory system for AI agent teams, allowing for private silos to store individual agent data while also sharing a collective hive for collaborative knowledge exchange. This system is designed to support a curator workflow, enabling efficient management and organization of the shared knowledge. By combining private and shared memory spaces, memory-hive facilitates effective collaboration and knowledge sharing among AI agents.
+The TJCurnutte/memory-hive project provides a persistent memory framework for AI agent teams, enabling the creation of private silos, shared hives, and a curator workflow to facilitate effective collaboration and knowledge-sharing among agents. This open-source solution caters to the orchestration and AI/ML communities, offering a scalable and secure way to manage complex agent interactions. By leveraging persistent memory, teams can improve their decision-making and problem-solving capabilities.
 
 ---
 

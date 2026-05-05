@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Dreamer is an open-source project that enables self-evolving capabilities in coding agents across a team, allowing for continuous learning and improvement. By harnessing the power of AI and machine learning, Dreamer facilitates seamless adaptation to changing project requirements and fosters a collaborative environment where agents can learn from each other. This innovative framework promotes enhanced efficiency and productivity in software development teams.
+Here's a brief summary for the Dreamer project:
+
+Dreamer is an open-source project that enables any coding agent to become self-evolving, allowing teams to optimize their workflows and improve overall performance. By leveraging AI/ML capabilities, Dreamer facilitates seamless collaboration and adaptation across the entire team, promoting efficient and effective coding. This innovative tool empowers teams to automate and refine their processes, driving innovation and success.
 
 ---
 

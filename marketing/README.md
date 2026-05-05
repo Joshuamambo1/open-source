@@ -11,7 +11,7 @@
 | 1 | [Tyrrrz/YoutubeDownloader](./tyrrrz-youtubedownloader.md) | ⭐ 14.9k | C# | 100/100 |
 | 2 | [alvr-org/ALVR](./alvr-org-alvr.md) | ⭐ 7.6k | Rust | 91/100 |
 | 3 | [jiji262/douyin-downloader](./jiji262-douyin-downloader.md) | ⭐ 7.5k | Python | 90/100 |
-| 4 | [tonhowtf/omniget](./tonhowtf-omniget.md) | ⭐ 3.6k | Svelte | 80/100 |
+| 4 | [tonhowtf/omniget](./tonhowtf-omniget.md) | ⭐ 3.7k | Svelte | 80/100 |
 | 5 | [apache/plc4x](./apache-plc4x.md) | ⭐ 1.6k | Java | 68/100 |
 | 6 | [codelitdev/courselit](./codelitdev-courselit.md) | ⭐ 1.2k | TypeScript | 62/100 |
 | 7 | [danielbrendel/hortusfox-web](./danielbrendel-hortusfox-web.md) | ⭐ 1.5k | PHP | 62/100 |
@@ -21,9 +21,9 @@
 | 11 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 725 | Adblock Filter List | 57/100 |
 | 12 | [maaslalani/sheets](./maaslalani-sheets.md) | ⭐ 2.2k | Go | 56/100 |
 | 13 | [nowork-studio/toprank](./nowork-studio-toprank.md) | ⭐ 1.7k | Python | 55/100 |
-| 14 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 523 | PHP | 54/100 |
-| 15 | [pH-7/Download-Simply-Videos-From-YouTube](./ph-7-download-simply-videos-from-youtube.md) | ⭐ 372 | Python | 54/100 |
-| 16 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 650 | C# | 54/100 |
+| 14 | [pH-7/Download-Simply-Videos-From-YouTube](./ph-7-download-simply-videos-from-youtube.md) | ⭐ 372 | Python | 54/100 |
+| 15 | [SirDiabo/N64RecompLauncher](./sirdiabo-n64recomplauncher.md) | ⭐ 650 | C# | 54/100 |
+| 16 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 523 | PHP | 54/100 |
 | 17 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 450 | JavaScript | 53/100 |
 | 18 | [fesiong/anqicms](./fesiong-anqicms.md) | ⭐ 537 | Go | 52/100 |
 | 19 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 968 | TypeScript | 52/100 |
@@ -35,7 +35,7 @@
 | 25 | [garritfra/cell](./garritfra-cell.md) | ⭐ 275 | Rust | 47/100 |
 | 26 | [NoxInfluencer/skills](./noxinfluencer-skills.md) | ⭐ 17 | — | 46/100 |
 | 27 | [angr/cle](./angr-cle.md) | ⭐ 480 | Python | 45/100 |
-| 28 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 341 | Go | 43/100 |
+| 28 | [ironsh/iron-proxy](./ironsh-iron-proxy.md) | ⭐ 342 | Go | 43/100 |
 | 29 | [AzureIvory/block-ads](./azureivory-block-ads.md) | ⭐ 197 | Go | 42/100 |
 | 30 | [wdecoster/cramino](./wdecoster-cramino.md) | ⭐ 182 | Rust | 41/100 |
 | 31 | [sambigeara/pollen](./sambigeara-pollen.md) | ⭐ 316 | Go | 38/100 |

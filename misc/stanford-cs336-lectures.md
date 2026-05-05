@@ -1,6 +1,6 @@
 # stanford-cs336/lectures
 
-[![Stars](https://img.shields.io/github/stars/stanford-cs336/lectures?style=flat-square&color=yellow)](https://github.com/stanford-cs336/lectures/stargazers) [![Forks](https://img.shields.io/github/forks/stanford-cs336/lectures?style=flat-square&color=blue)](https://github.com/stanford-cs336/lectures/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stanford-cs336/lectures?style=flat-square&color=yellow)](https://github.com/stanford-cs336/lectures/stargazers) [![Forks](https://img.shields.io/github/forks/stanford-cs336/lectures?style=flat-square&color=blue)](https://github.com/stanford-cs336/lectures/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 635 |
+| 🍴 **Forks** | 636 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

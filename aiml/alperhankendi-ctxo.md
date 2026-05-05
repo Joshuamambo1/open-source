@@ -25,9 +25,9 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project Ctxo:
+Here's a 2-3 sentence summary for the 'Ctxo' open-source project:
 
-Ctxo is an open-source MCP (Meta Configuration Protocol) server designed for AI coding agents, providing a comprehensive view of code dependencies, version control, and change analysis in a single API call. This project supports deep language analysis for TypeScript, Go, and C#, empowering AI agents to make informed decisions. By leveraging Ctxo, developers can streamline AI-powered coding workflows and enhance collaboration.
+Ctxo is an open-source MCP (Meta Coding Platform) server designed for AI coding agents. It simplifies the analysis process by providing a unified interface that returns dependency graphs, Git intent, blast radius, and change health in a single API call, making it compatible with various languages including TypeScript, Go, and C#. This project enables seamless deep analysis for AI coding agents, streamlining their development and maintenance workflows.
 
 ---
 

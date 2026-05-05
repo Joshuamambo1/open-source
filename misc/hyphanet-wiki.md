@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Hyphanet: High Impact Tasks is an open-source project that aims to help individuals and organizations prioritize and tackle high-impact tasks. By providing a platform for task management, it enables users to focus on tasks that have the greatest potential for positive change and improvement. This project is designed to be adaptable and customizable, making it a valuable resource for a wide range of users and applications.
+Hyphanet: High Impact Tasks is an open-source project that aims to help users manage and prioritize their tasks effectively. By leveraging various tools and features, the project aims to increase productivity and efficiency, allowing users to focus on high-impact tasks. This project is designed to be customizable and adaptable to individual needs.
 
 ---
 

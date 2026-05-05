@@ -1,6 +1,6 @@
 # GeopJr/BLAHAJ
 
-[![Stars](https://img.shields.io/github/stars/GeopJr/BLAHAJ?style=flat-square&color=yellow)](https://github.com/GeopJr/BLAHAJ/stargazers) [![Forks](https://img.shields.io/github/forks/GeopJr/BLAHAJ?style=flat-square&color=blue)](https://github.com/GeopJr/BLAHAJ/network) [![Language](https://img.shields.io/badge/lang-Crystal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GeopJr/BLAHAJ?style=flat-square&color=yellow)](https://github.com/GeopJr/BLAHAJ/stargazers) [![Forks](https://img.shields.io/github/forks/GeopJr/BLAHAJ?style=flat-square&color=blue)](https://github.com/GeopJr/BLAHAJ/network) [![Language](https://img.shields.io/badge/lang-Crystal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > [MIRROR] 🦈🏳️‍⚧️🏳️‍🌈 Gay sharks at your local terminal - lolcat-like CLI tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 232 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Crystal |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

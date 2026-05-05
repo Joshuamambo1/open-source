@@ -1,6 +1,6 @@
 # QLNI/NodeMind
 
-[![Stars](https://img.shields.io/github/stars/QLNI/NodeMind?style=flat-square&color=yellow)](https://github.com/QLNI/NodeMind/stargazers) [![Forks](https://img.shields.io/github/forks/QLNI/NodeMind?style=flat-square&color=blue)](https://github.com/QLNI/NodeMind/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QLNI/NodeMind?style=flat-square&color=yellow)](https://github.com/QLNI/NodeMind/stargazers) [![Forks](https://img.shields.io/github/forks/QLNI/NodeMind?style=flat-square&color=blue)](https://github.com/QLNI/NodeMind/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > NodeMind binary fingerprint document index. Patent-pending integer-only codec.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Data
 
 ## 📝 Summary
 

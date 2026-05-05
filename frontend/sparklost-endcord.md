@@ -1,6 +1,6 @@
 # sparklost/endcord
 
-[![Stars](https://img.shields.io/github/stars/sparklost/endcord?style=flat-square&color=yellow)](https://github.com/sparklost/endcord/stargazers) [![Forks](https://img.shields.io/github/forks/sparklost/endcord?style=flat-square&color=blue)](https://github.com/sparklost/endcord/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sparklost/endcord?style=flat-square&color=yellow)](https://github.com/sparklost/endcord/stargazers) [![Forks](https://img.shields.io/github/forks/sparklost/endcord?style=flat-square&color=blue)](https://github.com/sparklost/endcord/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Feature rich Discord TUI client.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 750 |
+| ⭐ **Stars** | 752 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

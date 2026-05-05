@@ -1,6 +1,6 @@
 # doobidoo/mcp-memory-service
 
-[![Stars](https://img.shields.io/github/stars/doobidoo/mcp-memory-service?style=flat-square&color=yellow)](https://github.com/doobidoo/mcp-memory-service/stargazers) [![Forks](https://img.shields.io/github/forks/doobidoo/mcp-memory-service?style=flat-square&color=blue)](https://github.com/doobidoo/mcp-memory-service/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doobidoo/mcp-memory-service?style=flat-square&color=yellow)](https://github.com/doobidoo/mcp-memory-service/stargazers) [![Forks](https://img.shields.io/github/forks/doobidoo/mcp-memory-service?style=flat-square&color=blue)](https://github.com/doobidoo/mcp-memory-service/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 271 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

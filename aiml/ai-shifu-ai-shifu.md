@@ -1,6 +1,6 @@
 # ai-shifu/ai-shifu
 
-[![Stars](https://img.shields.io/github/stars/ai-shifu/ai-shifu?style=flat-square&color=yellow)](https://github.com/ai-shifu/ai-shifu/stargazers) [![Forks](https://img.shields.io/github/forks/ai-shifu/ai-shifu?style=flat-square&color=blue)](https://github.com/ai-shifu/ai-shifu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-shifu/ai-shifu?style=flat-square&color=yellow)](https://github.com/ai-shifu/ai-shifu/stargazers) [![Forks](https://img.shields.io/github/forks/ai-shifu/ai-shifu?style=flat-square&color=blue)](https://github.com/ai-shifu/ai-shifu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Get AI to teach and answer questions for you - just by typing!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 271 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

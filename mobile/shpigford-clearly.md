@@ -1,6 +1,6 @@
 # Shpigford/clearly
 
-[![Stars](https://img.shields.io/github/stars/Shpigford/clearly?style=flat-square&color=yellow)](https://github.com/Shpigford/clearly/stargazers) [![Forks](https://img.shields.io/github/forks/Shpigford/clearly?style=flat-square&color=blue)](https://github.com/Shpigford/clearly/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shpigford/clearly?style=flat-square&color=yellow)](https://github.com/Shpigford/clearly/stargazers) [![Forks](https://img.shields.io/github/forks/Shpigford/clearly?style=flat-square&color=blue)](https://github.com/Shpigford/clearly/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Markdown editor and knowledge base for Mac, iOS and iPadOS
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 812 |
+| ⭐ **Stars** | 815 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

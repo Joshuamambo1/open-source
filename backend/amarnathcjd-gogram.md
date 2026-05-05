@@ -1,6 +1,6 @@
 # AmarnathCJD/gogram
 
-[![Stars](https://img.shields.io/github/stars/AmarnathCJD/gogram?style=flat-square&color=yellow)](https://github.com/AmarnathCJD/gogram/stargazers) [![Forks](https://img.shields.io/github/forks/AmarnathCJD/gogram?style=flat-square&color=blue)](https://github.com/AmarnathCJD/gogram/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmarnathCJD/gogram?style=flat-square&color=yellow)](https://github.com/AmarnathCJD/gogram/stargazers) [![Forks](https://img.shields.io/github/forks/AmarnathCJD/gogram?style=flat-square&color=blue)](https://github.com/AmarnathCJD/gogram/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Full-native implementation of MTProto protocol on Golang.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 403 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

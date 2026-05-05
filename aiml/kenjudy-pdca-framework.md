@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The kenjudy/pdca-framework is an open-source project that leverages the Plan-Do-Check-Act (PDCA) methodology to generate AI code, integrating Test-Driven Development (TDD) and refactoring techniques for improved quality and efficiency. This framework enables human supervision over AI-generated code, allowing for flexibility and customization as needed. It can be used as a standalone skill or integrated into platforms like Claude Code.
+The kenjudy/pdca-framework project is an open-source initiative that leverages AI code generation using the Plan-Do-Check-Act (PDCA) methodology, integrating Test-Driven Development (TDD) and refactoring techniques. This framework enables human-supervised AI to produce high-quality code, either as a Claude Code skill or through custom prompts. By combining AI and human oversight, the project aims to streamline software development and improve code quality.
 
 ---
 

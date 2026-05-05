@@ -1,6 +1,6 @@
 # NikolayS/pgque
 
-[![Stars](https://img.shields.io/github/stars/NikolayS/pgque?style=flat-square&color=yellow)](https://github.com/NikolayS/pgque/stargazers) [![Forks](https://img.shields.io/github/forks/NikolayS/pgque?style=flat-square&color=blue)](https://github.com/NikolayS/pgque/network) [![Language](https://img.shields.io/badge/lang-PLpgSQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NikolayS/pgque?style=flat-square&color=yellow)](https://github.com/NikolayS/pgque/stargazers) [![Forks](https://img.shields.io/github/forks/NikolayS/pgque?style=flat-square&color=blue)](https://github.com/NikolayS/pgque/network) [![Language](https://img.shields.io/badge/lang-PLpgSQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | PLpgSQL |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

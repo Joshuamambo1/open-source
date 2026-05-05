@@ -1,6 +1,6 @@
 # Beingpax/VoiceInk
 
-[![Stars](https://img.shields.io/github/stars/Beingpax/VoiceInk?style=flat-square&color=yellow)](https://github.com/Beingpax/VoiceInk/stargazers) [![Forks](https://img.shields.io/github/forks/Beingpax/VoiceInk?style=flat-square&color=blue)](https://github.com/Beingpax/VoiceInk/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Beingpax/VoiceInk?style=flat-square&color=yellow)](https://github.com/Beingpax/VoiceInk/stargazers) [![Forks](https://img.shields.io/github/forks/Beingpax/VoiceInk?style=flat-square&color=blue)](https://github.com/Beingpax/VoiceInk/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.8k |
-| 🍴 **Forks** | 658 |
+| 🍴 **Forks** | 662 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

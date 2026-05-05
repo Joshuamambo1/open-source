@@ -1,6 +1,6 @@
 # nsphung/agent-studio-starter
 
-[![Stars](https://img.shields.io/github/stars/nsphung/agent-studio-starter?style=flat-square&color=yellow)](https://github.com/nsphung/agent-studio-starter/stargazers) [![Forks](https://img.shields.io/github/forks/nsphung/agent-studio-starter?style=flat-square&color=blue)](https://github.com/nsphung/agent-studio-starter/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nsphung/agent-studio-starter?style=flat-square&color=yellow)](https://github.com/nsphung/agent-studio-starter/stargazers) [![Forks](https://img.shields.io/github/forks/nsphung/agent-studio-starter?style=flat-square&color=blue)](https://github.com/nsphung/agent-studio-starter/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Stop building AI agents from scratch. Bootstrap starter Agent app with LangGraph, CopilotKit, and beautiful Generative UIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

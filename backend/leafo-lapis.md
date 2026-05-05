@@ -1,6 +1,6 @@
 # leafo/lapis
 
-[![Stars](https://img.shields.io/github/stars/leafo/lapis?style=flat-square&color=yellow)](https://github.com/leafo/lapis/stargazers) [![Forks](https://img.shields.io/github/forks/leafo/lapis?style=flat-square&color=blue)](https://github.com/leafo/lapis/network) [![Language](https://img.shields.io/badge/lang-MoonScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leafo/lapis?style=flat-square&color=yellow)](https://github.com/leafo/lapis/stargazers) [![Forks](https://img.shields.io/github/forks/leafo/lapis?style=flat-square&color=blue)](https://github.com/leafo/lapis/network) [![Language](https://img.shields.io/badge/lang-MoonScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A web framework for Lua and OpenResty written in MoonScript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 244 |
 | 💻 **Language** | MoonScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # Silent1566/OmniBox-Spider
 
-[![Stars](https://img.shields.io/github/stars/Silent1566/OmniBox-Spider?style=flat-square&color=yellow)](https://github.com/Silent1566/OmniBox-Spider/stargazers) [![Forks](https://img.shields.io/github/forks/Silent1566/OmniBox-Spider?style=flat-square&color=blue)](https://github.com/Silent1566/OmniBox-Spider/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Silent1566/OmniBox-Spider?style=flat-square&color=yellow)](https://github.com/Silent1566/OmniBox-Spider/stargazers) [![Forks](https://img.shields.io/github/forks/Silent1566/OmniBox-Spider?style=flat-square&color=blue)](https://github.com/Silent1566/OmniBox-Spider/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 691 |
+| ⭐ **Stars** | 696 |
 | 🍴 **Forks** | 442 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # visionworkbench/visionworkbench
 
-[![Stars](https://img.shields.io/github/stars/visionworkbench/visionworkbench?style=flat-square&color=yellow)](https://github.com/visionworkbench/visionworkbench/stargazers) [![Forks](https://img.shields.io/github/forks/visionworkbench/visionworkbench?style=flat-square&color=blue)](https://github.com/visionworkbench/visionworkbench/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/visionworkbench/visionworkbench?style=flat-square&color=yellow)](https://github.com/visionworkbench/visionworkbench/stargazers) [![Forks](https://img.shields.io/github/forks/visionworkbench/visionworkbench?style=flat-square&color=blue)](https://github.com/visionworkbench/visionworkbench/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The NASA Vision Workbench is a general purpose image processing and computer vision library developed by the Autonomous Systems and Robotics (ASR) Area in the Intelligent Systems Division at the NASA Ames Research Center.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 502 |
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

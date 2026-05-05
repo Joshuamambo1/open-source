@@ -1,6 +1,6 @@
 # rivet-dev/agent-os
 
-[![Stars](https://img.shields.io/github/stars/rivet-dev/agent-os?style=flat-square&color=yellow)](https://github.com/rivet-dev/agent-os/stargazers) [![Forks](https://img.shields.io/github/forks/rivet-dev/agent-os?style=flat-square&color=blue)](https://github.com/rivet-dev/agent-os/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rivet-dev/agent-os?style=flat-square&color=yellow)](https://github.com/rivet-dev/agent-os/stargazers) [![Forks](https://img.shields.io/github/forks/rivet-dev/agent-os?style=flat-square&color=blue)](https://github.com/rivet-dev/agent-os/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 123 |
+| 🍴 **Forks** | 126 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ DevTools · Data
 
 ## 📝 Summary
 
-Typesync is an open-source, schema-first tool designed for managing Firestore data. This project enables developers to validate stored data against predefined schemas, ensuring data consistency and integrity. By utilizing Typesync, developers can maintain well-structured and reliable Firestore databases.
+Typesync is an open-source, schema-first tooling solution designed for Firestore, a cloud-based NoSQL database. This tool enables developers to validate stored data against predefined schema definitions, ensuring data consistency and integrity in their applications. By leveraging schema-first validation, Typesync facilitates more robust and maintainable data storage practices.
 
 ---
 

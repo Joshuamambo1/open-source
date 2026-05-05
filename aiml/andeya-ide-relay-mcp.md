@@ -1,6 +1,6 @@
 # andeya/ide-relay-mcp
 
-[![Stars](https://img.shields.io/github/stars/andeya/ide-relay-mcp?style=flat-square&color=yellow)](https://github.com/andeya/ide-relay-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/andeya/ide-relay-mcp?style=flat-square&color=blue)](https://github.com/andeya/ide-relay-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/andeya/ide-relay-mcp?style=flat-square&color=yellow)](https://github.com/andeya/ide-relay-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/andeya/ide-relay-mcp?style=flat-square&color=blue)](https://github.com/andeya/ide-relay-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > The missing human checkpoint for AI coding agents. Give your AI agent a "pause & ask" button — review, correct, or enrich every step before it runs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

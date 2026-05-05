@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Uncle-Gao/Live-Translator-Hub?style=flat-square&color=yellow)](https://github.com/Uncle-Gao/Live-Translator-Hub/stargazers) [![Forks](https://img.shields.io/github/forks/Uncle-Gao/Live-Translator-Hub?style=flat-square&color=blue)](https://github.com/Uncle-Gao/Live-Translator-Hub/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> GUI 桌面应用：一键本地化翻译 Cursor 与 Claude，AI 翻译引擎 + Webview 插件穿透 | GUI desktop app: one-click localization for Cursor & Claude, AI translation engine + Webview plugin penetration
+> one-click localization for Cursor & Claude, covering all pages, AI translation engine + Webview plugin penetration | 一键本地化翻译 Cursor 与 Claude，覆盖所有页面，AI 翻译引擎 + Webview 插件穿透
 
 ## 📊 Stats
 

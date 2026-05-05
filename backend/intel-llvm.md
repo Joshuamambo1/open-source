@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 822 |
+| 🍴 **Forks** | 823 |
 | 💻 **Language** | LLVM |
 | 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |

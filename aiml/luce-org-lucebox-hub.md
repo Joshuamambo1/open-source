@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML · Frontend
 
 ## 📝 Summary
 

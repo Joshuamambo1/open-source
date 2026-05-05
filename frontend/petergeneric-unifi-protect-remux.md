@@ -1,6 +1,6 @@
 # petergeneric/unifi-protect-remux
 
-[![Stars](https://img.shields.io/github/stars/petergeneric/unifi-protect-remux?style=flat-square&color=yellow)](https://github.com/petergeneric/unifi-protect-remux/stargazers) [![Forks](https://img.shields.io/github/forks/petergeneric/unifi-protect-remux?style=flat-square&color=blue)](https://github.com/petergeneric/unifi-protect-remux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petergeneric/unifi-protect-remux?style=flat-square&color=yellow)](https://github.com/petergeneric/unifi-protect-remux/stargazers) [![Forks](https://img.shields.io/github/forks/petergeneric/unifi-protect-remux?style=flat-square&color=blue)](https://github.com/petergeneric/unifi-protect-remux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Convert Ubiquiti's proprietary .ubv files into standard MP4 files
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

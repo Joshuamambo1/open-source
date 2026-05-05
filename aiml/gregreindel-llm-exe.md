@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The LLM-Exe package is an open-source project that simplifies the development of Large Language Model (LLM) powered applications by providing essential base components. This AI/ML frontend package offers a streamlined approach to building and maintaining LLM-driven projects, making it easier to integrate and utilize these complex models. By leveraging LLM-Exe, developers can focus on creating innovative applications without getting bogged down in the intricacies of LLM implementation.
+The gregreindel/llm-exe open-source project simplifies the development of applications powered by Large Language Models (LLMs) by offering a set of foundational components. This package enables developers to build and maintain LLM-based applications more efficiently, streamlining the process and reducing complexity. By leveraging this project, users can create more effective and scalable AI-driven applications.
 
 ---
 

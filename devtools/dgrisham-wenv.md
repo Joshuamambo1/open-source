@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The wenv project is an open-source initiative that aims to provide a personal workflow solution for developers. It's a collection of tools and scripts designed to streamline tasks, enhance productivity, and simplify the development process. This project is a result of a personal workflow evolution, offering a unique set of features and functionalities.
+The wenv project is an open-source collection of personal workflow tools developed by dgrisham, aiming to streamline and automate various tasks. This repository showcases a variety of tools, some of which are production-ready while others are experimental, all contributing to a more efficient and automated workflow. It serves as a proof-of-concept and a testing ground for innovative ideas in DevTools.
 
 ---
 

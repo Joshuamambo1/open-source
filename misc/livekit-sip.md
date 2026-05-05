@@ -1,6 +1,6 @@
 # livekit/sip
 
-[![Stars](https://img.shields.io/github/stars/livekit/sip?style=flat-square&color=yellow)](https://github.com/livekit/sip/stargazers) [![Forks](https://img.shields.io/github/forks/livekit/sip?style=flat-square&color=blue)](https://github.com/livekit/sip/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/livekit/sip?style=flat-square&color=yellow)](https://github.com/livekit/sip/stargazers) [![Forks](https://img.shields.io/github/forks/livekit/sip?style=flat-square&color=blue)](https://github.com/livekit/sip/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > SIP to WebRTC bridge for LiveKit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 397 |
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

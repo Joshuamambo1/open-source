@@ -1,6 +1,6 @@
 # cozy/cozy-stack
 
-[![Stars](https://img.shields.io/github/stars/cozy/cozy-stack?style=flat-square&color=yellow)](https://github.com/cozy/cozy-stack/stargazers) [![Forks](https://img.shields.io/github/forks/cozy/cozy-stack?style=flat-square&color=blue)](https://github.com/cozy/cozy-stack/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cozy/cozy-stack?style=flat-square&color=yellow)](https://github.com/cozy/cozy-stack/stargazers) [![Forks](https://img.shields.io/github/forks/cozy/cozy-stack?style=flat-square&color=blue)](https://github.com/cozy/cozy-stack/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Simple, Versatile, Yours
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 142 |
+| 🍴 **Forks** | 143 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

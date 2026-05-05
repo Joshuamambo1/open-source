@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The uutils/platform-info project is an open-source tool that provides a unified interface to retrieve detailed information about a machine, regardless of its operating system. This cross-platform utility offers a comprehensive overview of system specifications, hardware details, and software configurations. By leveraging platform-info, users can easily access and analyze system data on various platforms.
+The uutils/platform-info project is a cross-platform tool that provides detailed information about a machine's hardware and software configuration. This open-source project offers a unified interface to retrieve system information, making it a valuable resource for developers, system administrators, and users seeking to understand their machine's specifications. By leveraging platform-info, users can effortlessly gather insights into their system's architecture, processor, memory, and more.
 
 ---
 

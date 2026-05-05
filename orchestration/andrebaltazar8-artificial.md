@@ -1,6 +1,6 @@
 # AndreBaltazar8/artificial
 
-[![Stars](https://img.shields.io/github/stars/AndreBaltazar8/artificial?style=flat-square&color=yellow)](https://github.com/AndreBaltazar8/artificial/stargazers) [![Forks](https://img.shields.io/github/forks/AndreBaltazar8/artificial?style=flat-square&color=blue)](https://github.com/AndreBaltazar8/artificial/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AndreBaltazar8/artificial?style=flat-square&color=yellow)](https://github.com/AndreBaltazar8/artificial/stargazers) [![Forks](https://img.shields.io/github/forks/AndreBaltazar8/artificial?style=flat-square&color=blue)](https://github.com/AndreBaltazar8/artificial/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Open source multi-agent harness for orchestrating AI workers. Supports Claude Code, OpenAI Codex, Cursor Agent, and local models.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

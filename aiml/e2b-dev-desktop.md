@@ -1,6 +1,6 @@
 # e2b-dev/desktop
 
-[![Stars](https://img.shields.io/github/stars/e2b-dev/desktop?style=flat-square&color=yellow)](https://github.com/e2b-dev/desktop/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/desktop?style=flat-square&color=blue)](https://github.com/e2b-dev/desktop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/e2b-dev/desktop?style=flat-square&color=yellow)](https://github.com/e2b-dev/desktop/stargazers) [![Forks](https://img.shields.io/github/forks/e2b-dev/desktop?style=flat-square&color=blue)](https://github.com/e2b-dev/desktop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

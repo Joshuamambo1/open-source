@@ -1,6 +1,6 @@
 # fluentmigrator/fluentmigrator
 
-[![Stars](https://img.shields.io/github/stars/fluentmigrator/fluentmigrator?style=flat-square&color=yellow)](https://github.com/fluentmigrator/fluentmigrator/stargazers) [![Forks](https://img.shields.io/github/forks/fluentmigrator/fluentmigrator?style=flat-square&color=blue)](https://github.com/fluentmigrator/fluentmigrator/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fluentmigrator/fluentmigrator?style=flat-square&color=yellow)](https://github.com/fluentmigrator/fluentmigrator/stargazers) [![Forks](https://img.shields.io/github/forks/fluentmigrator/fluentmigrator?style=flat-square&color=blue)](https://github.com/fluentmigrator/fluentmigrator/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Fluent migrations framework for .NET
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 702 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

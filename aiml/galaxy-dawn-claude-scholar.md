@@ -1,6 +1,6 @@
 # Galaxy-Dawn/claude-scholar
 
-[![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/claude-scholar?style=flat-square&color=yellow)](https://github.com/Galaxy-Dawn/claude-scholar/stargazers) [![Forks](https://img.shields.io/github/forks/Galaxy-Dawn/claude-scholar?style=flat-square&color=blue)](https://github.com/Galaxy-Dawn/claude-scholar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/claude-scholar?style=flat-square&color=yellow)](https://github.com/Galaxy-Dawn/claude-scholar/stargazers) [![Forks](https://img.shields.io/github/forks/Galaxy-Dawn/claude-scholar?style=flat-square&color=blue)](https://github.com/Galaxy-Dawn/claude-scholar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Semi-automated research assistant for academic research and software development. Supports Claude Code, OpenCode, and Codex CLI across ideation, coding, experiments, writing, and publication.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 325 |
+| ⭐ **Stars** | 3.5k |
+| 🍴 **Forks** | 324 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

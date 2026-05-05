@@ -1,6 +1,6 @@
 # merbah3266/rish_installer
 
-[![Stars](https://img.shields.io/github/stars/merbah3266/rish_installer?style=flat-square&color=yellow)](https://github.com/merbah3266/rish_installer/stargazers) [![Forks](https://img.shields.io/github/forks/merbah3266/rish_installer?style=flat-square&color=blue)](https://github.com/merbah3266/rish_installer/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/merbah3266/rish_installer?style=flat-square&color=yellow)](https://github.com/merbah3266/rish_installer/stargazers) [![Forks](https://img.shields.io/github/forks/merbah3266/rish_installer?style=flat-square&color=blue)](https://github.com/merbah3266/rish_installer/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Shizuku Rish Installer for Android terminals
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

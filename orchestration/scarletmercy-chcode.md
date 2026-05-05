@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ScarletMercy/chcode?style=flat-square&color=yellow)](https://github.com/ScarletMercy/chcode/stargazers) [![Forks](https://img.shields.io/github/forks/ScarletMercy/chcode?style=flat-square&color=blue)](https://github.com/ScarletMercy/chcode/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
-> Terminal-based AI coding agent — 6000+ lines, 14 tools, session persistence, git-aware workflow. Built with LangChain + Typer + Rich.
+> Terminal-based AI coding agent — 7000+ lines, 14 tools, session persistence, git-aware workflow. Built with LangChain + Typer + Rich.
 
 ## 📊 Stats
 

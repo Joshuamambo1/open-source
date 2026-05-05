@@ -1,6 +1,6 @@
 # MoonMao42/slate
 
-[![Stars](https://img.shields.io/github/stars/MoonMao42/slate?style=flat-square&color=yellow)](https://github.com/MoonMao42/slate/stargazers) [![Forks](https://img.shields.io/github/forks/MoonMao42/slate?style=flat-square&color=blue)](https://github.com/MoonMao42/slate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MoonMao42/slate?style=flat-square&color=yellow)](https://github.com/MoonMao42/slate/stargazers) [![Forks](https://img.shields.io/github/forks/MoonMao42/slate?style=flat-square&color=blue)](https://github.com/MoonMao42/slate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > One-command terminal setup for macOS and Linux — themes, prompts, fonts, and tools all in sync.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 32 |
+| ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

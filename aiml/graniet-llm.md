@@ -25,7 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-graniet/llm is an open-source Rust library and CLI tool that provides a unified and extensible API for orchestrating multiple Large Language Models (LLMs), Agents, and voice backends. It enables users to build, chain, evaluate, and serve complex multi-step AI workflows, including speech-to-text, text-to-speech, completions, vision, and reasoning. With graniet/llm, developers can integrate various AI services with a single, streamlined approach, simplifying the development of advanced AI applications.
+Here's a brief summary for the graniet/llm project:
+
+graniet/llm is an open-source Rust library and command-line tool that streamlines the integration of various large language models (LLMs) and AI services with a unified API. This extensible platform enables users to build, chain, and serve complex multi-step AI workflows, including speech-to-text, text-to-speech, and reasoning. With graniet/llm, developers can easily orchestrate multiple AI backends, such as OpenAI, Claude, and ElevenLabs, to create robust and efficient AI applications.
 
 ---
 

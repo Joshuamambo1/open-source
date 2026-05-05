@@ -1,6 +1,6 @@
 # mentebinaria/dz6
 
-[![Stars](https://img.shields.io/github/stars/mentebinaria/dz6?style=flat-square&color=yellow)](https://github.com/mentebinaria/dz6/stargazers) [![Forks](https://img.shields.io/github/forks/mentebinaria/dz6?style=flat-square&color=blue)](https://github.com/mentebinaria/dz6/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mentebinaria/dz6?style=flat-square&color=yellow)](https://github.com/mentebinaria/dz6/stargazers) [![Forks](https://img.shields.io/github/forks/mentebinaria/dz6?style=flat-square&color=blue)](https://github.com/mentebinaria/dz6/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Fast Vim-inspired TUI hex editor
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 145 |
+| ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

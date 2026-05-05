@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The Agetlys library is an open-source, lightweight AI agent library that enables the rapid transformation of Python functions and classes into intelligent tools. By leveraging this library, developers can quickly create AI-powered tools without the need for complex configurations or abstractions. This streamlined approach simplifies the development process and accelerates the creation of AI-driven solutions.
+The agentlys library is an open-source, lightweight AI agent library designed to empower Python developers to instantly convert their functions and classes into robust AI tools. By eliminating the need for verbose configurations and complex abstractions, developers can focus on building innovative solutions without the hassle of intricate setup. This library streamlines the AI development process, making it more accessible and efficient.
 
 ---
 

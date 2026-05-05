@@ -1,6 +1,6 @@
 # Yuan1z0825/nature-skills
 
-[![Stars](https://img.shields.io/github/stars/Yuan1z0825/nature-skills?style=flat-square&color=yellow)](https://github.com/Yuan1z0825/nature-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Yuan1z0825/nature-skills?style=flat-square&color=blue)](https://github.com/Yuan1z0825/nature-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yuan1z0825/nature-skills?style=flat-square&color=yellow)](https://github.com/Yuan1z0825/nature-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Yuan1z0825/nature-skills?style=flat-square&color=blue)](https://github.com/Yuan1z0825/nature-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 符合nature论文学术表达和科研绘图的Skill
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 118 |
+| ⭐ **Stars** | 1.6k |
+| 🍴 **Forks** | 127 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

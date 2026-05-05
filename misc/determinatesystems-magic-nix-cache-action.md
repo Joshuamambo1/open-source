@@ -1,6 +1,6 @@
 # DeterminateSystems/magic-nix-cache-action
 
-[![Stars](https://img.shields.io/github/stars/DeterminateSystems/magic-nix-cache-action?style=flat-square&color=yellow)](https://github.com/DeterminateSystems/magic-nix-cache-action/stargazers) [![Forks](https://img.shields.io/github/forks/DeterminateSystems/magic-nix-cache-action?style=flat-square&color=blue)](https://github.com/DeterminateSystems/magic-nix-cache-action/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DeterminateSystems/magic-nix-cache-action?style=flat-square&color=yellow)](https://github.com/DeterminateSystems/magic-nix-cache-action/stargazers) [![Forks](https://img.shields.io/github/forks/DeterminateSystems/magic-nix-cache-action?style=flat-square&color=blue)](https://github.com/DeterminateSystems/magic-nix-cache-action/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 530 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-ProgramBench is an open-source project that investigates the capabilities of language models in reconstructing and generating software programs from scratch. This project aims to explore whether current language models can indeed rebuild programs without relying on existing codebases or templates. By analyzing the results, ProgramBench seeks to understand the potential and limitations of language models in software development.
+ProgramBench is an open-source project that aims to investigate whether language models can rebuild programs from scratch. This project poses a challenging task for these models, requiring them to generate functional code without any prior knowledge or examples. By exploring this concept, ProgramBench seeks to push the boundaries of language model capabilities and understand their potential for program synthesis.
 
 ---
 

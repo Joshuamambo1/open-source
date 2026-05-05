@@ -1,6 +1,6 @@
 # OpenSenseNova/SenseNova-U1
 
-[![Stars](https://img.shields.io/github/stars/OpenSenseNova/SenseNova-U1?style=flat-square&color=yellow)](https://github.com/OpenSenseNova/SenseNova-U1/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSenseNova/SenseNova-U1?style=flat-square&color=blue)](https://github.com/OpenSenseNova/SenseNova-U1/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenSenseNova/SenseNova-U1?style=flat-square&color=yellow)](https://github.com/OpenSenseNova/SenseNova-U1/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSenseNova/SenseNova-U1?style=flat-square&color=blue)](https://github.com/OpenSenseNova/SenseNova-U1/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > SenseNova-U series: Native Unified Paradigm with NEO-Unify from the First Principles
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 944 |
-| 🍴 **Forks** | 51 |
+| ⭐ **Stars** | 965 |
+| 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

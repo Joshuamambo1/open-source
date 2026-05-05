@@ -1,6 +1,6 @@
 # zhuyansen/skill-blue-book
 
-[![Stars](https://img.shields.io/github/stars/zhuyansen/skill-blue-book?style=flat-square&color=yellow)](https://github.com/zhuyansen/skill-blue-book/stargazers) [![Forks](https://img.shields.io/github/forks/zhuyansen/skill-blue-book?style=flat-square&color=blue)](https://github.com/zhuyansen/skill-blue-book/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhuyansen/skill-blue-book?style=flat-square&color=yellow)](https://github.com/zhuyansen/skill-blue-book/stargazers) [![Forks](https://img.shields.io/github/forks/zhuyansen/skill-blue-book?style=flat-square&color=blue)](https://github.com/zhuyansen/skill-blue-book/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 《Skill 蓝皮书 2026》· 基于 61,776 条 Skill 数据的原生研究 · AgentSkillsHub 出品 · 54% 0 star · 基尼系数 0.983
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

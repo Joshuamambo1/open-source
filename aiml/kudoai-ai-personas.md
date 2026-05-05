@@ -1,6 +1,6 @@
 # KudoAI/ai-personas
 
-[![Stars](https://img.shields.io/github/stars/KudoAI/ai-personas?style=flat-square&color=yellow)](https://github.com/KudoAI/ai-personas/stargazers) [![Forks](https://img.shields.io/github/forks/KudoAI/ai-personas?style=flat-square&color=blue)](https://github.com/KudoAI/ai-personas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KudoAI/ai-personas?style=flat-square&color=yellow)](https://github.com/KudoAI/ai-personas/stargazers) [![Forks](https://img.shields.io/github/forks/KudoAI/ai-personas?style=flat-square&color=blue)](https://github.com/KudoAI/ai-personas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 💬 1,200+ AI personas for LLMs and agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

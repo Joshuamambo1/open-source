@@ -1,6 +1,6 @@
 # pompelmi/pompelmi
 
-[![Stars](https://img.shields.io/github/stars/pompelmi/pompelmi?style=flat-square&color=yellow)](https://github.com/pompelmi/pompelmi/stargazers) [![Forks](https://img.shields.io/github/forks/pompelmi/pompelmi?style=flat-square&color=blue)](https://github.com/pompelmi/pompelmi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pompelmi/pompelmi?style=flat-square&color=yellow)](https://github.com/pompelmi/pompelmi/stargazers) [![Forks](https://img.shields.io/github/forks/pompelmi/pompelmi?style=flat-square&color=blue)](https://github.com/pompelmi/pompelmi/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > ClamAV antivirus scanning for Node.js — scan file uploads with a single  function call. Zero dependencies. Typed Symbol verdicts. Local or Docker/clamd.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 628 |
-| 🍴 **Forks** | 25 |
+| ⭐ **Stars** | 631 |
+| 🍴 **Forks** | 26 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-DevOps/Infra · Marketing
+DevOps/Infra · Security · Marketing
 
 ## 📝 Summary
 

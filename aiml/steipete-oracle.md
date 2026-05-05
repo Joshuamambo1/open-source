@@ -1,6 +1,6 @@
 # steipete/oracle
 
-[![Stars](https://img.shields.io/github/stars/steipete/oracle?style=flat-square&color=yellow)](https://github.com/steipete/oracle/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/oracle?style=flat-square&color=blue)](https://github.com/steipete/oracle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steipete/oracle?style=flat-square&color=yellow)](https://github.com/steipete/oracle/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/oracle?style=flat-square&color=blue)](https://github.com/steipete/oracle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 213 |
+| 🍴 **Forks** | 214 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

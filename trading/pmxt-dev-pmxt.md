@@ -1,6 +1,6 @@
 # pmxt-dev/pmxt
 
-[![Stars](https://img.shields.io/github/stars/pmxt-dev/pmxt?style=flat-square&color=yellow)](https://github.com/pmxt-dev/pmxt/stargazers) [![Forks](https://img.shields.io/github/forks/pmxt-dev/pmxt?style=flat-square&color=blue)](https://github.com/pmxt-dev/pmxt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pmxt-dev/pmxt?style=flat-square&color=yellow)](https://github.com/pmxt-dev/pmxt/stargazers) [![Forks](https://img.shields.io/github/forks/pmxt-dev/pmxt?style=flat-square&color=blue)](https://github.com/pmxt-dev/pmxt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > CCXT for prediction markets. PMXT is a unified API for trading on Polymarket, Kalshi, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 188 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

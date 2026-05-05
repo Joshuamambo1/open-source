@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The vishvananda/netlink project is an open-source, simple netlink library for Go, providing a straightforward interface for interacting with the Linux Netlink protocol. This library aims to simplify the process of communicating with the Linux kernel through Netlink, making it easier to develop network-related applications in Go. It offers a lightweight and easy-to-use solution for Netlink operations.
+The vishvananda/netlink project is an open-source, simple netlink library for the Go programming language. It provides a lightweight interface to interact with the Linux netlink protocol, allowing developers to easily access and manipulate networking data. This library is ideal for developers working with network-related tasks in Linux systems.
 
 ---
 

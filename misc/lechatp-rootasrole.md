@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-RootAsRole is an open-source project that offers a more secure alternative to traditional sudo and su commands. This project enables administrators to switch between user roles without logging out and back in, making it easier to manage access control and maintain system security. By adopting RootAsRole, users can streamline their workflow while maintaining robust security protocols.
+RootAsRole is an open-source project that offers an alternative to traditional sudo and su commands, providing a more secure and flexible way to handle root privileges on Linux systems. This project allows users to assign specific roles to users, granting them limited access to sensitive operations, thereby reducing the risk of unauthorized access. By utilizing a role-based approach, RootAsRole enhances system security and simplifies user management.
 
 ---
 

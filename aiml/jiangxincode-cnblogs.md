@@ -1,6 +1,6 @@
 # jiangxincode/cnblogs
 
-[![Stars](https://img.shields.io/github/stars/jiangxincode/cnblogs?style=flat-square&color=yellow)](https://github.com/jiangxincode/cnblogs/stargazers) [![Forks](https://img.shields.io/github/forks/jiangxincode/cnblogs?style=flat-square&color=blue)](https://github.com/jiangxincode/cnblogs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jiangxincode/cnblogs?style=flat-square&color=yellow)](https://github.com/jiangxincode/cnblogs/stargazers) [![Forks](https://img.shields.io/github/forks/jiangxincode/cnblogs?style=flat-square&color=blue)](https://github.com/jiangxincode/cnblogs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 一些我在平时工作和学习中积累的编程相关的资源。如果大家有兴趣可以一起增加，修改。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 517 |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

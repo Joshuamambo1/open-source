@@ -1,6 +1,6 @@
 # youssofal/MTPLX
 
-[![Stars](https://img.shields.io/github/stars/youssofal/MTPLX?style=flat-square&color=yellow)](https://github.com/youssofal/MTPLX/stargazers) [![Forks](https://img.shields.io/github/forks/youssofal/MTPLX?style=flat-square&color=blue)](https://github.com/youssofal/MTPLX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/youssofal/MTPLX?style=flat-square&color=yellow)](https://github.com/youssofal/MTPLX/stargazers) [![Forks](https://img.shields.io/github/forks/youssofal/MTPLX?style=flat-square&color=blue)](https://github.com/youssofal/MTPLX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Native MTP Speculative Decoding On Apple Silicon | 2x - 2.5x decode TPS increase at temp 0.6 | MLX-native, OpenAI API/Anthropic-compatible serving, no external drafter.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31 |
-| 🍴 **Forks** | 3 |
+| ⭐ **Stars** | 83 |
+| 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The Wakit-API is an open-source, cloud-based platform designed to provide a comprehensive WhatsApp Business solution. This innovative project enables developers to build, manage, and integrate WhatsApp Business features into their applications, offering a scalable and secure infrastructure for large-scale messaging operations. By leveraging the Wakit-API, businesses can automate customer interactions, streamline workflows, and enhance their overall customer experience.
+Here's a brief summary for the Wakit-API open-source project:
+
+Wakit-API is an open-source, free WhatsApp Business platform that enables businesses to integrate various features and automations into their WhatsApp messaging. This AI-powered platform provides a robust backend infrastructure for seamless WhatsApp communication, allowing developers to build custom solutions for their clients. By leveraging Wakit-API, businesses can streamline their WhatsApp interactions and enhance customer engagement.
 
 ---
 

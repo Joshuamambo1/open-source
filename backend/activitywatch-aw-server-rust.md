@@ -1,6 +1,6 @@
 # ActivityWatch/aw-server-rust
 
-[![Stars](https://img.shields.io/github/stars/ActivityWatch/aw-server-rust?style=flat-square&color=yellow)](https://github.com/ActivityWatch/aw-server-rust/stargazers) [![Forks](https://img.shields.io/github/forks/ActivityWatch/aw-server-rust?style=flat-square&color=blue)](https://github.com/ActivityWatch/aw-server-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ActivityWatch/aw-server-rust?style=flat-square&color=yellow)](https://github.com/ActivityWatch/aw-server-rust/stargazers) [![Forks](https://img.shields.io/github/forks/ActivityWatch/aw-server-rust?style=flat-square&color=blue)](https://github.com/ActivityWatch/aw-server-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance implementation of the ActivityWatch server, written in Rust
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 293 |
+| ⭐ **Stars** | 294 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

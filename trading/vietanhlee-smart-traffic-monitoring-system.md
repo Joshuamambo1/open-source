@@ -1,6 +1,6 @@
 # vietanhlee/Smart-Traffic-Monitoring-System
 
-[![Stars](https://img.shields.io/github/stars/vietanhlee/Smart-Traffic-Monitoring-System?style=flat-square&color=yellow)](https://github.com/vietanhlee/Smart-Traffic-Monitoring-System/stargazers) [![Forks](https://img.shields.io/github/forks/vietanhlee/Smart-Traffic-Monitoring-System?style=flat-square&color=blue)](https://github.com/vietanhlee/Smart-Traffic-Monitoring-System/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vietanhlee/Smart-Traffic-Monitoring-System?style=flat-square&color=yellow)](https://github.com/vietanhlee/Smart-Traffic-Monitoring-System/stargazers) [![Forks](https://img.shields.io/github/forks/vietanhlee/Smart-Traffic-Monitoring-System?style=flat-square&color=blue)](https://github.com/vietanhlee/Smart-Traffic-Monitoring-System/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > An intelligent traffic monitoring system that collects traffic flow and metrics including average speed and vehicle counts for each road. Features real-time data visualization with interactive dashboards and an integrated AI Agent chatbot for querying processed traffic data in real-time.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

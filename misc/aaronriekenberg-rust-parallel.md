@@ -1,6 +1,6 @@
 # aaronriekenberg/rust-parallel
 
-[![Stars](https://img.shields.io/github/stars/aaronriekenberg/rust-parallel?style=flat-square&color=yellow)](https://github.com/aaronriekenberg/rust-parallel/stargazers) [![Forks](https://img.shields.io/github/forks/aaronriekenberg/rust-parallel?style=flat-square&color=blue)](https://github.com/aaronriekenberg/rust-parallel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aaronriekenberg/rust-parallel?style=flat-square&color=yellow)](https://github.com/aaronriekenberg/rust-parallel/stargazers) [![Forks](https://img.shields.io/github/forks/aaronriekenberg/rust-parallel?style=flat-square&color=blue)](https://github.com/aaronriekenberg/rust-parallel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Fast command line app in rust/tokio to run commands in parallel.  Similar interface to GNU parallel or xargs plus useful features.  Listed in Awesome Rust utilities.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 297 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

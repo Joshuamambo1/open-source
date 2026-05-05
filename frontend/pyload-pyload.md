@@ -1,6 +1,6 @@
 # pyload/pyload
 
-[![Stars](https://img.shields.io/github/stars/pyload/pyload?style=flat-square&color=yellow)](https://github.com/pyload/pyload/stargazers) [![Forks](https://img.shields.io/github/forks/pyload/pyload?style=flat-square&color=blue)](https://github.com/pyload/pyload/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pyload/pyload?style=flat-square&color=yellow)](https://github.com/pyload/pyload/stargazers) [![Forks](https://img.shields.io/github/forks/pyload/pyload?style=flat-square&color=blue)](https://github.com/pyload/pyload/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > The free and open-source Download Manager written in pure Python
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 747 |
+| 🍴 **Forks** | 746 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

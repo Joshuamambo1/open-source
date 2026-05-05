@@ -1,6 +1,6 @@
 # codexstar69/pi-listen
 
-[![Stars](https://img.shields.io/github/stars/codexstar69/pi-listen?style=flat-square&color=yellow)](https://github.com/codexstar69/pi-listen/stargazers) [![Forks](https://img.shields.io/github/forks/codexstar69/pi-listen?style=flat-square&color=blue)](https://github.com/codexstar69/pi-listen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codexstar69/pi-listen?style=flat-square&color=yellow)](https://github.com/codexstar69/pi-listen/stargazers) [![Forks](https://img.shields.io/github/forks/codexstar69/pi-listen?style=flat-square&color=blue)](https://github.com/codexstar69/pi-listen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Hold-to-talk voice input for Pi CLI — Deepgram streaming STT with live transcription, voice commands, and cross-platform hold detection
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

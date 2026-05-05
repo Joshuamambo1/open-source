@@ -1,6 +1,6 @@
 # ChenLiu-1996/figures4papers
 
-[![Stars](https://img.shields.io/github/stars/ChenLiu-1996/figures4papers?style=flat-square&color=yellow)](https://github.com/ChenLiu-1996/figures4papers/stargazers) [![Forks](https://img.shields.io/github/forks/ChenLiu-1996/figures4papers?style=flat-square&color=blue)](https://github.com/ChenLiu-1996/figures4papers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChenLiu-1996/figures4papers?style=flat-square&color=yellow)](https://github.com/ChenLiu-1996/figures4papers/stargazers) [![Forks](https://img.shields.io/github/forks/ChenLiu-1996/figures4papers?style=flat-square&color=blue)](https://github.com/ChenLiu-1996/figures4papers/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > My Python scripts to make high-quality figures for publications in top AI conferences and journals.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 986 |
-| 🍴 **Forks** | 76 |
+| ⭐ **Stars** | 1.1k |
+| 🍴 **Forks** | 79 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # ch-sa/labelCloud
 
-[![Stars](https://img.shields.io/github/stars/ch-sa/labelCloud?style=flat-square&color=yellow)](https://github.com/ch-sa/labelCloud/stargazers) [![Forks](https://img.shields.io/github/forks/ch-sa/labelCloud?style=flat-square&color=blue)](https://github.com/ch-sa/labelCloud/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ch-sa/labelCloud?style=flat-square&color=yellow)](https://github.com/ch-sa/labelCloud/stargazers) [![Forks](https://img.shields.io/github/forks/ch-sa/labelCloud?style=flat-square&color=blue)](https://github.com/ch-sa/labelCloud/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight tool for labeling 3D bounding boxes in point clouds.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 779 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # caarlos0/starcharts
 
-[![Stars](https://img.shields.io/github/stars/caarlos0/starcharts?style=flat-square&color=yellow)](https://github.com/caarlos0/starcharts/stargazers) [![Forks](https://img.shields.io/github/forks/caarlos0/starcharts?style=flat-square&color=blue)](https://github.com/caarlos0/starcharts/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caarlos0/starcharts?style=flat-square&color=yellow)](https://github.com/caarlos0/starcharts/stargazers) [![Forks](https://img.shields.io/github/forks/caarlos0/starcharts?style=flat-square&color=blue)](https://github.com/caarlos0/starcharts/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Plot your repository stars over time.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

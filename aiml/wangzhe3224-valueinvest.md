@@ -1,6 +1,6 @@
 # wangzhe3224/valueinvest
 
-[![Stars](https://img.shields.io/github/stars/wangzhe3224/valueinvest?style=flat-square&color=yellow)](https://github.com/wangzhe3224/valueinvest/stargazers) [![Forks](https://img.shields.io/github/forks/wangzhe3224/valueinvest?style=flat-square&color=blue)](https://github.com/wangzhe3224/valueinvest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wangzhe3224/valueinvest?style=flat-square&color=yellow)](https://github.com/wangzhe3224/valueinvest/stargazers) [![Forks](https://img.shields.io/github/forks/wangzhe3224/valueinvest?style=flat-square&color=blue)](https://github.com/wangzhe3224/valueinvest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > value invest build for agent. DO NOT read code by youself, ask a coding agent to use the code base.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

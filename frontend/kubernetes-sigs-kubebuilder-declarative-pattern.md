@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-This open-source project provides a toolkit for building declarative Kubernetes (K8s) operators, allowing developers to easily create and manage applications on the Kubernetes platform. The toolkit enables a declarative approach to operator development, making it easier to define desired state and let the operator handle the underlying complexity. This results in more efficient and scalable application management on Kubernetes.
+This open-source project provides a toolkit for building declarative Kubernetes (K8s) operators, making it easier to create reusable and maintainable operator code. By using this toolkit, developers can focus on defining the desired state of their Kubernetes resources without worrying about the underlying implementation details. This tool is ideal for building scalable and efficient operator-based applications.
 
 ---
 

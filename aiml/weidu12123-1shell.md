@@ -1,6 +1,6 @@
 # weidu12123/1Shell
 
-[![Stars](https://img.shields.io/github/stars/weidu12123/1Shell?style=flat-square&color=yellow)](https://github.com/weidu12123/1Shell/stargazers) [![Forks](https://img.shields.io/github/forks/weidu12123/1Shell?style=flat-square&color=blue)](https://github.com/weidu12123/1Shell/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weidu12123/1Shell?style=flat-square&color=yellow)](https://github.com/weidu12123/1Shell/stargazers) [![Forks](https://img.shields.io/github/forks/weidu12123/1Shell?style=flat-square&color=blue)](https://github.com/weidu12123/1Shell/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

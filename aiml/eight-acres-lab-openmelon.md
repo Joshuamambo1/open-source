@@ -25,9 +25,7 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Here is a brief summary for the "OpenMelon" project:
-
-OpenMelon is an open-source content-creation agent runtime that enables reproducible multimodal production. This platform supports the development of projects, workflows, and skills, while also maintaining a record of provenance. By leveraging AI and ML capabilities, OpenMelon facilitates efficient and transparent content creation.
+The open-source project "openmelon" is a content-creation agent runtime that enables reproducible multimodal production. It provides a platform for managing projects, workflows, and skills, while also tracking provenance to ensure transparency and accountability. By leveraging AI and ML capabilities, openmelon facilitates efficient and effective content creation.
 
 ---
 

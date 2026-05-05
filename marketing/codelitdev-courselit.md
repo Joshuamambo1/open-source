@@ -25,9 +25,7 @@ Marketing
 
 ## 📝 Summary
 
-Here's a brief summary of the codelitdev/courselit project:
-
-courselit is an open-source platform that allows users to create, sell, and manage online courses, digital downloads, and blogs on their own branded website, providing a cost-effective alternative to commercial learning management systems like Teachable and Thinkific. With courselit, users can customize their website, manage courses, and engage with customers without any subscription fees or limitations. This self-hosted solution empowers educators and entrepreneurs to build and grow their online presence independently.
+Courselit is an open-source project that enables users to create, sell, and distribute digital courses, as well as digital downloads, on their own branded website. This platform offers a cost-effective alternative to popular course creation platforms like Teachable and Thinkific, providing users with full control over their content and branding. With Courselit, individuals and businesses can establish a robust online presence for their educational offerings.
 
 ---
 

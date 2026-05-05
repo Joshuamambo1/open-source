@@ -1,6 +1,6 @@
 # YDX-2147483647/best-of-bits
 
-[![Stars](https://img.shields.io/github/stars/YDX-2147483647/best-of-bits?style=flat-square&color=yellow)](https://github.com/YDX-2147483647/best-of-bits/stargazers) [![Forks](https://img.shields.io/github/forks/YDX-2147483647/best-of-bits?style=flat-square&color=blue)](https://github.com/YDX-2147483647/best-of-bits/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YDX-2147483647/best-of-bits?style=flat-square&color=yellow)](https://github.com/YDX-2147483647/best-of-bits/stargazers) [![Forks](https://img.shields.io/github/forks/YDX-2147483647/best-of-bits?style=flat-square&color=blue)](https://github.com/YDX-2147483647/best-of-bits/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 🏆 北京理工大学相关的精选列表。（又名 bytes）A ranked list of awesome BITs — projects related to Beijing Institute of Technology. (aka. bytes)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

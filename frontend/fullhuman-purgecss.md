@@ -1,6 +1,6 @@
 # FullHuman/purgecss
 
-[![Stars](https://img.shields.io/github/stars/FullHuman/purgecss?style=flat-square&color=yellow)](https://github.com/FullHuman/purgecss/stargazers) [![Forks](https://img.shields.io/github/forks/FullHuman/purgecss?style=flat-square&color=blue)](https://github.com/FullHuman/purgecss/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FullHuman/purgecss?style=flat-square&color=yellow)](https://github.com/FullHuman/purgecss/stargazers) [![Forks](https://img.shields.io/github/forks/FullHuman/purgecss?style=flat-square&color=blue)](https://github.com/FullHuman/purgecss/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Remove unused CSS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

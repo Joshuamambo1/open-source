@@ -1,6 +1,6 @@
 # FonaTech/Clouds-Coder
 
-[![Stars](https://img.shields.io/github/stars/FonaTech/Clouds-Coder?style=flat-square&color=yellow)](https://github.com/FonaTech/Clouds-Coder/stargazers) [![Forks](https://img.shields.io/github/forks/FonaTech/Clouds-Coder?style=flat-square&color=blue)](https://github.com/FonaTech/Clouds-Coder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FonaTech/Clouds-Coder?style=flat-square&color=yellow)](https://github.com/FonaTech/Clouds-Coder/stargazers) [![Forks](https://img.shields.io/github/forks/FonaTech/Clouds-Coder?style=flat-square&color=blue)](https://github.com/FonaTech/Clouds-Coder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Clouds Coder is a local-first coding agent platform centered on separating the CLI execution plane from the Web user plane, with Web UI, Skills Studio, resilient streaming, and long-task recovery controls.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 482 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

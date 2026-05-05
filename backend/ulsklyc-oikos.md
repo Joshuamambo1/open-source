@@ -1,6 +1,6 @@
 # ulsklyc/oikos
 
-[![Stars](https://img.shields.io/github/stars/ulsklyc/oikos?style=flat-square&color=yellow)](https://github.com/ulsklyc/oikos/stargazers) [![Forks](https://img.shields.io/github/forks/ulsklyc/oikos?style=flat-square&color=blue)](https://github.com/ulsklyc/oikos/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ulsklyc/oikos?style=flat-square&color=yellow)](https://github.com/ulsklyc/oikos/stargazers) [![Forks](https://img.shields.io/github/forks/ulsklyc/oikos?style=flat-square&color=blue)](https://github.com/ulsklyc/oikos/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 391 |
-| 🍴 **Forks** | 20 |
+| ⭐ **Stars** | 517 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

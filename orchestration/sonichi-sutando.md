@@ -1,6 +1,6 @@
 # sonichi/sutando
 
-[![Stars](https://img.shields.io/github/stars/sonichi/sutando?style=flat-square&color=yellow)](https://github.com/sonichi/sutando/stargazers) [![Forks](https://img.shields.io/github/forks/sonichi/sutando?style=flat-square&color=blue)](https://github.com/sonichi/sutando/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sonichi/sutando?style=flat-square&color=yellow)](https://github.com/sonichi/sutando/stargazers) [![Forks](https://img.shields.io/github/forks/sonichi/sutando?style=flat-square&color=blue)](https://github.com/sonichi/sutando/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Summon your AI superpower — grows with you through voice, vision, and autonomous action
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 139 |
-| 🍴 **Forks** | 32 |
+| ⭐ **Stars** | 146 |
+| 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

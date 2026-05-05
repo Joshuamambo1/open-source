@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-StackPort is an open-source visual browser designed for LocalStack and AWS emulators. It provides users with an intuitive interface to explore and interact with cloud infrastructure in a graphical manner. This tool aims to simplify the development and testing process for cloud-based applications.
+StackPort is an open-source, visual browser for LocalStack and AWS emulators, providing a user-friendly interface to explore and interact with cloud infrastructure in a simulated environment. This project aims to simplify the development, testing, and debugging process for cloud-based applications, allowing users to visualize and manage their AWS resources more effectively. By leveraging LocalStack and AWS emulators, StackPort enables developers to iterate and improve their cloud projects without incurring additional costs.
 
 ---
 

@@ -1,6 +1,6 @@
 # PhantomBot/PhantomBot
 
-[![Stars](https://img.shields.io/github/stars/PhantomBot/PhantomBot?style=flat-square&color=yellow)](https://github.com/PhantomBot/PhantomBot/stargazers) [![Forks](https://img.shields.io/github/forks/PhantomBot/PhantomBot?style=flat-square&color=blue)](https://github.com/PhantomBot/PhantomBot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PhantomBot/PhantomBot?style=flat-square&color=yellow)](https://github.com/PhantomBot/PhantomBot/stargazers) [![Forks](https://img.shields.io/github/forks/PhantomBot/PhantomBot?style=flat-square&color=blue)](https://github.com/PhantomBot/PhantomBot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 807 |
 | 🍴 **Forks** | 331 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

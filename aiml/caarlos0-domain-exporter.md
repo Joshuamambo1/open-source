@@ -1,6 +1,6 @@
 # caarlos0/domain_exporter
 
-[![Stars](https://img.shields.io/github/stars/caarlos0/domain_exporter?style=flat-square&color=yellow)](https://github.com/caarlos0/domain_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/caarlos0/domain_exporter?style=flat-square&color=blue)](https://github.com/caarlos0/domain_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caarlos0/domain_exporter?style=flat-square&color=yellow)](https://github.com/caarlos0/domain_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/caarlos0/domain_exporter?style=flat-square&color=blue)](https://github.com/caarlos0/domain_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Exports the expiration time of your domains as prometheus metrics.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

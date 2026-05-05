@@ -1,6 +1,6 @@
 # CurvineIO/curvine
 
-[![Stars](https://img.shields.io/github/stars/CurvineIO/curvine?style=flat-square&color=yellow)](https://github.com/CurvineIO/curvine/stargazers) [![Forks](https://img.shields.io/github/forks/CurvineIO/curvine?style=flat-square&color=blue)](https://github.com/CurvineIO/curvine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CurvineIO/curvine?style=flat-square&color=yellow)](https://github.com/CurvineIO/curvine/stargazers) [![Forks](https://img.shields.io/github/forks/CurvineIO/curvine?style=flat-square&color=blue)](https://github.com/CurvineIO/curvine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance distributed multi-tier cache system. Built in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 668 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

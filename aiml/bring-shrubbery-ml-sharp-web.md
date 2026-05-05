@@ -1,17 +1,17 @@
 # bring-shrubbery/ml-sharp-web
 
-[![Stars](https://img.shields.io/github/stars/bring-shrubbery/ml-sharp-web?style=flat-square&color=yellow)](https://github.com/bring-shrubbery/ml-sharp-web/stargazers) [![Forks](https://img.shields.io/github/forks/bring-shrubbery/ml-sharp-web?style=flat-square&color=blue)](https://github.com/bring-shrubbery/ml-sharp-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bring-shrubbery/ml-sharp-web?style=flat-square&color=yellow)](https://github.com/bring-shrubbery/ml-sharp-web/stargazers) [![Forks](https://img.shields.io/github/forks/bring-shrubbery/ml-sharp-web?style=flat-square&color=blue)](https://github.com/bring-shrubbery/ml-sharp-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> Web playground to create Gaussian Splats using Apple's ml-sharp model.
+> Web playground to create Gaussian Splats using Apple's SHARP model
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 224 |
+| ⭐ **Stars** | 227 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

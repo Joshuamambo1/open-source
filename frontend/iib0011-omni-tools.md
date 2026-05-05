@@ -1,6 +1,6 @@
 # iib0011/omni-tools
 
-[![Stars](https://img.shields.io/github/stars/iib0011/omni-tools?style=flat-square&color=yellow)](https://github.com/iib0011/omni-tools/stargazers) [![Forks](https://img.shields.io/github/forks/iib0011/omni-tools?style=flat-square&color=blue)](https://github.com/iib0011/omni-tools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iib0011/omni-tools?style=flat-square&color=yellow)](https://github.com/iib0011/omni-tools/stargazers) [![Forks](https://img.shields.io/github/forks/iib0011/omni-tools?style=flat-square&color=blue)](https://github.com/iib0011/omni-tools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.5k |
-| 🍴 **Forks** | 631 |
+| 🍴 **Forks** | 634 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 94/100 |
+| 📈 **Score** | 95/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

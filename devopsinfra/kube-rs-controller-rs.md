@@ -25,7 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-kube-rs/controller-rs is an open-source project that provides a Kubernetes reference controller built using the actix-web framework. This project enables developers to create scalable and efficient Kubernetes controllers, making it easier to manage and automate tasks within Kubernetes environments. By leveraging actix-web's high-performance capabilities, kube-rs/controller-rs offers a robust foundation for building complex Kubernetes controllers.
+kube-rs/controller-rs is an open-source project that provides a Kubernetes reference controller built with Actix-web, a lightweight and fast Rust web framework. This project offers a foundation for building scalable and efficient Kubernetes controllers, empowering developers to create custom automation and management tools for their containerized applications. By leveraging Rust's performance and Actix-web's ease of use, kube-rs/controller-rs enables developers to build robust and high-performance Kubernetes controllers.
 
 ---
 

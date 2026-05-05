@@ -1,6 +1,6 @@
 # nizos/tdd-guard
 
-[![Stars](https://img.shields.io/github/stars/nizos/tdd-guard?style=flat-square&color=yellow)](https://github.com/nizos/tdd-guard/stargazers) [![Forks](https://img.shields.io/github/forks/nizos/tdd-guard?style=flat-square&color=blue)](https://github.com/nizos/tdd-guard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nizos/tdd-guard?style=flat-square&color=yellow)](https://github.com/nizos/tdd-guard/stargazers) [![Forks](https://img.shields.io/github/forks/nizos/tdd-guard?style=flat-square&color=blue)](https://github.com/nizos/tdd-guard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Automated TDD enforcement for Claude Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

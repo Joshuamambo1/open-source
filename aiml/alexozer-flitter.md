@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the flitter project:
-
-Flitter is a terminal-based speedrunning split timer inspired by LiveSplit, designed for Linux and macOS users. This open-source project supports customizable global hotkeys, allowing for seamless split timing during speedrunning sessions. With its streamlined interface, flitter is a convenient tool for gamers and speedrunners alike.
+Flitter is an open-source speedrunning split timer designed for Linux and macOS terminals, inspired by LiveSplit. This cross-platform tool allows users to create and manage splits with ease, utilizing global hotkeys for streamlined navigation. Flitter is an ideal companion for speedrunners seeking a flexible and customizable timing solution.
 
 ---
 

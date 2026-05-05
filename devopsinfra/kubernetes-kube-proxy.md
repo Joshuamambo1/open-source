@@ -1,6 +1,6 @@
 # kubernetes/kube-proxy
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/kube-proxy?style=flat-square&color=yellow)](https://github.com/kubernetes/kube-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/kube-proxy?style=flat-square&color=blue)](https://github.com/kubernetes/kube-proxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/kube-proxy?style=flat-square&color=yellow)](https://github.com/kubernetes/kube-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/kube-proxy?style=flat-square&color=blue)](https://github.com/kubernetes/kube-proxy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > kube-proxy component configs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

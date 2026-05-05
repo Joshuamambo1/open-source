@@ -25,9 +25,9 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the martin-papy/qdrant-loader open-source project:
+Here's a 3-sentence summary for the martin-papy/qdrant-loader project:
 
-The martin-papy/qdrant-loader is an enterprise-ready vector database toolkit that enables the creation of searchable knowledge bases from diverse data sources. It supports advanced features such as multi-project management, automatic data ingestion from various platforms, and intelligent file conversion. This project also includes a MCP server for seamless integration with AI assistants, facilitating intelligent search and knowledge retrieval.
+The martin-papy/qdrant-loader is an open-source vector database toolkit that enables the creation of searchable knowledge bases from diverse data sources. This enterprise-ready solution provides multi-project management, automatic data ingestion from popular platforms like Confluence, JIRA, and Git, as well as intelligent file conversion and semantic search capabilities. With its built-in MCP server, it seamlessly integrates with AI assistants, making it an ideal solution for building scalable and intelligent knowledge management systems.
 
 ---
 

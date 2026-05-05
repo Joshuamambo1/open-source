@@ -25,9 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the yohey-w/multi-agent-shogun project:
-
-The yohey-w/multi-agent-shogun project is an open-source multi-agent system inspired by Japanese samurai culture, specifically designed for orchestrating parallel AI tasks using Claude Code. This system leverages tmux and the shogun, karo, and ashigaru hierarchy to streamline and optimize AI/ML workflows. By utilizing a hierarchical structure, it allows for efficient and scalable management of parallel AI tasks.
+The yohey-w/multi-agent-shogun project is an open-source, samurai-inspired multi-agent system designed for Claude Code, which enables the orchestration of parallel AI tasks. Utilizing a hierarchical structure of shogun, karo, and ashigaru, this system leverages tmux to manage and execute AI tasks in a scalable and efficient manner. This system aims to streamline AI/ML workflows by providing a flexible and customizable platform for parallel task execution.
 
 ---
 

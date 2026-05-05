@@ -1,6 +1,6 @@
 # thatsme/AlexClaw
 
-[![Stars](https://img.shields.io/github/stars/thatsme/AlexClaw?style=flat-square&color=yellow)](https://github.com/thatsme/AlexClaw/stargazers) [![Forks](https://img.shields.io/github/forks/thatsme/AlexClaw?style=flat-square&color=blue)](https://github.com/thatsme/AlexClaw/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thatsme/AlexClaw?style=flat-square&color=yellow)](https://github.com/thatsme/AlexClaw/stargazers) [![Forks](https://img.shields.io/github/forks/thatsme/AlexClaw?style=flat-square&color=blue)](https://github.com/thatsme/AlexClaw/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > BEAM-native personal AI agent built on Elixir/OTP. Runs on your hardware. Your data stays yours.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

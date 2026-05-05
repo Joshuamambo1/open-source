@@ -1,6 +1,6 @@
 # temporalio/cli
 
-[![Stars](https://img.shields.io/github/stars/temporalio/cli?style=flat-square&color=yellow)](https://github.com/temporalio/cli/stargazers) [![Forks](https://img.shields.io/github/forks/temporalio/cli?style=flat-square&color=blue)](https://github.com/temporalio/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/temporalio/cli?style=flat-square&color=yellow)](https://github.com/temporalio/cli/stargazers) [![Forks](https://img.shields.io/github/forks/temporalio/cli?style=flat-square&color=blue)](https://github.com/temporalio/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line interface for running Temporal Server and interacting with Workflows, Activities, Namespaces, and other parts of Temporal
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 357 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

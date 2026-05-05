@@ -1,6 +1,6 @@
 # cosmos/ibc-go
 
-[![Stars](https://img.shields.io/github/stars/cosmos/ibc-go?style=flat-square&color=yellow)](https://github.com/cosmos/ibc-go/stargazers) [![Forks](https://img.shields.io/github/forks/cosmos/ibc-go?style=flat-square&color=blue)](https://github.com/cosmos/ibc-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosmos/ibc-go?style=flat-square&color=yellow)](https://github.com/cosmos/ibc-go/stargazers) [![Forks](https://img.shields.io/github/forks/cosmos/ibc-go?style=flat-square&color=blue)](https://github.com/cosmos/ibc-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Inter-Blockchain Communication Protocol (IBC) implementation in Golang.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 637 |
 | 🍴 **Forks** | 751 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

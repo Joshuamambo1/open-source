@@ -1,6 +1,6 @@
 # awslabs/shuttle
 
-[![Stars](https://img.shields.io/github/stars/awslabs/shuttle?style=flat-square&color=yellow)](https://github.com/awslabs/shuttle/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/shuttle?style=flat-square&color=blue)](https://github.com/awslabs/shuttle/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awslabs/shuttle?style=flat-square&color=yellow)](https://github.com/awslabs/shuttle/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/shuttle?style=flat-square&color=blue)](https://github.com/awslabs/shuttle/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Shuttle is a library for testing concurrent Rust code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 972 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

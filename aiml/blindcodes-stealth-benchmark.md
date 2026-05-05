@@ -1,6 +1,6 @@
 # blindCodes/stealth-benchmark
 
-[![Stars](https://img.shields.io/github/stars/blindCodes/stealth-benchmark?style=flat-square&color=yellow)](https://github.com/blindCodes/stealth-benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/blindCodes/stealth-benchmark?style=flat-square&color=blue)](https://github.com/blindCodes/stealth-benchmark/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blindCodes/stealth-benchmark?style=flat-square&color=yellow)](https://github.com/blindCodes/stealth-benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/blindCodes/stealth-benchmark?style=flat-square&color=blue)](https://github.com/blindCodes/stealth-benchmark/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -25,9 +25,7 @@ Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-The bloodhound_mcp project is an open-source Model Context Protocol (MCP) server designed to facilitate communication with Bloodhound data. This server enables efficient data exchange and querying, making it an essential tool for developers working with Bloodhound. By providing a standardized interface, it simplifies data integration and manipulation tasks.
+This open-source project, bloodhound_mcp, provides a Model Context Protocol (MCP) server for interacting with Bloodhound data. The MCP server enables seamless communication with Bloodhound, allowing for efficient data retrieval and manipulation. By utilizing this project, developers can simplify their interactions with Bloodhound data and build more robust applications.
 
 ---
 

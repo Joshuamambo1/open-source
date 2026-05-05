@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, awesome-cursorrules, is a collection of configuration files that aim to enhance the experience of users interacting with the Cursor AI editor by introducing custom rules and behaviors. The project provides users with a flexible way to modify and extend the functionality of the editor, allowing for a more tailored and efficient workflow. By leveraging these custom configurations, users can unlock new possibilities for their AI and machine learning endeavors.
+Here's a brief summary for the project:
+
+The awesome-cursorrules project is an open-source initiative that aims to enrich the Cursor AI editor experience by providing customizable rules and behaviors. Developed by PatrickJS, this project offers configuration files that enable users to tailor the Cursor AI editor to their specific needs. By leveraging these custom rules, users can optimize their workflow and improve productivity within the AI editor.
 
 ---
 

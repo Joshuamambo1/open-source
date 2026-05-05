@@ -1,6 +1,6 @@
 # project-nomos/nomos
 
-[![Stars](https://img.shields.io/github/stars/project-nomos/nomos?style=flat-square&color=yellow)](https://github.com/project-nomos/nomos/stargazers) [![Forks](https://img.shields.io/github/forks/project-nomos/nomos?style=flat-square&color=blue)](https://github.com/project-nomos/nomos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/project-nomos/nomos?style=flat-square&color=yellow)](https://github.com/project-nomos/nomos/stargazers) [![Forks](https://img.shields.io/github/forks/project-nomos/nomos?style=flat-square&color=blue)](https://github.com/project-nomos/nomos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI digital clone — learns who you are, acts on your behalf, remembers everything. Persistent vector memory, multi-agent teams, 60+ skills, smart model routing. Self-hosted, encrypted, multi-provider (Claude/Ollama/OpenRouter). Deploy to Slack, Discord, Telegram, WhatsApp & more in minutes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

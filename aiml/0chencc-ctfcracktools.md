@@ -25,9 +25,7 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the 0Chencc/CTFCrackTools project:
-
-The 0Chencc/CTFCrackTools is an open-source, next-generation Capture The Flag (CTF) platform that leverages Rust and Tauri to provide a powerful and automated framework for security enthusiasts and researchers. Equipped with a visual node-based workflow and local AI intelligence, this Swiss Army Knife offers extreme performance and efficiency. As China's first CTFTools framework, it has set a new standard for AI-driven security research and exploration.
+0Chencc/CTFCrackTools is an open-source, next-generation Capture The Flag (CTF) framework that leverages Rust and Tauri to provide a powerful, visual node-based workflow and local AI intelligence. This cutting-edge tool is designed to deliver extreme performance and automation in CTF challenges, marking a significant milestone as China's first CTF tools framework. With its AI-driven features, it's poised to revolutionize the way security experts approach CTF challenges.
 
 ---
 

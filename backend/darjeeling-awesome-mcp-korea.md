@@ -25,9 +25,9 @@ Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the darjeeling/awesome-mcp-korea project:
 
-Darjeeling's awesome MCP Korea is an open-source, curated list of high-quality MCP servers tailored for the Korean market. These servers integrate with various services, including commerce, public data, and local services, providing a comprehensive platform for developers and users alike. This project aims to facilitate the development and utilization of MCP servers in Korea, promoting innovation and collaboration within the community.
+The darjeeling/awesome-mcp-korea project is an open-source curated list of MCP (Multi-Chain Protocol) servers tailored for the Korean market. It encompasses a wide range of servers, including legal, commerce, public data, and local services integrations, providing a comprehensive resource for developers and businesses in Korea. This project aims to facilitate seamless integrations and collaborations between various parties within the Korean blockchain ecosystem.
 
 ---
 

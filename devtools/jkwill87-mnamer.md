@@ -25,7 +25,7 @@ DevTools · Data
 
 ## 📝 Summary
 
-The mnamer project is an open-source utility designed to streamline media file management by renaming and organizing files in an efficient and customizable manner. This tool allows users to easily categorize and standardize their media collections, making it simpler to navigate and maintain large libraries. By automating the renaming process, mnamer saves time and reduces the administrative burden associated with media file management.
+The mnamer project is an open-source tool that simplifies the process of renaming and organizing media files, making it easier to manage large collections of photos, videos, and other files. This tool allows users to customize renaming rules and formats to suit their specific needs, helping to keep their media files neatly organized and easily accessible. With mnamer, users can efficiently maintain their media libraries and streamline their workflow.
 
 ---
 

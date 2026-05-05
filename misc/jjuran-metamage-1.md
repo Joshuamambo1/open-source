@@ -1,6 +1,6 @@
 # jjuran/metamage_1
 
-[![Stars](https://img.shields.io/github/stars/jjuran/metamage_1?style=flat-square&color=yellow)](https://github.com/jjuran/metamage_1/stargazers) [![Forks](https://img.shields.io/github/forks/jjuran/metamage_1?style=flat-square&color=blue)](https://github.com/jjuran/metamage_1/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jjuran/metamage_1?style=flat-square&color=yellow)](https://github.com/jjuran/metamage_1/stargazers) [![Forks](https://img.shields.io/github/forks/jjuran/metamage_1?style=flat-square&color=blue)](https://github.com/jjuran/metamage_1/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Metamage open source, general repository, iteration 1
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 357 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # labiium/routiium
 
-[![Stars](https://img.shields.io/github/stars/labiium/routiium?style=flat-square&color=yellow)](https://github.com/labiium/routiium/stargazers) [![Forks](https://img.shields.io/github/forks/labiium/routiium?style=flat-square&color=blue)](https://github.com/labiium/routiium/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/labiium/routiium?style=flat-square&color=yellow)](https://github.com/labiium/routiium/stargazers) [![Forks](https://img.shields.io/github/forks/labiium/routiium?style=flat-square&color=blue)](https://github.com/labiium/routiium/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted LLM reverse proxy that adds managed auth, multi-provider routing, rate limiting, llm as judge, historyand cost tracking to any OpenAI-compatible
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

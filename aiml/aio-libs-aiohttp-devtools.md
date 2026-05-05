@@ -1,6 +1,6 @@
 # aio-libs/aiohttp-devtools
 
-[![Stars](https://img.shields.io/github/stars/aio-libs/aiohttp-devtools?style=flat-square&color=yellow)](https://github.com/aio-libs/aiohttp-devtools/stargazers) [![Forks](https://img.shields.io/github/forks/aio-libs/aiohttp-devtools?style=flat-square&color=blue)](https://github.com/aio-libs/aiohttp-devtools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aio-libs/aiohttp-devtools?style=flat-square&color=yellow)](https://github.com/aio-libs/aiohttp-devtools/stargazers) [![Forks](https://img.shields.io/github/forks/aio-libs/aiohttp-devtools?style=flat-square&color=blue)](https://github.com/aio-libs/aiohttp-devtools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > dev tools for aiohttp
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 267 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

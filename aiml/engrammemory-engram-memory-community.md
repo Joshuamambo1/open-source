@@ -25,7 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-This open-source project, EngramMemory, offers a highly scoring AI memory system that surpasses benchmarks without relying on large language model (LLM) reranking. It is a free and token-efficient alternative, ideal for developers working on AI and machine learning projects. EngramMemory aims to provide a powerful and cost-effective solution for building more efficient AI systems.
+This open-source project, EngramMemory, presents a high-scoring AI memory system that surpasses other models without relying on Large Language Model (LLM) reranking. Developed with the aim of reducing token consumption, it offers a free alternative for users. With its cutting-edge approach, EngramMemory has been benchmarked as one of the top AI memory systems in its class.
 
 ---
 

@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-DeArrow is an open-source project that leverages crowdsourcing and artificial intelligence to improve YouTube video titles and thumbnails. The project aims to enhance video discoverability by gathering community feedback and using machine learning algorithms to optimize title and thumbnail suggestions. By combining human input with AI-driven analysis, DeArrow seeks to provide more accurate and engaging video titles and thumbnails.
+DeArrow is an open-source project aimed at improving YouTube video titles and thumbnails through crowdsourced feedback. Leveraging AI/ML capabilities, it seeks to identify optimal title and thumbnail combinations that better capture viewers' attention and increase video engagement. By harnessing collective input from the community, DeArrow strives to elevate the overall YouTube user experience.
 
 ---
 

@@ -25,9 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the kopfrechner/gitlab-mr-mcp project:
+Here's a brief summary for the project:
 
-The kopfrechner/gitlab-mr-mcp project provides a seamless integration with GitLab repositories, enabling users to effortlessly manage merge requests and issues. This open-source tool allows for fetching detailed information, adding valuable comments, and streamlining the code review process with ease. By leveraging this project, developers can enhance their collaboration and productivity in GitLab-based workflows.
+"GitLab MR MCP" is a seamless integration tool for managing GitLab repositories. It allows users to fetch details, add comments, and streamline their code review process with ease, enhancing collaboration and efficiency. This open-source project is designed to simplify interactions with GitLab repositories and improve development workflows.
 
 ---
 

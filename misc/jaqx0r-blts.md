@@ -1,6 +1,6 @@
 # jaqx0r/blts
 
-[![Stars](https://img.shields.io/github/stars/jaqx0r/blts?style=flat-square&color=yellow)](https://github.com/jaqx0r/blts/stargazers) [![Forks](https://img.shields.io/github/forks/jaqx0r/blts?style=flat-square&color=blue)](https://github.com/jaqx0r/blts/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaqx0r/blts?style=flat-square&color=yellow)](https://github.com/jaqx0r/blts/stargazers) [![Forks](https://img.shields.io/github/forks/jaqx0r/blts?style=flat-square&color=blue)](https://github.com/jaqx0r/blts/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Better Living Through Statistics: Monitoring Doesn't Have To Suck
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

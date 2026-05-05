@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project involves a tiny C program that showcases an innovative approach to Large Language Models (LLMs), where the model's Directed Acyclic Graph (DAG) is dynamically rewritten during runtime by the model itself. This allows the model to adapt and optimize its internal structure, potentially leading to improved performance and efficiency. The project highlights the cutting-edge research in AI/ML, specifically in the domain of LLMs.
+This open-source project involves a tiny C program that utilizes a Large Language Model (LLM) to dynamically rewire its Directed Acyclic Graph (DAG) while it is running. This unique capability allows the LLM to adapt and learn in real-time, potentially leading to improved performance and efficiency. The project provides a glimpse into the innovative applications of LLMs in AI research.
 
 ---
 

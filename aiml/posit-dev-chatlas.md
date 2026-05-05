@@ -1,6 +1,6 @@
 # posit-dev/chatlas
 
-[![Stars](https://img.shields.io/github/stars/posit-dev/chatlas?style=flat-square&color=yellow)](https://github.com/posit-dev/chatlas/stargazers) [![Forks](https://img.shields.io/github/forks/posit-dev/chatlas?style=flat-square&color=blue)](https://github.com/posit-dev/chatlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/posit-dev/chatlas?style=flat-square&color=yellow)](https://github.com/posit-dev/chatlas/stargazers) [![Forks](https://img.shields.io/github/forks/posit-dev/chatlas?style=flat-square&color=blue)](https://github.com/posit-dev/chatlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Your friendly guide to building LLM chat apps in Python with less effort and more clarity.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

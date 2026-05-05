@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16568** |
+| 🗂️ **Total projects** | **16603** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,11 +18,11 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6158 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3474 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1633 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1197 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 1018 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 6177 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3481 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1639 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1198 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 1020 | [Browse →](./backend/) |
 | 🔧 **DevTools** | 966 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 556 | [Browse →](./crypto/) |
 | 📊 **Data** | 379 | [Browse →](./data/) |
@@ -39,12 +39,12 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [browserless/browserless](./devopsinfra/browserless-browserless.md) | ⭐ 13.1k | DevOps & Infra |
-| 2 | [Wox-launcher/Wox](./misc/wox-launcher-wox.md) | ⭐ 26.8k | Misc |
-| 3 | [Sjj1024/PakePlus](./aiml/sjj1024-pakeplus.md) | ⭐ 11.9k | AI/ML |
-| 4 | [apache/casbin](./aiml/apache-casbin.md) | ⭐ 20.1k | AI/ML |
-| 5 | [OthmanAdi/planning-with-files](./orchestration/othmanadi-planning-with-files.md) | ⭐ 20.4k | Orchestration |
-| 6 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
+| 1 | [cheeriojs/cheerio](./aiml/cheeriojs-cheerio.md) | ⭐ 30.3k | AI/ML |
+| 2 | [browserless/browserless](./devopsinfra/browserless-browserless.md) | ⭐ 13.1k | DevOps & Infra |
+| 3 | [Wox-launcher/Wox](./misc/wox-launcher-wox.md) | ⭐ 26.8k | Misc |
+| 4 | [Sjj1024/PakePlus](./aiml/sjj1024-pakeplus.md) | ⭐ 11.9k | AI/ML |
+| 5 | [apache/casbin](./aiml/apache-casbin.md) | ⭐ 20.1k | AI/ML |
+| 6 | [OthmanAdi/planning-with-files](./orchestration/othmanadi-planning-with-files.md) | ⭐ 20.4k | Orchestration |
 | 7 | [hoppscotch/hoppscotch](./frontend/hoppscotch-hoppscotch.md) | ⭐ 79.1k | Frontend |
 | 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
 | 9 | [sorin-ionescu/prezto](./devtools/sorin-ionescu-prezto.md) | ⭐ 14.5k | DevTools |

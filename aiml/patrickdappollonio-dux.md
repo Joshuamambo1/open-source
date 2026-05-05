@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Dux is an open-source terminal UI that enables seamless collaboration with multiple AI coding agents. This innovative tool allows users to run multiple agents side by side, each in its own git worktree, with features such as companion terminals, macros, and automatic commit generation. With its command palette, Dux streamlines the coding process, unlocking the full potential of AI-powered coding assistants.
+Dux is an open-source terminal UI that enables users to run multiple AI coding agents simultaneously, each in its own isolated environment, complete with companion terminals and a range of productivity features. With Dux, developers can leverage AI to augment their coding workflow, benefiting from features like commit generation, macros, and a comprehensive command palette. This innovative tool is designed to streamline the development process and unlock the full potential of AI-powered coding assistants.
 
 ---
 

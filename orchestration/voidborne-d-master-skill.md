@@ -27,7 +27,7 @@ Orchestration · AI/ML · DevOps/Infra
 
 Here's a brief summary for the voidborne-d/master-skill project:
 
-The master-skill project is an open-source tool that automates industry research and distills it into a runnable Master OS skill, enabling AI agents to master specific sub-niches. This skill can be loaded by various AI frameworks, including Claude Code, OpenClaw, Codex, and Hermes agents. By inputting an industry, master-skill provides a comprehensive analysis of six key aspects, ultimately empowering AI agents with expert-level knowledge.
+The master-skill project is an open-source tool that automates research and distills industry knowledge into a runnable Master OS skill, allowing for seamless integration with AI agents. This skill enables Claude Code, OpenClaw, Codex, and Hermes agents to quickly acquire expertise in various industries, making it an ideal solution for DevOps/Infra and AI/ML applications. With master-skill, users can easily create customized skills for their AI agents, streamlining their workflow and enhancing their productivity.
 
 ---
 

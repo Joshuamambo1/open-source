@@ -1,6 +1,6 @@
 # hlaueriksson/awesome-powertoys-run-plugins
 
-[![Stars](https://img.shields.io/github/stars/hlaueriksson/awesome-powertoys-run-plugins?style=flat-square&color=yellow)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/hlaueriksson/awesome-powertoys-run-plugins?style=flat-square&color=blue)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hlaueriksson/awesome-powertoys-run-plugins?style=flat-square&color=yellow)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/hlaueriksson/awesome-powertoys-run-plugins?style=flat-square&color=blue)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🗂️🔎 Delightful PowerToys Run community plugins 🔌
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 568 |
+| ⭐ **Stars** | 570 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 

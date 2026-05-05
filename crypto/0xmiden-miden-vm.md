@@ -1,6 +1,6 @@
 # 0xMiden/miden-vm
 
-[![Stars](https://img.shields.io/github/stars/0xMiden/miden-vm?style=flat-square&color=yellow)](https://github.com/0xMiden/miden-vm/stargazers) [![Forks](https://img.shields.io/github/forks/0xMiden/miden-vm?style=flat-square&color=blue)](https://github.com/0xMiden/miden-vm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xMiden/miden-vm?style=flat-square&color=yellow)](https://github.com/0xMiden/miden-vm/stargazers) [![Forks](https://img.shields.io/github/forks/0xMiden/miden-vm?style=flat-square&color=blue)](https://github.com/0xMiden/miden-vm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > STARK-based virtual machine
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 735 |
+| ⭐ **Stars** | 736 |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # rstackjs/rspack-sources
 
-[![Stars](https://img.shields.io/github/stars/rstackjs/rspack-sources?style=flat-square&color=yellow)](https://github.com/rstackjs/rspack-sources/stargazers) [![Forks](https://img.shields.io/github/forks/rstackjs/rspack-sources?style=flat-square&color=blue)](https://github.com/rstackjs/rspack-sources/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rstackjs/rspack-sources?style=flat-square&color=yellow)](https://github.com/rstackjs/rspack-sources/stargazers) [![Forks](https://img.shields.io/github/forks/rstackjs/rspack-sources?style=flat-square&color=blue)](https://github.com/rstackjs/rspack-sources/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Rusty webpack-sources port.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # semgrep/skills
 
-[![Stars](https://img.shields.io/github/stars/semgrep/skills?style=flat-square&color=yellow)](https://github.com/semgrep/skills/stargazers) [![Forks](https://img.shields.io/github/forks/semgrep/skills?style=flat-square&color=blue)](https://github.com/semgrep/skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/semgrep/skills?style=flat-square&color=yellow)](https://github.com/semgrep/skills/stargazers) [![Forks](https://img.shields.io/github/forks/semgrep/skills?style=flat-square&color=blue)](https://github.com/semgrep/skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of skills for AI coding agents from Semgrep
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 199 |
+| ⭐ **Stars** | 200 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

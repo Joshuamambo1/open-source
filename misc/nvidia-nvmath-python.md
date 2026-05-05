@@ -1,6 +1,6 @@
 # NVIDIA/nvmath-python
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/nvmath-python?style=flat-square&color=yellow)](https://github.com/NVIDIA/nvmath-python/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/nvmath-python?style=flat-square&color=blue)](https://github.com/NVIDIA/nvmath-python/network) [![Language](https://img.shields.io/badge/lang-Cython-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/nvmath-python?style=flat-square&color=yellow)](https://github.com/NVIDIA/nvmath-python/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/nvmath-python?style=flat-square&color=blue)](https://github.com/NVIDIA/nvmath-python/network) [![Language](https://img.shields.io/badge/lang-Cython-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > NVIDIA Math Libraries for the Python Ecosystem
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 569 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Cython |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Talkio is an open-source, local-first desktop application that brings together various AI models like GPT, Claude, Gemini, and DeepSeek into a single conversation. Built with Tauri 2 and React 19, Talkio enables seamless, multi-AI group chat functionality. This innovative app allows users to interact with multiple AI models simultaneously in a local environment.
+Here is a brief summary for the talkio project:
+
+Talkio is an open-source, local-first multi-AI group chat desktop application that integrates various AI models such as GPT, Claude, Gemini, and DeepSeek into one conversation. Built on top of Tauri 2 and React 19, Talkio allows users to interact with multiple AI assistants within a single interface. This innovative app enables seamless collaboration and exploration of multiple AI capabilities.
 
 ---
 

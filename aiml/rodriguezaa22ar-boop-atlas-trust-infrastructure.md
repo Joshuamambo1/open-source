@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project highlights the importance of using proof chains instead of traditional logs in AI agents. By utilizing proof chains, developers can create more transparent, auditable, and trustworthy AI systems, which are crucial for applications requiring high reliability and security. The project aims to improve the accountability and explainability of AI decision-making processes.
+This open-source project emphasizes the importance of using proof chains instead of traditional logs for AI agents. By employing proof chains, developers can provide a more transparent and auditable record of an AI's decision-making process, enhancing accountability and trust in AI systems. This approach can lead to improved AI reliability and security.
 
 ---
 

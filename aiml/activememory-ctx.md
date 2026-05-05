@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Ctx is an open-source project that aims to provide persistent memory for various coding tools, including Claude, a powerful AI coding assistant, and Cursor, an AI-powered code companion. This innovative solution enables seamless collaboration and data sharing between different coding tools, enhancing the overall coding experience. By leveraging persistent memory, developers can now enjoy a more streamlined and efficient workflow.
+Ctx is an open-source project that provides persistent memory functionality for Claude code, cursor, and AI coding tools. It allows developers to store and retrieve data efficiently, enabling seamless collaboration and version control in AI-powered coding environments. By leveraging Ctx, developers can build more robust and scalable AI coding tools that integrate seamlessly with Claude code and other cursor-based interfaces.
 
 ---
 

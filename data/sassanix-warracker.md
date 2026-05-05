@@ -1,6 +1,6 @@
 # sassanix/Warracker
 
-[![Stars](https://img.shields.io/github/stars/sassanix/Warracker?style=flat-square&color=yellow)](https://github.com/sassanix/Warracker/stargazers) [![Forks](https://img.shields.io/github/forks/sassanix/Warracker?style=flat-square&color=blue)](https://github.com/sassanix/Warracker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sassanix/Warracker?style=flat-square&color=yellow)](https://github.com/sassanix/Warracker/stargazers) [![Forks](https://img.shields.io/github/forks/sassanix/Warracker?style=flat-square&color=blue)](https://github.com/sassanix/Warracker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # liliMozi/openhanako
 
-[![Stars](https://img.shields.io/github/stars/liliMozi/openhanako?style=flat-square&color=yellow)](https://github.com/liliMozi/openhanako/stargazers) [![Forks](https://img.shields.io/github/forks/liliMozi/openhanako?style=flat-square&color=blue)](https://github.com/liliMozi/openhanako/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liliMozi/openhanako?style=flat-square&color=yellow)](https://github.com/liliMozi/openhanako/stargazers) [![Forks](https://img.shields.io/github/forks/liliMozi/openhanako?style=flat-square&color=blue)](https://github.com/liliMozi/openhanako/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A personal AI agent with memory, personality, and autonomy — built on Electron.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 148 |
+| ⭐ **Stars** | 1.5k |
+| 🍴 **Forks** | 165 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # jellyfin/jellyfin-desktop
 
-[![Stars](https://img.shields.io/github/stars/jellyfin/jellyfin-desktop?style=flat-square&color=yellow)](https://github.com/jellyfin/jellyfin-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/jellyfin/jellyfin-desktop?style=flat-square&color=blue)](https://github.com/jellyfin/jellyfin-desktop/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jellyfin/jellyfin-desktop?style=flat-square&color=yellow)](https://github.com/jellyfin/jellyfin-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/jellyfin/jellyfin-desktop?style=flat-square&color=blue)](https://github.com/jellyfin/jellyfin-desktop/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Jellyfin Desktop Client
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 514 |
+| ⭐ **Stars** | 516 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

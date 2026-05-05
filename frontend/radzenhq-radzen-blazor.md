@@ -1,6 +1,6 @@
 # radzenhq/radzen-blazor
 
-[![Stars](https://img.shields.io/github/stars/radzenhq/radzen-blazor?style=flat-square&color=yellow)](https://github.com/radzenhq/radzen-blazor/stargazers) [![Forks](https://img.shields.io/github/forks/radzenhq/radzen-blazor?style=flat-square&color=blue)](https://github.com/radzenhq/radzen-blazor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/radzenhq/radzen-blazor?style=flat-square&color=yellow)](https://github.com/radzenhq/radzen-blazor/stargazers) [![Forks](https://img.shields.io/github/forks/radzenhq/radzen-blazor?style=flat-square&color=blue)](https://github.com/radzenhq/radzen-blazor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
 
 > Radzen Blazor is the most sophisticated free UI component library for Blazor, featuring 110+ native components including DataGrid, Scheduler, Charts, and advanced theming with full support for Material Design and Fluent UI. If Radzen Blazor is useful to you, a ⭐ on GitHub helps other Blazor developers find it.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 945 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

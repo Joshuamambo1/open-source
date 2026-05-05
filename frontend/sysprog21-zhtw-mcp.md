@@ -1,6 +1,6 @@
 # sysprog21/zhtw-mcp
 
-[![Stars](https://img.shields.io/github/stars/sysprog21/zhtw-mcp?style=flat-square&color=yellow)](https://github.com/sysprog21/zhtw-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sysprog21/zhtw-mcp?style=flat-square&color=blue)](https://github.com/sysprog21/zhtw-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sysprog21/zhtw-mcp?style=flat-square&color=yellow)](https://github.com/sysprog21/zhtw-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sysprog21/zhtw-mcp?style=flat-square&color=blue)](https://github.com/sysprog21/zhtw-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A linguistic linter for Traditional Chinese (zh-TW)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 195 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 266 |
+| 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

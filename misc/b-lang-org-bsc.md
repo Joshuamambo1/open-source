@@ -1,6 +1,6 @@
 # B-Lang-org/bsc
 
-[![Stars](https://img.shields.io/github/stars/B-Lang-org/bsc?style=flat-square&color=yellow)](https://github.com/B-Lang-org/bsc/stargazers) [![Forks](https://img.shields.io/github/forks/B-Lang-org/bsc?style=flat-square&color=blue)](https://github.com/B-Lang-org/bsc/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/B-Lang-org/bsc?style=flat-square&color=yellow)](https://github.com/B-Lang-org/bsc/stargazers) [![Forks](https://img.shields.io/github/forks/B-Lang-org/bsc?style=flat-square&color=blue)](https://github.com/B-Lang-org/bsc/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Bluespec Compiler (BSC)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

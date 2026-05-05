@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16603** |
+| 🗂️ **Total projects** | **16646** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6177 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3481 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1639 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1198 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 1020 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 966 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 556 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 6196 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3489 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1641 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1200 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 1023 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 969 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 558 | [Browse →](./crypto/) |
 | 📊 **Data** | 379 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 361 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 363 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 227 | [Browse →](./mobile/) |
 | 📈 **Trading** | 170 | [Browse →](./trading/) |
 | 💳 **Payments** | 169 | [Browse →](./payments/) |
-| 🔐 **Security** | 139 | [Browse →](./security/) |
+| 🔐 **Security** | 141 | [Browse →](./security/) |
 | ✨ **Design** | 57 | [Browse →](./design/) |
 | 🎯 **Product** | 33 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [cheeriojs/cheerio](./aiml/cheeriojs-cheerio.md) | ⭐ 30.3k | AI/ML |
-| 2 | [browserless/browserless](./devopsinfra/browserless-browserless.md) | ⭐ 13.1k | DevOps & Infra |
-| 3 | [Wox-launcher/Wox](./misc/wox-launcher-wox.md) | ⭐ 26.8k | Misc |
-| 4 | [Sjj1024/PakePlus](./aiml/sjj1024-pakeplus.md) | ⭐ 11.9k | AI/ML |
-| 5 | [apache/casbin](./aiml/apache-casbin.md) | ⭐ 20.1k | AI/ML |
-| 6 | [OthmanAdi/planning-with-files](./orchestration/othmanadi-planning-with-files.md) | ⭐ 20.4k | Orchestration |
-| 7 | [hoppscotch/hoppscotch](./frontend/hoppscotch-hoppscotch.md) | ⭐ 79.1k | Frontend |
-| 8 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 9 | [sorin-ionescu/prezto](./devtools/sorin-ionescu-prezto.md) | ⭐ 14.5k | DevTools |
-| 10 | [flame-engine/flame](./mobile/flame-engine-flame.md) | ⭐ 10.6k | Mobile |
+| 1 | [shuaibiyy/awesome-tf](./aiml/shuaibiyy-awesome-tf.md) | ⭐ 6.4k | AI/ML |
+| 2 | [cheeriojs/cheerio](./aiml/cheeriojs-cheerio.md) | ⭐ 30.3k | AI/ML |
+| 3 | [prowler-cloud/prowler](./security/prowler-cloud-prowler.md) | ⭐ 13.7k | Security |
+| 4 | [mochajs/mocha](./devtools/mochajs-mocha.md) | ⭐ 22.9k | DevTools |
+| 5 | [swagger-api/swagger-ui](./aiml/swagger-api-swagger-ui.md) | ⭐ 28.8k | AI/ML |
+| 6 | [browserless/browserless](./devopsinfra/browserless-browserless.md) | ⭐ 13.1k | DevOps & Infra |
+| 7 | [FlowiseAI/Flowise](./orchestration/flowiseai-flowise.md) | ⭐ 52.5k | Orchestration |
+| 8 | [AstrBotDevs/AstrBot](./aiml/astrbotdevs-astrbot.md) | ⭐ 31.3k | AI/ML |
+| 9 | [jhy/jsoup](./aiml/jhy-jsoup.md) | ⭐ 11.4k | AI/ML |
+| 10 | [Donchitos/Claude-Code-Game-Studios](./aiml/donchitos-claude-code-game-studios.md) | ⭐ 17.2k | AI/ML |
 
 ## 🚀 How it works
 

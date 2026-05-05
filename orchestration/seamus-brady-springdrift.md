@@ -1,6 +1,6 @@
 # seamus-brady/springdrift
 
-[![Stars](https://img.shields.io/github/stars/seamus-brady/springdrift?style=flat-square&color=yellow)](https://github.com/seamus-brady/springdrift/stargazers) [![Forks](https://img.shields.io/github/forks/seamus-brady/springdrift?style=flat-square&color=blue)](https://github.com/seamus-brady/springdrift/network) [![Language](https://img.shields.io/badge/lang-Gleam-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seamus-brady/springdrift?style=flat-square&color=yellow)](https://github.com/seamus-brady/springdrift/stargazers) [![Forks](https://img.shields.io/github/forks/seamus-brady/springdrift?style=flat-square&color=blue)](https://github.com/seamus-brady/springdrift/network) [![Language](https://img.shields.io/badge/lang-Gleam-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A persistent runtime for long-lived LLM agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Gleam |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

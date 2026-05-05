@@ -1,6 +1,6 @@
 # hivemq/mqtt-cli
 
-[![Stars](https://img.shields.io/github/stars/hivemq/mqtt-cli?style=flat-square&color=yellow)](https://github.com/hivemq/mqtt-cli/stargazers) [![Forks](https://img.shields.io/github/forks/hivemq/mqtt-cli?style=flat-square&color=blue)](https://github.com/hivemq/mqtt-cli/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hivemq/mqtt-cli?style=flat-square&color=yellow)](https://github.com/hivemq/mqtt-cli/stargazers) [![Forks](https://img.shields.io/github/forks/hivemq/mqtt-cli?style=flat-square&color=blue)](https://github.com/hivemq/mqtt-cli/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > MQTT CLI is a useful command line interface for connecting various MQTT clients supporting MQTT 5.0 and 3.1.1
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 361 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

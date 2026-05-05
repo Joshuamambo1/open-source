@@ -1,6 +1,6 @@
 # fjb040911/ai-rules
 
-[![Stars](https://img.shields.io/github/stars/fjb040911/ai-rules?style=flat-square&color=yellow)](https://github.com/fjb040911/ai-rules/stargazers) [![Forks](https://img.shields.io/github/forks/fjb040911/ai-rules?style=flat-square&color=blue)](https://github.com/fjb040911/ai-rules/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fjb040911/ai-rules?style=flat-square&color=yellow)](https://github.com/fjb040911/ai-rules/stargazers) [![Forks](https://img.shields.io/github/forks/fjb040911/ai-rules?style=flat-square&color=blue)](https://github.com/fjb040911/ai-rules/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > ai-rules is a governance framework designed to solve "Architectural Decay" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 761 |
-| 🍴 **Forks** | 13 |
+| ⭐ **Stars** | 732 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

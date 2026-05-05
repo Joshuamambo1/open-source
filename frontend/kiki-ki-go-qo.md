@@ -1,6 +1,6 @@
 # kiki-ki/go-qo
 
-[![Stars](https://img.shields.io/github/stars/kiki-ki/go-qo?style=flat-square&color=yellow)](https://github.com/kiki-ki/go-qo/stargazers) [![Forks](https://img.shields.io/github/forks/kiki-ki/go-qo?style=flat-square&color=blue)](https://github.com/kiki-ki/go-qo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kiki-ki/go-qo?style=flat-square&color=yellow)](https://github.com/kiki-ki/go-qo/stargazers) [![Forks](https://img.shields.io/github/forks/kiki-ki/go-qo?style=flat-square&color=blue)](https://github.com/kiki-ki/go-qo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > qo is an interactive minimalist TUI to query JSON and CSV using SQL.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

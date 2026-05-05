@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=flat-square&color=yellow)](https://github.com/conductor-oss/conductor/stargazers) [![Forks](https://img.shields.io/github/forks/conductor-oss/conductor?style=flat-square&color=blue)](https://github.com/conductor-oss/conductor/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
 
-> Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents
+> Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
 
 ## 📊 Stats
 

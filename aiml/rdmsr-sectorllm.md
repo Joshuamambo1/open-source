@@ -1,17 +1,17 @@
 # rdmsr/sectorllm
 
-[![Stars](https://img.shields.io/github/stars/rdmsr/sectorllm?style=flat-square&color=yellow)](https://github.com/rdmsr/sectorllm/stargazers) [![Forks](https://img.shields.io/github/forks/rdmsr/sectorllm?style=flat-square&color=blue)](https://github.com/rdmsr/sectorllm/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rdmsr/sectorllm?style=flat-square&color=yellow)](https://github.com/rdmsr/sectorllm/stargazers) [![Forks](https://img.shields.io/github/forks/rdmsr/sectorllm?style=flat-square&color=blue)](https://github.com/rdmsr/sectorllm/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Lobsters: sectorllm: llama2 inference in < 1500 bytes of x86 assembly
+> The world's smallest llama2 inference engine
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 35/100 |
+| 💻 **Language** | Assembly |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | lobsters |
 

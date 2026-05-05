@@ -1,6 +1,6 @@
 # headwaymaps/headway
 
-[![Stars](https://img.shields.io/github/stars/headwaymaps/headway?style=flat-square&color=yellow)](https://github.com/headwaymaps/headway/stargazers) [![Forks](https://img.shields.io/github/forks/headwaymaps/headway?style=flat-square&color=blue)](https://github.com/headwaymaps/headway/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/headwaymaps/headway?style=flat-square&color=yellow)](https://github.com/headwaymaps/headway/stargazers) [![Forks](https://img.shields.io/github/forks/headwaymaps/headway?style=flat-square&color=blue)](https://github.com/headwaymaps/headway/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hostable maps stack, powered by OpenStreetMap.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

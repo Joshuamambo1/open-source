@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat-square&color=yellow)](https://github.com/DeusData/codebase-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/DeusData/codebase-memory-mcp?style=flat-square&color=blue)](https://github.com/DeusData/codebase-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
-> High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+> High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 237 |
+| 🍴 **Forks** | 238 |
 | 💻 **Language** | C |
 | 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |

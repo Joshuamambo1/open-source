@@ -1,6 +1,6 @@
 # vincentkoc/slacrawl
 
-[![Stars](https://img.shields.io/github/stars/vincentkoc/slacrawl?style=flat-square&color=yellow)](https://github.com/vincentkoc/slacrawl/stargazers) [![Forks](https://img.shields.io/github/forks/vincentkoc/slacrawl?style=flat-square&color=blue)](https://github.com/vincentkoc/slacrawl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vincentkoc/slacrawl?style=flat-square&color=yellow)](https://github.com/vincentkoc/slacrawl/stargazers) [![Forks](https://img.shields.io/github/forks/vincentkoc/slacrawl?style=flat-square&color=blue)](https://github.com/vincentkoc/slacrawl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > cli terminal app for slack with sqlite backend
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # socket-link/ampere
 
-[![Stars](https://img.shields.io/github/stars/socket-link/ampere?style=flat-square&color=yellow)](https://github.com/socket-link/ampere/stargazers) [![Forks](https://img.shields.io/github/forks/socket-link/ampere?style=flat-square&color=blue)](https://github.com/socket-link/ampere/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/socket-link/ampere?style=flat-square&color=yellow)](https://github.com/socket-link/ampere/stargazers) [![Forks](https://img.shields.io/github/forks/socket-link/ampere?style=flat-square&color=blue)](https://github.com/socket-link/ampere/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Observable AI cognition in Kotlin Multiplatform. Every agent decision emits a structured event — peer into the glass brain.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

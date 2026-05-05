@@ -1,6 +1,6 @@
 # niumoo/bing-wallpaper
 
-[![Stars](https://img.shields.io/github/stars/niumoo/bing-wallpaper?style=flat-square&color=yellow)](https://github.com/niumoo/bing-wallpaper/stargazers) [![Forks](https://img.shields.io/github/forks/niumoo/bing-wallpaper?style=flat-square&color=blue)](https://github.com/niumoo/bing-wallpaper/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/niumoo/bing-wallpaper?style=flat-square&color=yellow)](https://github.com/niumoo/bing-wallpaper/stargazers) [![Forks](https://img.shields.io/github/forks/niumoo/bing-wallpaper?style=flat-square&color=blue)](https://github.com/niumoo/bing-wallpaper/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 469 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

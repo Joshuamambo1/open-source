@@ -1,6 +1,6 @@
 # cdklabs/cdk-ecr-deployment
 
-[![Stars](https://img.shields.io/github/stars/cdklabs/cdk-ecr-deployment?style=flat-square&color=yellow)](https://github.com/cdklabs/cdk-ecr-deployment/stargazers) [![Forks](https://img.shields.io/github/forks/cdklabs/cdk-ecr-deployment?style=flat-square&color=blue)](https://github.com/cdklabs/cdk-ecr-deployment/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cdklabs/cdk-ecr-deployment?style=flat-square&color=yellow)](https://github.com/cdklabs/cdk-ecr-deployment/stargazers) [![Forks](https://img.shields.io/github/forks/cdklabs/cdk-ecr-deployment?style=flat-square&color=blue)](https://github.com/cdklabs/cdk-ecr-deployment/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A CDK construct to deploy docker image to Amazon ECR
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 187 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # masamasa59/ai-agent-papers
 
-[![Stars](https://img.shields.io/github/stars/masamasa59/ai-agent-papers?style=flat-square&color=yellow)](https://github.com/masamasa59/ai-agent-papers/stargazers) [![Forks](https://img.shields.io/github/forks/masamasa59/ai-agent-papers?style=flat-square&color=blue)](https://github.com/masamasa59/ai-agent-papers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/masamasa59/ai-agent-papers?style=flat-square&color=yellow)](https://github.com/masamasa59/ai-agent-papers/stargazers) [![Forks](https://img.shields.io/github/forks/masamasa59/ai-agent-papers?style=flat-square&color=blue)](https://github.com/masamasa59/ai-agent-papers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of AI Agents papers (Updated biweekly)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

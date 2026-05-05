@@ -1,6 +1,6 @@
 # tngan/samlify
 
-[![Stars](https://img.shields.io/github/stars/tngan/samlify?style=flat-square&color=yellow)](https://github.com/tngan/samlify/stargazers) [![Forks](https://img.shields.io/github/forks/tngan/samlify?style=flat-square&color=blue)](https://github.com/tngan/samlify/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tngan/samlify?style=flat-square&color=yellow)](https://github.com/tngan/samlify/stargazers) [![Forks](https://img.shields.io/github/forks/tngan/samlify?style=flat-square&color=blue)](https://github.com/tngan/samlify/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Node.js library for SAML SSO
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 662 |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

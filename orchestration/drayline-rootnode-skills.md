@@ -1,6 +1,6 @@
 # drayline/rootnode-skills
 
-[![Stars](https://img.shields.io/github/stars/drayline/rootnode-skills?style=flat-square&color=yellow)](https://github.com/drayline/rootnode-skills/stargazers) [![Forks](https://img.shields.io/github/forks/drayline/rootnode-skills?style=flat-square&color=blue)](https://github.com/drayline/rootnode-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drayline/rootnode-skills?style=flat-square&color=yellow)](https://github.com/drayline/rootnode-skills/stargazers) [![Forks](https://img.shields.io/github/forks/drayline/rootnode-skills?style=flat-square&color=blue)](https://github.com/drayline/rootnode-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 21 Skills that diagnose, build, and optimize every layer of a Claude Project: from a single prompt to your entire Claude environment
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

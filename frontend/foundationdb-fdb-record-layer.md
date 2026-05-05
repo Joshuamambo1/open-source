@@ -1,6 +1,6 @@
 # FoundationDB/fdb-record-layer
 
-[![Stars](https://img.shields.io/github/stars/FoundationDB/fdb-record-layer?style=flat-square&color=yellow)](https://github.com/FoundationDB/fdb-record-layer/stargazers) [![Forks](https://img.shields.io/github/forks/FoundationDB/fdb-record-layer?style=flat-square&color=blue)](https://github.com/FoundationDB/fdb-record-layer/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FoundationDB/fdb-record-layer?style=flat-square&color=yellow)](https://github.com/FoundationDB/fdb-record-layer/stargazers) [![Forks](https://img.shields.io/github/forks/FoundationDB/fdb-record-layer?style=flat-square&color=blue)](https://github.com/FoundationDB/fdb-record-layer/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A relational database with SQL support built on FoundationDB
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 662 |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

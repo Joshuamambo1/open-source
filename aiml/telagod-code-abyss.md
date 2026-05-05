@@ -1,6 +1,6 @@
 # telagod/code-abyss
 
-[![Stars](https://img.shields.io/github/stars/telagod/code-abyss?style=flat-square&color=yellow)](https://github.com/telagod/code-abyss/stargazers) [![Forks](https://img.shields.io/github/forks/telagod/code-abyss?style=flat-square&color=blue)](https://github.com/telagod/code-abyss/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/telagod/code-abyss?style=flat-square&color=yellow)](https://github.com/telagod/code-abyss/stargazers) [![Forks](https://img.shields.io/github/forks/telagod/code-abyss?style=flat-square&color=blue)](https://github.com/telagod/code-abyss/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 为 Claude Code / Codex CLI 注入邪修人格、4种可切换输出风格与 56 篇攻防工程秘典
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

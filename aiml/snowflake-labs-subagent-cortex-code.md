@@ -1,6 +1,6 @@
 # Snowflake-Labs/subagent-cortex-code
 
-[![Stars](https://img.shields.io/github/stars/Snowflake-Labs/subagent-cortex-code?style=flat-square&color=yellow)](https://github.com/Snowflake-Labs/subagent-cortex-code/stargazers) [![Forks](https://img.shields.io/github/forks/Snowflake-Labs/subagent-cortex-code?style=flat-square&color=blue)](https://github.com/Snowflake-Labs/subagent-cortex-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Snowflake-Labs/subagent-cortex-code?style=flat-square&color=yellow)](https://github.com/Snowflake-Labs/subagent-cortex-code/stargazers) [![Forks](https://img.shields.io/github/forks/Snowflake-Labs/subagent-cortex-code?style=flat-square&color=blue)](https://github.com/Snowflake-Labs/subagent-cortex-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Route Snowflake operations from any coding agent (Claude Code, Cursor, Codex, Github Copilot, Windsurf, VSCode etc) to Cortex Code CLI — with smart routing, security envelopes, and headless execution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

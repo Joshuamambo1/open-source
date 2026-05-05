@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/brycewang-stanford/StatsPAI?style=flat-square&color=yellow)](https://github.com/brycewang-stanford/StatsPAI/stargazers) [![Forks](https://img.shields.io/github/forks/brycewang-stanford/StatsPAI?style=flat-square&color=blue)](https://github.com/brycewang-stanford/StatsPAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> Agent-native causal inference & econometrics for Python: 900+ functions across DiD / IV / RD / synth / DML / Bayesian / causal discovery / structural — one `import statspai as sp` for both AI agents and human researchers. Numerically aligned with Stata & R.
+> StatsPAI is the first agent-native Python platform for causal inference and applied econometrics — unified API, broad cross-method coverage, structured result objects, machine-readable schemas, and R/Stata parity validation.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 152 |
+| ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 41/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # helm/chartmuseum
 
-[![Stars](https://img.shields.io/github/stars/helm/chartmuseum?style=flat-square&color=yellow)](https://github.com/helm/chartmuseum/stargazers) [![Forks](https://img.shields.io/github/forks/helm/chartmuseum?style=flat-square&color=blue)](https://github.com/helm/chartmuseum/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/helm/chartmuseum?style=flat-square&color=yellow)](https://github.com/helm/chartmuseum/stargazers) [![Forks](https://img.shields.io/github/forks/helm/chartmuseum?style=flat-square&color=blue)](https://github.com/helm/chartmuseum/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > helm chart repository server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 405 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

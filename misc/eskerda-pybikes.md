@@ -1,6 +1,6 @@
 # eskerda/pybikes
 
-[![Stars](https://img.shields.io/github/stars/eskerda/pybikes?style=flat-square&color=yellow)](https://github.com/eskerda/pybikes/stargazers) [![Forks](https://img.shields.io/github/forks/eskerda/pybikes?style=flat-square&color=blue)](https://github.com/eskerda/pybikes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eskerda/pybikes?style=flat-square&color=yellow)](https://github.com/eskerda/pybikes/stargazers) [![Forks](https://img.shields.io/github/forks/eskerda/pybikes?style=flat-square&color=blue)](https://github.com/eskerda/pybikes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > bike sharing + python = pybikes
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 602 |
+| ⭐ **Stars** | 603 |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

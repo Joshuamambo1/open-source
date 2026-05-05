@@ -1,6 +1,6 @@
 # gabelul/stitch-kit
 
-[![Stars](https://img.shields.io/github/stars/gabelul/stitch-kit?style=flat-square&color=yellow)](https://github.com/gabelul/stitch-kit/stargazers) [![Forks](https://img.shields.io/github/forks/gabelul/stitch-kit?style=flat-square&color=blue)](https://github.com/gabelul/stitch-kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gabelul/stitch-kit?style=flat-square&color=yellow)](https://github.com/gabelul/stitch-kit/stargazers) [![Forks](https://img.shields.io/github/forks/gabelul/stitch-kit?style=flat-square&color=blue)](https://github.com/gabelul/stitch-kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Design superpowers for AI coding agents. 35 skills, 5 layers, 7 framework targets. Ideation, batch generation, design systems, iteration loops, and production conversion via Google Stitch MCP. Claude Code plugin + Codex CLI agent. The design intelligence layer your agent was missing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

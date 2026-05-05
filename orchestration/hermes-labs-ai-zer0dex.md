@@ -1,6 +1,6 @@
 # hermes-labs-ai/zer0dex
 
-[![Stars](https://img.shields.io/github/stars/hermes-labs-ai/zer0dex?style=flat-square&color=yellow)](https://github.com/hermes-labs-ai/zer0dex/stargazers) [![Forks](https://img.shields.io/github/forks/hermes-labs-ai/zer0dex?style=flat-square&color=blue)](https://github.com/hermes-labs-ai/zer0dex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hermes-labs-ai/zer0dex?style=flat-square&color=yellow)](https://github.com/hermes-labs-ai/zer0dex/stargazers) [![Forks](https://img.shields.io/github/forks/hermes-labs-ai/zer0dex?style=flat-square&color=blue)](https://github.com/hermes-labs-ai/zer0dex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Local dual-layer memory for AI agents using a compressed index plus vector retrieval
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

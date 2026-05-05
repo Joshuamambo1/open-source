@@ -1,6 +1,6 @@
 # vercel-labs/deepsec
 
-[![Stars](https://img.shields.io/github/stars/vercel-labs/deepsec?style=flat-square&color=yellow)](https://github.com/vercel-labs/deepsec/stargazers) [![Forks](https://img.shields.io/github/forks/vercel-labs/deepsec?style=flat-square&color=blue)](https://github.com/vercel-labs/deepsec/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vercel-labs/deepsec?style=flat-square&color=yellow)](https://github.com/vercel-labs/deepsec/stargazers) [![Forks](https://img.shields.io/github/forks/vercel-labs/deepsec?style=flat-square&color=blue)](https://github.com/vercel-labs/deepsec/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 162 |
-| 🍴 **Forks** | 10 |
+| ⭐ **Stars** | 407 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # rjarry/aerc
 
-[![Stars](https://img.shields.io/github/stars/rjarry/aerc?style=flat-square&color=yellow)](https://github.com/rjarry/aerc/stargazers) [![Forks](https://img.shields.io/github/forks/rjarry/aerc?style=flat-square&color=blue)](https://github.com/rjarry/aerc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rjarry/aerc?style=flat-square&color=yellow)](https://github.com/rjarry/aerc/stargazers) [![Forks](https://img.shields.io/github/forks/rjarry/aerc?style=flat-square&color=blue)](https://github.com/rjarry/aerc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Read-only mirror of https://git.sr.ht/~rjarry/aerc. This repository does not accept pull requests. Please send contributions to https://lists.sr.ht/~rjarry/aerc-devel.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 262 |
+| ⭐ **Stars** | 263 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

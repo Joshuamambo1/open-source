@@ -1,6 +1,6 @@
 # Koroqe/claude-code-sdlc
 
-[![Stars](https://img.shields.io/github/stars/Koroqe/claude-code-sdlc?style=flat-square&color=yellow)](https://github.com/Koroqe/claude-code-sdlc/stargazers) [![Forks](https://img.shields.io/github/forks/Koroqe/claude-code-sdlc?style=flat-square&color=blue)](https://github.com/Koroqe/claude-code-sdlc/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Koroqe/claude-code-sdlc?style=flat-square&color=yellow)](https://github.com/Koroqe/claude-code-sdlc/stargazers) [![Forks](https://img.shields.io/github/forks/Koroqe/claude-code-sdlc?style=flat-square&color=blue)](https://github.com/Koroqe/claude-code-sdlc/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Turn Claude Code into a full dev team — 13 AI agents, documentation-first pipeline, TDD enforcement
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 38 |
+| ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

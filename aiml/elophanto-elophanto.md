@@ -1,6 +1,6 @@
 # elophanto/EloPhanto
 
-[![Stars](https://img.shields.io/github/stars/elophanto/EloPhanto?style=flat-square&color=yellow)](https://github.com/elophanto/EloPhanto/stargazers) [![Forks](https://img.shields.io/github/forks/elophanto/EloPhanto?style=flat-square&color=blue)](https://github.com/elophanto/EloPhanto/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elophanto/EloPhanto?style=flat-square&color=yellow)](https://github.com/elophanto/EloPhanto/stargazers) [![Forks](https://img.shields.io/github/forks/elophanto/EloPhanto?style=flat-square&color=blue)](https://github.com/elophanto/EloPhanto/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI agent that builds zero-human businesses, grows audiences, ships code, all autonomously.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 52 |
+| ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

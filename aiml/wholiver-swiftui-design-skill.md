@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Wholiver/swiftui-design-skill?style=flat-square&color=yellow)](https://github.com/Wholiver/swiftui-design-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Wholiver/swiftui-design-skill?style=flat-square&color=blue)](https://github.com/Wholiver/swiftui-design-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> SwiftUI 前端设计 skill — 反 AI Slop 六条铁律、设计方向顾问、品牌资产协议、五维评审。支持 Claude Code / Cursor / Codex / OpenCode 等全部 AI agent 平台。
+> SwiftUI Front-End Design Skills — Six Ironclad Rules Against AI Sloppiness, Design Direction Consulting, Brand Asset Guidelines, and Five-Dimensional Review. Supports all AI agent platforms, including Claude Code, Cursor, Codex, and OpenCode.
 
 ## 📊 Stats
 

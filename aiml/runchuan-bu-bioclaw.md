@@ -1,6 +1,6 @@
 # Runchuan-BU/BioClaw
 
-[![Stars](https://img.shields.io/github/stars/Runchuan-BU/BioClaw?style=flat-square&color=yellow)](https://github.com/Runchuan-BU/BioClaw/stargazers) [![Forks](https://img.shields.io/github/forks/Runchuan-BU/BioClaw?style=flat-square&color=blue)](https://github.com/Runchuan-BU/BioClaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Runchuan-BU/BioClaw?style=flat-square&color=yellow)](https://github.com/Runchuan-BU/BioClaw/stargazers) [![Forks](https://img.shields.io/github/forks/Runchuan-BU/BioClaw?style=flat-square&color=blue)](https://github.com/Runchuan-BU/BioClaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI-Powered Bioinformatics Research Assistant. Built on OpenClaw.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 363 |
+| ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

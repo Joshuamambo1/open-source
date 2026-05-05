@@ -1,6 +1,6 @@
 # apache/impala
 
-[![Stars](https://img.shields.io/github/stars/apache/impala?style=flat-square&color=yellow)](https://github.com/apache/impala/stargazers) [![Forks](https://img.shields.io/github/forks/apache/impala?style=flat-square&color=blue)](https://github.com/apache/impala/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/impala?style=flat-square&color=yellow)](https://github.com/apache/impala/stargazers) [![Forks](https://img.shields.io/github/forks/apache/impala?style=flat-square&color=blue)](https://github.com/apache/impala/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Impala
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 545 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

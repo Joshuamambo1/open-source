@@ -1,6 +1,6 @@
 # chenquan/diskusage
 
-[![Stars](https://img.shields.io/github/stars/chenquan/diskusage?style=flat-square&color=yellow)](https://github.com/chenquan/diskusage/stargazers) [![Forks](https://img.shields.io/github/forks/chenquan/diskusage?style=flat-square&color=blue)](https://github.com/chenquan/diskusage/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chenquan/diskusage?style=flat-square&color=yellow)](https://github.com/chenquan/diskusage/stargazers) [![Forks](https://img.shields.io/github/forks/chenquan/diskusage?style=flat-square&color=blue)](https://github.com/chenquan/diskusage/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 💥A tool for showing disk usage(Linux, MacOS and Windows), it is a very fast utility to find largest directories or files.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

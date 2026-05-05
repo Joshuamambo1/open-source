@@ -1,6 +1,6 @@
 # Alexey-T/CudaText
 
-[![Stars](https://img.shields.io/github/stars/Alexey-T/CudaText?style=flat-square&color=yellow)](https://github.com/Alexey-T/CudaText/stargazers) [![Forks](https://img.shields.io/github/forks/Alexey-T/CudaText?style=flat-square&color=blue)](https://github.com/Alexey-T/CudaText/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Alexey-T/CudaText?style=flat-square&color=yellow)](https://github.com/Alexey-T/CudaText/stargazers) [![Forks](https://img.shields.io/github/forks/Alexey-T/CudaText?style=flat-square&color=blue)](https://github.com/Alexey-T/CudaText/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform text editor, written in Free Pascal
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 199 |
+| 🍴 **Forks** | 200 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

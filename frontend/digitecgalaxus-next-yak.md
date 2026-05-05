@@ -1,6 +1,6 @@
 # DigitecGalaxus/next-yak
 
-[![Stars](https://img.shields.io/github/stars/DigitecGalaxus/next-yak?style=flat-square&color=yellow)](https://github.com/DigitecGalaxus/next-yak/stargazers) [![Forks](https://img.shields.io/github/forks/DigitecGalaxus/next-yak?style=flat-square&color=blue)](https://github.com/DigitecGalaxus/next-yak/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DigitecGalaxus/next-yak?style=flat-square&color=yellow)](https://github.com/DigitecGalaxus/next-yak/stargazers) [![Forks](https://img.shields.io/github/forks/DigitecGalaxus/next-yak?style=flat-square&color=blue)](https://github.com/DigitecGalaxus/next-yak/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 🦀 Zero-runtime CSS-in-JS powered by Rust. Write styled-components syntax, get build-time CSS extraction and full RSC compatibility
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 572 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

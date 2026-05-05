@@ -1,6 +1,6 @@
 # kubernetes/registry.k8s.io
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/registry.k8s.io?style=flat-square&color=yellow)](https://github.com/kubernetes/registry.k8s.io/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/registry.k8s.io?style=flat-square&color=blue)](https://github.com/kubernetes/registry.k8s.io/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/registry.k8s.io?style=flat-square&color=yellow)](https://github.com/kubernetes/registry.k8s.io/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/registry.k8s.io?style=flat-square&color=blue)](https://github.com/kubernetes/registry.k8s.io/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes' container image artifacts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 511 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

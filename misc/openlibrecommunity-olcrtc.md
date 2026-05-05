@@ -1,6 +1,6 @@
 # openlibrecommunity/olcrtc
 
-[![Stars](https://img.shields.io/github/stars/openlibrecommunity/olcrtc?style=flat-square&color=yellow)](https://github.com/openlibrecommunity/olcrtc/stargazers) [![Forks](https://img.shields.io/github/forks/openlibrecommunity/olcrtc?style=flat-square&color=blue)](https://github.com/openlibrecommunity/olcrtc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openlibrecommunity/olcrtc?style=flat-square&color=yellow)](https://github.com/openlibrecommunity/olcrtc/stargazers) [![Forks](https://img.shields.io/github/forks/openlibrecommunity/olcrtc?style=flat-square&color=blue)](https://github.com/openlibrecommunity/olcrtc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > olc - implementation of BB22, using side channels to access web outside the whitelist
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 492 |
+| ⭐ **Stars** | 494 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

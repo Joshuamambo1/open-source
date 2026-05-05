@@ -1,6 +1,6 @@
 # vectordbz/vectordbz
 
-[![Stars](https://img.shields.io/github/stars/vectordbz/vectordbz?style=flat-square&color=yellow)](https://github.com/vectordbz/vectordbz/stargazers) [![Forks](https://img.shields.io/github/forks/vectordbz/vectordbz?style=flat-square&color=blue)](https://github.com/vectordbz/vectordbz/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vectordbz/vectordbz?style=flat-square&color=yellow)](https://github.com/vectordbz/vectordbz/stargazers) [![Forks](https://img.shields.io/github/forks/vectordbz/vectordbz?style=flat-square&color=blue)](https://github.com/vectordbz/vectordbz/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A modern desktop application for exploring, managing, and analyzing vector databases
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

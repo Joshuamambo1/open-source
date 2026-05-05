@@ -1,6 +1,6 @@
 # twaldin/hone
 
-[![Stars](https://img.shields.io/github/stars/twaldin/hone?style=flat-square&color=yellow)](https://github.com/twaldin/hone/stargazers) [![Forks](https://img.shields.io/github/forks/twaldin/hone?style=flat-square&color=blue)](https://github.com/twaldin/hone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/twaldin/hone?style=flat-square&color=yellow)](https://github.com/twaldin/hone/stargazers) [![Forks](https://img.shields.io/github/forks/twaldin/hone?style=flat-square&color=blue)](https://github.com/twaldin/hone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > CLI text optimizer built on GEPA. Uses Agentic Coding CLI's as mutator and observer -- no api keys required
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

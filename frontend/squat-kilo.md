@@ -1,6 +1,6 @@
 # squat/kilo
 
-[![Stars](https://img.shields.io/github/stars/squat/kilo?style=flat-square&color=yellow)](https://github.com/squat/kilo/stargazers) [![Forks](https://img.shields.io/github/forks/squat/kilo?style=flat-square&color=blue)](https://github.com/squat/kilo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/squat/kilo?style=flat-square&color=yellow)](https://github.com/squat/kilo/stargazers) [![Forks](https://img.shields.io/github/forks/squat/kilo?style=flat-square&color=blue)](https://github.com/squat/kilo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

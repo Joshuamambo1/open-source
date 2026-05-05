@@ -1,6 +1,6 @@
 # alexeykrol/claude-code-starter
 
-[![Stars](https://img.shields.io/github/stars/alexeykrol/claude-code-starter?style=flat-square&color=yellow)](https://github.com/alexeykrol/claude-code-starter/stargazers) [![Forks](https://img.shields.io/github/forks/alexeykrol/claude-code-starter?style=flat-square&color=blue)](https://github.com/alexeykrol/claude-code-starter/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexeykrol/claude-code-starter?style=flat-square&color=yellow)](https://github.com/alexeykrol/claude-code-starter/stargazers) [![Forks](https://img.shields.io/github/forks/alexeykrol/claude-code-starter?style=flat-square&color=blue)](https://github.com/alexeykrol/claude-code-starter/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Meta-documentation framework for AI-assisted development with Claude Code
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 178 |
+| ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

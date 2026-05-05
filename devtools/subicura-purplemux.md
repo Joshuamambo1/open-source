@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/subicura/purplemux?style=flat-square&color=yellow)](https://github.com/subicura/purplemux/stargazers) [![Forks](https://img.shields.io/github/forks/subicura/purplemux?style=flat-square&color=blue)](https://github.com/subicura/purplemux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> A web-native terminal multiplexer for Claude Code — monitor and manage multiple sessions from any browser
+> A web-native terminal multiplexer for Claude Code & Codex — monitor and manage multiple sessions from any browser
 
 ## 📊 Stats
 

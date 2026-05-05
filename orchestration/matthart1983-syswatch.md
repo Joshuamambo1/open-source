@@ -1,6 +1,6 @@
 # matthart1983/syswatch
 
-[![Stars](https://img.shields.io/github/stars/matthart1983/syswatch?style=flat-square&color=yellow)](https://github.com/matthart1983/syswatch/stargazers) [![Forks](https://img.shields.io/github/forks/matthart1983/syswatch?style=flat-square&color=blue)](https://github.com/matthart1983/syswatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matthart1983/syswatch?style=flat-square&color=yellow)](https://github.com/matthart1983/syswatch/stargazers) [![Forks](https://img.shields.io/github/forks/matthart1983/syswatch?style=flat-square&color=blue)](https://github.com/matthart1983/syswatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 324 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 344 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

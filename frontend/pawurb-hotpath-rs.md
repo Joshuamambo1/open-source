@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/pawurb/hotpath-rs?style=flat-square&color=yellow)](https://github.com/pawurb/hotpath-rs/stargazers) [![Forks](https://img.shields.io/github/forks/pawurb/hotpath-rs?style=flat-square&color=blue)](https://github.com/pawurb/hotpath-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
-> Rust Performance Profiler & Channels Monitoring Toolkit (TUI, MCP)
+> Quickly find bottlenecks in Rust - one profiler for CPU, memory, time, and async code.
 
 ## 📊 Stats
 

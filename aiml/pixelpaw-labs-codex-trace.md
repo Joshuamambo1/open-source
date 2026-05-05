@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/PixelPaw-Labs/codex-trace?style=flat-square&color=yellow)](https://github.com/PixelPaw-Labs/codex-trace/stargazers) [![Forks](https://img.shields.io/github/forks/PixelPaw-Labs/codex-trace?style=flat-square&color=blue)](https://github.com/PixelPaw-Labs/codex-trace/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Real-time viewer for Codex session logs — desktop app, web
+> OpenAI Codex CLI session log viewer for JSONL files in ~/.codex/sessions. Browse conversations, tool calls, tokens, collaboration chains, and live sessions on desktop and web.
 
 ## 📊 Stats
 

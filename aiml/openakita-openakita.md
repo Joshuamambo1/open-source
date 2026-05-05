@@ -1,6 +1,6 @@
 # openakita/openakita
 
-[![Stars](https://img.shields.io/github/stars/openakita/openakita?style=flat-square&color=yellow)](https://github.com/openakita/openakita/stargazers) [![Forks](https://img.shields.io/github/forks/openakita/openakita?style=flat-square&color=blue)](https://github.com/openakita/openakita/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openakita/openakita?style=flat-square&color=yellow)](https://github.com/openakita/openakita/stargazers) [![Forks](https://img.shields.io/github/forks/openakita/openakita?style=flat-square&color=blue)](https://github.com/openakita/openakita/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source AI assistant framework with skills and agent architecture
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

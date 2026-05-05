@@ -1,6 +1,6 @@
 # gee-community/geemap
 
-[![Stars](https://img.shields.io/github/stars/gee-community/geemap?style=flat-square&color=yellow)](https://github.com/gee-community/geemap/stargazers) [![Forks](https://img.shields.io/github/forks/gee-community/geemap?style=flat-square&color=blue)](https://github.com/gee-community/geemap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gee-community/geemap?style=flat-square&color=yellow)](https://github.com/gee-community/geemap/stargazers) [![Forks](https://img.shields.io/github/forks/gee-community/geemap?style=flat-square&color=blue)](https://github.com/gee-community/geemap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
 > A Python package for interactive geospatial analysis and visualization with Google Earth Engine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 93/100 |
+| 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

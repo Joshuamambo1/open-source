@@ -1,6 +1,6 @@
 # ntex-rs/ntex-mqtt
 
-[![Stars](https://img.shields.io/github/stars/ntex-rs/ntex-mqtt?style=flat-square&color=yellow)](https://github.com/ntex-rs/ntex-mqtt/stargazers) [![Forks](https://img.shields.io/github/forks/ntex-rs/ntex-mqtt?style=flat-square&color=blue)](https://github.com/ntex-rs/ntex-mqtt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ntex-rs/ntex-mqtt?style=flat-square&color=yellow)](https://github.com/ntex-rs/ntex-mqtt/stargazers) [![Forks](https://img.shields.io/github/forks/ntex-rs/ntex-mqtt?style=flat-square&color=blue)](https://github.com/ntex-rs/ntex-mqtt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > MQTT Client/Server framework for v5 and v3.1.1 protocols
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 369 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

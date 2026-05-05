@@ -1,6 +1,6 @@
 # Releem/mysqlconfigurer
 
-[![Stars](https://img.shields.io/github/stars/Releem/mysqlconfigurer?style=flat-square&color=yellow)](https://github.com/Releem/mysqlconfigurer/stargazers) [![Forks](https://img.shields.io/github/forks/Releem/mysqlconfigurer?style=flat-square&color=blue)](https://github.com/Releem/mysqlconfigurer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Releem/mysqlconfigurer?style=flat-square&color=yellow)](https://github.com/Releem/mysqlconfigurer/stargazers) [![Forks](https://img.shields.io/github/forks/Releem/mysqlconfigurer?style=flat-square&color=blue)](https://github.com/Releem/mysqlconfigurer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Releem is a database advisor for MySQL & MariaDB that provides automatic metrics analysis, actionable insights, and safe automation. It helps detect issues quickly, optimize performance continuously, and reduce manual work at scale.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

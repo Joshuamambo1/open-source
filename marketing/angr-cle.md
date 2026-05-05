@@ -1,6 +1,6 @@
 # angr/cle
 
-[![Stars](https://img.shields.io/github/stars/angr/cle?style=flat-square&color=yellow)](https://github.com/angr/cle/stargazers) [![Forks](https://img.shields.io/github/forks/angr/cle?style=flat-square&color=blue)](https://github.com/angr/cle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/angr/cle?style=flat-square&color=yellow)](https://github.com/angr/cle/stargazers) [![Forks](https://img.shields.io/github/forks/angr/cle?style=flat-square&color=blue)](https://github.com/angr/cle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > CLE Loads Everything (at least, many binary formats!)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 480 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

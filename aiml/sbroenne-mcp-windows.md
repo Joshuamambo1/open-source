@@ -1,6 +1,6 @@
 # sbroenne/mcp-windows
 
-[![Stars](https://img.shields.io/github/stars/sbroenne/mcp-windows?style=flat-square&color=yellow)](https://github.com/sbroenne/mcp-windows/stargazers) [![Forks](https://img.shields.io/github/forks/sbroenne/mcp-windows?style=flat-square&color=blue)](https://github.com/sbroenne/mcp-windows/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sbroenne/mcp-windows?style=flat-square&color=yellow)](https://github.com/sbroenne/mcp-windows/stargazers) [![Forks](https://img.shields.io/github/forks/sbroenne/mcp-windows?style=flat-square&color=blue)](https://github.com/sbroenne/mcp-windows/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Let AI agents control Windows applications. Click buttons, type text, toggle settings — all by name, not coordinates.  Uses the Windows UI Automation API to find UI elements reliably, regardless of DPI, theme, resolution, or window position.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 32 |
+| ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

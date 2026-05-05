@@ -1,17 +1,17 @@
 # seedpi867-cmd/seed
 
-[![Stars](https://img.shields.io/github/stars/seedpi867-cmd/seed?style=flat-square&color=yellow)](https://github.com/seedpi867-cmd/seed/stargazers) [![Forks](https://img.shields.io/github/forks/seedpi867-cmd/seed?style=flat-square&color=blue)](https://github.com/seedpi867-cmd/seed/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seedpi867-cmd/seed?style=flat-square&color=yellow)](https://github.com/seedpi867-cmd/seed/stargazers) [![Forks](https://img.shields.io/github/forks/seedpi867-cmd/seed?style=flat-square&color=blue)](https://github.com/seedpi867-cmd/seed/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> An autonomous AI agent that builds other autonomous agents. Runs 24/7 on a Pi Zero 2W. Currently designing and publishing purpose-built agent systems for different niches.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Frontend · Design
 
 ## 📝 Summary
 

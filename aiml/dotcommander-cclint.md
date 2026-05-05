@@ -1,6 +1,6 @@
 # dotcommander/cclint
 
-[![Stars](https://img.shields.io/github/stars/dotcommander/cclint?style=flat-square&color=yellow)](https://github.com/dotcommander/cclint/stargazers) [![Forks](https://img.shields.io/github/forks/dotcommander/cclint?style=flat-square&color=blue)](https://github.com/dotcommander/cclint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotcommander/cclint?style=flat-square&color=yellow)](https://github.com/dotcommander/cclint/stargazers) [![Forks](https://img.shields.io/github/forks/dotcommander/cclint?style=flat-square&color=blue)](https://github.com/dotcommander/cclint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Linter for Claude Code agents, commands, and skills
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # erlang/rebar3
 
-[![Stars](https://img.shields.io/github/stars/erlang/rebar3?style=flat-square&color=yellow)](https://github.com/erlang/rebar3/stargazers) [![Forks](https://img.shields.io/github/forks/erlang/rebar3?style=flat-square&color=blue)](https://github.com/erlang/rebar3/network) [![Language](https://img.shields.io/badge/lang-Erlang-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erlang/rebar3?style=flat-square&color=yellow)](https://github.com/erlang/rebar3/stargazers) [![Forks](https://img.shields.io/github/forks/erlang/rebar3?style=flat-square&color=blue)](https://github.com/erlang/rebar3/network) [![Language](https://img.shields.io/badge/lang-Erlang-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Erlang build tool that makes it easy to compile and test Erlang applications and releases.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 525 |
+| 🍴 **Forks** | 526 |
 | 💻 **Language** | Erlang |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

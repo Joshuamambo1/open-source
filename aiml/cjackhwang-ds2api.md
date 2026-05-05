@@ -1,6 +1,6 @@
 # CJackHwang/ds2api
 
-[![Stars](https://img.shields.io/github/stars/CJackHwang/ds2api?style=flat-square&color=yellow)](https://github.com/CJackHwang/ds2api/stargazers) [![Forks](https://img.shields.io/github/forks/CJackHwang/ds2api?style=flat-square&color=blue)](https://github.com/CJackHwang/ds2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CJackHwang/ds2api?style=flat-square&color=yellow)](https://github.com/CJackHwang/ds2api/stargazers) [![Forks](https://img.shields.io/github/forks/CJackHwang/ds2api?style=flat-square&color=blue)](https://github.com/CJackHwang/ds2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 907 |
+| 🍴 **Forks** | 921 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # avikalpg/byok-relay
 
-[![Stars](https://img.shields.io/github/stars/avikalpg/byok-relay?style=flat-square&color=yellow)](https://github.com/avikalpg/byok-relay/stargazers) [![Forks](https://img.shields.io/github/forks/avikalpg/byok-relay?style=flat-square&color=blue)](https://github.com/avikalpg/byok-relay/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avikalpg/byok-relay?style=flat-square&color=yellow)](https://github.com/avikalpg/byok-relay/stargazers) [![Forks](https://img.shields.io/github/forks/avikalpg/byok-relay?style=flat-square&color=blue)](https://github.com/avikalpg/byok-relay/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Bring your own key (BYOK) relay to enable lightweight frontend-only apps to use LLMs using the user's API keys without hitting CORS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -1,6 +1,6 @@
 # ceph/ceph-csi
 
-[![Stars](https://img.shields.io/github/stars/ceph/ceph-csi?style=flat-square&color=yellow)](https://github.com/ceph/ceph-csi/stargazers) [![Forks](https://img.shields.io/github/forks/ceph/ceph-csi?style=flat-square&color=blue)](https://github.com/ceph/ceph-csi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ceph/ceph-csi?style=flat-square&color=yellow)](https://github.com/ceph/ceph-csi/stargazers) [![Forks](https://img.shields.io/github/forks/ceph/ceph-csi?style=flat-square&color=blue)](https://github.com/ceph/ceph-csi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > CSI driver for Ceph
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 602 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

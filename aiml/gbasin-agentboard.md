@@ -1,6 +1,6 @@
 # gbasin/agentboard
 
-[![Stars](https://img.shields.io/github/stars/gbasin/agentboard?style=flat-square&color=yellow)](https://github.com/gbasin/agentboard/stargazers) [![Forks](https://img.shields.io/github/forks/gbasin/agentboard?style=flat-square&color=blue)](https://github.com/gbasin/agentboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gbasin/agentboard?style=flat-square&color=yellow)](https://github.com/gbasin/agentboard/stargazers) [![Forks](https://img.shields.io/github/forks/gbasin/agentboard?style=flat-square&color=blue)](https://github.com/gbasin/agentboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Web GUI for tmux optimized for AI agent TUIs, with support for iOS safari and mac w/ keyboard shortcuts
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 362 |
+| ⭐ **Stars** | 363 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

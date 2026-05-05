@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/usemoss/moss?style=flat-square&color=yellow)](https://github.com/usemoss/moss/stargazers) [![Forks](https://img.shields.io/github/forks/usemoss/moss?style=flat-square&color=blue)](https://github.com/usemoss/moss/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> Official Repo of Moss
+> Realtime Semantic Search ⭐ Found it useful? Leave a star!
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 332 |
+| ⭐ **Stars** | 334 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |

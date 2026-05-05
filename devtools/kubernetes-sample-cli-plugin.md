@@ -1,6 +1,6 @@
 # kubernetes/sample-cli-plugin
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/sample-cli-plugin?style=flat-square&color=yellow)](https://github.com/kubernetes/sample-cli-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/sample-cli-plugin?style=flat-square&color=blue)](https://github.com/kubernetes/sample-cli-plugin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/sample-cli-plugin?style=flat-square&color=yellow)](https://github.com/kubernetes/sample-cli-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/sample-cli-plugin?style=flat-square&color=blue)](https://github.com/kubernetes/sample-cli-plugin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Sample kubectl plugin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

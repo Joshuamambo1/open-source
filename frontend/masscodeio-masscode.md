@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Frontend · DevTools · Product
+Frontend · Backend · DevTools
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # ROCTUP/1c-buddy
 
-[![Stars](https://img.shields.io/github/stars/ROCTUP/1c-buddy?style=flat-square&color=yellow)](https://github.com/ROCTUP/1c-buddy/stargazers) [![Forks](https://img.shields.io/github/forks/ROCTUP/1c-buddy?style=flat-square&color=blue)](https://github.com/ROCTUP/1c-buddy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ROCTUP/1c-buddy?style=flat-square&color=yellow)](https://github.com/ROCTUP/1c-buddy/stargazers) [![Forks](https://img.shields.io/github/forks/ROCTUP/1c-buddy?style=flat-square&color=blue)](https://github.com/ROCTUP/1c-buddy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Чат, MCP и OpenAI API сервер для общения с 1С:Напарник
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

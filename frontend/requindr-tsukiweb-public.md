@@ -1,6 +1,6 @@
 # requinDr/tsukiweb-public
 
-[![Stars](https://img.shields.io/github/stars/requinDr/tsukiweb-public?style=flat-square&color=yellow)](https://github.com/requinDr/tsukiweb-public/stargazers) [![Forks](https://img.shields.io/github/forks/requinDr/tsukiweb-public?style=flat-square&color=blue)](https://github.com/requinDr/tsukiweb-public/network) [![Language](https://img.shields.io/badge/lang-KerboScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/requinDr/tsukiweb-public?style=flat-square&color=yellow)](https://github.com/requinDr/tsukiweb-public/stargazers) [![Forks](https://img.shields.io/github/forks/requinDr/tsukiweb-public?style=flat-square&color=blue)](https://github.com/requinDr/tsukiweb-public/network) [![Language](https://img.shields.io/badge/lang-KerboScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Porting Tsukihime to the web to make it accessible on different devices with QoL improvements
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 627 |
+| ⭐ **Stars** | 628 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | KerboScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # linw1995/nvim-mcp
 
-[![Stars](https://img.shields.io/github/stars/linw1995/nvim-mcp?style=flat-square&color=yellow)](https://github.com/linw1995/nvim-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/linw1995/nvim-mcp?style=flat-square&color=blue)](https://github.com/linw1995/nvim-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linw1995/nvim-mcp?style=flat-square&color=yellow)](https://github.com/linw1995/nvim-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/linw1995/nvim-mcp?style=flat-square&color=blue)](https://github.com/linw1995/nvim-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that provides seamless integration with Neovim instances, enabling AI assistants to interact with your editor through connections and access diagnostic information via structured resources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

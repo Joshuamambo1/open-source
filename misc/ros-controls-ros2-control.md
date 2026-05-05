@@ -1,6 +1,6 @@
 # ros-controls/ros2_control
 
-[![Stars](https://img.shields.io/github/stars/ros-controls/ros2_control?style=flat-square&color=yellow)](https://github.com/ros-controls/ros2_control/stargazers) [![Forks](https://img.shields.io/github/forks/ros-controls/ros2_control?style=flat-square&color=blue)](https://github.com/ros-controls/ros2_control/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ros-controls/ros2_control?style=flat-square&color=yellow)](https://github.com/ros-controls/ros2_control/stargazers) [![Forks](https://img.shields.io/github/forks/ros-controls/ros2_control?style=flat-square&color=blue)](https://github.com/ros-controls/ros2_control/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Generic and simple controls framework for ROS 2
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 880 |
-| 🍴 **Forks** | 436 |
+| 🍴 **Forks** | 437 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

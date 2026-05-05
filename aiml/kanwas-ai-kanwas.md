@@ -1,6 +1,6 @@
 # kanwas-ai/kanwas
 
-[![Stars](https://img.shields.io/github/stars/kanwas-ai/kanwas?style=flat-square&color=yellow)](https://github.com/kanwas-ai/kanwas/stargazers) [![Forks](https://img.shields.io/github/forks/kanwas-ai/kanwas?style=flat-square&color=blue)](https://github.com/kanwas-ai/kanwas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kanwas-ai/kanwas?style=flat-square&color=yellow)](https://github.com/kanwas-ai/kanwas/stargazers) [![Forks](https://img.shields.io/github/forks/kanwas-ai/kanwas?style=flat-square&color=blue)](https://github.com/kanwas-ai/kanwas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Kanwas — Shared context board for teams and agents
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 247 |
-| 🍴 **Forks** | 42 |
+| ⭐ **Stars** | 269 |
+| 🍴 **Forks** | 45 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

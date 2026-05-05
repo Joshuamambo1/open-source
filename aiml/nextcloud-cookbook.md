@@ -1,6 +1,6 @@
 # nextcloud/cookbook
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/cookbook?style=flat-square&color=yellow)](https://github.com/nextcloud/cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/cookbook?style=flat-square&color=blue)](https://github.com/nextcloud/cookbook/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/cookbook?style=flat-square&color=yellow)](https://github.com/nextcloud/cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/cookbook?style=flat-square&color=blue)](https://github.com/nextcloud/cookbook/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 🍲 A library for all your recipes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 618 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

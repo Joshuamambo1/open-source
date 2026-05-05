@@ -1,6 +1,6 @@
 # erkinalp/recalld
 
-[![Stars](https://img.shields.io/github/stars/erkinalp/recalld?style=flat-square&color=yellow)](https://github.com/erkinalp/recalld/stargazers) [![Forks](https://img.shields.io/github/forks/erkinalp/recalld?style=flat-square&color=blue)](https://github.com/erkinalp/recalld/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-29%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erkinalp/recalld?style=flat-square&color=yellow)](https://github.com/erkinalp/recalld/stargazers) [![Forks](https://img.shields.io/github/forks/erkinalp/recalld?style=flat-square&color=blue)](https://github.com/erkinalp/recalld/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > the way people think Windows Recall works
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2 |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C |
-| 📈 **Score** | 29/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

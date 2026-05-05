@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 350 |
+| 🍴 **Forks** | 349 |
 | 💻 **Language** | Common Lisp |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |

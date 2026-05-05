@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 56 |
-| 🍴 **Forks** | 25 |
+| 🍴 **Forks** | 26 |
 | 💻 **Language** | Bicep |
 | 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |

@@ -1,6 +1,6 @@
 # QMCPACK/qmcpack
 
-[![Stars](https://img.shields.io/github/stars/QMCPACK/qmcpack?style=flat-square&color=yellow)](https://github.com/QMCPACK/qmcpack/stargazers) [![Forks](https://img.shields.io/github/forks/QMCPACK/qmcpack?style=flat-square&color=blue)](https://github.com/QMCPACK/qmcpack/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QMCPACK/qmcpack?style=flat-square&color=yellow)](https://github.com/QMCPACK/qmcpack/stargazers) [![Forks](https://img.shields.io/github/forks/QMCPACK/qmcpack?style=flat-square&color=blue)](https://github.com/QMCPACK/qmcpack/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Main repository for QMCPACK, an open-source production level many-body ab initio Quantum Monte Carlo code for computing the electronic structure of atoms, molecules, and solids with full performance portable GPU support
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 384 |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

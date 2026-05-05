@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 77 |
+| ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | MATLAB |
 | 📈 **Score** | 51/100 |

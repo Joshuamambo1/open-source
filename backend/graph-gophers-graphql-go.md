@@ -1,6 +1,6 @@
 # graph-gophers/graphql-go
 
-[![Stars](https://img.shields.io/github/stars/graph-gophers/graphql-go?style=flat-square&color=yellow)](https://github.com/graph-gophers/graphql-go/stargazers) [![Forks](https://img.shields.io/github/forks/graph-gophers/graphql-go?style=flat-square&color=blue)](https://github.com/graph-gophers/graphql-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/graph-gophers/graphql-go?style=flat-square&color=yellow)](https://github.com/graph-gophers/graphql-go/stargazers) [![Forks](https://img.shields.io/github/forks/graph-gophers/graphql-go?style=flat-square&color=blue)](https://github.com/graph-gophers/graphql-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > GraphQL server with a focus on ease of use
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 493 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

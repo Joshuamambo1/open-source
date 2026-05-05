@@ -1,6 +1,6 @@
 # withastro/flue
 
-[![Stars](https://img.shields.io/github/stars/withastro/flue?style=flat-square&color=yellow)](https://github.com/withastro/flue/stargazers) [![Forks](https://img.shields.io/github/forks/withastro/flue?style=flat-square&color=blue)](https://github.com/withastro/flue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/withastro/flue?style=flat-square&color=yellow)](https://github.com/withastro/flue/stargazers) [![Forks](https://img.shields.io/github/forks/withastro/flue?style=flat-square&color=blue)](https://github.com/withastro/flue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The sandbox agent framework.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 110 |
+| ⭐ **Stars** | 2.5k |
+| 🍴 **Forks** | 119 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

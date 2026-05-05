@@ -25,7 +25,7 @@ DevTools · Design
 
 ## 📝 Summary
 
-Drush is a powerful command-line tool for Drupal developers, providing a Swiss Army knife-like interface to simplify tasks and streamline workflows. This open-source project enables users to manage their Drupal sites with ease, automating routine tasks and enhancing productivity. With Drush, developers can save time and focus on more complex and creative challenges.
+Drush is an open-source, command-line interface for Drupal that simplifies tasks and streamlines workflows for developers. This versatile tool serves as a Swiss Army knife for command-line operations, making it easier to manage and maintain Drupal projects. With Drush, users can perform a wide range of tasks, from site management to scripting and automation.
 
 ---
 

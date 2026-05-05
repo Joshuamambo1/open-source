@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the minamijoyo/hcledit project:
-
-hcledit is a command-line editor for HCL (HashiCorp Configuration Language), designed to provide a simple and efficient way to create, edit, and manage HCL configuration files. This open-source tool is ideal for developers and sysadmins who work with HCL files in their daily tasks, offering a lightweight and intuitive interface for editing and refining configuration data. With hcledit, users can streamline their workflow and improve productivity when working with HCL files.
+The hcledit project is an open-source, command-line editor designed for HCL (HashiCorp Configuration Language) files. This tool enables users to efficiently edit and manage HCL configurations in a text-based interface, streamlining their workflow and enhancing productivity. With hcledit, developers can easily navigate and modify HCL files using a simple and intuitive command-line interface.
 
 ---
 

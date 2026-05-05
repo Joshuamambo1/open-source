@@ -1,6 +1,6 @@
 # ocsigen/js_of_ocaml
 
-[![Stars](https://img.shields.io/github/stars/ocsigen/js_of_ocaml?style=flat-square&color=yellow)](https://github.com/ocsigen/js_of_ocaml/stargazers) [![Forks](https://img.shields.io/github/forks/ocsigen/js_of_ocaml?style=flat-square&color=blue)](https://github.com/ocsigen/js_of_ocaml/network) [![Language](https://img.shields.io/badge/lang-OCaml-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ocsigen/js_of_ocaml?style=flat-square&color=yellow)](https://github.com/ocsigen/js_of_ocaml/stargazers) [![Forks](https://img.shields.io/github/forks/ocsigen/js_of_ocaml?style=flat-square&color=blue)](https://github.com/ocsigen/js_of_ocaml/network) [![Language](https://img.shields.io/badge/lang-OCaml-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Compiler from OCaml to Javascript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | OCaml |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

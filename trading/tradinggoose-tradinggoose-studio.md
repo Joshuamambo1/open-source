@@ -1,6 +1,6 @@
 # TradingGoose/TradingGoose-Studio
 
-[![Stars](https://img.shields.io/github/stars/TradingGoose/TradingGoose-Studio?style=flat-square&color=yellow)](https://github.com/TradingGoose/TradingGoose-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/TradingGoose/TradingGoose-Studio?style=flat-square&color=blue)](https://github.com/TradingGoose/TradingGoose-Studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TradingGoose/TradingGoose-Studio?style=flat-square&color=yellow)](https://github.com/TradingGoose/TradingGoose-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/TradingGoose/TradingGoose-Studio?style=flat-square&color=blue)](https://github.com/TradingGoose/TradingGoose-Studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Technical analysis + AI agents trading workflows from live market data to automated decisions
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 60 |
+| ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

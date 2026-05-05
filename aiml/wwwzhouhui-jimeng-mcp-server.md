@@ -1,6 +1,6 @@
 # wwwzhouhui/jimeng-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/wwwzhouhui/jimeng-mcp-server?style=flat-square&color=yellow)](https://github.com/wwwzhouhui/jimeng-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/wwwzhouhui/jimeng-mcp-server?style=flat-square&color=blue)](https://github.com/wwwzhouhui/jimeng-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wwwzhouhui/jimeng-mcp-server?style=flat-square&color=yellow)](https://github.com/wwwzhouhui/jimeng-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/wwwzhouhui/jimeng-mcp-server?style=flat-square&color=blue)](https://github.com/wwwzhouhui/jimeng-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > 一个为即梦AI打造的MCP服务器，让Claude、Cherry Studio等AI应用直接调用即梦的AI生成能力。基于jimeng-free-api-all开源项目，提供OpenAI兼容接口。    核心功能：文本生成图像（即梦4.0/3.1）、图像合成（多图融合）、文本生成视频（480p-1080p）、图像生成视频（静态转动态）。    支持三种模式：stdio（Claude Desktop）、SSE（Web）、HTTP REST API（跨平台）。Docker一键部署，开箱即用。异步轮询优化，确保长时间任务稳定完成。    需要Python 3.10+和Docker，配置SessionID即可使用，每日免费66积分。适合AI创作者、开发者学习MCP协议。MIT开源，代码透明。
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 57 |
+| ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # MemMachine/MemMachine
 
-[![Stars](https://img.shields.io/github/stars/MemMachine/MemMachine?style=flat-square&color=yellow)](https://github.com/MemMachine/MemMachine/stargazers) [![Forks](https://img.shields.io/github/forks/MemMachine/MemMachine?style=flat-square&color=blue)](https://github.com/MemMachine/MemMachine/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MemMachine/MemMachine?style=flat-square&color=yellow)](https://github.com/MemMachine/MemMachine/stargazers) [![Forks](https://img.shields.io/github/forks/MemMachine/MemMachine?style=flat-square&color=blue)](https://github.com/MemMachine/MemMachine/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 173 |
+| ⭐ **Stars** | 3.1k |
+| 🍴 **Forks** | 174 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

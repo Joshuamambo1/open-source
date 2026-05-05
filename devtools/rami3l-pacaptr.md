@@ -1,6 +1,6 @@
 # rami3l/pacaptr
 
-[![Stars](https://img.shields.io/github/stars/rami3l/pacaptr?style=flat-square&color=yellow)](https://github.com/rami3l/pacaptr/stargazers) [![Forks](https://img.shields.io/github/forks/rami3l/pacaptr?style=flat-square&color=blue)](https://github.com/rami3l/pacaptr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rami3l/pacaptr?style=flat-square&color=yellow)](https://github.com/rami3l/pacaptr/stargazers) [![Forks](https://img.shields.io/github/forks/rami3l/pacaptr?style=flat-square&color=blue)](https://github.com/rami3l/pacaptr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Pacman-like syntax wrapper for many package managers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 415 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

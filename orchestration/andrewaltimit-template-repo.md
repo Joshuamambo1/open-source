@@ -1,6 +1,6 @@
 # AndrewAltimit/template-repo
 
-[![Stars](https://img.shields.io/github/stars/AndrewAltimit/template-repo?style=flat-square&color=yellow)](https://github.com/AndrewAltimit/template-repo/stargazers) [![Forks](https://img.shields.io/github/forks/AndrewAltimit/template-repo?style=flat-square&color=blue)](https://github.com/AndrewAltimit/template-repo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AndrewAltimit/template-repo?style=flat-square&color=yellow)](https://github.com/AndrewAltimit/template-repo/stargazers) [![Forks](https://img.shields.io/github/forks/AndrewAltimit/template-repo?style=flat-square&color=blue)](https://github.com/AndrewAltimit/template-repo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via CLI wrappers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

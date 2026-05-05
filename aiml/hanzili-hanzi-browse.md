@@ -1,6 +1,6 @@
 # hanzili/hanzi-browse
 
-[![Stars](https://img.shields.io/github/stars/hanzili/hanzi-browse?style=flat-square&color=yellow)](https://github.com/hanzili/hanzi-browse/stargazers) [![Forks](https://img.shields.io/github/forks/hanzili/hanzi-browse?style=flat-square&color=blue)](https://github.com/hanzili/hanzi-browse/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hanzili/hanzi-browse?style=flat-square&color=yellow)](https://github.com/hanzili/hanzi-browse/stargazers) [![Forks](https://img.shields.io/github/forks/hanzili/hanzi-browse?style=flat-square&color=blue)](https://github.com/hanzili/hanzi-browse/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > let any ai agent use the local browser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

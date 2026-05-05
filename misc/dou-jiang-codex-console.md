@@ -1,6 +1,6 @@
 # dou-jiang/codex-console
 
-[![Stars](https://img.shields.io/github/stars/dou-jiang/codex-console?style=flat-square&color=yellow)](https://github.com/dou-jiang/codex-console/stargazers) [![Forks](https://img.shields.io/github/forks/dou-jiang/codex-console?style=flat-square&color=blue)](https://github.com/dou-jiang/codex-console/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dou-jiang/codex-console?style=flat-square&color=yellow)](https://github.com/dou-jiang/codex-console/stargazers) [![Forks](https://img.shields.io/github/forks/dou-jiang/codex-console?style=flat-square&color=blue)](https://github.com/dou-jiang/codex-console/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

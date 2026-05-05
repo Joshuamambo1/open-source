@@ -1,6 +1,6 @@
 # yattsu/biscuit
 
-[![Stars](https://img.shields.io/github/stars/yattsu/biscuit?style=flat-square&color=yellow)](https://github.com/yattsu/biscuit/stargazers) [![Forks](https://img.shields.io/github/forks/yattsu/biscuit?style=flat-square&color=blue)](https://github.com/yattsu/biscuit/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yattsu/biscuit?style=flat-square&color=yellow)](https://github.com/yattsu/biscuit/stargazers) [![Forks](https://img.shields.io/github/forks/yattsu/biscuit?style=flat-square&color=blue)](https://github.com/yattsu/biscuit/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Firmware for the ESP32-C3 SoC Xteink X4 e-paper display reader
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 48 |
-| 🍴 **Forks** | 2 |
+| ⭐ **Stars** | 173 |
+| 🍴 **Forks** | 4 |
 | 💻 **Language** | C |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

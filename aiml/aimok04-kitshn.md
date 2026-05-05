@@ -1,6 +1,6 @@
 # aimok04/kitshn
 
-[![Stars](https://img.shields.io/github/stars/aimok04/kitshn?style=flat-square&color=yellow)](https://github.com/aimok04/kitshn/stargazers) [![Forks](https://img.shields.io/github/forks/aimok04/kitshn?style=flat-square&color=blue)](https://github.com/aimok04/kitshn/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aimok04/kitshn?style=flat-square&color=yellow)](https://github.com/aimok04/kitshn/stargazers) [![Forks](https://img.shields.io/github/forks/aimok04/kitshn?style=flat-square&color=blue)](https://github.com/aimok04/kitshn/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Tandoor client for Android, iOS and Desktop devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 659 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

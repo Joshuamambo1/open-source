@@ -1,6 +1,6 @@
 # palantir/go-githubapp
 
-[![Stars](https://img.shields.io/github/stars/palantir/go-githubapp?style=flat-square&color=yellow)](https://github.com/palantir/go-githubapp/stargazers) [![Forks](https://img.shields.io/github/forks/palantir/go-githubapp?style=flat-square&color=blue)](https://github.com/palantir/go-githubapp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/palantir/go-githubapp?style=flat-square&color=yellow)](https://github.com/palantir/go-githubapp/stargazers) [![Forks](https://img.shields.io/github/forks/palantir/go-githubapp?style=flat-square&color=blue)](https://github.com/palantir/go-githubapp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A simple Go framework for building GitHub Apps
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 406 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

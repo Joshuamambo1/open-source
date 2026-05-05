@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The warpdotdev/themes open-source project is a repository of custom themes for Warp, a high-performance terminal built with Rust. This collection of themes enhances the user experience by providing a range of visually appealing and customizable options for Warp users. By contributing to this project, developers can help expand the diversity of available themes and further improve the terminal's usability.
+The warpdotdev/themes project is an open-source repository that provides a collection of custom themes for Warp, a high-performance Rust-built terminal. This repository allows users to access and contribute a wide range of visually appealing themes that can enhance the user experience of the Warp terminal. By hosting custom themes, the project empowers the Warp community to personalize their terminal and stay up-to-date with the latest design trends.
 
 ---
 

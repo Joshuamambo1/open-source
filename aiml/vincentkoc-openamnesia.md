@@ -1,6 +1,6 @@
 # vincentkoc/openamnesia
 
-[![Stars](https://img.shields.io/github/stars/vincentkoc/openamnesia?style=flat-square&color=yellow)](https://github.com/vincentkoc/openamnesia/stargazers) [![Forks](https://img.shields.io/github/forks/vincentkoc/openamnesia?style=flat-square&color=blue)](https://github.com/vincentkoc/openamnesia/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vincentkoc/openamnesia?style=flat-square&color=yellow)](https://github.com/vincentkoc/openamnesia/stargazers) [![Forks](https://img.shields.io/github/forks/vincentkoc/openamnesia?style=flat-square&color=blue)](https://github.com/vincentkoc/openamnesia/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Agents are only as good as their context but most context lives in scattered traces: coding agent sessions, IDE chats, tool calls, and personal messages. We wanted a continual learning context engine that can securely extract memory from real activity, so agents can cold-start with high-signal history and stay current as you work
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The AWS Generative AI CDK Constructs is an open-source project that provides pre-built, reusable constructs for common generative AI patterns using AWS Cloud Development Kit (CDK). This project simplifies the development process by offering a standardized way to orchestrate and deploy generative AI workloads on AWS. The constructs can be easily integrated into applications to accelerate the development of AI-powered systems.
+Here's a brief summary:
+
+The AWS Generative AI CDK Constructs is an open-source project that provides pre-built, reusable AWS CDK constructs for common generative AI patterns, simplifying the development of AI applications on AWS. This project enables developers to easily orchestrate and deploy generative AI models, streamlining the process of building and scaling AI-powered solutions. By leveraging these constructs, developers can focus on building innovative AI applications without worrying about the underlying infrastructure complexities.
 
 ---
 

@@ -1,6 +1,6 @@
 # mapmapteam/mapmap
 
-[![Stars](https://img.shields.io/github/stars/mapmapteam/mapmap?style=flat-square&color=yellow)](https://github.com/mapmapteam/mapmap/stargazers) [![Forks](https://img.shields.io/github/forks/mapmapteam/mapmap?style=flat-square&color=blue)](https://github.com/mapmapteam/mapmap/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mapmapteam/mapmap?style=flat-square&color=yellow)](https://github.com/mapmapteam/mapmap/stargazers) [![Forks](https://img.shields.io/github/forks/mapmapteam/mapmap?style=flat-square&color=blue)](https://github.com/mapmapteam/mapmap/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Open source video mapping software
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 602 |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

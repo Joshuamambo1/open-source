@@ -1,6 +1,6 @@
 # 0xhimanshu/governor
 
-[![Stars](https://img.shields.io/github/stars/0xhimanshu/governor?style=flat-square&color=yellow)](https://github.com/0xhimanshu/governor/stargazers) [![Forks](https://img.shields.io/github/forks/0xhimanshu/governor?style=flat-square&color=blue)](https://github.com/0xhimanshu/governor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xhimanshu/governor?style=flat-square&color=yellow)](https://github.com/0xhimanshu/governor/stargazers) [![Forks](https://img.shields.io/github/forks/0xhimanshu/governor?style=flat-square&color=blue)](https://github.com/0xhimanshu/governor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code usage governor: compact professional output, context slimming, tool-output filtering, telemetry, and drift guardrails.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 69 |
+| ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

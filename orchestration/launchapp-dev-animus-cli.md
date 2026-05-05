@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the Animus CLI project:
-
-Animus CLI is an open-source, autonomous AI agent orchestrator that enables the efficient management of multi-model development teams, including Claude, Gemini, and GPT models. It supports YAML workflows, daemon scheduling, and integration with MCP, providing a comprehensive solution for AI and machine learning development teams. Built entirely in Rust, Animus CLI streamlines the development process and enhances collaboration.
+Animus-cli is an open-source project that enables the orchestration of multi-model AI and machine learning (ML) development teams. It allows users to run and manage autonomous AI agents, such as Claude, Gemini, and GPT, using YAML workflows and daemon scheduling. This 100% Rust solution also supports integration with MCP, making it a powerful tool for AI and ML development teams.
 
 ---
 

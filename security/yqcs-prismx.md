@@ -25,9 +25,9 @@ Security
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project "yqcs/prismx":
+Here's a brief summary of the project in English:
 
-Prism X is an automated enterprise network security risk detection and vulnerability scanning tool designed to provide comprehensive security assessments for large-scale networks. This open-source tool leverages advanced scanning techniques to identify potential vulnerabilities and risks, empowering organizations to proactively address security threats. By streamlining security audits and reducing manual effort, Prism X helps enterprises fortify their network defenses and maintain a robust security posture.
+Prism X is an open-source, automated enterprise network security risk detection and vulnerability scanning tool. It helps organizations identify potential security threats and vulnerabilities within their networks, enabling proactive measures to mitigate risks. By leveraging this tool, businesses can strengthen their network security posture and protect against cyber attacks.
 
 ---
 

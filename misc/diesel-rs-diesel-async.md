@@ -1,6 +1,6 @@
 # diesel-rs/diesel_async
 
-[![Stars](https://img.shields.io/github/stars/diesel-rs/diesel_async?style=flat-square&color=yellow)](https://github.com/diesel-rs/diesel_async/stargazers) [![Forks](https://img.shields.io/github/forks/diesel-rs/diesel_async?style=flat-square&color=blue)](https://github.com/diesel-rs/diesel_async/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diesel-rs/diesel_async?style=flat-square&color=yellow)](https://github.com/diesel-rs/diesel_async/stargazers) [![Forks](https://img.shields.io/github/forks/diesel-rs/diesel_async?style=flat-square&color=blue)](https://github.com/diesel-rs/diesel_async/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Diesel async connection implementation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 801 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

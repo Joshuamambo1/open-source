@@ -25,7 +25,7 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-SoftInstigate/restheart is an open-source project that serves as an agent-ready backend for MongoDB, providing a robust and scalable solution for managing and interacting with MongoDB databases. This project enables developers to build efficient, data-driven applications by leveraging the strengths of MongoDB and the RESTful architecture of restheart. With its customizable and secure design, restheart empowers developers to create powerful backend systems for various use cases.
+SoftInstigate/restheart is an open-source, agent-ready backend designed specifically for MongoDB. It enables developers to build scalable and efficient data-driven applications by providing a robust RESTful API interface. With restheart, users can easily interact with their MongoDB databases, streamlining development and improving data management.
 
 ---
 

@@ -1,6 +1,6 @@
 # skyhook-io/radar
 
-[![Stars](https://img.shields.io/github/stars/skyhook-io/radar?style=flat-square&color=yellow)](https://github.com/skyhook-io/radar/stargazers) [![Forks](https://img.shields.io/github/forks/skyhook-io/radar?style=flat-square&color=blue)](https://github.com/skyhook-io/radar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skyhook-io/radar?style=flat-square&color=yellow)](https://github.com/skyhook-io/radar/stargazers) [![Forks](https://img.shields.io/github/forks/skyhook-io/radar?style=flat-square&color=blue)](https://github.com/skyhook-io/radar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 78 |
+| 🍴 **Forks** | 82 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

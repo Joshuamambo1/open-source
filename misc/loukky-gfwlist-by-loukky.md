@@ -1,6 +1,6 @@
 # Loukky/gfwlist-by-loukky
 
-[![Stars](https://img.shields.io/github/stars/Loukky/gfwlist-by-loukky?style=flat-square&color=yellow)](https://github.com/Loukky/gfwlist-by-loukky/stargazers) [![Forks](https://img.shields.io/github/forks/Loukky/gfwlist-by-loukky?style=flat-square&color=blue)](https://github.com/Loukky/gfwlist-by-loukky/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Loukky/gfwlist-by-loukky?style=flat-square&color=yellow)](https://github.com/Loukky/gfwlist-by-loukky/stargazers) [![Forks](https://img.shields.io/github/forks/Loukky/gfwlist-by-loukky?style=flat-square&color=blue)](https://github.com/Loukky/gfwlist-by-loukky/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > changed from gfwlist and self use
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 374 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # NationalSecurityAgency/skills-service
 
-[![Stars](https://img.shields.io/github/stars/NationalSecurityAgency/skills-service?style=flat-square&color=yellow)](https://github.com/NationalSecurityAgency/skills-service/stargazers) [![Forks](https://img.shields.io/github/forks/NationalSecurityAgency/skills-service?style=flat-square&color=blue)](https://github.com/NationalSecurityAgency/skills-service/network) [![Language](https://img.shields.io/badge/lang-Groovy-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NationalSecurityAgency/skills-service?style=flat-square&color=yellow)](https://github.com/NationalSecurityAgency/skills-service/stargazers) [![Forks](https://img.shields.io/github/forks/NationalSecurityAgency/skills-service?style=flat-square&color=blue)](https://github.com/NationalSecurityAgency/skills-service/network) [![Language](https://img.shields.io/badge/lang-Groovy-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 564 |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Groovy |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

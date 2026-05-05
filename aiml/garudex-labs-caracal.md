@@ -1,6 +1,6 @@
 # Garudex-Labs/caracal
 
-[![Stars](https://img.shields.io/github/stars/Garudex-Labs/caracal?style=flat-square&color=yellow)](https://github.com/Garudex-Labs/caracal/stargazers) [![Forks](https://img.shields.io/github/forks/Garudex-Labs/caracal?style=flat-square&color=blue)](https://github.com/Garudex-Labs/caracal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Garudex-Labs/caracal?style=flat-square&color=yellow)](https://github.com/Garudex-Labs/caracal/stargazers) [![Forks](https://img.shields.io/github/forks/Garudex-Labs/caracal?style=flat-square&color=blue)](https://github.com/Garudex-Labs/caracal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 🐾 Caracal is pre-execution authority enforcement for AI agents controlling delegated actions with real-time revocation and immutable proof.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 109 |
-| 🍴 **Forks** | 33 |
+| 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

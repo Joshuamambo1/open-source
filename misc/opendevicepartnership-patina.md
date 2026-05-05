@@ -1,6 +1,6 @@
 # OpenDevicePartnership/patina
 
-[![Stars](https://img.shields.io/github/stars/OpenDevicePartnership/patina?style=flat-square&color=yellow)](https://github.com/OpenDevicePartnership/patina/stargazers) [![Forks](https://img.shields.io/github/forks/OpenDevicePartnership/patina?style=flat-square&color=blue)](https://github.com/OpenDevicePartnership/patina/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenDevicePartnership/patina?style=flat-square&color=yellow)](https://github.com/OpenDevicePartnership/patina/stargazers) [![Forks](https://img.shields.io/github/forks/OpenDevicePartnership/patina?style=flat-square&color=blue)](https://github.com/OpenDevicePartnership/patina/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Patina Firmware
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 525 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

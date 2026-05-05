@@ -1,6 +1,6 @@
 # sumup-oss/foundry
 
-[![Stars](https://img.shields.io/github/stars/sumup-oss/foundry?style=flat-square&color=yellow)](https://github.com/sumup-oss/foundry/stargazers) [![Forks](https://img.shields.io/github/forks/sumup-oss/foundry?style=flat-square&color=blue)](https://github.com/sumup-oss/foundry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sumup-oss/foundry?style=flat-square&color=yellow)](https://github.com/sumup-oss/foundry/stargazers) [![Forks](https://img.shields.io/github/forks/sumup-oss/foundry?style=flat-square&color=blue)](https://github.com/sumup-oss/foundry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A toolkit for building web applications and libraries.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 197 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

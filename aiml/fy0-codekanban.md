@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-CodeKanban is an open-source project that centralizes the management of multiple terminals and AI coding agents, providing a unified interface for developers. This platform streamlines the workflow of AI/ML professionals by allowing them to monitor and control various coding tasks in one place. By simplifying terminal and agent management, CodeKanban enhances collaboration, productivity, and efficiency in AI development.
+CodeKanban is an open-source project that provides a unified platform for managing multiple terminals and AI coding agents. This project aims to streamline development workflows by consolidating various tools and agents into a single, accessible interface. By leveraging CodeKanban, users can enhance productivity and efficiency in AI/ML development.
 
 ---
 

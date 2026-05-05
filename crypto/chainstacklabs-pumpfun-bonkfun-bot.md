@@ -1,6 +1,6 @@
 # chainstacklabs/pumpfun-bonkfun-bot
 
-[![Stars](https://img.shields.io/github/stars/chainstacklabs/pumpfun-bonkfun-bot?style=flat-square&color=yellow)](https://github.com/chainstacklabs/pumpfun-bonkfun-bot/stargazers) [![Forks](https://img.shields.io/github/forks/chainstacklabs/pumpfun-bonkfun-bot?style=flat-square&color=blue)](https://github.com/chainstacklabs/pumpfun-bonkfun-bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chainstacklabs/pumpfun-bonkfun-bot?style=flat-square&color=yellow)](https://github.com/chainstacklabs/pumpfun-bonkfun-bot/stargazers) [![Forks](https://img.shields.io/github/forks/chainstacklabs/pumpfun-bonkfun-bot?style=flat-square&color=blue)](https://github.com/chainstacklabs/pumpfun-bonkfun-bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A fully functional pump.fun / letsbonk.fun trading and sniping bot not relying on any 3rd party APIs
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 929 |
-| 🍴 **Forks** | 334 |
+| 🍴 **Forks** | 333 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

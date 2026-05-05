@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/dagucloud/dagu?style=flat-square&color=yellow)](https://github.com/dagucloud/dagu/stargazers) [![Forks](https://img.shields.io/github/forks/dagucloud/dagu?style=flat-square&color=blue)](https://github.com/dagucloud/dagu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
-> Self-hosted workflow engine for scripts, cron jobs, containers, and ops automation. YAML workflows, retries, logs, approvals, and optional distributed workers.
+> A local-first AgentOps control plane built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Persistent Workflow Operator handles creating and debugging workflows.
 
 ## 📊 Stats
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 

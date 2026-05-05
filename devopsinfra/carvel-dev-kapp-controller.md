@@ -1,6 +1,6 @@
 # carvel-dev/kapp-controller
 
-[![Stars](https://img.shields.io/github/stars/carvel-dev/kapp-controller?style=flat-square&color=yellow)](https://github.com/carvel-dev/kapp-controller/stargazers) [![Forks](https://img.shields.io/github/forks/carvel-dev/kapp-controller?style=flat-square&color=blue)](https://github.com/carvel-dev/kapp-controller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carvel-dev/kapp-controller?style=flat-square&color=yellow)](https://github.com/carvel-dev/kapp-controller/stargazers) [![Forks](https://img.shields.io/github/forks/carvel-dev/kapp-controller?style=flat-square&color=blue)](https://github.com/carvel-dev/kapp-controller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Continuous delivery and package management for Kubernetes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

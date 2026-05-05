@@ -1,6 +1,6 @@
 # gospider007/fp
 
-[![Stars](https://img.shields.io/github/stars/gospider007/fp?style=flat-square&color=yellow)](https://github.com/gospider007/fp/stargazers) [![Forks](https://img.shields.io/github/forks/gospider007/fp?style=flat-square&color=blue)](https://github.com/gospider007/fp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gospider007/fp?style=flat-square&color=yellow)](https://github.com/gospider007/fp/stargazers) [![Forks](https://img.shields.io/github/forks/gospider007/fp?style=flat-square&color=blue)](https://github.com/gospider007/fp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀obtain the client's ja3 fingerprint, http2 fingerprint, and ja4 fingerprint
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

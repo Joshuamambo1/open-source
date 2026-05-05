@@ -1,6 +1,6 @@
 # joewongjc/type4me
 
-[![Stars](https://img.shields.io/github/stars/joewongjc/type4me?style=flat-square&color=yellow)](https://github.com/joewongjc/type4me/stargazers) [![Forks](https://img.shields.io/github/forks/joewongjc/type4me?style=flat-square&color=blue)](https://github.com/joewongjc/type4me/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joewongjc/type4me?style=flat-square&color=yellow)](https://github.com/joewongjc/type4me/stargazers) [![Forks](https://img.shields.io/github/forks/joewongjc/type4me?style=flat-square&color=blue)](https://github.com/joewongjc/type4me/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > MacOS语音输入法，实时识别、大模型文本优化、全本地存储
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 121 |
+| 🍴 **Forks** | 122 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # LukasNiessen/kubernetes-skill
 
-[![Stars](https://img.shields.io/github/stars/LukasNiessen/kubernetes-skill?style=flat-square&color=yellow)](https://github.com/LukasNiessen/kubernetes-skill/stargazers) [![Forks](https://img.shields.io/github/forks/LukasNiessen/kubernetes-skill?style=flat-square&color=blue)](https://github.com/LukasNiessen/kubernetes-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LukasNiessen/kubernetes-skill?style=flat-square&color=yellow)](https://github.com/LukasNiessen/kubernetes-skill/stargazers) [![Forks](https://img.shields.io/github/forks/LukasNiessen/kubernetes-skill?style=flat-square&color=blue)](https://github.com/LukasNiessen/kubernetes-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes Skill for Claude Code and Codex. LLMs hallucinate a lot with K8s - KubeShark fixes this. It eliminates hallucinations and grounds your Kubernetes, Helm etc official best practices.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 46 |
+| ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

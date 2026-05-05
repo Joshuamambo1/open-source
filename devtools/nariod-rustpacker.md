@@ -1,6 +1,6 @@
 # Nariod/RustPacker
 
-[![Stars](https://img.shields.io/github/stars/Nariod/RustPacker?style=flat-square&color=yellow)](https://github.com/Nariod/RustPacker/stargazers) [![Forks](https://img.shields.io/github/forks/Nariod/RustPacker?style=flat-square&color=blue)](https://github.com/Nariod/RustPacker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nariod/RustPacker?style=flat-square&color=yellow)](https://github.com/Nariod/RustPacker/stargazers) [![Forks](https://img.shields.io/github/forks/Nariod/RustPacker?style=flat-square&color=blue)](https://github.com/Nariod/RustPacker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Template-based shellcode packer written in Rust, with indirect syscall support. Made with <3 for pentesters.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 324 |
+| ⭐ **Stars** | 325 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

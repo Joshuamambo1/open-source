@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/shepsci/kaggle-skill?style=flat-square&color=yellow)](https://github.com/shepsci/kaggle-skill/stargazers) [![Forks](https://img.shields.io/github/forks/shepsci/kaggle-skill?style=flat-square&color=blue)](https://github.com/shepsci/kaggle-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Complete Kaggle integration skill for AI coding agents — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection. Works with Claude Code, Gemini CLI, Cursor, Codex, and 35+ agents via skills.sh.
+> Complete Kaggle integration plugin/skill for AI coding agents — competition reports, dataset/model downloads, notebook execution, hackathon writeup retrieval and grading, and badge collection. Bundles the official Kaggle MCP server (66 tools). Works with Claude Code, Gemini CLI, Cursor, Codex, OpenClaw, and 35+ agents via skills.sh.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20 |
+| ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |

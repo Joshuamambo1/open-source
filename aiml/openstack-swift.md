@@ -1,6 +1,6 @@
 # openstack/swift
 
-[![Stars](https://img.shields.io/github/stars/openstack/swift?style=flat-square&color=yellow)](https://github.com/openstack/swift/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/swift?style=flat-square&color=blue)](https://github.com/openstack/swift/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openstack/swift?style=flat-square&color=yellow)](https://github.com/openstack/swift/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/swift?style=flat-square&color=blue)](https://github.com/openstack/swift/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

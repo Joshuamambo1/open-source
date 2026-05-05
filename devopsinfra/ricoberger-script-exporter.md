@@ -1,6 +1,6 @@
 # ricoberger/script_exporter
 
-[![Stars](https://img.shields.io/github/stars/ricoberger/script_exporter?style=flat-square&color=yellow)](https://github.com/ricoberger/script_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/ricoberger/script_exporter?style=flat-square&color=blue)](https://github.com/ricoberger/script_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ricoberger/script_exporter?style=flat-square&color=yellow)](https://github.com/ricoberger/script_exporter/stargazers) [![Forks](https://img.shields.io/github/forks/ricoberger/script_exporter?style=flat-square&color=blue)](https://github.com/ricoberger/script_exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Prometheus exporter to execute scripts and collect metrics from the output or the exit status.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

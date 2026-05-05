@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/dunetrace/dunetrace?style=flat-square&color=yellow)](https://github.com/dunetrace/dunetrace/stargazers) [![Forks](https://img.shields.io/github/forks/dunetrace/dunetrace?style=flat-square&color=blue)](https://github.com/dunetrace/dunetrace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Real time anomaly detection layer for AI agents. Privacy-safe by design.
+> Real-time visibility into your production agents.  No raw content transmitted.
 
 ## 📊 Stats
 

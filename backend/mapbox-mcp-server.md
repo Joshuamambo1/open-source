@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-The mapbox/mcp-server project is an open-source implementation of the Mapbox Model Context Protocol (MCP) server, providing a backend solution for handling model context requests. This server enables efficient and secure management of map data, allowing developers to integrate rich map features into their applications. By using the MCP server, developers can leverage Mapbox's powerful mapping capabilities while maintaining control over their data and workflows.
+The mapbox/mcp-server is an open-source backend project that implements the Mapbox Model Context Protocol (MCP) server. This server enables efficient management and synchronization of map styles and data models across various Mapbox applications and services. By utilizing the MCP server, developers can streamline their workflow and ensure seamless collaboration on map-based projects.
 
 ---
 

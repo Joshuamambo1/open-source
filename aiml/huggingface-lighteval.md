@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Lighteval is an open-source toolkit designed to facilitate comprehensive evaluation of large language models (LLMs) across various backend platforms. This all-in-one solution provides a unified interface for benchmarking, comparing, and fine-tuning LLMs on different frameworks, enabling users to make informed decisions about model deployment and optimization. By streamlining LLM evaluation, Lighteval aims to simplify the development and research process in the AI and ML community.
+The huggingface/lighteval project, also known as Lighteval, is an open-source toolkit designed to simplify the evaluation of Large Language Models (LLMs) across various computational backends. This versatile tool allows developers to compare and benchmark LLM performance on different platforms, streamlining the process of model evaluation and selection. By consolidating evaluation capabilities, Lighteval facilitates the development and deployment of high-performing LLMs in a range of applications.
 
 ---
 

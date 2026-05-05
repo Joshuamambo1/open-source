@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 394 |
-| 🍴 **Forks** | 164 |
+| 🍴 **Forks** | 165 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |

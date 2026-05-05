@@ -25,7 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-The jcubic/jquery.terminal project is an open-source JavaScript library that enables the creation of web-based terminals with custom commands. This frontend library utilizes jQuery to provide a dynamic and interactive terminal-like interface, allowing developers to integrate custom commands and functionality into their web applications. The result is a flexible and customizable terminal emulator for web development.
+Here's a brief summary for the project:
+
+jcubic/jquery.terminal is an open-source JavaScript library that enables the creation of web-based terminals with custom commands. This frontend library allows developers to build interactive terminal interfaces for their web applications, providing a rich user experience. With its custom command functionality, users can extend the terminal's capabilities to suit their specific needs.
 
 ---
 

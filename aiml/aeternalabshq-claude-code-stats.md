@@ -1,6 +1,6 @@
 # AeternaLabsHQ/claude-code-stats
 
-[![Stars](https://img.shields.io/github/stars/AeternaLabsHQ/claude-code-stats?style=flat-square&color=yellow)](https://github.com/AeternaLabsHQ/claude-code-stats/stargazers) [![Forks](https://img.shields.io/github/forks/AeternaLabsHQ/claude-code-stats?style=flat-square&color=blue)](https://github.com/AeternaLabsHQ/claude-code-stats/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AeternaLabsHQ/claude-code-stats?style=flat-square&color=yellow)](https://github.com/AeternaLabsHQ/claude-code-stats/stargazers) [![Forks](https://img.shields.io/github/forks/AeternaLabsHQ/claude-code-stats?style=flat-square&color=blue)](https://github.com/AeternaLabsHQ/claude-code-stats/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 📊 Track and visualize your Claude Code usage, costs, and session statistics with a local HTML dashboard.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

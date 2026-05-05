@@ -1,6 +1,6 @@
 # lxf746/any-auto-register
 
-[![Stars](https://img.shields.io/github/stars/lxf746/any-auto-register?style=flat-square&color=yellow)](https://github.com/lxf746/any-auto-register/stargazers) [![Forks](https://img.shields.io/github/forks/lxf746/any-auto-register?style=flat-square&color=blue)](https://github.com/lxf746/any-auto-register/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lxf746/any-auto-register?style=flat-square&color=yellow)](https://github.com/lxf746/any-auto-register/stargazers) [![Forks](https://img.shields.io/github/forks/lxf746/any-auto-register?style=flat-square&color=blue)](https://github.com/lxf746/any-auto-register/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 720 |
+| ⭐ **Stars** | 2k |
+| 🍴 **Forks** | 724 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

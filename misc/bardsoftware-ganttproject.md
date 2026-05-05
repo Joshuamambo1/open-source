@@ -1,6 +1,6 @@
 # bardsoftware/ganttproject
 
-[![Stars](https://img.shields.io/github/stars/bardsoftware/ganttproject?style=flat-square&color=yellow)](https://github.com/bardsoftware/ganttproject/stargazers) [![Forks](https://img.shields.io/github/forks/bardsoftware/ganttproject?style=flat-square&color=blue)](https://github.com/bardsoftware/ganttproject/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bardsoftware/ganttproject?style=flat-square&color=yellow)](https://github.com/bardsoftware/ganttproject/stargazers) [![Forks](https://img.shields.io/github/forks/bardsoftware/ganttproject?style=flat-square&color=blue)](https://github.com/bardsoftware/ganttproject/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Official GanttProject repository.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 328 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

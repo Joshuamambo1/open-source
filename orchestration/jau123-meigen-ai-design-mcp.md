@@ -1,6 +1,6 @@
 # jau123/MeiGen-AI-Design-MCP
 
-[![Stars](https://img.shields.io/github/stars/jau123/MeiGen-AI-Design-MCP?style=flat-square&color=yellow)](https://github.com/jau123/MeiGen-AI-Design-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/jau123/MeiGen-AI-Design-MCP?style=flat-square&color=blue)](https://github.com/jau123/MeiGen-AI-Design-MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jau123/MeiGen-AI-Design-MCP?style=flat-square&color=yellow)](https://github.com/jau123/MeiGen-AI-Design-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/jau123/MeiGen-AI-Design-MCP?style=flat-square&color=blue)](https://github.com/jau123/MeiGen-AI-Design-MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Supports GPT Image 2, Nanobanana & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 937 |
-| 🍴 **Forks** | 128 |
+| ⭐ **Stars** | 947 |
+| 🍴 **Forks** | 130 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

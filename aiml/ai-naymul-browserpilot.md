@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-BrowserPilot is an open-source, AI-powered browser automation platform that combines the capabilities of Perplexity Comet, director.ai, and firecrawl. This versatile tool allows users to navigate and interact with web applications programmatically, simplifying the process of web scraping, data extraction, and automation. By leveraging BrowserPilot, developers can build customized solutions for a wide range of applications, from data analysis to business process automation.
+BrowserPilot is an open-source project that combines the functionality of Perplexity Comet, director.ai, and firecrawl into a single, user-friendly platform. This AI-powered tool enables developers to monitor, analyze, and optimize web application performance, user behavior, and A/B testing results in real-time. By leveraging BrowserPilot, developers can make data-driven decisions to improve their applications and enhance user experiences.
 
 ---
 

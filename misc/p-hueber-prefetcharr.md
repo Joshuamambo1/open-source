@@ -1,6 +1,6 @@
 # p-hueber/prefetcharr
 
-[![Stars](https://img.shields.io/github/stars/p-hueber/prefetcharr?style=flat-square&color=yellow)](https://github.com/p-hueber/prefetcharr/stargazers) [![Forks](https://img.shields.io/github/forks/p-hueber/prefetcharr?style=flat-square&color=blue)](https://github.com/p-hueber/prefetcharr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/p-hueber/prefetcharr?style=flat-square&color=yellow)](https://github.com/p-hueber/prefetcharr/stargazers) [![Forks](https://img.shields.io/github/forks/p-hueber/prefetcharr?style=flat-square&color=blue)](https://github.com/p-hueber/prefetcharr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Let Sonarr fetch episodes on demand for a show you are watching on Jellyfin/Emby/Plex.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 253 |
+| ⭐ **Stars** | 254 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

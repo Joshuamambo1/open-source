@@ -1,6 +1,6 @@
 # faiface/par-lang
 
-[![Stars](https://img.shields.io/github/stars/faiface/par-lang?style=flat-square&color=yellow)](https://github.com/faiface/par-lang/stargazers) [![Forks](https://img.shields.io/github/forks/faiface/par-lang?style=flat-square&color=blue)](https://github.com/faiface/par-lang/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/faiface/par-lang?style=flat-square&color=yellow)](https://github.com/faiface/par-lang/stargazers) [![Forks](https://img.shields.io/github/forks/faiface/par-lang?style=flat-square&color=blue)](https://github.com/faiface/par-lang/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Par (⅋) is an experimental concurrent programming language. It's an attempt to bring the expressive power of linear logic into practice.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 705 |
+| ⭐ **Stars** | 713 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

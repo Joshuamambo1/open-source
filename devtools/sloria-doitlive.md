@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Doitlive is an open-source project that allows users to execute tasks and scripts in real-time, providing a platform for interactive and live coding experiences. This DevTools project enables developers to showcase their work, collaborate with others, and engage in live coding scenarios with ease. With doitlive, users can effortlessly run scripts and observe the output in a live environment.
+Doitlive is an open-source project that allows users to execute shell commands or scripts in real-time, providing a live view of the output. This tool is designed to aid in debugging and understanding the output of complex commands or scripts, making it easier to diagnose issues and optimize performance. It offers a simple and intuitive way to interact with the command line in a live environment.
 
 ---
 

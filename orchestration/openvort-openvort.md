@@ -1,6 +1,6 @@
 # openvort/openvort
 
-[![Stars](https://img.shields.io/github/stars/openvort/openvort?style=flat-square&color=yellow)](https://github.com/openvort/openvort/stargazers) [![Forks](https://img.shields.io/github/forks/openvort/openvort?style=flat-square&color=blue)](https://github.com/openvort/openvort/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openvort/openvort?style=flat-square&color=yellow)](https://github.com/openvort/openvort/stargazers) [![Forks](https://img.shields.io/github/forks/openvort/openvort?style=flat-square&color=blue)](https://github.com/openvort/openvort/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI Employee Platform — Create AI employees that collaborate with your real team in WeCom, DingTalk, and Feishu, just like hiring a few more colleagues.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 535 |
-| 🍴 **Forks** | 84 |
+| ⭐ **Stars** | 445 |
+| 🍴 **Forks** | 70 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

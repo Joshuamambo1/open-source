@@ -1,6 +1,6 @@
 # chengzuopeng/stock-sdk-mcp
 
-[![Stars](https://img.shields.io/github/stars/chengzuopeng/stock-sdk-mcp?style=flat-square&color=yellow)](https://github.com/chengzuopeng/stock-sdk-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/chengzuopeng/stock-sdk-mcp?style=flat-square&color=blue)](https://github.com/chengzuopeng/stock-sdk-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chengzuopeng/stock-sdk-mcp?style=flat-square&color=yellow)](https://github.com/chengzuopeng/stock-sdk-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/chengzuopeng/stock-sdk-mcp?style=flat-square&color=blue)](https://github.com/chengzuopeng/stock-sdk-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > 股票行情 MCP + Skills 完整解决方案，支持 OpenClaw、Cursor、Claude Desktop、Antigravity、Gemini/Codex CLI 等主流 AI 工具。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

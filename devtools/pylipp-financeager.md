@@ -1,6 +1,6 @@
 # pylipp/financeager
 
-[![Stars](https://img.shields.io/github/stars/pylipp/financeager?style=flat-square&color=yellow)](https://github.com/pylipp/financeager/stargazers) [![Forks](https://img.shields.io/github/forks/pylipp/financeager?style=flat-square&color=blue)](https://github.com/pylipp/financeager/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pylipp/financeager?style=flat-square&color=yellow)](https://github.com/pylipp/financeager/stargazers) [![Forks](https://img.shields.io/github/forks/pylipp/financeager?style=flat-square&color=blue)](https://github.com/pylipp/financeager/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Organize your finances easily - from the command line!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

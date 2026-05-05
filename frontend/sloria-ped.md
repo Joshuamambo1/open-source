@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The 'ped' project is an open-source tool designed to streamline development workflows by allowing users to quickly open Python modules in their preferred text editor. This utility aims to simplify the process of accessing and interacting with Python code, thereby enhancing productivity and efficiency. By leveraging a simple command, users can easily navigate to Python modules, facilitating faster coding and collaboration.
+The sloria/ped project is an open-source tool that enables users to quickly open Python modules within their preferred text editor. By providing a streamlined interface, users can easily access and explore Python modules with reduced navigation effort. This development tool aims to enhance the coding experience and accelerate productivity for Python developers.
 
 ---
 

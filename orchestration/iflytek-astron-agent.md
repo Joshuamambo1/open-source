@@ -1,6 +1,6 @@
 # iflytek/astron-agent
 
-[![Stars](https://img.shields.io/github/stars/iflytek/astron-agent?style=flat-square&color=yellow)](https://github.com/iflytek/astron-agent/stargazers) [![Forks](https://img.shields.io/github/forks/iflytek/astron-agent?style=flat-square&color=blue)](https://github.com/iflytek/astron-agent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iflytek/astron-agent?style=flat-square&color=yellow)](https://github.com/iflytek/astron-agent/stargazers) [![Forks](https://img.shields.io/github/forks/iflytek/astron-agent?style=flat-square&color=blue)](https://github.com/iflytek/astron-agent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.8k |
-| 🍴 **Forks** | 913 |
+| ⭐ **Stars** | 8.3k |
+| 🍴 **Forks** | 839 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 99/100 |
+| 📈 **Score** | 98/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

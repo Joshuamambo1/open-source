@@ -1,6 +1,6 @@
 # SoccerNet/sn-gamestate
 
-[![Stars](https://img.shields.io/github/stars/SoccerNet/sn-gamestate?style=flat-square&color=yellow)](https://github.com/SoccerNet/sn-gamestate/stargazers) [![Forks](https://img.shields.io/github/forks/SoccerNet/sn-gamestate?style=flat-square&color=blue)](https://github.com/SoccerNet/sn-gamestate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SoccerNet/sn-gamestate?style=flat-square&color=yellow)](https://github.com/SoccerNet/sn-gamestate/stargazers) [![Forks](https://img.shields.io/github/forks/SoccerNet/sn-gamestate?style=flat-square&color=blue)](https://github.com/SoccerNet/sn-gamestate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > [CVPRW'24] SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap (CVPR24 - CVSports workshop)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 398 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

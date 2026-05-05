@@ -1,6 +1,6 @@
 # cucumber-rs/cucumber
 
-[![Stars](https://img.shields.io/github/stars/cucumber-rs/cucumber?style=flat-square&color=yellow)](https://github.com/cucumber-rs/cucumber/stargazers) [![Forks](https://img.shields.io/github/forks/cucumber-rs/cucumber?style=flat-square&color=blue)](https://github.com/cucumber-rs/cucumber/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cucumber-rs/cucumber?style=flat-square&color=yellow)](https://github.com/cucumber-rs/cucumber/stargazers) [![Forks](https://img.shields.io/github/forks/cucumber-rs/cucumber?style=flat-square&color=blue)](https://github.com/cucumber-rs/cucumber/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 711 |
+| ⭐ **Stars** | 712 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

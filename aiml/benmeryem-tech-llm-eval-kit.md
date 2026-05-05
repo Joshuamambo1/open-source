@@ -1,6 +1,6 @@
 # benmeryem-tech/llm-eval-kit
 
-[![Stars](https://img.shields.io/github/stars/benmeryem-tech/llm-eval-kit?style=flat-square&color=yellow)](https://github.com/benmeryem-tech/llm-eval-kit/stargazers) [![Forks](https://img.shields.io/github/forks/benmeryem-tech/llm-eval-kit?style=flat-square&color=blue)](https://github.com/benmeryem-tech/llm-eval-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/benmeryem-tech/llm-eval-kit?style=flat-square&color=yellow)](https://github.com/benmeryem-tech/llm-eval-kit/stargazers) [![Forks](https://img.shields.io/github/forks/benmeryem-tech/llm-eval-kit?style=flat-square&color=blue)](https://github.com/benmeryem-tech/llm-eval-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, modular toolkit for evaluating and benchmarking Large Language Models with focus on reasoning quality, consistency, and error detection.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

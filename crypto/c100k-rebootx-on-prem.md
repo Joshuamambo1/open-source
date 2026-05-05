@@ -1,6 +1,6 @@
 # c100k/rebootx-on-prem
 
-[![Stars](https://img.shields.io/github/stars/c100k/rebootx-on-prem?style=flat-square&color=yellow)](https://github.com/c100k/rebootx-on-prem/stargazers) [![Forks](https://img.shields.io/github/forks/c100k/rebootx-on-prem?style=flat-square&color=blue)](https://github.com/c100k/rebootx-on-prem/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/c100k/rebootx-on-prem?style=flat-square&color=yellow)](https://github.com/c100k/rebootx-on-prem/stargazers) [![Forks](https://img.shields.io/github/forks/c100k/rebootx-on-prem?style=flat-square&color=blue)](https://github.com/c100k/rebootx-on-prem/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > RebootX On-Prem is an open source specification for defining a custom server in order to manage on-premise runnables and dashboards in the RebootX app.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

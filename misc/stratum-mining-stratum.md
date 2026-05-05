@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The stratum-mining/stratum project is an open-source implementation of the Stratum V2 protocol, a widely used communication standard for cryptocurrency mining. This library provides developers with a reliable and efficient way to interact with mining pools, facilitating the integration of Stratum protocol into mining software and applications. It offers a flexible and adaptable solution for the mining industry.
+The Stratum V2 protocol libraries are open-source implementations of the Stratum V2 protocol, a communication standard used for cryptocurrency mining. This project provides developers with a set of libraries to build mining software and integrate with mining pools. By using these libraries, developers can easily create Stratum V2-compatible applications, enabling efficient and secure cryptocurrency mining operations.
 
 ---
 

@@ -1,6 +1,6 @@
 # davgar99/arch-linux-font-improvement-guide
 
-[![Stars](https://img.shields.io/github/stars/davgar99/arch-linux-font-improvement-guide?style=flat-square&color=yellow)](https://github.com/davgar99/arch-linux-font-improvement-guide/stargazers) [![Forks](https://img.shields.io/github/forks/davgar99/arch-linux-font-improvement-guide?style=flat-square&color=blue)](https://github.com/davgar99/arch-linux-font-improvement-guide/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davgar99/arch-linux-font-improvement-guide?style=flat-square&color=yellow)](https://github.com/davgar99/arch-linux-font-improvement-guide/stargazers) [![Forks](https://img.shields.io/github/forks/davgar99/arch-linux-font-improvement-guide?style=flat-square&color=blue)](https://github.com/davgar99/arch-linux-font-improvement-guide/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Tweaks to make fonts in Arch Linux look better, crisper, and easier to read.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 228 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

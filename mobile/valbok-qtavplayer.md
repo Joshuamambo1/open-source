@@ -1,6 +1,6 @@
 # valbok/QtAVPlayer
 
-[![Stars](https://img.shields.io/github/stars/valbok/QtAVPlayer?style=flat-square&color=yellow)](https://github.com/valbok/QtAVPlayer/stargazers) [![Forks](https://img.shields.io/github/forks/valbok/QtAVPlayer?style=flat-square&color=blue)](https://github.com/valbok/QtAVPlayer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/valbok/QtAVPlayer?style=flat-square&color=yellow)](https://github.com/valbok/QtAVPlayer/stargazers) [![Forks](https://img.shields.io/github/forks/valbok/QtAVPlayer?style=flat-square&color=blue)](https://github.com/valbok/QtAVPlayer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Free and open-source Qt Media Player library based on FFmpeg, for Linux, Windows, macOS, iOS and Android.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 430 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

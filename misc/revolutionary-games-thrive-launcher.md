@@ -1,6 +1,6 @@
 # Revolutionary-Games/Thrive-Launcher
 
-[![Stars](https://img.shields.io/github/stars/Revolutionary-Games/Thrive-Launcher?style=flat-square&color=yellow)](https://github.com/Revolutionary-Games/Thrive-Launcher/stargazers) [![Forks](https://img.shields.io/github/forks/Revolutionary-Games/Thrive-Launcher?style=flat-square&color=blue)](https://github.com/Revolutionary-Games/Thrive-Launcher/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Revolutionary-Games/Thrive-Launcher?style=flat-square&color=yellow)](https://github.com/Revolutionary-Games/Thrive-Launcher/stargazers) [![Forks](https://img.shields.io/github/forks/Revolutionary-Games/Thrive-Launcher?style=flat-square&color=blue)](https://github.com/Revolutionary-Games/Thrive-Launcher/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Thrive Launcher for installing and automatically updating Thrive
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # mozilla/standards-positions
 
-[![Stars](https://img.shields.io/github/stars/mozilla/standards-positions?style=flat-square&color=yellow)](https://github.com/mozilla/standards-positions/issues/1213/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/standards-positions?style=flat-square&color=blue)](https://github.com/mozilla/standards-positions/issues/1213/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozilla/standards-positions?style=flat-square&color=yellow)](https://github.com/mozilla/standards-positions/issues/1213/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/standards-positions?style=flat-square&color=blue)](https://github.com/mozilla/standards-positions/issues/1213/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 725 |
-| 🍴 **Forks** | 81 |
+| 🍴 **Forks** | 82 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

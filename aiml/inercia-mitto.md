@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the inercia/mitto project:
-
-Mitto is an open-source project that enables remote control and management of AI coding agents across various platforms, including Mac, Web, and mobile devices. This powerful tool empowers developers to access and interact with their AI agents from anywhere, at any time, streamlining their workflow and increasing productivity. With Mitto, users can efficiently manage and control their AI coding agents in a flexible and convenient manner.
+The inercia/mitto project is an open-source platform that enables users to control and manage AI coding agents across various devices, including Mac, Web, and Mobile Phone. This comprehensive tool allows users to access and interact with their AI agents from anywhere, at any time, promoting seamless collaboration and productivity. By providing a unified interface, mitto streamlines the development and management of AI projects.
 
 ---
 

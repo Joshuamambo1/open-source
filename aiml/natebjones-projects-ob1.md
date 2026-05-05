@@ -1,6 +1,6 @@
 # NateBJones-Projects/OB1
 
-[![Stars](https://img.shields.io/github/stars/NateBJones-Projects/OB1?style=flat-square&color=yellow)](https://github.com/NateBJones-Projects/OB1/stargazers) [![Forks](https://img.shields.io/github/forks/NateBJones-Projects/OB1?style=flat-square&color=blue)](https://github.com/NateBJones-Projects/OB1/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NateBJones-Projects/OB1?style=flat-square&color=yellow)](https://github.com/NateBJones-Projects/OB1/stargazers) [![Forks](https://img.shields.io/github/forks/NateBJones-Projects/OB1?style=flat-square&color=blue)](https://github.com/NateBJones-Projects/OB1/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 511 |
+| 🍴 **Forks** | 515 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

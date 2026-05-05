@@ -1,6 +1,6 @@
 # roampal-ai/roampal-core
 
-[![Stars](https://img.shields.io/github/stars/roampal-ai/roampal-core?style=flat-square&color=yellow)](https://github.com/roampal-ai/roampal-core/stargazers) [![Forks](https://img.shields.io/github/forks/roampal-ai/roampal-core?style=flat-square&color=blue)](https://github.com/roampal-ai/roampal-core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roampal-ai/roampal-core?style=flat-square&color=yellow)](https://github.com/roampal-ai/roampal-core/stargazers) [![Forks](https://img.shields.io/github/forks/roampal-ai/roampal-core?style=flat-square&color=blue)](https://github.com/roampal-ai/roampal-core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Outcome-based persistent memory MCP server for Claude Code and OpenCode. Good advice promoted, bad advice demoted. pip install roampal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-AgentFly is an open-source project that enables scalable and extensible reinforcement learning for language model (LM) agents. It provides a robust framework for training and deploying AI models that can learn from interactions and adapt to new situations. By leveraging this framework, developers can create more intelligent and dynamic LM agents.
+AgentFly is an open-source project that enables scalable and extensible reinforcement learning for large model (LM) agents. This project provides a framework for developing and deploying AI/ML models, allowing for efficient and effective reinforcement learning processes. By utilizing AgentFly, users can build and train sophisticated LM agents that adapt and improve over time.
 
 ---
 

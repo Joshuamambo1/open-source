@@ -1,6 +1,6 @@
 # janpfeifer/gonb
 
-[![Stars](https://img.shields.io/github/stars/janpfeifer/gonb?style=flat-square&color=yellow)](https://github.com/janpfeifer/gonb/stargazers) [![Forks](https://img.shields.io/github/forks/janpfeifer/gonb?style=flat-square&color=blue)](https://github.com/janpfeifer/gonb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/janpfeifer/gonb?style=flat-square&color=yellow)](https://github.com/janpfeifer/gonb/stargazers) [![Forks](https://img.shields.io/github/forks/janpfeifer/gonb?style=flat-square&color=blue)](https://github.com/janpfeifer/gonb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > GoNB, a Go Notebook Kernel for Jupyter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

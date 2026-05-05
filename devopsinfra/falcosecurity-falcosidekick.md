@@ -25,7 +25,7 @@ DevOps/Infra · Security
 
 ## 📝 Summary
 
-Falcosidekick is an open-source project that connects Falco, a behavioral threat detector, to a variety of tools and services in your ecosystem. By integrating Falco with other systems, you can streamline incident response, automate workflows, and enhance overall security postures. This project facilitates seamless communication between Falco and multiple platforms, enabling more effective security operations and streamlined workflows.
+Falcosidekick is an open-source project that enables seamless integration of Falco, a cloud-native runtime security layer, into various ecosystems. By connecting Falco to your existing infrastructure, Falcosidekick streamlines security monitoring, incident response, and logging. This project enhances the capabilities of Falco by extending its reach and usability across multiple platforms and tools.
 
 ---
 

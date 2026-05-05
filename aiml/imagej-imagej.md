@@ -1,6 +1,6 @@
 # imagej/ImageJ
 
-[![Stars](https://img.shields.io/github/stars/imagej/ImageJ?style=flat-square&color=yellow)](https://github.com/imagej/ImageJ/stargazers) [![Forks](https://img.shields.io/github/forks/imagej/ImageJ?style=flat-square&color=blue)](https://github.com/imagej/ImageJ/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imagej/ImageJ?style=flat-square&color=yellow)](https://github.com/imagej/ImageJ/stargazers) [![Forks](https://img.shields.io/github/forks/imagej/ImageJ?style=flat-square&color=blue)](https://github.com/imagej/ImageJ/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Public domain software for processing and analyzing scientific images
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 749 |
-| 🍴 **Forks** | 254 |
+| ⭐ **Stars** | 748 |
+| 🍴 **Forks** | 255 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # JordanGunn/gdal-mcp
 
-[![Stars](https://img.shields.io/github/stars/JordanGunn/gdal-mcp?style=flat-square&color=yellow)](https://github.com/JordanGunn/gdal-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JordanGunn/gdal-mcp?style=flat-square&color=blue)](https://github.com/JordanGunn/gdal-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JordanGunn/gdal-mcp?style=flat-square&color=yellow)](https://github.com/JordanGunn/gdal-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JordanGunn/gdal-mcp?style=flat-square&color=blue)](https://github.com/JordanGunn/gdal-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol server that packages GDAL-style geospatial workflows through Python-native libraries (Rasterio, GeoPandas, PyProj, etc.) to give AI agents catalog discovery, metadata intelligence, and raster/vector processing with built-in reasoning guidance and reference resources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

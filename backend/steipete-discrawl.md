@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/steipete/discrawl?style=flat-square&color=yellow)](https://github.com/steipete/discrawl/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/discrawl?style=flat-square&color=blue)](https://github.com/steipete/discrawl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> cli for discord with sqlite backend
+> cli for Discord with sqlite backend
 
 ## 📊 Stats
 

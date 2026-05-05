@@ -1,17 +1,17 @@
 # Dan23RR/snc-core
 
-[![Stars](https://img.shields.io/github/stars/Dan23RR/snc-core?style=flat-square&color=yellow)](https://github.com/Dan23RR/snc-core/stargazers) [![Forks](https://img.shields.io/github/forks/Dan23RR/snc-core?style=flat-square&color=blue)](https://github.com/Dan23RR/snc-core/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dan23RR/snc-core?style=flat-square&color=yellow)](https://github.com/Dan23RR/snc-core/stargazers) [![Forks](https://img.shields.io/github/forks/Dan23RR/snc-core?style=flat-square&color=blue)](https://github.com/Dan23RR/snc-core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Behavioral Trust Clustering a thermodynamic governance layer that reduces LLM hallucination by 52% on HumanEval. Drop-in wrapper for any decoder. MIT.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Backend
 
 ## 📝 Summary
 

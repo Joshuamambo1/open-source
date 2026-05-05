@@ -1,6 +1,6 @@
 # pystardust/ani-cli
 
-[![Stars](https://img.shields.io/github/stars/pystardust/ani-cli?style=flat-square&color=yellow)](https://github.com/pystardust/ani-cli/stargazers) [![Forks](https://img.shields.io/github/forks/pystardust/ani-cli?style=flat-square&color=blue)](https://github.com/pystardust/ani-cli/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pystardust/ani-cli?style=flat-square&color=yellow)](https://github.com/pystardust/ani-cli/stargazers) [![Forks](https://img.shields.io/github/forks/pystardust/ani-cli?style=flat-square&color=blue)](https://github.com/pystardust/ani-cli/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
 
 > A cli tool to browse and play anime
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 12.3k |
-| 🍴 **Forks** | 766 |
+| 🍴 **Forks** | 768 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 96/100 |
+| 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

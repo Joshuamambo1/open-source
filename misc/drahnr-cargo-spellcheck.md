@@ -1,6 +1,6 @@
 # drahnr/cargo-spellcheck
 
-[![Stars](https://img.shields.io/github/stars/drahnr/cargo-spellcheck?style=flat-square&color=yellow)](https://github.com/drahnr/cargo-spellcheck/stargazers) [![Forks](https://img.shields.io/github/forks/drahnr/cargo-spellcheck?style=flat-square&color=blue)](https://github.com/drahnr/cargo-spellcheck/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drahnr/cargo-spellcheck?style=flat-square&color=yellow)](https://github.com/drahnr/cargo-spellcheck/stargazers) [![Forks](https://img.shields.io/github/forks/drahnr/cargo-spellcheck?style=flat-square&color=blue)](https://github.com/drahnr/cargo-spellcheck/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Checks all your documentation for spelling and grammar mistakes with hunspell and a nlprule based checker for grammar
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 361 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

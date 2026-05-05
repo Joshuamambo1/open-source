@@ -1,6 +1,6 @@
 # KeploreAI-Lab/MindAct
 
-[![Stars](https://img.shields.io/github/stars/KeploreAI-Lab/MindAct?style=flat-square&color=yellow)](https://github.com/KeploreAI-Lab/MindAct/stargazers) [![Forks](https://img.shields.io/github/forks/KeploreAI-Lab/MindAct?style=flat-square&color=blue)](https://github.com/KeploreAI-Lab/MindAct/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KeploreAI-Lab/MindAct?style=flat-square&color=yellow)](https://github.com/KeploreAI-Lab/MindAct/stargazers) [![Forks](https://img.shields.io/github/forks/KeploreAI-Lab/MindAct?style=flat-square&color=blue)](https://github.com/KeploreAI-Lab/MindAct/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent + Specific Knowledge = A true Autonomous AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

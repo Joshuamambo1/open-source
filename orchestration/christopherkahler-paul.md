@@ -1,6 +1,6 @@
 # ChristopherKahler/paul
 
-[![Stars](https://img.shields.io/github/stars/ChristopherKahler/paul?style=flat-square&color=yellow)](https://github.com/ChristopherKahler/paul/stargazers) [![Forks](https://img.shields.io/github/forks/ChristopherKahler/paul?style=flat-square&color=blue)](https://github.com/ChristopherKahler/paul/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChristopherKahler/paul?style=flat-square&color=yellow)](https://github.com/ChristopherKahler/paul/stargazers) [![Forks](https://img.shields.io/github/forks/ChristopherKahler/paul?style=flat-square&color=blue)](https://github.com/ChristopherKahler/paul/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Plan-Apply-Unify Loop — Structured AI-assisted development for Claude Code. Quality over speed-for-speed's-sake.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 867 |
+| ⭐ **Stars** | 869 |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

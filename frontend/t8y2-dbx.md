@@ -1,6 +1,6 @@
 # t8y2/dbx
 
-[![Stars](https://img.shields.io/github/stars/t8y2/dbx?style=flat-square&color=yellow)](https://github.com/t8y2/dbx/stargazers) [![Forks](https://img.shields.io/github/forks/t8y2/dbx?style=flat-square&color=blue)](https://github.com/t8y2/dbx/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/t8y2/dbx?style=flat-square&color=yellow)](https://github.com/t8y2/dbx/stargazers) [![Forks](https://img.shields.io/github/forks/t8y2/dbx?style=flat-square&color=blue)](https://github.com/t8y2/dbx/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 830 |
-| 🍴 **Forks** | 45 |
+| ⭐ **Stars** | 843 |
+| 🍴 **Forks** | 46 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

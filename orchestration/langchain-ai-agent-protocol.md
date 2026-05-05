@@ -1,6 +1,6 @@
 # langchain-ai/agent-protocol
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&color=yellow)](https://github.com/langchain-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/agent-protocol?style=flat-square&color=blue)](https://github.com/langchain-ai/agent-protocol/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/agent-protocol?style=flat-square&color=yellow)](https://github.com/langchain-ai/agent-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/agent-protocol?style=flat-square&color=blue)](https://github.com/langchain-ai/agent-protocol/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 573 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

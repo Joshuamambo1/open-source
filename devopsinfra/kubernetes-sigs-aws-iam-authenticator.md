@@ -1,6 +1,6 @@
 # kubernetes-sigs/aws-iam-authenticator
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/aws-iam-authenticator?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/aws-iam-authenticator/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/aws-iam-authenticator?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/aws-iam-authenticator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/aws-iam-authenticator?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/aws-iam-authenticator/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/aws-iam-authenticator?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/aws-iam-authenticator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 441 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

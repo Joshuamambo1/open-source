@@ -1,6 +1,6 @@
 # CircleCI-Public/circleci-cli
 
-[![Stars](https://img.shields.io/github/stars/CircleCI-Public/circleci-cli?style=flat-square&color=yellow)](https://github.com/CircleCI-Public/circleci-cli/stargazers) [![Forks](https://img.shields.io/github/forks/CircleCI-Public/circleci-cli?style=flat-square&color=blue)](https://github.com/CircleCI-Public/circleci-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CircleCI-Public/circleci-cli?style=flat-square&color=yellow)](https://github.com/CircleCI-Public/circleci-cli/stargazers) [![Forks](https://img.shields.io/github/forks/CircleCI-Public/circleci-cli?style=flat-square&color=blue)](https://github.com/CircleCI-Public/circleci-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Use CircleCI from the command line
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 437 |
+| ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 246 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

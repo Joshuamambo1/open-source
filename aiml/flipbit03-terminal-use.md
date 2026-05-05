@@ -1,6 +1,6 @@
 # flipbit03/terminal-use
 
-[![Stars](https://img.shields.io/github/stars/flipbit03/terminal-use?style=flat-square&color=yellow)](https://github.com/flipbit03/terminal-use/stargazers) [![Forks](https://img.shields.io/github/forks/flipbit03/terminal-use?style=flat-square&color=blue)](https://github.com/flipbit03/terminal-use/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flipbit03/terminal-use?style=flat-square&color=yellow)](https://github.com/flipbit03/terminal-use/stargazers) [![Forks](https://img.shields.io/github/forks/flipbit03/terminal-use?style=flat-square&color=blue)](https://github.com/flipbit03/terminal-use/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > tu is tmux for your coding agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

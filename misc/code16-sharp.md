@@ -1,6 +1,6 @@
 # code16/sharp
 
-[![Stars](https://img.shields.io/github/stars/code16/sharp?style=flat-square&color=yellow)](https://github.com/code16/sharp/stargazers) [![Forks](https://img.shields.io/github/forks/code16/sharp?style=flat-square&color=blue)](https://github.com/code16/sharp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/code16/sharp?style=flat-square&color=yellow)](https://github.com/code16/sharp/stargazers) [![Forks](https://img.shields.io/github/forks/code16/sharp?style=flat-square&color=blue)](https://github.com/code16/sharp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Laravel 11+ Content management framework
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 786 |
+| ⭐ **Stars** | 785 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

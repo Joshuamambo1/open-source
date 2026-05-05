@@ -1,6 +1,6 @@
 # kirill-markin/repo-to-text
 
-[![Stars](https://img.shields.io/github/stars/kirill-markin/repo-to-text?style=flat-square&color=yellow)](https://github.com/kirill-markin/repo-to-text/stargazers) [![Forks](https://img.shields.io/github/forks/kirill-markin/repo-to-text?style=flat-square&color=blue)](https://github.com/kirill-markin/repo-to-text/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kirill-markin/repo-to-text?style=flat-square&color=yellow)](https://github.com/kirill-markin/repo-to-text/stargazers) [![Forks](https://img.shields.io/github/forks/kirill-markin/repo-to-text?style=flat-square&color=blue)](https://github.com/kirill-markin/repo-to-text/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Convert a repository structure and its contents into a single text file, including the tree output and file contents in markdown code blocks. It may be useful to chat with LLM about your code.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 211 |
+| ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

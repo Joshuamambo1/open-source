@@ -1,6 +1,6 @@
 # imagegenius/docker-immich
 
-[![Stars](https://img.shields.io/github/stars/imagegenius/docker-immich?style=flat-square&color=yellow)](https://github.com/imagegenius/docker-immich/stargazers) [![Forks](https://img.shields.io/github/forks/imagegenius/docker-immich?style=flat-square&color=blue)](https://github.com/imagegenius/docker-immich/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imagegenius/docker-immich?style=flat-square&color=yellow)](https://github.com/imagegenius/docker-immich/stargazers) [![Forks](https://img.shields.io/github/forks/imagegenius/docker-immich?style=flat-square&color=blue)](https://github.com/imagegenius/docker-immich/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Monolithic (Single) Docker Container for Immich
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

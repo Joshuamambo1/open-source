@@ -1,6 +1,6 @@
 # googleapis/google-cloud-ruby
 
-[![Stars](https://img.shields.io/github/stars/googleapis/google-cloud-ruby?style=flat-square&color=yellow)](https://github.com/googleapis/google-cloud-ruby/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-cloud-ruby?style=flat-square&color=blue)](https://github.com/googleapis/google-cloud-ruby/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/google-cloud-ruby?style=flat-square&color=yellow)](https://github.com/googleapis/google-cloud-ruby/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-cloud-ruby?style=flat-square&color=blue)](https://github.com/googleapis/google-cloud-ruby/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Google Cloud Client Library for Ruby
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 568 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # rnr1721/depthnet
 
-[![Stars](https://img.shields.io/github/stars/rnr1721/depthnet?style=flat-square&color=yellow)](https://github.com/rnr1721/depthnet/stargazers) [![Forks](https://img.shields.io/github/forks/rnr1721/depthnet?style=flat-square&color=blue)](https://github.com/rnr1721/depthnet/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rnr1721/depthnet?style=flat-square&color=yellow)](https://github.com/rnr1721/depthnet/stargazers) [![Forks](https://img.shields.io/github/forks/rnr1721/depthnet?style=flat-square&color=blue)](https://github.com/rnr1721/depthnet/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Laravel-based autonomous AI agent platform with cyclic thinking, persistent memory and real-time code execution
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

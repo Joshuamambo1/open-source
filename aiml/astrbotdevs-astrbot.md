@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot?style=flat-square&color=yellow)](https://github.com/AstrBotDevs/AstrBot/stargazers) [![Forks](https://img.shields.io/github/forks/AstrBotDevs/AstrBot?style=flat-square&color=blue)](https://github.com/AstrBotDevs/AstrBot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
-> AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+> AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
 ## 📊 Stats
 

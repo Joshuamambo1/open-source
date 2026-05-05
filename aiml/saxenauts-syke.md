@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/saxenauts/syke?style=flat-square&color=yellow)](https://github.com/saxenauts/syke/stargazers) [![Forks](https://img.shields.io/github/forks/saxenauts/syke?style=flat-square&color=blue)](https://github.com/saxenauts/syke/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
-> dynamic identity - agentic memory - your digital extension for all your AI
+> ambient memory agent, the psyche for your machine and all your AI
 
 ## 📊 Stats
 

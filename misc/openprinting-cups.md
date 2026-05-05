@@ -1,6 +1,6 @@
 # OpenPrinting/cups
 
-[![Stars](https://img.shields.io/github/stars/OpenPrinting/cups?style=flat-square&color=yellow)](https://github.com/OpenPrinting/cups/stargazers) [![Forks](https://img.shields.io/github/forks/OpenPrinting/cups?style=flat-square&color=blue)](https://github.com/OpenPrinting/cups/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenPrinting/cups?style=flat-square&color=yellow)](https://github.com/OpenPrinting/cups/stargazers) [![Forks](https://img.shields.io/github/forks/OpenPrinting/cups?style=flat-square&color=blue)](https://github.com/OpenPrinting/cups/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > OpenPrinting CUPS Sources
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 285 |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

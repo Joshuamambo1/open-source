@@ -1,6 +1,6 @@
 # sxs-collaboration/spectre
 
-[![Stars](https://img.shields.io/github/stars/sxs-collaboration/spectre?style=flat-square&color=yellow)](https://github.com/sxs-collaboration/spectre/stargazers) [![Forks](https://img.shields.io/github/forks/sxs-collaboration/spectre?style=flat-square&color=blue)](https://github.com/sxs-collaboration/spectre/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sxs-collaboration/spectre?style=flat-square&color=yellow)](https://github.com/sxs-collaboration/spectre/stargazers) [![Forks](https://img.shields.io/github/forks/sxs-collaboration/spectre?style=flat-square&color=blue)](https://github.com/sxs-collaboration/spectre/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > SpECTRE is a code for multi-scale, multi-physics problems in astrophysics and gravitational physics.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

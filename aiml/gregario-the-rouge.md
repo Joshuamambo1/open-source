@@ -1,17 +1,17 @@
 # gregario/the-rouge
 
-[![Stars](https://img.shields.io/github/stars/gregario/the-rouge?style=flat-square&color=yellow)](https://github.com/gregario/the-rouge/stargazers) [![Forks](https://img.shields.io/github/forks/gregario/the-rouge?style=flat-square&color=blue)](https://github.com/gregario/the-rouge/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gregario/the-rouge?style=flat-square&color=yellow)](https://github.com/gregario/the-rouge/stargazers) [![Forks](https://img.shields.io/github/forks/gregario/the-rouge?style=flat-square&color=blue)](https://github.com/gregario/the-rouge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Not one-shot code generation. Iterative product development: build, evaluate against external signals, fix, repeat until the quality bar is met.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Product
+AI/ML · Frontend · Product
 
 ## 📝 Summary
 

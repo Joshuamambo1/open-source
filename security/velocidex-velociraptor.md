@@ -1,6 +1,6 @@
 # Velocidex/velociraptor
 
-[![Stars](https://img.shields.io/github/stars/Velocidex/velociraptor?style=flat-square&color=yellow)](https://github.com/Velocidex/velociraptor/stargazers) [![Forks](https://img.shields.io/github/forks/Velocidex/velociraptor?style=flat-square&color=blue)](https://github.com/Velocidex/velociraptor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Velocidex/velociraptor?style=flat-square&color=yellow)](https://github.com/Velocidex/velociraptor/stargazers) [![Forks](https://img.shields.io/github/forks/Velocidex/velociraptor?style=flat-square&color=blue)](https://github.com/Velocidex/velociraptor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Digging Deeper....
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.9k |
-| 🍴 **Forks** | 612 |
+| 🍴 **Forks** | 613 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

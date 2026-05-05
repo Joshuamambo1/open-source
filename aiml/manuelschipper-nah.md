@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/manuelschipper/nah?style=flat-square&color=yellow)](https://github.com/manuelschipper/nah/stargazers) [![Forks](https://img.shields.io/github/forks/manuelschipper/nah?style=flat-square&color=blue)](https://github.com/manuelschipper/nah/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
-> Context-aware safety guard for agents and terminals
+> Action-aware permissions for coding agents. A deterministic safety guard that keeps you in the flow.
 
 ## 📊 Stats
 

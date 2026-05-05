@@ -1,6 +1,6 @@
 # ElYusubov/AWESOME-Azure-Bicep
 
-[![Stars](https://img.shields.io/github/stars/ElYusubov/AWESOME-Azure-Bicep?style=flat-square&color=yellow)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/stargazers) [![Forks](https://img.shields.io/github/forks/ElYusubov/AWESOME-Azure-Bicep?style=flat-square&color=blue)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ElYusubov/AWESOME-Azure-Bicep?style=flat-square&color=yellow)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/stargazers) [![Forks](https://img.shields.io/github/forks/ElYusubov/AWESOME-Azure-Bicep?style=flat-square&color=blue)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Bicep - by @ElYusubov, @johnlokerse and @lukemurraynz
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 424 |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

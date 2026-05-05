@@ -1,6 +1,6 @@
 # kubernetes/cloud-provider-openstack
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/cloud-provider-openstack?style=flat-square&color=yellow)](https://github.com/kubernetes/cloud-provider-openstack/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/cloud-provider-openstack?style=flat-square&color=blue)](https://github.com/kubernetes/cloud-provider-openstack/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/cloud-provider-openstack?style=flat-square&color=yellow)](https://github.com/kubernetes/cloud-provider-openstack/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/cloud-provider-openstack?style=flat-square&color=blue)](https://github.com/kubernetes/cloud-provider-openstack/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 709 |
-| 🍴 **Forks** | 664 |
+| 🍴 **Forks** | 665 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

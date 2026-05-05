@@ -1,6 +1,6 @@
 # eNkru/freelook
 
-[![Stars](https://img.shields.io/github/stars/eNkru/freelook?style=flat-square&color=yellow)](https://github.com/eNkru/freelook/stargazers) [![Forks](https://img.shields.io/github/forks/eNkru/freelook?style=flat-square&color=blue)](https://github.com/eNkru/freelook/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eNkru/freelook?style=flat-square&color=yellow)](https://github.com/eNkru/freelook/stargazers) [![Forks](https://img.shields.io/github/forks/eNkru/freelook?style=flat-square&color=blue)](https://github.com/eNkru/freelook/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Freelook, an Electron-based client for Microsoft Outlook.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

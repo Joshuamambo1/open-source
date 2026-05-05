@@ -1,6 +1,6 @@
 # box/boxcli
 
-[![Stars](https://img.shields.io/github/stars/box/boxcli?style=flat-square&color=yellow)](https://github.com/box/boxcli/stargazers) [![Forks](https://img.shields.io/github/forks/box/boxcli?style=flat-square&color=blue)](https://github.com/box/boxcli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/box/boxcli?style=flat-square&color=yellow)](https://github.com/box/boxcli/stargazers) [![Forks](https://img.shields.io/github/forks/box/boxcli?style=flat-square&color=blue)](https://github.com/box/boxcli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A command line interface for interacting with the Box API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 269 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

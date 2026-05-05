@@ -1,6 +1,6 @@
 # InbarR/tmax
 
-[![Stars](https://img.shields.io/github/stars/InbarR/tmax?style=flat-square&color=yellow)](https://github.com/InbarR/tmax/stargazers) [![Forks](https://img.shields.io/github/forks/InbarR/tmax?style=flat-square&color=blue)](https://github.com/InbarR/tmax/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/InbarR/tmax?style=flat-square&color=yellow)](https://github.com/InbarR/tmax/stargazers) [![Forks](https://img.shields.io/github/forks/InbarR/tmax?style=flat-square&color=blue)](https://github.com/InbarR/tmax/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform multi-terminal app with tiling layouts, floating panels, and a keyboard-driven workflow
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 37 |
+| ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

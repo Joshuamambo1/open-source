@@ -1,6 +1,6 @@
 # charmbracelet/ultraviolet
 
-[![Stars](https://img.shields.io/github/stars/charmbracelet/ultraviolet?style=flat-square&color=yellow)](https://github.com/charmbracelet/ultraviolet/stargazers) [![Forks](https://img.shields.io/github/forks/charmbracelet/ultraviolet?style=flat-square&color=blue)](https://github.com/charmbracelet/ultraviolet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/charmbracelet/ultraviolet?style=flat-square&color=yellow)](https://github.com/charmbracelet/ultraviolet/stargazers) [![Forks](https://img.shields.io/github/forks/charmbracelet/ultraviolet?style=flat-square&color=blue)](https://github.com/charmbracelet/ultraviolet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Mystical terminal user interface primitives 🌈
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

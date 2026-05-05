@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/allenj12/anchor?style=flat-square&color=yellow)](https://github.com/allenj12/anchor/tree/main/stargazers) [![Forks](https://img.shields.io/github/forks/allenj12/anchor?style=flat-square&color=blue)](https://github.com/allenj12/anchor/tree/main/network) [![Language](https://img.shields.io/badge/lang-Scheme-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Dynamic C with s-expressions and hygenic macros
+> Typeless C with s-expressions and hygenic macros
 
 ## 📊 Stats
 

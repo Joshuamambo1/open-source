@@ -1,6 +1,6 @@
 # celery/kombu
 
-[![Stars](https://img.shields.io/github/stars/celery/kombu?style=flat-square&color=yellow)](https://github.com/celery/kombu/stargazers) [![Forks](https://img.shields.io/github/forks/celery/kombu?style=flat-square&color=blue)](https://github.com/celery/kombu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/celery/kombu?style=flat-square&color=yellow)](https://github.com/celery/kombu/stargazers) [![Forks](https://img.shields.io/github/forks/celery/kombu?style=flat-square&color=blue)](https://github.com/celery/kombu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > Messaging library for Python.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

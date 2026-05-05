@@ -1,6 +1,6 @@
 # nubenetes/awesome-kubernetes
 
-[![Stars](https://img.shields.io/github/stars/nubenetes/awesome-kubernetes?style=flat-square&color=yellow)](https://github.com/nubenetes/awesome-kubernetes/stargazers) [![Forks](https://img.shields.io/github/forks/nubenetes/awesome-kubernetes?style=flat-square&color=blue)](https://github.com/nubenetes/awesome-kubernetes/network) [![Language](https://img.shields.io/badge/lang-Groovy-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nubenetes/awesome-kubernetes?style=flat-square&color=yellow)](https://github.com/nubenetes/awesome-kubernetes/stargazers) [![Forks](https://img.shields.io/github/forks/nubenetes/awesome-kubernetes?style=flat-square&color=blue)](https://github.com/nubenetes/awesome-kubernetes/network) [![Language](https://img.shields.io/badge/lang-Groovy-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome references collected since 2018.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 661 |
+| ⭐ **Stars** | 662 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Groovy |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

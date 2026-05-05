@@ -1,6 +1,6 @@
 # gadievron/raptor
 
-[![Stars](https://img.shields.io/github/stars/gadievron/raptor?style=flat-square&color=yellow)](https://github.com/gadievron/raptor/stargazers) [![Forks](https://img.shields.io/github/forks/gadievron/raptor?style=flat-square&color=blue)](https://github.com/gadievron/raptor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gadievron/raptor?style=flat-square&color=yellow)](https://github.com/gadievron/raptor/stargazers) [![Forks](https://img.shields.io/github/forks/gadievron/raptor?style=flat-square&color=blue)](https://github.com/gadievron/raptor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 372 |
+| ⭐ **Stars** | 4 |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

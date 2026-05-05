@@ -1,6 +1,6 @@
 # twbs/examples
 
-[![Stars](https://img.shields.io/github/stars/twbs/examples?style=flat-square&color=yellow)](https://github.com/twbs/examples/stargazers) [![Forks](https://img.shields.io/github/forks/twbs/examples?style=flat-square&color=blue)](https://github.com/twbs/examples/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/twbs/examples?style=flat-square&color=yellow)](https://github.com/twbs/examples/stargazers) [![Forks](https://img.shields.io/github/forks/twbs/examples?style=flat-square&color=blue)](https://github.com/twbs/examples/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Functional examples of using Bootstrap in common JS frameworks like Webpack, Parcel, Vite, and more!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 676 |
 | 🍴 **Forks** | 385 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # runs-on/runs-on
 
-[![Stars](https://img.shields.io/github/stars/runs-on/runs-on?style=flat-square&color=yellow)](https://github.com/runs-on/runs-on/stargazers) [![Forks](https://img.shields.io/github/forks/runs-on/runs-on?style=flat-square&color=blue)](https://github.com/runs-on/runs-on/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runs-on/runs-on?style=flat-square&color=yellow)](https://github.com/runs-on/runs-on/stargazers) [![Forks](https://img.shields.io/github/forks/runs-on/runs-on?style=flat-square&color=blue)](https://github.com/runs-on/runs-on/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

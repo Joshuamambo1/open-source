@@ -1,6 +1,6 @@
 # element-hq/element-ios
 
-[![Stars](https://img.shields.io/github/stars/element-hq/element-ios?style=flat-square&color=yellow)](https://github.com/element-hq/element-ios/stargazers) [![Forks](https://img.shields.io/github/forks/element-hq/element-ios?style=flat-square&color=blue)](https://github.com/element-hq/element-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/element-hq/element-ios?style=flat-square&color=yellow)](https://github.com/element-hq/element-ios/stargazers) [![Forks](https://img.shields.io/github/forks/element-hq/element-ios?style=flat-square&color=blue)](https://github.com/element-hq/element-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A glossy Matrix collaboration client for iOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 542 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # lefayjey/linWinPwn
 
-[![Stars](https://img.shields.io/github/stars/lefayjey/linWinPwn?style=flat-square&color=yellow)](https://github.com/lefayjey/linWinPwn/stargazers) [![Forks](https://img.shields.io/github/forks/lefayjey/linWinPwn?style=flat-square&color=blue)](https://github.com/lefayjey/linWinPwn/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lefayjey/linWinPwn?style=flat-square&color=yellow)](https://github.com/lefayjey/linWinPwn/stargazers) [![Forks](https://img.shields.io/github/forks/lefayjey/linWinPwn?style=flat-square&color=blue)](https://github.com/lefayjey/linWinPwn/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > linWinPwn is a bash script that streamlines the use of a number of Active Directory tools
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 300 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

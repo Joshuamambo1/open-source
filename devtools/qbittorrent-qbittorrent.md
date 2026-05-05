@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 37k |
-| 🍴 **Forks** | 4.6k |
+| 🍴 **Forks** | 4.7k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | — |

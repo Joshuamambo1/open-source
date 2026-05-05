@@ -1,6 +1,6 @@
 # pollinations/pollinations
 
-[![Stars](https://img.shields.io/github/stars/pollinations/pollinations?style=flat-square&color=yellow)](https://github.com/pollinations/pollinations/stargazers) [![Forks](https://img.shields.io/github/forks/pollinations/pollinations?style=flat-square&color=blue)](https://github.com/pollinations/pollinations/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pollinations/pollinations?style=flat-square&color=yellow)](https://github.com/pollinations/pollinations/stargazers) [![Forks](https://img.shields.io/github/forks/pollinations/pollinations?style=flat-square&color=blue)](https://github.com/pollinations/pollinations/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
 
 > Your Friendly Open-Source Gen-AI Platform
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 763 |
+| 🍴 **Forks** | 764 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 92/100 |
+| 📈 **Score** | 93/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

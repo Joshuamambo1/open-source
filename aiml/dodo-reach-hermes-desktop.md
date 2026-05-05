@@ -1,6 +1,6 @@
 # dodo-reach/hermes-desktop
 
-[![Stars](https://img.shields.io/github/stars/dodo-reach/hermes-desktop?style=flat-square&color=yellow)](https://github.com/dodo-reach/hermes-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/dodo-reach/hermes-desktop?style=flat-square&color=blue)](https://github.com/dodo-reach/hermes-desktop/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dodo-reach/hermes-desktop?style=flat-square&color=yellow)](https://github.com/dodo-reach/hermes-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/dodo-reach/hermes-desktop?style=flat-square&color=blue)](https://github.com/dodo-reach/hermes-desktop/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The safest, simplest way to manage Hermes from your Mac. Pure SSH. No gateways, no exposed ports, no browser layer.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 794 |
-| 🍴 **Forks** | 54 |
+| ⭐ **Stars** | 840 |
+| 🍴 **Forks** | 57 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

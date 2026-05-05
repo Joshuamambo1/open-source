@@ -1,6 +1,6 @@
 # testssl/testssl.sh
 
-[![Stars](https://img.shields.io/github/stars/testssl/testssl.sh?style=flat-square&color=yellow)](https://github.com/testssl/testssl.sh/stargazers) [![Forks](https://img.shields.io/github/forks/testssl/testssl.sh?style=flat-square&color=blue)](https://github.com/testssl/testssl.sh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/testssl/testssl.sh?style=flat-square&color=yellow)](https://github.com/testssl/testssl.sh/stargazers) [![Forks](https://img.shields.io/github/forks/testssl/testssl.sh?style=flat-square&color=blue)](https://github.com/testssl/testssl.sh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
 
 > Testing TLS/SSL encryption anywhere on any port
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 96/100 |
+| 📈 **Score** | 92/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

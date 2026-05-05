@@ -1,6 +1,6 @@
 # nginx/nginx-acme
 
-[![Stars](https://img.shields.io/github/stars/nginx/nginx-acme?style=flat-square&color=yellow)](https://github.com/nginx/nginx-acme/stargazers) [![Forks](https://img.shields.io/github/forks/nginx/nginx-acme?style=flat-square&color=blue)](https://github.com/nginx/nginx-acme/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nginx/nginx-acme?style=flat-square&color=yellow)](https://github.com/nginx/nginx-acme/stargazers) [![Forks](https://img.shields.io/github/forks/nginx/nginx-acme?style=flat-square&color=blue)](https://github.com/nginx/nginx-acme/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An NGINX module with the implementation of the automatic certificate management (ACMEv2) protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 427 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

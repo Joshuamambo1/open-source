@@ -1,6 +1,6 @@
 # sendaifun/skills
 
-[![Stars](https://img.shields.io/github/stars/sendaifun/skills?style=flat-square&color=yellow)](https://github.com/sendaifun/skills/stargazers) [![Forks](https://img.shields.io/github/forks/sendaifun/skills?style=flat-square&color=blue)](https://github.com/sendaifun/skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sendaifun/skills?style=flat-square&color=yellow)](https://github.com/sendaifun/skills/stargazers) [![Forks](https://img.shields.io/github/forks/sendaifun/skills?style=flat-square&color=blue)](https://github.com/sendaifun/skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > a public marketplace of all solana-related skills for agents to learn from!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 95 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

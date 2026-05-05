@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/pardnchiu/Agenvoy?style=flat-square&color=yellow)](https://github.com/pardnchiu/Agenvoy/stargazers) [![Forks](https://img.shields.io/github/forks/pardnchiu/Agenvoy?style=flat-square&color=blue)](https://github.com/pardnchiu/Agenvoy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> Agentic framework | Self-improving memory | Pluggable tool extensions | Sandbox execution
+> Agentic runtime | Self-improving memory | Intelligent multi-provider routing | Pluggable tool extensions | Sandbox execution
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 76 |
+| ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |

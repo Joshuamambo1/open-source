@@ -1,6 +1,6 @@
 # kamadorueda/alejandra
 
-[![Stars](https://img.shields.io/github/stars/kamadorueda/alejandra?style=flat-square&color=yellow)](https://github.com/kamadorueda/alejandra/stargazers) [![Forks](https://img.shields.io/github/forks/kamadorueda/alejandra?style=flat-square&color=blue)](https://github.com/kamadorueda/alejandra/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kamadorueda/alejandra?style=flat-square&color=yellow)](https://github.com/kamadorueda/alejandra/stargazers) [![Forks](https://img.shields.io/github/forks/kamadorueda/alejandra?style=flat-square&color=blue)](https://github.com/kamadorueda/alejandra/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The Uncompromising Nix Code Formatter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # zfogg/ascii-chat
 
-[![Stars](https://img.shields.io/github/stars/zfogg/ascii-chat?style=flat-square&color=yellow)](https://github.com/zfogg/ascii-chat/stargazers) [![Forks](https://img.shields.io/github/forks/zfogg/ascii-chat?style=flat-square&color=blue)](https://github.com/zfogg/ascii-chat/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zfogg/ascii-chat?style=flat-square&color=yellow)](https://github.com/zfogg/ascii-chat/stargazers) [![Forks](https://img.shields.io/github/forks/zfogg/ascii-chat?style=flat-square&color=blue)](https://github.com/zfogg/ascii-chat/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 💻📸 video chat in your terminal 🔡💬
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 187 |
+| ⭐ **Stars** | 188 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | C |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # LaurenzV/hayro
 
-[![Stars](https://img.shields.io/github/stars/LaurenzV/hayro?style=flat-square&color=yellow)](https://github.com/LaurenzV/hayro/stargazers) [![Forks](https://img.shields.io/github/forks/LaurenzV/hayro?style=flat-square&color=blue)](https://github.com/LaurenzV/hayro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LaurenzV/hayro?style=flat-square&color=yellow)](https://github.com/LaurenzV/hayro/stargazers) [![Forks](https://img.shields.io/github/forks/LaurenzV/hayro?style=flat-square&color=blue)](https://github.com/LaurenzV/hayro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A PDF interpreter and renderer in pure Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 651 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

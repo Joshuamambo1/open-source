@@ -1,6 +1,6 @@
 # mattpocock/dictionary-of-ai-coding
 
-[![Stars](https://img.shields.io/github/stars/mattpocock/dictionary-of-ai-coding?style=flat-square&color=yellow)](https://github.com/mattpocock/dictionary-of-ai-coding/stargazers) [![Forks](https://img.shields.io/github/forks/mattpocock/dictionary-of-ai-coding?style=flat-square&color=blue)](https://github.com/mattpocock/dictionary-of-ai-coding/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattpocock/dictionary-of-ai-coding?style=flat-square&color=yellow)](https://github.com/mattpocock/dictionary-of-ai-coding/stargazers) [![Forks](https://img.shields.io/github/forks/mattpocock/dictionary-of-ai-coding?style=flat-square&color=blue)](https://github.com/mattpocock/dictionary-of-ai-coding/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > AI coding jargon, explained in plain English.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 926 |
-| 🍴 **Forks** | 119 |
+| ⭐ **Stars** | 964 |
+| 🍴 **Forks** | 122 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

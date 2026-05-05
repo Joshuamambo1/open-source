@@ -1,6 +1,6 @@
 # jakejarvis/domainstack.io
 
-[![Stars](https://img.shields.io/github/stars/jakejarvis/domainstack.io?style=flat-square&color=yellow)](https://github.com/jakejarvis/domainstack.io/stargazers) [![Forks](https://img.shields.io/github/forks/jakejarvis/domainstack.io?style=flat-square&color=blue)](https://github.com/jakejarvis/domainstack.io/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jakejarvis/domainstack.io?style=flat-square&color=yellow)](https://github.com/jakejarvis/domainstack.io/stargazers) [![Forks](https://img.shields.io/github/forks/jakejarvis/domainstack.io?style=flat-square&color=blue)](https://github.com/jakejarvis/domainstack.io/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🧰 All-in-one domain name intelligence as a service
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 254 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

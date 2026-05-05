@@ -1,6 +1,6 @@
 # editor-code-assistant/eca
 
-[![Stars](https://img.shields.io/github/stars/editor-code-assistant/eca?style=flat-square&color=yellow)](https://github.com/editor-code-assistant/eca/stargazers) [![Forks](https://img.shields.io/github/forks/editor-code-assistant/eca?style=flat-square&color=blue)](https://github.com/editor-code-assistant/eca/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/editor-code-assistant/eca?style=flat-square&color=yellow)](https://github.com/editor-code-assistant/eca/stargazers) [![Forks](https://img.shields.io/github/forks/editor-code-assistant/eca?style=flat-square&color=blue)](https://github.com/editor-code-assistant/eca/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 806 |
+| ⭐ **Stars** | 807 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # frappe/frappe-ui
 
-[![Stars](https://img.shields.io/github/stars/frappe/frappe-ui?style=flat-square&color=yellow)](https://github.com/frappe/frappe-ui/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/frappe-ui?style=flat-square&color=blue)](https://github.com/frappe/frappe-ui/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frappe/frappe-ui?style=flat-square&color=yellow)](https://github.com/frappe/frappe-ui/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/frappe-ui?style=flat-square&color=blue)](https://github.com/frappe/frappe-ui/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A set of components and utilities for rapid UI development
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 899 |
-| 🍴 **Forks** | 304 |
+| 🍴 **Forks** | 305 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

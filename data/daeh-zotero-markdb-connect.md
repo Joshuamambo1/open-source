@@ -1,6 +1,6 @@
 # daeh/zotero-markdb-connect
 
-[![Stars](https://img.shields.io/github/stars/daeh/zotero-markdb-connect?style=flat-square&color=yellow)](https://github.com/daeh/zotero-markdb-connect/stargazers) [![Forks](https://img.shields.io/github/forks/daeh/zotero-markdb-connect?style=flat-square&color=blue)](https://github.com/daeh/zotero-markdb-connect/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daeh/zotero-markdb-connect?style=flat-square&color=yellow)](https://github.com/daeh/zotero-markdb-connect/stargazers) [![Forks](https://img.shields.io/github/forks/daeh/zotero-markdb-connect?style=flat-square&color=blue)](https://github.com/daeh/zotero-markdb-connect/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Zotero plugin that links your Markdown database to Zotero. Jump directly from Zotero Items to connected Markdown files. Automatically tags Zotero Items so you can easily see which papers you've made notes for.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 658 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

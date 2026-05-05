@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/cyanheads/obsidian-mcp-server?style=flat-square&color=yellow)](https://github.com/cyanheads/obsidian-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cyanheads/obsidian-mcp-server?style=flat-square&color=blue)](https://github.com/cyanheads/obsidian-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
-> MCP server for Obsidian vaults — read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin.
+> Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST API plugin.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 489 |
+| ⭐ **Stars** | 490 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |

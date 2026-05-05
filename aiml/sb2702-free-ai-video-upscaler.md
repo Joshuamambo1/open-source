@@ -1,6 +1,6 @@
 # sb2702/free-ai-video-upscaler
 
-[![Stars](https://img.shields.io/github/stars/sb2702/free-ai-video-upscaler?style=flat-square&color=yellow)](https://github.com/sb2702/free-ai-video-upscaler/stargazers) [![Forks](https://img.shields.io/github/forks/sb2702/free-ai-video-upscaler?style=flat-square&color=blue)](https://github.com/sb2702/free-ai-video-upscaler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sb2702/free-ai-video-upscaler?style=flat-square&color=yellow)](https://github.com/sb2702/free-ai-video-upscaler/stargazers) [![Forks](https://img.shields.io/github/forks/sb2702/free-ai-video-upscaler?style=flat-square&color=blue)](https://github.com/sb2702/free-ai-video-upscaler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Source code for free AI video upscaler tool
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 420 |
+| ⭐ **Stars** | 421 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

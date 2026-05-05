@@ -1,6 +1,6 @@
 # JeffDeCola/my-cheat-sheets
 
-[![Stars](https://img.shields.io/github/stars/JeffDeCola/my-cheat-sheets?style=flat-square&color=yellow)](https://github.com/JeffDeCola/my-cheat-sheets/stargazers) [![Forks](https://img.shields.io/github/forks/JeffDeCola/my-cheat-sheets?style=flat-square&color=blue)](https://github.com/JeffDeCola/my-cheat-sheets/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JeffDeCola/my-cheat-sheets?style=flat-square&color=yellow)](https://github.com/JeffDeCola/my-cheat-sheets/stargazers) [![Forks](https://img.shields.io/github/forks/JeffDeCola/my-cheat-sheets?style=flat-square&color=blue)](https://github.com/JeffDeCola/my-cheat-sheets/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A place to keep all my cheat sheets for the complete development of ASIC/FPGA hardware or a software app/service.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

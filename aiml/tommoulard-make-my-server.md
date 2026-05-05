@@ -1,6 +1,6 @@
 # tomMoulard/make-my-server
 
-[![Stars](https://img.shields.io/github/stars/tomMoulard/make-my-server?style=flat-square&color=yellow)](https://github.com/tomMoulard/make-my-server/stargazers) [![Forks](https://img.shields.io/github/forks/tomMoulard/make-my-server?style=flat-square&color=blue)](https://github.com/tomMoulard/make-my-server/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tomMoulard/make-my-server?style=flat-square&color=yellow)](https://github.com/tomMoulard/make-my-server/stargazers) [![Forks](https://img.shields.io/github/forks/tomMoulard/make-my-server?style=flat-square&color=blue)](https://github.com/tomMoulard/make-my-server/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Docker Compose with Traefik and lots of services
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 584 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # AlekseyKorshuk/yoomoney-api
 
-[![Stars](https://img.shields.io/github/stars/AlekseyKorshuk/yoomoney-api?style=flat-square&color=yellow)](https://github.com/AlekseyKorshuk/yoomoney-api/stargazers) [![Forks](https://img.shields.io/github/forks/AlekseyKorshuk/yoomoney-api?style=flat-square&color=blue)](https://github.com/AlekseyKorshuk/yoomoney-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlekseyKorshuk/yoomoney-api?style=flat-square&color=yellow)](https://github.com/AlekseyKorshuk/yoomoney-api/stargazers) [![Forks](https://img.shields.io/github/forks/AlekseyKorshuk/yoomoney-api?style=flat-square&color=blue)](https://github.com/AlekseyKorshuk/yoomoney-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Python client for the YooMoney (ex-Yandex.Money) API — sync & async, Pydantic models, type-safe
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 300 |
+| ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

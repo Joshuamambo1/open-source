@@ -1,6 +1,6 @@
 # aws-solutions/quota-monitor-for-aws
 
-[![Stars](https://img.shields.io/github/stars/aws-solutions/quota-monitor-for-aws?style=flat-square&color=yellow)](https://github.com/aws-solutions/quota-monitor-for-aws/stargazers) [![Forks](https://img.shields.io/github/forks/aws-solutions/quota-monitor-for-aws?style=flat-square&color=blue)](https://github.com/aws-solutions/quota-monitor-for-aws/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-solutions/quota-monitor-for-aws?style=flat-square&color=yellow)](https://github.com/aws-solutions/quota-monitor-for-aws/stargazers) [![Forks](https://img.shields.io/github/forks/aws-solutions/quota-monitor-for-aws?style=flat-square&color=blue)](https://github.com/aws-solutions/quota-monitor-for-aws/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > This solution leverages AWS Trusted Advisor and Service Quotas to monitor AWS resource usage and raise alerts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 487 |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

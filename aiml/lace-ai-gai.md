@@ -1,6 +1,6 @@
 # lace-ai/gai
 
-[![Stars](https://img.shields.io/github/stars/lace-ai/gai?style=flat-square&color=yellow)](https://github.com/lace-ai/gai/stargazers) [![Forks](https://img.shields.io/github/forks/lace-ai/gai?style=flat-square&color=blue)](https://github.com/lace-ai/gai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lace-ai/gai?style=flat-square&color=yellow)](https://github.com/lace-ai/gai/stargazers) [![Forks](https://img.shields.io/github/forks/lace-ai/gai?style=flat-square&color=blue)](https://github.com/lace-ai/gai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 GAI is a flexible Go library for building agent-style applications on top of LLMs
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6 |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 7 |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

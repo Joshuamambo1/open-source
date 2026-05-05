@@ -1,17 +1,17 @@
 # imfromsavedotag/structured-AI-development
 
-[![Stars](https://img.shields.io/github/stars/imfromsavedotag/structured-AI-development?style=flat-square&color=yellow)](https://github.com/imfromsavedotag/structured-AI-development/stargazers) [![Forks](https://img.shields.io/github/forks/imfromsavedotag/structured-AI-development?style=flat-square&color=blue)](https://github.com/imfromsavedotag/structured-AI-development/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imfromsavedotag/structured-AI-development?style=flat-square&color=yellow)](https://github.com/imfromsavedotag/structured-AI-development/stargazers) [![Forks](https://img.shields.io/github/forks/imfromsavedotag/structured-AI-development?style=flat-square&color=blue)](https://github.com/imfromsavedotag/structured-AI-development/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> A methodology and toolkit for building real software with AI tools, designed to respect what the tools can and cannot do.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Shell |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Product
+AI/ML · Frontend · Design
 
 ## 📝 Summary
 

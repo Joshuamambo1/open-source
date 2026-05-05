@@ -1,6 +1,6 @@
 # microsoft/dev-tunnels-ssh
 
-[![Stars](https://img.shields.io/github/stars/microsoft/dev-tunnels-ssh?style=flat-square&color=yellow)](https://github.com/microsoft/dev-tunnels-ssh/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/dev-tunnels-ssh?style=flat-square&color=blue)](https://github.com/microsoft/dev-tunnels-ssh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/dev-tunnels-ssh?style=flat-square&color=yellow)](https://github.com/microsoft/dev-tunnels-ssh/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/dev-tunnels-ssh?style=flat-square&color=blue)](https://github.com/microsoft/dev-tunnels-ssh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > SSH library for dev-tunnels
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

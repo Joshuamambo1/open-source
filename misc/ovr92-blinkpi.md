@@ -1,17 +1,17 @@
 # OVR92/BlinkPi
 
-[![Stars](https://img.shields.io/github/stars/OVR92/BlinkPi?style=flat-square&color=yellow)](https://github.com/OVR92/BlinkPi/stargazers) [![Forks](https://img.shields.io/github/forks/OVR92/BlinkPi?style=flat-square&color=blue)](https://github.com/OVR92/BlinkPi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OVR92/BlinkPi?style=flat-square&color=yellow)](https://github.com/OVR92/BlinkPi/stargazers) [![Forks](https://img.shields.io/github/forks/OVR92/BlinkPi?style=flat-square&color=blue)](https://github.com/OVR92/BlinkPi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Unleash local access and cloud backup on the platform of you choosing for your Blink camera system.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 14 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

@@ -1,6 +1,6 @@
 # stjude-rust-labs/sprocket
 
-[![Stars](https://img.shields.io/github/stars/stjude-rust-labs/sprocket?style=flat-square&color=yellow)](https://github.com/stjude-rust-labs/sprocket/stargazers) [![Forks](https://img.shields.io/github/forks/stjude-rust-labs/sprocket?style=flat-square&color=blue)](https://github.com/stjude-rust-labs/sprocket/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stjude-rust-labs/sprocket?style=flat-square&color=yellow)](https://github.com/stjude-rust-labs/sprocket/stargazers) [![Forks](https://img.shields.io/github/forks/stjude-rust-labs/sprocket?style=flat-square&color=blue)](https://github.com/stjude-rust-labs/sprocket/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A bioinformatics workflow engine built on top of the Workflow Description Language (WDL).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

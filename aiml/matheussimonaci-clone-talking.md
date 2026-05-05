@@ -1,17 +1,17 @@
 # MatheusSimonaci/clone-talking
 
-[![Stars](https://img.shields.io/github/stars/MatheusSimonaci/clone-talking?style=flat-square&color=yellow)](https://github.com/MatheusSimonaci/clone-talking/stargazers) [![Forks](https://img.shields.io/github/forks/MatheusSimonaci/clone-talking?style=flat-square&color=blue)](https://github.com/MatheusSimonaci/clone-talking/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MatheusSimonaci/clone-talking?style=flat-square&color=yellow)](https://github.com/MatheusSimonaci/clone-talking/stargazers) [![Forks](https://img.shields.io/github/forks/MatheusSimonaci/clone-talking?style=flat-square&color=blue)](https://github.com/MatheusSimonaci/clone-talking/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Talk to an AI clone of any agent persona from your phone — voice in, voice out.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

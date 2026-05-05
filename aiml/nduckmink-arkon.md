@@ -2,14 +2,14 @@
 
 [![Stars](https://img.shields.io/github/stars/nduckmink/arkon?style=flat-square&color=yellow)](https://github.com/nduckmink/arkon/stargazers) [![Forks](https://img.shields.io/github/forks/nduckmink/arkon?style=flat-square&color=blue)](https://github.com/nduckmink/arkon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Arkon is a platform that gives organizations centralized control over how employees use Claude. Admins manage knowledge, skills, and access policies from a single portal. Employees connect once and get the right context automatically - no manual configuration, no context switching.
+> Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 25 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools
 
 ## 📝 Summary
 

@@ -1,6 +1,6 @@
 # LeanAndMean/mach10
 
-[![Stars](https://img.shields.io/github/stars/LeanAndMean/mach10?style=flat-square&color=yellow)](https://github.com/LeanAndMean/mach10/stargazers) [![Forks](https://img.shields.io/github/forks/LeanAndMean/mach10?style=flat-square&color=blue)](https://github.com/LeanAndMean/mach10/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LeanAndMean/mach10?style=flat-square&color=yellow)](https://github.com/LeanAndMean/mach10/stargazers) [![Forks](https://img.shields.io/github/forks/LeanAndMean/mach10?style=flat-square&color=blue)](https://github.com/LeanAndMean/mach10/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin for structured, AI-driven software development. Orchestrates complex workflows -- from issue assessment to staged implementation to review and merge -- giving developers the speed of full automation with the control of human-in-the-loop checkpoints.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
+| 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

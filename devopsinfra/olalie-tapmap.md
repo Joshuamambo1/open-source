@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/olalie/tapmap?style=flat-square&color=yellow)](https://github.com/olalie/tapmap/stargazers) [![Forks](https://img.shields.io/github/forks/olalie/tapmap?style=flat-square&color=blue)](https://github.com/olalie/tapmap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
-> See where your computer connects and what stands out on a live world map.
+> See where your computer connects on a live world map. Spot unusual connections.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 743 |
+| ⭐ **Stars** | 745 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-DevOps/Infra · Security
+DevOps/Infra
 
 ## 📝 Summary
 

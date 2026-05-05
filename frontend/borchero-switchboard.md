@@ -1,6 +1,6 @@
 # borchero/switchboard
 
-[![Stars](https://img.shields.io/github/stars/borchero/switchboard?style=flat-square&color=yellow)](https://github.com/borchero/switchboard/stargazers) [![Forks](https://img.shields.io/github/forks/borchero/switchboard?style=flat-square&color=blue)](https://github.com/borchero/switchboard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/borchero/switchboard?style=flat-square&color=yellow)](https://github.com/borchero/switchboard/stargazers) [![Forks](https://img.shields.io/github/forks/borchero/switchboard?style=flat-square&color=blue)](https://github.com/borchero/switchboard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes Operator for Automatically Issuing DNS Records and TLS Certificates for Traefik Ingress Routes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

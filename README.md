@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16473** |
+| 🗂️ **Total projects** | **16515** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6117 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3461 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1626 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1188 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 1014 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 960 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 555 | [Browse →](./crypto/) |
-| 📊 **Data** | 378 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 354 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 6136 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3470 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1631 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1191 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 1013 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 964 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 556 | [Browse →](./crypto/) |
+| 📊 **Data** | 376 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 355 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 226 | [Browse →](./mobile/) |
+| 💳 **Payments** | 169 | [Browse →](./payments/) |
 | 📈 **Trading** | 169 | [Browse →](./trading/) |
-| 💳 **Payments** | 168 | [Browse →](./payments/) |
-| 🔐 **Security** | 137 | [Browse →](./security/) |
+| 🔐 **Security** | 139 | [Browse →](./security/) |
 | ✨ **Design** | 56 | [Browse →](./design/) |
 | 🎯 **Product** | 33 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [google-ai-edge/mediapipe](./aiml/google-ai-edge-mediapipe.md) | ⭐ 35.1k | AI/ML |
-| 2 | [pola-rs/polars](./data/pola-rs-polars.md) | ⭐ 38.4k | Data |
-| 3 | [arkime/arkime](./data/arkime-arkime.md) | ⭐ 7.4k | Data |
-| 4 | [kivy/kivy](./frontend/kivy-kivy.md) | ⭐ 18.9k | Frontend |
-| 5 | [Wox-launcher/Wox](./misc/wox-launcher-wox.md) | ⭐ 26.8k | Misc |
-| 6 | [Sjj1024/PakePlus](./aiml/sjj1024-pakeplus.md) | ⭐ 11.9k | AI/ML |
-| 7 | [farion1231/cc-switch](./aiml/farion1231-cc-switch.md) | ⭐ 59k | AI/ML |
-| 8 | [apache/casbin](./aiml/apache-casbin.md) | ⭐ 20.1k | AI/ML |
-| 9 | [OthmanAdi/planning-with-files](./orchestration/othmanadi-planning-with-files.md) | ⭐ 20.4k | Orchestration |
-| 10 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
+| 1 | [redox-os/redox](./misc/redox-os-redox.md) | ⭐ 16.3k | Misc |
+| 2 | [endless-sky/endless-sky](./trading/endless-sky-endless-sky.md) | ⭐ 7.3k | Trading |
+| 3 | [biomejs/biome](./aiml/biomejs-biome.md) | ⭐ 24.5k | AI/ML |
+| 4 | [MarSeventh/CloudFlare-ImgBed](./aiml/marseventh-cloudflare-imgbed.md) | ⭐ 5k | AI/ML |
+| 5 | [recharts/recharts](./crypto/recharts-recharts.md) | ⭐ 27.1k | Crypto |
+| 6 | [charmbracelet/bubbletea](./frontend/charmbracelet-bubbletea.md) | ⭐ 42.1k | Frontend |
+| 7 | [Lissy93/dashy](./frontend/lissy93-dashy.md) | ⭐ 25k | Frontend |
+| 8 | [Wox-launcher/Wox](./misc/wox-launcher-wox.md) | ⭐ 26.8k | Misc |
+| 9 | [Sjj1024/PakePlus](./aiml/sjj1024-pakeplus.md) | ⭐ 11.9k | AI/ML |
+| 10 | [rabbitmq/rabbitmq-server](./frontend/rabbitmq-rabbitmq-server.md) | ⭐ 13.6k | Frontend |
 
 ## 🚀 How it works
 

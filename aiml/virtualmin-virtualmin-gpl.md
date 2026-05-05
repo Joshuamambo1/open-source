@@ -1,6 +1,6 @@
 # virtualmin/virtualmin-gpl
 
-[![Stars](https://img.shields.io/github/stars/virtualmin/virtualmin-gpl?style=flat-square&color=yellow)](https://github.com/virtualmin/virtualmin-gpl/stargazers) [![Forks](https://img.shields.io/github/forks/virtualmin/virtualmin-gpl?style=flat-square&color=blue)](https://github.com/virtualmin/virtualmin-gpl/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/virtualmin/virtualmin-gpl?style=flat-square&color=yellow)](https://github.com/virtualmin/virtualmin-gpl/stargazers) [![Forks](https://img.shields.io/github/forks/virtualmin/virtualmin-gpl?style=flat-square&color=blue)](https://github.com/virtualmin/virtualmin-gpl/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Virtualmin web hosting control panel for Webmin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 406 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # tszheichoi/awesome-sensor-logger
 
-[![Stars](https://img.shields.io/github/stars/tszheichoi/awesome-sensor-logger?style=flat-square&color=yellow)](https://github.com/tszheichoi/awesome-sensor-logger/stargazers) [![Forks](https://img.shields.io/github/forks/tszheichoi/awesome-sensor-logger?style=flat-square&color=blue)](https://github.com/tszheichoi/awesome-sensor-logger/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tszheichoi/awesome-sensor-logger?style=flat-square&color=yellow)](https://github.com/tszheichoi/awesome-sensor-logger/stargazers) [![Forks](https://img.shields.io/github/forks/tszheichoi/awesome-sensor-logger?style=flat-square&color=blue)](https://github.com/tszheichoi/awesome-sensor-logger/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of tools, resources and sample code to use alongside the Sensor Logger app
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 359 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

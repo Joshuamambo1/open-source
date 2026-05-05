@@ -1,6 +1,6 @@
 # MetroStar/comet
 
-[![Stars](https://img.shields.io/github/stars/MetroStar/comet?style=flat-square&color=yellow)](https://github.com/MetroStar/comet/stargazers) [![Forks](https://img.shields.io/github/forks/MetroStar/comet?style=flat-square&color=blue)](https://github.com/MetroStar/comet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MetroStar/comet?style=flat-square&color=yellow)](https://github.com/MetroStar/comet/stargazers) [![Forks](https://img.shields.io/github/forks/MetroStar/comet?style=flat-square&color=blue)](https://github.com/MetroStar/comet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > React with TypeScript Component Library based on USWDS 3.0
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

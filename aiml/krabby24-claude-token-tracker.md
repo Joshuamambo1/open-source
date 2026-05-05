@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project is a browser extension that monitors and tracks the usage of Claude.ai tokens by intercepting and logging fetch() requests. The extension aims to provide transparency and accountability for developers and users utilizing Claude.ai's AI capabilities. By doing so, it allows for better management and optimization of token usage.
+This open-source project involves developing a browser extension that intercepts and tracks the usage of Claude.ai tokens, a key component in the AI model. The extension hooks onto the fetch() function to monitor and report on token activity, providing insights into how users interact with Claude.ai. This project contributes to the transparency and accountability of AI model usage.
 
 ---
 

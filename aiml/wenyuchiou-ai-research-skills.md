@@ -1,6 +1,6 @@
 # WenyuChiou/ai-research-skills
 
-[![Stars](https://img.shields.io/github/stars/WenyuChiou/ai-research-skills?style=flat-square&color=yellow)](https://github.com/WenyuChiou/ai-research-skills/stargazers) [![Forks](https://img.shields.io/github/forks/WenyuChiou/ai-research-skills?style=flat-square&color=blue)](https://github.com/WenyuChiou/ai-research-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WenyuChiou/ai-research-skills?style=flat-square&color=yellow)](https://github.com/WenyuChiou/ai-research-skills/stargazers) [![Forks](https://img.shields.io/github/forks/WenyuChiou/ai-research-skills?style=flat-square&color=blue)](https://github.com/WenyuChiou/ai-research-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 14 Claude Code skills for common research tasks — literature triage, research design, project context, manuscript writing, and multi-AI delegation. 5-plugin marketplace, install in one command.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 41 |
+| ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

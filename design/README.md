@@ -41,10 +41,10 @@
 | 31 | [code-golf/code-golf](./code-golf-code-golf.md) | ⭐ 1.3k | Go | 52/100 |
 | 32 | [processing/processing4](./processing-processing4.md) | ⭐ 394 | Java | 51/100 |
 | 33 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 50/100 |
-| 34 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 602 | PHP | 50/100 |
-| 35 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 366 | Go | 49/100 |
+| 34 | [GibbonEdu/core](./gibbonedu-core.md) | ⭐ 603 | PHP | 50/100 |
+| 35 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
 | 36 | [Silentely/eSIM-Tools](./silentely-esim-tools.md) | ⭐ 468 | JavaScript | 49/100 |
-| 37 | [progfay/shields-with-icon](./progfay-shields-with-icon.md) | ⭐ 458 | Go | 49/100 |
+| 37 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 367 | Go | 49/100 |
 | 38 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 48/100 |
 | 39 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 210 | PHP | 48/100 |
 | 40 | [cyrus-lang/Cyrus](./cyrus-lang-cyrus.md) | ⭐ 109 | Rust | 48/100 |
@@ -53,8 +53,8 @@
 | 43 | [NX211/homer-icons](./nx211-homer-icons.md) | ⭐ 975 | Python | 46/100 |
 | 44 | [SmolDapp/tokenAssets](./smoldapp-tokenassets.md) | ⭐ 108 | Go | 46/100 |
 | 45 | [KinkyMakers/OSSM-hardware](./kinkymakers-ossm-hardware.md) | ⭐ 491 | C++ | 45/100 |
-| 46 | [goadesign/examples](./goadesign-examples.md) | ⭐ 205 | Go | 44/100 |
-| 47 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 44/100 |
+| 46 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 335 | Lua | 44/100 |
+| 47 | [goadesign/examples](./goadesign-examples.md) | ⭐ 205 | Go | 44/100 |
 | 48 | [deckhouse/prompp](./deckhouse-prompp.md) | ⭐ 437 | Go | 43/100 |
 | 49 | [Charlie-XIAO/tauri-plugin-desktop-underlay](./charlie-xiao-tauri-plugin-desktop-underlay.md) | ⭐ 142 | Rust | 43/100 |
 | 50 | [1612elphi/delphitools](./1612elphi-delphitools.md) | ⭐ 417 | TypeScript | 43/100 |

@@ -1,6 +1,6 @@
 # liqotech/liqo
 
-[![Stars](https://img.shields.io/github/stars/liqotech/liqo?style=flat-square&color=yellow)](https://github.com/liqotech/liqo/stargazers) [![Forks](https://img.shields.io/github/forks/liqotech/liqo?style=flat-square&color=blue)](https://github.com/liqotech/liqo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liqotech/liqo?style=flat-square&color=yellow)](https://github.com/liqotech/liqo/stargazers) [![Forks](https://img.shields.io/github/forks/liqotech/liqo?style=flat-square&color=blue)](https://github.com/liqotech/liqo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Enable dynamic and seamless Kubernetes multi-cluster topologies
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

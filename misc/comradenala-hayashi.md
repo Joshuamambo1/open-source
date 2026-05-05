@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Hayashi is an open-source project that enables the creation of Architecture Boundary Diagrams as code. This tool allows users to define and visualize system boundaries, interfaces, and dependencies in a structured and maintainable way. By codifying these diagrams, Hayashi facilitates collaboration, documentation, and version control of complex system architectures.
+Hayashi is an open-source project that enables users to create Architecture Boundary Diagrams (ABDs) through code. It provides a unique approach to visualizing system architecture by generating diagrams from source code, promoting a more efficient and scalable way to document complex system designs. This project facilitates collaboration and reduces errors in system documentation.
 
 ---
 

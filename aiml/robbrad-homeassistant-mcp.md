@@ -25,7 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The Home Assistant MCP Server is an open-source project that enables seamless integration between Home Assistant and AI assistants using the Model Context Protocol. This protocol allows users to control their smart home devices using natural language commands, providing a more intuitive and user-friendly experience. By leveraging AI assistants, users can effortlessly interact with their home automation system, enhancing their overall smart home experience.
+Here's a brief summary for the project:
+
+This open-source project, Home Assistant MCP Server, enables seamless integration of smart home devices with popular AI assistants using the Model Context Protocol (MCP). By leveraging the MCP, users can easily control and automate their smart home systems through their preferred AI assistant, such as voice assistants. This project simplifies the process of bridging the gap between smart home devices and AI-powered voice control.
 
 ---
 

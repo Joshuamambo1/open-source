@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/jyao97/xylocopa?style=flat-square&color=yellow)](https://github.com/jyao97/xylocopa/stargazers) [![Forks](https://img.shields.io/github/forks/jyao97/xylocopa?style=flat-square&color=blue)](https://github.com/jyao97/xylocopa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> Manage your Claude Code agents without losing focus. A low-friction, attention-first layer you can drive from your phone. 🐝
+> Orchestrate Claude Code agents like managing tasks in your to-do app. 🐝
 
 ## 📊 Stats
 

@@ -1,6 +1,6 @@
 # symgraph/IDAssistMCP
 
-[![Stars](https://img.shields.io/github/stars/symgraph/IDAssistMCP?style=flat-square&color=yellow)](https://github.com/symgraph/IDAssistMCP/stargazers) [![Forks](https://img.shields.io/github/forks/symgraph/IDAssistMCP?style=flat-square&color=blue)](https://github.com/symgraph/IDAssistMCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/symgraph/IDAssistMCP?style=flat-square&color=yellow)](https://github.com/symgraph/IDAssistMCP/stargazers) [![Forks](https://img.shields.io/github/forks/symgraph/IDAssistMCP?style=flat-square&color=blue)](https://github.com/symgraph/IDAssistMCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Standalone MCP server plugin for IDA Pro.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.2k |
-| 🍴 **Forks** | 539 |
+| 🍴 **Forks** | 541 |
 | 💻 **Language** | Nim |
 | 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | — |

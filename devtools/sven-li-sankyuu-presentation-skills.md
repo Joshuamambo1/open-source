@@ -25,9 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary in 2-3 sentences:
+Here's a 2-3 sentence summary for the open-source project:
 
-This open-source project, titled "presentation-skills," is a collection of reusable workflows for Codex CLI. It offers features such as editable PPT diagram collaboration, end-to-end web demo video synthesis, and more - making it a powerful tool for presentations. This DevTools project enables users to create, edit, and reproduce presentation content with ease.
+The Presentation Skills project is an open-source collection of reusable workflows for Codex CLI, designed to streamline presentation creation and delivery. It includes features such as collaborative, editable PPT diagram creation and end-to-end web demo video synthesis, enabling users to easily replicate and refine their presentation processes. This tool aims to enhance productivity and efficiency in presentation development and deployment.
 
 ---
 

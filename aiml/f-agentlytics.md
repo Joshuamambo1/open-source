@@ -1,6 +1,6 @@
 # f/agentlytics
 
-[![Stars](https://img.shields.io/github/stars/f/agentlytics?style=flat-square&color=yellow)](https://github.com/f/agentlytics/stargazers) [![Forks](https://img.shields.io/github/forks/f/agentlytics?style=flat-square&color=blue)](https://github.com/f/agentlytics/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/f/agentlytics?style=flat-square&color=yellow)](https://github.com/f/agentlytics/stargazers) [![Forks](https://img.shields.io/github/forks/f/agentlytics?style=flat-square&color=blue)](https://github.com/f/agentlytics/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 499 |
+| ⭐ **Stars** | 500 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

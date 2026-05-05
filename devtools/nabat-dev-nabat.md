@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The Adaptive CLI framework is an open-source project for Go that enables developers to create interactive command-line interfaces with structured output and customizable themes. This framework allows for dynamic input and response handling, making it suitable for complex CLI applications. With its adaptability and flexibility, it streamlines the development process for building robust and user-friendly CLIs.
+This open-source project provides an adaptive command-line interface (CLI) framework for Go, enabling developers to create interactive input experiences and structured output formats. The framework also supports customizable themes, allowing users to tailor the appearance of their CLI applications. By leveraging this framework, developers can create more engaging and user-friendly CLI tools.
 
 ---
 

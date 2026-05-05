@@ -25,7 +25,9 @@ Frontend · DevTools · Product
 
 ## 📝 Summary
 
-OpenBoot is an open-source project that simplifies Mac development by setting up a comprehensive dev environment with a single command. This includes a CLI, a user-friendly web dashboard, and features for team collaboration, all designed to make development more efficient and streamlined. By automating many setup tasks, OpenBoot aims to reduce the time and effort required to get up and running with a productive development environment.
+Here is a brief summary for the open-source project:
+
+OpenBoot is an open-source project that simplifies setting up a Mac development environment with just one command. It includes a CLI tool, a web dashboard, and team sharing capabilities, making it an efficient and collaborative solution for developers. With OpenBoot, you can quickly configure your Mac for development and share settings with your team.
 
 ---
 

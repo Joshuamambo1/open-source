@@ -25,9 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Apache SkyWalking Eyes is a comprehensive license management tool that enables developers to detect and rectify license headers, as well as resolve the licenses associated with project dependencies. This full-featured tool is designed to streamline the process of ensuring compliance with open-source licensing requirements. By utilizing SkyWalking Eyes, developers can maintain a clear and accurate picture of their project's licensing landscape.
+SkyWalking Eyes is an open-source license tool designed to detect and automatically correct license headers in codebase projects. It also helps identify and resolve potential licensing issues related to dependencies. This comprehensive tool streamlines the process of managing licenses and dependencies, ensuring compliance with various open-source licenses.
 
 ---
 

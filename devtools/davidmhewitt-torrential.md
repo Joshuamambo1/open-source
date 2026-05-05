@@ -25,9 +25,9 @@ DevTools
 
 ## 📝 Summary
 
-Here's a summary for the torrential project:
+Here's a brief summary for the project:
 
-Torrential is an open-source, simple torrent client designed specifically for elementary OS users. This lightweight application allows users to easily download and manage torrent files, making it a convenient option for those looking for a streamlined torrent experience on their elementary OS system. With its user-friendly interface, Torrential aims to provide a hassle-free torrent downloading experience.
+Torrential is a simple, open-source torrent client designed specifically for elementary OS users. This lightweight application provides a clean and intuitive interface for downloading and managing torrents, making it an ideal option for those seeking a hassle-free torrent experience on their Linux-based system. With a focus on ease of use, Torrential aims to make torrenting accessible to all users.
 
 ---
 

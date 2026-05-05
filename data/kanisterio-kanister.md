@@ -1,6 +1,6 @@
 # kanisterio/kanister
 
-[![Stars](https://img.shields.io/github/stars/kanisterio/kanister?style=flat-square&color=yellow)](https://github.com/kanisterio/kanister/stargazers) [![Forks](https://img.shields.io/github/forks/kanisterio/kanister?style=flat-square&color=blue)](https://github.com/kanisterio/kanister/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kanisterio/kanister?style=flat-square&color=yellow)](https://github.com/kanisterio/kanister/stargazers) [![Forks](https://img.shields.io/github/forks/kanisterio/kanister?style=flat-square&color=blue)](https://github.com/kanisterio/kanister/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 872 |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the "yuaotian/sanshu" project:
+Here's a brief summary of the open-source project:
 
-Sanshu is an open-source, multi-compiler (MCP) project that combines the binaries of various compilers, aiming for efficiency and simplicity. This project, developed by yuaotian, offers a convenient and open solution for users. By consolidating multiple compilers into one, Sanshu reduces complexity and enhances user experience.
+The sanshu project is an open-source, unified binary MCP (Multi-Controller Protocol) that combines the efforts of various contributors, aiming for efficiency and simplicity. It is a three-part MCP implementation that facilitates communication between different controllers and devices. The project is built on open-source principles, allowing for community-driven development and customization.
 
 ---
 

@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
-| 2 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.7k | Clojure | 100/100 |
+| 1 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.7k | Clojure | 100/100 |
+| 2 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
 | 3 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.8k | C# | 100/100 |
 | 4 | [ShareX/ShareX](./sharex-sharex.md) | ⭐ 37.2k | C# | 100/100 |
 | 5 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |

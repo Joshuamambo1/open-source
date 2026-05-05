@@ -1,6 +1,6 @@
 # platform-engineering-labs/formae
 
-[![Stars](https://img.shields.io/github/stars/platform-engineering-labs/formae?style=flat-square&color=yellow)](https://github.com/platform-engineering-labs/formae/stargazers) [![Forks](https://img.shields.io/github/forks/platform-engineering-labs/formae?style=flat-square&color=blue)](https://github.com/platform-engineering-labs/formae/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/platform-engineering-labs/formae?style=flat-square&color=yellow)](https://github.com/platform-engineering-labs/formae/stargazers) [![Forks](https://img.shields.io/github/forks/platform-engineering-labs/formae?style=flat-square&color=blue)](https://github.com/platform-engineering-labs/formae/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Infrastructure-as-Code Platform Built for the Future
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 722 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

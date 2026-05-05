@@ -25,9 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-The nextcloud-spreed-signaling project is an open-source, standalone signaling server designed for Nextcloud Talk, enabling seamless communication and collaboration within Nextcloud environments. This backend solution provides a reliable and scalable signaling infrastructure for real-time communication, facilitating efficient and secure connectivity between users. By leveraging this project, Nextcloud administrators can enhance their platform's communication capabilities.
+The Nextcloud Spreed Signaling project is an open-source, standalone signaling server designed to work in conjunction with Nextcloud Talk, a popular communication platform. This project enables secure, real-time communication by handling signaling and registration tasks separately from the main Nextcloud server. By using this signaling server, users can enjoy high-performance communication without compromising the security and stability of their Nextcloud instance.
 
 ---
 

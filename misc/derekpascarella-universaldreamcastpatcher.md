@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the Universal Dreamcast Patcher v2.0.0 project:
-
-The Universal Dreamcast Patcher v2.0.0 is an open-source project that aims to create a versatile tool for modifying and patching games on the Sega Dreamcast console. This project allows users to create custom patches for various Dreamcast games, providing a flexible solution for developers and enthusiasts alike. By utilizing this patcher, users can unlock new features, fix bugs, and enhance their gaming experience on the Dreamcast platform.
+The Universal Dreamcast Patcher v2.0.0 is an open-source tool designed to modify and patch various aspects of the Sega Dreamcast console and its games. This versatile software allows users to customize and personalize their Dreamcast experience, offering a range of features and functionalities for gamers and developers alike. The project aims to provide a comprehensive and user-friendly patching solution for the Dreamcast community.
 
 ---
 

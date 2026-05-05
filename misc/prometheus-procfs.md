@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The prometheus/procfs project is an open-source tool that provides functions to retrieve system, kernel, and process metrics from the pseudo-filesystem proc. This allows for the collection of various system metrics, such as CPU and memory usage, process information, and more, which can be used for monitoring and performance analysis. By leveraging procfs, developers can easily integrate these metrics into their monitoring systems.
+The prometheus/procfs project provides a set of functions to retrieve system, kernel, and process metrics from the pseudo-filesystem proc, making it easier to collect and monitor system data. By leveraging the procfs interface, users can access a wide range of system metrics, including CPU usage, memory information, and process details. This open-source project enables developers to easily integrate system metrics into their monitoring and logging workflows.
 
 ---
 

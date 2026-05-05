@@ -1,16 +1,16 @@
 # lonr-6/cc-desktop-switch
 
-[![Stars](https://img.shields.io/github/stars/lonr-6/cc-desktop-switch?style=flat-square&color=yellow)](https://github.com/lonr-6/cc-desktop-switch/stargazers) [![Forks](https://img.shields.io/github/forks/lonr-6/cc-desktop-switch?style=flat-square&color=blue)](https://github.com/lonr-6/cc-desktop-switch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lonr-6/cc-desktop-switch?style=flat-square&color=yellow)](https://github.com/lonr-6/cc-desktop-switch/stargazers) [![Forks](https://img.shields.io/github/forks/lonr-6/cc-desktop-switch?style=flat-square&color=blue)](https://github.com/lonr-6/cc-desktop-switch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
-> Windows desktop app for connecting Claude Desktop to Anthropic-compatible providers like DeepSeek, Kimi, Qiniu, Zhipu, SiliconFlow and Bailian.
+> Lightweight desktop tool for configuring DeepSeek, Kimi, Zhipu GLM and Bailian providers in Claude Desktop.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 181 |
-| 🍴 **Forks** | 11 |
-| 💻 **Language** | Rust |
+| ⭐ **Stars** | 186 |
+| 🍴 **Forks** | 12 |
+| 💻 **Language** | Python |
 | 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML
 
 ## 📝 Summary
 

@@ -25,7 +25,9 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The ray-finance project is an open-source, AI-powered financial advisor that uses machine learning to understand an individual's financial situation and adapt to their needs over time. This tool is designed to become increasingly intelligent with each conversation, providing personalized and informed financial guidance to users. By leveraging AI and machine learning, ray-finance aims to empower individuals to make more informed financial decisions.
+Here's a brief summary for the open-source project:
+
+"Ray Finance is an open-source AI financial advisor that utilizes machine learning to develop a personalized understanding of an individual's financial situation. With each conversation, it continuously adapts and improves its recommendations, providing users with tailored financial guidance. This project empowers users to make informed financial decisions by leveraging the power of AI and machine learning technology."
 
 ---
 

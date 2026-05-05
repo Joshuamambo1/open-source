@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16676** |
+| 🗂️ **Total projects** | **16715** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6207 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3499 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1643 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1200 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 1022 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 6224 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3506 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1648 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1202 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 1024 | [Browse →](./backend/) |
 | 🔧 **DevTools** | 973 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 560 | [Browse →](./crypto/) |
-| 📊 **Data** | 381 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 363 | [Browse →](./devopsinfra/) |
+| ⛓️ **Crypto** | 562 | [Browse →](./crypto/) |
+| 📊 **Data** | 382 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 365 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 227 | [Browse →](./mobile/) |
 | 📈 **Trading** | 170 | [Browse →](./trading/) |
 | 💳 **Payments** | 169 | [Browse →](./payments/) |
-| 🔐 **Security** | 142 | [Browse →](./security/) |
+| 🔐 **Security** | 143 | [Browse →](./security/) |
 | ✨ **Design** | 56 | [Browse →](./design/) |
 | 🎯 **Product** | 33 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [shuaibiyy/awesome-tf](./aiml/shuaibiyy-awesome-tf.md) | ⭐ 6.4k | AI/ML |
-| 2 | [cheeriojs/cheerio](./aiml/cheeriojs-cheerio.md) | ⭐ 30.3k | AI/ML |
-| 3 | [prowler-cloud/prowler](./security/prowler-cloud-prowler.md) | ⭐ 13.7k | Security |
-| 4 | [mochajs/mocha](./devtools/mochajs-mocha.md) | ⭐ 22.9k | DevTools |
-| 5 | [swagger-api/swagger-ui](./aiml/swagger-api-swagger-ui.md) | ⭐ 28.8k | AI/ML |
-| 6 | [FlowiseAI/Flowise](./orchestration/flowiseai-flowise.md) | ⭐ 52.5k | Orchestration |
-| 7 | [AstrBotDevs/AstrBot](./aiml/astrbotdevs-astrbot.md) | ⭐ 31.3k | AI/ML |
-| 8 | [jhy/jsoup](./aiml/jhy-jsoup.md) | ⭐ 11.4k | AI/ML |
-| 9 | [Donchitos/Claude-Code-Game-Studios](./aiml/donchitos-claude-code-game-studios.md) | ⭐ 17.2k | AI/ML |
-| 10 | [datahub-project/datahub](./aiml/datahub-project-datahub.md) | ⭐ 11.9k | AI/ML |
+| 1 | [cheeriojs/cheerio](./aiml/cheeriojs-cheerio.md) | ⭐ 30.3k | AI/ML |
+| 2 | [mochajs/mocha](./devtools/mochajs-mocha.md) | ⭐ 22.9k | DevTools |
+| 3 | [swagger-api/swagger-ui](./aiml/swagger-api-swagger-ui.md) | ⭐ 28.8k | AI/ML |
+| 4 | [strapi/strapi](./backend/strapi-strapi.md) | ⭐ 72.1k | Backend |
+| 5 | [jhy/jsoup](./aiml/jhy-jsoup.md) | ⭐ 11.4k | AI/ML |
+| 6 | [Donchitos/Claude-Code-Game-Studios](./aiml/donchitos-claude-code-game-studios.md) | ⭐ 17.2k | AI/ML |
+| 7 | [datahub-project/datahub](./aiml/datahub-project-datahub.md) | ⭐ 11.9k | AI/ML |
+| 8 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
+| 9 | [apache/tvm](./misc/apache-tvm.md) | ⭐ 13.3k | Misc |
+| 10 | [temporalio/temporal](./orchestration/temporalio-temporal.md) | ⭐ 20k | Orchestration |
 
 ## 🚀 How it works
 

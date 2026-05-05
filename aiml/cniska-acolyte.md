@@ -1,6 +1,6 @@
 # cniska/acolyte
 
-[![Stars](https://img.shields.io/github/stars/cniska/acolyte?style=flat-square&color=yellow)](https://github.com/cniska/acolyte/stargazers) [![Forks](https://img.shields.io/github/forks/cniska/acolyte?style=flat-square&color=blue)](https://github.com/cniska/acolyte/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cniska/acolyte?style=flat-square&color=yellow)](https://github.com/cniska/acolyte/stargazers) [![Forks](https://img.shields.io/github/forks/cniska/acolyte?style=flat-square&color=blue)](https://github.com/cniska/acolyte/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal-first AI coding agent. Open-source, observable, and built for developer control.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23 |
+| ⭐ **Stars** | 24 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

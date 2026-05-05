@@ -27,7 +27,7 @@
 | 17 | [usertour/usertour](./usertour-usertour.md) | ⭐ 2k | TypeScript | 66/100 |
 | 18 | [beam-community/elixir-companies](./beam-community-elixir-companies.md) | ⭐ 1.7k | Astro | 63/100 |
 | 19 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 752 | C# | 59/100 |
-| 20 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 705 | Rust | 56/100 |
+| 20 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 706 | Rust | 56/100 |
 | 21 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 537 | C | 56/100 |
 | 22 | [pimutils/todoman](./pimutils-todoman.md) | ⭐ 575 | Python | 55/100 |
 | 23 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 740 | Go | 54/100 |

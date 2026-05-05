@@ -1,6 +1,6 @@
 # samber/cc-caffeine
 
-[![Stars](https://img.shields.io/github/stars/samber/cc-caffeine?style=flat-square&color=yellow)](https://github.com/samber/cc-caffeine/stargazers) [![Forks](https://img.shields.io/github/forks/samber/cc-caffeine?style=flat-square&color=blue)](https://github.com/samber/cc-caffeine/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samber/cc-caffeine?style=flat-square&color=yellow)](https://github.com/samber/cc-caffeine/stargazers) [![Forks](https://img.shields.io/github/forks/samber/cc-caffeine?style=flat-square&color=blue)](https://github.com/samber/cc-caffeine/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ☕️ Prevents your computer from sleeping while Claude Code works hard
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

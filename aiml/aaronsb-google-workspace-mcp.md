@@ -1,6 +1,6 @@
 # aaronsb/google-workspace-mcp
 
-[![Stars](https://img.shields.io/github/stars/aaronsb/google-workspace-mcp?style=flat-square&color=yellow)](https://github.com/aaronsb/google-workspace-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/aaronsb/google-workspace-mcp?style=flat-square&color=blue)](https://github.com/aaronsb/google-workspace-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aaronsb/google-workspace-mcp?style=flat-square&color=yellow)](https://github.com/aaronsb/google-workspace-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/aaronsb/google-workspace-mcp?style=flat-square&color=blue)](https://github.com/aaronsb/google-workspace-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that provides authenticated access to Google Workspace APIs, offering integrated Authentication, Gmail, Calendar, and Drive functionality
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

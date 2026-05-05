@@ -1,6 +1,6 @@
 # anatol/vmtest
 
-[![Stars](https://img.shields.io/github/stars/anatol/vmtest?style=flat-square&color=yellow)](https://github.com/anatol/vmtest/stargazers) [![Forks](https://img.shields.io/github/forks/anatol/vmtest?style=flat-square&color=blue)](https://github.com/anatol/vmtest/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anatol/vmtest?style=flat-square&color=yellow)](https://github.com/anatol/vmtest/stargazers) [![Forks](https://img.shields.io/github/forks/anatol/vmtest?style=flat-square&color=blue)](https://github.com/anatol/vmtest/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Go framework for integration testing with Virtual machines (e.g. QEMU)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16515** |
+| 🗂️ **Total projects** | **16536** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6136 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 6144 | [Browse →](./aiml/) |
 | 📦 **Misc** | 3470 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1631 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1191 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 1013 | [Browse →](./backend/) |
+| 🎨 **Frontend** | 1632 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1194 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 1016 | [Browse →](./backend/) |
 | 🔧 **DevTools** | 964 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 556 | [Browse →](./crypto/) |
-| 📊 **Data** | 376 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 355 | [Browse →](./devopsinfra/) |
+| 📊 **Data** | 377 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 358 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 226 | [Browse →](./mobile/) |
+| 📈 **Trading** | 170 | [Browse →](./trading/) |
 | 💳 **Payments** | 169 | [Browse →](./payments/) |
-| 📈 **Trading** | 169 | [Browse →](./trading/) |
 | 🔐 **Security** | 139 | [Browse →](./security/) |
-| ✨ **Design** | 56 | [Browse →](./design/) |
+| ✨ **Design** | 57 | [Browse →](./design/) |
 | 🎯 **Product** | 33 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [redox-os/redox](./misc/redox-os-redox.md) | ⭐ 16.3k | Misc |
-| 2 | [endless-sky/endless-sky](./trading/endless-sky-endless-sky.md) | ⭐ 7.3k | Trading |
-| 3 | [biomejs/biome](./aiml/biomejs-biome.md) | ⭐ 24.5k | AI/ML |
-| 4 | [MarSeventh/CloudFlare-ImgBed](./aiml/marseventh-cloudflare-imgbed.md) | ⭐ 5k | AI/ML |
-| 5 | [recharts/recharts](./crypto/recharts-recharts.md) | ⭐ 27.1k | Crypto |
-| 6 | [charmbracelet/bubbletea](./frontend/charmbracelet-bubbletea.md) | ⭐ 42.1k | Frontend |
-| 7 | [Lissy93/dashy](./frontend/lissy93-dashy.md) | ⭐ 25k | Frontend |
-| 8 | [Wox-launcher/Wox](./misc/wox-launcher-wox.md) | ⭐ 26.8k | Misc |
-| 9 | [Sjj1024/PakePlus](./aiml/sjj1024-pakeplus.md) | ⭐ 11.9k | AI/ML |
-| 10 | [rabbitmq/rabbitmq-server](./frontend/rabbitmq-rabbitmq-server.md) | ⭐ 13.6k | Frontend |
+| 1 | [Wox-launcher/Wox](./misc/wox-launcher-wox.md) | ⭐ 26.8k | Misc |
+| 2 | [Sjj1024/PakePlus](./aiml/sjj1024-pakeplus.md) | ⭐ 11.9k | AI/ML |
+| 3 | [apache/casbin](./aiml/apache-casbin.md) | ⭐ 20.1k | AI/ML |
+| 4 | [OthmanAdi/planning-with-files](./orchestration/othmanadi-planning-with-files.md) | ⭐ 20.4k | Orchestration |
+| 5 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
+| 6 | [hoppscotch/hoppscotch](./frontend/hoppscotch-hoppscotch.md) | ⭐ 79.1k | Frontend |
+| 7 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
+| 8 | [sorin-ionescu/prezto](./devtools/sorin-ionescu-prezto.md) | ⭐ 14.5k | DevTools |
+| 9 | [flame-engine/flame](./mobile/flame-engine-flame.md) | ⭐ 10.6k | Mobile |
+| 10 | [OpenRefine/OpenRefine](./data/openrefine-openrefine.md) | ⭐ 11.8k | Data |
 
 ## 🚀 How it works
 

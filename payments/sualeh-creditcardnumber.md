@@ -1,6 +1,6 @@
 # sualeh/creditcardnumber
 
-[![Stars](https://img.shields.io/github/stars/sualeh/creditcardnumber?style=flat-square&color=yellow)](https://github.com/sualeh/creditcardnumber/stargazers) [![Forks](https://img.shields.io/github/forks/sualeh/creditcardnumber?style=flat-square&color=blue)](https://github.com/sualeh/creditcardnumber/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sualeh/creditcardnumber?style=flat-square&color=yellow)](https://github.com/sualeh/creditcardnumber/stargazers) [![Forks](https://img.shields.io/github/forks/sualeh/creditcardnumber?style=flat-square&color=blue)](https://github.com/sualeh/creditcardnumber/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Java library that can provide details of a bank issued credit card number
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

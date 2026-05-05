@@ -1,6 +1,6 @@
 # gopacket/gopacket
 
-[![Stars](https://img.shields.io/github/stars/gopacket/gopacket?style=flat-square&color=yellow)](https://github.com/gopacket/gopacket/stargazers) [![Forks](https://img.shields.io/github/forks/gopacket/gopacket?style=flat-square&color=blue)](https://github.com/gopacket/gopacket/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gopacket/gopacket?style=flat-square&color=yellow)](https://github.com/gopacket/gopacket/stargazers) [![Forks](https://img.shields.io/github/forks/gopacket/gopacket?style=flat-square&color=blue)](https://github.com/gopacket/gopacket/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Provides packet processing capabilities for Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # dart-lang/test
 
-[![Stars](https://img.shields.io/github/stars/dart-lang/test?style=flat-square&color=yellow)](https://github.com/dart-lang/test/stargazers) [![Forks](https://img.shields.io/github/forks/dart-lang/test?style=flat-square&color=blue)](https://github.com/dart-lang/test/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dart-lang/test?style=flat-square&color=yellow)](https://github.com/dart-lang/test/stargazers) [![Forks](https://img.shields.io/github/forks/dart-lang/test?style=flat-square&color=blue)](https://github.com/dart-lang/test/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A library for writing unit tests in Dart.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 529 |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

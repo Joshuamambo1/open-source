@@ -1,6 +1,6 @@
 # jonathanpeppers/dotnes
 
-[![Stars](https://img.shields.io/github/stars/jonathanpeppers/dotnes?style=flat-square&color=yellow)](https://github.com/jonathanpeppers/dotnes/stargazers) [![Forks](https://img.shields.io/github/forks/jonathanpeppers/dotnes?style=flat-square&color=blue)](https://github.com/jonathanpeppers/dotnes/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonathanpeppers/dotnes?style=flat-square&color=yellow)](https://github.com/jonathanpeppers/dotnes/stargazers) [![Forks](https://img.shields.io/github/forks/jonathanpeppers/dotnes?style=flat-square&color=blue)](https://github.com/jonathanpeppers/dotnes/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > .NET for the NES game console
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 675 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

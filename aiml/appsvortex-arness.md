@@ -1,6 +1,6 @@
 # AppsVortex/arness
 
-[![Stars](https://img.shields.io/github/stars/AppsVortex/arness?style=flat-square&color=yellow)](https://github.com/AppsVortex/arness/stargazers) [![Forks](https://img.shields.io/github/forks/AppsVortex/arness?style=flat-square&color=blue)](https://github.com/AppsVortex/arness/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AppsVortex/arness?style=flat-square&color=yellow)](https://github.com/AppsVortex/arness/stargazers) [![Forks](https://img.shields.io/github/forks/AppsVortex/arness?style=flat-square&color=blue)](https://github.com/AppsVortex/arness/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Structured AI workflows for Claude Code — from first idea to production deploy. Three plugins: Spark (discovery & prototyping), Code (development pipeline), Infra (infrastructure & deployment).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

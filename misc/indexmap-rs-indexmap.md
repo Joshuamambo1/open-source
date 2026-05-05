@@ -1,6 +1,6 @@
 # indexmap-rs/indexmap
 
-[![Stars](https://img.shields.io/github/stars/indexmap-rs/indexmap?style=flat-square&color=yellow)](https://github.com/indexmap-rs/indexmap/stargazers) [![Forks](https://img.shields.io/github/forks/indexmap-rs/indexmap?style=flat-square&color=blue)](https://github.com/indexmap-rs/indexmap/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/indexmap-rs/indexmap?style=flat-square&color=yellow)](https://github.com/indexmap-rs/indexmap/stargazers) [![Forks](https://img.shields.io/github/forks/indexmap-rs/indexmap?style=flat-square&color=blue)](https://github.com/indexmap-rs/indexmap/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A hash table with consistent order and fast iteration; access items by key or sequence index
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

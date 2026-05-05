@@ -1,6 +1,6 @@
 # openchamber/openchamber
 
-[![Stars](https://img.shields.io/github/stars/openchamber/openchamber?style=flat-square&color=yellow)](https://github.com/openchamber/openchamber/stargazers) [![Forks](https://img.shields.io/github/forks/openchamber/openchamber?style=flat-square&color=blue)](https://github.com/openchamber/openchamber/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openchamber/openchamber?style=flat-square&color=yellow)](https://github.com/openchamber/openchamber/stargazers) [![Forks](https://img.shields.io/github/forks/openchamber/openchamber?style=flat-square&color=blue)](https://github.com/openchamber/openchamber/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop and web interface for OpenCode AI agent
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 372 |
+| 🍴 **Forks** | 373 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

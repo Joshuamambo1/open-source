@@ -1,6 +1,6 @@
 # binghe001/BingheGuide
 
-[![Stars](https://img.shields.io/github/stars/binghe001/BingheGuide?style=flat-square&color=yellow)](https://github.com/binghe001/BingheGuide/stargazers) [![Forks](https://img.shields.io/github/forks/binghe001/BingheGuide?style=flat-square&color=blue)](https://github.com/binghe001/BingheGuide/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/binghe001/BingheGuide?style=flat-square&color=yellow)](https://github.com/binghe001/BingheGuide/stargazers) [![Forks](https://img.shields.io/github/forks/binghe001/BingheGuide?style=flat-square&color=blue)](https://github.com/binghe001/BingheGuide/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥🔥🔥 📚 本代码库是作者冰河多年从事互联网大厂开发、架构的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写AI大模型、Java和Go核心内容、底层原理、架构知识、渗透技术。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 389 |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

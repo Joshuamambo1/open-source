@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/initMAX/zabbix-mcp-server?style=flat-square&color=yellow)](https://github.com/initMAX/zabbix-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/initMAX/zabbix-mcp-server?style=flat-square&color=blue)](https://github.com/initMAX/zabbix-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
-> MCP server for the complete Zabbix API — 231 tools, multi-server support, bearer auth, systemd ready. Works with ChatGPT, Claude, VS Code, Codex, JetBrains and any MCP client.
+> MCP server for the complete Zabbix API - 237 tools, multi-server, OAuth 2.1 + bearer auth, PDF reports, systemd ready. Works with ChatGPT, Claude, VS Code, Codex, JetBrains and any MCP client.
 
 ## 📊 Stats
 

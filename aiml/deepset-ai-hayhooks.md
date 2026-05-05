@@ -1,6 +1,6 @@
 # deepset-ai/hayhooks
 
-[![Stars](https://img.shields.io/github/stars/deepset-ai/hayhooks?style=flat-square&color=yellow)](https://github.com/deepset-ai/hayhooks/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/hayhooks?style=flat-square&color=blue)](https://github.com/deepset-ai/hayhooks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepset-ai/hayhooks?style=flat-square&color=yellow)](https://github.com/deepset-ai/hayhooks/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/hayhooks?style=flat-square&color=blue)](https://github.com/deepset-ai/hayhooks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Easily deploy Haystack pipelines as REST APIs and MCP Tools.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 138 |
+| ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

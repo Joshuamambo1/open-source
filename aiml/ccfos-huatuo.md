@@ -1,6 +1,6 @@
 # ccfos/huatuo
 
-[![Stars](https://img.shields.io/github/stars/ccfos/huatuo?style=flat-square&color=yellow)](https://github.com/ccfos/huatuo/stargazers) [![Forks](https://img.shields.io/github/forks/ccfos/huatuo?style=flat-square&color=blue)](https://github.com/ccfos/huatuo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ccfos/huatuo?style=flat-square&color=yellow)](https://github.com/ccfos/huatuo/stargazers) [![Forks](https://img.shields.io/github/forks/ccfos/huatuo?style=flat-square&color=blue)](https://github.com/ccfos/huatuo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The cloud-native operating system observability project based on eBPF.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 955 |
+| ⭐ **Stars** | 952 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

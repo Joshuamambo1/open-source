@@ -1,6 +1,6 @@
 # noborus/trdsql
 
-[![Stars](https://img.shields.io/github/stars/noborus/trdsql?style=flat-square&color=yellow)](https://github.com/noborus/trdsql/stargazers) [![Forks](https://img.shields.io/github/forks/noborus/trdsql?style=flat-square&color=blue)](https://github.com/noborus/trdsql/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noborus/trdsql?style=flat-square&color=yellow)](https://github.com/noborus/trdsql/stargazers) [![Forks](https://img.shields.io/github/forks/noborus/trdsql?style=flat-square&color=blue)](https://github.com/noborus/trdsql/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

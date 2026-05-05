@@ -1,6 +1,6 @@
 # Hebbian-Robotics/openpi-flash
 
-[![Stars](https://img.shields.io/github/stars/Hebbian-Robotics/openpi-flash?style=flat-square&color=yellow)](https://github.com/Hebbian-Robotics/openpi-flash/stargazers) [![Forks](https://img.shields.io/github/forks/Hebbian-Robotics/openpi-flash?style=flat-square&color=blue)](https://github.com/Hebbian-Robotics/openpi-flash/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hebbian-Robotics/openpi-flash?style=flat-square&color=yellow)](https://github.com/Hebbian-Robotics/openpi-flash/stargazers) [![Forks](https://img.shields.io/github/forks/Hebbian-Robotics/openpi-flash?style=flat-square&color=blue)](https://github.com/Hebbian-Robotics/openpi-flash/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time inference engine for openpi
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

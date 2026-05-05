@@ -1,6 +1,6 @@
 # NVIDIA/torch-harmonics
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/torch-harmonics?style=flat-square&color=yellow)](https://github.com/NVIDIA/torch-harmonics/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/torch-harmonics?style=flat-square&color=blue)](https://github.com/NVIDIA/torch-harmonics/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/torch-harmonics?style=flat-square&color=yellow)](https://github.com/NVIDIA/torch-harmonics/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/torch-harmonics?style=flat-square&color=blue)](https://github.com/NVIDIA/torch-harmonics/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Differentiable signal processing on the sphere for PyTorch
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 667 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

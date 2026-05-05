@@ -27,7 +27,7 @@ AI/ML · Backend
 
 Here's a brief summary for the OpenAra project:
 
-OpenAra is an open-source project that enables computer use in any agent, making it a versatile and accessible technology. This project falls under the categories of Artificial Intelligence/Machine Learning (AI/ML) and Backend development, indicating its potential for integration with various AI and software systems. By harnessing the power of OpenAra, developers can unlock new possibilities for agent-based applications.
+OpenAra is an open-source project that enables computer use in any agent, allowing for the integration of artificial intelligence and machine learning capabilities. This backend-focused initiative aims to provide a flexible and adaptable framework for developing intelligent systems that can interact with various agents and environments. By leveraging OpenAra, developers can create more sophisticated and autonomous applications.
 
 ---
 

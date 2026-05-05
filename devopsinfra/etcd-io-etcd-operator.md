@@ -25,9 +25,7 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the etcd-operator project:
-
-The etcd-operator is an open-source Kubernetes operator that simplifies the management and operation of etcd clusters. This official etcd operator provides a scalable, reliable, and automated way to deploy, manage, and maintain etcd clusters within Kubernetes environments. By leveraging the operator, users can ensure high availability, data consistency, and seamless integration with their existing Kubernetes workflows.
+The etcd-operator is an open-source Kubernetes operator that manages and automates the deployment, scaling, and maintenance of etcd clusters. As the official operator for etcd, it simplifies the process of running and operating distributed key-value stores in Kubernetes environments. This operator helps ensure high availability, scalability, and reliability of etcd clusters.
 
 ---
 

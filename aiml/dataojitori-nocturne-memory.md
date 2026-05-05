@@ -25,9 +25,7 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Dataojitori/nocturne_memory project:
-
-Dataojitori/nocturne_memory is an open-source, visual Long-Term Memory Server designed for MCP Agents. This lightweight, rollbackable server provides persistent, graph-like structured memory across any model, session, or tool, offering a drop-in replacement for OpenClaw. It empowers AI systems with the ability to retain knowledge and experience, reducing the need for Vector RAG and amnesia.
+Dataojitori/nocturne_memory is an open-source, lightweight Long-Term Memory Server designed for MCP Agents. This project enables persistent, graph-like structured memory across various models, sessions, and tools, eliminating the need for Vector RAG and amnesia. It serves as a drop-in replacement for OpenClaw, empowering AI with a robust memory system.
 
 ---
 

@@ -1,6 +1,6 @@
 # endigo/flutter_pdfview
 
-[![Stars](https://img.shields.io/github/stars/endigo/flutter_pdfview?style=flat-square&color=yellow)](https://github.com/endigo/flutter_pdfview/stargazers) [![Forks](https://img.shields.io/github/forks/endigo/flutter_pdfview?style=flat-square&color=blue)](https://github.com/endigo/flutter_pdfview/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/endigo/flutter_pdfview?style=flat-square&color=yellow)](https://github.com/endigo/flutter_pdfview/stargazers) [![Forks](https://img.shields.io/github/forks/endigo/flutter_pdfview?style=flat-square&color=blue)](https://github.com/endigo/flutter_pdfview/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > PDF view for Flutter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

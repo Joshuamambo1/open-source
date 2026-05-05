@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/ChanMeng666/claude-code-audio-hooks?style=flat-square&color=yellow)](https://github.com/ChanMeng666/claude-code-audio-hooks/stargazers) [![Forks](https://img.shields.io/github/forks/ChanMeng666/claude-code-audio-hooks?style=flat-square&color=blue)](https://github.com/ChanMeng666/claude-code-audio-hooks/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> 🔊 AI-operated audio notifications for Claude Code & Cursor IDE — 26 hooks, voice + chime themes, TTS, webhooks, rate-limit alerts, status line. One slash command to install, then natural language forever.
+> 🔊 echook — AI-operated audio notifications for Claude Code, Cursor IDE & Codex CLI — 26 hooks, voice + chime themes, TTS, webhooks, rate-limit alerts, status line. Tell your AI agent to install — natural language forever after.
 
 ## 📊 Stats
 

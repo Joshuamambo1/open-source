@@ -10,14 +10,14 @@
 |---|---|---|---|---|
 | 1 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.7k | Clojure | 100/100 |
 | 2 | [opf/openproject](./opf-openproject.md) | ⭐ 15k | Ruby | 100/100 |
-| 3 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.8k | C# | 100/100 |
-| 4 | [ShareX/ShareX](./sharex-sharex.md) | ⭐ 37.2k | C# | 100/100 |
-| 5 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
+| 3 | [dariubs/GoBooks](./dariubs-gobooks.md) | ⭐ 19.4k | Go | 100/100 |
+| 4 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 132.8k | C# | 100/100 |
+| 5 | [ShareX/ShareX](./sharex-sharex.md) | ⭐ 37.2k | C# | 100/100 |
 | 6 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.5k | TypeScript | 99/100 |
 | 7 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.9k | C++ | 96/100 |
 | 8 | [spring-projects/spring-boot](./spring-projects-spring-boot.md) | ⭐ 80.6k | Java | 95/100 |
-| 9 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9.1k | Python | 92/100 |
-| 10 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.2k | Rust | 92/100 |
+| 9 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.2k | Rust | 92/100 |
+| 10 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9.1k | Python | 92/100 |
 | 11 | [liuchong/awesome-roadmaps](./liuchong-awesome-roadmaps.md) | ⭐ 6.9k | — | 88/100 |
 | 12 | [johnste/finicky](./johnste-finicky.md) | ⭐ 4.8k | Go | 86/100 |
 | 13 | [dreamworksanimation/openmoonray](./dreamworksanimation-openmoonray.md) | ⭐ 4.6k | CMake | 77/100 |

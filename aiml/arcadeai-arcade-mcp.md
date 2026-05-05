@@ -1,6 +1,6 @@
 # ArcadeAI/arcade-mcp
 
-[![Stars](https://img.shields.io/github/stars/ArcadeAI/arcade-mcp?style=flat-square&color=yellow)](https://github.com/ArcadeAI/arcade-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ArcadeAI/arcade-mcp?style=flat-square&color=blue)](https://github.com/ArcadeAI/arcade-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArcadeAI/arcade-mcp?style=flat-square&color=yellow)](https://github.com/ArcadeAI/arcade-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ArcadeAI/arcade-mcp?style=flat-square&color=blue)](https://github.com/ArcadeAI/arcade-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server Framework and Tool Development library for building custom capabilities into agents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 880 |
+| ⭐ **Stars** | 881 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

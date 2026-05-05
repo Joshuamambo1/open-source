@@ -1,6 +1,6 @@
 # atomvm/AtomVM
 
-[![Stars](https://img.shields.io/github/stars/atomvm/AtomVM?style=flat-square&color=yellow)](https://github.com/atomvm/AtomVM/stargazers) [![Forks](https://img.shields.io/github/forks/atomvm/AtomVM?style=flat-square&color=blue)](https://github.com/atomvm/AtomVM/network) [![Language](https://img.shields.io/badge/lang-Erlang-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atomvm/AtomVM?style=flat-square&color=yellow)](https://github.com/atomvm/AtomVM/stargazers) [![Forks](https://img.shields.io/github/forks/atomvm/AtomVM?style=flat-square&color=blue)](https://github.com/atomvm/AtomVM/network) [![Language](https://img.shields.io/badge/lang-Erlang-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Tiny Erlang VM
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Erlang |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

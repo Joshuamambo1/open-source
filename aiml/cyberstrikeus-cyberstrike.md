@@ -1,6 +1,6 @@
 # CyberStrikeus/CyberStrike
 
-[![Stars](https://img.shields.io/github/stars/CyberStrikeus/CyberStrike?style=flat-square&color=yellow)](https://github.com/CyberStrikeus/CyberStrike/stargazers) [![Forks](https://img.shields.io/github/forks/CyberStrikeus/CyberStrike?style=flat-square&color=blue)](https://github.com/CyberStrikeus/CyberStrike/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CyberStrikeus/CyberStrike?style=flat-square&color=yellow)](https://github.com/CyberStrikeus/CyberStrike/stargazers) [![Forks](https://img.shields.io/github/forks/CyberStrikeus/CyberStrike?style=flat-square&color=blue)](https://github.com/CyberStrikeus/CyberStrike/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 249 |
-| 🍴 **Forks** | 50 |
+| ⭐ **Stars** | 250 |
+| 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

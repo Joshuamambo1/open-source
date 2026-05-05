@@ -1,6 +1,6 @@
 # sgl-project/rbg
 
-[![Stars](https://img.shields.io/github/stars/sgl-project/rbg?style=flat-square&color=yellow)](https://github.com/sgl-project/rbg/stargazers) [![Forks](https://img.shields.io/github/forks/sgl-project/rbg?style=flat-square&color=blue)](https://github.com/sgl-project/rbg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sgl-project/rbg?style=flat-square&color=yellow)](https://github.com/sgl-project/rbg/stargazers) [![Forks](https://img.shields.io/github/forks/sgl-project/rbg?style=flat-square&color=blue)](https://github.com/sgl-project/rbg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A workload for deploying LLM inference services on Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

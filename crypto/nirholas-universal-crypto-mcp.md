@@ -1,6 +1,6 @@
 # nirholas/universal-crypto-mcp
 
-[![Stars](https://img.shields.io/github/stars/nirholas/universal-crypto-mcp?style=flat-square&color=yellow)](https://github.com/nirholas/universal-crypto-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/universal-crypto-mcp?style=flat-square&color=blue)](https://github.com/nirholas/universal-crypto-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirholas/universal-crypto-mcp?style=flat-square&color=yellow)](https://github.com/nirholas/universal-crypto-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/universal-crypto-mcp?style=flat-square&color=blue)](https://github.com/nirholas/universal-crypto-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Universal MCP server for AI agents to interact with any* blockchain via natural language and plugins. Supports swaps, bridges, gas, staking, lending, and more across Ethereum, Arbitrum, Base, Polygon, BSC, and testnets.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

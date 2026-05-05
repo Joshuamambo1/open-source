@@ -1,6 +1,6 @@
 # catatsuy/kekkai
 
-[![Stars](https://img.shields.io/github/stars/catatsuy/kekkai?style=flat-square&color=yellow)](https://github.com/catatsuy/kekkai/stargazers) [![Forks](https://img.shields.io/github/forks/catatsuy/kekkai?style=flat-square&color=blue)](https://github.com/catatsuy/kekkai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/catatsuy/kekkai?style=flat-square&color=yellow)](https://github.com/catatsuy/kekkai/stargazers) [![Forks](https://img.shields.io/github/forks/catatsuy/kekkai?style=flat-square&color=blue)](https://github.com/catatsuy/kekkai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight Go tool for detecting file tampering by comparing content-based hashes stored securely in S3.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

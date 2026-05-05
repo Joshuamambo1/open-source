@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-WhenFS is an innovative open-source project that integrates a calendar with a file system, allowing users to interact with their schedule as if it were a directory structure. This unique approach enables seamless organization and navigation of calendar events, appointments, and reminders, making it easier to manage time and tasks. By reimagining the calendar as a file system, WhenFS offers a fresh perspective on calendar management.
+WhenFS is an innovative open-source project that transforms a calendar into a file system, allowing users to manage and interact with their schedules in a unique and creative way. By treating a calendar as a file system, users can navigate and access their events, appointments, and reminders through a familiar directory structure. This project offers a novel approach to calendar management, making it a fascinating tool for those interested in experimenting with new ideas.
 
 ---
 

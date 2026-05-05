@@ -1,6 +1,6 @@
 # SagerNet/sing-tun
 
-[![Stars](https://img.shields.io/github/stars/SagerNet/sing-tun?style=flat-square&color=yellow)](https://github.com/SagerNet/sing-tun/stargazers) [![Forks](https://img.shields.io/github/forks/SagerNet/sing-tun?style=flat-square&color=blue)](https://github.com/SagerNet/sing-tun/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SagerNet/sing-tun?style=flat-square&color=yellow)](https://github.com/SagerNet/sing-tun/stargazers) [![Forks](https://img.shields.io/github/forks/SagerNet/sing-tun?style=flat-square&color=blue)](https://github.com/SagerNet/sing-tun/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Simple transparent proxy library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

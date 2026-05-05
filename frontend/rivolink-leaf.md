@@ -1,6 +1,6 @@
 # RivoLink/leaf
 
-[![Stars](https://img.shields.io/github/stars/RivoLink/leaf?style=flat-square&color=yellow)](https://github.com/RivoLink/leaf/stargazers) [![Forks](https://img.shields.io/github/forks/RivoLink/leaf?style=flat-square&color=blue)](https://github.com/RivoLink/leaf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RivoLink/leaf?style=flat-square&color=yellow)](https://github.com/RivoLink/leaf/stargazers) [![Forks](https://img.shields.io/github/forks/RivoLink/leaf?style=flat-square&color=blue)](https://github.com/RivoLink/leaf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal Markdown previewer — GUI-like experience.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 678 |
-| 🍴 **Forks** | 16 |
+| ⭐ **Stars** | 694 |
+| 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # speakeasy-api/speakeasy
 
-[![Stars](https://img.shields.io/github/stars/speakeasy-api/speakeasy?style=flat-square&color=yellow)](https://github.com/speakeasy-api/speakeasy/stargazers) [![Forks](https://img.shields.io/github/forks/speakeasy-api/speakeasy?style=flat-square&color=blue)](https://github.com/speakeasy-api/speakeasy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/speakeasy-api/speakeasy?style=flat-square&color=yellow)](https://github.com/speakeasy-api/speakeasy/stargazers) [![Forks](https://img.shields.io/github/forks/speakeasy-api/speakeasy?style=flat-square&color=blue)](https://github.com/speakeasy-api/speakeasy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Build APIs your users love ❤️ with Speakeasy. ✨ Polished and type-safe SDKs. 🌐 Terraform providers, MCP servers, CLIs and Contract Tests for your API. OpenAPI native.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 410 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

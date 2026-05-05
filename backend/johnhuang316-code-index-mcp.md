@@ -25,7 +25,9 @@ Backend
 
 ## 📝 Summary
 
-This open-source project, "johnhuang316/code-index-mcp", provides a scalable Model Context Protocol (MCP) server for indexing, searching, and analyzing large code repositories with ease. The server aims to minimize setup requirements, making it suitable for developers and organizations working with significant codebases. By leveraging MCP, users can efficiently retrieve code information, facilitating faster development and improved collaboration.
+Here's a brief summary for the open-source project:
+
+The johnhuang316/code-index-mcp project is an open-source Model Context Protocol (MCP) server that simplifies indexing, searching, and analyzing large code repositories. By minimizing setup requirements, it enables developers to efficiently leverage large language models for code-related tasks. This solution empowers developers to unlock the full potential of their codebases.
 
 ---
 

@@ -1,6 +1,6 @@
 # runkids/skillshare
 
-[![Stars](https://img.shields.io/github/stars/runkids/skillshare?style=flat-square&color=yellow)](https://github.com/runkids/skillshare/stargazers) [![Forks](https://img.shields.io/github/forks/runkids/skillshare?style=flat-square&color=blue)](https://github.com/runkids/skillshare/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runkids/skillshare?style=flat-square&color=yellow)](https://github.com/runkids/skillshare/stargazers) [![Forks](https://img.shields.io/github/forks/runkids/skillshare?style=flat-square&color=blue)](https://github.com/runkids/skillshare/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

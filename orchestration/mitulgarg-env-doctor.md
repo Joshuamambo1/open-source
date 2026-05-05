@@ -1,6 +1,6 @@
 # mitulgarg/env-doctor
 
-[![Stars](https://img.shields.io/github/stars/mitulgarg/env-doctor?style=flat-square&color=yellow)](https://github.com/mitulgarg/env-doctor/stargazers) [![Forks](https://img.shields.io/github/forks/mitulgarg/env-doctor?style=flat-square&color=blue)](https://github.com/mitulgarg/env-doctor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mitulgarg/env-doctor?style=flat-square&color=yellow)](https://github.com/mitulgarg/env-doctor/stargazers) [![Forks](https://img.shields.io/github/forks/mitulgarg/env-doctor?style=flat-square&color=blue)](https://github.com/mitulgarg/env-doctor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Diagnose and Fix CUDA / GPU environments compatibility issues locally, in Docker, and CI/CD. CLI + MCP server available.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

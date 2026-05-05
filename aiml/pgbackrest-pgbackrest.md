@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Pgbackrest, an open-source project, has secured funding and will now be maintained. This development ensures the continued support and updates for the project, which aims to provide robust backup and recovery solutions for PostgreSQL databases. The project's new funding will facilitate its growth and adoption in the PostgreSQL community.
+Pgbackrest, an open-source project, has secured funding and will continue to receive maintenance. This ensures the long-term stability and development of the project, which supports PostgreSQL database backups. The funding allows the project to move forward, benefiting users who rely on its functionality.
 
 ---
 

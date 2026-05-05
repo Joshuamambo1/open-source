@@ -25,9 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the LearningOS/os-lectures project:
+Here's a 2-3 sentence summary for the LearningOS/os-lectures project:
 
-The LearningOS/os-lectures project is an open-source initiative that provides comprehensive learning materials for an operating system (OS) course. The project includes a range of resources, including course slides, experiment guidelines, concept maps, and challenge projects, to help students gain a deeper understanding of OS fundamentals. This project is ideal for AI/ML enthusiasts and aspiring OS developers who want to build a strong foundation in operating system design and implementation.
+LearningOS/os-lectures is an open-source project that provides comprehensive learning resources for operating system (OS) courses. The repository offers a collection of slides, lab guides, mind maps, and challenge projects, covering key topics and concepts in OS, and is suitable for students, researchers, and professionals in the field of AI and machine learning. By utilizing this resource, users can gain a deeper understanding of OS fundamentals and stay up-to-date with the latest developments in the field.
 
 ---
 

@@ -1,6 +1,6 @@
 # AChep/keyguard-app
 
-[![Stars](https://img.shields.io/github/stars/AChep/keyguard-app?style=flat-square&color=yellow)](https://github.com/AChep/keyguard-app/stargazers) [![Forks](https://img.shields.io/github/forks/AChep/keyguard-app?style=flat-square&color=blue)](https://github.com/AChep/keyguard-app/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AChep/keyguard-app?style=flat-square&color=yellow)](https://github.com/AChep/keyguard-app/stargazers) [![Forks](https://img.shields.io/github/forks/AChep/keyguard-app?style=flat-square&color=blue)](https://github.com/AChep/keyguard-app/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

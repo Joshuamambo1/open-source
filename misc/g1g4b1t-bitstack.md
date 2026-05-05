@@ -25,9 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the BitStack project:
-
-BitStack is an open-source solution that enables continual learning in machine learning models without the need for replay. It achieves this by utilizing 1-bit gradient masks, allowing models to adapt to new data without forgetting previously learned information. This approach promotes efficient and effective learning, reducing the need for data storage and computational resources.
+BitStack is an open-source project that offers a novel approach to continual learning in machine learning models by utilizing 1-bit gradient masks. This method enables models to adapt to new data without the need for replay, overcoming a common challenge in traditional learning approaches. By leveraging these 1-bit masks, BitStack facilitates more efficient and effective continual learning.
 
 ---
 

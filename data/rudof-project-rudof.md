@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-The rudof-project/rudof is an open-source implementation of RDF data shapes in Rust, providing a robust and efficient framework for validating and transforming RDF data according to predefined shapes. This project enables developers to create and enforce data consistency, integrity, and quality in their RDF-based applications. By leveraging Rust's performance and concurrency features, rudof facilitates scalable and reliable data processing in RDF ecosystems.
+The rudof-project/rudof is an open-source implementation of RDF data shapes in Rust, providing a robust framework for validating and shaping RDF data according to predefined schemas. This project enables developers to ensure data consistency and integrity by enforcing specific rules and constraints on RDF data. By leveraging Rust's performance and reliability, rudof facilitates efficient and scalable data management in various applications.
 
 ---
 

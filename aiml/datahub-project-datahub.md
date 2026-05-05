@@ -1,6 +1,6 @@
 # datahub-project/datahub
 
-[![Stars](https://img.shields.io/github/stars/datahub-project/datahub?style=flat-square&color=yellow)](https://github.com/datahub-project/datahub/stargazers) [![Forks](https://img.shields.io/github/forks/datahub-project/datahub?style=flat-square&color=blue)](https://github.com/datahub-project/datahub/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datahub-project/datahub?style=flat-square&color=yellow)](https://github.com/datahub-project/datahub/stargazers) [![Forks](https://img.shields.io/github/forks/datahub-project/datahub?style=flat-square&color=blue)](https://github.com/datahub-project/datahub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
 
 > The Context Platform for your Data and AI Stack
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 11.9k |
 | 🍴 **Forks** | 3.5k |
-| 💻 **Language** | Java |
+| 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |

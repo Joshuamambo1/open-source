@@ -25,9 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the bionic-gpt project:
-
-Bionic is an open-source, on-premise solution that provides a private alternative to ChatGPT, ensuring strict data confidentiality while harnessing the power of generative AI. This project enables organizations to leverage the benefits of AI while maintaining control over sensitive data, eliminating the risks associated with cloud-based models. By deploying Bionic on-premise, users can safeguard their data while still experiencing the capabilities of advanced AI.
+Bionic is an on-premise solution that offers the benefits of Generative AI, including ChatGPT-like capabilities, while providing strict data confidentiality and control. This open-source project allows users to deploy and manage their own Generative AI models within their own infrastructure, ensuring data security and compliance. By running Bionic on-premise, organizations can unlock the potential of Generative AI while maintaining complete control over their data.
 
 ---
 

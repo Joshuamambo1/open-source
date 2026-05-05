@@ -25,7 +25,9 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The uiatomation-rs crate is an open-source wrapper for the Windows UI Automation API, providing a convenient Rust interface to interact with and automate Windows applications. It enables developers to make Windows UI Automation API calls with ease, simplifying the process of automating user interface interactions. This crate is suitable for both frontend and backend development, offering a powerful tool for automating Windows-based applications.
+Here is a brief summary for the ui-automation-rs project:
+
+The ui-automation-rs crate provides a convenient Rust wrapper for the Windows UI Automation API, enabling developers to easily interact with and automate Windows user interfaces. This project simplifies access to the UI Automation API, making it a valuable tool for front-end and back-end developers working on Windows-based applications. With ui-automation-rs, developers can write more efficient and effective code for automating Windows UI interactions.
 
 ---
 

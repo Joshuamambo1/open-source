@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 628 |
+| ⭐ **Stars** | 629 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | KerboScript |
 | 📈 **Score** | 47/100 |

@@ -1,6 +1,6 @@
 # bnbong/FastAPI-fastkit
 
-[![Stars](https://img.shields.io/github/stars/bnbong/FastAPI-fastkit?style=flat-square&color=yellow)](https://github.com/bnbong/FastAPI-fastkit/stargazers) [![Forks](https://img.shields.io/github/forks/bnbong/FastAPI-fastkit?style=flat-square&color=blue)](https://github.com/bnbong/FastAPI-fastkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bnbong/FastAPI-fastkit?style=flat-square&color=yellow)](https://github.com/bnbong/FastAPI-fastkit/stargazers) [![Forks](https://img.shields.io/github/forks/bnbong/FastAPI-fastkit?style=flat-square&color=blue)](https://github.com/bnbong/FastAPI-fastkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > <Open Source> Fast, easy-to-use starter kit for new users of Python and FastAPI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The sjnims/cc-plugin-eval project is an open-source, 4-stage evaluation framework designed to thoroughly test Claude Code plugin components. This framework ensures that skills, agents, and commands are triggered correctly through a combination of programmatic detection and Large Language Model (LLM) judgment, providing a comprehensive validation process. Developers can utilize this tool to fine-tune and optimize their plugin components for AI/ML applications.
+The sjnims/cc-plugin-eval project is an open-source, 4-stage evaluation framework designed to test the functionality of Claude Code plugin components. It validates the correct activation of skills, agents, and commands through a combination of programmatic detection and Large Language Model (LLM) judgment. This framework aims to ensure the reliability and effectiveness of AI-powered plugin components in real-world applications.
 
 ---
 

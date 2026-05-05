@@ -27,7 +27,7 @@ Crypto · Orchestration · AI/ML
 
 Here's a brief summary for the docker/compose project:
 
-docker/compose is an open-source tool that simplifies the process of managing and running multi-container applications with Docker. It allows users to define and configure complex application environments through a simple and declarative configuration file, making it easier to develop, deploy, and scale applications. With docker/compose, developers can focus on writing code rather than manually managing container dependencies.
+Docker Compose is an open-source tool that allows developers to define, configure, and deploy complex multi-container applications with ease. By providing a simple and unified way to manage containers, Docker Compose streamlines the process of building, testing, and deploying applications with Docker. This versatility makes it a vital component for modern development workflows.
 
 ---
 

@@ -1,6 +1,6 @@
 # codejunkie99/agentic-stack
 
-[![Stars](https://img.shields.io/github/stars/codejunkie99/agentic-stack?style=flat-square&color=yellow)](https://github.com/codejunkie99/agentic-stack/stargazers) [![Forks](https://img.shields.io/github/forks/codejunkie99/agentic-stack?style=flat-square&color=blue)](https://github.com/codejunkie99/agentic-stack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codejunkie99/agentic-stack?style=flat-square&color=yellow)](https://github.com/codejunkie99/agentic-stack/stargazers) [![Forks](https://img.shields.io/github/forks/codejunkie99/agentic-stack?style=flat-square&color=blue)](https://github.com/codejunkie99/agentic-stack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 238 |
+| 🍴 **Forks** | 240 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

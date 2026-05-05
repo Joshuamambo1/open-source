@@ -1,6 +1,6 @@
 # different-ai-studio/teamclaw
 
-[![Stars](https://img.shields.io/github/stars/different-ai-studio/teamclaw?style=flat-square&color=yellow)](https://github.com/different-ai-studio/teamclaw/stargazers) [![Forks](https://img.shields.io/github/forks/different-ai-studio/teamclaw?style=flat-square&color=blue)](https://github.com/different-ai-studio/teamclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/different-ai-studio/teamclaw?style=flat-square&color=yellow)](https://github.com/different-ai-studio/teamclaw/stargazers) [![Forks](https://img.shields.io/github/forks/different-ai-studio/teamclaw?style=flat-square&color=blue)](https://github.com/different-ai-studio/teamclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > TeamClaw, AI Agent Desktop Workspace
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 123 |
+| ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

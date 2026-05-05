@@ -1,6 +1,6 @@
 # kayac/ecspresso
 
-[![Stars](https://img.shields.io/github/stars/kayac/ecspresso?style=flat-square&color=yellow)](https://github.com/kayac/ecspresso/stargazers) [![Forks](https://img.shields.io/github/forks/kayac/ecspresso?style=flat-square&color=blue)](https://github.com/kayac/ecspresso/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kayac/ecspresso?style=flat-square&color=yellow)](https://github.com/kayac/ecspresso/stargazers) [![Forks](https://img.shields.io/github/forks/kayac/ecspresso?style=flat-square&color=blue)](https://github.com/kayac/ecspresso/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > ecspresso is a deployment tool for Amazon ECS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

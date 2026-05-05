@@ -25,7 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-dbt-agent-skills is an open-source project that provides a collection of Agent Skills for working with dbt, enabling AI agents to better comprehend and execute dbt workflows. This project aims to bridge the gap between human dbt expertise and AI-powered automation, making it easier to streamline and optimize dbt workflows. By leveraging these skills, users can unlock the full potential of AI-assisted dbt development.
+Here's a 2-3 sentence summary for the open-source project:
+
+The dbt-agent-skills project is an open-source collection of Agent Skills designed to enhance AI agents' understanding and execution of dbt workflows. These skills facilitate seamless integration with dbt, enabling improved orchestration and automation of data transformation processes. By leveraging dbt-agent-skills, AI agents can work more effectively with dbt, streamlining data operations and increasing productivity.
 
 ---
 

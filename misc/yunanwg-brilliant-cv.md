@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 774 |
-| 🍴 **Forks** | 94 |
+| 🍴 **Forks** | 95 |
 | 💻 **Language** | Typst |
 | 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |

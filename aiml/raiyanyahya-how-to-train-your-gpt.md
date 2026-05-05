@@ -1,6 +1,6 @@
 # raiyanyahya/how-to-train-your-gpt
 
-[![Stars](https://img.shields.io/github/stars/raiyanyahya/how-to-train-your-gpt?style=flat-square&color=yellow)](https://github.com/raiyanyahya/how-to-train-your-gpt/stargazers) [![Forks](https://img.shields.io/github/forks/raiyanyahya/how-to-train-your-gpt?style=flat-square&color=blue)](https://github.com/raiyanyahya/how-to-train-your-gpt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raiyanyahya/how-to-train-your-gpt?style=flat-square&color=yellow)](https://github.com/raiyanyahya/how-to-train-your-gpt/stargazers) [![Forks](https://img.shields.io/github/forks/raiyanyahya/how-to-train-your-gpt?style=flat-square&color=blue)](https://github.com/raiyanyahya/how-to-train-your-gpt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Build a modern LLM from scratch. Every line commented. Explained like we are five.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 280 |
-| 🍴 **Forks** | 34 |
+| ⭐ **Stars** | 322 |
+| 🍴 **Forks** | 39 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

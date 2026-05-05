@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The ahrtr/etcd-defrag project is an open-source tool designed to simplify and enhance the process of etcd defragmentation, a crucial task for maintaining the performance and reliability of distributed systems. Leveraging AI/ML capabilities, this tool provides a smarter and more efficient approach to defragmenting etcd databases, reducing downtime and improving overall system health. By automating and optimizing the defragmentation process, etcd-defrag helps IT administrators streamline maintenance tasks and ensure high availability.
+The ahrtr/etcd-defrag project is an open-source tool designed to simplify and optimize the defragmentation process for etcd, a popular distributed key-value store. This AI-driven solution utilizes machine learning capabilities to provide a more efficient and user-friendly experience for etcd maintenance. By automating the defragmentation process, ahrtr/etcd-defrag helps ensure the reliability and performance of etcd in large-scale distributed systems.
 
 ---
 

@@ -1,6 +1,6 @@
 # IgniteUI/igniteui-angular
 
-[![Stars](https://img.shields.io/github/stars/IgniteUI/igniteui-angular?style=flat-square&color=yellow)](https://github.com/IgniteUI/igniteui-angular/stargazers) [![Forks](https://img.shields.io/github/forks/IgniteUI/igniteui-angular?style=flat-square&color=blue)](https://github.com/IgniteUI/igniteui-angular/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IgniteUI/igniteui-angular?style=flat-square&color=yellow)](https://github.com/IgniteUI/igniteui-angular/stargazers) [![Forks](https://img.shields.io/github/forks/IgniteUI/igniteui-angular?style=flat-square&color=blue)](https://github.com/IgniteUI/igniteui-angular/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Ignite UI for Angular is a complete library of Angular UI components with the fastest grids and charts, dock manager, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 597 |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

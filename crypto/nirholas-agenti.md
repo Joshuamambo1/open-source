@@ -1,6 +1,6 @@
 # nirholas/agenti
 
-[![Stars](https://img.shields.io/github/stars/nirholas/agenti?style=flat-square&color=yellow)](https://github.com/nirholas/agenti/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/agenti?style=flat-square&color=blue)](https://github.com/nirholas/agenti/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirholas/agenti?style=flat-square&color=yellow)](https://github.com/nirholas/agenti/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/agenti?style=flat-square&color=blue)](https://github.com/nirholas/agenti/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Give any AI agent a crypto wallet. Agents deserve access to money.  Pay x402 APIs, receive USDC, check balances — autonomously. Works with Claude, LangChain, AutoGen, CrewAI, and any MCP client. EVM + Solana.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

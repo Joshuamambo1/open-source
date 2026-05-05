@@ -1,6 +1,6 @@
 # Frost-Phoenix/nixos-config
 
-[![Stars](https://img.shields.io/github/stars/Frost-Phoenix/nixos-config?style=flat-square&color=yellow)](https://github.com/Frost-Phoenix/nixos-config/stargazers) [![Forks](https://img.shields.io/github/forks/Frost-Phoenix/nixos-config?style=flat-square&color=blue)](https://github.com/Frost-Phoenix/nixos-config/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Frost-Phoenix/nixos-config?style=flat-square&color=yellow)](https://github.com/Frost-Phoenix/nixos-config/stargazers) [![Forks](https://img.shields.io/github/forks/Frost-Phoenix/nixos-config?style=flat-square&color=blue)](https://github.com/Frost-Phoenix/nixos-config/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 912 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

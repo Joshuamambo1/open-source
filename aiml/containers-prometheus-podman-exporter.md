@@ -1,6 +1,6 @@
 # containers/prometheus-podman-exporter
 
-[![Stars](https://img.shields.io/github/stars/containers/prometheus-podman-exporter?style=flat-square&color=yellow)](https://github.com/containers/prometheus-podman-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/containers/prometheus-podman-exporter?style=flat-square&color=blue)](https://github.com/containers/prometheus-podman-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/containers/prometheus-podman-exporter?style=flat-square&color=yellow)](https://github.com/containers/prometheus-podman-exporter/stargazers) [![Forks](https://img.shields.io/github/forks/containers/prometheus-podman-exporter?style=flat-square&color=blue)](https://github.com/containers/prometheus-podman-exporter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Prometheus exporter for podman environments exposing containers, pods, images, volumes and networks information.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 219 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

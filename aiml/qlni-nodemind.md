@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/QLNI/NodeMind?style=flat-square&color=yellow)](https://github.com/QLNI/NodeMind/stargazers) [![Forks](https://img.shields.io/github/forks/QLNI/NodeMind?style=flat-square&color=blue)](https://github.com/QLNI/NodeMind/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
-> NodeMind — a binary-indexed knowledge graph that replaces vector databases, delivering 48× compression and 75× faster retrieval at a fraction of the cost.
+> NodeMind binary fingerprint document index. Patent-pending integer-only codec.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10 |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 36/100 |
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 

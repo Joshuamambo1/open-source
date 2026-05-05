@@ -1,6 +1,6 @@
 # laguerric/Oneira
 
-[![Stars](https://img.shields.io/github/stars/laguerric/Oneira?style=flat-square&color=yellow)](https://github.com/laguerric/Oneira/stargazers) [![Forks](https://img.shields.io/github/forks/laguerric/Oneira?style=flat-square&color=blue)](https://github.com/laguerric/Oneira/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laguerric/Oneira?style=flat-square&color=yellow)](https://github.com/laguerric/Oneira/stargazers) [![Forks](https://img.shields.io/github/forks/laguerric/Oneira?style=flat-square&color=blue)](https://github.com/laguerric/Oneira/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > An autonomous dreaming AI agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -1,6 +1,6 @@
 # datawhalechina/easy-vecdb
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/easy-vecdb?style=flat-square&color=yellow)](https://github.com/datawhalechina/easy-vecdb/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/easy-vecdb?style=flat-square&color=blue)](https://github.com/datawhalechina/easy-vecdb/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/easy-vecdb?style=flat-square&color=yellow)](https://github.com/datawhalechina/easy-vecdb/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/easy-vecdb?style=flat-square&color=blue)](https://github.com/datawhalechina/easy-vecdb/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 从零开始的向量数据库原理与实践教程，在线阅读地址：https://easy-vecdb.datawhale.cc/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 277 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,9 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the remkop/picocli open-source project:
-
-Picocli is a lightweight and versatile framework for creating command-line applications with advanced features like color support, autocompletion, and subcommands. Written in Java, it allows developers to build user-friendly CLI apps with ease, and can be easily integrated into projects as a single source file. This makes picocli an ideal choice for developers who want to add CLI functionality to their projects without adding external dependencies.
+Picocli is a lightweight, open-source framework for building modern command-line applications. It offers a range of features, including color support, autocompletion, and subcommands, allowing developers to create user-friendly interfaces with ease. Written in Java, Picocli can be used in various programming languages, including Groovy, Kotlin, and Scala.
 
 ---
 

@@ -1,6 +1,6 @@
 # joshstevens19/rindexer
 
-[![Stars](https://img.shields.io/github/stars/joshstevens19/rindexer?style=flat-square&color=yellow)](https://github.com/joshstevens19/rindexer/stargazers) [![Forks](https://img.shields.io/github/forks/joshstevens19/rindexer?style=flat-square&color=blue)](https://github.com/joshstevens19/rindexer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joshstevens19/rindexer?style=flat-square&color=yellow)](https://github.com/joshstevens19/rindexer/stargazers) [![Forks](https://img.shields.io/github/forks/joshstevens19/rindexer?style=flat-square&color=blue)](https://github.com/joshstevens19/rindexer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A no-code or framework to build blazing fast EVM indexers - built in rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 688 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The mazzzystar/ccclub project is an open-source tool that helps track and compare the usage of Claude Code, a code-completion AI, across different team members. This collaborative platform allows users to create groups, share code snippets, and visualize usage statistics in real-time. By providing a transparent view of code utilization, mazzzystar/ccclub facilitates a more efficient and data-driven approach to code development.
+The mazzzystar/ccclub project is an open-source initiative that allows users to create groups, share Claude AI code, and compare usage. This tool aims to provide a platform for individuals to monitor and track their friends' or colleagues' Claude AI code consumption, fostering a sense of accountability and community. By facilitating code sharing and comparison, ccclub promotes collaboration and responsible AI usage within groups.
 
 ---
 

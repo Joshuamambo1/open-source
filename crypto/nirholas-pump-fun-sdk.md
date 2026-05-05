@@ -1,6 +1,6 @@
 # nirholas/pump-fun-sdk
 
-[![Stars](https://img.shields.io/github/stars/nirholas/pump-fun-sdk?style=flat-square&color=yellow)](https://github.com/nirholas/pump-fun-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/pump-fun-sdk?style=flat-square&color=blue)](https://github.com/nirholas/pump-fun-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirholas/pump-fun-sdk?style=flat-square&color=yellow)](https://github.com/nirholas/pump-fun-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/pump-fun-sdk?style=flat-square&color=blue)](https://github.com/nirholas/pump-fun-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Token creation launching, bonding curve trading, AMM migration, tiered fees, creator fee sharing, vanity keygen, MCP server, Telegram bot & live dashboards
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

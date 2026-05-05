@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/erickochen/purple?style=flat-square&color=yellow)](https://github.com/erickochen/purple/stargazers) [![Forks](https://img.shields.io/github/forks/erickochen/purple?style=flat-square&color=blue)](https://github.com/erickochen/purple/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Open-source terminal SSH manager and SSH config editor in Rust. Live tunnel monitoring with throughput, channel events and per-client roster. Fuzzy search hundreds of hosts, sync from 16 clouds, transfer files, manage Docker and Podman over SSH, sign short-lived Vault SSH certs and expose an MCP server for AI agents.
+> Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up in your host list. Destroy it, it dims. Plus fuzzy search, live tunnel monitoring, scp, Docker over SSH, Vault SSH certs and an MCP server for AI agents. Rust TUI, MIT.
 
 ## 📊 Stats
 

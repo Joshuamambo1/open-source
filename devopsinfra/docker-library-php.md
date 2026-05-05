@@ -1,6 +1,6 @@
 # docker-library/php
 
-[![Stars](https://img.shields.io/github/stars/docker-library/php?style=flat-square&color=yellow)](https://github.com/docker-library/php/stargazers) [![Forks](https://img.shields.io/github/forks/docker-library/php?style=flat-square&color=blue)](https://github.com/docker-library/php/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/docker-library/php?style=flat-square&color=yellow)](https://github.com/docker-library/php/stargazers) [![Forks](https://img.shields.io/github/forks/docker-library/php?style=flat-square&color=blue)](https://github.com/docker-library/php/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Docker Official Image packaging for PHP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

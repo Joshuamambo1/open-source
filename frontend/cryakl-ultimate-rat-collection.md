@@ -1,6 +1,6 @@
 # Cryakl/Ultimate-RAT-Collection
 
-[![Stars](https://img.shields.io/github/stars/Cryakl/Ultimate-RAT-Collection?style=flat-square&color=yellow)](https://github.com/Cryakl/Ultimate-RAT-Collection/stargazers) [![Forks](https://img.shields.io/github/forks/Cryakl/Ultimate-RAT-Collection?style=flat-square&color=blue)](https://github.com/Cryakl/Ultimate-RAT-Collection/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cryakl/Ultimate-RAT-Collection?style=flat-square&color=yellow)](https://github.com/Cryakl/Ultimate-RAT-Collection/stargazers) [![Forks](https://img.shields.io/github/forks/Cryakl/Ultimate-RAT-Collection?style=flat-square&color=blue)](https://github.com/Cryakl/Ultimate-RAT-Collection/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > For educational purposes only, exhaustive samples of 500+ classic/modern trojan builders including screenshots.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 897 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

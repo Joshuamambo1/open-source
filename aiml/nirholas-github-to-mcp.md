@@ -1,6 +1,6 @@
 # nirholas/github-to-mcp
 
-[![Stars](https://img.shields.io/github/stars/nirholas/github-to-mcp?style=flat-square&color=yellow)](https://github.com/nirholas/github-to-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/github-to-mcp?style=flat-square&color=blue)](https://github.com/nirholas/github-to-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirholas/github-to-mcp?style=flat-square&color=yellow)](https://github.com/nirholas/github-to-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/github-to-mcp?style=flat-square&color=blue)](https://github.com/nirholas/github-to-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Convert GitHub repositories to MCP servers automatically. Extract tools from OpenAPI, GraphQL & REST APIs for Claude Desktop, Cursor, Windsurf, Cline & VS Code. AI-powered code generation creates type-safe TypeScript/Python MCP servers. Zero config setup - just paste a repo URL. Built for AI assistants & LLM tool integration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

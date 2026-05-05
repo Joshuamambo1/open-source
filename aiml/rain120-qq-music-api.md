@@ -1,6 +1,6 @@
 # Rain120/qq-music-api
 
-[![Stars](https://img.shields.io/github/stars/Rain120/qq-music-api?style=flat-square&color=yellow)](https://github.com/Rain120/qq-music-api/stargazers) [![Forks](https://img.shields.io/github/forks/Rain120/qq-music-api?style=flat-square&color=blue)](https://github.com/Rain120/qq-music-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rain120/qq-music-api?style=flat-square&color=yellow)](https://github.com/Rain120/qq-music-api/stargazers) [![Forks](https://img.shields.io/github/forks/Rain120/qq-music-api?style=flat-square&color=blue)](https://github.com/Rain120/qq-music-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > QQ 音乐API koa2实现
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 963 |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Millionco/localterm is an open-source project that allows users to access a terminal directly within their web browser. This innovative project provides a browser-based terminal experience, enabling users to execute commands and interact with the terminal environment without the need for a separate local terminal. By bridging the gap between web and terminal, it offers a convenient and accessible way to work with terminal commands from anywhere.
+Here's a brief summary for the millionco/localterm open-source project:
+
+millionco/localterm is an open-source browser-based terminal that provides users with a terminal interface directly within their web browser. This project enables users to access and interact with a terminal from anywhere, without the need for a dedicated terminal application. It's a convenient solution for remote access and development environments.
 
 ---
 

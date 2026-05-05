@@ -1,6 +1,6 @@
 # telagod/oh-pi
 
-[![Stars](https://img.shields.io/github/stars/telagod/oh-pi?style=flat-square&color=yellow)](https://github.com/telagod/oh-pi/stargazers) [![Forks](https://img.shields.io/github/forks/telagod/oh-pi?style=flat-square&color=blue)](https://github.com/telagod/oh-pi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/telagod/oh-pi?style=flat-square&color=yellow)](https://github.com/telagod/oh-pi/stargazers) [![Forks](https://img.shields.io/github/forks/telagod/oh-pi?style=flat-square&color=blue)](https://github.com/telagod/oh-pi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Colony for Pi — bootstrap and package distribution for a multi-agent Pi plugin for complex coding tasks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

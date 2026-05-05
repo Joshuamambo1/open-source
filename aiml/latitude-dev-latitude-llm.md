@@ -1,6 +1,6 @@
 # latitude-dev/latitude-llm
 
-[![Stars](https://img.shields.io/github/stars/latitude-dev/latitude-llm?style=flat-square&color=yellow)](https://github.com/latitude-dev/latitude-llm/stargazers) [![Forks](https://img.shields.io/github/forks/latitude-dev/latitude-llm?style=flat-square&color=blue)](https://github.com/latitude-dev/latitude-llm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/latitude-dev/latitude-llm?style=flat-square&color=yellow)](https://github.com/latitude-dev/latitude-llm/stargazers) [![Forks](https://img.shields.io/github/forks/latitude-dev/latitude-llm?style=flat-square&color=blue)](https://github.com/latitude-dev/latitude-llm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Latitude is the open-source agent engineering platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 311 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

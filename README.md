@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16715** |
+| 🗂️ **Total projects** | **16753** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,16 +18,16 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6224 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3506 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1648 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 6239 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3516 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1653 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 1202 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 1024 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 973 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 562 | [Browse →](./crypto/) |
-| 📊 **Data** | 382 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 365 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 227 | [Browse →](./mobile/) |
+| ⚙️ **Backend** | 1026 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 974 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 563 | [Browse →](./crypto/) |
+| 📊 **Data** | 384 | [Browse →](./data/) |
+| 🚀 **DevOps & Infra** | 366 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 228 | [Browse →](./mobile/) |
 | 📈 **Trading** | 170 | [Browse →](./trading/) |
 | 💳 **Payments** | 169 | [Browse →](./payments/) |
 | 🔐 **Security** | 143 | [Browse →](./security/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [cheeriojs/cheerio](./aiml/cheeriojs-cheerio.md) | ⭐ 30.3k | AI/ML |
-| 2 | [mochajs/mocha](./devtools/mochajs-mocha.md) | ⭐ 22.9k | DevTools |
-| 3 | [swagger-api/swagger-ui](./aiml/swagger-api-swagger-ui.md) | ⭐ 28.8k | AI/ML |
-| 4 | [strapi/strapi](./backend/strapi-strapi.md) | ⭐ 72.1k | Backend |
-| 5 | [jhy/jsoup](./aiml/jhy-jsoup.md) | ⭐ 11.4k | AI/ML |
-| 6 | [Donchitos/Claude-Code-Game-Studios](./aiml/donchitos-claude-code-game-studios.md) | ⭐ 17.2k | AI/ML |
-| 7 | [datahub-project/datahub](./aiml/datahub-project-datahub.md) | ⭐ 11.9k | AI/ML |
-| 8 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
-| 9 | [apache/tvm](./misc/apache-tvm.md) | ⭐ 13.3k | Misc |
-| 10 | [temporalio/temporal](./orchestration/temporalio-temporal.md) | ⭐ 20k | Orchestration |
+| 1 | [PrismLauncher/PrismLauncher](./aiml/prismlauncher-prismlauncher.md) | ⭐ 9.3k | AI/ML |
+| 2 | [cheeriojs/cheerio](./aiml/cheeriojs-cheerio.md) | ⭐ 30.3k | AI/ML |
+| 3 | [mochajs/mocha](./devtools/mochajs-mocha.md) | ⭐ 22.9k | DevTools |
+| 4 | [swagger-api/swagger-ui](./aiml/swagger-api-swagger-ui.md) | ⭐ 28.8k | AI/ML |
+| 5 | [strapi/strapi](./backend/strapi-strapi.md) | ⭐ 72.1k | Backend |
+| 6 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
+| 7 | [vectordotdev/vector](./aiml/vectordotdev-vector.md) | ⭐ 21.8k | AI/ML |
+| 8 | [ray-project/ray](./aiml/ray-project-ray.md) | ⭐ 42.4k | AI/ML |
+| 9 | [BasedHardware/omi](./aiml/basedhardware-omi.md) | ⭐ 12.4k | AI/ML |
+| 10 | [iv-org/invidious](./misc/iv-org-invidious.md) | ⭐ 19.6k | Misc |
 
 ## 🚀 How it works
 

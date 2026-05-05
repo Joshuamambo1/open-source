@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The etcd-io/raft project is an open-source library that provides a robust implementation of the Raft consensus algorithm, enabling the creation of highly available and fault-tolerant distributed systems. By providing a replicated state machine, it allows developers to build scalable and reliable applications. This library is widely used in distributed systems, particularly in the development of etcd, a distributed key-value store.
+The etcd-io/raft library is an open-source implementation of the Raft consensus algorithm, designed to maintain a replicated state machine. This library enables distributed systems to achieve fault-tolerant consistency by ensuring that all nodes agree on a single, up-to-date state. By providing a robust and scalable solution for distributed state management, etcd-io/raft facilitates the development of highly available and reliable systems.
 
 ---
 

@@ -1,6 +1,6 @@
 # masterking32/MasterDnsVPN
 
-[![Stars](https://img.shields.io/github/stars/masterking32/MasterDnsVPN?style=flat-square&color=yellow)](https://github.com/masterking32/MasterDnsVPN/stargazers) [![Forks](https://img.shields.io/github/forks/masterking32/MasterDnsVPN?style=flat-square&color=blue)](https://github.com/masterking32/MasterDnsVPN/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/masterking32/MasterDnsVPN?style=flat-square&color=yellow)](https://github.com/masterking32/MasterDnsVPN/stargazers) [![Forks](https://img.shields.io/github/forks/masterking32/MasterDnsVPN?style=flat-square&color=blue)](https://github.com/masterking32/MasterDnsVPN/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

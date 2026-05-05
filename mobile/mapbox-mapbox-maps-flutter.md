@@ -25,7 +25,7 @@ Mobile
 
 ## 📝 Summary
 
-The mapbox/mapbox-maps-flutter project is an open-source library that brings interactive and highly customizable maps to Flutter applications, powered by the Mapbox Maps SDK. This library enables developers to easily integrate maps into their mobile applications, allowing for seamless navigation and location-based features. With mapbox/mapbox-maps-flutter, developers can create rich and immersive mapping experiences for their users.
+The mapbox/mapbox-maps-flutter project is an open-source library that enables the creation of interactive, highly customizable maps for Flutter applications. Built on top of the Mapbox Maps SDK, this library provides a robust and flexible solution for embedding maps into mobile apps. With mapbox/mapbox-maps-flutter, developers can easily integrate location-based features and visualizations into their applications.
 
 ---
 

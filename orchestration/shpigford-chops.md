@@ -1,6 +1,6 @@
 # Shpigford/chops
 
-[![Stars](https://img.shields.io/github/stars/Shpigford/chops?style=flat-square&color=yellow)](https://github.com/Shpigford/chops/stargazers) [![Forks](https://img.shields.io/github/forks/Shpigford/chops?style=flat-square&color=blue)](https://github.com/Shpigford/chops/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shpigford/chops?style=flat-square&color=yellow)](https://github.com/Shpigford/chops/stargazers) [![Forks](https://img.shields.io/github/forks/Shpigford/chops?style=flat-square&color=blue)](https://github.com/Shpigford/chops/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

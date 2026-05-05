@@ -25,7 +25,9 @@ Mobile
 
 ## 📝 Summary
 
-The mapbox/mapbox-maps-ios project is an open-source, interactive mapping solution for iOS devices, utilizing vector tiles and Metal for optimized performance. This project enables developers to create thoroughly customizable maps with a high level of flexibility, allowing for tailored map experiences. It is a powerful tool for mobile app development, ideal for applications requiring robust and visually appealing mapping capabilities.
+Here's a brief summary for the mapbox/mapbox-maps-ios project:
+
+Mapbox Maps iOS provides an interactive and customizable mapping solution for iOS applications, leveraging vector tiles and Metal for optimized performance. This open-source project allows developers to easily integrate high-quality, visually appealing maps into their mobile apps. With Mapbox Maps iOS, developers can create tailored mapping experiences that meet their specific needs.
 
 ---
 

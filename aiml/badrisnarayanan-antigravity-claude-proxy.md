@@ -1,6 +1,6 @@
 # badrisnarayanan/antigravity-claude-proxy
 
-[![Stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=flat-square&color=yellow)](https://github.com/badrisnarayanan/antigravity-claude-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/badrisnarayanan/antigravity-claude-proxy?style=flat-square&color=blue)](https://github.com/badrisnarayanan/antigravity-claude-proxy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=flat-square&color=yellow)](https://github.com/badrisnarayanan/antigravity-claude-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/badrisnarayanan/antigravity-claude-proxy?style=flat-square&color=blue)](https://github.com/badrisnarayanan/antigravity-claude-proxy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 490 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-Tide is an open-source, native macOS workspace that brings humans and coding agents together to share task context. This innovative platform enables seamless collaboration between developers and AI-powered coding agents, streamlining the coding process and enhancing productivity. By bridging the gap between humans and AI, Tide aims to revolutionize the way we code and work with artificial intelligence.
+Here's a brief summary of the tide project:
+
+Tide is an open-source, native macOS workspace that enables seamless collaboration between humans and coding agents. This innovative platform provides a shared task context, allowing users to work alongside AI-powered coding agents in a unified environment. By facilitating this symbiotic partnership, Tide aims to revolutionize the way developers interact with AI and enhance productivity in the coding process.
 
 ---
 

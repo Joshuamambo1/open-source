@@ -1,6 +1,6 @@
 # Grashjs/cmms
 
-[![Stars](https://img.shields.io/github/stars/Grashjs/cmms?style=flat-square&color=yellow)](https://github.com/Grashjs/cmms/stargazers) [![Forks](https://img.shields.io/github/forks/Grashjs/cmms?style=flat-square&color=blue)](https://github.com/Grashjs/cmms/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Grashjs/cmms?style=flat-square&color=yellow)](https://github.com/Grashjs/cmms/stargazers) [![Forks](https://img.shields.io/github/forks/Grashjs/cmms?style=flat-square&color=blue)](https://github.com/Grashjs/cmms/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > #1 Self hosted CMMS web & mobile application that allows you to manage enterprise maintenance for free - Computerized Maintenance Management System
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 605 |
+| ⭐ **Stars** | 606 |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

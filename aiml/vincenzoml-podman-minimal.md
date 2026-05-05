@@ -1,17 +1,17 @@
 # vincenzoml/podman-minimal
 
-[![Stars](https://img.shields.io/github/stars/vincenzoml/podman-minimal?style=flat-square&color=yellow)](https://github.com/vincenzoml/podman-minimal/stargazers) [![Forks](https://img.shields.io/github/forks/vincenzoml/podman-minimal?style=flat-square&color=blue)](https://github.com/vincenzoml/podman-minimal/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vincenzoml/podman-minimal?style=flat-square&color=yellow)](https://github.com/vincenzoml/podman-minimal/stargazers) [![Forks](https://img.shields.io/github/forks/vincenzoml/podman-minimal?style=flat-square&color=blue)](https://github.com/vincenzoml/podman-minimal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Minimal Podman launcher: clean throwaway dev environments from any folder, with Dockerfile/devcontainer autodiscovery.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 
@@ -21,11 +21,11 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Podman-minimal is an open-source project that simplifies the process of using containers across various platforms, including Windows, Linux, and Mac. With a single command, users can start utilizing containers, making it an accessible solution for developers and data scientists who work with AI/ML applications. This project aims to streamline containerization, making it a convenient option for cross-platform development and deployment.
+Podman-minimal is an open-source project that enables users to start using containers on various operating systems, including Windows, Linux, and Mac, with a single command. This project simplifies the process of containerization, making it more accessible to a broader audience. By leveraging Podman, a container engine, Podman-minimal aims to streamline container management and deployment across different platforms.
 
 ---
 

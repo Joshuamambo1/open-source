@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The continuous-claude project is an open-source initiative that utilizes the Ralph loop to automate the deployment of Claude code on a continuous basis. It creates pull requests, waits for checks to pass, and then merges the changes, streamlining the AI/ML development process. This automation enables developers to focus on more complex tasks while maintaining a seamless and efficient workflow.
+Here's a brief summary of the project:
+
+The continuous-claude project is an open-source tool that continuously runs Claude code in a loop, autonomously creating pull requests (PRs), waiting for checks, and merging them. This project utilizes the Ralph loop to streamline the development process of Claude-based AI/ML applications. By automating the development workflow, continuous-claude enables developers to focus on more complex tasks.
 
 ---
 

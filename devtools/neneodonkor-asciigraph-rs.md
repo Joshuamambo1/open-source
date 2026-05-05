@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/neneodonkor/asciigraph-rs?style=flat-square&color=yellow)](https://github.com/neneodonkor/asciigraph-rs/stargazers) [![Forks](https://img.shields.io/github/forks/neneodonkor/asciigraph-rs?style=flat-square&color=blue)](https://github.com/neneodonkor/asciigraph-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
-> Rust Library to make lightweight ASCII line graph ╭┈╯ in command line apps. This is a direct port from a Go package: https://github.com/guptarohit/asciigraph
+> Rust Library to make lightweight ASCII line graph ╭┈╯ in command line apps.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 122 |
+| ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |

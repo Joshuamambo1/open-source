@@ -25,9 +25,9 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary of the vstorm-co/pydantic-ai-backend project:
 
-vstorm-co/pydantic-ai-backend is an open-source project that provides secure file storage and sandbox backends for Pydantic AI, enabling safe and controlled execution of AI models. The project includes console tools for file operations, Docker-isolated sandboxes, and a permission system with presets for access control, making it suitable for multi-user handling and testing in AI agents. This solution supports various storage options, including in-memory, local, and containerized storage.
+The vstorm-co/pydantic-ai-backend project is an open-source platform that provides secure file storage and sandbox environments for Pydantic AI applications. It offers console tools for file operations, Docker-isolated sandboxes for safe execution, and a permission system with presets for access control, enabling secure multi-user handling and testing in agents. This project is suitable for complex AI/ML use cases requiring secure and isolated environments.
 
 ---
 

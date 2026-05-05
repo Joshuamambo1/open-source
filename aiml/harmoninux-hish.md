@@ -1,6 +1,6 @@
 # harmoninux/HiSH
 
-[![Stars](https://img.shields.io/github/stars/harmoninux/HiSH?style=flat-square&color=yellow)](https://github.com/harmoninux/HiSH/stargazers) [![Forks](https://img.shields.io/github/forks/harmoninux/HiSH?style=flat-square&color=blue)](https://github.com/harmoninux/HiSH/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harmoninux/HiSH?style=flat-square&color=yellow)](https://github.com/harmoninux/HiSH/stargazers) [![Forks](https://img.shields.io/github/forks/harmoninux/HiSH?style=flat-square&color=blue)](https://github.com/harmoninux/HiSH/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 在鸿蒙上运行Linux Shell，支持手机、平板、2in1/PC、TV（Run Linux Shell on HarmonyOS, Phone/Pad/2in1/PC,TV are supported）
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 491 |
-| 🍴 **Forks** | 37 |
+| 🍴 **Forks** | 38 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

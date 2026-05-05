@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The BBuf/how-to-optim-algorithm-in-cuda project provides guidance on optimizing algorithms for execution on NVIDIA CUDA-enabled GPUs, a crucial step in AI/ML applications that rely on high-performance computing. By following this open-source resource, developers can learn how to leverage CUDA's parallel processing capabilities to achieve significant speedups and improve the efficiency of their algorithms. This knowledge is essential for those working with large-scale AI/ML models and datasets.
+This open-source project, titled "BBuf/how-to-optim-algorithm-in-cuda," provides a comprehensive guide on optimizing algorithms in CUDA, a popular parallel computing platform for NVIDIA GPUs. By sharing expertise and strategies for improving performance and efficiency, the project aims to support the development of high-performance artificial intelligence (AI) and machine learning (ML) applications. Developers can leverage this knowledge to accelerate their own CUDA-based projects and achieve faster results.
 
 ---
 

@@ -1,6 +1,6 @@
 # mikro-orm/mikro-orm
 
-[![Stars](https://img.shields.io/github/stars/mikro-orm/mikro-orm?style=flat-square&color=yellow)](https://github.com/mikro-orm/mikro-orm/stargazers) [![Forks](https://img.shields.io/github/forks/mikro-orm/mikro-orm?style=flat-square&color=blue)](https://github.com/mikro-orm/mikro-orm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mikro-orm/mikro-orm?style=flat-square&color=yellow)](https://github.com/mikro-orm/mikro-orm/stargazers) [![Forks](https://img.shields.io/github/forks/mikro-orm/mikro-orm?style=flat-square&color=blue)](https://github.com/mikro-orm/mikro-orm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9k |
-| 🍴 **Forks** | 633 |
+| 🍴 **Forks** | 634 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 94/100 |
+| 📈 **Score** | 95/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

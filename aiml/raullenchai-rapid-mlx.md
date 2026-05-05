@@ -1,6 +1,6 @@
 # raullenchai/Rapid-MLX
 
-[![Stars](https://img.shields.io/github/stars/raullenchai/Rapid-MLX?style=flat-square&color=yellow)](https://github.com/raullenchai/Rapid-MLX/stargazers) [![Forks](https://img.shields.io/github/forks/raullenchai/Rapid-MLX?style=flat-square&color=blue)](https://github.com/raullenchai/Rapid-MLX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raullenchai/Rapid-MLX?style=flat-square&color=yellow)](https://github.com/raullenchai/Rapid-MLX/stargazers) [![Forks](https://img.shields.io/github/forks/raullenchai/Rapid-MLX?style=flat-square&color=blue)](https://github.com/raullenchai/Rapid-MLX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 194 |
+| ⭐ **Stars** | 1.4k |
+| 🍴 **Forks** | 199 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

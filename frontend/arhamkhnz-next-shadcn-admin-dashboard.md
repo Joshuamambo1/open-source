@@ -1,6 +1,6 @@
 # arhamkhnz/next-shadcn-admin-dashboard
 
-[![Stars](https://img.shields.io/github/stars/arhamkhnz/next-shadcn-admin-dashboard?style=flat-square&color=yellow)](https://github.com/arhamkhnz/next-shadcn-admin-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/arhamkhnz/next-shadcn-admin-dashboard?style=flat-square&color=blue)](https://github.com/arhamkhnz/next-shadcn-admin-dashboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arhamkhnz/next-shadcn-admin-dashboard?style=flat-square&color=yellow)](https://github.com/arhamkhnz/next-shadcn-admin-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/arhamkhnz/next-shadcn-admin-dashboard?style=flat-square&color=blue)](https://github.com/arhamkhnz/next-shadcn-admin-dashboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Modern Admin Dashboard Template built with Shadcn UI and Next.js 16
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 404 |
+| 🍴 **Forks** | 405 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16828** |
+| 🗂️ **Total projects** | **16860** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6269 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3526 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1662 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1206 | [Browse →](./orchestration/) |
+| 🤖 **AI/ML** | 6277 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3534 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1665 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1209 | [Browse →](./orchestration/) |
 | ⚙️ **Backend** | 1031 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 978 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 565 | [Browse →](./crypto/) |
-| 📊 **Data** | 386 | [Browse →](./data/) |
+| 🔧 **DevTools** | 981 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 567 | [Browse →](./crypto/) |
+| 📊 **Data** | 388 | [Browse →](./data/) |
 | 🚀 **DevOps & Infra** | 368 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 232 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 234 | [Browse →](./mobile/) |
 | 📈 **Trading** | 171 | [Browse →](./trading/) |
-| 💳 **Payments** | 169 | [Browse →](./payments/) |
+| 💳 **Payments** | 170 | [Browse →](./payments/) |
 | 🔐 **Security** | 143 | [Browse →](./security/) |
 | ✨ **Design** | 57 | [Browse →](./design/) |
 | 🎯 **Product** | 34 | [Browse →](./product/) |
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [cheeriojs/cheerio](./aiml/cheeriojs-cheerio.md) | ⭐ 30.3k | AI/ML |
-| 2 | [mochajs/mocha](./devtools/mochajs-mocha.md) | ⭐ 22.9k | DevTools |
-| 3 | [swagger-api/swagger-ui](./aiml/swagger-api-swagger-ui.md) | ⭐ 28.8k | AI/ML |
-| 4 | [strapi/strapi](./backend/strapi-strapi.md) | ⭐ 72.1k | Backend |
-| 5 | [apache/beam](./data/apache-beam.md) | ⭐ 8.6k | Data |
-| 6 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
-| 7 | [vectordotdev/vector](./aiml/vectordotdev-vector.md) | ⭐ 21.8k | AI/ML |
-| 8 | [ray-project/ray](./aiml/ray-project-ray.md) | ⭐ 42.4k | AI/ML |
-| 9 | [BasedHardware/omi](./aiml/basedhardware-omi.md) | ⭐ 12.4k | AI/ML |
-| 10 | [meshery/meshery](./frontend/meshery-meshery.md) | ⭐ 10.2k | Frontend |
+| 2 | [strapi/strapi](./backend/strapi-strapi.md) | ⭐ 72.1k | Backend |
+| 3 | [apache/beam](./data/apache-beam.md) | ⭐ 8.6k | Data |
+| 4 | [zeek/zeek](./security/zeek-zeek.md) | ⭐ 7.6k | Security |
+| 5 | [vectordotdev/vector](./aiml/vectordotdev-vector.md) | ⭐ 21.8k | AI/ML |
+| 6 | [ray-project/ray](./aiml/ray-project-ray.md) | ⭐ 42.4k | AI/ML |
+| 7 | [BasedHardware/omi](./aiml/basedhardware-omi.md) | ⭐ 12.4k | AI/ML |
+| 8 | [meshery/meshery](./frontend/meshery-meshery.md) | ⭐ 10.2k | Frontend |
+| 9 | [iv-org/invidious](./misc/iv-org-invidious.md) | ⭐ 19.6k | Misc |
+| 10 | [Skyvern-AI/skyvern](./aiml/skyvern-ai-skyvern.md) | ⭐ 21.5k | AI/ML |
 
 ## 🚀 How it works
 

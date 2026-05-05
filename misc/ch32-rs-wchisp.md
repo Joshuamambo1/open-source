@@ -1,6 +1,6 @@
 # ch32-rs/wchisp
 
-[![Stars](https://img.shields.io/github/stars/ch32-rs/wchisp?style=flat-square&color=yellow)](https://github.com/ch32-rs/wchisp/stargazers) [![Forks](https://img.shields.io/github/forks/ch32-rs/wchisp?style=flat-square&color=blue)](https://github.com/ch32-rs/wchisp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ch32-rs/wchisp?style=flat-square&color=yellow)](https://github.com/ch32-rs/wchisp/stargazers) [![Forks](https://img.shields.io/github/forks/ch32-rs/wchisp?style=flat-square&color=blue)](https://github.com/ch32-rs/wchisp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Rust-based Command Line Tool for WCH MCU USB-ISP Programming
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 295 |
-| 🍴 **Forks** | 52 |
+| ⭐ **Stars** | 296 |
+| 🍴 **Forks** | 53 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | github |
 

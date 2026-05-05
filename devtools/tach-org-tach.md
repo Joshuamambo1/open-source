@@ -25,9 +25,9 @@ DevTools · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the tach project:
+Here's a 2-3 sentence summary for the project:
 
-Tach is an open-source Python tool that helps visualize and enforce dependencies using a modular architecture. It allows for incremental adoption without impacting runtime performance and seamlessly integrates with existing systems. Built with Rust, tach provides a reliable solution for dependency management.
+Tach is an open-source Python tool designed to visualize and enforce dependencies within modular architectures. Developed using Rust, Tach is a low-impact, incrementally adoptable solution that seamlessly integrates with existing systems, providing a robust and efficient way to manage dependencies. It can be easily installed via pip, making it a valuable addition to any development workflow.
 
 ---
 

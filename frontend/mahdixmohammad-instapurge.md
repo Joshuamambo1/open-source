@@ -1,6 +1,6 @@
 # mahdixmohammad/instapurge
 
-[![Stars](https://img.shields.io/github/stars/mahdixmohammad/instapurge?style=flat-square&color=yellow)](https://github.com/mahdixmohammad/instapurge/stargazers) [![Forks](https://img.shields.io/github/forks/mahdixmohammad/instapurge?style=flat-square&color=blue)](https://github.com/mahdixmohammad/instapurge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mahdixmohammad/instapurge?style=flat-square&color=yellow)](https://github.com/mahdixmohammad/instapurge/stargazers) [![Forks](https://img.shields.io/github/forks/mahdixmohammad/instapurge?style=flat-square&color=blue)](https://github.com/mahdixmohammad/instapurge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A browser script to rapidly delete Instagram DM messages and reactions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | hackernews |
 

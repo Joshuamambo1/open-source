@@ -25,9 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the kioz-wang/zargs project:
+Here's a brief summary for the open-source project:
 
-Zargs is an open-source project that brings Comptime Argparse to Zig, empowering developers to build custom command-line tools. This project aims to simplify the process of creating command-line interfaces by leveraging Zig's comptime features. With zargs, developers can write more efficient and expressive code for their command-line applications.
+Zargs is an open-source, comptime-based Argparse library for the Zig programming language, allowing developers to craft robust command-line interfaces with ease. This library enables the efficient creation of CLI tools with minimal boilerplate code, empowering users to focus on building their applications. It's an essential tool for building command-line applications in Zig.
 
 ---
 

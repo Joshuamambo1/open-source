@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The mmkal/trpc-cli project is an open-source tool that transforms a tRPC router into a fully-functional, type-safe, and well-documented Command-Line Interface (CLI). This CLI tool enables developers to interact with their tRPC API in a more intuitive and convenient way, allowing for rapid testing and exploration of API endpoints. By leveraging tRPC's type safety, trpc-cli provides a seamless experience for developers to work with their APIs.
+The mmkal/trpc-cli project is an open-source tool that transforms a tRPC router into a fully-featured, type-safe, and documented Command-Line Interface (CLI). This CLI enables developers to interact with their tRPC router through a user-friendly interface, simplifying tasks such as data manipulation and API exploration. By leveraging the power of tRPC, this tool streamlines development workflows and enhances collaboration among team members.
 
 ---
 

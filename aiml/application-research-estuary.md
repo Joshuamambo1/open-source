@@ -25,7 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The Estuary project is an open-source, custom IPFS/Filecoin node designed to simplify the process of pinning IPFS content and creating Filecoin deals. By streamlining these operations, Estuary provides a user-friendly interface for developers to build and manage decentralized applications on the Filecoin network. This makes it easier to leverage the power of decentralized storage for AI/ML applications and other use cases.
+Here's a brief summary for the estuary project:
+
+Estuary is an open-source, custom IPFS/Filecoin node designed to simplify content pinning and Filecoin deal-making. This project enables users to easily manage and store decentralized data, leveraging the scalability and reliability of the IPFS and Filecoin networks. By streamlining the process, Estuary fosters innovation in AI/ML applications that rely on secure, decentralized data storage.
 
 ---
 

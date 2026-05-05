@@ -25,7 +25,7 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The swarmauri-sdk is an open-source, modular Python SDK that enables developers to build and integrate AI agents, large language models (LLMs), and various tools for efficient application workflows. This monorepo provides a range of components, including parsers, embeddings, and vector stores, allowing for seamless orchestration and customization of AI/ML solutions. With its extensible architecture, swarmauri-sdk empowers developers to create and deploy scalable, intelligent applications.
+The Swarmauri SDK is an open-source, modular Python framework that enables the development of artificial intelligence (AI) agents and applications. It provides a monorepo environment for integrating large language models (LLMs), tools, parsers, embeddings, and vector stores, allowing for extensible and customizable workflows. This SDK serves as a foundation for AI/ML orchestration, facilitating the creation of scalable and efficient AI-powered systems.
 
 ---
 

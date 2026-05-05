@@ -25,7 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The retis project is an open-source tool designed to trace and analyze packets within the Linux networking stack and related systems. It provides detailed insights into network packet movement, allowing users to identify potential issues or bottlenecks in their network infrastructure. By tracing packets, retis helps improve network performance, security, and overall system reliability.
+Here's a summary for the project:
+
+The Retis project is an open-source tool that enables tracing of packets within the Linux networking stack and its associated components. By providing detailed packet traffic insights, Retis helps developers diagnose and optimize network-related issues. It allows for a deeper understanding of network behavior and can be used for debugging, testing, and performance analysis.
 
 ---
 

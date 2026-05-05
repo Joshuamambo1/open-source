@@ -25,7 +25,7 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Arkeep is an open-source project that provides a centralized backup management system for multiple servers from a single dashboard. This comprehensive platform allows users to monitor and manage backups across their infrastructure, ensuring data is secure and easily recoverable. By streamlining backup operations, Arkeep helps users reduce administrative burdens and enhance overall data protection.
+Arkeep is an open-source project that enables centralized backup management across multiple servers from a single interface. This comprehensive solution allows users to monitor and control backups from a unified dashboard, simplifying the process of data protection and disaster recovery. By streamlining backup operations, Arkeep helps organizations maintain data integrity and reduce the risk of data loss.
 
 ---
 

@@ -25,9 +25,7 @@ Trading · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the le5le-com/meta2d.js project:
-
-Meta2d.js is an open-source, real-time 2D engine that enables interactive web applications for SCADA, IoT, and digital twin solutions. This engine facilitates the exchange and visualization of live data, making it an ideal choice for developers looking to create dynamic and engaging web interfaces. With meta2d.js, users can build a wide range of web-based applications, from industrial monitoring to smart home automation systems.
+Meta2d.js is an open-source, real-time data exchange and interactive 2D engine for web applications. It enables developers to build Web-based Supervisory Control and Data Acquisition (SCADA) systems, Internet of Things (IoT) interfaces, and digital twins, among other interactive web experiences. With meta2d.js, developers can create immersive and responsive 2D visualizations for various industries and use cases.
 
 ---
 

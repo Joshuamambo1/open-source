@@ -25,7 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The ai-coding-agents project is an open-source initiative that provides a unified configuration source for AI coding agents. It shares skills, commands, and rules across platforms like OpenCode and Pi, facilitating seamless integration and collaboration. This project is categorized under AI/ML and DevTools, serving as a powerful tool for developers working with AI coding agents.
+The ai-coding-agents project provides a centralized source for configuring AI coding agents, enabling seamless sharing of skills, commands, and rules across the OpenCode and Pi platforms. This open-source initiative facilitates the development and deployment of AI-powered coding tools, promoting consistency and collaboration. By standardizing agent configurations, it aims to improve the overall developer experience and streamline AI-driven coding workflows.
 
 ---
 

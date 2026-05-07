@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 468 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`electron` `nodejs` `openvpn` `rust` `vpn` `wireguard`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The Mullvad VPN client app is an open-source project that provides a secure and user-friendly virtual private network (VPN) experience for desktop and mobile devices. It allows users to easily connect to a global network of servers, ensuring their online activities remain private and secure. The app is designed to be highly customizable and transparent, making it a popular choice among individuals seeking online anonymity and protection.
+The Mullvad VPN client app is an open-source, user-friendly solution for securely browsing the internet on desktop and mobile devices. Developed by the Mullvad team, this app provides a streamlined experience for connecting to Mullvad's VPN network and protecting online identity. With its open-source nature, the app allows for community-driven improvements and transparency.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mullvad/mullvadvpn-app) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mullvad/mullvadvpn-app) · [← Back to DevTools](./README.md)</sub>

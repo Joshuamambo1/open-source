@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 491 |
+| 🍴 **Forks** | 492 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`nix-packages` `nixpkgs` `nur` `overlays`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the NIX User Repository (NUR) project:
-
-The Nix User Repository (NUR) is an open-source project that provides a community-driven collection of user-contributed Nix packages, making it easier for users to discover and install a wide range of software packages. Maintained by @Pandapip1, NUR offers a versatile and customizable package repository, particularly useful for the AI/ML and Backend communities. This repository allows users to extend and customize their Nix environment with a vast array of packages.
+The Nix User Repository (NUR) is an open-source project that provides a collection of user-contributed Nix packages, allowing users to easily install and manage various software packages. Maintained by @Pandapip1, NUR offers a wide range of packages, including those related to AI/ML and backend development. This repository enables users to leverage a community-driven ecosystem for discovering and installing new packages within the Nix package manager.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nix-community/NUR) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nix-community/NUR) · [← Back to AI/ML](./README.md)</sub>

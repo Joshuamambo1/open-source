@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 624 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`metrics` `monitoring` `perfmatters` `performance-analysis` `performance-dashboard` `performance-metrics` `sitespeed` `web` `webperf`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Sitespeed.io is an open-source tool that provides comprehensive web performance analysis, allowing users to test, monitor, and optimize their website's speed in real-world browser environments. This tool enables developers to gain in-depth insights into website performance, identify bottlenecks, and make data-driven decisions to improve user experience. By using sitespeed.io, users can ensure their websites load quickly and efficiently, providing a seamless experience for their visitors.
+Sitespeed.io is an open-source tool that provides comprehensive web performance analysis, allowing users to test, monitor, and optimize their website's speed using real browsers in various environments. This tool enables developers to gain a deeper understanding of their website's performance and identify areas for improvement. By utilizing sitespeed.io, users can enhance the overall user experience and improve their website's speed and efficiency.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/sitespeedio/sitespeed.io) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/sitespeedio/sitespeed.io) · [← Back to DevTools](./README.md)</sub>

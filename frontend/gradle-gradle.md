@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | Groovy |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`build-tool` `good-first-issue` `gradle` `gradle-bt` `groovy` `java` `kotlin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Gradle is an open-source build automation tool that enables fast and adaptable development for various projects across different platforms. This versatile tool simplifies the build process, making it easier to manage dependencies, compile code, and automate tasks efficiently. By leveraging Gradle, developers can streamline their workflow and focus on creating high-quality applications.
+Gradle is a free, open-source build automation tool designed to streamline development workflows by providing adaptable and fast automation for various projects. It offers a flexible and extensible platform that supports a wide range of programming languages and tools. With Gradle, developers can efficiently build, test, and deploy their applications across multiple platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/gradle/gradle) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gradle/gradle) · [← Back to Frontend](./README.md)</sub>

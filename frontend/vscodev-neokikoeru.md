@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 535 |
+| ⭐ **Stars** | 537 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asmr` `dlsite` `go` `media-server` `onedrive` `quasar-framework` `self-hosted` `vue` `webdav`
 
 ## 🎯 Categories
 
@@ -27,8 +27,8 @@ Frontend · Backend
 
 Here's a brief summary for the vscodev/neokikoeru project:
 
-Neokikoeru is an open-source, self-hosted streaming media server designed for DLsite voice works, offering robust, fast, and user-friendly functionality. This project enables users to easily host and manage their digital voice work collections, making it a convenient solution for fans of the genre. With a focus on both frontend and backend development, Neokikoeru aims to provide a seamless experience for users.
+Neokikoeru is an open-source, self-hosted streaming media server designed specifically for DLsite voice works, offering robustness, speed, and ease of use. This project enables users to host and stream their favorite voice works content privately, catering to the needs of voice work enthusiasts. With a focus on frontend and backend development, Neokikoeru aims to provide a seamless and enjoyable experience for users.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/vscodev/neokikoeru) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vscodev/neokikoeru) · [← Back to Frontend](./README.md)</sub>

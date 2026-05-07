@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 703 |
+| ⭐ **Stars** | 704 |
 | 🍴 **Forks** | 268 |
 | 💻 **Language** | Tcl |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This project, rust-lang/crates.io-index, is an open-source registry index for crates.io, a package repository for the Rust programming language. It provides a centralized index of available crates, allowing developers to easily discover and access Rust libraries and dependencies. By maintaining a comprehensive registry, this project facilitates the discovery and reuse of code in the Rust ecosystem.
+This is the registry index for crates.io, the official package registry for Rust. The project provides an index of available Rust crates, making it easier for users to discover and manage dependencies. It plays a crucial role in maintaining the ecosystem of Rust by keeping track of all registered crates and their metadata.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rust-lang/crates.io-index) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rust-lang/crates.io-index) · [← Back to Misc](./README.md)</sub>

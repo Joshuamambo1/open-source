@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MetaMask/metamask-mobile](./metamask-metamask-mobile.md) | ⭐ 2.9k | TypeScript | 84/100 |
+| 1 | [Cosmian/kms](./cosmian-kms.md) | ⭐ 307 | Rust | 50/100 |
 
 ---
 

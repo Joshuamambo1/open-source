@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 24.7k |
+| ⭐ **Stars** | 24.8k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `analytics-dashboard` `clickhouse` `elixir` `google-analytics` `marketing` `open-source-analytics` `phoenix` `plausible-analytics` `postgresql` `privacy` `privacy-friendly`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Plausible Analytics is an open-source, privacy-first web analytics solution designed as a lightweight and cookie-free alternative to Google Analytics. It can be self-hosted or hosted in the cloud, offering users greater control over their data and online presence. This project is suitable for developers looking for a flexible and secure analytics tool.
+Plausible/analytics is a free and open-source web analytics solution that prioritizes user privacy, offering a lightweight alternative to Google Analytics. This cookie-free analytics platform can be self-hosted or easily deployed in the cloud, providing a seamless tracking experience while maintaining user anonymity. Suitable for developers and organizations seeking a data-driven approach without compromising on user data protection.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/plausible/analytics) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/plausible/analytics) · [← Back to AI/ML](./README.md)</sub>

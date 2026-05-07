@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | CodeQL |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`codeql` `github-advanced-security` `github-security-lab` `semmle-ql` `works-with-codespaces`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-CodeQL is an open-source project that provides libraries and queries for security researchers to analyze and identify vulnerabilities in code. It powers code scanning in GitHub Advanced Security and enables developers to write custom queries to detect security issues in their code. By leveraging AI and ML, CodeQL facilitates more effective code security analysis and helps protect software from potential threats.
+CodeQL is an open-source project that provides libraries and queries used by security researchers globally to analyze and identify vulnerabilities in code. It powers code scanning in GitHub Advanced Security, enabling developers to identify potential security risks and fix them early in the development process. By leveraging CodeQL, developers can improve the security and reliability of their software.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/github/codeql) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/github/codeql) · [← Back to AI/ML](./README.md)</sub>

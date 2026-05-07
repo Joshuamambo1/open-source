@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 273 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The chimera-linux/cports project is an open-source collection of ports, providing a centralized repository for Chimera Linux users to access and install various software packages. This collection aims to simplify the process of installing and maintaining applications on Chimera Linux systems. By utilizing the ports collection, users can easily discover and install a wide range of software packages.
+The chimera-linux/cports project is an open-source collection of third-party software ports for the Chimera Linux distribution. It provides users with easy access to a wide range of applications and tools, allowing them to enhance their Linux experience. This collection facilitates the installation and management of external software packages within the Chimera Linux ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/chimera-linux/cports) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/chimera-linux/cports) · [← Back to Misc](./README.md)</sub>

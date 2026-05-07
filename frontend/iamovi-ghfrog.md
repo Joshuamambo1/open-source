@@ -12,12 +12,12 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-05 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
 
-_no topics_
+`devto` `github` `opensource` `github` `react`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-This open-source project creates a browser-based app store that retrieves available releases from GitHub. It allows users to browse and access various GitHub projects directly within their web browser, making it easy to discover and use new tools and applications. Developed as a frontend-focused solution, the app store provides a seamless and user-friendly experience.
+This project is an open-source browser app store that fetches the latest GitHub releases, allowing users to easily discover and install applications from GitHub repositories. The store's functionality is built using frontend technologies, making it a useful resource for developers who want to showcase their projects and reach a broader audience. By utilizing GitHub releases, the store provides a seamless experience for users to install and manage applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/iamovi/ghfrog) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/iamovi/ghfrog) · [← Back to Frontend](./README.md)</sub>

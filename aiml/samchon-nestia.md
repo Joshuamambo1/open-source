@@ -1,34 +1,34 @@
 # samchon/nestia
 
-[![Stars](https://img.shields.io/github/stars/samchon/nestia?style=flat-square&color=yellow)](https://github.com/samchon/nestia/stargazers) [![Forks](https://img.shields.io/github/forks/samchon/nestia?style=flat-square&color=blue)](https://github.com/samchon/nestia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samchon/nestia?style=flat-square&color=yellow)](https://github.com/samchon/nestia/stargazers) [![Forks](https://img.shields.io/github/forks/samchon/nestia?style=flat-square&color=blue)](https://github.com/samchon/nestia/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
-> NestJS Helper + AI Chatbot Development
+> Mentioned in dev.to article (tag programming): VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 124 |
-| 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | github |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-05-04 |
+| 🔍 **Source** | devto |
 
 ## 🏷️ Topics
 
-_no topics_
+`devto` `programming` `ai` `vr` `productivity`
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project samchon/nestia:
+Here's a brief summary for the project:
 
-Nestia is an open-source project that combines a NestJS helper framework with AI-powered chatbot development capabilities. This project aims to simplify the process of building backend applications with AI-driven conversational interfaces. By leveraging the strengths of both NestJS and AI development, Nestia offers a powerful toolset for developers looking to create intelligent, user-centric chatbots.
+The VR Coding for the AI Coding Era project is an innovative, open-source initiative that enables real-time monitoring of up to 5 AI agents simultaneously. This cutting-edge tool empowers developers to effectively manage and analyze AI performance, fostering a more efficient and collaborative coding experience. By leveraging virtual reality (VR) technology, users can visualize and interact with AI data in a unique and immersive way.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/samchon/nestia) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/samchon/nestia) · [← Back to AI/ML](./README.md)</sub>

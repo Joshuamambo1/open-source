@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 671 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automated-failover` `business-continuity` `database` `database-management` `devops` `disaster-recovery` `failover` `high-availability` `json-logging` `k8s` `kubectl-plugin` `kubernetes`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the cloudnative-pg project:
+Here's a brief summary for the CloudNativePG project:
 
-CloudNativePG is an open-source platform that simplifies the management of PostgreSQL databases in Kubernetes environments, streamlining the entire operational lifecycle from deployment to maintenance. This comprehensive solution enables seamless scalability, high availability, and efficient management of PostgreSQL databases within cloud-native environments. By leveraging CloudNativePG, users can focus on application development while ensuring robust database operations.
+CloudNativePG is an open-source platform that simplifies the management of PostgreSQL databases within Kubernetes environments, streamlining the entire operational lifecycle from deployment to maintenance. This comprehensive platform provides a robust and scalable solution for managing PostgreSQL databases at scale, ensuring high availability and performance. By leveraging CloudNativePG, developers can focus on application development while ensuring their PostgreSQL databases are efficiently managed and secured.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cloudnative-pg/cloudnative-pg) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cloudnative-pg/cloudnative-pg) · [← Back to AI/ML](./README.md)</sub>

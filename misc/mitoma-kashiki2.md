@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`rust` `text-editor` `wgpu`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Misc
 
 ## 📝 Summary
 
-Kashiki2 is an open-source, GPU-accelerated text editor that offers a unique 3D text editing experience. Developed by mitoma, this project utilizes the power of graphics processing units (GPUs) to render and manipulate text in a three-dimensional space. This innovative approach enables users to interact with text in a more immersive and visually engaging way.
+Here's a brief summary:
+
+Kashiki2 is an open-source text editor that leverages the power of GPU to provide a unique 3D editing experience. By utilizing 3D space, users can interact with text in a visually engaging way, enhancing their productivity and creativity. This innovative editor is designed to take advantage of modern computing hardware.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/mitoma/kashiki2) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mitoma/kashiki2) · [← Back to Misc](./README.md)</sub>

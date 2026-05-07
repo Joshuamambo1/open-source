@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.9k |
-| 🍴 **Forks** | 768 |
+| 🍴 **Forks** | 771 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools · Product
 
 ## 📝 Summary
 
-Perfetto is an open-source project that provides production-grade tracing, profiling, and analysis capabilities for complex software systems. It enables developers to collect and analyze performance data, providing insights to optimize and improve the efficiency of their applications. With Perfetto, developers can gain a deeper understanding of system behavior and make data-driven decisions to enhance overall system performance.
+Perfetto is an open-source, production-grade tool for client-side tracing, profiling, and analysis of complex software systems. It captures detailed performance and behavior data, enabling developers to identify bottlenecks and optimize their applications. With Perfetto, developers can gain a deeper understanding of their software's performance characteristics.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/google/perfetto) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/google/perfetto) · [← Back to DevTools](./README.md)</sub>

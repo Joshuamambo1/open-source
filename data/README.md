@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**11 projects** in this category.
+**9 projects** in this category.
 
 ## Projects
 
@@ -16,9 +16,7 @@
 | 6 | [lightdash/lightdash](./lightdash-lightdash.md) | ⭐ 5.7k | TypeScript | 91/100 |
 | 7 | [unopim/unopim](./unopim-unopim.md) | ⭐ 9.6k | PHP | 87/100 |
 | 8 | [openbao/openbao](./openbao-openbao.md) | ⭐ 5.9k | Go | 85/100 |
-| 9 | [common-voice/common-voice](./common-voice-common-voice.md) | ⭐ 3.5k | TypeScript | 82/100 |
-| 10 | [serenity-is/Serenity](./serenity-is-serenity.md) | ⭐ 2.7k | C# | 81/100 |
-| 11 | [xtdb/xtdb](./xtdb-xtdb.md) | ⭐ 3k | Clojure | 71/100 |
+| 9 | [xtdb/xtdb](./xtdb-xtdb.md) | ⭐ 3k | Clojure | 71/100 |
 
 ---
 

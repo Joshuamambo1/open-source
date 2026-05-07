@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 96 |
+| 🍴 **Forks** | 98 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,10 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project "jay3-yy/BiliPai":
+Here's a brief summary for the open-source project "jay3-yy/BiliPai":
 
-BiliPai is an open-source project that aims to redefine the Bilibili user experience by providing a native, clean, and highly customizable platform. Built on AI and ML foundations, this project offers an extendable solution for users to personalize their Bilibili experience. With BiliPai, users can expect a more intuitive and immersive video-watching experience on the Bilibili platform.
+BiliPai is an open-source project that offers a native, pure, and extensible way to redefine your Bilibili experience. This AI/ML project empowers users to customize and enhance their interactions with the popular video-sharing platform. By leveraging its extensible architecture, users can tailor their Bilibili experience to suit their unique preferences and needs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/jay3-yy/BiliPai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jay3-yy/BiliPai) · [← Back to AI/ML](./README.md)</sub>

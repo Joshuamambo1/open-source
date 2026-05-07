@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `c-plus-plus` `ipc` `java` `messaging` `multicast-streams`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Aeron is an open-source, high-performance message transport framework for efficient and reliable communication over UDP unicast, UDP multicast, and IPC (Inter-Process Communication) channels. It provides a flexible and scalable solution for data exchange in distributed systems, enabling developers to build robust and reliable applications. Aeron's design focuses on low-latency and high-throughput transmission.
+The Aeron project is an open-source, efficient, and reliable transport system for sending and receiving messages over UDP unicast, UDP multicast, and IPC (Inter-Process Communication). It enables low-latency, high-throughput communication between nodes and is designed to be fault-tolerant and scalable. Aeron is particularly useful for real-time data streaming and messaging applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/aeron-io/aeron) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/aeron-io/aeron) · [← Back to Misc](./README.md)</sub>

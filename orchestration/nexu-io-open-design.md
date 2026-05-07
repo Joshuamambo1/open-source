@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27.2k |
-| 🍴 **Forks** | 3k |
+| ⭐ **Stars** | 31.5k |
+| 🍴 **Forks** | 3.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `ai-agents` `ai-design` `byok` `claude` `claude-code-for-design` `claude-design` `coding-agents` `design-systems` `design-tools` `desktop-app` `figma-alternative`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a 2-3 sentence summary for the project:
 
-The nexu-io/open-design project offers a local-first, open replica of Anthropic's Claude Design, providing a sandboxed preview and export capabilities for 71 brand-grade Design Systems. With support for 19 skills and compatibility with various AI/ML tools, it enables users to create and manage design systems locally. This project is ideal for frontend developers and designers who require a flexible and customizable design tool.
+nexu-io/open-design is an open-source, local-first platform that serves as an alternative to Anthropic's Claude Design. It offers a range of features, including 19 skills and 71 brand-grade design systems, to generate prototypes, slides, images, videos, and HyperFrames. This AI-powered platform supports multiple integrations and exports, making it a versatile tool for frontend development and design.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/nexu-io/open-design) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nexu-io/open-design) · [← Back to Orchestration](./README.md)</sub>

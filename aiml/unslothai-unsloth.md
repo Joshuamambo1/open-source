@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 63.6k |
+| ⭐ **Stars** | 63.7k |
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `deepseek` `fine-tuning` `gemma` `gemma3` `gpt-oss` `llama` `llama3` `llm` `llms` `mistral` `openai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-unslothai/unsloth is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 100/100.
+The unsloth project provides a web-based user interface for training and executing open-source AI models, including Gemma 4, Qwen3.6, DeepSeek, and gpt-oss, locally on users' machines. This allows developers and researchers to easily interact with and utilize these models in a graphical environment. By making AI model management more accessible, unsloth aims to facilitate innovation and experimentation in the field of artificial intelligence.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/unslothai/unsloth) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/unslothai/unsloth) · [← Back to AI/ML](./README.md)</sub>

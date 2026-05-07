@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 408 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws-cdk` `cdk` `constructs` `generator` `hacktoberfest` `jsii` `repository-management` `repository-tools` `scaffolding` `templates` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Projen is an open-source project that enables rapid development of modern applications with advanced configuration management capabilities. It streamlines the process of building and managing complex software systems by providing a flexible and customizable framework for configuration and automation. With projen, developers can efficiently build and deploy scalable, maintainable applications.
+Projen is an open-source project that enables rapid development of modern applications by providing advanced configuration management capabilities. This tool empowers developers to build and manage complex applications with ease, streamlining the development process. With projen, users can automate repetitive tasks and focus on writing code, accelerating their overall development workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/projen/projen) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/projen/projen) · [← Back to Frontend](./README.md)</sub>

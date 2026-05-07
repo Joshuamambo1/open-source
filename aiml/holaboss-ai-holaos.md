@@ -1,6 +1,6 @@
 # holaboss-ai/holaOS
 
-[![Stars](https://img.shields.io/github/stars/holaboss-ai/holaOS?style=flat-square&color=yellow)](https://github.com/holaboss-ai/holaOS/stargazers) [![Forks](https://img.shields.io/github/forks/holaboss-ai/holaOS?style=flat-square&color=blue)](https://github.com/holaboss-ai/holaOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holaboss-ai/holaOS?style=flat-square&color=yellow)](https://github.com/holaboss-ai/holaOS/stargazers) [![Forks](https://img.shields.io/github/forks/holaboss-ai/holaOS?style=flat-square&color=blue)](https://github.com/holaboss-ai/holaOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > An Open Agent Computer for ANY digital work.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.8k |
-| 🍴 **Forks** | 274 |
+| ⭐ **Stars** | 5k |
+| 🍴 **Forks** | 304 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 90/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-harness` `agent-os` `agentic` `ai` `ai-agent` `ai-agents` `artificial-intelligence` `electron` `holaboss` `holaos` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "holaboss-ai/holaOS":
+Here's a brief summary for the open-source project:
 
-holaOS is an open-source agent environment designed for long-horizon work, continuity, and self-evolution. This project enables the development and testing of AI and machine learning systems that can adapt and evolve over time, facilitating innovation and improvement. By providing a robust foundation for continuous learning and growth, holaOS supports the creation of intelligent agents that can tackle complex, real-world challenges.
+holaOS is an open-source, AI-driven platform that aims to revolutionize digital work by providing a versatile and adaptable computer system. This Open Agent Computer is designed to be compatible with any digital task, offering users a seamless and efficient experience across various applications and projects. By leveraging AI and machine learning capabilities, holaOS seeks to empower users to work smarter and more effectively.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/holaboss-ai/holaOS) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/holaboss-ai/holaOS) · [← Back to AI/ML](./README.md)</sub>

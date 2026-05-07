@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 395 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`game` `opensource` `remake` `strategy-game` `theme-hospital`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-CorsixTH is an open-source, free clone of the classic Theme Hospital game. This project allows users to play and customize their own hospital management simulation, recreating the original game's experience with added flexibility. By leveraging an open-source model, CorsixTH enables a community-driven approach to game development and modification.
+CorsixTH is a free and open-source clone of the classic game Theme Hospital, a popular simulation game where players manage a hospital and treat patients. This project allows fans to relive the nostalgic experience of the original game with added mod support and community-driven updates. By recreating the game, CorsixTH aims to preserve the spirit of the original and introduce it to a new generation of gamers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/CorsixTH/CorsixTH) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/CorsixTH/CorsixTH) · [← Back to Misc](./README.md)</sub>

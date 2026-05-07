@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23.5k |
+| ⭐ **Stars** | 23.6k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-rag` `ai-agents` `clawbot` `context-database` `context-engineering` `filesystem` `llm` `memory` `openclaw` `opencode` `rag`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ AI/ML · Data · Design
 
 ## 📝 Summary
 
-OpenViking is an open-source context database that streamlines the management of AI Agent resources, skills, and memory through a unified file system paradigm. This innovative platform enables hierarchical context delivery and self-evolving capabilities, making it an ideal solution for advanced AI applications such as OpenClaw. By providing a structured approach to context management, OpenViking facilitates more efficient and adaptable AI decision-making processes.
+Here's a 2-3 sentence summary for the OpenViking project:
+
+OpenViking is an open-source context database designed to manage the complex needs of AI agents, providing a unified file system paradigm for hierarchical context delivery and self-evolution. This innovative project unifies the management of memory, resources, and skills, enabling AI agents to adapt and learn more effectively. By leveraging OpenViking, developers can create more sophisticated AI agents with enhanced capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/volcengine/OpenViking) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/volcengine/OpenViking) · [← Back to AI/ML](./README.md)</sub>

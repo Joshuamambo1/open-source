@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 9k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-CocoaPods/Specs is the central repository for CocoaPods, a dependency manager for Swift and Objective-C projects. It hosts a vast collection of metadata for open-source libraries, allowing developers to easily integrate and manage external code in their iOS, macOS, tvOS, and watchOS applications.
+CocoaPods/Specs is an open-source project that serves as the master repository for CocoaPods, a dependency manager for the Cocoa ecosystem. It hosts a vast collection of pre-built frameworks and libraries, known as specs, which developers can easily integrate into their projects. By providing a centralized platform for sharing and managing dependencies, CocoaPods/Specs simplifies the development process for iOS, macOS, watchOS, and tvOS applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/CocoaPods/Specs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/CocoaPods/Specs) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-memory` `context-graph` `cypher` `enterprise-context` `graph` `graph-algorithms` `graph-analysis` `graph-database` `graphrag` `kafka`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the Memgraph project:
+Here's a brief summary of the memgraph/memgraph project:
 
-Memgraph is a high-performance, open-source in-memory graph database designed for real-time graph analytics, AI memory, and agentic AI applications. Built in C++ and Cypher-compatible, it provides a scalable solution for handling complex graph data. With its focus on high performance and real-time capabilities, Memgraph is suitable for a wide range of use cases, including GraphRAG and AI-based applications.
+Memgraph is an open-source, high-performance in-memory graph database designed for real-time graph analytics, AI memory, and agentic AI applications. Built in C++ and compatible with Cypher, a popular query language, it enables efficient processing and querying of complex graph data. This powerful database is ideal for applications that require fast and scalable graph data management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/memgraph/memgraph) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/memgraph/memgraph) · [← Back to AI/ML](./README.md)</sub>

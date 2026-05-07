@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **17128** |
-| 📁 **Categories** | **16** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **12** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
 
@@ -18,37 +18,33 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 6363 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3596 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1692 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1226 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 1055 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 1002 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 575 | [Browse →](./crypto/) |
-| 📊 **Data** | 395 | [Browse →](./data/) |
-| 🚀 **DevOps & Infra** | 371 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 240 | [Browse →](./mobile/) |
-| 💳 **Payments** | 172 | [Browse →](./payments/) |
-| 📈 **Trading** | 171 | [Browse →](./trading/) |
-| 🔐 **Security** | 145 | [Browse →](./security/) |
-| ✨ **Design** | 57 | [Browse →](./design/) |
-| 🎯 **Product** | 36 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 70 | [Browse →](./aiml/) |
+| 📦 **Misc** | 27 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 18 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 12 | [Browse →](./backend/) |
+| 📊 **Data** | 11 | [Browse →](./data/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🧩 **Orchestration** | 7 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 3 | [Browse →](./devtools/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [invertase/react-native-firebase](./aiml/invertase-react-native-firebase.md) | ⭐ 12.3k | AI/ML |
-| 2 | [cython/cython](./data/cython-cython.md) | ⭐ 10.7k | Data |
-| 3 | [awsdocs/aws-doc-sdk-examples](./aiml/awsdocs-aws-doc-sdk-examples.md) | ⭐ 10.4k | AI/ML |
-| 4 | [WinMerge/winmerge](./misc/winmerge-winmerge.md) | ⭐ 8.8k | Misc |
-| 5 | [HKUDS/nanobot](./aiml/hkuds-nanobot.md) | ⭐ 41.7k | AI/ML |
-| 6 | [firecracker-microvm/firecracker](./payments/firecracker-microvm-firecracker.md) | ⭐ 33.9k | Payments |
-| 7 | [ludwig-ai/ludwig](./aiml/ludwig-ai-ludwig.md) | ⭐ 11.7k | AI/ML |
-| 8 | [rclone/rclone](./aiml/rclone-rclone.md) | ⭐ 57k | AI/ML |
-| 9 | [avajs/ava](./devtools/avajs-ava.md) | ⭐ 20.8k | DevTools |
-| 10 | [Project-OSRM/osrm-backend](./backend/project-osrm-osrm-backend.md) | ⭐ 7.7k | Backend |
+| 1 | [langfuse/langfuse](./aiml/langfuse-langfuse.md) | ⭐ 25.3k | AI/ML |
+| 2 | [drawdb-io/drawdb](./aiml/drawdb-io-drawdb.md) | ⭐ 37.1k | AI/ML |
+| 3 | [getsentry/sentry](./aiml/getsentry-sentry.md) | ⭐ 43.6k | AI/ML |
+| 4 | [Fincept-Corporation/FinceptTerminal](./data/fincept-corporation-finceptterminal.md) | ⭐ 10.8k | Data |
+| 5 | [chatwoot/chatwoot](./aiml/chatwoot-chatwoot.md) | ⭐ 28.7k | AI/ML |
+| 6 | [usebruno/bruno](./backend/usebruno-bruno.md) | ⭐ 43.1k | Backend |
+| 7 | [ente-io/ente](./mobile/ente-io-ente.md) | ⭐ 26.1k | Mobile |
+| 8 | [nextcloud/server](./backend/nextcloud-server.md) | ⭐ 34.7k | Backend |
+| 9 | [koala73/worldmonitor](./aiml/koala73-worldmonitor.md) | ⭐ 50.7k | AI/ML |
+| 10 | [zaproxy/zaproxy](./security/zaproxy-zaproxy.md) | ⭐ 15k | Security |
 
 ## 🚀 How it works
 
@@ -57,7 +53,7 @@ graph LR
   A[GitHub · HN · Reddit · PH] --> B[RepoScout]
   B --> C[Score · Dedupe · Categorize]
   C --> D[LLM Summarize]
-  D --> E[Supabase DB]
+  D --> E[PostgreSQL DB]
   D --> F[This Catalog]
 ```
 
@@ -65,14 +61,14 @@ graph LR
 2. **Score** — weighted: stars, forks, recency, topics, source trust
 3. **Categorize** — rule-based + LLM-assisted tagging
 4. **Summarize** — concise bilingual (EN/RU) summaries via LLM
-5. **Sync** — markdown committed here, metadata upserted to Supabase
+5. **Sync** — markdown committed here, metadata upserted to PostgreSQL
 
 ## 🛠️ Self-host
 
 ```bash
 git clone https://github.com/kirbudilov01/reposearchengine
 cp .env.example .env
-# Set LLM_PROVIDER, CATALOG_REPO_PATH, SUPABASE_URL, ...
+# Set LLM_PROVIDER, CATALOG_REPO_PATH, DATABASE_URL, ...
 npm install && npm start
 ```
 

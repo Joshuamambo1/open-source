@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.3k |
-| 🍴 **Forks** | 290 |
+| 🍴 **Forks** | 293 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`2d` `avaloniaui` `csharp` `dotnet-core` `dotnetcore` `editor` `game-development` `graphics` `graphics-editor` `linux-desktop` `painting` `pixel-art`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-PixiEditor is an open-source, universal editor designed to cater to various 2D needs, offering a versatile platform for creative professionals and developers alike. This project combines cutting-edge features with a user-friendly interface, making it an ideal choice for tasks ranging from graphic design to game development. With its focus on 2D capabilities, PixiEditor is poised to become a go-to solution for a wide range of applications.
+PixiEditor is an open-source, universal 2D editor designed to meet the diverse needs of artists, developers, and designers. With its flexible architecture, PixiEditor supports a wide range of formats and provides a seamless workflow for various 2D tasks, from graphic design to game development. As a free and community-driven project, PixiEditor offers an inclusive platform for users to collaborate, create, and innovate their 2D projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/PixiEditor/PixiEditor) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/PixiEditor/PixiEditor) · [← Back to AI/ML](./README.md)</sub>

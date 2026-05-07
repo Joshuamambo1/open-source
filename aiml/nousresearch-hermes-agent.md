@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 133.8k |
-| 🍴 **Forks** | 20.4k |
+| ⭐ **Stars** | 136.8k |
+| 🍴 **Forks** | 21k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude` `claude-code` `clawdbot` `codex` `hermes` `hermes-agent` `llm`
 
 ## 🎯 Categories
 
@@ -27,8 +27,8 @@ AI/ML
 
 Here's a brief summary for the NousResearch/hermes-agent project:
 
-Hermes-agent is an open-source, AI-driven platform designed to adapt and evolve with its users over time. By leveraging machine learning and artificial intelligence, this agent aims to provide a dynamic and personalized experience that learns and improves its responses to individual needs and preferences. With its extensible architecture, Hermes-agent offers a flexible foundation for integrating various AI and ML capabilities.
+Hermes-agent is an open-source AI/ML project designed to provide a scalable and adaptable agent that learns and evolves with its users. Built to accommodate growing needs, this agent offers a flexible framework for integrating various AI and machine learning capabilities. With its modular architecture, users can easily extend and customize the agent to suit their specific requirements.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/NousResearch/hermes-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/NousResearch/hermes-agent) · [← Back to AI/ML](./README.md)</sub>

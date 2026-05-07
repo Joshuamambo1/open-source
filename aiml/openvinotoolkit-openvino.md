@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `computer-vision` `deep-learning` `deploy-ai` `diffusion-models` `generative-ai` `good-first-issue` `inference` `llm-inference` `natural-language-processing` `nlp` `openvino`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the OpenVINO project:
-
-OpenVINO is an open-source toolkit that enables the optimization and deployment of artificial intelligence (AI) inference models across various hardware platforms. This toolkit streamlines the process of model conversion, optimization, and deployment, making it easier for developers to integrate AI capabilities into their applications. By providing a unified framework for AI inference, OpenVINO facilitates the development of AI-powered solutions across a wide range of industries.
+OpenVINO is an open-source toolkit that enables the optimization and deployment of artificial intelligence (AI) inference applications across various hardware platforms. This AI/ML framework simplifies the process of model deployment and accelerates the execution of AI workloads, making it suitable for a wide range of applications. By leveraging OpenVINO, developers can efficiently convert, optimize, and run AI models on various devices.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/openvinotoolkit/openvino) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openvinotoolkit/openvino) · [← Back to AI/ML](./README.md)</sub>

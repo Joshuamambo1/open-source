@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The msys2/MINGW-packages project provides package scripts for building MinGW-w64 targets under the MSYS2 environment. These scripts facilitate the creation and management of packages for MinGW-w64, enabling users to easily install and maintain development tools. By providing a package management system, the project simplifies the process of building and deploying software on Windows platforms.
+The msys2/MINGW-packages project is an open-source initiative that provides package scripts to build MinGW-w64 targets under the MSYS2 environment. These scripts enable developers to easily create and manage packages for MinGW-w64, a popular toolchain for compiling native Windows applications. By contributing to this project, developers can help expand the range of packages available for MinGW-w64.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/msys2/MINGW-packages) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/msys2/MINGW-packages) · [← Back to Frontend](./README.md)</sub>

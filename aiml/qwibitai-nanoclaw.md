@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 28.6k |
+| ⭐ **Stars** | 28.7k |
 | 🍴 **Forks** | 12.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-assistant` `claude-code` `claude-skills` `openclaw`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Nanoclaw is an open-source, lightweight alternative to OpenClaw that prioritizes security by running in containers. This versatile tool enables seamless integration with various messaging apps, including WhatsApp, Telegram, Slack, Discord, and Gmail, and also offers memory management and scheduled job capabilities. Built on Anthropic's Agents SDK, Nanoclaw provides a robust AI/ML framework for secure and efficient operations.
+Nanoclaw is an open-source, lightweight messaging and automation platform that provides an alternative to OpenClaw with enhanced security features, running in containers to protect against potential threats. This versatile tool allows seamless integrations with various messaging apps, including WhatsApp, Telegram, Slack, Discord, and Gmail, while also offering features like memory management and scheduled jobs. It leverages Anthropic's Agents SDK, empowering users with robust AI capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/qwibitai/nanoclaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/qwibitai/nanoclaw) · [← Back to AI/ML](./README.md)</sub>

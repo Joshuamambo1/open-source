@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 28.1k |
-| 🍴 **Forks** | 4.5k |
+| 🍴 **Forks** | 4.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agents` `ai` `ai-agents` `aiagents` `developer-tools` `function-calling` `gpt-4` `javascript` `js` `llm` `llmops`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Composio is an open-source project that enables the creation of AI agents by turning intent into action. It serves as a foundation for over 1,000 toolkits, offering features such as tool search, context management, and authentication. By utilizing Composio's sandboxed workbench, developers can build and deploy AI-powered applications with ease.
+Composio is an open-source platform that empowers developers to build and deploy AI-powered agents with ease. It offers a comprehensive suite of features, including toolkit integration, search functionality, context management, authentication, and a sandboxed workbench, making it an ideal choice for AI and machine learning projects. With Composio, users can turn intent into action by leveraging its robust set of tools and capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ComposioHQ/composio) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ComposioHQ/composio) · [← Back to AI/ML](./README.md)</sub>

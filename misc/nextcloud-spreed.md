@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 528 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`call` `hacktoberfest` `nextcloud` `open-source` `screensharing` `spreed` `video` `webrtc`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Nextcloud Talk is an open-source communication platform that enables users to make seamless chat, video, and audio calls directly within their Nextcloud instance. This versatile tool fosters real-time collaboration and communication among team members, making it an ideal solution for remote work and virtual teams. With Nextcloud Talk, users can easily connect and engage with each other across the globe.
+Nextcloud Talk is an open-source communication platform for Nextcloud, offering real-time chat, video, and audio conferencing capabilities. This feature enables users to engage in seamless group conversations, meetings, and collaborations directly within their Nextcloud instance. It is a part of the Nextcloud suite of tools, focusing on security, privacy, and ease of use.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/nextcloud/spreed) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nextcloud/spreed) · [← Back to Misc](./README.md)</sub>

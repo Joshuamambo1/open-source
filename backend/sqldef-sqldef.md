@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 226 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database-migrations` `declarative-migrations` `mariadb` `mssql` `mysql` `postgresql` `schema-changes` `sqldef` `sqlite3`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Backend · Data
 
 ## 📝 Summary
 
-sqldef is an open-source project that offers idempotent schema management for various database systems, including MySQL, PostgreSQL, SQLite, and SQL Server. This tool enables developers to manage their database schema reliably and consistently, even in complex and dynamic environments. By providing a robust and automated solution, sqldef simplifies database schema management and reduces the risk of errors or inconsistencies.
+Here's a brief summary for the sqldef project:
+
+sqldef is an open-source tool that provides idempotent schema management for various databases, including MySQL, PostgreSQL, SQLite, and SQL Server. It allows users to define and synchronize database schemas in a predictable and reliable manner, reducing the risk of errors and inconsistencies. By using sqldef, developers can efficiently manage database schema changes across different environments and deployments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/sqldef/sqldef) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/sqldef/sqldef) · [← Back to Backend](./README.md)</sub>

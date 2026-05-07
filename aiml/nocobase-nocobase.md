@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`admin-dashboard` `ai-agent` `ai-agents` `ai-assistant` `ai-tools` `airtable` `crm` `crud` `erp` `internal-tool` `internal-tools` `low-code`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-NocoBase is an open-source, AI-powered no-code/low-code platform designed to facilitate the rapid development of business applications and enterprise solutions. This extensible platform empowers users to build complex applications without extensive coding knowledge, leveraging cutting-edge AI technology. With NocoBase, users can create scalable and efficient business solutions with minimal technical expertise.
+NocoBase is an open-source platform that combines the power of AI with a no-code interface to rapidly build business systems. By leveraging production-proven infrastructure and a visual drag-and-drop interface, users can create robust systems quickly and reliably. This innovative approach streamlines the development process, making it ideal for businesses that need to quickly respond to changing market demands.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nocobase/nocobase) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nocobase/nocobase) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`azerothcore` `emulator` `game` `game-server` `gaming` `hacktoberfest` `mangos` `mmorpg` `mmorpg-game` `mmorpg-server` `modular` `scriptdev2`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-azerothcore/azerothcore-wotlk is a promising open-source project. Categories: Backend. Interest score: 100/100.
+AzerothCore is an open-source, modular backend solution for massively multiplayer online (MMO) games. It is based on the World of Warcraft: The Burning Crusade (WotLK) game engine, allowing developers to create and customize their own custom WoW-style servers. This project provides a scalable and customizable framework for building immersive online gaming experiences.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/azerothcore/azerothcore-wotlk) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/azerothcore/azerothcore-wotlk) · [← Back to Backend](./README.md)</sub>

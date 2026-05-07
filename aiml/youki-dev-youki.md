@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 428 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`containers` `docker` `kubernetes` `oci` `rust`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the youki project:
-
-Youki is an open-source container runtime written in Rust, designed to provide a high-performance and efficient platform for container execution. Built with modern programming principles, Youki aims to simplify the containerization process while offering improved scalability and reliability. Its Rust-based architecture enables faster development and deployment of containerized applications.
+Youki is an open-source container runtime written in Rust, designed to provide a high-performance and secure environment for running containers. It offers a modern alternative to traditional container runtimes, leveraging Rust's memory safety and performance benefits to optimize container execution. By utilizing Rust, Youki aims to deliver improved efficiency and reliability for containerized applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/youki-dev/youki) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/youki-dev/youki) · [← Back to AI/ML](./README.md)</sub>

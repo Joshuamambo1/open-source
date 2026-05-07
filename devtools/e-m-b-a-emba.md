@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 301 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`artificial-intelligence` `binary-analysis` `embedded-linux` `embedded-systems` `firmware` `firmware-analysis` `firmware-tools` `hacking` `infosec` `iot` `linux` `penetration-testing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ DevTools · Security
 
 ## 📝 Summary
 
-EMBA is an open-source firmware security analyzer designed to identify potential vulnerabilities and security risks within firmware. This tool provides developers with a comprehensive platform to scan and assess the security posture of firmware, enabling proactive measures to prevent exploitation. By leveraging EMBA, users can enhance the overall security and reliability of their firmware-based systems.
+Here's a brief summary for the e-m-b-a/emba open-source project:
+
+EMBA is an open-source firmware security analyzer designed to identify and mitigate vulnerabilities in firmware. This powerful tool provides developers with a comprehensive set of features to scan and analyze firmware for security risks, helping to safeguard against potential threats. With EMBA, users can perform in-depth firmware security assessments and take proactive steps to ensure the integrity and trustworthiness of their firmware.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/e-m-b-a/emba) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/e-m-b-a/emba) · [← Back to DevTools](./README.md)</sub>

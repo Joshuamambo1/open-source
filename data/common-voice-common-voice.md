@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 871 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`crowdsourcing` `internet-freedom` `open-data` `voice`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Common Voice is an open-source project by Mozilla that aims to create a large-scale, high-quality audio dataset of human voices. This initiative seeks to provide machines with a better understanding of how people speak, enabling more accurate and natural language interactions. By contributing to Common Voice, developers can help advance the field of natural language processing and improve voice-based technologies.
+Common Voice is an open-source project by Mozilla that aims to create a large-scale audio dataset of people speaking in their native languages. This dataset is used to help teach machines how real people speak, enabling the development of more accurate and inclusive voice assistants and speech recognition systems. By contributing to Common Voice, individuals can help improve language understanding and accessibility worldwide.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/common-voice/common-voice) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/common-voice/common-voice) · [← Back to Data](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `application-engine` `architecture` `autonomous-agents` `desktop-like` `esm` `frontend` `generative-ai` `javascript` `mcp-servers` `multi-threaded` `neural-link`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-neomjs/neo is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 75/100.
+Here's a 2-3 sentence summary for the project:
+
+Neo is an open-source, multi-threaded runtime engine designed for the AI era, enabling AI agents to interact with and modify application structures in real-time. Built with a persistent Scene Graph, Neo empowers AI to introspect and mutate the application's living structure, revolutionizing the way AI and applications interact. This AI-native runtime provides a unique platform for building dynamic, adaptive, and AI-driven applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/neomjs/neo) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/neomjs/neo) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 13.5k |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`core` `formulae` `hacktoberfest` `homebrew` `ruby` `tap`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Homebrew/homebrew-core is a promising open-source project. Categories: Misc. Interest score: 97/100.
+Homebrew/homebrew-core is an open-source project that provides a collection of default formulae for Homebrew, a popular package manager for macOS and Linux. This repository serves as the central hub for community-maintained packages, making it easier for users to discover and install software on their systems. With homebrew-core, users can easily install a wide range of applications, from development tools to productivity software.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Homebrew/homebrew-core) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Homebrew/homebrew-core) · [← Back to Misc](./README.md)</sub>

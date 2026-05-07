@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automl` `big-data` `data-science` `deep-learning` `distributed` `ensemble-learning` `gbm` `gpu` `h2o` `h2o-automl` `hadoop` `java`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the H2O-3 project:
 
-H2O-3 is an open-source, distributed, and scalable machine learning platform that offers a wide range of algorithms, including deep learning, gradient boosting, and automatic machine learning. With H2O-3, users can perform a variety of tasks such as classification, regression, clustering, and dimensionality reduction. This platform is designed to handle large-scale datasets and provides a flexible and efficient way to build and deploy machine learning models.
+H2O-3 is an open-source machine learning platform that offers a wide range of scalable and fast algorithms, including deep learning, gradient boosting, and automatic machine learning. With its distributed architecture, H2O-3 enables efficient processing of large datasets, making it suitable for big data analytics and AI applications. By providing an extensive library of machine learning models and techniques, H2O-3 empowers data scientists to build accurate and robust predictive models.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/h2oai/h2o-3) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/h2oai/h2o-3) · [← Back to AI/ML](./README.md)</sub>

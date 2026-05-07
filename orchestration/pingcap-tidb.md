@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.2k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-context` `agent-memory` `agentic` `ai` `cloud-native` `database` `distributed-database` `distributed-transactions` `go` `hacktoberfest` `htap`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-TiDB is an open-source, distributed database designed to handle unpredictable workloads with ACID guarantees and native support for transactions, analytics, and vector search. It enables seamless data sharing and scales horizontally, eliminating the limitations of traditional databases. By providing a unified platform for various workloads, TiDB streamlines data management and enhances overall system performance.
+TiDB is an open-source, distributed relational database designed for high-performance, unpredictable workloads. It offers ACID guarantees and native support for transactions, analytics, and vector search, allowing for seamless scalability and flexibility. By eliminating data silos, noisy neighbors, and infrastructure limitations, TiDB enables businesses to process complex queries and large datasets with ease.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/pingcap/tidb) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pingcap/tidb) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 725 |
+| ⭐ **Stars** | 3k |
+| 🍴 **Forks** | 730 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `openai` `openai-api` `realtime-api` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The openai-agents-js project is an open-source framework that enables the creation of multi-agent workflows and voice agents with ease, using a lightweight and powerful approach. This JavaScript-based framework provides a robust backend for building complex AI and ML applications, making it ideal for developers and researchers who want to leverage the power of multi-agent systems. With openai-agents-js, users can streamline their workflow and build more efficient and effective voice agents.
+Here's a brief summary for the open-source project:
+
+The openai/openai-agents-js framework is an open-source, lightweight toolkit for developing multi-agent workflows and voice agents, empowering efficient and scalable AI/ML applications. This powerful backend framework simplifies the integration of machine learning models and automation logic, streamlining the creation of sophisticated voice agents and agent ecosystems. By leveraging this framework, developers can rapidly build and deploy complex multi-agent systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/openai/openai-agents-js) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openai/openai-agents-js) · [← Back to Orchestration](./README.md)</sub>

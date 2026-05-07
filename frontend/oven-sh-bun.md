@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 89.6k |
+| ⭐ **Stars** | 89.7k |
 | 🍴 **Forks** | 4.4k |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bun` `bundler` `javascript` `javascriptcore` `jsx` `nodejs` `npm` `react` `transpiler` `typescript` `zig` `ziglang`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Bun is an incredibly fast, all
+The oven-sh/bun project is an open-source, multi-functional tool that combines a JavaScript runtime, bundler, test runner, and package manager into a single, high-performance platform. It streamlines development workflows by providing a unified solution for building, testing, and managing frontend projects. With its focus on speed and efficiency, bun accelerates development and simplifies project management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/oven-sh/bun) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/oven-sh/bun) · [← Back to Frontend](./README.md)</sub>

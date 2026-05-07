@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent-framework` `ai-agents` `automation` `background-jobs` `mcp` `mcp-server` `nextjs` `orchestration` `scheduler` `serverless` `workflow-automation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Trigger.dev is an open-source project that enables users to build and deploy fully-managed AI agents and workflows, streamlining the process of artificial intelligence development. This platform provides a comprehensive solution for users to create, integrate, and manage AI-driven applications, reducing the complexity associated with AI/ML development. With Trigger.dev, users can focus on building innovative AI-powered solutions without worrying about the underlying infrastructure.
+Trigger.dev is an open-source project that enables users to build and deploy fully-managed AI agents and workflows with ease. This platform offers a seamless experience for users to create, orchestrate, and manage complex AI-driven applications, streamlining the development process. Trigger.dev is specifically designed for users looking to leverage AI/ML capabilities in their projects, providing a flexible and scalable solution for a wide range of applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/triggerdotdev/trigger.dev) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/triggerdotdev/trigger.dev) · [← Back to Orchestration](./README.md)</sub>

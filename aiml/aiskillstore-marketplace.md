@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 263 |
+| ⭐ **Stars** | 264 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-skills` `claude` `claude-code` `claude-skills` `codex` `codex-skills` `skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The aiskillstore/marketplace project provides a curated collection of security-audited skills for popular AI platforms, including Claude, Codex, and Claude Code. These pre-verified skills can be easily installed with just one click, saving users time and effort. The marketplace aims to enhance the security and quality of AI-powered tools, making them more reliable and trustworthy.
+Aiskillstore/marketplace is an open‑source repository that offers security‑audited AI “skills” compatible with Claude, Codex, and Claude Code, enabling developers to extend these models with vetted, high‑quality functionalities. The platform provides a one‑click installation process and includes verification mechanisms to ensure each skill meets strict security and performance standards, making it a reliable tool for AI/ML and DevTools projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/aiskillstore/marketplace) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/aiskillstore/marketplace) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 844 |
-| 🍴 **Forks** | 79 |
+| ⭐ **Stars** | 851 |
+| 🍴 **Forks** | 82 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `claude-code` `cli-tool` `cursor` `evaluation` `gemini-cli` `kiro` `large-language-models` `llm` `llm-evaluation` `llm-observability` `llmops`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-BlazeUp-AI/Observal is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 55/100.
+Observal is an open‑source AI agent registry that provides built‑in observability and evaluation capabilities, enabling developers to monitor, debug, and benchmark AI agents in real time. Its first‑in‑class framework combines comprehensive metrics, tracing, and performance analytics with a flexible plug‑in architecture, making it a powerful DevTools solution for AI/ML workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/BlazeUp-AI/Observal) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/BlazeUp-AI/Observal) · [← Back to AI/ML](./README.md)</sub>

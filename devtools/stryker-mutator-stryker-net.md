@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dotnet-core` `dotnet-framework` `dotnet-stryker` `hacktoberfest` `mutation-testing` `stryker`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the stryker-mutator/stryker-net project:
-
-Stryker-Mutator for .NET (stryker-net) is an open-source mutation testing tool that helps developers identify and fix bugs in their code by introducing artificial mutations and analyzing the resulting test failures. It supports both .NET Core and .NET Framework projects, making it a valuable addition to any .NET development workflow. By using stryker-net, developers can ensure the robustness and reliability of their code through automated mutation testing.
+Stryker‑Mutator (Stryker‑Net) is an open‑source mutation testing framework for .NET Core and the .NET Framework, automatically injecting small code changes (mutants) into your codebase and running your test suite to measure how well your tests detect faults. It integrates with popular .NET testing tools, provides detailed mutation scores and reports, and helps developers improve test quality and code robustness.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/stryker-mutator/stryker-net) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/stryker-mutator/stryker-net) · [← Back to DevTools](./README.md)</sub>

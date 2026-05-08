@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 214 |
-| 🍴 **Forks** | 33 |
+| ⭐ **Stars** | 220 |
+| 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `ai-agents` `ai-assistant` `autonomous-agents` `hermes-agent` `llm` `multi-agent` `openclaw` `pixel-art` `spec-driven` `status-visiualzation` `threejs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The OpenCROC Cube Pets Office is an open-source project that offers a visual AI Agent Operating System (OS) with a 3D office environment. This innovative platform allows users to visualize the workflow of AI and machine learning (ML) tasks, from planning to execution and review, enabling a more transparent and efficient development process. With its real-time execution and replay features, developers can streamline their task lifecycle, optimize their workflows, and simplify AI/ML task management.
+**Cube‑Pets‑Office** is an open‑source AI‑agent operating system that makes an agent’s workflow transparent by visualizing each step within a 3D office environment. It lets users define tasks ranging from a single sentence to full‑lifecycle processes, automatically handling planning, execution, review, and replay of actions. The project blends orchestration and AI/ML capabilities to provide a tangible, interactive interface for building and managing autonomous agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/opencroc/cube-pets-office) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/opencroc/cube-pets-office) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 170 |
+| ⭐ **Stars** | 171 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-native` `ai-native` `embedding-vectors` `gpu-acceleration` `htap` `in-memory-column-storage` `ml-embeded` `multi-model` `mysql` `onnx-runtime` `open-source-mysql-heatwave` `rag`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
-ShannonBase is an open-source, next-generation database designed specifically for the intersection of data and AI. Aspiring to be the MySQL equivalent for the AI era, this infrastructure provides a robust platform for developers and organizations to manage and analyze large amounts of data in support of AI applications. By streamlining data management and AI development, ShannonBase aims to accelerate innovation in the field.
+ShannonBase is an open‑source, next‑generation database engineered specifically for AI and machine learning workloads. It provides a MySQL‑compatible, highly scalable infrastructure that streamlines data ingestion, storage, and retrieval for AI applications, making it the “MySQL of the AI era.” Designed for seamless DevOps integration, ShannonBase simplifies the deployment and management of AI‑ready data pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Shannon-Data/ShannonBase) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Shannon-Data/ShannonBase) · [← Back to AI/ML](./README.md)</sub>

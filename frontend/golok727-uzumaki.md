@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 297 |
+| ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deno` `desktop-framework` `gui` `react` `typescript` `ui` `uzumaki` `v8` `wgpu`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The uzumaki project is an open-source, TypeScript-based desktop UI framework that abstracts away the complexities of browser-related functionalities, allowing developers to focus on building rich, interactive applications. This framework provides a robust set of tools for creating visually appealing and user-friendly desktop interfaces. By leveraging TypeScript, uzumaki aims to provide a more efficient and maintainable development experience.
+Uzumaki is an open‑source desktop UI framework built with TypeScript that focuses solely on native application interfaces, stripping away all browser‑related features and dependencies. It provides a lightweight, component‑based architecture for creating responsive, cross‑platform desktop experiences without the overhead of HTML, CSS, or a web runtime. Ideal for developers who want a pure TypeScript solution for building modern desktop front‑ends.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/golok727/uzumaki) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/golok727/uzumaki) · [← Back to Frontend](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 109 |
+| 🍴 **Forks** | 111 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-coding` `llm` `mcp` `rules` `skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The dyoshikawa/rulesync project is an open-source utility CLI designed to facilitate interactions between AI coding agents and developers. It aims to provide a seamless experience for these agents to adhere to coding best practices and project guidelines. By leveraging this tool, developers can streamline the coding process and improve overall collaboration with AI agents.
+**rulesync** is a lightweight command‑line utility that enables AI‑powered coding agents to synchronize, apply, and manage coding rules across projects and environments. It provides developers with simple commands to import, export, and validate rule sets, streamlining collaboration between AI assistants and human teams. The tool is open‑source, written for easy integration into AI/ML pipelines and DevOps workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/dyoshikawa/rulesync) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dyoshikawa/rulesync) · [← Back to AI/ML](./README.md)</sub>

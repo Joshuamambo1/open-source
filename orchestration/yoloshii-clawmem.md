@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 152 |
-| 🍴 **Forks** | 24 |
+| ⭐ **Stars** | 156 |
+| 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent-memory` `ai-agents` `bun` `claude-code` `embeddings` `hybrid-search` `llama-cpp` `local-first` `mcp-server` `mcp-tools` `memory` `model-context-protocol`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-ClawMem is an open-source on-device memory layer designed specifically for AI agents, integrating key components such as Claude Code, Hermes, and OpenClaw. This project provides a hybrid RAG (Retrieval-Augmented Generation) search and a scalable architecture for efficient knowledge management. By offering hooks and an MCP server, ClawMem enables seamless integration with various AI systems and applications.
+ClawMem is an open‑source, on‑device memory layer designed for AI agents such as Claude Code, Hermes and OpenClaw. It provides a unified interface of hooks, an MCP server, and a hybrid Retrieval‑Augmented Generation (RAG) search system that enables fast, local context storage and retrieval without relying on external services. The project fits within orchestration, AI/ML, and backend domains, offering developers a lightweight yet powerful way to manage agent memory efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/yoloshii/ClawMem) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/yoloshii/ClawMem) · [← Back to Orchestration](./README.md)</sub>

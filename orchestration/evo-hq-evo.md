@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 655 |
+| ⭐ **Stars** | 662 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `autonomous-agents` `autoresearch` `claude-code` `code-optimization` `codex` `evolutionary-algorithms` `llm-agents`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the evo project:
-
-The evo project is an open-source plugin for Claude Code and Codex that automates the process of optimizing codebases through autoresearch. By identifying key performance indicators, instrumenting benchmarks, and running parallel tree searches, evo enables developers to discover and implement high-impact improvements with minimal manual effort. This innovative solution combines AI/ML with orchestration to streamline the software optimization process.
+evo‑hq/evo is an open‑source plugin for Claude Code and Codex that transforms any codebase into an autonomous research loop. It automatically identifies performance metrics, injects benchmarking instrumentation, and then drives a parallel tree‑search using multiple sub‑agents to explore optimizations and improvements. The project sits at the intersection of orchestration and AI/ML, enabling self‑directed code analysis and iterative refinement.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/evo-hq/evo) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/evo-hq/evo) · [← Back to Orchestration](./README.md)</sub>

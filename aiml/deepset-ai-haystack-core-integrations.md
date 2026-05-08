@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 194 |
+| ⭐ **Stars** | 195 |
 | 🍴 **Forks** | 255 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `haystack` `llm` `mlops` `nlp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The deepset-ai/haystack-core-integrations project is an open-source initiative that enhances the capabilities of Haystack, a popular AI/ML framework. This repository provides additional packages, including components and document stores, designed to extend and expand Haystack's functionality. By leveraging these integrations, developers can unlock new possibilities and applications for their Haystack-powered projects.
+Haystack‑Core‑Integrations is an open‑source collection of add‑on packages that extend the functionality of the Haystack framework. It provides ready‑made components, document stores, and other integrations—such as connectors for databases, vector stores, and external services—enabling developers to quickly build and scale AI‑driven search and retrieval pipelines. The project is maintained by deepset‑ai and targets the AI/ML community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/deepset-ai/haystack-core-integrations) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/deepset-ai/haystack-core-integrations) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 95 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 157 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `claude` `cli` `code-context` `code-intelligence` `context-compression` `copilot` `cursor` `developer-experience` `developer-tools` `gemini` `github-copilot`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The sigmap project is an open-source tool that significantly reduces token usage by up to 97% during AI coding sessions, making it an efficient solution for developers. This project supports 21 languages and can be run without any dependencies, making it a lightweight and versatile tool. It also includes a MCP (Multi-Client Protocol) server for seamless integration.
+Manojmallick’s **sigmap** is a lightweight, zero‑dependency tool that slashes token usage by up to 97% during AI‑assisted coding sessions, making prompts far more efficient. It supports 21 programming languages, runs on a minimal MCP server, and is positioned as a backend‑focused dev‑tool for AI/ML workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/manojmallick/sigmap) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/manojmallick/sigmap) · [← Back to AI/ML](./README.md)</sub>

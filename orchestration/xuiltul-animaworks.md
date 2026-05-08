@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 230 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 232 |
+| 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `ai-agents` `autonomous-agents` `brain-inspired` `claude` `forgetting` `llm` `memory` `multi-agent` `multi-model` `ollama` `organization-as-code`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Animaworks is an open-source project that brings together Organization-as-Code and brain-inspired AI memory management. This system enables autonomous AI agents to dynamically grow, consolidate, and forget memories, utilizing a multi-model architecture that supports various AI and ML models. By leveraging this technology, developers can create sophisticated AI agents that learn and adapt in a more organic and efficient manner.
+Animaworks (xuiltul/animaworks) provides a framework for defining and managing autonomous AI agents as code, offering a brain‑inspired memory system that can grow, consolidate, and selectively forget information. It supports a wide range of language models—including Claude, Codex, Gemini, Cursor, and any Ollama‑compatible model—allowing developers to orchestrate multi‑model workflows and build sophisticated, self‑organizing AI applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/xuiltul/animaworks) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/xuiltul/animaworks) · [← Back to Orchestration](./README.md)</sub>

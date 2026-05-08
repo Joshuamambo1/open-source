@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 428 |
+| 🍴 **Forks** | 438 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agents` `ai` `anthropic` `anthropic-api` `api-gateway` `claude` `claude-code` `codex` `cost-management` `deepseek` `gemini-api`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-AxonHub is an open-source AI gateway that enables users to interact with a wide range of Large Language Models (LLMs) using various software development kits (SDKs). This platform offers advanced features such as built-in failover, load balancing, cost control, and end-to-end tracing, making it a reliable and efficient solution for AI-powered applications. By providing a unified interface to over 100 LLMs, AxonHub simplifies the integration process and unlocks the full potential of AI-driven development.
+LoopLJ’s **AxonHub** is an open‑source AI gateway that lets developers access more than 100 large language models through a unified SDK‑agnostic interface. It provides built‑in features such as automatic failover, load‑balancing, cost‑control policies, and end‑to‑end request tracing, making it suitable for both frontend and backend integrations in AI/ML applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/looplj/axonhub) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/looplj/axonhub) · [← Back to AI/ML](./README.md)</sub>

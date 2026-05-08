@@ -1,6 +1,6 @@
 # motiondivision/motion
 
-[![Stars](https://img.shields.io/github/stars/motiondivision/motion?style=flat-square&color=yellow)](https://github.com/motiondivision/motion/stargazers) [![Forks](https://img.shields.io/github/forks/motiondivision/motion?style=flat-square&color=blue)](https://github.com/motiondivision/motion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/motiondivision/motion?style=flat-square&color=yellow)](https://github.com/motiondivision/motion/stargazers) [![Forks](https://img.shields.io/github/forks/motiondivision/motion?style=flat-square&color=blue)](https://github.com/motiondivision/motion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
 
 > A modern animation library for React and JavaScript
 
@@ -11,13 +11,13 @@
 | ⭐ **Stars** | 31.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | hackernews |
+| 📈 **Score** | 97/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`animation` `animation-js` `motion` `react` `reactanimations` `spring`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Motion is an open-source animation library designed for JavaScript, React, and Vue developers, enabling the creation of complex and smooth animations in web applications. This library provides a flexible and powerful framework for animating components, elements, and interactions, making it ideal for building engaging user experiences. With Motion, developers can craft visually appealing animations that enhance the overall usability and visual appeal of their web applications.
+motiondivision/motion is a lightweight, modern animation library that brings powerful, physics‑based motion capabilities to React and plain JavaScript projects. It offers an intuitive API for creating smooth transitions, gestures, and shared‑element animations while maintaining high performance and a small bundle size. Ideal for front‑end developers who want declarative, customizable animations without the overhead of heavyweight frameworks.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/motiondivision/motion) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/motiondivision/motion) · [← Back to Frontend](./README.md)</sub>

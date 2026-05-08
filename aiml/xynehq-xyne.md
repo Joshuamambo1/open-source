@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 665 |
-| 🍴 **Forks** | 62 |
+| ⭐ **Stars** | 666 |
+| 🍴 **Forks** | 63 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`assistants` `bedrock` `bun` `claude` `enterprise-search` `gen-ai` `generative-ai` `information-retrieval` `integrations` `llm` `openai` `rag`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the xyne project:
-
-xyne is an open-source AI-first Search & Answer Engine designed for workplace use, offering a viable alternative to proprietary solutions like Glean. This project leverages AI technology to provide efficient and accurate search and answer capabilities, enhancing productivity and collaboration within organizations. By being open-source, xyne enables customization and community-driven development to meet the diverse needs of its users.
+xyne is an open‑source, AI‑first search and answer engine designed for workplace knowledge retrieval, offering a self‑hosted alternative to Glean. It leverages large language models to index, understand, and surface relevant documents, enabling fast, context‑aware answers to employee queries. The project is built for teams that need secure, customizable, and extensible AI‑powered search across internal data sources.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/xynehq/xyne) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/xynehq/xyne) · [← Back to AI/ML](./README.md)</sub>

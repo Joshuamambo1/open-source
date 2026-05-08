@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Cython |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`big-data` `c` `cpp` `cpython` `cpython-extensions` `cython` `performance` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Cython is an open-source project that translates Python code into efficient C code, optimizing performance for numerically intensive applications. By bridging the gap between Python's ease of development and C's speed, Cython enables developers to write high-performance code while maintaining the convenience of a Python-like syntax. This results in significant speedups for data-intensive applications.
+Cython is an open‑source compiler that translates Python code (and Python‑like syntax with optional static type declarations) into efficient C or C++ extensions. By allowing developers to add type annotations and directly call C libraries, it dramatically speeds up performance‑critical sections while maintaining seamless integration with the Python ecosystem. It’s widely adopted for scientific computing, data processing, and extending Python applications with native code.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cython/cython) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cython/cython) · [← Back to Data](./README.md)</sub>

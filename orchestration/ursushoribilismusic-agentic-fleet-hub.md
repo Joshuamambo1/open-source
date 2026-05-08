@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `ai-agents` `ai-infrastructure` `autonomous-agents` `claude-code` `codex` `devtools` `gemini-cli` `infisical` `kanban` `mistral` `multi-agent`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-This open-source project, agentic-fleet-hub, provides a self-hosted orchestration layer for teams of autonomous AI agents. It offers a comprehensive set of features, including shared memory, heartbeat scheduling, and secure vault-first secrets management, to facilitate efficient collaboration and deployment among AI models. With a single command, users can easily deploy and manage their AI agent teams.
+UrsushoribilisMusic/agentic-fleet-hub is a self‑hosted orchestration platform that coordinates teams of autonomous AI agents, providing shared memory, heartbeat‑driven scheduling, and a vault‑first secrets management system. It also includes cross‑model peer‑review capabilities and can be deployed with a single command, making it a lightweight yet powerful tool for building and managing AI‑driven workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/UrsushoribilisMusic/agentic-fleet-hub) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/UrsushoribilisMusic/agentic-fleet-hub) · [← Back to Orchestration](./README.md)</sub>

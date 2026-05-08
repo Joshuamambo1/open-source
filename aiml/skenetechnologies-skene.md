@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 100 |
+| ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-tools` `anthropic` `automation` `cli` `cli-tool` `code-documentation` `codebase-analysis` `developer-tools` `gemini` `growth-hacking` `llm` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The Skene project is an open-source Product-Led Growth (PLG) analysis toolkit that empowers businesses to gain valuable insights into their tech stacks, growth loops, and customer journeys. By leveraging this toolkit, companies can effectively identify areas for improvement and iterate on their growth strategies to maximize efficiency and customer acquisition. The Skene project combines AI/ML capabilities with frontend and backend development to provide a comprehensive PLG solution.
+Skene is an open‑source toolkit designed for Product‑Led Growth (PLG) analytics, automatically detecting a product’s underlying tech stack, mapping out growth loops, and iteratively refining them. It combines AI/ML‑driven insights with both frontend and backend components, enabling teams to visualize, test, and optimize growth strategies fast. Ideal for developers and growth engineers looking to build data‑backed PLG loops without writing custom infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/SkeneTechnologies/skene) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/SkeneTechnologies/skene) · [← Back to AI/ML](./README.md)</sub>

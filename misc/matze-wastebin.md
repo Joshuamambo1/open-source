@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 783 |
+| ⭐ **Stars** | 785 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`axum` `pastebin` `rust` `self-hosted` `sqlite`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Wastebin is an open-source, pastebin-like application that allows users to share text content temporarily. It provides a simple and secure way to store and share text data, making it suitable for developers, researchers, and anyone who needs to share code snippets or other text information privately. This project is available for public use and can be easily customized or extended.
+Matze’s **wastebin** is a lightweight, open‑source pastebin service that lets users quickly store and share text snippets or code fragments via a simple web interface. Designed for minimal setup and easy self‑hosting, it provides basic features such as syntax highlighting, expiration settings, and optional password protection, making it a handy tool for developers and teams needing a quick, disposable storage solution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/matze/wastebin) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/matze/wastebin) · [← Back to Misc](./README.md)</sub>

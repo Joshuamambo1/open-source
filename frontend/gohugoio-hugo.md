@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 87.9k |
+| ⭐ **Stars** | 88k |
 | 🍴 **Forks** | 8.3k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blog-engine` `cms` `content-management-system` `documentation-tool` `go` `hugo` `static-site-generator`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-gohugoio/hugo is a promising open-source project. Categories: Frontend, DevTools. Interest score: 99/100.
+gohugoio/hugo is a lightning‑fast, static site generator written in Go, designed to let developers create and deploy modern websites with minimal effort. It offers a rich templating system, built‑in markdown processing, and extensive configuration options, making it ideal for blogs, documentation, and marketing sites. By compiling pages into pure HTML at build time, Hugo delivers exceptional performance without requiring a runtime server.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/gohugoio/hugo) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/gohugoio/hugo) · [← Back to Frontend](./README.md)</sub>

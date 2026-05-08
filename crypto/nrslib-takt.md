@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 62 |
+| 🍴 **Forks** | 63 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `agent-team` `ai-agents` `claude-code` `codex` `multi-agent` `opencode`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The takt project is an open-source framework for defining AI agent coordination topologies, human intervention points, and data recording specifications in a YAML format. This allows for efficient and flexible management of complex AI systems, promoting transparency and ease of use. By utilizing a standardized YAML configuration, developers can create and integrate custom agent coordination topologies with ease.
+nrslib /takt is an open‑source framework that lets developers describe the coordination topology of AI agents using plain‑text YAML. It specifies how agents interact, where human operators intervene, and which data streams are logged, enabling reproducible, auditable AI workflows. The project targets crypto‑oriented, orchestrated AI/ML pipelines where transparent agent collaboration is essential.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nrslib/takt) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nrslib/takt) · [← Back to Crypto](./README.md)</sub>

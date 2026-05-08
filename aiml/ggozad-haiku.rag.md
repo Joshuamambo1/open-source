@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 520 |
+| ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `docling` `lancedb` `mcp` `mcp-server` `ml` `pydantic-ai` `rag`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The haiku.rag project is an open-source, opinionated RAG (Retrieval-Augmented Generation) model that leverages LanceDB, Pydantic AI, and Docling to generate human-like responses. This project aims to provide a powerful and efficient AI tool for developers, researchers, and knowledge workers, enabling them to tap into vast knowledge bases and create high-quality content. By using a combination of advanced technologies, haiku.rag offers a robust and scalable solution for various AI-powered applications.
+A lightweight, opinionated Retrieval‑Augmented Generation (RAG) framework that combines LanceDB for scalable vector storage, Pydantic‑AI for structured prompt handling, and Docling for seamless document ingestion. Designed for developers building agentic AI applications, it offers a clean, backend‑focused API that streamlines indexing, querying, and response generation. The project is open‑source and targets AI/ML, backend, and dev‑tools use cases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ggozad/haiku.rag) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ggozad/haiku.rag) · [← Back to AI/ML](./README.md)</sub>

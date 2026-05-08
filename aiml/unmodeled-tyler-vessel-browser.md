@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 60 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 66 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-browser` `ai-browser-automation` `ai-mcp-browser` `ai-tools` `autonomous-agents` `byok` `claude-mcp` `codex-mcp` `hermes-agent` `linux` `linux-browser`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The Vessel Browser is an open-source AI browser designed for agents, offering a durable state, MCP control, and Bring Your Own Key (BYOK) capabilities. This browser enables autonomous browsing and can be integrated with various agents and APIs, including Hermes Agent and OpenClaw. With its full-stack architecture, Vessel Browser facilitates seamless AI interactions across Linux and Windows platforms.
+Vessel Browser is an open‑source AI‑driven web browser for Linux and Windows, engineered from the ground up for autonomous agents. It offers persistent state management, MCP (Multi‑Channel Protocol) control, and bring‑your‑own‑key encryption, enabling fully automated browsing when paired with Hermes Agent, OpenClaw, or any compatible API provider.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/unmodeled-tyler/vessel-browser) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/unmodeled-tyler/vessel-browser) · [← Back to AI/ML](./README.md)</sub>

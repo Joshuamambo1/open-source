@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | JSON |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dmx` `dmx512` `gdtf` `hacktoberfest` `json` `lighting` `nodejs` `nuxt` `rdm` `vue`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Frontend
 
 ## 📝 Summary
 
-The Open Fixture Library is an open-source project that provides a comprehensive library and online platform for managing and sharing DMX fixture definition files. This library enables the standardized description of lighting technology and facilitates communication between various lighting systems. By making fixture definitions openly accessible, it aims to simplify the integration of different lighting products and promote interoperability in the industry.
+OpenLightingProject’s **open-fixture-library** is an open‑source repository that collects, standardizes, and hosts DMX fixture definition files used in professional lighting control. It provides a searchable web interface and a reusable data library so developers, designers, and lighting technicians can easily integrate accurate fixture profiles into software, consoles, and visualizers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/OpenLightingProject/open-fixture-library) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/OpenLightingProject/open-fixture-library) · [← Back to Crypto](./README.md)</sub>

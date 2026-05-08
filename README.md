@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3299** |
+| 🗂️ **Total projects** | **3339** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1309 | [Browse →](./aiml/) |
-| 📦 **Misc** | 517 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 331 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 329 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 175 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 171 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 133 | [Browse →](./crypto/) |
-| 📊 **Data** | 78 | [Browse →](./data/) |
-| 💳 **Payments** | 75 | [Browse →](./payments/) |
+| 🤖 **AI/ML** | 1327 | [Browse →](./aiml/) |
+| 📦 **Misc** | 525 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 335 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 331 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 177 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 172 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 134 | [Browse →](./crypto/) |
+| 📊 **Data** | 79 | [Browse →](./data/) |
+| 💳 **Payments** | 77 | [Browse →](./payments/) |
 | 📈 **Trading** | 49 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 45 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 46 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 39 | [Browse →](./mobile/) |
 | 🔐 **Security** | 28 | [Browse →](./security/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.5k | AI/ML |
-| 2 | [kedro-org/kedro](./aiml/kedro-org-kedro.md) | ⭐ 10.9k | AI/ML |
-| 3 | [payloadcms/payload](./frontend/payloadcms-payload.md) | ⭐ 42.3k | Frontend |
-| 4 | [Lissy93/dashy](./frontend/lissy93-dashy.md) | ⭐ 25k | Frontend |
-| 5 | [gfx-rs/wgpu](./backend/gfx-rs-wgpu.md) | ⭐ 17.1k | Backend |
-| 6 | [jhipster/generator-jhipster](./frontend/jhipster-generator-jhipster.md) | ⭐ 22.4k | Frontend |
+| 1 | [influxdata/influxdb](./frontend/influxdata-influxdb.md) | ⭐ 31.5k | Frontend |
+| 2 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.5k | AI/ML |
+| 3 | [kedro-org/kedro](./aiml/kedro-org-kedro.md) | ⭐ 10.9k | AI/ML |
+| 4 | [payloadcms/payload](./frontend/payloadcms-payload.md) | ⭐ 42.3k | Frontend |
+| 5 | [Lissy93/dashy](./frontend/lissy93-dashy.md) | ⭐ 25k | Frontend |
+| 6 | [gfx-rs/wgpu](./backend/gfx-rs-wgpu.md) | ⭐ 17.1k | Backend |
 | 7 | [reactos/reactos](./frontend/reactos-reactos.md) | ⭐ 17.5k | Frontend |
-| 8 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
-| 9 | [Automattic/wp-calypso](./frontend/automattic-wp-calypso.md) | ⭐ 12.6k | Frontend |
-| 10 | [pnpm/pnpm](./misc/pnpm-pnpm.md) | ⭐ 34.9k | Misc |
+| 8 | [jhipster/generator-jhipster](./frontend/jhipster-generator-jhipster.md) | ⭐ 22.4k | Frontend |
+| 9 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
+| 10 | [Automattic/wp-calypso](./frontend/automattic-wp-calypso.md) | ⭐ 12.6k | Frontend |
 
 ## 🚀 How it works
 

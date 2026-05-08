@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 575 |
+| ⭐ **Stars** | 576 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`attack-detection` `blacklist-ips` `blocklist` `botnets` `cyber-threat-intelligence` `cybersecurity` `ddos` `dnssinkhole` `firewall` `firewall-configuration` `firewall-rules` `ipaddresses`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · Security
 
 ## 📝 Summary
 
-The Data-Shield IPv4 Blocklist is an open-source, community-driven project that maintains a comprehensive and regularly updated registry of malicious IPv4 addresses. This curated list serves as a valuable threat intelligence resource, enabling users to enhance their Firewall and Web Application Firewall (WAF) configurations for improved security. By leveraging this blocklist, organizations can better protect themselves against potential cyber threats.
+The Data‑Shield IPv4 Blocklist is an open‑source, community‑maintained registry of IPv4 addresses that have been identified as malicious. Continuously updated, it provides reliable threat‑intelligence data that can be integrated into firewalls, WAFs, and other security tools to help block unwanted traffic and strengthen overall network protection.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist) · [← Back to Data](./README.md)</sub>

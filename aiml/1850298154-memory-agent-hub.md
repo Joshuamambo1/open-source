@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 45 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 47 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-memory` `elasticsearch` `graphrag` `knowledge-graph` `llm-agent` `milvus` `neo4j` `rag-technology`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project '1850298154/memory_agent_hub':
-
-The 'memory_agent_hub' is an open-source collection of AI Agents, including swarm Agents, Agent teams, and AI coding tools, focusing on skill development, memory, evolution, and agentic reinforcement learning. This repository brings together various AI/ML concepts to facilitate research and development in the field. It aims to provide a hub for AI Agent enthusiasts to share and learn from each other's work.
+The **1850298154/memory_agent_hub** project is an open‑source collection of AI agents designed for collaborative “swarm” operation in 2026. It provides tools for building and managing agent teams that share skills, memory, and evolutionary reinforcement‑learning capabilities, enabling advanced AI coding, task coordination, and continuous self‑improvement. The hub serves as a modular framework for experimenting with agentic RL, memory‑augmented reasoning, and skill‑sharing across distributed agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/1850298154/memory_agent_hub) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/1850298154/memory_agent_hub) · [← Back to AI/ML](./README.md)</sub>

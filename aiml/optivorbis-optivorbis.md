@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 120 |
-| 🍴 **Forks** | 6 |
+| 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audio-compression` `bandwidth-saver` `cli` `file-optimization` `hacktoberfest` `lossless-compression` `ogg-vorbis` `optimization-tools` `repair-tool` `rust` `rust-application` `rust-library`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-OptiVorbis is an open-source library and application designed for lossless optimization and repair of Vorbis audio data. It reduces file size without compromising audio quality, making it an ideal tool for audio professionals and content creators. This two-pass process ensures that the optimized files retain their original format and integrity.
+OptiVorbis is an open‑source library and command‑line tool that performs lossless, format‑preserving optimization of Ogg Vorbis audio streams. By analyzing the data in two passes, it can rewrite the bitstream to eliminate redundancies and repair inconsistencies, achieving smaller file sizes without any change to the original audio quality. The project is useful for developers and audio engineers who need efficient storage or transmission of Vorbis‑encoded media.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/OptiVorbis/OptiVorbis) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/OptiVorbis/OptiVorbis) · [← Back to AI/ML](./README.md)</sub>

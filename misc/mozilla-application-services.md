@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 664 |
-| 🍴 **Forks** | 259 |
+| 🍴 **Forks** | 260 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`firefox` `fxa` `push` `sync`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Mozilla Application Services is an open-source project that enables developers to build cross-platform applications with a consistent and secure architecture. It provides a set of APIs and tools for building scalable, modular, and maintainable applications, allowing for a seamless user experience across various platforms. This project is part of Mozilla's efforts to foster a more open and connected web ecosystem.
+Mozilla’s **Application Services** is a collection of reusable, cross‑platform libraries that power core data handling and networking features in Firefox and its related projects. It provides high‑performance, privacy‑focused components for tasks such as sync, password management, authentication, and telemetry, enabling developers to integrate Firefox‑grade functionality into their own applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/mozilla/application-services) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mozilla/application-services) · [← Back to Misc](./README.md)</sub>

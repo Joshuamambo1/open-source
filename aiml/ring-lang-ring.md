@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 434 |
 | 💻 **Language** | C |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `declarative-language` `desktop` `functional-programming` `games` `imperative-programming-language` `language` `linux` `macos` `mobile` `natural-language` `object-oriented`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Ring is an open-source dynamic programming language designed for developing applications, tools, and domain-specific languages. It is characterized by its simplicity, lightweight, flexibility, and portability, making it suitable for a wide range of use cases. As a multi-paradigm language, Ring supports various programming styles, making it a versatile choice for AI/ML and other complex applications.
+Ring (ring-lang/ring) is a lightweight, embeddable, and portable dynamic programming language that supports multiple paradigms—including procedural, object‑oriented, functional, and domain‑specific language creation. Designed for rapid development of applications, tools, and custom DSLs, Ring offers a simple syntax, a small runtime, and easy integration with existing codebases, making it suitable for AI/ML projects and other computational tasks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ring-lang/ring) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ring-lang/ring) · [← Back to AI/ML](./README.md)</sub>

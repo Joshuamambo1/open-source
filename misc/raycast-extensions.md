@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The raycast/extensions project provides a comprehensive set of tools and resources for extending the functionality of Raycast, a productivity platform. This open-source collection offers a wide range of extensions and integrations, empowering users to customize and enhance their Raycast experience. By leveraging these extensions, users can unlock new features, streamline workflows, and tailor Raycast to their unique needs.
+Raycast Extensions is a curated collection of open‑source add‑ons that let you enhance and personalize the Raycast productivity platform. It provides ready‑to‑use scripts, plugins, and utilities covering a wide range of tasks—from workflow automation to custom UI components—so developers can quickly extend Raycast’s functionality without building everything from scratch.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/raycast/extensions) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/raycast/extensions) · [← Back to Misc](./README.md)</sub>

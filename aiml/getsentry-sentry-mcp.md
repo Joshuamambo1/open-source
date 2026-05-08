@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 676 |
+| ⭐ **Stars** | 678 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mcp-server` `tag-production`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the getsentry/sentry-mcp project:
-
-The getsentry/sentry-mcp project is an open-source MCP (Meta AI Conversational Platform) server that enables seamless interaction with Sentry, a leading error tracking platform, using Large Language Models (LLMs). This integration allows developers to leverage the power of LLMs to query and analyze Sentry data, streamlining incident resolution and improving overall application reliability. By facilitating a more conversational interface to Sentry, the project empowers developers to work more efficiently and effectively.
+getsentry/sentry-mcp is an open‑source MCP (Message Control Protocol) server that enables seamless interaction with Sentry’s error‑tracking platform through large language models. By exposing Sentry’s data and actions via a lightweight backend API, it lets developers query, create, and manage issues using natural‑language prompts, making observability more accessible for AI‑driven workflows. The project is positioned at the intersection of AI/ML, backend services, and product tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/getsentry/sentry-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/getsentry/sentry-mcp) · [← Back to AI/ML](./README.md)</sub>

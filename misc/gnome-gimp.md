@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.1k |
-| 🍴 **Forks** | 864 |
+| 🍴 **Forks** | 863 |
 | 💻 **Language** | C |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The GNOME/gimp project is a read-only mirror of the official GIMP repository, a popular open-source raster graphics editor. Developed by the GNOME community, GIMP offers a wide range of features, including image editing, manipulation, and creation tools. This mirror provides access to the GIMP codebase for those who prefer to use this specific repository.
+GNOME gimp is a read‑only mirror of the official GIMP (GNU Image Manipulation Program) source repository hosted on GitLab. It provides a publicly accessible copy of the project's codebase, enabling developers and users to browse, clone, and track the evolution of the popular open‑source image editor without directly interacting with the upstream server. This mirror is categorized under “Misc” and serves as a convenient reference point for contributors, auditors, and anyone interested in GIMP’s development history.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/GNOME/gimp) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/GNOME/gimp) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bazel` `build` `build-tools` `cache` `golang` `grpc` `kubernetes` `protobuf` `react` `remote-caching` `remote-execution` `results-viewer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-buildbuddy-io/buildbuddy is a promising open-source project. Categories: Frontend, DevTools, DevOps/Infra. Interest score: 57/100.
+BuildBuddy is an open‑source platform that enhances Bazel workflows by providing a web‑based build event viewer, a persistent result store, and fully integrated remote caching and remote execution capabilities. It allows developers and DevOps teams to visualize build pipelines, share artifacts, and accelerate builds across distributed environments, all through an intuitive frontend interface.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/buildbuddy-io/buildbuddy) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/buildbuddy-io/buildbuddy) · [← Back to Frontend](./README.md)</sub>

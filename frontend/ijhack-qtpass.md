@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `cpp17` `git` `gpg` `password-generator` `password-manager` `password-vault` `qt5` `qt6`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-QtPass is an open-source, multi-platform graphical user interface for pass, a widely-used Unix password manager. This project provides a secure and user-friendly way to manage passwords across various platforms, allowing users to store and retrieve sensitive information with ease. By offering a GUI for pass, QtPass simplifies password management for users, making it a valuable tool for individuals and organizations.
+QtPass is an open‑source, cross‑platform graphical front‑end for the Unix password manager **pass**. Built with Qt, it provides a user‑friendly interface for storing, retrieving, and managing encrypted password entries on Windows, macOS, and Linux. As a frontend project, it simplifies pass’s command‑line workflow while preserving its security model.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/IJHack/QtPass) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/IJHack/QtPass) · [← Back to Frontend](./README.md)</sub>

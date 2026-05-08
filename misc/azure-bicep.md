@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 818 |
 | 💻 **Language** | Bicep |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arm-json` `arm-templates` `bicep`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Bicep is an open-source, declarative language for defining and deploying Azure resources in a simple and efficient manner. It allows users to create templates for infrastructure as code (IaC) deployments, streamlining the process of setting up and managing Azure services. With Bicep, users can write scalable and reproducible infrastructure configurations.
+Azure Bicep is an open‑source, domain‑specific language that provides a concise, declarative syntax for authoring Azure Resource Manager (ARM) templates. It simplifies the definition, validation, and deployment of Azure infrastructure by offering native tooling, modular components, and seamless integration with existing Azure services. Bicep aims to make cloud provisioning more readable, maintainable, and developer‑friendly while remaining fully compatible with the ARM ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Azure/bicep) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Azure/bicep) · [← Back to Misc](./README.md)</sub>

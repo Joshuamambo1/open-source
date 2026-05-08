@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 888 |
-| 🍴 **Forks** | 171 |
+| ⭐ **Stars** | 900 |
+| 🍴 **Forks** | 170 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `document-parser` `docx` `hancom` `hwp` `hwpx` `korean` `markdown` `mcp` `office` `parser` `pdf`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Kordoc is an open-source document converter that transforms various file formats (HWP, HWPX, PDF, XLSX, and DOCX) into Markdown, providing both command-line interface (CLI) and a multi-client protocol (MCP) server for easy integration. This project aims to parse and convert multiple file types seamlessly, making it a versatile tool for developers. With Kordoc, users can efficiently convert their documents into Markdown format.
+Kordoc is an open‑source tool that parses a wide range of document formats—including HWP, HWPX, PDF, XLSX, and DOCX—and converts them into clean Markdown. It offers both a command‑line interface for quick local conversions and a micro‑service (MCP) server for integration into larger workflows. Designed for developers, Kordoc streamlines document processing in backend and dev‑tool pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/chrisryugj/kordoc) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/chrisryugj/kordoc) · [← Back to Backend](./README.md)</sub>

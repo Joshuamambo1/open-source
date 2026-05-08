@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-google/adk-docs is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 64/100.
+Google’s **adk-docs** is an open‑source, code‑first toolkit that streamlines the creation, evaluation, and deployment of advanced AI agents. It gives developers fine‑grained control over agent architecture while providing ready‑to‑use components for testing and production, making it ideal for both research and real‑world applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/google/adk-docs) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/google/adk-docs) · [← Back to AI/ML](./README.md)</sub>

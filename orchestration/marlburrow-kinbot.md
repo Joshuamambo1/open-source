@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `ai` `ai-agents` `artificial-intelligence` `automation` `bun` `chatbot` `docker` `llm` `mcp` `memory` `multi-agent`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Kinbot is an open-source project that enables users to host self-sustaining AI agents with persistent memory, real identities, and collaboration capabilities on a local device. This project achieves the functionality of cloud-based AI agents without relying on external services, utilizing a single process and SQLite database. It falls under the categories of AI, machine learning, and orchestration, with a focus on frontend development.
+MarlBurroW/kinbot is an open‑source platform that lets you run self‑hosted AI agents equipped with persistent memory, a unique identity, and collaborative capabilities—all managed by a single process and stored in a single SQLite database, with no reliance on external cloud services. It streamlines orchestration of multiple agents, provides a lightweight frontend for interaction, and is designed for developers seeking secure, offline AI/ML workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/MarlBurroW/kinbot) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/MarlBurroW/kinbot) · [← Back to Orchestration](./README.md)</sub>

@@ -1,23 +1,23 @@
 # FrancescoStabile/numasec
 
-[![Stars](https://img.shields.io/github/stars/FrancescoStabile/numasec?style=flat-square&color=yellow)](https://github.com/FrancescoStabile/numasec/stargazers) [![Forks](https://img.shields.io/github/forks/FrancescoStabile/numasec?style=flat-square&color=blue)](https://github.com/FrancescoStabile/numasec/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FrancescoStabile/numasec?style=flat-square&color=yellow)](https://github.com/FrancescoStabile/numasec/stargazers) [![Forks](https://img.shields.io/github/forks/FrancescoStabile/numasec?style=flat-square&color=blue)](https://github.com/FrancescoStabile/numasec/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> AI agent for penetration testing. Like Claude Code, but for security. Open source, MCP-native, works with any LLM.
+> The AI Agent for Cyber Security.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 121 |
-| 🍴 **Forks** | 18 |
+| ⭐ **Stars** | 239 |
+| 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-security` `appsec` `bug-bounty` `cli` `cybersecurity` `dast` `devsecops` `ethical-hacking` `llm` `mcp` `mcp-tools`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "FrancescoStabile/numasec":
-
-Numasec is an open-source AI-powered penetration testing agent designed to facilitate secure testing and vulnerability assessments. Built on top of the MCP native platform, it leverages Large Language Models (LLMs) to provide a versatile and efficient security testing tool. With its open-source nature, numasec can be easily integrated with various LLMs, making it a valuable resource for security professionals and researchers.
+FrancescoStabile/numasec is an open‑source AI‑driven agent designed to bolster cyber‑security operations. Leveraging machine‑learning techniques, it automates threat detection, incident response, and security analytics, helping teams identify and remediate vulnerabilities faster. The project serves as a customizable DevTool for integrating intelligent security capabilities into existing workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/FrancescoStabile/numasec) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/FrancescoStabile/numasec) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 397 |
-| 🍴 **Forks** | 79 |
+| ⭐ **Stars** | 426 |
+| 🍴 **Forks** | 86 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aarch64` `ai-agents` `ai-assistant` `ai-coding-agent` `android` `android-app` `anyclaw` `codex` `codex-gui` `codex-ui` `kotlin` `mobile`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-The codexUI project, developed by friuns2, provides a flexible and portable implementation of the Codex App UI, allowing users to run the interface on various platforms, including Linux, Windows, and even Android devices via Termux. This open-source project bridges the gap between different operating systems, offering a seamless experience for users across different environments. By leveraging AI/ML and frontend technologies, codexUI offers a unique solution for developers and users alike.
+**codexUI** is an open‑source front‑end that lets you launch the Codex AI application UI on any platform—Linux, Windows, or even Termux on Android—without needing a full desktop environment. It provides a lightweight, cross‑platform wrapper that handles dependencies, configuration, and UI rendering, making it easy to run Codex locally or on mobile devices. Ideal for developers who want a portable, ready‑to‑use AI/ML interface across desktops and Android terminals.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/friuns2/codexUI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/friuns2/codexUI) · [← Back to AI/ML](./README.md)</sub>

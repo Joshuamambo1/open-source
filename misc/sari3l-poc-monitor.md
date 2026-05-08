@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cve` `github` `monitor` `poc`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The sari3l/Poc-Monitor project is an open-source tool for monitoring and pushing information about Github CVE (Common Vulnerabilities and Exposures) proof of concept (POC) exploits. This tool aims to provide real-time insights into potential security threats and vulnerabilities, enabling users to stay informed and proactive in their cybersecurity efforts. By leveraging Github's CVE POC data, Poc-Monitor facilitates the detection and reporting of emerging security risks.
+sari3l/Poc-Monitor is an open‑source tool that continuously monitors GitHub repositories for newly published CVE proof‑of‑concept (PoC) code and sends real‑time notifications to users. It aggregates PoC information across the platform, helping security professionals stay informed about emerging vulnerabilities as soon as they are disclosed. The project is categorized as a miscellaneous utility for vulnerability intelligence.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/sari3l/Poc-Monitor) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sari3l/Poc-Monitor) · [← Back to Misc](./README.md)</sub>

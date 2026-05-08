@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 70 |
+| ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `code-navigation` `coding-agent` `developer-tools` `llm` `mcp` `model-context-protocol` `rust` `semantic-search` `tree-sitter`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Pitlane-MCP is an open-source token-efficient navigation substrate designed to facilitate efficient coding for AI agents. It allows users to index code once and retrieve only the necessary symbols, promoting optimized performance and reduced computational overhead. This innovative tool is ideal for AI/ML developers seeking to streamline their coding processes.
+The **pitlane-mcp** project provides a token‑efficient navigation layer for AI coding agents, allowing them to index a codebase once and then retrieve only the specific symbols they need during generation. By acting as a lightweight substrate that maps symbols to their locations, it dramatically reduces prompt size and improves the speed and accuracy of AI‑driven code assistance. Suitable for developers building AI‑augmented programming tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/eresende/pitlane-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/eresende/pitlane-mcp) · [← Back to AI/ML](./README.md)</sub>

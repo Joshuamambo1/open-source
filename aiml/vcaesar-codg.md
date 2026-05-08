@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23 |
+| ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `claude` `claude-code` `cli` `code` `gpt` `harness` `llm` `openclaw` `opencode` `worker`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Codg is an open-source AI system designed to simplify code development and work processes. This high-accuracy platform leverages auto, asynchronous, and concurrency features to streamline tasks, enhancing efficiency and productivity. Codg aims to revolutionize the way developers and professionals work by harnessing the power of AI.
+vcaesar/codg is an open‑source framework that enables highly accurate AI agents for code generation and task automation, offering seamless asynchronous and concurrent execution. It abstracts the complexities of managing multiple AI workers, providing a simple, efficient interface for developers to integrate code‑writing and workflow assistance into their projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/vcaesar/codg) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/vcaesar/codg) · [← Back to AI/ML](./README.md)</sub>

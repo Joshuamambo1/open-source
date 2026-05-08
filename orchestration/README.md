@@ -2,7 +2,7 @@
 
 > Agent orchestration frameworks (LangGraph, CrewAI, AutoGen, DSPy), long-term memory (Mem0, Letta, Zep), skills & tool-use plugins
 
-**329 projects** in this category.
+**331 projects** in this category.
 
 ## Projects
 
@@ -320,23 +320,25 @@
 | 310 | [yonatangross/orchestkit](./yonatangross-orchestkit.md) | ⭐ 168 | TypeScript | 51/100 |
 | 311 | [codecentric/c4-genai-suite](./codecentric-c4-genai-suite.md) | ⭐ 170 | TypeScript | 51/100 |
 | 312 | [Signet-AI/signetai](./signet-ai-signetai.md) | ⭐ 137 | TypeScript | 51/100 |
-| 313 | [kstevica/captain-claw](./kstevica-captain-claw.md) | ⭐ 34 | Python | 50/100 |
-| 314 | [dhyansraj/mcp-mesh](./dhyansraj-mcp-mesh.md) | ⭐ 33 | Python | 50/100 |
-| 315 | [major7apps/pensyve](./major7apps-pensyve.md) | ⭐ 24 | Rust | 50/100 |
-| 316 | [dmae97/oh-my-kimi](./dmae97-oh-my-kimi.md) | ⭐ 60 | TypeScript | 50/100 |
-| 317 | [markus-global/markus](./markus-global-markus.md) | ⭐ 42 | TypeScript | 50/100 |
-| 318 | [kdcokenny/opencode-workspace](./kdcokenny-opencode-workspace.md) | ⭐ 413 | TypeScript | 50/100 |
-| 319 | [fallow-rs/fallow-skills](./fallow-rs-fallow-skills.md) | ⭐ 44 | — | 50/100 |
-| 320 | [utensils/claudette](./utensils-claudette.md) | ⭐ 35 | Rust | 50/100 |
-| 321 | [escapeboy/agent-fleet-o](./escapeboy-agent-fleet-o.md) | ⭐ 26 | PHP | 50/100 |
-| 322 | [xingkongliang/skills-manager](./xingkongliang-skills-manager.md) | ⭐ 1.2k | Rust | 50/100 |
-| 323 | [cnoe-io/ai-platform-engineering](./cnoe-io-ai-platform-engineering.md) | ⭐ 358 | Python | 50/100 |
-| 324 | [dance-of-tal/dot-studio](./dance-of-tal-dot-studio.md) | ⭐ 378 | TypeScript | 49/100 |
-| 325 | [gastownhall/gascity](./gastownhall-gascity.md) | ⭐ 643 | Go | 48/100 |
-| 326 | [aws/bedrock-agentcore-sdk-python](./aws-bedrock-agentcore-sdk-python.md) | ⭐ 696 | Python | 47/100 |
-| 327 | [enmanuelmag/agent-harness-kit](./enmanuelmag-agent-harness-kit.md) | ⭐ 105 | TypeScript | 45/100 |
-| 328 | [vystartasv/skill-forge](./vystartasv-skill-forge.md) | ⭐ — | — | 36/100 |
-| 329 | [microsoft/autogen](./microsoft-autogen.md) | ⭐ — | — | 21/100 |
+| 313 | [friday-platform/friday-studio](./friday-platform-friday-studio.md) | ⭐ 63 | TypeScript | 50/100 |
+| 314 | [MarlBurroW/kinbot](./marlburrow-kinbot.md) | ⭐ 40 | TypeScript | 50/100 |
+| 315 | [dhyansraj/mcp-mesh](./dhyansraj-mcp-mesh.md) | ⭐ 33 | Python | 50/100 |
+| 316 | [kstevica/captain-claw](./kstevica-captain-claw.md) | ⭐ 34 | Python | 50/100 |
+| 317 | [major7apps/pensyve](./major7apps-pensyve.md) | ⭐ 24 | Rust | 50/100 |
+| 318 | [dmae97/oh-my-kimi](./dmae97-oh-my-kimi.md) | ⭐ 60 | TypeScript | 50/100 |
+| 319 | [markus-global/markus](./markus-global-markus.md) | ⭐ 42 | TypeScript | 50/100 |
+| 320 | [kdcokenny/opencode-workspace](./kdcokenny-opencode-workspace.md) | ⭐ 413 | TypeScript | 50/100 |
+| 321 | [fallow-rs/fallow-skills](./fallow-rs-fallow-skills.md) | ⭐ 44 | — | 50/100 |
+| 322 | [utensils/claudette](./utensils-claudette.md) | ⭐ 35 | Rust | 50/100 |
+| 323 | [escapeboy/agent-fleet-o](./escapeboy-agent-fleet-o.md) | ⭐ 26 | PHP | 50/100 |
+| 324 | [xingkongliang/skills-manager](./xingkongliang-skills-manager.md) | ⭐ 1.2k | Rust | 50/100 |
+| 325 | [cnoe-io/ai-platform-engineering](./cnoe-io-ai-platform-engineering.md) | ⭐ 358 | Python | 50/100 |
+| 326 | [dance-of-tal/dot-studio](./dance-of-tal-dot-studio.md) | ⭐ 378 | TypeScript | 49/100 |
+| 327 | [gastownhall/gascity](./gastownhall-gascity.md) | ⭐ 643 | Go | 48/100 |
+| 328 | [aws/bedrock-agentcore-sdk-python](./aws-bedrock-agentcore-sdk-python.md) | ⭐ 696 | Python | 47/100 |
+| 329 | [enmanuelmag/agent-harness-kit](./enmanuelmag-agent-harness-kit.md) | ⭐ 105 | TypeScript | 45/100 |
+| 330 | [vystartasv/skill-forge](./vystartasv-skill-forge.md) | ⭐ — | — | 36/100 |
+| 331 | [microsoft/autogen](./microsoft-autogen.md) | ⭐ — | — | 21/100 |
 
 ---
 

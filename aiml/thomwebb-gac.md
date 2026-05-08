@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 308 |
+| ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `aitools` `genai` `generative-ai` `generative-ai-tools` `git` `gittools` `llm` `llmtools` `vibe-coding` `vibecoding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The gac project is an open-source, AI-driven tool that utilizes Large Language Models (LLMs) to generate intelligent and contextually relevant git commit messages. This innovative solution understands the code it's being applied to, allowing developers to create clear, concise, and professional commit messages with ease. By leveraging LLM technology, gac streamlines the version control process and promotes better collaboration and code organization.
+thomwebb/gac is an open‑source tool that leverages large language models to automatically generate clear, context‑aware Git commit messages based on the changes in your codebase. By analyzing diffs and understanding the underlying code semantics, it produces concise, human‑readable messages that accurately reflect the intent of each commit, streamlining the workflow for developers and teams.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/thomwebb/gac) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/thomwebb/gac) · [← Back to AI/ML](./README.md)</sub>

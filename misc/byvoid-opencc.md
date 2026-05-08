@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chinese` `chinese-conversion` `chinese-translation` `simplified-chinese` `traditional-chinese`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-OpenCC is an open-source library designed to facilitate the conversion between Traditional and Simplified Chinese characters. This library provides a simple and efficient way to switch between the two character sets, making it a valuable tool for applications and services that require bidirectional language support. By utilizing OpenCC, developers can easily integrate Traditional and Simplified Chinese conversion capabilities into their projects.
+BYVoid/OpenCC is an open‑source library that provides high‑quality conversion between Traditional and Simplified Chinese characters. It supports customizable conversion dictionaries, multiple conversion modes (e.g., Hong Kong, Taiwan, Mainland), and can be integrated into various programming environments via its C/C++ core and language bindings. The project is actively maintained and widely used for text processing, localization, and natural‑language applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/BYVoid/OpenCC) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/BYVoid/OpenCC) · [← Back to Misc](./README.md)</sub>

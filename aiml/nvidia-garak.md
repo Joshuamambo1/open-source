@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.7k |
-| 🍴 **Forks** | 922 |
+| ⭐ **Stars** | 7.8k |
+| 🍴 **Forks** | 927 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `llm-evaluation` `llm-security` `security-scanners` `vulnerability-assessment`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Garak, an open-source project by NVIDIA, is a vulnerability scanner specifically designed for Large Language Models (LLMs). This tool scans LLMs for potential vulnerabilities to ensure the security and reliability of AI-driven applications. By identifying and addressing vulnerabilities early on, Garak helps developers build more robust and trustworthy LLM-based systems.
+NVIDIA/garak is an open‑source vulnerability scanner designed specifically for large language models (LLMs). It provides automated detection of security flaws, bias issues, and prompt‑injection weaknesses across a variety of LLM architectures, helping developers and researchers harden their AI systems. The tool integrates seamlessly into AI/ML pipelines and offers extensible test suites for continuous security assessment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/NVIDIA/garak) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NVIDIA/garak) · [← Back to AI/ML](./README.md)</sub>

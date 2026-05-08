@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 22.3k |
-| 🍴 **Forks** | 3.1k |
+| ⭐ **Stars** | 22.5k |
+| 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `deepagents` `langchain` `langgraph` `python` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The deepagents project is an open-source agent harness built with LangChain and LangGraph, designed to tackle complex tasks with ease. It features a planning tool, filesystem backend, and the ability to spawn subagents, making it a powerful tool for agentic tasks. With its robust capabilities, deepagents enables efficient orchestration and AI/ML applications.
+LangChain‑AI’s **DeepAgents** is an open‑source framework for building sophisticated autonomous agents in both Python and TypeScript, leveraging LangChain and LangGraph. It provides a built‑in planning tool, a filesystem‑based state backend, and support for spawning sub‑agents, enabling developers to orchestrate complex, multi‑step AI workflows. The project targets orchestration, AI/ML, and frontend integration scenarios.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/langchain-ai/deepagents) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/langchain-ai/deepagents) · [← Back to Orchestration](./README.md)</sub>

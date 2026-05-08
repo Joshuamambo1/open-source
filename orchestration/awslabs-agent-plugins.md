@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 656 |
-| 🍴 **Forks** | 84 |
+| ⭐ **Stars** | 669 |
+| 🍴 **Forks** | 87 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-plugins` `agent-skills` `agents` `aws` `coding-agent-skills` `coding-agents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The awslabs/agent-plugins open-source project enables AI coding agents to acquire skills for designing, deploying, and managing AWS infrastructure. This collection of plugins empowers developers and AI agents to collaborate more efficiently, streamlining the process of cloud architecture and operations. By leveraging this project, users can automate and optimize their AWS workflows through seamless AI-human collaboration.
+Agent Plugins for AWS is an open‑source collection that extends AI coding agents with ready‑made capabilities for designing, deploying, and managing AWS resources. By providing modular, reusable plugins for common cloud tasks, it enables developers to orchestrate infrastructure, integrate AI/ML workflows, and build frontend interfaces that interact seamlessly with AWS services. The project streamlines the creation of intelligent assistants that can automate end‑to‑end cloud operations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/awslabs/agent-plugins) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/awslabs/agent-plugins) · [← Back to Orchestration](./README.md)</sub>

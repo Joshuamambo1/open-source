@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `crawler` `gocrawler` `hacktoberfest` `headless` `spider-framework` `web-spider`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Katana is an open-source, next-generation crawling and spidering framework designed to facilitate efficient and scalable web scraping tasks. This powerful tool enables developers to navigate and extract valuable data from websites with precision and speed. By leveraging Katana, users can streamline their data collection processes and unlock new insights from the web.
+projectdiscovery/katana is a high‑performance, next‑generation crawling and spidering framework designed for security researchers and developers. It automates the discovery of URLs, subdomains, parameters, and other attack surfaces through fast, concurrent scanning while providing flexible output formats and extensive filtering options. The tool integrates seamlessly into DevTools pipelines for efficient reconnaissance and vulnerability assessment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/projectdiscovery/katana) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/projectdiscovery/katana) · [← Back to DevTools](./README.md)</sub>

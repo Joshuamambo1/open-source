@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arduino` `ci` `command-line` `continuous-integration` `golang` `lint` `linter`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Arduino Lint is an open-source tool designed to detect and report issues within Arduino projects, helping developers identify potential problems and improve the quality of their code. It checks for various issues such as coding errors, style inconsistencies, and compatibility problems. By utilizing Arduino Lint, users can ensure their projects are optimized and run smoothly, reducing the likelihood of bugs and errors.
+Arduino‑Lint is an open‑source command‑line utility that scans Arduino sketches and libraries for common issues such as missing metadata, incorrect folder structures, and style violations. By integrating it into development workflows, developers can catch problems early and ensure their projects comply with Arduino’s packaging and coding standards. It’s especially useful for library authors and CI pipelines in frontend and DevTools environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/arduino/arduino-lint) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/arduino/arduino-lint) · [← Back to Frontend](./README.md)</sub>

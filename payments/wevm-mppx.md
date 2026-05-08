@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 115 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 119 |
+| 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`machine-payments` `machine-payments-protocol` `mpp` `payments` `tempo` `viem` `wagmi`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments
 
 ## 📝 Summary
 
-The wevm/mppx project provides a TypeScript interface for the Machine Payments Protocol (MPP), enabling developers to integrate MPP into their applications. This interface facilitates secure and efficient payments between machines, opening up new possibilities for the Internet of Things (IoT) and machine-to-machine transactions. By using wevm/mppx, developers can simplify the process of implementing MPP in their projects.
+wevm/mppx is an open‑source TypeScript library that defines a clean, type‑safe interface for interacting with the Machine Payments Protocol (MPP). It provides developers with strongly‑typed data structures and helper functions to streamline the creation, validation, and processing of payment requests across decentralized payment networks. By abstracting the underlying protocol details, the package simplifies integration of MPP‑based payment flows into web and Node.js applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/wevm/mppx) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wevm/mppx) · [← Back to Payments](./README.md)</sub>

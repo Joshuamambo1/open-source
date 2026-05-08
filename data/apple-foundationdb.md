@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acid` `distributed-database` `foundationdb` `key-value-store` `transactional`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-FoundationDB is an open-source, distributed, transactional key-value store designed to provide a highly scalable and fault-tolerant data storage solution. It allows developers to store and manage large amounts of data across a cluster of machines, while ensuring data consistency and integrity through its transactional capabilities. As a key-value store, it provides a flexible and efficient data model for various applications.
+Apple’s **FoundationDB** is an open‑source, distributed key‑value store that provides ACID transactions across a scalable cluster. It combines strong consistency with a flexible data model, allowing developers to build high‑performance, fault‑tolerant applications while leveraging multi‑language APIs and seamless integration with existing systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/apple/foundationdb) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/apple/foundationdb) · [← Back to Data](./README.md)</sub>

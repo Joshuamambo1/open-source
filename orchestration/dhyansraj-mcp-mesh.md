@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 33 |
-| 🍴 **Forks** | 6 |
+| 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai-agents` `ai-agents-framework` `distributed-ai` `java` `kubernetes` `mcp` `mcp-mesh` `modelcontextprotocol` `python` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-MCP-Mesh is an enterprise-grade, distributed AI agent framework that enables the development, deployment, and observation of AI models in a Kubernetes-native environment. Built with flexibility in mind, it supports dynamic dependency injection, auto-failover, and multi-large language model (LLM) capabilities. With MCP-Mesh, developers can seamlessly integrate AI and ML models into their applications using Python, Java, and TypeScript.
+The **MCP Mesh** project provides an enterprise‑grade, Kubernetes‑native framework for building, deploying, and monitoring distributed AI agents. It supports dynamic dependency injection, automatic failover, and multi‑LLM orchestration across Python, Java, and TypeScript services, enabling seamless DevOps integration and scalable AI workloads.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/dhyansraj/mcp-mesh) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dhyansraj/mcp-mesh) · [← Back to Orchestration](./README.md)</sub>

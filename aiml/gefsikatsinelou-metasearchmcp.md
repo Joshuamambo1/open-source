@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 40 |
+| ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-tools` `ai-agents` `google-search` `google-search-api` `llm` `llm-tools` `mcp` `mcp-server` `metasearch` `model-context-protocol` `rag` `search-api`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the MetaSearchMCP project:
-
-MetaSearchMCP is an open-source, high-performance metasearch backend that aggregates results from multiple search engines, including Google, via APIs like SerpBase and Serper. With its Python FastAPI search gateway, this project enables developers to access structured JSON output, provider fallback, deduplication, and more, making it an ideal solution for LLM agents and AI workflows. By providing a flexible and scalable architecture, MetaSearchMCP serves as a robust alternative to SearXNG and other metasearch solutions.
+MetaSearchMCP is an open‑source metasearch backend built with Python FastAPI that aggregates results from multiple search providers—including Google via SerpBase and Serper—and delivers them as structured JSON for LLM agents. It features provider fallback, result deduplication, and a SearXNG‑style architecture optimized for AI‑driven workflows, serving as both an MCP server and an AI‑search API.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/gefsikatsinelou/MetaSearchMCP) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/gefsikatsinelou/MetaSearchMCP) · [← Back to AI/ML](./README.md)</sub>

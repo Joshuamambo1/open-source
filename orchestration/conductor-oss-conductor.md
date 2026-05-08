@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 31.8k |
-| 🍴 **Forks** | 881 |
+| 🍴 **Forks** | 886 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`distributed-systems` `durable-execution` `grpc` `java` `javascript` `microservice-orchestration` `orchestration-engine` `orchestrator` `reactjs` `spring-boot` `workflow-automation` `workflow-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Conductor is an open-source, event-driven orchestration platform that enables the creation of highly resilient and durable execution engines for applications and artificial intelligence (AI) agents. This platform provides a robust foundation for complex workflows, facilitating the seamless integration of various components and services. By leveraging Conductor, developers can build scalable and reliable systems that adapt to changing conditions and demands.
+Conductor is an open‑source, event‑driven workflow engine that enables durable, highly resilient execution of both application processes and AI agents. It provides a robust orchestration layer for building complex, agentic pipelines, offering built‑in support for fault tolerance, state persistence, and scalable task coordination. Suitable for developers working on AI/ML, backend services, and frontend integrations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/conductor-oss/conductor) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/conductor-oss/conductor) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.8k |
-| 🍴 **Forks** | 515 |
+| ⭐ **Stars** | 4.9k |
+| 🍴 **Forks** | 525 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`newton-physics` `nvidia-warp` `physics-simulation` `robotics`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The Newton physics simulation engine is an open-source, GPU-accelerated platform designed for roboticists and simulation researchers. Built upon the NVIDIA Warp framework, it enables high-performance simulations to model complex robotic systems and physical phenomena. By leveraging GPU acceleration, Newton significantly speeds up physics-based computations, making it an ideal choice for real-time simulations and research applications.
+newton-physics/newton is an open‑source, GPU‑accelerated physics simulation engine that leverages NVIDIA Warp to deliver high‑performance, real‑time dynamics for robotics and research applications. Designed with roboticists and simulation researchers in mind, it provides a flexible, front‑end focused framework for building and testing complex physical environments on modern graphics hardware.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/newton-physics/newton) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/newton-physics/newton) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai-agent` `autonomous-agent` `claude` `claude-code` `cognitive-architecture` `llm` `memory-system` `python` `self-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-GENesis-AGI is an open-source, autonomous AI agent that leverages persistent memory, self-learning capabilities, and earned autonomy to evolve and adapt over time. This cognitive partner is designed to remember, learn, and grow, making it a valuable tool for various applications. By harnessing the power of AI/ML, GENesis-AGI aims to provide a more sophisticated and dynamic solution for users.
+WingedGuardian/GENesis-AGI is an open‑source autonomous AI agent that features persistent, long‑term memory and self‑learning capabilities, allowing it to retain knowledge across sessions and continuously improve its performance. Designed as a cognitive partner, the system can incrementally earn greater autonomy by adapting to new tasks and environments, making it suitable for research and development of evolving, memory‑driven AI applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/WingedGuardian/GENesis-AGI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/WingedGuardian/GENesis-AGI) · [← Back to AI/ML](./README.md)</sub>

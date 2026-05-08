@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Rustviz is an open-source project that provides an interactive visualization of Rust's ownership and borrowing system. This tool allows developers to better understand the complex relationships between variables and lifetimes in their Rust code, making it easier to identify potential issues and optimize code performance. By visualizing the ownership and borrowing graph, Rustviz helps developers write more idiomatic and efficient Rust code.
+rustviz is an open‑source tool that visualizes Rust’s ownership and borrowing semantics in real time, helping developers understand lifetimes, moves, and references as their code executes. By instrumenting the compiler and generating interactive diagrams, it lets users step through program execution and see how values are transferred, borrowed, and dropped. The project is language‑agnostic in its UI design, making it a versatile educational aid for learning Rust’s memory model.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/rustviz/rustviz) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rustviz/rustviz) · [← Back to Misc](./README.md)</sub>

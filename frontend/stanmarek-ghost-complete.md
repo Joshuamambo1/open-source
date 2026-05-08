@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 166 |
-| 🍴 **Forks** | 10 |
+| ⭐ **Stars** | 170 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`autocomplete` `cli` `completions` `fig` `ghostty` `pty` `rust` `terminal` `zsh`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Ghost Complete is an open-source terminal autocomplete engine, designed to enhance the user experience of Ghostty. Built on top of Rust and inspired by Fig and PTY proxy, this project aims to provide a high-performance and feature-rich autocomplete solution. By leveraging the 709 specs, it ensures compatibility and reliability across various systems and applications.
+StanMarek/ghost-complete is a Rust‑based terminal autocomplete engine that draws inspiration from Fig and follows the 709 specification, acting as a PTY proxy to provide rich, context‑aware completions. Designed specifically for the Ghostty terminal, it serves as a developer‑focused tool that enhances command‑line productivity while fitting into both frontend and DevTools ecosystems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/StanMarek/ghost-complete) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/StanMarek/ghost-complete) · [← Back to Frontend](./README.md)</sub>

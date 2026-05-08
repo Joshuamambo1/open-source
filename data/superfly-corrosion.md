@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database` `distributed` `distributed-systems` `gossip` `rust` `sqlite` `swim`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The corrosion project is an open-source, gossip-based service discovery system designed for large-scale distributed systems. It enables efficient and fault-tolerant service discovery, allowing nodes to dynamically find and communicate with each other in a distributed network. This system is suitable for applications requiring high availability and scalability.
+Superfly Corrosion is an open‑source library that provides gossip‑based service discovery, health checking, and distributed coordination for large‑scale systems. By leveraging a lightweight, peer‑to‑peer protocol, it enables nodes to dynamically discover and monitor each other without central registries, improving resilience and scalability. The project is written in Rust and targets data‑intensive, distributed applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/superfly/corrosion) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/superfly/corrosion) · [← Back to Data](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 266 |
+| 🍴 **Forks** | 267 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cldr` `icu` `internationalization` `localization` `rust` `unicode`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The unicode-org/icu4x project is an open-source initiative aimed at providing a compact and efficient internationalization (i18n) solution for client-side and resource-constrained environments. This project seeks to make globalized software development more accessible and practical, even in resource-limited settings. By offering a lightweight alternative to traditional i18n libraries, icu4x enables developers to build more inclusive and localized applications.
+unicode-org/icu4x is an open‑source library that brings robust internationalization (i18n) capabilities—such as locale data, formatting, and text processing—to client‑side applications and devices with limited resources. By providing a modular, memory‑efficient and Rust‑first implementation, it enables developers to add multilingual support without the overhead of traditional ICU. The project targets developers building web, embedded, and mobile software who need fast, reliable i18n tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/unicode-org/icu4x) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/unicode-org/icu4x) · [← Back to AI/ML](./README.md)</sub>

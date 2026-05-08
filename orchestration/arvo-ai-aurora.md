@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 200 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 206 |
+| 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `aiops` `automation` `aws` `azure` `datadog` `devops` `gcp` `grafana` `incident-management` `kubernetes` `langgraph`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-Aurora is an open-source, AI-powered incident management and root cause analysis tool designed for Site Reliability Engineers (SREs). It utilizes LangGraph agents to investigate incidents across multiple cloud platforms, including AWS, Azure, GCP, and Kubernetes, while integrating with popular monitoring tools like PagerDuty, Datadog, and Grafana. This platform helps streamline incident response and analysis with its advanced AI capabilities.
+Aurora is an open‑source, AI‑driven incident‑management platform that equips SRE teams with autonomous agents capable of investigating and diagnosing failures across multi‑cloud environments (AWS, Azure, GCP) and Kubernetes clusters. Leveraging LangGraph, the agents pull data from PagerDuty, Datadog, Grafana, Slack and other sources to perform root‑cause analysis and orchestrate remediation workflows. The project is released under the Apache 2.0 license and fits within the orchestration, AI/ML, and data domains.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Arvo-AI/aurora) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Arvo-AI/aurora) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 42.2k |
+| ⭐ **Stars** | 42.3k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cms` `content-management` `content-management-system` `express` `graphql` `headless` `headless-cms` `jamstack` `javascript` `mit-license` `mongodb` `nextjs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Payload is an open-source, full-stack Next.js framework that empowers developers with instant backend capabilities and a comprehensive admin panel. This TypeScript-based framework enables users to leverage it as a headless CMS or a powerful tool for building scalable applications. By utilizing Payload, developers can streamline their development process and create complex, data-driven projects with ease.
+Payload CMS is an open‑source, full‑stack framework built on Next.js that instantly provides a TypeScript‑powered backend together with a customizable admin panel. It can be used as a headless CMS or as the foundation for complex web applications, offering built‑in content modeling, authentication, and API generation. The project bridges frontend and backend development, streamlining the creation of data‑driven sites and services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/payloadcms/payload) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/payloadcms/payload) · [← Back to Frontend](./README.md)</sub>

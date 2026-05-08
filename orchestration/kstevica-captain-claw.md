@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 33 |
+| ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-hub` `agentic-workflow` `ai-agent` `anthropic` `automation` `browser-automation` `claw` `cli` `langchain-alternative` `llm` `llm-inference`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Captain Claw is an open-source AI project that offers a comprehensive solution for multi-agent orchestration and autonomous cognitive systems. This project provides a full-featured management dashboard for monitoring and controlling AI agents, making it an invaluable tool for developers and researchers in the AI/ML space. By leveraging its capabilities, users can streamline their AI workflows and unlock the full potential of their autonomous systems.
+kstevica/captain-claw is an open‑source AI platform that coordinates multiple autonomous agents, enabling complex cognitive workflows and decision‑making across diverse tasks. It ships with a comprehensive web‑based dashboard for monitoring, managing, and visualizing agent interactions, making orchestration, debugging, and scaling straightforward. Ideal for developers building intelligent, multi‑agent systems in AI/ML and DevOps environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/kstevica/captain-claw) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kstevica/captain-claw) · [← Back to Orchestration](./README.md)</sub>

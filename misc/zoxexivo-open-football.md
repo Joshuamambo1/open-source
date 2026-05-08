@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 154 |
-| 🍴 **Forks** | 25 |
+| ⭐ **Stars** | 156 |
+| 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`football` `football-engine` `football-game` `football-management` `football-manager` `football-manager-game` `football-match` `football-match-prediction` `football-match-view` `football-prediction` `football-simulation` `football-simulation-example`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The open-football project is an open-source, free football simulation engine written in Rust, aiming to provide a comprehensive and realistic gameplay experience. Inspired by Football Manager, this engine seeks to deliver a robust and flexible platform for football enthusiasts to manage and simulate their teams, leagues, and tournaments. With its pure Rust implementation, the project promises a highly performant and maintainable solution for football simulation.
+Zoxexivo’s **open-football** is a free, open‑source football simulation engine written entirely in Rust, aiming to provide a deep, manager‑style experience similar to Football Manager. It models clubs, players, tactics, transfers and match outcomes while offering a modular architecture for easy extension and integration with external tools. The project targets both developers and football enthusiasts who want a high‑performance, community‑driven alternative for building football simulation applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ZOXEXIVO/open-football) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ZOXEXIVO/open-football) · [← Back to Misc](./README.md)</sub>

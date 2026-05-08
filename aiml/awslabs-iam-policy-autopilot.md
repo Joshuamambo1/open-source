@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 350 |
+| ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws` `aws-iam` `aws-iam-policies` `aws-security` `cli` `cloud-security` `code-analysis` `iam` `iam-policy` `mcp` `mcp-server` `policy-generation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The IAM Policy Autopilot is an open-source static code analysis tool that streamlines the creation of baseline AWS IAM policies. This utility can be used as a command-line tool or as a server for integration within AI-powered coding assistants, enabling developers to quickly generate and refine policies as their applications evolve. By automating the policy creation process, the IAM Policy Autopilot simplifies the management of AWS IAM permissions.
+IAM Policy Autopilot is an open‑source static analysis utility that scans your codebase to generate initial AWS IAM policies, giving you a solid security baseline that can be iteratively refined as your application changes. It can be run as a command‑line tool or deployed as an MCP server, enabling seamless integration with AI coding assistants for rapid, context‑aware policy creation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/awslabs/iam-policy-autopilot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/awslabs/iam-policy-autopilot) · [← Back to AI/ML](./README.md)</sub>

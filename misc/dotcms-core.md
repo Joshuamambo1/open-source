@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 943 |
+| ⭐ **Stars** | 944 |
 | 🍴 **Forks** | 479 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud` `cms` `content` `content-management-system` `dotcms` `dxp` `graphql` `headless-cms` `java` `opensouce`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-dotCMS/core is a promising open-source project. Categories: Misc. Interest score: 64/100.
+dotCMS/core is an open‑source, enterprise‑grade Visual Headless Content Management System that lets businesses create, manage, and deliver content across any channel or device. It combines a powerful visual editor for marketers with robust APIs for developers, enabling flexible, multi‑site and multi‑language publishing while supporting scalability, security, and extensive customization.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/dotCMS/core) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dotCMS/core) · [← Back to Misc](./README.md)</sub>

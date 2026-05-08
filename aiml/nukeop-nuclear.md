@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 17.4k |
+| ⭐ **Stars** | 17.5k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `desktop-app` `linux` `mac` `mcp` `mcp-server` `music` `music-player` `react` `rust` `streaming`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The nuclear project is an open-source streaming music player that utilizes AI and machine learning to find free music for its users. This music player aims to provide a seamless listening experience by leveraging advanced algorithms to discover and play high-quality, royalty-free tracks. By combining AI-driven music discovery with a user-friendly interface, nuclear offers a unique solution for music enthusiasts looking for free and legal content.
+Nuclear is an open‑source streaming music player that automatically discovers and streams free, legal tracks from a variety of online sources. Built with a modern frontend and a robust backend, it leverages AI/ML techniques to recommend and curate music, offering a seamless, ad‑free listening experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/nukeop/nuclear) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nukeop/nuclear) · [← Back to AI/ML](./README.md)</sub>

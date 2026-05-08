@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 15k |
-| 🍴 **Forks** | 811 |
+| 🍴 **Forks** | 812 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `cloud` `free-software` `golang` `gotify` `hosting` `javascript` `notifications` `privacy` `react` `self-hosted` `self-hosting`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Gotify/server is an open-source, real-time messaging server that enables secure and efficient communication through WebSocket connections. This lightweight server offers a sleek web-based user interface for easy message sending and receiving, making it suitable for a variety of applications and use cases. Its simplicity and flexibility make it an ideal solution for teams and individuals seeking a reliable messaging platform.
+Gotify is an open‑source, lightweight server that enables real‑time messaging via WebSocket connections, allowing applications and users to push and receive notifications instantly. It ships with a clean, responsive web UI for managing topics, clients, and message history, making it suitable for both frontend and backend integrations. The project is self‑hosted, easy to configure, and works out of the box without external dependencies.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/gotify/server) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/gotify/server) · [← Back to Frontend](./README.md)</sub>

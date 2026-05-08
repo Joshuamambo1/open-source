@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `agentic-ai` `ai` `evaluation` `machine-learning` `python` `strands-agents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The strands-agents/evals project is an open-source, comprehensive evaluation framework designed for AI agents and LLM (Large Language Model) applications. This framework provides a structured approach to assessing the performance and efficacy of AI systems, enabling developers to compare and benchmark their models against industry standards. By utilizing this framework, developers can gain insights into the strengths and weaknesses of their AI agents and LLM applications.
+Strands‑Agents/Evals is an open‑source, end‑to‑end framework for benchmarking and analyzing the performance of AI agents and large‑language‑model (LLM) applications. It provides a modular suite of standardized tests, metrics, and reporting tools that let developers evaluate capabilities such as reasoning, tool use, and task completion across diverse environments. The platform is designed for easy integration, extensibility, and reproducible results, helping researchers and practitioners rigorously compare and improve their AI agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/strands-agents/evals) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/strands-agents/evals) · [← Back to AI/ML](./README.md)</sub>

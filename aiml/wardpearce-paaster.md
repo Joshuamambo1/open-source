@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Svelte |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`b2` `docker` `drive` `e2ee` `end-to-end-encryption` `paaster` `paste` `pastebin` `privacy` `python` `rclone` `s3`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Paaster is an open-source pastebin application that prioritizes user privacy and simplicity. This secure platform utilizes end-to-end encryption to safeguard pasted code, while also providing a paste history feature for easy access. Paaster is particularly suited for developers and professionals working with sensitive information.
+WardPearce/paaster is an open‑source pastebin platform that emphasizes privacy and ease of use. It provides end‑to‑end encryption for all pasted content and maintains a secure history, ensuring that code snippets stay confidential yet readily accessible. Designed for developers and security‑focused teams, Paaster combines a simple interface with robust security features.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/WardPearce/paaster) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/WardPearce/paaster) · [← Back to AI/ML](./README.md)</sub>

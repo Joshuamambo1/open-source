@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2499** |
+| 🗂️ **Total projects** | **2539** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 971 | [Browse →](./aiml/) |
-| 📦 **Misc** | 411 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 251 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 240 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 129 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 128 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 988 | [Browse →](./aiml/) |
+| 📦 **Misc** | 413 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 255 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 247 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 132 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 132 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 102 | [Browse →](./crypto/) |
 | 📊 **Data** | 65 | [Browse →](./data/) |
-| 💳 **Payments** | 60 | [Browse →](./payments/) |
+| 💳 **Payments** | 61 | [Browse →](./payments/) |
 | 📈 **Trading** | 41 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 37 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 29 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 31 | [Browse →](./mobile/) |
 | 🔐 **Security** | 19 | [Browse →](./security/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
 | ✨ **Design** | 6 | [Browse →](./design/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Dooy/chatgpt-web-midjourney-proxy](./aiml/dooy-chatgpt-web-midjourney-proxy.md) | ⭐ 6.7k | AI/ML |
-| 2 | [ValueCell-ai/ClawX](./orchestration/valuecell-ai-clawx.md) | ⭐ 7.1k | Orchestration |
-| 3 | [FreshRSS/FreshRSS](./misc/freshrss-freshrss.md) | ⭐ 15k | Misc |
-| 4 | [photoprism/photoprism](./aiml/photoprism-photoprism.md) | ⭐ 39.6k | AI/ML |
-| 5 | [humhub/humhub](./aiml/humhub-humhub.md) | ⭐ 6.7k | AI/ML |
-| 6 | [SeleniumHQ/selenium](./misc/seleniumhq-selenium.md) | ⭐ 34.1k | Misc |
-| 7 | [owncast/owncast](./misc/owncast-owncast.md) | ⭐ 11.2k | Misc |
-| 8 | [sickn33/antigravity-awesome-skills](./orchestration/sickn33-antigravity-awesome-skills.md) | ⭐ 36.8k | Orchestration |
-| 9 | [musescore/MuseScore](./aiml/musescore-musescore.md) | ⭐ 14.5k | AI/ML |
-| 10 | [Graylog2/graylog2-server](./backend/graylog2-graylog2-server.md) | ⭐ 8k | Backend |
+| 1 | [PowerShell/PowerShell](./misc/powershell-powershell.md) | ⭐ 53.3k | Misc |
+| 2 | [knadh/listmonk](./payments/knadh-listmonk.md) | ⭐ 20k | Payments |
+| 3 | [Dooy/chatgpt-web-midjourney-proxy](./aiml/dooy-chatgpt-web-midjourney-proxy.md) | ⭐ 6.7k | AI/ML |
+| 4 | [ValueCell-ai/ClawX](./orchestration/valuecell-ai-clawx.md) | ⭐ 7.1k | Orchestration |
+| 5 | [FreshRSS/FreshRSS](./misc/freshrss-freshrss.md) | ⭐ 15k | Misc |
+| 6 | [photoprism/photoprism](./aiml/photoprism-photoprism.md) | ⭐ 39.6k | AI/ML |
+| 7 | [humhub/humhub](./aiml/humhub-humhub.md) | ⭐ 6.7k | AI/ML |
+| 8 | [SeleniumHQ/selenium](./misc/seleniumhq-selenium.md) | ⭐ 34.1k | Misc |
+| 9 | [owncast/owncast](./misc/owncast-owncast.md) | ⭐ 11.2k | Misc |
+| 10 | [sickn33/antigravity-awesome-skills](./orchestration/sickn33-antigravity-awesome-skills.md) | ⭐ 36.8k | Orchestration |
 
 ## 🚀 How it works
 

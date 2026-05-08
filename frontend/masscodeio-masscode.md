@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.7k |
-| 🍴 **Forks** | 253 |
+| 🍴 **Forks** | 254 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-client` `code-snippets` `developer-tools` `electron` `http-client` `knowledge-base` `linux` `local-first` `macos` `markdown` `note-taking` `notes`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-massCode is a free, open-source developer workspace that provides a comprehensive platform for developers to manage snippets, notes, calculations, and dev tools. This local-first application offers a centralized hub for all development needs, allowing users to streamline their workflow and boost productivity. By offering a flexible and customizable environment, massCode empowers developers to stay organized and focused on their projects.
+massCode is a free, open‑source, local‑first developer workspace that brings together code snippets, personal notes, HTTP request testing, calculations, and a suite of handy dev tools in a single, unified interface. Designed for both frontend and backend workflows, it runs entirely on the user’s machine, ensuring privacy while streamlining daily development tasks. The project’s modular architecture makes it easy to extend and customize for any developer’s needs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/massCodeIO/massCode) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/massCodeIO/massCode) · [← Back to Frontend](./README.md)</sub>

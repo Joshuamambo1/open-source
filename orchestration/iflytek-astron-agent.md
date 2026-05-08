@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.3k |
-| 🍴 **Forks** | 835 |
+| 🍴 **Forks** | 839 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-workflow` `ai` `enterprise` `iflytek-astron` `llm` `low-code` `mcp` `multi-agent` `next-gen` `orchestration` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The iflytek/astron-agent project is an open-source platform for building next-generation SuperAgents through a commercial-friendly, enterprise-grade agentic workflow. This AI/ML-enabled platform simplifies the development of intelligent automation by providing a comprehensive orchestration solution. By leveraging its capabilities, users can create sophisticated workflows that drive innovation and efficiency in a wide range of industries.
+iflytek/astron-agent is an enterprise‑grade, open‑source platform that enables the creation and orchestration of sophisticated “SuperAgents”—autonomous AI workflows that can coordinate multiple models, tools, and services. Designed with commercial use in mind, it provides a flexible backend for workflow orchestration, AI/ML integration, and a user‑friendly frontend for monitoring and managing agentic processes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/iflytek/astron-agent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/iflytek/astron-agent) · [← Back to Orchestration](./README.md)</sub>

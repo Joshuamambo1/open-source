@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 264 |
-| 🍴 **Forks** | 26 |
+| ⭐ **Stars** | 272 |
+| 🍴 **Forks** | 27 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ani-rss` `audiobookshelf` `emby` `fnos` `fpk` `gopeed` `home-server` `homelab` `immich` `jellyfin` `media-server` `nas`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The conversun/fnos-apps project is an open-source, third-party application store for the fnOS NAS system, providing 115 self-hosted apps in pre-installed .fpk packages. These applications include popular media management tools, torrent clients, and AI services like Plex, qBittorrent, and ZeroClaw AI. The store automatically synchronizes with the upstream versions daily, ensuring users have access to the latest updates.
+The conversun/fnos‑apps repository hosts a third‑party app store for the fnOS NAS platform, providing ready‑to‑install `.fpk` packages for over 115 self‑hosted services such as Plex, Emby, Jellyfin, qBittorrent, Immich, Sonarr, Radarr, Vaultwarden, ZeroClaw AI, OpenClaw, and more. The collection is automatically synced daily with upstream releases, ensuring users have the latest stable versions of these backend and AI/ML applications for easy deployment on their fnOS devices.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/conversun/fnos-apps) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/conversun/fnos-apps) · [← Back to AI/ML](./README.md)</sub>

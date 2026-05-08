@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.1k |
-| 🍴 **Forks** | 361 |
+| ⭐ **Stars** | 5.2k |
+| 🍴 **Forks** | 363 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a` `agent-communication` `agent-orchestration` `ai-agent` `autonomous-agents` `eu-ai-act` `machine-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Bindu is an open-source project that enables the transformation of AI agents into living microservices, fostering interoperability, observability, and composability. This project facilitates the connection of various AI components, allowing developers to build scalable and dynamic systems. By leveraging Bindu, developers can create complex AI-powered applications with ease and flexibility.
+Bindu is an open‑source framework that transforms any AI agent into a fully fledged microservice, exposing standardized APIs for easy integration with other services. It provides built‑in observability, composability, and orchestration features, enabling developers to build, monitor, and scale AI‑driven back‑ends with minimal effort. By turning AI models into interoperable, production‑ready components, Bindu streamlines the creation of complex, AI‑centric applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/GetBindu/Bindu) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/GetBindu/Bindu) · [← Back to Orchestration](./README.md)</sub>

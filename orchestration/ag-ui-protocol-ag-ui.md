@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13.3k |
+| ⭐ **Stars** | 13.4k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ag-ui-protocol` `agent-frontend` `agent-ui` `agentic-workflow` `ai-agents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-AG-UI is an open-source protocol that enables seamless interaction between users and artificial intelligence (AI) agents in frontend applications. This Agent-User Interaction Protocol facilitates the integration of AI-powered agents, allowing developers to build more intuitive and user-centric interfaces. By bringing agents into frontend applications, AG-UI aims to bridge the gap between humans and AI systems.
+AG-UI is an open‑source protocol that standardizes communication between AI agents and frontend applications, enabling seamless agent‑driven user interactions. It provides a lightweight, extensible framework for orchestrating AI/ML services directly within web interfaces, simplifying integration and enhancing UI responsiveness.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ag-ui-protocol/ag-ui) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ag-ui-protocol/ag-ui) · [← Back to Orchestration](./README.md)</sub>

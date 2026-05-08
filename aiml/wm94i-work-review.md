@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 61 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `daily-report` `privacy` `productivity` `time-tracking` `work-log`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-This project, Work_Review, is an open-source tool that helps users automatically track their daily activities, including the applications used and time spent on each, as well as the web pages visited. By providing a record of daily productivity, Work_Review aims to help users gain insights into their work habits and optimize their workflow. The project leverages AI/ML capabilities to offer a seamless and user-friendly experience.
+Work_Review is an open‑source productivity tool that automatically logs the applications you use, the websites you visit, and the amount of time spent in each app throughout the day. By continuously tracking usage patterns, it provides clear, data‑driven insights to help you analyze and improve your daily workflow. The project leverages AI/ML techniques to summarize and visualize this information for personal or team productivity reviews.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/wm94i/Work_Review) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wm94i/Work_Review) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8.3k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `hacktoberfest` `linux` `macos` `netcore` `powershell` `shell` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-PowerShell is an open-source task automation and configuration management framework from Microsoft. It allows users to write scripts and manage system administration tasks across various platforms, making it a versatile tool for IT professionals and developers. With PowerShell, users can automate repetitive tasks, manage systems, and integrate with other tools and services.
+PowerShell is a cross‑platform automation and configuration framework built on the .NET runtime, offering a powerful command‑line shell, scripting language, and extensive set of cmdlets. It runs natively on Windows, macOS, and Linux, enabling administrators and developers to manage systems, automate tasks, and integrate with other tools via pipelines, objects, and REST APIs. The open‑source repository provides the core engine, documentation, and community contributions for continuous improvement and extensibility.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/PowerShell/PowerShell) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/PowerShell/PowerShell) · [← Back to Misc](./README.md)</sub>

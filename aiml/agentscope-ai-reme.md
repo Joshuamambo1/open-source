@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 236 |
+| 🍴 **Forks** | 237 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai-agents` `memory` `memoryscope` `rag` `reme`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-ReMe is an open-source AI project that provides a Memory Management Kit for Agents, designed to enhance the recall and refinement of agent memories. This kit enables more efficient and effective management of agent knowledge, facilitating improved decision-making and performance. By refining agent memories, ReMe helps to optimize agent capabilities and adaptability in complex environments.
+ReMe is an open‑source memory‑management toolkit designed for autonomous AI agents, enabling them to store, retrieve, and update contextual information efficiently across interactions. By providing flexible APIs for “remembering” and “refining” knowledge, the library helps agents maintain coherent long‑term memories while adapting to new data. It is built for easy integration into any AI/ML workflow and supports scalable, persistent storage back‑ends.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/agentscope-ai/ReMe) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/agentscope-ai/ReMe) · [← Back to AI/ML](./README.md)</sub>

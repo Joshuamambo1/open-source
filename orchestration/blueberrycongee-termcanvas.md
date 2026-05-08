@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 269 |
+| ⭐ **Stars** | 276 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `ai-agents` `canvas` `claude-code` `desktop-app` `developer-tools` `electron` `git-worktree` `infinite-canvas` `mcp` `terminal` `terminal-multiplexer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The termcanvas project is an open-source, infinite canvas desktop application designed to visually manage terminals, allowing users to navigate and organize their command-line interfaces in a more intuitive and efficient way. It integrates seamlessly with terminal-based workflows, making it a valuable tool for developers and system administrators. By providing a visual interface for managing terminals, termcanvas streamlines the process of working with multiple terminal windows.
+Blueberrycongee / termcanvas is an open‑source desktop application that provides an infinite, zoomable canvas for organizing and interacting with multiple terminal sessions in a visually intuitive way. By treating each shell as a movable, resizable pane on a limitless workspace, it streamlines workflow orchestration and makes it easier to monitor and manage complex development or AI/ML pipelines. The tool is positioned as a dev‑tool that enhances productivity through spatial terminal management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/blueberrycongee/termcanvas) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/blueberrycongee/termcanvas) · [← Back to Orchestration](./README.md)</sub>

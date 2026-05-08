@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 908 |
+| ⭐ **Stars** | 910 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line-tool` `soulseek` `soulseek-network`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The fiso64/sldl project is an open-source, advanced download tool designed for the Soulseek peer-to-peer network. This tool enables users to efficiently manage and download content from the Soulseek platform. By leveraging its features, users can streamline their downloading experience and optimize their file retrieval.
+fiso64/sldl is an open‑source, feature‑rich command‑line utility designed to download files from the Soulseek peer‑to‑peer network. It offers advanced options such as multi‑threaded transfers, queue management, and configurable search filters, making it a powerful tool for developers and power users who need reliable, automated Soulseek downloads.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/fiso64/sldl) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/fiso64/sldl) · [← Back to DevTools](./README.md)</sub>

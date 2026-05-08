@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 179 |
-| 🍴 **Forks** | 49 |
+| ⭐ **Stars** | 181 |
+| 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d-viewer` `cli` `columnar` `ifc` `ifc-parser` `rust` `script-editor` `webgpu`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Louistrue/ifc-lite is a high-performance IFC (Industry Foundation Classes) viewer for web browsers, leveraging WebGPU for fast rendering and a Rust/WASM parser for efficient data processing. This project enables developers to visualize Building Information Models (BIM) directly within web applications, offering a native and lightweight solution for the AEC (Architecture, Engineering, and Construction) industry. By utilizing modern web technologies, ifc-lite provides a seamless and interactive BIM visualization experience.
+Louistrue/ifc-lite is a browser‑native viewer for Industry Foundation Classes (IFC) files that leverages WebGPU for fast, hardware‑accelerated rendering of BIM models. It combines a Rust‑based parser compiled to WebAssembly with a lightweight JavaScript front‑end, delivering high‑performance geometry processing and interactive visualization directly in the web browser. The project targets developers building BIM tools, offering an open‑source, cross‑platform solution for modern web‑based BIM workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/louistrue/ifc-lite) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/louistrue/ifc-lite) · [← Back to Frontend](./README.md)</sub>

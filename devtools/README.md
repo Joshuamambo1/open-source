@@ -2,7 +2,7 @@
 
 > Developer productivity, editors, workflow
 
-**129 projects** in this category.
+**132 projects** in this category.
 
 ## Projects
 
@@ -98,45 +98,48 @@
 | 88 | [SharzyL/pastebin-worker](./sharzyl-pastebin-worker.md) | ⭐ 994 | TypeScript | 57/100 |
 | 89 | [videolabs/mirrorbits](./videolabs-mirrorbits.md) | ⭐ 581 | Go | 56/100 |
 | 90 | [rvben/rumdl](./rvben-rumdl.md) | ⭐ 1.1k | Rust | 56/100 |
-| 91 | [absolute-version/commit-and-tag-version](./absolute-version-commit-and-tag-version.md) | ⭐ 622 | JavaScript | 55/100 |
-| 92 | [chaqchase/lla](./chaqchase-lla.md) | ⭐ 1.2k | Rust | 55/100 |
-| 93 | [Phobos-developers/Phobos](./phobos-developers-phobos.md) | ⭐ 416 | C++ | 55/100 |
-| 94 | [ivpn/ios-app](./ivpn-ios-app.md) | ⭐ 561 | Swift | 54/100 |
-| 95 | [tldr-pages/tldr-node-client](./tldr-pages-tldr-node-client.md) | ⭐ 459 | JavaScript | 54/100 |
-| 96 | [pypa/bandersnatch](./pypa-bandersnatch.md) | ⭐ 538 | Python | 54/100 |
-| 97 | [VirtusLab/git-machete](./virtuslab-git-machete.md) | ⭐ 1.1k | Python | 54/100 |
-| 98 | [pantheon-systems/terminus](./pantheon-systems-terminus.md) | ⭐ 339 | PHP | 54/100 |
-| 99 | [Dicklesworthstone/beads_rust](./dicklesworthstone-beads-rust.md) | ⭐ 882 | Rust | 54/100 |
-| 100 | [Azure/awesome-azd](./azure-awesome-azd.md) | ⭐ 251 | TypeScript | 54/100 |
-| 101 | [phel-lang/phel-lang](./phel-lang-phel-lang.md) | ⭐ 485 | PHP | 54/100 |
-| 102 | [openchoreo/openchoreo](./openchoreo-openchoreo.md) | ⭐ 848 | Go | 53/100 |
-| 103 | [yogeshwaran01/github-stats-terminal-style](./yogeshwaran01-github-stats-terminal-style.md) | ⭐ 306 | TypeScript | 53/100 |
-| 104 | [dootss/shodan-dorks](./dootss-shodan-dorks.md) | ⭐ 356 | — | 53/100 |
-| 105 | [tektoncd/cli](./tektoncd-cli.md) | ⭐ 460 | Go | 53/100 |
-| 106 | [newrelic/terraform-provider-newrelic](./newrelic-terraform-provider-newrelic.md) | ⭐ 211 | Go | 53/100 |
-| 107 | [go-flutter-desktop/hover](./go-flutter-desktop-hover.md) | ⭐ 1k | Go | 53/100 |
-| 108 | [kreuzberg-dev/tree-sitter-language-pack](./kreuzberg-dev-tree-sitter-language-pack.md) | ⭐ 349 | Rust | 53/100 |
-| 109 | [suzuki-shunsuke/pinact](./suzuki-shunsuke-pinact.md) | ⭐ 967 | Go | 52/100 |
-| 110 | [shopware/shopware-cli](./shopware-shopware-cli.md) | ⭐ 110 | Go | 52/100 |
-| 111 | [omegaup/omegaup](./omegaup-omegaup.md) | ⭐ 343 | PHP | 52/100 |
-| 112 | [megalithic/dotfiles](./megalithic-dotfiles.md) | ⭐ 219 | Lua | 52/100 |
-| 113 | [azat-io/actions-up](./azat-io-actions-up.md) | ⭐ 523 | TypeScript | 51/100 |
-| 114 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 395 | Go | 50/100 |
-| 115 | [apollographql/rover](./apollographql-rover.md) | ⭐ 445 | Rust | 50/100 |
-| 116 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 50/100 |
-| 117 | [test-summary/action](./test-summary-action.md) | ⭐ 438 | TypeScript | 49/100 |
-| 118 | [suzuki-shunsuke/tfcmt](./suzuki-shunsuke-tfcmt.md) | ⭐ 528 | Go | 48/100 |
-| 119 | [Dicklesworthstone/asupersync](./dicklesworthstone-asupersync.md) | ⭐ 165 | Rust | 48/100 |
-| 120 | [frostwire/frostwire](./frostwire-frostwire.md) | ⭐ 587 | Java | 47/100 |
-| 121 | [suzuki-shunsuke/ghtkn](./suzuki-shunsuke-ghtkn.md) | ⭐ 143 | Go | 46/100 |
-| 122 | [openabdev/openab](./openabdev-openab.md) | ⭐ 436 | Rust | 45/100 |
-| 123 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
-| 124 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
-| 125 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
-| 126 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
-| 127 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
-| 128 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
-| 129 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
+| 91 | [Radiokot/photoprism-android-client](./radiokot-photoprism-android-client.md) | ⭐ 590 | Kotlin | 55/100 |
+| 92 | [absolute-version/commit-and-tag-version](./absolute-version-commit-and-tag-version.md) | ⭐ 622 | JavaScript | 55/100 |
+| 93 | [chaqchase/lla](./chaqchase-lla.md) | ⭐ 1.2k | Rust | 55/100 |
+| 94 | [Phobos-developers/Phobos](./phobos-developers-phobos.md) | ⭐ 416 | C++ | 55/100 |
+| 95 | [ivpn/ios-app](./ivpn-ios-app.md) | ⭐ 561 | Swift | 54/100 |
+| 96 | [tldr-pages/tldr-node-client](./tldr-pages-tldr-node-client.md) | ⭐ 459 | JavaScript | 54/100 |
+| 97 | [pypa/bandersnatch](./pypa-bandersnatch.md) | ⭐ 538 | Python | 54/100 |
+| 98 | [VirtusLab/git-machete](./virtuslab-git-machete.md) | ⭐ 1.1k | Python | 54/100 |
+| 99 | [pantheon-systems/terminus](./pantheon-systems-terminus.md) | ⭐ 339 | PHP | 54/100 |
+| 100 | [Dicklesworthstone/beads_rust](./dicklesworthstone-beads-rust.md) | ⭐ 882 | Rust | 54/100 |
+| 101 | [Azure/awesome-azd](./azure-awesome-azd.md) | ⭐ 251 | TypeScript | 54/100 |
+| 102 | [phel-lang/phel-lang](./phel-lang-phel-lang.md) | ⭐ 485 | PHP | 54/100 |
+| 103 | [openchoreo/openchoreo](./openchoreo-openchoreo.md) | ⭐ 848 | Go | 53/100 |
+| 104 | [yogeshwaran01/github-stats-terminal-style](./yogeshwaran01-github-stats-terminal-style.md) | ⭐ 306 | TypeScript | 53/100 |
+| 105 | [dootss/shodan-dorks](./dootss-shodan-dorks.md) | ⭐ 356 | — | 53/100 |
+| 106 | [tektoncd/cli](./tektoncd-cli.md) | ⭐ 460 | Go | 53/100 |
+| 107 | [newrelic/terraform-provider-newrelic](./newrelic-terraform-provider-newrelic.md) | ⭐ 211 | Go | 53/100 |
+| 108 | [go-flutter-desktop/hover](./go-flutter-desktop-hover.md) | ⭐ 1k | Go | 53/100 |
+| 109 | [kreuzberg-dev/tree-sitter-language-pack](./kreuzberg-dev-tree-sitter-language-pack.md) | ⭐ 349 | Rust | 53/100 |
+| 110 | [fiso64/sldl](./fiso64-sldl.md) | ⭐ 910 | C# | 52/100 |
+| 111 | [unitreerobotics/unitree_sdk2](./unitreerobotics-unitree-sdk2.md) | ⭐ 1.1k | C++ | 52/100 |
+| 112 | [suzuki-shunsuke/pinact](./suzuki-shunsuke-pinact.md) | ⭐ 967 | Go | 52/100 |
+| 113 | [shopware/shopware-cli](./shopware-shopware-cli.md) | ⭐ 110 | Go | 52/100 |
+| 114 | [omegaup/omegaup](./omegaup-omegaup.md) | ⭐ 343 | PHP | 52/100 |
+| 115 | [megalithic/dotfiles](./megalithic-dotfiles.md) | ⭐ 219 | Lua | 52/100 |
+| 116 | [azat-io/actions-up](./azat-io-actions-up.md) | ⭐ 523 | TypeScript | 51/100 |
+| 117 | [apollographql/rover](./apollographql-rover.md) | ⭐ 445 | Rust | 50/100 |
+| 118 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 395 | Go | 50/100 |
+| 119 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 50/100 |
+| 120 | [test-summary/action](./test-summary-action.md) | ⭐ 438 | TypeScript | 49/100 |
+| 121 | [suzuki-shunsuke/tfcmt](./suzuki-shunsuke-tfcmt.md) | ⭐ 528 | Go | 48/100 |
+| 122 | [Dicklesworthstone/asupersync](./dicklesworthstone-asupersync.md) | ⭐ 165 | Rust | 48/100 |
+| 123 | [frostwire/frostwire](./frostwire-frostwire.md) | ⭐ 587 | Java | 47/100 |
+| 124 | [suzuki-shunsuke/ghtkn](./suzuki-shunsuke-ghtkn.md) | ⭐ 143 | Go | 46/100 |
+| 125 | [openabdev/openab](./openabdev-openab.md) | ⭐ 436 | Rust | 45/100 |
+| 126 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
+| 127 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
+| 128 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
+| 129 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
+| 130 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
+| 131 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
+| 132 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
 
 ---
 

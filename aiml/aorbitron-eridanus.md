@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`framework` `function-calling` `gemini-api` `llm` `onebot11` `openai-api` `qqbot` `robot`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-AOrbitron/Eridanus is an open-source, multi-functional bot and development framework built upon the OneBot protocol. It features a core function calling mechanism centered around LLM (Large Language Model) functionality, enabling more intelligent and sophisticated bot interactions. This framework is suitable for AI/ML and backend development applications.
+AOrbitron / Eridanus is an open‑source, multi‑functional bot and development framework built on the OneBot protocol. Leveraging large‑language‑model function calling as its core, it provides a smarter, extensible mechanism for invoking bot capabilities, making it well‑suited for AI‑enhanced backend services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/AOrbitron/Eridanus) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/AOrbitron/Eridanus) · [← Back to AI/ML](./README.md)</sub>

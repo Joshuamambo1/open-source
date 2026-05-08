@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 19.9k |
+| ⭐ **Stars** | 20k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`campaign` `campaign-management` `email-marketing` `email-subscription` `listmonk` `mailing-list` `newsletter` `newsletter-management` `newsletter-software` `self-hosted` `sms-gateway` `smtp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML · Marketing
 
 ## 📝 Summary
 
-Listmonk is a high-performance, self-hosted newsletter and mailing list manager that offers a modern dashboard and a single binary app for easy installation. This open-source project provides a reliable solution for managing email lists and sending newsletters, making it an ideal choice for individuals and organizations looking for a customizable and cost-effective alternative to commercial services. With its focus on simplicity and performance, Listmonk streamlines the process of creating, sending, and tracking email campaigns.
+knadh/listmonk is a high‑performance, self‑hosted newsletter and mailing‑list manager built as a single binary, offering a sleek, modern dashboard for creating, scheduling, and tracking email campaigns. It supports massive subscriber volumes, advanced segmentation, and real‑time analytics while keeping deployment simple and resource‑efficient. Ideal for marketers and developers who need a fast, open‑source alternative to cloud‑based email services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/knadh/listmonk) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/knadh/listmonk) · [← Back to Payments](./README.md)</sub>

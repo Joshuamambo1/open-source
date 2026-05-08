@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 406 |
+| 🍴 **Forks** | 407 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `chess` `dart` `flutter` `ios` `lichess` `mobile`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The lichess-org/mobile project is an open-source mobile app for the popular chess platform Lichess, built using Flutter for a seamless and efficient user experience. This mobile app allows users to access and enjoy Lichess's features on-the-go, including chess games, puzzles, and analysis tools. By utilizing the flexibility of Flutter, the app provides a consistent and engaging experience across various mobile platforms.
+Lichess‑mobile is the official open‑source Android and iOS client for the popular Lichess.org chess platform. It provides a fast, ad‑free experience for playing, analyzing, and watching games on the go, with full integration of features such as puzzles, tournaments, live broadcasts, and real‑time chat. The app is built with modern mobile technologies and is actively maintained by the Lichess community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/lichess-org/mobile) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/lichess-org/mobile) · [← Back to Mobile](./README.md)</sub>

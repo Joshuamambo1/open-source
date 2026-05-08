@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 269 |
+| 🍴 **Forks** | 272 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-observability` `amd-gpu` `clickhouse` `distributed-tracing` `genai` `gpu-monitoring` `grafana` `langchain` `llmops` `llms` `metrics` `monitoring-tool`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The openlit project is an open-source platform designed for AI engineering, offering a comprehensive set of tools and features for observability, monitoring, and management of large language models (LLMs). This platform integrates with over 50 LLM providers, vector databases, agent frameworks, and GPUs, providing a unified environment for AI development. It includes features such as OpenTelemetry-native LLM observability, GPU monitoring, and prompt management.
+OpenLit is an open‑source platform that brings full‑stack observability and management to AI engineering workflows. It provides OpenTelemetry‑native tracing for LLM calls, GPU monitoring, guardrails, evaluation tools, prompt management, secure vaults, and an interactive playground, while supporting integration with over 50 LLM providers, vector databases, agent frameworks, and GPU hardware. Ideal for orchestrating, debugging, and scaling AI/ML applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/openlit/openlit) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/openlit/openlit) · [← Back to Orchestration](./README.md)</sub>

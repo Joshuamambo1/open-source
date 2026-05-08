@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 388 |
+| 🍴 **Forks** | 390 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `coze` `dify` `fastgpt` `llm` `rag`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the BidingCC/BuildingAI project:
-
-BuildingAI is an open-source, modular AI application builder system, aiming to revolutionize the AI landscape for the Eastern Hemisphere. This WordPress-based platform empowers users to create their own AI-powered applications, including intelligent corporate systems, AI-driven content platforms, and AI-powered chatbots. With BuildingAI, users can build and customize their AI applications freely, without requiring extensive technical expertise.
+BidingCC / BuildingAI is an open‑source, block‑based platform that lets anyone create and deploy custom AI‑driven WordPress applications—such as enterprise agents, AI‑generated dramas, scholarly writing assistants, and customer‑service bots—without cost. Designed for the AI era, it combines a visual “building‑block” interface with WordPress integration, targeting developers and non‑technical users alike.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/BidingCC/BuildingAI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/BidingCC/BuildingAI) · [← Back to AI/ML](./README.md)</sub>

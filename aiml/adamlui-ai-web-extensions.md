@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `amazon` `artificialintelligence` `brave` `chat` `chatbot` `chatgpt` `chrome-extensions` `duckduckgo` `firefox-addons` `google` `gpt-5`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-This open-source project, ai-web-extensions, offers a collection of AI-powered browser extensions and userscripts designed to enhance and augment users' web experiences. By leveraging AI and machine learning, these extensions aim to provide users with improved functionality, efficiency, and insights while browsing the web. The project is open-source, allowing developers to contribute, customize, and expand its capabilities.
+adamlui/ai-web-extensions is an open‑source collection of browser extensions and userscripts that integrate generative AI directly into the web browsing experience. It provides ready‑to‑use tools for tasks such as on‑page summarization, content generation, translation, and smart form filling, all built with modern frontend technologies. The project is designed to be lightweight, customizable, and easily extensible for developers who want to augment their workflow with AI‑powered web utilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/adamlui/ai-web-extensions) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/adamlui/ai-web-extensions) · [← Back to AI/ML](./README.md)</sub>

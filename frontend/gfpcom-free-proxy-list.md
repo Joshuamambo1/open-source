@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 308 |
+| ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anonymous-proxy` `free-proxy-list` `google-proxy` `http-proxy` `hyeseria` `hyeseria2` `proxy-checker` `proxy-list` `proxy-lists` `shadowsocks` `socks-proxy` `socks4-proxy`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-gfpcom/free-proxy-list is an open-source project that provides a comprehensive and regularly updated list of free proxy servers, including HTTP, SOCKS4/SOCKS5, SSL, and V2Ray/XRay configurations. The list is updated every 30 minutes, making it a valuable resource for developers and users seeking reliable proxy connections. This project aims to facilitate the creation of secure and anonymous online experiences.
+gfpcom/free-proxy-list is an open‑source repository that aggregates a continuously refreshed collection of free proxy servers and VPN configurations, covering HTTP, SOCKS4/5, SSL, SS/SSR, V2Ray/XRay (VMess/VLess), Tuic, WireGuard, Hyeseria, and Trojan‑Go/Trojan‑GFW protocols. The project provides both a frontend interface for browsing and searching the list and a backend that updates the data every 30 minutes, making it a convenient source for developers and users who need up‑to‑date proxy resources.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/gfpcom/free-proxy-list) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/gfpcom/free-proxy-list) · [← Back to Frontend](./README.md)</sub>

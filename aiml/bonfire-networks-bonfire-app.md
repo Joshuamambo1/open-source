@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 908 |
-| 🍴 **Forks** | 66 |
+| ⭐ **Stars** | 910 |
+| 🍴 **Forks** | 67 |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`activitypub` `collaborative` `cooperative` `decentralized` `elixir` `federated` `fediverse` `framework` `mutual-aid` `phoenix` `phoenix-liveview` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Bonfire is an open-source project that empowers users to create and host their own personalized online communities, providing unparalleled control over their digital experience. This customizable platform combines cutting-edge front-end development with AI/ML capabilities, allowing users to shape their online space according to their unique needs. By hosting their own communities on Bonfire, users can enjoy a granular level of control and customization.
+Bonfire is an open‑source, community‑focused platform that lets you create and host a fully customizable online space, giving you granular control over every aspect of the experience. Built with modern frontend technologies and AI/ML integrations, it enables users to tailor their digital life—from personal dashboards to collaborative tools—while maintaining full ownership of their data.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/bonfire-networks/bonfire-app) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bonfire-networks/bonfire-app) · [← Back to AI/ML](./README.md)</sub>

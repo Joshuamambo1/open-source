@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 238 |
+| 🍴 **Forks** | 241 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anilist` `anime` `anime-downloader` `anime-library` `anime-streaming` `bittorrent` `debrid` `go` `manga` `manga-downloader` `media-server` `myanimelist`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the 5rahim/seanime project:
-
-Seanime is an open-source media server that offers a comprehensive solution for anime and manga enthusiasts. Its features include a user-friendly web interface and a desktop app, allowing users to easily access and manage their collections. This versatile platform is designed to provide a seamless experience for fans of Japanese animation and comics.
+5rahim/seanime is an open‑source media server designed specifically for anime and manga collections. It provides a responsive web interface alongside a native desktop application, enabling users to organize, stream, and manage their media library from any device. The project includes both frontend and backend components, offering a full‑stack solution for personal anime/manga servers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/5rahim/seanime) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/5rahim/seanime) · [← Back to Frontend](./README.md)</sub>

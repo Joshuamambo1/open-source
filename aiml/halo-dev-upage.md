@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 470 |
-| 🍴 **Forks** | 77 |
+| ⭐ **Stars** | 473 |
+| 🍴 **Forks** | 78 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `deepseek` `llm` `visual-editor`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the halo-dev/upage project:
-
-Upage is an open-source, visual web page builder platform leveraging large language models, offering a lovable alternative to existing solutions. This innovative platform empowers users to create dynamic web pages without requiring extensive coding knowledge. With its AI-driven approach, Upage streamlines web development and expands creative possibilities for designers and developers alike.
+halo-dev/upage is an open‑source visual web‑page builder powered by large language models, enabling users to design and generate websites through AI‑driven interactions. It serves as a Lovable‑compatible alternative, offering a customizable, model‑centric platform for rapid, code‑free front‑end development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/halo-dev/upage) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/halo-dev/upage) · [← Back to AI/ML](./README.md)</sub>

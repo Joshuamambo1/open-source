@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 998 |
-| 🍴 **Forks** | 135 |
+| ⭐ **Stars** | 1k |
+| 🍴 **Forks** | 139 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `llm` `openonion`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "openonion/connectonion":
-
-"ConnectOnion is an open-source AI agent framework designed for seamless collaboration among multiple agents. Built on a robust orchestration platform, it enables the integration of diverse AI and machine learning models to work together effectively, fostering innovation and efficiency in complex systems. This framework empowers developers to create sophisticated, multi-agent systems that drive intelligent decision-making and problem-solving."
+openonion/connectonion is an open‑source framework designed to simplify the creation, orchestration, and collaboration of AI agents. It provides a modular architecture and ready‑to‑use tools for building multi‑agent systems that can communicate, share context, and coordinate tasks across diverse AI/ML workloads. Ideal for developers looking to implement scalable, interoperable agent ecosystems with minimal boilerplate.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/openonion/connectonion) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/openonion/connectonion) · [← Back to Orchestration](./README.md)</sub>

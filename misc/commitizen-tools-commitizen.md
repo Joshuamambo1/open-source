@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 339 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bump-version` `changelog-generator` `commitizen` `conventional-commits` `git` `python` `python3` `release-automation` `semantic-versioning` `semver`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Commitizen is an open-source tool that enables developers to establish consistent committing rules for their projects. It allows for automatic version bumping and seamless changelog generation, streamlining the development process. By standardizing commit messages, developers can maintain a clear, organized, and easily understandable project history.
+Commitizen is an open‑source tool that helps teams enforce consistent commit message conventions, automatically bumps project versions, and generates changelogs based on those commits. By integrating simple command‑line workflows, it streamlines release management and ensures a clean, traceable history for any software project.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/commitizen-tools/commitizen) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/commitizen-tools/commitizen) · [← Back to Misc](./README.md)</sub>

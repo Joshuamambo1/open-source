@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.7k |
-| 🍴 **Forks** | 584 |
+| 🍴 **Forks** | 586 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`debian` `nas`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Design
 
 ## 📝 Summary
 
-OpenMediaVault is an open-source, next-generation network-attached storage (NAS) solution built on Debian Linux. Its modular design allows for easy extension via plugins, making it a highly customizable and versatile solution for home environments and small home offices. With OpenMediaVault, users can create a reliable and efficient storage system for managing digital files and data.
+OpenMediaVault is a Debian‑based, next‑generation NAS (Network Attached Storage) platform designed for home users and small offices. Its modular framework supports a wide range of plugins, allowing users to extend functionality such as file sharing, media streaming, and backup services. The system offers an easy‑to‑use web interface and reliable, community‑driven support for managing storage resources.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/openmediavault/openmediavault) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/openmediavault/openmediavault) · [← Back to AI/ML](./README.md)</sub>

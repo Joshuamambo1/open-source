@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 644 |
+| 🍴 **Forks** | 648 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `api-gateway` `asyncio` `authentication-middleware` `devops` `docker` `fastapi` `federation` `gateway` `generative-ai` `jwt`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The IBM mcp-context-forge project is an open-source, unified AI Gateway that simplifies interactions with various APIs, including MCP, A2A, and REST/gRPC. This gateway provides a centralized endpoint for discovery, guardrails, and management, while optimizing agent and tool calling and supporting plugin integrations. It enables seamless communication and streamlines operations across different APIs and systems.
+IBM /mcp‑context‑forge is an open‑source AI gateway that sits in front of any MCP, A2A, or REST/gRPC API, providing a single unified endpoint with centralized discovery, guardrails, and management. It streamlines agent and tool invocation, optimizes call routing, and offers extensibility through a plugin architecture, making it a versatile backend solution for AI/ML, DevOps, and infrastructure workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/IBM/mcp-context-forge) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/IBM/mcp-context-forge) · [← Back to AI/ML](./README.md)</sub>

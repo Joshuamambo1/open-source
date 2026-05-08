@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 245 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bom` `cbom` `containers` `cyclonedx` `docker` `oci` `owasp` `package-url` `purl` `saasbom` `sbom` `sca`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-cdxgen/cdxgen is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 60/100.
+c​dxgen is an open‑source tool that automatically generates CycloneDX Bill‑of‑Materials (BOM) for software projects by scanning source code, build files, and container images across a wide range of languages and package managers. It can be integrated into CI/CD pipelines to produce SBOMs on each build and optionally push them to a Dependency‑Track server for continuous vulnerability and compliance monitoring.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/cdxgen/cdxgen) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cdxgen/cdxgen) · [← Back to AI/ML](./README.md)</sub>

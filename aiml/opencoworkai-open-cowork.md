@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 152 |
+| 🍴 **Forks** | 157 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-coding` `ai-tools` `anthropic` `claude-code` `coding-agent` `computer-use` `desktop-app` `electron` `mcp` `multi-model` `open-cowork`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-OpenCowork is an open-source AI agent desktop app that provides a one-click installation experience for popular tools like Claude Code and MCP. With features such as sandbox isolation and multi-model support, this app offers a secure and flexible environment for developing and integrating AI models. It also integrates with popular communication platforms like Feishu and Slack, making it an ideal solution for teams and developers.
+OpenCoworkAI’s **open‑cowork** is a cross‑platform desktop application that lets users run AI agents locally on Windows or macOS with a single click. It bundles Claude Code, a suite of “MCP” tools and extensible Skills, provides sandboxed isolation for each agent, supports multiple model back‑ends, and integrates with collaboration platforms such as Feishu and Slack—making it a ready‑to‑use, developer‑friendly AI/ML workspace.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/OpenCoworkAI/open-cowork) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/OpenCoworkAI/open-cowork) · [← Back to AI/ML](./README.md)</sub>

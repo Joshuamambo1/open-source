@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 421 |
-| 🍴 **Forks** | 59 |
+| ⭐ **Stars** | 427 |
+| 🍴 **Forks** | 60 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-tools` `alert` `aws` `devops` `devops-tools` `golang` `helm` `lark` `monitoring-tool` `on-call`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-VersusControl, also known as versus-incident, is an open-source incident management tool designed to streamline alerting and response processes. It supports multi-channel alerting, customizable messages, and seamless on-call integrations, allowing users to stay connected and informed through various platforms. This versatile tool can integrate with any tool that supports webhook alerts, making it a valuable asset for incident management teams.
+VersusControl’s **versus-incident** is an open‑source incident management platform that centralizes alerts from any webhook‑compatible source, offers multi‑channel notifications, customizable message templates, and seamless on‑call integrations. It also includes a built‑in AI SRE Agent that can assist with triage, diagnostics, and response automation, making it a flexible solution for teams that need both robust incident workflows and AI‑enhanced support.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/VersusControl/versus-incident) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/VersusControl/versus-incident) · [← Back to AI/ML](./README.md)</sub>

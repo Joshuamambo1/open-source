@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`google` `ingress` `k8s` `kubernetes` `loadbalancer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Kubernetes Ingress GCE project is an open-source ingress controller specifically designed for Google Cloud, providing a scalable and secure way to manage external access to applications running on Kubernetes clusters. This controller integrates with Google Cloud's load balancing capabilities, offering features such as load balancing, SSL termination, and URL rewriting. By utilizing the Ingress GCE controller, developers can simplify the process of routing traffic to their Kubernetes applications.
+The **kubernetes/ingress-gce** repository provides an Ingress controller specifically designed for Google Cloud Platform, enabling Kubernetes clusters to expose HTTP(S) services via Google Cloud Load Balancers. It automates the creation and management of GCE forwarding rules, target proxies, URL maps, and SSL certificates, offering seamless integration with GKE and on‑premises clusters running on GCE. This tool is essential for DevOps teams looking to implement scalable, cloud‑native traffic routing on Google Cloud infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kubernetes/ingress-gce) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kubernetes/ingress-gce) · [← Back to DevOps & Infra](./README.md)</sub>

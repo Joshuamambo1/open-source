@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 281 |
+| ⭐ **Stars** | 4.4k |
+| 🍴 **Forks** | 286 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `app` `chatbot-ui` `chatbox` `chatgpt` `deepseek` `gemini` `jetpack-compose` `llm-ui` `mcp` `ollama-ui` `openrouter`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-RikkaHub is a versatile Android application that seamlessly integrates with various Large Language Model (LLM) providers, offering users a unified interface to access and utilize their capabilities. This open-source project empowers developers to harness the power of LLMs on Android devices, fostering innovation and collaboration in the field of AI and machine learning. By supporting multiple providers, RikkaHub promotes choice, flexibility, and interoperability in the LLM ecosystem.
+RikkaHub is an open‑source Android application that lets users access and interact with large language models (LLMs) from multiple providers through a unified mobile interface. It combines a clean, responsive frontend with robust API integration, making it easy to switch between services such as OpenAI, Anthropic, and local models. The project targets AI/ML enthusiasts and mobile developers looking for a flexible, cross‑provider LLM client.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rikkahub/rikkahub) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rikkahub/rikkahub) · [← Back to AI/ML](./README.md)</sub>

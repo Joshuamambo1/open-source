@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 766 |
-| 🍴 **Forks** | 62 |
+| ⭐ **Stars** | 777 |
+| 🍴 **Forks** | 64 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude` `claude-code` `codex` `gemini` `kimi` `opencode` `qwen` `vibe-coding` `vibecoding`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the happier-dev/happier project:
-
-happier is an open-source, end-to-end encrypted client for various AI coding assistants, including Codex, Claude Code, and others. It allows users to interact with these tools securely across web, desktop, and mobile platforms, promoting a seamless and private coding experience. With happier, developers can leverage the power of AI coding assistants while maintaining complete control over their sensitive information.
+happier-dev/happier is an open‑source, cross‑platform client (web, desktop and mobile) that unifies access to multiple AI coding assistants—including Codex, Claude Code, OpenCode, Kimi, Augment Code, and Qwen—while providing full end‑to‑end encryption for all user data and code snippets. Designed for developers, it offers a seamless, secure environment to generate, edit, and manage code across devices, positioning itself as a privacy‑focused alternative in the AI‑enhanced development tools space.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/happier-dev/happier) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/happier-dev/happier) · [← Back to AI/ML](./README.md)</sub>

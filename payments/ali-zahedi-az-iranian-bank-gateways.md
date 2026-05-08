@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 598 |
+| ⭐ **Stars** | 597 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asanpardakht` `bahamta` `bank-melli-iran` `behpardakht` `bmi` `django` `django-payments` `idpay` `iran-payment` `irandargah` `mellat` `payment-gateway`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments
 
 ## 📝 Summary
 
-This open-source project, az-iranian-bank-gateways, provides a Python-based interface for connecting to various Iranian banks, enabling secure payment processing through gateways such as Bank Melli Iran, Saman Bank, Melli Bank, and Zarin Pal. The project aims to simplify integration with Iranian banking systems, facilitating e-commerce and online payment transactions. It offers a convenient and standardized solution for developers working with Iranian banks.
+A Python library that provides unified integration with major Iranian banks and payment gateways—including Bank Melli, Bank Saman, Bank Mellat, and ZarinPal. It abstracts each provider’s API into a consistent interface, simplifying payment processing, transaction verification, and error handling for developers. The project is open‑source and geared toward applications that need to accept online payments within Iran.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ali-zahedi/az-iranian-bank-gateways) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ali-zahedi/az-iranian-bank-gateways) · [← Back to Payments](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 476 |
+| ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 337 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apps` `appstore` `docker` `docker-compose` `runtipi` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The runtipi/appstore project is an official open-source repository for the Runtipi AppStore, serving as a central hub for all applications and updates. This DevOps/Infra initiative aims to streamline the management and distribution of apps, providing a unified platform for users. By hosting the Runtipi AppStore here, developers can easily access, download, and update various applications.
+The **Runtipi AppStore** is the official repository for applications and updates used by the Runtipi platform. It provides a curated, open‑source collection of ready‑to‑install services that can be deployed and managed through Runtipi’s DevOps‑focused infrastructure. The project streamlines app discovery, version control, and automated deployment for developers and system administrators.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/runtipi/runtipi-appstore) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/runtipi/runtipi-appstore) · [← Back to DevOps & Infra](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 318 |
-| 🍴 **Forks** | 26 |
+| ⭐ **Stars** | 321 |
+| 🍴 **Forks** | 27 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `agents-md` `ai` `ai-agents` `claude-code` `claude-code-skills` `codex` `codex-skills` `coding-agents` `cursor` `cursor-skills` `openclaw-skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The ok-skills project is a comprehensive collection of pre-curated AI coding agent skills and playbooks, designed for integration with various tools such as Codex, Claude Code, and OpenClaw. This open-source repository provides a standardized and easy-to-use framework for developers to leverage the capabilities of these AI-powered agents. By categorizing and documenting these skills, ok-skills facilitates streamlined orchestration and AI/ML development workflows.
+The **ok‑skills** repository curates a growing collection of ready‑to‑use AI coding‑agent “skills” and accompanying playbooks (AGENTS.md) that can be plugged into platforms such as Codex, Claude Code, Cursor, OpenClaw, and any tool supporting the SKILL.md specification. By providing standardized, reusable skill definitions, the project streamlines the orchestration of AI‑assisted development workflows and makes it easy for developers to extend or customize their coding agents across multiple AI/ML environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/mxyhi/ok-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mxyhi/ok-skills) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 468 |
+| ⭐ **Stars** | 470 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`entra-id` `oauth2` `oauth2-authentication` `oauth2-client` `oidc` `openvpn` `openvpn-auth` `openvpn-server` `sso` `sso-authentication` `vpn`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-openvpn-auth-oauth2 is an open-source plugin for OpenVPN servers that enables OIDC-based single sign-on (SSO) authentication flows, streamlining the user access process. This project simplifies the integration of OpenVPN with OIDC-compliant identity providers, providing a seamless user experience. By utilizing OAuth2, users can now authenticate with their OpenVPN server using their existing identity provider credentials.
+jkroepke/openvpn-auth-oauth2 is an open‑source plugin and management‑interface client that enables OpenVPN servers to authenticate users via an OpenID Connect (OIDC) single‑sign‑on flow. By handling the OAuth2 token exchange and user validation, it provides a secure, standards‑based backend solution for integrating OpenVPN with modern identity providers. The project is geared toward developers and security teams looking to streamline VPN access control.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/jkroepke/openvpn-auth-oauth2) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jkroepke/openvpn-auth-oauth2) · [← Back to Backend](./README.md)</sub>

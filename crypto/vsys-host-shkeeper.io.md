@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`accept-crypto` `accept-crypto-payments` `crypto` `crypto-gateway` `crypto-payment` `crypto-payment-api` `crypto-payment-gateway` `crypto-payments` `crypto-processor` `cryptocurrency-payments` `gateway` `gateway-api`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Payments · Backend
 
 ## 📝 Summary
 
-SHKeeper is a self-hosted, open-source payment processor that enables secure cryptocurrency transactions for e-commerce platforms, custom applications, and integrations with popular content management systems. This flexible solution streamlines the process of accepting cryptocurrency payments, providing a robust backend infrastructure for businesses to expand their payment options. With SHKeeper, organizations can easily integrate cryptocurrency processing into their existing systems and services.
+SHKeeper is an open‑source, self‑hosted gateway that lets businesses accept cryptocurrency payments across a wide range of platforms—from popular CMSs and e‑commerce solutions to custom code and products. It provides a secure, extensible backend for processing crypto transactions, handling wallet integration, payment verification, and payouts without relying on third‑party services. Ideal for developers and merchants who want full control over their crypto payment flow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/vsys-host/shkeeper.io) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/vsys-host/shkeeper.io) · [← Back to Crypto](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 292 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bgp` `control-plane` `edge` `egress` `kube-vip` `kubernetes` `kubernetes-cluster` `kubernetes-services` `load-balancer` `raspberry-pi` `service-loadbalancer` `vip`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-kube-vip is an open-source project that provides a Kubernetes Control Plane Virtual IP and Load-Balancer, ensuring high availability and redundancy for Kubernetes clusters. This tool allows for automatic failover and load-balancing of control plane components, improving the reliability and scalability of cluster operations. By leveraging kube-vip, users can simplify their cluster management and maintenance tasks.
+kube‑vip provides a lightweight, cloud‑agnostic solution for exposing the Kubernetes control plane and services via a single virtual IP address. It runs as a daemonset (or static pod) and leverages standard Linux networking (ARP, BGP, or MetalLB) to deliver high‑availability load balancing without external hardware or cloud‑specific load balancers. Ideal for on‑prem, edge, or hybrid clusters, it simplifies control‑plane failover and service exposure in DevOps/infra environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/kube-vip/kube-vip) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kube-vip/kube-vip) · [← Back to DevOps & Infra](./README.md)</sub>

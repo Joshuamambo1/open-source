@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 698 |
-| 🍴 **Forks** | 25 |
+| ⭐ **Stars** | 707 |
+| 🍴 **Forks** | 26 |
 | 💻 **Language** | Emacs Lisp |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`editor` `elisp` `emacs` `lambda` `lisp` `neomacs` `neovim` `productivity` `rust` `terminal` `vim` `wgpu`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Design · Product
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the eval-exec/neomacs project:
-
-NEO Emacs is an open-source, GPU-powered version of the popular Emacs text editor, written in Rust. It aims to deliver a modern design, multi-threaded Elisp execution, and up to 10x performance boost while maintaining 100% compatibility with the original Emacs. Featuring advanced capabilities such as GPU-accelerated multimedia support and rich animation effects, NEO Emacs is designed to provide a seamless and efficient editing experience.
+Neomacs is a work‑in‑progress, GPU‑accelerated reimplementation of Emacs written in Rust. It aims for full Emacs compatibility while delivering a modern, multi‑threaded architecture with 10× speed gains, zero‑copy rendering of 4K images, videos and WPEWebKit content, and rich animation effects. The project targets developers interested in high‑performance, AI‑enhanced text editing and modern UI design.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/eval-exec/neomacs) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/eval-exec/neomacs) · [← Back to AI/ML](./README.md)</sub>

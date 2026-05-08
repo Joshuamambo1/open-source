@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 341 |
+| ⭐ **Stars** | 342 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `autoscaling` `elasticsearch` `information-retrieval` `ml` `multimodal` `rag` `semantic-search`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Antfly is an open-source project that aims to simplify the development and deployment of artificial intelligence (AI) and machine learning (ML) models. This project provides a scalable and efficient framework for building, testing, and integrating AI/ML models into various applications, enhancing the overall AI/ML development experience. By leveraging Antfly, developers can accelerate their AI/ML projects and focus on more complex and creative tasks.
+Antfly is an open‑source AI/ML framework that provides a lightweight, modular platform for building, training, and deploying neural network models. It emphasizes ease of integration with existing data pipelines, supports a variety of model architectures, and includes tools for monitoring performance and scaling experiments across distributed environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/antflydb/antfly) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/antflydb/antfly) · [← Back to AI/ML](./README.md)</sub>

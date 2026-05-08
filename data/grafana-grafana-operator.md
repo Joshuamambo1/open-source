@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 456 |
+| 🍴 **Forks** | 458 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`community` `go` `golang` `grafana` `grafana-operator` `hacktober` `k8s` `kubernetes` `kubernetes-operator` `monitoring` `observability` `open-source`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · DevOps/Infra
 
 ## 📝 Summary
 
-The Grafana operator is an open-source project that simplifies the management of Grafana instances and their associated resources, including dashboards and data sources, within Kubernetes and OpenShift environments. It uses custom resource definitions (CRDs) to declaratively install and configure Grafana instances, enabling efficient and scalable monitoring and analytics setups. By automating Grafana management, the operator streamlines the process of deploying and maintaining complex monitoring and analytics infrastructure.
+Grafana Operator automates the deployment and lifecycle management of Grafana instances, dashboards, and data sources on Kubernetes and OpenShift clusters using custom resources. By defining Grafana, Dashboard, and Datasource CRDs, it enables declarative, Git‑ops‑friendly provisioning and seamless updates of monitoring stacks. This open‑source tool streamlines DevOps workflows for observability and data visualization in cloud‑native environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/grafana/grafana-operator) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/grafana/grafana-operator) · [← Back to Data](./README.md)</sub>

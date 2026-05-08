@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 773 |
+| ⭐ **Stars** | 774 |
 | 🍴 **Forks** | 738 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`backend` `bitcoin` `trezor`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Backend
 
 ## 📝 Summary
 
-The Trezor Blockbook project is an open-source, backend solution that provides real-time address and account balance information for Trezor users, ensuring secure and seamless integration with cryptocurrency wallets. This project caters to developers working on cryptocurrency applications, allowing them to easily retrieve up-to-date balance and transaction data. It serves as a reliable backend service for users to manage their Trezor assets securely and efficiently.
+Trezor Blockbook is an open‑source backend service that indexes blockchain data and provides fast, reliable APIs for querying addresses, accounts, balances, transaction histories, and other on‑chain information. Designed as a lightweight, scalable solution for cryptocurrency wallets and services, it supports multiple coins and offers features such as address‑derived transaction notifications, mempool tracking, and customizable indexing.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/trezor/blockbook) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/trezor/blockbook) · [← Back to Crypto](./README.md)</sub>

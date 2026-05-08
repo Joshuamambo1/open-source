@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.8k |
-| 🍴 **Forks** | 916 |
+| ⭐ **Stars** | 6.9k |
+| 🍴 **Forks** | 926 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-fleet` `agent-swarm` `claude-code` `codex-cli` `git-worktrees` `multi-agent` `orchestration` `orchestrator` `parallel-agents` `parallel-coding` `skills` `tmux`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The agent-orchestrator is an open-source project that enables parallel coding agents to work together efficiently by planning tasks, spawning agents, and handling various development tasks autonomously. This orchestration tool streamlines continuous integration (CI) fixes, merge conflicts, and code reviews, making it an essential tool for AI/ML development and DevOps. By automating these processes, developers can focus on higher-level tasks.
+ComposioHQ / agent‑orchestrator is an open‑source orchestration framework that coordinates multiple AI‑driven coding agents to work on tasks in parallel. It automatically generates task plans, spawns agents, and manages the full development lifecycle—including continuous‑integration builds, merge‑conflict resolution, and code‑review feedback—so developers can focus on high‑level design while the system handles routine code maintenance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ComposioHQ/agent-orchestrator) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ComposioHQ/agent-orchestrator) · [← Back to Orchestration](./README.md)</sub>

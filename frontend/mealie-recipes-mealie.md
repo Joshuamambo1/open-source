@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.1k |
+| ⭐ **Stars** | 12.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`meal-plans` `recipe-manager` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the Mealie project:
-
-Mealie is an open-source, self-hosted recipe manager and meal planner that offers a user-friendly experience for families. It features a REST API backend and a reactive frontend built with Vue, allowing users to easily import recipes from URLs or create their own using the UI editor. With Mealie, users can manage their recipes and meal plans in a centralized database.
+Mealie is an open‑source, self‑hosted platform that lets you organize recipes and plan meals through a Vue‑based reactive frontend and a robust REST‑API backend. It streamlines recipe entry by importing data directly from URLs or by using an intuitive UI editor, making it easy for families to manage and share their culinary collections.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mealie-recipes/mealie) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mealie-recipes/mealie) · [← Back to Frontend](./README.md)</sub>

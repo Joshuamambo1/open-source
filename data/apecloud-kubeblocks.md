@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 266 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`databases` `elasticsearch` `elasticsearch-operator` `helm` `k8s` `kubernetes` `mongodb` `mongodb-operator` `mysql` `mysql-operator` `operator` `postgresql`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Data · DevOps/Infra · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-KubeBlocks is an open-source Kubernetes Operator that simplifies the management of various databases and streaming systems within Kubernetes environments. It provides a unified way to deploy, manage, and monitor popular data storage systems such as MySQL, PostgreSQL, MongoDB, and more. With KubeBlocks, users can easily integrate and scale their data infrastructure within Kubernetes environments.
+KubeBlocks is an open‑source Kubernetes Operator that automates the provisioning, scaling, and lifecycle management of a wide range of stateful data services—including relational databases (MySQL, PostgreSQL), NoSQL stores (MongoDB, Redis), and streaming platforms (RabbitMQ, RocketMQ) — directly on Kubernetes clusters. By abstracting complex operational tasks into declarative CRDs, it enables developers and DevOps teams to deploy and manage these systems consistently, with built‑in high‑availability, backup, and monitoring capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/apecloud/kubeblocks) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/apecloud/kubeblocks) · [← Back to Data](./README.md)</sub>

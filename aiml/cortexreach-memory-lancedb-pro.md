@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 711 |
+| 🍴 **Forks** | 719 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`lancedb` `memory` `openclaw` `openclaw-agent` `openclaw-plugin` `rag`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the CortexReach/memory-lancedb-pro project:
-
-The CortexReach/memory-lancedb-pro project is an enhanced version of the LanceDB memory plugin for OpenClaw, designed to improve search efficiency and accuracy. It features a hybrid retrieval system combining vector and BM25 algorithms, along with a cross-encoder reranking mechanism and multi-scope isolation capabilities. This project aims to provide a robust and scalable solution for managing memory and enhancing search performance in AI and machine learning applications.
+CortexReach /memory‑lancedb‑pro is an open‑source plugin that extends LanceDB’s vector store for OpenClaw, adding hybrid retrieval (combined vector similarity and BM25 keyword search), cross‑encoder reranking, and multi‑scope isolation of memory collections. It also provides a command‑line management interface for creating, inspecting, and pruning vector‑keyword indexes, making large‑scale, context‑aware RAG pipelines easier to build and maintain.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/CortexReach/memory-lancedb-pro) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/CortexReach/memory-lancedb-pro) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`authorization` `cloud-native` `compliance` `envoy` `istio-proxy` `opa` `opa-envoy` `policy`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-The open-policy-agent/opa-envoy-plugin project is an open-source plugin that integrates Open Policy Agent (OPA) with Envoy, enabling policy enforcement for Envoy-managed services. This plugin allows developers to define and enforce fine-grained policies across their infrastructure, ensuring secure and compliant operations. By leveraging OPA's policy engine, the plugin provides a robust and scalable solution for policy-based security and governance.
+The **OPA Envoy Plugin** is an open‑source extension that integrates the Open Policy Agent (OPA) with Envoy proxy, allowing real‑time enforcement of fine‑grained security and compliance policies on inbound and outbound traffic. By offloading policy evaluation to OPA, the plugin enables dynamic, context‑aware decisions for authentication, authorization, and other security controls without modifying application code. It is particularly useful for cloud‑native environments where consistent, programmable policy enforcement across microservices is required.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/open-policy-agent/opa-envoy-plugin) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/open-policy-agent/opa-envoy-plugin) · [← Back to AI/ML](./README.md)</sub>

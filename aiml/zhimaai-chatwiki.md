@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 301 |
+| 🍴 **Forks** | 304 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `aytomation` `llm` `rag` `workflow`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the zhimaAi/chatwiki project:
-
-ChatWiki is an open-source AI knowledge base workflow agent platform for WeChat public accounts, featuring a large model AI customer service robot. The project aims to provide a vertical field-focused, user-friendly platform for integrating and automating AI-powered services, similar to coze and n8n. This platform utilizes AI and machine learning technologies to streamline and enhance user experience.
+ChatWiki is an open‑source AI knowledge‑base workflow platform designed for WeChat public accounts. It combines a Retrieval‑Augmented Generation (RAG) pipeline with large‑model AI chatbots to deliver domain‑specific customer service, aiming to become a vertical‑focused alternative to tools like Coze and n8n. The project provides both backend AI/ML integration and a frontend interface for seamless interaction.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/zhimaAi/chatwiki) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/zhimaAi/chatwiki) · [← Back to AI/ML](./README.md)</sub>

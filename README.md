@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2339** |
+| 🗂️ **Total projects** | **2379** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 904 | [Browse →](./aiml/) |
-| 📦 **Misc** | 389 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 236 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 221 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 121 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 118 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 98 | [Browse →](./crypto/) |
-| 📊 **Data** | 62 | [Browse →](./data/) |
-| 💳 **Payments** | 58 | [Browse →](./payments/) |
-| 📈 **Trading** | 39 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 32 | [Browse →](./devopsinfra/) |
+| 🤖 **AI/ML** | 920 | [Browse →](./aiml/) |
+| 📦 **Misc** | 392 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 238 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 225 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 123 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 120 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 100 | [Browse →](./crypto/) |
+| 📊 **Data** | 64 | [Browse →](./data/) |
+| 💳 **Payments** | 60 | [Browse →](./payments/) |
+| 📈 **Trading** | 40 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 36 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 27 | [Browse →](./mobile/) |
 | 🔐 **Security** | 18 | [Browse →](./security/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
@@ -42,8 +42,8 @@
 | 1 | [ludwig-ai/ludwig](./aiml/ludwig-ai-ludwig.md) | ⭐ 11.7k | AI/ML |
 | 2 | [karatelabs/karate](./backend/karatelabs-karate.md) | ⭐ 8.9k | Backend |
 | 3 | [documenso/documenso](./security/documenso-documenso.md) | ⭐ 12.8k | Security |
-| 4 | [modelscope/ms-swift](./aiml/modelscope-ms-swift.md) | ⭐ 14k | AI/ML |
-| 5 | [f/prompts.chat](./aiml/f-prompts.chat.md) | ⭐ 161.8k | AI/ML |
+| 4 | [f/prompts.chat](./aiml/f-prompts.chat.md) | ⭐ 161.8k | AI/ML |
+| 5 | [modelscope/ms-swift](./aiml/modelscope-ms-swift.md) | ⭐ 14k | AI/ML |
 | 6 | [micro-editor/micro](./frontend/micro-editor-micro.md) | ⭐ 28.6k | Frontend |
 | 7 | [1Panel-dev/MaxKB](./orchestration/1panel-dev-maxkb.md) | ⭐ 20.9k | Orchestration |
 | 8 | [zhayujie/CowAgent](./orchestration/zhayujie-cowagent.md) | ⭐ 44.2k | Orchestration |

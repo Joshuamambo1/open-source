@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 753 |
+| ⭐ **Stars** | 758 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `listenbrainz` `music` `navidrome` `scrobble` `scrobbler` `self-hosted` `subsonic`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Koito is an open-source, customizable scrobbler that integrates with various programs to track listening history to a custom ListenBrainz URL. This modern scrobbler allows users to personalize their experience with a themeable interface. With its flexible design, Koito is suitable for use with a wide range of applications.
+Koito is a lightweight, modern scrobbler that lets you track your listening habits from any media player by sending play events to a custom ListenBrainz endpoint. Its themeable interface and simple configuration make it easy to integrate into existing workflows, while its open‑source design encourages customization and community contributions. The project is positioned at the intersection of AI/ML and DevOps/Infra, providing a flexible tool for personal music analytics and automation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/gabehf/Koito) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/gabehf/Koito) · [← Back to AI/ML](./README.md)</sub>

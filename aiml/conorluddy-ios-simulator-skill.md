@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 942 |
-| 🍴 **Forks** | 64 |
+| ⭐ **Stars** | 960 |
+| 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `ai-agents` `claude` `claude-ai` `claude-code` `claude-skills` `claudecode` `claudeskills` `dx` `ios` `iossimulator`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The ios-simulator-skill project is an open-source tool designed for ClaudeCode, allowing users to streamline their iOS app development workflow. It optimizes the ability to build, run, and interact with apps by serving as a wrapper for Xcode's build functionality. This skill aims to save development time and context for iOS app development tasks.
+conorluddy/ios-simulator-skill is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/conorluddy/ios-simulator-skill) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/conorluddy/ios-simulator-skill) · [← Back to AI/ML](./README.md)</sub>

@@ -25,7 +25,7 @@ DevTools
 
 ## 📝 Summary
 
-The all-contributors project provides an open-source platform to acknowledge and recognize contributors beyond just code committers. This bot website and documentation enable users to easily identify and appreciate the diverse contributions of individuals involved in a project, fostering a sense of community and inclusivity. By promoting recognition of all types of contributions, the project aims to democratize the way we acknowledge and reward involvement in open-source projects.
+all-contributors/allcontributors.org is a promising open-source project. Categories: DevTools. Interest score: 99/100.
 
 ---
 

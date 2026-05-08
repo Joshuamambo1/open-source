@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 226 |
+| ⭐ **Stars** | 3k |
+| 🍴 **Forks** | 228 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database` `embedded-database` `lsm-tree` `object-storage` `rocksdb` `rust` `storage-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Slatedb is an open-source, cloud-native embedded storage engine designed for object storage. Built for high-performance and scalability, Slatedb enables efficient storage and management of large datasets, making it suitable for applications in AI/ML and data-intensive workloads. Its object storage architecture allows for flexible and scalable data storage solutions.
+Slatedb is an open-source, cloud-native embedded storage engine designed for object storage, providing a scalable and efficient solution for data management. Built to meet the demands of modern applications, slatedb is optimized for seamless integration with AI/ML, frontend, and data-centric use cases. Its flexible architecture enables developers to store and manage large datasets with ease.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/slatedb/slatedb) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/slatedb/slatedb) · [← Back to AI/ML](./README.md)</sub>

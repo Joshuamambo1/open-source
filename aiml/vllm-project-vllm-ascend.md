@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ascend` `inference` `llm` `llm-serving` `llmops` `mlops` `model-serving` `transformer` `vllm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The vllm-ascend project is an open-source, community-maintained hardware plugin for vLLM (vectorized Large Language Model) on the Ascend hardware platform. This plugin enables efficient deployment of vLLM models on Ascend-based hardware, facilitating the integration of large-scale AI/ML applications. By leveraging the Ascend platform, users can accelerate vLLM computations and unlock faster inference and training times.
+vllm-project/vllm-ascend is a promising open-source project. Categories: AI/ML. Interest score: 79/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/vllm-project/vllm-ascend) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vllm-project/vllm-ascend) · [← Back to AI/ML](./README.md)</sub>

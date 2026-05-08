@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`astro` `docs` `documentation` `website`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The withastro/docs project provides an open-source documentation platform for Astro, a modern web framework. This platform aims to offer a centralized location for Astro users and developers to access documentation, guides, and resources. By contributing to the withastro/docs project, users can enhance the accuracy and scope of Astro's documentation.
+withastro/docs is a promising open-source project. Categories: Misc. Interest score: 71/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/withastro/docs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/withastro/docs) · [← Back to Misc](./README.md)</sub>

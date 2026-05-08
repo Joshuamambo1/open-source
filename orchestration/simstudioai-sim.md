@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-workflow` `agentic-workflow` `agents` `ai` `aiagents` `anthropic` `artificial-intelligence` `automation` `chatbot` `deepseek` `gemini` `low-code`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "simstudioai/sim":
-
-Sim is an open-source platform that enables the build, deployment, and orchestration of AI agents, serving as the central intelligence layer for AI workforces. This powerful tool allows developers to streamline AI operations and integrate them seamlessly into various applications. With Sim, users can efficiently manage and deploy AI agents, unlocking the full potential of their AI workforces.
+simstudioai/sim is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/simstudioai/sim) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/simstudioai/sim) · [← Back to Orchestration](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | D |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dlang` `intellij` `intellij-plugin` `java` `kotlin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project is an IntelliJ plugin designed to provide support for the D programming language, a modern, general-purpose language developed by Walter Bright and Andrei Alexandrescu. The plugin aims to enhance the development experience for D programmers by offering a comprehensive set of tools and features within the IntelliJ Integrated Development Environment (IDE). With this plugin, developers can leverage a more streamlined and efficient workflow for building D applications.
+This open-source project, "Intellij D Language Plugin," is an extension for the popular IntelliJ Integrated Development Environment (IDE). It provides native support for the D Programming Language, allowing developers to leverage the IDE's features while writing D code. This plugin is designed to enhance the development experience for D programmers using IntelliJ.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/intellij-dlanguage/intellij-dlanguage) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/intellij-dlanguage/intellij-dlanguage) · [← Back to Misc](./README.md)</sub>

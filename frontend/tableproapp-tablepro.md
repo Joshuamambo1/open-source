@@ -1,6 +1,6 @@
 # TableProApp/TablePro
 
-[![Stars](https://img.shields.io/github/stars/TableProApp/TablePro?style=flat-square&color=yellow)](https://github.com/TableProApp/TablePro/stargazers) [![Forks](https://img.shields.io/github/forks/TableProApp/TablePro?style=flat-square&color=blue)](https://github.com/TableProApp/TablePro/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TableProApp/TablePro?style=flat-square&color=yellow)](https://github.com/TableProApp/TablePro/stargazers) [![Forks](https://img.shields.io/github/forks/TableProApp/TablePro?style=flat-square&color=blue)](https://github.com/TableProApp/TablePro/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A native database client for developers who use one every day.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 154 |
+| ⭐ **Stars** | 2.8k |
+| 🍴 **Forks** | 172 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`appkit` `database` `database-client` `database-gui` `database-management` `macos` `macos-app` `mongodb` `mssql` `mysql` `mysql-client` `native`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-TableProApp/TablePro is an open-source, native macOS database client that provides a comprehensive interface for managing and interacting with various databases, including MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more. This free and user-friendly tool allows developers to perform tasks such as data querying, schema management, and data manipulation across multiple database systems. With its native macOS design, TableProApp/TablePro offers a seamless and efficient experience for database administrators and developers.
+TableProApp/TablePro is a promising open-source project. Categories: Frontend, DevTools, Data. Interest score: 73/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/TableProApp/TablePro) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/TableProApp/TablePro) · [← Back to Frontend](./README.md)</sub>

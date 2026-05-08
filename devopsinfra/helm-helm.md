@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7.6k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chart` `charts` `cncf` `helm` `kubernetes`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Helm is an open-source package manager for Kubernetes that simplifies the process of installing, upgrading, and managing applications on the platform. It provides a consistent and efficient way to deploy and manage complex applications, reducing the administrative burden on developers and operators. With Helm, users can easily manage their Kubernetes clusters by installing and configuring pre-built packages, called charts, that contain application code, dependencies, and configurations.
+helm/helm is a promising open-source project. Categories: DevOps/Infra. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/helm/helm) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/helm/helm) · [← Back to DevOps & Infra](./README.md)</sub>

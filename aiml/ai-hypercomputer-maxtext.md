@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 510 |
+| 🍴 **Forks** | 511 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deepseek` `fine-tuning` `gemma2` `gemma3` `gpt` `jax` `large-language-models` `llama2` `llama3` `llama4` `llm` `mistral`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the AI-Hypercomputer/maxtext project:
-
-AI-Hypercomputer/maxtext is an open-source, high-performance Jax-based Large Language Model (LLM) designed for scalability and speed. This project provides a simple yet powerful tool for building and training advanced AI models, leveraging the capabilities of the Jax framework. By utilizing maxtext, developers can tap into the full potential of Jax for state-of-the-art language processing applications.
+AI-Hypercomputer/maxtext is a promising open-source project. Categories: AI/ML. Interest score: 74/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/AI-Hypercomputer/maxtext) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/AI-Hypercomputer/maxtext) · [← Back to AI/ML](./README.md)</sub>

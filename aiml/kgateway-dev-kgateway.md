@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 746 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-gateway` `api-management` `cloud-native` `envoy` `envoy-proxy` `grpc` `hybrid-apps` `kubernetes` `kubernetes-ingress-controller` `legacy-apps` `microservices` `serverless`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ kgateway-dev/kgateway is a promising open-source project. Categories: AI/ML, Bac
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/kgateway-dev/kgateway) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kgateway-dev/kgateway) · [← Back to AI/ML](./README.md)</sub>

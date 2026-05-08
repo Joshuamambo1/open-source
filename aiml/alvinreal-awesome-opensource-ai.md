@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 371 |
+| 🍴 **Forks** | 372 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `artificial-intelligence` `awesome` `awesome-list` `generative-ai` `llm` `machine-learning` `mlops` `open-source` `open-source-ai` `rag`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The awesome-opensource-ai project is a curated list of exceptional, truly open-source AI projects that cater to various needs in the field of artificial intelligence and machine learning. It offers a comprehensive collection of models, tools, and infrastructure that developers and researchers can leverage for their projects. This project serves as a valuable resource for those seeking open-source AI solutions and tools.
+alvinreal/awesome-opensource-ai is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 80/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/alvinreal/awesome-opensource-ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/alvinreal/awesome-opensource-ai) · [← Back to AI/ML](./README.md)</sub>

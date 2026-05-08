@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 172 |
+| 🍴 **Forks** | 173 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agi` `ai-agents` `ai-research` `artificial-general-intelligence` `autonomous-agents` `autonomous-agents-` `autoresearch` `collaborative-ai` `decentralized` `distributed-ai` `llm` `p2p`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The hyperspaceai/agi project is an open-source, peer-to-peer distributed Artificial General Intelligence (AGI) system. This groundbreaking platform allows thousands of autonomous AI agents to collaborate, share experiments, and collectively push the boundaries of AI research. Users can join the system from either a web browser or command-line interface.
+hyperspaceai/agi is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hyperspaceai/agi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hyperspaceai/agi) · [← Back to AI/ML](./README.md)</sub>

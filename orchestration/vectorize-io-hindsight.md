@@ -1,6 +1,6 @@
 # vectorize-io/hindsight
 
-[![Stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=flat-square&color=yellow)](https://github.com/vectorize-io/hindsight/stargazers) [![Forks](https://img.shields.io/github/forks/vectorize-io/hindsight?style=flat-square&color=blue)](https://github.com/vectorize-io/hindsight/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=flat-square&color=yellow)](https://github.com/vectorize-io/hindsight/stargazers) [![Forks](https://img.shields.io/github/forks/vectorize-io/hindsight?style=flat-square&color=blue)](https://github.com/vectorize-io/hindsight/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > Hindsight: Agent Memory That  Learns
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.2k |
-| 🍴 **Forks** | 699 |
+| ⭐ **Stars** | 12.5k |
+| 🍴 **Forks** | 716 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 91/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agents` `ai-memory` `memory`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Hindsight is an open-source agent memory system that learns from experience, designed to enhance orchestration and AI/ML workflows. It allows for intelligent decision-making by leveraging historical data and real-time observations, enabling more informed and adaptive operations. With Hindsight, users can automate complex tasks and optimize processes using machine learning-driven insights.
+vectorize-io/hindsight is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/vectorize-io/hindsight) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vectorize-io/hindsight) · [← Back to Orchestration](./README.md)</sub>

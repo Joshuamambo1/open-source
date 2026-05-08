@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 20.6k |
-| 🍴 **Forks** | 667 |
+| 🍴 **Forks** | 669 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`identity-management` `iot` `nat-traversal` `oidc` `pam` `private-access` `proxy` `remote-access` `reverse-proxy` `self-hosted` `single-sign-on` `ssh`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Misc
 
 ## 📝 Summary
 
-The pangolin project is an open-source, identity-aware VPN and tunneled reverse proxy designed for secure remote access. It ensures secure connectivity between users and applications, leveraging identity-aware authentication and encryption. This tool provides a reliable solution for organizations and individuals seeking to safeguard their network and remote access endpoints.
+Here's a 2-3 sentence summary for the fosrl/pangolin project:
+
+Pangolin is an open-source, identity-aware VPN and tunneled reverse proxy solution built on top of WireGuard. It provides a secure remote access system that integrates user authentication with WireGuard's high-performance VPN capabilities. This project enables users to securely access remote resources while maintaining identity awareness and access control.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/fosrl/pangolin) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/fosrl/pangolin) · [← Back to Misc](./README.md)</sub>

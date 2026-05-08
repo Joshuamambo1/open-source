@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 474 |
-| 🍴 **Forks** | 30 |
+| ⭐ **Stars** | 479 |
+| 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai-tools` `anthropic` `claude` `claude-code` `cli` `code-sandbox` `coding-assistant` `container-security` `containers` `developer-tools` `incus`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The mensfeld/code-on-incus project provides a secure, isolated environment for AI agents to operate independently, each with its own machine equipped with root permissions, Docker, and systemd. This setup enables active defense mechanisms to detect and automatically stop potential threats, ensuring the integrity and security of the AI agents. By leveraging this project, developers can deploy AI applications with enhanced protection against malicious activities.
+mensfeld/code-on-incus is a promising open-source project. Categories: AI/ML, DevTools, DevOps/Infra. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/mensfeld/code-on-incus) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mensfeld/code-on-incus) · [← Back to AI/ML](./README.md)</sub>

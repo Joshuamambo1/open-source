@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-native` `cpp` `database` `distributed-database` `distributed-sql` `distributed-sql-database` `high-performance` `kubernetes` `multi-cloud` `multi-region` `scale-out` `sql`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ yugabyte/yugabyte-db is a promising open-source project. Categories: Data, DevOp
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/yugabyte/yugabyte-db) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/yugabyte/yugabyte-db) · [← Back to Data](./README.md)</sub>

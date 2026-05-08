@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | Astro |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`zen-browser`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The zen-browser/www project is an open-source initiative that serves as the official homepage for the Zen Browser. This project aims to provide a central hub for users to access information, updates, and resources related to the browser. The website is a key component of the Zen Browser ecosystem, offering a seamless user experience for those interested in the project.
+zen-browser/www is a promising open-source project. Categories: Misc. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/zen-browser/www) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/zen-browser/www) · [← Back to Misc](./README.md)</sub>

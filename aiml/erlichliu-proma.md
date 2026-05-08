@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 615 |
-| 🍴 **Forks** | 101 |
+| ⭐ **Stars** | 625 |
+| 🍴 **Forks** | 104 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-sdk` `agents` `chatbot` `chatgpt` `claude` `gemini` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the ErlichLiu/Proma project in English:
-
-Proma offers a smooth, universal agent experience integrated into your workflow, designed for 100x professional users and built on the open-source Claude Agent SDK. It provides native support for Feishu group chat calls and flexible integration with any large model provider, enabling top-tier agent capabilities in the tools you use daily. This proactive agent framework is currently in development, aiming to revolutionize the way you work with AI.
+ErlichLiu/Proma is a promising open-source project. Categories: AI/ML. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ErlichLiu/Proma) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ErlichLiu/Proma) · [← Back to AI/ML](./README.md)</sub>

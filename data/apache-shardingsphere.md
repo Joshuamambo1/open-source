@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.9k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bigdata` `data-encryption` `data-pipeline` `database` `database-cluster` `database-gateway` `database-middleware` `distributed-database` `distributed-sql-database` `distributed-transaction` `encrypt` `mysql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · Security
 
 ## 📝 Summary
 
-Apache ShardingSphere is an open-source, distributed SQL project that enables data intelligence by providing sharding, scalability, and security across various databases. This platform empowers developers to build scalable and reliable applications by seamlessly integrating with different database systems. With its robust features, Apache ShardingSphere streamlines data management, ensuring high performance and security.
+apache/shardingsphere is a promising open-source project. Categories: Data, Security. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/apache/shardingsphere) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apache/shardingsphere) · [← Back to Data](./README.md)</sub>

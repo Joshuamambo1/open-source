@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools · Product
 
 ## 📝 Summary
 
-Flow is an open-source project developed by Facebook that adds static typing to JavaScript. By incorporating type checking, Flow aims to improve developer productivity and code quality by reducing errors and improving code maintainability. This tool helps developers catch type-related issues early in the development process, ultimately resulting in more robust and reliable software.
+facebook/flow is a promising open-source project. Categories: DevTools, Product. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/facebook/flow) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/facebook/flow) · [← Back to DevTools](./README.md)</sub>

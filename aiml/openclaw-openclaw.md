@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 368.5k |
-| 🍴 **Forks** | 75.9k |
+| ⭐ **Stars** | 369.3k |
+| 🍴 **Forks** | 76.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data` `personal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-OpenClaw is an open-source AI assistant project that enables users to have a personal AI companion on any operating system or platform. This project aims to provide a flexible and adaptable AI solution for a wide range of users, focusing on ease of use and customization. By leveraging AI and machine learning technologies, OpenClaw strives to revolutionize the way people interact with technology.
+openclaw/openclaw is a promising open-source project. Categories: AI/ML, Data. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/openclaw/openclaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openclaw/openclaw) · [← Back to AI/ML](./README.md)</sub>

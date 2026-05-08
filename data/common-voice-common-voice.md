@@ -25,7 +25,7 @@ Data
 
 ## 📝 Summary
 
-Common Voice is an open-source project by Mozilla that aims to create a large-scale audio dataset of people speaking in their native languages. This dataset is used to help teach machines how real people speak, enabling the development of more accurate and inclusive voice assistants and speech recognition systems. By contributing to Common Voice, individuals can help improve language understanding and accessibility worldwide.
+common-voice/common-voice is a promising open-source project. Categories: Data. Interest score: 82/100.
 
 ---
 

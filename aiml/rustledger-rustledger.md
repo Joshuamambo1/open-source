@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 236 |
+| ⭐ **Stars** | 238 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`accounting` `beancount` `cli` `double-entry` `finance` `ledger` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Rustledger is an open-source, modern plain text accounting system that offers a Beancount-compatible alternative for financial record-keeping. This project aims to provide a user-friendly and efficient solution for managing personal and business finances in a format that is easy to read and understand. By leveraging Rust, Rustledger strives to provide a robust and reliable platform for accounting needs.
+rustledger/rustledger is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rustledger/rustledger) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rustledger/rustledger) · [← Back to AI/ML](./README.md)</sub>

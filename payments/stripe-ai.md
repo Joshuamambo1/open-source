@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 258 |
+| 🍴 **Forks** | 259 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `llm` `llm-agents` `mcp` `python` `typescript` `workflows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML · Frontend
 
 ## 📝 Summary
 
-The stripe/ai project is an open-source platform that enables developers to build AI-powered products and businesses seamlessly integrated with Stripe's payment solutions. This comprehensive toolkit provides a one-stop-shop for creating innovative products that combine the power of artificial intelligence with secure and efficient payment processing. By leveraging stripe/ai, developers can expedite their product development and focus on delivering exceptional customer experiences.
+stripe/ai is a promising open-source project. Categories: Payments, AI/ML, Frontend. Interest score: 63/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/stripe/ai) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/stripe/ai) · [← Back to Payments](./README.md)</sub>

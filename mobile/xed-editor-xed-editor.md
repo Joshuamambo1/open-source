@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 120 |
+| 🍴 **Forks** | 121 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `android-app` `android-application` `android-studio` `code` `code-editor` `code-editor-mobile` `codeeditor` `fileviewer` `mobile-ide` `note-taking` `notes-app`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The Xed-Editor project is an open-source, advanced text editor designed for Android devices. Its primary purpose is to provide a feature-rich writing experience, offering users a comprehensive set of tools to create and edit text with ease. This mobile text editor aims to cater to the needs of writers, programmers, and professionals who require a robust and customizable text editing solution.
+Xed-Editor/Xed-Editor is a promising open-source project. Categories: Mobile. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Xed-Editor/Xed-Editor) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Xed-Editor/Xed-Editor) · [← Back to Mobile](./README.md)</sub>

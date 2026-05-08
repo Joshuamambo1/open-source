@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `generative-ai` `gpt` `llm` `llmops` `rag`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Dynamiq is an open-source orchestration framework designed to streamline the development and deployment of agentic AI and Large Language Model (LLM) applications. This framework enables efficient management of complex AI workflows, facilitating the integration of multiple models and services. By leveraging Dynamiq, developers can build scalable and efficient AI systems that can adapt to dynamic environments.
+dynamiq-ai/dynamiq is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/dynamiq-ai/dynamiq) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dynamiq-ai/dynamiq) · [← Back to Orchestration](./README.md)</sub>

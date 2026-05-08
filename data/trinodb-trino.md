@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `big-data` `data-science` `database` `databases` `datalake` `delta-lake` `distributed-database` `distributed-systems` `hadoop` `hive` `iceberg`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ trinodb/trino is a promising open-source project. Categories: Data. Interest sco
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/trinodb/trino) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/trinodb/trino) · [← Back to Data](./README.md)</sub>

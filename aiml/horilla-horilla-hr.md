@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 796 |
+| ⭐ **Stars** | 1.2k |
+| 🍴 **Forks** | 801 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`attendance` `biometrics` `django` `hr` `hr-analytics` `hris` `hrms` `htmx` `javascript` `jquery` `leave` `open-source`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Horilla is a free and open-source HR and CRM software designed to streamline employee management, customer interactions, and business operations. This comprehensive platform leverages cutting-edge technologies, including AI and ML, to provide a robust and efficient solution for businesses of all sizes. By harnessing the power of data-driven insights, Horilla helps organizations optimize their workflows and make informed decisions.
+horilla/horilla-hr is a promising open-source project. Categories: AI/ML, Frontend, Data. Interest score: 70/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/horilla/horilla-hr) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/horilla/horilla-hr) · [← Back to AI/ML](./README.md)</sub>

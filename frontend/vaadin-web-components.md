@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 562 |
-| 🍴 **Forks** | 92 |
+| 🍴 **Forks** | 93 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`custom-elements` `design-system` `design-systems` `ui-components` `ui-kit` `ui-library` `vaadin` `web-components` `webcomponents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-Vaadin/web-components is an open-source project that provides a collection of high-quality, standards-based web components designed for enterprise web applications. These web components offer a robust and feature-rich foundation for building modern web applications, with a focus on ease of use, scalability, and maintainability. By leveraging Vaadin's expertise in web development, this project aims to accelerate the development of enterprise-grade web applications.
+vaadin/web-components is a promising open-source project. Categories: Frontend, Design. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/vaadin/web-components) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vaadin/web-components) · [← Back to Frontend](./README.md)</sub>

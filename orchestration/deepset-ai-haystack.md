@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agents` `ai` `gemini` `generative-ai` `gpt-4` `information-retrieval` `large-language-models` `llm` `machine-learning` `nlp` `orchestration`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the deepset-ai/haystack project:
-
-Haystack is an open-source AI orchestration framework that enables the development of context-engineered, production-ready Large Language Model (LLM) applications. This modular framework allows for explicit control over retrieval, routing, memory, and generation, making it suitable for building scalable agents, multimodal applications, and conversational systems. With Haystack, users can design complex pipelines and workflows to create sophisticated AI-powered systems.
+deepset-ai/haystack is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/deepset-ai/haystack) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/deepset-ai/haystack) · [← Back to Orchestration](./README.md)</sub>

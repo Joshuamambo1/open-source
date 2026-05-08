@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 797 |
 | 💻 **Language** | Adblock Filter List |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adblock` `adguard` `filter-list` `open-source` `ublock`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ AdguardTeam/AdguardFilters is a promising open-source project. Categories: Misc.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/AdguardTeam/AdguardFilters) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/AdguardTeam/AdguardFilters) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 452 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agents` `ai` `drive` `glean` `gmail` `knowledge-graph` `langchain` `langgraph` `llamaparse` `notion` `ollama`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the PipesHub AI project:
-
-PipesHub AI is an open-source workplace AI platform that enables enterprise search and workflow automation through its fully extensible and explainable architecture. This innovative solution empowers organizations to streamline processes and improve productivity by leveraging the power of artificial intelligence. With PipesHub AI, businesses can now unlock the full potential of their data and workflows.
+pipeshub-ai/pipeshub-ai is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/pipeshub-ai/pipeshub-ai) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pipeshub-ai/pipeshub-ai) · [← Back to Orchestration](./README.md)</sub>

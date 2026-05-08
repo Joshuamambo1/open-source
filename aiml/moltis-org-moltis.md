@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 312 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-assistant` `clawdbot` `llm` `mcp` `openclaw` `rust` `sandbox` `self-hosted` `single-binary` `telegram-bot` `voice-assistant`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ moltis-org/moltis is a promising open-source project. Categories: AI/ML, Backend
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/moltis-org/moltis) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/moltis-org/moltis) · [← Back to AI/ML](./README.md)</sub>

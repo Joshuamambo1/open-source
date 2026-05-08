@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49.2k |
+| ⭐ **Stars** | 49.3k |
 | 🍴 **Forks** | 12.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `app-framework` `expo` `framework` `frontend` `ios` `javascript` `mobile` `native` `native-apps` `react` `react-native`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary of the expo/expo project:
-
-Expo is an open-source framework that enables developers to create universal native apps with React, supporting deployment on Android, iOS, and the web. With Expo, developers can leverage a single codebase to build cross-platform mobile applications, streamlining development and deployment processes. This framework provides a seamless experience for building and publishing innovative mobile experiences.
+expo/expo is a promising open-source project. Categories: Frontend, Mobile. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/expo/expo) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/expo/expo) · [← Back to Frontend](./README.md)</sub>

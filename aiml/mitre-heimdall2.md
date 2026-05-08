@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mitre-saf`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the mitre/heimdall2 project:
-
-Heimdall Enterprise Server 2 is an open-source platform that enables users to store, view, and compare automated security control scan results. This tool is designed to facilitate security control analysis and decision-making by providing a centralized location for scan results. By leveraging Heimdall 2, organizations can streamline their security control management and improve their overall cybersecurity posture.
+Heimdall2 is an open-source project that provides a centralized platform for storing, viewing, and comparing automated security control scan results. This platform is designed to facilitate the collection and analysis of security data, enabling organizations to better identify vulnerabilities and prioritize remediation efforts. By leveraging Heimdall2, users can gain a more comprehensive understanding of their security posture.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/mitre/heimdall2) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mitre/heimdall2) · [← Back to AI/ML](./README.md)</sub>

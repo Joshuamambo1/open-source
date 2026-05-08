@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 676 |
+| ⭐ **Stars** | 677 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Nix |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ci-cd` `determinate` `fish-shell` `flakehub` `hacktoberfest` `home-manager` `home-manager-config` `macos` `nix` `nix-darwin` `nix-dotfiles` `nix-flake`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, wimpysworld/nix-config, provides a collection of NixOS, nix-darwin, and Home Manager configuration files. These configurations allow users to easily set up and customize their systems with a pre-defined set of settings and packages. The project aims to simplify the process of configuring a modern, secure, and efficient operating system with a focus on personalization.
+wimpysworld/nix-config is a promising open-source project. Categories: Misc. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/wimpysworld/nix-config) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wimpysworld/nix-config) · [← Back to Misc](./README.md)</sub>

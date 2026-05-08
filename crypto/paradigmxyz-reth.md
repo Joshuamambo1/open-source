@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `contributor-friendly` `distributed-systems` `ethereum` `execution-layer` `modular` `p2p` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The Reth project is an open-source, modular, and contributor-friendly implementation of the Ethereum protocol in Rust, designed for speed and flexibility. Built on Rust, a systems programming language, Reth aims to provide a scalable and efficient foundation for Ethereum development and research. Its modular architecture makes it an ideal platform for exploring new ideas and innovations in the Ethereum ecosystem.
+paradigmxyz/reth is a promising open-source project. Categories: Crypto, AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/paradigmxyz/reth) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/paradigmxyz/reth) · [← Back to Crypto](./README.md)</sub>

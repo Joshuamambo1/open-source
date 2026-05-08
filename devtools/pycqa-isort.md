@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.9k |
-| 🍴 **Forks** | 634 |
+| 🍴 **Forks** | 636 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`auto-formatter` `cleaner` `cli` `formatter` `hacktoberfest` `isort` `linter` `python` `python-utility` `python3` `sorting-imports`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-isort is an open-source utility library for Python that helps maintain consistent and organized import ordering in Python code. It allows developers to automatically sort imports alphabetically or according to a specified style, making code easier to read and understand. By using isort, developers can ensure their code adheres to a standard coding convention and reduces the likelihood of errors caused by import inconsistencies.
+PyCQA/isort is a promising open-source project. Categories: DevTools. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/PyCQA/isort) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/PyCQA/isort) · [← Back to DevTools](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`convex-optimization` `cvxpy` `mathematical-optimization` `modeling-language` `numerical-optimization` `optimization` `optimization-modeling` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-CVXPY is an open-source Python-embedded modeling language for defining and solving convex optimization problems. It allows users to express complex optimization problems in a compact and readable way, making it easier to solve problems in fields such as machine learning, signal processing, and finance. With CVXPY, users can focus on modeling their problems without worrying about the underlying mathematical details.
+CVXPY is an open-source Python-embedded modeling language for convex optimization problems. It allows users to express complex mathematical problems in a concise and readable way, and then translates them into a format that can be solved by efficient convex optimization solvers. This makes it an ideal tool for researchers and practitioners working with optimization problems in fields such as machine learning, control systems, and operations research.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cvxpy/cvxpy) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cvxpy/cvxpy) · [← Back to Misc](./README.md)</sub>

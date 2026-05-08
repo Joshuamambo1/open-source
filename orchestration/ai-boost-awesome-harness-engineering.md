@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 737 |
-| 🍴 **Forks** | 57 |
+| ⭐ **Stars** | 771 |
+| 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-harness` `agent-memory` `agent-orchestration` `ai-agents` `awesome-list` `context-engineering` `harness-engineering` `mcp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the ai-boost/awesome-harness-engineering project:
-
-The ai-boost/awesome-harness-engineering project is an open-source, comprehensive resource for AI agent harness engineering, providing a curated list of essential tools, patterns, and best practices. This repository covers key aspects of harness engineering, including evaluation, memory management, permissions, observability, and orchestration. By leveraging this resource, developers can streamline their AI agent development and deployment processes.
+ai-boost/awesome-harness-engineering is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ai-boost/awesome-harness-engineering) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ai-boost/awesome-harness-engineering) · [← Back to Orchestration](./README.md)</sub>

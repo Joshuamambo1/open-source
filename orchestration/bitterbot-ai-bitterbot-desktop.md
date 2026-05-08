@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 423 |
+| 🍴 **Forks** | 424 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a-protocol` `agent-economy` `agent-memory` `ai-agent` `chatbot` `cognitive-architecture` `decentralized-ai` `desktop-app` `dream-engine` `local-first` `multi-channel` `open-source`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the Bitterbot project:
-
-Bitterbot is an open-source, local-first AI agent that enables users to interact with a conversational AI that retains persistent memory and exhibits emotional intelligence. This unique AI agent is part of a peer-to-peer skills economy, allowing users to share and acquire skills, fostering a collaborative and decentralized knowledge network. By providing a local-first approach, Bitterbot empowers users to maintain control over their data and AI interactions.
+Bitterbot-AI/bitterbot-desktop is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Bitterbot-AI/bitterbot-desktop) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Bitterbot-AI/bitterbot-desktop) · [← Back to Orchestration](./README.md)</sub>

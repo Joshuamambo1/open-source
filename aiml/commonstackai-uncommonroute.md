@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 518 |
+| ⭐ **Stars** | 520 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `anthropic` `cost-optimization` `llm` `model-routing` `openai` `router`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the UncommonRoute project:
-
-UncommonRoute is an open-source, drop-in OpenAI proxy that optimizes the performance of Large Language Models (LLMs) by automatically routing requests, achieving significant cost savings of 82% and high accuracy of 79.4%, while maintaining an impressive 93.4% pass rate. This AI/ML tool streamlines LLM interactions, making it an invaluable resource for developers and organizations working with OpenAI models. By leveraging UncommonRoute, users can enhance the efficiency and effectiveness of their AI-powered applications.
+CommonstackAI/UncommonRoute is a promising open-source project. Categories: AI/ML. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/CommonstackAI/UncommonRoute) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/CommonstackAI/UncommonRoute) · [← Back to AI/ML](./README.md)</sub>

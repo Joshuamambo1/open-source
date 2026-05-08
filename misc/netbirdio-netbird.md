@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`golang` `mesh` `mesh-networks` `nat-traversal` `netbird` `vpn` `wireguard` `wireguard-vpn` `wiretrustee` `zero-trust-network-access`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-Netbird is an open-source project that enables secure connections between devices by creating a WireGuard-based overlay network. This network comes equipped with Single Sign-On (SSO), Multi-Factor Authentication (MFA), and granular access controls, providing a robust security framework for remote devices. Netbird facilitates seamless communication and secure access to resources for users within the network.
+netbirdio/netbird is a promising open-source project. Categories: Misc. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/netbirdio/netbird) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/netbirdio/netbird) · [← Back to Misc](./README.md)</sub>

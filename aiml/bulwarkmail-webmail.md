@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 403 |
+| ⭐ **Stars** | 410 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`calendar` `contacts` `email` `email-client` `jmap` `mail` `nextjs` `self-hosted` `typescript` `webmail`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-BulwarkMail is an open-source, self-hosted email client that offers a modern email experience for the 21st century. Built on the JMAP protocol, this webmail application provides a secure and private platform for managing emails, calendars, contacts, and files. As a fast, open-source solution, BulwarkMail is a great option for those seeking to host their email services independently.
+bulwarkmail/webmail is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/bulwarkmail/webmail) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bulwarkmail/webmail) · [← Back to AI/ML](./README.md)</sub>

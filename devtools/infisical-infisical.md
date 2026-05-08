@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26.6k |
+| ⭐ **Stars** | 26.7k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acme` `certificate-management` `cli` `environment-variables` `go` `golang` `node-js` `open-source` `pki` `postgres` `private-ca` `secret-management`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ Infisical/infisical is a promising open-source project. Categories: DevTools, Se
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Infisical/infisical) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Infisical/infisical) · [← Back to DevTools](./README.md)</sub>

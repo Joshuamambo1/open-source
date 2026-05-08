@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11k |
-| 🍴 **Forks** | 769 |
+| 🍴 **Forks** | 771 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Facebook Hermes project:
-
-Hermes is an open-source JavaScript engine designed to optimize performance in React Native applications, providing a faster and more efficient execution environment for JavaScript code. By leveraging advanced optimization techniques, Hermes aims to reduce the overhead of JavaScript execution and improve overall app performance. This project is an essential component in the React Native ecosystem, enabling developers to create high-performance mobile apps.
+facebook/hermes is a promising open-source project. Categories: Frontend. Interest score: 87/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/facebook/hermes) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/facebook/hermes) · [← Back to Frontend](./README.md)</sub>

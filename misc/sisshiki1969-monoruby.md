@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The monoruby project is an open-source Ruby implementation that features a just-in-time (JIT) compiler, aiming to improve the performance of Ruby applications. By utilizing a JIT compiler, monoruby seeks to bridge the gap between Ruby's ease of use and the speed of languages like C or C++. This implementation provides developers with a high-performance alternative for building Ruby applications.
+sisshiki1969/monoruby is a promising open-source project. Categories: Misc. Interest score: 41/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/sisshiki1969/monoruby) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/sisshiki1969/monoruby) · [← Back to Misc](./README.md)</sub>

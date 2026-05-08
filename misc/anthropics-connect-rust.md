@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 320 |
-| 🍴 **Forks** | 25 |
+| ⭐ **Stars** | 328 |
+| 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,8 +27,8 @@ Misc
 
 Here's a brief summary for the open-source project:
 
-The "connect-rust" project is an open-source implementation of the ConnectRPC protocol in Rust, allowing developers to build and interact with decentralized applications that utilize this protocol. This project provides a Rust-based solution for connecting to and leveraging the functionality of ConnectRPC-enabled services. By leveraging the ConnectRPC protocol, developers can build more robust and interoperable decentralized applications.
+Connect-RPC is an open-source implementation of the ConnectRPC protocol for Rust, allowing for seamless communication and data exchange between different systems. This library provides a robust and reliable way to connect and interact with various applications and services, facilitating a streamlined workflow and enhanced collaboration. Developed with Rust, it offers a secure and efficient solution for building scalable and high-performance applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/anthropics/connect-rust) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/anthropics/connect-rust) · [← Back to Misc](./README.md)</sub>

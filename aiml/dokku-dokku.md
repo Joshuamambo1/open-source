@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`buildpack` `containers` `devops` `docker` `dokku` `heroku` `kubernetes` `nomad` `paas` `self-hosted` `selfhosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Dokku is an open-source, Docker-powered Platform-as-a-Service (PaaS) that facilitates the development and management of application lifecycles. It enables users to easily deploy and scale applications, streamline deployment processes, and simplify infrastructure management. By leveraging Docker, Dokku provides a flexible and efficient way to build, deploy, and manage containerized applications.
+dokku/dokku is a promising open-source project. Categories: AI/ML, Frontend, DevOps/Infra. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/dokku/dokku) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dokku/dokku) · [← Back to AI/ML](./README.md)</sub>

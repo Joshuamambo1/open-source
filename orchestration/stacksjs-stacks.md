@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `apps` `cloud` `desktop` `framework` `library` `mobile` `progressive` `stacks` `typescript` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Stacks is an open-source, modern full-stack framework that enables developers to build powerful applications, clouds, and framework-agnostic libraries rapidly. This flexible and efficient framework allows for streamlined development, empowering users to create complex systems with ease. By leveraging Stacks, developers can accelerate their project timelines and deploy robust solutions with minimal hassle.
+stacksjs/stacks is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/stacksjs/stacks) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/stacksjs/stacks) · [← Back to Orchestration](./README.md)</sub>

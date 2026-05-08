@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 354 |
-| 🍴 **Forks** | 292 |
+| 🍴 **Forks** | 294 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloudflare-workers-ip-hub-dns-clone-cf-dns-clon`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project CF-DNS-Clone:
-
-CF-DNS-Clone is an open-source tool that allows users to clone popular domain names with ease, courtesy of Cloudflare Workers. This simple deployment enables anyone to replicate desired domain names, while also acting as a "搬运工" (搬运工 translates to "delivery worker" or "mover") that automatically aggregates the latest IP resources from popular websites and delivers them to a user's GitHub repository.
+cfwuya1/CF-DNS-Clone is a promising open-source project. Categories: Misc. Interest score: 48/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/cfwuya1/CF-DNS-Clone) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cfwuya1/CF-DNS-Clone) · [← Back to Misc](./README.md)</sub>

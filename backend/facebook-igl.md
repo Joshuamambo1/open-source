@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 211 |
+| 🍴 **Forks** | 210 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Facebook/IGL project:
-
-The Intermediate Graphics Library (IGL) is an open-source, cross-platform library that enables developers to harness the power of the GPU with a single, low-level interface. Built on top of various graphics APIs such as OpenGL, Metal, and Vulkan, IGL provides a unified abstraction layer for accessing GPU capabilities. This allows developers to write platform-agnostic code and focus on high-level graphics programming.
+facebook/igl is a promising open-source project. Categories: Backend. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/facebook/igl) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/facebook/igl) · [← Back to Backend](./README.md)</sub>

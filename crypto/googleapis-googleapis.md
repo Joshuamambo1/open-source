@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Starlark |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`protocol-buffers`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Backend
 
 ## 📝 Summary
 
-googleapis/googleapis is a promising open-source project. Categories: Backend. Interest score: 91/100.
+googleapis/googleapis is a promising open-source project. Categories: Crypto, Backend. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/googleapis/googleapis) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/googleapis/googleapis) · [← Back to Crypto](./README.md)</sub>

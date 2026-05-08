@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Ki Editor is an open-source, multi-cursor combinatoric modal editor that allows users to interact with code in a unique and efficient way. It supports various editing modes and enables simultaneous editing of multiple points in the code, streamlining the development process. With its customizable interface and flexible design, the Ki Editor is an ideal tool for programmers seeking to boost their productivity.
+The Ki Editor is an open-source, multi-cursor combinatoric modal editor that allows users to efficiently edit and manipulate text. Its unique multi-cursor feature enables simultaneous editing of multiple locations in a document, streamlining complex editing tasks. This versatile editor is designed to enhance productivity and flexibility for users working with text-based content.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ki-editor/ki-editor) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ki-editor/ki-editor) · [← Back to Misc](./README.md)</sub>

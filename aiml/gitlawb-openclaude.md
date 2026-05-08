@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.9k |
+| ⭐ **Stars** | 26.1k |
 | 🍴 **Forks** | 8.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-tools` `cli` `coding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Open Claude is an open-source command-line interface (CLI) for interacting with various AI models, including those from OpenAI, Gemini, and GitHub Models, as well as 200+ models through OpenAI-compatible APIs. This project enables developers to harness the power of these models in a streamlined and accessible way. With Open Claude, users can leverage multiple AI models from a single interface.
+Gitlawb/openclaude is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Gitlawb/openclaude) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Gitlawb/openclaude) · [← Back to AI/ML](./README.md)</sub>

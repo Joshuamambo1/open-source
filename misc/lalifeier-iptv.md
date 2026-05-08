@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 378 |
+| ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The IPTV repository is an open-source project that likely focuses on internet protocol television, which allows users to stream live television over the internet. This project, hosted by lalifeier, provides a platform for developers to create, manage, and interact with IPTV systems. The project's functionality and features are not specified in the provided description, but it falls under the category of miscellaneous.
+lalifeier/IPTV is a promising open-source project. Categories: Misc. Interest score: 44/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/lalifeier/IPTV) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lalifeier/IPTV) · [← Back to Misc](./README.md)</sub>

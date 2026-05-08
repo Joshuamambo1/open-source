@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `aws` `azure` `cost-optimization` `datascience` `distributed-training` `gcp` `generative-ai` `high-performance-computing` `kubernetes` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Metaflow is an open-source project from Netflix that empowers data scientists and engineers to build, manage, and deploy AI and machine learning (ML) systems efficiently. It provides a flexible and scalable framework for automating workflows, managing datasets, and tracking model performance, making it easier to bring AI and ML models into production. With Metaflow, users can focus on developing and improving their models without worrying about the complexities of deployment and management.
+Netflix/metaflow is a promising open-source project. Categories: AI/ML, Frontend, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Netflix/metaflow) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Netflix/metaflow) · [← Back to AI/ML](./README.md)</sub>

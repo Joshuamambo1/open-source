@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `editor` `freebsd` `gdb` `gleam` `go` `golang` `ide` `image-viewer` `linux` `odin` `openbsd`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the xyproto/orbiton project:
-
-Orbiton is an open-source, terminal-based text editor and IDE that offers a seamless writing experience with features like syntax highlighting, quick error navigation, and support for programming languages. Its intuitive interface and extensive feature set make it suitable for writing code, editing config files, and even formatting Markdown documents. With its configuration-free design and powerful tools, Orbiton is perfect for developers who need a lightweight yet efficient coding companion.
+xyproto/orbiton is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/xyproto/orbiton) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/xyproto/orbiton) · [← Back to AI/ML](./README.md)</sub>

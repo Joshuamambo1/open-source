@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 255 |
+| 🍴 **Forks** | 259 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `large-language-models` `llm` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The dust-tt/dust project is an open-source platform designed to accelerate work processes through a custom AI agent. This AI agent enables users to automate tasks and streamline workflows, ultimately increasing productivity. By leveraging AI technology, dust aims to simplify complex tasks and make work more efficient.
+dust-tt/dust is a promising open-source project. Categories: AI/ML. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/dust-tt/dust) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dust-tt/dust) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `package-manager` `windows` `winget`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The Microsoft WinGet CLI is an open-source package manager for Windows, enabling users to easily install, update, and manage applications on their systems. This project offers a command-line interface, PowerShell modules, and a COM API, providing a flexible and efficient way to manage software on Windows devices. With WinGet, users can simplify their package management process and streamline their workflow.
+microsoft/winget-cli is a promising open-source project. Categories: Backend, DevTools. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/microsoft/winget-cli) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/winget-cli) · [← Back to Backend](./README.md)</sub>

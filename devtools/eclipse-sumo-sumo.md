@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`simulation` `traffic` `transport`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Design
 
 ## 📝 Summary
 
-Eclipse SUMO is an open-source traffic simulation package capable of handling large networks and intermodal scenarios, including pedestrians. It provides a comprehensive set of tools for creating complex simulation scenarios, making it a valuable resource for urban planners, researchers, and developers. SUMO's highly portable and microscopic simulation capabilities make it an ideal choice for modeling and analyzing real-world traffic systems.
+eclipse-sumo/sumo is a promising open-source project. Categories: DevTools, Design. Interest score: 87/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/eclipse-sumo/sumo) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/eclipse-sumo/sumo) · [← Back to DevTools](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-art` `artificial-intelligence` `generative-art` `image-generation` `img2img` `inpainting` `latent-diffusion` `linux` `macos` `outpainting` `stable-diffusion` `txt2img`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-InvokeAI is an open-source creative engine for Stable Diffusion models that enables users to generate and create visual media using AI-driven technologies. Its user-friendly WebUI makes it accessible to professionals, artists, and enthusiasts alike, serving as the foundation for multiple commercial products. As a leading solution in the field, InvokeAI offers a powerful platform for leveraging the latest advancements in AI and machine learning.
+Here's a brief summary for the invoke-ai/InvokeAI project:
+
+InvokeAI is a leading creative engine that empowers professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies, particularly Stable Diffusion models. With its industry-leading WebUI, InvokeAI provides an accessible and user-friendly interface for harnessing the power of AI-driven creativity. As the foundation for multiple commercial products, InvokeAI is a key driver in the development of AI-powered visual media.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/invoke-ai/InvokeAI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/invoke-ai/InvokeAI) · [← Back to AI/ML](./README.md)</sub>

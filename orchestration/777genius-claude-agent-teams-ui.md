@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 850 |
-| 🍴 **Forks** | 190 |
+| ⭐ **Stars** | 868 |
+| 🍴 **Forks** | 191 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-teams` `ai` `ai-agents` `ai-assistant` `ai-tools` `anthropic` `claude` `claude-ai` `claude-code` `codex` `developer-tools` `electron`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Claude Agent Teams UI is an open-source project that enables teams to collaborate more efficiently through the use of AI-powered agents. This project utilizes Codex (Claude) to orchestrate tasks, allowing agents to communicate, review, and handle tasks independently while the CTO provides high-level oversight. The interface is showcased through a kanban board, facilitating streamlined team management.
+777genius/claude_agent_teams_ui is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/777genius/claude_agent_teams_ui) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/777genius/claude_agent_teams_ui) · [← Back to Orchestration](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 438 |
-| 🍴 **Forks** | 135 |
+| 🍴 **Forks** | 136 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d` `3d-portfolio` `animation` `css` `framer-motion` `galaxy` `html` `javascript` `js` `motion` `next` `nextjs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, sanidhyy/space-portfolio, is a full-stack Next.js 14 portfolio showcasing projects related to AI/ML and frontend development. It serves as a demonstration of a comprehensive web application built with Next.js, highlighting the developer's skills in both frontend and AI/ML domains. The project is an excellent resource for those interested in learning from a real-world implementation of Next.js 14.
+sanidhyy/space-portfolio is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/sanidhyy/space-portfolio) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/sanidhyy/space-portfolio) · [← Back to AI/ML](./README.md)</sub>

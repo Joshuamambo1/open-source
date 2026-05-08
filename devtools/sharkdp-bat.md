@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 58.7k |
+| ⭐ **Stars** | 58.8k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `git` `hacktoberfest` `rust` `syntax-highlighting` `terminal` `tool`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-bat is an open-source cat(1) clone that provides an alternative to the traditional cat command. It features additional functionality, including syntax highlighting and a user-friendly interface. This project aims to offer a more feature-rich and customizable experience for users who work with text files.
+sharkdp/bat is a promising open-source project. Categories: DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/sharkdp/bat) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/sharkdp/bat) · [← Back to DevTools](./README.md)</sub>

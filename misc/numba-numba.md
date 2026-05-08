@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `cuda` `llvm` `numba` `numpy` `parallel` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Numba project is an open-source compiler that translates Python and NumPy code into fast machine code, utilizing the LLVM infrastructure to provide significant performance improvements. By leveraging the LLVM compiler infrastructure, Numba can generate optimized code for a wide range of platforms, allowing for the efficient execution of numerical and scientific computing applications in Python. This results in significant speedup of numerical code, often rivaling or surpassing that of compiled languages like C or Fortran.
+numba/numba is a promising open-source project. Categories: Misc. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/numba/numba) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/numba/numba) · [← Back to Misc](./README.md)</sub>

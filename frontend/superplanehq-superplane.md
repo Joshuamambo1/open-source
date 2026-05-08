@@ -1,6 +1,6 @@
 # superplanehq/superplane
 
-[![Stars](https://img.shields.io/github/stars/superplanehq/superplane?style=flat-square&color=yellow)](https://github.com/superplanehq/superplane/stargazers) [![Forks](https://img.shields.io/github/forks/superplanehq/superplane?style=flat-square&color=blue)](https://github.com/superplanehq/superplane/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superplanehq/superplane?style=flat-square&color=yellow)](https://github.com/superplanehq/superplane/stargazers) [![Forks](https://img.shields.io/github/forks/superplanehq/superplane?style=flat-square&color=blue)](https://github.com/superplanehq/superplane/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The open source control plane for platform engineering.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 261 |
+| ⭐ **Stars** | 2.3k |
+| 🍴 **Forks** | 273 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automation` `control-plane` `devops` `event-driven` `go` `kubernetes` `platform-engineering` `python` `react` `release-automation` `self-hosted` `workflow-automation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The superplanehq/superplane project is an open-source, control plane designed for platform engineering, aiming to streamline and automate the management of complex infrastructure and applications. By providing a unified interface, it enables organizations to efficiently manage their entire technology stack, from provisioning to deployment. This control plane is a key component in the modernization of technology infrastructure, facilitating greater agility and reduced operational overhead.
+superplanehq/superplane is a promising open-source project. Categories: Frontend, DevOps/Infra. Interest score: 70/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/superplanehq/superplane) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/superplanehq/superplane) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 103 |
+| ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`nextjs` `rust` `stylex` `swc-plugin` `webpack`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The Dwlad90/stylex-swc-plugin is an open-source plugin for StyleX, allowing developers to utilize the power of NAPI-RS/SWC for enhanced backend functionality. This community-driven project aims to bridge the gap between StyleX and NAPI-RS/SWC, providing a seamless integration experience. By leveraging this plugin, developers can tap into the capabilities of NAPI-RS/SWC, streamlining their backend development workflow.
+Dwlad90/stylex-swc-plugin is a promising open-source project. Categories: Backend. Interest score: 47/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/Dwlad90/stylex-swc-plugin) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Dwlad90/stylex-swc-plugin) · [← Back to Backend](./README.md)</sub>

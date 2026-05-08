@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 575 |
+| ⭐ **Stars** | 577 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`reflection` `rspc` `rust` `rust-macro` `specta` `tauri-specta` `typesafe` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Specta is an open-source project that aims to simplify the process of exporting Rust types to other languages, allowing for seamless interoperability and integration. This tool is designed to bridge the gap between Rust and other programming languages, promoting easier collaboration and code reuse. With Specta, developers can easily generate serialization and deserialization code for various languages, streamlining their development workflow.
+specta-rs/specta is a promising open-source project. Categories: Misc. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/specta-rs/specta) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/specta-rs/specta) · [← Back to Misc](./README.md)</sub>

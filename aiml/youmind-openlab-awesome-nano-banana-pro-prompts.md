@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11.8k |
+| ⭐ **Stars** | 11.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-image-generation` `ai-prompts` `awesome` `awesome-list` `gemini` `gemini-ai` `google-gemini` `image-generation` `multilingual` `nano-banana` `nano-banana-2` `nano-banana-pro`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-The awesome-nano-banana-pro-prompts is an extensive open-source library of curated image generation prompts for the Google Gemini AI, featuring over 10,000 prompts in 16 languages, each accompanied by a preview image. This library is designed to facilitate AI image creation and is free for anyone to use. With its extensive language support and diverse range of prompts, it's a valuable resource for developers and artists working with AI image generation.
+YouMind-OpenLab/awesome-nano-banana-pro-prompts is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) · [← Back to AI/ML](./README.md)</sub>

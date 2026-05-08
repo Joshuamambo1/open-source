@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`algorithmic-trading-engine` `algorithmic-trading-library` `algotrading` `arbitrage-bot` `awesome` `awesome-list` `finance` `finance-api` `financial-data` `financial-instruments` `google-finance` `quant`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
-This project, "awesome-quant," is an open-source repository that aggregates a comprehensive collection of high-quality libraries, packages, and resources specifically designed for quantitative finance professionals. The curated list caters to various aspects of quant finance, including AI/ML, backend development, and data manipulation. By providing a centralized platform, it aims to facilitate discovery and exploration of cutting-edge tools and techniques in the field.
+wilsonfreitas/awesome-quant is a promising open-source project. Categories: Trading, AI/ML, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/wilsonfreitas/awesome-quant) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wilsonfreitas/awesome-quant) · [← Back to Trading](./README.md)</sub>

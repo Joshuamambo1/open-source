@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 538 |
-| 🍴 **Forks** | 159 |
+| ⭐ **Stars** | 540 |
+| 🍴 **Forks** | 161 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `infrastructure` `railway`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The Railway CLI is an open-source project that provides a command-line interface for managing Railway applications and workflows. It offers a convenient and efficient way to automate tasks, deploy code, and monitor Railway environments from the terminal. With the Railway CLI, developers can streamline their development processes and enhance their productivity.
+railwayapp/cli is a promising open-source project. Categories: AI/ML, DevTools, DevOps/Infra. Interest score: 50/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/railwayapp/cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/railwayapp/cli) · [← Back to AI/ML](./README.md)</sub>

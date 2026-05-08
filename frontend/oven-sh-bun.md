@@ -25,7 +25,7 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The oven-sh/bun project is an open-source, multi-functional tool that combines a JavaScript runtime, bundler, test runner, and package manager into a single, high-performance platform. It streamlines development workflows by providing a unified solution for building, testing, and managing frontend projects. With its focus on speed and efficiency, bun accelerates development and simplifies project management.
+oven-sh/bun is a promising open-source project. Categories: Frontend, DevTools. Interest score: 100/100.
 
 ---
 

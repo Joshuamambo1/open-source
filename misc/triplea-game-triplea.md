@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 459 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`free` `game` `good-first-issue` `opensource` `strategy` `strategy-game` `turn-based-strategy` `world-war-2`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-TripleA is an open-source, turn-based strategy game and board game engine that allows users to play and create a variety of tabletop-style games, similar to Axis & Allies or Risk. The platform supports a wide range of game mechanics, including area control, resource management, and unit movement. With TripleA, users can play and customize their favorite board games, or create new ones, all within a flexible and user-friendly interface.
+triplea-game/triplea is a promising open-source project. Categories: Misc. Interest score: 68/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/triplea-game/triplea) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/triplea-game/triplea) · [← Back to Misc](./README.md)</sub>

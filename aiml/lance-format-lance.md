@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.4k |
-| 🍴 **Forks** | 650 |
+| 🍴 **Forks** | 656 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apache-arrow` `computer-vision` `data-analysis` `data-analytics` `data-centric` `data-format` `data-science` `dataops` `deep-learning` `duckdb` `embeddings` `llms`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The lance-format/lance project is an open-source Lakehouse format designed to support multimodal AI applications. It enables users to convert Parquet files into a more efficient format, resulting in 100x faster random access, vector index, and data versioning capabilities. lance is compatible with popular data science libraries including Pandas, DuckDB, Polars, Pyarrow, and PyTorch.
+lance-format/lance is a promising open-source project. Categories: AI/ML, Data. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/lance-format/lance) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lance-format/lance) · [← Back to AI/ML](./README.md)</sub>

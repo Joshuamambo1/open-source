@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11.3k |
-| 🍴 **Forks** | 464 |
+| 🍴 **Forks** | 466 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blazingly-fast` `built-with-rust` `cli` `git` `version-control`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Gitoxide is an open-source, pure Rust implementation of Git, providing a fast, safe, and idiomatic solution for working with Git repositories. This project offers a lean and efficient way to interact with Git, catering to developers and DevTools creators who require a robust and reliable Git library. By leveraging Rust's strong focus on safety and performance, Gitoxide enables developers to create high-quality Git-related applications with ease.
+GitoxideLabs/gitoxide is a promising open-source project. Categories: Frontend, DevTools. Interest score: 88/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/GitoxideLabs/gitoxide) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/GitoxideLabs/gitoxide) · [← Back to Frontend](./README.md)</sub>

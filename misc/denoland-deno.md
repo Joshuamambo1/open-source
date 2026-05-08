@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deno` `javascript` `rust` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Deno is a modern runtime for JavaScript and TypeScript, designed to provide a fast, secure, and scalable environment for running web applications. It offers a lightweight and modular architecture, allowing developers to write high-performance code with ease. Deno's open-source nature enables a collaborative community to contribute and improve the platform, making it an attractive choice for developers seeking a flexible and maintainable solution.
+denoland/deno is a promising open-source project. Categories: Misc. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/denoland/deno) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/denoland/deno) · [← Back to Misc](./README.md)</sub>

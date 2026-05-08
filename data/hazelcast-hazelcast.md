@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`big-data` `caching` `data-in-motion` `data-insights` `distributed` `distributed-computing` `distributed-systems` `hacktoberfest` `hazelcast` `in-memory` `java` `low-latency`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ hazelcast/hazelcast is a promising open-source project. Categories: Data. Intere
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/hazelcast/hazelcast) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hazelcast/hazelcast) · [← Back to Data](./README.md)</sub>

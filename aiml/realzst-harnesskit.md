@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 197 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 219 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-coding-agents` `claude-code` `cli-tools` `codex` `cursor` `developer-tools` `gemini-cli` `skill-manager`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the RealZST/HarnessKit project:
-
-RealZST/HarnessKit is an open-source project that serves as a centralized hub for managing AI/ML coding agents. It provides a unified platform for handling extensions, configurations, memory, and rules across all agents, streamlining development and maintenance processes. This project is designed to simplify AI/ML development by providing a single, intuitive interface for managing multiple agents.
+RealZST/HarnessKit is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/RealZST/HarnessKit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/RealZST/HarnessKit) · [← Back to AI/ML](./README.md)</sub>

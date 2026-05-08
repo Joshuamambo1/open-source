@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ape` `apeworx` `brownie` `defi` `developer-tools` `ethereum` `framework` `nft` `python` `smart-contracts` `solidity` `vyper`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-ApeWorX/ape is an open-source project that enables developers to build and interact with blockchain applications using Python. This project empowers users to explore and create on-chain experiences, bridging the gap between cryptocurrency and artificial intelligence/machine learning. With ape, developers can leverage Python to build innovative blockchain solutions.
+ApeWorX/ape is a promising open-source project. Categories: Crypto, AI/ML, Frontend. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ApeWorX/ape) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ApeWorX/ape) · [← Back to Crypto](./README.md)</sub>

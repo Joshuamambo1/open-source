@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 553 |
+| 🍴 **Forks** | 554 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -29,4 +29,4 @@ GoogleCloudPlatform/PerfKitBenchmarker is a promising open-source project. Categ
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker) · [← Back to AI/ML](./README.md)</sub>

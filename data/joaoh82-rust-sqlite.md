@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`computer-science` `database-design` `databases` `rust-lang` `sqlite-architecture`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · Design
 
 ## 📝 Summary
 
-SQLRite is an open-source, embedded database library written in Rust, modeled after the popular SQLite database system. This project aims to provide a simple and lightweight solution for storing and retrieving data in various Rust applications. By leveraging Rust's performance and concurrency capabilities, SQLRite offers a robust and efficient alternative for embedded database needs.
+joaoh82/rust_sqlite is a promising open-source project. Categories: Data, Design. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/joaoh82/rust_sqlite) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/joaoh82/rust_sqlite) · [← Back to Data](./README.md)</sub>

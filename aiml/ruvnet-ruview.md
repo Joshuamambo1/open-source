@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51.7k |
+| ⭐ **Stars** | 52k |
 | 🍴 **Forks** | 6.9k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `densepose` `esp32` `firmware` `mcu` `mincut` `monitoring` `pose-estimation` `rf` `self` `self-learning` `spatial-intelligence`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-RuView is an open-source project that utilizes WiFi signals to estimate human pose, monitor vital signs, and detect presence in real-time. This innovative technology, known as WiFi DensePose, leverages commodity WiFi to achieve accurate and pixel-free human tracking. By harnessing the power of AI/ML, RuView offers a secure and non-invasive solution for various applications.
+ruvnet/RuView is a promising open-source project. Categories: AI/ML, Security. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ruvnet/RuView) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ruvnet/RuView) · [← Back to AI/ML](./README.md)</sub>

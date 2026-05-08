@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | C |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`file-system` `openzfs` `system-software`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-openzfs/zfs is a promising open-source project. Categories: Misc. Interest score: 94/100.
+OpenZFS is an open-source file system and storage management platform that provides a scalable, self-healing, and highly secure storage solution for Linux and FreeBSD operating systems. It offers advanced features such as data compression, encryption, and snapshots, making it a reliable choice for cloud, enterprise, and personal storage environments. With its flexible architecture and extensible APIs, OpenZFS enables developers to build innovative storage solutions and applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/openzfs/zfs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openzfs/zfs) · [← Back to Misc](./README.md)</sub>

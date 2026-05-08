@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 38.1k |
+| ⭐ **Stars** | 38.4k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`browser` `chrome` `chrome-devtools` `debugging` `devtools` `mcp` `mcp-server` `puppeteer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The chrome-devtools-mcp project is an open-source extension of Chrome DevTools, designed specifically for coding agents to facilitate efficient debugging and development. This innovative tool enables AI and machine learning developers to streamline the development process, optimize performance, and troubleshoot complex coding issues. By leveraging Chrome DevTools' functionality, developers can now create intelligent coding agents with enhanced capabilities.
+ChromeDevTools/chrome-devtools-mcp is a promising open-source project. Categories: AI/ML, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) · [← Back to AI/ML](./README.md)</sub>

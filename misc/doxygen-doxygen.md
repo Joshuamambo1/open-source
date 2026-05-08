@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`doxygen` `doxygen-documentation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Doxygen is an open-source documentation generator tool that automatically creates technical documentation from source code comments. This project provides a comprehensive and customizable way to document software projects, supporting multiple programming languages and output formats. The official Doxygen repository serves as a central hub for the development and maintenance of this popular documentation tool.
+doxygen/doxygen is a promising open-source project. Categories: Misc. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/doxygen/doxygen) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/doxygen/doxygen) · [← Back to Misc](./README.md)</sub>

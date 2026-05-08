@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 440 |
-| 🍴 **Forks** | 129 |
+| ⭐ **Stars** | 446 |
+| 🍴 **Forks** | 134 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `conversational-ai` `fastapi` `llm` `nextjs` `open-source` `outbound-calls` `pipecat` `python` `self-hosted` `speech-to-text`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the dograh project:
-
-The dograh open-source project is a cutting-edge Voice Agent Platform that leverages AI and ML technologies to provide a powerful and flexible solution for building voice-enabled applications. Built on a robust backend infrastructure, dograh enables developers to create custom voice agents that can integrate with various systems and services. This platform offers a unique opportunity for developers to harness the power of voice interaction and create innovative applications.
+dograh-hq/dograh is a promising open-source project. Categories: AI/ML, Backend. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/dograh-hq/dograh) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dograh-hq/dograh) · [← Back to AI/ML](./README.md)</sub>

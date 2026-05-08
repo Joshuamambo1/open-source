@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7.4k |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`activity-stream` `activitypub` `docker` `fediverse` `mastodon` `microblog` `social-network` `social-web` `webfinger`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Mastodon is an open-source, self-hosted microblogging platform that allows users to create their own interconnected communities. This project enables users to share short messages, known as toots, and connect with others across a global network of communities, providing a decentralized alternative to traditional social media. By hosting Mastodon on their own servers, users maintain control over their data and online presence.
+mastodon/mastodon is a promising open-source project. Categories: DevOps/Infra. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/mastodon/mastodon) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mastodon/mastodon) · [← Back to DevOps & Infra](./README.md)</sub>

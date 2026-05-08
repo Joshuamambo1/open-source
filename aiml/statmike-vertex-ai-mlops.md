@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 309 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deep-learning` `gcp` `gcp-vertex-ai` `machine-learning` `mlops` `mlops-template` `mlops-workflow`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-Vertex AI MLOps is an open-source project that provides end-to-end workflows for machine learning operations on the Google Cloud Platform. It enables users to streamline their ML workflows, from data preparation to model deployment, using a unified framework. This project aims to simplify the complexities of MLOps on Vertex AI, making it easier for developers and data scientists to build, deploy, and manage machine learning models at scale.
+statmike/vertex-ai-mlops is a promising open-source project. Categories: AI/ML. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/statmike/vertex-ai-mlops) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/statmike/vertex-ai-mlops) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 295 |
+| 🍴 **Forks** | 299 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `code-interpreter` `consul` `devtools` `firecracker` `gcp` `go` `golang` `gpt` `kvm` `llm` `microvm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The e2b-dev/infra project is an open-source infrastructure repository powering E2B Cloud, providing the foundation for its operations and services. This project is categorized under AI/ML and DevOps/Infra, indicating its role in supporting the development and deployment of AI and machine learning applications. By making this infrastructure open-source, the community can contribute to and benefit from its development.
+e2b-dev/infra is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/e2b-dev/infra) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/e2b-dev/infra) · [← Back to AI/ML](./README.md)</sub>

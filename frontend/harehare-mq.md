@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 416 |
+| ⭐ **Stars** | 419 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `interpreter` `jq` `language-server` `markdown` `mcp` `md` `query` `repl` `rust` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-harehare/mq is an open-source, command-line processing language inspired by jq, but designed specifically for querying and manipulating Markdown data. This language enables efficient and flexible text processing through a powerful query syntax, making it a valuable tool for developers working with Markdown files. With harehare/mq, users can easily extract, transform, and analyze Markdown data from the command line.
+Here's a brief summary for the harehare/mq project:
+
+harehare/mq is an open-source, command-line Markdown query language inspired by jq. It allows users to process and transform Markdown data in a flexible and efficient manner, making it a valuable tool for developers working with Markdown files. With mq, users can quickly parse and manipulate Markdown data using a simple and expressive syntax.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/harehare/mq) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/harehare/mq) · [← Back to Frontend](./README.md)</sub>

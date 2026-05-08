@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 609 |
+| ⭐ **Stars** | 611 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-coding` `ai-tools` `claude-code` `codex-cli` `coding-agent` `developer-tools` `gemini-cli` `git-worktree` `terminal`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"parallel-code" is an open-source tool that enables simultaneous execution of multiple AI models, including Claude Code, Codex, and Gemini, each running in its own dedicated Git worktree. This allows users to easily compare and contrast the performance of different models on the same tasks, facilitating the development and testing of AI-powered applications. By running multiple models in parallel, developers can streamline their workflow and accelerate AI research and development.
+johannesjo/parallel-code is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/johannesjo/parallel-code) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/johannesjo/parallel-code) · [← Back to AI/ML](./README.md)</sub>

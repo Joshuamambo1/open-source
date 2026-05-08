@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`java` `reverse-engineering`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the "Severed Chains" project:
-
-"Severed Chains" is an open-source modding project that brings the classic PlayStation RPG "Legend of Dragoon" to modern platforms, including PC, Mac, Linux, and Steam Deck. By decompiling and reverse engineering the original game, the project allows players to experience the beloved title on a variety of devices. This effort demonstrates innovative AI/ML techniques in reverse engineering and game porting.
+Legend-of-Dragoon-Modding/Severed-Chains is a promising open-source project. Categories: AI/ML. Interest score: 46/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains) · [← Back to AI/ML](./README.md)</sub>

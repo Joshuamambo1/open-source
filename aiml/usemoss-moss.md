@@ -2,22 +2,22 @@
 
 [![Stars](https://img.shields.io/github/stars/usemoss/moss?style=flat-square&color=yellow)](https://github.com/usemoss/moss/stargazers) [![Forks](https://img.shields.io/github/forks/usemoss/moss?style=flat-square&color=blue)](https://github.com/usemoss/moss/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
-> Realtime Semantic Search ⭐ Found it useful? Leave a star!
+> Official Repo of Moss
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 334 |
+| ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-infra` `hybrid-search` `rag` `real-time` `retrieval` `semantic-search` `voice-ai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Moss is an open-source project that brings AI-driven insights to DevOps and infrastructure management. It provides a powerful tool for automating tasks, optimizing workflows, and enhancing overall system efficiency, leveraging the capabilities of artificial intelligence and machine learning. By streamlining operations and improving decision-making, Moss helps teams achieve greater productivity and reliability in their systems and infrastructure.
+Moss is an open-source project that provides a robust and scalable platform for various AI and ML applications. As an official repository, it offers a wide range of tools and features for developers to build, deploy, and manage complex systems with ease. This project is a valuable resource for those working in the fields of AI/ML and DevOps/Infra.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/usemoss/moss) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/usemoss/moss) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bro` `dfir` `ndr` `network-monitoring` `nsm` `pcap` `security` `zeek`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-Zeek is a comprehensive, open-source network analysis framework that provides advanced capabilities for monitoring, analyzing, and visualizing network activity. Unlike traditional intrusion detection systems, Zeek offers a powerful and flexible platform for understanding network behavior and identifying potential security threats. Its customizable architecture and extensive functionality make it a valuable tool for network security professionals and researchers.
+zeek/zeek is a promising open-source project. Categories: Security. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/zeek/zeek) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/zeek/zeek) · [← Back to Security](./README.md)</sub>

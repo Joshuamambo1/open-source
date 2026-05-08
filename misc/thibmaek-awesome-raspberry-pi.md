@@ -1,23 +1,23 @@
 # thibmaek/awesome-raspberry-pi
 
-[![Stars](https://img.shields.io/github/stars/thibmaek/awesome-raspberry-pi?style=flat-square&color=yellow)](https://github.com/thibmaek/awesome-raspberry-pi/stargazers) [![Forks](https://img.shields.io/github/forks/thibmaek/awesome-raspberry-pi?style=flat-square&color=blue)](https://github.com/thibmaek/awesome-raspberry-pi/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thibmaek/awesome-raspberry-pi?style=flat-square&color=yellow)](https://github.com/thibmaek/awesome-raspberry-pi/stargazers) [![Forks](https://img.shields.io/github/forks/thibmaek/awesome-raspberry-pi?style=flat-square&color=blue)](https://github.com/thibmaek/awesome-raspberry-pi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
 
-> 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+> Listed in awesome-awesome
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16.3k |
-| 🍴 **Forks** | 1.1k |
-| 💻 **Language** | Shell |
-| 📈 **Score** | 91/100 |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 21/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-This repository, "awesome-raspberry-pi," is a collection of curated resources for the Raspberry Pi, a popular single-board computer. It's listed in the "awesome-awesome" project, which aggregates community-curated lists of resources, making it an excellent starting point for Raspberry Pi enthusiasts and developers. The repository aims to provide a comprehensive list of projects, tutorials, and guides to help users unlock the full potential of their Raspberry Pi devices.
+thibmaek/awesome-raspberry-pi is a promising open-source project. Categories: Misc. Interest score: 21/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/thibmaek/awesome-raspberry-pi) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/thibmaek/awesome-raspberry-pi) · [← Back to Misc](./README.md)</sub>

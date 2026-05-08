@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 59.6k |
+| ⭐ **Stars** | 59.7k |
 | 🍴 **Forks** | 13.8k |
 | 💻 **Language** | C |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audio` `c` `ffmpeg` `fft` `hevc` `hls` `matroska` `mp4` `mpeg` `multimedia` `rtmp` `rtsp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project is a mirror of the official FFmpeg repository, providing a secondary location for the development and maintenance of the FFmpeg multimedia framework. FFmpeg is a powerful, cross-platform tool for processing and converting various audio and video formats, offering advanced features and customization options. It is widely used in the media industry for tasks such as video editing, streaming, and encoding.
+FFmpeg/FFmpeg is a promising open-source project. Categories: Misc. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/FFmpeg/FFmpeg) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/FFmpeg/FFmpeg) · [← Back to Misc](./README.md)</sub>

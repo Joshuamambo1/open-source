@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 119 |
+| 🍴 **Forks** | 120 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `codex` `conversation-history` `desktop-app` `developer-tools` `opencode` `react` `rust` `tauri`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Claude-Code-History-Viewer is an open-source desktop application designed to help users browse and analyze their conversation history on the Claude Code platform. This tool enables users to efficiently review and understand their interactions with Claude, a conversational AI. By providing a structured view of conversation history, Claude-Code-History-Viewer facilitates deeper insights and more effective usage of the Claude Code platform.
+jhlee0409/claude-code-history-viewer is a promising open-source project. Categories: Frontend, DevTools. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/jhlee0409/claude-code-history-viewer) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jhlee0409/claude-code-history-viewer) · [← Back to Frontend](./README.md)</sub>

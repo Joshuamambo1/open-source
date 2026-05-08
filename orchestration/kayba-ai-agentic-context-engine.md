@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 271 |
+| 🍴 **Forks** | 270 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-learning` `agent-memory` `agents` `ai` `ai-agents` `ai-tools` `context-engineering` `llm` `machine-learning` `memory` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The Agentic Context Engine is an open-source project that enables agents to learn from experience, providing a robust foundation for intelligent decision-making and adaptive behavior. This AI/ML solution allows for the orchestration of complex systems, facilitating the development of sophisticated autonomous agents. As a hosted solution at kayba.ai, it is now accessible for users to leverage its capabilities.
+kayba-ai/agentic-context-engine is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 69/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/kayba-ai/agentic-context-engine) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kayba-ai/agentic-context-engine) · [← Back to Orchestration](./README.md)</sub>

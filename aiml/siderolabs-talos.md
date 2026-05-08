@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.4k |
-| 🍴 **Forks** | 816 |
+| 🍴 **Forks** | 815 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-native` `containerd` `go` `grpc` `kubernetes` `kubernetes-distribution` `linux` `linux-distribution` `musl`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Talos Linux is an open-source, modern Linux distribution designed specifically for Kubernetes environments. Built with a focus on performance and security, Talos provides a streamlined and efficient platform for running containerized applications. Its open-source nature makes it an attractive option for developers and organizations seeking a customizable and flexible foundation for their Kubernetes setups.
+siderolabs/talos is a promising open-source project. Categories: AI/ML, Frontend, DevOps/Infra. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/siderolabs/talos) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/siderolabs/talos) · [← Back to AI/ML](./README.md)</sub>

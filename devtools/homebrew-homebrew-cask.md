@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 11.5k |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cask` `hacktoberfest` `homebrew`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ Homebrew/homebrew-cask is a promising open-source project. Categories: DevTools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Homebrew/homebrew-cask) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Homebrew/homebrew-cask) · [← Back to DevTools](./README.md)</sub>

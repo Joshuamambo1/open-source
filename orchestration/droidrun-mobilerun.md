@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 859 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `android` `android-automation` `hacktoberfest` `mobile-automation`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the droidrun/mobilerun project:
-
-Mobilerun is an open-source mobile automation tool that enables users to control their mobile devices using natural language commands, allowing for more intuitive and efficient interaction. This agent is designed to be LLM (Large Language Model) agnostic, making it adaptable to various AI/ML platforms. By leveraging mobilerun, users can automate and streamline mobile device management and tasks.
+droidrun/mobilerun is a promising open-source project. Categories: Orchestration, AI/ML, Mobile. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/droidrun/mobilerun) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/droidrun/mobilerun) · [← Back to Orchestration](./README.md)</sub>

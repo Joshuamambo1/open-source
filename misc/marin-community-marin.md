@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 925 |
-| 🍴 **Forks** | 112 |
+| ⭐ **Stars** | 939 |
+| 🍴 **Forks** | 113 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the marin-community/marin project:
-
-Marin is an open-source framework designed to facilitate the research and development of foundation models, a critical component in the field of artificial intelligence. This framework aims to provide a robust platform for developers to build, train, and deploy foundation models, enabling advancements in AI research and applications. By making this technology open-source, the marin-community/marin project promotes collaborative innovation and accessibility in the AI research community.
+The marin community/marin project is an open-source framework aimed at facilitating research and development of foundation models. This framework provides a platform for accelerating the creation and evaluation of foundation models, enabling advancements in various AI applications. By making this framework available, researchers and developers can collaborate and build upon each other's work.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/marin-community/marin) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/marin-community/marin) · [← Back to Misc](./README.md)</sub>

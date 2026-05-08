@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 953 |
+| ⭐ **Stars** | 955 |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The typst/packages project is an open-source collection of packages designed to support the Typst tool, providing a range of useful functionalities for users. This repository serves as a centralized hub for sharing and collaborating on various Typst-related packages, promoting community-driven development and customization. By leveraging these packages, users can enhance their Typst experience and unlock new features and capabilities.
+typst/packages is a promising open-source project. Categories: Misc. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/typst/packages) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/typst/packages) · [← Back to Misc](./README.md)</sub>

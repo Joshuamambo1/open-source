@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `android-app` `fitness-app` `flutter` `health` `ios` `journal` `linux-app` `local-first` `macos` `privacy` `speech-recognition`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data · Mobile
 
 ## 📝 Summary
 
-Lotti is an open-source, AI-powered digital assistant that prioritizes user data privacy by storing information locally on devices. This platform enables users to chat with their tasks, receive intelligent summaries, and track important activities across various categories, with the option to choose a preferred AI provider or run operations offline. By giving users control over their data, Lotti offers a secure and customizable AI experience.
+matthiasn/lotti is a promising open-source project. Categories: AI/ML, Data, Mobile. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/matthiasn/lotti) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/matthiasn/lotti) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.7k |
-| 🍴 **Forks** | 2.5k |
+| 🍴 **Forks** | 2.6k |
 | 💻 **Language** | JSON |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compat` `compatibility` `data` `dataset` `json`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The mdn/browser-compat-data project is an open-source repository that houses browser compatibility data for Web technologies, as displayed on Mozilla Developer Network (MDN). This data provides a comprehensive overview of how different web technologies, such as HTML, CSS, and JavaScript, are supported across various web browsers. By having this data in a centralized, open-source repository, developers can more easily determine browser support and compatibility for their web applications.
+mdn/browser-compat-data is a promising open-source project. Categories: Data. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mdn/browser-compat-data) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mdn/browser-compat-data) · [← Back to Data](./README.md)</sub>

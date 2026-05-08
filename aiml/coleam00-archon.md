@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20.8k |
+| ⭐ **Stars** | 21k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `automation` `bun` `claude` `cli` `coding-assistant` `developer-tools` `typescript` `workflow-engine` `yaml`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The Archon project is an open-source harness builder that enables deterministic and repeatable AI coding, making it easier to test, debug, and iterate on AI models. By providing a framework for harnessing AI capabilities, Archon streamlines the development process and fosters collaboration between developers and AI engineers. This innovative tool is poised to revolutionize the field of AI/ML development.
+coleam00/Archon is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/coleam00/Archon) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/coleam00/Archon) · [← Back to AI/ML](./README.md)</sub>

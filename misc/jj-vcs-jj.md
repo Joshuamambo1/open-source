@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-jj-vcs/jj is an open-source, Git-compatible version control system that offers a balance of simplicity and power. It provides a flexible and efficient way to manage version control, making it suitable for various development projects. With its Git compatibility, jj-vcs/jj allows users to seamlessly integrate with existing workflows and tools.
+jj-vcs/jj is a promising open-source project. Categories: Misc. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jj-vcs/jj) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jj-vcs/jj) · [← Back to Misc](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 627 |
-| 🍴 **Forks** | 50 |
+| ⭐ **Stars** | 642 |
+| 🍴 **Forks** | 52 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The "awesome-design-md-jp" repository is a collection of DESIGN.md files tailored for Japanese UI development, designed to be understood by AI agents. It extends the Google Stitch format to support CJK (Chinese, Japanese, Korean) typography, enabling AI agents to accurately interpret and utilize Japanese design guidelines. This project aims to bridge the gap between human designers and AI-driven design tools in the Japanese context.
+This open-source project, "awesome-design-md-jp", provides a comprehensive collection of Japanese DESIGN.md files designed to accurately instruct AI agents on UI creation. Building upon the Google Stitch format, it incorporates CJK typography to cater to East Asian languages. The project aims to enhance AI-generated designs with culturally relevant and aesthetically pleasing Japanese UI elements.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/kzhrknt/awesome-design-md-jp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kzhrknt/awesome-design-md-jp) · [← Back to AI/ML](./README.md)</sub>

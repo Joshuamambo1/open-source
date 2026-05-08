@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 103.2k |
+| ⭐ **Stars** | 103.3k |
 | 🍴 **Forks** | 13.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `cli` `gemini` `gemini-api` `mcp-client` `mcp-server`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ google-gemini/gemini-cli is a promising open-source project. Categories: AI/ML, 
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/google-gemini/gemini-cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/google-gemini/gemini-cli) · [← Back to AI/ML](./README.md)</sub>

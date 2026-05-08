@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-FrostWire is an open-source, user-friendly Cloud Downloader and BitTorrent Client that enables seamless searching, downloading, and sharing of digital content. This versatile tool allows users to access a wide range of files from various sources, making it an attractive option for those seeking a convenient and accessible file management solution. With its ease of use and robust features, FrostWire has become a popular choice among developers and individuals alike.
+FrostWire is an open-source, easy-to-use cloud downloader and BitTorrent client that allows users to search, download, and share content across various platforms. As a DevTools project, it provides a user-friendly interface for accessing and managing digital files. With its cloud downloader and BitTorrent capabilities, FrostWire offers a convenient solution for users to access and share media content.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/frostwire/frostwire) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/frostwire/frostwire) · [← Back to DevTools](./README.md)</sub>

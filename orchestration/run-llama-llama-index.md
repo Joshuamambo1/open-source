@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49.1k |
+| ⭐ **Stars** | 49.2k |
 | 🍴 **Forks** | 7.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `application` `data` `fine-tuning` `framework` `llamaindex` `llm` `multi-agents` `rag` `vector-database`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-LlamaIndex is an open-source document agent and OCR platform that streamlines the processing of large-scale document datasets. It leverages AI and machine learning capabilities to enhance document analysis and extraction, making it a valuable tool for data-intensive applications. With LlamaIndex, users can efficiently manage and extract insights from documents in various formats.
+run-llama/llama_index is a promising open-source project. Categories: Orchestration, AI/ML, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/run-llama/llama_index) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/run-llama/llama_index) · [← Back to Orchestration](./README.md)</sub>

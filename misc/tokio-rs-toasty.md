@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Toasty is an open-source, asynchronous Object-Relational Mapping (ORM) library for Rust, providing a high-level interface for interacting with databases in a non-blocking manner. This allows developers to write efficient and scalable database code that can handle concurrent requests. By leveraging the async capabilities of Rust, Toasty enables developers to write more readable and maintainable database code.
+Toasty is an open-source, asynchronous Object-Relational Mapping (ORM) system for Rust, designed to simplify database interactions and improve performance. Built on top of the Tokio framework, it allows developers to write efficient and scalable database code using Rust's async/await syntax. With Toasty, users can easily interact with various databases, including PostgreSQL, MySQL, and SQLite, in a streamlined and asynchronous manner.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/tokio-rs/toasty) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tokio-rs/toasty) · [← Back to Misc](./README.md)</sub>

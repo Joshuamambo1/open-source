@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16.2k |
+| ⭐ **Stars** | 16.4k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amp` `claude-code` `codex` `gemini` `ghostty` `opencode` `terminal` `tmux`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Manaflow-ai/cmux is an open-source, AI-focused terminal application for macOS that integrates vertical tabs and customizable notifications. Built on top of the Ghostty terminal framework, it provides a streamlined environment for coding agents and AI development. This project aims to enhance the productivity of developers and researchers working with AI and machine learning technologies.
+manaflow-ai/cmux is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/manaflow-ai/cmux) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/manaflow-ai/cmux) · [← Back to AI/ML](./README.md)</sub>

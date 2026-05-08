@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 872 |
-| 🍴 **Forks** | 129 |
+| ⭐ **Stars** | 875 |
+| 🍴 **Forks** | 131 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `benchmarks` `environments` `evaluation` `gym` `llm` `reinforcement-learning` `reinforcement-learning-environments` `rl-environment` `rl-training`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The NVIDIA-NeMo/Gym project is an open-source initiative that enables the creation of Reinforcement Learning (RL) environments for training Large Language Models (LLMs). This project facilitates the development of realistic simulation environments, allowing researchers and developers to train and evaluate LLMs in a controlled and flexible manner. By leveraging Gym's framework, NeMo users can build and customize RL environments tailored to their specific LLM training requirements.
+NVIDIA-NeMo/Gym is a promising open-source project. Categories: AI/ML. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/NVIDIA-NeMo/Gym) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/NVIDIA-NeMo/Gym) · [← Back to AI/ML](./README.md)</sub>

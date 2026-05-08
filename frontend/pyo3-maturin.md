@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 401 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cffi` `cpython` `cross-compile` `hacktoberfest` `manylinux` `packaging` `pyo3` `pypi` `pypy` `python` `uniffi` `wheels`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-PyO3/maturin is an open-source project that enables building and publishing Rust crates as Python packages, allowing developers to create and distribute hybrid Rust-Python projects. This project supports pyo3, cffi, and uniffi bindings, as well as Rust binaries, providing a seamless integration between the two languages. By using PyO3/maturin, developers can build and deploy complex projects that leverage the strengths of both Rust and Python.
+PyO3/maturin is a promising open-source project. Categories: Frontend. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/PyO3/maturin) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/PyO3/maturin) · [← Back to Frontend](./README.md)</sub>

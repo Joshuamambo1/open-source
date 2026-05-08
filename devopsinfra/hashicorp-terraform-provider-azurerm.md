@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`azure` `azure-resource-manager` `terraform` `terraform-provider`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ hashicorp/terraform-provider-azurerm is a promising open-source project. Categor
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/hashicorp/terraform-provider-azurerm) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hashicorp/terraform-provider-azurerm) · [← Back to DevOps & Infra](./README.md)</sub>

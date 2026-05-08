@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`egui` `game-development` `gamedev` `gui` `imgui` `rust` `wasm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-egui is an open-source, Rust-based library for creating immediate mode GUIs that seamlessly run on both web and native platforms. This user-friendly library simplifies the process of building GUIs, allowing developers to focus on creating engaging and interactive applications. With egui, developers can easily create custom, high-performance GUIs for a wide range of applications, from desktop software to web applications.
+emilk/egui is a promising open-source project. Categories: Frontend. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/emilk/egui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/emilk/egui) · [← Back to Frontend](./README.md)</sub>

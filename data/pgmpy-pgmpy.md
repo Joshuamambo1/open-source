@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bayesian-networks` `causal-discovery` `causal-effect` `causal-identification` `causal-inference` `causal-models` `causal-prediction` `causal-validation` `graphical-models` `hacktoberfest` `mixed-data` `probabilistic-inference`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ pgmpy/pgmpy is a promising open-source project. Categories: Data. Interest score
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/pgmpy/pgmpy) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pgmpy/pgmpy) · [← Back to Data](./README.md)</sub>

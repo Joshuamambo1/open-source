@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 808 |
-| 🍴 **Forks** | 57 |
+| ⭐ **Stars** | 810 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | Clojure |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-coding` `chat` `clojure` `code-assistant` `completion` `editor` `emacs` `hacktoberfest` `intellij` `jsonrpc` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-editor-code-assistant/eca is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 56/100.
+editor-code-assistant/eca is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/editor-code-assistant/eca) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/editor-code-assistant/eca) · [← Back to Orchestration](./README.md)</sub>

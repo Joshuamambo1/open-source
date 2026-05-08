@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 115.3k |
+| ⭐ **Stars** | 116.3k |
 | 🍴 **Forks** | 7.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-crawler` `ai-scraping` `ai-search` `crawler` `data-extraction` `html-to-markdown` `llm` `markdown` `scraper` `scraping`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Firecrawl is an open-source API designed to enable the search, scraping, and interaction with web data for artificial intelligence (AI) applications. This platform provides a robust backend solution for data collection, allowing developers to easily access and manipulate web content. By leveraging Firecrawl, AI developers can efficiently gather and process web data to improve the accuracy and effectiveness of their models.
+firecrawl/firecrawl is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/firecrawl/firecrawl) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/firecrawl/firecrawl) · [← Back to AI/ML](./README.md)</sub>

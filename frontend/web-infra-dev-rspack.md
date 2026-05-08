@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 12.7k |
-| 🍴 **Forks** | 796 |
+| 🍴 **Forks** | 797 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`build-tool` `bundler` `compiler` `esm` `javascript` `jsx` `loaders` `module-bundler` `rspack` `rstack` `rust` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the rspack project:
-
-Rspack is an open-source, Rust-based web bundler that aims to provide a fast and efficient alternative to existing solutions. It offers a modernized API inspired by Webpack, making it easy for developers to integrate it into their build processes. By leveraging Rust's performance capabilities, rspack is designed to accelerate web development workflows.
+web-infra-dev/rspack is a promising open-source project. Categories: Frontend, Backend, DevOps/Infra. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/web-infra-dev/rspack) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/web-infra-dev/rspack) · [← Back to Frontend](./README.md)</sub>

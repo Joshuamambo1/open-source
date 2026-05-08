@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws` `cli` `developer-tools` `devops` `opentofu` `terraform`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Terragrunt is an open-source orchestration tool that empowers users to scale their Infrastructure as Code (IaC) written in OpenTofu/Terraform. It provides a flexible framework for managing complex infrastructure deployments, enabling users to streamline their workflow and increase efficiency. With Terragrunt, users can confidently scale their IaC infrastructure projects while maintaining control and consistency.
+gruntwork-io/terragrunt is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/gruntwork-io/terragrunt) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gruntwork-io/terragrunt) · [← Back to Orchestration](./README.md)</sub>

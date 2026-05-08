@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.2k |
-| 🍴 **Forks** | 360 |
+| ⭐ **Stars** | 4.3k |
+| 🍴 **Forks** | 369 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`app-store-connect` `apple` `automation` `cicd` `cli` `command-line-tool` `developer-tools` `devops` `go` `golang` `ios` `macos`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML · Frontend
 
 ## 📝 Summary
 
-The App Store Connect CLI is an open-source, scriptable command-line interface that automates various tasks related to App Store Connect, including TestFlight, builds, submissions, analytics, and more. This fast and efficient tool allows developers to streamline their workflows by leveraging the App Store Connect API in a JSON-first, non-interactive manner. By utilizing this CLI, developers can simplify their App Store Connect tasks and improve their productivity.
+rorkai/App-Store-Connect-CLI is a promising open-source project. Categories: Payments, AI/ML, Frontend. Interest score: 85/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rorkai/App-Store-Connect-CLI) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rorkai/App-Store-Connect-CLI) · [← Back to Payments](./README.md)</sub>

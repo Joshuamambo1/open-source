@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23.5k |
-| 🍴 **Forks** | 799 |
+| ⭐ **Stars** | 23.6k |
+| 🍴 **Forks** | 802 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chocolatey` `cli` `npm` `package` `package-manager` `pip` `scoop` `unigetui` `windows` `windows-10` `windows-11` `winget`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-UniGetUI is an open-source, graphical interface for managing package managers, providing a unified experience for users to install, update, and manage various packages across different platforms. This project streamlines package management by offering a single, intuitive interface for users to interact with multiple package managers. By simplifying package management, UniGetUI enhances productivity and reduces the complexity associated with managing multiple package repositories.
+Devolutions/UniGetUI is a promising open-source project. Categories: Frontend, DevTools. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Devolutions/UniGetUI) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Devolutions/UniGetUI) · [← Back to Frontend](./README.md)</sub>

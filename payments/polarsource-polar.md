@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.8k |
-| 🍴 **Forks** | 708 |
+| 🍴 **Forks** | 706 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`digital-products` `fastapi` `merchant-of-record` `nextjs` `payments` `polar` `python` `react` `saas` `subscriptions` `turborepo` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · Frontend · Backend
 
 ## 📝 Summary
 
-The polar project is an open-source initiative that aims to transform software into a viable business by providing a comprehensive platform for product development. It combines frontend and backend capabilities to streamline product creation, making it an attractive solution for entrepreneurs and developers. By leveraging polar, users can turn their ideas into successful products more efficiently.
+polarsource/polar is a promising open-source project. Categories: Payments, Frontend, Backend. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/polarsource/polar) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/polarsource/polar) · [← Back to Payments](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 621 |
-| 🍴 **Forks** | 182 |
+| ⭐ **Stars** | 622 |
+| 🍴 **Forks** | 183 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `b2c` `blockchain-ecommerce` `ecommerce` `ecommerce-platform` `innocms` `innoshop` `innovation` `laravel` `laravel-ecommerce` `laravelshop` `magento`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-InnoShop is an open-source e-commerce system powered by AI, built on Laravel 12, and designed for global commerce. It boasts native multi-language and multi-currency support, along with a modular architecture and flexible plugin/theme system for adaptability. This AI-driven platform enables intelligent automation and is ideal for businesses looking to leverage cutting-edge technology.
+InnoShop is an open-source, AI-powered e-commerce platform built on Laravel 12, designed to support global commerce. This robust system enables businesses to automate tasks through multiple AI models, while also providing native multi-language and multi-currency support. Its modular architecture and flexible plugin/theme system make it highly adaptable to diverse business needs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/innocommerce/innoshop) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/innocommerce/innoshop) · [← Back to Crypto](./README.md)</sub>

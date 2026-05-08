@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 89k |
-| 🍴 **Forks** | 38.9k |
+| 🍴 **Forks** | 39k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitcoin` `c-plus-plus` `cryptocurrency` `cryptography` `p2p`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-Bitcoin Core is the primary open-source software client for the Bitcoin network, serving as its reference implementation. It handles the validation of transactions and blocks, acting as a full node to maintain the integrity of the decentralized ledger. This project is crucial for the operation and security of the Bitcoin ecosystem.
+bitcoin/bitcoin is a promising open-source project. Categories: Crypto. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/bitcoin/bitcoin) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bitcoin/bitcoin) · [← Back to Crypto](./README.md)</sub>

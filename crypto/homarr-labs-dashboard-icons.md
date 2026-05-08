@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 697 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dashboard` `dashboard-icons` `dashy` `docker` `heimdall` `homarr` `homepage` `homer` `icons` `self-hosted` `selfhosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · DevOps/Infra · Design
 
 ## 📝 Summary
 
-The homarr-labs/dashboard-icons project is an open-source repository providing a comprehensive collection of dashboard icons, catering to various needs across industries such as Crypto, DevOps/Infra, and Design. This collection allows users to easily access and utilize high-quality icons for their dashboards, streamlining the design process. With its open-source nature, the project encourages community collaboration and contributes to the advancement of accessible and visually appealing dashboard designs.
+homarr-labs/dashboard-icons is a promising open-source project. Categories: Crypto, DevOps/Infra, Design. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/homarr-labs/dashboard-icons) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/homarr-labs/dashboard-icons) · [← Back to Crypto](./README.md)</sub>

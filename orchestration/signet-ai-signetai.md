@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 136 |
-| 🍴 **Forks** | 27 |
+| ⭐ **Stars** | 137 |
+| 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-identity` `agent-infrastructure` `agent-memory` `agent-orchestration` `agent-state` `ai-agents` `ai-memory` `bun` `claude-code` `developer-tools` `llm` `local-first`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Signetai is an open-source project that provides a local-first framework for AI agents, enabling secure and portable state management of identity, memory, and secrets. This allows AI developers to easily transfer model states across different environments and models, streamlining the development process. By harnessing Signetai, developers can create more robust and efficient AI applications.
+Signet-AI/signetai is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Signet-AI/signetai) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Signet-AI/signetai) · [← Back to Orchestration](./README.md)</sub>

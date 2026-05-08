@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 632 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The Facebook Thrift project is an open-source, customized branch of Apache Thrift, a popular software framework for building scalable and efficient services. This project includes a new C++ server implementation and is designed to support the development of high-performance backend services. By leveraging Thrift's existing features, Facebook Thrift simplifies the process of building, deploying, and maintaining robust backend applications.
+facebook/fbthrift is a promising open-source project. Categories: Backend. Interest score: 68/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/facebook/fbthrift) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/facebook/fbthrift) · [← Back to Backend](./README.md)</sub>

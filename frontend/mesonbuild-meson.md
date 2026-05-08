@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Meson is an open-source build system designed to provide a flexible and efficient way to manage project builds. It enables developers to write simple build files and automates tasks such as dependency resolution, configuration, and compilation. By using Meson, developers can focus on writing code rather than managing the build process.
+mesonbuild/meson is a promising open-source project. Categories: Frontend. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/mesonbuild/meson) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mesonbuild/meson) · [← Back to Frontend](./README.md)</sub>

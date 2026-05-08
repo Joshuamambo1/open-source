@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 457 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`beacon-chain` `blockchain` `eth2` `ethereum` `proof-of-stake` `serenity` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-ChainSafe/lodestar is an open-source Ethereum consensus client designed for the Zig and TypeScript ecosystems. This project enables developers to leverage Ethereum's decentralized network capabilities within their Zig and TypeScript applications, fostering a more extensive and interconnected ecosystem. By utilizing lodestar, developers can tap into the full potential of Ethereum-based projects.
+ChainSafe/lodestar is a promising open-source project. Categories: Crypto, AI/ML, DevTools. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ChainSafe/lodestar) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ChainSafe/lodestar) · [← Back to Crypto](./README.md)</sub>

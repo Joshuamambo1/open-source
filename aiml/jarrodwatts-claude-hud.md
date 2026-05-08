@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21.7k |
-| 🍴 **Forks** | 962 |
+| ⭐ **Stars** | 22k |
+| 🍴 **Forks** | 966 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `claude` `claude-code` `cli` `plugin` `statusline` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the project:
 
-Claude-HUD is an open-source plugin for the Claude AI code platform, providing a dashboard that offers real-time insights into the workflow. This includes information on context usage, active tools, running agents, and todo progress, helping developers stay informed and productive. By visualizing key metrics, Claude-HUD streamlines the development process for AI/ML projects.
+Claude-HUD is an open-source plugin for Claude Code, providing real-time visibility into key performance indicators such as context usage, active tools, running agents, and task progress. This plugin aims to increase productivity and efficiency by giving users a clear understanding of their Claude Code workflow. It is an invaluable tool for developers and users working with Claude Code.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jarrodwatts/claude-hud) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jarrodwatts/claude-hud) · [← Back to AI/ML](./README.md)</sub>

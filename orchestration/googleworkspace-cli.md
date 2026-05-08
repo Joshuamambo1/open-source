@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.8k |
+| ⭐ **Stars** | 25.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `ai-agent` `automation` `cli` `discovery-api` `gemini-cli-extension` `google-admin` `google-api` `google-calendar` `google-chat` `google-docs` `google-drive`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The googleworkspace/cli project is an open-source command-line tool that integrates multiple Google Workspace services, including Drive, Gmail, Calendar, Sheets, Docs, and Chat, into a single interface. Built dynamically using the Google Discovery Service, this tool provides users with a centralized platform for managing their Google Workspace resources. It also includes AI agent skills for enhanced functionality.
+googleworkspace/cli is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/googleworkspace/cli) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/googleworkspace/cli) · [← Back to Orchestration](./README.md)</sub>

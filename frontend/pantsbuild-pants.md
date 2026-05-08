@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 699 |
+| 🍴 **Forks** | 701 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws-lambda` `build` `build-system` `build-tool` `build-tools` `docker` `golang` `java` `javascript` `kotlin` `monorepo` `monorepos`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The Pants Build System is an open-source, scalable, and highly configurable build tool designed to manage complex software builds with ease. It provides a flexible and extensible framework for automating build processes, making it a valuable addition to any project requiring efficient and reliable build management. With Pants, developers can streamline their build workflows and focus on writing code, rather than managing manual build processes.
+pantsbuild/pants is a promising open-source project. Categories: Frontend, DevOps/Infra. Interest score: 87/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/pantsbuild/pants) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pantsbuild/pants) · [← Back to Frontend](./README.md)</sub>

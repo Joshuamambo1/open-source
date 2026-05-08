@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 120 |
-| 🍴 **Forks** | 11 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agents` `apis` `credential-manager` `jentic` `openclaw` `secrets-management` `vault`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the jentic-mini project:
-
-Jentic Mini is an open-source, self-hosted API execution layer that enables seamless communication between agents and external APIs. It takes care of finding the right API, injecting credentials securely, and facilitating the request process, allowing developers to focus on what their agents want to do. This solution simplifies API interactions and enhances security, making it an ideal choice for AI/ML and backend applications.
+jentic/jentic-mini is a promising open-source project. Categories: AI/ML, Backend. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jentic/jentic-mini) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jentic/jentic-mini) · [← Back to AI/ML](./README.md)</sub>

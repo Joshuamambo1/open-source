@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 20.8k |
-| 🍴 **Forks** | 930 |
+| 🍴 **Forks** | 932 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`git` `github` `tauri`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ gitbutlerapp/gitbutler is a promising open-source project. Categories: DevTools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/gitbutlerapp/gitbutler) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gitbutlerapp/gitbutler) · [← Back to DevTools](./README.md)</sub>

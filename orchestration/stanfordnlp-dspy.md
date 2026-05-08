@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 34.2k |
+| ⭐ **Stars** | 34.3k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Orchestration
 
 ## 📝 Summary
 
-Here's a brief summary for the DSPy project:
-
-DSPy is an open-source framework that enables users to directly program and control language models, bypassing the need for tedious prompting. This project offers a new approach to interacting with language models, empowering developers to create custom applications and workflows. By programming language models, DSPy simplifies the process of developing and deploying AI-powered solutions.
+stanfordnlp/dspy is a promising open-source project. Categories: Orchestration. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/stanfordnlp/dspy) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/stanfordnlp/dspy) · [← Back to Orchestration](./README.md)</sub>

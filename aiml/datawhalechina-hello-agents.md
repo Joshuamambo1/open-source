@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 42.6k |
-| 🍴 **Forks** | 5.2k |
+| ⭐ **Stars** | 43.7k |
+| 🍴 **Forks** | 5.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `llm` `rag` `tutorial`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The "hello-agents" project is an open-source guide to building intelligent agents from scratch, offering a comprehensive tutorial on the underlying principles and practices. This project, part of the DataWhaleChina initiative, aims to provide a hands-on learning experience for AI/ML enthusiasts and practitioners. By following this tutorial, users can gain a deeper understanding of intelligent agent development.
+datawhalechina/hello-agents is a promising open-source project. Categories: AI/ML, Data. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/datawhalechina/hello-agents) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/datawhalechina/hello-agents) · [← Back to AI/ML](./README.md)</sub>

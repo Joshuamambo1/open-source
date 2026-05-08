@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 401 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-testing` `cli` `hacktoberfest` `http-proxy` `mock-server` `mocking` `oas` `openapi` `openapi3` `postman-collection` `prism` `stoplight-oss`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The stoplightio/prism project is an open-source tool that enables the creation of a fully-fledged API server from OpenAPI2/3 and Postman Collection files. It offers features such as mocking, transformations, and validations, allowing developers to easily test and refine their APIs. With prism, users can streamline their API development workflow and ensure seamless integration and compatibility.
+stoplightio/prism is a promising open-source project. Categories: Backend, DevTools. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/stoplightio/prism) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/stoplightio/prism) · [← Back to Backend](./README.md)</sub>

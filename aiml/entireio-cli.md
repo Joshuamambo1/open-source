@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.2k |
-| 🍴 **Forks** | 320 |
+| 🍴 **Forks** | 327 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `claude` `developer` `developer-platform` `gemini`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Entire CLI is an open-source tool that seamlessly integrates with your Git workflow to record AI agent sessions alongside your code commits. This creates a searchable history of how your code was written, enabling you to track and learn from your development process. By capturing AI-driven interactions, Entire CLI provides valuable insights into your coding history.
+entireio/cli is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 82/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/entireio/cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/entireio/cli) · [← Back to AI/ML](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The shell-pool project, also known as shpool, is an open-source tool designed to provide a simple and efficient way to manage multiple shell sessions. Inspired by tmux, shpool aims to offer a more lightweight alternative for users who need to run and switch between multiple shell commands. This project is particularly useful for developers and data scientists working with AI/ML applications.
+shell-pool/shpool is a promising open-source project. Categories: AI/ML. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/shell-pool/shpool) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/shell-pool/shpool) · [← Back to AI/ML](./README.md)</sub>

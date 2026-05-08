@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 281 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitcoin` `blockchain` `cryptocurrency` `eclair` `lightning` `lightning-network` `payments`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Payments · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the ACINQ/eclair project:
-
-Eclair is an open-source implementation of the Lightning Network, a decentralized payment system built on top of the Bitcoin blockchain. Written in Scala, this project enables fast, low-cost, and secure peer-to-peer transactions. By utilizing the Lightning Network's off-chain scaling solution, eclair facilitates the efficient transfer of funds, increasing the overall usability of Bitcoin for everyday transactions.
+ACINQ/eclair is a promising open-source project. Categories: Crypto, Payments, AI/ML. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/ACINQ/eclair) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ACINQ/eclair) · [← Back to Crypto](./README.md)</sub>

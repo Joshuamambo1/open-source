@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 11.7k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `distributed-ledger-technology` `move` `smart-contracts`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Sui project:
-
-Sui is an open-source, next-generation smart contract platform that leverages the Move programming language to enable high-throughput and low-latency transactions. Built on an asset-oriented programming model, Sui empowers developers to create robust and scalable applications. This innovative platform has the potential to revolutionize the cryptocurrency and AI/ML industries.
+MystenLabs/sui is a promising open-source project. Categories: Crypto, AI/ML, Frontend. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/MystenLabs/sui) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/MystenLabs/sui) · [← Back to Crypto](./README.md)</sub>

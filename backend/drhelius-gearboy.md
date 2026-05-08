@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bsd` `emulation` `emulator` `game-boy` `gameboy` `gameboy-color-emulator` `gameboy-emulator` `libretro` `linux` `mcp` `mcp-server` `nintendo-gameboy`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Gearboy is an open-source emulator that supports the Game Boy, Game Boy Color, and Super Game Boy consoles, allowing users to play classic games on various platforms, including macOS, Windows, Linux, BSD, and RetroArch. This multi-platform emulator also features a built-in debugger for in-depth analysis and an embedded MCP server for remote control. With its extensive compatibility and customization options, Gearboy is a powerful tool for retro gaming enthusiasts and developers alike.
+drhelius/Gearboy is a promising open-source project. Categories: Backend. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/drhelius/Gearboy) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/drhelius/Gearboy) · [← Back to Backend](./README.md)</sub>

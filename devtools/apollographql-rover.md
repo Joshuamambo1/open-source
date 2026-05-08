@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apollo` `cli` `graphql` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Rover is an open-source CLI developed by Apollo GraphOS, providing a user-friendly interface for managing and interacting with the Apollo GraphOS platform. With Rover, users can streamline their workflow and efficiently accomplish tasks such as schema management, data modeling, and deployment. By leveraging Rover, developers can simplify their experience with Apollo GraphOS and focus on building high-quality applications.
+apollographql/rover is a promising open-source project. Categories: DevTools. Interest score: 50/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/apollographql/rover) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apollographql/rover) · [← Back to DevTools](./README.md)</sub>

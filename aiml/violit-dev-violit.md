@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 436 |
+| ⭐ **Stars** | 439 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `data-application` `data-science` `data-visualization` `deep-learning` `developer-tools` `fastapi` `framework` `frontend` `fullstack` `gui` `machine-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Violit is an open-source, pure Python web framework designed for simplicity and performance. Modeled after Streamlit, it eliminates the need for reruns, allowing developers to focus on building and deploying applications efficiently. This framework is suitable for a wide range of use cases, including AI/ML and web development.
+violit-dev/violit is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/violit-dev/violit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/violit-dev/violit) · [← Back to AI/ML](./README.md)</sub>

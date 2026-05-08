@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **13** |
+| 🗂️ **Total projects** | **2019** |
+| 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
 
@@ -18,34 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 70 | [Browse →](./aiml/) |
-| 📦 **Misc** | 33 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 19 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🔧 **DevTools** | 5 | [Browse →](./devtools/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
-| 📈 **Trading** | 1 | [Browse →](./trading/) |
-| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
-| 🧩 **Orchestration** | 1 | [Browse →](./orchestration/) |
+| 🤖 **AI/ML** | 774 | [Browse →](./aiml/) |
+| 📦 **Misc** | 344 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 202 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 192 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 103 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 103 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 87 | [Browse →](./crypto/) |
+| 📊 **Data** | 58 | [Browse →](./data/) |
+| 💳 **Payments** | 48 | [Browse →](./payments/) |
+| 📈 **Trading** | 32 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 28 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 23 | [Browse →](./mobile/) |
+| 🔐 **Security** | 13 | [Browse →](./security/) |
+| 🎯 **Product** | 6 | [Browse →](./product/) |
+| ✨ **Design** | 5 | [Browse →](./design/) |
+| 🏷️ **Marketing** | 1 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [langfuse/langfuse](./aiml/langfuse-langfuse.md) | ⭐ 25.3k | AI/ML |
-| 2 | [drawdb-io/drawdb](./aiml/drawdb-io-drawdb.md) | ⭐ 37.1k | AI/ML |
-| 3 | [getsentry/sentry](./aiml/getsentry-sentry.md) | ⭐ 43.6k | AI/ML |
-| 4 | [Fincept-Corporation/FinceptTerminal](./data/fincept-corporation-finceptterminal.md) | ⭐ 10.8k | Data |
-| 5 | [chatwoot/chatwoot](./aiml/chatwoot-chatwoot.md) | ⭐ 28.7k | AI/ML |
-| 6 | [usebruno/bruno](./backend/usebruno-bruno.md) | ⭐ 43.1k | Backend |
-| 7 | [ente-io/ente](./mobile/ente-io-ente.md) | ⭐ 26.1k | Mobile |
-| 8 | [nextcloud/server](./backend/nextcloud-server.md) | ⭐ 34.7k | Backend |
-| 9 | [koala73/worldmonitor](./aiml/koala73-worldmonitor.md) | ⭐ 50.7k | AI/ML |
-| 10 | [zaproxy/zaproxy](./security/zaproxy-zaproxy.md) | ⭐ 15k | Security |
+| 1 | [cvxpy/cvxpy](./misc/cvxpy-cvxpy.md) | ⭐ 6.2k | Misc |
+| 2 | [invoke-ai/InvokeAI](./aiml/invoke-ai-invokeai.md) | ⭐ 27.1k | AI/ML |
+| 3 | [astral-sh/ruff](./frontend/astral-sh-ruff.md) | ⭐ 47.4k | Frontend |
+| 4 | [bpftrace/bpftrace](./misc/bpftrace-bpftrace.md) | ⭐ 10.1k | Misc |
+| 5 | [ArduPilot/ardupilot](./misc/ardupilot-ardupilot.md) | ⭐ 15k | Misc |
+| 6 | [giampaolo/psutil](./misc/giampaolo-psutil.md) | ⭐ 11.2k | Misc |
+| 7 | [mudler/LocalAI](./aiml/mudler-localai.md) | ⭐ 46.1k | AI/ML |
+| 8 | [trinodb/trino](./data/trinodb-trino.md) | ⭐ 12.8k | Data |
+| 9 | [DioxusLabs/dioxus](./aiml/dioxuslabs-dioxus.md) | ⭐ 35.9k | AI/ML |
+| 10 | [seaweedfs/seaweedfs](./aiml/seaweedfs-seaweedfs.md) | ⭐ 32.1k | AI/ML |
 
 ## 🚀 How it works
 

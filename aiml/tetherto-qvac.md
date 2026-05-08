@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 162 |
+| ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `bare-runtime` `cross-platform` `embeddings` `llm` `local-ai` `native-addon` `open-source` `peer-to-peer` `privacy` `rag` `speech-to-text`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the tetherto/qvac project:
-
-QVAC is an open-source, local AI SDK and libraries that empower developers to build private, cross-platform, and peer-to-peer AI applications. With QVAC, users can run large language models, speech-to-text, translation, and other advanced AI capabilities locally across multiple platforms, including Linux, macOS, Windows, Android, and iOS. This innovative solution provides a secure and efficient way to harness AI power without relying on cloud services.
+tetherto/qvac is a promising open-source project. Categories: AI/ML, Frontend, Mobile. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/tetherto/qvac) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tetherto/qvac) · [← Back to AI/ML](./README.md)</sub>

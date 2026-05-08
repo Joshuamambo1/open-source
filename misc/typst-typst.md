@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 53.3k |
+| ⭐ **Stars** | 53.4k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `markup` `typesetting` `typst`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Typst is an open-source, markup-based typesetting system designed to be both powerful and user-friendly. This versatile tool allows users to focus on the content and structure of their documents, without being overwhelmed by complex formatting options. With Typst, users can create professional-grade typesetting with ease, making it an ideal choice for a wide range of applications.
+typst/typst is a promising open-source project. Categories: Misc. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/typst/typst) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/typst/typst) · [← Back to Misc](./README.md)</sub>

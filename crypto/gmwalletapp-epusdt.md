@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 937 |
+| 🍴 **Forks** | 936 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bnb` `crypto` `dujiaoka` `ethereum` `newapi` `payment` `payments` `polygon` `solana` `tron` `trx` `usdc`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Payments · Backend
 
 ## 📝 Summary
 
-Here is a brief summary of the project in English:
-
-The GMWalletApp/epusdt is an open-source, cross-platform payment gateway that facilitates easy USDT transactions. It is a backend solution designed for developers seeking a seamless and efficient way to integrate USDT payment functionality into their applications. This project aims to provide a user-friendly and scalable platform for USDT transactions.
+GMWalletApp/epusdt is a promising open-source project. Categories: Crypto, Payments, Backend. Interest score: 88/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/GMWalletApp/epusdt) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/GMWalletApp/epusdt) · [← Back to Crypto](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acrn` `containers` `cri` `cri-o` `docker` `firecracker` `k8s` `kubernetes` `kvm` `oci` `qemu` `security`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the kata-containers/kata-containers project:
-
-Kata Containers is an open-source project that aims to provide a lightweight virtual machine (VM) implementation, offering the security and isolation advantages of VMs while maintaining the performance and portability of containers. This innovative approach enables developers to enjoy the best of both worlds, achieving workload isolation and security while still benefiting from the speed and agility of containers. By joining the Kata Containers community, developers can contribute to and benefit from this standard implementation of lightweight VMs.
+kata-containers/kata-containers is a promising open-source project. Categories: AI/ML, Frontend, DevOps/Infra. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kata-containers/kata-containers) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kata-containers/kata-containers) · [← Back to AI/ML](./README.md)</sub>

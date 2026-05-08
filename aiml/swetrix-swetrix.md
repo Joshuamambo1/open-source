@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 966 |
-| 🍴 **Forks** | 56 |
+| ⭐ **Stars** | 968 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`charts` `clickhouse` `docker` `gdpr` `google-analytics` `metrics` `monitoring` `mysql` `nestjs` `privacy` `redis` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Swetrix is an open-source, self-hosted web analytics platform that prioritizes user privacy by eliminating the use of cookies. It offers comprehensive features, including website speed monitoring and error tracking, allowing users to gain valuable insights into their website's performance. With Swetrix, users can host their analytics service themselves or utilize a cloud-based solution.
+Swetrix/swetrix is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Swetrix/swetrix) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Swetrix/swetrix) · [← Back to AI/ML](./README.md)</sub>

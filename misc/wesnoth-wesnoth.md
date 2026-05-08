@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fantasy` `free` `game` `opensource` `strategy-game` `turn-based-strategy`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Wesnoth is a free, open-source, turn-based strategy game set in a high fantasy world. Players engage in epic battles, manage resources, and explore a rich narrative with multiple paths and endings. This engaging game offers a unique blend of strategy, role-playing elements, and immersive storytelling.
+wesnoth/wesnoth is a promising open-source project. Categories: Misc. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/wesnoth/wesnoth) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wesnoth/wesnoth) · [← Back to Misc](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 218 |
+| 🍴 **Forks** | 222 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a` `agentframework` `agentic` `agentic-ai` `agentic-framework` `agentic-workflow` `agenticai` `agents` `ai` `ai-agents` `aiagentframework` `aiframework`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the SolaceLabs/solace-agent-mesh project:
-
-SolaceLabs/solace-agent-mesh is an open-source, event-driven framework for building and orchestrating complex multi-agent AI systems. This framework enables seamless integration with real-world data sources and systems, facilitating the creation of intricate, multi-step workflows. By leveraging AI agents and real-world data, users can develop sophisticated, automated systems.
+SolaceLabs/solace-agent-mesh is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 78/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/SolaceLabs/solace-agent-mesh) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SolaceLabs/solace-agent-mesh) · [← Back to Orchestration](./README.md)</sub>

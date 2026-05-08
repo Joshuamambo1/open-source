@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adapter` `diffusion` `fine-tuning` `llm` `lora` `parameter-efficient-learning` `peft` `python` `pytorch` `transformers`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the huggingface/peft project:
-
-PEFT (Parameter-Efficient Fine-Tuning) is an open-source project that enables state-of-the-art parameter-efficient fine-tuning of large pre-trained models for various natural language processing tasks. This project leverages techniques like sparse attention, layer dropping, and vector quantization to reduce the computational requirements and memory footprint of fine-tuning, making it more efficient and scalable. With PEFT, developers can fine-tune pre-trained models with minimal additional parameters, achieving high performance with reduced compute costs.
+huggingface/peft is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/huggingface/peft) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/huggingface/peft) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 200 |
+| ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `benchmark` `comparison-benchmarks` `llm` `lmarena` `minecraft` `nlp` `voxel`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Minebench is a Minecraft-style voxel benchmark designed for comparing AI models in both Arena and Sandbox environments. This open-source project provides a realistic evaluation framework for AI models, allowing researchers to assess their performance in complex, real-world scenarios. By leveraging a voxel-based game engine, Minebench enables the development of more robust and efficient AI models for various applications.
+Minecraft-style Voxel Benchmark is an open-source project aimed at comparing AI models by simulating two environments: Arena and Sandbox. This benchmark allows for the evaluation of AI performance in generating 3D voxel scenes, providing a useful tool for researchers and developers in the field of Artificial Intelligence (AI) and Machine Learning (ML). By leveraging Minecraft-style voxel data, users can gain insights into AI model efficiency and accuracy.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Ammaar-Alam/minebench) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Ammaar-Alam/minebench) · [← Back to AI/ML](./README.md)</sub>

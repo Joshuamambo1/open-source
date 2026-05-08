@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54.6k |
+| ⭐ **Stars** | 54.7k |
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`coolify` `databases` `deployment` `docker` `docker-compose` `inertiajs` `laravel` `mariadb` `mysql` `nextjs` `nodejs` `php`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the coolify project:
-
-Coolify is an open-source, self-hosted platform-as-a-service solution that allows users to deploy a wide range of applications and services on their own servers. This includes static sites, databases, full-stack applications, and over 280 one-click services, providing a flexible alternative to proprietary platforms like Vercel, Heroku, and Netlify. By hosting your own services, you maintain control and autonomy over your digital infrastructure.
+coollabsio/coolify is a promising open-source project. Categories: Backend, DevTools, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/coollabsio/coolify) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/coollabsio/coolify) · [← Back to Backend](./README.md)</sub>

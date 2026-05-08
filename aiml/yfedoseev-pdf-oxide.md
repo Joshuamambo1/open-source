@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 720 |
+| ⭐ **Stars** | 725 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`data-extraction` `document-processing` `fast` `image-extraction` `llm` `markdown` `pdf` `pdf-editor` `pdf-generation` `pdf-library` `pdf-parser` `pdf-to-markdown`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the yfedoseev/pdf_oxide project:
-
-pdf_oxide is a high-performance, open-source PDF library for Python and Rust that enables fast and efficient text and image extraction, markdown conversion, and PDF creation and editing. With a mean processing time of 0.8ms and a 100% pass rate on 3,830 PDFs, it outperforms industry leaders by a factor of five. This library is released under the MIT and Apache-2.0 licenses.
+yfedoseev/pdf_oxide is a promising open-source project. Categories: AI/ML, DevTools, Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/yfedoseev/pdf_oxide) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/yfedoseev/pdf_oxide) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10.6k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aspnetcore` `dotnet` `hacktoberfest` `help-wanted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-dotnet/aspnetcore is a promising open-source project. Categories: Frontend. Interest score: 95/100.
+ASP.NET Core is an open-source, cross-platform .NET framework for building modern, cloud-based web applications on various operating systems, including Windows, Mac, and Linux. It enables developers to create fast, scalable, and secure web applications using a wide range of programming languages. With ASP.NET Core, developers can take advantage of a flexible and modular framework for building web applications that run on multiple platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/dotnet/aspnetcore) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dotnet/aspnetcore) · [← Back to Frontend](./README.md)</sub>

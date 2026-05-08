@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alloy` `blockchain` `bytecode` `compiler` `compilers` `dapp` `eth` `ethereum` `evm` `framework` `fuzzing` `ir`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-Foundry is an open-source toolkit for Ethereum application development written in Rust, providing a fast, portable, and modular framework. It enables developers to create, deploy, and manage Ethereum applications with ease. Foundry's Rust-based architecture ensures scalability, flexibility, and high-performance capabilities for efficient Ethereum development.
+foundry-rs/foundry is a promising open-source project. Categories: Crypto, AI/ML, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/foundry-rs/foundry) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/foundry-rs/foundry) · [← Back to Crypto](./README.md)</sub>

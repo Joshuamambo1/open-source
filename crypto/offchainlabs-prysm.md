@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ethereum`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-OffchainLabs/prysm is an open-source project that provides a Go implementation of Ethereum's proof of stake (PoS) consensus algorithm. This project aims to support the development of a secure, scalable, and decentralized Ethereum network. By utilizing a proof of stake model, prysm enables faster transaction processing and reduced energy consumption compared to traditional proof of work systems.
+OffchainLabs/prysm is a promising open-source project. Categories: Crypto, AI/ML. Interest score: 83/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/OffchainLabs/prysm) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/OffchainLabs/prysm) · [← Back to Crypto](./README.md)</sub>

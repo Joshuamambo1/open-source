@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bundler` `npm` `rust` `toolchain` `turbopack` `webpack`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The utooland/utoo project is an open-source, unified toolchain designed to streamline web development. By integrating various tools and technologies, it aims to simplify the development process, enhance productivity, and accelerate web development workflows. This AI/ML-focused toolchain is a valuable resource for developers seeking to optimize their web development experience.
+utooland/utoo is a promising open-source project. Categories: AI/ML. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/utooland/utoo) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/utooland/utoo) · [← Back to AI/ML](./README.md)</sub>

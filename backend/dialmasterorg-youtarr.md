@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automation` `emby` `jellyfin` `kodi` `plex` `plex-media-server` `scheduler` `self-hosted` `youtube-downloader` `yt-dlp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Youtarr project:
+Here's a brief summary for the open-source project:
 
-Youtarr is a self-hosted web application that simplifies managing YouTube channel content by automating the download, organization, and scheduling processes. It offers seamless integration with popular media centers such as Plex, Kodi, Emby, and Jellyfin, allowing users to easily access and stream their favorite content. With Youtarr, users can consolidate their media management tasks into a centralized, open-source solution.
+Youtarr is a self-hosted web application that enables users to automate the process of downloading, organizing, and scheduling YouTube channel content from various platforms. It supports seamless integration with popular media centers like Plex, Kodi, Emby, and Jellyfin, making it a convenient solution for media enthusiasts. With Youtarr, users can effortlessly manage their YouTube content and ensure that their media libraries are always up-to-date.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/DialmasterOrg/Youtarr) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/DialmasterOrg/Youtarr) · [← Back to Backend](./README.md)</sub>

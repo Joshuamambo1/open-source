@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.6k |
-| 🍴 **Forks** | 597 |
+| 🍴 **Forks** | 599 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `billing` `clickhouse` `events` `fintech` `go` `ingestion` `invoices` `metering` `open-source` `payments` `pricing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · Orchestration · Frontend
 
 ## 📝 Summary
 
-The Lago project is an open-source, API-driven platform for metering and usage-based billing. It offers a comprehensive suite of features, including consumption tracking, subscription management, pricing iterations, payment orchestration, and revenue analytics. By utilizing Lago, developers can create and manage scalable billing systems with precision and control.
+getlago/lago is a promising open-source project. Categories: Payments, Orchestration, Frontend. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/getlago/lago) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/getlago/lago) · [← Back to Payments](./README.md)</sub>

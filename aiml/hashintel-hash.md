@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `database` `graph` `hash` `rust` `simulation` `type-system` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the hashintel/hash project:
-
-Hashintel/hash is an open-source, multi-tenant platform that empowers users to build their own knowledge graphs and simulations. This innovative platform enables self-directed knowledge graph construction, fostering a dynamic environment for testing and experimentation with AI and ML applications. With hashintel/hash, users can create tailored knowledge graphs to suit their unique needs and simulate complex scenarios with ease.
+hashintel/hash is a promising open-source project. Categories: AI/ML, Frontend, Data. Interest score: 63/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hashintel/hash) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hashintel/hash) · [← Back to AI/ML](./README.md)</sub>

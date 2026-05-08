@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.3k |
-| 🍴 **Forks** | 75 |
+| 🍴 **Forks** | 76 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The Kotlin LSP (Language Server Protocol) project is an open-source initiative that provides a language server for the Kotlin programming language. This project enables robust language features and development tools in various integrated development environments (IDEs), including Visual Studio Code, through the Language Server Protocol (LSP). It allows for a more efficient and feature-rich coding experience for Kotlin developers.
+Kotlin/kotlin-lsp is a promising open-source project. Categories: Backend. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Kotlin/kotlin-lsp) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Kotlin/kotlin-lsp) · [← Back to Backend](./README.md)</sub>

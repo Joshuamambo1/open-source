@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 825 |
-| 🍴 **Forks** | 19 |
+| ⭐ **Stars** | 841 |
+| 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asn` `bgp` `bimi` `cli` `core-web-vitals` `cwv` `dkim` `dmarc` `dns` `domain` `golang` `ip-lookup`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The quién project is an open-source, comprehensive whois and domain intelligence toolkit designed to provide users with detailed insights and information about domain names. This powerful tool utilizes AI/ML capabilities to offer advanced features and analysis, making it an essential resource for domain registrars, registrants, and security professionals. By leveraging a robust backend and user-friendly frontend, quién streamlines domain research and intelligence gathering.
+retlehs/quien is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/retlehs/quien) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/retlehs/quien) · [← Back to AI/ML](./README.md)</sub>

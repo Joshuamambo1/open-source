@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8.8k |
 | 💻 **Language** | C |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`embedded` `microcontroller` `micropython` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the MicroPython project:
-
-MicroPython is an open-source, lean, and efficient implementation of the Python programming language designed for microcontrollers and constrained systems. It aims to provide a simple and intuitive interface for creating embedded applications, allowing developers to easily interact with hardware components and sensors. By leveraging MicroPython, developers can create efficient and effective solutions for IoT, robotics, and other embedded systems applications.
+micropython/micropython is a promising open-source project. Categories: AI/ML. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/micropython/micropython) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/micropython/micropython) · [← Back to AI/ML](./README.md)</sub>

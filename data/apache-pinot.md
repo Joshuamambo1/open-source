@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`java`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Apache Pinot is an open-source, real-time distributed OLAP (Online Analytical Processing) datastore designed to efficiently handle large-scale analytics workloads. It enables fast query performance, scalability, and flexibility, making it suitable for various applications such as IoT, gaming, and real-time analytics. By leveraging its distributed architecture, Pinot can handle high-volume data streams and provide instant insights for data-driven decision-making.
+apache/pinot is a promising open-source project. Categories: Data. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/apache/pinot) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apache/pinot) · [← Back to Data](./README.md)</sub>

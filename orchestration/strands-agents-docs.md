@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 188 |
-| 🍴 **Forks** | 217 |
+| 🍴 **Forks** | 218 |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `agentic-ai` `agents` `ai` `anthropic` `autonomous-agents` `bedrock` `genai` `litellm` `llama` `llm` `machine-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The Strands Agents SDK is an open-source project that utilizes a model-driven approach to enable the rapid development of AI agents through minimal code. This framework provides a streamlined way to build and deploy sophisticated AI agents, making it an ideal choice for developers looking to integrate AI capabilities into their projects. With its intuitive interface, users can create and customize AI agents in a few lines of code, simplifying the process of AI development.
+strands-agents/docs is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/strands-agents/docs) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/strands-agents/docs) · [← Back to Orchestration](./README.md)</sub>

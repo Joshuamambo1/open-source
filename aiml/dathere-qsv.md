@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ckan` `csv` `data-engineering` `data-wrangling` `dcat` `excel` `fair-data` `fairification` `geocode` `luau` `metadata`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The dathere/qsv project is an open-source, high-performance data-wrangling toolkit designed to efficiently manage and manipulate large datasets. This powerful tool is ideal for AI/ML applications, providing blazing-fast data processing capabilities and streamlining complex data operations. With its robust functionality, qsv empowers data scientists and analysts to work more efficiently and effectively.
+dathere/qsv is a promising open-source project. Categories: AI/ML, Data. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/dathere/qsv) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dathere/qsv) · [← Back to AI/ML](./README.md)</sub>

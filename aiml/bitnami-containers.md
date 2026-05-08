@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.8k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitnami` `containers` `docker` `docker-image` `non-root` `vmware`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The bitnami/containers project provides open-source, pre-configured container images for various applications and services, simplifying the deployment of popular software on container platforms like Kubernetes and Docker. These images are optimized for ease of use and come with Bitnami's expertise in packaging and configuring applications for production environments. By leveraging this project, developers can quickly build and deploy containerized applications with reduced setup and maintenance burdens.
+bitnami/containers is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bitnami/containers) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bitnami/containers) · [← Back to AI/ML](./README.md)</sub>

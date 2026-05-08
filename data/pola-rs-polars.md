@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arrow` `dataframe` `dataframe-library` `dataframes` `out-of-core` `polars` `python` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Polars is an open-source, ultra-fast query engine for DataFrames, developed in Rust. It provides efficient and scalable data processing capabilities, empowering users to manipulate and analyze large datasets with ease. With its focus on performance and simplicity, Polars enables data professionals to accelerate their workflows and unlock valuable insights from their data.
+pola-rs/polars is a promising open-source project. Categories: Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/pola-rs/polars) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pola-rs/polars) · [← Back to Data](./README.md)</sub>

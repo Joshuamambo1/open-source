@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 114 |
-| 🍴 **Forks** | 19 |
+| ⭐ **Stars** | 116 |
+| 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-email` `agent-sms` `agenticmail` `ai` `ai-agent` `email` `google-voice` `imap` `llm` `mail` `mcp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the agenticmail project:
-
-agenticmail is an open-source project that provides a robust email and SMS infrastructure for AI agents, enabling seamless programmatic sending and receiving of real messages. This infrastructure empowers developers to build more sophisticated AI applications by integrating with the physical world through email and text messaging. By utilizing agenticmail, developers can create more intuitive and effective AI experiences.
+agenticmail/agenticmail is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/agenticmail/agenticmail) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/agenticmail/agenticmail) · [← Back to AI/ML](./README.md)</sub>

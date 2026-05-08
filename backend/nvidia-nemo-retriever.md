@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 319 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the NVIDIA/NeMo-Retriever project:
-
-The NVIDIA/NeMo-Retriever library is a high-performance, open-source microservice for extracting content and metadata from documents. Leveraging NVIDIA's NIM technology, it enables the identification, contextualization, and extraction of text, tables, charts, and images. This scalable solution facilitates the use of extracted data in downstream generative applications.
+NVIDIA/NeMo-Retriever is a promising open-source project. Categories: Backend, Data. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/NVIDIA/NeMo-Retriever) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/NVIDIA/NeMo-Retriever) · [← Back to Backend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-native` `golang` `kubernetes` `linkerd` `rust` `service-mesh`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the linkerd/linkerd2 project:
+Here's a brief summary for the linkerd/linkerd2 project:
 
-Linkerd2 is an open-source service mesh designed for Kubernetes, prioritizing security and ultralight performance. It provides a robust infrastructure for service-to-service communication, enabling features like traffic management, observability, and security. By integrating with Kubernetes, Linkerd2 simplifies the management of microservices and enhances the overall reliability and scalability of cloud-native applications.
+Linkerd2 is an open-source, ultralight service mesh designed specifically for Kubernetes environments, prioritizing security and efficiency. This project provides a robust platform for managing network communication and traffic flow between microservices, ensuring seamless integration and scalability. With its strong focus on security, Linkerd2 helps protect against potential attacks and data breaches in containerized applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/linkerd/linkerd2) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/linkerd/linkerd2) · [← Back to AI/ML](./README.md)</sub>

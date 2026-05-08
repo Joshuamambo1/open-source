@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `go` `proxy` `self-hosted` `tailscale` `vpn`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The Tailscale Docker Proxy is an open-source project that enables seamless integration with Tailscale, a zero-config VPN for remote teams and applications. This project allows users to proxy Docker traffic through Tailscale, ensuring secure and efficient communication between containers and the outside world. By leveraging Tailscale's capabilities, the proxy provides a simple and reliable solution for Docker-based infrastructure.
+almeidapaulopt/tsdproxy is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/almeidapaulopt/tsdproxy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/almeidapaulopt/tsdproxy) · [← Back to AI/ML](./README.md)</sub>

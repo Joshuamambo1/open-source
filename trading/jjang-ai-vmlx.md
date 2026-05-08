@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 454 |
+| ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic-api` `kvcache-compression` `kvcache-optimization` `kvcache-reuse` `llm` `lmstudio` `macbook` `mcp-server` `mlx` `mlxllm` `mlxstudio` `omlx`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
-The vMLX project is an open-source platform that serves as the foundation for the JANG_Q and VL components, powering MLX Studio. It provides features like image generation and editing, as well as integration with OpenAI and Anth, making it suitable for AI/ML and trading applications. vMLX also offers a quantified key-value cache and other advanced backend capabilities.
+jjang-ai/vmlx is a promising open-source project. Categories: Trading, AI/ML, Backend. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jjang-ai/vmlx) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jjang-ai/vmlx) · [← Back to Trading](./README.md)</sub>

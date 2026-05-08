@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.4k |
+| ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Makefile |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Buildroot is an open-source project that simplifies the process of creating custom Linux distributions for embedded systems. It provides a flexible and easy-to-use build system, allowing developers to quickly create and customize a tailored Linux build for their specific needs. This mirror repository is a convenient point of access for Buildroot, although official updates and contributions should be directed to the project's main GitLab repository.
+buildroot/buildroot is a promising open-source project. Categories: Frontend. Interest score: 79/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/buildroot/buildroot) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/buildroot/buildroot) · [← Back to Frontend](./README.md)</sub>

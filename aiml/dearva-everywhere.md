@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.9k |
-| 🍴 **Forks** | 363 |
+| 🍴 **Forks** | 364 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `avalonia` `chat` `claude` `cowork` `deepseek` `gemini` `llm` `mcp` `ollama` `openai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-DearVa/Everywhere is an open-source, context-aware AI assistant designed to provide intelligent responses on your desktop. It seamlessly integrates multiple large language models (LLMs) and machine creativity partnership (MCP) tools to offer a comprehensive and intuitive experience. This project aims to bring AI-driven assistance to users, making it a valuable tool for productivity and convenience.
+DearVa/Everywhere is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/DearVa/Everywhere) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/DearVa/Everywhere) · [← Back to AI/ML](./README.md)</sub>

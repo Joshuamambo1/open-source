@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-n8n is an open-source automation tool that enables users to build and customize workflows with AI functionality, offering a free community edition and enterprise options. This fair-code licensed project is designed to provide a powerful and flexible platform for automating tasks and integrating AI capabilities. With n8n, users can streamline their workflows and unlock new possibilities for process automation and AI-driven decision-making.
+n8n-io/n8n-docs is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/n8n-io/n8n-docs) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/n8n-io/n8n-docs) · [← Back to AI/ML](./README.md)</sub>

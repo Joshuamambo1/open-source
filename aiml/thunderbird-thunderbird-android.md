@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `communication` `email` `mozilla`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-Thunderbird for Android is an open-source email app that allows users to access their email accounts on their mobile devices. Originally known as K-9 Mail, this project provides a secure and customizable email experience, with features such as IMAP and POP3 support and encryption capabilities. As an open-source project, users can contribute to the development and enhancement of the app.
+thunderbird/thunderbird-android is a promising open-source project. Categories: AI/ML, Mobile. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/thunderbird/thunderbird-android) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/thunderbird/thunderbird-android) · [← Back to AI/ML](./README.md)</sub>

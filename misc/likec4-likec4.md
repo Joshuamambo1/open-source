@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 203 |
+| 🍴 **Forks** | 204 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`architecture` `architecture-as-code` `c4` `diagrams`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Likec4 is an open-source project that enables users to visualize, collaborate, and evolve software architecture in real-time. It generates live and actual diagrams from code, allowing developers to easily understand and manage complex systems. This project aims to streamline the process of software architecture development and maintenance.
+likec4/likec4 is a promising open-source project. Categories: Misc. Interest score: 70/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/likec4/likec4) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/likec4/likec4) · [← Back to Misc](./README.md)</sub>

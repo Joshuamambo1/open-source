@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 335 |
-| 🍴 **Forks** | 27 |
+| ⭐ **Stars** | 351 |
+| 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `architecture` `code-analysis` `code-quality` `developer-tools` `javascript` `linter` `python` `static-analysis` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the truecourse project:
-
-Truecourse is an open-source AI-powered tool for architecture analysis and code intelligence. It provides a comprehensive set of features to detect issues such as circular dependencies, layer violations, and dead modules, helping developers to improve the maintainability and scalability of their codebase. With both web UI and CLI interfaces, truecourse offers a convenient and accessible solution for developers to gain insights into their project's architecture.
+truecourse-ai/truecourse is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/truecourse-ai/truecourse) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/truecourse-ai/truecourse) · [← Back to AI/ML](./README.md)</sub>

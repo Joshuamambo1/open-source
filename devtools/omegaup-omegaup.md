@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 343 |
-| 🍴 **Forks** | 530 |
+| 🍴 **Forks** | 529 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The omegaUp project is an open-source, automatic programming contest evaluator and arena designed to facilitate competitive programming events. It allows users to easily create, host, and manage programming contests, providing a comprehensive platform for evaluating submissions and tracking progress. This project is particularly useful for organizers of coding challenges, hackathons, and other competitive programming events.
+OmegaUp is an open-source, automatic programming contest evaluator and arena designed to host and judge programming challenges. It provides a platform for users to create, participate in, and manage contests, making it a valuable tool for developers, educators, and contest organizers. With OmegaUp, users can easily create and manage contests, evaluate submissions, and track rankings in a fair and efficient manner.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/omegaup/omegaup) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/omegaup/omegaup) · [← Back to DevTools](./README.md)</sub>

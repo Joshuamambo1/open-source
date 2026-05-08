@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `api` `automation` `embedded-ipaas` `hacktoberfest` `integrations` `ipaas` `java` `llm` `low-code` `mcp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the bytechefhq/bytechef project:
-
-Bytechef is an open-source, AI-native platform that enables low-code API orchestration, workflow automation, and AI agent integration across various internal systems and cloud-based services. This platform streamlines complex processes, empowering users to build, deploy, and manage efficient integrations with minimal coding requirements. By leveraging AI capabilities, Bytechef enhances productivity and reduces the time spent on tedious integration tasks.
+bytechefhq/bytechef is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bytechefhq/bytechef) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bytechefhq/bytechef) · [← Back to Orchestration](./README.md)</sub>

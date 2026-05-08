@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 881 |
-| 🍴 **Forks** | 89 |
+| ⭐ **Stars** | 883 |
+| 🍴 **Forks** | 90 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `arcade` `arcade-ai` `claude` `claude-code` `claude-mcp` `mcp` `mcp-framework` `mcp-gateway` `mcp-runtime` `mcp-server` `mcp-servers`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-ArcadeAI/arcade-mcp is an open-source project that enables users to create, deploy, and share servers for MCP (Minecraft Coder Pack) with ease. This project simplifies the process of working with MCP servers, making it an ideal tool for developers and content creators in the Minecraft community. By leveraging arcade-mcp, users can quickly set up and manage their MCP servers, streamlining their workflow and collaboration.
+ArcadeAI/arcade-mcp is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ArcadeAI/arcade-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ArcadeAI/arcade-mcp) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 982 |
-| 🍴 **Forks** | 205 |
+| 🍴 **Forks** | 204 |
 | 💻 **Language** | C |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`clusters-management` `devtools` `hpc` `linuxfoundation` `mpi` `package-repository` `scientific-computing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-OpenHPC is an open-source project that provides a unified integration, packaging, and testing environment for High-Performance Computing (HPC) systems. This repository offers a standardized framework for building and deploying scalable HPC clusters, streamlining the process for administrators and researchers alike. By leveraging OpenHPC, users can efficiently manage and optimize their HPC infrastructure.
+openhpc/ohpc is a promising open-source project. Categories: DevTools. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/openhpc/ohpc) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openhpc/ohpc) · [← Back to DevTools](./README.md)</sub>

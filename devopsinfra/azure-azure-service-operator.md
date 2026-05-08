@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 897 |
+| ⭐ **Stars** | 898 |
 | 🍴 **Forks** | 243 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`azure` `kubernetes` `kubernetes-operators` `operators` `service`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ Azure/azure-service-operator is a promising open-source project. Categories: Dev
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Azure/azure-service-operator) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Azure/azure-service-operator) · [← Back to DevOps & Infra](./README.md)</sub>

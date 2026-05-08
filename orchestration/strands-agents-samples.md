@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 755 |
-| 🍴 **Forks** | 396 |
+| 🍴 **Forks** | 397 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `agentic-ai` `agents` `ai` `anthropic` `autonomous-agents` `bedrock` `genai` `litellm` `llama` `llm` `machine-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The strands-agents/samples project is an open-source collection of agent samples built using the Strands Agents SDK. This repository serves as a starting point for developers to learn and experiment with the SDK, allowing them to create and customize their own agents for orchestration, AI/ML, and frontend applications. With these samples, users can gain hands-on experience and accelerate their development process.
+strands-agents/samples is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 61/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/strands-agents/samples) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/strands-agents/samples) · [← Back to Orchestration](./README.md)</sub>

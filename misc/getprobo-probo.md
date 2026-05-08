@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 160 |
+| 🍴 **Forks** | 161 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compliance` `gdpr` `grc` `hipaa` `iso27001` `iso27701` `iso42001` `soc2`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The getprobo/probo project offers open-source solutions for organizations to comply with various security and data protection standards, including SOC2, GDPR, and ISO27001. This initiative aims to provide accessible and cost-effective resources for businesses to manage their security and compliance requirements. By leveraging open-source technology, the project facilitates a more affordable and transparent approach to meeting regulatory demands.
+getprobo/probo is a promising open-source project. Categories: Misc. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/getprobo/probo) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/getprobo/probo) · [← Back to Misc](./README.md)</sub>

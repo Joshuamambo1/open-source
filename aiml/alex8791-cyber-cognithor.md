@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 127 |
-| 🍴 **Forks** | 19 |
+| ⭐ **Stars** | 129 |
+| 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-os` `ai-agent` `anthropic` `autonomous-agent` `discord-bot` `document-analysis` `gdpr-compliant` `gemini` `hierarchical-retrieval` `knowledge-graph` `knowledge-synthesis` `knowledge-vault`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the Cognithor project:
-
-Cognithor is an open-source, local-first autonomous agent operating system that empowers users to build and deploy AI-powered applications with unprecedented control and customization. This comprehensive platform integrates 19 leading Large Language Models, 18 channels, and 145 Machine Control Panel (MCP) tools, providing a robust foundation for AI development. With its zero-telemetry design and Agent Packs marketplace, Cognithor prioritizes user autonomy and data sovereignty.
+Alex8791-cyber/cognithor is a promising open-source project. Categories: AI/ML. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Alex8791-cyber/cognithor) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Alex8791-cyber/cognithor) · [← Back to AI/ML](./README.md)</sub>

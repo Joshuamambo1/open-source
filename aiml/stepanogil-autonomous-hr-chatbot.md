@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `ai-agents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, 'autonomous-hr-chatbot', is an AI-driven platform designed to automate Human Resources management through intelligent chatbots. Developed by stepanogil, it enables seamless interactions between HR teams and employees, streamlining tasks such as recruitment, onboarding, and support. Its inclusion in 'awesome-ai-agents' highlights its potential for advancing AI-powered HR solutions.
+Here's a brief summary for the open-source project:
+
+This project, "autonomous-hr-chatbot," is an open-source initiative that utilizes AI/ML capabilities to develop an autonomous HR chatbot. Listed in the "awesome-ai-agents" repository, it aims to provide a cutting-edge solution for automating HR-related tasks and interactions. The project's goal is to revolutionize HR processes with the power of AI and ML.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/stepanogil/autonomous-hr-chatbot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/stepanogil/autonomous-hr-chatbot) · [← Back to AI/ML](./README.md)</sub>

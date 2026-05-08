@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 248 |
+| 🍴 **Forks** | 249 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The Vercel Workflow SDK is an open-source project that enables developers to build robust, reliable, and observable applications and AI Agents using TypeScript. This SDK provides a robust foundation for creating durable applications that integrate AI capabilities, allowing for seamless scalability and maintenance. By leveraging the Workflow SDK, developers can craft high-performance applications that excel in AI-driven solutions.
+vercel/workflow is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/vercel/workflow) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vercel/workflow) · [← Back to AI/ML](./README.md)</sub>

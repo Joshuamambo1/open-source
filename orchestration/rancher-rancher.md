@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.5k |
+| ⭐ **Stars** | 25.6k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cattle` `containers` `docker` `kubernetes` `orchestration` `rancher`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Rancher is an open-source container management platform that offers a comprehensive set of tools for managing and orchestrating containerized applications. This complete platform enables users to deploy, manage, and secure containers across multiple environments, providing a powerful and flexible solution for DevOps teams and organizations. With Rancher, users can simplify their container management experience and focus on developing and deploying applications.
+rancher/rancher is a promising open-source project. Categories: Orchestration, AI/ML, DevOps/Infra. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/rancher/rancher) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rancher/rancher) · [← Back to Orchestration](./README.md)</sub>

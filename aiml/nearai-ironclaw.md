@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.1k |
+| ⭐ **Stars** | 12.2k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`codeact` `openclaw` `rlm` `rust` `wasm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project IronClaw:
-
-IronClaw is an open-source, Rust-based implementation of a secure artificial intelligence (AI) framework, inspired by OpenClaw. Focused on prioritizing user privacy and security, IronClaw provides a robust and trustworthy foundation for AI and machine learning (ML) applications. By leveraging Rust's strong security features, IronClaw offers an innovative solution for developers seeking to build secure and confidential AI systems.
+nearai/ironclaw is a promising open-source project. Categories: AI/ML, Security. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nearai/ironclaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nearai/ironclaw) · [← Back to AI/ML](./README.md)</sub>

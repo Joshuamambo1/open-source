@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 729 |
+| ⭐ **Stars** | 730 |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`computational-imaging` `computed-tomography` `deblurring` `deep-equilibrium-models` `deep-learning` `diffusion-models` `image-processing` `image-reconstruction` `imaging` `inverse-problems` `mri` `plug-and-play`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-deepinv/deepinv is a promising open-source project. Categories: Frontend. Interest score: 57/100.
+deepinv/deepinv is a promising open-source project. Categories: Frontend. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/deepinv/deepinv) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/deepinv/deepinv) · [← Back to Frontend](./README.md)</sub>

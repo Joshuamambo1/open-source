@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 633 |
+| ⭐ **Stars** | 637 |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a` `agentic-ai` `agents` `ans` `documentdb` `ecs` `ecs-fargate` `entra-id` `fgac` `mcp` `mcp-gateway` `mcp-registry`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The MCP Gateway & Registry is an enterprise-ready, open-source solution that centralizes AI development tools and provides secure access through OAuth authentication. This project enables dynamic tool discovery and unified access for both autonomous AI agents and AI coding assistants, promoting a governed and auditable tool access environment. With seamless integration with Keycloak/Entra, it helps transform scattered MCP server chaos into a streamlined, secure, and scalable ecosystem.
+agentic-community/mcp-gateway-registry is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/agentic-community/mcp-gateway-registry) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/agentic-community/mcp-gateway-registry) · [← Back to AI/ML](./README.md)</sub>

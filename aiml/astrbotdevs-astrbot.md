@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31.4k |
+| ⭐ **Stars** | 31.6k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `chatbot` `chatgpt` `discord` `docker` `gemini` `gpt` `llama` `llm` `mcp` `openai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-AstrBot is an open-source AI Agent Assistant that integrates various instant messaging platforms, Large Language Models (LLMs), plugins, and AI features. It serves as a versatile alternative to openclaw, offering a comprehensive platform for users to manage multiple tasks and interactions. AstrBot's modular architecture enables developers to extend its capabilities through plugins and customization.
+AstrBotDevs/AstrBot is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/AstrBotDevs/AstrBot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/AstrBotDevs/AstrBot) · [← Back to AI/ML](./README.md)</sub>

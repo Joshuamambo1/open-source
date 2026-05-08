@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 505 |
-| 🍴 **Forks** | 79 |
+| 🍴 **Forks** | 80 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Backend
 
 ## 📝 Summary
 
-Omicron is an open-source control plane project, specifically designed for oxide systems. It provides centralized management and control over oxide layers, enabling users to efficiently monitor, configure, and optimize oxide-based systems. By leveraging Omicron, developers can streamline the process of managing complex oxide systems and unlock their full potential.
+Here's a brief summary for the open-source project oxidecomputer/omicron:
+
+Omicron is an open-source control plane designed by oxidecomputer, focusing on oxide-based systems. It provides a flexible and scalable framework for managing oxide-based hardware, enabling efficient and reliable operation of these systems. With Omicron, developers can build and manage complex oxide-based infrastructure with ease.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/oxidecomputer/omicron) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/oxidecomputer/omicron) · [← Back to Backend](./README.md)</sub>

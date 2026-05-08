@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 153 |
+| 🍴 **Forks** | 154 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`billing` `clickhouse` `events` `go` `hacktoberfest` `kafka` `postgresql` `pricing` `stripe` `stripe-subscriptions` `subscription-management` `temporal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · Frontend · DevTools
 
 ## 📝 Summary
 
-Flexprice is an open-source project that enables usage-based pricing and billing for developers, offering a no-code UI and real-time usage metering. This cloud or self-hosted solution allows for control over feature access and comes with features such as credits, top-ups, and secure access management. It serves as a versatile tool for managing payments and frontend development tools.
+flexprice/flexprice is a promising open-source project. Categories: Payments, Frontend, DevTools. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/flexprice/flexprice) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/flexprice/flexprice) · [← Back to Payments](./README.md)</sub>

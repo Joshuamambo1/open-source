@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 415 |
+| ⭐ **Stars** | 416 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `anamolyco` `artificial-analysis` `benchmarks` `claude-code` `codex` `coding-agents` `gemini-cli` `llm` `models` `models-dev` `openclaw`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The arimxyer/models project is an open-source initiative that provides a Text-Based User Interface (TUI) and Command-Line Interface (CLI) for interacting with AI models, benchmarks, coding agents, and status updates from various AI providers. This project aims to streamline the exploration and utilization of AI services for developers and professionals in the field. By offering a user-friendly interface, arimxyer/models facilitates access to the vast landscape of AI models and tools.
+arimxyer/models is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/arimxyer/models) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/arimxyer/models) · [← Back to AI/ML](./README.md)</sub>

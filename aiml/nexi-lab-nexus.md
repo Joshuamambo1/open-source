@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 226 |
+| ⭐ **Stars** | 227 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-memory` `context-engineering` `context-store` `filesystem` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Nexus is an open-source AI/ML project that aims to create a collaborative platform where humans and agents can connect, work together, and evolve as a collective entity. This shared ecosystem enables seamless interaction, knowledge sharing, and mutual growth between various stakeholders. By fostering a harmonious exchange of ideas and expertise, Nexus seeks to unlock new possibilities for innovation and progress in the field of artificial intelligence.
+Nexus is an open-source AI/ML project that facilitates connection, collaboration, and evolution among humans and agents. This shared platform enables various stakeholders to interact and work together seamlessly, fostering a collective and dynamic environment. By providing a nexus for human-agent collaboration, the project aims to accelerate innovation and progress in the fields of artificial intelligence and machine learning.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/nexi-lab/nexus) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nexi-lab/nexus) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | C |
 | 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `compiler` `lsp` `open-source` `programming-languages` `repl` `transpiler` `zen-c`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the zenc-lang/zenc project:
-
-Zenc is an open-source project that combines the high-level abstractions of a modern programming language with the performance and efficiency of C. It allows developers to write code that is both concise and fast, making it ideal for systems programming and other applications where low-level control is required. By offering a unique blend of high-level language features and low-level execution, zenc aims to provide a more efficient alternative to traditional C programming.
+zenc-lang/zenc is a promising open-source project. Categories: Misc. Interest score: 83/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/zenc-lang/zenc) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/zenc-lang/zenc) · [← Back to Misc](./README.md)</sub>

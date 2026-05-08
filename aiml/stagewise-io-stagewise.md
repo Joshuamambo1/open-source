@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.7k |
-| 🍴 **Forks** | 486 |
+| 🍴 **Forks** | 487 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`browser` `chromium` `cursor` `ide-integration` `ide-plugin` `vibe-coding` `vs-code` `web-development` `windsurf`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The stagewise project is an open-source, web-based coding environment designed specifically for developers, featuring an integrated coding agent. This purpose-built browser provides a unique combination of coding tools and AI/ML capabilities, streamlining the development process. By incorporating a coding agent directly into the browser, stagewise aims to enhance productivity and efficiency for web developers.
+stagewise-io/stagewise is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 92/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/stagewise-io/stagewise) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/stagewise-io/stagewise) · [← Back to AI/ML](./README.md)</sub>

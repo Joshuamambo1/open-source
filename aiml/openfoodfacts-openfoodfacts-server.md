@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 608 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`allergens` `allergies` `crowdsourcing` `database` `environment` `food` `food-products` `nutrition` `perl` `recycling`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The openfoodfacts/openfoodfacts-server project is an open-source initiative that maintains a comprehensive database of food products, providing a robust API server and web interface for users to access and contribute to this information. This project is a collaborative effort that welcomes contributors with expertise in Perl, CSS, and JavaScript development. It also utilizes Python-based projects such as Robotoff and taxonomy-editor for additional functionality.
+openfoodfacts/openfoodfacts-server is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/openfoodfacts/openfoodfacts-server) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openfoodfacts/openfoodfacts-server) · [← Back to AI/ML](./README.md)</sub>

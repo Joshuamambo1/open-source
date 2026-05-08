@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.3k |
+| ⭐ **Stars** | 8.4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `etf` `finance` `fintech` `ghostfolio` `hacktoberfest` `investing` `nestjs` `oss` `personal-finance` `portfolio` `prisma`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading
 
 ## 📝 Summary
 
-ghostfolio/ghostfolio is a promising open-source project. Categories: Misc. Interest score: 100/100.
+ghostfolio/ghostfolio is a promising open-source project. Categories: Trading. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/ghostfolio/ghostfolio) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ghostfolio/ghostfolio) · [← Back to Trading](./README.md)</sub>

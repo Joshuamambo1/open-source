@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 445 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `dart` `dartlang` `flutter` `flutter-app` `food` `hacktoberfest` `hacktoberfest-accepted` `ios` `mobile` `mobile-app` `nutrition`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The Open Food Facts mobile application, developed using Flutter and Dart, is an open-source project that aims to provide users with a comprehensive platform to access and contribute to food information on-the-go. This cross-platform mobile application is designed for both Android and iOS devices, offering a seamless experience for users to discover and track their food consumption. By leveraging community-driven data, the app strives to promote transparency and awareness about food products.
+openfoodfacts/smooth-app is a promising open-source project. Categories: Mobile. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/openfoodfacts/smooth-app) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openfoodfacts/smooth-app) · [← Back to Mobile](./README.md)</sub>

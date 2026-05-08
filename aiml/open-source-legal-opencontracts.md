@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `etl` `etl-pipeline` `llm` `prompt-engineering` `unstructured-data` `vector-database`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-OpenContracts is an open-source project that enables humans and AI agents to collaboratively build knowledge bases. Through a self-hosted platform, users can annotate, version control, and search documents with semantic capabilities, including Machine-Generated Contract (MCP) features. This innovative tool fosters collaborative knowledge creation and management between humans and AI, revolutionizing the way we document and search information.
+OpenContracts is an open-source project that enables collaborative knowledge base creation between humans and AI agents. It offers a self-hosted platform for document annotation, version control, and semantic search, making it an innovative tool for managing complex data. By leveraging machine learning and natural language processing, OpenContracts facilitates the building of robust knowledge bases and supports the integration of AI agents in the knowledge creation process.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Open-Source-Legal/OpenContracts) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Open-Source-Legal/OpenContracts) · [← Back to AI/ML](./README.md)</sub>

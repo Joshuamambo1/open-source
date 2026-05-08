@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.1k |
-| 🍴 **Forks** | 523 |
+| ⭐ **Stars** | 4.2k |
+| 🍴 **Forks** | 524 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Synapse project:
-
-Synapse is an open-source Matrix homeserver written in a combination of Python and Rust languages, utilizing the powerful Twisted framework. This highly scalable and customizable project allows developers to build robust and secure communication networks for various use cases. By leveraging the strengths of both Python and Rust, Synapse offers a unique blend of ease of development and performance.
+element-hq/synapse is a promising open-source project. Categories: Backend. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/element-hq/synapse) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/element-hq/synapse) · [← Back to Backend](./README.md)</sub>

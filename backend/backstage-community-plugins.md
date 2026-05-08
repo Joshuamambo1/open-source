@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 376 |
-| 🍴 **Forks** | 616 |
+| ⭐ **Stars** | 377 |
+| 🍴 **Forks** | 617 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`backstage` `cncf` `developer-experience` `developer-portal` `hacktoberfest` `infrastructure` `microservices`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Backstage/community-plugins is an open-source project that provides community-maintained plugins for the Backstage platform. These plugins offer extended functionality and customization options for users, enhancing their experience with the platform. By contributing to this project, developers can create and share their own plugins, expanding the capabilities of Backstage for the broader community.
+backstage/community-plugins is a promising open-source project. Categories: Backend, DevTools, DevOps/Infra. Interest score: 61/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/backstage/community-plugins) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/backstage/community-plugins) · [← Back to Backend](./README.md)</sub>

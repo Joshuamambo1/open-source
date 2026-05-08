@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 288 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`desktop-capturing` `virtual-camera` `webcam`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Webcamoid is a comprehensive, open-source camera suite available across multiple platforms, offering a wide range of features for users. This multiplatform software provides a user-friendly interface for managing and utilizing cameras, making it a versatile tool for various applications. With its full-featured functionality, Webcamoid aims to meet the needs of both casual and professional users.
+webcamoid/webcamoid is a promising open-source project. Categories: Frontend. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/webcamoid/webcamoid) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/webcamoid/webcamoid) · [← Back to Frontend](./README.md)</sub>

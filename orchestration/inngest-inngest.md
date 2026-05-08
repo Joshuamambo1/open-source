@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.3k |
-| 🍴 **Forks** | 292 |
+| 🍴 **Forks** | 294 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `event-driven` `event-driven-architecture` `queues` `serverless` `serverless-functions` `workflow-engine` `workflows`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the inngest/inngest project:
-
-Inngest is an open-source workflow orchestration platform that enables the execution of stateful step functions and AI workflows across various environments, including serverless, servers, and the edge. With its versatile architecture, users can seamlessly integrate and manage complex workflows, leveraging AI and machine learning capabilities. This platform empowers developers to build scalable, efficient, and adaptable systems.
+inngest/inngest is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 89/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/inngest/inngest) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/inngest/inngest) · [← Back to Orchestration](./README.md)</sub>

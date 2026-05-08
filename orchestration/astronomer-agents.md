@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 359 |
+| ⭐ **Stars** | 360 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-workflow` `agents` `ai` `ai-agents` `airflow` `apache-airflow` `claude` `cursor` `dag` `data-engineering` `data-pipelines` `dbt`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The "astronomer/agents" open-source project provides a set of tools for integrating AI and machine learning (ML) models into data engineering workflows. It enables data teams to build, deploy, and manage AI-powered agents that automate and enhance data processing tasks, streamlining their data pipelines. By leveraging this project, organizations can unlock the full potential of their data and drive business insights with greater efficiency and accuracy.
+astronomer/agents is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/astronomer/agents) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/astronomer/agents) · [← Back to Orchestration](./README.md)</sub>

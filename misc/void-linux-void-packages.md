@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `voidlinux`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ void-linux/void-packages is a promising open-source project. Categories: Misc. I
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/void-linux/void-packages) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/void-linux/void-packages) · [← Back to Misc](./README.md)</sub>

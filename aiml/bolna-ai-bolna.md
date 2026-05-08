@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 635 |
-| 🍴 **Forks** | 279 |
+| ⭐ **Stars** | 636 |
+| 🍴 **Forks** | 284 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agents` `ai-agents` `cartesia` `conversational-ai` `deepgram` `deepseek` `deepseek-chat` `elevenlabs` `function-calling` `gpt-4` `llama`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The bolna project is an open-source initiative that aims to develop conversational voice AI agents, enabling users to interact with intelligent systems through natural language and voice commands. This project seeks to push the boundaries of AI/ML capabilities, focusing on the creation of more human-like and intuitive voice interfaces. By open-sourcing bolna, developers can contribute to and benefit from the advancement of voice AI technology.
+bolna-ai/bolna is a promising open-source project. Categories: AI/ML. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bolna-ai/bolna) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bolna-ai/bolna) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 98 |
-| 🍴 **Forks** | 16 |
+| ⭐ **Stars** | 108 |
+| 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `assistant` `automation` `claude` `cli` `codex` `copilot` `gemini` `mcp` `multi-agent` `opencode` `orchestrator`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The lidge-jun/cli-jaw project is an open-source personal AI assistant installer that simplifies the process of setting up a 2-line installation. It supports five popular AI engines, including Claude, Codex, Gemini, OpenCode, and Copilot, and offers access to over 108 skills. This tool reduces the risk of account bans and streamlines the AI assistant setup process.
+Here's a brief summary for the lidge-jun/cli-jaw project:
+
+The lidge-jun/cli-jaw project is an open-source, 2-line installation personal AI assistant that provides access to five powerful AI engines, including Claude, Codex, Gemini, OpenCode, and Copilot. With over 108 pre-built skills, this tool enables users to harness the capabilities of these engines without risking account bans. It's an ideal solution for developers and individuals seeking a seamless AI integration experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/lidge-jun/cli-jaw) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/lidge-jun/cli-jaw) · [← Back to Orchestration](./README.md)</sub>

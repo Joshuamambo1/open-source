@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.3k |
-| 🍴 **Forks** | 448 |
+| 🍴 **Forks** | 449 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cpp` `game` `game-development` `game-engine` `heroes-2` `heroes-of-might-and-magic-2` `heroes-of-might-and-magic-ii` `homm-ii` `homm2` `strategy-game` `turn-based-strategy`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-fheroes2 is an open-source recreation of the game engine for Heroes of Might and Magic II, aiming to preserve the classic gaming experience for future generations. This project revives the original game's mechanics, graphics, and gameplay, providing a faithful adaptation for modern systems. By open-sourcing the engine, the fheroes2 community can contribute to its development and ensure the continued availability of this beloved game.
+ihhub/fheroes2 is a promising open-source project. Categories: Misc. Interest score: 80/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ihhub/fheroes2) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ihhub/fheroes2) · [← Back to Misc](./README.md)</sub>

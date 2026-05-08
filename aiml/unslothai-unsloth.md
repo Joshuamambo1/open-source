@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The unsloth project provides a web-based user interface for training and executing open-source AI models, including Gemma 4, Qwen3.6, DeepSeek, and gpt-oss, locally on users' machines. This allows developers and researchers to easily interact with and utilize these models in a graphical environment. By making AI model management more accessible, unsloth aims to facilitate innovation and experimentation in the field of artificial intelligence.
+unslothai/unsloth is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 100/100.
 
 ---
 

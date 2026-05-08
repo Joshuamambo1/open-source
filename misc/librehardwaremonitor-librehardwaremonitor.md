@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.3k |
-| 🍴 **Forks** | 923 |
+| 🍴 **Forks** | 926 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`free` `hacktoberfest` `hardware` `hardware-monitoring` `libre-hardware-monitor` `monitor` `monitoring` `open-source` `opensource` `system` `system-monitor` `system-monitoring`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Libre Hardware Monitor is a free, open-source application that provides real-time monitoring of computer hardware components, including temperatures, fan speeds, voltages, load, and clock speeds. This software allows users to track the health and performance of their system, enabling proactive maintenance and optimization. By offering detailed system insights, Libre Hardware Monitor helps users troubleshoot issues and ensure their computer runs efficiently.
+LibreHardwareMonitor/LibreHardwareMonitor is a promising open-source project. Categories: Misc. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) · [← Back to Misc](./README.md)</sub>

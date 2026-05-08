@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the Daytona project:
-
-Daytona is an open-source, secure, and elastic infrastructure designed to run AI-generated code seamlessly. This platform enables efficient and scalable deployment of AI-driven applications, streamlining the development and integration process. By providing a flexible and secure environment, Daytona empowers developers to harness the full potential of AI-generated code.
+daytonaio/daytona is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 100/100.
 
 ---
 

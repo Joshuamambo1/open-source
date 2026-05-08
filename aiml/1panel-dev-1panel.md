@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `clawdbot` `copaw` `docker` `docker-ui` `hermes` `hermes-agent` `linux` `lnmp` `ollama` `openclaw` `openresty`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the 1Panel project:
-
-1Panel is an innovative, open-source VPS control panel that integrates AI capabilities, allowing users to deploy AI models and manage their server stack from a single intuitive web interface. This modern control panel supports native AI agent integration, including Ollama models and OpenClaw agents. With 1Panel, users can streamline their server management and leverage AI-driven insights to optimize their infrastructure.
+1Panel-dev/1Panel is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/1Panel-dev/1Panel) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/1Panel-dev/1Panel) · [← Back to AI/ML](./README.md)</sub>

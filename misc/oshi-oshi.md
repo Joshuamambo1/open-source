@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.2k |
-| 🍴 **Forks** | 917 |
+| 🍴 **Forks** | 916 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cpu-usage` `disk-utilization` `hacktoberfest` `hardware-information` `java` `jna` `memory-usage` `operating-system` `process-list` `processor` `serialnumbers` `system-monitoring`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Oshi is an open-source project that provides a unified interface for retrieving native operating system and hardware information. It allows developers to easily discover system details, including CPU, motherboard, RAM, and disk specifications. This project enables cross-platform compatibility and makes it easier to write system-dependent code.
+Oshi is an open-source project that provides native operating system and hardware information. It allows developers to easily retrieve detailed insights about the system's configuration, including CPU, memory, disk, and network details. By leveraging oshi, developers can build applications that adapt to various environments and offer tailored experiences.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/oshi/oshi) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/oshi/oshi) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 167 |
+| ⭐ **Stars** | 2k |
+| 🍴 **Forks** | 170 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `billing` `clickhouse` `cost` `finops` `fintech` `golang` `kafka` `metering` `payment` `pricing` `stripe`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML · Backend
 
 ## 📝 Summary
 
-The openmeter project is an open-source platform for metering and billing AI, API, and DevOps usage. It enables the collection and real-time aggregation of millions of usage events, facilitating usage-based billing. This platform provides a scalable solution for organizations to manage and monetize their AI, API, and DevOps resources.
+openmeterio/openmeter is a promising open-source project. Categories: Payments, AI/ML, Backend. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/openmeterio/openmeter) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openmeterio/openmeter) · [← Back to Payments](./README.md)</sub>

@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `ai-agents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-AgentGPT is an open-source AI/ML project that utilizes the power of GPT to develop intelligent agents. It leverages the capabilities of GPT to enable agents to make decisions, interact with environments, and adapt to changing situations. By harnessing the strength of GPT, AgentGPT aims to advance the field of artificial intelligence and machine learning.
+AgentGPT is an open-source artificial intelligence project that utilizes a sophisticated agent to perform complex tasks and interactions. By leveraging the capabilities of GPT, a powerful language model, AgentGPT can engage in dialogue, complete tasks, and make decisions autonomously. This project is listed in the popular 'awesome-ai-agents' repository, indicating its potential as a valuable resource for researchers and developers in the field of AI/ML.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/reworkd/AgentGPT) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/reworkd/AgentGPT) · [← Back to AI/ML](./README.md)</sub>

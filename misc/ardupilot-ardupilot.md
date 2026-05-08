@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 20.7k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arducopter` `ardupilot` `arduplane` `ardurover` `ardusub` `autopilot` `auv` `copter` `drone` `dronekit` `mavlink` `plane`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-ArduPilot is an open-source, autopilot system software that controls and navigates a variety of autonomous vehicles, including fixed-wing aircraft (ArduPlane), multi-rotor drones (ArduCopter), ground vehicles (ArduRover), and underwater vehicles (ArduSub). The project provides a range of features, including GPS navigation, sensor integration, and flight control, making it a popular choice for hobbyists, researchers, and industries. With a strong community and continuous development, ArduPilot offers flexibility and customizability to suit various needs and applications.
+ArduPilot is an open-source autopilot system for various vehicles, including fixed-wing aircraft (ArduPlane), multicopters (ArduCopter), ground vehicles (ArduRover), and underwater vehicles (ArduSub). This project provides a comprehensive source code for these systems, enabling users to create autonomous vehicles with advanced navigation and control capabilities. ArduPilot is widely used in various applications, including research, education, and commercial industries.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ArduPilot/ardupilot) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ArduPilot/ardupilot) · [← Back to Misc](./README.md)</sub>

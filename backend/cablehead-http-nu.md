@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 127 |
+| ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `cqrs` `cross-stream` `datastar` `event-streaming` `http-server` `http2-server` `hypermedia` `nushell` `real-time` `rust` `scripting`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the cablehead/http-nu project:
-
-cablehead/http-nu is an open-source, high-performance HTTP server that can be used for various applications. It is designed to be scriptable with Nushell and supports cross.stream and Datastar technologies. This lightweight server is ideal for developers seeking a versatile and efficient solution for their backend needs.
+cablehead/http-nu is a promising open-source project. Categories: Backend, DevTools, Data. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/cablehead/http-nu) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cablehead/http-nu) · [← Back to Backend](./README.md)</sub>

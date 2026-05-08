@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`async` `drivers` `embedded` `executor` `hal` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Embassy is an open-source, modern embedded framework written in Rust and utilizing async programming. It aims to make developing complex embedded systems more efficient, scalable, and reliable. With Embassy, developers can build robust, concurrent applications for resource-constrained devices and other embedded systems.
+embassy-rs/embassy is a promising open-source project. Categories: Misc. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/embassy-rs/embassy) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/embassy-rs/embassy) · [← Back to Misc](./README.md)</sub>

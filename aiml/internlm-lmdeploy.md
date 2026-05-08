@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.8k |
-| 🍴 **Forks** | 693 |
+| 🍴 **Forks** | 694 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`codellama` `cuda-kernels` `deepspeed` `fastertransformer` `internlm` `llama` `llama2` `llama3` `llm` `llm-inference` `turbomind`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-LMDeploy is an open-source toolkit designed to simplify the process of compressing, deploying, and serving Large Language Models (LLMs). This AI/ML project aims to streamline the workflow of LLM developers, allowing them to efficiently deploy and manage their models in production environments. By leveraging LMDeploy, users can focus on enhancing their models while minimizing the complexity of deployment and maintenance.
+InternLM/lmdeploy is a promising open-source project. Categories: AI/ML. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/InternLM/lmdeploy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/InternLM/lmdeploy) · [← Back to AI/ML](./README.md)</sub>

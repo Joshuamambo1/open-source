@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 704 |
-| 🍴 **Forks** | 133 |
+| ⭐ **Stars** | 733 |
+| 🍴 **Forks** | 139 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-testing` `aigateway` `aisdk` `browser-testing` `e2e-testing` `playwright` `qa` `qa-automation` `qaautomation` `regression-testing`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the bug0inc/passmark project:
-
-The bug0inc/passmark project is an open-source Playwright library designed for AI browser regression testing. It features intelligent caching, auto-healing, and multi-model verification capabilities, making it a powerful tool for developers to ensure seamless browser functionality across various scenarios. This library enables efficient and robust AI-driven browser testing.
+bug0inc/passmark is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/bug0inc/passmark) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bug0inc/passmark) · [← Back to AI/ML](./README.md)</sub>

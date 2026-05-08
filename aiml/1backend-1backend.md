@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-platform` `backend-framework` `microservices` `microservices-platform` `on-premise` `on-premise-ai` `paas` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The 1backend/1backend project is an open-source framework for building AI and other applications using scalable microservices and microfrontends architecture. This framework provides a flexible and modular approach to app development, making it easier to create and deploy complex systems. By leveraging microservices and microfrontends, developers can build highly scalable, maintainable, and efficient applications.
+1backend/1backend is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 68/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/1backend/1backend) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/1backend/1backend) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 100k |
+| ⭐ **Stars** | 100.1k |
 | 🍴 **Forks** | 27.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `javascript` `pwa` `typescript` `web` `web-framework` `web-performance`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ angular/angular is a promising open-source project. Categories: Misc. Interest s
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/angular/angular) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/angular/angular) · [← Back to Misc](./README.md)</sub>

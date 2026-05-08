@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 511 |
+| 🍴 **Forks** | 513 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The NVIDIA Container Toolkit is an open-source project that enables users to build and run containers that can leverage the power of NVIDIA graphics processing units (GPUs). This toolkit allows developers to harness the computing capabilities of NVIDIA GPUs within containerized environments, making it an ideal solution for AI and machine learning workloads. By providing a seamless integration between NVIDIA GPUs and containerized applications, this project simplifies the process of deploying GPU-accelerated containers.
+NVIDIA/nvidia-container-toolkit is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 78/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/NVIDIA/nvidia-container-toolkit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/NVIDIA/nvidia-container-toolkit) · [← Back to AI/ML](./README.md)</sub>

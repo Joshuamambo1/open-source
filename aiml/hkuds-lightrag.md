@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 34.8k |
+| ⭐ **Stars** | 34.9k |
 | 🍴 **Forks** | 4.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`genai` `gpt` `gpt-4` `graphrag` `knowledge-graph` `large-language-models` `llm` `rag` `retrieval-augmented-generation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-LightRAG is an open-source project that introduces a simple and fast retrieval-augmented generation (RAG) method, as presented in the paper "LightRAG: Simple and Fast Retrieval-Augmented Generation" at the EMNLP 2025 conference. This project aims to improve the efficiency of RAG models, enabling their application in various natural language processing tasks. By leveraging a lightweight approach, LightRAG facilitates faster and more scalable generation capabilities.
+HKUDS/LightRAG is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/HKUDS/LightRAG) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/HKUDS/LightRAG) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.1k |
-| 🍴 **Forks** | 581 |
+| 🍴 **Forks** | 583 |
 | 💻 **Language** | C |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fulltext` `geospatial` `gis` `inverted-index` `redis` `redis-module` `search` `search-engine` `vector-database`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-RediSearch is an open-source query and indexing engine for Redis that enables advanced data management capabilities, including secondary indexing, full-text search, vector similarity search, and aggregations. This powerful tool allows developers to efficiently store and retrieve complex data in Redis, making it an ideal choice for various applications. With RediSearch, users can unlock the full potential of Redis as a robust data processing engine.
+RediSearch is an open-source query and indexing engine for Redis, offering advanced data management capabilities. It provides features such as secondary indexing, full-text search, vector similarity search, and aggregations to enhance data retrieval and analysis. With RediSearch, users can efficiently store, search, and analyze data within their Redis infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/RediSearch/RediSearch) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/RediSearch/RediSearch) · [← Back to Data](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`electron` `electron-app` `knowledge-base` `knowledge-graph` `knowledge-management` `knowledge-management-graph` `local-first` `note-managment` `note-taker` `note-taking` `notebook` `notes`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Trilium is an open-source, personal knowledge base builder that empowers users to organize and store their notes in a structured and accessible way. This free and customizable tool allows users to create a comprehensive library of knowledge, making it easier to manage and reference information. With Trilium, users can create a personalized knowledge base that grows with them.
+TriliumNext/Trilium is a promising open-source project. Categories: Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/TriliumNext/Trilium) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/TriliumNext/Trilium) · [← Back to Frontend](./README.md)</sub>

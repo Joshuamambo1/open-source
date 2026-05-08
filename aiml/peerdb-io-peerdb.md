@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bigquery` `cdc` `clickhouse` `cloud-native` `distributed-systems` `etl` `eventhubs` `kafka` `postgres` `postgresql` `realtime` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-PeerDB is an open-source tool designed to efficiently replicate data from PostgreSQL databases to various destinations such as data warehouses, message queues, and storage systems. It offers a cost-effective and simple solution for data synchronization, making it an ideal choice for organizations with large data sets. By leveraging PeerDB, users can streamline their data replication processes and ensure seamless data integration across different systems.
+PeerDB-io/peerdb is a promising open-source project. Categories: AI/ML, DevTools, Data. Interest score: 74/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/PeerDB-io/peerdb) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/PeerDB-io/peerdb) · [← Back to AI/ML](./README.md)</sub>

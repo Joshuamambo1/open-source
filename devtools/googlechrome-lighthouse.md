@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 9.7k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audit` `best-practices` `chrome-devtools` `developer-tools` `performance-analysis` `performance-metrics` `pwa` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Lighthouse is an open-source project that provides automated auditing and performance metrics for the web. It offers best practices and recommendations for improving the quality, accessibility, and security of web pages, making it a valuable tool for developers and designers. By leveraging Lighthouse, users can identify areas for improvement and optimize their web experiences to meet the highest standards.
+GoogleChrome/lighthouse is a promising open-source project. Categories: DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/GoogleChrome/lighthouse) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/GoogleChrome/lighthouse) · [← Back to DevTools](./README.md)</sub>

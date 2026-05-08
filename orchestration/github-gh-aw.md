@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 373 |
+| 🍴 **Forks** | 375 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`actions` `cai` `ci` `claude-code` `codex` `copilot` `gh-extension` `github-actions`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-github/gh-aw is a promising open-source project. Categories: AI/ML. Interest score: 86/100.
+github/gh-aw is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 87/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/github/gh-aw) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/github/gh-aw) · [← Back to Orchestration](./README.md)</sub>

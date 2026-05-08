@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1k |
+| ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `jarvis-assistant` `own-your-data` `personal` `waifu`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Project-N-E-K-O, or N.E.K.O, is an open-source initiative that develops a proactive, native omni-AI companion. This AI system features 24/7 ambient awareness and an embodied emotional engine, enabling it to provide companionship and support. By leveraging AI and machine learning, N.E.K.O aims to create a more empathetic and engaging experience for users.
+Project-N-E-K-O/N.E.K.O is a promising open-source project. Categories: AI/ML, Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Project-N-E-K-O/N.E.K.O) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Project-N-E-K-O/N.E.K.O) · [← Back to AI/ML](./README.md)</sub>

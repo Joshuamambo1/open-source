@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 367 |
 | 💻 **Language** | Jac |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Jaseci is a code repository that serves as the official hub for the Jaseci project, a comprehensive platform for developing AI and machine learning models. This open-source project offers a range of tools and resources for building, testing, and deploying AI applications, making it a valuable asset for developers and researchers in the field. By contributing to Jaseci, the community can advance the development of AI and drive innovation in various industries.
+jaseci-labs/jaseci is a promising open-source project. Categories: Misc. Interest score: 49/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/jaseci-labs/jaseci) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jaseci-labs/jaseci) · [← Back to Misc](./README.md)</sub>

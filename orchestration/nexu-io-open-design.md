@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31.5k |
-| 🍴 **Forks** | 3.5k |
+| ⭐ **Stars** | 31.3k |
+| 🍴 **Forks** | 3.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
 | 🗓️ **Last push** | 2026-05-07 |
@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the project:
-
-nexu-io/open-design is an open-source, local-first platform that serves as an alternative to Anthropic's Claude Design. It offers a range of features, including 19 skills and 71 brand-grade design systems, to generate prototypes, slides, images, videos, and HyperFrames. This AI-powered platform supports multiple integrations and exports, making it a versatile tool for frontend development and design.
+nexu-io/open-design is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 

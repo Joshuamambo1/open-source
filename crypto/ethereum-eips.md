@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-The Ethereum Improvement Proposal (EIP) repository is an open-source project that serves as a central hub for proposing, discussing, and implementing improvements to the Ethereum protocol. This repository facilitates community-driven innovation, allowing developers to submit and collaborate on EIPs, which are formal proposals for modifying or enhancing Ethereum's underlying technology. By crowdsourcing improvements, the EIP repository helps to drive the evolution of the Ethereum network.
+ethereum/EIPs is a promising open-source project. Categories: Crypto. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ethereum/EIPs) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ethereum/EIPs) · [← Back to Crypto](./README.md)</sub>

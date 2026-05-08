@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.3k |
-| 🍴 **Forks** | 737 |
+| 🍴 **Forks** | 744 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-native` `dashboard` `debugging` `devops` `headlamp` `k8s` `kinvolk` `kubernetes` `kubernetes-dashboard` `kubernetes-debugging` `kubernetes-monitoring` `kubernetes-ui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Headlamp is an open-source, user-friendly web UI for Kubernetes that offers a comprehensive and customizable experience for managing clusters. As a fully-featured interface, it provides developers and administrators with an easy-to-use platform for monitoring, debugging, and optimizing their Kubernetes environments. Headlamp's extensibility allows users to tailor the UI to their specific needs, making it an ideal tool for Kubernetes clusters of all sizes.
+kubernetes-sigs/headlamp is a promising open-source project. Categories: Orchestration, Frontend, DevOps/Infra. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kubernetes-sigs/headlamp) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kubernetes-sigs/headlamp) · [← Back to Orchestration](./README.md)</sub>

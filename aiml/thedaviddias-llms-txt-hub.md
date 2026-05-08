@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 829 |
-| 🍴 **Forks** | 438 |
+| ⭐ **Stars** | 830 |
+| 🍴 **Forks** | 439 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cursor` `cursor-ai` `directory` `llms` `llms-txt` `llmstxt` `nextjs` `robots-txt` `supabase` `supabase-auth` `taiwindcss`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-The llms-txt-hub is an open-source project that maintains the largest directory of AI-ready documentation and tools, all of which implement the proposed llms.txt standard. This directory provides a centralized platform for developers to access and contribute to AI-related documentation and tools, promoting collaboration and innovation in the field. By leveraging the llms.txt standard, the project aims to enhance interoperability and consistency across AI applications.
+thedaviddias/llms-txt-hub is a promising open-source project. Categories: AI/ML, Frontend, Security. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/thedaviddias/llms-txt-hub) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/thedaviddias/llms-txt-hub) · [← Back to AI/ML](./README.md)</sub>

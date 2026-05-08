@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 757 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acp` `agentic-ai` `embabel` `event-driven` `java` `koog` `langchain4j` `mcp` `multiagent` `quarkus` `spring-ai` `spring-boot`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "atmosphere/atmosphere":
-
-Atmosphere is an open-source, real-time transport layer for Java AI agents, providing a unified interface to deliver AI interactions over various protocols such as WebSocket, SSE, gRPC, and WebTransport/HTTP3. This project enables seamless communication between AI agents and frontend applications, supporting MCP, A2A, and AG-UI standards. With Atmosphere, developers can build AI-powered applications once and deploy them across multiple platforms with ease.
+Atmosphere/atmosphere is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 88/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Atmosphere/atmosphere) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Atmosphere/atmosphere) · [← Back to Orchestration](./README.md)</sub>

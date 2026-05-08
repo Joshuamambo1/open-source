@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 379 |
+| ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-os` `ai-skills` `ai-tools` `aiden` `aiden-agent` `electron` `llm` `local-first` `moltbot` `open-source-project`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Aiden is an open-source, local-first AI operating system designed for Linux and Windows, offering over 1500 skills, 89 tools, and integration with 14+ providers. This comprehensive AI framework is built with the AGPL-3.0 license, prioritizing user freedom and collaboration. Aiden empowers users to harness the power of AI on their local machines, fostering innovation and autonomy.
+taracodlabs/aiden is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/taracodlabs/aiden) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/taracodlabs/aiden) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 472 |
+| 🍴 **Forks** | 473 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`appimage` `archlinux` `centos` `deb` `debian` `docker` `fedora` `kiwi` `obs` `openbuildservice` `opensuse` `packages`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The open-source open-build-service (OBS) project is a robust platform for building, distributing, and managing Linux packages from source code in a fully automated, reproducible, and consistent manner. This project enables developers to streamline package creation, testing, and deployment processes, ensuring seamless collaboration and scalability within the Linux ecosystem. OBS is a key contributor to the openSUSE project, facilitating efficient package management for Linux distributions.
+openSUSE/open-build-service is a promising open-source project. Categories: AI/ML, Frontend, DevOps/Infra. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/openSUSE/open-build-service) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openSUSE/open-build-service) · [← Back to AI/ML](./README.md)</sub>

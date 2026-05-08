@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 156 |
+| ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`animatrix` `asus` `battery-management` `expertbook` `fan-control` `fedora` `g-helper` `gtk4` `linux` `myasus` `proart` `rgb`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Traciges/Ayuz is an open-source project that offers a unified control center for ASUS laptop users on Linux, providing a comprehensive alternative to MyAsus. This GTK4 application enables users to manage various laptop settings, including battery health, fan curves, OLED dimming, and audio configurations. By providing a centralized interface, Ayuz simplifies the process of customizing and optimizing ASUS laptop performance on Linux systems.
+Traciges/Ayuz is a promising open-source project. Categories: Misc. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Traciges/Ayuz) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Traciges/Ayuz) · [← Back to Misc](./README.md)</sub>

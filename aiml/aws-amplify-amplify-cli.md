@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 820 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `api` `authentication` `aws` `aws-amplify` `aws-appsync` `aws-fargate` `aws-lambda` `cli` `fullstack` `graphql` `lambda-functions`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the AWS Amplify CLI project:
-
-The AWS Amplify CLI is a powerful toolchain that simplifies serverless web and mobile development by providing a unified interface for building, deploying, and managing applications on AWS. With its intuitive command-line interface, developers can quickly integrate AWS services, such as authentication, analytics, and storage, into their projects. This open-source project enables seamless development and deployment of scalable, secure, and high-performance applications on the cloud.
+aws-amplify/amplify-cli is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 82/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/aws-amplify/amplify-cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/aws-amplify/amplify-cli) · [← Back to AI/ML](./README.md)</sub>

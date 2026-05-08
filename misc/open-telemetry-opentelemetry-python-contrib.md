@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 937 |
+| 🍴 **Forks** | 941 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-OpenTelemetry Python Contrib is an open-source project providing instrumentation for various Python modules using the OpenTelemetry framework. This project enables developers to collect and export telemetry data, such as metrics and traces, from Python applications in a standardized and efficient manner. By instrumenting Python modules, developers can gain valuable insights into their application's performance and behavior.
+open-telemetry/opentelemetry-python-contrib is a promising open-source project. Categories: Misc. Interest score: 61/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/open-telemetry/opentelemetry-python-contrib) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/open-telemetry/opentelemetry-python-contrib) · [← Back to Misc](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.3k |
-| 🍴 **Forks** | 446 |
+| 🍴 **Forks** | 447 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apache-spark` `apache-sparksql` `aws-s3` `azure-blob-storage` `azure-storage` `data-engineering` `data-lake` `data-quality` `data-version-control` `data-versioning` `datalake` `datalakes`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the lakeFS project:
-
-lakeFS is an open-source data version control system that enables data versioning and collaboration for data lakes, allowing teams to manage and track changes to their data with the same ease as Git. This tool provides a Git-like experience for data, enabling data versioning, branching, and merging, as well as efficient data backup and recovery. By leveraging lakeFS, data teams can improve data integrity, reduce errors, and streamline their workflows.
+treeverse/lakeFS is a promising open-source project. Categories: AI/ML, Data. Interest score: 92/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/treeverse/lakeFS) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/treeverse/lakeFS) · [← Back to AI/ML](./README.md)</sub>

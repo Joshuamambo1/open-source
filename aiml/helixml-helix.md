@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 769 |
+| ⭐ **Stars** | 770 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `api` `genai` `glm` `golang` `helm` `k8s` `kimi` `llm` `llm-agent` `llm-serving` `openai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The helix project is an open-source initiative that enables users to create a private fleet of AI agents, each equipped with a GPU-accelerated desktop for efficient model execution. This allows for the running of popular AI models, such as Claude, Codex, and Gemini, on a fully private AI stack. The project caters to the needs of developers and researchers working with large language models and AI applications.
+helixml/helix is a promising open-source project. Categories: AI/ML, Backend. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/helixml/helix) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/helixml/helix) · [← Back to AI/ML](./README.md)</sub>

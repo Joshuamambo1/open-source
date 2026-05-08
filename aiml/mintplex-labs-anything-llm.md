@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 59.5k |
-| 🍴 **Forks** | 6.4k |
+| ⭐ **Stars** | 59.7k |
+| 🍴 **Forks** | 6.5k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `custom-ai-agents` `deepseek` `kimi` `llama3` `llm` `lmstudio` `local-llm` `localai` `mcp` `mcp-servers` `moonshot`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-The anything-llm project is an open-source, all-in-one AI productivity accelerator designed to be used on-device for maximum privacy. This innovative tool eliminates the need for setup or configuration, providing a seamless experience for users. It combines AI and machine learning capabilities in a user-friendly package, making it a powerful tool for productivity and efficiency.
+Mintplex-Labs/anything-llm is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Mintplex-Labs/anything-llm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Mintplex-Labs/anything-llm) · [← Back to AI/ML](./README.md)</sub>

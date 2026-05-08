@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7.2k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`argo` `argo-cd` `cd` `ci-cd` `cicd` `continuous-delivery` `continuous-deployment` `devops` `docker` `gitops` `hacktoberfest` `helm`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ argoproj/argo-cd is a promising open-source project. Categories: DevOps/Infra. I
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/argoproj/argo-cd) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/argoproj/argo-cd) · [← Back to DevOps & Infra](./README.md)</sub>

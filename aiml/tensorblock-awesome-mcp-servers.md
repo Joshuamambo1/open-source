@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 661 |
-| 🍴 **Forks** | 357 |
+| ⭐ **Stars** | 663 |
+| 🍴 **Forks** | 359 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `awesome` `genai` `mcp` `mcp-server` `mcp-server-discovery` `mcp-servers` `model-context-protocol`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-TensorBlock's awesome-mcp-servers is an open-source project that provides a comprehensive collection of Model Context Protocol (MCP) servers for developers to utilize in their artificial intelligence and machine learning applications. This project serves as a centralized hub for MCP servers, enabling seamless integration with various AI and ML frameworks. By leveraging this collection, developers can streamline their development process and enhance the overall performance of their models.
+TensorBlock/awesome-mcp-servers is a promising open-source project. Categories: AI/ML, Backend. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/TensorBlock/awesome-mcp-servers) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/TensorBlock/awesome-mcp-servers) · [← Back to AI/ML](./README.md)</sub>

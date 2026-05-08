@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 465 |
+| ⭐ **Stars** | 466 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | QMake |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`debugger` `info` `nt` `peb` `structures` `system` `teb`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The horsicq/xntsv open-source project is an XNTSV program designed for Windows, offering a detailed viewing experience of system structures. This tool utilizes AI/ML capabilities to provide a comprehensive understanding of system architecture, making it a valuable resource for developers, system administrators, and researchers. By leveraging AI/ML, xntsv enhances the visibility and analysis of system structures, facilitating improved system performance and optimization.
+horsicq/xntsv is a promising open-source project. Categories: AI/ML. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/horsicq/xntsv) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/horsicq/xntsv) · [← Back to AI/ML](./README.md)</sub>

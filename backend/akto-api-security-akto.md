@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 281 |
+| 🍴 **Forks** | 282 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-discovery` `api-security` `api-security-posture` `api-security-testing` `api-testing` `authentication` `authorization` `devsecops` `devsecops-pipeline` `hacktoberfest` `hacktoberfest2023` `idor`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the akto project:
-
-Akto is an open-source API security platform that proactively identifies vulnerabilities and weaknesses in your API ecosystem. It offers features such as API discovery, security posture analysis, automated testing, and a comprehensive test library with over 1,000 tests. With Akto, you can easily monitor and improve the security of your APIs throughout your CI/CD pipeline.
+akto-api-security/akto is a promising open-source project. Categories: Backend, DevTools, Data. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/akto-api-security/akto) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/akto-api-security/akto) · [← Back to Backend](./README.md)</sub>

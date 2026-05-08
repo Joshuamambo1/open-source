@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 749 |
-| 🍴 **Forks** | 45 |
+| ⭐ **Stars** | 761 |
+| 🍴 **Forks** | 47 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `agent-skills` `agentic-ai` `agentic-workflow` `ai-agents` `ai-automation` `babysitter` `claude-code` `claude-code-skills` `claude-skills` `codex-plugin` `codex-skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The Babysitter project is an open-source tool that helps manage complex tasks and workflows by enabling agentic workforces to self-orchestrate in a deterministic and hallucination-free manner. This ensures obedience and prevents errors, making it easier to handle intricate operations. Babysitter facilitates more efficient and reliable management of AI and ML workforces.
+a5c-ai/babysitter is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/a5c-ai/babysitter) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/a5c-ai/babysitter) · [← Back to Orchestration](./README.md)</sub>

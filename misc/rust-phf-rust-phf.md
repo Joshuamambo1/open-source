@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The rust-phf project is an open-source Rust library that provides compile-time static maps, allowing developers to define and use hash maps at compile time. This enables efficient memory usage, faster execution, and reduced runtime overhead. By leveraging the Rust compiler's capabilities, rust-phf enables a new level of performance and flexibility in Rust applications.
+rust-phf/rust-phf is a promising open-source project. Categories: Misc. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/rust-phf/rust-phf) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rust-phf/rust-phf) · [← Back to Misc](./README.md)</sub>

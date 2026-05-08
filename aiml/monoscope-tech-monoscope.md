@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 563 |
+| ⭐ **Stars** | 584 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`haskell` `logs` `metrics` `monitoring` `observability` `opentelemetry` `s3` `self-hosted` `timescaledb` `tracing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Monoscope is an open-source project that enables users to ingest, explore, and analyze logs, traces, and metrics stored in S3 compatible buckets. It utilizes Large Language Models (LLMs) to allow for natural language querying, facilitating easier and more intuitive data analysis. This AI-driven approach simplifies the process of extracting valuable insights from complex data sets.
+monoscope-tech/monoscope is a promising open-source project. Categories: AI/ML. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/monoscope-tech/monoscope) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/monoscope-tech/monoscope) · [← Back to AI/ML](./README.md)</sub>

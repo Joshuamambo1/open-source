@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27.1k |
+| ⭐ **Stars** | 27.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-native` `ai-storage` `amazon-s3` `bigdata` `cloud-native` `filesystem` `minio` `multi-cloud` `object-storage` `objectstorage` `rust` `s3`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data · Marketing
 
 ## 📝 Summary
 
-RustFS is an open-source, high-performance object storage system that offers S3 compatibility. It boasts impressive performance, achieving speeds 2.3x faster than MinIO for 4KB object payloads. This makes it an attractive option for those seeking a scalable and efficient solution for their object storage needs.
+rustfs/rustfs is a promising open-source project. Categories: AI/ML, Data, Marketing. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rustfs/rustfs) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rustfs/rustfs) · [← Back to AI/ML](./README.md)</sub>

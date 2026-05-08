@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 641 |
+| ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `bring-your-own-key` `filemanager` `launchpad` `mcp` `rag` `react` `redb` `russh` `rust` `sftp` `ssh-client`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML · Frontend
 
 ## 📝 Summary
 
-Oxideterm is an open-source, all-in-one terminal workspace that provides a comprehensive environment for developers. This native binary combines local shells, SSH, SFTP, a remote IDE, AI agent, and file manager, ensuring seamless productivity. Built with Tauri 2 and pure Rust SSH, oxideterm offers smart reconnect capabilities and a wide range of customization options.
+AnalyseDeCircuit/oxideterm is a promising open-source project. Categories: Payments, AI/ML, Frontend. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/AnalyseDeCircuit/oxideterm) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/AnalyseDeCircuit/oxideterm) · [← Back to Payments](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 828 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `api-documentation` `dash` `desktop-application` `developer-tools` `docs` `docset` `documentation` `documentation-tool` `offline` `qt` `zeal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Zeal is an open-source offline documentation browser that provides instant access to a vast array of documentation resources, inspired by the Dash browser. This tool allows developers to quickly search and browse documentation without the need for an internet connection, making it an invaluable resource for coding and troubleshooting. By offering a seamless offline documentation experience, Zeal streamlines development workflows and enhances productivity.
+zealdocs/zeal is a promising open-source project. Categories: Backend, DevTools. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/zealdocs/zeal) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/zealdocs/zeal) · [← Back to Backend](./README.md)</sub>

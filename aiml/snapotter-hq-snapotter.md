@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 45 |
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 46 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `docker` `homelab` `image-editor` `image-processing` `open-source` `privacy` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-SnapOtter is an open-source, self-hosted image manipulation tool that offers over 45 features, including local AI capabilities, all within a single Docker container. This project empowers users to process and edit their images without relying on cloud services, ensuring complete control and security over their data. By hosting SnapOtter locally, users can enjoy uninterrupted access to advanced image manipulation tools without compromising their digital footprint.
+snapotter-hq/SnapOtter is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/snapotter-hq/SnapOtter) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/snapotter-hq/SnapOtter) · [← Back to AI/ML](./README.md)</sub>

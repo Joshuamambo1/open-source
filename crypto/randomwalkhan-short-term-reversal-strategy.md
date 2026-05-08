@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 357 |
+| ⭐ **Stars** | 355 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`algorithmic-trading` `backtesting` `blackscholes` `crypto-trading-agent` `options-trading` `python` `quantitative-research` `quantitative-trading` `systematic-trading`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Trading · AI/ML
 
 ## 📝 Summary
 
-This open-source project, Short-Term-Reversal-Strategy, is a Python-based quant trading research platform focused on identifying short-term reversal opportunities in the crypto market. It features tools for universe selection, staged-entry backtesting, and live paper trading, enabling users to refine and deploy AI-driven trading strategies. By leveraging machine learning and quantitative analysis, this project aims to optimize short-term reversal option setups for profitable trading outcomes.
+randomwalkhan/Short-Term-Reversal-Strategy is a promising open-source project. Categories: Crypto, Trading, AI/ML. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/randomwalkhan/Short-Term-Reversal-Strategy) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/randomwalkhan/Short-Term-Reversal-Strategy) · [← Back to Crypto](./README.md)</sub>

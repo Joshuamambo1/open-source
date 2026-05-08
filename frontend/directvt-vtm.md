@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`desktop-environment` `htui` `hybrid-tui` `multiplexer` `terminal` `text-based` `windows-console`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The directvt/vtm project is an open-source, text-based desktop environment that aims to provide a simple and intuitive user interface for users who prefer a minimalistic approach. This project seeks to offer a flexible and customizable environment that can be easily integrated with various command-line tools and applications. By leveraging a text-based interface, vtm aims to provide a seamless user experience for those who prefer to interact with their system through the command line.
+directvt/vtm is a promising open-source project. Categories: Frontend. Interest score: 73/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/directvt/vtm) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/directvt/vtm) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws` `cloud` `kubernetes` `kubernetes-cluster`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This open-source project, zalando-incubator/kubernetes-on-aws, provides a CloudFormation template for deploying a production-ready Kubernetes cluster on Amazon Web Services (AWS) using Ubuntu. The project aims to simplify the process of setting up a scalable and highly available Kubernetes environment on AWS with minimal configuration. It is designed for DevOps and Infrastructure teams who need to deploy and manage large-scale containerized applications on the cloud.
+zalando-incubator/kubernetes-on-aws is a promising open-source project. Categories: DevOps/Infra. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/zalando-incubator/kubernetes-on-aws) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/zalando-incubator/kubernetes-on-aws) · [← Back to DevOps & Infra](./README.md)</sub>

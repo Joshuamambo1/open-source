@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `infrastructure` `mcp` `mcp-gateway` `mcp-registry` `mcp-server` `model-context-protocol` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-MCPJungle is a self-hosted MCP Gateway for AI agents, providing a scalable and customizable infrastructure for integrating machine learning models into various applications. This open-source project enables developers to manage and deploy AI-powered services in a flexible and secure manner. By hosting MCPJungle, users can enjoy greater control and transparency over their AI workflows.
+mcpjungle/MCPJungle is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/mcpjungle/MCPJungle) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mcpjungle/MCPJungle) · [← Back to AI/ML](./README.md)</sub>

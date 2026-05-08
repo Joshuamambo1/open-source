@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10.1k |
+| ⭐ **Stars** | 10.2k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `agentic-ai` `agents` `ai` `dotnet` `multi-agent` `orchestration` `python` `sdk` `workflows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The Microsoft Agent Framework is an open‑source library that simplifies the creation, orchestration, and deployment of AI agents and multi‑agent workflows. It provides a unified API for both Python and .NET developers, enabling seamless integration of language models, tool usage, and state management across complex, collaborative AI systems.
+microsoft/agent-framework is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/microsoft/agent-framework) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/agent-framework) · [← Back to Orchestration](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bittorrent` `blacklist` `blocklist` `ipfilter`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ Misc
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the PBH-BTN/BTN-Collected-Rules project:
+Here's a brief summary of the PBH-BTN/BTN-Collected-Rules project:
 
-The PBH-BTN/BTN-Collected-Rules project is an open-source collection of IP addresses identified as malicious or suspicious by BTN's network analysis and maintenance. This dataset aims to help users and software developers protect themselves against potential BitTorrent threats. By utilizing this collection of IP addresses, users can enhance their security and prevent potential harm from compromised peers.
+This open-source project is a collection of BitTorrent malicious and suspicious IP addresses maintained by the BTN network for statistical analysis and monitoring purposes. The project aggregates and shares IP addresses identified as potentially malicious, helping to prevent and mitigate BitTorrent-related threats. By contributing to this project, users can help improve the overall security and integrity of the BitTorrent network.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/PBH-BTN/BTN-Collected-Rules) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/PBH-BTN/BTN-Collected-Rules) · [← Back to Misc](./README.md)</sub>

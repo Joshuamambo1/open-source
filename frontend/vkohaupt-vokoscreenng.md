@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`capture` `linux` `opensource` `oss` `record` `screen-capture` `screen-recorder` `screencast` `screenshot` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-VokoscreenNG is an open-source screencasting tool for Linux that provides a feature-rich environment for recording screen activity, audio, and video. With support for multiple audio sources, built-in camera integration, and various tools, users can create high-quality screencasts with enhanced visual effects. VokoscreenNG is available in multiple languages, making it a versatile option for users worldwide.
+vkohaupt/vokoscreenNG is a promising open-source project. Categories: Frontend, DevTools. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/vkohaupt/vokoscreenNG) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vkohaupt/vokoscreenNG) · [← Back to Frontend](./README.md)</sub>

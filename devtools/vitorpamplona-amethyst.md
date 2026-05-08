@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `kotlin` `nostr` `social-network`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ DevTools · Mobile
 
 ## 📝 Summary
 
-The Amethyst project is an open-source, Nostr client designed specifically for Android devices. It provides users with a secure and decentralized platform for publishing and subscribing to events, leveraging the Nostr protocol. This client offers a native mobile experience for interacting with the Nostr network on Android devices.
+Here's a brief summary for the open-source project:
+
+Amethyst is an open-source Nostr client designed for Android, providing users with a secure and decentralized platform for sharing and discovering information. This project is built to offer a mobile-first experience, making it easily accessible to users on-the-go. By leveraging the Nostr protocol, Amethyst prioritizes user data privacy and security.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/vitorpamplona/amethyst) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vitorpamplona/amethyst) · [← Back to DevTools](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 12.9k |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This is a mirror repository of the official WordPress source code, providing a Git version of the popular content management system. It is not a primary development location, but rather a secondary source for those who prefer to use Git over Subversion. Developers should submit pull requests and patches to the designated WordPress development repositories instead.
+WordPress/WordPress is a promising open-source project. Categories: Misc. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/WordPress/WordPress) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/WordPress/WordPress) · [← Back to Misc](./README.md)</sub>

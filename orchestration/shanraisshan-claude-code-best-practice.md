@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51.1k |
+| ⭐ **Stars** | 51.6k |
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agentic-coding` `agentic-engineering` `agentic-workflow` `ai` `ai-agents` `anthropic` `best-practices` `boris` `claude` `claude-ai` `claude-code`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-CLAude Code Best Practice is an open-source initiative that guides developers through the journey from 'vibe coding' to 'agentic engineering' by providing a comprehensive set of best practices. This project aims to elevate software development skills, particularly in orchestration and AI/ML, through hands-on practice and collaboration. By following CLAude's guidelines, developers can refine their coding habits and become more efficient and effective in their work.
+shanraisshan/claude-code-best-practice is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/shanraisshan/claude-code-best-practice) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/shanraisshan/claude-code-best-practice) · [← Back to Orchestration](./README.md)</sub>

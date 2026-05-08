@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.9k |
-| 🍴 **Forks** | 141 |
+| 🍴 **Forks** | 143 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`react` `rust` `self-hosted` `spreadsheet`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Marketing
 
 ## 📝 Summary
 
-IronCalc is an open-source project that serves as the primary engine for the IronCalc ecosystem. This AI/ML-driven platform combines capabilities from frontend and marketing categories to provide a comprehensive solution. By leveraging its cutting-edge technology, IronCalc aims to revolutionize the way data is processed and insights are gained.
+ironcalc/IronCalc is a promising open-source project. Categories: AI/ML, Frontend, Marketing. Interest score: 74/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ironcalc/IronCalc) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ironcalc/IronCalc) · [← Back to AI/ML](./README.md)</sub>

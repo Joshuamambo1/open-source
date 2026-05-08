@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 468 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`action-recognition` `automl` `computer-vision` `datumaro` `deep-learning` `geti` `hyper-parameter-optimization` `image-classification` `image-segmentation` `incremental-learning` `machine-learning` `neural-networks-compression`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The open-edge-platform/training_extensions project enables developers to train, evaluate, optimize, and deploy computer vision models efficiently using OpenVINO technology. This open-source platform streamlines the end-to-end process of building and deploying AI-powered computer vision solutions. By leveraging OpenVINO, users can accelerate model deployment on various edge devices, enhancing the performance and scalability of their applications.
+open-edge-platform/training_extensions is a promising open-source project. Categories: Trading, AI/ML. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/open-edge-platform/training_extensions) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/open-edge-platform/training_extensions) · [← Back to Trading](./README.md)</sub>

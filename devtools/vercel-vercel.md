@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `cloud` `command` `hosting` `jamstack` `ship` `vercel`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Vercel is an open-source platform that enables developers to build, preview, and deploy web applications efficiently. It provides a streamlined workflow for creating and shipping web projects, making it an ideal tool for front-end developers and teams. With Vercel, users can seamlessly integrate development, testing, and deployment stages into a single process.
+vercel/vercel is a promising open-source project. Categories: DevTools. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/vercel/vercel) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vercel/vercel) · [← Back to DevTools](./README.md)</sub>

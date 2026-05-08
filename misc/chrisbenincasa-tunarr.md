@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`emby` `ffmpeg` `iptv` `jellyfin` `local-streaming` `media-streaming` `plex` `self-hosted` `streaming` `tv`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Tunarr is an open-source project that recreates the classic TV experience by combining IPTV with media management services like Plex, Jellyfin, and Emby. It utilizes NFO files to simplify the process of organizing and accessing your own personal media collection. This project aims to provide a convenient and nostalgic way to enjoy your media library on a more traditional TV-like interface.
+chrisbenincasa/tunarr is a promising open-source project. Categories: Misc. Interest score: 67/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/chrisbenincasa/tunarr) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/chrisbenincasa/tunarr) · [← Back to Misc](./README.md)</sub>

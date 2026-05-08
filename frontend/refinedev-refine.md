@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`admin` `admin-ui` `ant-design` `crud` `developer-tools` `frontend-framework` `good-first-issue` `graphql` `hacktoberfest` `headless` `internal-tools` `javascript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · Design
 
 ## 📝 Summary
 
-Refine is an open-source React framework designed for building internal tools, admin panels, dashboards, and B2B applications with unparalleled flexibility. It provides a robust foundation for developers to create scalable and maintainable applications with ease. With Refine, you can focus on building custom features without being limited by rigid frameworks.
+refinedev/refine is a promising open-source project. Categories: Frontend, DevTools, Design. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/refinedev/refine) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/refinedev/refine) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-computing` `high-performance-computing` `kernel` `operating-system` `operating-systems` `osdev` `rust` `rust-lang` `unikernels` `virtualization`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Hermit-os/kernel is an open-source, Rust-based unikernel designed for lightweight, efficient, and secure computing. This project aims to provide a minimalistic and customizable foundation for building specialized operating systems, ideal for applications requiring high performance and low resource utilization. By leveraging the Rust programming language, Hermit-os/kernel offers a modern and expressive approach to unikernel development.
+Hermit-os/kernel is an open-source, lightweight unikernel developed in Rust, designed to provide a minimalistic and efficient computing environment. This project offers a unique approach to operating system development, prioritizing simplicity and security. By leveraging Rust's performance and safety features, hermit-os/kernel aims to create a reliable foundation for various use cases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/hermit-os/kernel) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hermit-os/kernel) · [← Back to Misc](./README.md)</sub>

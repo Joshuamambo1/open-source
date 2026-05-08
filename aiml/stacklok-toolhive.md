@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-security` `aicodeassistant` `golang` `kubernetes` `mcp` `mcp-security` `mcp-servers` `mcp-tools` `model-context-protocol` `security`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-stacklok/toolhive is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 65/100.
+stacklok/toolhive is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/stacklok/toolhive) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/stacklok/toolhive) · [← Back to AI/ML](./README.md)</sub>

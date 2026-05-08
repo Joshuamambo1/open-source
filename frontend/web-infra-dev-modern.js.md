@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5k |
-| 🍴 **Forks** | 409 |
+| 🍴 **Forks** | 408 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`boilerplate` `build-tool` `framework` `react` `rspack` `ssr` `web` `webpack` `website`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Modern.js is an open-source, progressive web framework that leverages the power of React and Rsbuild to streamline frontend development and infrastructure management. This innovative framework aims to simplify the process of building and deploying web applications by providing a unified platform for development, testing, and deployment. By combining the strengths of React and Rsbuild, Modern.js empowers developers to create fast, scalable, and maintainable web applications.
+web-infra-dev/modern.js is a promising open-source project. Categories: Frontend, DevOps/Infra. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/web-infra-dev/modern.js) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/web-infra-dev/modern.js) · [← Back to Frontend](./README.md)</sub>

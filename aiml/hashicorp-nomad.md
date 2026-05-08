@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the hashicorp/nomad project:
-
-Nomad is an open-source workload orchestrator that simplifies the deployment and scaling of various application types, including microservices, batch, containerized, and non-containerized workloads. With its ease of use and native integrations with Consul and Vault, Nomad provides a flexible and performant solution for managing complex distributed systems. This enables developers to efficiently deploy and manage applications across multiple environments.
+hashicorp/nomad is a promising open-source project. Categories: AI/ML, Backend. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hashicorp/nomad) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hashicorp/nomad) · [← Back to AI/ML](./README.md)</sub>

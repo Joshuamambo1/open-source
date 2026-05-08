@@ -1,6 +1,6 @@
 # Olshansk/rss-feeds
 
-[![Stars](https://img.shields.io/github/stars/Olshansk/rss-feeds?style=flat-square&color=yellow)](https://github.com/Olshansk/rss-feeds/stargazers) [![Forks](https://img.shields.io/github/forks/Olshansk/rss-feeds?style=flat-square&color=blue)](https://github.com/Olshansk/rss-feeds/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Olshansk/rss-feeds?style=flat-square&color=yellow)](https://github.com/Olshansk/rss-feeds/stargazers) [![Forks](https://img.shields.io/github/forks/Olshansk/rss-feeds?style=flat-square&color=blue)](https://github.com/Olshansk/rss-feeds/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Generate RSS feeds for all the blogs that don't have one
 
@@ -8,12 +8,12 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 534 |
-| 🍴 **Forks** | 61 |
+| ⭐ **Stars** | 540 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | hackernews |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-05-07 |
+| 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project aggregates RSS feeds from prominent figures in the tech industry, including Paul Graham and Anthropic, and makes them available on GitHub. The repository is driven by user contributions and mentions on Hacker News, providing a unique and dynamic collection of RSS feeds. Users can easily access and subscribe to these feeds, staying up-to-date with the latest news and insights from leading industry voices.
+Olshansk/rss-feeds is a promising open-source project. Categories: Misc. Interest score: 45/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Olshansk/rss-feeds) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Olshansk/rss-feeds) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 524 |
-| 🍴 **Forks** | 144 |
+| ⭐ **Stars** | 525 |
+| 🍴 **Forks** | 145 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-cms` `ai-summary` `ai-translation` `blog-cms` `content-workflow` `creator-tools` `headless-cms` `llm` `mongodb` `nestjs` `personal-blog`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-mx-space/core is an open-source AI-powered Content Management System (CMS) core designed for personal blogs and creator websites. It offers advanced features such as AI-generated summaries, translation capabilities, moderation tools, and streamlined writing workflows, empowering creators to efficiently manage their online presence. This project leverages artificial intelligence and machine learning to enhance the user experience and content management.
+mx-space/core is a promising open-source project. Categories: AI/ML. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/mx-space/core) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mx-space/core) · [← Back to AI/ML](./README.md)</sub>

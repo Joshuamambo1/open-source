@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai-agents` `ai-communication` `ai-for-science` `ai-scientists` `automated-science` `autonomous-agents` `co-pilot` `co-scientist` `llms` `lrm` `mcp-servers`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the ToolUniverse project:
-
-ToolUniverse is an open-source project that aims to democratize access to AI and machine learning capabilities, empowering scientists and researchers to efficiently explore and utilize various tools in their work. By providing an orchestration platform, ToolUniverse streamlines the process of tool discovery, deployment, and management, allowing users to focus on their research without the burden of technical complexities. This project seeks to accelerate innovation in the AI and ML space by breaking down barriers to tool adoption.
+mims-harvard/ToolUniverse is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/mims-harvard/ToolUniverse) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mims-harvard/ToolUniverse) · [← Back to Orchestration](./README.md)</sub>

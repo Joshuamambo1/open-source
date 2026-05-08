@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 272 |
+| 🍴 **Forks** | 273 |
 | 💻 **Language** | Cuda |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cuda` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, titled "BBuf/how-to-optim-algorithm-in-cuda," provides a comprehensive guide on optimizing algorithms in CUDA, a popular parallel computing platform for NVIDIA GPUs. By sharing expertise and strategies for improving performance and efficiency, the project aims to support the development of high-performance artificial intelligence (AI) and machine learning (ML) applications. Developers can leverage this knowledge to accelerate their own CUDA-based projects and achieve faster results.
+BBuf/how-to-optim-algorithm-in-cuda is a promising open-source project. Categories: AI/ML. Interest score: 67/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) · [← Back to AI/ML](./README.md)</sub>

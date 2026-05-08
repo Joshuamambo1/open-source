@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-code-review` `ai-coding-tools` `code-review` `coding-assistant` `generative-ai` `hacktoberfest`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ kodustech/kodus-ai is a promising open-source project. Categories: AI/ML. Intere
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/kodustech/kodus-ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kodustech/kodus-ai) · [← Back to AI/ML](./README.md)</sub>

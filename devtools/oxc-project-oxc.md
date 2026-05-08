@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `javascript` `linter` `minifier` `parser` `transpiler` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The oxc-project/oxc is an open-source collection of high-performance JavaScript tools designed to aid developers in efficiently building and optimizing their applications. This versatile suite of tools is categorized under DevTools, providing users with a range of powerful utilities to streamline their development process.
+oxc-project/oxc is a promising open-source project. Categories: DevTools. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/oxc-project/oxc) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/oxc-project/oxc) · [← Back to DevTools](./README.md)</sub>

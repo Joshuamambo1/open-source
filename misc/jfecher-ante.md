@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ante` `compiler` `language` `llvm` `refinement-types` `systems-language`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Ate is an open-source systems language designed with safety and ease of use in mind. It aims to provide a secure programming environment by incorporating features that prevent common errors and vulnerabilities. By focusing on simplicity and reliability, Ate enables developers to build stable and trustworthy systems.
+jfecher/ante is a promising open-source project. Categories: Misc. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jfecher/ante) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jfecher/ante) · [← Back to Misc](./README.md)</sub>

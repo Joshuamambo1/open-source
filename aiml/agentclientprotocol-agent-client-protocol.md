@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 237 |
+| 🍴 **Forks** | 238 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The agent-client-protocol is an open-source project enabling seamless communication between any text editor and AI or machine learning (ML) agents. This protocol facilitates the integration of various editors with diverse agents, promoting collaboration and innovation in fields like AI development. By standardizing interactions between editors and agents, the project empowers developers to focus on creating without being bound by specific software or platform limitations.
+agentclientprotocol/agent-client-protocol is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/agentclientprotocol/agent-client-protocol) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/agentclientprotocol/agent-client-protocol) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `apple-silicon` `audio-processing` `claude-code` `computer-vision` `image-understanding` `inference` `llm` `machine-learning` `macos` `mllm` `mlx`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The vllm-mlx project is an open-source, Apple Silicon-compatible server for running OpenAI and Anthropic-compatible large language models (LLMs) and vision-language models. It supports continuous batching, multimodal capabilities, and integrations with popular tools like Claude Code, making it suitable for a range of AI and ML applications. With a native MLX backend and 400+ tokens per second processing speed, vllm-mlx is an efficient and versatile solution for developers and researchers.
+waybarrios/vllm-mlx is a promising open-source project. Categories: AI/ML, Backend, Mobile. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/waybarrios/vllm-mlx) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/waybarrios/vllm-mlx) · [← Back to AI/ML](./README.md)</sub>

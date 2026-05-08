@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 296.1k |
+| ⭐ **Stars** | 296.3k |
 | 🍴 **Forks** | 27.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `collections` `python` `python-frameworks` `python-libraries` `python-tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The vinta/awesome-python project is an open-source, curated list of Python frameworks, libraries, tools, and resources. It provides an opinionated guide for developers looking to explore the vast ecosystem of Python, helping them discover popular and reliable tools for various tasks and applications. This comprehensive resource serves as a starting point for Python beginners and experts alike.
+vinta/awesome-python is a promising open-source project. Categories: Misc. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/vinta/awesome-python) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vinta/awesome-python) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 995 |
+| ⭐ **Stars** | 996 |
 | 🍴 **Forks** | 359 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitcoin` `cryptocurrency` `cryptography` `electron` `suite` `trezor` `typescript` `wallet` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Frontend
 
 ## 📝 Summary
 
-Trezor Suite is an open-source, monorepo project that brings together various components for a comprehensive cryptocurrency management experience. This project provides a user-friendly interface for interacting with Trezor hardware wallets and offers advanced features for managing cryptocurrency portfolios. By harnessing the power of open-source development, Trezor Suite aims to provide a secure and seamless experience for cryptocurrency enthusiasts.
+trezor/trezor-suite is a promising open-source project. Categories: Crypto, Frontend. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/trezor/trezor-suite) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/trezor/trezor-suite) · [← Back to Crypto](./README.md)</sub>

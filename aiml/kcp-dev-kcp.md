@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 446 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`k8s` `kcp` `kubernetes` `multitenancy`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra · Marketing
 
 ## 📝 Summary
 
-The kcp project is an open-source initiative that aims to develop Kubernetes-like control planes for a wide range of form-factors and use-cases beyond traditional Kubernetes and container workloads. This flexible framework enables the creation of custom control planes tailored to specific environments and applications. By leveraging kcp, developers can extend the reach of Kubernetes-like functionality to new domains and use cases.
+kcp-dev/kcp is a promising open-source project. Categories: AI/ML, DevOps/Infra, Marketing. Interest score: 71/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/kcp-dev/kcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kcp-dev/kcp) · [← Back to AI/ML](./README.md)</sub>

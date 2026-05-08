@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 332 |
-| 🍴 **Forks** | 34 |
+| ⭐ **Stars** | 335 |
+| 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude` `claude-code` `claude-code-plugins` `claude-marketplace` `claude-skills` `codex` `codex-plugin` `cursor` `devops` `opencode-plugin` `vibe-coding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The agentops project is an open-source operational layer for developing coding agents. It provides a framework for managing agent memory, validation, and feedback loops, enabling agents to learn and improve over multiple sessions. This AI/ML infrastructure is designed to facilitate the development of sophisticated coding agents.
+boshu2/agentops is a promising open-source project. Categories: AI/ML. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/boshu2/agentops) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/boshu2/agentops) · [← Back to AI/ML](./README.md)</sub>

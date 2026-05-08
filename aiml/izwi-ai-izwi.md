@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asr` `audio-inference` `local-first` `openai-compatible-api` `self-hosted-ai` `speaker-diarization` `speech-to-text` `text-to-speech` `tts` `voice-cloning`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the izwi open-source project:
-
-Izwi is an open-source voice AI runtime that enables local-first processing of voice data, including transcription, speaker diarization, text-to-speech (TTS), and voice cloning capabilities. This project provides an OpenAI-compatible API, allowing developers to integrate its advanced voice AI features into their applications. With izwi, users can leverage powerful voice AI technology while maintaining control over their data and ensuring seamless performance.
+izwi-ai/izwi is a promising open-source project. Categories: AI/ML, Backend. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/izwi-ai/izwi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/izwi-ai/izwi) · [← Back to AI/ML](./README.md)</sub>

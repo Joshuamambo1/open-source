@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 187 |
+| 🍴 **Forks** | 190 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`confidential-computing` `rust` `vmm`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ microsoft/openvmm is a promising open-source project. Categories: Misc. Interest
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/microsoft/openvmm) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/openvmm) · [← Back to Misc](./README.md)</sub>

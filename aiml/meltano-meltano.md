@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 235 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`connectors` `data` `data-engineering` `data-pipelines` `dataops` `dataops-platform` `elt` `extract-data` `integration` `loaders` `meltano` `meltano-sdk`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ meltano/meltano is a promising open-source project. Categories: AI/ML, Backend, 
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/meltano/meltano) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/meltano/meltano) · [← Back to AI/ML](./README.md)</sub>

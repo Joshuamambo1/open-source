@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8.3k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-management` `circuit-breaker` `consul` `enforce-policies` `envoy` `fault-injection` `kubernetes` `lyft-envoy` `microservice` `microservices` `nomad` `polyglot-microservices`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Istio is an open-source platform that provides a comprehensive suite of features for connecting, securing, and observing services across multiple environments. It enables developers to manage and visualize microservices-based applications with ease, promoting scalability, reliability, and security. With Istio, teams can streamline service deployment, traffic management, and monitoring, fostering a more efficient and agile development workflow.
+istio/istio is a promising open-source project. Categories: Frontend, Backend, DevOps/Infra. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/istio/istio) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/istio/istio) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apple-silicon` `bsd` `c-plus-plus` `cmake` `floss` `game` `gplv2` `json` `linux` `lua` `macos-app` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Design
 
 ## 📝 Summary
 
-Widelands is an open-source, real-time strategy game that offers engaging singleplayer campaigns and multiplayer mode gameplay. Inspired by the classic Settlers II, this game boasts a rich variety of features and depth, setting it apart from its inspiration. With a focus on strategy and community-driven development, Widelands invites players to experience a unique and immersive gaming experience.
+widelands/widelands is a promising open-source project. Categories: AI/ML, Design. Interest score: 73/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/widelands/widelands) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/widelands/widelands) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 303 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`caldav` `caldav-sharing` `calendar` `calendars` `hacktoberfest` `nextcloud` `nextcloud-app` `nextcloud-calendar` `rfc-5545` `self-hosted` `web` `webcal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The nextcloud/calendar project is an open-source calendar application integrated with Nextcloud, a popular cloud storage platform. This app allows users to manage their calendars, create and schedule events, and share calendars with others, all within the Nextcloud interface. By utilizing the calendar app, Nextcloud users can efficiently organize their time and stay connected with others in a seamless and convenient manner.
+nextcloud/calendar is a promising open-source project. Categories: Misc. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nextcloud/calendar) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nextcloud/calendar) · [← Back to Misc](./README.md)</sub>

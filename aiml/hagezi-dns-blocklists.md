@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 22.4k |
-| 🍴 **Forks** | 662 |
+| 🍴 **Forks** | 663 |
 | 💻 **Language** | Text |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adblock` `adguard` `ads` `blacklist` `blocklist` `coins` `dns` `domains` `fake` `filterlist` `hosts` `malware`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Marketing
 
 ## 📝 Summary
 
-The hagezi/dns-blocklists project provides a collection of open-source DNS blocklists aimed at enhancing online security and user experience. By blocking malicious domains, this initiative contributes to a safer and cleaner internet for all users. It is an ongoing effort to combat online threats and promote a better online environment.
+hagezi/dns-blocklists is a promising open-source project. Categories: AI/ML, Marketing. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/hagezi/dns-blocklists) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hagezi/dns-blocklists) · [← Back to AI/ML](./README.md)</sub>

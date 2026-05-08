@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitcoin` `bitcoin-payment-gateway` `bitcoin-payment-processor` `crowdfunding` `lightning-network` `payment-gateway` `point-of-sale` `selfhosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Payments · Backend
 
 ## 📝 Summary
 
-The btcpayserver project is an open-source, self-hosted Bitcoin payment processor that enables businesses to accept Bitcoin payments freely. This backend system allows merchants to integrate Bitcoin payments seamlessly into their existing e-commerce platforms, providing a secure and decentralized payment solution. With btcpayserver, businesses can manage their Bitcoin transactions, invoices, and wallets in a secure, private, and community-driven environment.
+btcpayserver/btcpayserver is a promising open-source project. Categories: Crypto, Payments, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/btcpayserver/btcpayserver) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/btcpayserver/btcpayserver) · [← Back to Crypto](./README.md)</sub>

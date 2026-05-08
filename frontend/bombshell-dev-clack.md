@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `command-line-app` `node` `prompt` `prompts`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the clack project:
-
-Clack is an open-source project that allows developers to effortlessly build beautiful command-line apps with ease. This frontend-focused tool provides a robust framework for crafting intuitive and visually appealing command-line interfaces. With clack, developers can focus on building engaging user experiences without worrying about the complexities of command-line app development.
+bombshell-dev/clack is a promising open-source project. Categories: Frontend, DevTools. Interest score: 85/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bombshell-dev/clack) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bombshell-dev/clack) · [← Back to Frontend](./README.md)</sub>

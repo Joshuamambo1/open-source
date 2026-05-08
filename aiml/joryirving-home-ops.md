@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | YAML |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`flux` `gitops` `kubernetes` `kubesearch` `renovate` `self-hosted` `talos` `terraform`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the joryirving/home-ops project:
-
-Home-ops is an open-source project that leverages Kubernetes and GitOps via Flux to automate home operations. This project, driven by HomeOps, demonstrates how DevOps principles can be applied to household management, making it more efficient and manageable. By utilizing Kubernetes and Flux, users can easily manage and maintain their home systems in a scalable and reliable manner.
+joryirving/home-ops is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/joryirving/home-ops) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/joryirving/home-ops) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 372 |
+| ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compression` `knowledge-base` `knowledge-graph` `llm` `localstorage` `memory`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the trvon/yams project:
-
-yams is an open-source, content-addressed storage solution that enables persistent memory for large language models (LLMs) and applications. It provides deduplication, compression, and search capabilities, including full-text and vector search, to efficiently store and retrieve data. This project is categorized under AI/ML and aims to facilitate the development and deployment of AI-powered systems.
+The trvon/yams project is an open-source, persistent memory solution for Large Language Models (LLMs) and applications. It utilizes content-addressed storage with features such as deduplication, compression, and search capabilities, including full-text and vector search. This enables efficient and scalable storage and retrieval of data for AI/ML workloads.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/trvon/yams) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/trvon/yams) · [← Back to AI/ML](./README.md)</sub>

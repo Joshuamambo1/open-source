@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `chatgpt` `chroma` `embeddings` `gemini` `gpt` `huggingface` `java` `langchain` `llama` `llm` `llms`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the LangChain4j project:
-
-LangChain4j is an open-source Java library that simplifies the development of LLM-powered applications on the JVM. It provides a unified API to various large language model (LLM) providers and vector stores, making it easy to implement tool calling, agents, and retrieval augmented generation (RAG) capabilities. By integrating seamlessly with popular Java frameworks like Quarkus and Spring Boot, LangChain4j streamlines the process of building cutting-edge AI and ML applications.
+langchain4j/langchain4j is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/langchain4j/langchain4j) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/langchain4j/langchain4j) · [← Back to Orchestration](./README.md)</sub>

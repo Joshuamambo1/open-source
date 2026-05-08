@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 983 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`crypto` `cryptography` `encrypted` `hacktoberfest` `one-time` `paste` `pastebin` `php` `security` `self-destroy` `self-hosted` `self-hosting`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the PrivateBin project:
-
-PrivateBin is an open-source, online pastebin that prioritizes user privacy by encrypting data locally in the browser using 256-bit AES encryption, ensuring that the server never accesses or stores sensitive data. This minimalist platform provides a secure space for users to share and store encrypted text without compromising their confidentiality. With data stored solely on the client-side, PrivateBin offers a trusted solution for individuals seeking to safeguard their online content.
+PrivateBin/PrivateBin is a promising open-source project. Categories: Crypto, Backend, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/PrivateBin/PrivateBin) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/PrivateBin/PrivateBin) · [← Back to Crypto](./README.md)</sub>

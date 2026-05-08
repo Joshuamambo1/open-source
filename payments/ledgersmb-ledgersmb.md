@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 533 |
+| ⭐ **Stars** | 534 |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Perl |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`accounting` `billing` `bookkeeping` `double-entry-accounting` `fixed-asset` `general-ledger` `hacktoberfest` `inventory` `inventory-management` `invoicing` `manufacturing` `material-cards`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments
 
 ## 📝 Summary
 
-LedgerSMB is an open-source, web-based double-entry accounting and ERP solution designed to manage financial transactions and business operations efficiently. This comprehensive platform offers a wide range of features, making it suitable for small to medium-sized businesses. It provides a robust and customizable framework for managing payments, invoicing, and financial reporting.
+ledgersmb/LedgerSMB is a promising open-source project. Categories: Payments. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ledgersmb/LedgerSMB) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ledgersmb/LedgerSMB) · [← Back to Payments](./README.md)</sub>

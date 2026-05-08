@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 43.6k |
+| ⭐ **Stars** | 43.7k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anki` `chatgpt` `deepseek` `electron` `evernote` `knowledge-base` `local-first` `markdown` `note-taking` `notes-app` `notion` `obsidian`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Siyuan is an open-source personal knowledge management software that prioritizes user privacy. It is a self-hosted platform written in TypeScript and GoLang, allowing users to manage and organize their knowledge in a secure and decentralized manner. This fully open-source solution empowers individuals to maintain control over their digital information.
+siyuan-note/siyuan is a promising open-source project. Categories: Misc. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/siyuan-note/siyuan) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/siyuan-note/siyuan) · [← Back to Misc](./README.md)</sub>

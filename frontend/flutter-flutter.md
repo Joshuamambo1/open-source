@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 30.3k |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `app-framework` `cross-platform` `dart` `dart-platform` `desktop` `flutter` `flutter-package` `fuchsia` `ios` `linux-desktop` `macos`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Mobile · Design
 
 ## 📝 Summary
 
-Flutter is an open-source UI toolkit
+flutter/flutter is a promising open-source project. Categories: Frontend, Mobile, Design. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/flutter/flutter) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/flutter/flutter) · [← Back to Frontend](./README.md)</sub>

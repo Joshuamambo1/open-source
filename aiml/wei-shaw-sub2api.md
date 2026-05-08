@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 17.9k |
-| 🍴 **Forks** | 3.2k |
+| ⭐ **Stars** | 18.5k |
+| 🍴 **Forks** | 3.4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`2api` `antigravity2api` `cc2api` `claude` `claude-code` `codex` `crs` `crs2` `gemini`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary (2-3 sentences) for the open-source project:
-
-Sub2API is an open-source, unified gateway service that enables seamless integration of various AI platforms, including Claude, OpenAI, Gemini, and Antigravity, into a single interface. This streamlined solution allows for efficient cost allocation and ride-sharing capabilities, making it an ideal choice for developers who want to harness the power of these AI tools with minimal overhead. By providing a native tool integration, Sub2API simplifies the development process and enhances productivity.
+Wei-Shaw/sub2api is a promising open-source project. Categories: AI/ML, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Wei-Shaw/sub2api) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Wei-Shaw/sub2api) · [← Back to AI/ML](./README.md)</sub>

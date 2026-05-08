@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.2k |
-| 🍴 **Forks** | 733 |
+| ⭐ **Stars** | 7.3k |
+| 🍴 **Forks** | 745 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a` `agent-evolution` `agent-framework` `agent-protocol` `ai-agent` `auditable-ai` `autonomous-agent` `cli` `evomap` `gep` `llm-agent` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The EvoMap/evolver is an open-source, self-evolving engine for AI agents that utilizes Genetic Expression Programming (GEP) to drive auditable evolution. This engine enables the creation of adaptable AI models by combining Genes, Capsules, and Events, allowing for a more transparent and controllable evolution process. As a result, developers can fine-tune AI agents to achieve specific goals while maintaining a clear understanding of their decision-making processes.
+EvoMap/evolver is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/EvoMap/evolver) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/EvoMap/evolver) · [← Back to Orchestration](./README.md)</sub>

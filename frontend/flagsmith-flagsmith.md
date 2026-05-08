@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.3k |
-| 🍴 **Forks** | 516 |
+| 🍴 **Forks** | 517 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cd` `ci` `continuous-integration` `docker` `feature-flag` `feature-flaggers` `feature-flagging` `feature-flags` `feature-management` `feature-toggles` `flagsmith` `hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Flagsmith is a free, open-source feature flagging and remote configuration service that enables developers to manage and control product features in a flexible and scalable manner. It can be self-hosted or utilized through its cloud-based platform at https://app.flagsmith.com. This solution supports various development workflows, including frontend development, DevOps, and infrastructure management.
+Flagsmith/flagsmith is a promising open-source project. Categories: Frontend, DevTools, DevOps/Infra. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Flagsmith/flagsmith) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Flagsmith/flagsmith) · [← Back to Frontend](./README.md)</sub>

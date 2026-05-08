@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Go Template |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-selfservice` `gitops` `kubernetes` `lke` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the linode/apl-core project:
-
-The linode/apl-core project is an open-source App Platform for Linode Kubernetes Engine, designed to simplify the development and deployment of applications on a scalable and secure Kubernetes environment. This platform provides a robust foundation for building, deploying, and managing containerized applications on Linode's Kubernetes engine. With apl-core, developers can streamline their deployment workflows and focus on writing code.
+linode/apl-core is a promising open-source project. Categories: DevTools, DevOps/Infra. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/linode/apl-core) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/linode/apl-core) · [← Back to DevTools](./README.md)</sub>

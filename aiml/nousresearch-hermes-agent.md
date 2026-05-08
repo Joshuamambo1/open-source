@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the NousResearch/hermes-agent project:
-
-Hermes-agent is an open-source AI/ML project designed to provide a scalable and adaptable agent that learns and evolves with its users. Built to accommodate growing needs, this agent offers a flexible framework for integrating various AI and machine learning capabilities. With its modular architecture, users can easily extend and customize the agent to suit their specific requirements.
+NousResearch/hermes-agent is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `chromeos` `cordova` `electron` `ios` `linux` `macos` `outline` `outline-vpn` `shadowsocks` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools · Mobile
 
 ## 📝 Summary
 
-The Outline Foundation's Outline Client and Manager is an open-source project that enables users to create and share their own VPN server, providing secure and unrestricted internet access to their network. Developed by Jigsaw, this tool empowers individuals to take control of their online security and freedom. With the Outline Client and Manager, users can safeguard their online presence and protect sensitive information.
+OutlineFoundation/outline-apps is a promising open-source project. Categories: Backend, DevTools, Mobile. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/OutlineFoundation/outline-apps) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/OutlineFoundation/outline-apps) · [← Back to Backend](./README.md)</sub>

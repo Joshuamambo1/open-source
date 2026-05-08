@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `angularjs` `appengine` `appengine-python` `education` `hacktoberfest` `interactive` `javascript` `learning` `nonprofit` `python` `sdg`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ oppia/oppia is a promising open-source project. Categories: Misc. Interest score
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/oppia/oppia) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/oppia/oppia) · [← Back to Misc](./README.md)</sub>

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-CocoaPods/Specs is an open-source project that serves as the master repository for CocoaPods, a dependency manager for the Cocoa ecosystem. It hosts a vast collection of pre-built frameworks and libraries, known as specs, which developers can easily integrate into their projects. By providing a centralized platform for sharing and managing dependencies, CocoaPods/Specs simplifies the development process for iOS, macOS, watchOS, and tvOS applications.
+CocoaPods/Specs is a promising open-source project. Categories: Misc. Interest score: 90/100.
 
 ---
 

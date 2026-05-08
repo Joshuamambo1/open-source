@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`linter` `pep8` `python` `python3` `ruff` `rust` `rustpython` `static-analysis` `static-code-analysis` `style-guide` `styleguide`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Astral-sh/ruff is an open-source code analysis tool that serves as a fast Python linter and code formatter. Written in Rust for high performance, it provides a reliable way to identify and fix coding errors, and maintain code consistency. This tool is designed to streamline development workflows and improve overall code quality.
+Ruff is a high-performance Python linter and code formatter written in Rust. It leverages Rust's speed and efficiency to provide fast and accurate analysis of Python code. With its open-source nature, Ruff serves as a scalable and customizable solution for developers seeking to improve their Python codebase's quality.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/astral-sh/ruff) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/astral-sh/ruff) · [← Back to Frontend](./README.md)</sub>

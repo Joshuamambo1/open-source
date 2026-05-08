@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`github-actions` `security` `security-tools` `static-analysis`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-The zizmor project is an open-source tool for static analysis within GitHub Actions, designed to enhance security by identifying potential vulnerabilities and issues in code. It analyzes GitHub Actions workflows for security risks, providing developers with actionable insights to improve the integrity of their repositories. By leveraging zizmor, developers can automate the process of detecting security threats and maintain a more robust codebase.
+zizmorcore/zizmor is a promising open-source project. Categories: Security. Interest score: 79/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/zizmorcore/zizmor) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/zizmorcore/zizmor) · [← Back to Security](./README.md)</sub>

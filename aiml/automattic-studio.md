@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 423 |
+| ⭐ **Stars** | 428 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `cli` `desktop` `electron` `wordpress`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-WordPress Studio is an open-source desktop app and command-line interface (CLI) designed to simplify local WordPress development workflows for developers. This free tool streamlines tasks and enhances productivity, making it easier for users to focus on building and testing their WordPress projects. By automating routine tasks, WordPress Studio aims to improve the overall development experience.
+Automattic/studio is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 50/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Automattic/studio) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Automattic/studio) · [← Back to AI/ML](./README.md)</sub>

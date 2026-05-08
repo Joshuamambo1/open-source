@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.3k |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `gradle-plugin` `intellij-plugin` `kotlin` `kotlin-library` `maven-plugin` `programming-language` `wasm` `webassembly`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ JetBrains/kotlin is a promising open-source project. Categories: AI/ML. Interest
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/JetBrains/kotlin) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/JetBrains/kotlin) · [← Back to AI/ML](./README.md)</sub>

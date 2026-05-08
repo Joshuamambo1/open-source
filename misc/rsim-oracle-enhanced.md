@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 324 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The rsim/oracle-enhanced project provides an enhanced adapter for using Oracle databases with the ActiveRecord framework. This open-source project aims to improve support for Oracle databases by offering additional features and enhancements. By leveraging this adapter, developers can more efficiently interact with Oracle databases in their applications.
+The rsim/oracle-enhanced project is an open-source, enhanced adapter for Oracle databases within the ActiveRecord framework. This adapter offers improved functionality and performance when working with Oracle databases, allowing for more seamless integration and operation. By leveraging this adapter, developers can tap into a more robust set of features for their Oracle-based applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/rsim/oracle-enhanced) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rsim/oracle-enhanced) · [← Back to Misc](./README.md)</sub>

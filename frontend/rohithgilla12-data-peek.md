@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-tools` `electron` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-data-peek is a lightweight, open-source database client desktop application designed for developers to quickly inspect their data without the added complexity of bulky tools. Built for speed and simplicity, this application streamlines data exploration, saving developers valuable time and effort. It's a must-have companion for anyone who needs to rapidly access and analyze their database data.
+Rohithgilla12/data-peek is a promising open-source project. Categories: Frontend, DevTools, Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Rohithgilla12/data-peek) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Rohithgilla12/data-peek) · [← Back to Frontend](./README.md)</sub>

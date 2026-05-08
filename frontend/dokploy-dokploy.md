@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 33.7k |
+| ⭐ **Stars** | 33.8k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`backend` `backups` `databases` `deployment` `devops` `docker` `frontend` `mariadb` `mongodb` `mysql` `nextjs` `postgresql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · Data
 
 ## 📝 Summary
 
-Dokploy is an open-source platform that offers a cost-effective and customizable alternative to popular deployment tools like Vercel, Netlify, and Heroku. This comprehensive platform supports frontend, backend, and data management, allowing developers to streamline their workflows and deploy applications with ease. By leveraging Dokploy, developers can maintain control and flexibility over their projects while reducing dependence on proprietary services.
+Dokploy/dokploy is a promising open-source project. Categories: Frontend, Backend, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Dokploy/dokploy) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Dokploy/dokploy) · [← Back to Frontend](./README.md)</sub>

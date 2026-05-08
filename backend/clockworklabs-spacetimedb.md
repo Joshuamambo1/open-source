@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database` `dataoriented` `game-development` `mmorpg-server` `relational` `relational-database` `web-development` `web-framework`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Data
 
 ## 📝 Summary
 
-SpacetimeDB is an open-source project that aims to revolutionize data storage and management with its high-performance capabilities. Developed at the speed of light, this project utilizes innovative technologies to optimize data processing and storage, enabling fast and efficient data handling. By harnessing the power of speed, SpacetimeDB seeks to transform the way we interact with data.
+clockworklabs/SpacetimeDB is a promising open-source project. Categories: Backend, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/clockworklabs/SpacetimeDB) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/clockworklabs/SpacetimeDB) · [← Back to Backend](./README.md)</sub>

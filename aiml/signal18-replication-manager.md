@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alerting` `backups` `configuration-management` `failover` `group-replication` `gtid` `haproxy` `kubernetes` `leader-election` `mariadb` `monitoring` `mysql`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The Signal 18 Replication Manager (Repman) is an open-source tool designed to simplify the management of MySQL, MariaDB, and Percona Server databases through advanced replication capabilities. This project enables users to automate and monitor database replication, ensuring high availability and scalability. With Repman, database administrators can streamline replication tasks and minimize downtime.
+signal18/replication-manager is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/signal18/replication-manager) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/signal18/replication-manager) · [← Back to AI/ML](./README.md)</sub>

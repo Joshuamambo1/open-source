@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 245 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `background-jobs` `background-tasks` `event-driven` `hacktoberfest` `kafka` `message-queue` `pubsub` `queue` `rabbitmq` `redis` `rust`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the svix/svix-webhooks project:
-
-svix/svix-webhooks is an open-source, enterprise-ready webhooks service that provides a robust and scalable solution for sending and receiving webhook notifications. Its flexible architecture allows users to customize and manage webhooks with ease, making it an ideal choice for businesses and developers. With svix/svix-webhooks, developers can focus on building their applications without worrying about the complexities of webhook infrastructure.
+svix/svix-webhooks is a promising open-source project. Categories: Backend. Interest score: 76/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/svix/svix-webhooks) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/svix/svix-webhooks) · [← Back to Backend](./README.md)</sub>

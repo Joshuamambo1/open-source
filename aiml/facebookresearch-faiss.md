@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 39.9k |
+| ⭐ **Stars** | 40k |
 | 🍴 **Forks** | 4.4k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Facebook AI Similarity Search (FAISS) library is an open-source project that provides efficient algorithms for similarity search and clustering of dense vectors in high-dimensional spaces. This library enables applications such as image and video search, natural language processing, and recommender systems to be built more efficiently and effectively. By leveraging optimized indexing and search techniques, FAISS facilitates fast and accurate vector similarity computations.
+facebookresearch/faiss is a promising open-source project. Categories: AI/ML. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/facebookresearch/faiss) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/facebookresearch/faiss) · [← Back to AI/ML](./README.md)</sub>

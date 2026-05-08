@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 802 |
-| 🍴 **Forks** | 389 |
+| ⭐ **Stars** | 803 |
+| 🍴 **Forks** | 391 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apm` `datadog` `javascript` `nodejs` `opentracing` `tracing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data
 
 ## 📝 Summary
 
-The Datadog APM client for Node.js, available as the open-source project "DataDog/dd-trace-js," enables developers to instrument and monitor their Node.js applications with Datadog's advanced performance monitoring capabilities. This client allows users to collect and visualize key performance metrics, including latency, throughput, and memory usage, providing a comprehensive view of application health and performance. By integrating with Datadog's APM platform, users can optimize their applications and improve overall system reliability.
+DataDog/dd-trace-js is a promising open-source project. Categories: DevTools, Data. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/DataDog/dd-trace-js) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/DataDog/dd-trace-js) · [← Back to DevTools](./README.md)</sub>

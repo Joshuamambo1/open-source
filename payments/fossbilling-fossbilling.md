@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 312 |
+| 🍴 **Forks** | 314 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`billing` `bootstrap` `docker` `doctrine` `help-wanted` `hosting` `mysql` `payments` `php` `self-hosted` `twig`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-FOSSBilling is a free and open-source solution that enables hosting businesses to manage their billing and client relationships efficiently. This software offers a range of features to streamline payment processing and client management, making it an ideal choice for businesses looking for a cost-effective and customizable solution. With FOSSBilling, users can automate and simplify their billing processes, saving time and resources.
+FOSSBilling/FOSSBilling is a promising open-source project. Categories: Payments, DevTools, DevOps/Infra. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/FOSSBilling/FOSSBilling) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/FOSSBilling/FOSSBilling) · [← Back to Payments](./README.md)</sub>

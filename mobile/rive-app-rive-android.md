@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 509 |
+| ⭐ **Stars** | 510 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `animations` `multiple-animations` `playing-animations` `rive`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The rive-app/rive-android project is an open-source runtime for Android that enables interactive graphics and animations. It allows developers to run Rive files, a format for creating interactive graphics and animations, directly on Android devices. This makes it easier to integrate dynamic and engaging visual elements into mobile applications.
+rive-app/rive-android is a promising open-source project. Categories: Mobile. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/rive-app/rive-android) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rive-app/rive-android) · [← Back to Mobile](./README.md)</sub>

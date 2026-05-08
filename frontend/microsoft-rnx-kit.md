@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `cli` `cross-platform` `dependency-manager` `desktop` `desktop-development` `developer-experience` `developer-tools` `devtools` `ios` `macos` `mobile`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
-Microsoft's rnx-kit is an open-source project that provides modern and scalable tools to streamline developer workflows. This project focuses on delivering an exceptional developer experience, empowering developers to build high-quality applications efficiently. With its robust features and seamless integration, rnx-kit is suitable for frontend, devtool, and mobile development.
+microsoft/rnx-kit is a promising open-source project. Categories: Frontend, DevTools, Mobile. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/microsoft/rnx-kit) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/rnx-kit) · [← Back to Frontend](./README.md)</sub>

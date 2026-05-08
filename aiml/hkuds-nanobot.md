@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 41.7k |
-| 🍴 **Forks** | 7.3k |
+| ⭐ **Stars** | 41.9k |
+| 🍴 **Forks** | 7.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude` `claude-code` `codex` `llm` `nanobot` `openai` `openclaw`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a summary for the HKUDS/nanobot project:
-
-HKUDS/nanobot is an open-source project that introduces a lightweight, ultra-personal AI agent designed to provide users with an intelligent personal assistant. This AI agent is built with the goal of being efficient, adaptable, and user-friendly, making it suitable for various applications and use cases. By leveraging AI and ML technologies, nanobot aims to empower users with a seamless and personalized experience.
+HKUDS/nanobot is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/HKUDS/nanobot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/HKUDS/nanobot) · [← Back to AI/ML](./README.md)</sub>

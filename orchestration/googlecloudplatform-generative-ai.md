@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `gcp` `gemini` `gemini-api` `gen-ai` `generative-ai` `google` `google-cloud` `google-gemini` `langchain` `large-language-models` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The GoogleCloudPlatform/generative-ai project provides open-source sample code and notebooks for implementing Generative AI on Google Cloud, leveraging the Gemini Enterprise Agent Platform for orchestration. This project aims to facilitate the development and deployment of Generative AI applications on the Google Cloud platform. By utilizing this project, users can explore and build upon cutting-edge AI capabilities on Google Cloud.
+GoogleCloudPlatform/generative-ai is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/GoogleCloudPlatform/generative-ai) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/GoogleCloudPlatform/generative-ai) · [← Back to Orchestration](./README.md)</sub>

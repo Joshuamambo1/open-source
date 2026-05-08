@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `cataclysm` `game` `hacktoberfest` `zombies`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Cataclysm - Dark Days Ahead is a turn-based survival game that immerses players in a post-apocalyptic world, challenging them to navigate the dangers of a devastated environment. This open-source project offers a rich and immersive gaming experience, combining elements of exploration, crafting, and combat to create a unique and engaging gameplay experience. Players must scavenge for resources and manage their character's skills and well-being to survive in this unforgiving world.
+CleverRaven/Cataclysm-DDA is a promising open-source project. Categories: Misc. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/CleverRaven/Cataclysm-DDA) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/CleverRaven/Cataclysm-DDA) · [← Back to Misc](./README.md)</sub>

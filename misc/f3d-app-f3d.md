@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 403 |
+| 🍴 **Forks** | 405 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d` `3d-graphics` `3d-viewer` `command-line-tool` `dxf` `fbx` `glb` `gltf` `gltf-viewer` `graphics` `obj` `physically-based-rendering`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The f3d-app/f3d project is an open-source, fast, and minimalist 3D viewer designed for efficient and streamlined visualization of 3D content. This lightweight viewer provides a simple and intuitive interface for navigating and interacting with 3D models. Its minimalist approach makes it an ideal choice for developers and users seeking a compact and performant 3D visualization solution.
+f3d-app/f3d is a promising open-source project. Categories: Misc. Interest score: 86/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/f3d-app/f3d) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/f3d-app/f3d) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `java` `jwt` `kubernetes` `log4j2` `lombok` `maven` `postgresql-database` `postman` `sonarqube` `spring-boot` `spring-data-jpa`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML · Backend
 
 ## 📝 Summary
 
-Iced-Latte is an open-source online marketplace for coffee retail, focusing on providing a robust backend infrastructure for businesses in the industry. Built with a modular design, it enables seamless payment processing and incorporates AI/ML capabilities to enhance user experiences. By leveraging Iced-Latte's customizable backend, coffee retailers can streamline their operations and connect with a broader customer base.
+Sunagatov/Iced-Latte is a promising open-source project. Categories: Payments, AI/ML, Backend. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Sunagatov/Iced-Latte) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Sunagatov/Iced-Latte) · [← Back to Payments](./README.md)</sub>

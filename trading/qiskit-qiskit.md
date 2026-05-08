@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `python` `qiskit` `quantum` `quantum-circuit` `quantum-computing` `quantum-programming-language` `rust` `sdk`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · Frontend
 
 ## 📝 Summary
 
-Qiskit/qiskit is a promising open-source project. Categories: Frontend. Interest score: 100/100.
+Qiskit/qiskit is a promising open-source project. Categories: Trading, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Qiskit/qiskit) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Qiskit/qiskit) · [← Back to Trading](./README.md)</sub>

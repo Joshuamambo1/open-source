@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 28.6k |
+| ⭐ **Stars** | 28.7k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `build` `build-system` `build-tool` `building-tool` `cli` `cypress` `hacktoberfest` `javascript` `monorepo` `nextjs` `nodejs`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ nrwl/nx is a promising open-source project. Categories: AI/ML, Frontend, DevTool
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/nrwl/nx) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nrwl/nx) · [← Back to AI/ML](./README.md)</sub>

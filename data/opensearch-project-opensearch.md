@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 12.9k |
-| 🍴 **Forks** | 2.5k |
+| 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `apache2` `foss` `java` `search` `search-engine`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ opensearch-project/OpenSearch is a promising open-source project. Categories: Da
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/opensearch-project/OpenSearch) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/opensearch-project/OpenSearch) · [← Back to Data](./README.md)</sub>

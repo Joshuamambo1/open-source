@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 120 |
+| ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `airbyte` `anthropic` `connectors` `data` `enterprise` `gemini` `integrations` `langchain` `llm` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-The airbyte-agent-sdk project provides a set of drop-in tools for AI agents to securely access external systems, ensuring reliable and permission-aware interactions. This open-source solution enables AI/ML applications to integrate with various data sources, streamlining data orchestration and facilitating seamless data exchange. By utilizing the airbyte-agent-sdk, developers can build more efficient and secure AI-powered systems.
+airbytehq/airbyte-agent-sdk is a promising open-source project. Categories: Orchestration, AI/ML, Data. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/airbytehq/airbyte-agent-sdk) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/airbytehq/airbyte-agent-sdk) · [← Back to Orchestration](./README.md)</sub>

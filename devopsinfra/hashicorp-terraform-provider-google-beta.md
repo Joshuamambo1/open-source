@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 289 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`google-cloud` `terraform` `terraform-provider`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The hashicorp/terraform-provider-google-beta project is an open-source Terraform provider that enables users to manage and provision Google Cloud Platform (GCP) resources in a declarative and reproducible manner, offering a beta version of the provider for early adoption and testing. This provider allows users to leverage Terraform's infrastructure as code capabilities to deploy and manage GCP resources, such as compute instances, storage buckets, and more. By using this provider, users can streamline their cloud infrastructure management and ensure consistency across their GCP environments.
+The hashicorp/terraform-provider-google-beta project is an open-source Terraform provider that allows users to manage Google Cloud Platform resources in a declarative and infrastructure-as-code manner. This beta provider offers a range of features to streamline cloud infrastructure management, making it easier to automate and version control Google Cloud deployments. By integrating with Terraform, users can leverage a consistent workflow for managing multi-cloud environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/hashicorp/terraform-provider-google-beta) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hashicorp/terraform-provider-google-beta) · [← Back to DevOps & Infra](./README.md)</sub>

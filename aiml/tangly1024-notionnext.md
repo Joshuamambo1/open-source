@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 14.6k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blog` `nextjs` `notion` `react` `tailwindcss` `vercel` `zeabur`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the NotionNext project:
-
-NotionNext is an open-source static blog platform built with NextJS and Notion API, enabling users to deploy websites without a server or technical expertise. This zero-threshold solution is designed for Notion users and creators alike, offering flexibility in deployment options. By leveraging the power of NextJS and Notion API, NotionNext simplifies the process of building and hosting a website.
+tangly1024/NotionNext is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/tangly1024/NotionNext) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tangly1024/NotionNext) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 283 |
+| ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `codex` `codex-plugins` `mcp` `plugin-scanner` `python` `scanner` `security`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-The hashgraph-online/ai-plugin-scanner is an open-source project that provides a security and best-practices scanner for AI plugins, assessing their trustworthiness on a scale of 0-100. This tool supports a range of popular AI platforms, including Codex, Claude, Opencode, and Gemini, helping developers make informed decisions about plugin usage. By leveraging AI/plugin scanner, users can identify potential security risks and adhere to best practices for safer and more reliable AI integrations.
+Here is a brief summary of the open-source project:
+
+The AI Plugin Scanner is an open-source security tool that evaluates AI plugins, including Codex, Claude, and Opencode, for adherence to best practices and security standards. It assigns a trust score from 0-100 to each plugin, providing developers with a clear assessment of their plugin's reliability. This scanner helps ensure the integrity and safety of AI plugins in various applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/hashgraph-online/ai-plugin-scanner) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hashgraph-online/ai-plugin-scanner) · [← Back to AI/ML](./README.md)</sub>

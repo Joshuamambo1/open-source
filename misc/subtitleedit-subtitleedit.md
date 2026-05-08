@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-SubtitleEdit is a free, open-source subtitle editor designed to help users create, edit, and manage subtitles for videos. This versatile tool offers a range of features to make subtitle creation and editing easier, including support for multiple formats and languages. With its user-friendly interface, SubtitleEdit is an ideal solution for professionals and hobbyists alike.
+SubtitleEdit/subtitleedit is a promising open-source project. Categories: Misc. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/SubtitleEdit/subtitleedit) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SubtitleEdit/subtitleedit) · [← Back to Misc](./README.md)</sub>

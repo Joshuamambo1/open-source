@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 611 |
-| 🍴 **Forks** | 54 |
+| 🍴 **Forks** | 56 |
 | 💻 **Language** | C |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `decompilation` `gba` `reverse-engineering` `sonic-the-hedgehog`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The SAT-R/sa2 project is an open-source decompilation and port of the popular GameBoy Advance games Sonic Advance 1 and Sonic Advance 2, written entirely in C. This project aims to provide a new perspective on these classic games, allowing developers to explore and modify their code. By making the game's source code available, SAT-R/sa2 enables the community to learn from and build upon the original game's architecture.
+SAT-R/sa2 is a promising open-source project. Categories: Misc. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/SAT-R/sa2) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SAT-R/sa2) · [← Back to Misc](./README.md)</sub>

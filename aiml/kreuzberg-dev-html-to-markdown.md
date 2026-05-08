@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 695 |
+| ⭐ **Stars** | 699 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hocr` `html` `html-converter` `markdown` `markdown-converter` `rag` `text-extraction` `text-processing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-The kreuzberg-dev/html-to-markdown project is an open-source, high-performance HTML to Markdown converter that adheres to the CommonMark standard. It is maintained by the Kreuzberg team, a document intelligence engine with a Rust core that extracts structured data from various document formats. This converter enables seamless conversion between HTML and Markdown formats.
+kreuzberg-dev/html-to-markdown is a promising open-source project. Categories: AI/ML, Frontend, Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kreuzberg-dev/html-to-markdown) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kreuzberg-dev/html-to-markdown) · [← Back to AI/ML](./README.md)</sub>

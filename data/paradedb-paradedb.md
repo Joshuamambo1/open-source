@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.7k |
-| 🍴 **Forks** | 377 |
+| 🍴 **Forks** | 378 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aggregations` `analytics` `bm25` `database` `elasticsearch` `full-text-search` `htap` `hybrid-search` `olap` `postgresql` `real-time-analytics` `similarity-search`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-ParadeDB is an open-source project that provides a simple yet high-quality search capability for Postgres databases. It allows users to easily implement full-text search functionality within their PostgreSQL applications. By leveraging this solution, developers can enhance their databases with robust search features.
+paradedb/paradedb is a promising open-source project. Categories: Data. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/paradedb/paradedb) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/paradedb/paradedb) · [← Back to Data](./README.md)</sub>

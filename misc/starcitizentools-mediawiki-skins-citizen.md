@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Less |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mediawiki-skin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Citizen MediaWiki skin is an open-source, responsive design for MediaWiki platforms. It provides a user-friendly and visually appealing interface, enhancing the overall browsing experience for users. This skin is suitable for websites and communities that require a modern, accessible, and customizable appearance.
+This open-source project, MediaWiki skin Citizen, provides a visually appealing, user-friendly, and responsive design for MediaWiki websites. Developed under the StarCitizenTools organization, it offers a customizable and accessible interface for users. With its focus on usability and aesthetics, the Citizen skin enhances the overall experience of MediaWiki-based platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) · [← Back to Misc](./README.md)</sub>

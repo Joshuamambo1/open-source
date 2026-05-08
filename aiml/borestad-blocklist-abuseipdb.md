@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`abuseipdb` `attack-prevention` `attacks` `blacklist` `blacklists` `blocklist` `blocklists` `firewall` `ipblocklist` `iplist` `iplists` `ipset`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project aggregates blocklists from AbuseIPDB, providing a comprehensive list of the worst IPv4 and IPv6 offenders with a high confidence level of around 99%. By leveraging AbuseIPDB's data, this project aims to support AI/ML applications and help mitigate online abuse. It offers a valuable resource for developers seeking to enhance their systems' security and protection against malicious activity.
+This open-source project, blocklist-abuseipdb, aggregates data from AbuseIPDB's blocklists, providing a comprehensive list of the worst IPv4 and IPv6 offenders with an approximate confidence level of 99%. The categorized project falls under AI/ML, utilizing machine learning techniques to analyze and prioritize malicious IP addresses. This project can be valuable for cybersecurity professionals seeking to enhance their threat detection capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/borestad/blocklist-abuseipdb) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/borestad/blocklist-abuseipdb) · [← Back to AI/ML](./README.md)</sub>

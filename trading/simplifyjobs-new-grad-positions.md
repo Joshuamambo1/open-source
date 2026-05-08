@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`applications` `coderquad` `college` `fulltime` `hacktoberfest` `jobs` `newgrad` `position` `posting` `university`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · Marketing
 
 ## 📝 Summary
 
-SimplifyJobs/New-Grad-Positions is a promising open-source project. Categories: Marketing. Interest score: 100/100.
+SimplifyJobs/New-Grad-Positions is a promising open-source project. Categories: Trading, Marketing. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/SimplifyJobs/New-Grad-Positions) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SimplifyJobs/New-Grad-Positions) · [← Back to Trading](./README.md)</sub>

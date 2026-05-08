@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 138 |
+| 🍴 **Forks** | 139 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-UZDoom is a feature-rich, open-source port of the classic Doom engine, built upon the foundation of GZDoom. This project offers advanced rendering capabilities and powerful scripting tools, allowing users to create immersive and customized gaming experiences. By leveraging GZDoom's capabilities, UZDoom provides an extensive platform for modders and developers to create engaging content.
+UZDoom is an open-source, feature-rich port of the classic Doom engine, offering advanced rendering capabilities and powerful scripting tools. It is built upon the GZDoom foundation, allowing users to enhance and customize their Doom gaming experience. With UZDoom, fans and developers can create and explore immersive Doom games with ease.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/UZDoom/UZDoom) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/UZDoom/UZDoom) · [← Back to Misc](./README.md)</sub>

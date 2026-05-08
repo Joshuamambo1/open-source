@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`busybox` `command-line-tool` `coreutils` `cross-platform` `gnu-coreutils` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The uutils/coreutils project is an open-source, cross-platform implementation of the GNU coreutils in Rust, aiming to provide a modern and efficient alternative to the original tools. It offers a comprehensive set of utilities for file, text, and system management, including tools like `cp`, `mv`, and `ls`. By rewriting these essential tools in Rust, uutils/coreutils aims to improve performance, reliability, and maintainability.
+uutils/coreutils is a promising open-source project. Categories: Misc. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/uutils/coreutils) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/uutils/coreutils) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 474 |
 | 💻 **Language** | OCaml |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`build` `dune` `jbuilder` `ocaml` `opam`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ ocaml/dune is a promising open-source project. Categories: AI/ML, Frontend. Inte
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/ocaml/dune) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ocaml/dune) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 336 |
+| 🍴 **Forks** | 337 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `agents` `ai` `ai-agents` `aiagentframework` `genai` `generative-ai` `java` `kotlin` `llms` `multi-agents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Embabel-agent is an open-source, agent framework designed for the Java Virtual Machine (JVM), allowing for the orchestration and automation of tasks. This framework focuses on providing a scalable and flexible platform for integrating artificial intelligence (AI) and machine learning (ML) capabilities within JVM-based applications. By utilizing embabel-agent, developers can streamline their workflows and improve overall system efficiency.
+Here's a brief summary for the embabel/embabel-agent project:
+
+Embabel-Agent is an open-source, agent framework for the Java Virtual Machine (JVM) designed to simplify orchestration and deployment tasks. This framework enables developers to build, manage, and scale applications with ease, making it an ideal choice for AI/ML projects. With embabel-Agent, developers can focus on building innovative solutions without worrying about the underlying infrastructure complexities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/embabel/embabel-agent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/embabel/embabel-agent) · [← Back to Orchestration](./README.md)</sub>

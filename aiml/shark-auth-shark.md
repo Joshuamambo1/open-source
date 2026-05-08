@@ -1,32 +1,32 @@
 # shark-auth/shark
 
-[![Stars](https://img.shields.io/github/stars/shark-auth/shark?style=flat-square&color=yellow)](https://github.com/shark-auth/shark/stargazers) [![Forks](https://img.shields.io/github/forks/shark-auth/shark?style=flat-square&color=blue)](https://github.com/shark-auth/shark/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shark-auth/shark?style=flat-square&color=yellow)](https://github.com/shark-auth/shark/stargazers) [![Forks](https://img.shields.io/github/forks/shark-auth/shark?style=flat-square&color=blue)](https://github.com/shark-auth/shark/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
-> Open Source Single Binary Authentication for the Agentic Era.
+> Discovered from Hacker News (github-mentions)
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7 |
-| 🍴 **Forks** | 1 |
-| 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
 
-_no topics_
+`hn` `github-mentions`
 
 ## 🎯 Categories
 
-AI/ML · Security
+AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-SharkAuth is an open-source authentication server designed for AI agent delegation, aiming to provide a secure and reliable solution for managing access and permissions in AI-driven applications. This project enables developers to safely delegate tasks to AI agents, ensuring that sensitive data and operations are protected. By utilizing SharkAuth, users can establish trust between their AI systems and external agents.
+Show HN: I built open-source auth for AI agents (Go, single binary) is a promising open-source project. Categories: AI/ML, Frontend, Security. Interest score: 39/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/shark-auth/shark) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/shark-auth/shark) · [← Back to AI/ML](./README.md)</sub>

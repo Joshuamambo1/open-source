@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 63 |
+| ⭐ **Stars** | 1.1k |
+| 🍴 **Forks** | 65 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chess` `chess-puzzle` `chessboard` `command-line` `cross-platform` `game` `lichess` `pgn` `pgn-reader` `ratatui` `rust` `rust-tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The chess-tui project is an open-source terminal-based chess interface built with Rust, allowing users to play chess directly in their terminal. It integrates with the Stockfish engine and Lichess API to provide a comprehensive chess experience. This TUI (Text User Interface) enables users to play chess from the comfort of their command line.
+thomas-mauran/chess-tui is a promising open-source project. Categories: Frontend. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/thomas-mauran/chess-tui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/thomas-mauran/chess-tui) · [← Back to Frontend](./README.md)</sub>

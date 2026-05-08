@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Plausible/analytics is a free and open-source web analytics solution that prioritizes user privacy, offering a lightweight alternative to Google Analytics. This cookie-free analytics platform can be self-hosted or easily deployed in the cloud, providing a seamless tracking experience while maintaining user anonymity. Suitable for developers and organizations seeking a data-driven approach without compromising on user data protection.
+plausible/analytics is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 100/100.
 
 ---
 

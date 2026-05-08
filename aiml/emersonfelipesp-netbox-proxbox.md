@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 540 |
-| 🍴 **Forks** | 62 |
+| ⭐ **Stars** | 539 |
+| 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `best-effort` `community` `community-driven` `containers` `docs` `fastapi` `hypervisor` `kvm` `netbox` `netbox-plugin` `opensource`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the emersonfelipesp/netbox-proxbox project:
-
-This open-source project integrates Proxmox and Netbox through a plugin, creating a seamless connection between the two systems. The integration enables the automatic creation and management of virtual machines in Netbox, utilizing Proxmox for infrastructure management. This plugin streamlines network operations and enhances data consistency between the two platforms.
+emersonfelipesp/netbox-proxbox is a promising open-source project. Categories: AI/ML, Backend. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/emersonfelipesp/netbox-proxbox) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/emersonfelipesp/netbox-proxbox) · [← Back to AI/ML](./README.md)</sub>

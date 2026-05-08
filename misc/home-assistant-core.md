@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 37.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asyncio` `hacktoberfest` `home-automation` `internet-of-things` `iot` `mqtt` `python` `raspberry-pi`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ home-assistant/core is a promising open-source project. Categories: Misc. Intere
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/home-assistant/core) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/home-assistant/core) · [← Back to Misc](./README.md)</sub>

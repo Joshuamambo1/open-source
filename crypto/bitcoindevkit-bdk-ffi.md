@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `ios` `jvm` `kotlin` `rust` `swift`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Mobile
 
 ## 📝 Summary
 
-The bitcoindevkit/bdk-ffi project is an open-source library that provides a Foreign Function Interface (FFI) for the Bitcoin Development Kit (BDK). It enables developers to integrate BDK's functionality into their mobile applications, making it easier to build and deploy secure Bitcoin-based solutions. This library facilitates a seamless interaction between mobile applications and the BDK, enhancing the development process for mobile Bitcoin wallets and related projects.
+The bitcoindevkit/bdk-ffi project is an open-source, cross-platform library that provides a foreign function interface (FFI) for the Bitcoin Development Kit (BDK). This library enables developers to integrate BDK functionality into their mobile applications, facilitating seamless interaction with Bitcoin wallets and services. By leveraging BDK-FFI, mobile developers can focus on building innovative Bitcoin-related applications with ease and efficiency.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/bitcoindevkit/bdk-ffi) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bitcoindevkit/bdk-ffi) · [← Back to Crypto](./README.md)</sub>

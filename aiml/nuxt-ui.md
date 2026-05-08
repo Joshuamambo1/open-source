@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.5k |
+| ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`components` `nuxt` `nuxt-module` `reka-ui` `tailwindcss` `ui` `vue`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Nuxt/UI is an open-source project that provides a user-friendly Vue UI library, built on top of Reka UI and Tailwind CSS. This intuitive library allows developers to create visually appealing and responsive web applications with ease, leveraging the power of these two popular frameworks. By utilizing Nuxt/UI, developers can expedite the development process and focus on building innovative applications.
+nuxt/ui is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/nuxt/ui) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nuxt/ui) · [← Back to AI/ML](./README.md)</sub>

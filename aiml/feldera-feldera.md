@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`data-analytics` `data-pipelines` `database` `incremental-computation` `incremental-view-maintenance` `ivm` `materialized-views` `real-time` `rust` `sql` `streaming`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The Feldera Incremental Computation Engine is an open-source project that enables efficient incremental computation, allowing for real-time updates and improved scalability in data processing tasks. This AI/ML-focused engine optimizes computation by only recalculating what has changed, reducing unnecessary work and conserving resources. By leveraging incremental computation, developers can build more responsive and efficient data-intensive applications.
+feldera/feldera is a promising open-source project. Categories: AI/ML, Data. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/feldera/feldera) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/feldera/feldera) · [← Back to AI/ML](./README.md)</sub>

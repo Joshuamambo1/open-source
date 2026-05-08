@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 446 |
 | 💻 **Language** | Chapel |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chapel` `compiler` `concurrency` `distributed-computing` `gpu` `high-performance-computing` `hpc` `language` `open-source` `parallel` `parallel-computing` `performance`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ chapel-lang/chapel is a promising open-source project. Categories: Product. Inte
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/chapel-lang/chapel) · [← Back to Product](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/chapel-lang/chapel) · [← Back to Product](./README.md)</sub>

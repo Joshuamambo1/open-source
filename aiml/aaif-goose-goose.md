@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44.3k |
+| ⭐ **Stars** | 44.2k |
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 95/100 |
@@ -25,9 +25,7 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the aaif-goose/goose open-source project:
-
-The aaif-goose/goose project is an open-source, extensible AI agent that revolutionizes the way developers interact with Large Language Models (LLMs). This AI agent enables users to not only receive code suggestions but also install, execute, edit, and test code with an LLM, offering a more comprehensive development experience. By providing a versatile platform for LLM integration, aaif-goose/goose empowers developers to innovate and streamline their workflow.
+aaif-goose/goose is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 95/100.
 
 ---
 

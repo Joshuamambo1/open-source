@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 188 |
+| 🍴 **Forks** | 189 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `arduino` `blockly` `ide` `iot`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The aily-blockly project is an open-source, AI-powered Integrated Development Environment (IDE) designed for hardware development. It supports a wide range of popular microcontrollers, including Arduino, MicroPython, ESP32, STM32, RP2040, and Nrf5x. This innovative tool enables developers to create and deploy efficient, AI-driven hardware solutions with ease.
+ailyProject/aily-blockly is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/ailyProject/aily-blockly) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ailyProject/aily-blockly) · [← Back to AI/ML](./README.md)</sub>

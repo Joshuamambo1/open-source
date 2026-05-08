@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 61.4k |
+| ⭐ **Stars** | 61.5k |
 | 🍴 **Forks** | 6.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Cline is an open-source, autonomous coding agent designed to enhance your development experience within your IDE. With user permission, it allows for creation and editing of files, execution of commands, and even browser interactions, streamlining your coding workflow. This innovative tool empowers developers to work more efficiently and effectively.
+cline/cline is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cline/cline) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cline/cline) · [← Back to AI/ML](./README.md)</sub>

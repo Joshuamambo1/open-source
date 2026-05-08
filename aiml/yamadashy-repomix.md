@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `anthropic` `artificial-intelligence` `chatbot` `chatgpt` `claude` `deepseek` `developer-tools` `gemini` `genai` `generative-ai` `gpt`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the yamadashy/repomix project:
-
-Repomix is an open-source tool that compresses entire code repositories into a single file, making it easily accessible for Large Language Models (LLMs) and other AI tools. This powerful DevTool simplifies the process of feeding codebases to AI applications like Claude, ChatGPT, and more. By repackaging repositories, Repomix streamlines AI development workflows.
+yamadashy/repomix is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/yamadashy/repomix) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/yamadashy/repomix) · [← Back to AI/ML](./README.md)</sub>

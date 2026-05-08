@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 118 |
+| 🍴 **Forks** | 120 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `download-manager` `downloader` `go` `golang` `hacktoberfest` `poweruser` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-SurgeDM/Surge is an open-source, blazing fast text-based user interface (TUI) download manager designed specifically for power users. Built in the Go programming language, Surge provides a high-performance solution for managing downloads. Its streamlined interface and efficient design make it an ideal tool for users seeking a fast and efficient download experience.
+SurgeDM/Surge is a promising open-source project. Categories: Frontend, DevTools. Interest score: 73/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/SurgeDM/Surge) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SurgeDM/Surge) · [← Back to Frontend](./README.md)</sub>

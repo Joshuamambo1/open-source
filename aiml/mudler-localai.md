@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `api` `audio-generation` `decentralized` `distributed` `image-generation` `libp2p` `llama` `llm` `mamba` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-LocalAI is an open-source AI engine that enables the execution of various AI models, including Large Language Models (LLMs), vision, voice, image, and video models, on any hardware without the need for a Graphics Processing Unit (GPU). This project empowers users to run a wide range of AI capabilities on their local devices, promoting flexibility and accessibility. With LocalAI, developers can tap into the power of AI across various applications.
+mudler/LocalAI is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mudler/LocalAI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mudler/LocalAI) · [← Back to AI/ML](./README.md)</sub>

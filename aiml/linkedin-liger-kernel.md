@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 526 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`finetuning` `gemma2` `hacktoberfest` `llama` `llama3` `llm-training` `llms` `mistral` `phi3` `triton` `triton-kernels`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The LinkedIn Liger-Kernel is an open-source project that provides optimized Triton kernels for large language model (LLM) training, enabling efficient and scalable AI/ML computations. This project aims to accelerate LLM training by leveraging optimized Triton kernels, a popular open-source deep learning inference engine. By leveraging these kernels, developers can significantly improve the performance and productivity of their LLM training workflows.
+linkedin/Liger-Kernel is a promising open-source project. Categories: AI/ML. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/linkedin/Liger-Kernel) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/linkedin/Liger-Kernel) · [← Back to AI/ML](./README.md)</sub>

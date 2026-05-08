@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 968 |
+| ⭐ **Stars** | 973 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `autoresearch` `claude` `claude-code` `codex` `hermes` `hermes-agent` `llms` `ml` `openclaw` `pi`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Design
 
 ## 📝 Summary
 
-The greyhaven-ai/autocontext project is an open-source, recursive self-improving harness designed to augment AI and ML agents, enabling them to achieve success on a wide range of tasks. By facilitating the improvement of agents and their future iterations, this project promotes autonomous growth and adaptation. This harness has the potential to revolutionize the field of AI by creating self-reinforcing loops that enhance learning and performance.
+greyhaven-ai/autocontext is a promising open-source project. Categories: AI/ML, Design. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/greyhaven-ai/autocontext) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/greyhaven-ai/autocontext) · [← Back to AI/ML](./README.md)</sub>

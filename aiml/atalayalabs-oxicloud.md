@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 141 |
+| 🍴 **Forks** | 140 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud` `cloud-storage` `dropbox` `file-share` `file-sync` `file-upload` `nas` `nextcloud` `nextcloud-alternative` `onedrive` `open-source` `own-your-data`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-OxiCloud is an open-source, self-hosted cloud storage solution built using Rust, offering ultra-fast, secure, and lightweight storage for files, photos, calendars, and contacts. This comprehensive platform provides a centralized location to manage various digital assets, ensuring ease of access and control over sensitive data. By hosting OxiCloud on-premises, users can maintain complete ownership and security of their digital contents.
+Here's a brief summary for the OxiCloud project:
+
+OxiCloud is an open-source, self-hosted cloud storage solution that provides a secure and efficient way to store files, photos, calendars, and contacts. Built in Rust, this ultra-fast and lightweight platform is designed to give users control over their data, while minimizing the risk of data breaches or losses. With OxiCloud, users can manage their digital lives in one place, free from the constraints of centralized cloud services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/AtalayaLabs/OxiCloud) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/AtalayaLabs/OxiCloud) · [← Back to AI/ML](./README.md)</sub>

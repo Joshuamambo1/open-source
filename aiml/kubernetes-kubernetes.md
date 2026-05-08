@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 43k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cncf` `containers` `go` `kubernetes`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ kubernetes/kubernetes is a promising open-source project. Categories: AI/ML, Dev
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/kubernetes/kubernetes) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kubernetes/kubernetes) · [← Back to AI/ML](./README.md)</sub>

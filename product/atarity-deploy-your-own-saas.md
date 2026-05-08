@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.1k |
-| 🍴 **Forks** | 698 |
+| 🍴 **Forks** | 699 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome-list` `list` `open-source` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Product
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "deploy-your-own-saas":
-
-Deploy-Your-Own-SaaS is an open-source project that offers a list of customizable cloud services for everyday needs, empowering users to take control of their data and applications. This initiative aims to provide a private and secure alternative to traditional cloud services, allowing users to deploy their own tailored solutions. By leveraging this project, individuals and organizations can simplify their cloud infrastructure and enhance data sovereignty.
+Atarity/deploy-your-own-saas is a promising open-source project. Categories: Product. Interest score: 92/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Atarity/deploy-your-own-saas) · [← Back to Product](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Atarity/deploy-your-own-saas) · [← Back to Product](./README.md)</sub>

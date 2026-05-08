@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 175 |
+| ⭐ **Stars** | 3k |
+| 🍴 **Forks** | 174 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cf-ip` `china-region` `cloudflare` `cname-record` `netlify` `selected-ip` `vercel-serverless`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ xingpingcn/enhanced-FaaS-in-China is a promising open-source project. Categories
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/xingpingcn/enhanced-FaaS-in-China) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/xingpingcn/enhanced-FaaS-in-China) · [← Back to Backend](./README.md)</sub>

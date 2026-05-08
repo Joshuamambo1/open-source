@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amr` `fem` `finite-elements` `finite-volumes` `multiphysics` `object-oriented` `parallel` `simulation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The idaholab/moose project is an open-source, multiphysics object-oriented simulation environment. It allows users to efficiently and accurately model and simulate complex systems that involve multiple physical domains, such as heat transfer, fluid dynamics, and structural mechanics. With moose, researchers and developers can create robust, flexible, and scalable simulations to analyze real-world problems.
+idaholab/moose is a promising open-source project. Categories: Misc. Interest score: 81/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/idaholab/moose) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/idaholab/moose) · [← Back to Misc](./README.md)</sub>

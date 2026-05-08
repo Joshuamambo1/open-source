@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5k |
-| 🍴 **Forks** | 741 |
+| 🍴 **Forks** | 743 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`azblob` `gcs` `hacktoberfest` `redis` `rust` `s3` `storage`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Apache OpenDAL is an open-source, unified storage layer that enables developers to interact with various storage systems using a single interface. This project simplifies storage interactions and provides a flexible, modular design for working with different storage types, including cloud, object, and block storage. By standardizing access to storage systems, Apache OpenDAL helps to streamline storage management and improve scalability in AI/ML applications.
+apache/opendal is a promising open-source project. Categories: AI/ML. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/apache/opendal) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apache/opendal) · [← Back to AI/ML](./README.md)</sub>

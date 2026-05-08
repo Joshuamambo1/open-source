@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 391 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`azure` `azure-active-directory` `cli` `entra-id` `hacktoberfest` `microsoft` `microsoft-365` `microsoft-graph` `microsoft-planner` `microsoft-power-apps` `microsoft-power-automate` `microsoft-teams`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The pnp/cli-microsoft365 project is an open-source command-line interface (CLI) tool that enables developers to manage Microsoft 365 and SharePoint Framework projects across various platforms. This tool provides a unified interface to automate tasks, streamline workflows, and integrate Microsoft services with other tools and technologies. By utilizing pnp/cli-microsoft365, developers can increase productivity and efficiency when working with Microsoft 365 and SharePoint Framework projects.
+pnp/cli-microsoft365 is a promising open-source project. Categories: DevTools. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/pnp/cli-microsoft365) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pnp/cli-microsoft365) · [← Back to DevTools](./README.md)</sub>

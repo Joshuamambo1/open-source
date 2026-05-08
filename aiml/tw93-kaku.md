@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 239 |
+| 🍴 **Forks** | 241 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-coding` `macos` `rust` `serial` `terminal` `terminal-app` `terminal-emulator` `vibe-coding`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "tw93/Kaku":
-
-Kaku is a fast and user-friendly terminal designed specifically for AI coding, providing an out-of-the-box experience for developers working with artificial intelligence and machine learning. Built with performance in mind, Kaku aims to streamline the coding process and improve productivity. This open-source project offers a convenient and efficient environment for AI/ML development.
+tw93/Kaku is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 88/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/tw93/Kaku) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tw93/Kaku) · [← Back to AI/ML](./README.md)</sub>

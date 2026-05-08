@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 131 |
+| 🍴 **Forks** | 132 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android-app` `android-studio` `cam` `camera2-api` `camerax` `fadrec` `ffmpeg-android` `foss` `java` `material-design` `material-ui` `open-source`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · Mobile
 
 ## 📝 Summary
 
-FadCam is an open-source, ad-free Android multimedia recorder that offers a range of features, including background video recording, screen recording, live streaming, and remote camera control. This project caters to users seeking a versatile and customizable solution for capturing and sharing multimedia content on their mobile devices. With its open-source nature, FadCam allows developers to contribute and modify the code to suit their specific needs.
+anonfaded/FadCam is a promising open-source project. Categories: Frontend, Backend, Mobile. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/anonfaded/FadCam) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/anonfaded/FadCam) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `javascript` `javascript-library` `node-js` `nodejs` `prompt` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Inquirer.js is an open-source project that offers a collection of common interactive command line user interfaces. This library allows developers to create CLI applications with a user-friendly interface, making it easier to gather input from users and display output in a clear and organized manner. With Inquirer.js, developers can create customizable and intuitive CLI experiences.
+SBoudrias/Inquirer.js is a promising open-source project. Categories: Frontend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/SBoudrias/Inquirer.js) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SBoudrias/Inquirer.js) · [← Back to Frontend](./README.md)</sub>

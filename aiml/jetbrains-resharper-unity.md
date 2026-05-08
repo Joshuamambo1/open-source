@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `jetbrains` `plugin` `resharper` `resharper-plugin` `rider` `unity` `unity-editor`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The JetBrains/resharper-unity project provides Unity support for both ReSharper and Rider, enhancing the development experience for Unity game and application developers. This open-source initiative integrates Unity-specific features and inspections into the widely-used code analysis and productivity tools. By leveraging AI/ML capabilities, it aims to improve code quality, efficiency, and overall developer productivity in Unity environments.
+JetBrains/resharper-unity is a promising open-source project. Categories: AI/ML. Interest score: 61/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/JetBrains/resharper-unity) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/JetBrains/resharper-unity) · [← Back to AI/ML](./README.md)</sub>

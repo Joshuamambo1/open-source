@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`rari` `react` `react-server-components` `rust` `server-rendering` `ssr` `web-framework`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the rari project:
-
-rari is an open-source, high-performance React Server Components framework built on a Rust runtime, offering significantly improved performance and scalability compared to Next.js. It achieves response times 9.8 times faster and throughput 47.7 times higher, making it an ideal choice for high-traffic web applications. With a zero-config setup, developers can easily integrate rari into their projects.
+rari-build/rari is a promising open-source project. Categories: Frontend, Backend. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rari-build/rari) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rari-build/rari) · [← Back to Frontend](./README.md)</sub>

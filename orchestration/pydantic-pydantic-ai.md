@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `genai` `llm` `pydantic` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The pydantic/pydantic-ai project is an open-source, Pydantic-based framework for building AI agents. It leverages Pydantic's data validation and modeling capabilities to provide a structured and maintainable approach to AI development. By utilizing this framework, developers can create scalable and efficient AI agents that integrate seamlessly with existing Pydantic projects.
+pydantic/pydantic-ai is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/pydantic/pydantic-ai) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pydantic/pydantic-ai) · [← Back to Orchestration](./README.md)</sub>

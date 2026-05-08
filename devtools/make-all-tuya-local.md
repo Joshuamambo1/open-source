@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`climate` `dehumidifiers` `fans` `heaters` `home-assistant` `humidifiers` `lights` `pool-heaters` `switches` `tuya`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The make-all/tuya-local project provides local support for Tuya devices within the Home Assistant ecosystem, allowing users to integrate and control their Tuya devices in a more seamless and secure manner. This open-source solution enables users to interact with their Tuya devices without relying on the cloud, improving device responsiveness and reducing internet connectivity requirements. By integrating Tuya devices locally with Home Assistant, users can enjoy enhanced device control and monitoring capabilities.
+make-all/tuya-local is a promising open-source project. Categories: DevTools. Interest score: 85/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/make-all/tuya-local) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/make-all/tuya-local) · [← Back to DevTools](./README.md)</sub>

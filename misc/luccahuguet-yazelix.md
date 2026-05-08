@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 914 |
+| ⭐ **Stars** | 915 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`editor` `file-manager` `helix` `home-manager` `ide` `lua` `multiplexer` `nix` `nix-flake` `nushell` `shell` `terminal`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the luccahuguet/yazelix project:
-
-Yazelix is an open-source project that combines Zellij, Yazi, Nushell, and Lua scripting to create an IDE-like experience in the terminal. It adds a File Tree feature to Helix (or other preferred editors), allowing users to navigate and manage files with ease. This project requires only Nix as a dependency, making it a lightweight and flexible solution for terminal-based development.
+luccahuguet/yazelix is a promising open-source project. Categories: Misc. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/luccahuguet/yazelix) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/luccahuguet/yazelix) · [← Back to Misc](./README.md)</sub>

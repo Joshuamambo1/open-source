@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.5k |
-| 🍴 **Forks** | 616 |
+| 🍴 **Forks** | 620 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a` `ag2` `agent-framework` `agentic` `agentic-ai` `ai` `ai-agents-framework` `aiagents` `genai` `llm` `llms` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-AG2 (formerly AutoGen) is an open-source AgentOS that utilizes AI/ML to provide a wide range of capabilities for various applications. This project offers a flexible and customizable platform for integrating artificial intelligence into systems, making it accessible to developers and researchers alike. By joining the AG2 community, users can contribute to the project's growth and development.
+ag2ai/ag2 is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ag2ai/ag2) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ag2ai/ag2) · [← Back to Orchestration](./README.md)</sub>

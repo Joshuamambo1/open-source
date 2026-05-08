@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 24.7k |
-| 🍴 **Forks** | 3k |
+| ⭐ **Stars** | 25.6k |
+| 🍴 **Forks** | 3.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the multica project:
-
-Multica is an open-source managed agents platform that enables developers to turn coding agents into collaborative teammates. This AI/ML-powered platform allows users to assign tasks, track progress, and compound skills, effectively creating a dynamic team of AI agents. By leveraging multica, users can unlock the full potential of their AI-powered projects and achieve more through automation and collaboration.
+multica-ai/multica is a promising open-source project. Categories: AI/ML. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/multica-ai/multica) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/multica-ai/multica) · [← Back to AI/ML](./README.md)</sub>

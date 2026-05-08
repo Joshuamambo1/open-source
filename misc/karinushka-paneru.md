@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 57 |
+| 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, paneru, is a sliding, tiling window manager designed specifically for MacOS. It allows users to efficiently manage their windows, utilizing a unique tiling approach to optimize screen real estate. By providing a customizable and flexible window management solution, paneru enables users to streamline their workflow and enhance productivity.
+karinushka/paneru is a promising open-source project. Categories: Misc. Interest score: 50/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/karinushka/paneru) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/karinushka/paneru) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 35.7k |
+| ⭐ **Stars** | 35.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `framework` `python` `rich` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Textualize/textual is an open-source, Python-based application framework that allows developers to build complex user interfaces with a minimalistic and intuitive API. This versatile framework enables users to create applications that can run seamlessly in both terminal and web browser environments, making it an ideal choice for building cross-platform applications. With textualize/textual, developers can focus on crafting sophisticated UIs without getting bogged down in complex implementation details.
+Textualize/textual is a promising open-source project. Categories: Frontend, Backend, DevTools. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Textualize/textual) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Textualize/textual) · [← Back to Frontend](./README.md)</sub>

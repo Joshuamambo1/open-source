@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 936 |
-| 🍴 **Forks** | 161 |
+| ⭐ **Stars** | 939 |
+| 🍴 **Forks** | 162 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`binance-smart-chain` `bitcart` `bitcoin` `bitcoin-payment-gateway` `docker` `docker-compose` `electrum` `ethereum` `ethereum-payment-gateway` `fastapi` `gateway` `hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Payments · Trading
 
 ## 📝 Summary
 
-Bitcart is a free, open-source, self-hosted payment processor that supports a range of cryptocurrencies, including BTC, LTC, BCH, XMR, ETH, TRX, and USDT. This versatile platform allows users to process and manage cryptocurrency transactions securely and efficiently, offering a high degree of customization and control. By hosting their own payment processor, users can maintain full ownership and control over their transactions.
+bitcart/bitcart is a promising open-source project. Categories: Crypto, Payments, Trading. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bitcart/bitcart) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bitcart/bitcart) · [← Back to Crypto](./README.md)</sub>

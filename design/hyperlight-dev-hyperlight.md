@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Design
 
 ## 📝 Summary
 
-Hyperlight is an open-source Virtual Machine Manager (VMM) designed for embedded applications, providing a safe and efficient environment for executing untrusted code. It achieves low latency and minimal overhead through its micro virtual machine approach, enabling seamless integration within various applications. This lightweight VMM is ideal for applications requiring secure and high-performance execution of untrusted code.
+hyperlight-dev/hyperlight is a promising open-source project. Categories: Design. Interest score: 72/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hyperlight-dev/hyperlight) · [← Back to Design](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hyperlight-dev/hyperlight) · [← Back to Design](./README.md)</sub>

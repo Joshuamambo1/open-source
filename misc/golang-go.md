@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 133.7k |
+| ⭐ **Stars** | 133.8k |
 | 🍴 **Forks** | 19k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`go` `golang` `language` `programming-language`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Go programming language project is an open-source initiative aiming to provide a modern, concurrent, and efficient language for building scalable software systems. Developed by Google, Go (also known as Golang) is a statically typed language that simplifies the complexities of concurrent programming and promotes ease of use for developers. Its open-source nature has facilitated collaboration and widespread adoption across various industries.
+golang/go is a promising open-source project. Categories: Misc. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/golang/go) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/golang/go) · [← Back to Misc](./README.md)</sub>

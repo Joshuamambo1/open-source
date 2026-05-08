@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 52 |
+| 🍴 **Forks** | 53 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`everything` `file-search` `mac` `macos` `rust` `tauri`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Cardinal is an open-source, high-performance file searching tool designed specifically for macOS. It utilizes optimized search algorithms to quickly locate files across the system, providing users with a fast and efficient way to navigate their digital files. With its streamlined interface and robust functionality, Cardinal is an essential tool for developers, power users, and anyone seeking a swift file search experience.
+cardisoft/cardinal is a promising open-source project. Categories: DevTools. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/cardisoft/cardinal) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cardisoft/cardinal) · [← Back to DevTools](./README.md)</sub>

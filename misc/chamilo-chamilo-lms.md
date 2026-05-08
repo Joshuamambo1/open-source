@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 948 |
+| ⭐ **Stars** | 949 |
 | 🍴 **Forks** | 546 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chamilo` `elearning` `lms` `php` `skills` `twig`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Chamilo is an open-source learning management system designed to provide a user-friendly and accessible platform for educators and learners. With its focus on ease of use, Chamilo offers a range of features and tools to facilitate effective online learning and teaching. This free and community-driven solution is ideal for schools, universities, and organizations seeking a reliable and customizable LMS.
+Chamilo is an open-source learning management system designed to provide an intuitive and accessible platform for educators and learners alike. Its user-friendly interface and robust features make it an ideal solution for institutions seeking a flexible and scalable e-learning solution. With a strong focus on ease of use, Chamilo aims to bridge the gap between technology and education, promoting inclusive and effective learning experiences.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/chamilo/chamilo-lms) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/chamilo/chamilo-lms) · [← Back to Misc](./README.md)</sub>

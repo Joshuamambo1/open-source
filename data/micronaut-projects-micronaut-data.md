@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`data` `groovy` `hibernate` `java` `jdbc` `jpa` `kotlin` `micronaut` `relational-databases` `sql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The Micronaut Data project is an open-source initiative that provides a set of data repositories, allowing for Ahead of Time (AOT) compilation. This enables developers to create high-performance data access layers with a focus on efficiency and scalability. By leveraging AOT compilation, Micronaut Data reduces runtime overhead and improves overall application performance.
+micronaut-projects/micronaut-data is a promising open-source project. Categories: Data. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/micronaut-projects/micronaut-data) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/micronaut-projects/micronaut-data) · [← Back to Data](./README.md)</sub>

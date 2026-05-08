@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 891 |
-| 🍴 **Forks** | 126 |
+| ⭐ **Stars** | 893 |
+| 🍴 **Forks** | 127 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chat` `chatmail` `e-mail` `email` `imap` `instant-messaging` `messaging` `messenger` `openpgp` `pgp` `rust` `smtp`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ chatmail/core is a promising open-source project. Categories: AI/ML, Mobile. Int
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/chatmail/core) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/chatmail/core) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cairo` `package-manager` `scarb` `starknet`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Cairo package manager, also known as scarb, is an open-source project that provides a package management solution for the Cairo graphics library. It allows developers to easily install, manage, and update Cairo packages, making it an essential tool for working with the Cairo graphics library. By streamlining package management, scarb enables developers to focus on creating high-quality graphical applications.
+The Cairo package manager, also known as scarb, is an open-source project that serves as a package manager for the Cairo framework, a high-performance graphics library. It provides a convenient way to manage dependencies and packages, streamlining the development process for Cairo-based applications. With scarb, developers can easily install, update, and manage packages, making it an essential tool for any Cairo project.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/software-mansion/scarb) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/software-mansion/scarb) · [← Back to AI/ML](./README.md)</sub>

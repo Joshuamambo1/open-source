@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 415 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-copilot` `collaboration` `commenting-system` `comments` `crdt` `liveblocks` `multiplayer` `notifications-systems` `presence` `react` `real-time`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Liveblocks is an open-source, real-time infrastructure designed to power multiplayer applications and agents. It enables developers to create immersive, collaborative experiences by providing a robust and scalable platform for real-time data synchronization and communication. With Liveblocks, users can build seamless, low-latency interactions across various platforms and applications.
+liveblocks/liveblocks is a promising open-source project. Categories: AI/ML, Frontend, DevOps/Infra. Interest score: 88/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/liveblocks/liveblocks) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/liveblocks/liveblocks) · [← Back to AI/ML](./README.md)</sub>

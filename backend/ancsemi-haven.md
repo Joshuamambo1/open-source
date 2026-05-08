@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 410 |
+| ⭐ **Stars** | 420 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android-application` `browser` `chat` `discord` `discord-alternative` `docker` `encryption` `homelab` `linux` `messaging` `nodejs` `picture-in-picture`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Mobile · DevOps/Infra
 
 ## 📝 Summary
 
-Haven is an open-source, self-hosted private chat platform that offers a Discord alternative without relying on cloud services, telemetry data, or Big Tech involvement. This project provides users with a decentralized and private communication solution that runs directly on their own machine, maintaining complete control over their data. By running Haven locally, users can enjoy a secure and ad-free chat experience.
+ancsemi/Haven is a promising open-source project. Categories: Backend, Mobile, DevOps/Infra. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ancsemi/Haven) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ancsemi/Haven) · [← Back to Backend](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The GitHub Copilot SDK is an open-source, multi-platform software development kit that enables developers to seamlessly integrate the GitHub Copilot Agent into their applications and services, enhancing their AI-driven coding capabilities. This SDK provides a unified interface for interacting with the Copilot Agent, allowing developers to harness the power of AI-assisted coding within their own tools and workflows. By leveraging the Copilot SDK, developers can unlock new levels of productivity and efficiency in their coding processes.
+github/copilot-sdk is a promising open-source project. Categories: AI/ML. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/github/copilot-sdk) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/github/copilot-sdk) · [← Back to AI/ML](./README.md)</sub>

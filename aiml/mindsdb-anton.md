@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agi` `ai` `ai-agents` `claude-cow` `clawdbot` `code-generation` `coworker` `hermes-agent` `jupyter-notebook` `moltbot` `openclaw`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Anton is an open-source AI coworker developed by MindsDB, designed to augment human capabilities in various tasks and projects. This AI-powered tool provides users with a collaborative and efficient way to tackle complex problems, automate mundane tasks, and make data-driven decisions. By leveraging AI capabilities, Anton aims to bridge the gap between human creativity and machine efficiency.
+mindsdb/anton is a promising open-source project. Categories: AI/ML. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mindsdb/anton) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mindsdb/anton) · [← Back to AI/ML](./README.md)</sub>

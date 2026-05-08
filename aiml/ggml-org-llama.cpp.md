@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 108.4k |
-| 🍴 **Forks** | 17.8k |
+| ⭐ **Stars** | 108.8k |
+| 🍴 **Forks** | 17.9k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ggml`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ ggml-org/llama.cpp is a promising open-source project. Categories: AI/ML. Intere
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/ggml-org/llama.cpp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ggml-org/llama.cpp) · [← Back to AI/ML](./README.md)</sub>

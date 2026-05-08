@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 502 |
+| 🍴 **Forks** | 503 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compression` `quantization`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-The LLM Compressor is an open-source library that optimizes the deployment of Large Language Models (LLMs) by applying various compression algorithms, making them compatible with Transformers. This library aims to reduce the computational and storage requirements of LLMs, enabling their efficient use in applications such as trading and AI/ML. By compressing LLMs, the project promotes optimized deployment with vLLM.
+The LLM Compressor is an open-source library that enables the efficient deployment of Large Language Models (LLMs) by applying various compression algorithms. Compatible with Transformers, this library allows developers to optimize LLMs for improved performance and reduced resource utilization. By leveraging the vLLM platform, users can deploy compressed LLMs in trading and AI/ML applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/vllm-project/llm-compressor) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vllm-project/llm-compressor) · [← Back to Trading](./README.md)</sub>

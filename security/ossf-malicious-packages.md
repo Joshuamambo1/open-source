@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 500 |
-| 🍴 **Forks** | 88 |
+| ⭐ **Stars** | 503 |
+| 🍴 **Forks** | 90 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-The ossf/malicious-packages project is a centralized repository of malicious packages identified in Open Source package repositories, providing a valuable resource for security researchers and users to stay informed about potential threats. This project utilizes the Open Source Vulnerability (OSV) format, making it easily consumable by various security tools and systems. By aggregating and sharing this information, the project aims to improve the overall security of the Open Source ecosystem.
+ossf/malicious-packages is a promising open-source project. Categories: Security. Interest score: 45/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ossf/malicious-packages) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ossf/malicious-packages) · [← Back to Security](./README.md)</sub>

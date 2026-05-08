@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 470 |
-| 🍴 **Forks** | 851 |
+| ⭐ **Stars** | 471 |
+| 🍴 **Forks** | 853 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `emulator` `ffxi` `final-fantasy` `final-fantasy-xi` `landsandboat` `lua` `mmorpg` `mmorpg-server` `server-emulator`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The LandSandBoat/server project is an open-source server emulator for Final Fantasy XI, a classic massively multiplayer online role-playing game (MMORPG). This project allows for the recreation and simulation of FFXI's game world, enabling players to experience the game in a new light. By leveraging AI/ML and backend technologies, LandSandBoat aims to provide a unique and immersive gaming experience.
+LandSandBoat/server is a promising open-source project. Categories: AI/ML, Backend. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/LandSandBoat/server) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/LandSandBoat/server) · [← Back to AI/ML](./README.md)</sub>

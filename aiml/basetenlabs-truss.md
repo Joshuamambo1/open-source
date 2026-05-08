@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.1k |
+| ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`artificial-intelligence` `easy-to-use` `falcon` `inference-api` `inference-server` `machine-learning` `model-serving` `open-source` `packaging` `stable-diffusion` `whisper` `wizardlm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Product
 
 ## 📝 Summary
 
-Truss is an open-source project that simplifies the process of serving AI/ML models in production environments. It provides a straightforward solution for integrating machine learning models into applications, making it easier to deploy and manage complex AI systems. By leveraging Truss, developers can focus on building and integrating AI capabilities without the need for extensive backend infrastructure setup.
+basetenlabs/truss is a promising open-source project. Categories: AI/ML, Backend, Product. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/basetenlabs/truss) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/basetenlabs/truss) · [← Back to AI/ML](./README.md)</sub>

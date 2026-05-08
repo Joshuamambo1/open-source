@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 547 |
+| ⭐ **Stars** | 4.7k |
+| 🍴 **Forks** | 554 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-gateway` `gateway` `gateway-services` `generative-ai` `guardrails` `llm` `llm-cost` `llm-gateway` `llm-observability` `llmops` `load-balancing` `mcp-client`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-maximhq/bifrost is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 87/100.
+maximhq/bifrost is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/maximhq/bifrost) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/maximhq/bifrost) · [← Back to AI/ML](./README.md)</sub>

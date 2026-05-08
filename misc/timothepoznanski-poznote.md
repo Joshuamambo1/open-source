@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 573 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 572 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`documentation` `free` `note-taking` `personal-wiki` `self-hosted` `todolist` `webapp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Poznote is an open-source personal note-taking and documentation platform designed to help users efficiently organize and store their thoughts and information. With Poznote, users can create, edit, and manage notes in a secure and customizable environment. This flexible platform is ideal for individuals seeking a simple yet effective note-taking solution.
+timothepoznanski/poznote is a promising open-source project. Categories: Misc. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/timothepoznanski/poznote) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/timothepoznanski/poznote) · [← Back to Misc](./README.md)</sub>

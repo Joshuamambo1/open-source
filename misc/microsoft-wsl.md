@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 32.1k |
+| ⭐ **Stars** | 32.2k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Windows Subsystem for Linux (WSL) is an open-source project that allows users to run a Linux environment directly on Windows, enabling seamless integration of Linux tools and distributions within the Windows ecosystem. This technology provides users with a native and performant Linux experience on their Windows devices, supporting a wide range of Linux distributions and utilities. By leveraging WSL, developers can now easily develop, test, and deploy applications across both Windows and Linux platforms.
+The Windows Subsystem for Linux (WSL) is an open-source project that allows users to run a Linux environment directly on Windows, providing a seamless experience for developers and users who need to interact with both Windows and Linux applications. This project enables users to install and run various Linux distributions, such as Ubuntu, Debian, and Kali Linux, on their Windows systems, eliminating the need for virtual machines or dual-booting. By integrating Linux into the Windows ecosystem, WSL simplifies the development process and enhances productivity.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/microsoft/WSL) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/WSL) · [← Back to Misc](./README.md)</sub>

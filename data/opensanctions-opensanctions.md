@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`due-diligence` `investigations` `journalism` `money-laundering` `sanction-lists` `sanctions` `scraper`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The opensanctions/opensanctions project provides an open-source database of international sanctions data, offering a comprehensive and accessible resource for tracking persons of interest and politically exposed persons. This publicly available database aims to facilitate transparency and consistency in global sanctions efforts. By offering an open dataset, it enables users to access, analyze, and contribute to the collection of sanctions information.
+opensanctions/opensanctions is a promising open-source project. Categories: Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/opensanctions/opensanctions) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/opensanctions/opensanctions) · [← Back to Data](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.9k |
-| 🍴 **Forks** | 726 |
+| 🍴 **Forks** | 730 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `embedders` `genkit` `llm` `multimodal` `rag` `vector-database`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the genkit project:
-
-Genkit is an open-source framework that enables developers to build AI-powered applications across multiple programming languages, including JavaScript, Go, and Python. Built and utilized in production by Google, genkit simplifies the process of integrating AI and machine learning capabilities into applications. This comprehensive framework is ideal for developers seeking to leverage AI in their projects.
+genkit-ai/genkit is a promising open-source project. Categories: AI/ML, Frontend, Data. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/genkit-ai/genkit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/genkit-ai/genkit) · [← Back to AI/ML](./README.md)</sub>

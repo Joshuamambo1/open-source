@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Pop!_OS is an operating system that comes pre-installed with many software packages. The pop-os/pop project is an open-source initiative that aims to manage and maintain all Pop!_OS sources, ensuring users have access to the latest updates and versions. This project is crucial for the Pop!_OS community, facilitating the development and distribution of this Linux-based operating system.
+pop-os/pop is a promising open-source project. Categories: Misc. Interest score: 61/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/pop-os/pop) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pop-os/pop) · [← Back to Misc](./README.md)</sub>

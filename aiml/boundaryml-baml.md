@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.1k |
-| 🍴 **Forks** | 416 |
+| ⭐ **Stars** | 8.2k |
+| 🍴 **Forks** | 418 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`baml` `boundaryml` `guardrails` `llm` `llm-playground` `playground` `prompt` `prompt-config` `prompt-templates` `structured-data` `structured-generation` `structured-output`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-BoundaryML/baml is an open-source AI framework that provides a structured approach to prompt engineering, adding engineering principles to the process of crafting effective prompts for AI models. This framework is compatible with multiple programming languages, including Python, TypeScript, Ruby, Java, C#, Rust, and Go, making it a versatile tool for developers. By incorporating engineering best practices, baml enables users to create high-quality, optimized prompts that improve the performance and reliability of AI models.
+BoundaryML/baml is a promising open-source project. Categories: AI/ML, Data. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/BoundaryML/baml) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/BoundaryML/baml) · [← Back to AI/ML](./README.md)</sub>

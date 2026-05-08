@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.2k |
-| 🍴 **Forks** | 482 |
+| 🍴 **Forks** | 483 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-observability` `analytics` `cloud-native` `database` `distributed` `greptimedb` `llm-monitoring` `logs` `metrics` `monitoring` `object-storage` `observability`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Greptimedb is an open-source Observability 2.0 database that combines metrics, logs, and traces into a single engine. Designed to replace existing solutions like Prometheus, Loki, and Elasticsearch, it offers a unified platform for collecting and analyzing observability data. This comprehensive database enables users to streamline their observability infrastructure and gain deeper insights into their systems.
+GreptimeTeam/greptimedb is a promising open-source project. Categories: AI/ML, Data. Interest score: 92/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/GreptimeTeam/greptimedb) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/GreptimeTeam/greptimedb) · [← Back to AI/ML](./README.md)</sub>

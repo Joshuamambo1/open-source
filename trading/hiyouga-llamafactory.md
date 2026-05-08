@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 70.9k |
+| ⭐ **Stars** | 71k |
 | 🍴 **Forks** | 8.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `deepseek` `fine-tuning` `gemma` `gpt` `instruction-tuning` `large-language-models` `llama` `llama3` `llm` `lora`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the hiyouga/LlamaFactory project:
-
-LlamaFactory is an open-source project that enables unified efficient fine-tuning of over 100 large language models (LLMs) and vision-language models (VLMs). This project was presented at the ACL 2024 conference and offers a platform for trading and AI/ML applications. By facilitating the fine-tuning of multiple models, LlamaFactory aims to streamline the development process for various tasks and domains.
+hiyouga/LlamaFactory is a promising open-source project. Categories: Trading, AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hiyouga/LlamaFactory) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hiyouga/LlamaFactory) · [← Back to Trading](./README.md)</sub>

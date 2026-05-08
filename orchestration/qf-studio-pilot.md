@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 467 |
+| ⭐ **Stars** | 466 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `agentic-workflow` `ai-agent` `ai-bots` `ai-tools` `autonomous-coding` `claude` `claude-code` `dev-bot` `devtools` `open-code`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here is a brief summary of the project:
-
-The pilot project is an open-source AI-powered terminal benchmark that automates ticket shipping processes. This tool leverages machine learning capabilities to streamline and optimize task execution, making it an essential component of modern orchestration systems. By utilizing AI-driven intelligence, pilot aims to increase efficiency and reduce manual workload.
+qf-studio/pilot is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/qf-studio/pilot) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/qf-studio/pilot) · [← Back to Orchestration](./README.md)</sub>

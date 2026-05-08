@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 404 |
+| ⭐ **Stars** | 405 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the opentofu/registry project:
-
-The OpenTofu registry project provides metadata and tooling for managing and organizing data within the OpenTofu ecosystem. This open-source initiative aims to establish a standardized registry for seamless data integration and collaboration. By leveraging the registry, developers can efficiently store, retrieve, and utilize metadata for improved data management and analytics.
+opentofu/registry is a promising open-source project. Categories: DevTools, Data. Interest score: 44/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/opentofu/registry) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/opentofu/registry) · [← Back to DevTools](./README.md)</sub>

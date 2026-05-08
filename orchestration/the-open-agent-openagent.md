@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.5k |
-| 🍴 **Forks** | 536 |
+| ⭐ **Stars** | 4.6k |
+| 🍴 **Forks** | 537 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a` `agent` `agentic` `agentic-ai` `agi` `chatbot` `chatgpt` `gpt` `harness` `knowledge-base` `langchain` `llama`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The OpenAgent project is an open-source, enterprise-level AI knowledge base and management platform that enables the deployment and management of AI models through its model-context-protocol (MCP) and agent-to-agent (A2A) management system. With support for various popular AI models, including ChatGPT and HuggingFace, it provides a comprehensive solution for AI orchestration and integration. The platform features an admin UI, user management, and Single-Sign-On capabilities.
+the-open-agent/openagent is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/the-open-agent/openagent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/the-open-agent/openagent) · [← Back to Orchestration](./README.md)</sub>

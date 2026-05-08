@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blazingmq` `distributed-systems` `message-queue` `messaging` `middleware` `queue` `queues`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-BlazingMQ is an open-source, high-performance message queuing system designed to provide fast and efficient communication between applications. This modern queuing system is optimized for speed and reliability, making it suitable for large-scale and high-traffic applications. BlazingMQ enables seamless data exchange and processing, streamlining workflows and improving overall system performance.
+bloomberg/blazingmq is a promising open-source project. Categories: Frontend. Interest score: 74/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/bloomberg/blazingmq) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bloomberg/blazingmq) · [← Back to Frontend](./README.md)</sub>

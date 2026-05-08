@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 50.1k |
+| ⭐ **Stars** | 50.4k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analyzer` `appcleaner` `clean` `cleaner` `cleaner-cli` `cleaner-script` `command-line` `daisydisk` `istat` `mac` `macos` `optimize`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Mole is an open-source, deep cleaning and optimization tool designed specifically for Macs. It utilizes AI and machine learning to identify and remove unnecessary files, resulting in improved system performance and efficiency. With Mole, users can easily declutter their Mac and breathe new life into their device.
+tw93/Mole is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/tw93/Mole) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tw93/Mole) · [← Back to AI/ML](./README.md)</sub>

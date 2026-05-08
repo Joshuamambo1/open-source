@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 61 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `apps-sdk` `chatgpt` `claude` `claude-code` `devtools` `ext-apps` `llms` `mcp` `mcp-apps` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Skybridge is an open-source, full-stack TypeScript framework ideal for developing MCP Apps and ChatGPT Apps. Built with a focus on type-safety and platform-agnosticism, Skybridge utilizes React for a seamless and efficient development experience. This versatile framework is suitable for a wide range of applications, from AI/ML-based projects to frontend-oriented solutions.
+alpic-ai/skybridge is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/alpic-ai/skybridge) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/alpic-ai/skybridge) · [← Back to Orchestration](./README.md)</sub>

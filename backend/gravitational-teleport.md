@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20.2k |
+| ⭐ **Stars** | 20.3k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audit` `bastion` `certificate` `cluster` `database-access` `firewall` `firewalls` `go` `golang` `jumpserver` `kubernetes` `kubernetes-access`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the gravitational/teleport project:
-
-Teleport is an open-source project that provides a secure and easy way to access and manage infrastructure, offering robust protection for your resources. This solution streamlines backend management and data protection, catering to DevOps and infrastructure needs. By utilizing Teleport, users can efficiently safeguard their infrastructure while ensuring seamless access.
+gravitational/teleport is a promising open-source project. Categories: Backend, Data, DevOps/Infra. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/gravitational/teleport) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gravitational/teleport) · [← Back to Backend](./README.md)</sub>

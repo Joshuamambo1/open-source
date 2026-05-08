@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a` `agent` `ai` `llm` `mcp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the trpc-agent-go project:
-
-trpc-agent-go is an open-source Go framework for developing intelligent agent systems that leverage large language models (LLMs) and other tools. This framework enables the creation of sophisticated, AI-driven applications with ease, empowering developers to build more advanced and interactive systems. By harnessing the power of LLMs, trpc-agent-go facilitates the development of innovative solutions in various fields, including AI, ML, and frontend technologies.
+trpc-group/trpc-agent-go is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/trpc-group/trpc-agent-go) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/trpc-group/trpc-agent-go) · [← Back to AI/ML](./README.md)</sub>

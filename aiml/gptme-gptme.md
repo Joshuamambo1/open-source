@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 384 |
+| 🍴 **Forks** | 386 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agents` `ai-agents` `ai-assistant` `anthropic` `chatbot` `chatgpt` `cli` `code-generation` `llamacpp` `llm` `llm-agent`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project gptme/gptme:
-
-gptme/gptme is an open-source project that enables users to create their own persistent autonomous agents in a terminal environment. Equipped with local tools, this agent can write code, interact with the terminal, and browse the web, offering a high degree of customization and control. By leveraging AI/ML and frontend technologies, users can build their own personalized agents to automate tasks and streamline workflows.
+gptme/gptme is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 86/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/gptme/gptme) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gptme/gptme) · [← Back to AI/ML](./README.md)</sub>

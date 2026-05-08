@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 347 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`azure` `azure-sdk` `microsoft` `rust` `rust-lang` `rustlang`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ Azure/azure-sdk-for-rust is a promising open-source project. Categories: Misc. I
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Azure/azure-sdk-for-rust) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Azure/azure-sdk-for-rust) · [← Back to Misc](./README.md)</sub>

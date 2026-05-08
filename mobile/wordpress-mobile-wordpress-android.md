@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `app` `java` `mobile` `website` `wordpress`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ wordpress-mobile/WordPress-Android is a promising open-source project. Categorie
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/wordpress-mobile/WordPress-Android) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wordpress-mobile/WordPress-Android) · [← Back to Mobile](./README.md)</sub>

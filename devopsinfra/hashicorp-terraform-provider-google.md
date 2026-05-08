@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`google-cloud` `terraform` `terraform-provider`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The hashicorp/terraform-provider-google project is an open-source Terraform provider that enables users to manage and deploy infrastructure on Google Cloud Platform (GCP) using the Terraform Infrastructure as Code (IaC) tool. This provider provides a set of APIs to manage GCP resources, such as Compute Engine instances, Storage buckets, and Cloud Functions. By integrating with Terraform, users can define and version their GCP infrastructure configurations, promoting reproducibility, scalability, and collaboration.
+hashicorp/terraform-provider-google is a promising open-source project. Categories: DevOps/Infra. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hashicorp/terraform-provider-google) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hashicorp/terraform-provider-google) · [← Back to DevOps & Infra](./README.md)</sub>

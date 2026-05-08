@@ -1,6 +1,6 @@
 # google/agents-cli
 
-[![Stars](https://img.shields.io/github/stars/google/agents-cli?style=flat-square&color=yellow)](https://github.com/google/agents-cli/stargazers) [![Forks](https://img.shields.io/github/forks/google/agents-cli?style=flat-square&color=blue)](https://github.com/google/agents-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/agents-cli?style=flat-square&color=yellow)](https://github.com/google/agents-cli/stargazers) [![Forks](https://img.shields.io/github/forks/google/agents-cli?style=flat-square&color=blue)](https://github.com/google/agents-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 
@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 244 |
+| 🍴 **Forks** | 249 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adk` `agent-development-kit` `agents` `coding-agent` `gemini` `gemini-enterprise-agent-platform` `generative-ai` `google-cloud`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The google/agents-cli project is an open-source command-line interface (CLI) and skills that empower developers to create, evaluate, and deploy AI agents on Google Cloud with ease. This tool enables coding assistants to become experts in AI development, streamlining the process of building and managing intelligent agents on Google Cloud. By leveraging agents-cli, developers can efficiently design, train, and deploy AI models, driving innovation in the field of artificial intelligence.
+google/agents-cli is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 69/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/google/agents-cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/google/agents-cli) · [← Back to AI/ML](./README.md)</sub>

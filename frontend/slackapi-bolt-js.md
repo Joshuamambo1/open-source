@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 429 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`framework` `javascript` `slack` `slack-apps` `socket-mode` `typescript` `websocket` `websocket-client` `websockets`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Slackapi/bolt-js is an open-source framework that enables developers to build Slack applications using JavaScript. This comprehensive toolkit provides a straightforward way to create, deploy, and manage Slack apps, simplifying the process of integrating with Slack's APIs. With bolt-js, developers can build custom Slack apps that enhance communication, productivity, and collaboration within teams.
+slackapi/bolt-js is a promising open-source project. Categories: Frontend, Backend, DevTools. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/slackapi/bolt-js) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/slackapi/bolt-js) · [← Back to Frontend](./README.md)</sub>

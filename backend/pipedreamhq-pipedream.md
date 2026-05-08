@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11.3k |
-| 🍴 **Forks** | 5.6k |
+| 🍴 **Forks** | 5.7k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apis` `automation` `bash` `cli` `data-flow` `event-sourcing` `eventsourcing` `golang` `integration-flow` `integrations` `ipaas` `low-code`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ PipedreamHQ/pipedream is a promising open-source project. Categories: Backend, D
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/PipedreamHQ/pipedream) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/PipedreamHQ/pipedream) · [← Back to Backend](./README.md)</sub>

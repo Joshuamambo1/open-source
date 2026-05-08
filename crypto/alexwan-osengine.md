@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 979 |
+| ⭐ **Stars** | 982 |
 | 🍴 **Forks** | 435 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`algo-trading-software` `algo-trading-strategies` `algorithmic-trading` `arbitrage` `binance` `binance-bots` `bitmex-bot` `bot` `cryptotrading` `high-frequency-trading` `moex-bot` `os-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Trading · AI/ML
 
 ## 📝 Summary
 
-OsEngine is an open-source algo trading platform designed for cryptocurrency and financial markets. Developed with AI/ML capabilities, this platform aims to provide traders with a robust and customizable trading experience. By leveraging open-source technology, OsEngine facilitates collaboration and innovation among traders, developers, and AI/ML enthusiasts.
+AlexWan/OsEngine is a promising open-source project. Categories: Crypto, Trading, AI/ML. Interest score: 63/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/AlexWan/OsEngine) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/AlexWan/OsEngine) · [← Back to Crypto](./README.md)</sub>

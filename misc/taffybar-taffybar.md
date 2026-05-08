@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`appindicator` `dbus` `ewmh` `gi-gtk` `gtk` `haskell` `haskell-gi` `mpris` `stack` `statusnotifieritem` `systray` `taffybar`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Taffybar is an open-source status bar designed for use with tiling window managers, specifically tailored for XMonad. This GTK-based application provides a customizable and user-friendly interface for displaying system information and status updates. It offers a convenient way to stay informed about your system's status while working in a tiling window manager environment.
+taffybar/taffybar is a promising open-source project. Categories: Misc. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/taffybar/taffybar) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/taffybar/taffybar) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 84.4k |
+| ⭐ **Stars** | 84.5k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`packaging` `python` `resolver` `uv`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ astral-sh/uv is a promising open-source project. Categories: Misc. Interest scor
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/astral-sh/uv) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/astral-sh/uv) · [← Back to Misc](./README.md)</sub>

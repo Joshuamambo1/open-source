@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.8k |
-| 🍴 **Forks** | 638 |
+| 🍴 **Forks** | 642 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agents` `ai` `ai-agents` `realtime` `stt` `tts` `video-agents` `video-ai` `vision-ai` `voice-ai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-GetStream/Vision-Agents is an open-source project that enables the rapid development of voice and vision agents using various models and video providers. Built on Stream's edge network, it delivers ultra-low latency performance, making it suitable for real-time applications. This project caters to developers working on AI/ML and frontend projects, offering a flexible and efficient solution for building intelligent agents.
+GetStream/Vision-Agents is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/GetStream/Vision-Agents) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/GetStream/Vision-Agents) · [← Back to AI/ML](./README.md)</sub>

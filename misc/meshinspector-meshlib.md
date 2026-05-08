@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 777 |
-| 🍴 **Forks** | 109 |
+| ⭐ **Stars** | 779 |
+| 🍴 **Forks** | 110 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d` `cpp` `cross-platform` `distance-map` `geometry` `library` `mesh` `mesh-analysis` `mesh-boolean` `mesh-decimation` `mesh-processing` `mesh-registration`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-MeshInspector/MeshLib is an open-source, versatile mesh processing library designed to efficiently manage and manipulate complex mesh data. It provides a robust set of tools for mesh inspection, manipulation, and analysis, making it a valuable resource for researchers and developers working with geometric and topological data. By utilizing this library, users can streamline their mesh-related tasks and focus on higher-level applications and problem-solving.
+MeshInspector/MeshLib is a promising open-source project. Categories: Misc. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/MeshInspector/MeshLib) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/MeshInspector/MeshLib) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`artificial-intelligence` `dag` `data-science` `data-visualization` `dataflow` `developer-tools` `machine-learning` `notebooks` `pipeline` `python` `reactive` `sql`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Marimo project:
-
-Marimo is an open-source, reactive notebook for Python that enables users to run reproducible experiments, query data with SQL, execute code as a script, deploy applications, and version with Git. This modern, AI-native editor stores data as pure Python, allowing for seamless collaboration and deployment. With Marimo, users can easily manage and share their Python projects in a flexible and reproducible way.
+marimo-team/marimo is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/marimo-team/marimo) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/marimo-team/marimo) · [← Back to AI/ML](./README.md)</sub>

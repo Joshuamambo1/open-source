@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `alignment` `debugging` `evaluation` `graphrag` `hallucination` `information-retrieval` `knowledge-graph` `llm` `rag` `reasoning` `retrieval-augmented-generation`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the WFGY project:
-
-WFGY is an open-source AI Troubleshooting Atlas designed to support the development of robust artificial intelligence (AI) workflows. This comprehensive toolkit features a 16-problem map, a Global Debug Card, and WFGY 4.0, providing a valuable resource for builders and developers working with RAG agents and real-world AI applications. By fostering collaboration and knowledge sharing, WFGY aims to improve the overall quality and reliability of AI systems.
+onestardao/WFGY is a promising open-source project. Categories: AI/ML. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/onestardao/WFGY) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/onestardao/WFGY) · [← Back to AI/ML](./README.md)</sub>

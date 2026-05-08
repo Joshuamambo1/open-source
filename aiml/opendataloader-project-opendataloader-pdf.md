@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20.3k |
+| ⭐ **Stars** | 20.5k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a11y` `accessibility` `ai` `bounding-box` `document-parsing` `eaa` `html` `json` `markdown` `ocr` `ocr-recognition` `pdf`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The OpenDataloader PDF project is an open-source initiative aimed at transforming PDF documents into AI-ready data. It enables the automation of PDF accessibility, breaking down barriers to data integration and analysis. By leveraging this tool, users can unlock valuable insights from PDFs and integrate them into various applications and workflows.
+opendataloader-project/opendataloader-pdf is a promising open-source project. Categories: AI/ML, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/opendataloader-project/opendataloader-pdf) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/opendataloader-project/opendataloader-pdf) · [← Back to AI/ML](./README.md)</sub>

@@ -25,7 +25,7 @@ AI/ML · Security
 
 ## 📝 Summary
 
-CodeQL is an open-source project that provides libraries and queries used by security researchers globally to analyze and identify vulnerabilities in code. It powers code scanning in GitHub Advanced Security, enabling developers to identify potential security risks and fix them early in the development process. By leveraging CodeQL, developers can improve the security and reliability of their software.
+github/codeql is a promising open-source project. Categories: AI/ML, Security. Interest score: 96/100.
 
 ---
 

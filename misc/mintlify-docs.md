@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 389 |
-| 🍴 **Forks** | 232 |
+| ⭐ **Stars** | 390 |
+| 🍴 **Forks** | 233 |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Mintlify/docs is an open-source project that hosts the official documentation for Mintlify, providing users with comprehensive guides and resources to maximize their experience with the Mintlify platform. The project offers a centralized repository for documentation, making it easier for users to access and contribute to the knowledge base. By supporting this project, users can help improve and expand the documentation, ultimately enhancing their productivity and understanding of Mintlify.
+Mintlify/docs is an open-source project that houses the official documentation for Mintlify, providing users with a comprehensive resource for learning and utilizing the platform's features. The documentation aims to cater to users of various skill levels, from beginners to experienced developers, by offering clear explanations and examples. This resource is a valuable asset for anyone looking to maximize their productivity and efficiency with Mintlify.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/mintlify/docs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mintlify/docs) · [← Back to Misc](./README.md)</sub>

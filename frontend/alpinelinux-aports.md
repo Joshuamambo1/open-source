@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 707 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alpine-linux` `aports` `linux` `packages`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The alpinelinux/aports project is an open-source repository of build scripts for Alpine Linux packages, allowing users to easily replicate and customize the package collection. These scripts are used to construct and maintain the package repository for Alpine Linux, a lightweight and secure Linux distribution. The project is a crucial component of the Alpine Linux ecosystem, facilitating the creation and management of packages for the community.
+alpinelinux/aports is a promising open-source project. Categories: Frontend. Interest score: 61/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/alpinelinux/aports) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/alpinelinux/aports) · [← Back to Frontend](./README.md)</sub>

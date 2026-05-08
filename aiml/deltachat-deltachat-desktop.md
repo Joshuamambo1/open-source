@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`autocrypt` `chat` `deltachat-desktop` `e2ee` `electron` `email` `federated` `imap` `instant-messaging` `messenger` `smtp` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Deltachat-desktop is an open-source, decentralized private messenger that enables secure and private communication for users. This desktop application features a range of integrated tools and games, allowing users to engage in various activities within their chat network. By leveraging decentralized technology, deltachat-desktop prioritizes user privacy and autonomy.
+deltachat/deltachat-desktop is a promising open-source project. Categories: AI/ML. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/deltachat/deltachat-desktop) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/deltachat/deltachat-desktop) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 35k |
+| ⭐ **Stars** | 35.3k |
 | 🍴 **Forks** | 4.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `app` `cms` `composable` `data-visualization` `database` `directus` `graphql` `headless-cms` `javascript` `mariadb` `mssql`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ directus/directus is a promising open-source project. Categories: Frontend, Back
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/directus/directus) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/directus/directus) · [← Back to Frontend](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 244 |
+| 🍴 **Forks** | 246 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apple-health` `apple-watch` `fastapi` `fitness` `fitness-analysis` `fitness-api` `garmin` `health` `healthcare` `healthcare-ai` `python` `quantified-self`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
-The open-wearables project offers a self-hosted platform for unifying wearable health data into a single AI-ready API. This centralized platform enables users to access and integrate their wearable health data, promoting seamless interactions with various applications and analytics tools. By providing a unified API, open-wearables facilitates the development of innovative AI-driven health solutions.
+the-momentum/open-wearables is a promising open-source project. Categories: Trading, AI/ML, Backend. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/the-momentum/open-wearables) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/the-momentum/open-wearables) · [← Back to Trading](./README.md)</sub>

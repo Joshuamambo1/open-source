@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`camps` `hacktoberfest` `schedule` `scouting` `tool`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-eCamp v3 is a web-based application designed specifically for planning camps and courses by youth associations and sport organizations offering Y+S programs in camp sports and trekking. This open-source platform provides an efficient and user-friendly solution for managing various aspects of camp and course planning. It aims to streamline the process for organizations offering similar services, promoting better organization and coordination.
+ecamp/ecamp3 is a promising open-source project. Categories: Misc. Interest score: 48/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ecamp/ecamp3) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ecamp/ecamp3) · [← Back to Misc](./README.md)</sub>

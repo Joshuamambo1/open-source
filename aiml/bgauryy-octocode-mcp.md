@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 807 |
+| ⭐ **Stars** | 808 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-agents` `ai-tools` `claude-ai` `code-intelligence` `code-search` `context` `cursor` `cursor-ai` `development` `github`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The octocode-mcp project is an open-source MCP server that enables semantic code research and real-time context generation using Large Language Model (LLM) patterns. It allows users to naturally search across public and private repositories based on their permissions, transforming accessible codebases into AI-optimized knowledge. This powerful tool facilitates the discovery of real implementations and live documentation from anywhere, making it an invaluable asset for AI/ML and backend development.
+bgauryy/octocode-mcp is a promising open-source project. Categories: AI/ML, Backend. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/bgauryy/octocode-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bgauryy/octocode-mcp) · [← Back to AI/ML](./README.md)</sub>

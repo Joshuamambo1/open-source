@@ -1,6 +1,6 @@
 # mayocream/koharu
 
-[![Stars](https://img.shields.io/github/stars/mayocream/koharu?style=flat-square&color=yellow)](https://github.com/mayocream/koharu/stargazers) [![Forks](https://img.shields.io/github/forks/mayocream/koharu?style=flat-square&color=blue)](https://github.com/mayocream/koharu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mayocream/koharu?style=flat-square&color=yellow)](https://github.com/mayocream/koharu/stargazers) [![Forks](https://img.shields.io/github/forks/mayocream/koharu?style=flat-square&color=blue)](https://github.com/mayocream/koharu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > ML-powered manga translator, written in Rust.
 
@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 230 |
+| 🍴 **Forks** | 232 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`computer-vision` `deep-learning` `gpu` `gui` `japanese` `manga` `rust` `tauri` `text-rendering` `translation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Koharu is an open-source, Rust-based project that utilizes machine learning to translate manga content. This innovative tool aims to bridge language barriers and make manga more accessible to a global audience. By leveraging AI/ML capabilities, Koharu offers a powerful solution for manga translation.
+mayocream/koharu is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 84/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/mayocream/koharu) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mayocream/koharu) · [← Back to AI/ML](./README.md)</sub>

@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.1k |
-| 🍴 **Forks** | 311 |
+| 🍴 **Forks** | 312 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The pydantic/monty project is an open-source, minimal, and secure Python interpreter written in Rust, specifically designed for use in AI applications. This project aims to provide a lightweight and efficient Python runtime environment for AI frameworks and models. By leveraging Rust's memory safety and performance features, monty enables the creation of more robust and scalable AI systems.
+pydantic/monty is a promising open-source project. Categories: AI/ML. Interest score: 80/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/pydantic/monty) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pydantic/monty) · [← Back to AI/ML](./README.md)</sub>

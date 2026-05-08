@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 207 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `api-testing` `cli` `fuzzing` `graphql` `hypothesis` `openapi` `property-based-testing` `pytest` `swagger` `testing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Schemathesis is an open-source project designed to identify API bugs early in the development process, reducing the likelihood of end-users encountering issues. It works by generating a wide range of test cases based on an API's OpenAPI or AsyncAPI schema, allowing developers to thoroughly test their API. This approach ensures that API endpoints are thoroughly vetted before being released to the public.
+schemathesis/schemathesis is a promising open-source project. Categories: Backend, DevTools. Interest score: 76/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/schemathesis/schemathesis) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/schemathesis/schemathesis) · [← Back to Backend](./README.md)</sub>

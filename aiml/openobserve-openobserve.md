@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.7k |
-| 🍴 **Forks** | 804 |
+| ⭐ **Stars** | 18.8k |
+| 🍴 **Forks** | 809 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `apm` `datadog` `elasticsearch` `grafana` `jaeger` `kibana` `log-analytics` `log-management` `log-search` `logs` `metrics`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-OpenObserve is an open-source observability platform that provides unified monitoring and analytics for logs, metrics, traces, and frontend data. With its cost-effective approach, OpenObserve offers significant storage cost savings (up to 140x lower) compared to proprietary solutions like Datadog, Splunk, and Elasticsearch. The platform can be easily deployed with a single binary, simplifying the setup process for developers and organizations.
+openobserve/openobserve is a promising open-source project. Categories: AI/ML, Frontend, Data. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/openobserve/openobserve) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openobserve/openobserve) · [← Back to AI/ML](./README.md)</sub>

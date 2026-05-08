@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 722 |
+| 🍴 **Forks** | 723 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`metrics` `mib` `monitoring` `prometheus` `prometheus-exporter` `snmp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The prometheus/snmp_exporter project is an open-source tool that enables the collection of SNMP data for ingestion into Prometheus, a popular monitoring system. This exporter allows users to scrape SNMP metrics from network devices and other SNMP-capable systems, providing a unified monitoring framework for diverse infrastructure components. By leveraging Prometheus' powerful querying capabilities, users can gain insights into their network and system performance.
+prometheus/snmp_exporter is a promising open-source project. Categories: Misc. Interest score: 73/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/prometheus/snmp_exporter) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/prometheus/snmp_exporter) · [← Back to Misc](./README.md)</sub>

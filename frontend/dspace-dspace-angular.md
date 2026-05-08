@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 177 |
-| 🍴 **Forks** | 539 |
+| 🍴 **Forks** | 540 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `angular-ui` `dspace` `ngrx` `repository` `typescript` `user-interface`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The DSpace/dspace-angular project is an open-source User Interface built on Angular for the DSpace repository management system. This frontend implementation provides a modern and interactive user experience for interacting with digital assets, enhancing the overall repository management experience. It is designed to be highly customizable and extensible, allowing users to tailor the interface to their specific needs.
+DSpace/dspace-angular is a promising open-source project. Categories: Frontend. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/DSpace/dspace-angular) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/DSpace/dspace-angular) · [← Back to Frontend](./README.md)</sub>

@@ -25,7 +25,7 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Youki is an open-source container runtime written in Rust, designed to provide a high-performance and secure environment for running containers. It offers a modern alternative to traditional container runtimes, leveraging Rust's memory safety and performance benefits to optimize container execution. By utilizing Rust, Youki aims to deliver improved efficiency and reliability for containerized applications.
+youki-dev/youki is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 88/100.
 
 ---
 

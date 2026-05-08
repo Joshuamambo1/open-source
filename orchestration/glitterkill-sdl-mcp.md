@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 292 |
+| ⭐ **Stars** | 296 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-context` `agent-tools` `agentic-coding` `agentic-workflow` `agents` `ai-agents` `code-analysis` `code-context` `codebase-indexing` `codebase-intelligence` `codegraph` `coding-agent`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-SDL-MCP is an open-source project that enables coding agents to access relevant code context without exposing the entire codebase. This compact, high-signal context helps to conserve tokens, streamline workflows, and enhance the accuracy of agent outputs. By providing targeted code context, SDL-MCP facilitates more efficient collaboration between developers and AI/ML agents.
+GlitterKill/sdl-mcp is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/GlitterKill/sdl-mcp) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/GlitterKill/sdl-mcp) · [← Back to Orchestration](./README.md)</sub>

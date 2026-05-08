@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 980 |
+| ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-agents` `airline-api` `booking` `business` `flight-search` `flights` `framework` `hermes` `hermes-agent` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-This open-source project, LetsFG, is an agent-native flight search and booking platform that leverages AI/ML capabilities to quickly and efficiently search across 400+ airlines in just 5 seconds. Through its advanced technology, it has been verified to save users up to $116 across multiple routes compared to Google Flights. By joining the community and starring the project, users can contribute to its development and help spread the word about this innovative travel solution.
+LetsFG/LetsFG is a promising open-source project. Categories: AI/ML, Backend. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/LetsFG/LetsFG) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/LetsFG/LetsFG) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.8k |
-| 🍴 **Forks** | 1.9k |
+| 🍴 **Forks** | 2k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`browser` `gtk` `ios` `javascript` `macos` `web` `webkit`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-The WebKit project is an open-source browser engine that powers popular applications such as Safari, Mail, and the App Store on macOS, iOS, and Linux platforms. It is a versatile and widely-used engine that enables the development of high-performance web browsers and mobile applications. With its open-source nature, WebKit provides a collaborative platform for developers to contribute and improve the engine's functionality.
+WebKit/WebKit is a promising open-source project. Categories: AI/ML, Mobile. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/WebKit/WebKit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/WebKit/WebKit) · [← Back to AI/ML](./README.md)</sub>

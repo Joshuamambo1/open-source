@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 900 |
+| 🍴 **Forks** | 902 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `cuda` `jax` `machine-learning` `mlir` `onnx` `pytorch` `runtime` `spirv` `tensorflow` `vulkan`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-iree-org/iree is a promising open-source project. Categories: AI/ML. Interest score: 89/100.
+iree-org/iree is a promising open-source project. Categories: AI/ML. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/iree-org/iree) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/iree-org/iree) · [← Back to AI/ML](./README.md)</sub>

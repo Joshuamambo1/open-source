@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 453 |
+| ⭐ **Stars** | 454 |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The oracle/graalvm-reachability-metadata project is an open-source collection of reachability metadata for open-source libraries, helping improve the performance and reliability of GraalVM. This community-driven repository provides essential metadata for optimizing GraalVM's ability to reach and interact with external libraries, facilitating AI/ML and data processing applications. By contributing to this project, developers can enhance the compatibility and efficiency of GraalVM with various open-source libraries.
+oracle/graalvm-reachability-metadata is a promising open-source project. Categories: AI/ML, Data. Interest score: 45/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/oracle/graalvm-reachability-metadata) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/oracle/graalvm-reachability-metadata) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6k |
+| ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `ai-agents` `anthropic` `claude` `deepseek` `gemini` `grok` `llm` `local-llm` `mcp` `model-agnostic` `multi-agent`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The open-multi-agent project is an open-source orchestration engine written in TypeScript, designed to simplify complex decision-making processes by automating task decomposition and parallel execution across multiple models. This engine enables seamless transition from goal definition to actionable results through a single API call, `runTeam()`. It supports multi-model teams and offers scalable AI/ML integration capabilities.
+JackChen-me/open-multi-agent is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/JackChen-me/open-multi-agent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/JackChen-me/open-multi-agent) · [← Back to Orchestration](./README.md)</sub>

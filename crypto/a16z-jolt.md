@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 987 |
-| 🍴 **Forks** | 309 |
+| ⭐ **Stars** | 989 |
+| 🍴 **Forks** | 310 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arkworks` `crypto` `cryptography` `snark` `zk` `zk-snarks` `zkp` `zkvm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-a16z/jolt is a promising open-source project. Categories: Misc. Interest score: 61/100.
+a16z/jolt is a promising open-source project. Categories: Crypto. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/a16z/jolt) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/a16z/jolt) · [← Back to Crypto](./README.md)</sub>

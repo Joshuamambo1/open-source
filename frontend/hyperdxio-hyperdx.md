@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.5k |
-| 🍴 **Forks** | 393 |
+| 🍴 **Forks** | 394 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alerting` `analytics` `apm` `application-monitoring` `clickhouse` `dashboard` `frontend-monitoring` `kubernetes` `log-management` `logs` `metrics` `monitoring`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the hyperdx open-source project:
-
-Hyperdx is an open-source observability platform that streamlines production issue resolution by unifying various data sources, including session replays, logs, metrics, traces, and errors. Leveraging ClickHouse and OpenTelemetry, hyperdx provides a comprehensive view of system performance and behavior. This unified platform enables developers to quickly diagnose and resolve production issues, improving overall system reliability and efficiency.
+hyperdxio/hyperdx is a promising open-source project. Categories: Frontend, DevTools, Data. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hyperdxio/hyperdx) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hyperdxio/hyperdx) · [← Back to Frontend](./README.md)</sub>

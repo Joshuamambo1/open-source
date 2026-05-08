@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 628 |
-| 🍴 **Forks** | 230 |
+| ⭐ **Stars** | 632 |
+| 🍴 **Forks** | 232 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `llm` `rag` `skills` `video-analytics` `video-search` `vlm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The NVIDIA-AI-Blueprints/video-search-and-summarization is an open-source project that enables the ingestion of massive volumes of live or archived videos and extracts valuable insights for summarization and interactive Q&A. This framework leverages AI and ML capabilities to process and analyze video content, providing a powerful tool for media analysis and information retrieval. By harnessing the potential of AI-driven video analysis, users can unlock new ways to engage with and understand video content.
+NVIDIA-AI-Blueprints/video-search-and-summarization is a promising open-source project. Categories: AI/ML, Frontend, Data. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) · [← Back to AI/ML](./README.md)</sub>

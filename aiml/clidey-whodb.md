@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.8k |
-| 🍴 **Forks** | 200 |
+| 🍴 **Forks** | 203 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `clickhouse` `data-analysis` `data-visualization` `database` `elasticsearch` `explorer` `golang` `lightweight` `mariadb` `mongodb` `mysql`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the clidey/whodb project:
-
-Whodb is an open-source, next-generation data explorer that supports a wide range of databases, including Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse. This lightweight tool offers a user-friendly chat interface for easy data querying and exploration. By providing a unified interface for diverse databases, Whodb simplifies data analysis and discovery.
+clidey/whodb is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 87/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/clidey/whodb) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/clidey/whodb) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.4k |
-| 🍴 **Forks** | 855 |
+| 🍴 **Forks** | 863 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai-agents` `claude-code` `cli` `codex` `coding-agents` `cursor-agent` `desktop-app` `developer-tools` `electron` `git-worktree` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Superset is an open-source project that provides a code editor designed specifically for the AI agents era. This editor enables users to run multiple AI models such as Claude or Codex on their machine, allowing for enhanced productivity and collaboration. By streamlining the workflow for AI model use, Superset aims to revolutionize the way developers work with these powerful tools.
+superset-sh/superset is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 98/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/superset-sh/superset) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/superset-sh/superset) · [← Back to Orchestration](./README.md)</sub>

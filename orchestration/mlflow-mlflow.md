@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.7k |
+| ⭐ **Stars** | 25.8k |
 | 🍴 **Forks** | 5.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentops` `agents` `ai` `ai-governance` `apache-spark` `evaluation` `langchain` `llm-evaluation` `llmops` `machine-learning` `ml` `mlflow`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-MLflow is an open-source AI engineering platform that facilitates the development, deployment, and management of production-quality AI applications. It enables teams to debug, evaluate, and optimize their AI models while controlling costs and managing access to sensitive data and models. With MLflow, teams of all sizes can streamline their AI workflows, improving efficiency and reducing the complexity associated with AI development.
+mlflow/mlflow is a promising open-source project. Categories: Orchestration, AI/ML, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mlflow/mlflow) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mlflow/mlflow) · [← Back to Orchestration](./README.md)</sub>

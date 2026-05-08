@@ -25,7 +25,7 @@ AI/ML · Frontend · Product
 
 ## 📝 Summary
 
-MerMark Editor v0.2.0 is an open-source project that combines a Markdown and Mermaid editor with the power of AI-driven content generation through Claude/Codex. This innovative tool allows users to create visually stunning diagrams and documents while leveraging the capabilities of Codex for intelligent content suggestions and generation. By bridging the gap between human creativity and AI-driven insights, MerMark Editor empowers users to produce high-quality content with ease.
+MerMark Editor v0.2.0 - Markdown/Mermaid editor with built-in Claude/Codex is a promising open-source project. Categories: AI/ML, Frontend, Product. Interest score: 40/100.
 
 ---
 

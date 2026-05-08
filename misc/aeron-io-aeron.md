@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The Aeron project is an open-source, efficient, and reliable transport system for sending and receiving messages over UDP unicast, UDP multicast, and IPC (Inter-Process Communication). It enables low-latency, high-throughput communication between nodes and is designed to be fault-tolerant and scalable. Aeron is particularly useful for real-time data streaming and messaging applications.
+aeron-io/aeron is a promising open-source project. Categories: Misc. Interest score: 97/100.
 
 ---
 

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 80.1k |
+| ⭐ **Stars** | 80.6k |
 | 🍴 **Forks** | 11.6k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Codex is an open-source, lightweight coding agent developed by OpenAI, designed to run directly in the terminal. It enables users to interact with code through natural language, allowing for rapid development and exploration of programming concepts. With Codex, users can execute code snippets, receive explanations, and access documentation, all from a seamless terminal experience.
+openai/codex is a promising open-source project. Categories: AI/ML. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/openai/codex) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openai/codex) · [← Back to AI/ML](./README.md)</sub>

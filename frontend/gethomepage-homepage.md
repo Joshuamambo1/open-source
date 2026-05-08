@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `homepage` `nextjs` `node` `react` `self-hosted` `startpage`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the gethomepage/homepage project:
-
-The gethomepage/homepage project is an open-source, highly customizable homepage (or startpage/application dashboard) that integrates seamlessly with Docker and service APIs. This versatile platform allows users to tailor their homepage to fit their specific needs, whether it's for personal use or as a centralized application dashboard for teams. With its broad range of integrations, gethomepage/homepage streamlines workflows and enhances productivity.
+gethomepage/homepage is a promising open-source project. Categories: Frontend, Backend, DevOps/Infra. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/gethomepage/homepage) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gethomepage/homepage) · [← Back to Frontend](./README.md)</sub>

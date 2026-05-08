@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cell` `checkbox` `editable` `form` `grid` `input` `modal` `pager` `radio` `select` `switch` `table`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the x-extends/vxe-table project:
-
-Vxe-table is a versatile and open-source table solution that supports both Vue 2 and Vue 3. This project provides a comprehensive table component with a wide range of features and customization options, making it a robust choice for developers. It offers a flexible and efficient way to display and manage data in table format, ideal for various web applications.
+x-extends/vxe-table is a promising open-source project. Categories: Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/x-extends/vxe-table) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/x-extends/vxe-table) · [← Back to Frontend](./README.md)</sub>

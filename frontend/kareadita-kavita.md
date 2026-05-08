@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.5k |
-| 🍴 **Forks** | 594 |
+| 🍴 **Forks** | 596 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`annotations` `cbz` `comicinfo` `comics` `comics-reader` `cross-platform` `csharp` `epub` `epub-reader` `free` `linux` `manga`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · Data
 
 ## 📝 Summary
 
-Kavita, formerly known as Kareadita, is a cutting-edge, open-source reading server that offers a comprehensive reading experience across various platforms. With its focus on being a complete solution, users can easily set up their own server to share their extensive reading collection with loved ones. This feature-rich platform is designed to cater to all reading needs, making it an ideal choice for readers and book enthusiasts alike.
+Kareadita/Kavita is a promising open-source project. Categories: Frontend, Backend, Data. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Kareadita/Kavita) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Kareadita/Kavita) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 72.4k |
-| 🍴 **Forks** | 6.2k |
+| ⭐ **Stars** | 73.1k |
+| 🍴 **Forks** | 6.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-memory` `anthropic` `artificial-intelligence` `chromadb` `claude` `claude-agent-sdk` `claude-agents` `claude-code` `claude-code-plugin` `claude-skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Claude-Mem is an open-source plugin that revolutionizes coding sessions by capturing, compressing, and contextualizing the activities of Claude, an AI coding assistant. Utilizing Claude's agent-sdk, this plugin leverages AI to optimize the learning process by injecting relevant context from past sessions into new ones, enhancing productivity and efficiency. By automating the recording and analysis of Claude's interactions, Claude-Mem empowers developers to unlock their full potential.
+thedotmack/claude-mem is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/thedotmack/claude-mem) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/thedotmack/claude-mem) · [← Back to Orchestration](./README.md)</sub>

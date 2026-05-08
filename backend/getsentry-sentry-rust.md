@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 728 |
+| ⭐ **Stars** | 729 |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `rust` `sdk` `sentry` `tag-production` `team-web-backend`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Product
 
 ## 📝 Summary
 
-The getsentry/sentry-rust project provides an official Sentry SDK for Rust applications, enabling developers to seamlessly integrate error tracking and monitoring capabilities into their code. This SDK allows users to send error data to Sentry, a popular platform for managing and analyzing application issues. By leveraging getsentry/sentry-rust, developers can gain valuable insights into their application's performance and reliability.
+getsentry/sentry-rust is a promising open-source project. Categories: Backend, Product. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/getsentry/sentry-rust) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/getsentry/sentry-rust) · [← Back to Backend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 714 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `leo` `programming-language` `zero-knowledge` `zksnarks`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Leo programming language is an open-source project that enables the development of formally verified, zero-knowledge applications. It allows programmers to create secure and trustworthy software by leveraging formal verification techniques, ensuring the correctness and reliability of their code. With Leo, developers can build applications that maintain the confidentiality and integrity of user data.
+ProvableHQ/leo is a promising open-source project. Categories: Misc. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/ProvableHQ/leo) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ProvableHQ/leo) · [← Back to Misc](./README.md)</sub>

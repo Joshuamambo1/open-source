@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 228 |
+| ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Diodeinc/pcb is an open-source project that provides PCB (Printed Circuit Board) tooling developed by Diode Computers, Inc. This project offers a range of features and functionalities to aid in the design, development, and optimization of PCBs. With its open-source nature, it enables users to freely access and contribute to the tooling.
+The diodeinc/pcb project is an open-source toolset for electronics design and fabrication, developed by Diode Computers, Inc. It provides a comprehensive set of tools for creating and managing PCB (Printed Circuit Board) designs, enabling users to streamline their electronics development workflow. This project is a valuable resource for makers, engineers, and developers working on electronic projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/diodeinc/pcb) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/diodeinc/pcb) · [← Back to DevTools](./README.md)</sub>

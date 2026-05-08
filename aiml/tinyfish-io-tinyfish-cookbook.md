@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 264 |
+| ⭐ **Stars** | 1.8k |
+| 🍴 **Forks** | 267 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic` `ai` `cookbook` `examples` `tinyfish` `typescript` `web-agents` `web-automation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The tinyfish-cookbook project is an open-source collection of sample applications and recipes that utilize the TinyFish web agent. This project serves as a learning resource and a starting point for developers to build their own projects by providing hands-on examples of TinyFish capabilities. With a focus on AI/ML and frontend development, the cookbook aims to facilitate learning and experimentation with the TinyFish web agent.
+tinyfish-io/tinyfish-cookbook is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/tinyfish-io/tinyfish-cookbook) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tinyfish-io/tinyfish-cookbook) · [← Back to AI/ML](./README.md)</sub>

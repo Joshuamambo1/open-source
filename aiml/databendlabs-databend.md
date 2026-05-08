@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 869 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `bigdata` `cloud-native` `database` `elasticsearch` `geospatial` `lakehouse` `olap` `rust` `serverless` `snowflake` `sql`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a summary of the databendlabs/databend project:
-
-Databend is an open-source, unified data warehouse platform designed to support various use cases such as analytics, search, and AI. Built from scratch, it enables a unified architecture for data processing and storage on top of cloud storage services like S3. As a result, Databend offers a scalable and flexible solution for data-intensive applications.
+databendlabs/databend is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 98/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/databendlabs/databend) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/databendlabs/databend) · [← Back to AI/ML](./README.md)</sub>

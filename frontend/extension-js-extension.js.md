@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`browser-extension` `chrome-extension` `cli` `content-script` `cross-browser` `edge-extension` `extension-js` `firefox-extension` `manifest-v3` `playwright` `preact` `react`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Extension.js is an open-source, cross-browser extension framework designed to simplify the development of browser extensions. This framework provides a robust and versatile foundation for building extensions that can run seamlessly across multiple browsers, reducing the complexity of cross-browser compatibility issues. By leveraging extension.js, developers can focus on creating innovative and user-friendly extensions without worrying about browser-specific implementation details.
+extension-js/extension.js is a promising open-source project. Categories: Frontend, DevTools. Interest score: 87/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/extension-js/extension.js) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/extension-js/extension.js) · [← Back to Frontend](./README.md)</sub>

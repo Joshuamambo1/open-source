@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `commander` `deno` `framework` `minimist` `node`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The cacjs/cac project is an open-source framework that simplifies the development of command-line applications by providing a robust and flexible set of tools. With its simple yet powerful architecture, developers can build high-quality command-line apps with ease, streamlining their workflow and productivity. This framework is ideal for those looking to create efficient and user-friendly command-line interfaces.
+cacjs/cac is a promising open-source project. Categories: Frontend, DevTools. Interest score: 72/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/cacjs/cac) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cacjs/cac) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`backend` `cache` `caching` `caching-proxy` `databases` `mysql` `mysql-database` `postgres` `postgresql` `postgresql-database` `rust` `rust-lang`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Data
 
 ## 📝 Summary
 
-ReadySet is an open-source caching layer designed to accelerate query performance and scale read throughput for MySQL and Postgres databases. By caching the results of select statements and incrementally updating them as data changes, ReadySet enables faster query execution and improved data retrieval efficiency. This caching solution provides a scalable and efficient way to optimize database performance.
+ReadySet is an open-source caching layer that accelerates query performance and scales read throughput for MySQL and Postgres databases. By caching select statement results and incrementally updating them as data changes, ReadySet optimizes database interactions and improves overall system efficiency. This caching layer can be used to enhance the performance and scalability of existing database systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/readysettech/readyset) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/readysettech/readyset) · [← Back to Backend](./README.md)</sub>

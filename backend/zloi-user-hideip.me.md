@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`free-proxies` `free-proxy` `free-proxy-list` `freeproxy` `freeproxylist` `fresh-proxies` `http-proxy` `https-proxy` `proxies` `proxies-list` `proxy` `proxy-list`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary of the project:
 
-The hideip.me project is an open-source proxy list that dynamically updates every 10 minutes, providing users with a reliable and up-to-date list of proxy servers. This backend-focused project aims to facilitate proxy-based applications and services by offering a constantly refreshed list of available proxy servers. Its open-source nature makes it accessible and customizable for developers to integrate into their projects.
+The hideip.me project is an open-source proxy list service that automatically updates every 10 minutes, providing users with a dynamic and current collection of proxy servers. This backend service aims to assist with tasks such as web scraping, data collection, and other applications that require proxy servers for anonymity or to bypass access restrictions. By providing a regularly updated proxy list, hideip.me aims to make it easier for developers to access restricted content and perform online tasks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/zloi-user/hideip.me) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/zloi-user/hideip.me) · [← Back to Backend](./README.md)</sub>

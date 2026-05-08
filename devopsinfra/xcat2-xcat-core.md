@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Perl |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bare-metal` `cluster` `deployment` `hpc` `infrastructure` `infrastructure-management` `ipmi` `openbmc` `openpower` `provisioning` `pxe` `remote-execution`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The xcat2/xcat-core project is an open-source repository containing the core packages of xCAT, a powerful DevOps and infrastructure management toolset. This codebase enables users to build and manage complex IT environments with ease, providing a scalable and flexible framework for automation and orchestration. xCAT core packages serve as the foundation for xCAT's robust feature set, facilitating efficient infrastructure deployment and management.
+xcat2/xcat-core is a promising open-source project. Categories: DevOps/Infra. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/xcat2/xcat-core) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/xcat2/xcat-core) · [← Back to DevOps & Infra](./README.md)</sub>

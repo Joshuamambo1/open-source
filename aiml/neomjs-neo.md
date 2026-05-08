@@ -25,9 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the project:
-
-Neo is an open-source, multi-threaded runtime engine designed for the AI era, enabling AI agents to interact with and modify application structures in real-time. Built with a persistent Scene Graph, Neo empowers AI to introspect and mutate the application's living structure, revolutionizing the way AI and applications interact. This AI-native runtime provides a unique platform for building dynamic, adaptive, and AI-driven applications.
+neomjs/neo is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 75/100.
 
 ---
 

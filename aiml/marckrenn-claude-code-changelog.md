@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 796 |
+| ⭐ **Stars** | 797 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `anthropic` `anthropic-claude` `claude-code` `claude-code-system-prompts` `system-prompts` `system-prompts-leak`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The marckrenn/claude-code-changelog project is an open-source initiative that tracks and records key information about Claude Code releases, including prompts, feature flags, and metadata. This project aims to provide a centralized and transparent record of the development process, facilitating collaboration and reproducibility in AI/ML and data-related projects. By subscribing to this changelog, users can stay up-to-date with the latest developments and changes in the Claude Code.
+Here's a 2-3 sentence summary for the open-source project:
+
+Claude Code Changelog is an open-source project that tracks the evolution of Claude Code releases, a cutting-edge AI/ML tool. This project logs key updates, including prompts, feature flags, and metadata, allowing users to stay informed about the latest developments and improvements. By facilitating transparency and visibility into Claude Code's changelog, this project supports collaboration and decision-making within the AI community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/marckrenn/claude-code-changelog) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/marckrenn/claude-code-changelog) · [← Back to AI/ML](./README.md)</sub>

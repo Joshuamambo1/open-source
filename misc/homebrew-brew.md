@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 11.1k |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`brew` `homebrew` `macos` `package-manager` `ruby`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Homebrew/brew is a free and open-source package manager designed specifically for macOS and Linux operating systems. It allows users to easily install, update, and manage software packages using a simple and intuitive command-line interface. With Homebrew, users can discover and install thousands of packages with just a few commands, simplifying the process of setting up and maintaining their systems.
+Homebrew/brew is a promising open-source project. Categories: Misc. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/Homebrew/brew) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Homebrew/brew) · [← Back to Misc](./README.md)</sub>

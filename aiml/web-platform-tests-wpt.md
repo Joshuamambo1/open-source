@@ -25,7 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The web-platform-tests/wpt project is an open-source collection of test suites for the Web platform, ensuring that web browsers comply with various specifications from organizations such as WHATWG, W3C, and others. This comprehensive testing framework helps maintain web standardization, fostering a consistent user experience across different browsers and devices. By contributing to wpt, developers can help ensure that web technologies are implemented correctly and consistently.
+web-platform-tests/wpt is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 100/100.
 
 ---
 

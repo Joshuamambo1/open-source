@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 540 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `api` `automate` `bot` `chat` `chatbot` `framework` `message` `nodejs` `open-source` `puppeteer` `sulla`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the WPPConnect project:
-
-WPPConnect is an open-source project that enables the export of WhatsApp Web functions to Node.js, empowering developers to create various interactions such as customer service, media sharing, and AI-powered chatbots. By leveraging this project, developers can build innovative applications that integrate with WhatsApp, unlocking a wide range of possibilities for automation, intelligence, and user engagement. With WPPConnect, the possibilities are endless, limited only by one's imagination.
+wppconnect-team/wppconnect is a promising open-source project. Categories: AI/ML, Backend. Interest score: 81/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/wppconnect-team/wppconnect) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wppconnect-team/wppconnect) · [← Back to AI/ML](./README.md)</sub>

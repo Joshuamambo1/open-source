@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 67k |
+| ⭐ **Stars** | 67.1k |
 | 🍴 **Forks** | 6.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `crypto` `derivatives` `economics` `equity` `finance` `fixed-income` `machine-learning` `openbb` `options` `python` `quantitative-finance`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Trading · AI/ML
 
 ## 📝 Summary
 
-OpenBB is an open-source financial data platform designed for analysts, quants, and AI agents. It provides a comprehensive infrastructure for data analysis, visualization, and AI-driven insights, offering a wide range of tools for professionals in the finance industry. By leveraging OpenBB, users can access and manipulate financial data, develop predictive models, and gain valuable insights to inform investment decisions.
+OpenBB-finance/OpenBB is a promising open-source project. Categories: Crypto, Trading, AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/OpenBB-finance/OpenBB) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/OpenBB-finance/OpenBB) · [← Back to Crypto](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49.9k |
+| ⭐ **Stars** | 50k |
 | 🍴 **Forks** | 10.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`algorithmic-trading` `bitcoin` `cryptocurrencies` `cryptocurrency` `freqtrade` `python` `telegram-bot` `trade` `trading-bot`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Trading
 
 ## 📝 Summary
 
-Freqtrade is an open-source, free crypto trading bot designed to help users automate their trading decisions. This user-friendly platform provides a customizable framework for traders to implement their own strategies and execute trades efficiently. By leveraging machine learning and technical analysis techniques, freqtrade empowers users to make informed trading decisions and optimize their investment portfolios.
+freqtrade/freqtrade is a promising open-source project. Categories: Crypto, Trading. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/freqtrade/freqtrade) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/freqtrade/freqtrade) · [← Back to Crypto](./README.md)</sub>

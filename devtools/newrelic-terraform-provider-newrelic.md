@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 210 |
-| 🍴 **Forks** | 290 |
+| ⭐ **Stars** | 211 |
+| 🍴 **Forks** | 289 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-toolkit` `developer-tools` `hacktoberfest` `newrelic` `terraform` `terraform-provider`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The newrelic/terraform-provider-newrelic is an open-source project that enables users to manage New Relic infrastructure and resources using Terraform, a popular infrastructure-as-code tool. This Terraform provider allows users to create, read, update, and delete New Relic resources, streamlining the process of deploying and managing New Relic services through a single, automation-driven workflow. By integrating with Terraform, users can leverage a consistent and scalable approach to infrastructure management.
+The newrelic/terraform-provider-newrelic project provides an open-source Terraform provider that enables users to manage New Relic resources and infrastructure through Infrastructure as Code (IaC). With this provider, users can automate the provisioning and configuration of New Relic services, such as dashboards, alerts, and account settings, using Terraform's declarative syntax. This integration streamlines the management of New Relic environments, promoting consistency and efficiency.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/newrelic/terraform-provider-newrelic) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/newrelic/terraform-provider-newrelic) · [← Back to DevTools](./README.md)</sub>

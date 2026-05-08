@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 731 |
-| 🍴 **Forks** | 73 |
+| ⭐ **Stars** | 732 |
+| 🍴 **Forks** | 74 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `docker` `modern-ui` `ocr` `paperless` `react` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Readur is an open-source, intuitive OCR platform that leverages Rust and TypeScript to provide a seamless user experience. Its modern UI and API prioritize ease of use, making it an accessible tool for individuals and developers alike. With its focus on AI/ML, frontend, and backend capabilities, readur offers a comprehensive solution for OCR tasks.
+readur/readur is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/readur/readur) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/readur/readur) · [← Back to AI/ML](./README.md)</sub>

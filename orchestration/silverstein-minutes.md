@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `ai` `claude` `mcp` `meeting-notes` `meetings` `parakeet` `privacy` `rust` `speech-to-text` `transcription` `voice-memo`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The silverstein/minutes project is an open-source, privacy-first conversation memory layer that indexes and makes searchable all conversations, meetings, and voice notes. This tool utilizes AI to provide seamless recall of discussion points, ideas, and decisions, promoting efficient collaboration and knowledge retention. By safeguarding user data, it prioritizes transparency and control.
+silverstein/minutes is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/silverstein/minutes) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/silverstein/minutes) · [← Back to Orchestration](./README.md)</sub>

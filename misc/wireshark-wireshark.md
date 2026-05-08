@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | C |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`packet-capture` `stratoshark` `tshark` `wireshark`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Wireshark is a network protocol analyzer used for inspecting network traffic. This open-source project is a read-only mirror of Wireshark's official Git repository, providing access to its source code. Users can submit pull requests or contribute to the project through the official repository at GitLab.
+wireshark/wireshark is a promising open-source project. Categories: Misc. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/wireshark/wireshark) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wireshark/wireshark) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`external-secrets` `hacktoberfest` `kubernetes` `kubernetes-secrets` `secrets-manager`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra · Marketing
 
 ## 📝 Summary
 
-The External Secrets Operator is an open-source project that securely integrates external secret management services with Kubernetes applications. It automates the retrieval of sensitive data from third-party services such as AWS Secrets Manager and injects these values as Kubernetes Secrets, streamlining the process of securely managing application configurations. This solution enhances the security and maintainability of cloud-native applications by decoupling secrets management from application code.
+external-secrets/external-secrets is a promising open-source project. Categories: DevOps/Infra, Marketing. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/external-secrets/external-secrets) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/external-secrets/external-secrets) · [← Back to DevOps & Infra](./README.md)</sub>

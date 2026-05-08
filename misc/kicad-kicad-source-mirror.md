@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 627 |
+| 🍴 **Forks** | 626 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cad` `eda` `electronics` `engineering` `kicad` `linux` `macos` `pcb` `schematic` `windows` `wxwidgets`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-KiCad/kicad-source-mirror is a promising open-source project. Categories: Misc. Interest score: 78/100.
+The KiCad/kicad-source-mirror project is an open-source repository that mirrors the KiCad development branch, providing real-time access to the latest code changes. This mirror is automatically updated whenever changes are pushed to the original KiCad repository hosted on GitLab. It serves as a secondary source for KiCad's development branch, offering developers a convenient and up-to-date reference point.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/KiCad/kicad-source-mirror) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/KiCad/kicad-source-mirror) · [← Back to Misc](./README.md)</sub>

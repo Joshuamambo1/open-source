@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 165 |
+| ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,10 @@ Misc
 
 ## 📝 Summary
 
-The jackdaw project is an open-source scene editor built with Bevy, providing a comprehensive toolset for game development. It features a hierarchical scene view, an inspector for editing entity properties, and a 3D viewport for visualizing and manipulating game scenes. This editor aims to simplify the process of creating and managing game content within the Bevy engine.
+Here's a brief summary for the jackdaw project:
+
+Jackdaw is an open-source scene editor built with Bevy 0.18, providing a comprehensive toolset for game developers. It features a hierarchical scene structure, an in-depth inspector for entity components, and a 3D viewport for real-time visualization. This project enables users to create, edit, and manage game scenes in a user-friendly and efficient manner.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/jbuehler23/jackdaw) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jbuehler23/jackdaw) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 264 |
 | 💻 **Language** | C |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `ai` `aiot` `asr` `chatbot` `chatgpt` `deepseek` `gemini` `hardware` `iot` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project TuyaOpen:
-
-The TuyaOpen framework is an open-source, next-generation AI+IoT platform that enables fast integration of AI and IoT devices, supporting a wide range of hardware including T2/T3/T5 AI, ESP32, and more. With this framework, developers can quickly build and deploy AI-powered IoT applications with ease. Its versatility and scalability make it an ideal choice for developing innovative AI-driven IoT solutions.
+tuya/TuyaOpen is a promising open-source project. Categories: AI/ML. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/tuya/TuyaOpen) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tuya/TuyaOpen) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44.2k |
+| ⭐ **Stars** | 44.3k |
 | 🍴 **Forks** | 8.4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `git` `github-api-v4` `golang`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the cli/cli project:
-
-GitHub's official command line tool, cli/cli, provides an interface for managing GitHub repositories, issues, and users directly from the terminal. It offers a set of commands to streamline development workflows, making it an essential tool for developers and teams working with GitHub. With cli/cli, users can easily interact with GitHub services from the comfort of their command line.
+cli/cli is a promising open-source project. Categories: Backend, DevTools. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cli/cli) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cli/cli) · [← Back to Backend](./README.md)</sub>

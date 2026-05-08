@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-Gradle is a free, open-source build automation tool designed to streamline development workflows by providing adaptable and fast automation for various projects. It offers a flexible and extensible platform that supports a wide range of programming languages and tools. With Gradle, developers can efficiently build, test, and deploy their applications across multiple platforms.
+gradle/gradle is a promising open-source project. Categories: Frontend. Interest score: 99/100.
 
 ---
 

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 15.1k |
+| ⭐ **Stars** | 15.2k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`clash` `freefq` `freenode` `ssr` `trojian` `v2ray`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "free-nodes/clashfree":
-
-This project provides a collection of free Clash nodes and subscription links for secure and anonymous browsing. It offers a regularly updated list of free nodes and proxy servers for users to access blocked content, making it a useful tool for online freedom and circumvention. The project is maintained as a public resource under the Misc category.
+free-nodes/clashfree is a promising open-source project. Categories: Misc. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/free-nodes/clashfree) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/free-nodes/clashfree) · [← Back to Misc](./README.md)</sub>

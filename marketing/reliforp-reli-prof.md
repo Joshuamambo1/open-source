@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`elf` `ffi` `performance` `php` `php-ffi` `php-profiler` `profiler` `profiling` `sampling-profiler` `zend-engine`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Marketing
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-Reli-Pro is a non-invasive, open-source PHP profiling tool that allows developers to identify performance bottlenecks and memory leaks in their scripts without modifying the target code or loading additional extensions. This PHP-based profiler reads information from the running PHP VM, providing valuable insights into script execution. By leveraging Reli-Pro, developers can optimize their applications and improve overall performance.
+reliforp/reli-prof is a promising open-source project. Categories: Marketing. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/reliforp/reli-prof) · [← Back to Marketing](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/reliforp/reli-prof) · [← Back to Marketing](./README.md)</sub>

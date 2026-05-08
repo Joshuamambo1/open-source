@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.3k |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`b2b-commerce` `e-commerce` `ecommerce` `ecommerce-api` `ecommerce-framework` `ecommerce-platform` `headless` `headless-commerce` `headless-ecommerce` `marketplace` `multi-tenant` `multi-vendor`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the Spree open-source project:
-
-Spree is an open-source, headless eCommerce platform that enables the creation of scalable and customizable cross-border, B2B, and marketplace eCommerce experiences. Built with a REST API and TypeScript SDK, Spree provides a robust foundation for integrating various storefronts, including Next.js, to create seamless and omnichannel shopping experiences. This flexible platform supports the needs of diverse eCommerce businesses and developers.
+spree/spree is a promising open-source project. Categories: Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/spree/spree) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/spree/spree) · [← Back to Backend](./README.md)</sub>

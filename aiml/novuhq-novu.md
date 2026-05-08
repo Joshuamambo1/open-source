@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `communication` `email` `inbox` `infrastructure` `javascript` `nodejs` `notification-center` `notifications` `novu` `push-notifications` `react`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the novu project:
-
-Novu is an open-source notification infrastructure that allows developers to build and manage comprehensive notification systems. It provides an In-app Inbox component, along with integrations for email, SMS, push notifications, and Slack, making it an all-in-one solution for notification handling. With Novu, developers can easily integrate notifications into their applications, streamlining user engagement and experience.
+novuhq/novu is a promising open-source project. Categories: AI/ML, Frontend, DevOps/Infra. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/novuhq/novu) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/novuhq/novu) · [← Back to AI/ML](./README.md)</sub>

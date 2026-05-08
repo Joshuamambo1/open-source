@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 399 |
+| ⭐ **Stars** | 403 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `digital-signature` `digital-signing` `hsm` `java` `javafx` `ltv` `ocsp` `pdf` `pdf-signature` `pkcs11` `pkcs12`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The intoolswetrust/jsignpdf project is an open-source, cross-platform tool for digitally signing PDF documents. It features a user-friendly JavaFX desktop interface with drag-and-drop functionality for placing visible signatures, as well as advanced security features like PKCS#11/PKCS#12 keystores and RFC 3161 timestamping. Additionally, it includes a scriptable command-line interface (CLI) for flexibility and automation.
+intoolswetrust/jsignpdf is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/intoolswetrust/jsignpdf) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/intoolswetrust/jsignpdf) · [← Back to AI/ML](./README.md)</sub>

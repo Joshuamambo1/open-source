@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bem` `bundler` `components` `framework` `isomorphic` `javascript` `lazy-evaluation` `lazy-loading` `lazy-rendering` `mam` `micro-modular` `mol`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the hyoo-ru/mam_mol project:
-
-Mam Mol is an open-source, reactive micro-modular, compact, flexible, and lazy UI web framework designed to provide the fastest possible user interface development experience. This framework is optimized for building high-performance web applications with ease, leveraging its modular and lazy loading capabilities. With Mam Mol, developers can create robust and efficient web interfaces with minimal overhead.
+hyoo-ru/mam_mol is a promising open-source project. Categories: Frontend, DevTools. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hyoo-ru/mam_mol) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hyoo-ru/mam_mol) · [← Back to Frontend](./README.md)</sub>

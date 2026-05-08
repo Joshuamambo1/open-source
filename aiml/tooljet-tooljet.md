@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-app-builder` `docker` `hacktoberfest` `internal-applications` `internal-project` `internal-tool` `internal-tools` `javascript` `kubernetes` `low-code` `low-code-development-platform` `low-code-framework`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-ToolJet is an open-source foundation for building enterprise-grade internal tools, dashboards, and business applications, offering a scalable platform for developers to create custom workflows and AI-powered agents. This foundation serves as the backbone for ToolJet AI, an enterprise app generation platform that streamlines development and deployment processes. By leveraging ToolJet's open-source capabilities, developers can customize and extend the platform to meet their specific needs.
+ToolJet/ToolJet is a promising open-source project. Categories: AI/ML, Frontend, DevOps/Infra. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ToolJet/ToolJet) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ToolJet/ToolJet) · [← Back to AI/ML](./README.md)</sub>

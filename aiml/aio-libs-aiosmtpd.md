@@ -25,7 +25,7 @@ AI/ML · Backend · Mobile
 
 ## 📝 Summary
 
-The aio-libs/aiosmtpd project is an open-source, asynchronous implementation of the SMTP server protocol using Python's asyncio library. This reimplementation provides a more efficient and concurrent alternative to the traditional smtpd.py module from the Python standard library. The project enables developers to create high-performance email servers and applications with improved scalability and responsiveness.
+aio-libs/aiosmtpd is a promising open-source project. Categories: AI/ML, Backend, Mobile. Interest score: 54/100.
 
 ---
 

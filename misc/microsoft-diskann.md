@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 409 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-DiskANN is an open-source project that provides graph-structured indices for efficient approximate nearest neighbor search. It enables fast, filtered, and fresh searches on large-scale datasets, making it suitable for applications requiring scalability and high-performance. By leveraging graph-structured indices, DiskANN facilitates rapid querying and reduces computational overhead.
+microsoft/DiskANN is a promising open-source project. Categories: Misc. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/microsoft/DiskANN) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/DiskANN) · [← Back to Misc](./README.md)</sub>

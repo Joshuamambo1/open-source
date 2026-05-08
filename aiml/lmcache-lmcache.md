@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amd` `cuda` `fast` `inference` `kv-cache` `llm` `pytorch` `rocm` `speed` `vllm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-LMCache is an open-source project that efficiently boosts the performance of Large Language Models (LLMs) by introducing a high-speed Key-Value (KV) cache layer. This cache layer accelerates model access and reduces latency, making it an essential tool for developers working with LLMs. By leveraging LMCache, users can significantly improve the speed and efficiency of their LLM-based applications.
+LMCache/LMCache is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/LMCache/LMCache) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/LMCache/LMCache) · [← Back to AI/ML](./README.md)</sub>

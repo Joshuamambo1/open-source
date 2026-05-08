@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ebuild` `ebuild-repository` `gentoo` `hacktoberfest` `linux` `portage`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ gentoo/gentoo is a promising open-source project. Categories: Frontend. Interest
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/gentoo/gentoo) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gentoo/gentoo) · [← Back to Frontend](./README.md)</sub>

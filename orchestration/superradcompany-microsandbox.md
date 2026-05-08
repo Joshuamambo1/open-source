@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `container` `docker` `linux` `macos` `mcp` `nodejs` `orchestration` `rust` `sandbox` `sandboxing`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here is a brief summary for the microsandbox project:
-
-Microsandbox is an open-source project that provides secure, local, and programmable sandboxes for AI agents. It enables developers to create isolated testing environments for AI models, allowing for safe and efficient experimentation and development. This project bridges the gap between AI/ML and DevOps/Infra, making it an essential tool for AI engineers and developers.
+superradcompany/microsandbox is a promising open-source project. Categories: Orchestration, AI/ML, DevOps/Infra. Interest score: 89/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/superradcompany/microsandbox) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/superradcompany/microsandbox) · [← Back to Orchestration](./README.md)</sub>

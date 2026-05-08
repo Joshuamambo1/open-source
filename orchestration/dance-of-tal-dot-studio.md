@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 376 |
+| ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai` `llm` `orchestration`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Orchestration · AI/ML · Design
 
 ## 📝 Summary
 
-The dance-of-tal/dot-studio project is an open-source platform that enables users to design and create AI agents. It provides a unique environment for users to orchestrate and configure AI models, streamlining the process of developing and deploying AI solutions. By leveraging dot-studio, users can design, prototype, and refine their AI agents with greater ease and flexibility.
+Here's a brief summary for the open-source project "dance-of-tal/dot-studio":
+
+"dot-studio is an open-source project that empowers users to design and create their own AI agents. With its focus on AI/ML orchestration, dot-studio provides a user-friendly interface for designing and managing complex AI workflows. By leveraging this tool, users can unlock the full potential of AI and automate various tasks with ease."
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/dance-of-tal/dot-studio) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dance-of-tal/dot-studio) · [← Back to Orchestration](./README.md)</sub>

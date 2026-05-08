@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d` `animation` `b3d` `computer-graphics` `modeling` `rendering`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Blender is a free and open-source 3D creation software that allows users to create 3D models, animations, and visual effects. This official mirror of Blender provides a comprehensive platform for artists, designers, and developers to work on 3D projects, offering a wide range of tools and features. The software is widely used in various industries, including film, gaming, architecture, and more.
+blender/blender is a promising open-source project. Categories: Misc. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/blender/blender) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/blender/blender) · [← Back to Misc](./README.md)</sub>

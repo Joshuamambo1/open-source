@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `claude` `knowledge-management` `knowlege-graph` `llm` `local-first` `markdown` `mcp` `obsidian` `obsidian-md` `open-source` `privacy-first`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the described project:
-
-"Basic Machines' Basic Memory project aims to revolutionize AI conversations by introducing a memory function that allows AI models to retain information and recall past interactions. This innovative approach eliminates the need for repetitive explanations, enabling more efficient and effective conversations. By joining the project, you can contribute to the development of a more intuitive and user-friendly AI experience."
+The "basicmachines-co/basic-memory" project is an open-source initiative that aims to create AI conversations that retain memory, eliminating the need to re-explain concepts to the AI. This innovative approach seeks to revolutionize the way we interact with AI systems, making them more efficient and user-friendly. By joining the project's Discord community, users can contribute to and benefit from this groundbreaking technology.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/basicmachines-co/basic-memory) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/basicmachines-co/basic-memory) · [← Back to AI/ML](./README.md)</sub>

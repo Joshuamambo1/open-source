@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 263 |
+| 🍴 **Forks** | 266 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-auth` `agent-authentication` `agent-indentity` `agent-scaling` `agentic-ai` `ai` `ai-backend` `aiagent` `anthropic` `cloud-native` `genai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The Agent-Field project is an open-source platform that enables developers to build, deploy, and scale AI agents with features such as observability, auditing, and identity awareness from the outset. By leveraging API and microservices architecture, users can create and manage complex AI systems with ease and transparency. This project empowers data scientists and engineers to create robust and maintainable AI solutions.
+Agent-Field/agentfield is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Agent-Field/agentfield) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Agent-Field/agentfield) · [← Back to Orchestration](./README.md)</sub>

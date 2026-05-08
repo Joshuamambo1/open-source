@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 401 |
-| 🍴 **Forks** | 40 |
+| ⭐ **Stars** | 407 |
+| 🍴 **Forks** | 41 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude` `claude-code` `swarm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Agent Swarm project is an open-source framework designed to facilitate the development and deployment of AI coding agents, enabling users to create complex systems and simulations. By leveraging Agent Swarm, developers can model real-world scenarios, experiment with different agent behaviors, and explore the outcomes of various AI-driven interactions. This framework offers a versatile platform for AI research, education, and development in the field of Artificial Intelligence and Machine Learning.
+desplega-ai/agent-swarm is a promising open-source project. Categories: AI/ML. Interest score: 48/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/desplega-ai/agent-swarm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/desplega-ai/agent-swarm) · [← Back to AI/ML](./README.md)</sub>

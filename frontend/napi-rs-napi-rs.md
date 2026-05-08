@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.7k |
-| 🍴 **Forks** | 376 |
+| 🍴 **Forks** | 378 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`javascript` `napi` `napi-rs` `node` `node-api` `nodejs` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-napi-rs is an open-source framework for building compiled Node.js add-ons in Rust using the Node-API. This allows developers to easily create high-performance Node.js modules with native Rust code, enabling seamless integration with JavaScript environments. By leveraging Rust's safety and performance, napi-rs facilitates the creation of efficient and secure Node.js add-ons.
+napi-rs/napi-rs is a promising open-source project. Categories: Frontend, Backend. Interest score: 89/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/napi-rs/napi-rs) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/napi-rs/napi-rs) · [← Back to Frontend](./README.md)</sub>

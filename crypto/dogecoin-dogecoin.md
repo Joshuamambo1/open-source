@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cryptocurrency` `dogecoin` `wallet`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-The Dogecoin project is an open-source, community-driven cryptocurrency that serves as an entertaining alternative to traditional digital currencies. Founded on the principles of fun and generosity, Dogecoin offers a unique and accessible way for people to engage with cryptocurrency technology. Its decentralized architecture and open-source nature have contributed to its widespread adoption and community enthusiasm.
+dogecoin/dogecoin is a promising open-source project. Categories: Crypto. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/dogecoin/dogecoin) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dogecoin/dogecoin) · [← Back to Crypto](./README.md)</sub>

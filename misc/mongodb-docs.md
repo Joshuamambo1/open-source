@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The MongoDB Documentation Project Source is an open-source initiative that hosts the official documentation for MongoDB, a leading NoSQL database management system. This project provides a collaborative platform for developers and contributors to create, update, and maintain the comprehensive documentation, ensuring users have accurate and up-to-date information on MongoDB features and usage. By contributing to this project, developers can help shape the MongoDB ecosystem and support its vast user community.
+mongodb/docs is a promising open-source project. Categories: Misc. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/mongodb/docs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mongodb/docs) · [← Back to Misc](./README.md)</sub>

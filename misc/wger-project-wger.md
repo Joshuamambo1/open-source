@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.1k |
-| 🍴 **Forks** | 886 |
+| 🍴 **Forks** | 887 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`django` `fitness` `gym` `hacktoberfest` `python` `self-hosted` `workout`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The wger project is a self-hosted, open-source platform for tracking fitness, workouts, nutrition, and weight. It offers a comprehensive solution for individuals looking to monitor and manage their health goals from the comfort of their own environment. This free and open-source solution provides flexibility and control over user data, allowing users to maintain their personal health records with complete autonomy.
+wger-project/wger is a promising open-source project. Categories: Misc. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/wger-project/wger) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wger-project/wger) · [← Back to Misc](./README.md)</sub>

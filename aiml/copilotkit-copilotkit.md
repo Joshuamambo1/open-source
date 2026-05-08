@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 30.6k |
-| 🍴 **Forks** | 3.9k |
+| ⭐ **Stars** | 30.8k |
+| 🍴 **Forks** | 4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-native` `agentic-ai` `agents` `ai` `ai-agent` `ai-assistant` `assistant` `assistant-chat-bots` `copilot` `copilot-chat` `generative-ui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here is a brief summary of the open-source project:
-
-CopilotKit is an open-source frontend stack designed for agents and generative user interfaces. Built on top of React and Angular, it enables the creation of dynamic and interactive UI experiences. As the makers of the AG-UI Protocol, CopilotKit is at the forefront of leveraging AI and ML technologies to revolutionize the way we interact with digital interfaces.
+CopilotKit/CopilotKit is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/CopilotKit/CopilotKit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/CopilotKit/CopilotKit) · [← Back to AI/ML](./README.md)</sub>

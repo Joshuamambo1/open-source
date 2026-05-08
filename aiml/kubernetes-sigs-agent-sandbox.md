@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 232 |
+| ⭐ **Stars** | 2.1k |
+| 🍴 **Forks** | 239 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary for the "agent-sandbox" project:
-
-Agent-sandbox is an open-source project that simplifies the management of isolated, stateful workloads, specifically designed for applications like AI agent runtimes. This solution enables efficient handling of singleton workloads, making it a valuable tool for developers and DevOps professionals in the AI/ML and DevOps/Infra spaces. By providing a sandbox environment for AI agents, agent-sandbox accelerates innovation and deployment in AI-driven projects.
+kubernetes-sigs/agent-sandbox is a promising open-source project. Categories: AI/ML, DevOps/Infra, Marketing. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kubernetes-sigs/agent-sandbox) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kubernetes-sigs/agent-sandbox) · [← Back to AI/ML](./README.md)</sub>

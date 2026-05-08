@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-coding` `claude-code` `code-quality` `code-review` `developer-tools` `devops` `finops` `plugin` `prompt-engineering` `skills-library` `software-engineering`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Ring project is an open-source initiative that leverages AI-assisted development to enforce proven engineering practices. It offers 89 skills and 38 specialized agents, enabling developers to integrate TDD, systematic debugging, and parallel code review into their workflow. This project is available as a plugin marketplace for Claude Code.
+LerianStudio/ring is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/LerianStudio/ring) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/LerianStudio/ring) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `dart` `dart-library` `dart-package` `flutter` `flutter-package` `flutter-plugin` `flutter-test`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Mobile
 
 ## 📝 Summary
 
-The very_good_cli is an open-source command-line interface for Dart, designed and maintained by Very Good Ventures. It provides a simplified and efficient way to manage and automate Dart projects. With its user-friendly interface, developers can streamline their workflow and boost their productivity.
+VeryGoodOpenSource/very_good_cli is a promising open-source project. Categories: DevTools, Mobile. Interest score: 70/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/VeryGoodOpenSource/very_good_cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/VeryGoodOpenSource/very_good_cli) · [← Back to DevTools](./README.md)</sub>

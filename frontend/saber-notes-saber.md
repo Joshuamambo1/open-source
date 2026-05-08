@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 314 |
+| 🍴 **Forks** | 315 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `cross-platform` `dart` `f-droid` `flatpak` `flutter` `handwritten-notes` `ios` `linux` `macos` `notes` `notes-app`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Mobile
 
 ## 📝 Summary
 
-Saber is a free, open-source, cross-platform app designed for handwriting, allowing users to create digital notes with ease. This mobile app provides a flexible and intuitive interface for capturing handwritten content, making it an ideal tool for individuals seeking a digital alternative to traditional note-taking methods. With Saber, users can seamlessly capture, edit, and organize their handwritten notes across various devices.
+saber-notes/saber is a promising open-source project. Categories: Frontend, Mobile. Interest score: 86/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/saber-notes/saber) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/saber-notes/saber) · [← Back to Frontend](./README.md)</sub>

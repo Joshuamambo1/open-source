@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 155 |
+| 🍴 **Forks** | 157 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`firefox` `http3` `ietf` `mozilla` `quic` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Neqo is an open-source project implementing the QUIC (Quick UDP Internet Connections) protocol in Rust, as part of the Mozilla Firefox browser. It aims to provide a fast and reliable transport layer protocol for the web, utilizing the advantages of UDP and TCP. This project contributes to the development of a more efficient and secure internet infrastructure.
+mozilla/neqo is a promising open-source project. Categories: Frontend. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/mozilla/neqo) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mozilla/neqo) · [← Back to Frontend](./README.md)</sub>

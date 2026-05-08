@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 361 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `chain-of-thought` `collaboration` `dataset-generation` `evals` `evaluation` `evaluation-framework` `fine-tuning` `machine-learning` `macos` `mcp` `ml`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Kiln is an open-source project that enables users to build, evaluate, and optimize AI systems through a comprehensive set of features. These features include evaluation tools, reinforcement learning agents, fine-tuning capabilities, synthetic data generation, and dataset management, among others. With Kiln, developers can streamline their AI workflow and improve the performance of their AI systems.
+Kiln-AI/Kiln is a promising open-source project. Categories: AI/ML, Frontend, Data. Interest score: 89/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Kiln-AI/Kiln) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Kiln-AI/Kiln) · [← Back to AI/ML](./README.md)</sub>

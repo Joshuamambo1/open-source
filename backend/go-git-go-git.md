@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.4k |
-| 🍴 **Forks** | 934 |
+| 🍴 **Forks** | 935 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | 2026-05-07 |
@@ -25,7 +25,7 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The go-git/go-git project is a highly extensible Git implementation written in pure Go, offering a robust and customizable Git library for developers. It provides a comprehensive set of features for working with Git repositories, including clone, checkout, commit, push, and pull operations. With its modular design, this project allows for seamless integration with other Go applications and tools.
+go-git/go-git is a promising open-source project. Categories: Backend, DevTools. Interest score: 97/100.
 
 ---
 

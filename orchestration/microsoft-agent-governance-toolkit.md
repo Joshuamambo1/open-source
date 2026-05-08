@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 270 |
+| 🍴 **Forks** | 275 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `ai-agents` `ai-safety` `compliance` `governance` `microsoft` `owasp` `policy-engine` `python` `security` `trust` `zero-trust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Security
 
 ## 📝 Summary
 
-The Microsoft Agent Governance Toolkit is an open-source project that provides a comprehensive platform for governing autonomous AI agents. It offers policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering capabilities, ensuring the secure and reliable operation of AI agents. By addressing 10 of the OWASP Agentic Top 10, this toolkit helps developers build trustworthy and secure AI systems.
+microsoft/agent-governance-toolkit is a promising open-source project. Categories: Orchestration, AI/ML, Security. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/microsoft/agent-governance-toolkit) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/agent-governance-toolkit) · [← Back to Orchestration](./README.md)</sub>

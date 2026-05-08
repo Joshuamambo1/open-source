@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 147 |
+| ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apple-silicon` `gguf` `jang-quantization` `llamacpp` `llm` `mlx` `mlxllm` `omlx` `omlx-alternative` `quantization`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ Trading · AI/ML · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the jjang-ai/jangq project:
+Here's a brief summary for the jjang-ai/jangq project:
 
-JANG is an open-source project that offers adaptive mixed-precision quantization and runtime for Apple Silicon devices. This technology is specifically designed for machine learning (ML) applications, aiming to improve performance and efficiency. It is built on top of the GGUF framework and requires the use of the JANG_Q runtime for optimal functionality.
+JANG is an open-source project that combines adaptive mixed-precision quantization with runtime capabilities, specifically designed for Apple Silicon. This technology, developed as part of the GGUF for MLX, aims to enhance AI and ML performance. By utilizing JANG_Q runtime, users can leverage optimized efficiency and speed in their applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/jjang-ai/jangq) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jjang-ai/jangq) · [← Back to Trading](./README.md)</sub>

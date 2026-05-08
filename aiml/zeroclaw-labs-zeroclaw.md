@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31k |
+| ⭐ **Stars** | 31.1k |
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic` `ai` `infra` `ml` `openclaw` `os` `zeroclaw`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the zeroclaw project:
-
-zeroclaw is an open-source AI personal assistant infrastructure designed for speed, compactness, and autonomy. It allows users to deploy and manage AI assistants on any operating system or platform, providing unparalleled flexibility. With zeroclaw, users can easily swap components and deploy anywhere, making it a highly adaptable solution for AI infrastructure management.
+zeroclaw-labs/zeroclaw is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/zeroclaw-labs/zeroclaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/zeroclaw-labs/zeroclaw) · [← Back to AI/ML](./README.md)</sub>

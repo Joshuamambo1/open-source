@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`datadog` `documentation` `hacktoberfest` `hugo` `wiki`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The DataDog/documentation project is an open-source repository that serves as the source for Datadog's comprehensive documentation site. This repository provides users with detailed information on Datadog's products and services, enabling them to effectively utilize the platform for monitoring, tracking, and analyzing their data. By contributing to this project, users can help improve the accuracy and accessibility of Datadog's documentation.
+DataDog/documentation is a promising open-source project. Categories: AI/ML, Data. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/DataDog/documentation) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/DataDog/documentation) · [← Back to AI/ML](./README.md)</sub>

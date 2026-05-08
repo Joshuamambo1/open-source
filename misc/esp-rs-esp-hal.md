@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 435 |
+| 🍴 **Forks** | 437 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`embedded` `embedded-hal` `esp32` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The esp-rs/esp-hal project provides a set of no_std (non-standard library) Hardware Abstraction Layers (HALs) for ESP32 microcontrollers, enabling users to develop efficient and platform-agnostic code for embedded systems. This open-source project allows developers to write cross-platform code that can be easily ported to various ESP32 boards and devices. By utilizing these HALs, developers can focus on writing application-specific code without worrying about the intricacies of ESP32 hardware.
+esp-rs/esp-hal is a promising open-source project. Categories: Misc. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/esp-rs/esp-hal) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/esp-rs/esp-hal) · [← Back to Misc](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 709 |
-| 🍴 **Forks** | 75 |
+| 🍴 **Forks** | 76 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`columnar` `compression` `data-analytics` `data-systems` `database` `datasets` `deep-learning` `encoding` `file-format` `machine-learning` `ml-training` `storage`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Nimble is an open-source, extensible file format designed for efficient storage of large columnar datasets. This format is optimized for use in AI and machine learning applications, providing a scalable solution for data storage and retrieval. Nimble aims to simplify data management while offering flexibility and high performance.
+facebookincubator/nimble is a promising open-source project. Categories: AI/ML, Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/facebookincubator/nimble) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/facebookincubator/nimble) · [← Back to AI/ML](./README.md)</sub>

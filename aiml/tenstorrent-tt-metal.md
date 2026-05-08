@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 424 |
+| 🍴 **Forks** | 427 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`accelerator` `ai` `cuda` `deepseek` `gpu` `img-gen` `kernels` `llama` `llm` `metal` `scale-out` `stable-diffusion`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The tenstorrent/tt-metal project is an open-source library that provides a high-performance operator for tensor processing, enabling efficient execution of deep learning models. It features a low-level kernel programming model called TT-Metalium, allowing for fine-grained control and optimization of AI/ML computations. This library aims to accelerate the development and deployment of AI applications.
+tenstorrent/tt-metal is a promising open-source project. Categories: AI/ML. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/tenstorrent/tt-metal) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tenstorrent/tt-metal) · [← Back to AI/ML](./README.md)</sub>

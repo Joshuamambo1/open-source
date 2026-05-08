@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aot` `compiler` `cranelift` `jit` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The rust-lang/rustc_codegen_cranelift project is an open-source, Cranelift-based backend for the Rust compiler (rustc). It aims to provide a high-performance code generation backend for Rust, leveraging the capabilities of Cranelift's just-in-time compilation technology. This effort enables the creation of highly optimized Rust code with improved execution speed and efficiency.
+rust-lang/rustc_codegen_cranelift is a promising open-source project. Categories: Backend. Interest score: 63/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rust-lang/rustc_codegen_cranelift) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rust-lang/rustc_codegen_cranelift) · [← Back to Backend](./README.md)</sub>

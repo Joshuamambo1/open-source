@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Verus is an open-source project that provides a verified Rust programming language for developing low-level systems code. It aims to ensure the correctness and reliability of critical system components through formal verification techniques. By incorporating formal methods, Verus enables developers to write more secure and dependable low-level software.
+Verus is an open-source project that aims to provide a verified foundation for low-level systems code in Rust. It achieves this by leveraging formal verification techniques to ensure the correctness and reliability of critical system components. By providing a verified Rust foundation, Verus enables developers to write more secure and trustworthy low-level systems code.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/verus-lang/verus) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/verus-lang/verus) · [← Back to Misc](./README.md)</sub>

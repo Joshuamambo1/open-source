@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 598 |
+| ⭐ **Stars** | 602 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | 1C Enterprise |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`1c` `1c-edt` `1c-enterprise` `1script` `airtable` `api` `bsl` `cli` `cli-app` `google-cloud` `integration` `notion`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the OpenIntegrations project:
-
-OpenIntegrations is an open-source collection of integration tools for popular services and technologies, allowing seamless connectivity with 1C:Enterprise, OneScript, and CLI. This comprehensive set of integrations supports a wide range of platforms, including social media (Telegram, VK), cloud storage (Google, Yandex), databases (S3, PostgreSQL, SQLite, MySQL), and more. By leveraging OpenIntegrations, developers can easily extend the capabilities of 1C:Enterprise and streamline data exchange across various systems.
+Bayselonarrend/OpenIntegrations is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Bayselonarrend/OpenIntegrations) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Bayselonarrend/OpenIntegrations) · [← Back to AI/ML](./README.md)</sub>

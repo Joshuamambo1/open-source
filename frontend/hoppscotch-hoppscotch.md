@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `api-client` `api-rest` `api-testing` `developer-tools` `graphql` `http` `http-client` `pwa` `rest` `rest-api` `spa`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Hoppscotch is an open-source API development ecosystem that offers an alternative to popular tools like Postman and Insomnia. It is available in various environments, including web, desktop, and command-line interfaces, and can be used offline, on-premises, or in the cloud. This comprehensive platform provides a suite of tools for building, testing, and maintaining APIs.
+hoppscotch/hoppscotch is a promising open-source project. Categories: Frontend, Backend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hoppscotch/hoppscotch) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hoppscotch/hoppscotch) · [← Back to Frontend](./README.md)</sub>

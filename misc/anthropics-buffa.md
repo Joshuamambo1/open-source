@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 690 |
-| 🍴 **Forks** | 36 |
+| ⭐ **Stars** | 696 |
+| 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Buffa is an open-source project that provides a Rust implementation of the Protocol Buffers (protobuf) data serialization format. It supports multiple editions and offers additional features such as JSON serialization and zero-copy views, making it a versatile and efficient tool for data encoding and decoding. Buffa is designed to be a robust and flexible alternative to traditional protobuf implementations.
+Buffa is an open-source Rust implementation of Protocol Buffers (protobuf) with support for multiple editions, enabling developers to work with various versions of the protocol. Additionally, it provides JSON serialization capabilities and zero-copy views for efficient data processing. This versatile library allows for seamless integration with protobuf-based projects in Rust.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/anthropics/buffa) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/anthropics/buffa) · [← Back to Misc](./README.md)</sub>

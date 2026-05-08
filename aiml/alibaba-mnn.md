@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arm` `convolution` `deep-learning` `embedded-devices` `llm` `machine-learning` `ml` `mnn` `transformer` `vulkan` `winograd-algorithm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-MNN (Mobile Neural Network) is an open-source, high-performance inference engine developed by Alibaba. It enables fast and efficient on-device processing of large language models (LLMs) and Edge AI applications. MNN's lightweight and blazing-fast architecture powers AI-driven innovation across various platforms.
+alibaba/MNN is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/alibaba/MNN) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/alibaba/MNN) · [← Back to AI/ML](./README.md)</sub>

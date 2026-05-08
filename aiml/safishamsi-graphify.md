@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 43.2k |
-| 🍴 **Forks** | 4.7k |
+| ⭐ **Stars** | 44.1k |
+| 🍴 **Forks** | 4.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`antigravity` `claude-code` `codex` `gemini` `graphrag` `knowledge-graph` `leiden` `openclaw` `rag` `skills` `tree-sitter`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Graphify is an open-source AI coding assistant that transforms various types of content, including code, documentation, papers, images, and videos, into a queryable knowledge graph. This allows users to efficiently search, analyze, and understand complex information. By utilizing various AI models, Graphify enables developers to tap into the knowledge and insights hidden within their projects.
+safishamsi/graphify is a promising open-source project. Categories: AI/ML, DevTools, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/safishamsi/graphify) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/safishamsi/graphify) · [← Back to AI/ML](./README.md)</sub>

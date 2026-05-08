@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Bluespec Compiler (BSC) is an open-source project that provides a compiler for the Bluespec System Verilog language, allowing users to synthesize hardware designs into digital circuits. This project enables the creation of complex digital systems from high-level specifications, facilitating the design and implementation of high-performance hardware. By leveraging the BSC, users can efficiently develop and deploy digital systems for various applications, from networking and storage to artificial intelligence and more.
+The Bluespec Compiler (BSC) is an open-source project that enables the compilation of Bluespec System Verilog (BSV) code into Verilog, providing a high-level language and a set of tools for designing digital systems. BSC allows users to describe complex digital circuits using a simple and readable syntax, making it easier to design and verify digital systems. By leveraging BSC, developers can create more efficient and reliable digital systems with reduced design time and improved maintainability.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/B-Lang-org/bsc) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/B-Lang-org/bsc) · [← Back to Misc](./README.md)</sub>

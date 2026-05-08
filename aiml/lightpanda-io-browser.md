@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 30k |
+| ⭐ **Stars** | 30.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`browser` `browser-automation` `cdp` `headless` `playwright` `puppeteer` `zig`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Design
 
 ## 📝 Summary
 
-Lightpanda is an open-source, headless browser designed specifically for AI and automation use cases. This innovative tool enables developers and researchers to interact with web applications programmatically, facilitating easier integration with AI models and automation workflows. By providing a flexible and customizable browser environment, Lightpanda streamlines the development of AI-powered applications and automation tools.
+lightpanda-io/browser is a promising open-source project. Categories: AI/ML, Design. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/lightpanda-io/browser) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lightpanda-io/browser) · [← Back to AI/ML](./README.md)</sub>

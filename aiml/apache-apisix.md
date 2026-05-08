@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-gateway` `api` `api-gateway` `api-management` `apisix` `cloud-native` `devops` `iot` `kubernetes` `kubernetes-ingress` `loadbalancing` `luajit`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Apache APISIX is an open-source, cloud-native API gateway that provides a scalable and secure platform for managing APIs, microservices, and serverless applications. It also integrates AI capabilities to enhance API management, analytics, and security. With its flexible configuration and extensive plugins, APISIX enables developers to build modern, data-driven applications with ease.
+apache/apisix is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/apache/apisix) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apache/apisix) · [← Back to AI/ML](./README.md)</sub>

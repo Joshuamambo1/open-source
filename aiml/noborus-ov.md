@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `command-line-tool` `go` `golang` `incremental-search` `less` `more` `pager` `tail` `tcell` `terminal`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the noborus/ov project:
-
-Ov is an open-source, feature-rich terminal-based text viewer that functions as a terminal pager. It allows users to efficiently navigate and view large amounts of text in a terminal environment, making it a valuable tool for developers and data scientists. With its robust feature set and customizable options, ov is an ideal choice for those working with text data in the terminal.
+noborus/ov is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/noborus/ov) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/noborus/ov) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 346 |
+| 🍴 **Forks** | 354 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automation` `career` `dashboard` `docker` `job-search` `jobhunt` `jobtracker` `nextjs` `productivity` `self-hosted` `sponsorship`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevOps/Infra · Product
 
 ## 📝 Summary
 
-Here's a summary of the DaKheera47/job-ops project:
-
-job-ops is an innovative, open-source project that leverages DevOps principles to streamline job hunting. This self-hosted pipeline enables users to track, analyze, and optimize their application process, making it easier to navigate the job market. By applying DevOps methodologies to job searching, job-ops aims to increase efficiency and effectiveness in finding the right opportunities.
+DaKheera47/job-ops is a promising open-source project. Categories: DevOps/Infra, Product. Interest score: 76/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/DaKheera47/job-ops) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/DaKheera47/job-ops) · [← Back to DevOps & Infra](./README.md)</sub>

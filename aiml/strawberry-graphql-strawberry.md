@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.7k |
-| 🍴 **Forks** | 636 |
+| 🍴 **Forks** | 635 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asgi` `asyncio` `django` `fastapi` `graphql` `graphql-library` `graphql-schema` `graphql-server` `hacktoberfest` `mypy` `python` `starlette`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Strawberry is an open-source GraphQL library for Python that utilizes type annotations to provide a seamless development experience. It enables developers to build scalable and maintainable GraphQL APIs with ease. By leveraging Python's type system, Strawberry simplifies the process of defining and implementing GraphQL schemas, making it an ideal choice for Python developers.
+strawberry-graphql/strawberry is a promising open-source project. Categories: AI/ML, Backend. Interest score: 92/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/strawberry-graphql/strawberry) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/strawberry-graphql/strawberry) · [← Back to AI/ML](./README.md)</sub>

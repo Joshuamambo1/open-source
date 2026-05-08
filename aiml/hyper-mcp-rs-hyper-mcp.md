@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `extism` `llm` `mcp` `mcp-server` `oci`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The hyper-mcp project is an open-source, high-performance MCP (Multi-Client Protocol) server that prioritizes security and scalability. It achieves this through the use of WebAssembly plugins, which extend its capabilities and enable developers to create custom, efficient, and secure server-side applications. This makes hyper-mcp a versatile solution for AI/ML and backend projects.
+hyper-mcp-rs/hyper-mcp is a promising open-source project. Categories: AI/ML, Backend. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/hyper-mcp-rs/hyper-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hyper-mcp-rs/hyper-mcp) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 808 |
-| 🍴 **Forks** | 76 |
+| ⭐ **Stars** | 821 |
+| 🍴 **Forks** | 77 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fintech` `invoice` `invoice-generator` `invoice-pdf` `invoice-template` `invoices` `nextjs` `open-source` `quotes` `react` `react-pdf-renderer` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ Payments · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the easy-invoice-pdf project:
+Here's a 2-3 sentence summary of the open-source project:
 
-This open-source project, easy-invoice-pdf, is a free and user-friendly invoice generator that allows for live PDF previews directly in the browser. It requires no sign-up and comes with a Stripe-style invoice template, making it easy to create and customize professional-looking invoices. The project is ideal for individuals and businesses seeking a simple, in-browser solution for generating invoices.
+This free and open-source invoice generator allows users to create professional-looking invoices in-browser, complete with a Stripe-style template and live PDF preview. There's no need to sign up or leave the browser to access this feature-rich tool.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/VladSez/easy-invoice-pdf) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/VladSez/easy-invoice-pdf) · [← Back to Payments](./README.md)</sub>

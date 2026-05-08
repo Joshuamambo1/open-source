@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 111 |
+| ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The stellar/stellar-cli project is an open-source command-line interface (CLI) designed specifically for Stellar developers. It provides a user-friendly interface to interact with the Stellar network, making it easier to manage accounts, send and receive funds, and perform other essential tasks. This CLI is a valuable tool for developers working on Stellar-based applications.
+The stellar/stellar-cli project is an open-source command-line interface (CLI) designed specifically for developers working with the Stellar network. This tool provides an intuitive and efficient way to interact with the Stellar blockchain, allowing users to manage accounts, send and receive assets, and execute other essential tasks. By streamlining development workflows, stellar-cli empowers developers to build and deploy Stellar-based applications with ease.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/stellar/stellar-cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/stellar/stellar-cli) · [← Back to DevTools](./README.md)</sub>

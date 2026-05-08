@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 953 |
+| ⭐ **Stars** | 954 |
 | 🍴 **Forks** | 275 |
 | 💻 **Language** | Lean |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`formal-mathematics` `lean4`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The google-deepmind/formal-conjectures project is an open-source initiative that formalizes statements of conjectures in Lean, a popular proof assistant. This collection aims to provide a structured and verifiable platform for exploring and verifying mathematical conjectures. By formalizing conjectures, researchers can more rigorously test and analyze them using Lean's powerful tools and automated reasoning capabilities.
+google-deepmind/formal-conjectures is a promising open-source project. Categories: Misc. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/google-deepmind/formal-conjectures) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/google-deepmind/formal-conjectures) · [← Back to Misc](./README.md)</sub>

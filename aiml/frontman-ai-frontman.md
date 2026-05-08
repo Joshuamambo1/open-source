@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 442 |
+| ⭐ **Stars** | 454 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | ReScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-agent` `ai-coding` `artificial-intelligence` `astro` `browser` `copilot` `developer-tools` `frontend` `hot-reload` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Frontman is an open-source AI agent that integrates seamlessly into various frameworks and browsers, enabling developers to leverage AI capabilities within their applications. This innovative project empowers users to harness the power of AI, streamlining development and enhancing user experiences. By bridging the gap between AI and frontend development, Frontman facilitates the creation of more intelligent and interactive applications.
+frontman-ai/frontman is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/frontman-ai/frontman) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/frontman-ai/frontman) · [← Back to AI/ML](./README.md)</sub>

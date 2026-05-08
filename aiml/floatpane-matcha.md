@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 591 |
-| 🍴 **Forks** | 56 |
+| ⭐ **Stars** | 641 |
+| 🍴 **Forks** | 59 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aerc` `agents` `ai` `autonomous-agents` `awesome` `bubbletea` `cli` `email` `email-cli` `email-client` `email-sender` `go`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Matcha is an open-source, terminal-based email client built with Go and the Bubble Tea TUI library. It provides a beautiful and functional user interface for managing emails directly from the command line, eliminating the need to switch between interfaces. With Matcha, users can check their inbox and send emails without leaving their terminal.
+floatpane/matcha is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/floatpane/matcha) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/floatpane/matcha) · [← Back to AI/ML](./README.md)</sub>

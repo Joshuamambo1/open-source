@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10.5k |
+| ⭐ **Stars** | 10.6k |
 | 🍴 **Forks** | 6.9k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This repository serves as a central hub for community-submitted package manifests for the Windows Package Manager (winget). It allows developers and users to contribute and manage application definitions, enabling easier installation and management of software on Windows.
+microsoft/winget-pkgs is a promising open-source project. Categories: Misc. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/microsoft/winget-pkgs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/winget-pkgs) · [← Back to Misc](./README.md)</sub>

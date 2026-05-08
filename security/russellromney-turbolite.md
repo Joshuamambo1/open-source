@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 428 |
+| ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-Turbolite is an open-source SQLite Virtual File System (VFS) that enables fast and secure data storage. It achieves sub-100ms cold JOIN queries by leveraging the scalability of Amazon S3, while also providing page-level compression and encryption for enhanced data protection. This project is particularly suitable for applications requiring high-performance and robust security.
+Turbolite is an open-source SQLite VFS that enhances database performance by integrating with Amazon S3 for sub-100ms cold JOIN queries and supports page-level compression and encryption for secure data storage. This project aims to provide a high-performance and secure database solution for large-scale applications. By leveraging S3's scalability and SQLite's simplicity, Turbolite offers a powerful tool for developers seeking to optimize their database operations.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/russellromney/turbolite) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/russellromney/turbolite) · [← Back to Security](./README.md)</sub>

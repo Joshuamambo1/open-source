@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.4k |
 | 💻 **Language** | C |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `alerting` `cncf` `data-visualization` `database` `devops` `docker` `grafana` `influxdb` `kubernetes` `linux` `machine-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Netdata is an open-source project that provides real-time full-stack observability, empowering lean teams to achieve AI-powered insights with ease. By offering a comprehensive monitoring and analytics platform, netdata enables users to visualize performance metrics, detect anomalies, and optimize system efficiency. This cutting-edge tool provides a unified view of system performance, making it an ideal solution for teams seeking to streamline operations and improve overall system reliability.
+netdata/netdata is a promising open-source project. Categories: AI/ML, DevTools, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/netdata/netdata) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/netdata/netdata) · [← Back to AI/ML](./README.md)</sub>

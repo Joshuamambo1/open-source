@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 764 |
-| 🍴 **Forks** | 81 |
+| ⭐ **Stars** | 770 |
+| 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `ai-agents` `anthropic` `claude-code` `cli` `coding-agent` `deep-research` `docker-sandbox` `llms` `mcp` `playwright` `pydantic`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, pydantic-deepagents, enables the creation of sophisticated deep agents in Python, inspired by Claude Code. It provides a comprehensive set of features, including tool-calling, sandboxed execution, and multi-agent teams, all built on top of Pydantic AI. This tool allows developers to construct and manage complex AI systems with ease and flexibility.
+vstorm-co/pydantic-deepagents is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/vstorm-co/pydantic-deepagents) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vstorm-co/pydantic-deepagents) · [← Back to Orchestration](./README.md)</sub>

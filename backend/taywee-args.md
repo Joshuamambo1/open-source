@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 174 |
+| 🍴 **Forks** | 175 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`args` `argument-parser` `argument-parsing` `cli` `command-line` `command-line-parser` `command-line-parsing` `cpp` `cpp11` `cxx` `library`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Taywee/args is an open-source, header-only C++ library for parsing command-line arguments. It aims to provide a flexible and powerful API, modeled after the functionality of Python's standard argparse library, while offering its own unique interface. This library can be used to create robust command-line interfaces for various C++ applications.
+Taywee/args is a promising open-source project. Categories: Backend, DevTools. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Taywee/args) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Taywee/args) · [← Back to Backend](./README.md)</sub>

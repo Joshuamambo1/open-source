@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`git` `monorepo` `scm` `workflow`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The josh project is an open-source platform designed to handle Git at scale, providing a scalable solution for managing large Git repositories. It aims to simplify the process of working with massive Git repositories, making it easier to collaborate and manage complex codebases. By leveraging this platform, users can efficiently manage and scale their Git operations.
+josh-project/josh is a promising open-source project. Categories: Misc. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/josh-project/josh) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/josh-project/josh) · [← Back to Misc](./README.md)</sub>

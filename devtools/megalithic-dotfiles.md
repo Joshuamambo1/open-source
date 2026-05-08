@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `dotfiles` `elixir` `fish` `ghostty` `hammerspoon` `home-manager` `homebrew` `lua` `macos` `neovim` `nix-darwin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The megalithic/dotfiles project is an open-source repository that centralizes and manages various configuration, environment settings, and automation scripts for efficient workflow management. This project aims to provide a comprehensive collection of dotfiles, scripts, and configurations for developers, making it easier to set up and customize their development environment. By contributing to this project, users can streamline their workflow and reduce setup time.
+megalithic/dotfiles is a promising open-source project. Categories: DevTools. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/megalithic/dotfiles) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/megalithic/dotfiles) · [← Back to DevTools](./README.md)</sub>

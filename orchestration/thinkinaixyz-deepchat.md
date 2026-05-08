@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.8k |
-| 🍴 **Forks** | 663 |
+| 🍴 **Forks** | 662 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-skills` `ai` `ai-assistant` `ai-sdk` `chatgpt` `claude` `cross-platform` `deepseek` `electron` `gemini` `harness-design`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the DeepChat project:
-
-DeepChat is an open-source smart assistant that integrates powerful AI capabilities into your personal world. This project enables seamless connections between AI and users, providing a versatile platform for various applications and use cases. By leveraging AI/ML technologies, DeepChat aims to revolutionize the way we interact with intelligent systems.
+ThinkInAIXYZ/deepchat is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ThinkInAIXYZ/deepchat) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ThinkInAIXYZ/deepchat) · [← Back to Orchestration](./README.md)</sub>

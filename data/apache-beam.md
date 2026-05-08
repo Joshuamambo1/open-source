@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.6k |
-| 🍴 **Forks** | 4.5k |
+| 🍴 **Forks** | 4.6k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`batch` `beam` `big-data` `golang` `java` `python` `sql` `streaming`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Data
 
 ## 📝 Summary
 
-Here's a brief summary of the Apache Beam project:
-
-Apache Beam is an open-source, unified data processing framework that enables developers to write once and execute on both batch and streaming data processing pipelines. This flexible model allows for efficient processing of large datasets, making it suitable for various data-intensive applications and industries. With Apache Beam, users can create scalable, reliable, and maintainable data pipelines that meet their specific needs.
+apache/beam is a promising open-source project. Categories: Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/apache/beam) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apache/beam) · [← Back to Data](./README.md)</sub>

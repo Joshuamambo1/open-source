@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7k |
-| 🍴 **Forks** | 812 |
+| 🍴 **Forks** | 814 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `ai-agents` `ai-development-tools` `data-analysis` `data-science` `declarative` `fine-tuning` `flyte` `golang` `grpc` `hacktoberfest` `kubernetes`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Flyte is an open-source, dynamic AI orchestration platform that enables the efficient coordination of data, models, and compute resources when building complex AI workflows. This resilient platform simplifies the process of automating machine learning workflows, allowing users to focus on developing innovative AI solutions. With Flyte, developers can build, deploy, and manage scalable AI workflows locally or in the cloud.
+flyteorg/flyte is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/flyteorg/flyte) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/flyteorg/flyte) · [← Back to Orchestration](./README.md)</sub>

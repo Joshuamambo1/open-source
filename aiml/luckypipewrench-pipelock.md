@@ -1,6 +1,6 @@
 # luckyPipewrench/pipelock
 
-[![Stars](https://img.shields.io/github/stars/luckyPipewrench/pipelock?style=flat-square&color=yellow)](https://github.com/luckyPipewrench/pipelock/stargazers) [![Forks](https://img.shields.io/github/forks/luckyPipewrench/pipelock?style=flat-square&color=blue)](https://github.com/luckyPipewrench/pipelock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luckyPipewrench/pipelock?style=flat-square&color=yellow)](https://github.com/luckyPipewrench/pipelock/stargazers) [![Forks](https://img.shields.io/github/forks/luckyPipewrench/pipelock?style=flat-square&color=blue)](https://github.com/luckyPipewrench/pipelock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI agent firewall for MCP security: agent egress control, DLP, SSRF, and prompt injection defense.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 510 |
-| 🍴 **Forks** | 55 |
+| ⭐ **Stars** | 557 |
+| 🍴 **Forks** | 59 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-security` `ai-agent-security` `ai-agents` `ai-firewall` `ai-security` `dlp` `egress-proxy` `fetch-proxy` `github-action` `golang` `integrity-monitoring` `llm-security`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Pipelock, an open-source project, is a comprehensive firewall designed to safeguard AI agents against various security threats. Its robust features include DLP (Data Loss Prevention) scanning, SSRF (Server-Side Request Forgery) protection, bidirectional MCP (Malicious Code Pattern) scanning, and detection capabilities for tool poisoning and prompt injection attacks. By implementing Pipelock, AI developers can significantly enhance the security and reliability of their AI systems.
+luckyPipewrench/pipelock is a promising open-source project. Categories: AI/ML, Security. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/luckyPipewrench/pipelock) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/luckyPipewrench/pipelock) · [← Back to AI/ML](./README.md)</sub>

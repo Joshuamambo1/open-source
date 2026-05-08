@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alternatives` `csharp` `customization` `developer-tools` `dotnet` `file-manager` `files` `fluent` `fluent-design` `git` `good-first-issue` `power-user`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The Files open-source project offers a modern file management solution, empowering users to effectively organize their digital files and folders. This project combines AI/ML capabilities with a user-friendly frontend interface, making it an innovative and efficient tool for managing digital content. By leveraging DevTools, Files streamlines file management, enhancing productivity and reducing digital clutter.
+files-community/Files is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/files-community/Files) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/files-community/Files) · [← Back to AI/ML](./README.md)</sub>

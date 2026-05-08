@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 33.4k |
-| 🍴 **Forks** | 777 |
+| 🍴 **Forks** | 781 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Just is a lightweight, open-source command runner that allows users to execute shell commands with simplicity and ease. Designed to be a minimalistic tool, it provides a straightforward way to run commands without unnecessary complexity. With Just, users can focus on their tasks without the hassle of navigating complex command-line interfaces.
+casey/just is a promising open-source project. Categories: Misc. Interest score: 87/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/casey/just) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/casey/just) · [← Back to Misc](./README.md)</sub>

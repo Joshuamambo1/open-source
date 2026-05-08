@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`antithesis` `pbt` `playwright` `property-based-testing` `testing` `ui` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Bombadil is an open-source property-based testing tool designed for web UIs, autonomously exploring and validating correctness properties to identify complex bugs. This Frontend DevTool helps developers find harder bugs earlier in the development cycle by leveraging property-based testing principles. By automating the process of testing UI behavior, Bombadil empowers developers to write more robust code.
+antithesishq/bombadil is a promising open-source project. Categories: Frontend, DevTools. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/antithesishq/bombadil) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/antithesishq/bombadil) · [← Back to Frontend](./README.md)</sub>

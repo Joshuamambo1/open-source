@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 102 |
-| 🍴 **Forks** | 10 |
+| ⭐ **Stars** | 110 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `ai-agents` `ai-platform` `apple-silicon` `distributed-computing` `kv-cache-quantization` `llm` `llm-inference` `local-llm` `orange-pi` `raspberry-pi` `rockchip-npu`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the jaylfc/tinyagentos project:
-
-Tinyagentos is an open-source, self-hosted operating system designed for low-cost consumer hardware, enabling users to deploy auto-clustering AI agents and distributed compute clusters. This platform provides a desktop shell, app store, and streamlined agent deployment, making it accessible to a wide range of users and devices, including computers, Orange Pi, and Raspberry Pi. By utilizing Tinyagentos, users can leverage their existing hardware to tap into the power of AI and machine learning.
+jaylfc/tinyagentos is a promising open-source project. Categories: Trading, Orchestration, AI/ML. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/jaylfc/tinyagentos) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jaylfc/tinyagentos) · [← Back to Trading](./README.md)</sub>

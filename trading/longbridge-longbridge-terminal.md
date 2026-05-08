@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 795 |
-| 🍴 **Forks** | 59 |
+| ⭐ **Stars** | 800 |
+| 🍴 **Forks** | 60 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-native` `cli` `longbridge` `ratatui` `termainal` `tui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · AI/ML · Frontend
 
 ## 📝 Summary
 
-This is a brief summary of the longbridge/longbridge-terminal project:
-
-The longbridge-terminal is an open-source, AI-native command-line interface (CLI) for the Longbridge trading platform. It provides real-time access to market data, portfolio information, and trading capabilities, empowering users to streamline their trading experience. Built with AI and machine learning integration, this terminal offers a powerful tool for traders and developers alike.
+longbridge/longbridge-terminal is a promising open-source project. Categories: Trading, AI/ML, Frontend. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/longbridge/longbridge-terminal) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/longbridge/longbridge-terminal) · [← Back to Trading](./README.md)</sub>

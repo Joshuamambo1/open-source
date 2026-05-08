@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.1k |
-| 🍴 **Forks** | 392 |
+| 🍴 **Forks** | 393 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`abac` `authorization` `entitlements` `fga` `fine-grained-access-control` `fine-grained-authorization` `go` `golang` `hacktoberfest` `openfga` `pbac` `permissions`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ openfga/openfga is a promising open-source project. Categories: AI/ML, Frontend,
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/openfga/openfga) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openfga/openfga) · [← Back to AI/ML](./README.md)</sub>

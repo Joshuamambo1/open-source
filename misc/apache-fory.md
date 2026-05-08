@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 409 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compression` `cpp` `cross-language` `encoding` `fast` `golang` `hacktoberfest` `java` `javascript` `jit` `lightning` `marshalling`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The "apache/fory" project is an open-source, high-performance serialization framework that enables fast data serialization across multiple programming languages. Leveraging Just-In-Time (JIT) compilation and zero-copy techniques, it achieves exceptional speed and efficiency in data conversion. This framework aims to simplify cross-language data exchange and improve overall system performance.
+apache/fory is a promising open-source project. Categories: Misc. Interest score: 86/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/apache/fory) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apache/fory) · [← Back to Misc](./README.md)</sub>

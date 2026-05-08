@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bioinformatics` `conda` `hacktoberfest` `package-management`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Bioconda/bioconda-recipes is an open-source project that provides Conda recipes for the bioconda channel. These recipes enable users to easily install, manage, and distribute bioinformatics tools and software packages on various platforms, simplifying the process of scientific research and analysis. By leveraging Conda, researchers and developers can access a wide range of bioinformatics tools in a streamlined and reproducible manner.
+bioconda/bioconda-recipes is a promising open-source project. Categories: Misc. Interest score: 73/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bioconda/bioconda-recipes) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bioconda/bioconda-recipes) · [← Back to Misc](./README.md)</sub>

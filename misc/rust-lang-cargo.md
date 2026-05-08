@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cargo` `package-manager` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Cargo is an open-source package manager designed for the Rust programming language. It allows developers to easily manage dependencies, build, test, and document their Rust projects in a convenient and efficient manner. With Cargo, users can streamline their development workflow and focus on writing high-quality code.
+rust-lang/cargo is a promising open-source project. Categories: Misc. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rust-lang/cargo) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rust-lang/cargo) · [← Back to Misc](./README.md)</sub>

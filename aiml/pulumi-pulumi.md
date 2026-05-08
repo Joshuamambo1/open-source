@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.1k |
+| ⭐ **Stars** | 25.2k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws` `azure` `cloud` `cloud-computing` `containers` `csharp` `dotnet` `fsharp` `gcp` `go` `golang` `iac`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Pulumi is an open-source infrastructure-as-code platform that enables developers to create and manage cloud and on-premises infrastructure using their preferred programming languages. With Pulumi, users can define and deploy infrastructure resources in a scalable and version-controlled manner, simplifying the process of managing complex infrastructure environments. This platform supports a wide range of programming languages, including popular choices like Python, Java, and C#.
+pulumi/pulumi is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/pulumi/pulumi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pulumi/pulumi) · [← Back to AI/ML](./README.md)</sub>

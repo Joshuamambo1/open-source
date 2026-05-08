@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 162 |
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 165 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-NuvioTV is an open-source project that offers an official Android TV repository, providing users with a collection of customizable software for their Android TV devices. Developed by NuvioMedia, this repository offers flexibility and ease of use for those looking to personalize their Android TV experience. With NuvioTV, users can explore and install various apps and features to enhance their television viewing experience.
+NuvioTV is an open-source project that serves as the official Android TV repository for Nuvio. This repository provides users with a platform to access and install various Android TV applications, enhancing their overall smart TV experience. It aims to offer a comprehensive collection of TV-related software, making it easier for users to discover and enjoy their favorite content.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/NuvioMedia/NuvioTV) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/NuvioMedia/NuvioTV) · [← Back to Mobile](./README.md)</sub>

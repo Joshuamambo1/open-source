@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 126 |
+| 🍴 **Forks** | 127 |
 | 💻 **Language** | Nix |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`buildbot-numtide`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This project, numtide/llm-agents.nix, provides Nix packages for AI coding agents and development tools, ensuring seamless integration for users working on Artificial Intelligence and Machine Learning projects. With daily automated updates, this collection of packages stays up-to-date with the latest advancements in AI coding capabilities. This project is a valuable resource for developers working on frontend applications with AI and ML components.
+numtide/llm-agents.nix is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/numtide/llm-agents.nix) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/numtide/llm-agents.nix) · [← Back to AI/ML](./README.md)</sub>

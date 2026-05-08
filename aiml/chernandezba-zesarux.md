@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | C |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chrome` `emulator` `inves` `pentagon` `prism` `sam-coupe` `sinclair` `sinclair-ql` `spectrum` `spectrum-next` `tbblue` `tsconf`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-ZEsarUX is an open-source emulator for the ZX Spectrum home computer, designed to be compatible with Unix-like systems. It allows users to run ZX Spectrum games and applications on their computers, preserving the nostalgic experience of the classic console. With its user-friendly interface and robust functionality, ZEsarUX makes it easy for developers and enthusiasts to explore the world of retro computing.
+chernandezba/zesarux is a promising open-source project. Categories: AI/ML. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/chernandezba/zesarux) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/chernandezba/zesarux) · [← Back to AI/ML](./README.md)</sub>

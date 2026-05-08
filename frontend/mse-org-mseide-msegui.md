@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 153 |
+| ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Pascal |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bgrabitmap` `developer-tools` `fpc` `freebsd` `freepascal` `ide` `linux` `macos` `netbsd` `openbsd` `pascal` `rad`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-MSEide is an open-source, platform-independent Rapid Application Development Integrated Development Environment (IDE) built with the Pascal programming language. It includes a built-in GUI toolkit called MSEgui, enabling users to create rich GUI applications. With MSEide, developers can quickly build and deploy cross-platform applications using a simple and efficient development environment.
+MSEide is an open-source Rapid Application Development (RAD) Integrated Development Environment (IDE) for creating platform-independent rich GUI applications in the Pascal programming language. The IDE is complemented by its own GUI toolkit, MSEgui, allowing developers to build cross-platform applications efficiently. MSEide offers a comprehensive solution for Pascal developers seeking to create robust and feature-rich GUI applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/mse-org/mseide-msegui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mse-org/mseide-msegui) · [← Back to Frontend](./README.md)</sub>

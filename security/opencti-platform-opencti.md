@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cti` `cyber` `cybersecurity` `intelligence` `osint` `security` `threat-intelligence`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-OpenCTI is an open-source, comprehensive Cyber Threat Intelligence (CTI) platform that enables users to collect, store, and share threat intelligence from various sources. This platform provides a centralized hub for threat data, facilitating collaboration and decision-making among security teams. By leveraging OpenCTI, organizations can enhance their cybersecurity posture and stay ahead of emerging threats.
+OpenCTI-Platform/opencti is a promising open-source project. Categories: Security. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/OpenCTI-Platform/opencti) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/OpenCTI-Platform/opencti) · [← Back to Security](./README.md)</sub>

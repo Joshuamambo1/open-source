@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 862 |
+| ⭐ **Stars** | 863 |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `distributed-systems` `ethereum` `execution-layer` `p2p` `rollup` `rollups` `rust` `zero-knowledge`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-lambdaclass/ethrex is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 59/100.
+lambdaclass/ethrex is a promising open-source project. Categories: Crypto, AI/ML, DevTools. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/lambdaclass/ethrex) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lambdaclass/ethrex) · [← Back to Crypto](./README.md)</sub>

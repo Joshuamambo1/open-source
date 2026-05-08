@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 76.1k |
+| ⭐ **Stars** | 76.2k |
 | 🍴 **Forks** | 15.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-collaboration` `agent-harness` `ai` `chatgpt` `claude` `deepseek` `gemini` `gpt` `knowledge-base` `mcp` `openai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-lobehub/lobehub is a promising open-source project. Categories: AI/ML, Frontend, Design. Interest score: 100/100.
+lobehub/lobehub is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/lobehub/lobehub) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lobehub/lobehub) · [← Back to Orchestration](./README.md)</sub>

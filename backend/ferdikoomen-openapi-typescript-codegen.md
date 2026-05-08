@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 542 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `axios` `codegen` `generator` `javascript` `nodejs` `openapi` `swagger` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools · Mobile
 
 ## 📝 Summary
 
-This open-source project, ferdikoomen/openapi-typescript-codegen, is a NodeJS library that leverages the OpenAPI specification to generate TypeScript or JavaScript clients for various applications. It allows developers to easily create robust, auto-generated API clients with minimal manual coding effort. This tool is ideal for automating backend, mobile, and other API-related development tasks.
+ferdikoomen/openapi-typescript-codegen is a promising open-source project. Categories: Backend, DevTools, Mobile. Interest score: 82/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/ferdikoomen/openapi-typescript-codegen) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ferdikoomen/openapi-typescript-codegen) · [← Back to Backend](./README.md)</sub>

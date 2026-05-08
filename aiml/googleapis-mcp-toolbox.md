@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agents` `ai` `bigquery` `clickhouse` `cockroachdb` `database` `elasticsearch` `firestore` `genai` `llm` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The MCP Toolbox for Databases is an open-source project that provides a server for databases, offering a platform for various database-related tasks. This tool allows developers to easily manage and interact with their databases, fostering efficient development and testing environments. By leveraging this MCP server, developers can streamline their database operations and enhance overall productivity.
+googleapis/mcp-toolbox is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/googleapis/mcp-toolbox) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/googleapis/mcp-toolbox) · [← Back to AI/ML](./README.md)</sub>

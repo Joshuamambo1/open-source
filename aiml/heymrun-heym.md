@@ -8,27 +8,25 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 85 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 105 |
+| 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-agents-framework` `ai-assistant` `automation` `automation-tool` `human-in-the-loop` `mcp` `mcp-server` `mcp-tool` `mcps` `n8n-alternative`
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the heym project:
-
-Heym is an open-source, self-hosted AI workflow automation platform that provides a comprehensive visual canvas for creating and managing complex automation workflows. With features such as agents, risk and action grid (RAG), human-in-the-loop (HITL), model confidence prediction (MCP), and observability, heym enables users to build, deploy, and monitor AI-powered workflows seamlessly. Its frontend-driven design and open-source nature make it an attractive solution for organizations seeking flexible and customizable AI automation.
+heymrun/heym is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/heymrun/heym) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/heymrun/heym) · [← Back to AI/ML](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-openshift/release is a promising open-source project. Categories: DevTools. Interest score: 57/100.
+The openshift/release project is an open-source collection of tools that provide a comprehensive release management framework for OpenShift. It enables users to automate and streamline the process of releasing new versions of OpenShift, including tasks such as testing, validation, and deployment. By leveraging this project, users can ensure a robust and reliable release experience for the popular enterprise container platform.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/openshift/release) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/openshift/release) · [← Back to DevTools](./README.md)</sub>

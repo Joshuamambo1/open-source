@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`containers` `event-driven` `kubernetes` `microservice` `microservices` `pubsub` `serverless` `sidecar` `state-management`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the Dapr project:
-
-Dapr is an open-source, portable runtime that enables developers to build distributed applications across cloud and edge environments. It combines event-driven architecture with workflow orchestration, providing a flexible foundation for building scalable and resilient microservices-based systems. With Dapr, developers can focus on building innovative applications without worrying about the underlying infrastructure complexity.
+dapr/dapr is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/dapr/dapr) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dapr/dapr) · [← Back to Orchestration](./README.md)</sub>

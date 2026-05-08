@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 45.8k |
+| ⭐ **Stars** | 46k |
 | 🍴 **Forks** | 7.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-gateway` `anthropic` `azure-openai` `bedrock` `gateway` `langchain` `litellm` `llm` `llm-gateway` `llmops` `mcp-gateway` `openai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The litellm project is an open-source Python SDK and AI Gateway, designed to simplify interactions with over 100 Large Language Model (LLM) APIs from various providers. It offers features like cost tracking, guardrails, load balancing, and logging, allowing developers to efficiently manage complex AI workflows. By providing a unified interface, litellm facilitates the integration of multiple LLM APIs into a single application.
+BerriAI/litellm is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/BerriAI/litellm) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/BerriAI/litellm) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20.2k |
+| ⭐ **Stars** | 20.3k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-app-builder` `anthropic` `artificial-intelligence` `bolt` `deepseek` `gemini` `generative-ai` `github` `llm` `llms` `lovable` `nextjs`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the dyad-sh/dyad project:
-
-dyad is an open-source, locally-based AI app builder designed for power users, offering an alternative to popular platforms like v0, Lovable, and Bolt. This project enables users to create their own AI-powered applications without relying on cloud-based services. With its focus on frontend development, dyad provides a flexible and locally-controlled environment for AI app creation.
+dyad-sh/dyad is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/dyad-sh/dyad) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dyad-sh/dyad) · [← Back to AI/ML](./README.md)</sub>

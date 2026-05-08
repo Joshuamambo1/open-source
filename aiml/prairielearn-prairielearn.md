@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 466 |
+| ⭐ **Stars** | 467 |
 | 🍴 **Forks** | 373 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`assessment` `autograders`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-PrairieLearn is an open-source, online problem-driven learning system that utilizes AI/ML capabilities to enhance the learning experience. This platform allows users to engage with interactive problems, fostering a deeper understanding of complex concepts and promoting effective knowledge retention. By leveraging AI-driven technology, PrairieLearn aims to revolutionize the way we learn and interact with educational content.
+PrairieLearn/PrairieLearn is a promising open-source project. Categories: AI/ML. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/PrairieLearn/PrairieLearn) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/PrairieLearn/PrairieLearn) · [← Back to AI/ML](./README.md)</sub>

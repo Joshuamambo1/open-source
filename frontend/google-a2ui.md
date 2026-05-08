@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14.5k |
+| ⭐ **Stars** | 14.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-A2UI is an open-source project developed by Google, focusing on frontend functionality. It provides a library of reusable UI components designed to help developers build efficient, adaptable, and visually appealing user interfaces. By utilizing A2UI, developers can create customized web applications with a consistent and modern look and feel.
+google/A2UI is a promising open-source project. Categories: Frontend. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/google/A2UI) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/google/A2UI) · [← Back to Frontend](./README.md)</sub>

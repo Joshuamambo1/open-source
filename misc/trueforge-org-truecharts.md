@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 610 |
 | 💻 **Language** | Go Template |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apps` `charts` `hacktoberfest` `helm` `k3s` `k8s` `k8s-at-home` `kubesearch`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-TrueCharts is an open-source community-driven Helm Chart repository, offering a wide range of pre-configured and easily installable Kubernetes applications. This repository provides a centralized location for discovering, downloading, and deploying various Helm Charts, simplifying the process of managing and scaling containerized applications. By leveraging TrueCharts, developers and administrators can streamline their Kubernetes operations and focus on more complex tasks.
+TrueCharts is an open-source community repository of Helm charts, providing a collection of pre-built, customizable, and maintainable applications and tools for Kubernetes deployments. This repository aims to offer a user-friendly and scalable solution for managing and organizing Helm charts, making it easier for developers and administrators to deploy and manage applications on Kubernetes clusters. By contributing to TrueCharts, users can help build a comprehensive library of reusable Helm charts.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/trueforge-org/truecharts) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/trueforge-org/truecharts) · [← Back to Misc](./README.md)</sub>

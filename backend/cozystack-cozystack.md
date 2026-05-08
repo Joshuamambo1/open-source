@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 156 |
+| 🍴 **Forks** | 157 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud` `clusterapi` `hacktoberfest` `kubernetes` `kubevirt` `kvm` `self-hosted` `talos`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Cozystack is an open-source, free cloud platform built on top of Kubernetes, designed to provide a scalable and flexible infrastructure for deploying applications. This project aims to offer a comprehensive solution for DevOps and infrastructure management, empowering users to efficiently manage and orchestrate their cloud resources. By leveraging Kubernetes, Cozystack provides a robust and modular architecture for building and deploying cloud-native applications.
+cozystack/cozystack is a promising open-source project. Categories: Backend, DevOps/Infra. Interest score: 67/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cozystack/cozystack) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cozystack/cozystack) · [← Back to Backend](./README.md)</sub>

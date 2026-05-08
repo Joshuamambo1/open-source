@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 680 |
+| ⭐ **Stars** | 684 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `cli` `code` `developer-tools` `development` `methodology` `prompt` `prompt-engineering` `prompt-toolkit` `prompts` `prompts-template`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Prompt Driven Development Command Line Interface (pdd) is an open-source project that streamlines AI/ML development workflows through a user-friendly command line interface. By automating repetitive tasks and providing a structured approach to prompt engineering, pdd enables developers to focus on high-level creativity and productivity. This tool facilitates seamless collaboration and efficiency in building, testing, and refining AI models.
+Here's a brief summary for the promptdriven/pdd project:
+
+The promptdriven/pdd project is an open-source command line interface for Prompt Driven Development, allowing developers to create and manage prompts in a standardized and efficient manner. This tool aims to streamline the AI/ML development process by providing a unified interface for crafting and testing prompts. By leveraging the power of PDD, developers can accelerate their workflow and achieve better results in AI-driven projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/promptdriven/pdd) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/promptdriven/pdd) · [← Back to AI/ML](./README.md)</sub>

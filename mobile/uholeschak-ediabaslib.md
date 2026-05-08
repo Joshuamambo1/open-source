@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 852 |
+| ⭐ **Stars** | 853 |
 | 🍴 **Forks** | 210 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ads` `android` `best` `best1` `best2` `bmw` `can` `ediabas` `enet` `inpa` `iso9141` `kwp2000`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile · Marketing
 
 ## 📝 Summary
 
-The ediabaslib project is an open-source .NET library that provides an Ediabas interpreter for BMW and VAG vehicles, enabling developers to access and manipulate vehicle data. This library serves as a foundation for creating applications that interact with Ediabas protocols, facilitating the development of mobile and marketing-related projects. By utilizing ediabaslib, developers can unlock the potential of Ediabas technology for various use cases.
+uholeschak/ediabaslib is a promising open-source project. Categories: Mobile, Marketing. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/uholeschak/ediabaslib) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/uholeschak/ediabaslib) · [← Back to Mobile](./README.md)</sub>

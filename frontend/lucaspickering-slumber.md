@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 897 |
+| ⭐ **Stars** | 900 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`http` `http-client` `ratatui` `rest-client` `rust` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Slumber is an open-source, terminal-based HTTP/REST client that allows users to interact with web APIs in a simple and intuitive way. This tool provides a command-line interface for making HTTP requests, enabling developers to quickly test and explore web services without the need for a graphical user interface. By using Slumber, users can streamline their API testing workflow and improve their overall development experience.
+LucasPickering/slumber is a promising open-source project. Categories: Frontend, DevTools. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/LucasPickering/slumber) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/LucasPickering/slumber) · [← Back to Frontend](./README.md)</sub>

@@ -1,6 +1,6 @@
 # njbrake/agent-of-empires
 
-[![Stars](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&color=yellow)](https://github.com/njbrake/agent-of-empires/stargazers) [![Forks](https://img.shields.io/github/forks/njbrake/agent-of-empires?style=flat-square&color=blue)](https://github.com/njbrake/agent-of-empires/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&color=yellow)](https://github.com/njbrake/agent-of-empires/stargazers) [![Forks](https://img.shields.io/github/forks/njbrake/agent-of-empires?style=flat-square&color=blue)](https://github.com/njbrake/agent-of-empires/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 162 |
+| ⭐ **Stars** | 2.1k |
+| 🍴 **Forks** | 174 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-coding` `claude` `claude-code` `cli` `codex` `cursor` `factory-droid-cli` `gemini` `gemini-cli` `github-copilot-cli` `hermes-agent` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project 'njbrake/agent-of-empires':
-
-Agent of Empires is an open-source project that provides a unified interface to manage multiple development tools and AI/ML agents, including Claude Code, OpenCode, and others, from either a terminal user interface (TUI) or a web interface for easy access on mobile devices. It leverages tmux and git worktrees to streamline development workflows. This project is ideal for developers seeking a centralized hub for their coding tools and AI/ML agents.
+njbrake/agent-of-empires is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 67/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/njbrake/agent-of-empires) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/njbrake/agent-of-empires) · [← Back to AI/ML](./README.md)</sub>

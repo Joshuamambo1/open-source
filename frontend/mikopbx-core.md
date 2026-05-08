@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arm64` `asterisk` `asterisk-pbx` `cloud` `communications` `docker` `hacktoberfest` `lxc` `open-source` `pbx` `phalcon` `php`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-MikoPBX is a free, open-source PBX solution designed for small businesses, built using Asterisk 22, PHP 8.4, and Phalcon 5. This comprehensive platform can be deployed in various environments, including ISO, Docker, LXC, and the cloud, offering flexibility to suit different infrastructure needs. MikoPBX provides a robust and customizable solution for managing business communications.
+mikopbx/Core is a promising open-source project. Categories: Frontend, Backend, DevOps/Infra. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/mikopbx/Core) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mikopbx/Core) · [← Back to Frontend](./README.md)</sub>

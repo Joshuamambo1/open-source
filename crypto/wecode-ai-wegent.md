@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 551 |
+| ⭐ **Stars** | 552 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `chatbot` `chatgpt` `claude-code` `clawd` `gemini` `llm` `notebooklm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Wegent is an open-source, AI-native operating system designed to manage and run intelligent agent teams, enabling organizations to define, organize, and execute complex AI-driven tasks efficiently. This innovative project leverages cutting-edge technology to create a scalable and flexible platform for AI development and deployment. By providing a robust foundation for AI teams, Wegent facilitates the creation of more sophisticated and autonomous AI systems.
+wecode-ai/Wegent is a promising open-source project. Categories: Crypto, AI/ML. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/wecode-ai/Wegent) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wecode-ai/Wegent) · [← Back to Crypto](./README.md)</sub>

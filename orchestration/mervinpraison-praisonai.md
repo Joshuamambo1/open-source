@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agent-framework` `ai-agent-sdk` `ai-agents` `ai-agents-framework` `ai-agents-sdk` `ai-framwork` `aiagent` `aiagentframework` `aiagents` `aiagentsframework`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-PraisonAI is an open-source tool that enables developers to create autonomous AI agents capable of researching, planning, coding, and executing tasks. By leveraging a 24/7 AI workforce, users can deploy their projects with just a few lines of code and access a range of built-in features, including memory and support for over 100 large language models. This technology aims to streamline development and accelerate shipping times for complex projects.
+MervinPraison/PraisonAI is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/MervinPraison/PraisonAI) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/MervinPraison/PraisonAI) · [← Back to Orchestration](./README.md)</sub>

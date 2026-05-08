@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 774 |
+| 🍴 **Forks** | 773 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `nearprotocol` `rust` `webassembly`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-The near/nearcore project is an open-source reference client for the NEAR Protocol, providing a foundation for building and interacting with the NEAR ecosystem. This project serves as a key component for developers and users to access and utilize the NEAR Protocol, enabling them to create and participate in a decentralized network. By contributing to and utilizing near/nearcore, users can help shape the future of the NEAR Protocol.
+near/nearcore is a promising open-source project. Categories: Crypto, AI/ML, DevTools. Interest score: 75/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/near/nearcore) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/near/nearcore) · [← Back to Crypto](./README.md)</sub>

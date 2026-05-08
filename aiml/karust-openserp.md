@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 691 |
-| 🍴 **Forks** | 91 |
+| ⭐ **Stars** | 696 |
+| 🍴 **Forks** | 92 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`baidu` `bing` `duckduckgo` `ecosia` `google` `openserp` `opensource` `search` `search-engine` `serp` `serpapi` `web-scraping`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the karust/openserp project:
-
-The karust/openserp project provides a free, open-source API for retrieving search results from leading search engines such as Google, Yandex, Baidu, Bing, and DuckDuckGo. This project enables developers to access search engine results programmatically, facilitating the integration of search functionality into various applications and services. With openserp, developers can build more comprehensive search experiences without incurring costs associated with proprietary APIs.
+karust/openserp is a promising open-source project. Categories: AI/ML, Backend. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/karust/openserp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/karust/openserp) · [← Back to AI/ML](./README.md)</sub>

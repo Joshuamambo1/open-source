@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `allreduce` `amd` `broadcom` `collective` `cuda` `gpu` `hpc` `kvcache` `llm` `moe` `networking`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The UCCL project is an open-source, high-performance communication library designed for efficient data transfer on GPUs. It supports various communication operations, including collectives, point-to-point transfers, and endpoint communication, which are essential for AI and ML applications. By optimizing GPU-centric communication, UCCL enables faster and more scalable data exchange between GPUs.
+uccl-project/uccl is a promising open-source project. Categories: AI/ML. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/uccl-project/uccl) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/uccl-project/uccl) · [← Back to AI/ML](./README.md)</sub>

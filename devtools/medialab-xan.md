@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `csv` `rust` `tsv`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the medialab/xan project:
-
-Xan, also known as "The CSV Magician," is an open-source tool designed to efficiently handle and manipulate CSV files. It provides a powerful and user-friendly interface for developers to work with CSV data, making it an essential addition to any developer's toolkit. With Xan, users can easily import, export, and transform CSV files, streamlining their workflow and saving time.
+medialab/xan is a promising open-source project. Categories: DevTools. Interest score: 74/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/medialab/xan) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/medialab/xan) · [← Back to DevTools](./README.md)</sub>

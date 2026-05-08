@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 413 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deepseek` `demo` `easy` `embedding` `flask` `gpt` `huggingface-transformers` `llm` `mcp` `multimodal` `openai` `qwen`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the OpenBMB/UltraRAG project:
-
-OpenBMB/UltraRAG is a low-code, open-source framework for building complex and innovative Risk Assessment and Governance (RAG) pipelines. This AI/ML-enabled framework empowers users to create robust and scalable RAG pipelines with minimal coding requirements, making it an ideal solution for organizations seeking to streamline their risk assessment processes. With its frontend-driven interface, UltraRAG facilitates rapid development and deployment of custom RAG pipelines.
+OpenBMB/UltraRAG is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/OpenBMB/UltraRAG) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/OpenBMB/UltraRAG) · [← Back to AI/ML](./README.md)</sub>

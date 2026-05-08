@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 18.6k |
-| 🍴 **Forks** | 861 |
+| 🍴 **Forks** | 870 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database` `embedded-database` `sql` `sqlite3` `webassembly`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ tursodatabase/turso is a promising open-source project. Categories: Data. Intere
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/tursodatabase/turso) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tursodatabase/turso) · [← Back to Data](./README.md)</sub>

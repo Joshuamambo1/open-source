@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 461 |
+| 🍴 **Forks** | 463 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`circt` `llvm` `mlir`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ llvm/circt is a promising open-source project. Categories: AI/ML, Frontend. Inte
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/llvm/circt) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/llvm/circt) · [← Back to AI/ML](./README.md)</sub>

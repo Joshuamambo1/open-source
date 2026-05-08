@@ -1,6 +1,6 @@
 # gastownhall/gascity
 
-[![Stars](https://img.shields.io/github/stars/gastownhall/gascity?style=flat-square&color=yellow)](https://github.com/gastownhall/gascity/stargazers) [![Forks](https://img.shields.io/github/forks/gastownhall/gascity?style=flat-square&color=blue)](https://github.com/gastownhall/gascity/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gastownhall/gascity?style=flat-square&color=yellow)](https://github.com/gastownhall/gascity/stargazers) [![Forks](https://img.shields.io/github/forks/gastownhall/gascity?style=flat-square&color=blue)](https://github.com/gastownhall/gascity/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestration-builder SDK for multi-agent coding workflows
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 603 |
-| 🍴 **Forks** | 180 |
+| ⭐ **Stars** | 643 |
+| 🍴 **Forks** | 204 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The gascity project is an open-source SDK for building orchestration systems that facilitate efficient multi-agent coding workflows. This tool enables developers to create, manage, and coordinate complex workflows involving multiple AI and ML agents, streamlining collaboration and enhancing productivity. By providing a robust framework for orchestration, gascity helps teams to efficiently tackle complex coding projects.
+gastownhall/gascity is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 48/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/gastownhall/gascity) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gastownhall/gascity) · [← Back to Orchestration](./README.md)</sub>

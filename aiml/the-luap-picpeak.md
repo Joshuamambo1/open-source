@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 212 |
+| ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`client-gallery` `docker` `event-photography` `gallery` `gallery-management` `nodejs` `open-source` `photo-gallery` `photo-hosting` `photo-sharing` `photography` `photography-business`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The PicPeak project is an open-source, self-hosted photo sharing platform designed for photographers and event organizers. It offers features such as time-limited galleries, password protection, and customizable branding, all without the need for monthly fees. Built with React and Node.js, PicPeak provides a flexible alternative to proprietary services like PicDrop and Scrapbook.
+the-luap/picpeak is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/the-luap/picpeak) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/the-luap/picpeak) · [← Back to AI/ML](./README.md)</sub>

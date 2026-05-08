@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 30.7k |
-| 🍴 **Forks** | 6.6k |
+| ⭐ **Stars** | 31.4k |
+| 🍴 **Forks** | 6.8k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-gateway` `claude` `deepseek` `gemini` `newapi` `openai` `rerank`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the QuantumNous/new-api project:
-
-QuantumNous/new-api is an open-source, unified AI model hub that enables the aggregation, distribution, and management of various Large Language Models (LLMs). It provides cross-conversion capabilities for models across different platforms, including OpenAI, Claude, and Gemini formats. This project serves as a centralized gateway for personal and enterprise model management, streamlining the integration and utilization of AI models.
+QuantumNous/new-api is a promising open-source project. Categories: Trading, AI/ML, Backend. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/QuantumNous/new-api) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/QuantumNous/new-api) · [← Back to Trading](./README.md)</sub>

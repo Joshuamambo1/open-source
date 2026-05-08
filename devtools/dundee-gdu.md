@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 202 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `disk-usage` `filesystem` `golang` `hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The dundee/gdu project is an open-source, fast disk usage analyzer developed with a console interface, allowing users to efficiently monitor and analyze disk space usage. Written in Go, this tool is designed to provide a simple and effective way to manage disk usage and optimize storage space. It is ideal for system administrators and developers looking for a lightweight and efficient disk analysis solution.
+dundee/gdu is a promising open-source project. Categories: DevTools. Interest score: 84/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/dundee/gdu) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dundee/gdu) · [← Back to DevTools](./README.md)</sub>

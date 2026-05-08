@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14.2k |
+| ⭐ **Stars** | 14.3k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic` `ai` `chatbot` `embeddings` `evaluation` `generative-ai` `golang` `knowledge-base` `llm` `multi-tenant` `multimodel`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the Tencent/WeKnora project:
-
-WeKnora is an open-source AI framework that leverages large language models to empower deep document understanding, semantic retrieval, and context-aware answering capabilities. Built on the Retrieval-Augmented Generator (RAG) paradigm, this framework enables efficient and effective information extraction and processing. By harnessing the power of LLMs, WeKnora facilitates the development of sophisticated natural language processing applications.
+Tencent/WeKnora is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Tencent/WeKnora) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Tencent/WeKnora) · [← Back to AI/ML](./README.md)</sub>

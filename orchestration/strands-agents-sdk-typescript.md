@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 639 |
+| ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `autonomous-agents` `bedrock` `genai` `javascript` `llm` `machine-learning` `mcp` `multi-agent-systems` `openai` `opentelemetry`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The strands-agents/sdk-typescript project offers a model-driven approach to building AI agents, allowing developers to create sophisticated intelligence with just a few lines of code. This open-source platform utilizes TypeScript for a scalable and maintainable solution, catering to the needs of both frontend and AI/ML applications. By leveraging this SDK, users can simplify the development of AI agents and focus on more complex tasks.
+strands-agents/sdk-typescript is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/strands-agents/sdk-typescript) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/strands-agents/sdk-typescript) · [← Back to Orchestration](./README.md)</sub>

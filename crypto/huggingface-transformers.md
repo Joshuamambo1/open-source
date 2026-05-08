@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 33.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audio` `deep-learning` `deepseek` `gemma` `glm` `hacktoberfest` `llm` `machine-learning` `model-hub` `natural-language-processing` `nlp` `pretrained-models`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The Hugging Face Transformers project is an open-source framework for building and deploying state-of-the-art machine learning models in various domains, including text, vision, audio, and multimodal applications. This comprehensive framework facilitates both inference and training of models, enabling developers to leverage cutting-edge AI capabilities. By providing a unified interface for a wide range of models, Transformers simplifies the process of developing and integrating complex machine learning models into diverse applications.
+huggingface/transformers is a promising open-source project. Categories: Crypto, AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/huggingface/transformers) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/huggingface/transformers) · [← Back to Crypto](./README.md)</sub>

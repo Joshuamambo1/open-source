@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-OpenVINO is an open-source toolkit that enables the optimization and deployment of artificial intelligence (AI) inference applications across various hardware platforms. This AI/ML framework simplifies the process of model deployment and accelerates the execution of AI workloads, making it suitable for a wide range of applications. By leveraging OpenVINO, developers can efficiently convert, optimize, and run AI models on various devices.
+openvinotoolkit/openvino is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 

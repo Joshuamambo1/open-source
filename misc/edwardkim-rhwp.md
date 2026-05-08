@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 498 |
+| 🍴 **Forks** | 512 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The open-source project "edwardkim/rhwp" is an HWP viewer and editor built using Rust and WebAssembly (WASM). This project allows users to view and edit files in the HWP (Hangul Word Processor) format, a proprietary file format used for word processing in South Korea. The project's cross-platform compatibility and open-source nature make it a valuable tool for anyone working with HWP files.
+edwardkim/rhwp is a promising open-source project. Categories: Misc. Interest score: 68/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/edwardkim/rhwp) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/edwardkim/rhwp) · [← Back to Misc](./README.md)</sub>

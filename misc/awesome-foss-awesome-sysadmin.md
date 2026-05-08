@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome-list` `devops` `list` `ops` `self-hosted` `software` `sre` `sysadmin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The awesome-sysadmin project is a comprehensive, community-driven collection of open-source resources for sysadmins. This curated list features a diverse range of tools, software, and documentation designed to streamline system administration tasks and improve overall efficiency. By providing easy access to these resources, the project aims to support and empower sysadmins worldwide.
+awesome-foss/awesome-sysadmin is a promising open-source project. Categories: Misc. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/awesome-foss/awesome-sysadmin) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/awesome-foss/awesome-sysadmin) · [← Back to Misc](./README.md)</sub>

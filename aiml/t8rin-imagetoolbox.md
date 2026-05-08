@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 12.8k |
-| 🍴 **Forks** | 556 |
+| 🍴 **Forks** | 560 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `android` `background-removal` `crop` `edit-photo` `exif` `f-droid` `filter-image` `image-manipulation` `jetpack-compose` `jxl` `kotlin`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the T8RIN/ImageToolbox project:
-
-Image Toolbox is an open-source, feature-rich app for advanced image manipulation, offering a wide range of tools from basic editing to sophisticated filters and image processing options. Equipped with AI-powered features like OCR, it caters to both casual users and professionals. This powerful app provides a comprehensive platform for image editing and enhancement.
+T8RIN/ImageToolbox is a promising open-source project. Categories: AI/ML, Mobile. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/T8RIN/ImageToolbox) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/T8RIN/ImageToolbox) · [← Back to AI/ML](./README.md)</sub>

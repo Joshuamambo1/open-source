@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 11.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `angular-cli` `cli` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The angular/angular-cli project is an open-source command-line interface (CLI) tool designed to simplify the development and maintenance of Angular applications. It provides a robust set of tools for building, serving, and testing Angular projects, ensuring a streamlined development workflow. With angular-cli, developers can quickly create new Angular projects, generate code, and deploy applications with ease.
+angular/angular-cli is a promising open-source project. Categories: DevTools. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/angular/angular-cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/angular/angular-cli) · [← Back to DevTools](./README.md)</sub>

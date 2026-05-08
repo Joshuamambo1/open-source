@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 156 |
+| 🍴 **Forks** | 157 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`continuous-profiling` `ebpf` `flamegraph` `performance` `performance-tools` `profiling`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · Design
 
 ## 📝 Summary
 
-Perforator is an open-source, cluster-wide continuous profiling tool designed to monitor and analyze performance in large data centers. It provides detailed insights into system behavior, enabling data center administrators to optimize resource utilization and improve overall efficiency. By leveraging cluster-wide profiling, Perforator helps organizations identify bottlenecks and optimize their infrastructure for better performance and scalability.
+yandex/perforator is a promising open-source project. Categories: Data, Design. Interest score: 74/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/yandex/perforator) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/yandex/perforator) · [← Back to Data](./README.md)</sub>

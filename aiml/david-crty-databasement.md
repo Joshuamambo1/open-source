@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 749 |
-| 🍴 **Forks** | 61 |
+| ⭐ **Stars** | 768 |
+| 🍴 **Forks** | 63 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`backup` `backup-restore` `database` `database-backup` `database-management` `laravel` `mariadb` `mysql` `postgres` `postgressql` `s3` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the David-Crty/databasement project:
-
-Databasement is an open-source, self-hosted database backup manager that provides a user-friendly web interface for scheduling, backing up, and restoring various databases (MySQL, PostgreSQL, MariaDB, MongoDB, SQLite, and Redis) to local storage, S3, or SFTP. With support for SSH Tunnels, users can securely transfer backups between servers. This project is ideal for developers and DBAs looking for a flexible and reliable database backup solution.
+David-Crty/databasement is a promising open-source project. Categories: AI/ML, Frontend, Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/David-Crty/databasement) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/David-Crty/databasement) · [← Back to AI/ML](./README.md)</sub>

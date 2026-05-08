@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 248 |
+| 🍴 **Forks** | 250 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The letta-code project is an open-source, AI-powered coding agent that prioritizes memory usage. It leverages machine learning to optimize programming tasks, enabling developers to write more efficient code. This memory-first approach aims to revolutionize the way developers approach coding, making it more sustainable and scalable.
+letta-ai/letta-code is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 61/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/letta-ai/letta-code) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/letta-ai/letta-code) · [← Back to Orchestration](./README.md)</sub>

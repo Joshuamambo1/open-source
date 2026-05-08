@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dask` `numpy` `pandas` `pydata` `python` `scikit-learn` `scipy`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The Dask project is an open-source library that enables parallel computing by scheduling tasks to scale up the performance of existing serial code. It allows users to scale up their existing Python code to process large datasets in parallel, leveraging multiple CPU cores or even distributed computing environments. This makes it a valuable tool for data scientists and analysts working with big data.
+dask/dask is a promising open-source project. Categories: Data. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/dask/dask) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dask/dask) · [← Back to Data](./README.md)</sub>

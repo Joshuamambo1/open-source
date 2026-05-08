@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.3k |
-| 🍴 **Forks** | 720 |
+| 🍴 **Forks** | 723 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`disaggregation` `inference` `kvcache` `llm` `rdma` `sglang` `vllm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the Mooncake project:
-
-Mooncake is an open-source serving platform designed to support Kimi, a leading Large Language Model (LLM) service provided by Moonshot AI. This platform enables efficient deployment and management of LLMs, facilitating faster development and deployment of AI-powered applications. By leveraging Mooncake, developers can tap into the capabilities of Kimi and build innovative AI-powered solutions.
+kvcache-ai/Mooncake is a promising open-source project. Categories: AI/ML. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/kvcache-ai/Mooncake) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kvcache-ai/Mooncake) · [← Back to AI/ML](./README.md)</sub>

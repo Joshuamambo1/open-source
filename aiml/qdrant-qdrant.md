@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31k |
+| ⭐ **Stars** | 31.1k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-search` `ai-search-engine` `embeddings-similarity` `hnsw` `hybrid-search` `image-search` `knn-algorithm` `machine-learning` `mlops` `nearest-neighbor-search` `neural-network` `neural-search`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Qdrant is an open-source vector database and search engine designed for high-performance and massive-scale applications in artificial intelligence (AI). It enables fast and efficient vector similarity searches, making it an ideal solution for AI-powered applications that rely on data similarity analysis. With its cloud availability, Qdrant offers a scalable and accessible platform for developers to integrate vector-based AI capabilities into their projects.
+qdrant/qdrant is a promising open-source project. Categories: AI/ML, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/qdrant/qdrant) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/qdrant/qdrant) · [← Back to AI/ML](./README.md)</sub>

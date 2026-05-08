@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-The msys2/MINGW-packages project is an open-source initiative that provides package scripts to build MinGW-w64 targets under the MSYS2 environment. These scripts enable developers to easily create and manage packages for MinGW-w64, a popular toolchain for compiling native Windows applications. By contributing to this project, developers can help expand the range of packages available for MinGW-w64.
+msys2/MINGW-packages is a promising open-source project. Categories: Frontend. Interest score: 74/100.
 
 ---
 

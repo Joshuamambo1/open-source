@@ -25,7 +25,7 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Composio is an open-source platform that empowers developers to build and deploy AI-powered agents with ease. It offers a comprehensive suite of features, including toolkit integration, search functionality, context management, authentication, and a sandboxed workbench, making it an ideal choice for AI and machine learning projects. With Composio, users can turn intent into action by leveraging its robust set of tools and capabilities.
+ComposioHQ/composio is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 100/100.
 
 ---
 

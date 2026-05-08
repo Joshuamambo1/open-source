@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 820 |
+| ⭐ **Stars** | 822 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`https-proxy` `outline-vpn` `proxy-list` `proxy-server` `shadowsocks` `socks4-proxy` `socks5-proxy` `v2ray` `v2ray-config` `v2ray-list` `v2ray-subscriber` `vless`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The roosterkid/openproxylist project provides a publicly accessible list of free HTTPS, SOCKS4, SOCKS5, and V2Ray proxies, updated hourly for users to access. This list is designed to be a convenient resource for developers, researchers, and individuals seeking to utilize proxies for a variety of purposes. The project's hourly updates ensure users have access to the most current and reliable proxy options.
+roosterkid/openproxylist is a promising open-source project. Categories: Backend. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/roosterkid/openproxylist) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/roosterkid/openproxylist) · [← Back to Backend](./README.md)</sub>

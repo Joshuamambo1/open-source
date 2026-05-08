@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8k |
-| 🍴 **Forks** | 322 |
+| 🍴 **Forks** | 324 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Vinext is an open-source, cloud-agnostic plugin for Vite that provides a Next.js API surface, allowing developers to deploy their applications anywhere without limitations. This plugin aims to replicate the functionality of Next.js API routes, making it easier to migrate existing Next.js projects to Vite or create new applications that can be deployed on any platform. With Vinext, developers can take advantage of Vite's performance and flexibility while maintaining their familiar Next.js API workflow.
+cloudflare/vinext is a promising open-source project. Categories: Backend. Interest score: 80/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/cloudflare/vinext) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cloudflare/vinext) · [← Back to Backend](./README.md)</sub>

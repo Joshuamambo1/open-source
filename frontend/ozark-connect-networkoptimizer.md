@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 608 |
+| ⭐ **Stars** | 609 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`5g-monitoring` `bufferbloat` `crowdsec` `docker` `geoip` `home-lab` `homelab` `internet-speed-test` `network-optimization` `networking` `security-audit` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Ozark-Connect/NetworkOptimizer project:
-
-Ozark-Connect/NetworkOptimizer is an open-source tool for UniFi network administrators, providing a comprehensive performance optimization and security audit solution. This self-hosted platform offers features like Wi-Fi optimization, advanced security checks, config suggestions, and network speed testing, helping users to improve their network's health and security. With its range of tools and features, Ozark-Connect/NetworkOptimizer empowers network administrators to troubleshoot and optimize their UniFi networks more efficiently.
+Ozark-Connect/NetworkOptimizer is a promising open-source project. Categories: Frontend, Backend, DevTools. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Ozark-Connect/NetworkOptimizer) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Ozark-Connect/NetworkOptimizer) · [← Back to Frontend](./README.md)</sub>

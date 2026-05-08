@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 16.1k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`marshalling` `protobuf` `protobuf-runtime` `protoc` `protocol-buffers` `protocol-compiler` `rpc` `serialization`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Protocol Buffers is an open-source data interchange format developed by Google. It enables efficient and flexible data serialization, allowing for the definition of structured data types and their conversion to a compact binary format. This format is widely used for its simplicity, speed, and extensibility.
+protocolbuffers/protobuf is a promising open-source project. Categories: Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/protocolbuffers/protobuf) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/protocolbuffers/protobuf) · [← Back to Data](./README.md)</sub>

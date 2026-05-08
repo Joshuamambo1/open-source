@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audio` `blockchain` `ethereum` `music` `protocol` `solana` `streaming`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-The AudiusProject/apps repository is an open-source monorepo that serves as a centralized hub for developing and maintaining various Audius applications, including web, React Native, and TypeScript SDKs. This comprehensive repository enables collaboration and streamlines the development process for Audius, a decentralized music streaming platform that combines blockchain and AI/ML technologies. The project aims to facilitate innovation and user engagement in the music industry through decentralized, open-source solutions.
+AudiusProject/apps is a promising open-source project. Categories: Crypto, AI/ML, Frontend. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/AudiusProject/apps) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/AudiusProject/apps) · [← Back to Crypto](./README.md)</sub>

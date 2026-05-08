@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 126 |
-| 🍴 **Forks** | 18 |
+| ⭐ **Stars** | 128 |
+| 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-coding` `ai-framework` `anthropic` `autonomous-agents` `claude-code` `codex` `copilot` `cursor` `developer-tools` `fine-tuning` `multi-agent` `multi-platform`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The aiwg project is an open-source cognitive architecture for AI-augmented software development. It features a suite of specialized agents and structured workflows that enable seamless collaboration between humans and AI tools, including Codex, Copilot, and Cursor. This framework provides a multi-platform deployment solution for integrating AI capabilities into software development pipelines.
+Here's a brief summary for the open-source project "jmagly/aiwg":
+
+The jmagly/aiwg project is an open-source cognitive architecture that enables AI-augmented software development, providing a suite of specialized agents and structured workflows for efficient collaborative development. With support for multi-platform deployment, this project empowers developers to harness the power of AI in their coding processes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/jmagly/aiwg) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jmagly/aiwg) · [← Back to Orchestration](./README.md)</sub>

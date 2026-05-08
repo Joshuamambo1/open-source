@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 211 |
+| 🍴 **Forks** | 215 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`account` `accounting` `accounting-app` `chinese` `expense-tracker` `finance-app` `flutter` `money-management` `offline-first` `personal-finance` `privacy-first` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary of the project in 2-3 sentences:
-
-BeeCount is an open-source, cross-platform finance tracker that prioritizes user privacy. It offers seamless syncing capabilities via iCloud and self-hosted options like Supabase, WebDAV, and S3. With AI-powered bookkeeping features, users can efficiently manage their finances and stay on top of their expenses.
+TNT-Likely/BeeCount is a promising open-source project. Categories: AI/ML, Mobile. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/TNT-Likely/BeeCount) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/TNT-Likely/BeeCount) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `bitwarden` `browser-extension` `chrome` `cli` `desktop` `electron` `firefox` `javascript` `nodejs` `safari` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The bitwarden/clients project is an open-source initiative that hosts the official client applications for Bitwarden, a password manager that provides secure password storage and management. The project encompasses a range of clients, including web, browser extension, desktop, and command-line interfaces, all designed to work seamlessly with the Bitwarden platform. By contributing to this project, users can support the development and maintenance of these essential tools for secure password management.
+bitwarden/clients is a promising open-source project. Categories: DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bitwarden/clients) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bitwarden/clients) · [← Back to DevTools](./README.md)</sub>

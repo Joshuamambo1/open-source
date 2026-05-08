@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | PowerShell |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `scoop` `scoop-apps` `scoop-bucket`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The ScoopInstaller/Extras project is an open-source repository that complements the Scoop package manager, providing additional tools and resources beyond the core functionality. This Extras bucket allows users to easily install and utilize various supplementary utilities, enhancing their Scoop experience. By contributing to this project, users can expand the capabilities of Scoop and create a more versatile package management system.
+ScoopInstaller/Extras is a promising open-source project. Categories: Misc. Interest score: 74/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/ScoopInstaller/Extras) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ScoopInstaller/Extras) · [← Back to Misc](./README.md)</sub>

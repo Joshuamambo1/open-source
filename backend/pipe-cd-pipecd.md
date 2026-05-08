@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 267 |
+| 🍴 **Forks** | 268 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cd` `ci-cd` `cicd` `cloudrun` `cncf` `cncf-project` `continuous-delivery` `devops` `ecs` `fargate` `gitops` `infrastructure`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the pipe-cd/pipecd open-source project:
-
-The pipecd project is an open-source, all-in-one platform for continuous deployment and delivery, simplifying the process of deploying applications across various platforms and operations. By providing a single, unified interface, pipecd streamlines deployment and reduces complexity, making it an ideal solution for DevOps teams. This project enables efficient and scalable deployment of applications across multiple environments.
+pipe-cd/pipecd is a promising open-source project. Categories: Backend, DevOps/Infra. Interest score: 63/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/pipe-cd/pipecd) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pipe-cd/pipecd) · [← Back to Backend](./README.md)</sub>

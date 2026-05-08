@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26.5k |
+| ⭐ **Stars** | 26.6k |
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`badge` `badge-maker` `github` `hacktoberfest` `metadata` `status` `svg`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The badges/shields project is an open-source initiative offering customizable, visually appealing badges in both SVG and raster formats. These badges are designed to be concise, consistent, and easy to read, making them suitable for various applications and use cases. They can be easily integrated into websites, documentation, and other digital content to provide a clear and professional representation of information.
+badges/shields is a promising open-source project. Categories: Data. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/badges/shields) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/badges/shields) · [← Back to Data](./README.md)</sub>

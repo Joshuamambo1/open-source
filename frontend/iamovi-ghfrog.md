@@ -25,7 +25,7 @@ Frontend
 
 ## 📝 Summary
 
-This project is an open-source browser app store that fetches the latest GitHub releases, allowing users to easily discover and install applications from GitHub repositories. The store's functionality is built using frontend technologies, making it a useful resource for developers who want to showcase their projects and reach a broader audience. By utilizing GitHub releases, the store provides a seamless experience for users to install and manage applications.
+I Built a Browser App Store That Fetches GitHub Releases is a promising open-source project. Categories: Frontend. Interest score: 40/100.
 
 ---
 

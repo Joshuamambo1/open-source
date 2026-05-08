@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 997 |
-| 🍴 **Forks** | 110 |
+| 🍴 **Forks** | 111 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anti-phishing` `blacklist` `blocklist` `crypto-scam` `cybersecurity` `dns-blocklist` `domains` `drainer` `malware` `osint` `phishing` `scam`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Backend
 
 ## 📝 Summary
 
-phishdestroy/destroylist is a promising open-source project. Categories: AI/ML, Backend, Security. Interest score: 58/100.
+phishdestroy/destroylist is a promising open-source project. Categories: Crypto, AI/ML, Backend. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/phishdestroy/destroylist) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/phishdestroy/destroylist) · [← Back to Crypto](./README.md)</sub>

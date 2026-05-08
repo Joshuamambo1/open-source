@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 301 |
-| 🍴 **Forks** | 53 |
+| ⭐ **Stars** | 308 |
+| 🍴 **Forks** | 55 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-runtime` `ai-agent` `automation` `csharp` `discord-bot` `dotnet` `llm` `mcp` `memory` `microsoft-agent-framework` `multimodal` `nativeaot`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-OpenClaw.net is an open-source, self-hosted solution that enables the deployment of OpenClaw gateways and agents in a .NET environment. Built using NativeAOT-friendly technology, this project provides a flexible and efficient way to integrate AI/ML orchestration capabilities. By leveraging .NET, developers can easily integrate OpenClaw.net with existing applications and infrastructure.
+clawdotnet/openclaw.net is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/clawdotnet/openclaw.net) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/clawdotnet/openclaw.net) · [← Back to Orchestration](./README.md)</sub>

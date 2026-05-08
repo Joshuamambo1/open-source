@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 980 |
-| 🍴 **Forks** | 177 |
+| ⭐ **Stars** | 982 |
+| 🍴 **Forks** | 178 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-teams` `agentic-ai` `agentic-coding` `agentic-workflow` `ai-agent` `ai-coding` `anthropic` `claude` `claude-code` `claudecode` `cli-tool` `code-quality`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the modu-ai/moai-adk project:
-
-The modu-ai/moai-adk is an open-source, SPEC-First Agentic Development Kit for Claude Code, offering 24 AI agents and 52 skills with rigorous testing and documentation. This comprehensive toolkit supports 16 languages and provides project documentation in 4 languages, further expanding its global reach. Its Go CLI interface and zero dependencies make it a lightweight and easy-to-use development tool for AI and machine learning projects.
+modu-ai/moai-adk is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/modu-ai/moai-adk) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/modu-ai/moai-adk) · [← Back to Orchestration](./README.md)</sub>

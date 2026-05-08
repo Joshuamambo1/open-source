@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5k |
+| ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`actor` `actor-model` `akka` `akkadotnet` `c-sharp` `cluster` `concurrency` `distributed-programming` `dotnet` `reactive`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Akkadotnet/akka.net is an open-source implementation of the actor model in .NET, enabling developers to create concurrent and fault-tolerant applications with local and distributed actors. This C# and F# library allows for the creation of scalable and maintainable systems by leveraging the principles of actor-based concurrency. With akka.net, developers can build high-performance, distributed applications across multiple platforms.
+akkadotnet/akka.net is a promising open-source project. Categories: Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/akkadotnet/akka.net) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/akkadotnet/akka.net) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-native` `cncf` `control-plane` `docker` `gitops` `golang` `gsoc` `hacktoberfest` `infrastructure-as-code` `internal-developer-platform` `kanvas` `kubernetes`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Meshery is an open-source, cloud-native application manager that simplifies the deployment and management of complex distributed systems. It provides a unified interface for managing multiple mesh platforms, allowing developers to focus on building applications rather than managing underlying infrastructure. With Meshery, developers can automate and streamline the process of deploying and scaling cloud-native applications.
+meshery/meshery is a promising open-source project. Categories: Frontend, DevTools, DevOps/Infra. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/meshery/meshery) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/meshery/meshery) · [← Back to Frontend](./README.md)</sub>

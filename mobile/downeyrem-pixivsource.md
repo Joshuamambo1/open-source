@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 835 |
+| ⭐ **Stars** | 838 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `legado` `legado3` `novel` `pixiv` `reader`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-DowneyRem/PixivSource is an open-source novel reader for Pixiv, offering a seamless reading experience with a wide range of Pixiv book sources. This third-party reader is designed to provide users with a convenient and enjoyable way to access and read Pixiv novels on their mobile devices. By integrating with Legado, it brings a rich set of features to enhance the reading experience.
+DowneyRem/PixivSource is a promising open-source project. Categories: Mobile. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/DowneyRem/PixivSource) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/DowneyRem/PixivSource) · [← Back to Mobile](./README.md)</sub>

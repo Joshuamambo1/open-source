@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.5k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`big-data` `data` `hadoop` `hive` `java` `lakehouse` `presto` `query` `sql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Presto is an open-source, distributed SQL query engine designed for big data processing. It enables users to run fast, interactive SQL queries on large datasets across multiple sources, including Amazon S3, Hive, and relational databases. With Presto, organizations can gain real-time insights and analytics from their big data, improving decision-making and business outcomes.
+prestodb/presto is a promising open-source project. Categories: Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/prestodb/presto) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/prestodb/presto) · [← Back to Data](./README.md)</sub>

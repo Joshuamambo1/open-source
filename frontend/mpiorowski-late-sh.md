@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 486 |
-| 🍴 **Forks** | 36 |
+| ⭐ **Stars** | 509 |
+| 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `irc` `ssh` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Late-sh is an open-source project that provides a cozy terminal-based clubhouse experience for developers. This platform offers a range of features, including lofi beats, casual games, chat capabilities, and access to tech news, all accessible via a secure SSH connection. It aims to create a relaxed and engaging environment for developers to work and socialize.
+mpiorowski/late-sh is a promising open-source project. Categories: Frontend, DevTools. Interest score: 50/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/mpiorowski/late-sh) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mpiorowski/late-sh) · [← Back to Frontend](./README.md)</sub>

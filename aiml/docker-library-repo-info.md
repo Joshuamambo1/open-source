@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 598 |
+| ⭐ **Stars** | 600 |
 | 🍴 **Forks** | 355 |
 | 💻 **Language** | Perl |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The docker-library/repo-info project provides extended information about Official Docker Images, focusing on license details and layer breakdown. This open-source initiative offers developers a more comprehensive understanding of the underlying components of these images. By offering this information, it aids in more informed decision-making when choosing and using Official Docker Images.
+The docker-library/repo-info project provides extended information about official Docker images, including license details and layer insights. This open-source initiative aims to enhance transparency and understanding of the underlying components and permissions associated with these images. By offering this additional information, developers can make more informed decisions when working with official Docker images.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/docker-library/repo-info) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/docker-library/repo-info) · [← Back to AI/ML](./README.md)</sub>

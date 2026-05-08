@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 802 |
-| 🍴 **Forks** | 105 |
+| ⭐ **Stars** | 828 |
+| 🍴 **Forks** | 107 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-harness` `agent-teams` `ai` `ai-agent` `ai-agents` `ai-assistant` `ai-coding` `ai-swarm` `claude-code` `claude-cowork` `multi-provider` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Design
 
 ## 📝 Summary
 
-thClaws is an open-source agent harness platform designed to provide a sovereign and decentralized solution for AI/ML. Built natively in Rust, it enables users to run their own agent harness on their local machine, promoting autonomy and control over their data. This multi-provider platform offers a flexible and secure way to manage AI/ML agents.
+thClaws/thClaws is a promising open-source project. Categories: AI/ML, Design. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/thClaws/thClaws) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/thClaws/thClaws) · [← Back to AI/ML](./README.md)</sub>

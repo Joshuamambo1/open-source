@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The MiniGPT-4-ZH project is an open-source implementation of a Chinese deployment for MiniGPT-4, a compact and efficient version of the popular GPT-4 language model. This project aims to provide a detailed guide for deploying MiniGPT-4 in a Chinese environment, making it easier for developers to integrate this technology into their applications. By contributing to this project, users can help improve the deployment process and enhance the usability of MiniGPT-4 in Chinese-speaking regions.
+RiseInRose/MiniGPT-4-ZH is a promising open-source project. Categories: Misc. Interest score: 47/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/RiseInRose/MiniGPT-4-ZH) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/RiseInRose/MiniGPT-4-ZH) · [← Back to Misc](./README.md)</sub>

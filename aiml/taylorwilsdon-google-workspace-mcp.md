@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 705 |
+| 🍴 **Forks** | 715 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `g-suite` `gmail` `google-calendar` `google-chat` `google-docs` `google-drive` `google-forms` `google-sheets` `google-tasks` `google-workspace` `gsuite`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The google_workspace_mcp project is an open-source, comprehensive management control panel (MCP) for Google Workspace (formerly G Suite). It integrates with various Google services, including Gmail, Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search, and Drive, and utilizes AI to automate tasks and streamline workflows. This MCP can be accessed via a user-friendly CLI tool, providing an efficient and intelligent way to manage Google Workspace.
+taylorwilsdon/google_workspace_mcp is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/taylorwilsdon/google_workspace_mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/taylorwilsdon/google_workspace_mcp) · [← Back to AI/ML](./README.md)</sub>

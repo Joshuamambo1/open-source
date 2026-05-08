@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 610 |
+| ⭐ **Stars** | 614 |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gtfs` `public-transport` `transit`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The transitous project offers a free and open-source solution for public transport routing, providing users with a reliable and accessible way to navigate through various transportation systems. This open-source project aims to bridge the gap in public transport routing, promoting transparency and flexibility in transportation planning. It serves as a valuable resource for developers and users seeking efficient and sustainable public transportation solutions.
+public-transport/transitous is a promising open-source project. Categories: Misc. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/public-transport/transitous) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/public-transport/transitous) · [← Back to Misc](./README.md)</sub>

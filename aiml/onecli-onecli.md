@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 104 |
+| 🍴 **Forks** | 106 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `cli` `mcp` `nanoclaw` `nodejs` `openclaw` `postgres` `rust` `secret-management` `security` `security-tools` `vault`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Onecli is an open-source credential vault designed to securely provide access to various services for AI agents without exposing sensitive keys. This project ensures the confidentiality and integrity of AI-related credentials, fostering a safer and more private environment for AI development and deployment. By utilizing onecli, developers can grant their AI agents access to necessary services while maintaining control over sensitive information.
+onecli/onecli is a promising open-source project. Categories: AI/ML, DevTools, Security. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/onecli/onecli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/onecli/onecli) · [← Back to AI/ML](./README.md)</sub>

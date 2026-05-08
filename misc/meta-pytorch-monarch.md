@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The meta-pytorch/monarch project is an open-source implementation of a PyTorch Single Controller, providing a centralized management system for PyTorch models. This project enables efficient model management, simplifying the process of deploying and monitoring PyTorch-based applications. By leveraging a single controller, developers can streamline their workflow and improve model scalability.
+Meta-pytorch/monarch is an open-source project that utilizes a single controller architecture in PyTorch, providing a framework for efficient model development and scalable inference. This project aims to simplify the process of building complex models while maintaining flexibility and control. By leveraging a single controller, users can streamline their model-building workflow and improve overall performance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/meta-pytorch/monarch) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/meta-pytorch/monarch) · [← Back to Misc](./README.md)</sub>

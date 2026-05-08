@@ -25,9 +25,7 @@ Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the sqldef project:
-
-sqldef is an open-source tool that provides idempotent schema management for various databases, including MySQL, PostgreSQL, SQLite, and SQL Server. It allows users to define and synchronize database schemas in a predictable and reliable manner, reducing the risk of errors and inconsistencies. By using sqldef, developers can efficiently manage database schema changes across different environments and deployments.
+sqldef/sqldef is a promising open-source project. Categories: Backend, Data. Interest score: 75/100.
 
 ---
 

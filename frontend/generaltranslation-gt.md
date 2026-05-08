@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 943 |
+| ⭐ **Stars** | 944 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`i18n` `internationalization` `javascript` `l10n` `localization` `nextjs` `react` `translation` `translations`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The generaltranslation/gt project is an open-source automated internationalization (i18n) tool designed to simplify the process of translating software for developers. By utilizing this tool, developers can efficiently manage translations for their applications, reducing the complexity and time required for localization. This project aims to streamline the translation process, making it more accessible and effective for global software development.
+The generaltranslation/gt project is an open-source initiative that provides automated internationalization (i18n) tools for developers. This platform aims to simplify the process of translating applications, websites, and software, making it more accessible and efficient for global audiences. By streamlining the translation process, gt enables developers to create more inclusive and user-friendly experiences.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/generaltranslation/gt) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/generaltranslation/gt) · [← Back to Frontend](./README.md)</sub>

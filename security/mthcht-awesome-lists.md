@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | YARA |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome-list` `blueteam` `blueteam-tools` `cti` `detection` `detection-engineering` `dfir` `hacktools` `incident-response` `ioc` `iocs` `ir`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ mthcht/awesome-lists is a promising open-source project. Categories: Security. I
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/mthcht/awesome-lists) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mthcht/awesome-lists) · [← Back to Security](./README.md)</sub>

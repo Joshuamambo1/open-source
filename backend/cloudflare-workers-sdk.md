@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `cloudflare` `cloudflare-workers` `javascript` `serverless` `wasm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The cloudflare/workers-sdk is an open-source project that serves as the foundation for Cloudflare Workers, a powerful platform for building serverless applications. It includes Wrangler, a command-line interface (CLI) that enables developers to deploy, manage, and develop Cloudflare Workers with ease. This SDK provides a comprehensive toolset for building and running scalable, high-performance applications on the Cloudflare network.
+cloudflare/workers-sdk is a promising open-source project. Categories: Backend, DevTools. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cloudflare/workers-sdk) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cloudflare/workers-sdk) · [← Back to Backend](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 549 |
+| 🍴 **Forks** | 550 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`istio` `management` `observability` `openshift` `service-mesh`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Kiali project is an open-source observability tool specifically designed for Istio service mesh. It provides a comprehensive visualization of microservices architecture, enabling users to monitor and understand the complex interactions within their service mesh. By leveraging Kiali, developers can gain insights into service performance, behavior, and dependencies, facilitating better decision-making and optimizing application delivery.
+kiali/kiali is a promising open-source project. Categories: Misc. Interest score: 80/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/kiali/kiali) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kiali/kiali) · [← Back to Misc](./README.md)</sub>

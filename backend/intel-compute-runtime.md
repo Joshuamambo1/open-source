@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 272 |
+| 🍴 **Forks** | 273 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compute` `gpgpu` `gpu` `intel` `intel-hd-graphics` `opencl`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The intel/compute-runtime project is an open-source software that provides the Intel Graphics Compute Runtime for oneAPI Level Zero and OpenCL Driver. This runtime enables developers to write cross-platform, high-performance code that leverages the capabilities of Intel's integrated graphics. It serves as a backend driver for graphics compute workloads.
+intel/compute-runtime is a promising open-source project. Categories: Backend. Interest score: 61/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/intel/compute-runtime) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/intel/compute-runtime) · [← Back to Backend](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-dbt-labs/dbt-fusion is an open-source, next-generation engine for dbt, designed to revolutionize data transformation and integration. Built on top of a highly scalable and performant architecture, dbt-fusion enables faster, more efficient, and more scalable data pipelines. This engine aims to simplify and streamline data operations, making it easier to manage complex data transformations and analytics workflows.
+dbt-labs/dbt-fusion is an open-source project that serves as the next-generation engine for dbt, a popular data transformation and workflow management tool. This engine aims to provide enhanced performance and capabilities, allowing users to scale their data operations and collaborate more efficiently. By leveraging dbt-fusion, users can unlock increased speed, flexibility, and power in their data transformation workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/dbt-labs/dbt-fusion) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dbt-labs/dbt-fusion) · [← Back to Misc](./README.md)</sub>

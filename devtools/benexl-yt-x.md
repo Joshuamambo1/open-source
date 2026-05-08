@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `fzf` `jq` `mpv` `youtube` `yt-dlp` `yt-dlp-wrapper` `yt-x`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Benexl/yt-x is an open-source project that enables users to browse YouTube directly from their terminal. This project provides a convenient and command-line interface for interacting with YouTube, allowing users to search, play, and manage their YouTube experience in a text-based environment. It is ideal for users who prefer a more streamlined and automated approach to browsing YouTube.
+Benexl/yt-x is a promising open-source project. Categories: DevTools. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/Benexl/yt-x) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Benexl/yt-x) · [← Back to DevTools](./README.md)</sub>

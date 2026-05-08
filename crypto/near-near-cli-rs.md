@@ -1,6 +1,6 @@
 # near/near-cli-rs
 
-[![Stars](https://img.shields.io/github/stars/near/near-cli-rs?style=flat-square&color=yellow)](https://github.com/near/near-cli-rs/stargazers) [![Forks](https://img.shields.io/github/forks/near/near-cli-rs?style=flat-square&color=blue)](https://github.com/near/near-cli-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/near/near-cli-rs?style=flat-square&color=yellow)](https://github.com/near/near-cli-rs/stargazers) [![Forks](https://img.shields.io/github/forks/near/near-cli-rs?style=flat-square&color=blue)](https://github.com/near/near-cli-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > near CLI is your human-friendly companion that helps to interact with NEAR Protocol from command line.
 
@@ -11,13 +11,13 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `cli` `hacktoberfest` `nearprotocol`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the near/near-cli-rs project:
+Here's a brief summary for the open-source project:
 
-The near CLI is an open-source command-line interface that simplifies interactions with the NEAR Protocol, enabling developers to easily manage and interact with their NEAR-based applications. With near CLI, users can perform various tasks, such as account management, transaction execution, and contract deployment, all from the comfort of their terminal. This user-friendly tool streamlines the development and management process for NEAR Protocol projects.
+The near-cli-rs is an open-source, human-friendly command-line interface (CLI) for interacting with the NEAR Protocol. This project enables users to easily manage their NEAR wallet, deploy and manage smart contracts, and perform various other operations from the comfort of their terminal. It serves as a valuable tool for developers and users alike, streamlining their NEAR Protocol experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/near/near-cli-rs) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/near/near-cli-rs) · [← Back to Crypto](./README.md)</sub>

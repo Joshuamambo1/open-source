@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.4k |
-| 🍴 **Forks** | 481 |
+| 🍴 **Forks** | 482 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`macos-app` `portfolio-tracker` `tauri-app`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Wealthfolio is an open-source, private, and secure desktop application designed for tracking investments. This user-friendly tool allows individuals to manage their financial portfolios efficiently and securely, providing a comprehensive overview of their wealth. Wealthfolio offers a beautiful and intuitive interface, making it an ideal solution for those seeking a reliable investment tracking solution.
+afadil/wealthfolio is a promising open-source project. Categories: Misc. Interest score: 86/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/afadil/wealthfolio) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/afadil/wealthfolio) · [← Back to Misc](./README.md)</sub>

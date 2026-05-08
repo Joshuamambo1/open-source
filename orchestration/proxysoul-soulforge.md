@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 620 |
-| 🍴 **Forks** | 42 |
+| ⭐ **Stars** | 627 |
+| 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `claude-code` `cli` `lsp` `neovim` `nvim` `opencode`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Soulforge is an open-source project that leverages graph-powered code intelligence and multi-agent coding with codebase-aware AI to streamline development workflows. This innovative tool aims to reduce the reliance on traditional search methods like "grep & pray" by providing developers with a more efficient and intelligent coding experience.
+proxysoul/soulforge is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/proxysoul/soulforge) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/proxysoul/soulforge) · [← Back to Orchestration](./README.md)</sub>

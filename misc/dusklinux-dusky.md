@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`archlinux` `automated` `configs` `dotfiles` `hyprland` `rofi` `scripts` `swaync` `wallpapers` `waybar`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Dusky is an open-source project that provides a comprehensive set of Arch Linux and Hyprland configuration files, often referred to as "dotfiles." This distro aims to offer a sleek and functional out-of-the-box experience for users, showcasing the creator's passion for customization.
+dusklinux/dusky is a promising open-source project. Categories: Misc. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/dusklinux/dusky) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dusklinux/dusky) · [← Back to Misc](./README.md)</sub>

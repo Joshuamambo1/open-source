@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 411 |
+| 🍴 **Forks** | 412 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Kitware/vtk-js project is an open-source library that brings the Visualization Toolkit to the web, enabling developers to create interactive and dynamic visualizations for web applications. This JavaScript-based implementation provides a powerful and flexible framework for 3D data visualization, allowing users to create complex visualizations and analyses with ease. With vtk-js, developers can leverage advanced visualization capabilities on the web, expanding the reach of data-driven storytelling and exploration.
+Kitware/vtk-js is a promising open-source project. Categories: Misc. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/Kitware/vtk-js) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Kitware/vtk-js) · [← Back to Misc](./README.md)</sub>

@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-PixiEditor is an open-source, universal 2D editor designed to meet the diverse needs of artists, developers, and designers. With its flexible architecture, PixiEditor supports a wide range of formats and provides a seamless workflow for various 2D tasks, from graphic design to game development. As a free and community-driven project, PixiEditor offers an inclusive platform for users to collaborate, create, and innovate their 2D projects.
+PixiEditor/PixiEditor is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 89/100.
 
 ---
 

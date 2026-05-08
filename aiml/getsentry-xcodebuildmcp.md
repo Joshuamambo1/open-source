@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.4k |
-| 🍴 **Forks** | 266 |
+| 🍴 **Forks** | 267 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mcp` `mcp-server` `model-context-protocol` `model-context-protocol-servers` `tag-production` `xcode` `xcodebuild`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The getsentry/XcodeBuildMCP project is an open-source Model Context Protocol (MCP) server and CLI designed for use with iOS and macOS projects. This tool enables developers to integrate and automate various tasks for their mobile projects, providing a streamlined development experience. By utilizing the MCP server and CLI, developers can enhance their productivity and efficiency when working on Apple ecosystem projects.
+getsentry/XcodeBuildMCP is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 88/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/getsentry/XcodeBuildMCP) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/getsentry/XcodeBuildMCP) · [← Back to AI/ML](./README.md)</sub>

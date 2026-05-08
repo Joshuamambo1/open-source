@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9k |
-| 🍴 **Forks** | 595 |
+| 🍴 **Forks** | 594 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`artificial-intelligence` `blockchain-technology` `ccf-rankings` `computer-systems` `conf-deadline` `data-management` `deadline` `networked-systems` `security-systems` `social-computing` `software-engineering`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"ccf-deadlines is an open-source project that helps track worldwide conference deadlines across various fields, including crypto, AI/ML, and more. This project offers a website, Python CLI, and WeChat Applet, providing users with a comprehensive and agentically-driven platform to stay on top of deadlines. Its goal is to assist individuals in staying informed and organized about upcoming conferences and deadlines."
+The ccf-deadlines project is an open-source initiative designed to help users track worldwide conference deadlines across various fields, including Crypto, AI/ML, and more. The project offers a website, Python CLI, and Wechat Applet for users to access and manage conference deadlines in a convenient and agentic manner. By utilizing this tool, users can stay up-to-date with important deadlines and plan their research and professional activities accordingly.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ccfddl/ccf-deadlines) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ccfddl/ccf-deadlines) · [← Back to Crypto](./README.md)</sub>

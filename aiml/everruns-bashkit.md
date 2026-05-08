@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 139 |
-| 🍴 **Forks** | 12 |
+| ⭐ **Stars** | 140 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `bash` `everruns`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Everruns/bashkit is an open-source project that provides a virtual Bash interpreter with a virtual file system. This technology is designed for multi-tenant environments, allowing for more efficient and secure management of isolated command-line interfaces. By utilizing a virtual file system, bashkit enables developers to create and manage multiple isolated environments from a single Bash interface.
+everruns/bashkit is a promising open-source project. Categories: AI/ML. Interest score: 45/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/everruns/bashkit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/everruns/bashkit) · [← Back to AI/ML](./README.md)</sub>

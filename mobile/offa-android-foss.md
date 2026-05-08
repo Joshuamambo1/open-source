@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 442 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `android-apps` `f-droid` `foss` `free-and-op` `free-and-open-source` `izzyondroid` `open-source` `opensource`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-This project, offa/android-foss, curates a comprehensive list of Free and Open Source Software (FOSS) applications specifically for Android devices. Its primary goal is to empower users to reclaim their digital freedom and enhance their privacy by offering alternatives to proprietary software.
+offa/android-foss is a promising open-source project. Categories: Mobile. Interest score: 92/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/offa/android-foss) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/offa/android-foss) · [← Back to Mobile](./README.md)</sub>

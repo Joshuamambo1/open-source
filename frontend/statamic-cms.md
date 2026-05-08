@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.8k |
-| 🍴 **Forks** | 625 |
+| 🍴 **Forks** | 624 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-rest` `cms` `composer-package` `content-management-system` `flat-file-cms` `flatfile` `flatfilecms` `graphql` `headless` `jamstack` `laravel` `laravel-cms`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Statamic is an open-source, core Laravel CMS Composer package that provides a robust foundation for building and managing websites. It offers a powerful combination of features for both frontend and backend development, making it an ideal choice for developers seeking to create complex and scalable web applications. With Statamic, users can easily manage content, customize layouts, and extend functionality through a modular and extensible architecture.
+statamic/cms is a promising open-source project. Categories: Frontend, Backend. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/statamic/cms) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/statamic/cms) · [← Back to Frontend](./README.md)</sub>

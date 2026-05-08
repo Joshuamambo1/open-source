@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 15.5k |
+| ⭐ **Stars** | 15.6k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `api` `automation` `browser-automation` `crawler` `crawling` `data-extraction` `no-code` `nocode` `playwright` `robotic-process-automation` `rpa`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the getmaxun/maxun project:
-
-Maxun is an open-source, no-code platform for web scraping, crawling, and AI-powered data extraction. This innovative tool enables users to quickly transform websites into structured APIs, streamlining data access and analysis. By leveraging AI and machine learning capabilities, Maxun simplifies data extraction and makes it accessible to developers and non-technical users alike.
+getmaxun/maxun is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/getmaxun/maxun) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/getmaxun/maxun) · [← Back to AI/ML](./README.md)</sub>

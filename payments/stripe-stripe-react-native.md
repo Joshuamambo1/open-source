@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 310 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`payments` `react-native` `stripe`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments · Frontend · Mobile
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the stripe/stripe-react-native project:
-
-The stripe/stripe-react-native project is an open-source library that enables seamless integration of Stripe's payment functionality into React Native applications, making it easy to handle mobile payments and subscriptions. This library provides a comprehensive and secure solution for developers to accept payments, manage subscriptions, and handle various payment flows within their React Native apps. By utilizing this library, developers can focus on building engaging user experiences while Stripe handles the complex payment processing behind the scenes.
+stripe/stripe-react-native is a promising open-source project. Categories: Payments, Frontend, Mobile. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/stripe/stripe-react-native) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/stripe/stripe-react-native) · [← Back to Payments](./README.md)</sub>

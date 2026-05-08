@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dspace` `java` `open-access` `open-source` `repository` `rest-api`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-DSpace is an open-source digital asset management system that enables institutions to create and manage their own online repositories of research and academic content. It provides a robust platform for preserving, storing, and sharing digital assets, making it a popular choice for institutional repositories worldwide. By utilizing DSpace, organizations can easily disseminate their knowledge and promote scholarly collaboration.
+DSpace/DSpace is a promising open-source project. Categories: Backend. Interest score: 70/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/DSpace/DSpace) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/DSpace/DSpace) · [← Back to Backend](./README.md)</sub>

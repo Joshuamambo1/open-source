@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13.7k |
+| ⭐ **Stars** | 13.8k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws` `azure` `cis-benchmark` `cloud` `cloudsecurity` `compliance` `cspm` `devsecops` `forensics` `gcp` `gdpr` `hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-Prowler is a widely used open-source cloud security platform that automates security and compliance across any cloud environment. This platform provides comprehensive security management, enabling users to identify and remediate vulnerabilities, and ensure compliance with industry standards. By leveraging Prowler, organizations can efficiently and effectively secure their cloud infrastructure and data.
+prowler-cloud/prowler is a promising open-source project. Categories: Security. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/prowler-cloud/prowler) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/prowler-cloud/prowler) · [← Back to Security](./README.md)</sub>

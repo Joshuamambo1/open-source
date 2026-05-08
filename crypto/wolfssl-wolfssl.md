@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 969 |
+| 🍴 **Forks** | 971 |
 | 💻 **Language** | C |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-library` `cipher-suites` `cryptography` `cryptography-api` `dtls` `embedded-systems` `encryption` `fips` `https` `iot` `openssl` `openssl-alternative`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the wolfSSL project:
-
-The wolfSSL library is a lightweight, high-performance implementation of the TLS/SSL protocol, supporting up to TLS 1.3 and DTLS 1.3. It provides a secure and efficient solution for various applications, from embedded devices to cloud-based systems. With regular updates addressing CVEs, this open-source library ensures robust security in a wide range of environments.
+wolfSSL/wolfssl is a promising open-source project. Categories: Crypto, Frontend, Backend. Interest score: 84/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/wolfSSL/wolfssl) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wolfSSL/wolfssl) · [← Back to Crypto](./README.md)</sub>

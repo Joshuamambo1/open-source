@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 771 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-native` `cpp` `database` `dbms` `distributed` `distributed-database` `distributed-sql` `distributed-sql-database` `sql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-ydb-platform/ydb is a promising open-source project. Categories: AI/ML, Data. Interest score: 94/100.
+ydb-platform/ydb is a promising open-source project. Categories: AI/ML, Data. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/ydb-platform/ydb) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ydb-platform/ydb) · [← Back to AI/ML](./README.md)</sub>

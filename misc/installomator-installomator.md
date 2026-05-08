@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 626 |
+| 🍴 **Forks** | 627 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`addigy` `deployment` `dmg` `filewave` `hacktoberfest` `install` `installer` `jamf-pro` `kandji` `macadmin` `macos` `mosyle`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Installomator project is an open-source, user-friendly installation script designed to deploy standard software on Macs in an efficient manner. This script simplifies the installation process by automating the deployment of commonly used software, saving time and effort for users. Installomator caters to the needs of system administrators and users alike, providing a convenient solution for setting up Macs with essential applications.
+Installomator is an open-source installation script designed to streamline the deployment of standard software on Macs. This tool automates the installation process, saving time and reducing the complexity of setting up multiple machines with identical configurations. By utilizing Installomator, users can efficiently manage software deployments across their Mac fleet.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/Installomator/Installomator) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Installomator/Installomator) · [← Back to Misc](./README.md)</sub>

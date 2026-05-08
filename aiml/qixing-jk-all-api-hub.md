@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 222 |
+| 🍴 **Forks** | 225 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `cc-switch` `chatgpt` `chatgpt-api` `cherrystudio` `claude` `claude-code` `cliproxyapi` `codex` `new-api` `newapi` `one-api`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-All-API-Hub is an all-in-one account management platform for New-API and Sub2API users, offering features such as balance and usage dashboards, auto check-in, one-click key usage, price comparison, and health checks. Additionally, it provides advanced channel management capabilities. This open-source project aims to simplify account management and provide a comprehensive suite of tools for developers.
+qixing-jk/all-api-hub is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/qixing-jk/all-api-hub) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/qixing-jk/all-api-hub) · [← Back to AI/ML](./README.md)</sub>

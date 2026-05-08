@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 209 |
+| 🍴 **Forks** | 211 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `claude` `code-intelligence` `dead-code` `developer-tools` `documentation` `git-analytics` `mcp` `open-source` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the repowise open-source project:
-
-Repowise is an open-source project that provides codebase intelligence for AI-assisted engineering teams. It offers features such as auto-generated documentation, git analytics, dead code detection, and architectural decision records via Model Configuration Platform (MCP). These tools help engineering teams optimize their codebase, improve code quality, and streamline collaboration.
+repowise-dev/repowise is a promising open-source project. Categories: AI/ML, DevTools, Data. Interest score: 63/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/repowise-dev/repowise) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/repowise-dev/repowise) · [← Back to AI/ML](./README.md)</sub>

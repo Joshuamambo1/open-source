@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 918 |
-| 🍴 **Forks** | 130 |
+| 🍴 **Forks** | 131 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`google-cloud` `google-cloud-platform` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The google-cloud-rust project is an open-source collection of Rust client libraries for the Google Cloud Platform, allowing developers to interact with various Google Cloud services from their Rust-based applications. This set of libraries enables seamless integration with Google Cloud services, providing a robust and efficient way to build cloud-native applications. By utilizing the google-cloud-rust libraries, developers can simplify their development workflow and take advantage of the scalability and reliability offered by the Google Cloud Platform.
+googleapis/google-cloud-rust is a promising open-source project. Categories: Backend, DevTools. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/googleapis/google-cloud-rust) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/googleapis/google-cloud-rust) · [← Back to Backend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 555 |
+| ⭐ **Stars** | 557 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`data-analytics` `data-engineering` `dbt` `llm` `mcp` `mcp-server` `model-context-protocol`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here is a brief summary of the dbt-labs/dbt-mcp project:
-
-dbt-labs/dbt-mcp is an open-source Model Context Protocol (MCP) server, designed to interact seamlessly with dbt, a popular data transformation and modeling tool. This MCP server facilitates efficient data sharing and collaboration by providing a standardized interface for retrieving and updating dbt models. By leveraging this server, developers can unlock new possibilities for data-driven applications and workflows.
+dbt-labs/dbt-mcp is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/dbt-labs/dbt-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dbt-labs/dbt-mcp) · [← Back to AI/ML](./README.md)</sub>

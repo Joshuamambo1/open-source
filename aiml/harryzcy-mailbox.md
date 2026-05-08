@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `aws` `aws-apigateway` `aws-dynamodb` `aws-lambda` `aws-s3` `aws-ses` `aws-sqs` `go` `mailbox` `mailbox-service` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the 'harryzcy/mailbox' project:
-
-The 'harryzcy/mailbox' project is an open-source, serverless email infrastructure designed for versatility on AWS. This innovative solution leverages cloud computing to provide a scalable and reliable email management system. By utilizing AWS serverless technologies, users can easily deploy and manage their email infrastructure while minimizing operational costs.
+harryzcy/mailbox is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/harryzcy/mailbox) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/harryzcy/mailbox) · [← Back to AI/ML](./README.md)</sub>

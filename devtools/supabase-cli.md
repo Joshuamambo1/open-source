@@ -1,6 +1,6 @@
 # supabase/cli
 
-[![Stars](https://img.shields.io/github/stars/supabase/cli?style=flat-square&color=yellow)](https://github.com/supabase/cli/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/cli?style=flat-square&color=blue)](https://github.com/supabase/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabase/cli?style=flat-square&color=yellow)](https://github.com/supabase/cli/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/cli?style=flat-square&color=blue)](https://github.com/supabase/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
 
@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 452 |
-| 💻 **Language** | Go |
+| 🍴 **Forks** | 454 |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `database` `database-management` `dbms` `environment` `local` `postgres` `postgresql` `supabase`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data
 
 ## 📝 Summary
 
-The Supabase CLI is a powerful open-source tool that streamlines database management and development workflows, enabling users to easily run Supabase locally, deploy edge functions, and manage Postgres migrations and backups. Additionally, it provides a feature to generate types from a database schema, facilitating seamless integration with development projects. This CLI simplifies the process of working with Supabase, making it an essential tool for developers and data professionals.
+supabase/cli is a promising open-source project. Categories: DevTools, Data. Interest score: 72/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/supabase/cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/supabase/cli) · [← Back to DevTools](./README.md)</sub>

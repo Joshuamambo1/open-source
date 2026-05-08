@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 863 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `docker-compose` `gh-pages` `ghpages` `hack-for-la` `jekyll`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The hackforla/website project is an open-source initiative that hosts the official website of Hack for LA, a community-driven platform focused on using technology to address social and community issues in Los Angeles. This project is categorized under DevOps/Infra, indicating its focus on the technical infrastructure that powers the website. By open-sourcing the website, Hack for LA aims to promote transparency, collaboration, and community involvement in its mission.
+hackforla/website is a promising open-source project. Categories: DevOps/Infra. Interest score: 63/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/hackforla/website) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hackforla/website) · [← Back to DevOps & Infra](./README.md)</sub>

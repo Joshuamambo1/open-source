@@ -1,6 +1,6 @@
 # lightseekorg/smg
 
-[![Stars](https://img.shields.io/github/stars/lightseekorg/smg?style=flat-square&color=yellow)](https://github.com/lightseekorg/smg/stargazers) [![Forks](https://img.shields.io/github/forks/lightseekorg/smg?style=flat-square&color=blue)](https://github.com/lightseekorg/smg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightseekorg/smg?style=flat-square&color=yellow)](https://github.com/lightseekorg/smg/stargazers) [![Forks](https://img.shields.io/github/forks/lightseekorg/smg?style=flat-square&color=blue)](https://github.com/lightseekorg/smg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across SGLang, vLLM, TRT-LLM, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 209 |
-| 🍴 **Forks** | 64 |
+| ⭐ **Stars** | 227 |
+| 🍴 **Forks** | 67 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `anthropic-api` `chat` `claude` `gemini` `inference-gateway` `lightseek` `llm` `mcp` `openai` `responses-api` `routing`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the lightseekorg/smg project:
-
-The lightseekorg/smg project is an open-source, engine-agnostic Large Language Model (LLM) gateway built in Rust, offering seamless compatibility with various LLM APIs, including OpenAI and Anthropic. This gateway features a robust set of features, including gRPC pipeline management, KV cache-aware routing, and multi-tenant authentication, making it a powerful tool for managing LLM interactions. By providing a unified interface to multiple LLM engines, lightseekorg/smg simplifies the development and deployment of AI-powered applications.
+lightseekorg/smg is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/lightseekorg/smg) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lightseekorg/smg) · [← Back to Orchestration](./README.md)</sub>

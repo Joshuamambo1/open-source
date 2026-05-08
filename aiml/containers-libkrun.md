@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 177 |
+| 🍴 **Forks** | 181 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The containers/libkrun project is an open-source, dynamic library that enables Virtualization-based process isolation capabilities. This enables developers to create isolated environments for processes, enhancing security and stability in AI/ML applications. By utilizing virtualization, libkrun provides a robust and efficient solution for process isolation.
+containers/libkrun is a promising open-source project. Categories: AI/ML. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/containers/libkrun) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/containers/libkrun) · [← Back to AI/ML](./README.md)</sub>

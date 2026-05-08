@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 45.9k |
+| ⭐ **Stars** | 46k |
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bevy` `game-development` `game-engine` `gamedev` `open-source` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Data
 
 ## 📝 Summary
 
-bevyengine/bevy is a promising open-source project. Categories: Frontend, Data. Interest score: 97/100.
+Bevy is an open-source, data-driven game engine built with Rust, offering a refreshingly simple approach to game development. Its modular design and data-oriented architecture make it an attractive choice for building 2D and 3D games, prototypes, and interactive experiences. With Bevy, developers can create complex game logic and visuals with ease, leveraging the power of Rust's performance and safety features.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/bevyengine/bevy) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bevyengine/bevy) · [← Back to Frontend](./README.md)</sub>

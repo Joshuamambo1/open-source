@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.2k |
+| ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 799 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The openxla/xla project is an open-source machine learning compiler that enables deployment of AI and ML models across various hardware platforms, including GPUs, CPUs, and specialized ML accelerators. By compiling models into optimized code, it facilitates efficient execution of machine learning workloads on a range of devices. This facilitates faster development and deployment of AI applications.
+openxla/xla is a promising open-source project. Categories: AI/ML. Interest score: 82/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/openxla/xla) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openxla/xla) · [← Back to AI/ML](./README.md)</sub>

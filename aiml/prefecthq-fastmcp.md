@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `fastmcp` `llms` `mcp` `mcp-clients` `mcp-servers` `mcp-tools` `model-context-protocol` `python`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ PrefectHQ/fastmcp is a promising open-source project. Categories: AI/ML, Fronten
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/PrefectHQ/fastmcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/PrefectHQ/fastmcp) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 88 |
+| 🍴 **Forks** | 89 |
 | 💻 **Language** | C |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audio-player` `command-line` `kew` `linux` `macos` `music` `music-player` `player` `terminal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The ravachol/kew project is an open-source initiative that combines music with shell functionality, creating a unique interaction experience. This innovative project aims to redefine the interface between users and their command-line environments, incorporating musical elements to make shell interactions more engaging and enjoyable. By merging music and shell capabilities, kew offers a creative and immersive way to interact with digital systems.
+ravachol/kew is a promising open-source project. Categories: Misc. Interest score: 70/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ravachol/kew) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ravachol/kew) · [← Back to Misc](./README.md)</sub>

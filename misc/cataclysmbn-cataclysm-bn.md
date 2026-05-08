@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 397 |
+| 🍴 **Forks** | 398 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `cataclysm` `game` `roguelike` `sci-fi` `survival` `zombies`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ cataclysmbn/Cataclysm-BN is a promising open-source project. Categories: Misc. I
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/cataclysmbn/Cataclysm-BN) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cataclysmbn/Cataclysm-BN) · [← Back to Misc](./README.md)</sub>

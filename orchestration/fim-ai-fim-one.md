@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 758 |
-| 🍴 **Forks** | 85 |
+| ⭐ **Stars** | 785 |
+| 🍴 **Forks** | 87 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-agents` `connector` `dag` `fastapi` `function-calling` `llm` `mcp` `nextjs` `openai-compatible` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the fim-ai/fim-one project:
-
-Fim-One is an open-source project that enables the creation of powerful, LLM (Large Language Model)-powered agents for various applications. Its key features include dynamic Directed Acyclic Graph (DAG) planning and concurrent execution, allowing for efficient and scalable execution of complex workflows. This innovative runtime environment is ideal for AI/ML and frontend applications that require intelligent orchestration.
+fim-ai/fim-one is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/fim-ai/fim-one) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/fim-ai/fim-one) · [← Back to Orchestration](./README.md)</sub>

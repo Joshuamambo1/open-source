@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`axios` `claude` `codegen` `faker` `kubb` `mcp` `msw` `openapi` `plugin-manager` `react` `react-query` `solid`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · Mobile
 
 ## 📝 Summary
 
-The kubb project is an open-source toolkit that enables developers to generate type-safe API clients, hooks, and validators, streamlining the process of building robust and maintainable applications. This comprehensive toolset supports both frontend and backend development, equipping users with the necessary tools to ensure data integrity and consistency. By leveraging kubb, developers can focus on writing high-quality code while minimizing errors and improving overall productivity.
+kubb-labs/kubb is a promising open-source project. Categories: Frontend, Backend, Mobile. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kubb-labs/kubb) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kubb-labs/kubb) · [← Back to Frontend](./README.md)</sub>

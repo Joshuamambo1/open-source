@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automation` `data-orchestration` `devops` `hacktoberfest` `high-availability` `infrastructure-as-code` `java` `low-code` `lowcode` `orchestration` `pipeline` `pipeline-as-code`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-kestra-io/kestra is a promising open-source project. Categories: AI/ML, Data, DevOps/Infra. Interest score: 100/100.
+kestra-io/kestra is a promising open-source project. Categories: Orchestration, AI/ML, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/kestra-io/kestra) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kestra-io/kestra) · [← Back to Orchestration](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`github-actions`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the taiki-e/install-action project:
-
-The taiki-e/install-action is an open-source GitHub Action designed for installing development tools, primarily sourced from GitHub Releases. This action facilitates streamlined setup and deployment of AI/ML environments by automating the installation of necessary tools, saving developers time and effort. By leveraging GitHub Actions, users can easily integrate this tool into their workflow for efficient tooling setup.
+taiki-e/install-action is a promising open-source project. Categories: AI/ML. Interest score: 46/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/taiki-e/install-action) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/taiki-e/install-action) · [← Back to AI/ML](./README.md)</sub>

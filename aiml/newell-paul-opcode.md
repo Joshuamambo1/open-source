@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project demonstrates a remarkable achievement in AI development by implementing a functional AI using 6502 Assembly language. The project showcases the feasibility of creating intelligent systems using low-level programming, pushing the boundaries of what is thought possible with such a primitive instruction set. By making the code open-source, the project aims to inspire innovation and exploration in the field of artificial intelligence.
+I Programmed an AI in 6502 Assembly - It Worked is a promising open-source project. Categories: AI/ML. Interest score: 40/100.
 
 ---
 

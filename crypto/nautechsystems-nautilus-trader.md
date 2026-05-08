@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 22.5k |
+| ⭐ **Stars** | 22.6k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`algorithmic-trading-engine` `artificial-intelligence` `crypto-trading` `equity-trading` `forex` `futures-trading` `machine-learning` `options-trading` `python` `rust` `sports-betting` `trading`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Trading · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the nautechsystems/nautilus_trader project:
-
-Nautilus Trader is an open-source trading engine built from scratch in Rust, offering a production-grade, deterministic, and event-driven architecture for trading applications. This framework provides a robust foundation for developing high-performance trading systems, particularly in the crypto and trading spaces. Its native Rust implementation ensures efficient and reliable execution of complex trading logic.
+nautechsystems/nautilus_trader is a promising open-source project. Categories: Crypto, Trading, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nautechsystems/nautilus_trader) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nautechsystems/nautilus_trader) · [← Back to Crypto](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23.6k |
+| ⭐ **Stars** | 23.7k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | C |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`binary-analysis` `c` `commandline` `disassembler` `forensics` `hacktoberfest` `malware-analysis` `radare2` `reverse-engineering` `security`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-Radare2 is an open-source, UNIX-like framework and command-line toolset for reverse engineering, designed to analyze and understand binary executables, shellcode, and malware. Its modular architecture and extensive plugin support allow users to extend its capabilities and create custom tools for various reverse engineering tasks. With its powerful command-line interface, radare2 has become a popular choice among security professionals and researchers.
+radareorg/radare2 is a promising open-source project. Categories: Security. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/radareorg/radare2) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/radareorg/radare2) · [← Back to Security](./README.md)</sub>

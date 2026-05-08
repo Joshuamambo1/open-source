@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `coze` `deepseek` `dify` `dingtalk` `discord` `feishu` `kook` `langbot` `lark` `line` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the LangBot project in 2-3 sentences:
-
-LangBot is an open-source, production-grade platform for building intelligent machine bots that can be integrated with various messaging platforms. It provides a range of features, including agent development, knowledge graph arrangement, and a plugin system, allowing users to create bots for popular platforms like Discord, Slack, and WeChat. With support for various AI and ML models, including ChatGPT, LangBot enables developers to build sophisticated and integrated conversational interfaces.
+langbot-app/LangBot is a promising open-source project. Categories: AI/ML, Frontend, Design. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/langbot-app/LangBot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/langbot-app/LangBot) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 524 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockly` `code` `coding` `computer` `educational` `learning` `online` `science` `studio`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ code-dot-org/code-dot-org is a promising open-source project. Categories: Misc. 
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/code-dot-org/code-dot-org) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/code-dot-org/code-dot-org) · [← Back to Misc](./README.md)</sub>

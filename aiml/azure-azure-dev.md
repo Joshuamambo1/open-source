@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 526 |
-| 🍴 **Forks** | 295 |
+| ⭐ **Stars** | 527 |
+| 🍴 **Forks** | 297 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `azure` `cli` `deployments` `microsoft`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The Azure Dev CLI is an open-source tool designed to simplify the development process for AI applications on Azure. With a focus on key workflow stages - code, build, deploy, and monitor - this CLI offers a streamlined experience for building, deploying, and managing AI applications on Azure. It serves as a powerful DevTools for developers working with AI/ML and frontend technologies.
+Azure/azure-dev is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Azure/azure-dev) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Azure/azure-dev) · [← Back to AI/ML](./README.md)</sub>

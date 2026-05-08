@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 747 |
+| 🍴 **Forks** | 752 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-red-team` `generative-ai` `red-team-tools` `responsible-ai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-The PyRIT framework is an open-source tool designed to help security professionals and engineers identify potential risks in generative AI systems. By leveraging a proactive approach, PyRIT empowers users to mitigate vulnerabilities and ensure the secure development of AI models. This collaborative project enables the community to stay ahead of emerging AI security threats.
+microsoft/PyRIT is a promising open-source project. Categories: AI/ML, Frontend, Security. Interest score: 83/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/microsoft/PyRIT) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/PyRIT) · [← Back to AI/ML](./README.md)</sub>

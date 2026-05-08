@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 707 |
+| ⭐ **Stars** | 717 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bedavasteam` `dokuman-tv` `dokumantv` `free` `freegame` `freesteamgame` `game` `games` `oyun` `python` `python3` `redx`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The RedXFreeSteamInstaller is an open-source project that enables users to automatically add free and paid games, as well as their DLCs, to their Steam account in a secure and free manner. This tool streamlines the process of discovering and accessing available titles on Steam, making it easier for users to expand their gaming library. By leveraging this project, gamers can discover new content without manual searching or paid subscription requirements.
+The RedXFreeSteamInstaller is an open-source project that enables users to automatically add both free and paid games, as well as DLCs, to their Steam account securely and at no cost. This innovative tool streamlines the process of building a comprehensive Steam library, saving users time and effort. By utilizing the project, users can effortlessly expand their gaming collection without any financial burdens.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Scriptez1/RedXFreeSteamInstaller) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Scriptez1/RedXFreeSteamInstaller) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.6k |
-| 🍴 **Forks** | 730 |
+| ⭐ **Stars** | 12.7k |
+| 🍴 **Forks** | 732 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`caldav` `carddav` `imap` `jmap` `mail` `pop3` `rust` `server` `smtp` `webdav`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the stalwart project:
-
-Stalwart is an open-source, all-in-one mail and collaboration server designed for secure and scalable communication. It supports a wide range of protocols, including IMAP, JMAP, SMTP, CalDAV, CardDAV, and WebDAV, making it a versatile solution for various organizational needs. By leveraging stalwart, users can enjoy seamless integration and collaboration across different applications and services.
+stalwartlabs/stalwart is a promising open-source project. Categories: AI/ML, Backend. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/stalwartlabs/stalwart) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/stalwartlabs/stalwart) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 515 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`computer-vision` `gpt` `huggingface-transformers` `llm` `machinelearning` `nlp-machine-learning` `rag` `vllm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The Sparrow project is an open-source initiative that leverages Machine Learning (ML), Large Language Models (LLM), and Vision Large Language Models to extract structured data and call instructions. By integrating these cutting-edge AI technologies, Sparrow enables efficient data extraction and streamlined instruction processing. This innovative framework holds vast potential for applications across various industries.
+katanaml/sparrow is a promising open-source project. Categories: AI/ML, Data. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/katanaml/sparrow) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/katanaml/sparrow) · [← Back to AI/ML](./README.md)</sub>

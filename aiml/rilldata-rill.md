@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-chatbot` `bi` `business-analytics` `csv` `data` `data-analysis` `data-visualization` `dataviz` `duckdb` `gen-ai` `golang`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-rill is an open-source, lightning-fast business intelligence tool designed for both humans and artificial intelligence agents. It enables seamless data analysis and visualization, allowing users to extract valuable insights and make informed decisions. By leveraging AI/ML capabilities, rill streamlines data exploration and reporting for a more efficient and effective business intelligence experience.
+rilldata/rill is a promising open-source project. Categories: AI/ML, DevTools, Data. Interest score: 71/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rilldata/rill) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rilldata/rill) · [← Back to AI/ML](./README.md)</sub>

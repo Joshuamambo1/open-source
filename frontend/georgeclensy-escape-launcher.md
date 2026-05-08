@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 337 |
-| 🍴 **Forks** | 29 |
+| ⭐ **Stars** | 339 |
+| 🍴 **Forks** | 30 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `android-app` `android-launcher` `detox` `distraction-free` `escape` `focus` `foss` `jetpack` `jetpack-compose` `kotlin` `launcher`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Mobile · Product
 
 ## 📝 Summary
 
-Escape Launcher is an open-source, minimalist Android launcher designed to assist users in managing their phone addiction. This lightweight application limits access to distracting apps and features, promoting a healthier digital habit. By streamlining the user experience, Escape Launcher encourages users to break free from excessive screen time.
+GeorgeClensy/Escape-Launcher is a promising open-source project. Categories: Frontend, Mobile, Product. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/GeorgeClensy/Escape-Launcher) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/GeorgeClensy/Escape-Launcher) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 261 |
+| ⭐ **Stars** | 262 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai-agents` `automation` `cybersecurity` `detection-engineering` `pypi` `security` `security-tools` `siem` `threat-analysis` `threat-detection` `threat-hunting`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-The Agentic Threat Hunting Framework (ATHF) is an open-source project that enables the development of autonomous threat hunting systems, equipping them with the ability to learn, remember, and act with increasing autonomy. By leveraging AI and ML capabilities, ATHF empowers users to create sophisticated systems that can adapt to evolving threats and proactively defend against potential security risks. This framework offers a novel approach to threat hunting, fostering a more proactive and intelligent security posture.
+Nebulock-Inc/agentic-threat-hunting-framework is a promising open-source project. Categories: AI/ML, Frontend, Security. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/Nebulock-Inc/agentic-threat-hunting-framework) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Nebulock-Inc/agentic-threat-hunting-framework) · [← Back to AI/ML](./README.md)</sub>

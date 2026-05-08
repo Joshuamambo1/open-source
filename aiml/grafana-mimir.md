@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.1k |
-| 🍴 **Forks** | 761 |
+| 🍴 **Forks** | 764 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`metrics` `observability` `opentelemetry` `otlp` `prometheus` `tsdb`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Grafana Mimir is an open-source project that offers a scalable, highly available, and multi-tenant storage solution for Prometheus data. Its primary purpose is to provide long-term storage capabilities, making it an ideal choice for organizations that require persistent and reliable data retention. By leveraging Mimir, users can ensure the integrity and availability of their Prometheus data over extended periods.
+grafana/mimir is a promising open-source project. Categories: AI/ML. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/grafana/mimir) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/grafana/mimir) · [← Back to AI/ML](./README.md)</sub>

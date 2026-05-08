@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`test` `testing-tools` `vite`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Vitest is an open-source testing framework built on top of Vite, aiming to provide a next-generation testing experience. It leverages Vite's performance and capabilities to accelerate test runs and improve developer productivity. With Vitest, developers can write and run tests efficiently, streamlining their development workflow.
+vitest-dev/vitest is a promising open-source project. Categories: DevTools. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/vitest-dev/vitest) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vitest-dev/vitest) · [← Back to DevTools](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54.8k |
+| ⭐ **Stars** | 55k |
 | 🍴 **Forks** | 6.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agents` `application` `chatbots` `chatgpt` `genai` `llm` `long-term-memory` `memory` `memory-management` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The mem0ai/mem0 project is an open-source initiative that aims to create a universal memory layer for artificial intelligence (AI) agents. This memory layer is designed to provide a flexible and scalable foundation for AI systems, enabling them to efficiently store, retrieve, and utilize vast amounts of information. By developing a standardized memory layer, mem0ai/mem0 seeks to improve the overall performance and adaptability of AI agents in a wide range of applications.
+mem0ai/mem0 is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mem0ai/mem0) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mem0ai/mem0) · [← Back to Orchestration](./README.md)</sub>

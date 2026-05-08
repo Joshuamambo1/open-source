@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 365 |
 | 💻 **Language** | C3 |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c3` `compiler` `language`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The c3lang/c3c project is an open-source compiler for the C3 language, providing a tool for users to compile C3 code into machine-readable formats. This compiler allows developers to work with the C3 language, a programming language designed for specific use cases, and enables the creation of applications and software that utilize C3's features. By offering a compiler as an open-source project, the c3lang/c3c initiative aims to foster collaboration and development within the C3 community.
+c3lang/c3c is a promising open-source project. Categories: Misc. Interest score: 84/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/c3lang/c3c) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/c3lang/c3c) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16.3k |
+| ⭐ **Stars** | 16.4k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentscope` `agentscope-runtime` `llm-tools` `llms` `skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the QwenPaw project:
-
-QwenPaw is an open-source, personal AI assistant that can be easily installed and deployed on your own machine or the cloud. It supports multiple chat apps and has extensible capabilities, making it a versatile solution for users seeking a customized AI experience. This project combines accessibility with AI/ML capabilities to empower users to manage and interact with their digital lives more efficiently.
+agentscope-ai/QwenPaw is a promising open-source project. Categories: AI/ML. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/agentscope-ai/QwenPaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/agentscope-ai/QwenPaw) · [← Back to AI/ML](./README.md)</sub>

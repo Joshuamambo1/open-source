@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`list` `opensource`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-The definitive-opensource project is a curated list of the most exceptional open-source solutions for consumer-facing applications. This open-source repository aims to serve as a centralized resource for users to discover and explore top-notch projects in various fields, including crypto. By providing a definitive guide to the best open-source offerings, this project seeks to promote transparency, collaboration, and innovation within the developer community.
+mustbeperfect/definitive-opensource is a promising open-source project. Categories: Crypto. Interest score: 67/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mustbeperfect/definitive-opensource) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mustbeperfect/definitive-opensource) · [← Back to Crypto](./README.md)</sub>

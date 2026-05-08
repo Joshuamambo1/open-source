@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 307 |
-| 🍴 **Forks** | 16 |
+| ⭐ **Stars** | 314 |
+| 🍴 **Forks** | 17 |
 | 💻 **Language** | Nim |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `appimage` `arch-linux` `aur` `claude` `claude-desktop` `deb` `electron` `linux` `rpm` `wayland`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Claude Desktop is an AI assistant, now available as unofficial Linux packages through the 'claude-desktop-bin' project. This open-source initiative provides automated updates for the AI assistant, making it easier to install and maintain on Linux systems. Users can benefit from a seamless and up-to-date experience with the AI-powered desktop companion.
+patrickjaja/claude-desktop-bin is a promising open-source project. Categories: AI/ML. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/patrickjaja/claude-desktop-bin) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/patrickjaja/claude-desktop-bin) · [← Back to AI/ML](./README.md)</sub>

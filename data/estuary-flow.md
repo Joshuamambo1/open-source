@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Estuary/Flow is an open-source project that enables continuous data synchronization between disparate systems, allowing users to effortlessly move their data between where it resides and where it's needed. This project helps bridge the gap between different data ecosystems, making it easier to integrate and utilize data across various platforms. By automating the data synchronization process, Estuary/Flow streamlines data management and enhances overall data efficiency.
+estuary/flow is a promising open-source project. Categories: Data. Interest score: 48/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/estuary/flow) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/estuary/flow) · [← Back to Data](./README.md)</sub>

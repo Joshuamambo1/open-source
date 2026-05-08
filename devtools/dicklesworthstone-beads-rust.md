@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 874 |
-| 🍴 **Forks** | 97 |
+| ⭐ **Stars** | 882 |
+| 🍴 **Forks** | 99 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-tools` `git` `issue-tracker` `rust` `sqlite`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Beads is a local-first, non-invasive issue tracker that stores tasks in SQLite databases and allows for JSONL export for seamless git collaboration. This Rust port, beads_rust, offers a fast and efficient solution for managing tasks and collaborating with others in a decentralized manner. It's ideal for developers and teams who value local control and flexibility in their issue tracking systems.
+Dicklesworthstone/beads_rust is a promising open-source project. Categories: DevTools, Marketing. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Dicklesworthstone/beads_rust) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Dicklesworthstone/beads_rust) · [← Back to DevTools](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 513 |
+| 🍴 **Forks** | 514 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bypass-gfw` `china` `clash` `gfw` `gfw-breaker` `hysteria` `hysteria2` `node` `proxy` `shadowrocket` `shadowsocks` `socks`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-NoMoreWalls is an open-source project that automates the collection and merging of publicly available nodes from the internet. It utilizes a frontend approach to accomplish this task, aiming to provide a streamlined and efficient way to gather and combine online data.
+peasoft/NoMoreWalls is a promising open-source project. Categories: Frontend. Interest score: 80/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/peasoft/NoMoreWalls) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/peasoft/NoMoreWalls) · [← Back to Frontend](./README.md)</sub>

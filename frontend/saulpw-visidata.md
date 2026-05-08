@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.1k |
-| 🍴 **Forks** | 345 |
+| 🍴 **Forks** | 344 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `csv` `datajournalism` `datawrangling` `devops-tools` `eda` `hdf5` `json` `opendata` `pandas` `python` `reconciliation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-Visidata is an open-source terminal spreadsheet multitool designed for discovering and arranging data. This powerful tool enables users to interact with various data sources, manipulate datasets, and present insights in a clear and concise manner. With its flexibility and user-friendly interface, Visidata makes data exploration and analysis accessible to users of all skill levels.
+saulpw/visidata is a promising open-source project. Categories: Frontend, DevTools, Data. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/saulpw/visidata) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/saulpw/visidata) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 565 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`csharp` `dotnet` `ios` `macos` `tvos` `watchos` `xamarin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The dotnet/macios project is an open-source initiative that provides .NET bindings for Apple's SDKs, enabling the development of .NET applications for iOS, Mac Catalyst, macOS, and tvOS. This allows developers to use their preferred .NET managed languages, such as C#, to create high-performance, cross-platform applications for Apple devices. The project aims to bridge the gap between the .NET ecosystem and Apple's platforms.
+dotnet/macios is a promising open-source project. Categories: Mobile. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/dotnet/macios) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dotnet/macios) · [← Back to Mobile](./README.md)</sub>

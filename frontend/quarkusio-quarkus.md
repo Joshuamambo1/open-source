@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 15.6k |
-| 🍴 **Forks** | 3.1k |
+| ⭐ **Stars** | 15.7k |
+| 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-native` `hacktoberfest` `java` `kubernetes` `reactive`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ quarkusio/quarkus is a promising open-source project. Categories: Frontend, DevO
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/quarkusio/quarkus) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/quarkusio/quarkus) · [← Back to Frontend](./README.md)</sub>

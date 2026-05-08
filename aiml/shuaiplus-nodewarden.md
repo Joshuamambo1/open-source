@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 1.7k |
+| ⭐ **Stars** | 1.9k |
+| 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitwarden` `cloudflare` `cloudflare-d1` `cloudflare-r2` `cloudflare-workers` `end-to-end-encryption` `nodewarden` `password` `password-manager` `preact` `self-hosted` `serverless`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the shuaiplus/nodewarden project:
-
-Nodewarden is an open-source, third-party Bitwarden server that leverages Cloudflare Workers for a scalable and secure password management solution. This project enables users to host their own Bitwarden instance on Cloudflare's edge network, providing enhanced security and performance. By utilizing Cloudflare Workers, Nodewarden offers a flexible and cost-effective alternative to traditional self-hosted Bitwarden servers.
+shuaiplus/nodewarden is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 78/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/shuaiplus/nodewarden) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/shuaiplus/nodewarden) · [← Back to AI/ML](./README.md)</sub>

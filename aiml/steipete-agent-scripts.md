@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 247 |
+| 🍴 **Forks** | 248 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The steipete/agent-scripts project is an open-source repository containing a collection of scripts designed for use by agents in various AI and machine learning applications. This shared resource allows developers to leverage a unified set of tools and utilities across multiple projects, promoting consistency and efficiency. By providing these agent scripts, the project facilitates the development and deployment of intelligent systems.
+steipete/agent-scripts is a promising open-source project. Categories: AI/ML. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/steipete/agent-scripts) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/steipete/agent-scripts) · [← Back to AI/ML](./README.md)</sub>

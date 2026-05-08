@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `app` `cpp` `cyclists` `hacktoberfest` `hikers` `ios` `java` `maps` `mobile` `mobile-app` `navigation`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools · Data · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary of the Organic Maps project:
-
-Organic Maps is a free, open-source navigation app available for Android and iOS devices, providing users with offline access to maps for over 6 million travelers and outdoor enthusiasts. Powered by crowd-sourced OpenStreetMap data, the app prioritizes user privacy with no ads, tracking, or data collection. Developed by a community-driven initiative, Organic Maps relies on donations to support its continued development and maintenance.
+organicmaps/organicmaps is a promising open-source project. Categories: DevTools, Data, Mobile. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/organicmaps/organicmaps) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/organicmaps/organicmaps) · [← Back to DevTools](./README.md)</sub>

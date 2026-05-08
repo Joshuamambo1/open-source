@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 538 |
-| 🍴 **Forks** | 111 |
+| ⭐ **Stars** | 539 |
+| 🍴 **Forks** | 112 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deep` `graph` `learning` `materials-informatics` `materials-science`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Matgl is an open-source graph deep learning library specifically designed for materials science, enabling researchers to leverage AI and ML techniques in their work. This library provides a powerful framework for modeling and analyzing complex material properties, facilitating the discovery of novel materials and their applications. By harnessing the power of graph deep learning, Matgl empowers scientists to gain a deeper understanding of material behavior and structure.
+materialyzeai/matgl is a promising open-source project. Categories: AI/ML. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/materialyzeai/matgl) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/materialyzeai/matgl) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`active-record` `cockroachdb` `data-mapper` `database` `hacktoberfest` `javascript` `mariadb` `mysql` `orm` `postgresql` `sqlite` `sqlserver`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ typeorm/typeorm is a promising open-source project. Categories: Backend, Data. I
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/typeorm/typeorm) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/typeorm/typeorm) · [← Back to Backend](./README.md)</sub>

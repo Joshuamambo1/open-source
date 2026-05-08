@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.5k |
-| 🍴 **Forks** | 182 |
+| 🍴 **Forks** | 183 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`actor` `actors` `cloudflare` `cloudflare-durable-objects` `durable-objects` `foundationdb` `multiplayer` `realtime` `rust` `serverless`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Rivet is an open-source project that provides a foundation for stateful workloads through its "Rivet Actors" primitive. Designed for use in AI agents, collaborative applications, and durable execution, Rivet offers a versatile tool for building robust and scalable systems. With its focus on AI/ML, frontend, and backend development, Rivet aims to simplify the creation of complex, stateful applications.
+Rivet is an open-source project that provides a foundation for stateful workloads through its primitive, Rivet Actors. Designed with scalability and reliability in mind, Rivet Actors can be applied to various use cases such as AI agents, collaborative applications, and durable execution. This framework enables developers to build robust and efficient stateful systems for a range of applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rivet-dev/rivet) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rivet-dev/rivet) · [← Back to AI/ML](./README.md)</sub>

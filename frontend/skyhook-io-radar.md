@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 82 |
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 91 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`argocd` `cloud-native` `gitops` `helm` `k8s` `kubectl-plugin` `kubernetes` `kubernetes-dashboard` `kubernetes-monitoring` `kubernetes-tools` `kubernetes-ui` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The skyhook-io/radar project provides a comprehensive Kubernetes visibility solution, offering real-time insights into cluster topology, event timelines, and service traffic. It also includes features for resource browsing and Helm management, making it a valuable tool for DevOps teams and infrastructure administrators. With radar, users can gain a deeper understanding of their Kubernetes environment and streamline their operations.
+skyhook-io/radar is a promising open-source project. Categories: Frontend, Backend, DevOps/Infra. Interest score: 63/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/skyhook-io/radar) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/skyhook-io/radar) · [← Back to Frontend](./README.md)</sub>

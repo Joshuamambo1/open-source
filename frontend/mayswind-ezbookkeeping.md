@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 514 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`accounting` `app` `bookkeeping` `docker` `expense-manager` `expense-tracker` `expenses` `finance` `finance-management` `finances` `financial` `golang`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the ezbookkeeping project:
-
-Ezbookkeeping is a user-friendly, self-hosted personal finance app designed to simplify bookkeeping and financial management. As an open-source project, it offers a lightweight and flexible solution for individuals to manage their expenses, income, and accounts with ease. With a focus on user experience and powerful bookkeeping features, ezbookkeeping empowers users to take control of their finances with a customizable and secure platform.
+mayswind/ezbookkeeping is a promising open-source project. Categories: Frontend, DevOps/Infra. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mayswind/ezbookkeeping) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mayswind/ezbookkeeping) · [← Back to Frontend](./README.md)</sub>

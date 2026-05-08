@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 55.9k |
-| 🍴 **Forks** | 4.5k |
+| ⭐ **Stars** | 56.3k |
+| 🍴 **Forks** | 4.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `amp` `anthropic` `chatgpt` `claude` `claude-code` `claude-skills` `cursor` `gemini` `ide` `openai`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-omo (formerly oh-my-opencode) is an open-source project that provides a powerful agent harness for streamlined orchestration and integration with AI/ML and frontend applications. This versatile tool enables developers to build, deploy, and manage complex systems with ease, optimizing efficiency and productivity. By harnessing the potential of omo, users can unlock seamless workflows and accelerated innovation.
+code-yeongyu/oh-my-openagent is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/code-yeongyu/oh-my-openagent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/code-yeongyu/oh-my-openagent) · [← Back to Orchestration](./README.md)</sub>

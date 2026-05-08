@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`data-science` `data-visualization` `gtk` `matplotlib` `plotting` `python` `qt` `tk` `wx`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Matplotlib is an open-source plotting library for Python that enables users to create high-quality 2D and 3D visualizations of data. With its extensive range of customization options and intuitive interface, matplotlib facilitates the creation of informative and visually appealing plots for various applications, from scientific research to data analysis and presentation. Its versatility and accessibility make it a cornerstone for data visualization in the Python ecosystem.
+matplotlib/matplotlib is a promising open-source project. Categories: Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/matplotlib/matplotlib) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/matplotlib/matplotlib) · [← Back to Data](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 835 |
-| 🍴 **Forks** | 144 |
+| ⭐ **Stars** | 861 |
+| 🍴 **Forks** | 149 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-gateway` `evals` `llm` `observability` `simulation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The Future AGI project is an open-source, end-to-end platform for evaluating, observing, and improving large language model (LLM) and AI agent applications. This self-hostable platform offers a range of tools, including tracing, evaluations, simulations, dataset management, and gateway functionality, as well as guardrails for safety and control. By utilizing the Apache 2.0 license, Future AGI promotes collaboration and innovation in the AI and machine learning communities.
+future-agi/future-agi is a promising open-source project. Categories: AI/ML, Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/future-agi/future-agi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/future-agi/future-agi) · [← Back to AI/ML](./README.md)</sub>

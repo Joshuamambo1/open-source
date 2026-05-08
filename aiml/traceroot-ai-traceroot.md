@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 543 |
+| ⭐ **Stars** | 545 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-observability` `agentic` `ai-observability` `analytics` `debugging-tool` `developer-tools` `llm-observability` `observability` `open-source`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a summary for the TraceRoot open-source project:
-
-TraceRoot is an open-source observability and self-healing layer for AI agents, designed to provide real-time visibility and automatic recovery capabilities for AI-driven systems. This project aims to improve the reliability and efficiency of AI agents by offering a comprehensive monitoring and repair solution. By leveraging TraceRoot, developers can build more robust and resilient AI systems that can adapt to changing conditions and minimize downtime.
+traceroot-ai/traceroot is a promising open-source project. Categories: AI/ML, DevTools, Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/traceroot-ai/traceroot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/traceroot-ai/traceroot) · [← Back to AI/ML](./README.md)</sub>

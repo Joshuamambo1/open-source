@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`click-to-call` `decentralized` `docker` `docker-image` `e2ee` `javascript` `live-streaming` `livechat` `nodejs` `open-source` `peer-to-peer` `real-time-communication`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-This open-source project, call-me, is a WebRTC-based click-to-call platform that enables instant real-time communication in a shared room with unlimited participants. Without the need for user signup or setup, users can join and call each other instantly, making it ideal for seamless collaboration and communication. The platform provides a persistent shared space for users to connect and communicate in real-time.
+miroslavpejic85/call-me is a promising open-source project. Categories: Frontend, DevTools, DevOps/Infra. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/miroslavpejic85/call-me) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/miroslavpejic85/call-me) · [← Back to Frontend](./README.md)</sub>

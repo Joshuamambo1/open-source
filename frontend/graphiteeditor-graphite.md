@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`2d-graphics` `animation` `art` `creative-coding` `design` `graphic-design` `graphics` `graphics-editor` `image-manipulation` `image-processing` `motion-design` `motion-graphics`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ GraphiteEditor/Graphite is a promising open-source project. Categories: Frontend
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/GraphiteEditor/Graphite) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/GraphiteEditor/Graphite) · [← Back to Frontend](./README.md)</sub>

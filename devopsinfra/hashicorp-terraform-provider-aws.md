@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws` `terraform` `terraform-provider`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Terraform AWS Provider allows users to provision and manage Amazon Web Services (AWS) infrastructure through code. It enables declarative infrastructure management for a vast array of AWS services, making it a cornerstone for DevOps and cloud automation.
+hashicorp/terraform-provider-aws is a promising open-source project. Categories: DevOps/Infra. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/hashicorp/terraform-provider-aws) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hashicorp/terraform-provider-aws) · [← Back to DevOps & Infra](./README.md)</sub>

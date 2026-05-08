@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 924 |
-| 🍴 **Forks** | 111 |
+| ⭐ **Stars** | 930 |
+| 🍴 **Forks** | 112 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `decentralized` `distributed` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Mesh-LLM is an open-source, distributed artificial intelligence (AI) project that enables users to share compute resources privately or publicly to power their agents and chat applications. This innovative platform provides a scalable solution for large language models (LLM), allowing users to tap into a collective computing power. Mesh-LLM aims to democratize access to AI capabilities, empowering developers and individuals to build more sophisticated and efficient AI-driven projects.
+Mesh-LLM/mesh-llm is a promising open-source project. Categories: AI/ML. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Mesh-LLM/mesh-llm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Mesh-LLM/mesh-llm) · [← Back to AI/ML](./README.md)</sub>

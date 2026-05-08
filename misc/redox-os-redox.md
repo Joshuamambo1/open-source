@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 16.3k |
-| 🍴 **Forks** | 997 |
+| 🍴 **Forks** | 998 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bsd` `freebsd` `gnu` `gnu-hurd` `linux` `microkernel` `minix` `open-source` `openbsd` `operating-system` `plan9` `posix`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Redox is an open-source, Unix-like operating system written in Rust programming language. It is designed to be portable, secure, and scalable, aiming to provide a modern and efficient alternative to traditional operating systems. Redox is a community-driven project, with its source code available in this repository for public access and contribution.
+redox-os/redox is a promising open-source project. Categories: Misc. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/redox-os/redox) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/redox-os/redox) · [← Back to Misc](./README.md)</sub>

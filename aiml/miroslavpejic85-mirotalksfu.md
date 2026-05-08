@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 457 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `collaboration` `docker` `file-sharing` `live-streaming` `mediasoup` `mirotalk` `nodejs` `open-source` `real-time-communication` `rest-api` `rtmp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-MirotalkSFU is a self-hosted, open-source WebRTC video conferencing platform designed for real-time communication and collaboration. Built on a Scalable Forwarding Unit (SFU) architecture, it offers a modern alternative to commercial platforms like Zoom. This project enables users to host and manage their own video conferencing solutions, promoting flexibility and control over their communication infrastructure.
+miroslavpejic85/mirotalksfu is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 78/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/miroslavpejic85/mirotalksfu) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/miroslavpejic85/mirotalksfu) · [← Back to AI/ML](./README.md)</sub>

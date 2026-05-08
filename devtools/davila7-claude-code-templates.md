@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26.7k |
+| ⭐ **Stars** | 26.9k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `anthropic-claude` `claude` `claude-code`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Claude Code Templates is an open-source CLI tool designed to facilitate the configuration and monitoring of Claude Code. This tool streamlines the process of managing and optimizing Claude Code, enabling developers to efficiently manage their projects. By leveraging this CLI tool, users can simplify their workflow and improve the overall efficiency of their Claude Code development experience.
+davila7/claude-code-templates is a promising open-source project. Categories: DevTools. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/davila7/claude-code-templates) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/davila7/claude-code-templates) · [← Back to DevTools](./README.md)</sub>

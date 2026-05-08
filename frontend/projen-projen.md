@@ -25,7 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Projen is an open-source project that enables rapid development of modern applications by providing advanced configuration management capabilities. This tool empowers developers to build and manage complex applications with ease, streamlining the development process. With projen, users can automate repetitive tasks and focus on writing code, accelerating their overall development workflow.
+projen/projen is a promising open-source project. Categories: Frontend, Backend. Interest score: 77/100.
 
 ---
 

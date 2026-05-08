@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23.2k |
+| ⭐ **Stars** | 23.3k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `claude-code` `coding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Marketing
 
 ## 📝 Summary
 
-Beads is an open-source project that aims to enhance the performance and efficiency of coding agents by providing a memory upgrade solution. This project leverages cutting-edge AI and ML technologies to optimize memory management, enabling developers to improve the speed and reliability of their coding operations. By utilizing Beads, developers can unlock better performance and productivity in their coding workflows.
+gastownhall/beads is a promising open-source project. Categories: AI/ML, Marketing. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/gastownhall/beads) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gastownhall/beads) · [← Back to AI/ML](./README.md)</sub>

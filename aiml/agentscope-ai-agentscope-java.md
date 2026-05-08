@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 597 |
+| ⭐ **Stars** | 2.9k |
+| 🍴 **Forks** | 604 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic` `agentic-ai` `ai` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-AgentScope Java is an open-source framework for building Large Language Model (LLM) applications using Agent-Oriented Programming (AOP) principles. This framework enables developers to design and deploy AI-powered applications with modular, scalable, and maintainable architectures. By leveraging AOP, AgentScope Java simplifies the development of complex AI applications and accelerates innovation in the field of natural language processing.
+agentscope-ai/agentscope-java is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 75/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/agentscope-ai/agentscope-java) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/agentscope-ai/agentscope-java) · [← Back to AI/ML](./README.md)</sub>

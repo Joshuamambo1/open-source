@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 287 |
+| 🍴 **Forks** | 288 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `amd` `genai` `gpu` `llama` `llm` `llm-inference` `local-server` `mcp` `mcp-server` `mistral` `npu`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Lemonade project:
-
-Lemonade is an open-source project that enables users to discover, run, and optimize local AI applications on their own GPUs and NPUs, leveraging the power of Large Language Models (LLMs). By serving optimized LLMs directly from users' hardware, Lemonade streamlines AI processing and reduces reliance on cloud services. This innovative solution empowers users to harness the full potential of their local computing resources for AI applications.
+lemonade-sdk/lemonade is a promising open-source project. Categories: AI/ML, Backend. Interest score: 81/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/lemonade-sdk/lemonade) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lemonade-sdk/lemonade) · [← Back to AI/ML](./README.md)</sub>

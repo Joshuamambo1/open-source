@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `coral` `rust` `smart-contracts` `solana`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The Anchor framework is an open-source development tool created by the Solana Foundation, designed to simplify the process of building and deploying robust, scalable, and secure Solana programs. This framework provides a comprehensive set of tools and features to streamline the development lifecycle, making it easier for developers to create and deploy high-quality Solana programs. By leveraging Anchor, developers can focus on building innovative applications on the Solana blockchain.
+solana-foundation/anchor is a promising open-source project. Categories: Crypto, AI/ML. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/solana-foundation/anchor) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/solana-foundation/anchor) · [← Back to Crypto](./README.md)</sub>

@@ -1,6 +1,6 @@
 # 1jehuang/jcode
 
-[![Stars](https://img.shields.io/github/stars/1jehuang/jcode?style=flat-square&color=yellow)](https://github.com/1jehuang/jcode/stargazers) [![Forks](https://img.shields.io/github/forks/1jehuang/jcode?style=flat-square&color=blue)](https://github.com/1jehuang/jcode/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1jehuang/jcode?style=flat-square&color=yellow)](https://github.com/1jehuang/jcode/stargazers) [![Forks](https://img.shields.io/github/forks/1jehuang/jcode?style=flat-square&color=blue)](https://github.com/1jehuang/jcode/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > Coding Agent Harness
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.1k |
-| 🍴 **Forks** | 386 |
+| ⭐ **Stars** | 4.7k |
+| 🍴 **Forks** | 458 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 90/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `claude` `cli` `coding-agent` `llm` `mcp` `openai` `rust` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the 1jehuang/jcode project:
-
-The Coding Agent Harness, also known as jcode, is an open-source project that provides a robust platform for coding agents, enabling seamless integration with various AI and ML frameworks. This project is designed to facilitate the development and deployment of coding agents, offering a range of tools and features for developers. By harnessing the power of jcode, developers can create more efficient and effective coding solutions.
+1jehuang/jcode is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/1jehuang/jcode) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/1jehuang/jcode) · [← Back to AI/ML](./README.md)</sub>

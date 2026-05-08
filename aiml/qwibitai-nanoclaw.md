@@ -25,7 +25,7 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Nanoclaw is an open-source, lightweight messaging and automation platform that provides an alternative to OpenClaw with enhanced security features, running in containers to protect against potential threats. This versatile tool allows seamless integrations with various messaging apps, including WhatsApp, Telegram, Slack, Discord, and Gmail, while also offering features like memory management and scheduled jobs. It leverages Anthropic's Agents SDK, empowering users with robust AI capabilities.
+qwibitai/nanoclaw is a promising open-source project. Categories: AI/ML, Security. Interest score: 96/100.
 
 ---
 

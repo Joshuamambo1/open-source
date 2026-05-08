@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 848 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Avalanchego is an open-source project that provides a Go implementation of an Avalanche node, allowing developers to build and integrate decentralized applications on the Avalanche blockchain. This project enables the creation of a secure, scalable, and high-performance node for the Avalanche network. By leveraging the Go language, Avalanchego offers a flexible and maintainable solution for building blockchain applications.
+ava-labs/avalanchego is a promising open-source project. Categories: Misc. Interest score: 69/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/ava-labs/avalanchego) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ava-labs/avalanchego) · [← Back to Misc](./README.md)</sub>

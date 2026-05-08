@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 106.2k |
+| ⭐ **Stars** | 106.3k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`desktop-app` `high-performance` `mobile-app` `native-app` `rust` `web-frontend` `webview`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Tauri is an open-source project that enables developers to create cross-platform desktop and mobile applications with a web frontend, resulting in smaller, faster, and more secure applications. Using a web frontend allows developers to leverage their existing web development skills and frameworks while still providing native-like experiences on various platforms. With Tauri, developers can build applications that are more accessible and maintainable.
+tauri-apps/tauri is a promising open-source project. Categories: Frontend. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/tauri-apps/tauri) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tauri-apps/tauri) · [← Back to Frontend](./README.md)</sub>

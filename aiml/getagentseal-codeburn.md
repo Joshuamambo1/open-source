@@ -1,6 +1,6 @@
 # getagentseal/codeburn
 
-[![Stars](https://img.shields.io/github/stars/getagentseal/codeburn?style=flat-square&color=yellow)](https://github.com/getagentseal/codeburn/stargazers) [![Forks](https://img.shields.io/github/forks/getagentseal/codeburn?style=flat-square&color=blue)](https://github.com/getagentseal/codeburn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getagentseal/codeburn?style=flat-square&color=yellow)](https://github.com/getagentseal/codeburn/stargazers) [![Forks](https://img.shields.io/github/forks/getagentseal/codeburn?style=flat-square&color=blue)](https://github.com/getagentseal/codeburn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
 
 > See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.4k |
-| 🍴 **Forks** | 414 |
+| ⭐ **Stars** | 5.7k |
+| 🍴 **Forks** | 444 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 92/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-coding` `claude-code` `cli` `codex` `cost-tracking` `cursor-ide` `developer-tools` `observability` `terminal-ui` `token-usage`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The open-source project "getagentseal/codeburn" is an interactive, text-based dashboard that provides cost observability for AI coding tools. It offers real-time visibility into the Claude Code, Codex, and Cursor tokens used by developers, allowing them to track and optimize their usage. This project is particularly useful for those working with AI-powered coding assistants to manage their expenses and improve efficiency.
+getagentseal/codeburn is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 92/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/getagentseal/codeburn) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/getagentseal/codeburn) · [← Back to AI/ML](./README.md)</sub>

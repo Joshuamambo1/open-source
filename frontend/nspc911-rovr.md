@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 363 |
+| ⭐ **Stars** | 365 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-tools` `file-explorer` `file-manager` `filesystem` `hacktoberfest` `linux` `macos` `python` `terminal` `textual` `tui` `tui-py`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-NSPC911/rovr is an open-source, post-modern terminal file manager that offers a unique and innovative approach to navigating and interacting with files and directories. This project enables users to work with their files in a more intuitive and visually appealing way, leveraging the capabilities of a terminal to provide a powerful and efficient file management experience. With rovr, users can expect a new level of flexibility and productivity in their terminal-based file management workflows.
+NSPC911/rovr is a promising open-source project. Categories: Frontend, DevTools. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/NSPC911/rovr) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/NSPC911/rovr) · [← Back to Frontend](./README.md)</sub>

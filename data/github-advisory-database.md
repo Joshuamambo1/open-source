@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 598 |
+| 🍴 **Forks** | 601 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Data · Security
 
 ## 📝 Summary
 
-github/advisory-database is a promising open-source project. Categories: Data, Security. Interest score: 64/100.
+github/advisory-database is a promising open-source project. Categories: Data, Security. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/github/advisory-database) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/github/advisory-database) · [← Back to Data](./README.md)</sub>

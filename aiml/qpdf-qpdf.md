@@ -25,7 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-The qpdf project is an open-source, content-preserving PDF document transformer that enables users to modify and manipulate PDFs without compromising their original content. This versatile tool supports a wide range of transformations, making it an essential asset for developers working with PDFs in various applications, including AI and ML. By preserving the original content, qpdf ensures that PDFs remain accurate and reliable throughout the transformation process.
+qpdf/qpdf is a promising open-source project. Categories: AI/ML. Interest score: 83/100.
 
 ---
 

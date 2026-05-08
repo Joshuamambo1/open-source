@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 773 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`console` `console-application` `cross-platform` `csharp` `curses` `dotnet` `terminal` `terminal-based` `terminal-ui` `tui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Terminal.Gui project:
-
-Terminal.Gui is an open-source, cross-platform terminal UI toolkit for .NET, enabling developers to create robust and user-friendly terminal interfaces for Windows, macOS, and Linux. This modern GUI library provides a flexible and extensible framework for building custom terminal applications with a native look and feel. By leveraging Terminal.Gui, developers can craft interactive terminal experiences with ease, streamlining the development process and enhancing user engagement.
+gui-cs/Terminal.Gui is a promising open-source project. Categories: Frontend. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/gui-cs/Terminal.Gui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gui-cs/Terminal.Gui) · [← Back to Frontend](./README.md)</sub>

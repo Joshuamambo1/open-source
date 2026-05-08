@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 113 |
+| 🍴 **Forks** | 115 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`self-hosted` `statistics` `strava` `strava-data`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-This open-source project, 'statistics-for-strava', allows users to host a custom dashboard on their own server, providing a centralized platform to visualize and analyze their Strava activity data. The dashboard offers a self-hosted solution, giving users full control over their data and customization options. It is suitable for athletes and enthusiasts looking to track and understand their performance trends.
+robiningelbrecht/statistics-for-strava is a promising open-source project. Categories: Data. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/robiningelbrecht/statistics-for-strava) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/robiningelbrecht/statistics-for-strava) · [← Back to Data](./README.md)</sub>

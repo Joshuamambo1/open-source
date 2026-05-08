@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 234 |
+| 🍴 **Forks** | 235 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apollo` `apollo-federation` `gateway` `graphql` `graphql-federation` `graphql-router`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here is a brief summary for the wundergraph/cosmo project:
-
-Cosmo is an open-source solution for building, maintaining, and collaborating on GraphQL Federation at scale. It provides an alternative to Apollo Studio and GraphOS, offering a community-driven approach to managing complex GraphQL networks. With Cosmo, developers can streamline their GraphQL development processes and scale their applications with ease.
+wundergraph/cosmo is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/wundergraph/cosmo) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wundergraph/cosmo) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `code-security` `linter` `opengrep` `pre-commit` `rust` `sarif` `sast` `security` `semgrep` `static-analysis` `tree-sitter`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · Frontend · DevTools
 
 ## 📝 Summary
 
-Here is a brief summary of the foxguard project:
-
-foxguard is an open-source security scanner written in Rust, designed to provide fast and efficient scans for potential security vulnerabilities. It offers a range of features, including TUI (text-based user interface) triage for secrets and post-quantum audits, as well as diff-scans for in-depth analysis. This tool aims to simplify the security scanning process, making it accessible and user-friendly for developers and security professionals.
+PwnKit-Labs/foxguard is a promising open-source project. Categories: Trading, Frontend, DevTools. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/PwnKit-Labs/foxguard) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/PwnKit-Labs/foxguard) · [← Back to Trading](./README.md)</sub>

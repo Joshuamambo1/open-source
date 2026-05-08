@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 451 |
-| 🍴 **Forks** | 62 |
+| ⭐ **Stars** | 456 |
+| 🍴 **Forks** | 63 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agile-workflows` `ai-agents` `anthropic` `claude-ai` `claude-code` `claude-code-skills` `code-analysis` `code-review` `codebase-audit` `developer-productivity` `developer-tools` `documentation-generator`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Claude Code Skills is an open-source plugin suite that integrates AI-driven development tools into the Claude Code platform. This comprehensive suite covers the entire delivery lifecycle, from agile pipeline management to codebase audits and performance optimization, with features like AI-powered review, documentation generation, and remote SSH capabilities. It includes three key MCP servers: hex-line for secure editing, hex-graph for coding knowledge graphs, and hex-ssh for remote access.
+levnikolaevich/claude-code-skills is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/levnikolaevich/claude-code-skills) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/levnikolaevich/claude-code-skills) · [← Back to AI/ML](./README.md)</sub>

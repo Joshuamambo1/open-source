@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.5k |
+| ⭐ **Stars** | 18.6k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`app` `cap` `coss` `loom` `mac` `nextjs` `nextjs15` `open-source` `oss` `react` `record` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The Cap project is an open-source alternative to Loom, offering users the ability to create beautiful, shareable screen recordings. This frontend-based solution provides a user-friendly interface for capturing and sharing high-quality video content. By leveraging open-source technology, Cap empowers users to record and share their screen experiences with ease.
+CapSoftware/Cap is a promising open-source project. Categories: Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/CapSoftware/Cap) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/CapSoftware/Cap) · [← Back to Frontend](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 610 |
+| 🍴 **Forks** | 611 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`crash-reporting` `hacktoberfest` `python` `sdk` `sentry` `sentry-python` `tag-production` `team-web-backend`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Product
 
 ## 📝 Summary
 
-The getsentry/sentry-python project is an official, open-source Python Software Development Kit (SDK) for Sentry.io, a popular error tracking and monitoring platform. This SDK allows developers to integrate Sentry's robust features into their Python applications, enabling seamless error reporting, performance monitoring, and user feedback collection. By leveraging this SDK, developers can improve their application's reliability, security, and overall user experience.
+getsentry/sentry-python is a promising open-source project. Categories: Backend, Product. Interest score: 74/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/getsentry/sentry-python) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/getsentry/sentry-python) · [← Back to Backend](./README.md)</sub>

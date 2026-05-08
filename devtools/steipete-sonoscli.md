@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 124 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 150 |
+| 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `go` `sonos`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The Sonos CLI project, an open-source tool developed by steipete, allows users to control SONOS speakers directly from their terminal. With this project, users can easily manage their SONOS devices, including playback control, volume adjustments, and other settings. By offering a command-line interface, Sonos CLI provides a streamlined and efficient way to control SONOS speakers.
+steipete/sonoscli is a promising open-source project. Categories: DevTools. Interest score: 45/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/steipete/sonoscli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/steipete/sonoscli) · [← Back to DevTools](./README.md)</sub>

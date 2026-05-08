@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.3k |
+| ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-assistant` `neovim` `neovim-plugin` `nvim` `opencode` `plugin` `terminal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ AI/ML
 
 ## 📝 Summary
 
-The open-source project "nickjvandyke/opencode.nvim" seamlessly integrates Neovim with OpenCode AI, empowering users to maintain their workflow efficiency by leveraging AI capabilities directly within their Neovim environment. This integration allows for streamlined coding experiences with AI-assisted suggestions and completions. By combining Neovim and OpenCode AI, developers can focus on their code with AI-powered support.
+Here's a brief summary for the open-source project:
+
+opencode.nvim is an open-source Neovim plugin that seamlessly integrates Neovim with OpenCode AI, allowing users to leverage AI-powered coding assistance while staying in their preferred text editor. This integration enables efficient and uninterrupted workflow, providing users with real-time coding suggestions and insights. By bridging the gap between human creativity and AI-driven intelligence, opencode.nvim empowers developers to write code faster and with greater accuracy.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/nickjvandyke/opencode.nvim) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nickjvandyke/opencode.nvim) · [← Back to AI/ML](./README.md)</sub>

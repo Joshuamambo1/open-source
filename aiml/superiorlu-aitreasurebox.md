@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agi` `ai` `ai-gents` `ai-prompts` `ai-tools` `alpaca` `awesome-list` `deep-learning` `deepseek` `gpt` `llama` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-AITreasureBox is an open-source collection of AI repositories, tools, websites, papers, and tutorials, providing a convenient and comprehensive resource for AI and machine learning enthusiasts. This project aims to serve as a one-stop-shop for discovering and exploring various AI-related resources. By consolidating these sources into a single, easily accessible platform, AITreasureBox facilitates knowledge sharing and accelerates the development of artificial intelligence.
+superiorlu/AITreasureBox is a promising open-source project. Categories: AI/ML. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/superiorlu/AITreasureBox) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/superiorlu/AITreasureBox) · [← Back to AI/ML](./README.md)</sub>

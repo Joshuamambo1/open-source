@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ech0` `go` `golang` `markdown` `memo` `microblog` `notecard` `self-hosted` `social-network` `sqlite` `sqlite3` `vue`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Ech0 is a free, self-hosted publishing platform designed for personal idea sharing, offering a lightweight and open-source solution for users to share their thoughts and content. Developed by the lin-snow community, Ech0 provides a simple and intuitive interface for users to create, manage, and publish their content without relying on external services. This project is ideal for individuals seeking a private and customizable platform for personal blogging, note-taking, or idea documentation.
+lin-snow/Ech0 is a promising open-source project. Categories: Frontend. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/lin-snow/Ech0) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lin-snow/Ech0) · [← Back to Frontend](./README.md)</sub>

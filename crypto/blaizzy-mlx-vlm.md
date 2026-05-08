@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 512 |
+| 🍴 **Forks** | 517 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apple-silicon` `florence2` `idefics` `llava` `llm` `local-ai` `mlx` `molmo` `paligemma` `pixtral` `vision-framework` `vision-language-model`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · AI/ML · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the Blaizzy/mlx-vlm project:
-
-MLX-VLM is an open-source package that enables the inference and fine-tuning of Vision Language Models (VLMs) on Mac devices using MLX. This project facilitates the development and optimization of VLMs for various applications, leveraging the capabilities of MLX. With MLX-VLM, users can harness the power of VLMs on their Macs for tasks such as image understanding and generation.
+Blaizzy/mlx-vlm is a promising open-source project. Categories: Crypto, AI/ML, Design. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Blaizzy/mlx-vlm) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Blaizzy/mlx-vlm) · [← Back to Crypto](./README.md)</sub>

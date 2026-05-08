@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23.4k |
+| ⭐ **Stars** | 23.6k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-tutor` `clawdbot` `cli-tool` `deepresearch` `interactive-learning` `large-language-models` `multi-agent-systems` `rag`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the HKUDS/DeepTutor open-source project:
-
-DeepTutor is an open-source, agent-native personalized learning assistant that utilizes AI/ML capabilities to provide tailored educational support. This project integrates orchestration and DevTools to enable seamless and effective learning experiences. By leveraging its AI-driven approach, DeepTutor aims to revolutionize the way students learn and interact with educational content.
+HKUDS/DeepTutor is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/HKUDS/DeepTutor) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/HKUDS/DeepTutor) · [← Back to Orchestration](./README.md)</sub>

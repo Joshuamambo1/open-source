@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 237 |
+| 🍴 **Forks** | 244 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-collaboration` `ai-tools` `claude-code` `cli` `codex` `cross-platform` `gemini` `llm` `multi-agent-systems` `python` `terminal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The Claude Codex Bridge is an open-source project that enables real-time collaboration between multiple AI models, including Claude, Codex, and Gemini. This bridge facilitates seamless interaction between the models, allowing for persistent context and minimizing token overhead. It offers a powerful tool for developers to orchestrate and integrate AI capabilities.
+The claude_codex_bridge project enables real-time collaboration between multiple AI models, including Claude, Codex, and Gemini, while minimizing token overhead and maintaining persistent context. This open-source tool facilitates seamless interactions between AI systems, unlocking new possibilities for complex tasks and applications. By harnessing the strengths of each model, developers can create more sophisticated and effective solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/bfly123/claude_codex_bridge) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bfly123/claude_codex_bridge) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27.8k |
+| ⭐ **Stars** | 27.9k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agents` `database` `rust` `rust-lang`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ chroma-core/chroma is a promising open-source project. Categories: AI/ML, Data, 
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/chroma-core/chroma) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/chroma-core/chroma) · [← Back to AI/ML](./README.md)</sub>

@@ -1,0 +1,32 @@
+# thunder-engine/thunder
+
+[![Stars](https://img.shields.io/github/stars/thunder-engine/thunder?style=flat-square&color=yellow)](https://github.com/thunder-engine/thunder/stargazers) [![Forks](https://img.shields.io/github/forks/thunder-engine/thunder?style=flat-square&color=blue)](https://github.com/thunder-engine/thunder/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+
+> Thunder Engine – Cross-platform 2D and 3D game engine with modular architecture
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 652 |
+| 🍴 **Forks** | 46 |
+| 💻 **Language** | C++ |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-05-07 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`cross-platform` `game-development` `game-engine` `gamedev` `metal` `open-source` `opengl` `vulkan`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+thunder-engine/thunder is a promising open-source project. Categories: Misc. Interest score: 55/100.
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/thunder-engine/thunder) · [← Back to Misc](./README.md)</sub>

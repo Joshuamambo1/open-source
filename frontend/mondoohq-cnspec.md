@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-native` `compliance` `declarative` `kubernetes` `opensource` `policy` `policy-as-code` `security` `security-as-code`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ mondoohq/cnspec is a promising open-source project. Categories: Frontend, DevOps
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/mondoohq/cnspec) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mondoohq/cnspec) · [← Back to Frontend](./README.md)</sub>

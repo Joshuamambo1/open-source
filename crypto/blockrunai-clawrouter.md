@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 586 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `anthropic` `cost-optimization` `deepseek` `gemini` `llm` `llm-router` `micropayments` `openai` `openclaw` `smart-routing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Crypto · Payments · AI/ML
 
 ## 📝 Summary
 
-The ClawRouter is an open-source, agent-native Large Language Model (LLM) router developed for OpenClaw. This innovative project enables seamless routing across 41+ models in under 1 millisecond, with the added convenience of USDC payments facilitated through Base and Solana blockchains via x402. By integrating AI/ML capabilities, ClawRouter empowers users to efficiently interact with various models in the OpenClaw ecosystem.
+Here's a brief summary for the ClawRouter project:
+
+ClawRouter is an open-source, agent-native Large Language Model (LLM) router for OpenClaw, enabling seamless integration with 41+ models. This high-performance router achieves near-instant routing speeds (<1ms), making it ideal for real-time applications. Additionally, it supports USDC payments on multiple blockchain platforms, including Base and Solana via x402.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/BlockRunAI/ClawRouter) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/BlockRunAI/ClawRouter) · [← Back to Crypto](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 92 |
+| ⭐ **Stars** | 1.6k |
+| 🍴 **Forks** | 97 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-skills` `ai` `antigravity` `claude` `claude-code` `code` `codex` `coding` `copilot` `cursor` `gemini`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The samber/cc-skills-golang project is a collection of open-source, Golang-based skills for orchestration and AI/ML tasks. This project aims to provide a set of reusable and modular skills that can be easily integrated with other systems, enhancing development efficiency and productivity. By leveraging these Golang skills, developers can accelerate the development of various applications and workflows.
+samber/cc-skills-golang is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/samber/cc-skills-golang) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/samber/cc-skills-golang) · [← Back to Orchestration](./README.md)</sub>

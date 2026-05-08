@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 45k |
+| ⭐ **Stars** | 45.2k |
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agency-agents` `ai-agent` `claude-code` `codex` `open-cli` `openclaw` `opencode` `skills` `superpowers` `vibe-coding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-Cherry Studio is an open-source, AI-powered productivity platform that offers a unified interface to access various large language models (LLMs) and their capabilities. With over 300 integrated assistants and autonomous agents, users can leverage a range of smart tools, including a chat feature, to streamline their workflow and boost productivity. This platform provides developers and individuals with a flexible and innovative solution for harnessing the power of cutting-edge AI technology.
+CherryHQ/cherry-studio is a promising open-source project. Categories: AI/ML, DevTools, Product. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/CherryHQ/cherry-studio) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/CherryHQ/cherry-studio) · [← Back to AI/ML](./README.md)</sub>

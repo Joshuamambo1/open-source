@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 261 |
+| 🍴 **Forks** | 267 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-assistant` `cheating` `claude-code` `claude-skills` `cluely` `cluely-alternative` `cluely-clone` `developer-tools` `final-round-ai` `interview` `interviewcoder`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Natively Cluely AI Assistant is a free, open-source AI-powered tool designed to assist with interviews and meetings. It offers real-time transcription, stealth mode, and local data processing, ensuring secure and private interactions. This alternative to Cluely, Final Round AI, and Interview Coder provides a subscription-free and breach-proof solution for users.
+Natively-AI-assistant/natively-cluely-ai-assistant is a promising open-source project. Categories: Payments, AI/ML, DevTools. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) · [← Back to Payments](./README.md)</sub>

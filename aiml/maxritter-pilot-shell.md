@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-assistant` `ai-coding` `ai-coding-tools` `ai-engineering` `ai-tools` `anthropic` `anthropic-claude` `claude` `claude-ai` `claude-code` `claude-context`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Product
 
 ## 📝 Summary
 
-The pilot-shell project, developed by maxritter, aims to transform Claude Code into a production-ready AI solution. This open-source initiative achieves this by introducing spec-driven plans, enforcing quality gates, and allowing for persistent knowledge management. By doing so, pilot-shell enables more efficient and reliable AI development and deployment.
+maxritter/pilot-shell is a promising open-source project. Categories: AI/ML, Product. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/maxritter/pilot-shell) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/maxritter/pilot-shell) · [← Back to AI/ML](./README.md)</sub>

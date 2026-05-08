@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 215 |
+| 🍴 **Forks** | 219 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`clash` `fanqiang` `hysteria2` `kexueshangwang` `reality` `sing-box` `ss` `ssr` `v2ray` `vless` `youtube`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-Alvin9999-newpac/fanqiang is a promising open-source project. Categories: Mobile. Interest score: 63/100.
+Alvin9999-newpac/fanqiang is a promising open-source project. Categories: Mobile. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Alvin9999-newpac/fanqiang) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Alvin9999-newpac/fanqiang) · [← Back to Mobile](./README.md)</sub>

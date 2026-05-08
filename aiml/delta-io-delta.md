@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acid` `analytics` `big-data` `delta-lake` `spark`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Delta is an open-source storage framework that facilitates the creation of a unified Lakehouse architecture, allowing users to leverage various compute engines such as Spark, PrestoDB, Flink, Trino, and Hive. This framework provides a robust foundation for building scalable and performant data storage and processing systems. With its flexible APIs, developers can easily integrate Delta with their existing data workflows.
+Delta is an open-source storage framework that empowers the development of a Lakehouse architecture. It provides a unified storage layer, enabling seamless integration with various compute engines such as Spark, PrestoDB, Flink, Trino, and Hive. By leveraging Delta's APIs, developers can optimize data management and unlock efficient data processing capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/delta-io/delta) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/delta-io/delta) · [← Back to AI/ML](./README.md)</sub>

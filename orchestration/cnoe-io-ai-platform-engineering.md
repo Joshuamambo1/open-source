@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 358 |
-| 🍴 **Forks** | 57 |
+| 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai-agents` `caipe` `multi-agent-systems` `platform-engineering`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-CAIPE (Community AI Platform Engineering) is an open-source project that enables the development of multi-agent systems for AI platform engineering. This project provides a comprehensive framework for orchestrating complex AI workflows, simplifying the deployment and management of AI models at scale. By leveraging CAIPE, developers can build robust and efficient AI systems that can adapt to changing requirements and environments.
+cnoe-io/ai-platform-engineering is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 50/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/cnoe-io/ai-platform-engineering) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cnoe-io/ai-platform-engineering) · [← Back to Orchestration](./README.md)</sub>

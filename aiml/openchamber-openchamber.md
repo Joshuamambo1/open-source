@@ -1,6 +1,6 @@
 # openchamber/openchamber
 
-[![Stars](https://img.shields.io/github/stars/openchamber/openchamber?style=flat-square&color=yellow)](https://github.com/openchamber/openchamber/stargazers) [![Forks](https://img.shields.io/github/forks/openchamber/openchamber?style=flat-square&color=blue)](https://github.com/openchamber/openchamber/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openchamber/openchamber?style=flat-square&color=yellow)](https://github.com/openchamber/openchamber/stargazers) [![Forks](https://img.shields.io/github/forks/openchamber/openchamber?style=flat-square&color=blue)](https://github.com/openchamber/openchamber/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop and web interface for OpenCode AI agent
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 373 |
+| ⭐ **Stars** | 3.9k |
+| 🍴 **Forks** | 381 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `opencode` `opencode-ai` `opencode-app` `opencode-ui` `opencode-web`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-OpenChamber is an open-source project that provides a desktop and web interface for the OpenCode AI agent, enabling users to interact with the AI model in a user-friendly and accessible way. The project combines AI/ML capabilities with a modern frontend interface, making it easier for developers and non-technical users to harness the power of OpenCode. With OpenChamber, users can explore and utilize the OpenCode AI agent in a variety of applications.
+openchamber/openchamber is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 81/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/openchamber/openchamber) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openchamber/openchamber) · [← Back to AI/ML](./README.md)</sub>

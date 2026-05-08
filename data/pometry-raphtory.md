@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 609 |
+| ⭐ **Stars** | 611 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `database` `embedded-database` `graph` `graph-database` `olap` `python` `rust` `temporal` `time-series`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Pometry/Raphtory is an open-source, scalable graph analytics database built using Rust. It utilizes a multithreaded, vectorized temporal engine to enable efficient processing of complex graph data. This allows for the rapid analysis and querying of large-scale graph datasets, making it a powerful tool for data-driven insights.
+Pometry/Raphtory is a promising open-source project. Categories: Data. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Pometry/Raphtory) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Pometry/Raphtory) · [← Back to Data](./README.md)</sub>

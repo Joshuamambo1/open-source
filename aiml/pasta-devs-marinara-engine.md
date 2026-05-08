@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 262 |
+| ⭐ **Stars** | 278 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-agents-framework` `frontend` `local`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The Marinara-Engine is an open-source AI frontend project designed to provide a user-friendly interface for artificial intelligence and machine learning applications. Developed with a focus on user experience, this project enables developers to create intuitive and interactive AI-powered solutions. By leveraging the Marinara-Engine, developers can streamline their AI development process and create engaging interfaces for various applications.
+Pasta-Devs/Marinara-Engine is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 49/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Pasta-Devs/Marinara-Engine) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Pasta-Devs/Marinara-Engine) · [← Back to AI/ML](./README.md)</sub>

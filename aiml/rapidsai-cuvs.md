@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 742 |
+| ⭐ **Stars** | 745 |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Cuda |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anns` `clustering` `cuda` `distance` `gpu` `information-retrieval` `llm` `machine-learning` `nearest-neighbors` `neighborhood-methods` `similarity-search` `sparse`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-cuVS is an open-source library that accelerates vector search and clustering tasks on the GPU, enabling efficient computation for large-scale datasets in AI and ML applications. By leveraging the power of CUDA, cuVS provides a high-performance solution for tasks such as nearest neighbor search, similarity search, and clustering. This library is ideal for developers working with complex data sets in computer vision, natural language processing, and recommendation systems.
+rapidsai/cuvs is a promising open-source project. Categories: AI/ML, Backend. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/rapidsai/cuvs) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rapidsai/cuvs) · [← Back to AI/ML](./README.md)</sub>

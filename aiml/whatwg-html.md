@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`canvas` `eventsource` `html` `html-standard` `standard` `storage` `whatwg` `workers`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The whatwg/html project is an open-source initiative to standardize the HTML language, providing a comprehensive and up-to-date reference for web developers and browser implementers alike. This project aims to maintain the official HTML specification, ensuring consistency across different browsers and devices. By contributing to this project, developers can help shape the future of the web.
+whatwg/html is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/whatwg/html) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/whatwg/html) · [← Back to AI/ML](./README.md)</sub>

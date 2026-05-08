@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 199 |
+| ⭐ **Stars** | 2k |
+| 🍴 **Forks** | 201 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `agentsmesh` `ai-agent` `ai-agent-workforce-platform` `ai-coding` `aider` `claude-code` `codex-cli` `gemini-cli` `multi-agent` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the AgentsMesh project:
-
-AgentsMesh is an open-source platform that enables teams to scale their workforce beyond traditional headcount limitations by assigning AI agents to each team member. This AI Agent Workforce Platform facilitates the orchestration and integration of artificial intelligence and machine learning capabilities to augment team productivity. By leveraging AgentsMesh, teams can unlock new levels of efficiency and collaboration.
+AgentsMesh/AgentsMesh is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 67/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/AgentsMesh/AgentsMesh) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/AgentsMesh/AgentsMesh) · [← Back to Orchestration](./README.md)</sub>

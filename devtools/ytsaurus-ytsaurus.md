@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`big-data` `clickhouse` `distributed-database` `lakehouse` `olap-database` `spark` `sql` `ytsaurus`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ ytsaurus/ytsaurus is a promising open-source project. Categories: DevTools, Data
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/ytsaurus/ytsaurus) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ytsaurus/ytsaurus) · [← Back to DevTools](./README.md)</sub>

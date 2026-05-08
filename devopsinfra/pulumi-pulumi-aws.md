@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws` `cloud` `cloud-computing` `csharp` `dotnet` `fsharp` `go` `golang` `infrastructure` `infrastructure-as-code` `javascript` `lambda`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Pulumi AWS package is an open-source project that enables developers to manage and deploy Amazon Web Services (AWS) resources across multiple programming languages. This package provides a unified interface to AWS, allowing users to define and deploy infrastructure as code (IaC) in a language-agnostic manner. With Pulumi AWS, developers can easily create, manage, and scale AWS resources in a consistent and reproducible way.
+pulumi/pulumi-aws is a promising open-source project. Categories: DevOps/Infra. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/pulumi/pulumi-aws) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pulumi/pulumi-aws) · [← Back to DevOps & Infra](./README.md)</sub>

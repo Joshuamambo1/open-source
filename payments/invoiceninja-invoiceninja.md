@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`einvoicing` `expenses` `flutter` `hacktoberfest` `invoice` `invoiceninja` `invoices` `javascript` `kanban` `laravel` `payments` `php`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML · Frontend
 
 ## 📝 Summary
 
-Invoiceninja is an open-source, source-available application designed for managing invoices, quotes, projects, and time-tracking. Built with Laravel, this comprehensive app provides a user-friendly interface for businesses to streamline their financial operations and workflows. It offers a robust set of features tailored to meet the needs of various industries and organizations.
+invoiceninja/invoiceninja is a promising open-source project. Categories: Payments, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/invoiceninja/invoiceninja) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/invoiceninja/invoiceninja) · [← Back to Payments](./README.md)</sub>

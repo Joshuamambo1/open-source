@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.2k |
+| ⭐ **Stars** | 18.3k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`containers` `docker` `kernel` `kubernetes` `linux` `oci` `sandbox`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ google/gvisor is a promising open-source project. Categories: AI/ML, DevOps/Infr
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/google/gvisor) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/google/gvisor) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`open-telemetry` `opentelemetry`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ open-telemetry/opentelemetry-collector-contrib is a promising open-source projec
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/open-telemetry/opentelemetry-collector-contrib) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/open-telemetry/opentelemetry-collector-contrib) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `android` `artificial-intelligence` `cpp` `deep-learning` `federated-analytics` `federated-learning` `federated-learning-framework` `fleet-intelligence` `fleet-learning` `flower` `framework`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data · Mobile
 
 ## 📝 Summary
 
-Flower is an open-source, friendly federated AI framework designed to facilitate the development and deployment of secure, decentralized, and collaborative AI models. This framework enables the creation of artificial intelligence solutions that respect user data sovereignty and adhere to global data regulations. By leveraging Flower, developers can build, train, and deploy AI models in a transparent and privacy-preserving manner.
+flwrlabs/flower is a promising open-source project. Categories: AI/ML, Data, Mobile. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/flwrlabs/flower) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/flwrlabs/flower) · [← Back to AI/ML](./README.md)</sub>

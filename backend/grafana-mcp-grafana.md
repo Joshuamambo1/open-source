@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 353 |
+| 🍴 **Forks** | 351 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the MCP server for Grafana project:
-
-The MCP server for Grafana is an open-source project that provides a server component for Grafana, enabling centralized management and control of Grafana instances. This project allows for efficient monitoring, configuration, and synchronization of Grafana settings across multiple environments. By utilizing the MCP server, users can streamline their Grafana setup and enhance collaboration.
+grafana/mcp-grafana is a promising open-source project. Categories: Backend. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/grafana/mcp-grafana) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/grafana/mcp-grafana) · [← Back to Backend](./README.md)</sub>

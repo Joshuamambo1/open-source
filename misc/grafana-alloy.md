@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 584 |
+| 🍴 **Forks** | 586 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`collector` `grafana` `loki` `monitoring` `observability` `opentelemetry` `opentelemetry-collector` `prometheus`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "grafana/alloy":
-
-Alloy is an OpenTelemetry Collector distribution that enables the creation of customizable data pipelines. By providing a programmable architecture, Alloy allows users to tailor the collection and processing of telemetry data to their specific needs. This flexibility makes it an ideal choice for organizations seeking to unify and instrument their observability infrastructure.
+grafana/alloy is a promising open-source project. Categories: Misc. Interest score: 81/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/grafana/alloy) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/grafana/alloy) · [← Back to Misc](./README.md)</sub>

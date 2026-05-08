@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.4k |
-| 🍴 **Forks** | 332 |
+| 🍴 **Forks** | 333 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chrome-extension` `developer-tools` `english-language` `grammar-checker` `nodejs` `react` `rust` `svelte` `webassembly`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ Automattic/harper is a promising open-source project. Categories: Frontend, DevT
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Automattic/harper) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Automattic/harper) · [← Back to Frontend](./README.md)</sub>

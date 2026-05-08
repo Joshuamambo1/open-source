@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 586 |
-| 🍴 **Forks** | 521 |
+| 🍴 **Forks** | 522 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws` `azure` `databricks` `databricks-automation` `gcp` `terraform` `terraform-provider`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · DevOps/Infra
 
 ## 📝 Summary
 
-The Databricks Terraform Provider is an open-source project that enables users to manage Databricks resources using Terraform, a popular infrastructure-as-code platform. This provider allows users to create, read, update, and delete Databricks clusters, users, databases, and other resources in a scalable and automated manner. By integrating with Terraform, users can simplify the deployment and management of their Databricks environments.
+databricks/terraform-provider-databricks is a promising open-source project. Categories: Data, DevOps/Infra. Interest score: 61/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/databricks/terraform-provider-databricks) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/databricks/terraform-provider-databricks) · [← Back to Data](./README.md)</sub>

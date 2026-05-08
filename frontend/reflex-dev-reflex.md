@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dashboard` `data-analysis` `data-science` `data-visualization` `developer-tools` `framework` `fullstack` `gui` `open-source` `python` `webapp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-Reflex is an open-source project that enables the creation of web applications directly in pure Python, eliminating the need for additional frameworks or libraries. This innovative approach allows developers to write Python code that can interact with web browsers and users, making it a unique solution for building web applications. With Reflex, developers can create complex web applications using a familiar and widely-used programming language.
+reflex-dev/reflex is a promising open-source project. Categories: Frontend, DevTools, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/reflex-dev/reflex) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/reflex-dev/reflex) · [← Back to Frontend](./README.md)</sub>

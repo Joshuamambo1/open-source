@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11.4k |
-| 🍴 **Forks** | 739 |
+| 🍴 **Forks** | 742 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`continuous-profiling` `developer-tools` `devops` `find-bottlenecks` `golang` `hacktoberfest` `linux` `monitoring` `observability` `performance` `profiling` `pyroscope`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Pyroscope is an open-source, continuous profiling platform that enables developers to efficiently debug performance issues in their applications. By providing detailed, line-level code instrumentation, it allows users to pinpoint the root cause of performance bottlenecks with ease. This powerful tool is ideal for teams seeking to optimize the performance of their software.
+grafana/pyroscope is a promising open-source project. Categories: DevTools. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/grafana/pyroscope) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/grafana/pyroscope) · [← Back to DevTools](./README.md)</sub>

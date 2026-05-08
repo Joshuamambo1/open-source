@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`async` `http` `networking` `rust` `websockets`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the ntex-rs/ntex project:
-
-ntex is an open-source framework for building composable networking services. It enables developers to create highly scalable and modular network applications by providing a set of reusable components and a flexible architecture. With ntex, developers can craft custom networking solutions that meet the needs of their specific use cases.
+ntex-rs/ntex is a promising open-source project. Categories: Misc. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/ntex-rs/ntex) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ntex-rs/ntex) · [← Back to Misc](./README.md)</sub>

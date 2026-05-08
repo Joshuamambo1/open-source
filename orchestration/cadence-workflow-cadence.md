@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 896 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cadence` `distributed-systems` `golang` `java` `orchestration-engine` `service-bus` `service-fabric` `services-platform` `uber` `workflow-automation` `workflows`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the cadence-workflow/cadence project:
-
-Cadence is a powerful, open-source orchestration engine designed to execute long-running business logic in a scalable, resilient, and highly available manner. Built for distributed systems, Cadence enables the execution of asynchronous workflows, making it an ideal solution for AI/ML and other complex applications. Its durable and fault-tolerant architecture ensures that workflows can recover from failures, reducing the risk of data loss and system downtime.
+cadence-workflow/cadence is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 98/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cadence-workflow/cadence) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cadence-workflow/cadence) · [← Back to Orchestration](./README.md)</sub>

@@ -1,6 +1,6 @@
 # pytorch/executorch
 
-[![Stars](https://img.shields.io/github/stars/pytorch/executorch?style=flat-square&color=yellow)](https://github.com/pytorch/executorch/stargazers) [![Forks](https://img.shields.io/github/forks/pytorch/executorch?style=flat-square&color=blue)](https://github.com/pytorch/executorch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pytorch/executorch?style=flat-square&color=yellow)](https://github.com/pytorch/executorch/stargazers) [![Forks](https://img.shields.io/github/forks/pytorch/executorch?style=flat-square&color=blue)](https://github.com/pytorch/executorch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > On-device AI across mobile, embedded and edge for PyTorch
 
@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 975 |
+| 🍴 **Forks** | 980 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 96/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deep-learning` `embedded` `gpu` `machine-learning` `mobile` `neural-network` `tensor`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-pytorch/executorch is a promising open-source project. Categories: AI/ML. Interest score: 95/100.
+pytorch/executorch is a promising open-source project. Categories: AI/ML. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/pytorch/executorch) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pytorch/executorch) · [← Back to AI/ML](./README.md)</sub>

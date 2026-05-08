@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`electron` `playwright` `react` `tailwind` `vitest` `wasm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The KittyCAD/modeling-app is an open-source project that offers The Zoo Design Studio app, a cutting-edge modeling application. This app utilizes AI and machine learning technologies to provide a seamless user experience, making it an ideal tool for designers and developers. It is designed to be highly configurable and adaptable, allowing users to tailor it to their specific needs.
+KittyCAD/modeling-app is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/KittyCAD/modeling-app) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/KittyCAD/modeling-app) · [← Back to AI/ML](./README.md)</sub>

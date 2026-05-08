@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 240 |
+| 🍴 **Forks** | 241 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-native` `distributed` `edge` `kubernetes` `nats` `platform` `wasm-native` `webassembly`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-wasmCloud is an open-source project under the Cloud Native Computing Foundation (CNCF) that facilitates the development, management, and scaling of multi-language applications across various platforms, including cloud, Kubernetes, and edge environments. This project empowers teams to create polyglot applications with ease, regardless of the underlying infrastructure. By leveraging wasmCloud, developers can build and deploy applications efficiently and at scale.
+wasmCloud/wasmCloud is a promising open-source project. Categories: Frontend, DevOps/Infra. Interest score: 70/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/wasmCloud/wasmCloud) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wasmCloud/wasmCloud) · [← Back to Frontend](./README.md)</sub>

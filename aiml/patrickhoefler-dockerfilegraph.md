@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `container` `docker` `dockerfile` `go` `golang` `graph` `graphviz` `visualization`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"patrickhoefler/dockerfilegraph is an open-source tool that helps developers visualize their complex multi-stage Dockerfiles. By providing a graphical representation of the build process, it simplifies understanding and debugging of Dockerfile logic. This project is particularly useful for AI/ML and DevOps teams utilizing Docker for their development workflows."
+patrickhoefler/dockerfilegraph is a promising open-source project. Categories: AI/ML, DevTools, DevOps/Infra. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/patrickhoefler/dockerfilegraph) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/patrickhoefler/dockerfilegraph) · [← Back to AI/ML](./README.md)</sub>

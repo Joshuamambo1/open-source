@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 758 |
+| ⭐ **Stars** | 760 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`classic` `creator` `eldiron` `game-development` `game-engine` `gamedev` `pixel-art` `procedural` `retro` `rpg` `ultima`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here is a brief summary of the Eldiron project:
-
-Eldiron is an open-source project that enables the creation of cross-platform 2D and 3D classic RPGs with robust world editing tools. With Eldiron, developers can craft immersive game worlds and experiences without being bound by specific platforms. This user-friendly framework is designed to streamline the game development process, empowering creators to focus on their artistic vision.
+markusmoenig/Eldiron is a promising open-source project. Categories: Frontend. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/markusmoenig/Eldiron) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/markusmoenig/Eldiron) · [← Back to Frontend](./README.md)</sub>

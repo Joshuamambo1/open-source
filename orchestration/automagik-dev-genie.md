@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 307 |
-| 🍴 **Forks** | 50 |
+| ⭐ **Stars** | 309 |
+| 🍴 **Forks** | 49 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-developer-tools` `anthropic` `automation` `autonomous-agents` `claude` `claude-code` `cli` `coding-agents` `context-engineering` `developer-tools` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Genie is an open-source, CLI-driven project that utilizes automation to streamline software development workflows. By interviewing the user, planning tasks, and dispatching parallel agents, Genie optimizes work processes, ensuring efficient and effective coding. This AI-powered tool aims to minimize manual effort and maximize productivity, reviewing code before it's committed.
+automagik-dev/genie is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/automagik-dev/genie) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/automagik-dev/genie) · [← Back to Orchestration](./README.md)</sub>

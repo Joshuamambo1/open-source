@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Rive Wasm project is an open-source runtime for Rive, a powerful animation and interactivity engine. This Wasm/JS runtime enables developers to seamlessly integrate Rive's features into web applications, providing a versatile platform for creating engaging interactive experiences. By utilizing Wasm technology, Rive Wasm delivers high-performance, cross-platform capabilities to a wide range of web-based projects.
+rive-app/rive-wasm is a promising open-source project. Categories: Misc. Interest score: 48/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/rive-app/rive-wasm) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rive-app/rive-wasm) · [← Back to Misc](./README.md)</sub>

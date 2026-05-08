@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 526 |
+| ⭐ **Stars** | 528 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `oss` `terraform`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
+Here's a brief summary for the suzuki-shunsuke/tfcmt project:
 
-Tfcmt is an open-source enhancement of tfnotify, a tool used for Terraform notifications. It provides support for Terraform versions 0.15 and above, as well as additional formatting options to help users customize their notifications. This project aims to simplify DevOps and infrastructure management by streamlining Terraform notification processes.
+tfcmt is an open-source project that builds upon mercari/tfnotify, offering enhanced features and support for Terraform versions 0.15 and above. It provides advanced formatting options, making it a valuable tool for developers and DevOps professionals in managing Terraform infrastructure. This project aims to simplify Terraform configuration management and deployment processes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/suzuki-shunsuke/tfcmt) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/suzuki-shunsuke/tfcmt) · [← Back to DevTools](./README.md)</sub>

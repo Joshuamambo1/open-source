@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | C |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`autosuggestion` `batch-rename` `c` `cli` `command-line` `console` `developer-tools` `file-browser` `file-manager` `file-preview` `filemanager` `fzf`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "leo-arch/clifm":
-
-Clifm is an open-source, shell-like command line terminal file manager designed for developers and power users. It provides a user-friendly interface for navigating and managing files, directories, and other system resources. With its flexible and customizable design, Clifm aims to simplify file system management and workflow optimization for users who rely on the command line.
+leo-arch/clifm is a promising open-source project. Categories: DevTools. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/leo-arch/clifm) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/leo-arch/clifm) · [← Back to DevTools](./README.md)</sub>

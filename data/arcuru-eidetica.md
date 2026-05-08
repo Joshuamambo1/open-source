@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`crdt` `database` `decentralized` `merkle-crdt` `p2p` `peer-to-peer` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The arcuru/eidetica project is an open-source, decentralized database solution that enables users to store and access data across all devices connected to the network. This 'Remember Everything' system provides a seamless and omnidirectional data management experience, effectively synchronizing data wherever it's needed. By leveraging decentralized technology, users maintain full control over their data.
+Eidetica is an open-source, decentralized database solution designed to provide a universal and accessible data storage experience. With its focus on ubiquity and ease of use, Eidetica enables users to "Remember Everything. Everywhere. All At Once" by storing and retrieving data in a secure, decentralized manner. This innovative project aims to revolutionize the way we interact with data, promoting a seamless and connected experience across the globe.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/arcuru/eidetica) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/arcuru/eidetica) · [← Back to Data](./README.md)</sub>

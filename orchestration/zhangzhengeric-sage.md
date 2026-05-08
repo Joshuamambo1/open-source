@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 99 |
+| 🍴 **Forks** | 98 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `llm` `manus` `muilt-agents` `workflow`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a summary of the Sage project:
-
-Sage is an open-source Multi-Agent System (MAS) framework designed to tackle complex tasks by leveraging the power of distributed artificial intelligence. This modular framework enables developers to build and orchestrate autonomous agents that can collaborate and adapt to dynamic environments. By harnessing the strengths of AI/ML and orchestration, Sage empowers users to create sophisticated systems for real-world applications.
+ZHangZHengEric/Sage is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ZHangZHengEric/Sage) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ZHangZHengEric/Sage) · [← Back to Orchestration](./README.md)</sub>

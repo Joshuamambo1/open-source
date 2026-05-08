@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-QwenLM/qwen-code is an open-source AI agent designed to interact with users in their terminal, providing a seamless and intuitive interface for exploring the capabilities of artificial intelligence and machine learning. This agent is built to be user-friendly, allowing individuals to engage with AI in a hands-on manner. By residing in the terminal, qwen-code offers a novel and accessible way to interact with AI technology.
+QwenLM/qwen-code is a promising open-source project. Categories: AI/ML. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/QwenLM/qwen-code) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/QwenLM/qwen-code) · [← Back to AI/ML](./README.md)</sub>

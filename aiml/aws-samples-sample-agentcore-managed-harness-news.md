@@ -25,7 +25,7 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, 'Build Your Own AI Butler', empowers users to create a self-executing AI agent through a scheduled frontend interface. The project allows users to craft personalized AI experiences and automate tasks with ease, leveraging the intersection of AI/ML and frontend technologies. By running itself, the agent enables seamless execution of tasks at scheduled intervals.
+Build Your Own AI Butler - A Scheduled Agent That Runs Itself! is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 40/100.
 
 ---
 

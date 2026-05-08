@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`circleci` `cli` `drupal` `drush` `php` `psysh` `symfony`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Design
 
 ## 📝 Summary
 
-Drush is an open-source, command-line interface for Drupal that simplifies tasks and streamlines workflows for developers. This versatile tool serves as a Swiss Army knife for command-line operations, making it easier to manage and maintain Drupal projects. With Drush, users can perform a wide range of tasks, from site management to scripting and automation.
+drush-ops/drush is a promising open-source project. Categories: DevTools, Design. Interest score: 80/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/drush-ops/drush) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/drush-ops/drush) · [← Back to DevTools](./README.md)</sub>

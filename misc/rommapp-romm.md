@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.8k |
-| 🍴 **Forks** | 412 |
+| 🍴 **Forks** | 414 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`emulation` `open-source` `retrogaming` `rommapp` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Rommapp/romm is an open-source project that offers a self-hosted rom manager and player, providing users with a powerful and visually appealing platform for managing and playing ROMs. This tool allows users to easily organize, download, and stream their ROM collections, making it a great option for gamers and collectors alike. With romm, users can take control of their gaming library and access it from anywhere.
+rommapp/romm is a promising open-source project. Categories: Misc. Interest score: 87/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rommapp/romm) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rommapp/romm) · [← Back to Misc](./README.md)</sub>

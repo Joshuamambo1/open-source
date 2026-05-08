@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apple-documentation` `cli` `command-line-tool` `developer-tools` `documentation-tools` `local-server` `mcp` `mcp-server` `model-context-protocol` `offline-docs` `swift` `swiftpm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Backend · DevTools
 
 ## 📝 Summary
 
-mihaelamj/cupertino is a promising open-source project. Categories: Backend, DevTools. Interest score: 55/100.
+Here's a brief summary for the open-source project:
+
+mihaelamj/cupertino is an open-source project that crawls local Apple documentation and serves it via a MCP (MacCPC) server. Built with Swift, this tool allows developers to access Apple's documentation from their local machine, providing a faster and more convenient experience. It's a valuable resource for iOS and macOS developers looking to streamline their workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/mihaelamj/cupertino) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mihaelamj/cupertino) · [← Back to Backend](./README.md)</sub>

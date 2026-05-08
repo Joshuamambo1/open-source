@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `dagster` `data-engineering` `data-integration` `data-orchestrator` `data-pipelines` `data-science` `etl` `metadata` `mlops` `orchestration` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-dagster-io/dagster is a promising open-source project. Categories: AI/ML, Data, Product. Interest score: 100/100.
+dagster-io/dagster is a promising open-source project. Categories: Orchestration, AI/ML, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/dagster-io/dagster) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dagster-io/dagster) · [← Back to Orchestration](./README.md)</sub>

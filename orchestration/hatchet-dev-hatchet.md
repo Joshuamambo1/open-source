@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.1k |
-| 🍴 **Forks** | 367 |
+| 🍴 **Forks** | 371 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`concurrency` `dag` `distributed` `distributed-systems` `durable-execution` `event-driven` `fastapi` `golang` `nodejs` `python` `queue` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Hatchet is an open-source project designed to efficiently run background tasks at scale. It provides a scalable and fault-tolerant solution for handling asynchronous tasks, allowing developers to focus on core functionality. With Hatchet, developers can easily manage and execute background tasks in a robust and reliable manner.
+hatchet-dev/hatchet is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hatchet-dev/hatchet) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hatchet-dev/hatchet) · [← Back to Orchestration](./README.md)</sub>

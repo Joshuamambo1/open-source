@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 34k |
-| 🍴 **Forks** | 33.8k |
+| ⭐ **Stars** | 34.4k |
+| 🍴 **Forks** | 34.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `aigc` `gemini` `llm` `quant` `quantitative-trading` `rag` `stock`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The ZhuLinsen/daily_stock_analysis project is an open-source, LLM-powered stock analysis system for A/H/US markets, providing a comprehensive platform for real-time market data, news analysis, and AI-driven decision-making dashboards. This system aggregates data from multiple sources, offers customizable dashboards, and allows for zero-cost, automated execution. By leveraging large language models, users can access actionable insights and stay ahead of market trends at no additional cost.
+ZhuLinsen/daily_stock_analysis is a promising open-source project. Categories: Trading, AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) · [← Back to Trading](./README.md)</sub>

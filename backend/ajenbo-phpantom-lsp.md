@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 629 |
-| 🍴 **Forks** | 31 |
+| ⭐ **Stars** | 658 |
+| 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`drupal` `laravel` `lsp` `lsp-server` `neovim-plugin` `php` `phpstorm-plugin` `vscode-extension`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-AJenbo/phpantom_lsp is an open-source, fast PHP language server that provides deep type intelligence, enabling features such as generics and support for Laravel and PHPStan annotations. This project is designed to provide instant setup and integration with your development environment, streamlining your development workflow. With its focus on backend development, it's an ideal choice for PHP developers seeking a robust language server.
+AJenbo/phpantom_lsp is a promising open-source project. Categories: Backend. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/AJenbo/phpantom_lsp) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/AJenbo/phpantom_lsp) · [← Back to Backend](./README.md)</sub>

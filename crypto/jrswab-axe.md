@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `automation` `cli` `command-line` `developer-tools` `golang` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-The jrswab/axe project is an open-source, lightweight command-line interface (CLI) for running single-purpose AI agents. It allows users to define and trigger focused agents using a TOML configuration file, enabling seamless integration with various tools and workflows. This versatile CLI can be invoked from terminal, pipes, Git hooks, or cron jobs, making it a valuable tool for developers and researchers working with AI/ML and cryptocurrency applications.
+jrswab/axe is a promising open-source project. Categories: Crypto, AI/ML, DevTools. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/jrswab/axe) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jrswab/axe) · [← Back to Crypto](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.2k |
 | 💻 **Language** | Markdown |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `bsd` `cheatsheet` `cheatsheets` `command-line` `console` `documentation` `examples` `hacktoberfest` `help` `linux` `macos`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The tldr project is an open-source initiative providing concise and collaborative cheatsheets for console commands, offering users a quick and accessible reference for various commands and their usage. This project aims to bridge the gap between technical documentation and practical application, making it easier for developers and users to navigate the world of console commands. With its collaborative nature, tldr encourages community-driven contributions and updates.
+tldr-pages/tldr is a promising open-source project. Categories: Mobile. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/tldr-pages/tldr) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tldr-pages/tldr) · [← Back to Mobile](./README.md)</sub>

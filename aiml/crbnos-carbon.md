@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 267 |
+| 🍴 **Forks** | 270 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-platform` `assemblyline` `business` `erp` `lean` `management` `manufacturing` `mcp-server` `mes` `postgresql` `qms` `react-router`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-crbnos/carbon is a promising open-source project. Categories: Frontend. Interest score: 68/100.
+crbnos/carbon is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 69/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/crbnos/carbon) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/crbnos/carbon) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`celestia` `data-availability` `data-availability-sampling`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Celestia Data Availability Nodes is an open-source project that contributes to the Celestia network, a decentralized data availability protocol. This project enables the establishment of data availability nodes that verify and store data on the Celestia network, ensuring the integrity and accessibility of data. By facilitating data availability, Celestia Data Availability Nodes play a crucial role in the overall functionality of the Celestia network.
+celestiaorg/celestia-node is a promising open-source project. Categories: AI/ML, Data. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/celestiaorg/celestia-node) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/celestiaorg/celestia-node) · [← Back to AI/ML](./README.md)</sub>

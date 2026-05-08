@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.2k |
+| ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | DIGITAL Command Language |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dmca`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The github/dmca project is an open-source repository that stores text of DMCA (Digital Millennium Copyright Act) takedown notices received by GitHub. The notices are made publicly available without endorsement or adoption by the platform, with the individuals identified presumed innocent until proven guilty. This repository provides insight into copyright infringement claims and GitHub's DMCA policy.
+github/dmca is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/github/dmca) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/github/dmca) · [← Back to AI/ML](./README.md)</sub>

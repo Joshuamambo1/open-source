@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27.3k |
-| 🍴 **Forks** | 2.3k |
+| ⭐ **Stars** | 29.2k |
+| 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agents` `ai` `ai-agents` `context-engineering` `llm` `rag` `reasoning` `retrieval` `retrieval-augmented-generation` `vector-database`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the VectifyAI/PageIndex project:
-
-PageIndex is an open-source document index designed for vectorless, reasoning-based Retrieval-Augmented Generation (RAG) applications. This project enables efficient organization and retrieval of large-scale documents, facilitating advanced AI and machine learning tasks. By leveraging vectorless reasoning, PageIndex simplifies the process of information retrieval and generation in various data-driven scenarios.
+VectifyAI/PageIndex is a promising open-source project. Categories: AI/ML, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/VectifyAI/PageIndex) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/VectifyAI/PageIndex) · [← Back to AI/ML](./README.md)</sub>

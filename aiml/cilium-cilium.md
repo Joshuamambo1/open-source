@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bpf` `cncf` `cni` `containers` `ebpf` `k8s` `kernel` `kubernetes` `kubernetes-networking` `loadbalancing` `monitoring` `networking`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Cilium is an open-source project that provides a comprehensive platform for networking, security, and observability using eBPF (Extended Berkeley Packet Filter) technology. It enables efficient and secure network connectivity, as well as advanced monitoring and visibility into network traffic and system behavior. By leveraging eBPF, Cilium provides a flexible and high-performance solution for modern cloud-native and containerized environments.
+cilium/cilium is a promising open-source project. Categories: AI/ML, DevOps/Infra, Security. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cilium/cilium) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cilium/cilium) · [← Back to AI/ML](./README.md)</sub>

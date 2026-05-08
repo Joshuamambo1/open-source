@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`backup` `disaster-recovery` `hacktoberfest` `kubernetes` `velero`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Velero is an open-source tool for backing up and migrating Kubernetes applications and their associated persistent volumes. It provides a robust and scalable solution for disaster recovery, business continuity, and Kubernetes cluster management. With Velero, users can easily backup and restore their Kubernetes resources, ensuring minimal downtime and maximum data integrity.
+velero-io/velero is a promising open-source project. Categories: DevOps/Infra. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/velero-io/velero) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/velero-io/velero) · [← Back to DevOps & Infra](./README.md)</sub>

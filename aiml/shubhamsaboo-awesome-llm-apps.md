@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 108.9k |
-| 🍴 **Forks** | 16.1k |
+| ⭐ **Stars** | 109.2k |
+| 🍴 **Forks** | 16.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `llms` `python` `rag`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The "awesome-llm-apps" project is an open-source collection of over 100 AI-powered applications and chatbots, offering a wide range of pre-built and customizable solutions. Users can easily clone, modify, and deploy these applications to suit their needs, harnessing the power of Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) technology. This project aims to accelerate AI adoption and innovation by providing a vast library of accessible and adaptable AI-powered tools.
+The "awesome-llm-apps" repository is an open-source collection of over 100 AI and RAG applications that can be easily cloned, customized, and deployed. This vast repository serves as a one-stop-shop for developers and enthusiasts alike, providing a wealth of pre-built AI models that can be tailored to suit various use cases and applications. By leveraging this repository, users can accelerate their AI development journey and bring innovative AI-powered solutions to life.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) · [← Back to AI/ML](./README.md)</sub>

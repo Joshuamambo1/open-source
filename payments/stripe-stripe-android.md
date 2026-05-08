@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 713 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`stripe` `stripe-sdk`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · Mobile
 
 ## 📝 Summary
 
-stripe/stripe-android is a promising open-source project. Categories: Mobile. Interest score: 64/100.
+stripe/stripe-android is a promising open-source project. Categories: Payments, Mobile. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/stripe/stripe-android) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/stripe/stripe-android) · [← Back to Payments](./README.md)</sub>

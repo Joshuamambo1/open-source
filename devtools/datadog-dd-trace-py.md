@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 637 |
-| 🍴 **Forks** | 504 |
+| 🍴 **Forks** | 505 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apm` `ci` `datadog` `debugging` `error-monitoring` `observability` `profiling` `python` `security` `tracing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data · Security
 
 ## 📝 Summary
 
-The DataDog dd-trace-py project is an open-source Python client for the Datadog Application Performance Monitoring (APM) service. It allows developers to instrument their applications, collect performance metrics, and identify issues within the application's code. By integrating dd-trace-py, users can gain detailed insights into their application's performance and functionality.
+DataDog/dd-trace-py is a promising open-source project. Categories: DevTools, Data, Security. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/DataDog/dd-trace-py) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/DataDog/dd-trace-py) · [← Back to DevTools](./README.md)</sub>

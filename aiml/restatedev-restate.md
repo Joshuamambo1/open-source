@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 155 |
+| 🍴 **Forks** | 156 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`async-await` `cli` `consistent-state` `distributed-systems` `durable-execution` `event-driven` `microservices` `reliable-communication` `serverless` `workflow-engine`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the restatedev/restate project:
-
-Restate is an open-source platform designed to help developers build resilient applications that can withstand various infrastructure faults without requiring advanced expertise. By leveraging AI and machine learning technologies, Restate aims to simplify the process of fault tolerance and ensure seamless application performance. This platform empowers developers to create robust applications with minimal effort.
+restatedev/restate is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 79/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/restatedev/restate) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/restatedev/restate) · [← Back to AI/ML](./README.md)</sub>

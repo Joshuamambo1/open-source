@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`logical-replication` `postgres` `postgresql` `replication` `rust` `rust-lang`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the supabase/etl project:
-
-The supabase/etl project is an open-source, Rust-based framework for building real-time change data capture (CDC) pipelines. It enables users to stream Postgres data anywhere in real-time, providing simple building blocks for efficient data integration and synchronization. This solution caters to developers working on data-centric applications and requires no complex setup.
+supabase/etl is a promising open-source project. Categories: Frontend, Data. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/supabase/etl) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/supabase/etl) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10.4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alerting` `graphing` `hacktoberfest` `metrics` `monitoring` `prometheus` `time-series`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Prometheus is an open-source monitoring and time-series database system, designed to collect and store metrics from various sources. It provides a flexible and scalable way to monitor and analyze system performance, making it an essential tool for DevOps and IT teams. By collecting and visualizing metrics in real-time, Prometheus enables users to identify and troubleshoot issues more efficiently.
+prometheus/prometheus is a promising open-source project. Categories: Data. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/prometheus/prometheus) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/prometheus/prometheus) · [← Back to Data](./README.md)</sub>

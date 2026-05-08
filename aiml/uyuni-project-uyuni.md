@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 555 |
-| 🍴 **Forks** | 243 |
+| ⭐ **Stars** | 558 |
+| 🍴 **Forks** | 244 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`container` `cucumber` `hacktoberfest` `hacktoberfest-accepted` `java` `linux` `podman` `postgresql` `python` `reactjs` `saltstack` `spacewalk`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The Uyuni project is an open-source initiative that provides a comprehensive open infrastructure for managing and deploying Linux systems at scale. It combines AI/ML technologies with a user-friendly frontend interface, offering a robust solution for large-scale Linux system management. Uyuni allows administrators to streamline system updates, configuration, and monitoring across thousands of machines.
+uyuni-project/uyuni is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/uyuni-project/uyuni) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/uyuni-project/uyuni) · [← Back to AI/ML](./README.md)</sub>

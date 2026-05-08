@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,10 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary of the open-source project:
 
-Gõ Nhanh is an open-source, high-performance typing software for Vietnamese language, specifically designed for macOS. This project aims to provide a modern and efficient typing experience for users of the Vietnamese language. It offers a dedicated typing solution for macOS users who prefer to type in Vietnamese with ease and speed.
+Gõ Nhanh is an open-source, high-performance Vietnamese typing system designed for macOS, aiming to provide an efficient and modern input method for speakers of Vietnamese. This project offers a modern alternative for typing in Vietnamese, leveraging the capabilities of macOS to deliver a seamless user experience. Developed by khaphanspace/gonhanh.org, Gõ Nhanh is a community-driven initiative to improve Vietnamese typing on macOS.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/khaphanspace/gonhanh.org) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/khaphanspace/gonhanh.org) · [← Back to Misc](./README.md)</sub>

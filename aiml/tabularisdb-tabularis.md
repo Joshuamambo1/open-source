@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 84 |
+| 🍴 **Forks** | 85 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-assistant` `cross-platform` `database-client` `database-gui` `database-management` `database-tool` `developer-tools` `er-diagram` `mcp` `mysql` `postgresql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Tabularis is an open-source, lightweight database client designed for developers, providing a fast, secure, and visually appealing interface for managing databases across MySQL, PostgreSQL, and SQLite platforms. Its modular architecture allows for easy customization and extension through plugins. This cross-platform tool is optimized for speed, making it an ideal choice for developers who demand efficiency in their database management workflow.
+TabularisDB/tabularis is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/TabularisDB/tabularis) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/TabularisDB/tabularis) · [← Back to AI/ML](./README.md)</sub>

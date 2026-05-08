@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 633 |
-| 🍴 **Forks** | 50 |
+| ⭐ **Stars** | 639 |
+| 🍴 **Forks** | 52 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adaptive-cards` `ai-agent` `bun` `coding-agent` `docker` `llm` `pi-agent` `self-hosted` `typescript` `vnc` `web-ui` `workspace`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-"Piclaw is an open-source project that seeks to recreate OpenClaw, a popular AI-powered tool, with additional features such as a blackjack game and a 'bun' theme. The project aims to provide a unique and engaging experience for users, combining AI/ML capabilities with a user-friendly frontend interface and robust DevOps/Infra setup. By leveraging open-source principles, Piclaw encourages collaboration and innovation in the tech community."
+rcarmo/piclaw is a promising open-source project. Categories: AI/ML, Frontend, DevOps/Infra. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rcarmo/piclaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rcarmo/piclaw) · [← Back to AI/ML](./README.md)</sub>

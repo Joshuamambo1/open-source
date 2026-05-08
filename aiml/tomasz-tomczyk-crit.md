@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 247 |
+| ⭐ **Stars** | 255 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-coding` `ai-agents` `ai-tools` `cli` `code-review` `developer-tools` `llm` `markdown`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The "crit" project provides a feedback loop mechanism for interacting with an agent, offering a collaborative development experience. This open-source tool is designed to facilitate seamless communication between developers and AI/ML agents, enabling efficient iteration and improvement. By using "crit," users can refine their agents through a continuous feedback loop.
+tomasz-tomczyk/crit is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/tomasz-tomczyk/crit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tomasz-tomczyk/crit) · [← Back to AI/ML](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | CSS |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Reviewable is an open-source project that provides support for Reviewable, a platform for collaborative code reviews. This frontend-focused project enables users to effectively manage and participate in code review processes, fostering a culture of transparency and quality. By leveraging Reviewable's capabilities, developers can streamline their workflow and improve the overall quality of their code.
+Reviewable is an open-source project that provides support for Reviewable, a web-based code review tool. This frontend-focused project enables seamless integration and functionality within Reviewable, enhancing the user experience for developers and reviewers alike. By leveraging this project, users can efficiently manage and participate in code reviews, fostering collaboration and improving software quality.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Reviewable/Reviewable) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Reviewable/Reviewable) · [← Back to Frontend](./README.md)</sub>

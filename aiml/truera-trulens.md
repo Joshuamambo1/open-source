@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 272 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-evaluation` `agentops` `ai-agents` `ai-monitoring` `ai-observability` `evals` `explainable-ml` `llm-eval` `llm-evaluation` `llmops` `llms` `machine-learning`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the truera/trulens project:
-
-Trulens is an open-source tool for evaluating and tracking the performance of Large Language Models (LLMs) and AI agents. It provides a comprehensive framework for assessing model quality, identifying areas of improvement, and comparing results across experiments. By facilitating data-driven decision-making, Trulens enables researchers and developers to optimize their AI systems and achieve better outcomes.
+truera/trulens is a promising open-source project. Categories: AI/ML. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/truera/trulens) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/truera/trulens) · [← Back to AI/ML](./README.md)</sub>

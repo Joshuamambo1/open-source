@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14.9k |
-| 🍴 **Forks** | 949 |
+| ⭐ **Stars** | 15k |
+| 🍴 **Forks** | 953 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ci-cd` `devops` `git` `kanban` `packages` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-OneDev is an open-source project that offers a comprehensive Git server with integrated CI/CD, Kanban features, and package management capabilities. This platform provides a seamless user experience, making it an attractive solution for developers seeking a streamlined development workflow. With its AI/ML and backend-focused design, OneDev aims to simplify the development process and enhance collaboration among team members.
+theonedev/onedev is a promising open-source project. Categories: AI/ML, Backend. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/theonedev/onedev) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/theonedev/onedev) · [← Back to AI/ML](./README.md)</sub>

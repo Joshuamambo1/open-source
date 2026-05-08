@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 89.8k |
+| ⭐ **Stars** | 89.9k |
 | 🍴 **Forks** | 10k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `components` `design-systems` `documentation` `html` `javascript` `react` `react-native` `stories` `storybook` `styleguide` `svelte`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Storybook is an open-source project that enables developers to build, document, and test UI components in isolation, allowing for seamless collaboration and iteration. As the industry standard workshop for frontend development, Storybook provides a comprehensive platform for creating, showcasing, and refining individual UI components. This leads to faster development cycles, improved code quality, and enhanced user experience.
+storybookjs/storybook is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/storybookjs/storybook) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/storybookjs/storybook) · [← Back to AI/ML](./README.md)</sub>

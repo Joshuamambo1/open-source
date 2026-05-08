@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `horde` `imap` `nextcloud` `nextcloud-vue-app` `open-source` `php` `php-mail` `single-page-app` `smtp` `webmail`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Nextcloud/mail is an open-source mail app designed for Nextcloud, providing users with a seamless and integrated email experience. This project offers a customizable and user-friendly interface for managing emails, contacts, and tasks, all within the Nextcloud ecosystem. With its open-source nature, Nextcloud/mail enables developers to contribute and enhance the app to meet their specific needs.
+nextcloud/mail is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nextcloud/mail) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nextcloud/mail) · [← Back to AI/ML](./README.md)</sub>

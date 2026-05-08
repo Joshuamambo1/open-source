@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 591 |
-| 🍴 **Forks** | 434 |
+| 🍴 **Forks** | 435 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The matrix.org project is an open-source initiative that maintains the public website of the Matrix protocol, a decentralized communication platform. The website serves as a primary hub for information, resources, and community engagement for Matrix users and developers. By providing a central point of access, matrix.org fosters collaboration and growth within the Matrix ecosystem.
+The matrix-org/matrix.org project is the open-source implementation of the public website for Matrix, a decentralized communication platform. This website serves as a central hub for information, resources, and documentation on the Matrix protocol and ecosystem. It provides a centralized gateway for users to access Matrix services and explore its capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/matrix-org/matrix.org) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/matrix-org/matrix.org) · [← Back to Misc](./README.md)</sub>

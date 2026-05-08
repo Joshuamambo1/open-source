@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 391 |
+| 🍴 **Forks** | 392 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-The Internet Computer (IC) project is an open-source initiative that aims to create a decentralized, scalable, and secure blockchain network. The dfinity/ic repository contains the source code for the client/replica software that powers nodes on the IC network, enabling the execution of smart contracts and distributed applications at web speed and scale. By leveraging blockchain technology and internet computer architecture, this project seeks to bring decentralized computing to the mainstream.
+dfinity/ic is a promising open-source project. Categories: Crypto, AI/ML, DevTools. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/dfinity/ic) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dfinity/ic) · [← Back to Crypto](./README.md)</sub>

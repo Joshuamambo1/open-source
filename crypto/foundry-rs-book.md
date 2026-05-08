@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 946 |
+| ⭐ **Stars** | 945 |
 | 🍴 **Forks** | 975 |
 | 💻 **Language** | Solidity |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`book` `documentation` `ethereum` `foundry` `guides` `mdbook`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-The foundry-rs/book repository is an open-source project that serves as an exhaustive guide to Foundry, a comprehensive platform that encompasses various cutting-edge technologies such as blockchain, artificial intelligence, and machine learning, as well as frontend development. This book aims to provide in-depth knowledge on Foundry's capabilities and features, making it an invaluable resource for developers and professionals interested in exploring its vast potential. Foundry's official documentation can be accessed at https://getfoundry.sh.
+foundry-rs/book is a promising open-source project. Categories: Crypto, AI/ML, Frontend. Interest score: 69/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/foundry-rs/book) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/foundry-rs/book) · [← Back to Crypto](./README.md)</sub>

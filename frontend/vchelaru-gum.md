@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 455 |
+| ⭐ **Stars** | 457 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fna-xna` `game-ui` `layout` `monogame` `prototyping` `silknet` `skiasharp` `ui` `xna`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The Gum project is an open-source, flexible layout tool designed to create user interfaces (UI) that are compatible with various platforms. It provides a versatile solution for developers to craft visually appealing and functional UI components, allowing for a seamless user experience across different devices and environments. With Gum, developers can focus on building intuitive and engaging interfaces without being limited by platform constraints.
+vchelaru/Gum is a promising open-source project. Categories: Frontend. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/vchelaru/Gum) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vchelaru/Gum) · [← Back to Frontend](./README.md)</sub>

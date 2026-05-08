@@ -1,6 +1,6 @@
 # swarmclawai/swarmclaw
 
-[![Stars](https://img.shields.io/github/stars/swarmclawai/swarmclaw?style=flat-square&color=yellow)](https://github.com/swarmclawai/swarmclaw/stargazers) [![Forks](https://img.shields.io/github/forks/swarmclawai/swarmclaw?style=flat-square&color=blue)](https://github.com/swarmclawai/swarmclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swarmclawai/swarmclaw?style=flat-square&color=yellow)](https://github.com/swarmclawai/swarmclaw/stargazers) [![Forks](https://img.shields.io/github/forks/swarmclawai/swarmclaw?style=flat-square&color=blue)](https://github.com/swarmclawai/swarmclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools, schedules, delegation, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama). A practical Claude Code and LangChain alternative.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 456 |
-| 🍴 **Forks** | 86 |
+| ⭐ **Stars** | 464 |
+| 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `agent-memory` `agent-runtime` `agent-swarm` `agents` `ai` `ai-agent-framework` `ai-agents` `autonomous-agents` `claude` `claude-code-alternative` `langchain-alternative`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Swarmclaw is an open-source, self-hosted platform that enables the creation, orchestration, and deployment of autonomous agents with advanced AI capabilities. With support for multiple Large Language Model (LLM) providers, including Claude, GPT, and Gemini, and features like memory management, skills, and schedules, Swarmclaw streamlines the development and operation of multi-agent AI systems. This flexible and extensible platform empowers users to build and manage complex AI-driven applications with ease.
+swarmclawai/swarmclaw is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/swarmclawai/swarmclaw) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/swarmclawai/swarmclaw) · [← Back to Orchestration](./README.md)</sub>

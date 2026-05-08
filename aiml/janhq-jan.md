@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chatgpt` `gpt` `llamacpp` `llm` `localai` `open-source` `self-hosted` `tauri`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Jan is an open-source, offline AI chatbot alternative to ChatGPT, allowing users to engage in conversational interactions without requiring an internet connection. This project offers a 100% offline capability, providing users with a secure and self-contained AI experience. By running locally on a user's computer, Jan enables private and autonomous AI conversations.
+janhq/jan is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/janhq/jan) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/janhq/jan) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.3k |
-| 🍴 **Forks** | 824 |
+| 🍴 **Forks** | 825 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`artificial-intelligence` `chatglm` `deployment` `flan-t5` `gemma` `ggml` `glm4` `inference` `llama` `llama3` `llamacpp` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the xorbitsai/inference project:
-
-Xinference is an open-source inference API that enables users to run various large language models (LLMs) and multimodal models on diverse environments, including cloud, on-prem, and laptops. With Xinference, developers can easily switch between different models by modifying a single line of code, making it an ideal solution for model experimentation and deployment. This unified API streamlines the process of building and deploying AI applications.
+xorbitsai/inference is a promising open-source project. Categories: AI/ML, Backend, Product. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/xorbitsai/inference) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/xorbitsai/inference) · [← Back to AI/ML](./README.md)</sub>

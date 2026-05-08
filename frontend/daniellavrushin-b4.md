@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asuswrt` `asuswrt-merlin` `censorship` `censorship-free` `dpi` `geosite` `openwrt` `unblock` `xray` `xray-core` `youtube`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The b4 project is an open-source tool designed to bypass Deep Packet Inspection (DPI) systems by processing network packets in a way that evades detection. This network packet processor offers a user-friendly interface, making it accessible for users to configure and utilize its features effectively. By leveraging b4, users can potentially achieve greater online anonymity and security.
+DanielLavrushin/b4 is a promising open-source project. Categories: Frontend. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/DanielLavrushin/b4) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/DanielLavrushin/b4) · [← Back to Frontend](./README.md)</sub>

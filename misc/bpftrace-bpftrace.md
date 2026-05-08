@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bcc` `bpf` `ebpf` `kprobes` `tracepoints` `tracing` `uprobes` `usdt`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-bpftrace is an open-source, high-level tracing language designed for Linux systems. It allows users to create custom tracing scripts to analyze system behavior, performance, and security without requiring in-depth knowledge of low-level BPF (Berkeley Packet Filter) programming. bpftrace provides a more accessible and user-friendly interface for tracing Linux systems.
+bpftrace is an open-source project that provides a high-level tracing language for Linux, allowing developers to write concise and expressive tracing programs. It leverages the Berkeley Packet Filter (BPF) and the Linux kernel's tracing capabilities to collect and analyze system performance data. With bpftrace, users can write complex tracing logic in a human-readable format, making it easier to investigate and optimize system performance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bpftrace/bpftrace) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bpftrace/bpftrace) · [← Back to Misc](./README.md)</sub>

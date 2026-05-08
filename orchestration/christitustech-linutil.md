@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5k |
-| 🍴 **Forks** | 399 |
+| 🍴 **Forks** | 398 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`linux`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · Design
 
 ## 📝 Summary
 
-Linutil is an open-source, distro-agnostic Linux toolbox designed by Chris Titus Tech to simplify everyday tasks and streamline workflows. This versatile toolkit offers a range of tools and features to help users manage and optimize their Linux experience, making it an invaluable resource for Linux enthusiasts and professionals alike. By providing a centralized interface for common tasks, Linutil aims to make Linux more accessible and efficient.
+ChrisTitusTech/linutil is a promising open-source project. Categories: Orchestration, Design. Interest score: 82/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/ChrisTitusTech/linutil) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ChrisTitusTech/linutil) · [← Back to Orchestration](./README.md)</sub>

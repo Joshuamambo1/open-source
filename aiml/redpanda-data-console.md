@@ -25,9 +25,7 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Redpanda Console is an open-source, developer-friendly UI that provides visibility and management capabilities for Kafka/Redpanda workloads. It offers a simple, interactive approach to exploring topics, masking data, managing consumer groups, and debugging real-time data with time-travel functionality. This tool is designed to streamline development and troubleshooting processes for AI/ML and other applications that rely on these workloads.
+redpanda-data/console is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 86/100.
 
 ---
 

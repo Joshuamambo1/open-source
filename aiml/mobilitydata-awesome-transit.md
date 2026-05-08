@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome-list` `bus` `datasets` `gtfs` `gtfs-analysis` `gtfs-converters` `gtfs-feed` `gtfs-files` `gtfs-libraries` `gtfs-realtime` `gtfs-utils`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-The MobilityData/awesome-transit repository is a community-driven collection of transit-related APIs, applications, datasets, research, and software. It serves as a comprehensive resource for developers, researchers, and data analysts working with transportation data, providing access to a wide range of transit-related tools and information. This open-source project aims to facilitate collaboration and innovation in the field of transit data management and analysis.
+MobilityData/awesome-transit is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/MobilityData/awesome-transit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/MobilityData/awesome-transit) · [← Back to AI/ML](./README.md)</sub>

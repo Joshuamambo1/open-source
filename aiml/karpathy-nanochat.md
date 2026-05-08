@@ -12,12 +12,12 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 36/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-01 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
 
-_no topics_
+`devto` `ai` `machinelearning` `python` `ai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project is an implementation of Karpathy's NanoChat in JAX, aiming to compare and contrast the performance of XLA (Accelerated Linear Algebra) in this context. By rebuilding the original chatbot, the project evaluates the strengths and weaknesses of XLA in achieving efficient machine learning computations. This project offers valuable insights for developers working with AI/ML and frontend technologies.
+I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong. is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 36/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/karpathy/nanochat) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/karpathy/nanochat) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23.8k |
+| ⭐ **Stars** | 24k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acp` `agent-team` `ai` `ai-agent` `chat` `chatbot` `claude-code` `clawdbot` `codex` `cowork` `gemini` `gemini-cli`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the iOfficeAI/AionUi project:
-
-AionUi is a free, open-source, and locally accessible coworking app that provides a 24/7 collaborative environment. It supports various AI tools and libraries, including Gemini CLI, Claude Code, Codex, and more, through OpenClaw. This project aims to improve productivity and streamline workflow by integrating multiple AI resources within a single interface.
+iOfficeAI/AionUi is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/iOfficeAI/AionUi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/iOfficeAI/AionUi) · [← Back to AI/ML](./README.md)</sub>

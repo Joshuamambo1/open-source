@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`confluence` `documentation` `knowledge-base` `mediawiki` `notion` `notion-alternative` `open-source` `opensource` `realtime-collaboration` `wiki`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Docmost is a free and open-source collaborative wiki and documentation platform that enables teams to create, share, and manage knowledge bases efficiently. As a Confluence and Notion alternative, docmost offers a flexible and customizable solution for documentation needs, perfect for teams and organizations of all sizes. Its open-source nature makes it highly customizable and community-driven.
+docmost/docmost is a promising open-source project. Categories: Misc. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/docmost/docmost) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/docmost/docmost) · [← Back to Misc](./README.md)</sub>

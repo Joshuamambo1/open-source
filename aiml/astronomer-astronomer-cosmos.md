@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`airflow` `airflow-operators` `apache-airflow` `dbt` `python` `workflow`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The astronomer/astronomer-cosmos project simplifies the process of integrating data transformation with workflow management by enabling the seamless execution of dbt Core or dbt Fusion projects as Apache Airflow DAGs and Task Groups. With just a few lines of code, users can automate their data pipelines and take advantage of the powerful features of Airflow. This integration streamlines data workflows and enhances productivity for data teams.
+astronomer/astronomer-cosmos is a promising open-source project. Categories: AI/ML. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/astronomer/astronomer-cosmos) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/astronomer/astronomer-cosmos) · [← Back to AI/ML](./README.md)</sub>

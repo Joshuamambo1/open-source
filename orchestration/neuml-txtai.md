@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 12.5k |
-| 🍴 **Forks** | 807 |
+| 🍴 **Forks** | 809 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agents` `embeddings` `information-retrieval` `language-model` `large-language-models` `llm` `nlp` `python` `rag` `retrieval-augmented-generation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-The txtai project is an open-source, all-in-one AI framework designed to simplify the development of complex language-based applications. It provides a comprehensive set of tools for semantic search, Large Language Model (LLM) orchestration, and language model workflows, making it an ideal solution for AI/ML and data-intensive projects. With txtai, developers can streamline their workflows and focus on building innovative AI-powered solutions.
+neuml/txtai is a promising open-source project. Categories: Orchestration, AI/ML, Data. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/neuml/txtai) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/neuml/txtai) · [← Back to Orchestration](./README.md)</sub>

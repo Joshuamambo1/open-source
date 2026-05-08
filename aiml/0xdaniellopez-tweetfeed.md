@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blueteam` `malware` `malware-detection` `malware-research` `osint` `phishing` `phishing-attacks` `phishing-detection` `phishing-sites`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here is a brief summary of the TweetFeed project:
-
-TweetFeed is an open-source project that aggregates Indicators of Compromise (IOCs) shared by the infosec community on Twitter. This collection includes malicious URLs, domains, IPs, and hashes (SHA256/MD5), serving as a valuable resource for threat intelligence and security research. By leveraging AI/ML and community-driven data, TweetFeed provides a centralized platform for tracking and analyzing cybersecurity threats.
+0xDanielLopez/TweetFeed is a promising open-source project. Categories: AI/ML. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/0xDanielLopez/TweetFeed) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/0xDanielLopez/TweetFeed) · [← Back to AI/ML](./README.md)</sub>

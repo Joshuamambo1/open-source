@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 137 |
+| 🍴 **Forks** | 139 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`object-storage` `rust` `s3`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the doisfleurs-org/garage project:
-
-Garage is an open-source, S3-compatible object store designed for small-scale, self-hosted geo-distributed deployments. This project allows users to manage and store large amounts of data, such as those used in AI/ML applications, across multiple locations. By providing a decentralized and accessible solution, Garage empowers users to maintain control over their data while promoting flexibility and scalability.
+deuxfleurs-org/garage is a promising open-source project. Categories: AI/ML. Interest score: 72/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/deuxfleurs-org/garage) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/deuxfleurs-org/garage) · [← Back to AI/ML](./README.md)</sub>

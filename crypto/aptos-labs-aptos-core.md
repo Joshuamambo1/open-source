@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aptos` `blockchain` `blockchain-network` `move` `smart-contracts`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-aptos-labs/aptos-core is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 96/100.
+aptos-labs/aptos-core is a promising open-source project. Categories: Crypto, AI/ML, Frontend. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/aptos-labs/aptos-core) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/aptos-labs/aptos-core) · [← Back to Crypto](./README.md)</sub>

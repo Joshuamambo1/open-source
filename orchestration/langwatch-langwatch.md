@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 313 |
+| 🍴 **Forks** | 317 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `analytics` `datasets` `dspy` `evaluation` `gpt` `llm` `llm-ops` `llmops` `low-code` `observability` `openai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The langwatch project is an open-source platform designed for evaluating Large Language Models (LLMs) and testing AI agents. It provides a comprehensive toolset for orchestration and development, making it easier to assess and refine AI capabilities. This platform facilitates the evaluation and improvement of LLMs and AI agents, driving innovation in the field of artificial intelligence.
+langwatch/langwatch is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/langwatch/langwatch) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/langwatch/langwatch) · [← Back to Orchestration](./README.md)</sub>

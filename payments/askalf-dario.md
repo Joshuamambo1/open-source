@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 185 |
-| 🍴 **Forks** | 34 |
+| ⭐ **Stars** | 189 |
+| 🍴 **Forks** | 35 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `anthropic` `api` `claude` `claude-max` `claude-pro` `cli` `developer-tools` `groq` `litellm` `llm` `llm-router`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the askalf/dario project:
-
-Dario is an open-source, local LLM (Large Language Model) router that provides a unified endpoint for various LLM services, including Claude Max/Pro, OpenAI, and others. It supports OAuth for Claude subscriptions, multi-account pooling, and MCP server functionality, allowing developers to easily integrate multiple models into their applications. By using Dario, developers can simplify their tooling and focus on building AI-powered applications without worrying about runtime dependencies.
+askalf/dario is a promising open-source project. Categories: Payments, AI/ML, Backend. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/askalf/dario) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/askalf/dario) · [← Back to Payments](./README.md)</sub>

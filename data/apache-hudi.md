@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apacheflink` `apachehudi` `apachespark` `bigdata` `data-integration` `datalake` `hudi` `incremental-processing` `stream-processing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The Apache Hudi project enables efficient and scalable data management for big data workloads by providing high-performance capabilities for upserts, deletes, and incremental data processing. It achieves this through the use of a log-based storage layout and advanced features for data ingestion and querying. By leveraging Hudi, users can simplify their data pipelines and improve the overall performance of their big data applications.
+apache/hudi is a promising open-source project. Categories: Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/apache/hudi) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apache/hudi) · [← Back to Data](./README.md)</sub>

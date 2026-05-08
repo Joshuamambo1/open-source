@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 516 |
+| ⭐ **Stars** | 4.5k |
+| 🍴 **Forks** | 519 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-teams` `openclaw`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The HiClaw project is an open-source Collaborative Multi-Agent OS designed for transparent task coordination. It enables human-in-the-loop collaboration through Matrix rooms, facilitating real-time interaction between humans and AI agents. This platform aims to bridge the gap between human expertise and AI capabilities, promoting efficient and informed decision-making.
+agentscope-ai/HiClaw is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 81/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/agentscope-ai/HiClaw) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/agentscope-ai/HiClaw) · [← Back to Orchestration](./README.md)</sub>

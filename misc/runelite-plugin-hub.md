@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`runelite`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-RuneLite Plugin Hub is an open-source project that offers a platform for users to discover, download, and manage external plugins for the popular RuneLite client. This project aims to provide a centralized hub for plugin creators to share their work and users to easily access and install their favorite plugins, enhancing the overall user experience of RuneLite. By leveraging the plugin hub, users can expand the capabilities of their RuneLite client with a vast array of custom features and tools.
+runelite/plugin-hub is a promising open-source project. Categories: Misc. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/runelite/plugin-hub) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/runelite/plugin-hub) · [← Back to Misc](./README.md)</sub>

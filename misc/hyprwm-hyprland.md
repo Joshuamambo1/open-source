@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 35.5k |
+| ⭐ **Stars** | 35.6k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compositor` `cpp26` `wayland` `wayland-compositor`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Hyprland is a highly customizable and visually appealing Wayland compositor that offers a dynamic tiling system. This open-source project allows users to create a personalized desktop environment with a wide range of customization options. As an independent and dynamic tiling Wayland compositor, Hyprland offers users a unique and flexible way to manage their desktop space.
+Hyprland is an open-source, highly customizable Wayland compositor that offers a dynamic tiling system and stunning visuals. As a standalone project, it provides users with a wide range of options to tailor their desktop environment to their preferences. With its focus on aesthetics and flexibility, Hyprland is an attractive alternative for those seeking a visually appealing and highly customizable tiling window manager.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/hyprwm/Hyprland) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hyprwm/Hyprland) · [← Back to Misc](./README.md)</sub>

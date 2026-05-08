@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 36.6k |
+| ⭐ **Stars** | 36.7k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`browser` `rust` `servo` `web` `webbrowser` `webengine` `webplatform`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the servo project:
-
-Servo is an open-source project that provides a fast and lightweight engine for embedding web technologies in applications, allowing developers to harness the power of the web in their own software. As a high-performance alternative, Servo empowers developers to create efficient and scalable applications. Its focus on AI/ML and DevTools makes it an attractive solution for modern application development.
+servo/servo is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/servo/servo) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/servo/servo) · [← Back to AI/ML](./README.md)</sub>

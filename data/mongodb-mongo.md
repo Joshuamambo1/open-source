@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.8k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `database` `mongodb` `nosql`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ mongodb/mongo is a promising open-source project. Categories: Data. Interest sco
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/mongodb/mongo) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mongodb/mongo) · [← Back to Data](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 32.2k |
+| ⭐ **Stars** | 32.3k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`multiplexer` `terminal` `workspace`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Zellij is an open-source terminal workspace that provides a comprehensive set of features to enhance productivity. It offers a customizable and extensible environment for managing multiple terminals, tabs, and panes, providing users with a more efficient and organized workspace. With its "batteries included" approach, Zellij ships with a wide range of features out-of-the-box, making it an attractive choice for developers and power users.
+zellij-org/zellij is a promising open-source project. Categories: Misc. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/zellij-org/zellij) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/zellij-org/zellij) · [← Back to Misc](./README.md)</sub>

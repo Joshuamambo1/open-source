@@ -25,7 +25,7 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-NocoBase is an open-source platform that combines the power of AI with a no-code interface to rapidly build business systems. By leveraging production-proven infrastructure and a visual drag-and-drop interface, users can create robust systems quickly and reliably. This innovative approach streamlines the development process, making it ideal for businesses that need to quickly respond to changing market demands.
+nocobase/nocobase is a promising open-source project. Categories: AI/ML, Frontend, DevOps/Infra. Interest score: 100/100.
 
 ---
 

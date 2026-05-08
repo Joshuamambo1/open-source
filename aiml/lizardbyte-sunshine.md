@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cpp` `docker` `flathub-pkg` `game-stream` `game-streaming` `game-streaming-server` `geforce-experience` `homebrew-pkg` `maintainer-wanted` `moonlight` `pacman-pkg` `python`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ LizardByte/Sunshine is a promising open-source project. Categories: AI/ML, Backe
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/LizardByte/Sunshine) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/LizardByte/Sunshine) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cdp` `cms` `cms-framework` `customer-data-platform` `dam` `data-management` `digital-platform` `ecommerce` `ecommerce-platform` `experience-manager` `hacktoberfest` `master-data-management`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · Product
 
 ## 📝 Summary
 
-The Pimcore project is an open-source, core framework for a comprehensive data and experience management platform. It provides a unified architecture for Product Information Management (PIM), Master Data Management (MDM), Customer Data Platform (CDP), Digital Asset Management (DAM), Digital Experience Platform (DXP/CMS), and Digital Commerce, enabling businesses to manage and integrate their data and customer experiences across various channels. This flexible and scalable framework empowers organizations to streamline their data management and enhance their customer experiences.
+pimcore/pimcore is a promising open-source project. Categories: Data, Product. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/pimcore/pimcore) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pimcore/pimcore) · [← Back to Data](./README.md)</sub>

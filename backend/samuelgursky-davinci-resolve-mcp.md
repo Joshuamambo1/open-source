@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 972 |
+| ⭐ **Stars** | 991 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blackmagic` `blackmagic-design` `blackmagicdesign` `davinci-resolve` `davinciresolve` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Design
 
 ## 📝 Summary
 
-The davinci-resolve-mcp project integrates a MediaCentral Platform (MCP) server with DaVinci Resolve, a professional video editing software. This integration enables seamless media management and content exchange between MCP and DaVinci Resolve, streamlining workflows for media professionals. By leveraging this open-source solution, users can enhance their collaboration and productivity capabilities.
+This open-source project, created by samuelgursky/davinci-resolve-mcp, integrates the MediaCentral Platform (MCP) server with DaVinci Resolve, enabling seamless collaboration and media management between the two systems. The integration allows users to access and manage their media assets from within DaVinci Resolve, streamlining their workflow and increasing productivity. This project aims to enhance the overall user experience by bridging the gap between DaVinci Resolve and MCP server.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/samuelgursky/davinci-resolve-mcp) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/samuelgursky/davinci-resolve-mcp) · [← Back to Backend](./README.md)</sub>

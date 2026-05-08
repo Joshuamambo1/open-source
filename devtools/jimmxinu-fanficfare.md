@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 212 |
+| 🍴 **Forks** | 213 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`calibre-plugin` `cli` `downloader` `ebook` `epub` `fanfiction` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-FanFicFare is an open-source tool designed to simplify the process of creating eBooks from stories found on fanfiction and other web-based platforms. This user-friendly application allows users to easily collect and organize their favorite fan-created content into a readable eBook format. By streamlining the eBook creation process, FanFicFare makes it easier for fans to enjoy and share their favorite stories in a convenient digital format.
+JimmXinu/FanFicFare is a promising open-source project. Categories: DevTools. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/JimmXinu/FanFicFare) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/JimmXinu/FanFicFare) · [← Back to DevTools](./README.md)</sub>

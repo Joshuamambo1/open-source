@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The PixarAnimationStudios/OpenUSD project is an open-source implementation of the Universal Scene Description (USD) framework, enabling the creation and management of complex 3D scenes and animations. This cross-platform, open-source solution facilitates the development of interactive and immersive experiences, making it a valuable resource for artists, developers, and researchers. By providing a standardized format for scene representation, OpenUSD promotes collaboration and interchangeability across various platforms and applications.
+PixarAnimationStudios/OpenUSD is a promising open-source project. Categories: Mobile. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/PixarAnimationStudios/OpenUSD) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/PixarAnimationStudios/OpenUSD) · [← Back to Mobile](./README.md)</sub>

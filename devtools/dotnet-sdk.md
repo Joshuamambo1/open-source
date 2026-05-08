@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `dotnet` `sdk` `visual-studio`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ dotnet/sdk is a promising open-source project. Categories: DevTools. Interest sc
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/dotnet/sdk) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dotnet/sdk) · [← Back to DevTools](./README.md)</sub>

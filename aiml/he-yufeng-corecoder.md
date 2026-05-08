@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 667 |
-| 🍴 **Forks** | 179 |
+| ⭐ **Stars** | 675 |
+| 🍴 **Forks** | 183 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `claude-code` `cli` `coding-agent` `corecoder` `deepseek` `developer-tools` `llm` `openai` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the he-yufeng/CoreCoder project:
-
-CoreCoder is a lightweight, open-source AI coding agent developed in Python (~950 lines of code), inspired by Claude Code. It utilizes any Large Language Model (LLM) to provide a coding assistant experience similar to NanoGPT, but tailored for coding agents. This project offers a minimal yet effective coding assistant solution for developers.
+he-yufeng/CoreCoder is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/he-yufeng/CoreCoder) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/he-yufeng/CoreCoder) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `developer-tools` `ethereum` `graphql` `graphql-api` `graphql-server` `ipfs` `protocol`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Backend
 
 ## 📝 Summary
 
-Graph Node is an open-source project that indexes data from various blockchains, including Ethereum, and serves it via GraphQL. This allows developers to easily query and retrieve blockchain data in a structured and efficient manner. By leveraging GraphQL, Graph Node provides a powerful querying interface for building decentralized applications and AI/ML models that require blockchain data.
+graphprotocol/graph-node is a promising open-source project. Categories: Crypto, AI/ML, Backend. Interest score: 87/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/graphprotocol/graph-node) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/graphprotocol/graph-node) · [← Back to Crypto](./README.md)</sub>

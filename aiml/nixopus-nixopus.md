@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 125 |
+| 🍴 **Forks** | 126 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agents` `ci-cd` `coolify` `cursor` `deployment` `golang` `heroku` `infrastructure` `mcp` `netlify`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-nixopus is a fully agentic platform that enables users to run production applications without worrying about the underlying infrastructure, whether on their own servers or in the cloud. This AI-driven platform streamlines the process of deploying and managing applications, making it an ideal solution for developers and businesses looking to simplify their workflow. By automating infrastructure management, nixopus frees users to focus on what matters most: building and delivering high-quality applications.
+nixopus/nixopus is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nixopus/nixopus) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nixopus/nixopus) · [← Back to AI/ML](./README.md)</sub>

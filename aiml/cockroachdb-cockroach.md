@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cockroachdb` `database` `distributed-database` `go` `hacktoberfest` `sql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data · Design
 
 ## 📝 Summary
 
-CockroachDB is an open-source, cloud-native SQL database that provides high availability, effortless scalability, and fine-grained control over data placement. This distributed database is designed to offer a reliable and flexible way to manage large-scale data sets, making it suitable for a wide range of applications. By leveraging its cloud-agnostic architecture, developers can easily deploy and scale their database infrastructure to meet the demands of their modern data-driven applications.
+cockroachdb/cockroach is a promising open-source project. Categories: AI/ML, Data, Design. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cockroachdb/cockroach) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cockroachdb/cockroach) · [← Back to AI/ML](./README.md)</sub>

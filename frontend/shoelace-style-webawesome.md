@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 137 |
+| 🍴 **Forks** | 138 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`designsystems` `opensource` `webcomponents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-Web Awesome is an open-source library of web components, built in collaboration with Font Awesome, that helps developers create high-quality websites. This library is designed to simplify the development process, enabling users to build websites faster and more efficiently. With Web Awesome, developers can leverage a comprehensive set of web components to enhance their website's design and functionality.
+shoelace-style/webawesome is a promising open-source project. Categories: Frontend, Design. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/shoelace-style/webawesome) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/shoelace-style/webawesome) · [← Back to Frontend](./README.md)</sub>

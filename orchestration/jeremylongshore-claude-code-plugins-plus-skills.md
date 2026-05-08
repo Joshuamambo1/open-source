@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 285 |
+| 🍴 **Forks** | 286 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `ai` `ai-agents` `anthropic` `automation` `claude-code` `claude-code-plugins` `developer-tools` `devops` `llm` `marketplace` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The jeremylongshore/claude-code-plugins-plus-skills project is an open-source marketplace that provides a vast array of plugins, skills, and agents for Claude Code, a code-based AI model. It comprises 423 plugins, 2,849 skills, and 177 agents, offering extensive capabilities to users. This extensive library can be accessed and managed through the tonsofskills.com platform and the ccpi CLI package manager.
+jeremylongshore/claude-code-plugins-plus-skills is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 69/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) · [← Back to Orchestration](./README.md)</sub>

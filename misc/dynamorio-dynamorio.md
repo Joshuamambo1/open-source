@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 608 |
 | 💻 **Language** | C |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analysis-framework` `binary-analysis` `cache-simulator` `dynamorio` `instrumentation` `linux` `profiling` `simulator` `toolkit` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-DynamoRIO is an open-source dynamic instrumentation tool platform that allows developers to create custom tools for monitoring and modifying the behavior of running applications. It provides a flexible and extensible framework for injecting instrumentation into applications, enabling a wide range of use cases such as performance analysis, debugging, and security testing. With DynamoRIO, developers can create powerful tools to extract insights from complex software systems.
+DynamoRIO is an open-source dynamic instrumentation tool platform that provides a flexible and customizable environment for analyzing and modifying the behavior of applications in real-time. This platform enables researchers, developers, and security professionals to dynamically inject code, monitor system calls, and observe memory access patterns, offering unparalleled insights into system and application behavior. By leveraging its modular architecture, users can create custom plugins and tools to suit their specific needs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/DynamoRIO/dynamorio) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/DynamoRIO/dynamorio) · [← Back to Misc](./README.md)</sub>

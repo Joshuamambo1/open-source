@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`rag` `similarity-search` `svs` `vector-search`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Intel Scalable Vector Search (SVS) project is an open-source AI/ML library that leverages scalable vector search technology to enable efficient querying and similarity lookup in high-dimensional vector spaces. This library is designed to facilitate rapid development of complex search applications and can be applied in various fields, including computer vision, natural language processing, and recommender systems. By utilizing scalable vector search, developers can improve the performance and accuracy of their AI-powered applications.
+The Scalable Vector Search (SVS) project is an open-source AI/ML library developed by Intel, designed to efficiently search through large vector spaces. It provides a scalable and optimized solution for nearest neighbor search, allowing developers to leverage the power of vector similarity search in their applications. With SVS, users can quickly and accurately search through complex vector data, enabling innovative AI and ML use cases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/intel/ScalableVectorSearch) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/intel/ScalableVectorSearch) · [← Back to AI/ML](./README.md)</sub>

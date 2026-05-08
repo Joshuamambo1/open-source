@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 9.1k |
 | 💻 **Language** | C |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bluetooth` `bluetooth-le` `embedded` `embedded-c` `iot` `mcu` `microcontroller` `real-time` `rtos` `zephyr` `zephyr-rtos` `zephyros`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Zephyr Project:
-
-The Zephyr Project is an open-source, scalable, and secure Real-Time Operating System (RTOS) designed for multiple hardware architectures. This new generation RTOS is optimized for performance, power efficiency, and reliability, making it suitable for a wide range of applications, from IoT devices to industrial control systems. With its modular design and extensive community support, Zephyr enables developers to create efficient, secure, and connected devices.
+zephyrproject-rtos/zephyr is a promising open-source project. Categories: Misc. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/zephyrproject-rtos/zephyr) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/zephyrproject-rtos/zephyr) · [← Back to Misc](./README.md)</sub>

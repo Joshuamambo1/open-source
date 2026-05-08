@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`iced` `irc` `rust`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ squidowl/halloy is a promising open-source project. Categories: Frontend. Intere
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/squidowl/halloy) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/squidowl/halloy) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agnostic` `anthropic` `api` `cohere` `deepseek-v4-pro` `gateway` `gateway-api` `golang` `inference-api` `kubernetes` `llm` `openai`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The inference-gateway project is an open-source, cloud-native gateway that unifies multiple Large Language Model (LLM) providers, allowing seamless integration and switching between local solutions and major cloud providers. This high-performance gateway enables developers to easily orchestrate and deploy LLM models from various sources, including Ollama, OpenAI, Groq, Cohere, Anthropic, Cloudflare, and DeepSeek. By streamlining access to these models, the inference-gateway facilitates the development of AI-powered applications.
+inference-gateway/inference-gateway is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/inference-gateway/inference-gateway) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/inference-gateway/inference-gateway) · [← Back to Orchestration](./README.md)</sub>

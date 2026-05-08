@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.2k |
-| 🍴 **Forks** | 475 |
+| 🍴 **Forks** | 477 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bun` `csharp` `document-intelligence` `elixir` `ffi` `golang` `java` `metadata-extraction` `node` `pdf-extraction` `pdfium` `php`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the kreuzberg project:
-
-Kreuzberg is an open-source, polyglot document intelligence framework that utilizes a Rust core to extract valuable information from a wide range of file formats, including PDFs, Office documents, and images. This versatile framework provides APIs and CLI tools for various programming languages, making it accessible to developers across multiple ecosystems. With support for over 97 file formats, kreuzberg enables efficient document processing and analysis in AI/ML and backend applications.
+kreuzberg-dev/kreuzberg is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 92/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kreuzberg-dev/kreuzberg) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kreuzberg-dev/kreuzberg) · [← Back to AI/ML](./README.md)</sub>

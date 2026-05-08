@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cart` `checkout` `commerce` `composable` `e-commerce` `ecommerce` `graphql` `headless` `headless-commerce` `multichannel` `oms` `order-management`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Saleor project:
-
-Saleor Core is an open-source, high-performance commerce API that enables developers to build scalable and composable headless e-commerce applications. This headless commerce API provides a flexible and modular architecture, allowing businesses to integrate various third-party services and customize their e-commerce experiences. By leveraging Saleor Core, developers can create robust and efficient commerce solutions that meet the needs of modern e-commerce businesses.
+saleor/saleor is a promising open-source project. Categories: Payments, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/saleor/saleor) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/saleor/saleor) · [← Back to Payments](./README.md)</sub>

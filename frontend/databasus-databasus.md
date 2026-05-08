@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.7k |
-| 🍴 **Forks** | 348 |
+| ⭐ **Stars** | 6.8k |
+| 🍴 **Forks** | 351 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`backup` `backups` `database` `database-backup` `devops` `docker` `golang` `kubernetes` `mariadb` `mongodb` `mysql` `pg`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Databasus is an open-source, multi-database backup tool that supports PostgreSQL, MySQL/MariaDB, and MongoDB. This versatile tool enables users to efficiently manage and automate database backups, ensuring data integrity and availability. With its simplicity and flexibility, databasus is an ideal solution for developers and DevOps teams seeking a reliable database backup solution.
+databasus/databasus is a promising open-source project. Categories: Frontend, Data, DevOps/Infra. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/databasus/databasus) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/databasus/databasus) · [← Back to Frontend](./README.md)</sub>

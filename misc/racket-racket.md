@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.1k |
-| 🍴 **Forks** | 692 |
+| 🍴 **Forks** | 691 |
 | 💻 **Language** | Racket |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`racket`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Racket repository is an open-source project that provides a comprehensive collection of tools and resources for the Racket programming language. This repository serves as a central hub for developers to access and contribute to the language, its ecosystem, and related projects. By leveraging Racket's robust features and extensive community support, developers can create a wide range of applications, from scripting and web development to research and education.
+racket/racket is a promising open-source project. Categories: Misc. Interest score: 87/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/racket/racket) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/racket/racket) · [← Back to Misc](./README.md)</sub>

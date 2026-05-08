@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.8k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`code-editor` `ide` `intellij` `intellij-community` `intellij-platform`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The JetBrains/intellij-community project is an open-source repository that hosts the core IntelliJ Platform and the IntelliJ IDEA IDE. This platform serves as the foundation for various JetBrains products, including IntelliJ IDEA, WebStorm, and PyCharm, and provides a wide range of APIs and tooling for plugin development. The project's open-source nature allows the community to contribute to the platform's evolution and improve its features and functionality.
+JetBrains/intellij-community is a promising open-source project. Categories: AI/ML. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/JetBrains/intellij-community) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/JetBrains/intellij-community) · [← Back to AI/ML](./README.md)</sub>

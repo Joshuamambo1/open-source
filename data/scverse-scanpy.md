@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 741 |
+| 🍴 **Forks** | 742 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anndata` `bioinformatics` `data-science` `machine-learning` `python` `scanpy` `scverse` `transcriptomics` `visualize-data`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Scanpy is an open-source Python library for single-cell analysis, capable of handling large datasets exceeding 100 million cells. It offers a comprehensive toolkit for processing and visualizing single-cell RNA sequencing data, allowing researchers to gain insights into cellular heterogeneity and dynamics. By leveraging scanpy, scientists can efficiently uncover complex cellular phenomena and explore the intricacies of biological systems.
+scverse/scanpy is a promising open-source project. Categories: Data. Interest score: 78/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/scverse/scanpy) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/scverse/scanpy) · [← Back to Data](./README.md)</sub>

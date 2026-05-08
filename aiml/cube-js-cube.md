@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-analytics` `agents` `ai` `analytics` `bi` `bigquery` `business-intelligence` `businessintelligence` `conversational-analytics` `cube` `databricks` `embedded-analytics`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Cube is an open-source semantic layer that simplifies data modeling, integration, and analysis for AI, business intelligence, and embedded analytics applications. It enables developers to build data-driven applications by providing a unified interface for data access, manipulation, and visualization. With Cube, users can create scalable, performant, and maintainable data pipelines that support a wide range of analytics use cases.
+cube-js/cube is a promising open-source project. Categories: AI/ML, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cube-js/cube) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cube-js/cube) · [← Back to AI/ML](./README.md)</sub>

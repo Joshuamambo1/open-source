@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`kubernetes` `kubetui` `monitor` `ratatui` `rust` `terminal` `tui` `tui-rs`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the sarub0b0/kubetui project:
-
-Kubetui is an open-source Terminal User Interface (TUI) tool designed for real-time monitoring and exploration of Kubernetes resources. This intuitive interface provides developers and operators with a simplified way to inspect and manage their Kubernetes clusters. With kubetui, users can efficiently navigate and interact with their Kubernetes resources from the comfort of their terminal.
+sarub0b0/kubetui is a promising open-source project. Categories: Frontend, DevOps/Infra. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/sarub0b0/kubetui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/sarub0b0/kubetui) · [← Back to Frontend](./README.md)</sub>

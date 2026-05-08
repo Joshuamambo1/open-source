@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`books` `hacktoberfest` `internet-archive` `library-catalogue` `open-source`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The internetarchive/openlibrary project is an ambitious open-source initiative that aims to provide a comprehensive online catalog of every book ever published. The project's goal is to create a single webpage for each book, making it a vast and accessible repository of literary knowledge. By aggregating metadata and information from various sources, openlibrary strives to create a unified and inclusive platform for book lovers and researchers alike.
+internetarchive/openlibrary is a promising open-source project. Categories: Misc. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/internetarchive/openlibrary) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/internetarchive/openlibrary) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `api` `automation` `browser` `browser-automation` `computer` `gpt` `llm` `playwright` `powerautomate` `puppeteer` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The Skyvern project is an open-source initiative that leverages AI to automate browser-based workflows, streamlining tasks and increasing efficiency. By harnessing the power of artificial intelligence, Skyvern enables users to automate complex interactions with web applications, saving time and reducing manual labor. This innovative solution has the potential to revolutionize the way we interact with digital systems.
+Skyvern-AI/skyvern is a promising open-source project. Categories: AI/ML, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Skyvern-AI/skyvern) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Skyvern-AI/skyvern) · [← Back to AI/ML](./README.md)</sub>

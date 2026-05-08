@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.3k |
-| 🍴 **Forks** | 859 |
+| 🍴 **Forks** | 869 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`binary-authorization` `configuration-management` `device-management` `gitops` `ios` `linux` `macos` `mdm` `open-source` `orchestration` `osquery` `patching`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · Mobile · Security
 
 ## 📝 Summary
 
-fleetdm/fleet is a promising open-source project. Categories: Mobile, Security. Interest score: 98/100.
+fleetdm/fleet is a promising open-source project. Categories: Orchestration, Mobile, Security. Interest score: 98/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/fleetdm/fleet) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/fleetdm/fleet) · [← Back to Orchestration](./README.md)</sub>

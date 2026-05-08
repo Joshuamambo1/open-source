@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`editor-plugin` `intellij` `intellij-plugin` `phpstorm` `svelte` `webstorm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The tomblachut/svelte-intellij project provides a plugin for IntelliJ-based IDEs, allowing developers to work with Svelte components within WebStorm and similar environments. This plugin aims to enhance the development experience for Svelte developers by offering native support and functionality within their preferred IDE. By integrating Svelte into IntelliJ-based IDEs, developers can streamline their workflow and improve overall productivity.
+tomblachut/svelte-intellij is a promising open-source project. Categories: Misc. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/tomblachut/svelte-intellij) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tomblachut/svelte-intellij) · [← Back to Misc](./README.md)</sub>

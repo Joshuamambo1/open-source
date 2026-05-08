@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`documentation` `hacktoberfest` `manual` `nextcloud` `sphinx`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The nextcloud/documentation project is an open-source initiative that provides comprehensive documentation for Nextcloud, a popular self-hosted cloud solution. This documentation aims to support users, administrators, and developers in getting the most out of Nextcloud's features and capabilities. Through this project, users can access up-to-date and community-driven guides, tutorials, and resources to enhance their Nextcloud experience.
+nextcloud/documentation is a promising open-source project. Categories: Misc. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nextcloud/documentation) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nextcloud/documentation) · [← Back to Misc](./README.md)</sub>

@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "jay3-yy/BiliPai":
-
-BiliPai is an open-source project that offers a native, pure, and extensible way to redefine your Bilibili experience. This AI/ML project empowers users to customize and enhance their interactions with the popular video-sharing platform. By leveraging its extensible architecture, users can tailor their Bilibili experience to suit their unique preferences and needs.
+jay3-yy/BiliPai is a promising open-source project. Categories: AI/ML. Interest score: 59/100.
 
 ---
 

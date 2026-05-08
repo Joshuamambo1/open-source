@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.4k |
-| 🍴 **Forks** | 193 |
+| ⭐ **Stars** | 5.5k |
+| 🍴 **Forks** | 195 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compose` `container-management` `containers` `docker` `docker-compose` `docker-management` `go` `self-hosted` `sveltekit` `typescript` `web-ui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the 'arcane' project:
+Here's a brief summary for the open-source project "getarcaneapp/arcane":
 
-Arcane is an open-source project that aims to redefine modern Docker management, providing a user-friendly interface for users of all levels. With its intuitive design, arcane streamlines container orchestration, empowering developers to manage Docker environments with ease. This project is an excellent solution for those seeking efficient and accessible Docker management.
+Arcane is an open-source project that streamlines modern Docker management, making it accessible to users of all skill levels. With its intuitive interface and robust features, Arcane simplifies the process of building, deploying, and managing containerized applications. By providing a user-friendly experience, Arcane aims to democratize Docker management and accelerate the development of cloud-native applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/getarcaneapp/arcane) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/getarcaneapp/arcane) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 170.8k |
+| ⭐ **Stars** | 170.9k |
 | 🍴 **Forks** | 16k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deepseek` `gemma` `gemma3` `glm` `go` `golang` `gpt-oss` `llama` `llama3` `llm` `llms` `minimax`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Ollama is an open-source project that offers a centralized platform for developers to get started with various AI and ML models, including Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma, and more. This project aims to simplify the process of working with these models, making it easier for users to explore and utilize their capabilities. By providing a unified interface for these models, Ollama enables developers to focus on building innovative applications and projects.
+ollama/ollama is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ollama/ollama) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ollama/ollama) · [← Back to AI/ML](./README.md)</sub>

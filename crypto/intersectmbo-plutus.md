@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 511 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `programming-language` `smart-contracts`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the IntersectMBO/plutus project:
-
-Plutus is an open-source project that provides a language implementation and tools for building secure and scalable applications. This project combines the fields of cryptocurrency and artificial intelligence/machine learning, enabling developers to create cutting-edge solutions. By leveraging Plutus, users can harness the power of a robust platform for building innovative applications.
+IntersectMBO/plutus is a promising open-source project. Categories: Crypto, AI/ML. Interest score: 63/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/IntersectMBO/plutus) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/IntersectMBO/plutus) · [← Back to Crypto](./README.md)</sub>

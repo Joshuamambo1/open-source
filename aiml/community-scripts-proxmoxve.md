@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alpine` `authentification` `container` `debian` `docker` `home-assistant` `home-automation` `homelab` `homelab-setup` `lxc` `network` `proxmox`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-The Proxmox VE Helper-Scripts (Community Edition) is an open-source project providing a collection of automation scripts for Proxmox VE, a popular open-source virtualization platform. Designed to streamline tasks and improve efficiency, these scripts cater to the needs of DevOps professionals, system administrators, and users seeking to simplify the management of their Proxmox VE environment. The project is categorized under AI/ML, DevOps/Infra, and Security, highlighting its potential for automation in various aspects of infrastructure management.
+community-scripts/ProxmoxVE is a promising open-source project. Categories: AI/ML, DevOps/Infra, Security. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/community-scripts/ProxmoxVE) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/community-scripts/ProxmoxVE) · [← Back to AI/ML](./README.md)</sub>

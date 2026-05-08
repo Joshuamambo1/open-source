@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.4k |
-| 🍴 **Forks** | 599 |
+| ⭐ **Stars** | 6.7k |
+| 🍴 **Forks** | 619 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`account-manager` `ai` `antigravity` `codebuddy` `codex` `cursor` `github-copilot` `kiro` `windsurf`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Cockpit-tools is an open-source, universal account manager for AI IDEs, supporting a range of popular tools including Codex, GitHub Copilot, and others. This tool enables users to switch between multiple accounts, monitor usage quotas, automate wake-up and restarts, and manage multiple instances. It aims to streamline workflow and productivity for developers utilizing these AI-powered tools.
+jlcodes99/cockpit-tools is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jlcodes99/cockpit-tools) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jlcodes99/cockpit-tools) · [← Back to AI/ML](./README.md)</sub>

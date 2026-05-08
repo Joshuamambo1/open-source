@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-CorsixTH is a free and open-source clone of the classic game Theme Hospital, a popular simulation game where players manage a hospital and treat patients. This project allows fans to relive the nostalgic experience of the original game with added mod support and community-driven updates. By recreating the game, CorsixTH aims to preserve the spirit of the original and introduce it to a new generation of gamers.
+CorsixTH/CorsixTH is a promising open-source project. Categories: Misc. Interest score: 83/100.
 
 ---
 

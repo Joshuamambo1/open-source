@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.4k |
+| ⭐ **Stars** | 26.2k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blueteam` `cli` `cybersecurity` `identification` `infosec` `investigation` `namechecker` `open-source` `osint` `osint-framework` `osint-python` `pentesting`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Maigret is an open-source project that compiles information about a person from over 3000 websites, creating a comprehensive dossier. This tool utilizes various data sources, potentially leveraging AI/ML capabilities, to gather and aggregate information from a wide range of online platforms. By providing a centralized collection of an individual's online presence, Maigret can be a valuable resource for researchers, investigators, and professionals in related fields.
+soxoj/maigret is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/soxoj/maigret) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/soxoj/maigret) · [← Back to AI/ML](./README.md)</sub>

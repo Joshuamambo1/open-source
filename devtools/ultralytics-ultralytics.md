@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `computer-vision` `deep-learning` `hub` `image-classification` `instance-segmentation` `machine-learning` `object-detection` `pose-estimation` `python` `pytorch` `rotated-object-detection`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Ultralytics YOLO is an open-source project that provides a high-performance object detection library, powered by the YOLO (You Only Look Once) algorithm. This library allows developers to quickly and accurately detect objects in images and videos, making it a valuable tool for computer vision applications. With its user-friendly interface and optimized performance, Ultralytics YOLO helps streamline object detection tasks.
+ultralytics/ultralytics is a promising open-source project. Categories: DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ultralytics/ultralytics) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ultralytics/ultralytics) · [← Back to DevTools](./README.md)</sub>

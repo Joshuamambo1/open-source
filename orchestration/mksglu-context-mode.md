@@ -1,6 +1,6 @@
 # mksglu/context-mode
 
-[![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square&color=yellow)](https://github.com/mksglu/context-mode/stargazers) [![Forks](https://img.shields.io/github/forks/mksglu/context-mode?style=flat-square&color=blue)](https://github.com/mksglu/context-mode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square&color=yellow)](https://github.com/mksglu/context-mode/stargazers) [![Forks](https://img.shields.io/github/forks/mksglu/context-mode?style=flat-square&color=blue)](https://github.com/mksglu/context-mode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.8k |
-| 🍴 **Forks** | 884 |
+| ⭐ **Stars** | 13.7k |
+| 🍴 **Forks** | 945 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 99/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`antigravity` `claude` `claude-code` `claude-code-hooks` `claude-code-plugins` `claude-code-skill` `codex` `codex-cli` `context-mode` `copilot` `cursor-plugin` `kiro`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here is a brief summary of the open-source project:
-
-The mksglu/context-mode project is a context window optimization tool designed for AI coding agents, aiming to improve performance and efficiency. By sandboxing tool output, it achieves a significant 98% reduction in tool output, enabling AI agents to operate across 12 diverse platforms. This solution is particularly suited for AI/ML and backend applications, streamlining orchestration and enhancing overall productivity.
+mksglu/context-mode is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mksglu/context-mode) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mksglu/context-mode) · [← Back to Orchestration](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 38 |
+| 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`font` `fusion` `github-actions` `github-workflows` `jetbrains-mono` `jetbrainsmaplemono` `maple-font` `maple-mono`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-SpaceTimee/Fusion-JetBrainsMapleMono is a promising open-source project. Categories: AI/ML. Interest score: 65/100.
+SpaceTimee's Fusion-JetBrainsMapleMono project combines JetBrains Mono and Maple Mono to create a free and open-source font, offering a unique typographic experience for developers and programmers. This font is designed to improve code readability and provide a consistent aesthetic across various coding environments. By fusing two popular fonts, the project aims to provide a high-quality, free alternative for coding communities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d` `ai` `android` `ar` `arcore` `arkit` `augmented-reality` `filament` `flutter` `gltf` `ios` `jetpack-compose`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Sceneview is an open-source, AI-first 3D and Augmented Reality (AR) SDK that supports Android, iOS, and Web platforms. It utilizes cutting-edge technologies like Jetpack Compose and Filament for Android, and SwiftUI and RealityKit for iOS, making it a Compose-native 3D library. With features like LLMs, MCP servers, and Copilot/Cursor rules, Sceneview empowers developers to build immersive and intelligent 3D experiences.
+sceneview/sceneview is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/sceneview/sceneview) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/sceneview/sceneview) · [← Back to AI/ML](./README.md)</sub>

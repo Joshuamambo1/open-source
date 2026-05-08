@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.5k |
-| 🍴 **Forks** | 915 |
+| 🍴 **Forks** | 916 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`billing` `killbill` `payments` `subscriptions`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments
 
 ## 📝 Summary
 
-Kill Bill is an open-source subscription billing and payments platform that enables businesses to manage their recurring revenue streams efficiently. With a robust and customizable architecture, Kill Bill offers scalable solutions for payment processing, invoicing, and subscription management. Its open-source nature facilitates collaboration and adaptation to meet the unique needs of various industries and organizations.
+killbill/killbill is a promising open-source project. Categories: Payments. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/killbill/killbill) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/killbill/killbill) · [← Back to Payments](./README.md)</sub>

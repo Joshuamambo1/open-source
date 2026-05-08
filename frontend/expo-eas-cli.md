@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 194 |
+| 🍴 **Forks** | 195 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `apps` `automation` `ci` `cicd` `cli` `cloud` `deployment` `expo` `hosting` `ios` `mobile`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary of the expo/eas-cli project:
-
-The expo/eas-cli project is a fast and efficient command-line tool for building, submitting, and updating iOS and Android mobile apps. It streamlines the development process, allowing developers to focus on creating high-quality apps without the hassle of manual configuration and upload processes. With this tool, developers can quickly deploy their apps to the App Store and Google Play Store.
+expo/eas-cli is a promising open-source project. Categories: Frontend, DevTools, Mobile. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/expo/eas-cli) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/expo/eas-cli) · [← Back to Frontend](./README.md)</sub>

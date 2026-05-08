@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`go` `grpc` `grpc-gateway` `openapi` `rest-api` `restful-api` `swagger`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-grpc-gateway is an open-source tool that generates a reverse proxy server from a gRPC service definition, allowing it to be accessed over HTTP. It follows the gRPC HTTP spec to provide seamless integration with gRPC services, enabling developers to leverage the benefits of both gRPC and RESTful APIs. This enables APIs to be both gRPC and REST compatible.
+grpc-ecosystem/grpc-gateway is a promising open-source project. Categories: Backend. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/grpc-ecosystem/grpc-gateway) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/grpc-ecosystem/grpc-gateway) · [← Back to Backend](./README.md)</sub>

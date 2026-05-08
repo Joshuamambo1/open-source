@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20.6k |
-| 🍴 **Forks** | 962 |
+| ⭐ **Stars** | 20.7k |
+| 🍴 **Forks** | 964 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`emscripten` `linux` `macos` `rust` `wasi` `wasix` `wasm` `wasmer` `webassembly` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Wasmer is an open-source project that enables the creation of fast, secure, and lightweight containers using WebAssembly. This technology allows for efficient and portable execution of code across various platforms, making it suitable for applications in AI/ML and other fields. By leveraging WebAssembly, Wasmer provides a versatile and scalable solution for containerization.
+wasmerio/wasmer is a promising open-source project. Categories: AI/ML. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/wasmerio/wasmer) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wasmerio/wasmer) · [← Back to AI/ML](./README.md)</sub>

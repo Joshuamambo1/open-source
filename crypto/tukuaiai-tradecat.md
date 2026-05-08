@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 931 |
+| ⭐ **Stars** | 936 |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `binance` `bitcoin` `ccxt` `crypto` `cryptocurrency` `ethereum` `futures` `indicators` `market-data` `pandas` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ Crypto · Trading · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
+Here's a brief summary for the "tradecat" open-source project:
 
-The Tradecat project is an open-source data system designed to manage and analyze trading data, particularly in the cryptocurrency space. Leveraging AI and ML capabilities, it aims to provide insights and tools for traders and investors to make informed decisions. By offering a customizable and community-driven platform, Tradecat aims to accelerate innovation and collaboration in the trading and crypto communities.
+Tradecat is an open-source data system designed to manage and analyze 交易猫 (Trading Cat) data, a platform for cryptocurrency trading and market insights. Leveraging AI/ML capabilities, Tradecat aims to provide traders with sophisticated tools for data analysis and informed decision-making. By harnessing the power of open-source technology, Tradecat empowers the cryptocurrency community with a flexible and customizable platform for trading and market research.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/tukuaiai/tradecat) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tukuaiai/tradecat) · [← Back to Crypto](./README.md)</sub>

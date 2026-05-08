@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `desktop` `dotnet` `hacktoberfest` `ios` `maccatalyst` `maui` `microsoft` `mobile` `multi-platform` `user-interface` `winui`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ dotnet/maui is a promising open-source project. Categories: Frontend, Mobile. In
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/dotnet/maui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dotnet/maui) · [← Back to Frontend](./README.md)</sub>

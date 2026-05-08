@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7k |
-| 🍴 **Forks** | 500 |
+| 🍴 **Forks** | 501 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`conda` `conda-environment` `conda-packages` `package-management` `package-manager` `package-manager-tool` `python-virtual-environment` `rust` `rust-lang`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Pixi is an open-source, system-level package manager for Linux, macOS, and Windows, developed in Rust and built upon the Conda ecosystem. This powerful tool enables users to efficiently manage dependencies and packages across various platforms. By leveraging Pixi, developers can streamline their workflow and simplify package management.
+prefix-dev/pixi is a promising open-source project. Categories: Frontend. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/prefix-dev/pixi) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/prefix-dev/pixi) · [← Back to Frontend](./README.md)</sub>

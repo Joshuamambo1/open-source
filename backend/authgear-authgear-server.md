@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 109 |
+| 🍴 **Forks** | 112 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`2fa` `auth0` `authentication` `biometric` `clerk-alternative` `firebase-alternative` `identity` `identity-provider` `keycloak` `login` `mfa` `oauth2`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Security · Product
 
 ## 📝 Summary
 
-Authgear-server is an open-source, enterprise-ready authentication platform providing a comprehensive set of features, including passkeys, single sign-on (SSO), multi-factor authentication (MFA), passwordless login, and biometric login. This highly customizable solution can be self-hosted or run in the cloud, making it suitable for both SaaS and mobile applications. As an alternative to Auth0, Clerk, and Firebase, Authgear-server offers a secure and scalable authentication solution for modern enterprises.
+authgear/authgear-server is a promising open-source project. Categories: Backend, Security, Product. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/authgear/authgear-server) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/authgear/authgear-server) · [← Back to Backend](./README.md)</sub>

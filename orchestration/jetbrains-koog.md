@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.2k |
-| 🍴 **Forks** | 392 |
+| 🍴 **Forks** | 394 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentframework` `agentic-ai` `agents` `ai` `ai-agents-framework` `aiagentframework` `android-ai` `anthropic` `genai` `generative-ai` `java` `jvm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the JetBrains/koog project:
-
-Koog is an open-source Java and Kotlin framework for building robust AI agents across various platforms, including backend services, mobile apps, and web environments. Built on JetBrains' expertise in AI products, Koog provides proven solutions for complex AI and LLM problems, enabling developers to create predictable and fault-tolerant AI experiences. This framework is ideal for enterprise-level applications requiring reliable and scalable AI integration.
+JetBrains/koog is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 85/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/JetBrains/koog) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/JetBrains/koog) · [← Back to Orchestration](./README.md)</sub>

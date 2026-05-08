@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bigquery` `change-data-capture` `data` `data-analysis` `data-collection` `data-engineering` `data-integration` `data-pipeline` `elt` `etl` `java` `mssql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Airbyte is an open-source data integration platform that enables users to build ETL/ELT pipelines to transfer data from various sources, including APIs, databases, and files, to data warehouses, data lakes, and data lakehouses. It offers self-hosted and cloud-hosted options, providing flexibility and scalability for data integration needs. With Airbyte, users can streamline their data pipelines and ensure seamless data synchronization across different systems.
+airbytehq/airbyte is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/airbytehq/airbyte) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/airbytehq/airbyte) · [← Back to AI/ML](./README.md)</sub>

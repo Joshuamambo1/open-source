@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 43.4k |
-| 🍴 **Forks** | 4.8k |
+| ⭐ **Stars** | 46k |
+| 🍴 **Forks** | 5.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agentic-framework` `agentic-rag` `agentic-workflow` `agents` `ai-agent` `ai-assistant` `ai-coding` `ai-skills` `anthropic-claude` `autonomous-agents` `claude-code`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project ruflo:
-
-Ruflo is an open-source, agent orchestration platform designed for building intelligent conversational AI systems on Claude. It features a robust, enterprise-grade architecture that enables the deployment of multi-agent swarms and coordination of autonomous workflows. Ruflo's distributed swarm intelligence capabilities and native integration with Claude Code and Codex make it a powerful tool for developers and organizations looking to leverage AI/ML capabilities.
+ruvnet/ruflo is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/ruvnet/ruflo) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ruvnet/ruflo) · [← Back to Orchestration](./README.md)</sub>

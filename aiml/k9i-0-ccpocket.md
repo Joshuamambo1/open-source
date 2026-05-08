@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 684 |
-| 🍴 **Forks** | 51 |
+| ⭐ **Stars** | 699 |
+| 🍴 **Forks** | 54 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `app-server` `bridge-server` `claude-code` `cli` `codex` `flutter` `ios` `mobile` `openai` `remote-control` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The K9i-0/ccpocket project is an open-source mobile client that enables users to control and interact with coding agents, such as Codex and Claude, directly from their phone. This is made possible by a WebSocket bridge, which facilitates seamless communication between the mobile app and the coding agents. By providing a mobile interface, developers can now access and utilize the capabilities of these coding agents on-the-go.
+K9i-0/ccpocket is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/K9i-0/ccpocket) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/K9i-0/ccpocket) · [← Back to AI/ML](./README.md)</sub>

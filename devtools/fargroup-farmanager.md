@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.1k |
+| ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`7-zip` `c` `c-plus-plus` `colorer` `command-line` `cpp` `editor` `far-manager` `farmanager` `file-handling` `file-management` `file-manager`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-FarManager is an open-source, file and archive management tool designed to provide a comprehensive and efficient way to manage files and directories. It is built to offer a user-friendly interface and a wide range of features for file operations, making it a valuable addition to any developer's toolkit. This project is ideal for those seeking a reliable and customizable file management solution.
+FarGroup/FarManager is a promising open-source project. Categories: DevTools. Interest score: 69/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/FarGroup/FarManager) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/FarGroup/FarManager) · [← Back to DevTools](./README.md)</sub>

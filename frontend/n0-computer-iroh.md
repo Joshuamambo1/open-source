@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 405 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`does-anyone-read-these` `holepunching` `memes` `multipath` `p2p` `quic` `realtime` `rust` `tags` `tagsoftags`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The iroh project is an open-source, modular networking stack written in Rust, aiming to provide a flexible and customizable networking solution. By replacing IP addresses with dial keys, iroh facilitates a unique and innovative approach to networking, promoting adaptability and reusability. This project caters to developers seeking to build robust and scalable networking applications.
+n0-computer/iroh is a promising open-source project. Categories: Frontend. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/n0-computer/iroh) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/n0-computer/iroh) · [← Back to Frontend](./README.md)</sub>

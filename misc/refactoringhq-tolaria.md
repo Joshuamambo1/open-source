@@ -1,6 +1,6 @@
 # refactoringhq/tolaria
 
-[![Stars](https://img.shields.io/github/stars/refactoringhq/tolaria?style=flat-square&color=yellow)](https://github.com/refactoringhq/tolaria/stargazers) [![Forks](https://img.shields.io/github/forks/refactoringhq/tolaria?style=flat-square&color=blue)](https://github.com/refactoringhq/tolaria/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/refactoringhq/tolaria?style=flat-square&color=yellow)](https://github.com/refactoringhq/tolaria/stargazers) [![Forks](https://img.shields.io/github/forks/refactoringhq/tolaria?style=flat-square&color=blue)](https://github.com/refactoringhq/tolaria/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop app to manage markdown knowledge bases
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9.7k |
-| 🍴 **Forks** | 695 |
+| ⭐ **Stars** | 10.1k |
+| 🍴 **Forks** | 721 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Unfortunately, there is not enough information about the 'refactoringhq/tolaria' project to create a suitable summary. However, I can suggest the following general summary based on the name and category:
-
-The Tolaria project is an open-source initiative developed by RefactoringHQ. It appears to be a miscellaneous project, possibly focused on refactoring, software development, or related areas.
+refactoringhq/tolaria is a promising open-source project. Categories: Misc. Interest score: 86/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/refactoringhq/tolaria) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/refactoringhq/tolaria) · [← Back to Misc](./README.md)</sub>

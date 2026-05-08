@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Azahar is an open-source 3DS emulator project, built upon the foundation of Citra. This emulator aims to provide a high-performance and feature-rich environment for playing Nintendo 3DS games on a variety of platforms. By leveraging Citra's existing codebase, Azahar seeks to improve and enhance the 3DS emulation experience.
+azahar-emu/azahar is a promising open-source project. Categories: Misc. Interest score: 82/100.
 
 ---
 

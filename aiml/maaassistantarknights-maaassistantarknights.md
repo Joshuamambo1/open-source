@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20.6k |
+| ⭐ **Stars** | 20.7k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arknights` `computer-vision` `maa`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-MaaAssistantArknights is an open-source tool that automates daily tasks in the popular mobile game Arknights, providing a convenient one-click solution for players across all compatible clients. This AI-driven assistant streamlines gameplay, allowing users to focus on other aspects of the game or simply enjoy a more relaxed experience. Supporting multiple clients ensures seamless integration for a diverse player base.
+MaaAssistantArknights/MaaAssistantArknights is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/MaaAssistantArknights/MaaAssistantArknights) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/MaaAssistantArknights/MaaAssistantArknights) · [← Back to AI/ML](./README.md)</sub>

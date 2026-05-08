@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The awesome-cross-platform-nodejs project is a curated list of open-source resources and tools for Node.js developers seeking to create cross-platform applications. It provides a comprehensive collection of libraries, frameworks, and tutorials to help developers tackle the challenges of building Node.js applications that run seamlessly across different operating systems. This project is maintained by the bcoe community and is listed in the popular awesome-awesome repository.
+bcoe/awesome-cross-platform-nodejs is a promising open-source project. Categories: Misc. Interest score: 21/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bcoe/awesome-cross-platform-nodejs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bcoe/awesome-cross-platform-nodejs) · [← Back to Misc](./README.md)</sub>

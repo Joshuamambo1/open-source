@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `browser` `browseros` `chromium` `hacktoberfest` `linux` `llm` `lmstudio` `macos` `ollama` `windows`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the BrowserOS project:
-
-BrowserOS is an open-source, agentic browser that offers an alternative to popular AI-powered browser solutions. Leveraging AI/ML capabilities, this project aims to provide a user-friendly and innovative browsing experience. By being open-source, it invites community contribution and collaboration to further enhance its features and functionalities.
+browseros-ai/BrowserOS is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/browseros-ai/BrowserOS) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/browseros-ai/BrowserOS) · [← Back to AI/ML](./README.md)</sub>

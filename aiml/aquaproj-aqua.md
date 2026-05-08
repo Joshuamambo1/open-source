@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `oss` `version-manager`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the aquaproj/aqua project:
-
-Aqua is an open-source, declarative CLI version manager written in Go that simplifies package management for developers. It supports lazy installs, a registry for easy package discovery, and seamless updates with continuous integration through Renovate. Aqua streamlines package management, making it an ideal tool for AI/ML and DevTools projects.
+aquaproj/aqua is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/aquaproj/aqua) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/aquaproj/aqua) · [← Back to AI/ML](./README.md)</sub>

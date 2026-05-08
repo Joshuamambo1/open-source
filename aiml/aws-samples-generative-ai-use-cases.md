@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 424 |
+| 🍴 **Forks** | 426 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws` `bedrock` `chatbot` `claude` `claude3` `claude4` `command-r` `deepseek-r1` `generative-ai` `image-generation` `lambda` `llama3`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The "generative-ai-use-cases" project provides a comprehensive application implementation that showcases business use cases for safely integrating generative AI into various business operations. This open-source initiative offers a practical approach to harnessing the potential of generative AI, while minimizing potential risks and ensuring seamless adoption. By exploring real-world use cases, developers and businesses can gain valuable insights into effective AI implementation strategies.
+aws-samples/generative-ai-use-cases is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/aws-samples/generative-ai-use-cases) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/aws-samples/generative-ai-use-cases) · [← Back to AI/ML](./README.md)</sub>

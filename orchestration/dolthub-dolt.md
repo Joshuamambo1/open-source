@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 22.5k |
-| 🍴 **Forks** | 755 |
+| ⭐ **Stars** | 22.6k |
+| 🍴 **Forks** | 758 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `agent-memory-server` `ai-agents` `ai-database` `data-version-control` `data-versioning` `database` `database-version-control` `database-versioning` `decentralized-database` `git` `git-database`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Dolt is an open-source project that offers a Git-like version control system specifically designed for data. It enables efficient collaboration, versioning, and management of data in a database format, making it an ideal solution for data teams and developers working with large datasets. By providing a Git-like experience for data, Dolt simplifies the process of managing and sharing data with others.
+dolthub/dolt is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/dolthub/dolt) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dolthub/dolt) · [← Back to Orchestration](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`caas` `ci-cd` `containers` `continuous-delivery` `continuous-deployment` `continuous-integration` `devops` `go` `kubernetes` `openshift` `openshift-origin` `paas`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-`openshift/origin` is an
+openshift/origin is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/openshift/origin) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openshift/origin) · [← Back to AI/ML](./README.md)</sub>

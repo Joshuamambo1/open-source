@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 758 |
+| ⭐ **Stars** | 763 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bibtex` `diagramming` `latex` `latex-editor` `link-sharing` `local-first` `offline-capable` `pdf` `pdflatex` `react` `self-hosting` `svg`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-TeXlyre is an open-source, local-first web editor designed for LaTeX and Typst documents, offering real-time collaboration features and offline support. This flexible editor enables users to create and edit mathematical texts with ease, while also allowing simultaneous collaboration with others. With its focus on local-first functionality, TeXlyre ensures seamless editing experiences even without a stable internet connection.
+TeXlyre/texlyre is a promising open-source project. Categories: Frontend. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/TeXlyre/texlyre) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/TeXlyre/texlyre) · [← Back to Frontend](./README.md)</sub>

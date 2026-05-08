@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 620 |
+| ⭐ **Stars** | 621 |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`appartment` `appartments` `crawler` `ebay-kleinanzeigen` `fredy` `immobilien` `immobilienscout24` `immonet` `immoscout24` `immowelt` `nodejs` `puppeteer`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Fredy is an open-source tool that automates the process of searching for real estate listings in Germany across multiple platforms, including ImmoScout24, Immowelt, and more. It sends the search results to users via various communication channels such as Slack, Telegram, and Email. By streamlining the real estate search process, Fredy saves users time and effort, allowing them to focus on other aspects of their lives.
+orangecoding/fredy is a promising open-source project. Categories: AI/ML, Backend. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/orangecoding/fredy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/orangecoding/fredy) · [← Back to AI/ML](./README.md)</sub>

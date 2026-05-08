@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4k |
-| 🍴 **Forks** | 709 |
+| 🍴 **Forks** | 710 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audit` `automation` `bsi` `cis` `compliance` `cybersecurity` `dora` `ebios-rm` `gdpr` `grc` `isms` `iso27001`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · AI/ML · Frontend
 
 ## 📝 Summary
 
-The intuitem/ciso-assistant-community project offers a comprehensive, open-source GRC (Governance, Risk, and Compliance) platform called CISO Assistant. This platform provides a centralized solution for managing risk, application security, compliance, and audit processes, spanning over 130 global frameworks and standards, including industry-specific regulations like ISO 27001 and HIPAA. By leveraging the CISO Assistant platform, organizations can streamline their risk management, compliance, and reporting processes.
+intuitem/ciso-assistant-community is a promising open-source project. Categories: Trading, AI/ML, Frontend. Interest score: 89/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/intuitem/ciso-assistant-community) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/intuitem/ciso-assistant-community) · [← Back to Trading](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 11.2k |
 | 💻 **Language** | C |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cryptography` `decryption` `encryption` `openssl` `ssl` `tls`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Security
 
 ## 📝 Summary
 
-OpenSSL is an open-source, general-purpose library that provides a wide range of cryptographic and Transport Layer Security (TLS) functionality. It enables developers to securely communicate over networks, encrypt data, and implement secure protocols. With its extensive feature set and high performance, OpenSSL is a widely-used and trusted solution for cryptographic needs.
+openssl/openssl is a promising open-source project. Categories: Crypto, Security. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/openssl/openssl) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openssl/openssl) · [← Back to Crypto](./README.md)</sub>

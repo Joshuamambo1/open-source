@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 116 |
+| ⭐ **Stars** | 1.6k |
+| 🍴 **Forks** | 126 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The dotnet/skills repository is an open-source initiative that provides skills to aid AI coding agents in working with .NET and C# technologies. This project aims to enable seamless collaboration between humans and AI agents in software development, streamlining coding workflows and enhancing productivity. By contributing to this repository, developers can help advance the capabilities of AI-powered coding tools in the .NET ecosystem.
+The dotnet/skills repository provides a collection of open-source skills designed to support AI coding agents in working with .NET and C#. These skills facilitate efficient and effective collaboration between AI agents and .NET developers, enabling seamless integration and automation of coding tasks. By leveraging this repository, developers can harness the power of AI and machine learning to streamline their workflows and improve overall productivity.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/dotnet/skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dotnet/skills) · [← Back to Orchestration](./README.md)</sub>

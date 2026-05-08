@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alternative` `docker` `evernote` `fastapi` `free` `hosted` `knowledge-base` `markdown` `note` `note-taking` `notion` `obsidian`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-NoteDiscovery is an open-source project that enables users to host their own self-contained knowledge base. This project, developed by gamosoft, leverages AI/ML capabilities to provide users with a powerful and personalized platform for organizing and accessing their knowledge. By hosting this platform locally, users can ensure the security and control of their data.
+gamosoft/NoteDiscovery is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 70/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/gamosoft/NoteDiscovery) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gamosoft/NoteDiscovery) · [← Back to AI/ML](./README.md)</sub>

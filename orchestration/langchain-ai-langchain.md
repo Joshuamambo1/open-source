@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 135.8k |
-| 🍴 **Forks** | 22.4k |
+| ⭐ **Stars** | 136k |
+| 🍴 **Forks** | 22.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agents` `anthropic` `chatgpt` `deepagents` `enterprise` `framework` `gemini` `generative-ai` `langchain` `langgraph`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The Langchain project is an open-source agent engineering platform that allows developers to create, train, and deploy intelligent agents that can perform a wide range of tasks. By providing a comprehensive set of tools and APIs, Langchain enables users to build custom AI models that can interact with various data sources and applications. This platform aims to accelerate the development of advanced AI applications by simplifying the process of agent engineering and deployment.
+langchain-ai/langchain is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/langchain-ai/langchain) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/langchain-ai/langchain) · [← Back to Orchestration](./README.md)</sub>

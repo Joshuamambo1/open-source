@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 449 |
+| 🍴 **Forks** | 450 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`auto-ml` `compression` `deep-learning` `deep-neural-networks` `machine-learning` `network-compression` `network-quantization` `open-source` `opensource` `pruning` `quantization`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · AI/ML · Frontend
 
 ## 📝 Summary
 
-quic/aimet is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 75/100.
+quic/aimet is a promising open-source project. Categories: Trading, AI/ML, Frontend. Interest score: 75/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/quic/aimet) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/quic/aimet) · [← Back to Trading](./README.md)</sub>

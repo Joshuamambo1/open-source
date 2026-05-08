@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, HackerNewsRemovals, provides a real-time list of stories that have been removed from the Hacker News front page. It aims to offer a transparent and easily accessible record of content removals, allowing users to track and analyze the stories that have been taken down. The project serves as a valuable resource for those interested in understanding the moderation and content policies of Hacker News.
+vitoplantamura/HackerNewsRemovals is a promising open-source project. Categories: Misc. Interest score: 43/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/vitoplantamura/HackerNewsRemovals) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vitoplantamura/HackerNewsRemovals) · [← Back to Misc](./README.md)</sub>

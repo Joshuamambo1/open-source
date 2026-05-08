@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `php` `psysh` `repl` `shell`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Psysh is an open-source project that provides a PHP REPL (Read-Eval-Print Loop), allowing users to interactively execute PHP code in a shell-like environment. This tool enables developers to test and explore PHP code snippets, classes, and functions on the fly, providing a convenient debugging and development experience. With Psysh, users can write and execute PHP code in a flexible and intuitive way.
+bobthecow/psysh is a promising open-source project. Categories: DevTools. Interest score: 86/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/bobthecow/psysh) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bobthecow/psysh) · [← Back to DevTools](./README.md)</sub>

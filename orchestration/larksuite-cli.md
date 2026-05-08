@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9.3k |
-| 🍴 **Forks** | 621 |
+| ⭐ **Stars** | 9.4k |
+| 🍴 **Forks** | 630 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The larksuite/cli is an open-source command-line interface (CLI) tool developed by the Lark/Feishu team, designed to enhance productivity and streamline interactions with various business domains such as messaging, document management, and task automation. With over 200 commands and 20+ AI Agent Skills, it offers a comprehensive and user-friendly interface for both humans and AI agents. This tool supports a wide range of features, including messaging, document management, task management, and more.
+larksuite/cli is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 84/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/larksuite/cli) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/larksuite/cli) · [← Back to Orchestration](./README.md)</sub>

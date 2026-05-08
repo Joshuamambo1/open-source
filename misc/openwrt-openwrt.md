@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 12.4k |
 | 💻 **Language** | C |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-OpenWRT is an open-source firmware for network devices, providing a highly customizable and flexible operating system for routers and other network equipment. This repository serves as a reference mirror for the official OpenWRT codebase, allowing contributions and pull requests to be submitted and reviewed.
+openwrt/openwrt is a promising open-source project. Categories: Misc. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/openwrt/openwrt) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openwrt/openwrt) · [← Back to Misc](./README.md)</sub>

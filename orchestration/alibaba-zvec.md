@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 547 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `db` `embedded` `faiss` `hnsw` `llm-memory` `local` `rag` `search-engine` `semantic-search` `similarity-search` `vector-database`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-The Alibaba ZVector project is an open-source, in-process vector database that provides a lightweight and lightning-fast storage solution for vectors. It is designed to support the efficient storage and retrieval of vectors, making it suitable for applications such as natural language processing, computer vision, and recommendation systems. With its in-process design, ZVector enables fast vector operations and reduces the overhead associated with inter-process communication.
+alibaba/zvec is a promising open-source project. Categories: Orchestration, AI/ML, Data. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/alibaba/zvec) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/alibaba/zvec) · [← Back to Orchestration](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `codemirror` `desktop-app` `electron` `knowledge-graph` `llm` `local-first` `markdown` `note-taking` `obsidian-alternative` `own-your-data`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Lumina Note is a free, open-source note-taking application that utilizes Markdown syntax for efficient note organization and editing. It boasts a range of innovative features, including a live preview, bidirectional links, and integration with AI assistants. This modern app is designed to provide users with a seamless and intuitive note-taking experience.
+blueberrycongee/Lumina-Note is a promising open-source project. Categories: AI/ML, Frontend, Data. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/blueberrycongee/Lumina-Note) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/blueberrycongee/Lumina-Note) · [← Back to AI/ML](./README.md)</sub>

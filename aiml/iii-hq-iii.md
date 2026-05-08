@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `api` `backend` `developer-tools` `framework` `genai` `javascript` `primitives` `python` `rust` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the iii-hq/iii project:
-
-iii is an open-source, unified engine for backend stacks, integrating Function, Trigger, and Worker primitives to streamline development and deployment. This robust tool empowers developers to manage and automate various backend tasks with ease, leveraging its AI/ML capabilities. By centralizing backend operations, iii aims to increase efficiency and productivity in software development.
+iii-hq/iii is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/iii-hq/iii) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/iii-hq/iii) · [← Back to AI/ML](./README.md)</sub>

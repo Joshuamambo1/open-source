@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Trigger.dev is an open-source project that enables users to build and deploy fully-managed AI agents and workflows with ease. This platform offers a seamless experience for users to create, orchestrate, and manage complex AI-driven applications, streamlining the development process. Trigger.dev is specifically designed for users looking to leverage AI/ML capabilities in their projects, providing a flexible and scalable solution for a wide range of applications.
+triggerdotdev/trigger.dev is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 

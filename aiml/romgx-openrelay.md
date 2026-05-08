@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 244 |
+| 🍴 **Forks** | 248 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-proxy` `aider` `cerebras` `claude` `claude-code` `copilot` `cursor` `developer-tools` `free-ai` `free-api` `groq`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The `romgX/openrelay` project provides a convenient solution for developers to access hundreds of free AI models directly from their local projects. With a simple one-click interface, users can integrate these AI models into their applications without the need for extensive setup or configuration. This open-source tool aims to streamline AI development workflows and accelerate innovation.
+romgX/openrelay is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/romgX/openrelay) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/romgX/openrelay) · [← Back to AI/ML](./README.md)</sub>

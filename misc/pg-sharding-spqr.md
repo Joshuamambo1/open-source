@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`go` `pooler` `postgres` `postgresql` `proxy` `sharding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The pg-sharding/spqr project is an open-source, stateless Postgres Query Router that enables efficient distribution of database queries across multiple clusters. It acts as a routing layer, directing queries to the most suitable Postgres instance based on the data's physical location, thereby improving performance and scalability. By decoupling the query routing logic from the database instances, spqr facilitates flexible and high-availability database architectures.
+pg-sharding/spqr is a promising open-source project. Categories: Misc. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/pg-sharding/spqr) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pg-sharding/spqr) · [← Back to Misc](./README.md)</sub>

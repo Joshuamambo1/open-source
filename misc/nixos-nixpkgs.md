@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 18.8k |
 | 💻 **Language** | Nix |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `linux` `nix` `nixos` `nixpkgs`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ NixOS/nixpkgs is a promising open-source project. Categories: Misc. Interest sco
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/NixOS/nixpkgs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/NixOS/nixpkgs) · [← Back to Misc](./README.md)</sub>

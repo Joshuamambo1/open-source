@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 13k |
-| 🍴 **Forks** | 789 |
+| 🍴 **Forks** | 790 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`clash` `clash-meta` `clash-nyanpasu` `clash-rs` `material-you` `mihomo` `react` `rust` `tauri` `tauri-app`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-Clash Nyanpasu is an open-source frontend project that brings a unique and playful twist to the Clash of Clans experience. With the aim of enhancing user interaction, this project integrates Nyanpasu elements to create a visually engaging and fun interface for the popular mobile game. Its open-source nature allows for community-driven development and customization.
+libnyanpasu/clash-nyanpasu is a promising open-source project. Categories: Frontend. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/libnyanpasu/clash-nyanpasu) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/libnyanpasu/clash-nyanpasu) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 424 |
 | 💻 **Language** | Smalltalk |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bootstrap` `language` `live-programming` `mit` `object-oriented-programming` `pharo` `reflective` `tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Pharo is an open-source, dynamic, and reflective programming language that supports live programming, inspired by the principles of Smalltalk. As a pure object-oriented language, it allows for seamless and interactive development, enabling programmers to modify and execute code in real-time. Pharo is ideal for rapid prototyping, software development, and research applications.
+pharo-project/pharo is a promising open-source project. Categories: Misc. Interest score: 67/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/pharo-project/pharo) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pharo-project/pharo) · [← Back to Misc](./README.md)</sub>

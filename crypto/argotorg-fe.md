@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The argotorg/fe project is an open-source, emerging smart contract language designed for the Ethereum blockchain, aiming to simplify and improve the development process for decentralized applications. This innovative language leverages cutting-edge technologies, such as AI/ML, to create more efficient and secure smart contracts. By utilizing fe, developers can build more complex and scalable blockchain applications.
+argotorg/fe is a promising open-source project. Categories: Crypto, AI/ML. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/argotorg/fe) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/argotorg/fe) · [← Back to Crypto](./README.md)</sub>

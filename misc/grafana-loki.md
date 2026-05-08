@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloudnative` `grafana` `hacktoberfest` `logging` `loki` `prometheus`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Loki is an open-source logging aggregation system designed to collect, store, and query log data. It is similar to Prometheus, but specifically tailored for log analysis, providing a scalable and flexible solution for log management. Loki allows users to efficiently collect and process log data from various sources, making it easier to monitor and gain insights from their systems.
+grafana/loki is a promising open-source project. Categories: Misc. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/grafana/loki) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/grafana/loki) · [← Back to Misc](./README.md)</sub>

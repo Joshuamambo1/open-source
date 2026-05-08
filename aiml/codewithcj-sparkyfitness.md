@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 164 |
+| 🍴 **Forks** | 165 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `artificial-intelligence` `fitness` `fitness-app` `fitness-tracker` `health` `health-coaching` `healthcheck` `self-hosted` `selfhosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-SparkyFitness is an open-source project that helps families track and manage their health, fitness, and wellness goals in a unified platform. Powered by AI, users can monitor their progress in areas such as food intake, physical activity, hydration, and overall health. This project is designed to provide a comprehensive and user-friendly experience for families to work together towards a healthier lifestyle.
+CodeWithCJ/SparkyFitness is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 76/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/CodeWithCJ/SparkyFitness) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/CodeWithCJ/SparkyFitness) · [← Back to AI/ML](./README.md)</sub>

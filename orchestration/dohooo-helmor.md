@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 931 |
-| 🍴 **Forks** | 66 |
+| ⭐ **Stars** | 956 |
+| 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `ai` `claude-code` `codex` `coding-agents` `developer-tools` `git-worktree` `local-first` `macos` `multi-agent` `open-source` `software-development`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The helmor project is an open-source local workbench designed to facilitate the development of multi-agent software. It provides a comprehensive platform for researchers and developers to build, test, and deploy complex AI and ML systems, offering features and tools for orchestration and collaboration. This workbench aims to streamline the development process, enabling users to create and refine their multi-agent solutions more efficiently.
+dohooo/helmor is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/dohooo/helmor) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dohooo/helmor) · [← Back to Orchestration](./README.md)</sub>

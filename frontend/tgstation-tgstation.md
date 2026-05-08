@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.2k |
 | 💻 **Language** | DM |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`byond` `corgis` `dm` `dreammaker` `game` `hacktoberfest` `hugbox` `memes` `role-playing` `space` `ss13` `tgstation`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ tgstation/tgstation is a promising open-source project. Categories: Frontend. In
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/tgstation/tgstation) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tgstation/tgstation) · [← Back to Frontend](./README.md)</sub>

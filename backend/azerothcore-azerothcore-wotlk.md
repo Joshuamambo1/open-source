@@ -25,7 +25,7 @@ Backend
 
 ## 📝 Summary
 
-AzerothCore is an open-source, modular backend solution for massively multiplayer online (MMO) games. It is based on the World of Warcraft: The Burning Crusade (WotLK) game engine, allowing developers to create and customize their own custom WoW-style servers. This project provides a scalable and customizable framework for building immersive online gaming experiences.
+azerothcore/azerothcore-wotlk is a promising open-source project. Categories: Backend. Interest score: 100/100.
 
 ---
 

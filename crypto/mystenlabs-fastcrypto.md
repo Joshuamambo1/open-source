@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 306 |
+| ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`benchmark` `blockchain` `bls` `crypto` `cryptography` `ed25519` `zkp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The MystenLabs/fastcrypto open-source project is a fast and reliable cryptographic library used by Mysten Labs to secure their software applications. Built with performance in mind, this library provides a comprehensive set of cryptographic functions for various use cases, including encryption, decryption, and more. It is a valuable resource for developers seeking to implement secure cryptographic operations in their projects.
+MystenLabs/fastcrypto is a promising open-source project. Categories: Crypto, AI/ML. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/MystenLabs/fastcrypto) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/MystenLabs/fastcrypto) · [← Back to Crypto](./README.md)</sub>

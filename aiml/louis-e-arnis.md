@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`maps` `minecraft` `openstreetmap` `osm` `overpass-api` `rust` `tauri`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Louis-e/arnis is an open-source project that utilizes AI and machine learning to generate highly detailed locations from the real world within Minecraft. This innovative project allows users to explore and recreate real-world places with unprecedented accuracy, providing an immersive experience. With its cutting-edge technology, Louis-e/arnis pushes the boundaries of Minecraft's creative possibilities.
+louis-e/arnis is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/louis-e/arnis) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/louis-e/arnis) · [← Back to AI/ML](./README.md)</sub>

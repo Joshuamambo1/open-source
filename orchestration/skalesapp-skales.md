@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 912 |
-| 🍴 **Forks** | 152 |
+| ⭐ **Stars** | 915 |
+| 🍴 **Forks** | 153 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-assistant` `ai-companions` `automation` `autonomous-agent` `calendar` `code-generation` `desktop-app` `desktop-buddy` `electron` `linux` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Skales is an open-source, local AI desktop agent available for Windows, macOS, and Linux. This user-friendly tool enables users to create multi-agent teams, automate desktop tasks, and integrate with over 15 AI providers, all without requiring Docker or terminal expertise. Skales offers a range of features, including autonomous coding and a "Desktop Buddy" companion, making it a versatile solution for developers and non-technical users alike.
+skalesapp/skales is a promising open-source project. Categories: Orchestration, AI/ML, DevOps/Infra. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/skalesapp/skales) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/skalesapp/skales) · [← Back to Orchestration](./README.md)</sub>

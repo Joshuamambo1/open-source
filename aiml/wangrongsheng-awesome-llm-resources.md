@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 845 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome-list` `book` `course` `large-language-models` `llama` `llm` `mistral` `openai` `qwen` `rag` `retrieval-augmented-generation` `webui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The awesome-LLM-resources repository by WangRongsheng is an extensive collection of high-quality resources related to Large Language Models (LLMs). It covers various aspects of LLMs, including multimodal generation, agents, programming assistance, AI proofreading, data processing, model training, and model inference, providing a comprehensive summary of the world's best LLM resources. This repository is a valuable resource for researchers and developers working in the field of AI and ML.
+WangRongsheng/awesome-LLM-resources is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 98/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/WangRongsheng/awesome-LLM-resources) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/WangRongsheng/awesome-LLM-resources) · [← Back to AI/ML](./README.md)</sub>

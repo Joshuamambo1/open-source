@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agents` `ai` `anthropic` `claudecode` `llm` `llms` `openai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The open-source project "open-swe" is an asynchronous coding agent developed by langchain-ai. It enables users to efficiently orchestrate and manage various coding tasks, streamlining the development process through automation and AI-powered assistance. By utilizing this agent, developers can accelerate their coding workflow and focus on high-level problem-solving.
+langchain-ai/open-swe is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/langchain-ai/open-swe) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/langchain-ai/open-swe) · [← Back to Orchestration](./README.md)</sub>

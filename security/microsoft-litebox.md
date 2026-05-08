@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-Litebox is an open-source, security-focused library OS that enables both kernel- and user-mode execution. This versatile operating system supports a range of execution environments, prioritizing security and flexibility. By providing a customizable and secure platform, Litebox empowers developers to build robust and reliable applications.
+microsoft/litebox is a promising open-source project. Categories: Security. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/microsoft/litebox) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/litebox) · [← Back to Security](./README.md)</sub>

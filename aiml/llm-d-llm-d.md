@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 456 |
+| 🍴 **Forks** | 459 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `cncf` `distributed-inference` `gpu` `inference` `intelligent-routing` `kubernetes` `llm` `model-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-llm-d/llm-d is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 68/100.
+llm-d/llm-d is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 79/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/llm-d/llm-d) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/llm-d/llm-d) · [← Back to AI/ML](./README.md)</sub>

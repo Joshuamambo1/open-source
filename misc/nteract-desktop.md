@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 102 |
+| ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-nteract/desktop is an open-source project that allows users to launch Jupyter notebooks in a unique way. Instead of the traditional method of opening a browser, the project utilizes a t-shirt gun to fire notebooks, offering an unconventional approach to interactive computing. This innovative project combines fun and functionality in the realm of data science and education.
+nteract/desktop is an open-source project that brings interactive notebooks to a new level of fun and accessibility. It utilizes a t-shirt gun to launch notebooks into the air, making it a unique way to share knowledge and engage with communities. This project combines creativity with learning, aiming to make educational content more enjoyable and shareable.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/nteract/desktop) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nteract/desktop) · [← Back to Misc](./README.md)</sub>

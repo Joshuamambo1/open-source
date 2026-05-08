@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 22.5k |
+| ⭐ **Stars** | 22.6k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Omarchy is an open-source project aiming to create a beautiful and modern Linux experience. It provides a highly opinionated implementation of a Linux system, prioritizing ease of use and a visually appealing interface. This project is part of the Basecamp suite and seeks to revolutionize the Linux landscape with its modern approach.
+basecamp/omarchy is a promising open-source project. Categories: Misc. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/basecamp/omarchy) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/basecamp/omarchy) · [← Back to Misc](./README.md)</sub>

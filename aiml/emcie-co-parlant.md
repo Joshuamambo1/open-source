@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-alignment` `customer-service` `customer-success` `gemini` `genai` `hacktoberfest` `llama3` `llm` `openai` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "parlant":
-
-Parlant is an open-source interaction control harness designed to optimize customer-facing AI agents, enabling controlled, consistent, and predictable interactions with Large Language Models (LLMs). This project helps build robust and reliable conversational interfaces for various applications, such as chatbots and virtual assistants. By leveraging parlant, developers can fine-tune their LLMs for more effective and personalized customer engagement.
+emcie-co/parlant is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/emcie-co/parlant) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/emcie-co/parlant) · [← Back to AI/ML](./README.md)</sub>

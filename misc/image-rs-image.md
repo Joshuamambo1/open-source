@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.7k |
-| 🍴 **Forks** | 694 |
+| 🍴 **Forks** | 695 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`decoding-images` `pixel` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The image-rs/image open-source project provides a robust and versatile library for encoding and decoding images in Rust, allowing developers to easily work with various image formats. With this library, users can efficiently load, manipulate, and save images in a wide range of formats, including popular formats like JPEG, PNG, and GIF. By leveraging image-rs/image, developers can add image processing capabilities to their Rust applications.
+image-rs/image is a promising open-source project. Categories: Misc. Interest score: 89/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/image-rs/image) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/image-rs/image) · [← Back to Misc](./README.md)</sub>

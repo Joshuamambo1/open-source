@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 253 |
+| 🍴 **Forks** | 257 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `go` `whatsapp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The openclaw/wacli project is an open-source command-line interface (CLI) tool for WhatsApp, allowing users to send and receive messages, access chat logs, and manage their WhatsApp account directly from the terminal. This tool aims to provide a convenient and efficient way to interact with WhatsApp, especially for developers and power users. With wacli, users can automate tasks, integrate WhatsApp with other tools, and streamline their communication workflow.
+openclaw/wacli is a promising open-source project. Categories: DevTools. Interest score: 63/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/openclaw/wacli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openclaw/wacli) · [← Back to DevTools](./README.md)</sub>

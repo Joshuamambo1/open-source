@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 394 |
+| 🍴 **Forks** | 397 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bulk-connection` `bulk-operation` `gfw` `gfw-china` `reality` `shadowsocks` `trojan-gfw` `v2ray` `v2ray-ws-tls` `v2rayng` `vless` `vless-grpc`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the Epodonios/v2ray-configs project:
-
-The Epodonios/v2ray-configs project offers free, open-source V2ray configurations, updated every 5 minutes, for various protocols including vless, vmess, shadowsocks, trojan, and xray. This project caters to the needs of users in the backend and mobile sectors, providing a convenient solution for v2ray configuration updates. With its automated update feature, users can easily stay up-to-date with the latest configurations.
+Epodonios/v2ray-configs is a promising open-source project. Categories: Backend, Mobile. Interest score: 76/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Epodonios/v2ray-configs) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Epodonios/v2ray-configs) · [← Back to Backend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 836 |
+| ⭐ **Stars** | 841 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gps-tracker` `gps-tracking` `java` `owntracks` `postgis` `postgis-database` `postgres` `privacy` `quarkus` `quarkus-native` `self-hosted` `timeline`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the tess1o/geopulse project:
-
-Geopulse is a self-hosted, open-source platform that provides a private location timeline, allowing users to track and analyze their movements with automatic trip detection and integration with Immich. This location timeline platform serves as a secure alternative to Google Timeline, giving users full control over their data. Geopulse offers rich analytics, empowering users to gain insights into their daily habits and travels.
+tess1o/geopulse is a promising open-source project. Categories: Frontend, Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/tess1o/geopulse) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tess1o/geopulse) · [← Back to Frontend](./README.md)</sub>

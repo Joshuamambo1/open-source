@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 36.5k |
+| ⭐ **Stars** | 36.6k |
 | 🍴 **Forks** | 8.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`collaboration` `golang` `hacktoberfest` `mattermost` `monorepo` `react` `react-native`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ mattermost/mattermost is a promising open-source project. Categories: Frontend, 
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/mattermost/mattermost) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mattermost/mattermost) · [← Back to Frontend](./README.md)</sub>

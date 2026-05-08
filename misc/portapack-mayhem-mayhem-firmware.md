@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.1k |
-| 🍴 **Forks** | 864 |
+| 🍴 **Forks** | 866 |
 | 💻 **Language** | C |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hackrf` `hackrf-components` `portapack` `radio` `radio-frequency` `sdr` `sdr-receiver` `sdrsharp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The mayhem-firmware open-source project is a firmware repository for the HackRF+PortaPack H1/H2/H4/H4M, providing users with customizable and modifiable code for their devices. This project allows developers to modify and extend the capabilities of the HackRF+PortaPack, a versatile radio frequency (RF) platform, to suit their specific needs and applications. By contributing to or using this firmware, users can unlock new features and experiment with various RF-related projects.
+portapack-mayhem/mayhem-firmware is a promising open-source project. Categories: Misc. Interest score: 98/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/portapack-mayhem/mayhem-firmware) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/portapack-mayhem/mayhem-firmware) · [← Back to Misc](./README.md)</sub>

@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 436 |
-| 🍴 **Forks** | 593 |
+| 🍴 **Forks** | 594 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The AztecProtocol/aztec-packages project is an open-source collection of packages and tools for the Aztec Protocol, a decentralized finance (DeFi) platform. This repository provides a centralized hub for developers to access and contribute to various packages, enhancing the ecosystem and facilitating innovation. By leveraging these packages, developers can create and deploy scalable, secure, and user-friendly applications on the Aztec Protocol network.
+AztecProtocol/aztec-packages is a promising open-source project. Categories: Misc. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/AztecProtocol/aztec-packages) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/AztecProtocol/aztec-packages) · [← Back to Misc](./README.md)</sub>

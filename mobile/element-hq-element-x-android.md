@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 490 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `matrix`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Element-x is an open-source Android Matrix messenger application, utilizing the Matrix Rust SDK for secure and scalable communication. Built with Jetpack Compose, it provides a modern and intuitive user interface for seamless messaging experiences. By leveraging the Matrix ecosystem, Element-x offers robust features for private and group conversations.
+element-hq/element-x-android is a promising open-source project. Categories: Mobile. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/element-hq/element-x-android) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/element-hq/element-x-android) · [← Back to Mobile](./README.md)</sub>

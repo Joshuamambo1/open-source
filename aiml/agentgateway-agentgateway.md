@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 441 |
+| 🍴 **Forks** | 443 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-gateway` `api-gateway` `gateway-api` `kubernetes` `mcp` `mcp-gateway` `reverse-proxy` `rust` `service-mesh`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The agentgateway project is an open-source, next-generation agentic proxy designed to facilitate communication between AI agents and MCP (Multi-Cloud Platform) servers. This project aims to enable seamless interaction and data exchange between AI entities and cloud infrastructure, supporting the development and deployment of intelligent systems. By providing a scalable and flexible interface, agentgateway simplifies the integration of AI capabilities with cloud-based applications and services.
+agentgateway/agentgateway is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 75/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/agentgateway/agentgateway) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/agentgateway/agentgateway) · [← Back to AI/ML](./README.md)</sub>

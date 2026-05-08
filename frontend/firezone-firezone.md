@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 414 |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud` `devsecops` `elixir` `elixir-lang` `firewall` `liveview` `network` `network-security` `networking` `phoenix` `privacy` `rust-lang`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · Security
 
 ## 📝 Summary
 
-Firezone is an open-source, enterprise-ready zero-trust access platform that leverages WireGuard for secure remote access. This comprehensive solution provides robust security features to protect sensitive data and infrastructure from unauthorized access. By utilizing Firezone, organizations can establish a secure and scalable zero-trust network architecture to meet their evolving security needs.
+firezone/firezone is a promising open-source project. Categories: Frontend, Backend, Security. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/firezone/firezone) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/firezone/firezone) · [← Back to Frontend](./README.md)</sub>

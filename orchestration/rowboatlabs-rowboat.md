@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13.2k |
+| ⭐ **Stars** | 13.3k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `agents-sdk` `ai` `ai-agents` `ai-agents-automation` `chatgpt` `claude-code` `claude-cowork` `generative-ai` `llm` `multiagent` `opeani`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Product
 
 ## 📝 Summary
 
-Rowboat is an open-source, AI-powered coworking platform that enables users to build and interact with custom AI models, leveraging a robust memory system for context retention and decision-making. This collaborative tool facilitates seamless integration of machine learning capabilities, making it an ideal solution for developers, researchers, and enterprises seeking to unlock the full potential of AI. By providing a flexible and scalable framework, Rowboat empowers users to create sophisticated AI applications with ease.
+rowboatlabs/rowboat is a promising open-source project. Categories: Orchestration, AI/ML, Product. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rowboatlabs/rowboat) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rowboatlabs/rowboat) · [← Back to Orchestration](./README.md)</sub>

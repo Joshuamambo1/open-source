@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.2k |
-| 🍴 **Forks** | 811 |
+| 🍴 **Forks** | 813 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `android-tv` `java` `jellyfin` `kotlin`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the jellyfin/jellyfin-androidtv project:
-
-Jellyfin Android TV is an open-source client for Jellyfin, a media server that allows users to access and manage their media libraries from various devices. This Android TV client provides a user-friendly interface for browsing and streaming media content, including movies, TV shows, and music, directly on Android TV devices. By using this client, users can seamlessly integrate their Jellyfin media server with their Android TV setup.
+jellyfin/jellyfin-androidtv is a promising open-source project. Categories: DevTools, Mobile. Interest score: 88/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/jellyfin/jellyfin-androidtv) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jellyfin/jellyfin-androidtv) · [← Back to DevTools](./README.md)</sub>

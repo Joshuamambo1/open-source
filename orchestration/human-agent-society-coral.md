@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 620 |
-| 🍴 **Forks** | 82 |
+| ⭐ **Stars** | 633 |
+| 🍴 **Forks** | 83 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `alpha-evolve` `alphaevolve` `autoresearch` `autoresearcher` `claude-code` `codex` `coding-agent` `large-language-models` `llm-agents` `multi-agent` `opencode`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Human-Agent-Society/CORAL project:
-
-CORAL is an open-source infrastructure designed for multi-agent autonomous self-evolution and autoresearch, providing a robust and lightweight framework for complex AI/ML applications. This project enables the orchestration of multiple agents to adapt, learn, and evolve over time, fostering innovative solutions in various fields. With its frontend capabilities, CORAL facilitates the development and deployment of sophisticated autonomous systems.
+Human-Agent-Society/CORAL is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Human-Agent-Society/CORAL) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Human-Agent-Society/CORAL) · [← Back to Orchestration](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 470 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anytype` `e2ee` `local-first` `offline-first` `p2p` `privacy`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Anytype is an open-source project that provides an official client for MacOS, Linux, and Windows, allowing users to interact with the Anytype platform. The project, known as anyproto/anytype-ts, enables developers to build and integrate Anytype applications across various operating systems. It serves as a crucial tool for developers and users alike, facilitating seamless access to the Anytype platform.
+anyproto/anytype-ts is a promising open-source project. Categories: DevTools. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/anyproto/anytype-ts) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/anyproto/anytype-ts) · [← Back to DevTools](./README.md)</sub>

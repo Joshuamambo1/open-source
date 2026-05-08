@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 99.7k |
+| ⭐ **Stars** | 99.9k |
 | 🍴 **Forks** | 5.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`backup-tool` `flutter` `google-photos` `google-photos-alternative` `javascript` `mobile-app` `nestjs` `nodejs` `photo-gallery` `photos` `photos-management` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the immich-app/immich project:
-
-"Immich is a high-performance, self-hosted solution for managing your photos and videos, offering a secure and private alternative to traditional cloud storage services. This open-source platform allows users to store and organize their media collections on their own servers, maintaining complete control over their data. With immich, users can enjoy seamless photo and video management on their mobile devices."
+immich-app/immich is a promising open-source project. Categories: Mobile. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/immich-app/immich) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/immich-app/immich) · [← Back to Mobile](./README.md)</sub>

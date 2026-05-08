@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-memory` `ai` `ai-memory` `aiagent` `awesome` `chatgpt` `llm` `long-short-term-memory` `memori-ai` `memory` `memory-management`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Memori is an open-source, agent-native memory infrastructure that enables production systems to capture and store structured, persistent state from agent execution and conversations. This LLM-agnostic layer provides a unified framework for integrating large language models (LLMs) into production environments, facilitating seamless orchestration and scaling. By leveraging Memori, developers can unlock more efficient and effective AI/ML workflows.
+MemoriLabs/Memori is a promising open-source project. Categories: Orchestration, AI/ML, DevOps/Infra. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/MemoriLabs/Memori) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/MemoriLabs/Memori) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 154 |
-| 🍴 **Forks** | 13 |
+| ⭐ **Stars** | 161 |
+| 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acp` `agent-orchestration` `agentic-ai` `agentic-development-environment` `ai-agents` `claude-code` `code-review` `coding-agents` `developer-tools` `github-copilot` `golang` `kanban`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the kandev project:
-
-Kandev is an open-source, self-hostable AI Kanban and development environment that streamlines collaboration among multiple agents. It provides an orchestration platform for reviewing changes and automatically opening pull requests, supporting multiple cloud providers without compromising on data privacy. With kandev, users can maintain full control over their workflow and data, ensuring a secure and transparent development experience.
+kdlbs/kandev is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/kdlbs/kandev) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kdlbs/kandev) · [← Back to Orchestration](./README.md)</sub>

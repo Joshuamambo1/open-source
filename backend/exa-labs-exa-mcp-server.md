@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 329 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`code-search` `codesearch` `crawling` `mcp` `mcp-server` `model-context-protocol` `web-search` `websearch`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Exa MCP-server is an open-source backend project that enables web search and web crawling capabilities. It is designed to provide a robust infrastructure for efficiently indexing and retrieving web content, making it a valuable tool for various applications and services. This project offers a scalable and customizable solution for web data management.
+exa-labs/exa-mcp-server is a promising open-source project. Categories: Backend. Interest score: 86/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/exa-labs/exa-mcp-server) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/exa-labs/exa-mcp-server) · [← Back to Backend](./README.md)</sub>

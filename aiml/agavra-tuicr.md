@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 609 |
-| 🍴 **Forks** | 55 |
+| ⭐ **Stars** | 624 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-tools` `code-review` `rust` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Tuicr is an open-source terminal-based user interface for local code review, designed to streamline the process of reviewing and providing feedback on code changes. This tool aims to simplify the code review workflow, making it more efficient and user-friendly for developers and reviewers alike. By leveraging a terminal UI, Tuicr provides a lightweight and accessible solution for local code review.
+agavra/tuicr is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 50/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/agavra/tuicr) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/agavra/tuicr) · [← Back to AI/ML](./README.md)</sub>

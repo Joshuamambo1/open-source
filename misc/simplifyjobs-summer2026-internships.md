@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44.4k |
+| ⭐ **Stars** | 44.5k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`internships` `interview-preparation` `jobs` `university`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ SimplifyJobs/Summer2026-Internships is a promising open-source project. Categori
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/SimplifyJobs/Summer2026-Internships) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SimplifyJobs/Summer2026-Internships) · [← Back to Misc](./README.md)</sub>

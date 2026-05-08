@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 32.6k |
+| ⭐ **Stars** | 32.9k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-coding` `ai-agents` `automation` `claude` `claude-code` `multi-agent-systems` `oh-my-opencode` `opencode` `parallel-execution` `vibe-coding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Oh-my-claudecode is an open-source project that enables teams-first multi-agent orchestration for Claude Code, streamlining the management and integration of AI and ML workflows. This project simplifies the coordination and deployment of Claude Code models, allowing teams to focus on more complex tasks. By providing a robust orchestration framework, oh-my-claudecode enhances collaboration and productivity in AI and ML development.
+Yeachan-Heo/oh-my-claudecode is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Yeachan-Heo/oh-my-claudecode) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Yeachan-Heo/oh-my-claudecode) · [← Back to Orchestration](./README.md)</sub>

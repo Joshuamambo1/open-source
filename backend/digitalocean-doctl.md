@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 455 |
+| 🍴 **Forks** | 456 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud` `command-line` `digitalocean` `hacktoberfest` `infrastructure`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here is a brief summary of the digitalocean/doctl project:
-
-doctl is the official command line interface (CLI) for the DigitalOcean API, enabling users to manage their DigitalOcean resources efficiently. With doctl, developers can automate tasks, deploy applications, and scale infrastructure directly from the terminal. This open-source project streamlines DigitalOcean management, making it easier to work with their cloud services.
+digitalocean/doctl is a promising open-source project. Categories: Backend, DevOps/Infra. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/digitalocean/doctl) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/digitalocean/doctl) · [← Back to Backend](./README.md)</sub>

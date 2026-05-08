@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 561 |
+| 🍴 **Forks** | 573 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a` `a2a-mcp` `acp` `agent` `ai` `chatgpt` `chatgpt-api` `claude` `deepseek` `gemini` `k8s` `mcp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the archestra project:
-
-Archestra is an open-source, enterprise-grade AI platform that provides a robust framework for managing and orchestrating AI workloads. With its built-in guardrails, MCP registry, gateway, and orchestrator, Archestra enables organizations to deploy and manage AI models with ease, while ensuring security, scalability, and efficiency. This comprehensive platform empowers businesses to unlock the full potential of AI and drive innovation.
+archestra-ai/archestra is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 84/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/archestra-ai/archestra) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/archestra-ai/archestra) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.3k |
+| ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 456 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitcoin` `lightning-network`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-The rust-lightning project is an open-source, highly modular Bitcoin Lightning library written in Rust. It provides a robust and flexible framework for working with the Lightning Network, allowing developers to build custom applications and services on top of the protocol. This library enables the creation of secure, scalable, and efficient Lightning Network solutions.
+lightningdevkit/rust-lightning is a promising open-source project. Categories: Crypto. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/lightningdevkit/rust-lightning) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lightningdevkit/rust-lightning) · [← Back to Crypto](./README.md)</sub>

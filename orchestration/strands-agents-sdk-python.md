@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.8k |
-| 🍴 **Forks** | 821 |
+| 🍴 **Forks** | 823 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `agentic-ai` `agents` `ai` `anthropic` `autonomous-agents` `bedrock` `genai` `litellm` `llama` `llm` `machine-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The strands-agents/sdk-python project is an open-source platform that enables the development of AI agents using a model-driven approach, allowing users to build sophisticated agents in a minimal amount of code. This tool streamlines the process of creating and integrating AI capabilities into applications, making it easier for developers to leverage the power of artificial intelligence. By providing a high-level abstraction, strands-agents/sdk-python aims to simplify the construction of AI agents and accelerate their deployment.
+strands-agents/sdk-python is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/strands-agents/sdk-python) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/strands-agents/sdk-python) · [← Back to Orchestration](./README.md)</sub>

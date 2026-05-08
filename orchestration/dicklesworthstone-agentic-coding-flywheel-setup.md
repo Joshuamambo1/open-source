@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agentic-workflow` `agentmail` `beads` `bv`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The agentic_coding_flywheel_setup project is an open-source initiative that rapidly deploys a comprehensive multi-agent AI development environment on a fresh Ubuntu VPS within 30 minutes. This setup includes essential tools and infrastructure for coding agents, managing sessions, ensuring safety, and facilitating coordination among various components. Developers can leverage this flywheel setup to accelerate their AI/ML projects.
+Dicklesworthstone/agentic_coding_flywheel_setup is a promising open-source project. Categories: Orchestration, AI/ML, DevOps/Infra. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup) · [← Back to Orchestration](./README.md)</sub>

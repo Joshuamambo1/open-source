@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 138 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 148 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `ai-agents` `bi-temporal-graph` `claude-code` `code-intelligence` `code-search` `coding-agents` `cursor` `developer-tools` `knowledge-graph` `llm` `local-first`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-This open-source project, "memtrace-public", is a missing memory layer for coding agents, providing essential functionality for advanced artificial intelligence and machine learning systems. By integrating this layer, developers can create more robust and efficient AI agents that can effectively interact with and learn from their environment. This project aims to bridge the gap in memory management for AI/ML applications, enabling the development of more sophisticated coding agents.
+syncable-dev/memtrace-public is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/syncable-dev/memtrace-public) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/syncable-dev/memtrace-public) · [← Back to Orchestration](./README.md)</sub>

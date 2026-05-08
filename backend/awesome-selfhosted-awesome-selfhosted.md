@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 290.4k |
+| ⭐ **Stars** | 290.7k |
 | 🍴 **Forks** | 13.4k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome-list` `cloud` `free-software` `hosting` `privacy` `self-hosted` `selfhosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The awesome-selfhosted project is a comprehensive list of free software network services and web applications that can be self-hosted on your own servers, providing users with a wide range of options for customizing their digital experience. This curated collection of open-source solutions offers a viable alternative to proprietary services, empowering users to maintain control and security over their online presence. By harnessing the power of self-hosting, users can create a personalized ecosystem tailored to their needs.
+awesome-selfhosted/awesome-selfhosted is a promising open-source project. Categories: Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted) · [← Back to Backend](./README.md)</sub>

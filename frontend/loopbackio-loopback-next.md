@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `dependency-injection` `framework` `hacktoberfest` `ioc` `loopback` `nodejs` `openapi` `repository` `rest` `service-proxy` `strongloop`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-LoopBack Next is an open-source framework for building modern API applications that can handle complex integrations with ease. It simplifies the process of designing and deploying scalable, high-performance APIs by providing a robust set of tools and features. With LoopBack Next, developers can create robust and efficient API applications quickly and efficiently.
+loopbackio/loopback-next is a promising open-source project. Categories: Frontend, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/loopbackio/loopback-next) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/loopbackio/loopback-next) · [← Back to Frontend](./README.md)</sub>

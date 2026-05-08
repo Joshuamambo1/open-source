@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.9k |
-| 🍴 **Forks** | 3.9k |
+| ⭐ **Stars** | 26k |
+| 🍴 **Forks** | 4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `framework` `llm` `openai` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The openai-agents-python framework is an open-source, lightweight, and powerful tool for creating and managing multi-agent workflows. It enables developers to build and deploy complex AI and machine learning models with ease, facilitating seamless interactions among multiple agents. This framework provides a flexible foundation for developing innovative applications in various fields, including autonomous systems, game playing, and more.
+openai/openai-agents-python is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/openai/openai-agents-python) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openai/openai-agents-python) · [← Back to Orchestration](./README.md)</sub>

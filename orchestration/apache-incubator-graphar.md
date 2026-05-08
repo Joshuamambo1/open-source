@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`big-data` `data-orchestration` `etl` `graph` `graph-analysis` `graph-storage` `pyspark` `spark`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-GraphAR is an open-source, standard data file format for efficient graph data storage and retrieval. It enables seamless data exchange and compatibility across various graph databases, machine learning applications, and other systems, facilitating easier data management and analysis. By providing a standardized format, GraphAR simplifies the integration of graph data into diverse workflows.
+apache/incubator-graphar is a promising open-source project. Categories: Orchestration, AI/ML, Data. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/apache/incubator-graphar) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apache/incubator-graphar) · [← Back to Orchestration](./README.md)</sub>

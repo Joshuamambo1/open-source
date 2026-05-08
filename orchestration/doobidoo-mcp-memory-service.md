@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 272 |
+| 🍴 **Forks** | 276 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `agentic-ai` `ai-agents` `autogen` `claude` `crewai` `knowledge-graph` `langgraph` `long-term-memory` `mcp` `mcp-server` `memory`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The doobidoo/mcp-memory-service is an open-source project that provides persistent memory for AI agent pipelines, enabling seamless integration and data storage for applications such as LangGraph, CrewAI, AutoGen, and Claude. This project offers a REST API and knowledge graph capabilities, facilitating the autonomous consolidation of data. Its purpose is to streamline the workflow of AI-driven systems and improve data management.
+doobidoo/mcp-memory-service is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 67/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/doobidoo/mcp-memory-service) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/doobidoo/mcp-memory-service) · [← Back to Orchestration](./README.md)</sub>

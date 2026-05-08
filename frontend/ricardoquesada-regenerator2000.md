@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`6502` `6502-disassembly` `commodore-64` `commodore64` `disassembler` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Regenerator2000 is an open-source, interactive disassembler for the 6502 CPU, tailored for Commodore 8-bit computers. This project offers a user-friendly Text User Interface (TUI) with features like cross-references, undo/redo functionality, and keyboard-driven navigation. With its advanced features and support for debugging tools like VICE, Regenerator2000 is a powerful tool for reverse engineering and exploring 6502-based systems.
+ricardoquesada/regenerator2000 is a promising open-source project. Categories: Frontend, Backend. Interest score: 49/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ricardoquesada/regenerator2000) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ricardoquesada/regenerator2000) · [← Back to Frontend](./README.md)</sub>

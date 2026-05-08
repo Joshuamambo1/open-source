@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 655 |
-| 🍴 **Forks** | 78 |
+| ⭐ **Stars** | 660 |
+| 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `agents` `ai` `ai-agents` `ai-companion` `chatbot` `clawdbot-plugin` `clawdbot-skill` `context-engineering` `databases` `long-term-memory` `memory`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the oceanbase/powermem project:
-
-PowerMem is an open-source, AI-powered long-term memory solution that offers accurate, agile, and affordable storage capabilities. It provides friendly support for the OpenClaw Memory Plugin, enabling seamless integration and scalability. This project empowers users to efficiently manage and analyze large datasets with cutting-edge AI/ML capabilities.
+oceanbase/powermem is a promising open-source project. Categories: Orchestration, AI/ML, Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/oceanbase/powermem) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/oceanbase/powermem) · [← Back to Orchestration](./README.md)</sub>

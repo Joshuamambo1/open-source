@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`evaluation` `llm` `performance` `rag` `vlm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Modelscope/Evalscope is an open-source framework designed for efficient evaluation and benchmarking of large-scale models, including language models, vision language models, and AI-generated content models. This customizable platform streamlines the process of model assessment, providing a comprehensive and scalable solution for researchers and developers. By leveraging Evalscope, users can easily compare and optimize the performance of various models.
+modelscope/evalscope is a promising open-source project. Categories: AI/ML. Interest score: 70/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/modelscope/evalscope) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/modelscope/evalscope) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 15k |
-| 🍴 **Forks** | 895 |
+| 🍴 **Forks** | 896 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`autodiff` `cross-platform` `cuda` `deep-learning` `kernel-fusion` `machine-learning` `metal` `ndarray` `neural-network` `onnx` `pytorch` `rocm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Burn is an open-source, next-generation tensor library and Deep Learning Framework that prioritizes flexibility, efficiency, and portability. Designed to meet the demands of modern AI and ML applications, Burn offers a robust and scalable solution for developers. With its focus on performance and ease of use, Burn is poised to become a leading competitor in the field of Deep Learning frameworks.
+tracel-ai/burn is a promising open-source project. Categories: AI/ML. Interest score: 98/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/tracel-ai/burn) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tracel-ai/burn) · [← Back to AI/ML](./README.md)</sub>

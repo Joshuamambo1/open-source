@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fuzz-testing` `fuzzer` `fuzzing` `kernel` `linux` `security` `security-tools` `security-vulnerability` `testing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Syzkaller is an open-source, unsupervised coverage-guided kernel fuzzer that identifies potential security vulnerabilities in operating system kernels. This project uses advanced fuzzer techniques to systematically explore the kernel's behavior, uncovering bugs and vulnerabilities that may have gone undetected otherwise. By facilitating efficient and thorough testing, syzkaller helps improve the overall security and reliability of kernel code.
+google/syzkaller is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/google/syzkaller) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/google/syzkaller) · [← Back to AI/ML](./README.md)</sub>

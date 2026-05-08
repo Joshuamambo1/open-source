@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 875 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `js` `php` `plugin` `react` `wordpress` `wordpress-plugin`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ Automattic/jetpack is a promising open-source project. Categories: Frontend, Sec
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Automattic/jetpack) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Automattic/jetpack) · [← Back to Frontend](./README.md)</sub>

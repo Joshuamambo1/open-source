@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `high-performance` `inference` `llm` `metal` `rust` `tts`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The uzu project is an open-source high-performance inference engine designed for AI models. It aims to provide a fast and efficient way to run AI models, enabling developers to deploy their models in real-world applications. With its high-performance capabilities, uzu facilitates the widespread adoption of AI and machine learning technologies.
+trymirai/uzu is a promising open-source project. Categories: AI/ML. Interest score: 61/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/trymirai/uzu) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/trymirai/uzu) · [← Back to AI/ML](./README.md)</sub>

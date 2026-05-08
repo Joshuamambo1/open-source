@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 179 |
+| 🍴 **Forks** | 182 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-workflow` `ai` `ai-agents` `ai-native` `autonomous-agents` `cultivation` `cultivation-game` `game` `llm` `open-source` `procedural-generation` `prompt-engineering`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The Cultivation World Simulator is an open-source project that leverages AI Agent workflows to recreate a dynamic and immersive Xianxia world. This simulator aims to replicate the complexity and openness of a virtual realm, driven by intelligent AI agents that interact and evolve autonomously. By utilizing orchestration and AI/ML techniques, the project seeks to create a rich and realistic virtual world for exploration and discovery.
+4thfever/cultivation-world-simulator is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/4thfever/cultivation-world-simulator) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/4thfever/cultivation-world-simulator) · [← Back to Orchestration](./README.md)</sub>

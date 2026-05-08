@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 394 |
+| ⭐ **Stars** | 395 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `docker` `file-transfer` `runpod`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the runpod/runpodctl project:
-
-"Runpodctl is a command-line interface (CLI) tool that enables users to interact with Runpod, a platform for streamlined cloud infrastructure and application management. With runpodctl, users can easily manage their Runpod resources, configure settings, and monitor performance from the comfort of their terminal. This open-source tool simplifies the process of working with Runpod, making it easier to automate and scale cloud infrastructure and applications."
+runpod/runpodctl is a promising open-source project. Categories: DevTools, DevOps/Infra. Interest score: 50/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/runpod/runpodctl) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/runpod/runpodctl) · [← Back to DevTools](./README.md)</sub>

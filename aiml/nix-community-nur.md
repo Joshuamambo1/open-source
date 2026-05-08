@@ -25,7 +25,7 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The Nix User Repository (NUR) is an open-source project that provides a collection of user-contributed Nix packages, allowing users to easily install and manage various software packages. Maintained by @Pandapip1, NUR offers a wide range of packages, including those related to AI/ML and backend development. This repository enables users to leverage a community-driven ecosystem for discovering and installing new packages within the Nix package manager.
+nix-community/NUR is a promising open-source project. Categories: AI/ML, Backend. Interest score: 65/100.
 
 ---
 

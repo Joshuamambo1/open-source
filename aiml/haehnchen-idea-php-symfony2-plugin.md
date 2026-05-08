@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 930 |
+| ⭐ **Stars** | 929 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`annotation` `autocomplete` `doctrine` `drupal` `intellij` `intellij-plugin` `java` `jetbrains` `php` `phpstorm` `phpstorm-plugin` `symfony`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Haehnchen/idea-php-symfony2-plugin is an open-source project that provides a Symfony 2 plugin for IntelliJ IDEA and PhpStorm, enhancing the development experience for PHP Symfony applications within these integrated development environments (IDEs). This plugin offers features and functionality specifically tailored for Symfony 2 projects, improving productivity and efficiency for PHP developers working with Symfony. It is a valuable resource for the PHP Symfony community.
+Haehnchen/idea-php-symfony2-plugin is a promising open-source project. Categories: AI/ML. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Haehnchen/idea-php-symfony2-plugin) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Haehnchen/idea-php-symfony2-plugin) · [← Back to AI/ML](./README.md)</sub>

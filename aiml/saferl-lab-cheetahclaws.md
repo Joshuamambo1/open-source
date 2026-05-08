@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 636 |
-| 🍴 **Forks** | 240 |
+| ⭐ **Stars** | 643 |
+| 🍴 **Forks** | 243 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `claude` `claude-code` `memory` `openclaw` `python` `skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Product
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the CheetahClaws project:
-
-CheetahClaws is an open-source, Python-native personal AI assistant designed for seamless and autonomous operation 24/7. Inspired by OpenClaw and Claude Code, this fast and easy-to-use AI assistant empowers users to integrate it with any model, streamlining their workflow with minimal effort. CheetahClaws enables users to work efficiently, leveraging AI capabilities without requiring extensive technical expertise.
+SafeRL-Lab/cheetahclaws is a promising open-source project. Categories: AI/ML, Frontend, Product. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/SafeRL-Lab/cheetahclaws) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SafeRL-Lab/cheetahclaws) · [← Back to AI/ML](./README.md)</sub>

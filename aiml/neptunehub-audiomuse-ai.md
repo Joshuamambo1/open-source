@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 91 |
+| 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`clap` `docker` `emby` `jellyfin` `jellyfin-plugin` `k3s` `kubernetes` `librosa` `llm` `lyrion` `music` `navidrome`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-AudioMuse-AI is an open-source music playlist generator that utilizes sonic analysis to identify related tracks without relying on external metadata or APIs. This self-hosted, Dockerized application is compatible with popular media servers such as Jellyfin, Navidrome, LMS, Lyrion, and Emby. By leveraging AI and machine learning, AudioMuse-AI streamlines music discovery and playlist creation for users.
+NeptuneHub/AudioMuse-AI is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 63/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/NeptuneHub/AudioMuse-AI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/NeptuneHub/AudioMuse-AI) · [← Back to AI/ML](./README.md)</sub>

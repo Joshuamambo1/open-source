@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-builder` `agent-framework` `agents-sdk` `ai` `ai-agent` `ai-agents` `aiagentframework` `developer-sdk` `inkeep` `llms` `low-code`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the inkeep/agents project:
-
-Inkeep/agents is an open-source project that enables developers to create AI agents with a no-code visual builder or a TypeScript SDK, offering seamless 2-way syncing. This framework is designed for building and deploying AI-powered assistants and complex multi-agent workflows with minimal coding effort. By providing a user-friendly interface and a robust programming API, inkeep/agents streamlines AI development and deployment.
+inkeep/agents is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/inkeep/agents) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/inkeep/agents) · [← Back to Orchestration](./README.md)</sub>

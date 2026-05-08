@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 156 |
-| 🍴 **Forks** | 33 |
+| ⭐ **Stars** | 161 |
+| 🍴 **Forks** | 34 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `android` `calorie-tracker` `fitness` `food-tracker` `health` `health-connect` `healthkit` `ios` `jetpack-compose` `kotlin` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-Fud AI is a free and open-source AI-powered calorie tracking application available for both iOS and Android devices. This innovative tool utilizes artificial intelligence to provide users with personalized and accurate calorie intake recommendations. By leveraging AI/ML technology, Fud AI offers a comprehensive and user-friendly experience for individuals seeking to manage their diet and nutrition.
+apoorvdarshan/fud-ai is a promising open-source project. Categories: AI/ML, Frontend, Mobile. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/apoorvdarshan/fud-ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apoorvdarshan/fud-ai) · [← Back to AI/ML](./README.md)</sub>

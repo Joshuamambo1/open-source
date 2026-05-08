@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 146 |
+| 🍴 **Forks** | 147 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`airsonic` `docker` `docker-compose` `dsub` `ffmpeg` `go` `golang` `internet-radio` `lastfm` `listenbrainz` `music` `music-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the sentriz/gonic project:
-
-Gonic is an open-source implementation of the Subsonic server API, designed for music streaming servers. This free-software project allows users to create a customizable music streaming platform, providing an alternative to commercial music services. By leveraging the Subsonic API, Gonic enables developers to build their own music streaming solutions with ease.
+sentriz/gonic is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 69/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/sentriz/gonic) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/sentriz/gonic) · [← Back to AI/ML](./README.md)</sub>

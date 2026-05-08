@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 654 |
-| 🍴 **Forks** | 632 |
+| ⭐ **Stars** | 656 |
+| 🍴 **Forks** | 630 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ethereum` `layer-2` `research`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Data
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the L2BEAT project:
-
-L2BEAT is an open-source analytics and research website providing in-depth insights into Ethereum layer two (L2) scaling solutions. The platform offers a comprehensive resource for understanding the performance, security, and usability of various L2 scaling solutions, empowering researchers and developers to make informed decisions. By leveraging open-source data, L2BEAT fosters transparency and collaboration in the L2 ecosystem.
+l2beat/l2beat is a promising open-source project. Categories: Crypto, Data. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/l2beat/l2beat) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/l2beat/l2beat) · [← Back to Crypto](./README.md)</sub>

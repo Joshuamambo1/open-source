@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 114 |
+| ⭐ **Stars** | 3.6k |
+| 🍴 **Forks** | 115 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`archlinux` `baby-sched` `cachy` `cachy-scheduler` `cachyos` `cacule-sched` `kernel` `linux-kernel` `performance` `performance-tuning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-CachyOS/linux-cachyos is a promising open-source project. Categories: Misc. Interest score: 75/100.
+CachyOS/linux-cachyos is a promising open-source project. Categories: Misc. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/CachyOS/linux-cachyos) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/CachyOS/linux-cachyos) · [← Back to Misc](./README.md)</sub>

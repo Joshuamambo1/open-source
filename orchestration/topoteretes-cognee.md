@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 17k |
+| ⭐ **Stars** | 17.1k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-memory` `cognitive-architecture` `cognitive-memory` `context-engineering` `contributions-welcome` `good-first-issue` `good-first-pr` `graph-database` `graph-rag` `graphrag`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-The cognee project is an open-source knowledge engine designed to enable AI agents to efficiently store and retrieve information. This lightweight solution is implemented in a mere 6 lines of code, making it an attractive option for those seeking a streamlined memory management system for their AI applications. By leveraging cognee, developers can create more intelligent and responsive AI agents with ease.
+topoteretes/cognee is a promising open-source project. Categories: Orchestration, AI/ML, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/topoteretes/cognee) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/topoteretes/cognee) · [← Back to Orchestration](./README.md)</sub>

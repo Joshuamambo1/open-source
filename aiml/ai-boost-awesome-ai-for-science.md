@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 158 |
+| 🍴 **Forks** | 160 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-for-science` `ai4s` `ai4science` `awesome` `awesome-list` `bioinformatics` `scientific-ai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The "Awesome AI for Science" project is an open-source, curated list of AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery across various disciplines, including physics, chemistry, biology, and materials science. This comprehensive resource aims to streamline the process of scientific research by providing a centralized platform for accessing and exploring the latest AI advancements. By leveraging this collection, researchers and scientists can explore and integrate cutting-edge AI technologies into their work.
+ai-boost/awesome-ai-for-science is a promising open-source project. Categories: AI/ML, Data. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/ai-boost/awesome-ai-for-science) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ai-boost/awesome-ai-for-science) · [← Back to AI/ML](./README.md)</sub>

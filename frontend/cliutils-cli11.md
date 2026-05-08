@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 444 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `cli-parser` `cpp11` `no-dependencies`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-CLI11 is an open-source C++ command line parser that offers a comprehensive feature set with a user-friendly interface. This project allows developers to efficiently and effectively parse command line arguments in their applications. With its simple and intuitive design, CLI11 makes it easy to build robust and powerful command line interfaces.
+CLIUtils/CLI11 is a promising open-source project. Categories: Frontend, DevTools. Interest score: 82/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/CLIUtils/CLI11) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/CLIUtils/CLI11) · [← Back to Frontend](./README.md)</sub>

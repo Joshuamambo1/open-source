@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 334 |
+| ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | PowerShell |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adblock` `clash` `clash-meta` `clash-premium` `mihomo` `rule-provider` `rule-set`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the project in English:
-
-The AdBlock_Rule_For_Clash project is an open-source collection of ad-blocking rules, designed specifically for the Clash app's premium and mihomo cores. These rules are updated every 20 minutes to ensure the most up-to-date protection from online advertisements. The project aims to provide users with a comprehensive ad-blocking experience within the Clash app.
+REIJI007/AdBlock_Rule_For_Clash is a promising open-source project. Categories: Misc. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/REIJI007/AdBlock_Rule_For_Clash) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/REIJI007/AdBlock_Rule_For_Clash) · [← Back to Misc](./README.md)</sub>

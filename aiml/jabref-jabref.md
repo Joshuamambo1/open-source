@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`academia` `academic-publications` `ai` `biblatex` `bibliography` `bibtex` `citation` `citation-generator` `citation-style-language` `citation-styles` `hacktoberfest` `jabref`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the JabRef project:
-
-JabRef is an open-source, graphical Java application designed to manage and organize BibTeX and BibLaTeX databases, allowing users to easily create, edit, and maintain bibliographic references. With JabRef, researchers and writers can efficiently import, export, and manipulate bibliographic data, streamlining their research workflow. This free and community-driven tool is ideal for academics, students, and professionals seeking a reliable solution for citation management.
+JabRef/jabref is a promising open-source project. Categories: AI/ML, Frontend, Data. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/JabRef/jabref) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/JabRef/jabref) · [← Back to AI/ML](./README.md)</sub>

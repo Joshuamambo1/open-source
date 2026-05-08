@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automation` `choreographer` `configuration-management` `containers` `distributed-systems` `package-management` `package-manager` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Habitat is an open-source project that empowers developers to build modern applications with seamless automation. By providing a robust platform, Habitat streamlines the development process, enabling teams to focus on writing high-quality code rather than repetitive tasks. This results in more efficient and agile application delivery, enhancing overall productivity and innovation.
+Habitat is an open-source project that enables the development of modern applications with automated workflows and streamlined processes. This AI-driven platform empowers developers to build and deploy applications with ease, leveraging built-in automation to reduce complexity and increase efficiency. By harnessing the power of automation, Habitat helps users create robust and high-performance applications that meet their evolving needs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/habitat-sh/habitat) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/habitat-sh/habitat) · [← Back to AI/ML](./README.md)</sub>

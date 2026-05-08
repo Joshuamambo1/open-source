@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `command-line-tool` `commandline-interface` `hcloud` `hetzner` `hetzner-cloud`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The hetznercloud/cli project is an open-source command-line interface (CLI) designed to simplify interactions with Hetzner Cloud services. With this tool, users can easily manage their cloud infrastructure, including servers, load balancers, and storage, using simple and intuitive commands. It provides a convenient and efficient way to automate and manage Hetzner Cloud resources from the command line.
+hetznercloud/cli is a promising open-source project. Categories: DevTools. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hetznercloud/cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hetznercloud/cli) · [← Back to DevTools](./README.md)</sub>

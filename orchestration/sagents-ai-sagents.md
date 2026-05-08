@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 222 |
+| ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic` `ai` `elixir` `hitl` `human-in-the-loop` `llm` `middleware`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The sagents-ai/sagents project is an open-source framework that enables developers to build interactive AI agents in Elixir, leveraging OTP supervision and middleware composition for robust and scalable applications. Built on top of LangChain, this framework provides features such as human-in-the-loop approvals, sub-agent delegation, and seamless integration with Phoenix LiveView for real-time user interfaces. This Orchestration, AI/ML, and Frontend toolset empowers developers to create sophisticated AI-driven experiences with ease.
+sagents-ai/sagents is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/sagents-ai/sagents) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/sagents-ai/sagents) · [← Back to Orchestration](./README.md)</sub>

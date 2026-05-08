@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.7k |
-| 🍴 **Forks** | 952 |
+| 🍴 **Forks** | 953 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aggregator` `forum` `hacktoberfest` `rails` `ruby`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The lobsters/lobsters project is an open-source, computing-focused community that serves as a hub for link aggregation and discussion. It allows users to share and explore a wide range of topics related to AI, machine learning, and other tech-related subjects. This community platform facilitates knowledge sharing and collaboration among professionals and enthusiasts.
+lobsters/lobsters is a promising open-source project. Categories: AI/ML. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/lobsters/lobsters) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lobsters/lobsters) · [← Back to AI/ML](./README.md)</sub>

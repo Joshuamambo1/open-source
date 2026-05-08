@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 490 |
-| 🍴 **Forks** | 170 |
+| ⭐ **Stars** | 496 |
+| 🍴 **Forks** | 171 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aaosa` `agentic-ai` `agentic-framework` `agents` `ai` `ai-agents` `ai-agents-framework` `langchain` `llms` `mas` `multi-agent` `multi-agent-framework`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Neuro-San Studio is an open-source playground for neuro-san, a platform for neural network-based signal processing and analysis. This tool allows users to explore and experiment with advanced AI and ML techniques, making it an ideal environment for data-driven research and development. By providing a comprehensive and interactive platform, Neuro-San Studio enables users to streamline their workflow and accelerate innovation in the fields of AI, ML, and data science.
+cognizant-ai-lab/neuro-san-studio is a promising open-source project. Categories: Orchestration, AI/ML, Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cognizant-ai-lab/neuro-san-studio) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cognizant-ai-lab/neuro-san-studio) · [← Back to Orchestration](./README.md)</sub>

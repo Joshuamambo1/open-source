@@ -1,23 +1,23 @@
 # hlaueriksson/awesome-powertoys-run-plugins
 
-[![Stars](https://img.shields.io/github/stars/hlaueriksson/awesome-powertoys-run-plugins?style=flat-square&color=yellow)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/hlaueriksson/awesome-powertoys-run-plugins?style=flat-square&color=blue)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hlaueriksson/awesome-powertoys-run-plugins?style=flat-square&color=yellow)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/hlaueriksson/awesome-powertoys-run-plugins?style=flat-square&color=blue)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
 
-> 🗂️🔎 Delightful PowerToys Run community plugins 🔌
+> Listed in awesome-awesome
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 570 |
-| 🍴 **Forks** | 24 |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 21/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project collects and categorizes a list of plugins for PowerToys Run, a Windows tool that allows users to quickly launch applications and files. The repository, which is listed in the 'awesome-awesome' collection, serves as a centralized resource for discovering and exploring PowerToys Run plugins. Users can easily find and install plugins tailored to their needs.
+hlaueriksson/awesome-powertoys-run-plugins is a promising open-source project. Categories: Misc. Interest score: 21/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) · [← Back to Misc](./README.md)</sub>

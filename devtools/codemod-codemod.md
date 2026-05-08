@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 990 |
+| ⭐ **Stars** | 993 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ast-grep` `cleanup` `codemod` `jscodeshift` `migration` `refactoring` `ts-morph` `upgrade`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the codemod project:
-
-CodeMod is an open-source CLI tool for transforming code through multi-step transformations. It offers robust support for parsing and searching Abstract Syntax Trees (ASTs) and is designed to be fast, reliable, and language-agnostic. This makes it a versatile solution for developers to scaffold, share, and run code transformations across various programming languages.
+codemod/codemod is a promising open-source project. Categories: DevTools. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/codemod/codemod) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/codemod/codemod) · [← Back to DevTools](./README.md)</sub>

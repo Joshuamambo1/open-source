@@ -1,6 +1,6 @@
 # hAcKlyc/MyAgents
 
-[![Stars](https://img.shields.io/github/stars/hAcKlyc/MyAgents?style=flat-square&color=yellow)](https://github.com/hAcKlyc/MyAgents/stargazers) [![Forks](https://img.shields.io/github/forks/hAcKlyc/MyAgents?style=flat-square&color=blue)](https://github.com/hAcKlyc/MyAgents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hAcKlyc/MyAgents?style=flat-square&color=yellow)](https://github.com/hAcKlyc/MyAgents/stargazers) [![Forks](https://img.shields.io/github/forks/hAcKlyc/MyAgents?style=flat-square&color=blue)](https://github.com/hAcKlyc/MyAgents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MyAgents - 优雅、易用的 Agent 桌面端 ，一站式 Agent 工作台与任务中心
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 609 |
-| 🍴 **Forks** | 49 |
+| ⭐ **Stars** | 694 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `claude-code` `code-agent` `desktop` `manus` `skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-MyAgents is a user-friendly, all-in-one desktop agent platform and task center that enables seamless management and operation. This open-source project offers an elegant and efficient solution for agent-related tasks, aiming to simplify workflows and enhance productivity. By leveraging AI/ML technologies, MyAgents empowers users to streamline their agent operations and achieve greater efficiency.
+hAcKlyc/MyAgents is a promising open-source project. Categories: AI/ML. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/hAcKlyc/MyAgents) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hAcKlyc/MyAgents) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ascii-art` `curl` `terminal` `weather` `weather-api` `weather-app` `weather-information`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The wttr.in project is an open-source, command-line weather tool that provides an easy-to-use interface for checking the weather. It supports various weather services and offers customizable output formats, making it a flexible solution for users. wttr.in can be used as a backend application, allowing developers to integrate weather data into their own projects.
+chubin/wttr.in is a promising open-source project. Categories: Backend. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/chubin/wttr.in) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/chubin/wttr.in) · [← Back to Backend](./README.md)</sub>

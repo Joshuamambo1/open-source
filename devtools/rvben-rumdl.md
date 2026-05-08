@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `developer-tools` `formatter` `linter` `markdown` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-This open-source project, rumdl, is a fast and efficient Markdown linter and formatter written in Rust. It provides developers with a robust tool to check and improve the quality of their Markdown files, ensuring consistency and readability. By leveraging Rust's speed and performance, rumdl enables users to quickly and accurately format their Markdown content.
+rvben/rumdl is a promising open-source project. Categories: DevTools. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rvben/rumdl) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rvben/rumdl) · [← Back to DevTools](./README.md)</sub>

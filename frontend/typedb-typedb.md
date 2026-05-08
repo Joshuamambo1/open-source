@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 365 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database` `inference` `knowledge-base` `knowledge-representation` `logic` `polymorphic` `polymorphism` `reasoning` `strongly-typed` `type-system` `typedb` `typeql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Data
 
 ## 📝 Summary
 
-TypeDB is an open-source graph database designed for complex systems data, providing a high-performance and scalable solution for storing and querying structured data. Built with systems in mind, TypeDB offers a unique approach to data management that prioritizes scalability and flexibility. It's suitable for applications where data is dynamic and interconnected, such as IoT, finance, and logistics.
+typedb/typedb is a promising open-source project. Categories: Frontend, Data. Interest score: 86/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/typedb/typedb) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/typedb/typedb) · [← Back to Frontend](./README.md)</sub>

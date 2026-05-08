@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`age-of-empires` `age-of-empires-ii` `age-of-empires-iii` `age-of-mythology` `aoe` `aoe2` `aoe2de` `aoe3` `aoe3de` `aoe4` `aom` `aomr`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the luskaner/ageLANServer project:
-
-The ageLANServer is a web server and launcher designed for Age of Empires (AoE) games, supporting offline multiplayer for AoE 1, 2, 3 (all Deluxe Editions), AoE 4, and Age of Mythology: The Titans. This open-source project enables seamless online gameplay for these classic real-time strategy games. With ageLANServer, players can connect and engage in multiplayer matches without the need for an internet connection.
+luskaner/ageLANServer is a promising open-source project. Categories: Backend. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/luskaner/ageLANServer) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/luskaner/ageLANServer) · [← Back to Backend](./README.md)</sub>

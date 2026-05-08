@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 248 |
+| 🍴 **Forks** | 249 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`admin-panel` `ai-agents` `ai-coding` `crm` `framework` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-Open-Mercato is an open-source AI-Engineering Foundation Framework, designed to accelerate the development of AI-driven applications by providing pre-made architectural decisions and conventions. Built with AI and tailored for AI, this framework simplifies the development process by offering hundreds of domain decisions and specs, allowing developers to focus on shipping production-grade applications with AI agents. With its comprehensive set of features, Open-Mercato empowers developers to build scalable, secure, and efficient AI-powered solutions.
+open-mercato/open-mercato is a promising open-source project. Categories: AI/ML, Frontend, Design. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/open-mercato/open-mercato) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/open-mercato/open-mercato) · [← Back to AI/ML](./README.md)</sub>

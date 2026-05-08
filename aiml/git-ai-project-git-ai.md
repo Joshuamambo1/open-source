@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 159 |
+| 🍴 **Forks** | 162 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-blame` `coding-agents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The git-ai project is an open-source extension for Git that enables the tracking of AI-generated code within repositories. This extension simplifies the process of version control and collaboration for developers working with AI-generated content, providing a clear audit trail and improved reproducibility. By integrating AI-generated code into the workflow, git-ai streamlines the development process and enhances transparency.
+git-ai-project/git-ai is a promising open-source project. Categories: AI/ML. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/git-ai-project/git-ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/git-ai-project/git-ai) · [← Back to AI/ML](./README.md)</sub>

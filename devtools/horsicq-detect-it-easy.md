@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.7k |
-| 🍴 **Forks** | 903 |
+| 🍴 **Forks** | 905 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`binary-analysis` `debugger` `detect` `detector` `disassembler` `elf` `entropy` `hacktoberfest` `hacktoberfest2023` `mach-o` `macho` `malware-analysis`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Detect-It-Easy is an open-source program designed to identify file types on Windows, Linux, and MacOS platforms. This versatile tool provides users with a comprehensive understanding of file characteristics, making it a valuable resource for developers and system administrators. By leveraging Detect-It-Easy, users can gain insights into file properties and behavior.
+horsicq/Detect-It-Easy is a promising open-source project. Categories: DevTools. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/horsicq/Detect-It-Easy) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/horsicq/Detect-It-Easy) · [← Back to DevTools](./README.md)</sub>

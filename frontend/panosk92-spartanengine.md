@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 262 |
+| 🍴 **Forks** | 261 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`atmospheric-scattering` `bindless` `bsdf` `car-simulation` `cpp` `cutting-edge` `ecs` `game-engine` `gpu-driven` `imgui` `livestream` `path-tracing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The SpartanEngine is a highly advanced, open-source game engine that boasts cutting-edge rendering capabilities, including real-time path-traced global illumination and hardware ray tracing. This engine is also equipped with a robust physics simulation running at an impressive 200Hz, showcasing its commitment to performance and realism. Developed over 10+ years of research and development, the SpartanEngine offers a powerful foundation for creating immersive gaming experiences.
+PanosK92/SpartanEngine is a promising open-source project. Categories: Frontend. Interest score: 75/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/PanosK92/SpartanEngine) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/PanosK92/SpartanEngine) · [← Back to Frontend](./README.md)</sub>

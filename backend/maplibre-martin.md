@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 356 |
+| 🍴 **Forks** | 355 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `leaflet` `mapbox-gl` `mapbox-gl-js` `mapbox-vector-tile` `maplibre` `maplibre-gl-js` `maps` `mbtiles` `pmtiles` `postgis` `postgresql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-maplibre/martin is a promising open-source project. Categories: Backend, DevTools. Interest score: 80/100.
+maplibre/martin is a promising open-source project. Categories: Backend, DevTools. Interest score: 81/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/maplibre/martin) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/maplibre/martin) · [← Back to Backend](./README.md)</sub>

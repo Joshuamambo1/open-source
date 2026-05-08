@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 554 |
+| 🍴 **Forks** | 556 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `distributed-tracing` `metrics` `opentelemetry` `sdk` `telemetry`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The OpenTelemetry C++ Client is an open-source project that provides a C++ API for collecting and exporting telemetry data, including metrics, logs, and traces. This project allows developers to instrument their applications with OpenTelemetry, enabling real-time monitoring and observability. By using the OpenTelemetry C++ Client, developers can gain insights into their application's performance and behavior.
+open-telemetry/opentelemetry-cpp is a promising open-source project. Categories: Backend, DevTools. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/open-telemetry/opentelemetry-cpp) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/open-telemetry/opentelemetry-cpp) · [← Back to Backend](./README.md)</sub>

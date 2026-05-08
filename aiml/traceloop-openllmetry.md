@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 951 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`artifical-intelligence` `datascience` `generative-ai` `good-first-issue` `good-first-issues` `help-wanted` `llm` `llmops` `metrics` `ml` `model-monitoring` `monitoring`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The traceloop/openllmetry project provides an open-source observability solution for GenAI and Large Language Model (LLM) applications, built on top of the OpenTelemetry standard. This allows developers to monitor and optimize the performance of their AI and ML systems, gaining valuable insights into their behavior and improving overall system reliability. By leveraging OpenTelemetry, the project facilitates seamless integration with a wide range of observability tools and platforms.
+traceloop/openllmetry is a promising open-source project. Categories: AI/ML, Data. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/traceloop/openllmetry) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/traceloop/openllmetry) · [← Back to AI/ML](./README.md)</sub>

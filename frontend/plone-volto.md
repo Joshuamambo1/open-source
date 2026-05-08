@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 612 |
-| 🍴 **Forks** | 885 |
+| 🍴 **Forks** | 884 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`plone` `volto`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Volto is an open-source, React-based frontend framework for the Plone Content Management System. It provides a flexible and customizable interface for managing and presenting content, allowing developers to build dynamic web applications with ease. By leveraging React, Volto enables a modern and efficient user experience for Plone users and administrators.
+plone/volto is a promising open-source project. Categories: Frontend. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/plone/volto) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/plone/volto) · [← Back to Frontend](./README.md)</sub>

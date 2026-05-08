@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blocky` `embeddings` `fastapi` `langchain` `llama` `llamaindex` `llm` `ollama` `openai` `openaiapi` `python` `rag`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a 2-3 sentence summary for the apocas/restai project:
 
-RESTai is an open-source AI as a Service (AIaaS) platform that enables users to leverage various large language models (LLMs) and utilize features such as precise embeddings, analytics, and image/audio generation. With its built-in live chat deployment and graphical language, RESTai simplifies the process of integrating AI capabilities into applications. This versatile platform supports a wide range of LLMs and offers features like prompt versioning and dynamic loading generators.
+RESTai is an open-source AI as a Service (AIaaS) platform that offers a comprehensive suite of features for building and deploying AI applications. Supporting various large language models (LLMs) and built-in tools for image and audio generation, live chat deployment, and graphical language design, RESTai enables developers to create innovative AI-powered solutions. With features like prompt versioning and analytics, RESTai empowers users to streamline their AI development workflow and gain valuable insights.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/apocas/restai) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apocas/restai) · [← Back to Orchestration](./README.md)</sub>

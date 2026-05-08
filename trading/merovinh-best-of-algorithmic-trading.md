@@ -25,7 +25,7 @@ Trading · Backend
 
 ## 📝 Summary
 
-The "best-of-algorithmic-trading" project is an open-source repository that curates and ranks a comprehensive list of algorithmic trading libraries, frameworks, bots, tools, books, and educational resources. Updated weekly to ensure its accuracy and relevance, this resource aims to assist traders, developers, and researchers in navigating the vast landscape of algorithmic trading solutions. By providing a centralized and regularly updated directory, the project facilitates collaboration, knowledge sharing, and innovation within the algorithmic trading community.
+merovinh/best-of-algorithmic-trading is a promising open-source project. Categories: Trading, Backend. Interest score: 55/100.
 
 ---
 

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 301 |
+| ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-swarm` `ai-agents` `ai-coding` `automation` `bun` `cli` `code-review` `coding-agent` `developer-tools` `github` `guardrails` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The opencode-swarm plugin is an architect-centric agentic swarm solution for OpenCode, facilitating efficient hub-and-spoke orchestration. This innovative tool enables SME consultation, automatic code generation, and thorough QA review, streamlining development workflows. By leveraging AI/ML capabilities, opencode-swarm enhances collaboration and productivity among development teams.
+zaxbysauce/opencode-swarm is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/zaxbysauce/opencode-swarm) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/zaxbysauce/opencode-swarm) · [← Back to Orchestration](./README.md)</sub>

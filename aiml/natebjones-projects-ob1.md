@@ -1,6 +1,6 @@
 # NateBJones-Projects/OB1
 
-[![Stars](https://img.shields.io/github/stars/NateBJones-Projects/OB1?style=flat-square&color=yellow)](https://github.com/NateBJones-Projects/OB1/stargazers) [![Forks](https://img.shields.io/github/forks/NateBJones-Projects/OB1?style=flat-square&color=blue)](https://github.com/NateBJones-Projects/OB1/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NateBJones-Projects/OB1?style=flat-square&color=yellow)](https://github.com/NateBJones-Projects/OB1/stargazers) [![Forks](https://img.shields.io/github/forks/NateBJones-Projects/OB1?style=flat-square&color=blue)](https://github.com/NateBJones-Projects/OB1/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 518 |
+| ⭐ **Stars** | 2.8k |
+| 🍴 **Forks** | 528 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `mcp` `memory-layer` `memory-layer-for-ai` `open-brain` `open-source` `personal-knowledge` `personal-knowledge-management` `supabase`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Open Brain (OB1) is an open-source infrastructure layer designed to facilitate seamless AI integration. It provides a unified database, AI gateway, and chat channel, allowing various AI plugins to be easily connected without requiring middleware or cloud-based services. This project enables developers to build and manage AI-powered applications with greater flexibility and control.
+NateBJones-Projects/OB1 is a promising open-source project. Categories: AI/ML, Data, DevOps/Infra. Interest score: 78/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/NateBJones-Projects/OB1) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/NateBJones-Projects/OB1) · [← Back to AI/ML](./README.md)</sub>

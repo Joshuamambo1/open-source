@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 642 |
+| ⭐ **Stars** | 643 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Cuda |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cpp` `cpp17` `cuda` `datastructures` `gpu` `hashmap` `hashset` `hashtable`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-CuCollections is an open-source, data-oriented project by NVIDIA. It provides developers with a set of efficient, container-like data structures for storing and managing collections of data, designed to work seamlessly with NVIDIA's CUDA platform. This project is ideal for developers working with large-scale, high-performance computing applications.
+NVIDIA/cuCollections is a promising open-source project. Categories: Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/NVIDIA/cuCollections) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/NVIDIA/cuCollections) · [← Back to Data](./README.md)</sub>

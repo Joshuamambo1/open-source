@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `chatbots` `evals` `javascript` `llm` `mcp` `nextjs` `nodejs` `reactjs` `tts` `typescript`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ mastra-ai/mastra is a promising open-source project. Categories: AI/ML, Frontend
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/mastra-ai/mastra) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mastra-ai/mastra) · [← Back to AI/ML](./README.md)</sub>

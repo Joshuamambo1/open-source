@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 275 |
+| 🍴 **Forks** | 276 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `rlhf` `rlvr`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-ROLL is an open-source scaling library for reinforcement learning (RL) designed to handle large language models, providing an efficient and user-friendly framework for RL development. This library enables researchers and practitioners to overcome the challenges associated with scaling RL in complex scenarios, such as those involving large language models. By leveraging ROLL, users can streamline their RL workflows and unlock more effective and efficient training processes.
+alibaba/ROLL is a promising open-source project. Categories: AI/ML. Interest score: 70/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/alibaba/ROLL) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/alibaba/ROLL) · [← Back to AI/ML](./README.md)</sub>

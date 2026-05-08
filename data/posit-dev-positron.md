@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Positron is an open-source, next-generation data science integrated development environment (IDE) designed to revolutionize the way data scientists work. This powerful tool offers a comprehensive platform for data analysis, visualization, and collaboration, empowering users to efficiently explore, model, and communicate insights. By providing a seamless and intuitive experience, Positron aims to accelerate data science workflows and drive innovation.
+posit-dev/positron is a promising open-source project. Categories: Data. Interest score: 71/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/posit-dev/positron) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/posit-dev/positron) · [← Back to Data](./README.md)</sub>

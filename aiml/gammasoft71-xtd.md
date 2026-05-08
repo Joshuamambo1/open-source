@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 78 |
+| 🍴 **Forks** | 79 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `cli` `cmake` `console` `cplusplus-20` `cpp` `cross-platform` `cross-platform-desktop` `cross-platform-gui` `desktop` `framework` `gui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The gammasoft71/xtd project is a free, open-source C++20 framework that enables developers to create a wide range of applications and libraries across multiple platforms, including Windows, macOS, Linux, and mobile devices. This modern framework provides a unified solution for building console, graphical user interface (GUI) applications, and unit tests, leveraging the power of xUnit. With gammasoft71/xtd, developers can write cross-platform code with a high degree of flexibility and portability.
+gammasoft71/xtd is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/gammasoft71/xtd) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gammasoft71/xtd) · [← Back to AI/ML](./README.md)</sub>

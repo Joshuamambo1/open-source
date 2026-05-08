@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `chatbot` `enterprise` `finetune` `genai` `gpt` `langchian` `llama` `llm` `llmdevops` `llmops`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the dataelement/bisheng open-source project:
-
-Bisheng is an open-source platform that enables the development and operation of next-generation Enterprise AI applications. This comprehensive platform features a range of powerful tools, including workflow management, AI model management, and evaluation, to streamline AI development and deployment. With Bisheng, developers can build and manage complex AI systems with ease, making it an ideal solution for organizations seeking to leverage AI in their operations.
+dataelement/bisheng is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/dataelement/bisheng) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dataelement/bisheng) · [← Back to Orchestration](./README.md)</sub>

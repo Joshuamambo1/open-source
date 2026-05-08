@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automation` `data-engineering` `data-integration` `data-ops` `data-visualization` `datascience` `developer-tools` `hacktoberfest` `hacktoberfest2023` `job-scheduler` `mlops` `orchestration`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Avaiga/taipy is an open-source project that enables developers to rapidly create production-ready web applications from data and AI algorithms. This project streamlines the process of transforming complex algorithms into user-friendly web interfaces, making it easier to deploy AI and data-driven solutions. With Avaiga/taipy, developers can focus on building innovative applications rather than spending time on development and deployment.
+Avaiga/taipy is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Avaiga/taipy) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Avaiga/taipy) · [← Back to Orchestration](./README.md)</sub>

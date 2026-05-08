@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 54 |
+| 🍴 **Forks** | 53 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `api` `billing` `clickhouse` `invoicing` `metering` `modern-data-stack` `payments` `plg` `pricing` `revenue` `rust`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the meteroid project:
-
-Meteroid is an open-source pricing and billing infrastructure that streamlines subscription management, invoicing, and revenue analytics. It offers a range of features, including usage-based billing, cost limiting, and grandfathering, providing actionable insights to drive business growth. With Meteroid, developers can build scalable and reliable pricing systems for their applications.
+meteroid-oss/meteroid is a promising open-source project. Categories: Payments, Backend, DevTools. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/meteroid-oss/meteroid) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/meteroid-oss/meteroid) · [← Back to Payments](./README.md)</sub>

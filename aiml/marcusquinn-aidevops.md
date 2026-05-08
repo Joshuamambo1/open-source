@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 231 |
+| ⭐ **Stars** | 232 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `agents-md` `ai` `ai-agents` `ai-assistant` `ai-assistants` `ai-assisted-development` `ai-code-review` `ai-coding` `ai-dev-ops` `ai-devops` `ai-system-admin`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-Aidevops is an open-source DevOps platform that leverages AI and machine learning to automate tasks, streamline workflows, and enhance security for applications, businesses, and personal projects. With a stack of opinionated tools, services, CLI, and API, this platform aims to provide speed, efficiency, and 24/7 results. It's designed to be open-source first, with the latest technologies (SOTA) integrated to deliver exceptional results.
+marcusquinn/aidevops is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/marcusquinn/aidevops) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/marcusquinn/aidevops) · [← Back to AI/ML](./README.md)</sub>

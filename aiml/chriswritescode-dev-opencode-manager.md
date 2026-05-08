@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 537 |
+| ⭐ **Stars** | 539 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `javascript` `mobile` `web`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-OpenCode Manager is a mobile-first web interface that enables seamless management and control of multiple OpenCode AI agents from any device, featuring Git integration, file management, and real-time chat. This responsive Progressive Web App (PWA) provides instant access to AI coding capabilities, making it ideal for developers and teams working with OpenCode agents. With Docker deployment, setup is effortless, allowing users to start coding and collaborating in no time.
+chriswritescode-dev/opencode-manager is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 50/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/chriswritescode-dev/opencode-manager) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/chriswritescode-dev/opencode-manager) · [← Back to AI/ML](./README.md)</sub>

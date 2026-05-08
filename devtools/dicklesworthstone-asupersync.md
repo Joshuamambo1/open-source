@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 160 |
+| ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`async` `concurrency` `runtime` `rust` `structured-concurrency`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project 'asupersync':
-
-Asupersync is an asynchronous runtime for Rust that prioritizes correctness through structural techniques, including region-owned tasks, cancel-correct protocols, and capability-gated effects. These features ensure that the runtime is robust, reliable, and easy to test, making it an ideal choice for complex concurrent systems. With deterministic replay testing, developers can confidently identify and fix issues in their code.
+Dicklesworthstone/asupersync is a promising open-source project. Categories: DevTools. Interest score: 48/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Dicklesworthstone/asupersync) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Dicklesworthstone/asupersync) · [← Back to DevTools](./README.md)</sub>

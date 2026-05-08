@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 138 |
+| ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `github` `oss` `security`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-ghtkn is a command-line interface (CLI) that generates short-lived, 8-hour GitHub App User Access Tokens for secure local development. This tool helps developers obtain temporary tokens without exposing their long-term personal access tokens to their local environment. By using ghtkn, developers can maintain better security and compliance in their local development workflows.
+suzuki-shunsuke/ghtkn is a promising open-source project. Categories: DevTools, Security. Interest score: 46/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/suzuki-shunsuke/ghtkn) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/suzuki-shunsuke/ghtkn) · [← Back to DevTools](./README.md)</sub>

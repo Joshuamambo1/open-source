@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`autoscaling` `event-driven` `hacktoberfest` `keda` `kubernetes` `serverless`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-KEDA (Kubernetes-based Event Driven Autoscaling) is an open-source project that enables event-driven scaling for any container running in Kubernetes environments. This innovative component allows for the automatic scaling of workloads based on external events, making it ideal for applications that require dynamic resource allocation. By providing a scalable and flexible solution, KEDA simplifies the management of event-driven workloads in Kubernetes environments.
+kedacore/keda is a promising open-source project. Categories: AI/ML, Backend, DevOps/Infra. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kedacore/keda) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kedacore/keda) · [← Back to AI/ML](./README.md)</sub>

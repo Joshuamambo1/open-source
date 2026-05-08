@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.6k |
+| ⭐ **Stars** | 18.8k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude-code` `mcp` `skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The anthropic/claude-plugins-official repository is an open-source collection of high-quality plugins for Claude, a large language model developed by Anthropic. This official directory provides users with a curated selection of plugins that can be easily integrated into their Claude experiences, enhancing its capabilities and functionality. By contributing to this repository, developers and users can collaborate to create and share plugins that bring more value to the Claude ecosystem.
+anthropics/claude-plugins-official is a promising open-source project. Categories: Misc. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/anthropics/claude-plugins-official) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/anthropics/claude-plugins-official) · [← Back to Misc](./README.md)</sub>

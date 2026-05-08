@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`llm` `openai-hackathon` `rag` `streamlit`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the ScrapeGraphAI project:
-
-ScrapeGraphAI's demo, available on GitHub as Scrapegraph-demo, is an open-source project that showcases the capabilities of Scrapegraph-ai using Streamlit. This AI/ML project was developed for the GPT4 hackathon, aiming to push the boundaries of natural language processing and machine learning capabilities. The demo provides a user-friendly interface to explore the potential of Scrapegraph-ai.
+ScrapeGraphAI/Scrapegraph-demo is a promising open-source project. Categories: AI/ML. Interest score: 48/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-demo) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-demo) · [← Back to AI/ML](./README.md)</sub>

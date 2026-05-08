@@ -25,9 +25,7 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the vscodev/neokikoeru project:
-
-Neokikoeru is an open-source, self-hosted streaming media server designed specifically for DLsite voice works, offering robustness, speed, and ease of use. This project enables users to host and stream their favorite voice works content privately, catering to the needs of voice work enthusiasts. With a focus on frontend and backend development, Neokikoeru aims to provide a seamless and enjoyable experience for users.
+vscodev/neokikoeru is a promising open-source project. Categories: Frontend, Backend. Interest score: 54/100.
 
 ---
 

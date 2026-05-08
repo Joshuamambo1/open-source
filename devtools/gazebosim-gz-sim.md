@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 408 |
+| 🍴 **Forks** | 409 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cpp` `gazebo` `gazebosim` `graphical-interface` `hacktoberfest` `ignition-gazebo` `ignition-libraries` `ignition-robotics` `physics` `rendering` `robot-simulation` `robot-simulator`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Gazebo is an open-source robotics simulator that allows users to model, simulate, and test complex robotic systems in a realistic and interactive environment. This powerful tool enables developers to validate their algorithms, test new hardware, and optimize system performance before deploying it in the real world. As the latest version of Gazebo, gz-sim offers a comprehensive and accessible platform for robotics research and development.
+gazebosim/gz-sim is a promising open-source project. Categories: DevTools. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/gazebosim/gz-sim) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gazebosim/gz-sim) · [← Back to DevTools](./README.md)</sub>

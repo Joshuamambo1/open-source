@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 241 |
+| ⭐ **Stars** | 243 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Propolis is an open-source project that provides a userspace Virtual Machine Monitor (VMM) for Illumos bhyve, allowing for more efficient and customizable virtualization. This project aims to optimize the performance and functionality of bhyve, making it a valuable resource for developers and system administrators working with virtualized environments. By leveraging Propolis, users can unlock advanced features and improve the overall virtualization experience.
+Propolis is an open-source user-space Virtual Machine Monitor (VMM) designed for the illumos bhyve virtualization platform. It allows for low-level control and customization of virtual machines, providing a flexible and extensible solution for users and developers. By operating in userspace, Propolis enables efficient and secure virtualization on illumos systems.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/oxidecomputer/propolis) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/oxidecomputer/propolis) · [← Back to Misc](./README.md)</sub>

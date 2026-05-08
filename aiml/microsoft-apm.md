@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 158 |
+| ⭐ **Stars** | 2.3k |
+| 🍴 **Forks** | 161 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude-code` `codex-cli` `context-engineering` `github-copilot` `package-manager` `prompt-engineering`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Microsoft's Agent Package Manager (APM) is an open-source project that facilitates the management of AI/ML agent packages. This tool enables developers to easily discover, install, and manage various packages, streamlining the development process. By leveraging APM, developers can accelerate the creation and deployment of AI/ML models and applications.
+microsoft/apm is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 67/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/microsoft/apm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/apm) · [← Back to AI/ML](./README.md)</sub>

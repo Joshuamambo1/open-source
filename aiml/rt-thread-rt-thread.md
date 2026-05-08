@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11.9k |
+| ⭐ **Stars** | 12k |
 | 🍴 **Forks** | 5.4k |
 | 💻 **Language** | C |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aiot` `arm` `cortex-a` `cortex-m` `embedded-systems` `iot` `kernel` `microcontroller` `microkernel` `mips` `real-time` `risc-v`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-RT-Thread is an open-source, real-time operating system (RTOS) designed for the Internet of Things (IoT). It provides a reliable and efficient platform for developing embedded systems and IoT applications, with features such as multitasking, device driver support, and networking capabilities. By leveraging RT-Thread's flexible and customizable architecture, developers can create high-performance and secure IoT devices.
+RT-Thread/rt-thread is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/RT-Thread/rt-thread) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/RT-Thread/rt-thread) · [← Back to AI/ML](./README.md)</sub>

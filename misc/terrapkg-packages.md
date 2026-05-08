@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 452 |
+| ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | HCL |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fedora` `rpm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Terrapkg/packages is an open-source monorepo for Terra Packages, providing a centralized location for Terraform package development. This repository aims to consolidate and streamline package management, making it easier to create, share, and maintain Terraform packages. By hosting packages in a single monorepo, users can discover, contribute, and integrate Terraform packages with greater ease.
+This is a monorepo for Terra Packages, a collection of open-source Terraform packages designed to simplify and streamline infrastructure deployment and management. The project provides a centralized repository for packages that can be easily integrated into Terraform workflows, promoting consistency and efficiency in cloud infrastructure development. By leveraging this monorepo, users can access and contribute to a wide range of Terra Packages, accelerating their Terraform projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/terrapkg/packages) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/terrapkg/packages) · [← Back to Misc](./README.md)</sub>

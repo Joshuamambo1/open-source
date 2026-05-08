@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.9k |
+| ⭐ **Stars** | 19k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-age` `ai-coding` `ai-developer-tools` `chatgpt` `claude` `cli` `gemini` `jetbrains` `sonnet` `vscode` `vscode-extension`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Kilocode project:
-
-Kilocode is an all-in-one agentic engineering platform that enables developers to build, ship, and iterate faster with its open-source coding agent. This platform leverages the power of AI/ML and DevTools to streamline the development process, making it a top choice for modern engineering teams. With kilocode, developers can boost their productivity and efficiency, ultimately delivering high-quality software solutions quickly.
+Kilo-Org/kilocode is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Kilo-Org/kilocode) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Kilo-Org/kilocode) · [← Back to AI/ML](./README.md)</sub>

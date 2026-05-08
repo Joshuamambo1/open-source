@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`azure` `azure-sdk` `hacktoberfest` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the Azure SDK for Python:
-
-The Azure SDK for Python is an open-source project that enables developers to build applications that integrate with Microsoft Azure services. This SDK provides a comprehensive set of libraries and tools for interacting with Azure resources, making it easier to develop cloud-based solutions. With the Azure SDK for Python, developers can access a wide range of Azure services, including storage, computing, and analytics.
+Azure/azure-sdk-for-python is a promising open-source project. Categories: DevTools. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Azure/azure-sdk-for-python) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Azure/azure-sdk-for-python) · [← Back to DevTools](./README.md)</sub>

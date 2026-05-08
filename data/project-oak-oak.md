@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Project Oak is an open-source initiative that provides a framework for meaningful control of data in distributed systems. This framework aims to enable developers to manage and govern their data effectively across various applications and environments. By offering a robust set of tools and features, Project Oak facilitates secure, transparent, and efficient data management in complex distributed systems.
+project-oak/oak is a promising open-source project. Categories: Data. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/project-oak/oak) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/project-oak/oak) · [← Back to Data](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.2k |
+| ⭐ **Stars** | 25.3k |
 | 🍴 **Forks** | 9.5k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cicd` `continuous-delivery` `continuous-deployment` `continuous-integration` `devops` `groovy` `hacktoberfest` `java` `jenkins` `pipelines-as-code`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The Jenkins automation server is an open-source project that enables users to automate various tasks and processes through continuous integration and continuous deployment (CI/CD). It provides a highly customizable and extensible platform for software development teams to build, test, and deploy their applications. By leveraging Jenkins, developers can streamline their workflows and improve collaboration, ultimately reducing the time and effort required to deliver high-quality software.
+jenkinsci/jenkins is a promising open-source project. Categories: Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/jenkinsci/jenkins) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jenkinsci/jenkins) · [← Back to Backend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `appium` `appium-framework` `appium-java` `automation` `automation-engine` `e2e-testing` `end-to-end-testing` `java` `mobile` `restassured` `restassured-framework`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the SHAFT_ENGINE project:
+Here's a brief summary of the SHAFT_ENGINE project:
 
-SHAFT is an open-source, unified test automation engine that supports multiple testing domains, including web, mobile, API, CLI, database, and desktop. This powerful tool leverages top-tier frameworks to provide an intuitive, wizard-like syntax that streamlines automation and maximizes return on investment. With SHAFT, users can efficiently automate testing without the need for extensive learning or custom development.
+SHAFT is an open-source, unified test automation engine that supports a wide range of testing types, including web, mobile, API, CLI, database, and desktop end-to-end testing. Powered by best-in-class frameworks, SHAFT provides a user-friendly syntax to simplify automation and maximize return on investment. With SHAFT, developers can streamline their testing processes and minimize learning curves, reducing the need for repetitive automation efforts.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/ShaftHQ/SHAFT_ENGINE) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ShaftHQ/SHAFT_ENGINE) · [← Back to Backend](./README.md)</sub>

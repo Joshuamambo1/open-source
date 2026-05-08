@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-agents` `cloud-governance` `cloud-optimization` `enterprise-automation` `finops` `finops-automation` `low-code` `mcp-server` `mcp-servers` `mcp-tools` `no-code`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the openops project:
-
-OpenOps is an open-source, No-Code FinOps automation platform that combines a user-friendly interface with the power of AI. This innovative platform streamlines financial operations by automating tasks, providing actionable insights, and enhancing trust in its AI-driven decision-making capabilities. By leveraging OpenOps, users can simplify their financial workflows and focus on strategic growth.
+openops-cloud/openops is a promising open-source project. Categories: AI/ML, Backend. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/openops-cloud/openops) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openops-cloud/openops) · [← Back to AI/ML](./README.md)</sub>

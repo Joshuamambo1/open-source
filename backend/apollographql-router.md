@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 958 |
+| ⭐ **Stars** | 959 |
 | 🍴 **Forks** | 330 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apollo` `federated-graph` `federation` `gateway` `gateway-api` `graph-router` `graphql`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the apollographql/router project:
-
-Apollographql/router is an open-source, high-performance routing runtime designed for Apollo Federation. This configurable routing system enables efficient and scalable routing for complex GraphQL applications, allowing developers to build robust and maintainable backend infrastructure. By leveraging this tool, developers can optimize their GraphQL services for high performance and reliability.
+apollographql/router is a promising open-source project. Categories: Backend. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/apollographql/router) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apollographql/router) · [← Back to Backend](./README.md)</sub>

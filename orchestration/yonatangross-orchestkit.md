@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 166 |
+| ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai-development` `claude-code` `claude-plugin` `fastapi` `langgraph` `llm` `mcp` `rag` `react` `security` `testing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Orchestkit is an open-source project providing a comprehensive AI development toolkit for Claude Code. It features a wide range of skills, agents, and hooks, with production-ready patterns for full-stack development, making it an ideal solution for AI and ML projects. This toolkit supports seamless orchestration and streamlines the development process for complex applications.
+yonatangross/orchestkit is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/yonatangross/orchestkit) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/yonatangross/orchestkit) · [← Back to Orchestration](./README.md)</sub>

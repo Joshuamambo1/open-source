@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `angualr5` `angular` `bot` `chat` `chatbot` `console` `customer-service` `customer-support` `dashboard` `firebase` `firestore`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ Tiledesk/tiledesk-dashboard is a promising open-source project. Categories: AI/M
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Tiledesk/tiledesk-dashboard) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Tiledesk/tiledesk-dashboard) · [← Back to AI/ML](./README.md)</sub>

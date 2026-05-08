@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anonymity` `anonymous` `elite` `free` `free-proxy` `hacking` `http` `https-proxy` `proxy` `proxy-list` `socker` `socks`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-TheSpeedX/PROXY-List is an open-source project that provides a constantly updated list of proxies, updated daily to ensure users have access to the most current and reliable proxy servers. This list can be useful for various applications, including data scraping, web crawling, and anonymous browsing. The project aims to offer a free and accessible resource for those seeking to utilize proxy servers.
+TheSpeedX/PROXY-List is a promising open-source project. Categories: Misc. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/TheSpeedX/PROXY-List) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/TheSpeedX/PROXY-List) · [← Back to Misc](./README.md)</sub>

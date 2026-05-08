@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `anthropic` `bigquery` `charts` `context-engineering` `duckdb` `llm` `openai` `postgresql` `rag` `sql` `sqlai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Canner/WrenAI is an open-source, GenBI agent that enables users to interact with their databases using natural language. With support for over 12 data sources and various Large Language Models (LLMs), it facilitates text-to-SQL and text-to-chart capabilities, providing accurate SQL queries, charts, and business intelligence insights. This innovative tool aims to simplify data analysis and exploration.
+Canner/WrenAI is a promising open-source project. Categories: AI/ML, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Canner/WrenAI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Canner/WrenAI) · [← Back to AI/ML](./README.md)</sub>

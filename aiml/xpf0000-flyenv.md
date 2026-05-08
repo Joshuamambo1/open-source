@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 277 |
+| 🍴 **Forks** | 278 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database` `developer-tools` `development-environment` `docker` `hermes-agent` `laragon` `laravel` `laravel-herd` `mamp` `mysql` `n8n` `nodejs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-FlyEnv is a lightweight, open-source local development toolbox designed for Windows, macOS, and Linux. It enables developers to run various applications, including web servers and languages like PHP, Node.js, and Python, without requiring Docker or a complex setup. FlyEnv offers a faster and more modular alternative to established development environments like XAMPP, MAMP, and Laravel Herd.
+xpf0000/FlyEnv is a promising open-source project. Categories: AI/ML, DevTools, Data. Interest score: 74/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/xpf0000/FlyEnv) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/xpf0000/FlyEnv) · [← Back to AI/ML](./README.md)</sub>

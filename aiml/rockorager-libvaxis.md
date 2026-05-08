@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 131 |
+| 🍴 **Forks** | 132 |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`tui` `zig` `zig-package`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Rockorager's libvaxis is a cutting-edge, open-source TUI (Text-based User Interface) library developed in Zig, designed to provide a modern and efficient framework for building interactive command-line applications. This library aims to combine the power of Zig with the flexibility of TUI design, making it an attractive option for developers seeking to create responsive and user-friendly command-line interfaces. By leveraging libvaxis, developers can craft high-quality TUI applications with ease.
+rockorager/libvaxis is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/rockorager/libvaxis) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rockorager/libvaxis) · [← Back to AI/ML](./README.md)</sub>

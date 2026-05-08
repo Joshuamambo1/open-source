@@ -25,9 +25,7 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The openai/openai-agents-js framework is an open-source, lightweight toolkit for developing multi-agent workflows and voice agents, empowering efficient and scalable AI/ML applications. This powerful backend framework simplifies the integration of machine learning models and automation logic, streamlining the creation of sophisticated voice agents and agent ecosystems. By leveraging this framework, developers can rapidly build and deploy complex multi-agent systems.
+openai/openai-agents-js is a promising open-source project. Categories: Orchestration, AI/ML, Backend. Interest score: 78/100.
 
 ---
 

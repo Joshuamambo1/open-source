@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`attestation` `cloud` `edge` `ima` `iot` `opensource` `security` `tpm` `virtualization`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Keylime is an open-source project that focuses on bootstrapping and maintaining trust on the edge, cloud, and IoT environments. This project aims to provide a secure and reliable foundation for edge and cloud applications, ensuring the integrity and trustworthiness of data and computations. By leveraging AI/ML and security technologies, Keylime enables organizations to build trust in their edge and cloud-based systems.
+keylime/keylime is a promising open-source project. Categories: AI/ML, DevTools, Security. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/keylime/keylime) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/keylime/keylime) · [← Back to AI/ML](./README.md)</sub>

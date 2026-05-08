@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 212 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apache2` `bazel` `buck2` `build-automation` `build-system` `chromium` `ci` `content-addressable-storage` `free` `nix` `pants` `re-client`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the NativeLink project:
-
-NativeLink is an open-source, high-performance build cache and remote execution server that significantly accelerates builds and reduces test flakiness. Powered by Nix, it seamlessly integrates with popular build systems like Bazel, Soong, and Pants, supporting specialized hardware and AI/ML workloads. By leveraging NativeLink, developers can achieve faster and more reliable build processes.
+TraceMachina/nativelink is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/TraceMachina/nativelink) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/TraceMachina/nativelink) · [← Back to AI/ML](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The cedar-policy/cedar project is an open-source implementation of the Cedar Policy Language, a tool for managing and enforcing access control policies within systems. It provides a standardized and flexible approach to policy definition, allowing users to define and manage access controls with precision and ease. This project enables developers to integrate Cedar policies into their systems, enhancing security and compliance capabilities.
+cedar-policy/cedar is a promising open-source project. Categories: Misc. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/cedar-policy/cedar) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cedar-policy/cedar) · [← Back to Misc](./README.md)</sub>

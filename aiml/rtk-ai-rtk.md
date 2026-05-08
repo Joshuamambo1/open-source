@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 42k |
-| 🍴 **Forks** | 2.5k |
+| ⭐ **Stars** | 43.6k |
+| 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-coding` `ai-coding` `anthropic` `claude-code` `cli` `command-line-tool` `cost-reduction` `developer-tools` `llm` `open-source` `productivity` `rust`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ rtk-ai/rtk is a promising open-source project. Categories: AI/ML, DevTools, Prod
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/rtk-ai/rtk) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rtk-ai/rtk) · [← Back to AI/ML](./README.md)</sub>

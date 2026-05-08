@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31.8k |
-| 🍴 **Forks** | 1.9k |
+| ⭐ **Stars** | 32k |
+| 🍴 **Forks** | 2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The vercel-labs/agent-browser project is an open-source, command-line interface for automating browser interactions, designed to support the development and testing of AI agents. This tool enables seamless integration and testing of AI agents with web applications, facilitating more efficient and effective AI system development. By leveraging the browser automation capabilities, developers can streamline their workflows and improve the overall quality of their AI-powered solutions.
+vercel-labs/agent-browser is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/vercel-labs/agent-browser) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vercel-labs/agent-browser) · [← Back to AI/ML](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 346 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Buck2 is an open-source build system, designed to be a successor to the original Buck project. It provides a fast, efficient, and scalable way to automate build and dependency management tasks for frontend projects, allowing developers to streamline their build processes and improve productivity. By leveraging Buck2, developers can easily manage complex build configurations and dependencies, making it an ideal tool for large-scale frontend projects.
+Buck2 is an open-source build system designed to replace its predecessor, Buck. It is a robust tool for automating the compilation and deployment of software projects, especially those with complex frontend dependencies. With Buck2, developers can efficiently manage and optimize their build processes, leading to improved productivity and reduced build times.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/facebook/buck2) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/facebook/buck2) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 83 |
+| ⭐ **Stars** | 2.6k |
+| 🍴 **Forks** | 86 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compile` `cranelift` `smc` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-PerryTS is an innovative, open-source project that brings native compilation capabilities to TypeScript through Rust. It utilizes the SWC and LLVM frameworks to directly compile TypeScript code into executable files, eliminating the need for intermediate JavaScript steps. This project aims to enhance development efficiency and performance by bridging the gap between TypeScript and native code compilation.
+PerryTS/perry is a promising open-source project. Categories: Misc. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/PerryTS/perry) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/PerryTS/perry) · [← Back to Misc](./README.md)</sub>

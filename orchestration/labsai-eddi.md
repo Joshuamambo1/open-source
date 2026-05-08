@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 333 |
-| 🍴 **Forks** | 111 |
+| ⭐ **Stars** | 336 |
+| 🍴 **Forks** | 112 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a` `ai-agents` `ai-orchestration` `chatbot` `conversation-memory` `conversational-ai` `docker` `enterprise-ai` `java` `langchain4j` `llm` `mcp-client`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-EDDI (Efficient Distributed Data Integration) is an open-source, config-driven engine that enables the creation of production-grade AI agents from JSON configurations. Built on the Quarkus framework, EDDI supports multi-agent orchestration, integrates with 12+ large language model providers, and adheres to enterprise compliance standards including the EU AI Act, GDPR, and HIPAA. This versatile engine streamlines AI/ML workflow management and development.
+labsai/EDDI is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/labsai/EDDI) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/labsai/EDDI) · [← Back to Orchestration](./README.md)</sub>

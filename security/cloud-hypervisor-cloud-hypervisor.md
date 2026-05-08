@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.6k |
-| 🍴 **Forks** | 638 |
+| 🍴 **Forks** | 640 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-workloads` `kvm` `rust-vmm` `virtualization`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Security · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary for the cloud-hypervisor project:
-
-Cloud-hypervisor is an open-source Virtual Machine Monitor (VMM) designed for modern cloud workloads, offering features such as CPU, memory, and device hotplug, as well as support for running Windows and Linux guests. Built with a focus on security and written in Rust, this compact footprint solution also enables device offload through vhost-user. Its robust architecture makes it an ideal choice for cloud environments.
+cloud-hypervisor/cloud-hypervisor is a promising open-source project. Categories: Security, Marketing. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cloud-hypervisor/cloud-hypervisor) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cloud-hypervisor/cloud-hypervisor) · [← Back to Security](./README.md)</sub>

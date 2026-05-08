@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 133 |
+| ⭐ **Stars** | 1.9k |
+| 🍴 **Forks** | 135 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `agent-tools` `agentic-workflow` `agentos` `ai-agents` `harness` `harness-engineering` `openclaw`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-DeepBot is an open-source, system-level AI assistant designed for both personal productivity and enterprise workflows, offering a seamless experience with one-click setup. It integrates natively with Feishu, a popular collaboration platform, to enhance workflow efficiency. DeepBot's features cater to a wide range of users, from individuals to enterprises, making it a versatile AI tool.
+kevinluosl/deepbot is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kevinluosl/deepbot) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kevinluosl/deepbot) · [← Back to Orchestration](./README.md)</sub>

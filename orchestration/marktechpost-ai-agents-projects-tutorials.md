@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 558 |
+| ⭐ **Stars** | 2.6k |
+| 🍴 **Forks** | 562 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `agentic-ai` `agentic-ai-development` `agentic-coding` `agentic-engineering` `agentic-framework` `agentic-rag` `agentic-workflow` `ai` `aiagent` `aiagents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The AI-Agents-Projects-Tutorials repository is an open-source project that focuses on multi-agent systems, memory, planning, and reasoning loops in the realm of Artificial Intelligence (AI). This project aims to provide tutorials and projects that explore the complexities of AI decision-making, enabling developers to build intelligent agents that can adapt and learn from their environments. By using this repository, developers can gain hands-on experience with AI concepts and techniques.
+Marktechpost/AI-Agents-Projects-Tutorials is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 76/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials) · [← Back to Orchestration](./README.md)</sub>

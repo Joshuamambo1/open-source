@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.3k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`esp32` `esp8266` `hacktoberfest` `home-assistant` `home-automation` `iot` `mqtt` `platformio` `python` `yaml`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the ESPHome project:
-
-ESPHome is an open-source platform that simplifies the control of ESP32, ESP8266, BK72xx, and RP2040 devices through customizable configuration files. Users can remotely manage these devices through Home Automation systems, making it easy to integrate them into smart home setups. This powerful tool enables seamless control and automation of various IoT devices.
+esphome/esphome is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/esphome/esphome) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/esphome/esphome) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 265 |
+| 🍴 **Forks** | 268 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-agents` `ai-coding-assistant` `aider` `bubble-tea` `claude-code` `cli` `codex` `developer-tools` `discord` `gemini-cli` `golang`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"Agent Deck is an open-source terminal session manager designed to simplify interactions with AI coding agents. This user-friendly TUI (Text User Interface) currently supports popular AI agents like Claude, Gemini, OpenCode, and Codex, allowing developers to easily switch between and manage multiple agent sessions. By providing a unified interface, Agent Deck streamlines the AI coding experience and boosts productivity."
+asheshgoplani/agent-deck is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 70/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/asheshgoplani/agent-deck) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/asheshgoplani/agent-deck) · [← Back to AI/ML](./README.md)</sub>

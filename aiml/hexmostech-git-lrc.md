@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 841 |
-| 🍴 **Forks** | 130 |
+| ⭐ **Stars** | 858 |
+| 🍴 **Forks** | 132 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-code-review` `ai-code-reviewer` `ai-coding-tools` `code-review` `coding-assistant` `commit` `commit-message` `gemini` `generative-ai` `git`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-HexmosTech/git-lrc is an open-source project that provides free and unlimited AI-powered code reviews directly in the commit process. This innovative tool utilizes AI/ML capabilities to analyze code and offer actionable feedback, ensuring high-quality code contributions. By integrating AI-driven code reviews, developers can focus on writing better code while maintaining a smooth development workflow.
+HexmosTech/git-lrc is a promising open-source project. Categories: AI/ML. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/HexmosTech/git-lrc) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/HexmosTech/git-lrc) · [← Back to AI/ML](./README.md)</sub>

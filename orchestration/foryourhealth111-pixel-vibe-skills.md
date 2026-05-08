@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 151 |
+| 🍴 **Forks** | 152 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `agent-skills` `agentic-coding` `ai-agents` `ai-scientist` `ai-skills` `ai-workflow` `automation` `claude-code` `codex` `context-engineering` `developer-tools`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the Vibe-Skills project:
-
-Vibe-Skills is an open-source AI skills package that integrates expert-level capabilities and context management, enabling AI agents to instantly upgrade their functionality. This all-in-one solution streamlines development by eliminating the need for fragmented tools and complex integrations. With Vibe-Skills, developers can easily enhance their AI applications with a wide range of skills and capabilities.
+foryourhealth111-pixel/Vibe-Skills is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/foryourhealth111-pixel/Vibe-Skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/foryourhealth111-pixel/Vibe-Skills) · [← Back to Orchestration](./README.md)</sub>

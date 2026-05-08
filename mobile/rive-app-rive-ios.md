@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 775 |
+| ⭐ **Stars** | 777 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The Rive iOS runtime is an open-source project that enables the execution of interactive, visually engaging animations and experiences on Apple devices. Built on top of the Rive engine, it allows developers to seamlessly deploy high-quality animations and interactive content directly within iOS applications. By utilizing this runtime, developers can create immersive user experiences with ease.
+rive-app/rive-ios is a promising open-source project. Categories: Mobile. Interest score: 47/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/rive-app/rive-ios) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rive-app/rive-ios) · [← Back to Mobile](./README.md)</sub>

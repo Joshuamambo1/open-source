@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 947 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`low-code` `open-source` `platform` `postgresql` `python` `self-hostable` `typescript`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ windmill-labs/windmill is a promising open-source project. Categories: AI/ML, Fr
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/windmill-labs/windmill) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/windmill-labs/windmill) · [← Back to AI/ML](./README.md)</sub>

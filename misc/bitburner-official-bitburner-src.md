@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 413 |
+| 🍴 **Forks** | 416 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The bitburner-official/bitburner-src project is an open-source repository that hosts the source code for Bitburner, a popular online multiplayer game. In the game, players take on the role of a hacker, navigating a virtual world of corporate networks and competing to amass wealth and influence. This project allows the community to access and contribute to the game's code, enabling further development and customization.
+bitburner-official/bitburner-src is a promising open-source project. Categories: Misc. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/bitburner-official/bitburner-src) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bitburner-official/bitburner-src) · [← Back to Misc](./README.md)</sub>

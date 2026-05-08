@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`code-quality` `contributions-welcome` `good-first-issue` `hacktoberfest` `ide` `language-server` `lsp` `python` `rust` `type-check` `type-checker` `typecheck`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Pyrefly is an open-source project that provides a fast type checker and language server for Python. It enables developers to leverage advanced language features and gain improved code insights, ultimately enhancing the overall coding experience. By offering a robust and efficient solution, Pyrefly aims to bridge the gap between Python's flexibility and the benefits of static type checking.
+facebook/pyrefly is a promising open-source project. Categories: Backend. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/facebook/pyrefly) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/facebook/pyrefly) · [← Back to Backend](./README.md)</sub>

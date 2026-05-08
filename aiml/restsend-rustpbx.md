@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 614 |
-| 🍴 **Forks** | 89 |
+| 🍴 **Forks** | 90 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`freeswitch` `pbx` `sip` `sip-proxy` `voice-agent` `voice-assistant` `webrtc`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the restsend/rustpbx project:
-
-The restsend/rustpbx project is an open-source PBX (Private Branch Exchange) system developed using Rust, a systems programming language. This innovative system enables users to create and manage custom telephony solutions, leveraging Rust's performance and reliability features. By harnessing AI/ML capabilities, rustpbx aims to provide a sophisticated and flexible platform for voice communication and automation.
+restsend/rustpbx is a promising open-source project. Categories: AI/ML. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/restsend/rustpbx) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/restsend/rustpbx) · [← Back to AI/ML](./README.md)</sub>

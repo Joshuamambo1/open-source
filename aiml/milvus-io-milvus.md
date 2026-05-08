@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44.1k |
+| ⭐ **Stars** | 44.2k |
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anns` `cloud-native` `diskann` `distributed` `embedding-database` `embedding-similarity` `embedding-store` `faiss` `golang` `hnsw` `image-search` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the Milvus project:
-
-Milvus is an open-source, cloud-native vector database designed for high-performance and scalable vector similarity search applications. Built specifically for AI and machine learning tasks, Milvus enables fast and efficient search capabilities for large-scale datasets. It is a key component in various AI and ML applications, including computer vision, natural language processing, and recommendation systems.
+milvus-io/milvus is a promising open-source project. Categories: AI/ML, Frontend, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/milvus-io/milvus) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/milvus-io/milvus) · [← Back to AI/ML](./README.md)</sub>

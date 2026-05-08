@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-search` `bm25` `dense-retrieval` `enterprise-search` `faceting` `full-text-search` `geosearch` `hybrid-search` `lexical-search` `neural-search` `realtime` `search`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-SeekStorm is an open-source, Rust-based library and server for vector and lexical search. It offers in-process functionality, making it suitable for various applications, and supports multi-tenancy, allowing multiple users to share the same instance. This versatile tool is designed to facilitate efficient and scalable search operations.
+SeekStorm/SeekStorm is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/SeekStorm/SeekStorm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SeekStorm/SeekStorm) · [← Back to AI/ML](./README.md)</sub>

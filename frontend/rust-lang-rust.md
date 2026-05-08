@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 112.5k |
-| 🍴 **Forks** | 14.8k |
+| ⭐ **Stars** | 112.6k |
+| 🍴 **Forks** | 14.9k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `language` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Rust is a modern, open-source programming language designed to promote memory safety and performance. Its key features empower developers to build reliable and efficient software by leveraging a unique ownership model and compile-time evaluation. As a result, Rust enables the creation of robust and scalable applications across various domains.
+rust-lang/rust is a promising open-source project. Categories: Frontend. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rust-lang/rust) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rust-lang/rust) · [← Back to Frontend](./README.md)</sub>

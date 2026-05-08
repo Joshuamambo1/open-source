@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`kubernetes` `kubernetes-distribution` `kubernetes-platform`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Deckhouse is an open-source Kubernetes platform developed by Flant. It is designed to simplify the process of deploying, managing, and scaling cloud-native applications on Kubernetes, providing a comprehensive set of tools for infrastructure management and automation. By leveraging Deckhouse, users can streamline their DevOps workflow and improve the efficiency of their cloud and on-premise infrastructure deployments.
+deckhouse/deckhouse is a promising open-source project. Categories: DevOps/Infra. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/deckhouse/deckhouse) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/deckhouse/deckhouse) · [← Back to DevOps & Infra](./README.md)</sub>

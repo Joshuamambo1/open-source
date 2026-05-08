@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 176 |
-| 🍴 **Forks** | 87 |
+| ⭐ **Stars** | 182 |
+| 🍴 **Forks** | 88 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `assistant` `chatbot` `docker` `fastapi` `llm` `nextjs` `proptech` `python` `python3` `rag` `real-estate`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The AI Real Estate Assistant is an innovative, open-source tool that harnesses the power of RAG and LLMs to provide comprehensive market analysis, property valuation, and intelligent search capabilities. Built using Python, this advanced AI assistant empowers users to make informed decisions in the real estate market. With its cutting-edge technology, it streamlines the process of finding and evaluating properties, making it an invaluable resource for industry professionals and enthusiasts alike.
+AleksNeStu/ai-real-estate-assistant is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/AleksNeStu/ai-real-estate-assistant) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/AleksNeStu/ai-real-estate-assistant) · [← Back to AI/ML](./README.md)</sub>

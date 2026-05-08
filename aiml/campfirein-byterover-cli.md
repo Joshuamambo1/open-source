@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.7k |
-| 🍴 **Forks** | 448 |
+| 🍴 **Forks** | 447 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `autonomous-agents` `cli` `coding-assistant` `context-memory` `developer-tools` `knowledge-management` `llm` `mcp` `memory` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the ByteRover CLI project:
-
-ByteRover CLI (brv) is an open-source, portable memory layer for autonomous coding agents, designed to facilitate secure and efficient communication between AI/ML frameworks and various development tools. This CLI provides a convenient interface for developers to manage and interact with ByteRover, enabling seamless integration with various applications and workflows. By leveraging ByteRover CLI, developers can streamline their coding processes and enhance overall productivity.
+campfirein/byterover-cli is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/campfirein/byterover-cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/campfirein/byterover-cli) · [← Back to AI/ML](./README.md)</sub>

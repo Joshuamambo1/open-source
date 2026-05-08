@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 155 |
+| 🍴 **Forks** | 156 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `anthropic` `bun` `claude-code` `claude-code-native` `claude-code-system-prompts` `claude-code-themes` `claude-code-ui` `command-line` `configuration` `customization` `developer-tools`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the tweakcc project:
+Here's a brief summary of the open-source project:
 
-tweakcc is an open-source project that allows users to personalize and extend the capabilities of Claude Code, a powerful AI system. With tweakcc, developers can customize various aspects of the interface, including system prompts, toolsets, and input box styling, as well as unlock exclusive features. This versatile tool supports native and npm installations on all platforms, making it accessible to a wide range of users.
+TweakCC is an open-source project that empowers users to customize and extend the features of Claude Code, a cutting-edge AI system. With TweakCC, users can personalize system prompts, create custom toolsets, and unlock additional features, making it an invaluable tool for developers and AI enthusiasts alike. Supporting both native and npm installations on all platforms, TweakCC is a versatile and user-friendly extension of Claude Code's capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Piebald-AI/tweakcc) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Piebald-AI/tweakcc) · [← Back to AI/ML](./README.md)</sub>

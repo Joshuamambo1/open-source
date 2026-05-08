@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`evaluation` `hacktoberfest` `hacktoberfest2025` `langchain` `llama-index` `llm` `llm-evaluation` `llm-observability` `llmops` `open-source` `openai` `playground`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Product
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The comet-ml/opik project provides a comprehensive toolset for debugging, evaluating, and monitoring large language model (LLM) applications, Retrieval-Augmented Generation (RAG) systems, and agentic workflows. It offers advanced tracing capabilities, automated evaluations, and production-ready dashboards to streamline development and deployment processes. With opik, developers can gain deeper insights into their AI/ML systems, ensuring they run smoothly and efficiently.
+comet-ml/opik is a promising open-source project. Categories: Orchestration, AI/ML, Product. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/comet-ml/opik) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/comet-ml/opik) · [← Back to Orchestration](./README.md)</sub>

@@ -1,6 +1,6 @@
 # raullenchai/Rapid-MLX
 
-[![Stars](https://img.shields.io/github/stars/raullenchai/Rapid-MLX?style=flat-square&color=yellow)](https://github.com/raullenchai/Rapid-MLX/stargazers) [![Forks](https://img.shields.io/github/forks/raullenchai/Rapid-MLX?style=flat-square&color=blue)](https://github.com/raullenchai/Rapid-MLX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raullenchai/Rapid-MLX?style=flat-square&color=yellow)](https://github.com/raullenchai/Rapid-MLX/stargazers) [![Forks](https://img.shields.io/github/forks/raullenchai/Rapid-MLX?style=flat-square&color=blue)](https://github.com/raullenchai/Rapid-MLX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 199 |
+| ⭐ **Stars** | 1.8k |
+| 🍴 **Forks** | 241 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apple-silicon` `claude-code` `cursor` `deepseek` `fastapi` `hacktoberfest` `inference` `llm` `local-llm` `m1` `m2` `m3`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Rapid-MLX is an open-source, local AI engine optimized for Apple Silicon devices, boasting exceptional speed and performance. It offers a drop-in replacement for OpenAI, with capabilities such as 4.2x faster processing, 0.08s cached text-to-text translation, and seamless integration with popular tools like Claude Code and Cursor. This innovative engine empowers developers to build high-performance AI applications with ease and efficiency.
+raullenchai/Rapid-MLX is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 66/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/raullenchai/Rapid-MLX) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/raullenchai/Rapid-MLX) · [← Back to AI/ML](./README.md)</sub>

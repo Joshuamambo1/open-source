@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `pocket-casts`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ Automattic/pocket-casts-ios is a promising open-source project. Categories: Mobi
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Automattic/pocket-casts-ios) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Automattic/pocket-casts-ios) · [← Back to Mobile](./README.md)</sub>

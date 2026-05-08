@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 676 |
-| 🍴 **Forks** | 77 |
+| ⭐ **Stars** | 693 |
+| 🍴 **Forks** | 78 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `devscops` `npm` `owasp` `secrets` `security` `security-tools` `static-analysis`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Ship-Safe is an open-source CLI security scanner designed for the modern agentic era. It identifies potential security risks in CI/CD configurations, agent permissions, and dependencies, including hardcoded secrets and DMCA-flagged AI components. By detecting these issues, Ship-Safe helps developers and teams build more secure and compliant applications.
+asamassekou10/ship-safe is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/asamassekou10/ship-safe) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/asamassekou10/ship-safe) · [← Back to AI/ML](./README.md)</sub>

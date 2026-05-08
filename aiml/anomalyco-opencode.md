@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 155.1k |
-| 🍴 **Forks** | 18k |
+| ⭐ **Stars** | 156.1k |
+| 🍴 **Forks** | 18.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-anomalyco/opencode is a promising open-source project. Categories: Misc. Interest score: 90/100.
+anomalyco/opencode is a promising open-source project. Categories: AI/ML. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/anomalyco/opencode) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/anomalyco/opencode) · [← Back to AI/ML](./README.md)</sub>

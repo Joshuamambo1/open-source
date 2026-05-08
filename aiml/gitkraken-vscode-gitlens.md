@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`git` `github` `vscode` `vscode-extension`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the gitkraken/vscode-gitlens project:
+Here's a brief summary for the gitkraken/vscode-gitlens project:
 
-GitLens is an open-source extension for VS Code that provides a comprehensive Git experience, allowing developers to visualize code authorship, navigate and explore repositories, and gain valuable insights through rich visualizations and comparison commands. This extension aims to unlock untapped knowledge within each repository, making it an essential tool for developers working on complex projects. With GitLens, developers can efficiently manage their codebase and collaborate more effectively.
+GitLens is an open-source extension for VS Code that supercharges Git capabilities, providing a comprehensive view of code authorship, repository navigation, and valuable insights through rich visualizations and comparison commands. This project enables developers to unlock untapped knowledge within their repositories, making it easier to collaborate and understand code changes. With GitLens, users can gain a deeper understanding of their codebase and streamline their development workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/gitkraken/vscode-gitlens) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/gitkraken/vscode-gitlens) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 140 |
+| 🍴 **Forks** | 142 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-analytics` `analytics` `analytics-engineering` `bigquery` `business-intelligence` `chat-with-your-data` `context-engineering` `data` `data-analysis` `data-analyst` `data-engineering` `databricks`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the nao project:
-
-Nao is an open-source analytics agent that helps users create context and deploy a chat interface for data insights. Utilizing nao, developers can tap into AI/ML and data analysis capabilities to enhance their workflows. This platform is designed to be user-friendly and accessible through a command-line interface.
+getnao/nao is a promising open-source project. Categories: AI/ML, DevTools, Data. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/getnao/nao) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/getnao/nao) · [← Back to AI/ML](./README.md)</sub>

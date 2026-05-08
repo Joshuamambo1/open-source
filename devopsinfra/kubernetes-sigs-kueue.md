@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 597 |
+| 🍴 **Forks** | 603 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`k8s` `k8s-sig-scheduling` `kubernetes`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Kueue is an open-source, Kubernetes-native job queueing system designed to manage and scale batch and periodic workloads within containerized environments. It provides a flexible and efficient way to schedule and execute jobs, ensuring high availability and reliability in distributed systems. By leveraging the power of Kubernetes, Kueue enables developers to build scalable and resilient applications with ease.
+kubernetes-sigs/kueue is a promising open-source project. Categories: DevOps/Infra. Interest score: 70/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/kubernetes-sigs/kueue) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kubernetes-sigs/kueue) · [← Back to DevOps & Infra](./README.md)</sub>

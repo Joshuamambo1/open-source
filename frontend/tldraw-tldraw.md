@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 46.8k |
+| ⭐ **Stars** | 46.9k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`canvas` `collaboration` `design` `diagram` `drawing` `infinite` `multiplayer` `react` `sdk` `sketch` `sync` `whiteboard`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-TLDRAW is a highly-regarded, open-source, infinite canvas whiteboard SDK designed for frontend development. It provides a versatile and intuitive solution for creating collaborative, interactive drawing experiences. With a focus on design, TLDRAW empowers developers to build custom, web-based whiteboard applications with ease.
+tldraw/tldraw is a promising open-source project. Categories: Frontend, Design. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/tldraw/tldraw) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tldraw/tldraw) · [← Back to Frontend](./README.md)</sub>

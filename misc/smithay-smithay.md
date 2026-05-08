@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 289 |
+| ⭐ **Stars** | 3k |
+| 🍴 **Forks** | 290 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`rust` `wayland` `wayland-compositor`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Smithay is an open-source project that aims to revitalize and improve Wayland compositors. By providing a foundation for rebuilding and maintaining these compositors, Smithay offers a fresh start for rusty or outdated projects. Its primary goal is to breathe new life into existing Wayland compositors and make them more efficient and maintainable.
+Smithay/smithay is a promising open-source project. Categories: Misc. Interest score: 69/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Smithay/smithay) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Smithay/smithay) · [← Back to Misc](./README.md)</sub>

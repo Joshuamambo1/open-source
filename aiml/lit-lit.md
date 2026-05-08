@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`html-templates` `lit` `lit-element` `lit-html`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Lit is a lightweight, open-source library for building fast web components. It simplifies the process of creating reusable UI components, allowing developers to focus on crafting visually appealing and interactive user interfaces. With Lit, developers can build high-performance web applications with ease.
+lit/lit is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/lit/lit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lit/lit) · [← Back to AI/ML](./README.md)</sub>

@@ -25,9 +25,7 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the memgraph/memgraph project:
-
-Memgraph is an open-source, high-performance in-memory graph database designed for real-time graph analytics, AI memory, and agentic AI applications. Built in C++ and compatible with Cypher, a popular query language, it enables efficient processing and querying of complex graph data. This powerful database is ideal for applications that require fast and scalable graph data management.
+memgraph/memgraph is a promising open-source project. Categories: AI/ML, Frontend, Data. Interest score: 81/100.
 
 ---
 

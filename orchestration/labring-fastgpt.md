@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `claude` `deepseek` `llm` `mcp` `nextjs` `openai` `qwen` `rag` `workflow`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the FastGPT project:
-
-FastGPT is an open-source knowledge-based platform leveraging Large Language Models (LLMs), empowering users to build and deploy sophisticated question-answering systems with minimal setup and configuration. This comprehensive platform offers features such as data processing, Retrieval Augmented Generation (RAG) retrieval, and visual AI workflow orchestration, streamlining the development and deployment process. By utilizing FastGPT, developers can focus on creating innovative applications without the need for extensive LLM expertise.
+labring/FastGPT is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/labring/FastGPT) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/labring/FastGPT) · [← Back to Orchestration](./README.md)</sub>

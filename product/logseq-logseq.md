@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Clojure |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`clojure` `clojurescript` `git` `graph` `knowledge-base` `knowledge-graph` `local-first` `markdown` `note-taking` `org-mode` `pkm`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ logseq/logseq is a promising open-source project. Categories: Product. Interest 
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/logseq/logseq) · [← Back to Product](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/logseq/logseq) · [← Back to Product](./README.md)</sub>

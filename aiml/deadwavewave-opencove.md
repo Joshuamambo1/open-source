@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 97 |
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 98 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agents` `canvas` `claude-code` `codex` `desktop-app` `electron` `gemini` `infinite-canvas` `react` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "DeadWaveWave/opencove":
-
-Opencove is an open-source, infinite canvas workspace designed for agents, tasks, knowledge, and research. This versatile platform supports a range of applications, including Claude Code, Codex, terminals, tasks, and notes, making it an ideal tool for AI/ML development and collaboration. With its infinite canvas, users can freely organize and visualize their ideas, projects, and workflows.
+DeadWaveWave/opencove is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/DeadWaveWave/opencove) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/DeadWaveWave/opencove) · [← Back to AI/ML](./README.md)</sub>

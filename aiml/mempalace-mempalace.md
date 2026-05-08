@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51.2k |
-| 🍴 **Forks** | 6.7k |
+| ⭐ **Stars** | 51.4k |
+| 🍴 **Forks** | 6.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `chromadb` `llm` `mcp` `memory` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-MemPalace is a highly-optimized, open-source AI memory system that boasts industry-leading benchmarks, making it an ideal choice for developers and researchers in the field of artificial intelligence and machine learning. This innovative tool is freely available, allowing users to tap into its capabilities without any licensing restrictions. By leveraging MemPalace, users can improve the efficiency and performance of their AI projects.
+MemPalace/mempalace is a promising open-source project. Categories: AI/ML. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/MemPalace/mempalace) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/MemPalace/mempalace) · [← Back to AI/ML](./README.md)</sub>

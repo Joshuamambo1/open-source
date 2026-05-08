@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 59.2k |
+| ⭐ **Stars** | 59.3k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `convert` `document-parser` `document-parsing` `documents` `docx` `html` `markdown` `pdf` `pdf-converter` `pdf-to-json` `pdf-to-text`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The docling project is an open-source initiative that prepares documents for seamless interaction with generative AI models. By developing and integrating advanced techniques, docling aims to enhance the accuracy and efficiency of AI-driven document processing and analysis. This DevTools project enables developers to refine and optimize their documents for effective collaboration with AI systems.
+docling-project/docling is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/docling-project/docling) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/docling-project/docling) · [← Back to AI/ML](./README.md)</sub>

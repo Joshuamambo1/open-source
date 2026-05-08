@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 756 |
+| ⭐ **Stars** | 763 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Fabro is an open-source, dark software factory designed for expert engineers to streamline their workflow and boost productivity. This project aims to provide a comprehensive platform for engineers to manage their tasks and projects efficiently, leveraging the power of automation and customization. By using Fabro, engineers can take control of their software development process and optimize their workflow to achieve better results.
+fabro-sh/fabro is a promising open-source project. Categories: Misc. Interest score: 46/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/fabro-sh/fabro) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/fabro-sh/fabro) · [← Back to Misc](./README.md)</sub>

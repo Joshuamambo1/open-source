@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 231 |
-| 🍴 **Forks** | 88 |
+| 🍴 **Forks** | 89 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cpp` `data-visualization` `mcap` `python` `robotics` `ros` `ros2` `rust` `visualization`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The foxglove/foxglove-sdk project is an open-source platform that provides a comprehensive multimodal visualization and data platform. It enables users to create, manage, and analyze complex data across various modalities, facilitating a deeper understanding of data insights. This platform is designed to support the needs of data-intensive applications and research initiatives.
+foxglove/foxglove-sdk is a promising open-source project. Categories: Data. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/foxglove/foxglove-sdk) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/foxglove/foxglove-sdk) · [← Back to Data](./README.md)</sub>

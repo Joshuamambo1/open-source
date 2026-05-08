@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.4k |
+| ⭐ **Stars** | 12.5k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-bot` `doocs` `editor` `llm` `markdown` `markdown-editor` `tailwindcss` `vite` `vue` `vue3` `wechat` `weixin`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-doocs/md is an open-source, highly customizable WeChat Markdown editor that supports Markdown syntax, customizable themes, and content management, among other features. It also includes AI-powered assistance and integration with multiple image hosting platforms. This project offers a seamless writing experience for users and developers alike.
+doocs/md is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/doocs/md) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/doocs/md) · [← Back to AI/ML](./README.md)</sub>

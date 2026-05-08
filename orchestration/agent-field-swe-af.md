@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 744 |
+| ⭐ **Stars** | 745 |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-factory` `agentfield` `agentic-ai` `ai-agents` `ai-factory` `autonomous-agents` `claude-code` `code-generation` `codex` `coding-agent` `developer-tools` `gemini-cli`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Agent-Field/SWE-AF project:
-
-Agent-Field/SWE-AF is an open-source, production-grade software engineering platform that utilizes a fleet of AI agents for automated planning, coding, testing, and deployment of software applications. This autonomous system streamlines the development process, enabling efficient and scalable software development. By leveraging AI/ML technologies, Agent-Field/SWE-AF empowers developers to focus on high-level tasks while automating routine coding and testing activities.
+Agent-Field/SWE-AF is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/Agent-Field/SWE-AF) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Agent-Field/SWE-AF) · [← Back to Orchestration](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 474 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`azure-functions`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Azure Functions Core Tools project is an open-source collection of command line tools designed to streamline the development and management of Azure Functions. These tools enable developers to create, deploy, and debug Azure Functions from the comfort of their local environments, simplifying the development process and increasing productivity. By leveraging these tools, developers can efficiently build, test, and deploy scalable serverless applications on Azure.
+Azure/azure-functions-core-tools is a promising open-source project. Categories: Misc. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/Azure/azure-functions-core-tools) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Azure/azure-functions-core-tools) · [← Back to Misc](./README.md)</sub>

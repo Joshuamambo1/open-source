@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 11.5k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blogging` `cms` `ghost` `javascript` `journalism` `nodejs` `publishing` `web-application`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments
 
 ## 📝 Summary
 
-Ghost is an open-source platform for independent creators to manage their online presence through modern publishing, membership sites, and email newsletters. It provides a flexible and customizable solution for building a community and connecting with readers through payments and subscriptions. With Ghost, writers, artists, and entrepreneurs can focus on creating content without the technical complexities of building and maintaining a website.
+TryGhost/Ghost is a promising open-source project. Categories: Payments. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/TryGhost/Ghost) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/TryGhost/Ghost) · [← Back to Payments](./README.md)</sub>

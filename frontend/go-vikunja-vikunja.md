@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.1k |
-| 🍴 **Forks** | 437 |
+| ⭐ **Stars** | 4.2k |
+| 🍴 **Forks** | 442 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `golang` `project-management` `self-hosted` `todo` `todoapp` `todolist` `vuejs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Vikunja is an open-source, feature-rich to-do application designed to help users organize their lives efficiently. This versatile tool offers a comprehensive platform for task management, allowing users to create and manage their to-do lists, set reminders, and prioritize tasks with ease. By leveraging both frontend and backend capabilities, Vikunja provides a seamless and intuitive experience for users across various platforms.
+go-vikunja/vikunja is a promising open-source project. Categories: Frontend, Backend. Interest score: 86/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/go-vikunja/vikunja) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/go-vikunja/vikunja) · [← Back to Frontend](./README.md)</sub>

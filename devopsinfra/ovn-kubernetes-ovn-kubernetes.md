@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 443 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cni` `cni-plugin` `kubernetes` `kubernetes-networking` `networking` `sdn` `sdn-controller` `sdn-network`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Ovn-kubernetes is an open-source, robust Kubernetes networking platform that enables seamless network connectivity and management within containerized environments. This project provides a scalable, high-performance networking solution that integrates with Kubernetes to simplify network configuration and operation. By utilizing ovn-kubernetes, developers can create a more efficient and streamlined networking infrastructure for their applications.
+ovn-kubernetes/ovn-kubernetes is a promising open-source project. Categories: DevOps/Infra. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ovn-kubernetes/ovn-kubernetes) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ovn-kubernetes/ovn-kubernetes) · [← Back to DevOps & Infra](./README.md)</sub>

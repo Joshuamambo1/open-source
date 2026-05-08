@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.6k |
-| 🍴 **Forks** | 1.7k |
+| 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cryptography` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · DevTools · Design
 
 ## 📝 Summary
 
-The pyca/cryptography project is an open-source library that provides a comprehensive set of cryptographic primitives and recipes for Python developers, allowing for secure data encryption and decryption. This library exposes a wide range of cryptographic functions, including hash functions, symmetric and asymmetric encryption, and digital signatures. By utilizing cryptography, developers can easily integrate secure encryption into their Python applications.
+pyca/cryptography is a promising open-source project. Categories: Crypto, DevTools, Design. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/pyca/cryptography) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pyca/cryptography) · [← Back to Crypto](./README.md)</sub>

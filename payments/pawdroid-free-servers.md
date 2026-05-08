@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`clash` `client` `fanqiang` `fq` `free-servers` `freefq` `google` `shadowrocket` `shadowshare` `shadowsocks` `socket` `ss`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the Pawdroid/Free-servers project:
-
-The Pawdroid/Free-servers project provides a free and open-source platform for sharing high-quality nodes and VPN subscription addresses. It offers a free subscription address, updated every 6 hours, allowing users to bypass geo-restrictions and access content from around the world. The platform supports various protocols, including ss/v2ray/trojan, and is completely free to use.
+Pawdroid/Free-servers is a promising open-source project. Categories: Payments, AI/ML, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Pawdroid/Free-servers) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Pawdroid/Free-servers) · [← Back to Payments](./README.md)</sub>

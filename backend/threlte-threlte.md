@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Svelte |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d` `hacktoberfest` `rapier` `svelte` `theatrejs` `threejs`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project threlte:
-
-Threlte is an open-source, 3D framework designed specifically for Svelte applications, providing a robust foundation for building immersive and interactive 3D experiences. This backend framework simplifies the development process by offering a range of tools and features to create and manage complex 3D scenes. With threlte, developers can focus on crafting engaging and dynamic 3D content without worrying about the underlying technical complexities.
+threlte/threlte is a promising open-source project. Categories: Backend. Interest score: 73/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/threlte/threlte) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/threlte/threlte) · [← Back to Backend](./README.md)</sub>

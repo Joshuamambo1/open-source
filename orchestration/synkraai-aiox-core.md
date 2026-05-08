@@ -25,9 +25,7 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the SynkraAI/aiox-core project:
-
-Synkra AIOS is an open-source, AI-orchestrated system that streamlines full-stack development through its core framework. This comprehensive platform utilizes AI to automate and optimize various aspects of software development, making it an ideal tool for developers seeking to improve efficiency and productivity. With its core framework v4.0, Synkra AIOS provides a robust foundation for building and managing complex applications.
+SynkraAI/aiox-core is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 83/100.
 
 ---
 

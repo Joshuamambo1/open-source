@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arm64` `homebrew` `homebrew-php` `homebrew-tap` `macos` `php` `php8`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-This project, 'shivammathur/homebrew-php', is an open-source Homebrew tap designed to streamline the installation and management of PHP versions 5.6 through 8.6 on macOS systems. Notably, PHP 8.6 is built nightly, ensuring users have access to the latest version. This tap simplifies the process of setting up and updating PHP environments for development and deployment.
+shivammathur/homebrew-php is a promising open-source project. Categories: Frontend. Interest score: 71/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/shivammathur/homebrew-php) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/shivammathur/homebrew-php) · [← Back to Frontend](./README.md)</sub>

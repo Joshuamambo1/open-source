@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-first-cms` `apifirst` `digital-commerce` `ecommerce` `ecommerce-platform` `experience-commerce` `experience-manager` `hacktoberfest` `headless-cms` `magento` `online-shop` `online-store`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the Shopware 6 open-source project:
-
-Shopware 6 is an open commerce platform built on top of the Symfony Framework and powered by Vue. This robust platform is backed by a global community of developers and supports over 3,100 community extensions, making it highly customizable and adaptable to various e-commerce needs. With its modular architecture, Shopware 6 enables businesses to create efficient and scalable online stores.
+shopware/shopware is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 88/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/shopware/shopware) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/shopware/shopware) · [← Back to AI/ML](./README.md)</sub>

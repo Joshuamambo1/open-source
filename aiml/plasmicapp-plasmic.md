@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.8k |
-| 🍴 **Forks** | 675 |
+| 🍴 **Forks** | 676 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`builder` `cms` `design` `design-systems` `design-tools` `drag-drop` `frontend` `gatsby` `headless` `headless-cms` `jamstack` `lowcode`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Plasmic is an open-source, visual builder for React that enables users to create apps, websites, and content without writing code. This powerful tool integrates seamlessly with your existing codebase, allowing for a more streamlined development process. Utilizing Plasmic, designers and developers can collaborate more effectively and bring their projects to life more efficiently.
+plasmicapp/plasmic is a promising open-source project. Categories: AI/ML, Frontend, Design. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/plasmicapp/plasmic) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/plasmicapp/plasmic) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31.2k |
+| ⭐ **Stars** | 31.4k |
 | 🍴 **Forks** | 5.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agents` `chatgpt` `deepagents` `enterprise` `framework` `gemini` `generative-ai` `langchain` `langgraph` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Langgraph is an open-source project that enables the creation of resilient language agents as graphs, allowing developers to build and integrate complex AI solutions. By leveraging graph-based architecture, Langgraph facilitates the design and execution of sophisticated language models, making it a valuable tool for AI/ML applications. This project empowers developers to construct robust and scalable language agents that can seamlessly interact with various frontend systems.
+langchain-ai/langgraph is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/langchain-ai/langgraph) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/langchain-ai/langgraph) · [← Back to Orchestration](./README.md)</sub>

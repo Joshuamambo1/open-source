@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 682 |
+| ⭐ **Stars** | 684 |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `oclif` `shopify` `shopify-apps` `shopify-themes` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Shopify/cli is an open-source project that enables developers to build and manage various Shopify applications, including themes and hydrogen storefronts. This project provides a command-line interface (CLI) that streamlines the development process, making it easier to create and deploy Shopify solutions. With Shopify/cli, developers can efficiently build, test, and deploy Shopify apps and themes.
+Shopify/cli is a promising open-source project. Categories: Frontend, DevTools. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Shopify/cli) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Shopify/cli) · [← Back to Frontend](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Util-linux is an open-source project providing a set of essential system utilities for Linux systems. It includes tools such as mount, umount, losetup, and parted, which are crucial for managing and maintaining file systems, disk partitions, and system configuration. This project serves as a foundation for many Linux distributions, offering a robust and portable solution for various system administration tasks.
+util-linux/util-linux is a promising open-source project. Categories: Misc. Interest score: 77/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/util-linux/util-linux) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/util-linux/util-linux) · [← Back to Misc](./README.md)</sub>

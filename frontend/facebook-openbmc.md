@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 676 |
+| ⭐ **Stars** | 678 |
 | 🍴 **Forks** | 301 |
 | 💻 **Language** | C |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-OpenBMC is an open-source framework that enables the creation of a complete Linux image for a Board Management Controller (BMC), allowing for customized management and monitoring of various hardware systems. This project provides a flexible and extensible platform for building BMC software, facilitating the management and maintenance of complex hardware setups. By utilizing OpenBMC, developers can build tailored BMC images for their specific needs.
+facebook/openbmc is a promising open-source project. Categories: Frontend. Interest score: 49/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/facebook/openbmc) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/facebook/openbmc) · [← Back to Frontend](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 962 |
+| 🍴 **Forks** | 963 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`github` `hacktoberfest` `terraform` `terraform-provider`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Terraform GitHub provider is an open-source project that enables users to manage GitHub resources and infrastructure using HashiCorp's Terraform configuration language. This provider allows users to automate tasks such as creating and managing GitHub repositories, teams, and permissions, streamlining DevOps and infrastructure workflows. By integrating GitHub with Terraform, users can achieve greater efficiency and consistency in their infrastructure management and deployment processes.
+integrations/terraform-provider-github is a promising open-source project. Categories: DevOps/Infra. Interest score: 67/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/integrations/terraform-provider-github) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/integrations/terraform-provider-github) · [← Back to DevOps & Infra](./README.md)</sub>

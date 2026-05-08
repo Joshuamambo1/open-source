@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Nextflow |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dsl2` `modules` `nextflow` `nf-core` `nf-test` `pipelines` `workflows`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here is a brief summary of the nf-core/modules project:
-
-nf-core/modules is an open-source repository that hosts tool-specific module files for the Nextflow DSL2 community, enabling users to easily integrate and manage various bioinformatics tools in their workflows. This project aims to facilitate collaboration and standardization among Nextflow users, making it easier to share and reuse workflow components. By providing a centralized hub for tool modules, nf-core/modules accelerates the development of reproducible and scalable bioinformatics pipelines.
+nf-core/modules is a promising open-source project. Categories: DevTools. Interest score: 67/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nf-core/modules) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nf-core/modules) · [← Back to DevTools](./README.md)</sub>

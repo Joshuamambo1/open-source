@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 500 |
+| ⭐ **Stars** | 503 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agentic-workflow` `ai` `ai-agent-tools` `ai-agents` `cronjob-scheduler` `data-science` `database` `llms` `multimodal` `open-source` `orchestrator`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-Second Brain is an open-source, agentic framework that utilizes local file intelligence, workflow automation, and Large Language Models (LLMs) to streamline tasks and interact across various platforms and messaging systems. This innovative framework aims to revolutionize productivity and communication by providing a unified operating system for automation and AI-driven operations. By leveraging local file intelligence and LLMs, Second Brain enables users to complete tasks efficiently and seamlessly.
+henrydaum/second-brain is a promising open-source project. Categories: Orchestration, AI/ML, Data. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/henrydaum/second-brain) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/henrydaum/second-brain) · [← Back to Orchestration](./README.md)</sub>

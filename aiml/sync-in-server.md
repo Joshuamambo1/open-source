@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-alternative` `collaboration` `collaborative-editing` `dropbox` `file-server` `file-sharing` `file-storage` `file-sync` `full-text-search` `homelab` `nextcloud` `on-premise`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The Sync-in/server project is an open-source, secure platform designed for file storage, sharing, collaboration, and syncing. Built on a robust backend architecture, this platform enables users to easily manage and access their files across multiple devices, promoting seamless collaboration and productivity. By harnessing the power of open-source technology, Sync-in/server fosters a secure and efficient file management experience.
+Sync-in/server is a promising open-source project. Categories: AI/ML, Backend. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Sync-in/server) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Sync-in/server) · [← Back to AI/ML](./README.md)</sub>

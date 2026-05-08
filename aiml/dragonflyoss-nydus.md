@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 256 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`accelerator` `container` `container-image` `containerd` `docker` `filesystem` `snapshotter` `storage`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Nydus is an open-source image service developed by Dragonfly, offering a fast, secure, and user-friendly way to access container images. This solution enables efficient and streamlined image management, making it an ideal choice for DevOps and infrastructure teams. By leveraging Nydus, users can accelerate their containerized applications and reduce latency.
+dragonflyoss/nydus is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/dragonflyoss/nydus) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dragonflyoss/nydus) · [← Back to AI/ML](./README.md)</sub>

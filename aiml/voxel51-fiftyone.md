@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.6k |
-| 🍴 **Forks** | 752 |
+| 🍴 **Forks** | 751 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`active-learning` `artificial-intelligence` `computer-vision` `data-centric-ai` `data-cleaning` `data-curation` `data-quality` `data-science` `deep-learning` `developer-tools` `image-classification` `machine-learning`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ voxel51/fiftyone is a promising open-source project. Categories: AI/ML, DevTools
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/voxel51/fiftyone) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/voxel51/fiftyone) · [← Back to AI/ML](./README.md)</sub>

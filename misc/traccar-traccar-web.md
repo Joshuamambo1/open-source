@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gps` `gps-tracking` `hacktoberfest` `javascript` `traccar`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Traccar GPS Tracking System is an open-source, web-based platform designed for real-time tracking and management of GPS-enabled devices. It allows users to monitor vehicle or asset locations, track activities, and receive alerts, making it an ideal solution for fleet management and personal tracking needs. Traccar is a flexible and scalable system that supports a wide range of devices and protocols.
+Traccar is an open-source GPS tracking system designed to monitor and track the location of vehicles, assets, or individuals in real-time. This comprehensive platform provides features such as mapping, reporting, and alerting capabilities, making it a reliable solution for fleet management and asset tracking. Traccar can be easily integrated with various GPS tracking devices and platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/traccar/traccar-web) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/traccar/traccar-web) · [← Back to Misc](./README.md)</sub>

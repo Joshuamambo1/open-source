@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 389 |
-| 🍴 **Forks** | 17 |
+| ⭐ **Stars** | 392 |
+| 🍴 **Forks** | 18 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anti-censorship` `anticensorship` `ban-gfw` `blank-paper` `clash` `clash-meta` `clashx` `end-gfw` `fanqiang` `freefq` `gfw` `no-more-404`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
+Here's a brief summary in 2-3 sentences:
 
-The hello-world-1989/cn-news repository provides a free, open-source VPN solution for accessing the internet securely. It offers V2Ray Clash subscription links, Outlines, and resources for anti-censorship efforts, dubbed the "Li Tiejun is not your teacher" movement, which updates every hour. This project aims to promote unrestricted internet access and freedom of information.
+The hello-world-1989/cn-news project is an open-source initiative that provides V2Ray Clash subscription links and outlines for users seeking to bypass internet restrictions. It also serves as a platform for news and updates related to the Great Firewall of China and freedom of internet access. The project offers a free, open-source, and regularly updated VPN solution for secure and unrestricted internet browsing.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hello-world-1989/cn-news) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/hello-world-1989/cn-news) · [← Back to Misc](./README.md)</sub>

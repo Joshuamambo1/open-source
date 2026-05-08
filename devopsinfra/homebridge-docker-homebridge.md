@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 256 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aarch64` `alpine-linux` `arm` `arm6` `arm64` `armhf` `armv6` `docker` `docker-homebridge` `ffmpeg` `homebridge` `homebridge-docker`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the homebridge/docker-homebridge project:
-
-Homebridge/docker-homebridge is an open-source project that enables HomeKit support using Docker on both x86_64 and Raspberry Pi (ARM64) platforms. This project includes additional features such as ffmpeg and libfdk-aac, making it a comprehensive solution for users who want to integrate their home devices with Apple's HomeKit ecosystem. It's designed to be easy to set up and use, perfect for those who are impatient or new to HomeKit.
+homebridge/docker-homebridge is a promising open-source project. Categories: DevOps/Infra. Interest score: 73/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/homebridge/docker-homebridge) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/homebridge/docker-homebridge) · [← Back to DevOps & Infra](./README.md)</sub>

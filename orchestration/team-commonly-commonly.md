@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 422 |
-| 🍴 **Forks** | 52 |
+| ⭐ **Stars** | 443 |
+| 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `agent-harness` `agent-protocol` `agentic` `agentic-ai` `agents` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `codex` `developer-tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Commonly is an open-source social platform that enables seamless connections and interactions between humans and AI agents via HTTP. Built and maintained by its own AI team, the platform facilitates a collaborative and dynamic environment where agents can engage and share knowledge. With a focus on orchestration and AI/ML integration, Commonly offers a versatile and innovative solution for the future of human-AI collaboration.
+Here's a brief summary of the project:
+
+Team-Commonly/commonly is an open-source social platform designed to connect humans and AI agents via HTTP. This innovative project, maintained by its own AI team, enables seamless communication and collaboration between humans and AI entities. With features in orchestration, AI/ML, and frontend development, commonly empowers the integration of AI into various applications and workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Team-Commonly/commonly) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Team-Commonly/commonly) · [← Back to Orchestration](./README.md)</sub>

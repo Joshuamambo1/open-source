@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 428 |
+| 🍴 **Forks** | 429 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`game` `games` `hacktoberfest` `open-source`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The open-source project "opengaming/osgameclones" is a collection of free and open-source clones of popular games, aiming to provide accessible and modifiable versions of well-known titles. This project offers a range of games, from classic arcade experiences to more complex simulations, all available for modification and use by the community. By making these games open-source, the project promotes collaboration, innovation, and community engagement.
+opengaming/osgameclones is a promising open-source project. Categories: Misc. Interest score: 72/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/opengaming/osgameclones) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/opengaming/osgameclones) · [← Back to Misc](./README.md)</sub>

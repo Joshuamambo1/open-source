@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 646 |
+| 🍴 **Forks** | 647 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Kagi Small Web is an open-source project focused on AI/ML that enables efficient searching and indexing of large-scale web data. This project aims to provide a streamlined solution for processing and querying web content, making it easier to retrieve relevant information from vast amounts of data. By utilizing advanced AI and ML techniques, Kagi Small Web promotes faster and more accurate search capabilities.
+kagisearch/smallweb is a promising open-source project. Categories: AI/ML. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/kagisearch/smallweb) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kagisearch/smallweb) · [← Back to AI/ML](./README.md)</sub>

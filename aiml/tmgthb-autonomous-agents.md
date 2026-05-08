@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic` `agentic-ai` `agents` `ai` `ai-agents` `aiagent` `aiagents` `autonomous-agents` `cognitive-agents` `computer-use-agent` `embodied-agent`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, Autonomous Agents (LLMs), provides a repository of research papers focused on Large Language Models (LLMs) and autonomous agents, updated daily to ensure users have access to the latest developments in the field of AI/ML. The project aims to facilitate collaboration and knowledge sharing among researchers and developers working on autonomous agents and LLMs. By aggregating and organizing relevant papers, the project supports the advancement of AI and ML technologies.
+The Autonomous-Agents project is an open-source repository that aggregates the latest research papers on Large Language Models (LLMs) and autonomous agents. Updated daily, this collection provides a comprehensive resource for researchers and developers working at the intersection of artificial intelligence and machine learning. It offers a valuable platform for staying current with advancements in the field and exploring the potential applications of autonomous agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/tmgthb/Autonomous-Agents) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tmgthb/Autonomous-Agents) · [← Back to AI/ML](./README.md)</sub>

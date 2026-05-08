@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aot` `cranelift` `jit` `lightweight` `portable` `runtime` `rust` `sandbox` `standalone` `wasi` `wasm` `wasmtime`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Wasmtime is a lightweight, open-source WebAssembly runtime that prioritizes speed, security, and standards compliance. This project provides a fast and efficient execution environment for WebAssembly modules, allowing developers to deploy secure and high-performance applications. By adhering to WebAssembly standards, Wasmtime enables seamless integration with a wide range of programming languages and frameworks.
+bytecodealliance/wasmtime is a promising open-source project. Categories: Misc. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bytecodealliance/wasmtime) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bytecodealliance/wasmtime) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 59.8k |
-| 🍴 **Forks** | 3.9k |
+| ⭐ **Stars** | 62.3k |
+| 🍴 **Forks** | 4k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-tools` `claude-code` `codex` `desktop-app` `hermes` `hermes-agent` `mcp` `minimax` `omo` `open-source` `openclaw` `openclaw-ui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The farion1231/cc-switch project is an open-source, cross-platform desktop tool designed to act as an all-in-one assistant for various AI and machine learning platforms, including Claude Code, Codex, OpenCode, openclaw, and Gemini CLI. This comprehensive tool aims to simplify interactions with these platforms by providing a unified interface for users to access and manage their AI-powered workflows. Its open-source nature allows for community-driven development and customization.
+farion1231/cc-switch is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/farion1231/cc-switch) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/farion1231/cc-switch) · [← Back to AI/ML](./README.md)</sub>

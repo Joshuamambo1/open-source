@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 255 |
-| 🍴 **Forks** | 33 |
+| ⭐ **Stars** | 262 |
+| 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adk-google` `agents` `discord-bot` `fastapi` `gemini` `google-adk` `knowledge-base` `large-language-models` `llm` `mattermost` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the Beever-Atlas project:
-
-The Beever-Atlas is an open-source project that aims to create a comprehensive knowledge base for Large Language Model (LLM) and wiki-based conversation. This project provides a first-of-its-kind LLM-wiki conversation knowledge base, allowing developers to build and explore conversational AI systems. By using Beever-Atlas, developers can leverage a vast knowledge base to train and deploy conversational AI models.
+Beever-AI/beever-atlas is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Beever-AI/beever-atlas) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Beever-AI/beever-atlas) · [← Back to AI/ML](./README.md)</sub>

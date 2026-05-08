@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 612 |
-| 🍴 **Forks** | 132 |
+| ⭐ **Stars** | 626 |
+| 🍴 **Forks** | 134 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`collaborative` `docx` `editor` `harbour` `javascript` `ms-word` `ms-word-docx-file` `pdf` `real-time` `rich-text-editor` `wysiwyg`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-SuperDoc is an open-source, modern document editing project designed to provide a flexible and user-friendly interface for creating and editing documents. This project aims to offer a range of features and tools that cater to various document editing needs, making it a valuable resource for developers and users alike. By leveraging open-source principles, SuperDoc encourages collaboration and innovation in the field of document editing.
+superdoc-dev/superdoc is a promising open-source project. Categories: Misc. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/superdoc-dev/superdoc) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/superdoc-dev/superdoc) · [← Back to Misc](./README.md)</sub>

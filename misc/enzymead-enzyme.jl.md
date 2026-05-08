@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-The EnzymeAD/Enzyme.jl project provides Julia bindings for the Enzyme automatic differentiator, enabling Julia users to utilize Enzyme's high-performance capabilities for computing gradients and Hessians of complex functions. This integration streamlines the process of applying automatic differentiation in Julia-based research and development projects. By leveraging Enzyme's optimized implementation, developers can efficiently and accurately compute derivatives of various functions.
+EnzymeAD/Enzyme.jl is a promising open-source project. Categories: Misc. Interest score: 55/100.
 
 ---
 

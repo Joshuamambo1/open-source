@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 597 |
+| ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the Octos project:
-
-Octos is an open-source, agentic operating system project that leverages AI and ML to create a dynamic and intelligent platform. This project aims to develop a system that can learn, adapt, and evolve in response to its environment, enabling it to make autonomous decisions and interact with users in a more human-like manner. By harnessing the power of AI and ML, Octos aspires to redefine the boundaries of operating systems and create a new generation of intelligent, autonomous systems.
+octos-org/octos is a promising open-source project. Categories: AI/ML. Interest score: 45/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/octos-org/octos) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/octos-org/octos) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.4k |
+| ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-computing` `cloud-native` `containers` `k8s` `kubernetes` `multi-cluster` `multicloud`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the karmada project:
-
-Karmada is an open-source, multi-cloud, and multi-cluster Kubernetes orchestration platform that enables unified management and scaling of Kubernetes resources across different environments. It provides a flexible and extensible framework for automating the deployment, scaling, and management of containerized applications across multiple Kubernetes clusters and cloud providers. By leveraging Karmada, users can simplify their cloud and cluster management and improve the efficiency of their containerized application operations.
+karmada-io/karmada is a promising open-source project. Categories: Orchestration, AI/ML, DevOps/Infra. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/karmada-io/karmada) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/karmada-io/karmada) · [← Back to Orchestration](./README.md)</sub>

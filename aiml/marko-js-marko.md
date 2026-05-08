@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 666 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`client-side-rendering` `dom` `frontend` `isomorphic` `javascript` `nodejs` `server-side-rendering` `ui-components` `vdom`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Marko is an open-source project that offers a declarative, HTML-based language for building web applications. It allows developers to make web development more enjoyable by providing a flexible and efficient approach to building frontend and backend components. With Marko, developers can create scalable and intuitive web applications using a syntax that is both readable and maintainable.
+marko-js/marko is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/marko-js/marko) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/marko-js/marko) · [← Back to AI/ML](./README.md)</sub>

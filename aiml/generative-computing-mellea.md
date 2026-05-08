@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 405 |
-| 🍴 **Forks** | 114 |
+| ⭐ **Stars** | 409 |
+| 🍴 **Forks** | 115 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `generative-ai` `generative-computing` `llms`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Mellea is an open-source library for generative computing that enables users to write programs capable of producing novel and complex output. This library is designed to facilitate the development of AI and ML applications, offering a flexible framework for creators to explore the possibilities of generative programming. With Mellea, developers can push the boundaries of what is possible in the field of generative computing.
+generative-computing/mellea is a promising open-source project. Categories: AI/ML. Interest score: 50/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/generative-computing/mellea) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/generative-computing/mellea) · [← Back to AI/ML](./README.md)</sub>

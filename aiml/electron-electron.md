@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 121.1k |
+| ⭐ **Stars** | 121.2k |
 | 🍴 **Forks** | 17.2k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `chrome` `css` `electron` `html` `javascript` `nodejs` `v8` `works-with-codespaces`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Electron is an open-source framework that enables developers to build cross-platform desktop applications using web technologies such as JavaScript, HTML, and CSS. This allows for faster development and deployment of desktop applications with a native feel, without the need for platform-specific code. By leveraging web standards, Electron facilitates the creation of desktop apps that can run seamlessly on Windows, macOS, and Linux.
+electron/electron is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/electron/electron) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/electron/electron) · [← Back to AI/ML](./README.md)</sub>

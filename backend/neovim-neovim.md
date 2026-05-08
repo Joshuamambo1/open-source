@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.9k |
 | 💻 **Language** | Vim Script |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `c` `lua` `neovim` `nvim` `text-editor` `vim`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Neovim is an open-source, community-driven project that serves as a fork of the classic Vim text editor. Focused on extensibility and usability, Neovim offers a powerful and customizable platform for developers, providing a range of features and plugins to enhance the editing experience. Its modular design makes it an ideal choice for those seeking a flexible and extensible text editor.
+neovim/neovim is a promising open-source project. Categories: Backend. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/neovim/neovim) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/neovim/neovim) · [← Back to Backend](./README.md)</sub>

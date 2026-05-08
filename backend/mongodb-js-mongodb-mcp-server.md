@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 226 |
+| 🍴 **Forks** | 240 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mcp` `mcp-server` `mongodb` `mongodb-atlas` `mongodb-database`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Data
 
 ## 📝 Summary
 
-The MongoDB MCP Server is an open-source project that enables communication between MongoDB databases, MongoDB Atlas clusters, and applications using the Model Context Protocol. This server acts as a bridge, facilitating data exchange and synchronization between MongoDB-based systems. It is designed to provide a scalable, flexible, and secure solution for data integration and management.
+mongodb-js/mongodb-mcp-server is a promising open-source project. Categories: Backend, Data. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mongodb-js/mongodb-mcp-server) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mongodb-js/mongodb-mcp-server) · [← Back to Backend](./README.md)</sub>

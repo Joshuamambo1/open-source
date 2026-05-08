@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.5k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d` `3d-printing` `architecture` `bim` `cad` `cam` `coin` `engineering` `fem` `freecad` `linux` `macos`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ FreeCAD/FreeCAD is a promising open-source project. Categories: Misc. Interest s
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/FreeCAD/FreeCAD) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/FreeCAD/FreeCAD) · [← Back to Misc](./README.md)</sub>

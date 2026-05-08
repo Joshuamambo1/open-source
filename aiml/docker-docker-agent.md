@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 351 |
+| 🍴 **Forks** | 354 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The docker/docker-agent project is an open-source initiative by Docker Engineering to develop an AI Agent Builder and Runtime. This innovative project aims to simplify the creation and deployment of artificial intelligence (AI) agents, enabling users to build, train, and run AI models in a seamless and efficient manner. By leveraging Docker's expertise in containerization, the project facilitates the integration of AI models with various applications and environments.
+docker/docker-agent is a promising open-source project. Categories: AI/ML, Frontend, DevOps/Infra. Interest score: 68/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/docker/docker-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/docker/docker-agent) · [← Back to AI/ML](./README.md)</sub>

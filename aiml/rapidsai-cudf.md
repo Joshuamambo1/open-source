@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.6k |
-| 🍴 **Forks** | 1k |
+| 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arrow` `cpp` `cuda` `cudf` `dask` `data-analysis` `data-science` `dataframe` `gpu` `pandas` `pydata` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-cuDF is an open-source, GPU-accelerated library for data manipulation and analysis, designed to work seamlessly with Apache Arrow. It provides a DataFrame API for in-memory data processing on NVIDIA GPUs, enabling rapid and efficient data manipulation, filtering, and aggregation. This library is ideal for AI/ML applications and big data analytics, providing a scalable and performant data engine.
+rapidsai/cudf is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rapidsai/cudf) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rapidsai/cudf) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `cicd` `devops` `gitops` `kubernetes` `monitoring` `quality-assurance` `test-automation` `testing` `testing-automation` `testing-tools`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "kubeshop/testkube" also known as Testkube:
-
-Testkube is an open-source Test Orchestration Platform designed specifically for cloud-native applications. It enables developers to manage and run tests at scale, providing a streamlined experience for automating testing across Kubernetes environments. With Testkube, teams can automate testing, reduce friction, and improve overall test efficiency.
+kubeshop/testkube is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kubeshop/testkube) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kubeshop/testkube) · [← Back to Orchestration](./README.md)</sub>

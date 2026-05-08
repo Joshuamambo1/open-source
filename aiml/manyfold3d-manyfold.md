@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d-printing` `dam` `digital-asset-management` `hacktoberfest` `obj-files` `rails` `self-hosted` `stl` `stl-files` `three-js`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Manyfold is an open-source, self-hosted digital asset manager designed specifically for 3D print files, providing users with a centralized platform to organize, access, and manage their 3D print collections. This AI/ML-enabled tool aims to streamline workflows and enhance productivity for individuals and teams working with 3D printing technology. By hosting the digital asset manager locally, users can maintain control over their data and ensure seamless integration with their existing workflows.
+manyfold3d/manyfold is a promising open-source project. Categories: AI/ML. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/manyfold3d/manyfold) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/manyfold3d/manyfold) · [← Back to AI/ML](./README.md)</sub>

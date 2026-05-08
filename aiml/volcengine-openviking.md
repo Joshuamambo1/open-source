@@ -25,9 +25,7 @@ AI/ML · Data · Design
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the OpenViking project:
-
-OpenViking is an open-source context database designed to manage the complex needs of AI agents, providing a unified file system paradigm for hierarchical context delivery and self-evolution. This innovative project unifies the management of memory, resources, and skills, enabling AI agents to adapt and learn more effectively. By leveraging OpenViking, developers can create more sophisticated AI agents with enhanced capabilities.
+volcengine/OpenViking is a promising open-source project. Categories: AI/ML, Data, Design. Interest score: 100/100.
 
 ---
 

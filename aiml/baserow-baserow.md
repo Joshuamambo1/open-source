@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 587 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`airtable` `airtable-alternative` `airtable-replacement` `application-builder` `automations` `dashboards` `database` `low-code` `no-code` `no-code-database` `no-code-platform` `online-database`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ baserow/baserow is a promising open-source project. Categories: AI/ML, Frontend,
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/baserow/baserow) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/baserow/baserow) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `cli` `developer-tools` `jetbrains-plugin` `llm` `open-source` `vs-code-extenstion`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Continue project is an open-source initiative that allows developers to implement source-controlled AI checks, making it possible to enforce AI-related decisions in continuous integration (CI) pipelines. This is achieved through the Continue CLI, a powerful tool that provides a straightforward way to integrate AI-powered checks into development workflows. By leveraging this technology, developers can ensure consistency, quality, and reliability in their codebase.
+continuedev/continue is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/continuedev/continue) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/continuedev/continue) · [← Back to AI/ML](./README.md)</sub>

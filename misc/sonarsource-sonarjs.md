@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 194 |
+| 🍴 **Forks** | 193 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`code-quality` `javascript` `language-team` `sonarcloud` `sonarqube` `static-analysis` `static-analyzer` `static-code-analysis` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-SonarJS is an open-source static code analysis tool for JavaScript and TypeScript developed by SonarSource. It helps developers identify and address quality issues, security vulnerabilities, and code smells in their JavaScript and TypeScript projects, ensuring better maintainability and reliability. By integrating SonarJS into their development workflow, developers can improve the overall quality and stability of their codebase.
+SonarSource/SonarJS is a promising open-source project. Categories: Misc. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/SonarSource/SonarJS) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SonarSource/SonarJS) · [← Back to Misc](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 94 |
+| 🍴 **Forks** | 95 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-coding` `ai-agents` `ai-coding-workflow` `ai-development-dashboard` `ai-jira` `ai-progress-tracking` `claude-code` `code-workflow` `coding-agent-orchestration` `cursor-agent` `development-kanban` `gemini-cli`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The Spec Kitty project is an open-source toolset designed for serious software developers, specifically tailored for Spec-Driven Development. This comprehensive platform features integration with AI/ML models like Claude, Cursor, Gemini, and Codex, alongside a Kanban dashboard, Git worktrees, and auto-merge functionality. By providing a range of developer-focused features, Spec Kitty aims to streamline and enhance the software development process.
+Priivacy-ai/spec-kitty is a promising open-source project. Categories: Orchestration, AI/ML, DevTools. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Priivacy-ai/spec-kitty) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Priivacy-ai/spec-kitty) · [← Back to Orchestration](./README.md)</sub>

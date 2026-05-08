@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 263 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deepseek` `gpu` `llm` `llm-serving` `model-serving` `pytorch`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The thu-pacman/chitu project is an open-source, high-performance inference framework designed to accelerate large language models. It prioritizes efficiency, flexibility, and availability, making it a valuable tool for developers and researchers working with AI/ML applications. By leveraging advanced technologies, chitu enables fast and reliable inference on complex language models.
+thu-pacman/chitu is a promising open-source project. Categories: AI/ML. Interest score: 75/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/thu-pacman/chitu) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/thu-pacman/chitu) · [← Back to AI/ML](./README.md)</sub>

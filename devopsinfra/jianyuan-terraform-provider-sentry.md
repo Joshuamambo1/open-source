@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 377 |
-| 🍴 **Forks** | 155 |
+| ⭐ **Stars** | 379 |
+| 🍴 **Forks** | 157 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`sentry` `terraform` `terraform-provider`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ DevOps/Infra
 
 ## 📝 Summary
 
-This open-source project, Terraform provider for Sentry, provides a Terraform extension for managing Sentry infrastructure. It allows users to seamlessly integrate Sentry services into their infrastructure as code (IaC) workflows, enabling automated deployment and management of Sentry resources. By using this provider, users can simplify their Sentry setup and configuration process.
+Here's a brief summary for the open-source project:
+
+This open-source project provides a Terraform provider for Sentry, allowing users to manage and provision Sentry resources through Infrastructure as Code (IaC) practices. With this provider, developers can easily configure and deploy Sentry settings, teams, and projects using Terraform configurations. This integration streamlines Sentry management and enhances collaboration between development and operations teams.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/jianyuan/terraform-provider-sentry) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jianyuan/terraform-provider-sentry) · [← Back to DevOps & Infra](./README.md)</sub>

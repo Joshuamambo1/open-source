@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 241 |
-| 🍴 **Forks** | 48 |
+| ⭐ **Stars** | 243 |
+| 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`openclaw` `openfang` `zeroclaw`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-LibreFang is an open-source, Rust-based agent operating system designed to power AI and machine learning (ML) applications. This project enables developers to create and deploy intelligent agents with ease, leveraging the efficiency and safety of the Rust programming language. A live demo is available at https://flyio.librefang.ai.
+LibreFang is an open-source, Rust-based agent operating system designed to enable the development and deployment of AI and machine learning applications. Its live demo is available at https://flyio.librefang.ai. By providing a foundation for building AI-powered agents, LibreFang aims to simplify the creation of complex AI systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/librefang/librefang) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/librefang/librefang) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`camel` `eip` `integration` `java` `microservices`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · Data
 
 ## 📝 Summary
 
-Apache Camel is an open-source integration framework that enables seamless connectivity between various systems by facilitating data exchange and interaction. This robust framework empowers developers to quickly and easily integrate different systems, components, and services. With its extensive capabilities, Apache Camel simplifies the process of integrating disparate systems, promoting efficient data exchange and enabling scalable enterprise applications.
+apache/camel is a promising open-source project. Categories: Frontend, Backend, Data. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/apache/camel) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apache/camel) · [← Back to Frontend](./README.md)</sub>

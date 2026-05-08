@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27.8k |
+| ⭐ **Stars** | 27.9k |
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `artificial-intelligence` `llm` `openai` `sdk`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The semantic-kernel project by Microsoft is an open-source initiative that enables developers to seamlessly integrate cutting-edge large language model (LLM) technology into their applications. This integration allows for rapid development and deployment of AI-powered features, streamlining the process of building intelligent apps. By utilizing semantic-kernel, developers can leverage the full potential of LLMs to enhance user experiences and drive innovation.
+microsoft/semantic-kernel is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/microsoft/semantic-kernel) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/semantic-kernel) · [← Back to Orchestration](./README.md)</sub>

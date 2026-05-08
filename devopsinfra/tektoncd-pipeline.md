@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cdf` `hacktoberfest` `kubernetes` `pipeline` `tekton`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Tekton Pipeline is an open-source cloud-native resource that enables users to create, manage, and execute CI/CD pipelines as code. It provides a flexible and scalable way to automate software delivery workflows, making it easier for developers to integrate and deploy applications across different environments. By using Tekton Pipeline, users can define and orchestrate pipeline workflows using a YAML or JSON configuration file.
+tektoncd/pipeline is a promising open-source project. Categories: DevOps/Infra. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/tektoncd/pipeline) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tektoncd/pipeline) · [← Back to DevOps & Infra](./README.md)</sub>

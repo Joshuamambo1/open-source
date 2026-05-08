@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Prolog |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acid` `cms` `collaboration` `database` `document-database` `graph-database` `headless` `headless-cms` `immutable` `knowledge-graphs` `linked-data` `nosql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Data · Design
 
 ## 📝 Summary
 
-TerminusDB is an open-source, distributed database system designed for collaborative data management. It enables the creation, sharing, and versioning of structured data, as well as reasoning and querying capabilities. This flexible database solution is suited for building scalable applications that require concurrent data access and manipulation.
+terminusdb/terminusdb is a promising open-source project. Categories: Frontend, Data, Design. Interest score: 75/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/terminusdb/terminusdb) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/terminusdb/terminusdb) · [← Back to Frontend](./README.md)</sub>

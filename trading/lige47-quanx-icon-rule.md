@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 489 |
+| ⭐ **Stars** | 493 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hills` `loon` `quantumult-x` `senplayer` `surge`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Trading · Design
 
 ## 📝 Summary
 
-The QuanX-icon-rule project is an open-source initiative that provides a collection of scripts for QuanX, Loon, and Surge, including icon rendering and rule configuration files. It is designed to facilitate the process of unlocking and adapting various services, such as Fileball, Senplayer, and Yamby Hills. This project aims to offer accessible solutions for users of all skill levels.
+Here's a 2-3 sentence summary for the open-source project:
+
+QuanX-icon-rule is an open-source project providing icon drawing and rule scripts for QuanX and Loon Surge users, as well as a script for unlocking and detecting features. It aims to simplify the process of adapting and customizing these systems, making it accessible to users of all skill levels. The project's creator has made a conscious effort to keep the code as simple as possible for easy adoption and modification.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/lige47/QuanX-icon-rule) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/lige47/QuanX-icon-rule) · [← Back to Trading](./README.md)</sub>

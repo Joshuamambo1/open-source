@@ -1,23 +1,23 @@
 # irgolic/AutoPR
 
-[![Stars](https://img.shields.io/github/stars/irgolic/AutoPR?style=flat-square&color=yellow)](https://github.com/irgolic/AutoPR/stargazers) [![Forks](https://img.shields.io/github/forks/irgolic/AutoPR?style=flat-square&color=blue)](https://github.com/irgolic/AutoPR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/irgolic/AutoPR?style=flat-square&color=yellow)](https://github.com/irgolic/AutoPR/stargazers) [![Forks](https://img.shields.io/github/forks/irgolic/AutoPR?style=flat-square&color=blue)](https://github.com/irgolic/AutoPR/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
 
-> AutoPR autonomously wrote pull requests in response to issues
+> Listed in awesome-ai-agents
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 91 |
-| 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 21/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `ai-agents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ AI/ML
 
 ## 📝 Summary
 
-AutoPR is an open-source project designed to automate the process of writing technical papers, specifically focusing on research papers in the field of AI and machine learning. It utilizes advanced AI and machine learning techniques to generate high-quality papers from given prompts, aiming to simplify the research paper writing process. By leveraging AutoPR, researchers can concentrate on their core work while leveraging AI-assisted writing capabilities.
+Here's a brief summary for the open-source project AutoPR:
+
+AutoPR is an open-source project that utilizes AI and machine learning to streamline the process of generating PR (pull requests) for software development projects. Listed in the awesome-ai-agents repository, AutoPR aims to automate repetitive tasks and optimize code quality through intelligent suggestion and review systems. By leveraging AI and ML, AutoPR enables developers to focus on high-priority tasks while ensuring their codebase remains up-to-date and maintainable.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/irgolic/AutoPR) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/irgolic/AutoPR) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20.1k |
-| 🍴 **Forks** | 953 |
+| ⭐ **Stars** | 20.2k |
+| 🍴 **Forks** | 955 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `developer-tools` `linux` `macos` `productivity` `terminal` `terminal-emulators` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-Waveterm is an open-source, AI-integrated terminal designed to enhance workflows across various platforms. This innovative tool leverages artificial intelligence to streamline tasks and improve efficiency, making it an essential addition for developers and productivity enthusiasts. With its cross-platform compatibility, Waveterm offers a seamless user experience, unlocking new possibilities for automation and productivity.
+wavetermdev/waveterm is a promising open-source project. Categories: AI/ML, DevTools, Product. Interest score: 99/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/wavetermdev/waveterm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wavetermdev/waveterm) · [← Back to AI/ML](./README.md)</sub>

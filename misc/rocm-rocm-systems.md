@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 361 |
+| ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The ROCm/rocm-systems repository serves as a central hub for projects related to ROCm systems, providing a comprehensive collection of tools and resources for developers and users. This open-source project aims to foster collaboration and advancement in the field of ROCm systems, driving innovation and optimization for high-performance computing applications. By consolidating various projects under a single umbrella, rocm-systems streamlines access to cutting-edge technologies and expertise.
+ROCm/rocm-systems is a promising open-source project. Categories: Misc. Interest score: 46/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/ROCm/rocm-systems) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ROCm/rocm-systems) · [← Back to Misc](./README.md)</sub>

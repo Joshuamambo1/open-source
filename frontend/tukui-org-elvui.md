@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 235 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-ElvUI is an open-source, user interface replacement AddOn for World of Warcraft that aims to simplify and customize the game's user experience. This AddOn provides a clean, intuitive design and offers a wide range of customization options to suit individual preferences. By replacing the default WoW interface, ElvUI offers a more streamlined and visually appealing gameplay experience.
+tukui-org/ElvUI is a promising open-source project. Categories: Frontend. Interest score: 48/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/tukui-org/ElvUI) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tukui-org/ElvUI) · [← Back to Frontend](./README.md)</sub>

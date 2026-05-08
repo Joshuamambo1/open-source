@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 32k |
+| ⭐ **Stars** | 32.1k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mcp` `playwright`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The Microsoft Playwright MCP server is an open-source project that provides a server implementation for the Playwright MCP protocol. This protocol enables automated testing and debugging of web applications, offering a scalable and efficient solution for developers. With the Playwright MCP server, developers can streamline their testing workflows and improve the overall quality of their web applications.
+microsoft/playwright-mcp is a promising open-source project. Categories: Backend. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/microsoft/playwright-mcp) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/playwright-mcp) · [← Back to Backend](./README.md)</sub>

@@ -25,7 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-TiDB is an open-source, distributed relational database designed for high-performance, unpredictable workloads. It offers ACID guarantees and native support for transactions, analytics, and vector search, allowing for seamless scalability and flexibility. By eliminating data silos, noisy neighbors, and infrastructure limitations, TiDB enables businesses to process complex queries and large datasets with ease.
+pingcap/tidb is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 

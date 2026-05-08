@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The BurningC4/Chinese-IPTV project provides a comprehensive list of Chinese CCTV channels accessible via IPv4 addresses. This open-source resource is designed to facilitate access to these channels, making it easier for users to stay informed about current events in China. The list is a valuable tool for researchers, journalists, and individuals interested in staying up-to-date on Chinese news and happenings.
+The BurningC4/Chinese-IPTV project is an open-source repository that provides a comprehensive list of Chinese CCTV channels, accessible via their IPv4 addresses. This collection is a valuable resource for anyone interested in monitoring or tuning into Chinese state-run television broadcasts. Its open-source nature makes it accessible to developers and users alike.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/BurningC4/Chinese-IPTV) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/BurningC4/Chinese-IPTV) · [← Back to Misc](./README.md)</sub>

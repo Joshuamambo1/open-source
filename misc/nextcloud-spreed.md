@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Nextcloud Talk is an open-source communication platform for Nextcloud, offering real-time chat, video, and audio conferencing capabilities. This feature enables users to engage in seamless group conversations, meetings, and collaborations directly within their Nextcloud instance. It is a part of the Nextcloud suite of tools, focusing on security, privacy, and ease of use.
+nextcloud/spreed is a promising open-source project. Categories: Misc. Interest score: 73/100.
 
 ---
 

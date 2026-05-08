@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.6k |
-| 🍴 **Forks** | 646 |
+| 🍴 **Forks** | 653 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-OpenShell is an open-source project that provides a secure and private runtime environment for autonomous AI agents. This platform ensures the confidentiality and integrity of AI operations, enabling developers to build and deploy trustworthy AI systems. By utilizing OpenShell, organizations can deploy AI agents with greater peace of mind, knowing their data and operations are protected.
+NVIDIA/OpenShell is a promising open-source project. Categories: AI/ML. Interest score: 85/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/NVIDIA/OpenShell) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/NVIDIA/OpenShell) · [← Back to AI/ML](./README.md)</sub>

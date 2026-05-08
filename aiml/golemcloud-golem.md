@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 991 |
+| ⭐ **Stars** | 990 |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `agentic-ai` `agentic-runtime` `agents` `ai` `ai-agent-runtime` `component-model` `distributed-systems` `durable-computing` `durable-execution` `fault-tolerance` `high-reliability`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Golem Cloud project:
-
-Golem Cloud is an open-source platform that enables the development of AI agents and distributed applications with seamless state management, eliminating the need to rebuild infrastructure. Its agent-native architecture ensures that work is never duplicated, allowing for efficient and scalable distributed computing. This innovative platform empowers developers to build complex AI applications without the burden of infrastructure management.
+golemcloud/golem is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/golemcloud/golem) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/golemcloud/golem) · [← Back to AI/ML](./README.md)</sub>

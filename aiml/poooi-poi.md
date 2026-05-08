@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 352 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`electron` `electron-app` `electron-react` `kancolle` `kantai-collection` `poi` `reactjs` `redux`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the poooi/poi project:
-
-Poi is an open-source, scalable KanColle browser and tool, designed to provide an enhanced user experience for fans of the popular Japanese naval strategy game. Built with front-end expertise, Poi offers a user-friendly interface and powerful features for exploring and analyzing gameplay data. This project utilizes AI/ML capabilities to deliver a seamless and efficient browsing experience.
+poooi/poi is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 68/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/poooi/poi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/poooi/poi) · [← Back to AI/ML](./README.md)</sub>

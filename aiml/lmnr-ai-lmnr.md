@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.8k |
+| ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-observability` `agents` `ai` `ai-observability` `aiops` `analytics` `developer-tools` `evals` `evaluation` `llm-evaluation` `llm-observability` `llmops`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Laminar open-source project:
-
-Laminar is a comprehensive, open-source observability platform specifically designed for AI agents, providing valuable insights into their behavior and performance. Built for developers, Laminar offers a robust set of tools to monitor, debug, and optimize AI systems, empowering teams to build more reliable and efficient AI applications. As a Y Combinator-backed project, Laminar has been purpose-built to address the unique challenges of AI development.
+lmnr-ai/lmnr is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 73/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/lmnr-ai/lmnr) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lmnr-ai/lmnr) · [← Back to AI/ML](./README.md)</sub>

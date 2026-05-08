@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 368 |
-| 🍴 **Forks** | 55 |
+| 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This open-source project, "hot_searches_for_apps", is designed to scrape and archive the current hot searches from 32 popular platforms, including Weibo, Zhihu, Baidu, and Douyin, on a daily basis. The project aims to provide a centralized repository of trending topics across various social media platforms. By collecting and organizing this data, users can gain insights into current events, topics, and interests.
+iiecho1/hot_searches_for_apps is a promising open-source project. Categories: Misc. Interest score: 43/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/iiecho1/hot_searches_for_apps) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/iiecho1/hot_searches_for_apps) · [← Back to Misc](./README.md)</sub>

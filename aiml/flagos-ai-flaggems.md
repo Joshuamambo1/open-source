@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 985 |
-| 🍴 **Forks** | 349 |
+| ⭐ **Stars** | 991 |
+| 🍴 **Forks** | 359 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`pytorch` `triton` `triton-kernels`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the FlagGems open-source project:
-
-FlagGems is an open-source operator library designed for large language models, leveraging the Triton Language to enable efficient and scalable AI/ML operations. This library aims to facilitate the creation and deployment of complex models with ease, making it a valuable resource for developers working with large language models. By utilizing the Triton Language, FlagGems offers a flexible and adaptable framework for a wide range of AI/ML applications.
+FlagGems is an open-source operator library designed for large language models, built using the Triton Language. This library aims to simplify the development and deployment of complex AI/ML models by providing a set of optimized operators. By leveraging FlagGems, developers can efficiently create and utilize large language models in their applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/flagos-ai/FlagGems) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/flagos-ai/FlagGems) · [← Back to AI/ML](./README.md)</sub>

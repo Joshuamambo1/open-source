@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 77.4k |
+| ⭐ **Stars** | 77.6k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `git` `terminal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Lazygit is an open-source, terminal-based user interface for Git commands, providing a simple and intuitive way to interact with your Git repository from the command line. This project offers a user-friendly graphical interface for commonly used Git operations, allowing developers to manage their repositories with ease. It is designed to be a useful tool for Git users who prefer a more visual interface without leaving the terminal.
+jesseduffield/lazygit is a promising open-source project. Categories: Frontend, DevTools. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/jesseduffield/lazygit) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jesseduffield/lazygit) · [← Back to Frontend](./README.md)</sub>

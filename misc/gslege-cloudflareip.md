@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 382 |
+| ⭐ **Stars** | 387 |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`clash` `cloudflare` `cloudflare-pages` `cloudflare-workers` `nodes` `v2ray` `vless`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here is a brief summary of the open-source project:
-
-CloudflareIP is an open-source project that automatically selects the best Cloudflare IP addresses from various locations worldwide, including the US, Japan, Singapore, Germany, and the Netherlands. It provides a daily and hourly automatic selection of IP addresses, which can be used to generate free Vless nodes on Cloudflare. This project aims to provide users with optimized and readily available Cloudflare IP addresses for their needs.
+gslege/CloudflareIP is a promising open-source project. Categories: Misc. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/gslege/CloudflareIP) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gslege/CloudflareIP) · [← Back to Misc](./README.md)</sub>

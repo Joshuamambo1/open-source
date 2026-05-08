@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fish` `rust` `shell` `terminal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The fish-shell/fish-shell project is an open-source, user-friendly command line shell designed to provide a smooth and intuitive experience. It features a powerful and customizable shell with features such as auto-completion and syntax highlighting, making it an ideal choice for users seeking a more modern command line interface. With its simplicity and flexibility, fish-shell aims to make navigating the command line more accessible and efficient.
+fish-shell/fish-shell is a promising open-source project. Categories: Misc. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/fish-shell/fish-shell) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/fish-shell/fish-shell) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`csr` `framework` `full-stack` `hacktoberfest` `hybrid` `node` `nuxt` `server-rendering` `ssg` `ssr` `static-site-generator` `universal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Nuxt is an open-source, full-stack Vue framework that allows developers to build fast, scalable, and maintainable web applications. It streamlines the development process by providing a set of pre-configured tools and features for both frontend and backend development. With Nuxt, developers can create robust, SEO-friendly, and mobile-first applications quickly and efficiently.
+nuxt/nuxt is a promising open-source project. Categories: Frontend, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nuxt/nuxt) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/nuxt/nuxt) · [← Back to Frontend](./README.md)</sub>

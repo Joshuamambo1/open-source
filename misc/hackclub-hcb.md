@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 851 |
-| 🍴 **Forks** | 105 |
+| ⭐ **Stars** | 852 |
+| 🍴 **Forks** | 106 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The hackclub/hcb project is an open-source platform that provides a transparent fiscal sponsorship service for hackers and creatives. This platform aims to support innovative projects by offering a secure and accountable way to manage finances and collaborate on projects. It promotes openness and trust within the developer community.
+The hackclub/hcb project is an open-source, transparency-driven fiscal sponsorship platform designed to support hackers and creatives. It provides a transparent and community-driven way to manage funds and facilitate collaborations among developers, artists, and innovators. By promoting openness and accountability, hcb aims to foster a more inclusive and equitable ecosystem for creative endeavors.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/hackclub/hcb) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hackclub/hcb) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 789 |
 | 💻 **Language** | Bikeshed |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`css`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-This open-source project, 'w3c/csswg-drafts', provides access to the latest draft versions of CSS specifications from the W3C CSS Working Group. It serves as a centralized repository for the evolving standards and guidelines of CSS. Through this project, developers can stay up-to-date with the latest developments in CSS and participate in the ongoing improvement process.
+w3c/csswg-drafts is a promising open-source project. Categories: Frontend. Interest score: 87/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/w3c/csswg-drafts) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/w3c/csswg-drafts) · [← Back to Frontend](./README.md)</sub>

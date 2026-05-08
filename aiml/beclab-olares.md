@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-privacy` `edge-ai` `home-automation` `home-cloud` `home-server` `homelab` `homeserver` `kubernetes` `local-ai` `mcp` `model-serving`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the Olares project:
-
-Olares is an open-source, self-hosted personal cloud solution that empowers users to take control of their data, providing a secure and private space for storing and managing digital assets. By leveraging decentralized technologies, Olares helps individuals reclaim their data and reduce reliance on centralized services. This project aims to promote data sovereignty and user autonomy in the digital age.
+beclab/Olares is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 86/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/beclab/Olares) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/beclab/Olares) · [← Back to AI/ML](./README.md)</sub>

@@ -1,32 +1,32 @@
 # aiwaves-cn/agents
 
-[![Stars](https://img.shields.io/github/stars/aiwaves-cn/agents?style=flat-square&color=yellow)](https://github.com/aiwaves-cn/agents/stargazers) [![Forks](https://img.shields.io/github/forks/aiwaves-cn/agents?style=flat-square&color=blue)](https://github.com/aiwaves-cn/agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aiwaves-cn/agents?style=flat-square&color=yellow)](https://github.com/aiwaves-cn/agents/stargazers) [![Forks](https://img.shields.io/github/forks/aiwaves-cn/agents?style=flat-square&color=blue)](https://github.com/aiwaves-cn/agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
 
-> An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents
+> Listed in awesome-ai-agents
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.9k |
-| 🍴 **Forks** | 481 |
-| 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 21/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `ai-agents`
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
-The aiwaves-cn/agents project is an open-source collection of artificial intelligence (AI) and machine learning (ML) agents, listed in the popular awesome-ai-agents repository. This project aims to provide developers with a comprehensive set of pre-built AI agents that can be easily integrated into various applications, facilitating the development of intelligent systems. It offers a flexible and scalable platform for building and deploying AI-powered solutions.
+The aiwaves-cn/agents project is a collection of open-source artificial intelligence (AI) and machine learning (ML) agents. Listed in the awesome-ai-agents repository, this project aims to provide a comprehensive platform for researchers and developers to explore and implement various AI and ML algorithms. By offering a diverse range of agents, it facilitates innovation and experimentation in the field of AI and ML.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/aiwaves-cn/agents) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/aiwaves-cn/agents) · [← Back to AI/ML](./README.md)</sub>

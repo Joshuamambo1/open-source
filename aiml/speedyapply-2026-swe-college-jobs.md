@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.6k |
-| 🍴 **Forks** | 372 |
+| 🍴 **Forks** | 375 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`2025-intern` `applications` `college` `fulltime` `hiring` `intern` `internship` `internships` `interviews` `jobboard` `jobs` `junior`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The 2026 SWE College Jobs project provides a daily-updated list of internship and new graduate job opportunities from various companies, specifically tailored for Software Engineering (SWE) students and professionals. This open-source project aims to facilitate career exploration and job search for individuals in the SWE field. By leveraging AI/ML categories, it offers a valuable resource for those seeking to advance their careers in software engineering.
+speedyapply/2026-SWE-College-Jobs is a promising open-source project. Categories: AI/ML. Interest score: 91/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/speedyapply/2026-SWE-College-Jobs) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/speedyapply/2026-SWE-College-Jobs) · [← Back to AI/ML](./README.md)</sub>

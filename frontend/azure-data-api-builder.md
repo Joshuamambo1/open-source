@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 332 |
+| 🍴 **Forks** | 333 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `azure` `database` `graphql` `hacktoberfest` `mcp` `mcp-server` `microsoft` `rest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · Data
 
 ## 📝 Summary
 
-The Azure Data API Builder is an open-source project that simplifies the process of creating REST and GraphQL endpoints for Azure Databases and on-premises data stores. This project enables developers to build modern data APIs with ease, making it a valuable tool for anyone looking to integrate their data with various applications. By using the Data API Builder, developers can leverage MCP tools to optimize their data interactions and enhance their overall data management experience.
+Azure/data-api-builder is a promising open-source project. Categories: Frontend, Backend, Data. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Azure/data-api-builder) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Azure/data-api-builder) · [← Back to Frontend](./README.md)</sub>

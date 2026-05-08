@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 823 |
+| 🍴 **Forks** | 824 |
 | 💻 **Language** | LLVM |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`intel` `llvm` `oneapi` `sycl`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ intel/llvm is a promising open-source project. Categories: Backend. Interest sco
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/intel/llvm) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/intel/llvm) · [← Back to Backend](./README.md)</sub>

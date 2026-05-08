@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 313 |
+| ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`engine` `game` `game-engine` `gpui` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Pulsar-Native is an open-source, next-generation game engine built on top of GPUI and implemented in Rust. This high-performance engine is designed to provide a seamless gaming experience with unparalleled speed and efficiency. By leveraging Rust's capabilities and GPUI's graphics capabilities, Pulsar-Native aims to set a new standard for game development.
+Far-Beyond-Pulsar/Pulsar-Native is a promising open-source project. Categories: Frontend. Interest score: 49/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) · [← Back to Frontend](./README.md)</sub>

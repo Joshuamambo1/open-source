@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bash` `bash-scripting` `compilers` `hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Amber is an open-source programming language that compiles to Bash, allowing developers to leverage the simplicity and flexibility of a new language while still benefiting from Bash's extensive ecosystem and capabilities. Designed to be compiled to Bash, Amber provides a unique blend of modern language features and the stability of a mature shell. This project enables users to experiment with and develop applications using the Amber language.
+amber-lang/amber is a promising open-source project. Categories: Misc. Interest score: 80/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/amber-lang/amber) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/amber-lang/amber) · [← Back to Misc](./README.md)</sub>

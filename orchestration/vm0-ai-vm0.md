@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-workflow` `ai-agent` `ai-runtime` `ai-sandbox` `claude-code` `dev-tools` `sandbox`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Vm0 is an open-source project that automates natural language-described workflows, making it easier to run complex tasks without extensive coding. This AI-driven orchestration tool interprets human-readable descriptions to execute sequential and conditional operations, streamlining workflow execution. By bridging the gap between natural language and automation, vm0 simplifies workflow management and reduces the need for programming expertise.
+vm0-ai/vm0 is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/vm0-ai/vm0) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vm0-ai/vm0) · [← Back to Orchestration](./README.md)</sub>

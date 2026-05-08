@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dictionary` `flutter` `flutter-app` `flutter-desktop` `flutter-desktop-app` `flutter-web` `flutter-web-app` `linux` `macos` `translate` `translation` `translator`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-Biyi, an open-source translation and dictionary app developed in Flutter, provides a convenient platform for users to access language translations and dictionary services. The app aims to offer a seamless and user-friendly experience across various mobile devices. With its open-source nature, users can contribute to and customize the app to suit their specific needs.
+The open-source project "beyondtranslate/beyondtranslate" offers Biyi, a user-friendly translation and dictionary app built with Flutter. This mobile application aims to provide seamless language support for users, making it an ideal tool for global communication and language learning. Biyi's open-source nature encourages community participation and collaborative development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/beyondtranslate/beyondtranslate) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/beyondtranslate/beyondtranslate) · [← Back to Mobile](./README.md)</sub>

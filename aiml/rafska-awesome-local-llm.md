@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `awesome` `awesome-list` `llm` `local` `local-ai` `local-llm` `resources` `self-hosted` `selfhosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"awesome-local-llm" is a comprehensive, community-driven repository that curates a list of exceptional platforms, tools, and practices for running Large Language Models (LLMs) on local machines. This collection aims to streamline the process of working with LLMs by providing a centralized hub for researchers, developers, and enthusiasts to discover and leverage the best resources. By showcasing top-notch solutions and expertise, "awesome-local-llm" empowers users to unlock the full potential of local LLM development.
+rafska/awesome-local-llm is a promising open-source project. Categories: AI/ML. Interest score: 65/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rafska/awesome-local-llm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rafska/awesome-local-llm) · [← Back to AI/ML](./README.md)</sub>

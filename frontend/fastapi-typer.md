@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 891 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `click` `python` `python3` `shell` `terminal` `typehints` `typer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Typer is an open-source Python library for building command-line interfaces (CLIs) that leverages Python type hints to simplify code development. It provides a straightforward and intuitive API to create robust CLIs, making it an ideal choice for developers seeking to build efficient and easy-to-maintain command-line tools. With Typer, users can focus on writing high-quality code rather than boilerplate CLI logic.
+fastapi/typer is a promising open-source project. Categories: Frontend, Backend, DevTools. Interest score: 98/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/fastapi/typer) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/fastapi/typer) · [← Back to Frontend](./README.md)</sub>

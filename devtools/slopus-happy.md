@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20k |
-| 🍴 **Forks** | 1.6k |
+| ⭐ **Stars** | 20.2k |
+| 🍴 **Forks** | 1.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude-code` `claude-desktop` `claude-mobile` `codex` `codex-cli` `hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Security
 
 ## 📝 Summary
 
-The slopus/happy project is an open-source, cross-platform client for Codex and Claude Code that provides real-time voice communication, encryption for secure conversations, and a range of advanced features. This mobile and web client prioritizes user security and convenience, making it an attractive option for developers and users alike. With its robust feature set and open-source nature, slopus/happy aims to revolutionize the way people interact with these powerful AI tools.
+slopus/happy is a promising open-source project. Categories: DevTools, Security. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/slopus/happy) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/slopus/happy) · [← Back to DevTools](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`metrics` `monitoring` `observability` `open-telemetry` `opentelemetry` `telemetry`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The OpenTelemetry Collector is an open-source project that enables the collection, processing, and forwarding of telemetry data from various sources, including logs, metrics, and traces. It serves as a central hub for collecting and transmitting data to multiple backends, allowing for a unified view of system performance and behavior. This project helps developers and operators to streamline their observability workflows and gain insights into their applications and services.
+open-telemetry/opentelemetry-collector is a promising open-source project. Categories: Misc. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/open-telemetry/opentelemetry-collector) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/open-telemetry/opentelemetry-collector) · [← Back to Misc](./README.md)</sub>

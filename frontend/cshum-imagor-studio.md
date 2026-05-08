@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gallery` `golang` `photo-editing` `photo-gallery` `photos` `react` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here is a brief summary for the imagor-studio project:
-
-Imagor-Studio is a self-hosted image gallery platform that offers built-in image editing and template workflows, empowering users to create and manage their visual content with ease. This open-source project provides a flexible and customizable solution for anyone looking to showcase and edit their images. With imagor-studio, users can host their image galleries on their own servers, maintaining full control over their data and workflow.
+cshum/imagor-studio is a promising open-source project. Categories: Frontend. Interest score: 50/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/cshum/imagor-studio) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cshum/imagor-studio) · [← Back to Frontend](./README.md)</sub>

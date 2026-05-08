@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.7k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitbucket` `cicd` `devops` `docker-registry-v2` `git` `git-gui` `git-lfs` `git-server` `gitea` `github` `github-actions` `gitlab`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Gitea is an open-source, self-hosted platform that provides a comprehensive software development experience. It combines features such as Git hosting, code review, team collaboration, package registry, and continuous integration/continuous deployment (CI/CD) in a single, user-friendly package. With Gitea, developers can manage their projects and teams efficiently, all from a single, customizable interface.
+go-gitea/gitea is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/go-gitea/gitea) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/go-gitea/gitea) · [← Back to AI/ML](./README.md)</sub>

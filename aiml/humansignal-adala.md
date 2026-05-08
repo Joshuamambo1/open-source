@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `ai-agents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Adala is an open-source AI framework for modeling and simulating complex systems. It appears to be listed in the "awesome-ai-agents" repository, indicating its potential applications in artificial intelligence and machine learning. Adala is likely designed to facilitate the creation of sophisticated algorithms and models for real-world problem-solving.
+HumanSignal/Adala is a promising open-source project. Categories: AI/ML. Interest score: 21/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/HumanSignal/Adala) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/HumanSignal/Adala) · [← Back to AI/ML](./README.md)</sub>

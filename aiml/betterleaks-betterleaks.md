@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 878 |
+| ⭐ **Stars** | 883 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cicd` `credentials` `developer-tools` `devops` `devsecops` `git` `github` `gitleaks` `go` `golang` `llm-tools` `nhi`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the betterleaks/betterleaks project:
-
-Betterleaks is an open-source project that offers a highly configurable and fast secrets scanner, designed to identify sensitive information in a comprehensive and efficient manner. Built using cutting-edge AI/ML and frontend technologies, this tool is perfect for developers seeking enhanced security and DevTools capabilities. Its configurability allows for tailored scanning experiences, making it a valuable asset for various development workflows.
+betterleaks/betterleaks is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/betterleaks/betterleaks) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/betterleaks/betterleaks) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`clojure` `compiler` `dsl` `functional-programming` `immutability` `language` `lisp` `macros` `phel` `phel-lang` `php` `php-developer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data
 
 ## 📝 Summary
 
-Phel-lang is an open-source, functional programming language that compiles to PHP, drawing inspiration from Lisp and Clojure. It offers features such as macros, persistent data structures, and expressive functional idioms, making it a powerful tool for developers in the PHP ecosystem. With Phel-lang, developers can leverage the strengths of functional programming to create more efficient and scalable code.
+phel-lang/phel-lang is a promising open-source project. Categories: DevTools, Data. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/phel-lang/phel-lang) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/phel-lang/phel-lang) · [← Back to DevTools](./README.md)</sub>

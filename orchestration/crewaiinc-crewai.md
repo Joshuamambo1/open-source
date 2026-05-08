@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 50.7k |
+| ⭐ **Stars** | 50.8k |
 | 🍴 **Forks** | 7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agents` `aiagentframework` `llms`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-CrewAI is an open-source framework that enables the creation of autonomous AI agents capable of collaborating and working together to accomplish complex tasks through role-playing. This innovative platform fosters collaborative intelligence, allowing agents to communicate and adapt in a seamless manner. By leveraging CrewAI, developers can build sophisticated AI systems that tackle intricate challenges with ease and precision.
+crewAIInc/crewAI is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/crewAIInc/crewAI) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/crewAIInc/crewAI) · [← Back to Orchestration](./README.md)</sub>

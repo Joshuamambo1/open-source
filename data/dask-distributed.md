@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 757 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dask` `distributed-computing` `pydata` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The dask/distributed project is an open-source, distributed task scheduler for Dask, a flexible parallel computing library. It enables users to scale Dask workloads across multiple machines, allowing for efficient processing of large datasets in a cluster environment. By distributing tasks across a cluster, users can efficiently process big data and accelerate their computations.
+dask/distributed is a promising open-source project. Categories: Data. Interest score: 68/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/dask/distributed) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dask/distributed) · [← Back to Data](./README.md)</sub>

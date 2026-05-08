@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `docker`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The Docker CLI project is an open-source tool that provides a command-line interface for interacting with Docker containers and images. It allows users to easily manage and deploy applications by executing a wide range of commands, from building and running containers to managing networks and volumes. With the Docker CLI, developers and DevOps professionals can streamline their workflows and simplify the process of working with Docker.
+docker/cli is a promising open-source project. Categories: DevTools, DevOps/Infra. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/docker/cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/docker/cli) · [← Back to DevTools](./README.md)</sub>

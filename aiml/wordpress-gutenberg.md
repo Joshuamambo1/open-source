@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gutenberg` `wordpress` `wordpress-plugin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The WordPress/Gutenberg project is an open-source initiative that focuses on developing the Block Editor for WordPress, a groundbreaking content creation platform. This project aims to revolutionize the way users interact with content by introducing a block-based interface, enhancing the overall user experience and flexibility. By pushing the boundaries of content creation, Gutenberg seeks to benefit not just WordPress, but the broader web development community.
+WordPress/gutenberg is a promising open-source project. Categories: AI/ML. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/WordPress/gutenberg) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/WordPress/gutenberg) · [← Back to AI/ML](./README.md)</sub>

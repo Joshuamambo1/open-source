@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | DM |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`byond` `dm` `game` `goonstation` `hacktoberfest` `role-playing` `space` `ss13`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Misc
 
 ## 📝 Summary
 
-The goonstation/goonstation repository is an open-source project focused on the development and maintenance of the Goonstation branch of the popular SS13 (Space Station 13) game. This collaborative effort enables the community to improve, modify, and expand the game's functionality. By providing a shared codebase, the project facilitates a smoother and more engaging gameplay experience for players.
+Here's a brief summary for the open-source project:
+
+Goonstation is an open-source implementation of the popular SS13 (Space Station 13) game's Goonstation branch. This fork offers a unique twist on the original game, with custom content and gameplay mechanics that set it apart from the standard SS13 experience. By contributing to the Goonstation project, developers can help shape the future of this immersive role-playing game.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/goonstation/goonstation) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/goonstation/goonstation) · [← Back to Misc](./README.md)</sub>

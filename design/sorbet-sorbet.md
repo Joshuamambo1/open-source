@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 585 |
+| 🍴 **Forks** | 586 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ruby` `sorbet` `types`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ sorbet/sorbet is a promising open-source project. Categories: Design. Interest s
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/sorbet/sorbet) · [← Back to Design](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/sorbet/sorbet) · [← Back to Design](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `cumulus` `polkadot` `substrate`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The Parity Polkadot SDK is an open-source project that provides a comprehensive set of tools and libraries for building and interacting with Polkadot-based blockchain applications. This SDK enables developers to leverage Polkadot's interoperability features, scalability, and security capabilities, empowering them to create innovative blockchain solutions. By utilizing this SDK, developers can streamline their development process and unlock new possibilities for Polkadot-based projects.
+paritytech/polkadot-sdk is a promising open-source project. Categories: Crypto, AI/ML. Interest score: 79/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/paritytech/polkadot-sdk) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/paritytech/polkadot-sdk) · [← Back to Crypto](./README.md)</sub>

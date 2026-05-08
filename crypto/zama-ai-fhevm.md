@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `fhe` `privacy`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project FHEVM:
-
-FHEVM is an open-source, full-stack framework that enables seamless integration of Fully Homomorphic Encryption (FHE) with blockchain applications, fostering a secure and private environment for sensitive data processing. By leveraging FHE, FHEVM allows users to perform computations on encrypted data without decrypting it, ensuring confidentiality and integrity. This innovative framework holds significant potential for secure AI/ML, secure data sharing, and confidential computation in various industries.
+zama-ai/fhevm is a promising open-source project. Categories: Crypto, AI/ML, Security. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/zama-ai/fhevm) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/zama-ai/fhevm) · [← Back to Crypto](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.7k |
-| 🍴 **Forks** | 496 |
+| 🍴 **Forks** | 495 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bookmark` `c-plus-plus` `caldav` `chrome-extension` `dropbox` `firefox-extension` `llm` `local-first` `markdown` `nextcloud` `nextcloud-notes` `note-taking`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-QOwnNotes is a free, open-source notepad and todo-list manager that allows users to store notes in plain-text files with Markdown support. This intuitive application seamlessly integrates with Nextcloud and ownCloud, enabling users to sync their notes across multiple devices. With its user-friendly interface and robust features, QOwnNotes is an ideal choice for those seeking a reliable and secure note-taking solution.
+pbek/QOwnNotes is a promising open-source project. Categories: AI/ML. Interest score: 92/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/pbek/QOwnNotes) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pbek/QOwnNotes) · [← Back to AI/ML](./README.md)</sub>

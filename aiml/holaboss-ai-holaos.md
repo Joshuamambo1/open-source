@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5k |
-| 🍴 **Forks** | 304 |
+| 🍴 **Forks** | 302 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | 2026-05-07 |
@@ -25,9 +25,7 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-holaOS is an open-source, AI-driven platform that aims to revolutionize digital work by providing a versatile and adaptable computer system. This Open Agent Computer is designed to be compatible with any digital task, offering users a seamless and efficient experience across various applications and projects. By leveraging AI and machine learning capabilities, holaOS seeks to empower users to work smarter and more effectively.
+holaboss-ai/holaOS is a promising open-source project. Categories: AI/ML. Interest score: 90/100.
 
 ---
 

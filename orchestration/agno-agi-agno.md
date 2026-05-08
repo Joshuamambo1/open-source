@@ -25,9 +25,7 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the agno project:
-
-agno is an open-source platform for building, running, and managing agent systems, enabling users to create and orchestrate AI-powered agents with ease. This comprehensive platform offers a robust set of tools for frontend development and AI/ML capabilities, making it an ideal solution for complex agent-based systems. With agno, users can efficiently design, deploy, and manage their agent platforms from a single, unified interface.
+agno-agi/agno is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 96/100.
 
 ---
 

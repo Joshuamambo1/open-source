@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | Pascal |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`delphi` `freepascal` `mvc-framework` `orm-framework` `pascal` `soa`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the synopse/mORMot2 project:
-
-synopse/mORMot2 is an open-source, cross-platform toolset for Delphi and FreePascal developers. It offers a comprehensive RESTful ORM (Object-Relational Mapping), SOA (Service-Oriented Architecture), and MVC (Model-View-Controller) framework, simplifying the development process for complex web applications. This versatile toolbox enables developers to build scalable, efficient, and maintainable applications with ease.
+synopse/mORMot2 is a promising open-source project. Categories: Misc. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/synopse/mORMot2) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/synopse/mORMot2) · [← Back to Misc](./README.md)</sub>

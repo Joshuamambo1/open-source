@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 221 |
+| ⭐ **Stars** | 222 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `golang` `slack`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Slack-cli is an open-source project that allows developers to create, develop, and deploy Slack apps from the comfort of their command-line interface. This tool empowers users to streamline their Slack app development process, making it easier to manage and automate various tasks. By leveraging the power of the command line, developers can efficiently build, test, and deploy their Slack applications.
+The Slack CLI is an open-source project that enables developers to create, develop, and deploy Slack apps directly from the command line. This powerful tool streamlines the process of building and managing Slack applications, allowing users to automate tasks, integrate with Slack's API, and customize their workflows. With the Slack CLI, developers can simplify their Slack development experience and focus on creating innovative apps.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/slackapi/slack-cli) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/slackapi/slack-cli) · [← Back to Backend](./README.md)</sub>

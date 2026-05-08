@@ -25,9 +25,7 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the H2O-3 project:
-
-H2O-3 is an open-source machine learning platform that offers a wide range of scalable and fast algorithms, including deep learning, gradient boosting, and automatic machine learning. With its distributed architecture, H2O-3 enables efficient processing of large datasets, making it suitable for big data analytics and AI applications. By providing an extensive library of machine learning models and techniques, H2O-3 empowers data scientists to build accurate and robust predictive models.
+h2oai/h2o-3 is a promising open-source project. Categories: AI/ML, Data. Interest score: 100/100.
 
 ---
 

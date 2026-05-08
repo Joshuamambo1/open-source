@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 17.3k |
+| ⭐ **Stars** | 17.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dotnet` `react` `react-native` `uwp` `xbox`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Mobile
 
 ## 📝 Summary
 
-Microsoft's React Native Windows framework enables developers to build native Windows applications using React, a popular JavaScript library. This open-source project allows for seamless integration with Windows APIs and provides a flexible, cross-platform solution for creating Windows apps. By leveraging React, developers can build high-performance, visually appealing Windows apps that run efficiently on various Windows devices.
+microsoft/react-native-windows is a promising open-source project. Categories: Frontend, Mobile. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/microsoft/react-native-windows) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/react-native-windows) · [← Back to Frontend](./README.md)</sub>

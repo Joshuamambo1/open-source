@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 328 |
-| 🍴 **Forks** | 168 |
+| ⭐ **Stars** | 329 |
+| 🍴 **Forks** | 169 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Delta-kernel-rs is an open-source, native Delta implementation written in Rust, designed for seamless integration with any query engine. This project enables developers to leverage Delta's high-performance capabilities in various data processing and analytics workflows. By providing a Rust-based kernel, it expands the reach of Delta's benefits across diverse query engines and data systems.
+delta-io/delta-kernel-rs is a promising open-source project. Categories: Misc. Interest score: 45/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/delta-io/delta-kernel-rs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/delta-io/delta-kernel-rs) · [← Back to Misc](./README.md)</sub>

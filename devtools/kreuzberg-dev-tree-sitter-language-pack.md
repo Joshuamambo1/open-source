@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 349 |
-| 🍴 **Forks** | 56 |
+| 🍴 **Forks** | 57 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ast` `c-ffi` `csharp` `elixir` `golang` `grammer` `java` `kreuzberg` `language-pack` `node` `parser` `polyglot`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The kreuzberg-dev/tree-sitter-language-pack project offers a comprehensive collection of over 300 language grammars compiled for tree-sitter, a powerful parsing library. This open-source project provides polyglot bindings for various programming languages, including Rust, Python, Node.js, and more, allowing developers to easily integrate language parsing into their projects. With this project, developers can leverage tree-sitter's parsing capabilities across multiple languages and environments.
+kreuzberg-dev/tree-sitter-language-pack is a promising open-source project. Categories: DevTools. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/kreuzberg-dev/tree-sitter-language-pack) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kreuzberg-dev/tree-sitter-language-pack) · [← Back to DevTools](./README.md)</sub>

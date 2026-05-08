@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.7k |
-| 🍴 **Forks** | 359 |
+| 🍴 **Forks** | 364 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`browser-extension` `chinese` `chrome-extension` `deepseek` `english` `english-learning` `gpt` `immersive-translate` `japanese` `language-learning` `llm` `openai`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Read Frog is an open-source, immersive translation platform that utilizes AI/ML technologies to provide a unique user experience. This project offers a novel approach to language translation, aiming to bridge cultural and linguistic gaps. Developed with a focus on frontend development, Read Frog enables users to engage with content in a more engaging and interactive way.
+mengxi-ream/read-frog is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mengxi-ream/read-frog) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mengxi-ream/read-frog) · [← Back to AI/ML](./README.md)</sub>

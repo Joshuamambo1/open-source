@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44.9k |
-| 🍴 **Forks** | 5.3k |
+| ⭐ **Stars** | 45.7k |
+| 🍴 **Forks** | 5.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The badlogic/pi-mono project is an open-source AI agent toolkit designed to simplify the development of AI-powered applications. It provides a comprehensive set of libraries and tools, including a unified Large Language Model (LLM) API, a command-line interface (CLI), and user interface libraries for both text-based and web-based applications. Additionally, the toolkit supports integration with services like Slack through its bot feature and offers deployment options via vLLM pods.
+badlogic/pi-mono is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 90/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/badlogic/pi-mono) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/badlogic/pi-mono) · [← Back to AI/ML](./README.md)</sub>

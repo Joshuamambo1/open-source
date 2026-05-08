@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-gateway` `anthropic-api` `claude` `claude-code` `cli-tool` `cliproxyapi` `developer-productivity` `gemini` `github-copilot` `multi-account` `nodejs` `oauth`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The kaitranntt/ccs project is an open-source tool that enables seamless switching between multiple AI services, including Claude, Gemini, Copilot, and OpenRouter, via a CLIProxyAPI OAuth proxy. This project offers a zero-config solution that can be easily scaled from development to production, featuring a visual dashboard and remote proxy support. Additionally, it includes a WebSearch fallback for added reliability.
+kaitranntt/ccs is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 69/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kaitranntt/ccs) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/kaitranntt/ccs) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `artificial-intelligence` `cloud-native` `data-science` `human-ai-collaboration` `interactive-engine` `machine-learning` `runtime-debugging` `visual-workflows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The apache/texera project is an open-source initiative that empowers human-AI collaboration in data science through visual workflows. It aims to streamline the data science process by enabling users to design, execute, and visualize data pipelines with the help of AI-driven tools. By leveraging the power of both humans and AI, texera facilitates efficient and effective data analysis.
+apache/texera is a promising open-source project. Categories: AI/ML, Data. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/apache/texera) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apache/texera) · [← Back to AI/ML](./README.md)</sub>

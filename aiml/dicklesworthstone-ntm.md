@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 270 |
-| 🍴 **Forks** | 43 |
+| ⭐ **Stars** | 272 |
+| 🍴 **Forks** | 44 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `cli` `developer-tools` `go` `tmux`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The Tmux Manager (ntm) is an open-source project that enables users to efficiently manage multiple AI coding agents, such as Claude, Codex, and Gemini, across tmux panes using a TUI command palette. This tool facilitates the coordination and spawning of multiple agents, allowing users to optimize their coding workflow. By leveraging tmux and a TUI interface, ntm streamlines the process of working with multiple AI agents in a single session.
+Dicklesworthstone/ntm is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 49/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Dicklesworthstone/ntm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Dicklesworthstone/ntm) · [← Back to AI/ML](./README.md)</sub>

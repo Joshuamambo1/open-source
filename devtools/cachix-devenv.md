@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.7k |
-| 🍴 **Forks** | 486 |
+| 🍴 **Forks** | 487 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-tools` `devenv` `nix`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-cachix/devenv is an open-source project that utilizes Nix to create fast, reproducible, and composable developer environments. With devenv, users can declaratively define their development setup, ensuring consistency and ease of maintenance across different projects and workflows. This project empowers developers to streamline their workflow and collaborate more efficiently.
+cachix/devenv is a promising open-source project. Categories: DevTools. Interest score: 86/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cachix/devenv) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cachix/devenv) · [← Back to DevTools](./README.md)</sub>

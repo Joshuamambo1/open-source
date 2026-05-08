@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -29,4 +29,4 @@ Expensify/App is a promising open-source project. Categories: Frontend. Interest
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Expensify/App) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Expensify/App) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 917 |
+| ⭐ **Stars** | 918 |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compilers` `qsharp` `quantum` `quantum-computing` `quantum-programming` `quantum-programming-language` `quantum-resource-estimation` `tutorials` `vscode`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading
 
 ## 📝 Summary
 
-The Microsoft Quantum Development Kit is an open-source project that provides a comprehensive set of tools for developing quantum computing applications. It includes the Q# programming language, a resource estimator, and Quantum Katas, offering a hands-on learning experience for quantum computing. This kit enables developers to create and simulate quantum algorithms, bridging the gap between classical and quantum computing.
+microsoft/qdk is a promising open-source project. Categories: Trading. Interest score: 59/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/microsoft/qdk) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/qdk) · [← Back to Trading](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`artificial-intelligence` `data-science` `machine-learning` `python` `rust` `version-control`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Oxen-AI/Oxen is an open-source data version control system designed for structured and unstructured machine learning datasets. This tool aims to simplify dataset versioning, making it as accessible as versioning code. With Oxen-AI/Oxen, users can efficiently manage and track changes to their machine learning data, streamlining the AI development process.
+Oxen-AI/Oxen is a promising open-source project. Categories: AI/ML, Data. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Oxen-AI/Oxen) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Oxen-AI/Oxen) · [← Back to AI/ML](./README.md)</sub>

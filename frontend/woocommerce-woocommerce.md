@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10.7k |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automattic` `ecommerce` `ecommerce-platform` `hacktoberfest` `php` `reactjs` `woocommerce` `wordpress`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-WooCommerce is an open-source ecommerce platform built on top of WordPress, offering a highly customizable and versatile solution for creating any type of commerce solution. With its extensive range of features and extensions, users can tailor their online store to suit their unique needs. This robust ecommerce platform empowers businesses to build and manage their online stores without requiring extensive coding knowledge.
+woocommerce/woocommerce is a promising open-source project. Categories: Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/woocommerce/woocommerce) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/woocommerce/woocommerce) · [← Back to Frontend](./README.md)</sub>

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 704 |
+| ⭐ **Stars** | 705 |
 | 🍴 **Forks** | 268 |
 | 💻 **Language** | Tcl |
 | 📈 **Score** | 49/100 |
@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-This is the registry index for crates.io, the official package registry for Rust. The project provides an index of available Rust crates, making it easier for users to discover and manage dependencies. It plays a crucial role in maintaining the ecosystem of Rust by keeping track of all registered crates and their metadata.
+rust-lang/crates.io-index is a promising open-source project. Categories: Misc. Interest score: 49/100.
 
 ---
 

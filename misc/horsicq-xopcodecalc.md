@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asm` `asmx86` `assembler` `calculator` `disassembler` `dissaseembly` `hacktoberfest` `hacktoberfest2023` `opcode` `x86` `x86-64`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The XOpcodeCalc project is an open-source opcode calculator designed to assist with Assembly language programming. It allows users to input and calculate the results of Assembly code, making it easier to debug and understand low-level programming concepts. This versatile tool is ideal for developers and educators looking to dissect and analyze Assembly instructions.
+horsicq/XOpcodeCalc is a promising open-source project. Categories: Misc. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/horsicq/XOpcodeCalc) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/horsicq/XOpcodeCalc) · [← Back to Misc](./README.md)</sub>

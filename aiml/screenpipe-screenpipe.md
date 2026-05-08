@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.5k |
+| ⭐ **Stars** | 18.6k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `agi` `ai` `computer-vision` `llm` `machine-learning` `ml` `multimodal` `vision`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Screenpipe is an open-source project that utilizes AI to monitor user activity and run corresponding agents to automate tasks based on user behavior. This innovative system aims to bridge the gap between AI understanding and real-world application, enabling seamless automation of tasks based on observed actions. By leveraging machine learning and automation, Screenpipe seeks to transform the way users interact with technology and streamline workflows.
+screenpipe/screenpipe is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/screenpipe/screenpipe) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/screenpipe/screenpipe) · [← Back to AI/ML](./README.md)</sub>

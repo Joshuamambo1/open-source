@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11.3k |
-| 🍴 **Forks** | 822 |
+| 🍴 **Forks** | 823 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-engineering` `anthropic` `artificial-intelligence` `deep-learning` `genai` `generative-ai` `gpt` `large-language-models` `llama` `llm` `llmops`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-TensorZero is an open-source platform that streamlines the development and deployment of Large Language Models (LLMs) by integrating essential tools such as gateways, observability, evaluation, optimization, and experimentation. This unified platform simplifies the process of building, testing, and refining LLMs, making it easier for developers to create and fine-tune AI models. By providing a comprehensive solution, TensorZero accelerates the LLM development lifecycle and fosters innovation in the field of AI/ML.
+tensorzero/tensorzero is a promising open-source project. Categories: AI/ML. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/tensorzero/tensorzero) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tensorzero/tensorzero) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.8k |
-| 🍴 **Forks** | 1.8k |
+| ⭐ **Stars** | 19.1k |
+| 🍴 **Forks** | 1.9k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-agents` `ai-tools` `cli`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-OpenCLI is a universal command-line interface (CLI) hub that enables users to transform any website, Electron app, or local binary into a standardized CLI. This innovative project is designed to facilitate seamless integration with AI agents, allowing them to discover, learn, and execute tools effortlessly. By introducing a unified AGENT.md integration, OpenCLI streamlines the process of interacting with various tools and websites through the command line.
+jackwener/OpenCLI is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jackwener/OpenCLI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jackwener/OpenCLI) · [← Back to AI/ML](./README.md)</sub>

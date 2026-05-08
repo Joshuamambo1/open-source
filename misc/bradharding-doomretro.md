@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | C |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`boom` `c` `doom` `doom2` `fps` `free-software` `game` `gpl` `gplv3` `limit-removing` `mbf` `mbf21`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-DoomRetro is a free, open-source source port of the classic DOOM game, offering a refined gaming experience for Windows PC users. This project aims to preserve the original game's charm while providing modern conveniences and improvements. By utilizing the source code, the DoomRetro community continues to enhance and update the game, making it accessible to new generations of gamers.
+bradharding/doomretro is a promising open-source project. Categories: Misc. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/bradharding/doomretro) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/bradharding/doomretro) · [← Back to Misc](./README.md)</sub>

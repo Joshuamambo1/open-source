@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 387 |
-| 🍴 **Forks** | 13 |
+| ⭐ **Stars** | 385 |
+| 🍴 **Forks** | 14 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`clash` `config` `farsi` `freevpn` `hiddify` `iran` `proxy` `sbo` `shadowsocks` `sinabigo` `sinavm` `sing-box`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments
 
 ## 📝 Summary
 
-Here's a brief summary of the sinavm/SVM project in English:
-
-The sinavm/SVM project is an open-source tool designed to collect and convert VPN configuration files from various protocols, developed by Sina. This project aims to facilitate the process of managing and switching between different VPN protocols. By utilizing SVM, users can easily switch between VPN protocols without needing to manually configure each connection.
+sinavm/SVM is a promising open-source project. Categories: Payments. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/sinavm/SVM) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/sinavm/SVM) · [← Back to Payments](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 531 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 532 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`books` `bookshelf` `catalog` `flask` `library` `logging` `python` `react` `self-hosted` `selfhosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Booklogr is an open-source, self-hosted platform designed to help users manage their personal library. This user-friendly application provides a simple and intuitive way to track and organize books, allowing users to maintain a digital catalog of their book collection. With Booklogr, users can easily keep their library up to date and discover new titles to add.
+Mozzo1000/booklogr is a promising open-source project. Categories: Frontend. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/Mozzo1000/booklogr) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Mozzo1000/booklogr) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 784 |
+| ⭐ **Stars** | 785 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `bytecode` `call-graph` `dataflow-analysis` `java` `jimple` `program-analysis` `soot` `static-analysis` `static-code-analysis`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · Mobile
 
 ## 📝 Summary
 
-SootUp is an open-source, completely revamped version of Soot, featuring a new architecture designed to improve data management and processing capabilities. This overhaul aims to enhance the overall performance and efficiency of Soot for data-intensive applications, particularly in mobile environments. By leveraging a modern design, SootUp empowers developers to build more scalable and effective data solutions.
+soot-oss/SootUp is a promising open-source project. Categories: Data, Mobile. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/soot-oss/SootUp) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/soot-oss/SootUp) · [← Back to Data](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 963 |
+| ⭐ **Stars** | 964 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The always-online-stun project is an open-source list of publicly available STUN (Simple Traversal of UDP through NATs) servers, updated every hour to ensure a reliable connection. This project is particularly useful for developers building applications that require stable and continuous connectivity. It serves as a valuable resource for anyone working with Real-Time Communication (RTC) and WebRTC technologies.
+Always-Online-STUN is an open-source project that provides a continuously updated list of publicly available STUN (Session Traversal Utilities for NAT) servers. This project refreshes its list every hour, offering users a reliable and up-to-date resource for resolving NAT traversal issues. By utilizing this project, developers can simplify the process of establishing peer-to-peer connections in their applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/pradt2/always-online-stun) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pradt2/always-online-stun) · [← Back to AI/ML](./README.md)</sub>

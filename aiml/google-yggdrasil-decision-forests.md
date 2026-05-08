@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cart` `cli` `cpp` `decision-forest` `decision-trees` `distributed-computing` `go` `gradient-boosting` `interpretability` `javascript` `machine-learning` `ml`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-Here's a brief summary of the Yggdrasil Decision Forests project:
-
-Yggdrasil Decision Forests is an open-source library for training, evaluating, and interpreting decision forest models, including Random Forest and Gradient Boosted Decision Trees. This library aims to provide a comprehensive platform for building, deploying, and optimizing decision forest models in production environments. By leveraging Yggdrasil, developers can streamline their machine learning workflows and improve the accuracy and reliability of their AI-powered applications.
+google/yggdrasil-decision-forests is a promising open-source project. Categories: AI/ML, DevTools, Product. Interest score: 56/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/google/yggdrasil-decision-forests) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/google/yggdrasil-decision-forests) · [← Back to AI/ML](./README.md)</sub>

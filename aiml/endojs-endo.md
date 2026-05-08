@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`capabilities` `captp` `hardened` `javascript` `multi-tenant` `ocaps` `powerbox` `prototype-pollution` `sandbox` `security` `supply-chain`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Endo is an open-source, distributed JavaScript sandbox that prioritizes security, allowing for safe execution of untrusted code in a controlled environment. Built upon the Secure Execution Sandbox (SES) foundation, Endo provides a robust framework for isolating and evaluating code, making it an ideal solution for applications requiring secure and distributed processing. This project is particularly relevant to AI/ML use cases that involve executing user-provided or untrusted code.
+Endo is an open-source, distributed secure JavaScript sandbox that leverages the SES (Secure Execution Sandbox) framework to provide a robust environment for executing JavaScript code safely. This project enables secure testing and evaluation of JavaScript code, making it an essential tool for AI/ML developers and security researchers. By utilizing Endo, users can execute JavaScript code in a sandboxed environment, reducing the risk of security vulnerabilities and malicious code execution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/endojs/endo) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/endojs/endo) · [← Back to AI/ML](./README.md)</sub>

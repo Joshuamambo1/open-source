@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`nat-traversal` `p2p` `rust` `tailscale` `vpn` `zerotier`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the EasyTier project:
-
-EasyTier is an open-source, decentralized mesh VPN solution that prioritizes simplicity and security. With built-in support for WireGuard, this project enables users to establish peer-to-peer VPN connections, maintaining a high level of encryption and flexibility. By leveraging AI/ML (Artificial Intelligence/Machine Learning) technologies, EasyTier aims to provide a robust and scalable mesh network architecture.
+EasyTier/EasyTier is a promising open-source project. Categories: AI/ML. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/EasyTier/EasyTier) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/EasyTier/EasyTier) · [← Back to AI/ML](./README.md)</sub>

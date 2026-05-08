@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cve` `exploit` `poc` `vulnerabilities`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The "PocOrExp_in_Github" project is an open-source tool designed to automatically collect proof-of-concept (POC) or exploit (EXP) code from GitHub based on a specified CVE ID. This project aims to facilitate vulnerability research and exploitation by providing a centralized platform for retrieving relevant code samples. By leveraging GitHub's vast repository of code, users can quickly find and utilize existing POCs and EXPs for their research needs.
+ycdxsb/PocOrExp_in_Github is a promising open-source project. Categories: Misc. Interest score: 57/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ycdxsb/PocOrExp_in_Github) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ycdxsb/PocOrExp_in_Github) · [← Back to Misc](./README.md)</sub>

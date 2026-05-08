@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 276 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amnezia` `clash-meta` `cloudflare-workers` `fragments` `free-configuration` `free-dns` `mahsang` `serverless` `shadowsocks` `trojan` `v2ray` `vless-ws-tls`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the NiREvil/vless project:
-
-The NiREvil/vless project provides a collection of v2ray subscription links, facilitating users to easily access and utilize the v2ray network. This open-source project is categorized under Payments and Backend, suggesting its potential applications in monetization and infrastructure development. By offering subscription links, vless enables users to securely access and manage their v2ray connections.
+NiREvil/vless is a promising open-source project. Categories: Payments, AI/ML, Backend. Interest score: 62/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/NiREvil/vless) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/NiREvil/vless) · [← Back to Payments](./README.md)</sub>

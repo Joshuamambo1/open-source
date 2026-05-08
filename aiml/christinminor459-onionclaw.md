@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 175 |
-| 🍴 **Forks** | 53 |
+| ⭐ **Stars** | 178 |
+| 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `hidden-services` `llm` `mcp-server` `onion` `openclaw` `openclaw-skill` `osint` `python` `security-research` `socks5` `threat-intelligence`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a summary of the OnionClaw project:
-
-OnionClaw is an open-source project that enables AI agents to access the Tor network and dark web data without configuration. This zero-config tool provides researchers and developers with a simple way to integrate Tor access into their AI and machine learning applications. By providing full Tor network access, OnionClaw facilitates the exploration and analysis of dark web data for various use cases.
+OnionClaw is an open-source project that grants AI agents seamless access to the Tor network and dark web data. This is achieved through a zero-configuration OpenClaw skill or standalone tool, making it simple to integrate into various AI and machine learning applications. By providing a secure and hassle-free interface to the dark web, OnionClaw enables developers to tap into a vast, previously inaccessible dataset.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/christinminor459/OnionClaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/christinminor459/OnionClaw) · [← Back to AI/ML](./README.md)</sub>

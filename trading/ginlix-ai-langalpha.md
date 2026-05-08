@@ -1,6 +1,6 @@
 # ginlix-ai/LangAlpha
 
-[![Stars](https://img.shields.io/github/stars/ginlix-ai/LangAlpha?style=flat-square&color=yellow)](https://github.com/ginlix-ai/LangAlpha/stargazers) [![Forks](https://img.shields.io/github/forks/ginlix-ai/LangAlpha?style=flat-square&color=blue)](https://github.com/ginlix-ai/LangAlpha/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ginlix-ai/LangAlpha?style=flat-square&color=yellow)](https://github.com/ginlix-ai/LangAlpha/stargazers) [![Forks](https://img.shields.io/github/forks/ginlix-ai/LangAlpha?style=flat-square&color=blue)](https://github.com/ginlix-ai/LangAlpha/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code for Finance
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 150 |
+| ⭐ **Stars** | 1.1k |
+| 🍴 **Forks** | 152 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `investment` `langchain` `langraph` `llm` `mcp` `skills` `trading`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the LangAlpha project:
-
-LangAlpha is an open-source project that utilizes Claude Code to provide a comprehensive finance-focused AI model. It integrates trading and orchestration functionalities, leveraging AI/ML capabilities to enhance financial operations. By harnessing the power of Claude Code, LangAlpha aims to facilitate more informed and efficient decision-making in the finance industry.
+ginlix-ai/LangAlpha is a promising open-source project. Categories: Trading, Orchestration, AI/ML. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ginlix-ai/LangAlpha) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ginlix-ai/LangAlpha) · [← Back to Trading](./README.md)</sub>

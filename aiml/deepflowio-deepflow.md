@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.1k |
-| 🍴 **Forks** | 451 |
+| 🍴 **Forks** | 453 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apm` `gpu` `kubernetes` `llm` `opentelemetry` `wasm` `zero-code`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-Deepflow is an open-source observability platform that leverages eBPF (extended Berkeley Packet Filter) to provide comprehensive distributed tracing and profiling capabilities. This project enables developers to monitor and analyze complex system behavior, gaining insights into performance issues and areas for optimization. By harnessing the power of eBPF, Deepflow offers a lightweight and efficient solution for observability needs.
+deepflowio/deepflow is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 84/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/deepflowio/deepflow) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/deepflowio/deepflow) · [← Back to AI/ML](./README.md)</sub>

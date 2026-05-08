@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 986 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`css` `formatter` `javascript` `json` `jsx` `linter` `static-code-analysis` `typescript` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Biome is a comprehensive toolchain for web projects, offering a suite of functionalities to maintain and manage projects efficiently. It provides a formatter and linter, accessible via both Command Line Interface (CLI) and Language Server Protocol (LSP), ensuring seamless integration into developers' workflows. With its open-source nature, Biome empowers web developers to streamline their development process and improve code quality.
+biomejs/biome is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/biomejs/biome) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/biomejs/biome) · [← Back to AI/ML](./README.md)</sub>

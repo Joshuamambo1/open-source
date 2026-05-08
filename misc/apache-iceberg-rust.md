@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 456 |
+| 🍴 **Forks** | 459 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apache` `hacktoberfest` `iceberg` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Apache Iceberg is an open-source, cross-language table format for reliable and scalable data storage. The Iceberg Rust project provides Rust bindings for interacting with Iceberg tables, enabling developers to create and manage Iceberg data structures within Rust applications. This project facilitates seamless integration of Iceberg with Rust-based data pipelines and workflows.
+apache/iceberg-rust is a promising open-source project. Categories: Misc. Interest score: 61/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/apache/iceberg-rust) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/apache/iceberg-rust) · [← Back to Misc](./README.md)</sub>

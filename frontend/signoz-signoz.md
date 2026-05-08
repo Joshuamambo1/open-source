@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apm` `application-monitoring` `distributed-tracing` `go` `good-first-issue` `jaeger` `log` `logs` `metrics` `monitoring` `nextjs` `observability`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ SigNoz/signoz is a promising open-source project. Categories: Frontend, Data. In
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/SigNoz/signoz) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SigNoz/signoz) · [← Back to Frontend](./README.md)</sub>

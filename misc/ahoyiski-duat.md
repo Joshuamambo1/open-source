@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `duat` `text-editor`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Duat is a highly customizable, modern text editor built with Rust, offering a versatile and adaptable editing experience. With its modular design and extensive configuration options, users can tailor Duat to suit their specific needs and workflow. This open-source project provides a flexible and extensible text editing solution for developers and power users.
+Duet (duat) is a highly customizable open-source text editor developed in Rust. This modern text editor offers flexibility and configurability, allowing users to tailor its functionality to suit their specific needs. With its Rust configuration, Duet is designed to provide a powerful and adaptable writing experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/AhoyISki/duat) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/AhoyISki/duat) · [← Back to Misc](./README.md)</sub>

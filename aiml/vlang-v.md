@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 37.5k |
+| ⭐ **Stars** | 37.6k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | V |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `language` `programming-language` `v`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Vlang is an open-source programming language designed for developing maintainable software, offering a balance of simplicity, speed, and safety. It compiles quickly, requiring less than one second, and relies on no external libraries, making it ideal for a range of applications. Vlang also supports automatic translation from C to V, facilitating the transition to this versatile language.
+vlang/v is a promising open-source project. Categories: AI/ML. Interest score: 95/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/vlang/v) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vlang/v) · [← Back to AI/ML](./README.md)</sub>

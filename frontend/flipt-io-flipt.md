@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.8k |
-| 🍴 **Forks** | 287 |
+| 🍴 **Forks** | 288 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloudnative` `continuous-delivery` `devops` `devtools` `feature-flags` `feature-toggles` `gitops` `go` `golang` `grpc` `grpc-gateway` `hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Flipt is an open-source feature management solution that is enterprise-ready and natively integrated with Git. It allows teams to manage and deploy features across their applications in a seamless and version-controlled manner. With Flipt, developers can efficiently collaborate on feature development, reduce complexity, and improve the overall quality of their software.
+flipt-io/flipt is a promising open-source project. Categories: Frontend. Interest score: 88/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/flipt-io/flipt) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/flipt-io/flipt) · [← Back to Frontend](./README.md)</sub>

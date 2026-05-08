@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 556 |
-| 🍴 **Forks** | 50 |
+| ⭐ **Stars** | 557 |
+| 🍴 **Forks** | 49 |
 | 💻 **Language** | QML |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`autocue` `freesoftware` `opensource` `qml` `qt` `teleprompter` `text-editor`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Product
 
 ## 📝 Summary
 
-Cuperino/QPrompt-Teleprompter is a user-friendly, open-source teleprompter software designed to enhance productivity and accuracy for all video creators. Built with a focus on smooth performance, it offers a seamless experience for professionals and beginners alike. This versatile tool empowers creators to craft high-quality video content with ease.
+Cuperino/QPrompt-Teleprompter is a promising open-source project. Categories: AI/ML, Frontend, Product. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Cuperino/QPrompt-Teleprompter) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Cuperino/QPrompt-Teleprompter) · [← Back to AI/ML](./README.md)</sub>

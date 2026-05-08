@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 176 |
+| 🍴 **Forks** | 177 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`load-balancer` `pooler` `postgresql` `rust` `sharding`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ pgdogdev/pgdog is a promising open-source project. Categories: Data. Interest sc
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/pgdogdev/pgdog) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pgdogdev/pgdog) · [← Back to Data](./README.md)</sub>

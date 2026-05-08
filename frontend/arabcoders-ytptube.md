@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 906 |
+| ⭐ **Stars** | 909 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`concurrency` `downloader` `self-hosted` `youtube` `yt-dlp` `ytptube`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Marketing
 
 ## 📝 Summary
 
-Here's a brief summary for the arabcoders/ytptube project:
-
-ytptube is an open-source web-based user interface for yt-dlp, providing users with a convenient and feature-rich experience for downloading YouTube videos. With support for concurrent downloads, presets, and scheduled tasks, users can efficiently manage their downloads and automate repetitive tasks. This project is ideal for those seeking a user-friendly interface to extract YouTube content with yt-dlp.
+arabcoders/ytptube is a promising open-source project. Categories: Frontend, Marketing. Interest score: 54/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/arabcoders/ytptube) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/arabcoders/ytptube) · [← Back to Frontend](./README.md)</sub>

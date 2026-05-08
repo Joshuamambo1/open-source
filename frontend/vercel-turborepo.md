@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`build-system` `build-tool` `javascript` `monorepo` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Turborepo is an open-source build system optimized for JavaScript and TypeScript projects, utilizing the Rust programming language for its foundation. It offers a high-performance and scalable solution for building and managing complex frontend applications. By leveraging a monorepo approach and caching, Turborepo streamlines development workflows and improves overall productivity.
+vercel/turborepo is a promising open-source project. Categories: Frontend. Interest score: 96/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/vercel/turborepo) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vercel/turborepo) · [← Back to Frontend](./README.md)</sub>

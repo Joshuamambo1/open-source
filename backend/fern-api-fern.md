@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 308 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `docs-as-code` `docs-generator` `openapi` `sdk-generator`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ fern-api/fern is a promising open-source project. Categories: Backend. Interest 
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/fern-api/fern) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/fern-api/fern) · [← Back to Backend](./README.md)</sub>

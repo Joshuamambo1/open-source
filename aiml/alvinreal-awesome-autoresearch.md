@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 130 |
+| ⭐ **Stars** | 1.8k |
+| 🍴 **Forks** | 138 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-systems` `ai-agents` `ai-research` `ai-tools` `autonomous-agents` `autoresearch` `awesome-list` `claude-code` `experiment-loops` `karpathy` `karpathy-inspired` `llm-agents`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"Awesome-autoresearch is a comprehensive collection of autonomous improvement loops, research agents, and autoresearch-style systems, inspiring researchers to automate the process of scientific discovery. This curated list is inspired by Andrew Karpathy's influential autoresearch project, providing a valuable resource for AI and ML enthusiasts. It offers a unique platform to explore and replicate innovative research approaches, driving advancements in the field of artificial intelligence."
+alvinreal/awesome-autoresearch is a promising open-source project. Categories: AI/ML. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/alvinreal/awesome-autoresearch) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/alvinreal/awesome-autoresearch) · [← Back to AI/ML](./README.md)</sub>

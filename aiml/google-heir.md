@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 720 |
-| 🍴 **Forks** | 131 |
+| ⭐ **Stars** | 722 |
+| 🍴 **Forks** | 132 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`homomorphic-encryption` `mlir`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Heir is an open-source compiler for homomorphic encryption, a technology that enables computations to be performed on encrypted data without decrypting it first. This allows for secure processing of sensitive information while maintaining confidentiality. By providing a compiler for homomorphic encryption, Heir facilitates the development of secure and private AI/ML applications.
+The google/heir project is an open-source compiler for homomorphic encryption, which enables computations to be performed directly on encrypted data without decrypting it first. This innovation has significant implications for secure data processing in applications such as artificial intelligence and machine learning, where sensitive information needs to be protected from unauthorized access. By allowing computations to be performed on encrypted data, heir helps maintain confidentiality and integrity in data processing.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/google/heir) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/google/heir) · [← Back to AI/ML](./README.md)</sub>

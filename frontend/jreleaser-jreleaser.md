@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ant` `ci-cd` `cli` `csharp` `elixir` `gradle` `hacktoberfest` `java` `maven` `release` `rust` `tool`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the JReleaser open-source project:
-
-JReleaser is an open-source tool designed to simplify project releases by automating common tasks such as building, packaging, and publishing. It provides a streamlined and efficient way to release projects quickly and easily, making it ideal for developers and teams who want to save time and effort. With JReleaser, you can focus on writing code while it handles the release process.
+jreleaser/jreleaser is a promising open-source project. Categories: Frontend, DevTools. Interest score: 61/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/jreleaser/jreleaser) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/jreleaser/jreleaser) · [← Back to Frontend](./README.md)</sub>

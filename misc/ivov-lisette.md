@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 899 |
+| ⭐ **Stars** | 905 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `go` `programming-language` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Lisette is an open-source, little language that draws inspiration from Rust, but compiles to Go. This unique feature allows developers to leverage the safety and performance of Lisette, while still benefiting from the ecosystem and tooling of the Go programming language. By bridging the two languages, Lisette offers a versatile solution for building applications with a balance of safety, performance, and ease of use.
+ivov/lisette is a promising open-source project. Categories: Misc. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ivov/lisette) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ivov/lisette) · [← Back to Misc](./README.md)</sub>

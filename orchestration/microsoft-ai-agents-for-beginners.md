@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 60.6k |
-| 🍴 **Forks** | 20.5k |
+| ⭐ **Stars** | 60.8k |
+| 🍴 **Forks** | 20.6k |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agentic-framework` `agentic-rag` `ai-agents` `ai-agents-framework` `autogen` `generative-ai` `semantic-kernel`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The "microsoft/ai-agents-for-beginners" project is an open-source initiative that provides a comprehensive framework for beginners to learn and build AI agents. This project consists of 12 in-depth lessons that cover the fundamentals of AI development, making it an ideal resource for those looking to dive into the world of artificial intelligence. With its accessible and structured approach, this project enables users to gain hands-on experience in building AI agents.
+microsoft/ai-agents-for-beginners is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/microsoft/ai-agents-for-beginners) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/ai-agents-for-beginners) · [← Back to Orchestration](./README.md)</sub>

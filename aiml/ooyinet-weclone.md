@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `deployment-tools` `llm` `modern-web-development` `qwen` `web-application-generator` `web-cloning` `website-scraper` `website-scraping` `websitescraping`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project WeClone:
-
-WeClone is an one-stop solution for creating digital clones from chat records. By fine-tuning large language models using chat records, WeClone enables users to imbue their models with a personalized tone and bind them to a chatbot, effectively creating their own digital clone. This project leverages cutting-edge AI and ML technologies to achieve digital cloning and chatbot integration.
+ooyinet/WeClone is a promising open-source project. Categories: AI/ML, Backend. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ooyinet/WeClone) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ooyinet/WeClone) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 228 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 239 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `api` `api-key` `api-keys` `chatgpt` `claude` `deepseek` `free` `free-api` `free-api-key` `free-gpt` `free-llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The free-llm-api-keys project is an open-source repository that provides free API keys for popular Large Language Models (LLMs) such as GPT-5.4, Claude, DeepSeek, Gemini, and Grok. These keys can be easily copied and used without requiring a credit card, and are updated frequently to ensure ongoing access. This project aims to make these advanced AI tools more accessible to developers and researchers.
+alistaitsacle/free-llm-api-keys is a promising open-source project. Categories: AI/ML, Backend. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/alistaitsacle/free-llm-api-keys) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/alistaitsacle/free-llm-api-keys) · [← Back to AI/ML](./README.md)</sub>

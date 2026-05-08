@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The dreamhead/moco project offers an easy-to-set-up stub server for backend development, providing a simple solution for testing and mocking server responses. This open-source tool enables developers to quickly create mock servers, streamlining the testing process and improving development efficiency. It can be used to mimic various server scenarios, allowing for more effective testing and debugging of backend applications.
+dreamhead/moco is a promising open-source project. Categories: Backend. Interest score: 86/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/dreamhead/moco) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dreamhead/moco) · [← Back to Backend](./README.md)</sub>

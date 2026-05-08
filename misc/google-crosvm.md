@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here is a brief summary for the google/crosvm project:
-
-The google/crosvm project is an open-source implementation of a Virtual Machine Monitor (VMM) for Chrome OS. It allows for the creation and management of virtual machines, providing a lightweight and efficient solution for running multiple operating systems on a single device. This project is a mirror of the original codebase from the Chromium project, ensuring seamless collaboration and contribution from the open-source community.
+google/crosvm is a promising open-source project. Categories: Misc. Interest score: 51/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/google/crosvm) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/google/crosvm) · [← Back to Misc](./README.md)</sub>

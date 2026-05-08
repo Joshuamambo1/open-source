@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`betaflight` `hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The betaflight/betaflight-configurator project is an open-source, cross-platform application for configuring and managing the Betaflight firmware. It enables users to access and customize various settings for their drones, quads, and other flight controllers in a user-friendly and intuitive interface. This tool streamlines the configuration process, making it easier for hobbyists and professionals to optimize and fine-tune their flight experiences.
+betaflight/betaflight-configurator is a promising open-source project. Categories: Misc. Interest score: 80/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/betaflight/betaflight-configurator) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/betaflight/betaflight-configurator) · [← Back to Misc](./README.md)</sub>

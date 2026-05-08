@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`embedded` `google` `hacktoberfest` `ieee-802154` `internet-of-things` `iot` `ipv6` `mesh-networks` `nest` `openthread` `wireless`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-OpenThread is an open-source implementation of the Thread networking protocol, released by Google as a royalty-free solution. This project provides a flexible and customizable framework for developers to create Thread networks, enabling efficient and reliable low-power wireless communication. By contributing to OpenThread, individuals can help drive innovation and advancement in the Internet of Things (IoT) space.
+openthread/openthread is a promising open-source project. Categories: Misc. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/openthread/openthread) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/openthread/openthread) · [← Back to Misc](./README.md)</sub>

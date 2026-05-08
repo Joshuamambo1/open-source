@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`consensus` `distributed-systems` `raft`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The openraft project is an open-source implementation of the Raft consensus algorithm in Rust, designed to improve the reliability and scalability of distributed systems. This enhanced version of Raft incorporates various optimizations and improvements to provide a robust and efficient consensus protocol. By leveraging Rust's performance and safety features, openraft enables the development of fault-tolerant and high-performance distributed applications.
+databendlabs/openraft is a promising open-source project. Categories: Data. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/databendlabs/openraft) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/databendlabs/openraft) · [← Back to Data](./README.md)</sub>

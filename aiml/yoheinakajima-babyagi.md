@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `ai-agents`
 
 ## 🎯 Categories
 
@@ -25,10 +25,10 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
+Here's a brief summary for the yoheinakajima/babyagi project:
 
-Babyagi is an open-source AI project listed in the awesome-ai-agents repository. Although limited information is available, it appears to focus on developing and utilizing artificial intelligence and machine learning capabilities.
+The babyagi project is an open-source initiative that contributes to the development of AI and machine learning agents. Listed in the awesome-ai-agents repository, it provides a platform for researchers, developers, and enthusiasts to explore and advance AI technologies. By participating in this project, users can learn from and improve various AI and ML tools and techniques.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/yoheinakajima/babyagi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/yoheinakajima/babyagi) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 36.6k |
+| ⭐ **Stars** | 36.7k |
 | 🍴 **Forks** | 7.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `anthropic` `artifacts` `aws` `azure` `chatgpt` `chatgpt-clone` `claude` `clone` `deepseek` `gemini` `google`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the LibreChat project:
-
-LibreChat is an open-source, self-hosted chat platform that serves as an enhanced clone of ChatGPT, featuring a range of advanced capabilities. It includes support for various AI models, including GPT-5, MCP, and DeepSeek, as well as integration with cloud services like AWS, Azure, and OpenAI. With features like secure multi-user authentication, message search, and an integrated code interpreter, LibreChat aims to provide a highly customizable and extensible chat experience.
+danny-avila/LibreChat is a promising open-source project. Categories: Orchestration, AI/ML, Frontend. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/danny-avila/LibreChat) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/danny-avila/LibreChat) · [← Back to Orchestration](./README.md)</sub>

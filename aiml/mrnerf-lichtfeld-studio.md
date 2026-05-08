@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 316 |
+| 🍴 **Forks** | 317 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`computer-graphics` `computer-vision` `cuda` `gaussian-splatting` `optimization`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-MrNeRF/LichtFeld-Studio is an open-source project that simplifies the process of creating and refining 3D scenes using Gaussian Splatting through a single native application. This comprehensive platform allows users to train, inspect, edit, automate, and export their 3D scenes with ease, streamlining the workflow for AI/ML applications. By consolidating various tasks into a single tool, MrNeRF/LichtFeld-Studio enables efficient and efficient 3D scene creation and management.
+MrNeRF/LichtFeld-Studio is a promising open-source project. Categories: AI/ML. Interest score: 72/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/MrNeRF/LichtFeld-Studio) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/MrNeRF/LichtFeld-Studio) · [← Back to AI/ML](./README.md)</sub>

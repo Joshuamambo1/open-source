@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 563 |
+| 🍴 **Forks** | 566 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest2025` `social-winter-of-code`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-CodeGraphContext is an open-source project that indexes local code into a graph database, providing context to AI assistants. This project combines an MCP server with a CLI tool to facilitate seamless integration with AI-powered tools. By leveraging a graph database, CodeGraphContext enables more accurate and informative interactions between developers and AI assistants.
+CodeGraphContext/CodeGraphContext is a promising open-source project. Categories: AI/ML, Backend, DevTools. Interest score: 73/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/CodeGraphContext/CodeGraphContext) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/CodeGraphContext/CodeGraphContext) · [← Back to AI/ML](./README.md)</sub>

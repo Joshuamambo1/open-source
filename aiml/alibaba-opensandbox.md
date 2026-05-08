@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10.4k |
-| 🍴 **Forks** | 827 |
+| ⭐ **Stars** | 10.5k |
+| 🍴 **Forks** | 832 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-infra` `kubernetes` `sandbox`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The Alibaba OpenSandbox project is an open-source sandbox runtime designed for secure and efficient AI agent execution. It enables fast and extensible sandboxing of AI workloads, providing a robust foundation for developing and deploying AI applications. By leveraging OpenSandbox, developers can create secure and scalable AI environments with enhanced performance and reliability.
+alibaba/OpenSandbox is a promising open-source project. Categories: AI/ML, DevOps/Infra. Interest score: 94/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/alibaba/OpenSandbox) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/alibaba/OpenSandbox) · [← Back to AI/ML](./README.md)</sub>

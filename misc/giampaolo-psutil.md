@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cpu` `cross-platform` `disk` `memory` `monitoring` `network` `processes` `python` `sensors`
 
 ## 🎯 Categories
 
@@ -25,8 +25,10 @@ Misc
 
 ## 📝 Summary
 
-The giampaolo/psutil project is an open-source library that provides a cross-platform interface for monitoring system and process information in Python. This library offers extensive functionality for retrieving data on CPU, memory, disk, network, and process usage, as well as system boot time and user statistics. It is designed to be easy to use and provides a comprehensive solution for system monitoring and process analysis.
+Here's a brief summary for the giampaolo/psutil project:
+
+psutil is an open-source, cross-platform library for Python that provides an interface for monitoring system and process-related metrics. It enables users to retrieve information about running processes, system memory, disk utilization, network interfaces, and more, making it a valuable tool for system administrators and developers alike. With psutil, you can easily gather detailed insights into system performance and behavior.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/giampaolo/psutil) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/giampaolo/psutil) · [← Back to Misc](./README.md)</sub>

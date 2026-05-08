@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 392 |
-| 🍴 **Forks** | 25 |
+| ⭐ **Stars** | 397 |
+| 🍴 **Forks** | 26 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `ai-agent` `ai-agent-memory` `awesome-agent-memory` `llm-memory` `memory` `memory-management` `multimodal-llm-memory` `rag`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The TeleAI-UAGI/Awesome-Agent-Memory project is an open-source repository that collects and curates various systems, benchmarks, and research papers focused on memory-related techniques for Large Language Models (LLMs) and Multitask Large Language Models (MLLMs). This resource aims to facilitate the development and comparison of long-term context, retrieval, and reasoning capabilities in AI models. By aggregating knowledge on memory-based LLMs and MLLMs, the project enables researchers and developers to accelerate their progress in this field.
+TeleAI-UAGI/Awesome-Agent-Memory is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 53/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) · [← Back to Orchestration](./README.md)</sub>

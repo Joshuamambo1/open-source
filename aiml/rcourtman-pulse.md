@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `alerts` `dashboard` `docker` `docker-monitoring` `go` `homelab` `host-monitoring` `infrastructure-monitoring` `kubernetes` `monitoring` `proxmox`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here is a brief summary for the rcourtman/Pulse project:
-
-Pulse is an open-source project that provides real-time monitoring for Proxmox, Docker, and Kubernetes environments. It leverages AI-powered insights and smart alerts to enable proactive issue detection and resolution. With a unified, visually appealing dashboard, Pulse empowers users to effectively manage and optimize their hybrid cloud infrastructure.
+rcourtman/Pulse is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 88/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rcourtman/Pulse) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rcourtman/Pulse) · [← Back to AI/ML](./README.md)</sub>

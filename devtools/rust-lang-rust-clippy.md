@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`lint` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Rust Clippy is an open-source project that provides a collection of lints to help detect and prevent common mistakes in Rust code. This tool improves code quality by automatically identifying and suggesting improvements, resulting in more maintainable and efficient code. By utilizing Clippy, developers can ensure their Rust code adheres to best practices and industry standards.
+rust-lang/rust-clippy is a promising open-source project. Categories: DevTools. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rust-lang/rust-clippy) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rust-lang/rust-clippy) · [← Back to DevTools](./README.md)</sub>

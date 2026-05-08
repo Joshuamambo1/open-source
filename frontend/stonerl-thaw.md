@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.1k |
-| 🍴 **Forks** | 120 |
+| ⭐ **Stars** | 5.2k |
+| 🍴 **Forks** | 123 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`macos` `macos-app` `menu-bar` `menubar` `menubar-app` `status-bar` `statusbar` `swift` `swiftui` `utility`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Thaw is an open-source menu bar manager designed for macOS 13 and later versions. This project enables users to customize and manage their menu bar, providing a more streamlined and efficient user experience. Thaw is a frontend-focused tool catering to the needs of macOS users.
+stonerl/Thaw is a promising open-source project. Categories: Frontend. Interest score: 87/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/stonerl/Thaw) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/stonerl/Thaw) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54.9k |
-| 🍴 **Forks** | 3.9k |
+| ⭐ **Stars** | 56.1k |
+| 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bash` `linux` `macos` `rust` `shell` `terminal` `wasm` `zsh`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Warp is an open-source, agentic development environment that originates from the terminal, enabling users to leverage AI for enhanced productivity and efficiency in their coding workflows. Built with a focus on AI/ML capabilities, Warp streamlines development tasks by providing intelligent suggestions, automated code completion, and more. This innovative tool aims to revolutionize the way developers interact with code and collaborate with AI.
+warpdotdev/warp is a promising open-source project. Categories: AI/ML. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/warpdotdev/warp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/warpdotdev/warp) · [← Back to AI/ML](./README.md)</sub>

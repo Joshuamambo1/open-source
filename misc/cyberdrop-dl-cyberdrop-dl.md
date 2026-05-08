@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 635 |
-| 🍴 **Forks** | 53 |
+| ⭐ **Stars** | 636 |
+| 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asyncio` `bunkr` `coomer` `cyberdrop` `downloader` `dropbox` `gofile` `kemono` `mediafire` `mega-nz`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Cyberdrop-DL is an open-source, bulk asynchronous downloader designed to efficiently retrieve files from multiple hosting platforms. This tool allows users to download large collections of files concurrently, saving time and improving overall download performance. By leveraging asynchronous capabilities, Cyberdrop-DL streamlines the download process for files hosted on various websites.
+Cyberdrop-DL/cyberdrop-dl is a promising open-source project. Categories: Misc. Interest score: 55/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Cyberdrop-DL/cyberdrop-dl) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Cyberdrop-DL/cyberdrop-dl) · [← Back to Misc](./README.md)</sub>

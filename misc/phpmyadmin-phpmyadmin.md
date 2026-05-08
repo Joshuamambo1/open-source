@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `mariadb` `mysql` `php` `phpmyadmin` `web-app`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-PhpMyAdmin is a free, open-source web-based database management tool for MySQL and MariaDB. It provides a user-friendly interface for database administrators and developers to manage their databases, including operations such as creating and editing tables, running SQL queries, and performing backups. With its intuitive design and robust features, PhpMyAdmin has become a widely-used tool in the database management community.
+phpmyadmin/phpmyadmin is a promising open-source project. Categories: Misc. Interest score: 97/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/phpmyadmin/phpmyadmin) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/phpmyadmin/phpmyadmin) · [← Back to Misc](./README.md)</sub>

@@ -1,23 +1,23 @@
 # DataBassGit/AgentForge
 
-[![Stars](https://img.shields.io/github/stars/DataBassGit/AgentForge?style=flat-square&color=yellow)](https://github.com/DataBassGit/AgentForge/stargazers) [![Forks](https://img.shields.io/github/forks/DataBassGit/AgentForge?style=flat-square&color=blue)](https://github.com/DataBassGit/AgentForge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataBassGit/AgentForge?style=flat-square&color=yellow)](https://github.com/DataBassGit/AgentForge/stargazers) [![Forks](https://img.shields.io/github/forks/DataBassGit/AgentForge?style=flat-square&color=blue)](https://github.com/DataBassGit/AgentForge/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
 
-> Extensible AGI Framework
+> Listed in awesome-ai-agents
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 787 |
-| 🍴 **Forks** | 157 |
-| 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 21/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `ai-agents`
 
 ## 🎯 Categories
 
@@ -27,8 +27,8 @@ AI/ML · Data
 
 Here's a brief summary for the DataBassGit/AgentForge project:
 
-DataBassGit/AgentForge is an open-source project that combines AI and data tools, listed in the awesome-ai-agents repository. This project aims to leverage machine learning and artificial intelligence capabilities to process and analyze large datasets, making it a valuable resource for researchers and developers in the field. By integrating AI and data tools, AgentForge facilitates innovative applications and solutions.
+DataBassGit/AgentForge is an open-source project that enables developers to create, manage, and deploy AI and machine learning (ML) agents. Listed in the awesome-ai-agents repository, this project supports the development of intelligent agents that can interact with various data sources and environments. By leveraging DataBassGit/AgentForge, users can build, test, and deploy robust AI agents for a wide range of applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/DataBassGit/AgentForge) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/DataBassGit/AgentForge) · [← Back to AI/ML](./README.md)</sub>

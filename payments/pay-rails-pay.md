@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 351 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`braintree` `engine` `hacktoberfest` `paddle` `pay` `payment-provider` `payments` `rails` `sca` `stripe` `subscription`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML
 
 ## 📝 Summary
 
-Pay-rails/pay is an open-source payment processing library for Ruby on Rails applications, enabling developers to securely handle transactions and payments within their web applications. This library simplifies the integration of payment gateways, allowing developers to focus on building their core application. By providing a unified payment solution, pay-rails/pay streamlines the payment processing experience for both developers and end-users.
+pay-rails/pay is a promising open-source project. Categories: Payments, AI/ML. Interest score: 71/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/pay-rails/pay) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pay-rails/pay) · [← Back to Payments](./README.md)</sub>

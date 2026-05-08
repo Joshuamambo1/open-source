@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 220 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 229 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`appkit` `code` `code-editor` `code-snapshot` `coding` `cross-platform` `developer-tools` `file-handling` `find-files` `foundation-models` `ios-app` `ipad-app`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary of the Neon-Vision-Editor project:
-
-Neon-Vision-Editor is an open-source, lightweight code editor designed specifically for macOS. Built for speed and simplicity, it offers a clutter-free interface that prioritizes readability and automatic syntax highlighting. Ideal for quick edits and fast file access, this minimalistic editor streamlines the coding experience.
+h3pdesign/Neon-Vision-Editor is a promising open-source project. Categories: Frontend, DevTools, Mobile. Interest score: 52/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/h3pdesign/Neon-Vision-Editor) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/h3pdesign/Neon-Vision-Editor) · [← Back to Frontend](./README.md)</sub>

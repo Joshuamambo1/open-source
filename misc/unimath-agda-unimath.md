@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Agda |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`category-theory` `commutative-algebra` `finite-groups` `graph-theory` `group-theory` `higher-group-theory` `homotopy-type-theory` `number-theory` `order-theory` `orthogonal-factorization-systems` `ring-theory` `species`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-UniMath/agda-unimath is an open-source library that provides formalized mathematics in the Agda proof assistant. It aims to formalize a unified mathematical framework, leveraging the power of type theory to provide rigorous and machine-verifiable mathematical proofs. This library serves as a foundation for further mathematical developments and explorations.
+The UniMath/agda-unimath library is an open-source project that aims to formalize mathematics using the Agda proof assistant. It provides a comprehensive framework for developing and verifying mathematical theories, allowing users to define and reason about mathematical structures and theorems in a rigorous and machine-verifiable way. By leveraging Agda's expressive type theory and proof assistants, UniMath enables the precise and reliable development of mathematical theories.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/UniMath/agda-unimath) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/UniMath/agda-unimath) · [← Back to Misc](./README.md)</sub>

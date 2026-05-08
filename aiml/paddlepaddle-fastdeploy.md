@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 744 |
+| 🍴 **Forks** | 743 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ernie` `ernie-45` `ernie-45-vl` `inference` `llm` `llm-serving` `openai` `serving` `vllm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-FastDeploy is an open-source toolkit for high-performance inference and deployment of Large Language Models (LLMs) and Vision-Language Models (VLMs) built on top of PaddlePaddle. It enables efficient model deployment, optimization, and acceleration, making it suitable for various AI applications. With FastDeploy, developers can easily deploy and run LLMs and VLMs on various platforms, including edge devices and cloud infrastructure.
+PaddlePaddle/FastDeploy is a promising open-source project. Categories: AI/ML. Interest score: 87/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/PaddlePaddle/FastDeploy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/PaddlePaddle/FastDeploy) · [← Back to AI/ML](./README.md)</sub>

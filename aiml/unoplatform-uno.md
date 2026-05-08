@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.9k |
-| 🍴 **Forks** | 860 |
+| 🍴 **Forks** | 859 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `c-sharp` `cross-platform` `csharp` `dotnet` `hacktoberfest` `linux` `macos` `mono` `mvvm` `roslyn` `uno`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "uno":
-
-Uno is an open-source platform that enables the rapid development of cross-platform native apps for Mobile, Web, Desktop, and Embedded systems. With Uno, developers can create rich, C#/XAML-based apps from a single codebase using any Integrated Development Environment (IDE), and enjoy features like Hot Reload. This versatile platform has been downloaded over 90 million times from NuGet, a testament to its widespread adoption and utility.
+unoplatform/uno is a promising open-source project. Categories: AI/ML, Frontend, Mobile. Interest score: 98/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/unoplatform/uno) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/unoplatform/uno) · [← Back to AI/ML](./README.md)</sub>

@@ -25,7 +25,7 @@ Misc
 
 ## 📝 Summary
 
-Supabase/Postgres is an open-source project that provides an unmodified version of the popular PostgreSQL database management system, along with some useful extensions. This allows developers to leverage the full power of PostgreSQL while benefiting from additional features and functionality. By using Supabase/Postgres, users can enjoy a more robust and feature-rich database experience.
+supabase/postgres is a promising open-source project. Categories: Misc. Interest score: 56/100.
 
 ---
 

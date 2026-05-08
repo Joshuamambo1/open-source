@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cybersecurity` `sample-code`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · Security
 
 ## 📝 Summary
 
-Azure Sentinel is a cloud-native Security Information and Event Management (SIEM) solution that provides intelligent security analytics for comprehensive enterprise security. It enables real-time threat detection, investigation, and incident response, providing users with a unified view of their security posture. By leveraging machine learning and advanced analytics, Azure Sentinel helps organizations to stay ahead of emerging threats and protect their assets more effectively.
+Azure/Azure-Sentinel is a promising open-source project. Categories: Data, Security. Interest score: 93/100.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/Azure/Azure-Sentinel) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Azure/Azure-Sentinel) · [← Back to Data](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.8k |
-| 🍴 **Forks** | 263 |
+| 🍴 **Forks** | 267 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`filesearch` `lua` `neovim` `neovim-plugin` `rust`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The fff (fastest file finder) project is an open-source, high-performance file search toolkit designed for AI agents and developers working with Neovim, Rust, C, and NodeJS. With its focus on speed and accuracy, fff enables efficient search capabilities for a wide range of applications and use cases. This versatile tool aims to simplify file searching and improve productivity for developers and AI agents alike.
+dmtrKovalenko/fff is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 85/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/dmtrKovalenko/fff) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/dmtrKovalenko/fff) · [← Back to AI/ML](./README.md)</sub>

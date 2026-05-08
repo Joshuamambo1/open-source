@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 210 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `artificial-intelligence` `chatbot` `computer-vision` `data-science` `database` `feature-engineering` `feature-store` `genai` `llm` `machine-learning` `ml`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Pixeltable is an open-source data infrastructure that enables a declarative and incremental approach to multimodal AI workloads. By providing a flexible framework, Pixeltable simplifies the management of complex AI data pipelines and facilitates efficient processing of diverse data types. This approach empowers developers to build scalable and high-performance AI applications.
+pixeltable/pixeltable is a promising open-source project. Categories: AI/ML, Data, DevOps/Infra. Interest score: 64/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/pixeltable/pixeltable) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pixeltable/pixeltable) · [← Back to AI/ML](./README.md)</sub>

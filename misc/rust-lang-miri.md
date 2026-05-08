@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 471 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Miri project is an open-source, Rust-specific interpreter designed to execute the mid-level intermediate representation (MIR) of the Rust programming language. Miri serves as a debugging and testing tool, allowing developers to analyze and verify the behavior of Rust code at a lower level than the high-level Rust syntax. By interpreting MIR, Miri facilitates precise control over execution and facilitates the creation of fuzz testing and verification tools.
+rust-lang/miri is a promising open-source project. Categories: Misc. Interest score: 82/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rust-lang/miri) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rust-lang/miri) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 896 |
-| 🍴 **Forks** | 102 |
+| ⭐ **Stars** | 914 |
+| 🍴 **Forks** | 104 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-harness` `agent-skills` `agentic-coding` `ai-agents` `claude-code` `codex` `cursor` `multi-agent` `multi-agent-systems` `oh-my-agent` `opencode` `orchestration`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The "oh-my-agent" project is an open-source, portable multi-agent harness designed to integrate with various .agents-based standards, including Antigravity, Claude Code, Codex, Cursor, and OpenCode. This project enables seamless management and orchestration of skills, workflows, and agent teams, facilitating the development of AI/ML applications. With its cross-platform compatibility, "oh-my-agent" empowers developers to create more efficient and scalable agent-based systems.
+first-fluke/oh-my-agent is a promising open-source project. Categories: Orchestration, AI/ML. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/first-fluke/oh-my-agent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/first-fluke/oh-my-agent) · [← Back to Orchestration](./README.md)</sub>

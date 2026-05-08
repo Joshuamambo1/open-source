@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 109 |
+| 🍴 **Forks** | 110 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The homeassistant-ai/ha-mcp project is an open-source, unofficial implementation of a Home Assistant MCP (Media Control Protocol) server. This server enables Home Assistant to interact with various media centers and devices, providing a centralized control hub for users' home entertainment systems. By utilizing AI/ML capabilities, the ha-mcp server offers advanced features and functionality for a seamless media control experience.
+homeassistant-ai/ha-mcp is a promising open-source project. Categories: AI/ML, Backend. Interest score: 61/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/homeassistant-ai/ha-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/homeassistant-ai/ha-mcp) · [← Back to AI/ML](./README.md)</sub>

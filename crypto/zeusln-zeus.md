@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `bitcoin` `cashu` `core-lightning` `cryptocurrency` `ecash` `ios` `ldk` `lightning` `lightning-network` `lnd` `lndhub`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Payments · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the ZeusLN/zeus project:
-
-ZeusLN/zeus is an open-source mobile Bitcoin wallet designed to provide a secure and user-friendly experience for cryptocurrency users. This project offers a comprehensive platform for storing, sending, and managing Bitcoin transactions on-the-go. With its mobile-first approach, ZeusLN/zeus aims to make Bitcoin accessible to a wider audience.
+ZeusLN/zeus is a promising open-source project. Categories: Crypto, Payments, Frontend. Interest score: 63/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ZeusLN/zeus) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ZeusLN/zeus) · [← Back to Crypto](./README.md)</sub>

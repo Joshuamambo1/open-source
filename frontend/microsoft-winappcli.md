@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `electron` `identity` `msix` `winappsdk` `windev` `windows` `windows-development` `windows-sdk`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Winapp is an open-source, Windows App Development CLI that streamlines the process of managing Windows SDKs, packaging, and app development tasks. This single command-line interface simplifies the process of generating app identity, manifests, certificates, and leveraging build tools across various app frameworks. By centralizing these tasks, Winapp enables developers to work more efficiently and effectively.
+microsoft/winappCli is a promising open-source project. Categories: Frontend, DevTools. Interest score: 58/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/microsoft/winappCli) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/microsoft/winappCli) · [← Back to Frontend](./README.md)</sub>

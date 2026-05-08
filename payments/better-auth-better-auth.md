@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 28.1k |
+| ⭐ **Stars** | 28.2k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`authentication` `iam` `oauth` `oauth2` `oidc` `sso` `stripe` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · Security
 
 ## 📝 Summary
 
-Better-Auth is a comprehensive, open-source authentication framework designed to provide a robust and secure solution for various applications and industries. Its extensive features cater to the needs of payments and security, offering a versatile and reliable foundation for authentication. By leveraging Better-Auth, developers can streamline their authentication processes and ensure a high level of security for their users.
+better-auth/better-auth is a promising open-source project. Categories: Payments, Security. Interest score: 100/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/better-auth/better-auth) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/better-auth/better-auth) · [← Back to Payments](./README.md)</sub>

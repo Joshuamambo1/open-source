@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`catalog` `data-lake` `iceberg` `lakehouse` `lakehouse-governance` `open-lakehouse` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Lakekeeper is an open-source, secure, and high-performance Apache Iceberg REST Catalog built with Rust, licensed under Apache. It simplifies the management of Apache Iceberg repositories by providing a RESTful interface for efficient querying and manipulation. This project enables seamless integration with various data systems, making it an ideal solution for large-scale data analytics.
+lakekeeper/lakekeeper is a promising open-source project. Categories: Data. Interest score: 60/100.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/lakekeeper/lakekeeper) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lakekeeper/lakekeeper) · [← Back to Data](./README.md)</sub>

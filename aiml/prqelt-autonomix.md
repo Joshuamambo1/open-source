@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 125 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 126 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai` `anthropic` `blueprint` `claude` `cpp` `editor-plugin` `game-development` `gemini` `llm` `openai` `ue5`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The PRQELT/Autonomix project is an open-source AI developer for Unreal Engine 5, enabling the creation of various game development assets such as Blueprints, C++, levels, materials, and widgets through natural language commands. This autonomous AI agent streamlines the game development process by automating tasks and reducing the need for manual coding and design. By leveraging AI/ML technology, Autonomix empowers developers to work more efficiently and creatively within the UE5 editor.
+PRQELT/Autonomix is an open‑source AI developer integrated directly into the Unreal Engine 5 editor. By interpreting natural‑language prompts, the autonomous agent can generate and edit Blueprints, C++ code, levels, materials, UI widgets, and other assets, streamlining the content‑creation workflow for developers. It combines AI/ML techniques with a dedicated dev‑tool interface to accelerate prototyping and production within UE5.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/PRQELT/Autonomix) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/PRQELT/Autonomix) · [← Back to AI/ML](./README.md)</sub>

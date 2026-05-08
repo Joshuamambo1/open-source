@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`computer-vision` `data-centric` `data-science` `deep` `deep-learning` `deeplearning` `fine-tuning` `learning` `llama` `llama2` `llm` `llm-training`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Ludwig is an open-source, low-code framework that enables users to build and deploy custom Large Language Models (LLMs), neural networks, and other AI models with ease. It provides a user-friendly interface to streamline the process of data preparation, model creation, and deployment, making AI development more accessible to a broader range of users. With Ludwig, developers can quickly experiment and iterate on various AI models without requiring extensive expertise in machine learning or deep learning.
+Ludwig is an open‑source, low‑code framework that lets developers and data scientists build, train, and deploy custom large language models, neural networks, and a wide variety of AI models without writing extensive code. By defining model architectures, data pipelines, and training parameters in simple YAML or JSON configurations, Ludwig streamlines experimentation and production‑ready deployment across AI/ML, frontend, and data‑centric workflows. It supports numerous model types, automatic preprocessing, hyperparameter tuning, and integration with popular ML libraries, making advanced AI accessible to both technical and non‑technical users.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ludwig-ai/ludwig) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ludwig-ai/ludwig) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 274 |
-| 🍴 **Forks** | 23 |
+| ⭐ **Stars** | 285 |
+| 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`async` `cuda` `gpu` `nvidia` `parallel-computing` `programming-languages` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-cuTile Rust is an open-source project that offers a safe, tile-based kernel programming domain-specific language (DSL) for Rust. The project provides a secure host-side API for passing tensors to asynchronously executed kernel functions, enabling efficient and organized parallel computations. This DSL is designed to facilitate the development of high-performance, tile-based kernels for various applications.
+cuTile‑rs is a Rust library that offers a safe, tile‑based domain‑specific language for writing GPU kernels. It provides a host‑side API that lets developers pass tensors to kernels that are compiled and executed asynchronously, while guaranteeing memory safety and type correctness. The project targets backend developers who need high‑performance, GPU‑accelerated computations in pure Rust.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/NVlabs/cutile-rs) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NVlabs/cutile-rs) · [← Back to Backend](./README.md)</sub>

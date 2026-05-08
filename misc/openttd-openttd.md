@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`game` `isometric` `openttd` `sandbox` `simulation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-OpenTTD is an open-source simulation game that builds upon the classic Transport Tycoon Deluxe. This free and community-driven project allows players to manage and build their own transportation empire, including trains, buses, and ships, across a vast map. With its open-source nature, users can contribute and modify the game to their liking, extending its replayability and functionality.
+OpenTTD is a free, open‑source remake of the classic transport management simulation game Transport Tycoon Deluxe. It expands the original with enhanced graphics, larger maps, multiplayer support, and numerous gameplay improvements while preserving the core economic and logistical challenges. The project invites contributors to further develop features, mod support, and cross‑platform compatibility.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/OpenTTD/OpenTTD) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/OpenTTD/OpenTTD) · [← Back to Misc](./README.md)</sub>

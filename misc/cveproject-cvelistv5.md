@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 584 |
+| 🍴 **Forks** | 585 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The CVEProject/cvelistV5 is an open-source project that maintains a local cache of the official CVE List in CVE JSON 5 format. This project allows users to access and utilize the comprehensive list of Common Vulnerabilities and Exposures (CVEs) in a standardized and easily parseable format. By providing a cached version of the CVE List, this project facilitates efficient and reliable vulnerability management.
+The **CVEProject/cvelistV5** repository provides an up‑to‑date cache of the official CVE List, formatted in the latest CVE JSON 5 schema. It aggregates all publicly disclosed vulnerabilities, making them easily accessible for tools, scripts, and analyses that require structured CVE data. This open‑source dataset serves as a reliable source for security research, automation, and integration into vulnerability management workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/CVEProject/cvelistV5) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/CVEProject/cvelistV5) · [← Back to Misc](./README.md)</sub>

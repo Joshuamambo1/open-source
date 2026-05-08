@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 276 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 281 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-testing` `aws` `aws-bedrock` `aws-emulator` `aws-sdk` `aws-testing` `bedrock` `bedrock-emulator` `cognito` `dynamodb` `emulator` `integration-testing`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the fakecloud project:
-
-Fakecloud is a free, open-source AWS emulator that provides a comprehensive development environment for cloud services without the need for an actual AWS account. This alternative to LocalStack offers 100% conformance to AWS operations, supporting 23 services and 1,680 operations. Developers can now test and deploy their applications locally without incurring additional costs.
+faiscadev/fakecloud is a free, open‑source AWS emulator that replicates 33 AWS services and supports 2,422 operations with full (100 %) conformance, offering a LocalStack‑compatible alternative for local development and testing. It requires no AWS account, authentication token, or paid tier, making it ideal for developers, DevOps engineers, and AI/ML teams who need a fully functional cloud environment on their own infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/faiscadev/fakecloud) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/faiscadev/fakecloud) · [← Back to AI/ML](./README.md)</sub>

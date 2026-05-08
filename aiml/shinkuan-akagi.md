@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 837 |
-| 🍴 **Forks** | 87 |
+| ⭐ **Stars** | 842 |
+| 🍴 **Forks** | 89 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`game-ai` `japanese-mahjong` `mahjong` `mahjong-ai` `mahjong-bot` `majsoul` `majsoul-ai` `majsoul-plus` `riichi-mahjong`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-Akagi is an open-source platform that supports popular Japanese mahjong games, including Majsoul, Tenhou, Riichi City, and Amatsuki. This project enables real-time analysis of games using custom AI models, providing users with actionable suggestions to improve their gameplay. With a built-in example model, Mortal AI, users can explore the capabilities of AI-driven mahjong analysis and develop their own models for enhanced performance.
+Akagi is an open‑source web tool that connects to popular Mahjong platforms—including Majsoul, Tenhou, Riichi City, and Amatsuki—and lets users plug in custom AI models to analyze ongoing games and receive real‑time strategic suggestions. It ships with a built‑in “Mortal” AI as a ready‑to‑use example, showcasing how AI/ML can be integrated into a frontend application for live Mahjong assistance.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/shinkuan/Akagi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/shinkuan/Akagi) · [← Back to AI/ML](./README.md)</sub>

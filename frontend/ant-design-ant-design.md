@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 54.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ant-design` `antd` `design-systems` `react` `typescript` `ui-kit` `ui-library`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-Ant Design is an open-source, enterprise-class UI design language and React UI library that provides a comprehensive set of reusable components and tools for building scalable and user-friendly applications. It offers a wide range of pre-built UI elements, including layout, navigation, and form components, allowing developers to create consistent and visually appealing interfaces. By using Ant Design, developers can speed up their development process and focus on delivering high-quality applications with a professional-grade user experience.
+Ant Design is an enterprise‑grade UI design system that provides a comprehensive set of high‑quality React components, following a clean, consistent visual language for building modern web applications. It offers built‑in internationalization, theming, and accessibility support, making it a go‑to solution for developers seeking a robust, scalable frontend framework.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/ant-design/ant-design) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ant-design/ant-design) · [← Back to Frontend](./README.md)</sub>

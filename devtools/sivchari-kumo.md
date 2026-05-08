@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 66 |
+| 🍴 **Forks** | 70 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws` `cicd` `cloud` `continuous-integration` `developer-tools` `go` `localstack` `testing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Kumo is a lightweight, open-source AWS service emulator written in Go, designed to provide a sandbox environment for testing and development purposes. It emulates various AWS services, allowing developers to simulate AWS functionality locally without the need for actual AWS infrastructure. This facilitates faster and more efficient testing and development workflows.
+sivchari/kumo is a lightweight, open‑source AWS service emulator built with Go. It enables developers to run local, mock versions of various AWS APIs for testing and development without needing real cloud resources. Designed as a DevTools utility, Kumo aims for simplicity, speed, and easy integration into CI pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/sivchari/kumo) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sivchari/kumo) · [← Back to DevTools](./README.md)</sub>

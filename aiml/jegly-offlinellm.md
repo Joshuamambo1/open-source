@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 123 |
+| ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `android-ai` `android-ai-app` `android-llm` `artificial-intelligence` `edge-ai` `gemma4` `generative-ai` `llamacpp` `llm` `local-ai` `local-llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-OfflineLLM is a cutting-edge, open-source Android chat app that prioritizes user privacy by running large language models directly on-device, eliminating the need for internet connectivity, cloud storage, or tracking. Built with Kotlin and Jetpack Compose, this app leverages the power of llama.cpp and optimized ARM NEON/SVE inference for seamless performance. With OfflineLLM, users can enjoy robust language processing capabilities without compromising their personal data.
+OfflineLLM is a privacy‑focused Android chat application that runs large language models completely on the device, eliminating any need for internet connectivity, cloud services, or user tracking. Built with Kotlin, Jetpack Compose, and the llama.cpp library, it leverages optimized ARM NEON/SVE inference to deliver fast, on‑device AI interactions. The project targets AI/ML, frontend, and mobile development communities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/jegly/OfflineLLM) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jegly/OfflineLLM) · [← Back to AI/ML](./README.md)</sub>

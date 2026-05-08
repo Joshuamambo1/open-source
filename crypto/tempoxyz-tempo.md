@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 927 |
+| ⭐ **Stars** | 930 |
 | 🍴 **Forks** | 279 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Crypto · Payments · AI/ML
 
 ## 📝 Summary
 
-Tempo is an open-source blockchain project designed specifically for payments, providing a secure and efficient platform for financial transactions. Built on cutting-edge technology, Tempo aims to revolutionize the way we think about payments, leveraging AI/ML capabilities to enhance user experience and security. This blockchain solution is tailored to meet the growing demands of the modern payments landscape.
+Tempoxyz/tempo is an open‑source blockchain platform specifically designed to streamline and secure digital payments. Leveraging cryptographic consensus and integrated AI/ML tools, it offers fast, low‑cost transaction processing while providing advanced analytics and fraud‑detection capabilities. The project targets developers and businesses seeking a scalable, transparent payment infrastructure within the crypto ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/tempoxyz/tempo) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tempoxyz/tempo) · [← Back to Crypto](./README.md)</sub>

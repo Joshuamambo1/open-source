@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 306 |
-| 🍴 **Forks** | 70 |
+| 🍴 **Forks** | 71 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-tools` `github` `github-profile-card` `github-stats` `github-stats-card` `javascript` `profile-readme` `svg` `terminal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-This open-source project, yogeshwaran01/github-stats-terminal-style, is a DevTools tool that generates customizable, terminal-style GitHub statistics for your profile README. It dynamically displays typing effects, creating a visually engaging interface to showcase your GitHub profile metrics. This project allows users to easily share their GitHub profile statistics with a unique and interactive twist.
+A lightweight CLI tool that creates dynamic, terminal‑style GitHub statistics with animated typing effects, ready to embed in your profile README. It fetches your GitHub data, formats it as a sleek console output, and generates a markdown snippet that looks like a live terminal session. Ideal for developers who want a eye‑catching, code‑centric badge for their repositories.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/yogeshwaran01/github-stats-terminal-style) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/yogeshwaran01/github-stats-terminal-style) · [← Back to DevTools](./README.md)</sub>

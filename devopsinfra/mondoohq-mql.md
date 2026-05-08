@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws` `azure` `cis` `cloud-computing` `cloud-native` `gcp` `kubernetes` `linux` `macos` `security` `security-as-code` `unix`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra · Security
 
 ## 📝 Summary
 
-The mondoohq/mql project is an open-source, cloud-native query language that utilizes a graph-based approach to efficiently process complex queries. This innovative language is designed for DevOps and infrastructure management, providing a powerful tool for data analysis and security auditing. By harnessing the power of graph-based queries, mql enables fast and flexible data processing in a variety of environments.
+MQL is an open‑source, cloud‑native query language designed for graph‑structured data, enabling users to express complex queries across infrastructure and security datasets with a concise, expressive syntax. Built for DevOps and security teams, it integrates seamlessly with modern cloud environments, allowing real‑time analytics, policy enforcement, and automated remediation through graph‑based insights.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/mondoohq/mql) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mondoohq/mql) · [← Back to DevOps & Infra](./README.md)</sub>

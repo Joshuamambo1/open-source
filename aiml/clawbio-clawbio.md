@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 779 |
-| 🍴 **Forks** | 155 |
+| ⭐ **Stars** | 785 |
+| 🍴 **Forks** | 159 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `bioinformatics` `equity` `genomics` `local-first` `openclaw` `population-genetics` `reproducibility`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the ClawBio project:
-
-ClawBio is an open-source, bioinformatics-native AI agent skill library designed for reproducibility and local-first operation. Built on OpenClaw, it provides a robust framework for AI and machine learning applications in the life sciences. This library enables developers to create and deploy AI-powered tools for bioinformatics tasks with ease and precision.
+ClawBio is an open‑source, bioinformatics‑focused AI agent skill library that runs locally and emphasizes reproducibility. Built on the OpenClaw framework, it provides ready‑to‑use AI‑driven tools for genomics and other life‑science workflows while keeping data and computation on the user’s machine. The project targets both AI/ML developers and frontend users who need seamless, native integration of bioinformatics capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ClawBio/ClawBio) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ClawBio/ClawBio) · [← Back to AI/ML](./README.md)</sub>

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2299** |
+| 🗂️ **Total projects** | **2339** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 889 | [Browse →](./aiml/) |
-| 📦 **Misc** | 381 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 235 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 220 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 117 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 114 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 96 | [Browse →](./crypto/) |
-| 📊 **Data** | 60 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 904 | [Browse →](./aiml/) |
+| 📦 **Misc** | 389 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 236 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 221 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 121 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 118 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 98 | [Browse →](./crypto/) |
+| 📊 **Data** | 62 | [Browse →](./data/) |
 | 💳 **Payments** | 58 | [Browse →](./payments/) |
-| 📈 **Trading** | 37 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 31 | [Browse →](./devopsinfra/) |
+| 📈 **Trading** | 39 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 32 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 27 | [Browse →](./mobile/) |
 | 🔐 **Security** | 18 | [Browse →](./security/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [karatelabs/karate](./backend/karatelabs-karate.md) | ⭐ 8.9k | Backend |
-| 2 | [documenso/documenso](./security/documenso-documenso.md) | ⭐ 12.8k | Security |
-| 3 | [f/prompts.chat](./aiml/f-prompts.chat.md) | ⭐ 161.8k | AI/ML |
+| 1 | [ludwig-ai/ludwig](./aiml/ludwig-ai-ludwig.md) | ⭐ 11.7k | AI/ML |
+| 2 | [karatelabs/karate](./backend/karatelabs-karate.md) | ⭐ 8.9k | Backend |
+| 3 | [documenso/documenso](./security/documenso-documenso.md) | ⭐ 12.8k | Security |
 | 4 | [modelscope/ms-swift](./aiml/modelscope-ms-swift.md) | ⭐ 14k | AI/ML |
-| 5 | [micro-editor/micro](./frontend/micro-editor-micro.md) | ⭐ 28.6k | Frontend |
-| 6 | [1Panel-dev/MaxKB](./orchestration/1panel-dev-maxkb.md) | ⭐ 20.9k | Orchestration |
-| 7 | [zhayujie/CowAgent](./orchestration/zhayujie-cowagent.md) | ⭐ 44.2k | Orchestration |
-| 8 | [HKUDS/Vibe-Trading](./trading/hkuds-vibe-trading.md) | ⭐ 5.6k | Trading |
-| 9 | [apache/datafusion](./data/apache-datafusion.md) | ⭐ 8.7k | Data |
-| 10 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
+| 5 | [f/prompts.chat](./aiml/f-prompts.chat.md) | ⭐ 161.8k | AI/ML |
+| 6 | [micro-editor/micro](./frontend/micro-editor-micro.md) | ⭐ 28.6k | Frontend |
+| 7 | [1Panel-dev/MaxKB](./orchestration/1panel-dev-maxkb.md) | ⭐ 20.9k | Orchestration |
+| 8 | [zhayujie/CowAgent](./orchestration/zhayujie-cowagent.md) | ⭐ 44.2k | Orchestration |
+| 9 | [HKUDS/Vibe-Trading](./trading/hkuds-vibe-trading.md) | ⭐ 5.6k | Trading |
+| 10 | [apache/datafusion](./data/apache-datafusion.md) | ⭐ 8.7k | Data |
 
 ## 🚀 How it works
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `cloud-native` `hacktoberfest` `integration` `kubernetes` `messaging` `microservices` `rest` `services` `soap` `synapse` `wso2`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-WSO2 Product Integrator MI is a cloud-native, configuration-driven runtime that enables developers to easily implement composite microservices. This tool streamlines the process of integrating multiple microservices into a single, unified system, accelerating the development and deployment of scalable and efficient applications. By leveraging a configuration-driven approach, developers can rapidly create and deploy complex microservices-based architectures.
+The **WSO2 Product Integrator MI** is a cloud‑native, configuration‑driven runtime designed to simplify the creation and orchestration of composite microservices. It provides a lightweight integration engine that enables developers to define, deploy, and manage complex service flows without writing code, supporting seamless DevOps pipelines and backend integration scenarios.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/wso2/product-integrator-mi) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wso2/product-integrator-mi) · [← Back to Backend](./README.md)</sub>

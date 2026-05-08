@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `chatgpt` `github-stars` `llm` `python` `ranking` `stars`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The Github-Ranking-AI project provides a daily update of the most popular AI and Machine Learning topic repositories on GitHub, ranked by the number of stars they have received. This open-source project aims to offer a dynamic and up-to-date ranking of AI-related repositories on GitHub, facilitating discovery and collaboration within the community.
+The **Github‑Ranking‑AI** project automatically compiles and updates a daily leaderboard of the most‑starred GitHub repositories focused on AI topics. By scraping GitHub’s star counts, it provides a quick reference for the hottest AI/ML projects and trends, helping developers discover popular open‑source resources.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/yuxiaopeng/Github-Ranking-AI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/yuxiaopeng/Github-Ranking-AI) · [← Back to AI/ML](./README.md)</sub>

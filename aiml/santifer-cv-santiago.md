@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 535 |
-| 🍴 **Forks** | 205 |
+| ⭐ **Stars** | 548 |
+| 🍴 **Forks** | 210 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `chatbot` `claude` `langfuse` `llm` `llmops` `observability` `portfolio` `react` `tailwindcss` `typescript` `vercel`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The santifer/cv-santiago project is an open-source interactive resume builder that integrates AI chat functionality. Built with React 19 and TypeScript, it utilizes the Claude API to enable users to engage with a conversational AI avatar about their professional experience. This innovative tool aims to make resume creation more engaging and user-friendly.
+santifer/cv-santiago is an interactive, web‑based résumé that lets visitors converse with an AI‑powered avatar about the author's professional experience. Built with React 19 and TypeScript, it integrates the Claude API to provide real‑time, context‑aware chat functionality. The project showcases a seamless blend of frontend and backend technologies for a personalized, AI‑enhanced CV experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/santifer/cv-santiago) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/santifer/cv-santiago) · [← Back to AI/ML](./README.md)</sub>

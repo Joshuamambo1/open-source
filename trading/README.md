@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**37 projects** in this category.
+**39 projects** in this category.
 
 ## Projects
 
@@ -29,22 +29,24 @@
 | 19 | [quic/aimet](./quic-aimet.md) | ⭐ 2.6k | Python | 75/100 |
 | 20 | [vllm-project/llm-compressor](./vllm-project-llm-compressor.md) | ⭐ 3.2k | Python | 72/100 |
 | 21 | [open-edge-platform/training_extensions](./open-edge-platform-training-extensions.md) | ⭐ 1.2k | Python | 66/100 |
-| 22 | [the-momentum/open-wearables](./the-momentum-open-wearables.md) | ⭐ 1.6k | Python | 65/100 |
-| 23 | [NVIDIA/cuda-quantum](./nvidia-cuda-quantum.md) | ⭐ 1k | C++ | 63/100 |
-| 24 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 1.1k | Python | 60/100 |
-| 25 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 918 | Rust | 59/100 |
-| 26 | [tradingeconomics/tradingeconomics](./tradingeconomics-tradingeconomics.md) | ⭐ 951 | JavaScript | 57/100 |
-| 27 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 632 | Swift | 55/100 |
-| 28 | [microsoft/CSS-Exchange](./microsoft-css-exchange.md) | ⭐ 1.3k | PowerShell | 55/100 |
-| 29 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 823 | — | 55/100 |
-| 30 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 800 | Rust | 54/100 |
-| 31 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 459 | Python | 54/100 |
-| 32 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
-| 33 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 53/100 |
-| 34 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 236 | Rust | 52/100 |
-| 35 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 51/100 |
-| 36 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 51/100 |
-| 37 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
+| 22 | [amitshekhariitbhu/ai-engineering-interview-questions](./amitshekhariitbhu-ai-engineering-interview-questions.md) | ⭐ 1.5k | Markdown | 65/100 |
+| 23 | [the-momentum/open-wearables](./the-momentum-open-wearables.md) | ⭐ 1.6k | Python | 65/100 |
+| 24 | [NVIDIA/cuda-quantum](./nvidia-cuda-quantum.md) | ⭐ 1k | C++ | 63/100 |
+| 25 | [ginlix-ai/LangAlpha](./ginlix-ai-langalpha.md) | ⭐ 1.1k | Python | 60/100 |
+| 26 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 918 | Rust | 59/100 |
+| 27 | [tradingeconomics/tradingeconomics](./tradingeconomics-tradingeconomics.md) | ⭐ 951 | JavaScript | 57/100 |
+| 28 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 632 | Swift | 55/100 |
+| 29 | [microsoft/CSS-Exchange](./microsoft-css-exchange.md) | ⭐ 1.3k | PowerShell | 55/100 |
+| 30 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 823 | — | 55/100 |
+| 31 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 800 | Rust | 54/100 |
+| 32 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 459 | Python | 54/100 |
+| 33 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 53/100 |
+| 34 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 53/100 |
+| 35 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 236 | Rust | 52/100 |
+| 36 | [qiboteam/qibo](./qiboteam-qibo.md) | ⭐ 353 | Python | 51/100 |
+| 37 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 51/100 |
+| 38 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 51/100 |
+| 39 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
 
 ---
 

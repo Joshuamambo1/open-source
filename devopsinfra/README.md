@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**31 projects** in this category.
+**32 projects** in this category.
 
 ## Projects
 
@@ -34,11 +34,12 @@
 | 24 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 898 | Go | 56/100 |
 | 25 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 55/100 |
 | 26 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 55/100 |
-| 27 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 53/100 |
-| 28 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 52/100 |
-| 29 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
-| 30 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
-| 31 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
+| 27 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 53/100 |
+| 28 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 53/100 |
+| 29 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 52/100 |
+| 30 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
+| 31 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
+| 32 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
 
 ---
 

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 410 |
+| 🍴 **Forks** | 413 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `anti` `anticheat` `antidebug` `awesome` `blockchain` `cheat` `debug` `driver` `engine` `ethereum` `game`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · AI/ML · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The Awesome Game Security project is a curated list of resources and knowledge on game security, encompassing cryptography, artificial intelligence, and machine learning. This open-source project aims to provide a comprehensive collection of information for developers to enhance the security of their games. By contributing to this project, users can help create a more secure gaming ecosystem.
+**awesome-game-security** is an open‑source collection of tools, libraries, and best‑practice resources focused on securing video games across multiple platforms. It aggregates cryptographic techniques, AI/ML‑based cheat detection, and mobile‑specific protection methods to help developers safeguard game assets, communications, and player data. The repository welcomes contributions via pull requests, encouraging the community to expand and refine the security toolkit.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/gmh5225/awesome-game-security) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/gmh5225/awesome-game-security) · [← Back to Crypto](./README.md)</sub>

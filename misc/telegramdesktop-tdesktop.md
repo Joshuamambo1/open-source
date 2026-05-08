@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.7k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`messenger` `multi-platform` `telegram` `telegram-desktop` `telegram-solution`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Telegram Desktop project is an open-source messaging application that offers a secure and private way to communicate with others. It allows users to send messages, make voice and video calls, share media, and join group chats with a simple and intuitive interface. By being open-source, the project is community-driven and constantly updated to ensure the best possible user experience and security.
+Telegram Desktop is the official, open‑source client for the Telegram messaging service, providing a feature‑rich, cross‑platform desktop experience. Built with Qt, it supports fast, secure, cloud‑based chats, voice and video calls, secret chats, bots, and a customizable UI while adhering to Telegram’s privacy and encryption standards. The project is maintained by the Telegram team and welcomes contributions from the community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/telegramdesktop/tdesktop) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/telegramdesktop/tdesktop) · [← Back to Misc](./README.md)</sub>

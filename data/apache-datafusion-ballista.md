@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 272 |
+| 🍴 **Forks** | 274 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arrow` `big-data` `dataframe` `distributed` `olap` `python` `query-engine` `rust` `sql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Apache DataFusion Ballista is an open-source, distributed query engine designed to efficiently execute complex data analytics workloads. By leveraging a highly scalable and fault-tolerant architecture, Ballista enables users to process large datasets across multiple nodes, accelerating query performance and reducing latency. This project is part of the Apache DataFusion ecosystem, providing a flexible and extensible platform for data processing and analytics.
+Apache DataFusion Ballista is an open‑source, distributed query engine built on top of the DataFusion in‑memory query framework. It enables scalable, fault‑tolerant execution of SQL and DataFrame workloads across a cluster of machines, handling query planning, optimization, and parallel execution transparently. Ballista is designed for modern data‑intensive applications, offering pluggable storage back‑ends and native Rust performance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/apache/datafusion-ballista) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/apache/datafusion-ballista) · [← Back to Data](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.3k |
-| 🍴 **Forks** | 261 |
+| 🍴 **Forks** | 262 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cross-platform` `interception-driver` `keyboard` `keyboard-layout` `linux` `macos` `mouse` `mouse-emulation` `rust` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The open-source project "kanata" allows users to enhance their keyboard experience through advanced customization. It aims to improve keyboard comfort and usability by providing a flexible framework for personalizing keyboard settings. By utilizing this project, users can tailor their keyboard to their specific needs and preferences.
+Kanata is an open‑source, cross‑platform keyboard remapping tool that lets users create highly customized layouts and advanced key‑binding behaviors to boost typing comfort and efficiency. By offering a simple, script‑based configuration language and support for features such as chords, layers, and per‑application mappings, Kanata enables power users to tailor their keyboards to their exact workflow needs.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/jtroo/kanata) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jtroo/kanata) · [← Back to Misc](./README.md)</sub>

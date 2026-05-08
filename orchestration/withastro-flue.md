@@ -1,6 +1,6 @@
 # withastro/flue
 
-[![Stars](https://img.shields.io/github/stars/withastro/flue?style=flat-square&color=yellow)](https://github.com/withastro/flue/stargazers) [![Forks](https://img.shields.io/github/forks/withastro/flue?style=flat-square&color=blue)](https://github.com/withastro/flue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/withastro/flue?style=flat-square&color=yellow)](https://github.com/withastro/flue/stargazers) [![Forks](https://img.shields.io/github/forks/withastro/flue?style=flat-square&color=blue)](https://github.com/withastro/flue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The sandbox agent framework.
 
@@ -8,12 +8,12 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 123 |
+| ⭐ **Stars** | 2.8k |
+| 🍴 **Forks** | 144 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | hackernews |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The flue framework is an open-source, sandbox agent framework designed to facilitate the development and deployment of AI and ML applications. It enables users to create and manage isolated environments for testing and training models, promoting reproducibility and reliability in AI-related projects. This framework is particularly useful for researchers and developers working with machine learning models.
+The **Flue** sandbox agent framework (withastro/flue) provides a lightweight, extensible platform for building and orchestrating AI/ML agents in isolated environments. It enables developers to define, manage, and coordinate multiple agents, handling communication, state management, and execution flow while keeping the sandbox secure and reproducible. Ideal for experimentation, prototyping, and integrating diverse AI components into larger orchestration pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/withastro/flue) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/withastro/flue) · [← Back to Orchestration](./README.md)</sub>

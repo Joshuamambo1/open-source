@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 431 |
-| 🍴 **Forks** | 26 |
+| ⭐ **Stars** | 435 |
+| 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude-code` `codex` `developer-tools` `electron` `full-text-search` `local-first` `macos` `mcp` `open-source` `personal-knowledge` `privacy`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-Spool is an open-source project that enables users to search a wide range of sources, including Claude Code sessions, Codex history, GitHub stars, and over 50 additional sources, all locally and in real-time. This allows for instant and private access to valuable information. Additionally, AI agents can also utilize the search functionality, making it a powerful tool for developers and AI researchers.
+Spool is an open‑source search tool that indexes Claude Code sessions, Codex history, GitHub stars, and more than 50 additional data sources locally, delivering instant results without leaving your development environment. It enables both developers and AI agents to query this unified knowledge base in real time, streamlining workflow and boosting productivity across AI/ML, DevTools, and product projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/spool-lab/spool) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/spool-lab/spool) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`k8s-sig-testing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The kubernetes/test-infra project is an open-source initiative that provides a comprehensive test infrastructure for the Kubernetes project. Its primary goal is to ensure the reliability and stability of Kubernetes by automating various tests, including CI/CD pipelines, e2e testing, and more. This infrastructure enables the Kubernetes community to write, run, and maintain tests, ultimately driving the quality and security of the Kubernetes platform.
+Kubernetes /test‑infra provides the continuous‑integration, testing, and automation framework that underpins the Kubernetes project. It supplies reusable CI pipelines, test harnesses, and tooling for building, validating, and releasing Kubernetes components across multiple platforms. The repository serves as a shared DevTools and DevOps infrastructure for the community to ensure reliable, repeatable testing at scale.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kubernetes/test-infra) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kubernetes/test-infra) · [← Back to DevTools](./README.md)</sub>

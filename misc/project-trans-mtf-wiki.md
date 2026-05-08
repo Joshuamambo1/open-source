@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 254 |
 | 💻 **Language** | Markdown |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`transgender`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-MtF.wiki is a comprehensive, open-source knowledge integration site dedicated to providing accurate and up-to-date information on transgender female experiences, issues, and resources. This free platform aims to create a centralized hub for education and support, fostering a better understanding and inclusivity for the transgender female community. By promoting transparency and collaboration, MtF.wiki strives to empower individuals and facilitate a more informed and compassionate society.
+MtF.wiki is an open‑source, community‑driven platform that aggregates and curates information relevant to transgender women, offering a continuously updated knowledge base on topics such as health, legal rights, social resources, and personal experiences. The project provides a free, wiki‑style website where contributors can add, edit, and maintain content, ensuring that the information remains current and accessible to anyone seeking reliable guidance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/project-trans/MtF-wiki) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/project-trans/MtF-wiki) · [← Back to Misc](./README.md)</sub>

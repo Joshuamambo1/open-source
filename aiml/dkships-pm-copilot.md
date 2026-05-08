@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-tools` `claude` `customer-feedback` `helpscout` `mcp` `mcp-server` `product-management` `productlift` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the dkships/pm-copilot project:
-
-PM-Copilot is an open-source project that utilizes Machine Learning (ML) to efficiently prioritize customer support tickets and feature requests for Product Managers (PMs). By triangulating these requests, PM-Copilot helps PMs make informed decisions about what to build next, streamlining their workflow and improving product development. This AI-driven tool combines frontend and backend expertise to provide PMs with data-driven insights.
+dkships/pm‑copilot is an open‑source MCP (Micro‑Customer‑Pulse) server that aggregates and analyzes customer support tickets and feature‑request data to surface actionable insights for product managers. By leveraging AI/ML techniques on both backend and frontend components, it triangulates user feedback, priority signals, and trend patterns to help teams decide which features to build next. The platform provides an intuitive UI for visualizing the most impactful requests and integrates easily with existing ticketing systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/dkships/pm-copilot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dkships/pm-copilot) · [← Back to AI/ML](./README.md)</sub>

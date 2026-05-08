@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 829 |
-| 🍴 **Forks** | 102 |
+| ⭐ **Stars** | 833 |
+| 🍴 **Forks** | 103 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `chrome-extension` `electron` `linux-app` `llm` `meeting` `openai` `react` `translation` `translator` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The sokuji project is an open-source live speech translation platform that leverages on-device AI and cloud providers. Currently supporting multiple cloud services including OpenAI, Google Gemini, Palabra.ai, and more, it enables seamless real-time translation. This project combines AI/ML and frontend technologies to facilitate global communication.
+kizuna-ai-lab/sokuji is an open‑source web application that provides real‑time speech translation by leveraging both on‑device AI models and a variety of cloud providers such as OpenAI, Google Gemini, Palabra.ai, Kizuna AI, and Volcengine. The platform captures audio, transcribes it, and instantly translates the text into multiple languages, offering a responsive frontend UI for seamless multilingual communication. It’s designed for developers who want a flexible, plug‑and‑play solution that can switch between local inference and external APIs depending on performance, cost, or privacy requirements.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kizuna-ai-lab/sokuji) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kizuna-ai-lab/sokuji) · [← Back to AI/ML](./README.md)</sub>

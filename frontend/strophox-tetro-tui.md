@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 544 |
+| ⭐ **Stars** | 546 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`console` `console-application` `console-game` `cross-platform` `crossterm` `game` `linux` `macos` `puzzle-game` `stacker-game` `terminal` `terminal-app`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Strophox/tetro-tui project:
-
-Strophox/tetro-tui is a free, open-source tetromino-stacking game designed for the terminal. This modern game offers extensive customization options and is compatible with multiple platforms, providing a fun and accessible experience for players. With its terminal-based interface, tetro-tui brings the classic puzzle game to the modern era.
+Strophox/tetro-tui is a cross‑platform, terminal‑based tetromino stacking game that blends classic gameplay with a modern, highly customizable interface. Built with a focus on frontend flexibility, it lets users tweak visual themes, controls, and game mechanics while running smoothly on any system with a compatible terminal.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Strophox/tetro-tui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Strophox/tetro-tui) · [← Back to Frontend](./README.md)</sub>

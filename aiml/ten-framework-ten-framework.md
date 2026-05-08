@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `multi-modal` `real-time` `video` `voice`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The TEN-framework is an open-source, AI-driven platform for developing conversational voice AI agents. This framework provides a comprehensive toolkit for building sophisticated voice interfaces, enabling developers to create intelligent, voice-based applications with ease. By leveraging machine learning capabilities, TEN-framework empowers users to design and deploy advanced conversational AI agents that can interact with humans in a natural, intuitive manner.
+TEN‑Framework is an open‑source library that simplifies the creation of conversational voice AI agents. It provides modular components for speech‑to‑text, natural‑language understanding, dialog management, and text‑to‑speech, enabling developers to build, customize, and deploy voice‑based assistants across platforms with minimal boilerplate. The project targets AI/ML practitioners looking for a flexible, extensible toolkit for end‑to‑end voice interaction pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/TEN-framework/ten-framework) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/TEN-framework/ten-framework) · [← Back to AI/ML](./README.md)</sub>

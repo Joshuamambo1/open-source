@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 100 |
+| 🍴 **Forks** | 101 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cross-platform` `elgato` `linux` `openaction` `streamdeck`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-OpenDeck is an open-source Linux software designed for the Stream Deck, providing compatibility with original Elgato Stream Deck plugins. This project aims to bring the popular Stream Deck experience to Linux users, offering a free and customizable alternative. By utilizing the original plugin architecture, OpenDeck allows users to leverage the extensive library of existing Stream Deck applications and scripts.
+OpenDeck is a Linux application that replicates the functionality of the Elgato Stream Deck, allowing users to control and customize their decks on a non‑Windows platform. It supports the original Elgato Stream Deck plugin format, so existing plugins can be used without modification, and provides an open‑source framework for creating new actions and layouts. The project is aimed at hobbyists and developers who need a flexible, community‑driven alternative to the official software.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/nekename/OpenDeck) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nekename/OpenDeck) · [← Back to Misc](./README.md)</sub>

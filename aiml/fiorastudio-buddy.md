@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 72 |
-| 🍴 **Forks** | 16 |
+| ⭐ **Stars** | 74 |
+| 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-pet` `anthropic` `anthropic-buddy` `buddy` `claude` `claude-code` `claude-code-buddy` `claude-code-buddy-pet` `claude-code-plugin` `code-review`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the fiorastudio/buddy project:
-
-Buddy is an open-source virtual pet companion that provides in-context code review feedback with a unique personality. This innovative AI tool grows and evolves alongside you, offering a fun and engaging way to improve your coding skills. Compatible with various AI clients, including Claude Code and Github CopilotCLI, Buddy is designed to help you level up your coding abilities with its personalized feedback.
+fiorastudio/buddy is an open‑source virtual pet that acts as an in‑context code‑review companion, adding personality and interactive feedback to your AI‑driven development workflow. It grows and levels up alongside you, integrating seamlessly with Claude Code, Codex, CursorCLI, GitHub CopilotCLI, OpenClaw, and any MCP‑compatible client. Ideal for developers who want a fun, gamified assistant while maintaining high‑quality code reviews.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/fiorastudio/buddy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/fiorastudio/buddy) · [← Back to AI/ML](./README.md)</sub>

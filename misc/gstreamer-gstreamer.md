@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 729 |
 | 💻 **Language** | C |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-GStreamer is an open-source, cross-platform multimedia framework that enables the development of media applications with flexible and customisable pipelines for processing audio and video streams. It provides a powerful and extensible architecture for handling various multimedia formats and protocols. With a vast community-driven library of plugins, GStreamer supports a wide range of use cases, from basic media playback to complex multimedia processing and streaming.
+GStreamer is a powerful, open‑source multimedia framework that enables the construction of complex audio and video processing pipelines. It provides a modular architecture with a wide range of plugins for handling various media formats, streaming protocols, and hardware acceleration, making it suitable for everything from simple playback to professional media applications. The project is actively maintained and widely used across Linux, Windows, macOS, and embedded platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/GStreamer/gstreamer) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/GStreamer/gstreamer) · [← Back to Misc](./README.md)</sub>

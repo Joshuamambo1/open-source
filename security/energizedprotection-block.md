@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ad` `ad-blocker` `adblock` `adblocker` `admiral` `blocklist` `filterlist` `malware` `nsfw` `popads` `porn` `pornware`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security · Marketing
 
 ## 📝 Summary
 
-EnergizedProtection/block is a promising open-source project. Categories: Security, Marketing. Interest score: 73/100.
+EnergizedProtection/block is an open‑source repository that curates and maintains comprehensive blocklists to eliminate malicious ads, trackers, and other online annoyances, helping users enjoy a cleaner, more secure browsing experience. By providing regularly updated, community‑driven filters, the project supports a safer and more open internet while also offering tools for marketers to ensure their content reaches audiences without intrusive interference.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/EnergizedProtection/block) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/EnergizedProtection/block) · [← Back to Security](./README.md)</sub>

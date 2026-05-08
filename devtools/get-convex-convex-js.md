@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 346 |
-| 🍴 **Forks** | 100 |
+| ⭐ **Stars** | 347 |
+| 🍴 **Forks** | 101 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`convex` `data-loading` `database` `javascript` `realtime-database` `typescript` `websocket`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data
 
 ## 📝 Summary
 
-The get-convex/convex-js project is an open-source, TypeScript/JavaScript client library for Convex, enabling developers to seamlessly interact with Convex databases from their web applications. This library provides a robust and efficient interface for querying, manipulating, and managing data stored in Convex databases. With convex-js, developers can focus on building scalable and data-driven applications with ease.
+The **get-convex/convex-js** library provides a TypeScript/JavaScript client for interacting with Convex, a serverless backend platform. It offers typed API calls, real‑time query subscriptions, and seamless integration with modern front‑end frameworks, making data fetching and mutation straightforward for developers. Ideal for building full‑stack applications, the package includes utilities for authentication, error handling, and offline support.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/get-convex/convex-js) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/get-convex/convex-js) · [← Back to DevTools](./README.md)</sub>

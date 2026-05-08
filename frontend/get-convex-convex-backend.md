@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11.5k |
-| 🍴 **Forks** | 705 |
+| 🍴 **Forks** | 706 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`backend` `convex` `database` `rust` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Convex-backend is an open-source, reactive database designed specifically for app developers. It offers a seamless and intuitive way to manage data in real-time, allowing for efficient and scalable applications. By leveraging its reactive capabilities, developers can create data-driven experiences with ease.
+**get-convex/convex-backend** is an open‑source, real‑time reactive database designed to simplify data handling for modern app developers. It provides seamless synchronization between frontend and backend, offering built‑in query capabilities, live subscriptions, and automatic scaling—all without requiring separate server infrastructure. Ideal for full‑stack projects, it serves as both a dev‑tool and a production‑grade backend solution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/get-convex/convex-backend) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/get-convex/convex-backend) · [← Back to Frontend](./README.md)</sub>

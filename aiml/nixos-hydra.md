@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 342 |
+| 🍴 **Forks** | 343 |
 | 💻 **Language** | PLpgSQL |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the NixOS/hydra project:
-
-Hydra is an open-source, Nix-based continuous build system designed to automate the build and deployment process for software projects. It allows developers to easily manage and reproduce builds, and is particularly well-suited for use in AI/ML and frontend development. By leveraging Nix's package management capabilities, Hydra provides a reliable and reproducible build environment.
+Hydra is an open‑source, Nix‑based continuous integration and build system that automates the compilation, testing, and deployment of software projects. It tracks dependencies precisely using the Nix package manager, enabling reproducible builds, parallel job execution, and detailed reporting of build status across multiple platforms. Maintained by the NixOS community, Hydra serves as a robust backend for CI pipelines while offering a web UI for monitoring and managing builds.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/NixOS/hydra) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NixOS/hydra) · [← Back to AI/ML](./README.md)</sub>

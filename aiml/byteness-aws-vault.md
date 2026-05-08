@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 324 |
-| 🍴 **Forks** | 18 |
+| ⭐ **Stars** | 329 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws` `aws-vault` `cli` `credentials` `iam` `keychain` `mfa` `temporary-credentials`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-ByteNess/aws-vault is an open-source project that securely stores and manages AWS credentials in development environments. This project helps to avoid hardcoding sensitive AWS keys and access tokens, reducing the risk of exposure and unauthorized access. It provides a secure way to manage AWS credentials, making it easier to collaborate and automate development workflows.
+ByteNess/aws‑vault is an open‑source tool that provides a secure vault for storing and retrieving AWS credentials during development. It encrypts credentials locally, integrates with common AWS SDKs and CLI tools, and offers easy role‑assumption and session management, helping developers work safely without exposing secret keys.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/ByteNess/aws-vault) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ByteNess/aws-vault) · [← Back to AI/ML](./README.md)</sub>

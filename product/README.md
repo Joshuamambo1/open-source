@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**8 projects** in this category.
+**9 projects** in this category.
 
 ## Projects
 
@@ -14,8 +14,9 @@
 | 4 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9.1k | Python | 92/100 |
 | 5 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 6.1k | Swift | 87/100 |
 | 6 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 71/100 |
-| 7 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 52/100 |
-| 8 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 43/100 |
+| 7 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 56/100 |
+| 8 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 52/100 |
+| 9 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 43/100 |
 
 ---
 

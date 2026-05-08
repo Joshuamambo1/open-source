@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `markdown` `mcp` `news` `notes` `rag` `revornix`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Revornix is a cutting-edge, open-source AI workspace that streamlines the process of collecting, organizing, and generating knowledge from fragmented inputs. This local-first platform enables users to structure their insights, produce reports with multimedia content, and automate notifications, making it an ideal tool for researchers, writers, and professionals seeking to enhance their productivity and collaboration. By harnessing the power of AI, Revornix empowers users to transform disorganized data into coherent, shareable knowledge.
+Revornix is an open‑source, local‑first AI workspace that lets users gather fragmented inputs, transform them into structured markdown knowledge, and automatically generate rich reports complete with images and podcast‑style audio. The platform also supports automated notifications to deliver the final output, making it a seamless tool for AI‑enhanced information management and reporting.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Qingyon-AI/Revornix) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Qingyon-AI/Revornix) · [← Back to AI/ML](./README.md)</sub>

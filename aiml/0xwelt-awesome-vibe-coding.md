@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 89 |
+| ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `awesome` `awesome-list` `awesome-lists` `chatgpt` `claude` `codeassistant` `coding` `copilot` `cursor` `deepseek` `gemini`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The 0xWelt/Awesome-Vibe-Coding project is an open-source collection of carefully curated coding resources, projects, and tools focused on creating a positive and productive coding experience. This community-driven initiative is dedicated to AI/ML development and aims to provide a comprehensive list of high-quality learning resources and projects for enthusiasts to explore. By sharing knowledge and expertise, the project fosters a collaborative and supportive environment for coders to grow and thrive.
+**0xWelt/Awesome-Vibe-Coding** is a curated collection of open‑source projects, tools, and learning resources that focus on “vibe coding”—the practice of creating expressive, interactive, and aesthetically engaging software experiences. Organized by categories such as AI/ML, visualization, audio, and UI/UX, the repository serves as a go‑to reference for developers looking to explore or contribute to creative coding initiatives that blend technical depth with artistic flair.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/0xWelt/Awesome-Vibe-Coding) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/0xWelt/Awesome-Vibe-Coding) · [← Back to AI/ML](./README.md)</sub>

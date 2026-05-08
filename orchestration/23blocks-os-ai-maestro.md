@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 660 |
+| ⭐ **Stars** | 664 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-communication` `agent-skills` `agentic-ai` `ai-agents` `ai-coding-assistant` `ai-memory` `ai-orchestration` `ai-workforce` `autonomous-agents` `claude-code` `claude-code-plugins` `claude-code-skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the 23blocks-OS/ai-maestro project:
-
-23blocks-OS/ai-maestro is an open-source AI Agent Orchestrator that empowers AI agents with advanced capabilities, including memory search, code graph queries, and agent-to-agent messaging. This platform allows users to manage and control AI agents, such as Claude and Codex, from a centralized dashboard, enabling seamless collaboration and scalability. With 23blocks-OS/ai-maestro, users can effortlessly move agents between computers and locations, streamlining their AI workflows.
+23blocks-OS/ai-maestro is an open‑source AI agent orchestrator that equips agents with advanced “superpowers” such as persistent memory search, code‑graph querying, and inter‑agent messaging. It provides a unified dashboard for managing Claude, Codex, or any compatible AI model, and enables seamless migration of agents across different computers and locations. The project combines orchestration, AI/ML, and a modern frontend to streamline multi‑agent workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/23blocks-OS/ai-maestro) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/23blocks-OS/ai-maestro) · [← Back to Orchestration](./README.md)</sub>

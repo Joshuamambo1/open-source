@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 473 |
+| 🍴 **Forks** | 474 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arduino` `cli` `command-line` `golang` `tooling-team`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The Arduino command line tool, available in the arduino/arduino-cli repository, is an open-source project that enables users to interact with the Arduino platform from the terminal. This tool allows developers to manage their projects, upload code, and monitor their boards using a simple and efficient command-line interface. By utilizing the Arduino CLI, users can streamline their development workflow and enhance productivity.
+Arduino CLI is an open‑source command‑line interface that lets developers compile, upload, and manage Arduino sketches and libraries directly from the terminal. It provides full access to board definitions, core packages, and project configuration, enabling automated workflows, CI/CD pipelines, and integration with IDEs and other development tools. The tool is designed for both hobbyists and professional developers who need a lightweight, scriptable alternative to the graphical Arduino IDE.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/arduino/arduino-cli) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/arduino/arduino-cli) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 262 |
+| ⭐ **Stars** | 264 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arch` `archlinux` `aur` `custom-repository` `manager` `news` `package` `package-management` `package-manager` `packages` `pacman` `pacman-package`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Security
 
 ## 📝 Summary
 
-Pacsea is an open-source, fast Terminal User Interface (TUI) designed for searching, inspecting, and queueing pacman/AUR packages. It provides a convenient and efficient way to manage packages in a terminal environment. This project is suitable for users seeking a streamlined experience for package management and security.
+Firstp1ck/Pacsea is a fast, terminal‑based user interface that lets Arch Linux users search, inspect, and queue both official pacman and AUR packages directly from the command line. Its lightweight design focuses on speed and usability while providing secure handling of package metadata and installation queues. The project is open‑source, making it easy to customize or integrate into other Arch‑related tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Firstp1ck/Pacsea) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Firstp1ck/Pacsea) · [← Back to Frontend](./README.md)</sub>

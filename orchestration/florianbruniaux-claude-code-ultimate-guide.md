@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.2k |
-| 🍴 **Forks** | 550 |
+| 🍴 **Forks** | 555 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-coding` `ai-assistant` `ai-coding` `ai-pair-programming` `ai-security` `anthropic` `best-practices` `claude` `claude-code` `claude-code-guide` `claude-code-tutorial` `cli-tool`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The claude-code-ultimate-guide is an open-source project that serves as a comprehensive resource for mastering Claude Code. This extensive guide covers the spectrum from beginner to advanced user, offering production-ready templates, agentic workflows, and engaging learning materials such as quizzes and a cheatsheet. Whether you're looking to enhance your skills or get started with Claude Code, this guide is a valuable resource for your journey.
+FlorianBruniaux/claude-code-ultimate-guide is a comprehensive, open‑source documentation hub that walks users through Claude Code from basic concepts to advanced, production‑ready implementations. It provides ready‑to‑use templates, detailed walkthroughs of agentic workflows, quizzes, and a concise cheatsheet, making it a practical resource for developers and AI enthusiasts alike.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) · [← Back to Orchestration](./README.md)</sub>

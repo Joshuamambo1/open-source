@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asynchronous` `networking` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Tokio is an open-source, asynchronous runtime for building reliable Rust applications. It offers a comprehensive set of features, including I/O, networking, scheduling, and timers, to help developers create high-performance, concurrent systems. With Tokio, developers can write efficient, scalable, and maintainable asynchronous code.
+Tokio is a high‑performance, lightweight runtime for building reliable asynchronous applications in Rust. It offers a comprehensive set of utilities—including non‑blocking I/O, networking primitives, task scheduling, and timers—enabling developers to write scalable, event‑driven code with minimal overhead. As an open‑source project, Tokio integrates tightly with the Rust ecosystem and serves as the foundation for many modern async Rust libraries and services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/tokio-rs/tokio) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tokio-rs/tokio) · [← Back to Misc](./README.md)</sub>

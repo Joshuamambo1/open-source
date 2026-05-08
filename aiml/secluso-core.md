@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alternative` `blink` `camera` `e2ee` `end-to-end-encrypted` `end-to-end-encryption` `home` `home-security` `ip-camera` `local-ai` `nest` `pi`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-The secluso/core project is an open-source initiative that focuses on developing a privacy-preserving home security camera. This innovative solution utilizes advanced end-to-end encryption to safeguard video feeds and ensure the confidentiality of users' data. By leveraging AI/ML capabilities, secluso/core aims to provide a secure and trustworthy home security experience.
+secluso/core is an open‑source home security camera system that safeguards video streams with robust end‑to‑end encryption, ensuring that footage remains private and inaccessible to unauthorized parties. Leveraging AI/ML for motion detection and intelligent alerts, it provides users with a secure, locally‑processed surveillance solution without sacrificing usability or performance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/secluso/core) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/secluso/core) · [← Back to AI/ML](./README.md)</sub>

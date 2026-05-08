@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 516 |
-| 🍴 **Forks** | 178 |
+| 🍴 **Forks** | 179 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`authentication` `blockchain` `identity`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Security
 
 ## 📝 Summary
 
-The Internet Identity open-source project, developed by Dfinity, is a blockchain-based authentication system designed for the Internet Computer. This secure system enables users to manage their digital identities in a decentralized and private manner, allowing for seamless interactions across various online platforms. By harnessing blockchain technology, Internet Identity provides a robust solution for identity verification and management on the Internet Computer.
+Internet Identity is an open‑source authentication framework for the Internet Computer blockchain that lets users securely log in to dApps without passwords, relying on cryptographic key pairs stored in a user‑controlled wallet. It provides a privacy‑preserving, phishing‑resistant login flow through a simple browser extension or mobile app, enabling developers to integrate strong, decentralized security into their services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/dfinity/internet-identity) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dfinity/internet-identity) · [← Back to Crypto](./README.md)</sub>

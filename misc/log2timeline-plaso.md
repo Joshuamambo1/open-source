@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 413 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`forensics` `parsing` `timeline`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Log2timeline/plaso is an open-source, cross-platform project that enables the creation of timelines from digital evidence. This versatile tool, often used in digital forensics and incident response, can parse various file formats and data sources to reconstruct a comprehensive timeline of events. By automating the evidence collection and processing process, plaso streamlines the analysis of digital data for investigators and security professionals.
+log2timeline/plaso is an open‑source forensic framework that automates the extraction, parsing, and correlation of timestamps from a wide variety of digital artifacts to generate a comprehensive “super timeline.” It supports numerous file formats, operating systems, and data sources, enabling investigators to efficiently reconstruct events across a system’s history. The project is maintained by a community of contributors and is released under an open‑source license.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/log2timeline/plaso) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/log2timeline/plaso) · [← Back to Misc](./README.md)</sub>

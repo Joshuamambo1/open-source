@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 517 |
-| 🍴 **Forks** | 19 |
+| ⭐ **Stars** | 507 |
+| 🍴 **Forks** | 20 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `family` `family-planner` `home-automation` `open-source` `planner-app` `privacy-first` `progressive-web-app` `pwa` `self-hosted` `selfhosted` `selfhosted-apps`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Ulsklyc/oikos is an open-source, self-hosted family planning platform that offers a comprehensive suite of tools, including task management, calendars, shopping lists, meal planning, and budgeting. This decentralized solution empowers users to manage their personal and family data securely on their own servers. By hosting the platform themselves, users maintain complete control over their data and can customize the system to meet their unique needs.
+ulsklyc/oikos is a self‑hosted family planning platform that centralizes tasks, calendars, shopping lists, meal planning, and budgeting in a single web application. Designed for privacy‑conscious households, it stores all data on the user’s own server and provides a flexible backend and DevOps‑ready infrastructure for easy deployment and customization.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ulsklyc/oikos) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ulsklyc/oikos) · [← Back to Backend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 215 |
+| ⭐ **Stars** | 216 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-client-protocol` `agentclientprotocol` `ai` `chatgpt` `claude` `claude-code` `codex` `copilot` `gemini`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the OpenSource03/harnss project:
-
-Harnss is an open-source, desktop client/UI that enables users to harness the power of various AI coding agents, including Claude Code and Codex, in a unified interface. This powerful tool allows users to run multiple agents side by side and integrate with a range of features such as MCP, terminal, Git, and web browser. By providing a comprehensive platform for AI coding, Harnss streamlines development workflows and boosts productivity.
+OpenSource03/harnss is a desktop client that lets you run multiple AI coding agents—such as Claude, Codex, or any service that supports the Agent Client Protocol—side by side with a rich, visual interface. It bundles essential developer tools like a terminal, Git integration, a web browser, and extensible MCP plugins, providing a unified workspace for AI‑assisted development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/OpenSource03/harnss) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/OpenSource03/harnss) · [← Back to AI/ML](./README.md)</sub>

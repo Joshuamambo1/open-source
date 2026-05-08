@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 747 |
+| ⭐ **Stars** | 748 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bot` `discord` `discord-bot-framework` `framework` `hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-SapphireDev's Discord bot framework is an open-source, advanced platform built on discord.js, empowering developers to create remarkable and high-end bots for the Discord community. This comprehensive framework provides a robust foundation for bot development, catering to users of all skill levels. By leveraging its powerful features, developers can craft sophisticated and engaging bots that enhance the Discord experience.
+Sapphire is an open‑source framework that streamlines the development of feature‑rich Discord bots by extending discord.js with reusable components, a powerful command system, and built‑in utilities for permission handling, event routing, and testing. It provides a modular architecture, TypeScript support, and extensive documentation, enabling developers to create advanced, maintainable bots with less boilerplate code.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/sapphiredev/framework) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sapphiredev/framework) · [← Back to Frontend](./README.md)</sub>

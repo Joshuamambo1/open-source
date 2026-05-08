@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14.9k |
+| ⭐ **Stars** | 15k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`feed` `freshrss` `news-aggregator` `php` `rss` `rss-aggregator` `rss-reader` `self-hosted` `websub`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-FreshRSS is a free, self-hostable news aggregator that allows users to collect and organize news feed content from various sources in a single, easily accessible location. This open-source project enables users to take control of their news consumption by hosting their own news aggregator, providing a secure and customizable alternative to commercial services. With FreshRSS, users can easily manage and read news from their favorite sources on their own terms.
+FreshRSS is an open‑source, self‑hosted RSS/Atom feed aggregator that lets users collect, read, and organize news from multiple sources in a clean, responsive web interface. It supports multi‑user accounts, powerful filtering, tagging, and import/export capabilities, while being lightweight, extensible, and easy to install on any standard web server.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/FreshRSS/FreshRSS) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/FreshRSS/FreshRSS) · [← Back to Misc](./README.md)</sub>

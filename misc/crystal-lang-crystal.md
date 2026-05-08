@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Crystal |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `crystal` `crystal-language` `hacktoberfest` `programming-language`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Crystal is an open-source, general-purpose programming language that aims to provide a simple, modern, and high-performance alternative to existing languages. It features a statically typed syntax, low overhead, and seamless interoperation with C code, making it suitable for a wide range of applications, from systems programming to web development. Developed by the Crystal community, the language is designed to be easy to learn and use.
+Crystal is a high‑performance, statically typed programming language with a Ruby‑like syntax that compiles to native machine code via LLVM. It offers fast execution, concurrency primitives, and a rich standard library while maintaining developer-friendly ergonomics. The project is open‑source and serves as the reference implementation of the language.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/crystal-lang/crystal) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/crystal-lang/crystal) · [← Back to Misc](./README.md)</sub>

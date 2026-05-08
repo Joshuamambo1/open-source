@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amqp` `amqp-client` `amqp0-9-1` `async` `hacktoberfest` `messaging` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The lapin project is an open-source, Rust-based AMQP client library that provides a clean and efficient API for interacting with message queues. Utilizing the futures framework, lapin offers a streamlined and asynchronous approach to message processing, making it suitable for real-time data exchange and messaging systems. This library is ideal for developers building scalable and reliable backend applications.
+amqp‑rs/lapin is a Rust implementation of an AMQP client that offers a clean, futures‑based API for interacting with message brokers such as RabbitMQ. It provides a high‑performance, type‑safe abstraction for publishing, consuming, and managing AMQP resources, making asynchronous backend services and tooling easier to build in Rust.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/amqp-rs/lapin) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/amqp-rs/lapin) · [← Back to Backend](./README.md)</sub>

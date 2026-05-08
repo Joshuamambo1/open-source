@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 354 |
+| ⭐ **Stars** | 355 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`github` `github-analytics` `github-stars` `github-stars-history` `github-visualization` `repo-activity` `self-hosted` `stargazers` `stars` `stars-history` `stats`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The daily-stars-explorer project provides a unique perspective on popular open-source GitHub repositories by offering daily star trend insights. This tool allows users to explore the dynamic nature of repository popularity, enabling them to gain a deeper understanding of their favourite projects. By leveraging this data, developers and researchers can identify trends and patterns that inform their own projects and collaborations.
+Daily‑Stars‑Explorer lets you dive into the star‑gazing history of any public GitHub repository, turning raw star counts into clear daily trends and visualizations. By pulling data directly from the GitHub API and applying lightweight analysis, it helps developers and researchers quickly spot growth patterns, seasonal spikes, and long‑term popularity shifts in open‑source projects. The tool is open‑source, easy to run locally, and can be integrated into AI/ML pipelines for further data‑driven insights.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/emanuelef/daily-stars-explorer) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/emanuelef/daily-stars-explorer) · [← Back to AI/ML](./README.md)</sub>

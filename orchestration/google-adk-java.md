@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 337 |
+| 🍴 **Forks** | 340 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic` `agentic-ai` `agentic-workflow` `agents` `agents-sdk` `ai` `ai-agents` `aiagentframework` `genai` `genai-chatbot` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "google/adk-java":
-
-The google/adk-java project is an open-source, code-first Java toolkit that empowers developers to build, evaluate, and deploy sophisticated AI agents with flexibility and control. This versatile platform provides a comprehensive framework for managing AI/ML workflows, streamlining the development process and enabling seamless orchestration of complex AI systems. With adk-java, developers can unlock the full potential of AI and machine learning in their applications.
+google/adk-java is a code‑first Java toolkit that lets developers design, evaluate, and deploy advanced AI agents with fine‑grained control over their behavior and lifecycle. It provides a modular orchestration framework for integrating AI/ML models, managing agent interactions, and exposing front‑end interfaces, making it easy to build sophisticated, production‑ready agent systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/google/adk-java) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/google/adk-java) · [← Back to Orchestration](./README.md)</sub>

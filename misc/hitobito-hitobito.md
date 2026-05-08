@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`club-management` `community` `complex-group-hierarchies` `event-management` `hacktoberfest` `hitobito` `membership-management` `ruby` `user-management` `wagons`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the hitobito/hitobito project:
-
-Hitobito is an open-source web application designed to manage complex group hierarchies, facilitating the organization and coordination of members, events, and various other aspects. This versatile tool is built to cater to the needs of groups seeking robust management and collaboration capabilities. With its feature-rich functionality, hitobito provides an efficient solution for groups of all sizes and types.
+Hitobito is an open‑source web application designed for managing intricate group structures, allowing administrators to organize members, define hierarchies, and coordinate events, communications, and resources within those groups. It offers robust features such as role‑based permissions, customizable fields, and integrated event registration, making it suitable for clubs, associations, and other community‑driven organizations. The platform is built with a focus on flexibility and scalability, supporting complex membership scenarios and a wide range of collaborative activities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hitobito/hitobito) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hitobito/hitobito) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8.7k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dotnet` `java` `javascript` `python` `ruby` `rust` `selenium` `webdriver`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here is a brief summary for the Selenium open-source project:
-
-Selenium is an open-source browser automation framework and ecosystem that enables users to automate web browsers for testing, validation, and data extraction purposes. It supports multiple programming languages and provides a robust set of tools for simulating user interactions, navigating web pages, and verifying webpage functionality. With Selenium, developers can create automated tests that mimic real-user interactions, improving the quality and reliability of their web applications.
+Selenium is an open‑source browser automation framework that enables developers and testers to programmatically control web browsers for functional testing, web scraping, and RPA tasks. It provides language bindings for Java, C#, Python, Ruby, JavaScript, and more, along with a suite of tools (WebDriver, Grid, IDE, and Server) that support parallel execution across multiple browsers and platforms. The project’s ecosystem fosters community‑driven extensions and integrations, making Selenium a foundational tool for cross‑browser testing and automation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/SeleniumHQ/selenium) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/SeleniumHQ/selenium) · [← Back to Misc](./README.md)</sub>

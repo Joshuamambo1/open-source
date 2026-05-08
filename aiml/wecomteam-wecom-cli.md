@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 131 |
+| 🍴 **Forks** | 134 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the WecomTeam/wecom-cli project:
-
-Wecom-cli is an open-source command line tool for the Enterprise WeChat platform, enabling users to interact with WeChat from their terminal. This tool empowers both humans and AI agents to perform operations on Enterprise WeChat, streamlining workflows and promoting efficiency. With wecom-cli, users can automate and manage WeChat interactions from the comfort of their command line interface.
+Wecom‑CLI is a command‑line interface for the WeChat Work (Enterprise WeChat) Open Platform, enabling both humans and AI agents to interact with corporate WeChat services directly from the terminal. It provides a suite of DevTools for sending messages, managing contacts, handling apps, and automating workflow tasks, all via simple CLI commands. The tool is open‑source and designed to streamline enterprise communication and integration within scripts, CI pipelines, and AI‑driven assistants.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/WecomTeam/wecom-cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/WecomTeam/wecom-cli) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `ls` `replacement` `rust` `terminal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The chaqchase/lla project is an open-source, high-performance alternative to the traditional `ls` command. It offers enhanced functionality with "superpowers" tailored for developers, providing an improved experience for navigating and managing files. Lla aims to streamline file system interactions.
+**chaqchase/lla** is an open‑source, high‑performance replacement for the classic `ls` command, offering lightning‑fast directory listings with advanced features such as configurable output formats, colorized views, git‑aware status, and customizable filters. Designed for developers and power users, it integrates seamlessly into any Unix‑like workflow while delivering the speed and flexibility needed for modern codebases.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/chaqchase/lla) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/chaqchase/lla) · [← Back to DevTools](./README.md)</sub>

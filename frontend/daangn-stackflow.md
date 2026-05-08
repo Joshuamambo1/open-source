@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`framework` `mobile` `navigator` `plugin` `react` `stack` `system` `typescript` `webview`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Daangn/Stackflow is an open-source, mobile-first stack navigator framework designed for frontend development. It features a composable plugin system, allowing for flexible and customizable navigation between app screens. This framework enables developers to create seamless and efficient navigation experiences for their mobile applications.
+daangn/stackflow is a mobile‑first navigation framework that provides a stack‑based router for React Native apps. Its composable plugin architecture lets developers extend routing behavior, handle deep linking, animations, and state management without tightly coupling to the core navigator. The library focuses on a declarative, type‑safe API that simplifies building complex, multi‑screen mobile experiences.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/daangn/stackflow) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/daangn/stackflow) · [← Back to Frontend](./README.md)</sub>

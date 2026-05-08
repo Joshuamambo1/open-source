@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7k |
-| 🍴 **Forks** | 1k |
+| ⭐ **Stars** | 7.1k |
+| 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `agents` `ai` `clawdbot` `moltbot` `openclaw` `skill`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the ClawX project:
-
-ClawX is an open-source desktop application that simplifies the management of OpenClaw AI agents through a user-friendly graphical interface. By eliminating the need for terminal-based orchestration, ClawX provides a more accessible experience for users to interact with and control AI agents. This tool is ideal for developers and practitioners working with AI/ML and orchestration workflows.
+ClawX is an open‑source desktop application that gives users a graphical front‑end for managing OpenClaw AI agents, converting the typical command‑line orchestration workflow into a point‑and‑click experience. It streamlines AI/ML orchestration, dev‑tool integration, and workflow monitoring without requiring any terminal interaction, and is available internationally (with a Chinese site at https://clawx.com.cn).
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ValueCell-ai/ClawX) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ValueCell-ai/ClawX) · [← Back to Orchestration](./README.md)</sub>

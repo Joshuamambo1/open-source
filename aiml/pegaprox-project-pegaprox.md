@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 71 |
+| 🍴 **Forks** | 74 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`backup-management` `cluster-management` `container-management` `datacenter` `high-availability` `load-balancing` `monitoring` `multi-cluster` `proxmox` `proxmox-ve` `self-hosted` `sysadmin`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-PegaProx is an open-source datacenter management solution designed for Proxmox VE and XCP-NG. It offers unified multi-cluster control, intelligent load balancing, and seamless cross-cluster virtual machine migrations, all accessible through a user-friendly interface. This comprehensive platform aims to streamline datacenter management and improve efficiency.
+PegaProx is an open‑source datacenter management platform designed for Proxmox VE and XCP‑NG environments. It provides a unified web interface that lets administrators control multiple clusters, balance workloads intelligently, and perform seamless cross‑cluster VM migrations. The solution combines advanced automation with a clean UI to simplify large‑scale virtualization management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/PegaProx/project-pegaprox) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/PegaProx/project-pegaprox) · [← Back to AI/ML](./README.md)</sub>

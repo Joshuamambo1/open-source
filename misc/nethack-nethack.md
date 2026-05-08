@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 562 |
+| 🍴 **Forks** | 570 |
 | 💻 **Language** | C |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `game` `roguelike`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-NetHack is a popular open-source roguelike dungeon crawler game where players navigate procedurally generated levels, fighting monsters and collecting treasure. This official Git repository hosts the game's source code, allowing developers to contribute and modify the game. NetHack is a classic and highly customizable experience for fans of roguelikes and dungeon crawling.
+NetHack is a classic, open‑source roguelike adventure game where players explore a deep, procedurally generated dungeon filled with monsters, traps, and treasure. This repository hosts the official source code, build scripts, and documentation, enabling developers and enthusiasts to compile, modify, and contribute to the game’s ongoing development. It serves as the central hub for maintaining the classic gameplay experience while supporting community‑driven enhancements and platform ports.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/NetHack/NetHack) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NetHack/NetHack) · [← Back to Misc](./README.md)</sub>

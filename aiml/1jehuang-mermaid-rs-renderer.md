@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 52 |
+| 🍴 **Forks** | 53 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `diagram` `flowchart` `mermaid` `rust` `svg`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-This open-source project, Mermaid-rs-renderer, is a high-performance, native Rust renderer for Mermaid diagrams that can function without a browser, significantly outpacing other rendering tools like mermaid-cli with speeds up to 1000x faster. This project is ideal for AI/ML and frontend developers who require efficient rendering of complex diagrams. By leveraging Rust, it offers a fast and powerful solution for generating Mermaid diagrams.
+**mermaid‑rs‑renderer** is a high‑performance native Rust library that renders Mermaid diagrams directly on the command line—eliminating the need for a browser or Node.js runtime. By leveraging Rust’s speed, it can generate diagrams 500–1000× faster than the standard `mermaid-cli`, making it ideal for CI pipelines, static site generators, and other developer tooling. The project is open‑source and positioned at the intersection of AI/ML, frontend visualization, and dev‑tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/1jehuang/mermaid-rs-renderer) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/1jehuang/mermaid-rs-renderer) · [← Back to AI/ML](./README.md)</sub>

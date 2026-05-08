@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 758 |
-| 🍴 **Forks** | 147 |
+| ⭐ **Stars** | 760 |
+| 🍴 **Forks** | 148 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a` `agent` `agent-os` `agent-sandbox` `agentic` `agentic-rag` `agentos` `application` `chatbot` `mcp` `rag` `skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the nuwax-ai/nuwax project:
-
-Nuwax is an open-source, universal agent operating system that enables users to create private, vertical general-purpose agents without coding. This platform provides a comprehensive development environment for designing, building, and deploying AI applications, with features like workflow management, plugin support, and data storage capabilities. Designed for ease of use, Nuwax is accessible to a wide range of users and supports multi-platform deployment and API integration.
+Nuwax Agent OS is an open‑source, universal agent operating system that lets anyone build a private, vertical‑focused general‑purpose AI agent without writing code. It provides a full‑stack platform for designing, developing, and deploying AI applications across multiple devices and APIs, featuring workflow and plugin support, RAG‑enabled knowledge bases, data‑table storage, MCP integration, and extensible open APIs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nuwax-ai/nuwax) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nuwax-ai/nuwax) · [← Back to AI/ML](./README.md)</sub>

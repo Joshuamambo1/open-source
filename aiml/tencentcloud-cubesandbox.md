@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5k |
-| 🍴 **Forks** | 358 |
+| ⭐ **Stars** | 5.2k |
+| 🍴 **Forks** | 370 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `container` `sandbox`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the TencentCloud/CubeSandbox project:
-
-CubeSandbox is an open-source, instant, concurrent, secure, and lightweight sandbox solution designed for AI agents. This platform provides a safe and efficient environment for AI agents to operate, allowing for real-time testing and validation without compromising system security. By utilizing CubeSandbox, developers can accelerate AI development and deployment while ensuring the integrity of their systems.
+TencentCloud CubeSandbox is an open‑source framework that provides an instant, concurrent, and secure sandbox environment for deploying AI agents. It isolates each agent in a lightweight container, enabling safe execution of multiple models simultaneously while protecting host resources and data. Designed for AI/ML workloads, CubeSandbox simplifies scaling, testing, and integration of intelligent services in production.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/TencentCloud/CubeSandbox) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/TencentCloud/CubeSandbox) · [← Back to AI/ML](./README.md)</sub>

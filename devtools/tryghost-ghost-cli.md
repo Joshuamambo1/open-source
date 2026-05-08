@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 489 |
+| ⭐ **Stars** | 490 |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blogging` `cli` `cms` `ghost` `ghost-cli` `hacktoberfest` `headless-cms` `jamstack` `javascript` `journalism` `nodejs` `publishing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Ghost-CLI is an open-source command-line interface (CLI) tool for managing Ghost installations. It provides a streamlined experience for installing and updating Ghost on your local machine or server, making it easier to get started with the popular blogging platform. With Ghost-CLI, developers and bloggers alike can effortlessly set up and maintain their Ghost sites.
+TryGhost / Ghost‑CLI is a command‑line utility that simplifies the installation, configuration, and ongoing maintenance of the Ghost publishing platform. It automates tasks such as setting up a new Ghost instance, managing updates, handling environment variables, and configuring services (e.g., systemd, nginx), making it easier for developers and sysadmins to deploy and keep Ghost sites running smoothly.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/TryGhost/Ghost-CLI) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/TryGhost/Ghost-CLI) · [← Back to DevTools](./README.md)</sub>

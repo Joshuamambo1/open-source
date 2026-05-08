@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 423 |
-| 🍴 **Forks** | 58 |
+| ⭐ **Stars** | 431 |
+| 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-agents` `chatops` `claude` `claude-code` `codex` `devtools` `discord-bot` `lark-bot` `llm` `opencode`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The vibe-remote project is an open-source initiative that enables remote management of AI agent armies from popular messaging platforms, including Slack, Discord, Telegram, WeChat, and Lark. This project allows users to stream AI code from services such as Claude Code, OpenCode, and Codex in real-time, facilitating seamless collaboration and development from anywhere. The vibe-remote project aims to bridge the gap between developers and AI-powered tools.
+Vibe‑Remote is an open‑source framework that lets you deploy and control a fleet of AI agents (Claude, OpenCode, Codex, etc.) from popular messaging platforms such as Slack, Discord, Telegram, WeChat, and Lark. It streams code generation and execution in real time, enabling collaborative development and automation directly within your chat environment. The project is geared toward AI/ML teams looking to integrate powerful language‑model assistants into their existing communication workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/cyhhao/vibe-remote) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cyhhao/vibe-remote) · [← Back to AI/ML](./README.md)</sub>

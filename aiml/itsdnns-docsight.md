@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 232 |
+| ⭐ **Stars** | 234 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cable-modem` `docker` `docsis` `flask` `fritzbox` `home-assistant` `homelab` `internet-monitoring` `monitoring` `mqtt` `network-monitoring` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The itsDNNS/docsight project is an open-source, self-hosted platform designed to aid in the documentation and resolution of cable signal and ISP-related issues. It provides a centralized system for tracking incidents, monitoring signal health, and generating complaint-ready exports, making it a valuable tool for users seeking to resolve connectivity problems. By using this platform, users can collect and analyze evidence to support their claims, facilitating more effective issue resolution.
+itsDNNS/docsight is an open‑source, self‑hosted platform that records and visualizes DOCSIS signal data to help users document cable‑modem issues and ISP performance problems. It logs incidents, monitors signal health metrics, and generates exportable reports that are ready for filing complaints or troubleshooting with service providers. The tool is built for developers and infrastructure teams, leveraging AI/ML techniques for automated analysis and streamlined DevOps deployment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/itsDNNS/docsight) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/itsDNNS/docsight) · [← Back to AI/ML](./README.md)</sub>

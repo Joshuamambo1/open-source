@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 721 |
-| 🍴 **Forks** | 73 |
+| ⭐ **Stars** | 745 |
+| 🍴 **Forks** | 77 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amp` `claude` `codex` `gemini` `ghostty` `macos` `multiplexer` `opencode` `temux` `terminal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The muxy-app/muxy project is an open-source, lightweight terminal for Mac that prioritizes memory efficiency. Built using SwiftUI and libghostty, it provides a smooth and responsive experience. This terminal is designed to offer an optimal blend of performance and usability for Mac users.
+Muxy is a lightweight, memory‑efficient terminal emulator for macOS, crafted with SwiftUI and powered by the libghostty rendering engine. It offers a modern, native user interface while maintaining low resource usage, making it ideal for developers who need a fast, responsive command‑line experience. The project is open‑source and focuses on frontend usability and performance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/muxy-app/muxy) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/muxy-app/muxy) · [← Back to Frontend](./README.md)</sub>

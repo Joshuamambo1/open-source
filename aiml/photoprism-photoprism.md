@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `golang` `google-photos` `machine-learning` `photography` `private-cloud` `self-hosted` `tensorflow`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Photoprism is an open-source, AI-powered photos app designed for the decentralized web. It utilizes machine learning capabilities to provide a robust and feature-rich photo management experience. By leveraging AI, Photoprism aims to revolutionize the way users organize, edit, and share their digital memories on the web.
+Photoprism is an open‑source, AI‑driven photo management application designed for the decentralized web. It automatically indexes, categorizes, and enhances images using machine‑learning models, offering powerful search, facial recognition, and metadata extraction while keeping all data under the user’s control. Ideal for personal photo libraries, teams, or self‑hosted cloud environments, Photoprism combines privacy‑focused storage with modern, web‑based UI features.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/photoprism/photoprism) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/photoprism/photoprism) · [← Back to AI/ML](./README.md)</sub>

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2419** |
+| 🗂️ **Total projects** | **2459** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 937 | [Browse →](./aiml/) |
-| 📦 **Misc** | 396 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 243 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 231 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 125 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 123 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 953 | [Browse →](./aiml/) |
+| 📦 **Misc** | 404 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 250 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 235 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 127 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 125 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 100 | [Browse →](./crypto/) |
 | 📊 **Data** | 64 | [Browse →](./data/) |
 | 💳 **Payments** | 60 | [Browse →](./payments/) |
 | 📈 **Trading** | 41 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 37 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 28 | [Browse →](./mobile/) |
-| 🔐 **Security** | 18 | [Browse →](./security/) |
+| 🔐 **Security** | 19 | [Browse →](./security/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
 | ✨ **Design** | 6 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [owncast/owncast](./misc/owncast-owncast.md) | ⭐ 11.2k | Misc |
-| 2 | [sickn33/antigravity-awesome-skills](./orchestration/sickn33-antigravity-awesome-skills.md) | ⭐ 36.8k | Orchestration |
-| 3 | [musescore/MuseScore](./aiml/musescore-musescore.md) | ⭐ 14.5k | AI/ML |
-| 4 | [Graylog2/graylog2-server](./backend/graylog2-graylog2-server.md) | ⭐ 8k | Backend |
-| 5 | [ludwig-ai/ludwig](./aiml/ludwig-ai-ludwig.md) | ⭐ 11.7k | AI/ML |
-| 6 | [karatelabs/karate](./backend/karatelabs-karate.md) | ⭐ 8.9k | Backend |
-| 7 | [documenso/documenso](./security/documenso-documenso.md) | ⭐ 12.8k | Security |
-| 8 | [f/prompts.chat](./aiml/f-prompts.chat.md) | ⭐ 161.8k | AI/ML |
-| 9 | [modelscope/ms-swift](./aiml/modelscope-ms-swift.md) | ⭐ 14k | AI/ML |
-| 10 | [micro-editor/micro](./frontend/micro-editor-micro.md) | ⭐ 28.6k | Frontend |
+| 1 | [ValueCell-ai/ClawX](./orchestration/valuecell-ai-clawx.md) | ⭐ 7.1k | Orchestration |
+| 2 | [FreshRSS/FreshRSS](./misc/freshrss-freshrss.md) | ⭐ 15k | Misc |
+| 3 | [photoprism/photoprism](./aiml/photoprism-photoprism.md) | ⭐ 39.6k | AI/ML |
+| 4 | [humhub/humhub](./aiml/humhub-humhub.md) | ⭐ 6.7k | AI/ML |
+| 5 | [SeleniumHQ/selenium](./misc/seleniumhq-selenium.md) | ⭐ 34.1k | Misc |
+| 6 | [owncast/owncast](./misc/owncast-owncast.md) | ⭐ 11.2k | Misc |
+| 7 | [sickn33/antigravity-awesome-skills](./orchestration/sickn33-antigravity-awesome-skills.md) | ⭐ 36.8k | Orchestration |
+| 8 | [Graylog2/graylog2-server](./backend/graylog2-graylog2-server.md) | ⭐ 8k | Backend |
+| 9 | [musescore/MuseScore](./aiml/musescore-musescore.md) | ⭐ 14.5k | AI/ML |
+| 10 | [ludwig-ai/ludwig](./aiml/ludwig-ai-ludwig.md) | ⭐ 11.7k | AI/ML |
 
 ## 🚀 How it works
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 711 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Crates.io is the official package registry for the Rust programming language, providing a centralized platform for users to discover, download, and manage Rust packages. It serves as a crucial resource for the Rust community, allowing developers to easily find and integrate third-party libraries and tools into their projects. With a vast collection of packages, crates.io facilitates the growth and adoption of Rust as a versatile and widely-used programming language.
+crates.io is the official package registry for the Rust programming language, providing a centralized platform where developers can publish, discover, and manage Rust libraries (crates). It offers a web interface and a Cargo client integration for searching, versioning, and retrieving dependencies, while also handling authentication, metadata, and download statistics. The open‑source project maintains the backend services, API, and UI that power this essential ecosystem resource.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rust-lang/crates.io) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rust-lang/crates.io) · [← Back to Misc](./README.md)</sub>

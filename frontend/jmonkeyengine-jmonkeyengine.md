@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`game-engine-3d` `hacktoberfest` `java` `jme3` `jmonkeyengine` `jmonkeyengine3`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The jMonkeyEngine project is an open-source, Java-based 3D game development suite that provides a comprehensive set of tools and features for creating immersive, high-quality games. With its robust API and extensive community support, jMonkeyEngine enables developers to create complex 3D scenes, animations, and game logic with ease. This flexible platform is ideal for both beginners and experienced developers looking to build engaging 3D games.
+jMonkeyEngine (jmonkeyengine) is a fully-featured, open‑source 3‑D game development suite built entirely in Java, offering a high‑performance scene graph, physics integration, and extensive rendering capabilities. Designed for rapid prototyping and production‑grade games, it provides cross‑platform support, a vibrant community, and tools for assets, networking, and scripting.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/jMonkeyEngine/jmonkeyengine) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jMonkeyEngine/jmonkeyengine) · [← Back to Frontend](./README.md)</sub>

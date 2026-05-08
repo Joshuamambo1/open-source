@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`digital-signature` `document-signing` `docusign-alternative` `e-signature` `esign` `esignature` `next-auth` `nextjs` `open-source` `pades-standard` `pdf` `pdf-sign`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-Documenso is an open-source alternative to DocuSign, offering a secure digital signing solution for electronic documents. By providing a free and customizable platform, Documenso aims to reduce reliance on proprietary services and promote digital transformation in various industries. This project prioritizes security, making it a viable option for organizations seeking a reliable and cost-effective digital signing solution.
+Documenso is an open‑source platform that offers a self‑hosted alternative to DocuSign for creating, signing, and managing digital documents securely. Built with a focus on privacy and extensibility, it provides role‑based access controls, audit trails, and customizable workflows for teams that need trustworthy electronic signatures.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/documenso/documenso) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/documenso/documenso) · [← Back to Security](./README.md)</sub>

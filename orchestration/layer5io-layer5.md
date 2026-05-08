@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud` `cloud-native` `cncf` `configuration-management` `design-patterns` `design-system` `gatsbyjs` `hacktoberfest` `internship` `kanvas` `kubernetes` `lfx`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · DevOps/Infra · Design
 
 ## 📝 Summary
 
-Layer5 is an open-source project that enables users to expect more from their infrastructure by providing a comprehensive orchestration platform. It offers design and DevOps/infrastructure management capabilities, empowering users to manage their infrastructure with greater flexibility and control. This project is ideal for those seeking to optimize their infrastructure setup and streamline their DevOps processes.
+Layer5 is an open‑source platform that extends the capabilities of modern infrastructure by providing a suite of tools for service mesh management, micro‑service observability, and cloud‑native application design. It offers a unified control plane for orchestrating, monitoring, and securing distributed workloads across Kubernetes and other environments, helping DevOps and design teams streamline operations and accelerate delivery.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/layer5io/layer5) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/layer5io/layer5) · [← Back to Orchestration](./README.md)</sub>

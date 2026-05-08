@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 528 |
-| 🍴 **Forks** | 133 |
+| ⭐ **Stars** | 534 |
+| 🍴 **Forks** | 134 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-driven-work` `ai-native-development` `bkit` `claude-code` `multi-language` `pdca` `pipeline` `plugin-repo`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-The bkit Vibecoding Kit is an open-source project that combines the PDCA (Plan-Do-Check-Act) methodology with Claude Code mastery to facilitate AI-native development. This project empowers developers to master AI development using Claude Code, a powerful tool for building AI models. By leveraging the PDCA approach, developers can streamline their workflow and create more effective AI solutions.
+The **bkit‑Claude‑Code** repository is an open‑source “Vibecoding” kit that combines the PDCA (Plan‑Do‑Check‑Act) development methodology with Claude‑powered code generation to streamline AI‑native software creation. It provides tools, templates, and best‑practice workflows that let developers quickly prototype, iterate, and refine code using Claude’s large‑language‑model capabilities, facilitating rapid, quality‑focused AI development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/popup-studio-ai/bkit-claude-code) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/popup-studio-ai/bkit-claude-code) · [← Back to AI/ML](./README.md)</sub>

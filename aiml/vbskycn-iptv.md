@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.1k |
-| 🍴 **Forks** | 855 |
+| 🍴 **Forks** | 859 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The 'vbskycn/iptv' project is an open-source repository that curates the latest IPTV streaming sources, supporting both IPv4 and IPv6 access. This collection of live TV channels offers a convenient solution for users to access their favorite TV shows and programs on various devices. It's ideal for developers and users looking for a straightforward way to integrate live TV streaming capabilities into their applications.
+The **vbskycn/iptv** repository provides a curated collection of up‑to‑date IPTV live‑stream URLs that work over both IPv4 and IPv6, allowing seamless access from any network. It includes ready‑to‑use playlists compatible with a wide range of TV, desktop, and mobile IPTV applications, so users can simply download and start watching live television immediately.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/vbskycn/iptv) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/vbskycn/iptv) · [← Back to AI/ML](./README.md)</sub>

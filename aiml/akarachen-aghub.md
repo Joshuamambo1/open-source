@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 199 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 208 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `assistant` `claude-code` `configuration-management` `cursor` `developer-tools` `gemini-cli` `mcp` `opencode` `windsurf`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-aghub is an open-source project that serves as a unified hub for managing configurations across multiple AI and machine learning coding assistants. With support for over 22+ assistants, aghub simplifies the process of setting up and switching between different AI coding tools, making it an essential tool for developers and data scientists. This project aims to streamline AI development workflows by providing a centralized management platform.
+AkaraChen/aghub is an open‑source hub that centralizes the configuration and management of more than 22 AI coding assistants, providing a unified interface for setup, deployment, and interaction. By standardizing prompts, environment variables, and runtime settings, it streamlines the integration of multiple AI agents into development workflows, making it easier for developers to switch or combine assistants without reinventing configuration logic.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/AkaraChen/aghub) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/AkaraChen/aghub) · [← Back to AI/ML](./README.md)</sub>

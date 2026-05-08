@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deepseek-r1` `embedding` `grpo` `internvl` `liger` `llama` `llama4` `llm` `lora` `megatron` `moe` `multimodal`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Modelscope/ms-swift is an open-source project that enables the conversion of large language models (LLMs) from various frameworks to compatible formats, including CPT/SFT/DPO/GRPO. This allows users to easily leverage over 600+ LLMs and 300+ medium-sized LLMs across multiple models, including Qwen3.6, DeepSeek-R1, and InternLM3, among others. The project is particularly relevant to AI/ML researchers and developers who require flexible and efficient model deployment.
+models​cope/ms‑swift is an open‑source toolkit that streamlines parameter‑efficient fine‑tuning (PEFT) and full‑parameter training for a wide range of large language models (LLMs) and multimodal LLMs. It supports over 600 LLMs—including Qwen 3.6, DeepSeek‑R1, GLM‑5.1, InternLM‑3, Llama 4—and more than 300 multimodal models such as Qwen‑3‑VL, InternVL‑3.5, Ovis 2.5, GLM 4.5v, Gemma 4, Llava, and Phi‑4, offering CPT, SFT, DPO, and GRPO training pipelines. The project targets researchers and developers who need a unified, scalable solution for state‑of‑the‑art model adaptation, as presented in AAAI 2025.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/modelscope/ms-swift) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/modelscope/ms-swift) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 355 |
+| ⭐ **Stars** | 356 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cybersecurity` `hacking` `infosec` `iot` `opsec` `osint` `pentest` `pentesting` `security` `security-scanner` `shodan` `shodan-dorks`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The dootss/shodan-dorks project is an open-source, auto-updating repository of Shodan dorks, providing users with a comprehensive list of search queries and their corresponding result counts. This collection of dorks can be a valuable resource for security researchers, penetration testers, and developers looking to explore the Shodan search engine. By offering an up-to-date and easily accessible list, this project simplifies the process of finding relevant search queries for various purposes.
+dootss/shodan-dorks is an open‑source repository that maintains a continuously updated collection of Shodan search queries (dorks), each annotated with the approximate number of results they yield. Designed for developers and security professionals, the project provides a ready‑to‑use reference for quickly discovering exposed devices, services, and vulnerabilities across the internet. It streamlines reconnaissance by automating the tracking of dork effectiveness and keeping the list current with minimal effort.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/dootss/shodan-dorks) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dootss/shodan-dorks) · [← Back to DevTools](./README.md)</sub>

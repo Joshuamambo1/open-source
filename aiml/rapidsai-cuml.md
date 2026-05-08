@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 623 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cuda` `gpu` `machine-learning` `machine-learning-algorithms` `nvidia`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-cuML is an open-source, GPU-accelerated machine learning library developed by RAPIDS, providing a high-performance alternative to traditional CPU-based machine learning libraries. It offers a range of algorithms and tools for data analysis, modeling, and optimization, enabling users to speed up their machine learning workflows. cuML seamlessly integrates with popular data science frameworks, empowering data scientists to unlock the full potential of their GPU hardware.
+cuML is a GPU-accelerated machine‑learning library that forms part of the RAPIDS suite, offering fast, scalable implementations of common algorithms such as linear models, clustering, dimensionality reduction, and nearest‑neighbors. By leveraging NVIDIA CUDA, cuML enables data scientists and engineers to run ML workloads directly on the GPU, dramatically reducing training and inference times while integrating seamlessly with the broader RAPIDS ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rapidsai/cuml) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rapidsai/cuml) · [← Back to AI/ML](./README.md)</sub>

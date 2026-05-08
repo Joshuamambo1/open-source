@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.1k |
-| 🍴 **Forks** | 781 |
+| 🍴 **Forks** | 782 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the LobsterAI project:
-
-LobsterAI is an open-source, all-scenario AI agent that provides 24/7 assistance, enabling users to automate tasks and streamline their workflows. This versatile AI agent utilizes machine learning to learn and adapt to various tasks, making it a valuable tool for individuals and organizations seeking to optimize efficiency. With LobsterAI, users can automate repetitive tasks and focus on more strategic and creative endeavors.
+LobsterAI is an open‑source, always‑on AI agent designed to handle a wide range of tasks across various scenarios, automating routine work and boosting productivity. Built on modern AI/ML techniques, it integrates seamlessly with everyday workflows, allowing users to delegate repetitive or complex operations to a reliable, self‑sufficient assistant.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/netease-youdao/LobsterAI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/netease-youdao/LobsterAI) · [← Back to AI/ML](./README.md)</sub>

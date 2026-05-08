@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.9k |
+| ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 652 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`airport` `best-nodes` `china-censorship` `clash` `clash-config` `free-proxies` `freeairport` `freenodes` `gfw` `node` `nodes` `proxies`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-V2RayAggregator is an open-source project that aggregates a large number of Shadowsocks, ShadowsocksR, Trojan, and Vmess nodes from public sources. It utilizes AI/ML capabilities to analyze and filter the nodes based on their speed, ensuring users can connect to the fastest and most reliable nodes. This project aims to provide a convenient and efficient way to access public VPN services.
+MahdiBland’s **V2RayAggregator** is an open‑source tool that automatically gathers public proxy nodes—including Shadowsocks, ShadowsocksR, Trojan, and Vmess—from various online sources, then evaluates and ranks them by connection speed. By filtering out slower or unreliable endpoints, it provides users with a curated list of high‑performance nodes ready for integration with V2Ray or compatible clients. The project leverages simple AI‑driven heuristics for speed testing and selection, making it a handy utility for anyone needing fast, up‑to‑date proxy configurations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/mahdibland/V2RayAggregator) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mahdibland/V2RayAggregator) · [← Back to AI/ML](./README.md)</sub>

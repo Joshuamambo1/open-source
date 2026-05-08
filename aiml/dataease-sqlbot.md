@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6k |
-| 🍴 **Forks** | 706 |
+| 🍴 **Forks** | 708 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chatbi` `deepseek` `llm` `nl2sql` `rag` `sqlbot` `text-to-sql` `text2sql`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the dataease/SQLBot project:
-
-Dataease's SQLBot is an open-source intelligent questioning system that leverages large language models and Retrieval-Augmented Generation (RAG) for text-to-SQL generation. This innovative tool enables users to interactively analyze data through natural language queries, making complex data analysis more accessible and user-friendly. By harnessing the power of AI and ML, SQLBot streamlines the process of extracting insights from data.
+DataEase SQLBot is an open‑source, conversational data‑analysis tool that leverages large language models (LLMs) with Retrieval‑Augmented Generation (RAG) to translate natural‑language questions into executable SQL queries. By integrating a RAG pipeline, the system can retrieve relevant schema and context information to improve the accuracy of Text‑to‑SQL generation, making it a powerful assistant for interactive data exploration. It targets AI/ML and data‑driven applications, providing a ready‑to‑use framework for building intelligent, chat‑based query interfaces.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/dataease/SQLBot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dataease/SQLBot) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 339 |
-| 🍴 **Forks** | 59 |
+| ⭐ **Stars** | 351 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents-sdk` `ai` `ai-agents` `ai-tools` `anthropic` `chatgpt` `claude` `claude-code` `claude-opus-4-6` `cursor` `developer-tools` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the open-source project:
-
-Entroly-Daemon is an open-source, self-evolving daemon designed to compress large token repositories into a streamlined context for AI/ML development. By reducing token count by up to 95%, this daemon is optimized for use with popular AI tools such as Cursor, Claude Code, Opus, Codex, GPT, and Copilot. This project enables Principal Engineers to work more efficiently with their AI models.
+Entroly‑Daemon is an open‑source, self‑evolving service that compresses massive codebases (up to 2 million tokens) into a compact “Principal Engineer” context, reducing token usage by 85‑99% while preserving 100% accuracy as proven by live API benchmarks. It works seamlessly with major AI code‑completion providers such as Cursor, Claude, Opus, Codex, GPT, and custom back‑ends, offering both frontend and backend integration. The project is designed for developers who need ultra‑efficient, high‑fidelity context windows for large repositories.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/juyterman1000/entroly) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/juyterman1000/entroly) · [← Back to AI/ML](./README.md)</sub>

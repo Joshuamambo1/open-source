@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`banking` `core-banking` `ddd` `defi` `event-sourcing` `fintech` `graphql` `iso20022` `laravel` `open-banking` `payments` `php`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Payments
 
 ## 📝 Summary
 
-FinAegis/core-banking-prototype-laravel is an open-source core banking platform built using Laravel 12 and PHP 8.4, featuring 56 DDD (Domain-Driven Design) modules, event sourcing, CQRS (Command Query Responsibility Segregation), and GraphQL APIs. This comprehensive platform also supports x402 payments, enabling secure and efficient financial transactions. It is designed to be a robust foundation for developing modern banking systems.
+FinAegis /Core‑Banking‑Prototype‑Laravel is an open‑source core‑banking platform built with Laravel 12 and PHP 8.4, showcasing a clean Domain‑Driven Design architecture across 56 modules. It combines event sourcing, CQRS, GraphQL APIs and integrated x402 payment processing, making it a robust foundation for crypto‑focused and traditional payment applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/FinAegis/core-banking-prototype-laravel) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/FinAegis/core-banking-prototype-laravel) · [← Back to Crypto](./README.md)</sub>

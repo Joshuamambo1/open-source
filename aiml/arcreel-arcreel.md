@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 442 |
+| 🍴 **Forks** | 448 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-video-generator` `claude-agent-sdk` `docker` `gemini` `grok` `image-to-video` `nano-banana-2` `openai` `openclaw` `seedance` `seedream`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the ArcReel project:
-
-ArcReel is an open-source video production workspace driven by AI Agents, leveraging cutting-edge technologies such as Nano Banana 2, Veo 3.1, Grok, Seedance, and OpenAI. This innovative platform automates the video creation process, from novel to script development, scene design, and video production, ensuring seamless consistency across shots and scenes. By harnessing the power of AI, ArcReel streamlines the video production workflow, enabling creators to bring their visions to life more efficiently.
+ArcReel is an open‑source AI‑powered video creation platform that transforms a novel’s text into fully realized characters, scenes, props, scripts, storyboards, and final video output. By orchestrating AI agents such as Nano Banana 2, Veo 3.1, Grok, Seedance, and OpenAI models, it ensures consistent visual elements across shots and streamlines the end‑to‑end production pipeline. The project combines AI/ML techniques with DevOps‑style infrastructure to provide a collaborative, extensible workspace for automated video generation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ArcReel/ArcReel) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ArcReel/ArcReel) · [← Back to AI/ML](./README.md)</sub>

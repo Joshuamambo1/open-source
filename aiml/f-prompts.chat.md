@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 161.6k |
+| ⭐ **Stars** | 161.8k |
 | 🍴 **Forks** | 21.1k |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `artificial-intelligence` `awesome-list` `chatgpt` `chatgpt-prompts` `claude` `gemini` `gpt` `gpt-4` `llm` `machine-learning` `nextjs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-f/prompts.chat is an open-source project that allows users to share, discover, and collect prompts for AI models, particularly those utilizing the ChatGPT technology. This free and community-driven platform provides a private space for organizations to host and manage their own prompts, ensuring complete control over their data. By leveraging this project, users can curate and utilize a wide range of prompts, fostering innovation in the field of AI and machine learning.
+f/prompts.chat (formerly Awesome ChatGPT Prompts) is an open‑source platform that lets users share, discover, and organize ChatGPT prompts contributed by the community. It offers a self‑hosted solution so organizations can run the service privately, ensuring full control over data and customization. Ideal for teams and developers looking to build a curated prompt library with complete privacy.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/f/prompts.chat) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/f/prompts.chat) · [← Back to AI/ML](./README.md)</sub>

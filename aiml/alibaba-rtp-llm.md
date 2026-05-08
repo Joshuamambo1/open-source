@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 180 |
+| 🍴 **Forks** | 183 |
 | 💻 **Language** | Cuda |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gpt` `inference` `llama` `llm` `llm-serving` `llmops` `model-serving`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the RTP-LLM project:
-
-RTP-LLM is an open-source, high-performance large language model (LLM) inference engine developed by Alibaba, designed to accelerate diverse AI and machine learning applications. This engine is optimized for efficient inference, enabling rapid processing of complex language tasks. By leveraging RTP-LLM, developers can unlock the full potential of LLMs in various applications, from chatbots to text generation.
+RTP‑LLM is Alibaba’s open‑source, high‑performance inference engine designed to accelerate large language models across a wide range of applications. It provides optimized kernels, scalable deployment, and low‑latency serving capabilities, enabling developers to run LLMs efficiently on diverse hardware configurations. The project is targeted at AI/ML practitioners seeking fast, production‑ready inference for large‑scale language models.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/alibaba/rtp-llm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/alibaba/rtp-llm) · [← Back to AI/ML](./README.md)</sub>

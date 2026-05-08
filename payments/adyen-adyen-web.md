@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adyen` `components` `components-library` `drop-in` `payment-integration` `payments`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments
 
 ## 📝 Summary
 
-The Adyen Web project provides an open-source, drop-in payment solution and a set of reusable components for integrating secure and seamless online payments into web applications. This project offers a flexible and customizable way to streamline the payment process, simplifying the integration of various payment methods. With Adyen Web, developers can easily incorporate robust payment functionality into their web projects.
+Adyen Web is an open‑source JavaScript library that provides a customizable Drop‑in UI and modular payment components for integrating Adyen’s payment platform into web applications. It handles the full payment flow—including card entry, digital wallets, and 3‑D Secure—while offering a simple API for configuration, styling, and merchant‑specific extensions. Ideal for developers seeking a secure, PCI‑compliant, and highly adaptable front‑end solution for online payments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Adyen/adyen-web) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Adyen/adyen-web) · [← Back to Payments](./README.md)</sub>

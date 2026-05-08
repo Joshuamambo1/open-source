@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.3k |
-| 🍴 **Forks** | 612 |
+| 🍴 **Forks** | 613 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`benchmark` `bitext-mining` `clustering` `information-retrieval` `low-resource-nlp` `mteb` `multilingual-nlp` `multimodal` `neural-search` `reranking` `retrieval` `sbert`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Massive Text Embedding Benchmark (MTEB) is an open-source project that provides a comprehensive evaluation framework for text embedding models. It offers a wide range of tasks and metrics to assess the performance of embeddings in various downstream applications, such as language modeling, sentiment analysis, and question answering. By utilizing MTEB, developers and researchers can compare and improve the effectiveness of their text embedding models.
+MTEB (Massive Text Embedding Benchmark) is an open‑source suite for evaluating text embedding models across a wide range of downstream tasks, including retrieval, clustering, classification, and semantic similarity. It provides standardized datasets, evaluation scripts, and leaderboards, enabling researchers and developers to benchmark and compare the performance, efficiency, and robustness of their embedding solutions in a reproducible manner.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/embeddings-benchmark/mteb) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/embeddings-benchmark/mteb) · [← Back to AI/ML](./README.md)</sub>

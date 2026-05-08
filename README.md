@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **2219** |
+| 🗂️ **Total projects** | **2259** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 853 | [Browse →](./aiml/) |
-| 📦 **Misc** | 371 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 230 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 211 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 113 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 111 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 94 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 876 | [Browse →](./aiml/) |
+| 📦 **Misc** | 374 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 232 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 213 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 114 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 112 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 96 | [Browse →](./crypto/) |
 | 📊 **Data** | 60 | [Browse →](./data/) |
-| 💳 **Payments** | 54 | [Browse →](./payments/) |
-| 📈 **Trading** | 35 | [Browse →](./trading/) |
+| 💳 **Payments** | 57 | [Browse →](./payments/) |
+| 📈 **Trading** | 36 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 31 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 25 | [Browse →](./mobile/) |
-| 🔐 **Security** | 15 | [Browse →](./security/) |
+| 🔐 **Security** | 17 | [Browse →](./security/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
 | ✨ **Design** | 6 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [micro-editor/micro](./frontend/micro-editor-micro.md) | ⭐ 28.6k | Frontend |
-| 2 | [1Panel-dev/MaxKB](./orchestration/1panel-dev-maxkb.md) | ⭐ 20.9k | Orchestration |
-| 3 | [zhayujie/CowAgent](./orchestration/zhayujie-cowagent.md) | ⭐ 44.2k | Orchestration |
-| 4 | [HKUDS/Vibe-Trading](./trading/hkuds-vibe-trading.md) | ⭐ 5.6k | Trading |
-| 5 | [apache/datafusion](./data/apache-datafusion.md) | ⭐ 8.7k | Data |
-| 6 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
-| 7 | [HeyPuter/puter](./aiml/heyputer-puter.md) | ⭐ 41k | AI/ML |
-| 8 | [ophub/amlogic-s9xxx-armbian](./aiml/ophub-amlogic-s9xxx-armbian.md) | ⭐ 9.2k | AI/ML |
-| 9 | [github/awesome-copilot](./orchestration/github-awesome-copilot.md) | ⭐ 32.4k | Orchestration |
-| 10 | [jeecgboot/JeecgBoot](./orchestration/jeecgboot-jeecgboot.md) | ⭐ 46.1k | Orchestration |
+| 1 | [documenso/documenso](./security/documenso-documenso.md) | ⭐ 12.8k | Security |
+| 2 | [f/prompts.chat](./aiml/f-prompts.chat.md) | ⭐ 161.8k | AI/ML |
+| 3 | [modelscope/ms-swift](./aiml/modelscope-ms-swift.md) | ⭐ 14k | AI/ML |
+| 4 | [micro-editor/micro](./frontend/micro-editor-micro.md) | ⭐ 28.6k | Frontend |
+| 5 | [1Panel-dev/MaxKB](./orchestration/1panel-dev-maxkb.md) | ⭐ 20.9k | Orchestration |
+| 6 | [zhayujie/CowAgent](./orchestration/zhayujie-cowagent.md) | ⭐ 44.2k | Orchestration |
+| 7 | [HKUDS/Vibe-Trading](./trading/hkuds-vibe-trading.md) | ⭐ 5.6k | Trading |
+| 8 | [apache/datafusion](./data/apache-datafusion.md) | ⭐ 8.7k | Data |
+| 9 | [catboost/catboost](./aiml/catboost-catboost.md) | ⭐ 8.9k | AI/ML |
+| 10 | [HeyPuter/puter](./aiml/heyputer-puter.md) | ⭐ 41k | AI/ML |
 
 ## 🚀 How it works
 

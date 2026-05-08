@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.7k |
-| 🍴 **Forks** | 243 |
+| ⭐ **Stars** | 7.8k |
+| 🍴 **Forks** | 242 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`idp` `oidc` `passkeys` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Security
 
 ## 📝 Summary
 
-Here's a brief summary for the pocket-id/pocket-id project:
-
-pocket-id is an open-source OIDC (OpenID Connect) provider that simplifies authentication for services by allowing users to log in with their passkeys. This lightweight and user-friendly solution eliminates the need for complex password management, offering a secure and seamless user experience. By integrating pocket-id, developers can easily add passkey-based authentication to their applications.
+Pocket‑ID is an open‑source OpenID Connect (OIDC) provider designed for simplicity and ease of integration, enabling services to authenticate users via passkey‑based credentials. It offers a lightweight, secure authentication layer that developers can quickly deploy to add password‑less login to their applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/pocket-id/pocket-id) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pocket-id/pocket-id) · [← Back to Security](./README.md)</sub>

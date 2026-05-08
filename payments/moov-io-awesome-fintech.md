@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 296 |
-| 🍴 **Forks** | 93 |
+| ⭐ **Stars** | 295 |
+| 🍴 **Forks** | 95 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `banking` `fintech` `mcp` `payment-gateway` `payments` `x402`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the awesome-fintech project:
-
-Awesome Fintech is an open-source repository that curates a comprehensive collection of high-quality fintech libraries and resources, focusing on innovative technologies in payments and artificial intelligence/machine learning (AI/ML). This project aims to facilitate collaboration and knowledge sharing among developers, fintech enthusiasts, and industry professionals. By providing a centralized platform, awesome-fintech accelerates the development of cutting-edge fintech solutions and fosters a vibrant community.
+The **awesome-fintech** repository curated by moov‑io is a centralized, community‑maintained list of open‑source libraries, tools, and resources for the fintech ecosystem. It categorizes projects across key domains such as payments processing, AI/ML, blockchain, data analytics, and more, providing quick links, brief descriptions, and usage notes to help developers discover and adopt proven solutions. This curated collection serves as a go‑to reference for engineers building modern financial applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/moov-io/awesome-fintech) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/moov-io/awesome-fintech) · [← Back to Payments](./README.md)</sub>

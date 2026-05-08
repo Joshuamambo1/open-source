@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ddd` `dotnet` `dotnet-aspire` `microservice` `multi-agent-systems`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the BookWorm project:
-
-BookWorm is an open-source project that demonstrates the practical implementation of Aspire, utilizing Microservices and AI-Agents for efficient orchestration. This project brings together the benefits of distributed systems and artificial intelligence to create a scalable and intelligent architecture. By leveraging these cutting-edge technologies, BookWorm enables developers to build highly adaptable and responsive applications.
+BookWorm (foxminchan/BookWorm) is an open‑source reference implementation of the Aspire framework built with a micro‑services architecture and AI‑agent integration. It demonstrates how to orchestrate backend services, manage distributed workloads, and embed intelligent agents for tasks such as data processing, recommendation, or automation. The project serves as a practical guide for developers looking to combine modern orchestration patterns with AI/ML capabilities in a scalable backend system.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/foxminchan/BookWorm) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/foxminchan/BookWorm) · [← Back to Orchestration](./README.md)</sub>

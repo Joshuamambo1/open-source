@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 623 |
+| ⭐ **Stars** | 632 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apple-sili` `inference` `ios` `llm` `metal` `mlx` `moe` `on-device-ai` `openai-api` `swift`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-SharpAI/SwiftLM is an open-source, native machine learning inference server for Apple Silicon devices, optimized for high-performance inference of large language models. It supports the OpenAI-compatible API and features advanced techniques such as SSD streaming and TurboQuant KV cache compression for efficient processing. This project enables the development of AI-powered applications on macOS and iOS devices, including iPhone apps.
+SharpAI/SwiftLM is a native Swift‑based inference server that leverages Apple Silicon’s MLX framework to run large language models—including 100 billion‑parameter Mixture‑of‑Experts architectures—directly on macOS and iOS devices. It offers an OpenAI‑compatible API, SSD‑backed model streaming, TurboQuant KV‑cache compression, and even a companion iPhone app, making high‑performance LLM deployment accessible for trading, AI/ML, and backend workloads.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/SharpAI/SwiftLM) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/SharpAI/SwiftLM) · [← Back to Trading](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blackwell` `cuda` `llm-serving` `moe` `pytorch`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the NVIDIA/TensorRT-LLM project:
-
-TensorRT LLM is an open-source project that enables users to define and optimize Large Language Models (LLMs) for efficient inference on NVIDIA GPUs, leveraging a user-friendly Python API. This project provides a foundation for creating high-performance LLMs, with supporting components for Python and C++ runtime environments to streamline inference execution. By harnessing the power of NVIDIA GPUs, TensorRT LLM empowers developers to build and deploy sophisticated language models with improved speed and accuracy.
+NVIDIA TensorRT‑LLM is an open‑source library that lets developers define and run Large Language Models through a simple Python API while leveraging advanced TensorRT optimizations for high‑throughput inference on NVIDIA GPUs. It also provides reusable Python and C++ runtime components that efficiently orchestrate model execution, making it easy to integrate fast LLM inference into AI/ML, backend, or crypto‑related applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/NVIDIA/TensorRT-LLM) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NVIDIA/TensorRT-LLM) · [← Back to Crypto](./README.md)</sub>

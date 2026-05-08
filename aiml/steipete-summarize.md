@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.8k |
-| 🍴 **Forks** | 374 |
+| ⭐ **Stars** | 5.9k |
+| 🍴 **Forks** | 377 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `cli` `summarize` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Summarize is an open-source project that utilizes AI/ML technology to generate concise summaries of various content types, including URLs, YouTube videos, podcasts, and files. This project provides both a command-line interface (CLI) and a Chrome extension, allowing users to easily access and utilize its summarization capabilities. By pointing to any desired content, Summarize aims to provide users with a quick and efficient way to grasp the main ideas and key points.
+Summarize is an open‑source tool that lets you point at a URL, YouTube video, podcast episode, or local file and instantly receive a concise gist of its content. It offers both a command‑line interface and a Chrome extension, making it easy to generate AI‑powered summaries directly from the terminal or the browser. The project falls under AI/ML and DevTools categories.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/steipete/summarize) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/steipete/summarize) · [← Back to AI/ML](./README.md)</sub>

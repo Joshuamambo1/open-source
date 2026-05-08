@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 366 |
+| 🍴 **Forks** | 370 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The NVIDIA-NeMo/RL project is an open-source toolkit designed to facilitate efficient model reinforcement learning. It provides a scalable framework for developing and training reinforcement learning models, allowing researchers and developers to quickly and effectively explore complex environments. By leveraging this toolkit, users can create and deploy robust reinforcement learning models with ease.
+NVIDIA‑NeMo/RL is an open‑source, scalable toolkit designed to streamline reinforcement learning workflows for large‑scale models. It provides efficient training pipelines, modular components, and integration with the NeMo ecosystem, enabling researchers and developers to quickly prototype, scale, and deploy RL solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/NVIDIA-NeMo/RL) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NVIDIA-NeMo/RL) · [← Back to Misc](./README.md)</sub>

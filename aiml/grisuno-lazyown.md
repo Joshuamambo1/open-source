@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 183 |
+| ⭐ **Stars** | 182 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`assistant-cli` `autonomous-agents` `botnet` `c2-ai-powered` `hive` `honeypot` `implants` `interactive` `keylogger` `malware` `mcp` `metadata-extraction`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The LazyOwn RedTeam/APT Framework is an open-source project that combines AI-powered command and control (C&C) with advanced rootkits and undetectable implants. This framework provides a comprehensive toolset for conducting Autonomous RedTeam/APT campaigns, compatible with multiple platforms including Windows, Linux, and Mac OS X. Its web interface and console client enable users to easily configure and manage their campaigns.
+LazyOwn is an open‑source Red Team/APT framework that integrates an AI‑driven command‑and‑control (C&C) system with stealthy rootkits and malleable implants for Windows, Linux, and macOS. It offers a web‑based UI and a feature‑rich console client, enabling fully autonomous, self‑configuring backdoors and campaigns that are difficult to detect.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/grisuno/LazyOwn) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/grisuno/LazyOwn) · [← Back to AI/ML](./README.md)</sub>

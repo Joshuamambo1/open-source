@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 397 |
-| 🍴 **Forks** | 682 |
+| ⭐ **Stars** | 402 |
+| 🍴 **Forks** | 683 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`appsec` `burpsuite` `css` `hacktoberfest` `java` `javascript` `learn-security` `owasp` `owasp-zap` `payload-testing` `practice-hacking` `spring-boot`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The OWASP VulnerableApp Project, hosted on SasanLabs/VulnerableApp, is an open-source initiative designed to facilitate learning and improvement in web application security. This project provides a vulnerable application that developers and security professionals can use to practice and reproduce common security vulnerabilities, enabling better understanding and mitigation of attacks. By breaking, scanning, and reproducing vulnerabilities, users can improve their skills and contribute to the project's goals.
+SasanLabs /VulnerableApp is an open‑source reference application intentionally packed with OWASP‑listed security flaws, designed for developers, security testers, and researchers to practice vulnerability discovery, scanning, and remediation. It serves as a sandbox for benchmarking tools, reproducing attacks, and experimenting with defensive improvements across AI/ML‑enhanced analysis, frontend components, and DevTools integrations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/SasanLabs/VulnerableApp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/SasanLabs/VulnerableApp) · [← Back to AI/ML](./README.md)</sub>

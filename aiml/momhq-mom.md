@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 45 |
+| ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `claude-code` `cli` `developer-tool` `golang` `mcp` `memory` `openai`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the MOM project:
-
-MOM (short for "Memory for Others and Machines") is an open-source project that provides a persistent memory system for AI agents, allowing them to retain information and recall it as needed without requiring manual intervention or maintenance. This AI memory solution enables seamless recall and utilization of previously learned knowledge, enhancing AI performance and efficiency. By automating memory management, MOM empowers developers to build more robust and intelligent AI applications.
+MOM (Memory‑On‑Memory) is an open‑source persistent memory layer designed for AI agents, enabling them to retain and recall prior interactions, knowledge, and context across sessions. By providing a simple, scalable API and integration tools, MOM lets developers equip their agents with long‑term memory without having to build custom storage solutions, improving continuity and performance in a wide range of AI/ML applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/momhq/mom) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/momhq/mom) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 77 |
-| 🍴 **Forks** | 14 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`machine-payments` `machine-payments-protocol` `mpp` `payments` `tempo`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments
 
 ## 📝 Summary
 
-The tempoxyz/mpp-rs project is an open-source Rust Software Development Kit (SDK) designed to facilitate interaction with the Machine Payments Protocol. This SDK enables developers to build applications that can process machine-to-machine payments securely and efficiently. By utilizing the mpp-rs library, developers can integrate Machine Payments Protocol functionality into their Rust-based projects.
+tempoxyz/mpp-rs is a Rust SDK that implements the Machine Payments Protocol (MPP), enabling developers to integrate secure, high‑performance payment processing into their applications. The library provides type‑safe abstractions, asynchronous APIs, and utilities for constructing, signing, and validating MPP transactions, making it easy to build payment‑centric services on Rust. It’s open‑source and positioned for use in fintech, IoT, and other payment‑heavy domains.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/tempoxyz/mpp-rs) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tempoxyz/mpp-rs) · [← Back to Payments](./README.md)</sub>

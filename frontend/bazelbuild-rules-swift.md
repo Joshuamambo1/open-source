@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | Starlark |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bazel` `bazel-rules` `swift`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ Frontend
 
 ## 📝 Summary
 
-The bazelbuild/rules_swift project is an open-source initiative that provides Bazel rules for building Swift applications on both Apple and Linux platforms. This allows developers to leverage the Bazel build system's efficiency and scalability for cross-platform Swift development. By using these rules, developers can create and manage complex Swift projects in a standardized and reproducible way.
+**Summary:**  
+`bazelbuild/rules_swift` provides a set of Bazel build rules that enable developers to compile and link Swift code on both Apple (macOS, iOS, watchOS, tvOS) and Linux platforms. The project offers seamless integration of Swift toolchains into Bazel's build graph, supporting features such as module generation, Swift package dependencies, and cross‑compilation, making it easier to adopt Bazel for multi‑platform Swift projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/bazelbuild/rules_swift) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/bazelbuild/rules_swift) · [← Back to Frontend](./README.md)</sub>

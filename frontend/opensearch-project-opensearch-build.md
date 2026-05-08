@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 333 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The OpenSearch Build project is an open-source collection of build systems for OpenSearch and OpenSearch Dashboards. This project provides a framework for automating the build process, enabling developers to easily compile and test these applications. By using this build system, users can ensure consistency and reliability in their OpenSearch builds.
+OpenSearch‑Build provides the automated build, packaging, and release infrastructure for the OpenSearch search engine and OpenSearch Dashboards UI. It includes scripts, Docker images, and CI configurations that compile source code, run tests, create distributable artifacts, and publish them to Maven repositories and container registries. This repository serves as the core tooling that streamlines development and ensures consistent, reproducible builds for the OpenSearch ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/opensearch-project/opensearch-build) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/opensearch-project/opensearch-build) · [← Back to Frontend](./README.md)</sub>

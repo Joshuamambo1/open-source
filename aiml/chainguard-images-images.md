@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 667 |
+| ⭐ **Stars** | 668 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | HCL |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apko` `audit` `chainguard` `chainguard-images` `melange` `no-ghaudit-branch-protections` `oci` `oci-image` `wolfi`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the chainguard-images/images open-source project:
-
-The chainguard-images/images project provides a public repository of pre-built images for various AI and ML tools, offering a convenient and accessible starting point for developers and researchers. These images can be easily integrated into existing workflows to streamline the deployment and management of AI and ML environments. By making these images open-source, the project promotes collaboration and innovation in the AI and ML communities.
+Chainguard Images is an open‑source collection of minimal, securely built container images that serve as a trusted base for cloud‑native workloads. Designed for developers and DevOps teams, the project provides continuously audited, reproducible images that comply with modern security best practices, making it easier to integrate hardened containers into AI/ML pipelines and other applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/chainguard-images/images) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/chainguard-images/images) · [← Back to AI/ML](./README.md)</sub>

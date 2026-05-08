@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 160 |
+| ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database` `mvcc` `raptorq` `rust` `sqlite`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Data
 
 ## 📝 Summary
 
-Here's a summary for the open-source project:
-
-FrankensQLite is an independent, open-source reimplementation of SQLite in Rust, designed to support concurrent writers and ensure information-theoretic durability. This project aims to provide a robust and efficient alternative to the original SQLite database. By leveraging Rust's capabilities, FrankensQLite seeks to offer improved performance and reliability for modern database applications.
+Dicklesworthstone/frankensqlite is an open‑source project that re‑creates SQLite from scratch in Rust, aiming for a clean, modern codebase while preserving SQLite’s core functionality. It introduces true concurrent‑writer support and guarantees information‑theoretic durability, offering stronger consistency guarantees than the original engine. The library targets data‑intensive applications that need a lightweight, embeddable SQL database with robust concurrency and durability properties.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Dicklesworthstone/frankensqlite) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Dicklesworthstone/frankensqlite) · [← Back to Data](./README.md)</sub>

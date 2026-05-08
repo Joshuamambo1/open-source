@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`brew` `cli` `homebrew` `package-manager` `zig`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the indaco/malt project:
-
-Malt is a fast, open-source alternative to Homebrew for macOS, offering a seamless and efficient package management experience. It boasts warm installs that complete in milliseconds and supports post_install scripts, ensuring a smooth workflow for developers. This drop-in replacement simplifies package management on macOS.
+indaco/malt is an open‑source, high‑performance alternative to Homebrew for macOS that installs packages in milliseconds, offering a truly “drop‑in” experience for users and scripts that expect Homebrew‑style behavior. It reliably executes post‑install scripts, ensuring that packages are fully configured right after installation. This lightweight DevTools solution speeds up setup and maintenance workflows on macOS.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/indaco/malt) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/indaco/malt) · [← Back to DevTools](./README.md)</sub>

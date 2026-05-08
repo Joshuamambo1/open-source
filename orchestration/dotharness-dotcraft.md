@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/DotHarness/dotcraft?style=flat-square&color=yellow)](https://github.com/DotHarness/dotcraft/stargazers) [![Forks](https://img.shields.io/github/forks/DotHarness/dotcraft?style=flat-square&color=blue)](https://github.com/DotHarness/dotcraft/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> A project-scoped agent harness for crafting persistent, reliable, and personalized AI workspaces.
+> Agent Harness best for your project. All in one workspace.
 
 ## 📊 Stats
 
@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-framework` `agentic` `ai` `harness` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the DotHarness/dotcraft project:
-
-DotHarness/dotcraft is an open-source agent harness designed to create persistent AI workspaces for projects. This project-scoped orchestration tool enables efficient management and deployment of AI and machine learning (ML) workloads. By providing a robust and sustainable environment, DotHarness/dotcraft simplifies the development and operation of AI applications.
+DotCraft (DotHarness/dotcraft) is an open‑source agent harness that provides a unified workspace for building, orchestrating, and managing AI/ML agents and workflows. It streamlines integration, deployment, and monitoring of multiple agents, offering a single platform to coordinate their interactions and scale projects efficiently. Ideal for developers who need a cohesive orchestration layer for complex AI systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/DotHarness/dotcraft) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/DotHarness/dotcraft) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 78 |
+| ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `automation` `rust` `terminal` `wezterm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Frankenterm is an open-source terminal hypervisor designed for managing AI agent swarms in real-time. It enables features such as real-time pane capture and state-machine pattern detection, facilitating the coordination of coding agents across multiple terminals, specifically optimized for WezTerm. This project streamlines the orchestration and management of AI/ML fleets, enhancing collaboration and efficiency.
+Dicklesworthstone/frankenterm is an open‑source terminal hypervisor that lets developers orchestrate swarms of AI coding agents within WezTerm. It captures pane output in real time, applies state‑machine pattern detection, and exposes a JSON API for coordinating, monitoring, and controlling fleets of agents across multiple terminal sessions. Ideal for building scalable, AI‑driven development pipelines and automated coding workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Dicklesworthstone/frankenterm) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Dicklesworthstone/frankenterm) · [← Back to Orchestration](./README.md)</sub>

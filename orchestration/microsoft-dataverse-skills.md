@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 89 |
-| 🍴 **Forks** | 18 |
+| ⭐ **Stars** | 93 |
+| 🍴 **Forks** | 20 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `dataverse` `dynamics-365` `dynamics-crm` `mcp` `mcp-server` `plugin` `power-platform`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The Microsoft Dataverse-skills project is an open-source initiative that provides a comprehensive set of skills for AI coding agents to interact with Dataverse environments. By wrapping the Dataverse MCP server, CLI, Python SDK, and PAC CLI, this project enables seamless building, querying, deploying, and administering of Dataverse environments. This simplifies the integration of Dataverse with AI/ML workflows.
+Microsoft Dataverse‑skills is an open‑source library that provides specialized AI‑driven “skills” for interacting with Microsoft Dataverse. It abstracts the Dataverse MCP server, CLI, Python SDK, and Power Apps CLI into reusable functions for building, querying, deploying, and administrating Dataverse environments, making it easy to integrate Dataverse operations into orchestration and AI/ML workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/microsoft/Dataverse-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/microsoft/Dataverse-skills) · [← Back to Orchestration](./README.md)</sub>

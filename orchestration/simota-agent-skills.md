@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31 |
+| ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-ecosystem` `agentic-ai` `ai-agents` `ai-skill-ecosystem` `claude` `claude-code` `codex` `codex-cli` `developer-tools` `devops` `gemini` `gemini-cli`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The open-source project "agent-skills" by simota offers a comprehensive collection of over 100 specialized AI agent skills for various use cases, including development, security, design, FinOps, and compliance. These skills, compatible with Claude Code, Codex CLI, and Gemini CLI, provide a vast range of prompt engineering assets to enhance AI model capabilities. By utilizing this project, developers can streamline their workflows and improve their overall productivity.
+simota/agent-skills is an open‑source collection of over 100 ready‑to‑use AI agent “skills” that plug into Claude Code, Codex CLI, and Gemini CLI. The prompts cover a wide range of domains—including development, security, design, FinOps, compliance, testing, and more—enabling rapid, command‑line‑driven orchestration of specialized AI tasks for DevOps and software engineering workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/simota/agent-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/simota/agent-skills) · [← Back to Orchestration](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The huggingface/trl project is an open-source initiative that utilizes reinforcement learning to train transformer-based language models. This approach enables the development of highly efficient and effective language models that can learn from their interactions and adapt to complex tasks. By leveraging reinforcement learning, the project aims to push the boundaries of natural language processing capabilities.
+**Summary:**  
+The `huggingface/trl` library provides tools for fine‑tuning transformer language models using reinforcement learning techniques such as Proximal Policy Optimization (PPO). It integrates seamlessly with the Hugging Face ecosystem, enabling developers to apply RL‑based alignment, reward modeling, and custom reward functions to large language models for tasks like text generation, summarization, and instruction following.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/huggingface/trl) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/huggingface/trl) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acp` `ai` `claude-code` `coding-agent` `infra` `orchestration`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the raphaeltm/simple-agent-manager project:
-
-The raphaeltm/simple-agent-manager is an open-source project that enables the management and orchestration of multiple coding agents across cloud-based Virtual Machines (VMs). This project allows users to run multiple agents in parallel, streamlining the development process for AI/ML and DevOps/Infra applications. By simplifying agent management, users can optimize their cloud resources and enhance productivity.
+raphaeltm/simple-agent-manager is an open‑source orchestration tool that lets you launch and manage multiple AI coding agents concurrently across your own cloud virtual machines. By automating provisioning, execution, and scaling of these agents, it simplifies the deployment of distributed development workloads for DevOps and AI/ML teams.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/raphaeltm/simple-agent-manager) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/raphaeltm/simple-agent-manager) · [← Back to Orchestration](./README.md)</sub>

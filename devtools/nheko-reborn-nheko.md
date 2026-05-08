@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`desktop` `hacktoberfest` `linux` `macos` `matrix` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Nheko is an open-source, desktop client for the Matrix protocol, built using the Qt framework and C++20 programming language. This project aims to provide a user-friendly interface for interacting with the Matrix network, enabling users to communicate and collaborate with others seamlessly. With its open-source nature, Nheko encourages community contributions and customization to suit various user needs.
+Nheko‑Reborn is an open‑source, cross‑platform desktop client for the Matrix communication protocol, built with Qt and modern C++20. It offers a sleek, native UI and full support for Matrix features such as end‑to‑end encryption, voice/video calls, and rich media handling. Designed for developers and power users, the project provides a lightweight yet extensible alternative to web‑based Matrix clients.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/Nheko-Reborn/nheko) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Nheko-Reborn/nheko) · [← Back to DevTools](./README.md)</sub>

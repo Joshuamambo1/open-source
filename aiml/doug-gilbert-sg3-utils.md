@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | C |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `enclosure` `pass-through` `scsi` `storage`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ AI/ML · Security
 
 ## 📝 Summary
 
-The sg3_utils project is an open-source collection of utilities for managing and troubleshooting storage devices. Developed by Doug Gilbert, this project provides tools for working with SATA, SAS, SSD, and other storage technologies, offering valuable insights and functionality for system administrators and developers. The project has been transitioned to a Git repository with a default branch named _main_.
+**Summary:**  
+This repository is a public Git mirror of the author’s original *sg3_utils* Subversion project, now maintained on the `_main` branch. It provides the full source code and history of the SCSI Generic (sg) utilities, including all tagged releases, enabling developers to build, modify, and integrate these low‑level storage tools in AI/ML pipelines or security‑focused applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/doug-gilbert/sg3_utils) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/doug-gilbert/sg3_utils) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cats` `cni` `cni-plugin` `ebpf` `host-protection` `identity-aware-policy` `k8s` `kubernetes` `kubernetes-networking` `kubernetes-windows` `network-policy` `networking`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra · Security
 
 ## 📝 Summary
 
-Project Calico is an open-source solution for cloud-native networking and security, designed to provide a scalable, flexible, and highly manageable infrastructure for modern applications. It offers a suite of tools to simplify network configuration, ensure security and compliance, and improve operational efficiency through automation and visibility. By leveraging Calico, developers and operators can build robust, secure, and adaptable networks that support the needs of their cloud-native workloads.
+Project Calico is an open‑source networking and network‑security solution designed for cloud‑native environments such as Kubernetes, OpenShift, and other container orchestration platforms. It provides a high‑performance, scalable data‑plane (based on eBPF or Linux kernel routing) and a declarative policy engine that enforces fine‑grained security rules across workloads, VMs, and bare‑metal hosts. By integrating seamlessly with DevOps tooling, Calico enables consistent, zero‑trust networking and micro‑segmentation for modern infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/projectcalico/calico) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/projectcalico/calico) · [← Back to DevOps & Infra](./README.md)</sub>

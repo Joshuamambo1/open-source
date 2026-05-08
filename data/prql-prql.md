@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 258 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`data` `pipeline` `sql`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Data
 
 ## 📝 Summary
 
-Here's a brief summary of the PRQL project:
-
-PRQL is an open-source, modern language designed for transforming data in a simplified and powerful way. As a pipelined SQL replacement, it enables efficient and streamlined data processing. With PRQL, users can easily and effectively manipulate data, making it a valuable tool for data analysis and processing tasks.
+PRQL (pronounced “Perquel”) is an open‑source, modern query language designed to replace and simplify SQL. It offers a clean, pipelined syntax that lets users express complex data transformations in a concise, readable way while compiling down to optimized SQL for any database. Ideal for data engineers and analysts, PRQL streamlines data workflows without sacrificing the power of traditional relational queries.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/PRQL/prql) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/PRQL/prql) · [← Back to Data](./README.md)</sub>

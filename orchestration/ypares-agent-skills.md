@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `jj` `nix` `skills` `typst`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-YPares/agent-skills is an open-source project that provides a collection of skills for AI coding assistants, designed to enhance their capabilities in various areas. This project falls under the categories of Orchestration and AI/ML, making it a valuable resource for developers and researchers working with AI-assisted coding tools. With its open-source nature, the project allows for community-driven contributions and improvements.
+YPares/agent-skills is an open‑source collection of modular “skills” that enhance AI coding assistants, enabling them to perform a wide range of development‑related tasks such as code generation, refactoring, debugging, and documentation. Designed for easy integration into orchestration pipelines, the library provides reusable, language‑agnostic components that help developers build more capable, context‑aware AI agents. It’s built with extensibility in mind, allowing contributors to add new skills and tailor existing ones to specific workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/YPares/agent-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/YPares/agent-skills) · [← Back to Orchestration](./README.md)</sub>

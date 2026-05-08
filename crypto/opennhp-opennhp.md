@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cybersecurity` `zero-trust` `zero-trust-network-access` `zero-trust-security`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the OpenNHP project:
-
-OpenNHP is a cutting-edge, open-source toolkit that leverages advanced cryptography to implement Zero Trust security principles across infrastructure, applications, and data. This AI-driven solution enables organizations to safeguard their digital assets against growing cyber threats in the modern era. By providing a lightweight and flexible framework, OpenNHP empowers developers to build more secure and resilient systems.
+OpenNHP (OpenNHP/opennhp) is a lightweight, open‑source toolkit that leverages modern cryptography to implement Zero Trust security across infrastructure, applications, and data—especially in AI‑driven environments. It provides developers with easy‑to‑integrate primitives and APIs for authentication, encryption, and policy enforcement, enabling secure, privacy‑preserving AI/ML pipelines and frontend services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/OpenNHP/opennhp) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/OpenNHP/opennhp) · [← Back to Crypto](./README.md)</sub>

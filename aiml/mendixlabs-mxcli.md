@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 77 |
-| 🍴 **Forks** | 25 |
+| ⭐ **Stars** | 80 |
+| 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `claude` `cli` `genai` `mdl` `mendix`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Mendix CLI (Command Line Interface) is an open-source project that allows developers to interact with Mendix projects in a headless manner. This tool enables the integration of Mendix projects with third-party AI-powered coding tools, such as Claude Code and Copilot, enhancing productivity and efficiency. Additionally, it includes a Starlark linter for ensuring high-quality code validation.
+Mendix CLI (mxcli) is a headless command‑line tool that lets developers manage Mendix projects directly from scripts, facilitating seamless integration with AI‑driven coding assistants such as Claude Code and GitHub Copilot. In addition to core project operations, mxcli ships with a Starlark‑based linter that enforces code‑quality standards across Mendix applications. It targets AI/ML‑enhanced development workflows and general DevOps tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/mendixlabs/mxcli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mendixlabs/mxcli) · [← Back to AI/ML](./README.md)</sub>

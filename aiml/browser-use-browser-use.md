@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 92.2k |
+| ⭐ **Stars** | 93k |
 | 🍴 **Forks** | 10.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-tools` `browser-automation` `browser-use` `llm` `playwright` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Browser-use is an open-source project that aims to make websites accessible for artificial intelligence (AI) agents, enabling seamless automation of online tasks. This project facilitates AI-powered interactions with web applications, opening up new possibilities for automation and data extraction. By leveraging this technology, users can streamline their online workflows and unlock the full potential of AI-driven productivity.
+browser-use is an open‑source toolkit that enables AI agents to interact with web pages just like a human user, allowing them to navigate, extract data, and perform actions automatically. By providing a simple, scriptable interface for browser automation, it helps developers make online services more accessible to AI‑driven workflows and simplifies the creation of AI‑powered web automation tasks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/browser-use/browser-use) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/browser-use/browser-use) · [← Back to AI/ML](./README.md)</sub>

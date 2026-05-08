@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 53 |
-| 🍴 **Forks** | 5 |
+| ⭐ **Stars** | 59 |
+| 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `claude` `tutorial` `vibe` `vibe-coding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Claudepot-App is an open-source control panel designed to manage and interact with Claude Code and Claude Desktop, providing users with a centralized interface to access and utilize AI/ML capabilities. This project aims to simplify the experience of working with Claude, a powerful AI platform, by streamlining tasks and features within a user-friendly interface. By leveraging Claudepot-App, users can easily manage their projects, configure settings, and tap into the full potential of Claude.
+xiaolai/claudepot-app is an open‑source control panel that provides a unified interface for managing Claude Code and Claude Desktop environments. It streamlines configuration, deployment, and monitoring of Claude‑based AI/ML applications, making it easier for developers to oversee and interact with their Claude instances from a single dashboard.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/xiaolai/claudepot-app) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/xiaolai/claudepot-app) · [← Back to AI/ML](./README.md)</sub>

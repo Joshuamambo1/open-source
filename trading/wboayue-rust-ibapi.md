@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 307 |
-| 🍴 **Forks** | 77 |
+| ⭐ **Stars** | 312 |
+| 🍴 **Forks** | 78 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ibapi` `interactive-brokers` `trading-api`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · Backend
 
 ## 📝 Summary
 
-This open-source project, rust-ibapi, is a Rust implementation of the Interactive Brokers API, allowing developers to easily interact with Interactive Brokers' trading platforms. By utilizing this library, users can access a wide range of trading functions, enabling the creation of robust trading applications in Rust. This project is ideal for traders, developers, and researchers seeking to integrate Interactive Brokers' services into their Rust-based projects.
+The **rust-ibapi** crate provides a native Rust implementation of the Interactive Brokers (IB) API, enabling developers to build high‑performance trading applications and backend services directly in Rust. It offers asynchronous communication, type‑safe request/response handling, and comprehensive coverage of IB’s market data, order management, and account functionality, making it a solid foundation for algorithmic trading and brokerage integrations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/wboayue/rust-ibapi) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wboayue/rust-ibapi) · [← Back to Trading](./README.md)</sub>

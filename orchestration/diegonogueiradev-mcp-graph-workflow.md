@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 33 |
+| ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-tooling` `agentic-workflows` `ai-tools` `cli` `local-first` `mcp` `mcp-server` `model-context-protocol` `open-source` `prd` `rag` `semantic-search`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The MCP Graph Workflow project is an open-source, local-first CLI tool that converts Product Requirements Documents (PRD) text files into structured execution graphs, enabling persistent and efficient workflow management. It utilizes SQLite to store the execution graphs, allowing for seamless organization and agentic workflow execution. This tool is ideal for orchestration and AI/ML workflows, providing a scalable and flexible solution for backend applications.
+DiegoNogueiraDev’s **mcp-graph-workflow** is a lightweight, local‑first CLI that transforms product‑requirement‑document (PRD) text files into persistent execution graphs stored in SQLite. By converting plain specifications into structured, queryable workflows, it enables reliable orchestration of agentic AI/ML pipelines and backend processes without relying on external services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/DiegoNogueiraDev/mcp-graph-workflow) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/DiegoNogueiraDev/mcp-graph-workflow) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 70 |
+| ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `claude` `claude-code` `coding-agent` `reliability`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The failproofai project is an open-source initiative that enables users to create, manage, and share custom hooks for coding agents, such as AI/ML models. This project aims to provide a platform for developers to extend the functionality of coding agents, making them more versatile and effective in various applications. By fostering community-driven development, failproofai seeks to accelerate the innovation of AI/ML capabilities.
+**FailProofAI** is an open‑source platform that lets developers easily create, organize, and distribute reusable “hooks”—modular code snippets that extend the capabilities of AI coding agents. By providing a central repository and management tools, it streamlines the integration of custom functionality into AI‑driven development workflows, fostering collaboration and rapid iteration across teams.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/exospherehost/failproofai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/exospherehost/failproofai) · [← Back to AI/ML](./README.md)</sub>

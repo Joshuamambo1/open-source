@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 243 |
+| ⭐ **Stars** | 244 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bash` `cli` `cloud` `containers` `docker` `rust` `shell`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Rash is an open-source project that enables declarative shell scripting using Rust native bindings, drawing inspiration from popular automation tools like Ansible. This innovative approach allows users to write efficient and scalable shell scripts in a more expressive and maintainable way. By leveraging Rust's performance and safety features, Rash aims to simplify DevOps and infrastructure automation tasks.
+Rash is an open‑source framework that brings declarative, Ansible‑style automation to shell scripting by leveraging native Rust bindings. It lets developers write concise, idempotent scripts that compile to efficient binaries, blending the simplicity of shell commands with the safety and performance of Rust. Ideal for DevOps, infrastructure provisioning, and AI/ML pipelines, Rash streamlines complex workflow automation while remaining fully open source.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/rash-sh/rash) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rash-sh/rash) · [← Back to AI/ML](./README.md)</sub>

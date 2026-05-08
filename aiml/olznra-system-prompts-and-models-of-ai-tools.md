@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 24 |
+| ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `awesome` `bolt` `claude` `cluely` `cursor` `cursorai` `devinai` `gemini` `llm` `lovable` `open-source`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The open-source project "olznra/system-prompts-and-models-of-ai-tools" provides a comprehensive set of tools and models for building reliable AI agents and crafting effective prompts. This platform aims to simplify and streamline AI engineering by offering a collaborative community and shared resources. By leveraging this project, developers can create robust AI solutions with greater ease and efficiency.
+olznra/system-prompts-and-models-of-ai-tools is an open‑source repository that provides ready‑to‑use prompts, system configurations, and lightweight models designed to help developers build reliable, high‑performing AI agents. It includes tools for prompt engineering, model fine‑tuning, and integration guides, with an active community discussion channel on Discord for sharing best practices and troubleshooting.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/olznra/system-prompts-and-models-of-ai-tools) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/olznra/system-prompts-and-models-of-ai-tools) · [← Back to AI/ML](./README.md)</sub>

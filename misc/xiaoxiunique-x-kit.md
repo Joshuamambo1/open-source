@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 917 |
-| 🍴 **Forks** | 143 |
+| ⭐ **Stars** | 918 |
+| 🍴 **Forks** | 145 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`crawler` `kols` `twitter` `x`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-x-kit is an open-source tool designed to scrape and analyze Twitter user data and tweets. It offers a convenient way to extract and process information from the platform, catering to developers and researchers who need to work with Twitter data. This tool aims to simplify the process of collecting and analyzing Twitter user interactions.
+x-kit is an open‑source utility designed to collect and analyze user data and tweets from X (formerly Twitter). It provides tools for scraping profiles, timelines, and engagement metrics, enabling developers and researchers to extract structured information for further processing or insight generation. The project is language‑agnostic and can be integrated into various data‑analysis pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/xiaoxiunique/x-kit) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/xiaoxiunique/x-kit) · [← Back to Misc](./README.md)</sub>

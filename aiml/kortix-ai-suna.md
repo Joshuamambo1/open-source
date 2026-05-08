@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the suna project:
-
-The Autonomous Company Operating System, developed by kortix-ai/suna, is an open-source AI/ML framework designed to automate business operations and decision-making processes. This innovative system utilizes advanced artificial intelligence and machine learning capabilities to streamline company workflows, enhance efficiency, and drive informed decision-making. By leveraging the power of automation, suna aims to revolutionize the way businesses operate.
+kortix‑ai/suna is an open‑source Autonomous Company Operating System that integrates AI and machine learning capabilities to automate core business functions such as decision‑making, resource allocation, and workflow orchestration. By providing a modular, extensible platform, it enables organizations to build self‑governing, data‑driven operations without relying on proprietary solutions. The project is aimed at developers and enterprises looking to deploy intelligent, autonomous systems across a variety of domains.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kortix-ai/suna) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kortix-ai/suna) · [← Back to AI/ML](./README.md)</sub>

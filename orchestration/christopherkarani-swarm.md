@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 472 |
-| 🍴 **Forks** | 34 |
+| ⭐ **Stars** | 473 |
+| 🍴 **Forks** | 35 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `agentic-systems` `agents` `ai` `ai-agents` `foundation-models` `ios` `langchain` `machine-learning` `macos` `memory`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The Swarm framework is an open-source, Swifty agent orchestration tool designed for seamless on-device model deployment. It enables users to efficiently manage and coordinate machine learning models, streamlining the integration of AI/ML capabilities into mobile and web applications. By leveraging Swarm, developers can accelerate the development and deployment of on-device models with ease.
+**Swarm** is an open‑source Swift framework designed to orchestrate multiple AI agents directly on a device, enabling seamless coordination of on‑device models for tasks such as chat, planning, or tool use. It provides a lightweight, Swift‑native API for defining, managing, and chaining agents, making it easy to build responsive AI‑driven front‑end experiences without relying on external servers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/christopherkarani/Swarm) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/christopherkarani/Swarm) · [← Back to Orchestration](./README.md)</sub>

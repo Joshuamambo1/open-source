@@ -1,6 +1,6 @@
 # aquaproj/aqua-registry
 
-[![Stars](https://img.shields.io/github/stars/aquaproj/aqua-registry?style=flat-square&color=yellow)](https://github.com/aquaproj/aqua-registry/stargazers) [![Forks](https://img.shields.io/github/forks/aquaproj/aqua-registry?style=flat-square&color=blue)](https://github.com/aquaproj/aqua-registry/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aquaproj/aqua-registry?style=flat-square&color=yellow)](https://github.com/aquaproj/aqua-registry/stargazers) [![Forks](https://img.shields.io/github/forks/aquaproj/aqua-registry?style=flat-square&color=blue)](https://github.com/aquaproj/aqua-registry/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > aqua's Standard Registry
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 319 |
-| 🍴 **Forks** | 329 |
+| ⭐ **Stars** | 323 |
+| 🍴 **Forks** | 333 |
 | 💻 **Language** | YAML |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`oss`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Aqua Registry, an open-source project, is a standard registry developed by aquaproj, aimed at facilitating collaboration and knowledge sharing in the AI/ML community. This registry provides a centralized platform for storing, managing, and retrieving AI/ML models, datasets, and other related resources. By making these resources accessible and searchable, Aqua Registry aims to accelerate innovation and progress in the field of artificial intelligence.
+Aquaproj/aqua‑registry is the official public registry for **Aqua**, a platform that simplifies the discovery, sharing, and reuse of AI/ML models, datasets, and related artifacts. It provides a curated, version‑controlled catalog of containers, Helm charts, and other package types, enabling developers to pull vetted resources directly into their pipelines with confidence. The open‑source repository also includes tooling and documentation for contributing new entries and maintaining the registry’s quality and security standards.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/aquaproj/aqua-registry) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/aquaproj/aqua-registry) · [← Back to AI/ML](./README.md)</sub>

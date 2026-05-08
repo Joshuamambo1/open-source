@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asyncio` `boilerplate` `cli` `copier` `copier-template` `docker` `fastapi` `fastapi-starter` `fastapi-template` `langchain` `llm` `project-template`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Aegis-Stack is an open-source, production-ready FastAPI platform that offers a modular design and a built-in control plane for streamlined management and deployment of applications. This flexible framework is well-suited for complex projects that integrate AI/ML and frontend components, making it an ideal choice for developers seeking a scalable and maintainable solution. By leveraging Aegis-Stack, users can efficiently orchestrate their applications and focus on innovation rather than infrastructure management.
+Aegis‑Stack is a production‑ready FastAPI framework that bundles modular, reusable components for building scalable services, complete with a built‑in control plane for managing deployments, monitoring, and configuration. It streamlines orchestration of AI/ML workloads and frontend integrations, offering a unified platform that accelerates development while maintaining robustness and extensibility.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/lbedner/aegis-stack) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/lbedner/aegis-stack) · [← Back to Orchestration](./README.md)</sub>

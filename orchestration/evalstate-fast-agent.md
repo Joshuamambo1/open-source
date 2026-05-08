@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 403 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acp` `agent` `agent-framework` `agent-skills` `cli` `mcp` `mcp-client` `mcp-server` `python` `skills` `tui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "evalstate/fast-agent":
-
-Fast-agent is an open-source project that enables developers to code, build, and evaluate AI/ML agents with exceptional support for models and skills, including MCP and ACP. This project streamlines the process of agent development, making it easier to integrate and orchestrate AI capabilities into various applications. With its comprehensive feature set, fast-agent is an ideal choice for AI/ML enthusiasts and professionals looking to create sophisticated agents quickly and efficiently.
+**Fast‑Agent** is an open‑source framework for building, orchestrating, and evaluating AI agents, offering robust support for model integration, skill libraries, and advanced control‑plane protocols such as MCP and ACP. It provides a unified workflow that combines backend orchestration with a friendly frontend UI, enabling developers to quickly prototype, test, and benchmark agent behavior across diverse use cases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/evalstate/fast-agent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/evalstate/fast-agent) · [← Back to Orchestration](./README.md)</sub>

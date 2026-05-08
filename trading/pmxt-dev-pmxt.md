@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 188 |
+| 🍴 **Forks** | 190 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`algotrading` `arbitrage` `ccxt` `kalshi` `market-data` `polymarket` `prediction-markets` `unified-api`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the pmxt-dev/pmxt open-source project:
-
-PMXT is an open-source, unified API for trading on prediction markets, allowing developers to access and integrate multiple platforms such as Polymarket and Kalshi with ease. Built on the principles of CCXT, PMXT provides a standardized and efficient interface for trading prediction market assets. This project enables developers to build and deploy AI/ML models and trading strategies on top of a unified prediction market infrastructure.
+PMXT (pmxt-dev/pmxt) is an open‑source library that extends the popular CCXT framework to prediction‑market platforms, providing a single, unified API for interacting with exchanges such as Polymarket, Kalshi, and others. It enables developers to programmatically retrieve market data, place bets, and manage positions across multiple prediction‑market venues, simplifying the integration of trading, AI/ML models, and backend services. The project is geared toward building automated strategies and analytics for the emerging prediction‑market ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/pmxt-dev/pmxt) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pmxt-dev/pmxt) · [← Back to Trading](./README.md)</sub>

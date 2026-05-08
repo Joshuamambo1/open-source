@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `pocket-casts`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-Pocket Casts Android is an open-source, community-driven podcast player that offers a powerful and user-friendly listening experience. This project provides a customizable and accessible interface for managing and playing podcasts, as well as features such as offline playback and seamless sync across devices. By contributing to this open-source project, users can help shape the future of podcasting on Android.
+Pocket Casts Android is an open‑source mobile application that brings the popular Pocket Casts podcast streaming service to Android devices. Built with modern Android development tools, it offers features such as episode discovery, offline listening, playback controls, and personalized recommendations, while providing a clean, user‑friendly interface. The project serves as both a functional podcast client and a reference implementation for developers interested in Android media and UI best practices.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Automattic/pocket-casts-android) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Automattic/pocket-casts-android) · [← Back to Mobile](./README.md)</sub>

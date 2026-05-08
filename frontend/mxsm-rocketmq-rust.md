@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 244 |
+| 🍴 **Forks** | 243 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-native` `messaging` `rocketmq` `rocketmq-rust` `rocketmq-rust-client` `rocketmq-rust-sdk` `rust` `tauri`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The mxsm/rocketmq-rust project is an open-source implementation of Apache RocketMQ in Rust, aiming to provide a faster, safer, and more memory-efficient alternative. Built with Rust's modern language features, this project enables developers to leverage the reliability and scalability of RocketMQ while benefiting from Rust's performance and security advantages. By supporting this project, you can contribute to the development of a cutting-edge messaging system.
+RocketMQ‑Rust is an open‑source implementation of Apache RocketMQ written in Rust, aiming to deliver higher throughput, stronger safety guarantees, and reduced memory consumption compared to traditional Java clients. It provides a native Rust client library and tooling for producing and consuming messages, making it well‑suited for performance‑critical backend services. The project welcomes contributions and encourages users to star the repository to support ongoing development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/mxsm/rocketmq-rust) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/mxsm/rocketmq-rust) · [← Back to Frontend](./README.md)</sub>

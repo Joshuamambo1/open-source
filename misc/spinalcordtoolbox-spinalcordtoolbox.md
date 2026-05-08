@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 262 |
+| ⭐ **Stars** | 263 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mri` `neuroimage` `python` `spinalcord`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Spinal Cord Toolbox is an open-source library of analysis tools designed to facilitate the assessment of MRI data from the spinal cord. This comprehensive suite provides researchers and clinicians with a set of reliable and easy-to-use tools for image analysis, segmentation, and quantification. By leveraging this toolbox, users can efficiently extract meaningful information from spinal cord MRI scans.
+Spinal Cord Toolbox (SCT) is a comprehensive, open‑source software suite for processing and analyzing magnetic resonance images of the spinal cord. It provides a wide range of tools for tasks such as segmentation, registration, quantitative metric extraction, and visualization, all designed to facilitate reproducible research and clinical studies. The project is actively maintained and supports multiple operating systems and MRI modalities.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/spinalcordtoolbox/spinalcordtoolbox) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/spinalcordtoolbox/spinalcordtoolbox) · [← Back to Misc](./README.md)</sub>

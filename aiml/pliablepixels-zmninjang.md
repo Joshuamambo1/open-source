@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `cctv` `claude` `claude-code` `mobile` `nvr` `react` `tauri` `zmninja` `zoneminder`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the pliablepixels/zmNinjaNg project:
-
-zmNinjaNg is an open-source, state-of-the-art mobile application for ZoneMinder, a popular video surveillance system. This comprehensive rewrite of zmNinja offers an enhanced user experience with a wide range of features. Developed with a focus on AI/ML and cutting-edge frontend technologies, zmNinjaNg enables users to monitor and control their ZoneMinder setup with ease and efficiency.
+pliablepixels/zmNinjaNg is an open‑source, cross‑platform mobile application that serves as a modern, feature‑rich client for ZoneMinder video surveillance systems. Built as a complete rewrite of the original zmNinja, it leverages contemporary frontend technologies and AI/ML‑enabled components to deliver faster navigation, enhanced event handling, and improved camera control on iOS and Android devices.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/pliablepixels/zmNinjaNg) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pliablepixels/zmNinjaNg) · [← Back to AI/ML](./README.md)</sub>

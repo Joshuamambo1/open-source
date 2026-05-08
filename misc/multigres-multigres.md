@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 91 |
+| 🍴 **Forks** | 92 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Multigres is an open-source project that brings the scalability and performance benefits of Vitess to PostgreSQL databases. It enables users to shard and scale their PostgreSQL instances, making them more adaptable to large and growing workloads. With multigres, developers can maintain the features and capabilities of PostgreSQL while achieving the high availability and reliability of distributed databases.
+Multigres is an open‑source framework that brings Vitess‑style sharding, scaling, and query routing capabilities to PostgreSQL databases. It provides a transparent proxy layer that enables horizontal partitioning, automated failover, and seamless connection pooling for PostgreSQL clusters, making it easier to build highly available, horizontally scalable applications. The project is licensed under an open‑source license and is maintained by the multigres community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/multigres/multigres) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/multigres/multigres) · [← Back to Misc](./README.md)</sub>

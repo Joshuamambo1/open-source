@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 297 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`memory-safety` `migration` `rust` `security-hardening` `translation` `transpiler`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-The immunant/c2rust project is an open-source tool that enables the migration of C code to Rust, aiming to improve software security by leveraging Rust's memory safety features and robust standard library. By facilitating the transition from C to Rust, c2rust helps developers create more secure and maintainable codebases. This project is particularly relevant in the context of security-critical applications.
+Immunant /c2rust is an open‑source tool that automates the migration of existing C codebases to safe, idiomatic Rust. By parsing C source, generating equivalent Rust bindings, and handling complex language features, it helps developers modernize legacy systems while preserving functionality and improving security. The project is especially relevant for security‑focused teams looking to reduce memory‑safety bugs and exploit surface.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/immunant/c2rust) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/immunant/c2rust) · [← Back to Security](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 346 |
-| 🍴 **Forks** | 149 |
+| 🍴 **Forks** | 151 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alerts` `algorithmic-trading` `algorithmic-trading-library` `algotrading` `algotrading-machine-learning` `backtesting` `breakouts` `free-stock-screener` `indian-markets` `nasdaq` `nse` `pipe-and-filter`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the PKScreener project:
-
-PKScreener is an open-source, Python-based stock screener for the National Stock Exchange (NSE) in India, designed to identify potential breakout stocks and their associated breakout values. This advanced tool helps traders and investors discover stocks that are consolidating and may be due for a breakout, allowing for more informed investment decisions. By leveraging chart patterns and technical analysis, PKScreener empowers users to make data-driven choices in the Indian stock market.
+PKScreener is an open‑source Python tool that scans NSE‑listed equities to identify potential breakout candidates, consolidating stocks, and specific chart patterns. It provides calculated breakout levels and visual insights, helping traders quickly spot opportunities without relying on proprietary software.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/pkjmesra/PKScreener) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pkjmesra/PKScreener) · [← Back to Trading](./README.md)</sub>

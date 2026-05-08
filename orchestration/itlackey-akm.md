@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-kit-manager` `agent-tools` `ai-agents` `ai-coding-assistant` `ai-skills` `akm` `claude-code` `cli` `developer-tools` `mcp` `opencode` `package-manager`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the akm project:
-
-The akm (Agent Kit Manager) is an open-source package manager designed to streamline the management of AI agent skills, commands, tools, and knowledge. This project enables developers to efficiently organize and deploy AI components, simplifying the development process and fostering collaboration in AI/ML projects. With akm, teams can effortlessly manage and maintain their AI infrastructure.
+akm (Agent Kit Manager) is an open‑source package manager designed to streamline the distribution and integration of AI agent components such as skills, commands, tools, and knowledge bases. By providing a centralized registry and simple CLI for installing, updating, and version‑controlling these modules, akm enables developers to orchestrate complex AI workflows with reusable, shareable assets. It fits within the orchestration, AI/ML, and DevTools ecosystem, helping teams build and maintain modular, extensible agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/itlackey/akm) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/itlackey/akm) · [← Back to Orchestration](./README.md)</sub>

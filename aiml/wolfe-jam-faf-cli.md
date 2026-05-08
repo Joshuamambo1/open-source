@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents-md` `ai` `ai-context` `claude` `claude-code` `cli` `context-engineering` `cursor` `developer-tools` `faf` `file-format` `gemini`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Wolfe-Jam/faf-cli project is an open-source, universal command-line interface (CLI) for managing persistent project contexts in the field of AI. It utilizes the IANA-registered .faf format to store and manage project data, providing a standardized and interoperable way to share and collaborate on AI projects. This project aims to simplify the development and maintenance of AI projects by providing a streamlined and efficient workflow.
+Wolfe‑Jam/faf‑cli is an open‑source command‑line tool that implements the IANA‑registered **.faf** (FAF) format to store and retrieve persistent project context for AI workflows. By providing a universal CLI for creating, updating, and loading FAF files, it lets developers and AI agents share structured state across sessions, scripts, and tools, streamlining prompt engineering, reproducibility, and integration with a wide range of AI/ML platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/Wolfe-Jam/faf-cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Wolfe-Jam/faf-cli) · [← Back to AI/ML](./README.md)</sub>

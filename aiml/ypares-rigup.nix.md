@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Nix |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-rig-system` `ai-agents` `claude-code` `claude-skills` `harness` `llm-agents` `nix` `nix-flake` `nix-modules` `opencode` `pi` `riglets`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Rigup.nix is an open-source project that integrates AI agents with Nix, allowing users to create parametrable and reproducible AI systems with modular tools and skills. This project enables developers to package AI instructions and tools together in a flexible and efficient manner, facilitating the creation of complex AI systems. By leveraging Nix's reproducibility and modularity, users can easily manage and share AI projects with others.
+YPares/rigup.nix is an open‑source framework that combines AI agents with the Nix package manager to deliver reproducible, modular AI tooling. It lets developers define parametrizable skills, instructions, and external tools as Nix expressions, enabling easy composition, versioning, and deployment of AI‑powered workflows. The project targets the AI/ML community looking for deterministic, reusable, and configurable AI agent environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/YPares/rigup.nix) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/YPares/rigup.nix) · [← Back to AI/ML](./README.md)</sub>

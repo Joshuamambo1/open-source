@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 5.7k |
+| 🍴 **Forks** | 5.8k |
 | 💻 **Language** | TypeSpec |
 | 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`azure` `cloud` `openapi` `rest` `swagger`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The Azure/azure-rest-api-specs project is an open-source repository that provides the source code for REST API specifications used by Microsoft Azure. This project enables developers to access and contribute to the documentation of Azure's vast array of APIs, facilitating a deeper understanding of the platform's capabilities. By making these specifications openly available, the project promotes collaboration, transparency, and innovation within the Azure developer community.
+Azure/azure-rest-api-specs is the official open‑source repository that houses the complete set of REST API definitions for Microsoft Azure services. It provides machine‑readable specification files (Swagger/OpenAPI, JSON, and Markdown) that enable developers to generate client SDKs, create documentation, and build automated testing pipelines for Azure’s cloud offerings. This backend‑focused project serves as the definitive source of truth for Azure’s public APIs, ensuring consistency and up‑to‑date integration across the ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Azure/azure-rest-api-specs) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Azure/azure-rest-api-specs) · [← Back to Backend](./README.md)</sub>

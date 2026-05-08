@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 66 |
+| ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `claude-code` `computer-use` `llm` `mcp-server` `openwebui` `skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The open-computer-use project is an open-source MCP (Meta-Cognitive Process) server that empowers Large Language Models (LLMs) to utilize their own virtual computer environment. This managed Docker workspace provides a comprehensive range of tools, including a live browser, terminal, code execution, document management, and the ability to create autonomous sub-agents. By self-hosting and plugging into any model, users can unlock the full potential of LLMs in a secure and customizable way.
+Yambr/open-computer-use is an open‑source MCP (Model‑Computer Protocol) server that equips any large language model with its own isolated Docker workspace, complete with a live browser, terminal, code execution, document handling, and autonomous sub‑agents. The self‑hosted platform is fully pluggable into any LLM, enabling seamless AI‑driven computing across both frontend and backend components. It’s designed for developers who want to extend LLM capabilities with secure, containerized environments and customizable extensions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Yambr/open-computer-use) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Yambr/open-computer-use) · [← Back to AI/ML](./README.md)</sub>

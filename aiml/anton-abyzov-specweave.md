@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `azure-devops` `claude` `cli` `developer-tools` `documentation` `jira` `testing` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The Specweave project is an open-source, AI-driven development framework that enables domain experts to describe a feature and automatically generates specifications, plans, and tasks, which are then built and synced to GitHub and JIRA. This innovative tool utilizes AI models such as Claude Code, Codex, Cursor, and Copilot to assist project managers, architects, frontend developers, and QA teams by learning their patterns and workflows. By streamlining the development process, Specweave aims to increase productivity and efficiency.
+SpecWeave is an open‑source, spec‑first AI development platform that lets you describe a feature in plain language and then automatically generates a detailed specification, implementation plan, and task breakdown, builds the code, and syncs the results to GitHub and JIRA. It leverages multiple LLMs (Claude, Codex, Cursor, Copilot, etc.) to provide domain‑expert capabilities for product management, architecture, frontend, and QA, learning and adapting to your team's patterns over time. The tool aims to streamline the entire development lifecycle, turning high‑level ideas into production‑ready code with minimal manual effort.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/anton-abyzov/specweave) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/anton-abyzov/specweave) · [← Back to AI/ML](./README.md)</sub>

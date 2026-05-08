@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-development` `ai-workflow` `claude` `claude-code` `code-quality` `developer-tools` `security` `tdd`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the 'correctless' project:
-
-Correctless is an open-source project that leverages AI and machine learning to improve code quality through a novel approach of automated testing and adversarial QA. This project separates the coding agent from the reviewer, enabling dynamic rigor in code validation and security checks. By employing spec-driven TDD (Test-Driven Development), Correctless aims to enhance Claude Code with robustness and reliability.
+**correctless** is an open‑source framework that enforces spec‑driven test‑first development for AI‑generated code, separating the code‑writing agent from a dedicated adversarial QA agent that reviews and challenges the output. By applying dynamic rigor and continuous, automated testing, it ensures that code produced by Claude (or similar models) meets security and correctness standards without relying on human post‑review.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/joshft/correctless) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/joshft/correctless) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `architecture` `cli` `code-generation` `developer-tools` `llm` `pydantic` `python` `scaffolding` `specification`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Ossature is an open-source framework designed to facilitate code generation based on specifications. It provides a harness for developers to generate code automatically, improving efficiency and reducing the risk of errors. By leveraging ossature, developers can streamline their development process and increase productivity.
+Ossature is an open‑source framework that streamlines spec‑driven code generation by providing a flexible harness for defining, validating, and transforming specifications into production‑ready code. It integrates AI/ML‑powered inference with robust developer tooling, enabling teams to automate repetitive coding tasks while maintaining full control over output quality and consistency.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ossature/ossature) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/ossature/ossature) · [← Back to AI/ML](./README.md)</sub>

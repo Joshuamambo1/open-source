@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 147 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 187 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-evaluation` `agentic-ai` `ai-agent-benchmark` `ai-agents` `benchmark` `browser-agent` `browser-automation` `browser-use` `chrome-agent` `chrome-extension` `computer-use` `dataset`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-ClawBench is an open-source benchmark that evaluates the performance of browser AI agents on a diverse range of everyday online tasks across 144 live websites. The benchmark employs a multi-layered approach, combining 5-layer recording, DOM-match, and LLM (Large Language Model) judging to assess the AI agents' capabilities. With a top score of 33.3%, ClawBench provides a valuable tool for measuring and improving the effectiveness of browser AI agents.
+Reacher‑z’s **ClawBench** is an open‑source benchmark that evaluates browser‑based AI agents across 153 everyday online tasks drawn from 144 live websites. It combines a five‑layer interaction recording system, DOM‑structure matching, and an LLM‑based judge to score agents, with the current best performance reaching 33.3 %. The project targets AI/ML researchers and data practitioners interested in web‑automation and agent evaluation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/reacher-z/ClawBench) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/reacher-z/ClawBench) · [← Back to AI/ML](./README.md)</sub>

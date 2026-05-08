@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 343 |
+| 🍴 **Forks** | 344 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `mongodb` `redis` `revolt` `revolt-chat` `revoltchat` `rust` `stoat` `stoat-chat` `stoatchat`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Stoatchat is an open-source backend software powering the Stoat platform, providing a robust foundation for various applications. This project offers a versatile and customizable solution for developers to build and manage their own systems. By utilizing Stoatchat, users can leverage its features to create scalable and efficient backend infrastructure.
+StoatChat is an open‑source backend framework that powers the Stoat platform, providing robust real‑time communication, message routing, and user management services. Built with scalability and extensibility in mind, it offers a modular architecture and API‑first design that developers can integrate into their own chat‑oriented applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/stoatchat/stoatchat) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/stoatchat/stoatchat) · [← Back to Backend](./README.md)</sub>

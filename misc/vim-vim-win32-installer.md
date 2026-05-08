@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | Batchfile |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`installer` `vim` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The vim/vim-win32-installer project provides an open-source installer for the popular Vim text editor on the Windows operating system. This installer simplifies the process of downloading and installing Vim on Windows, making it easier for users to get started with the editor. It offers a convenient alternative to manual installation methods.
+Vim Win32 Installer is an open‑source project that provides a ready‑to‑run Windows installer for the Vim text editor. It packages the full Vim distribution with pre‑configured settings, runtime files, and optional plugins, enabling Windows users to install, update, and uninstall Vim easily without needing to compile the source code. The project is maintained as part of the official Vim repository and serves the “Misc” category of tools.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/vim/vim-win32-installer) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/vim/vim-win32-installer) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Dockerfile |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`386` `alpine-linux` `amd64` `arm` `arm64` `automated-build` `distroless` `dns` `dns-over-https` `dns-over-quic` `dns-over-tls` `dns-privacy`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-This open-source project provides a lightweight and secure Docker image for Unbound, a popular DNS resolver, built on top of Alpine Linux. Designed with security, performance, and small image size in mind, it makes an ideal choice for use cases such as Pi-hole setups. The distroless image minimizes attack surface and reduces dependencies for a more streamlined DNS resolution experience.
+The **madnuttah/unbound-docker** project provides a minimal, distroless Docker image of the Unbound DNS resolver built on Alpine Linux, optimized for security, privacy, performance, and a tiny footprint. It is designed with Pi‑hole integrations in mind, making it ideal for lightweight, production‑grade DNS filtering and caching in DevOps and infrastructure environments.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/madnuttah/unbound-docker) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/madnuttah/unbound-docker) · [← Back to Frontend](./README.md)</sub>

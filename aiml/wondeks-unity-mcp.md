@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-integration` `claude` `copilot` `llm` `mcp` `mcp-client` `mcp-server` `modelcontextprotocol` `template-project` `typescript` `unity`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The wondeks/unity-mcp project is an open-source Unity MCP server that enables Unity Editor actions to be performed remotely by MCP clients, such as Claude Desktop or Cursor. This allows developers to automate or control Unity Editor workflows programmatically, streamlining tasks and improving productivity. By providing a server-side solution, this project facilitates seamless integration with various MCP clients.
+The **unity-mcp** project provides a lightweight MCP (Message Communication Protocol) server built for Unity, enabling external AI assistants such as Claude Desktop or Cursor to control the Unity Editor programmatically. By exposing Unity’s editor actions through a simple network interface, it lets developers integrate AI‑driven tooling, automation, and remote scripting directly into their Unity workflows. This open‑source backend fits into AI/ML, DevTools, and backend ecosystems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/wondeks/unity-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wondeks/unity-mcp) · [← Back to AI/ML](./README.md)</sub>

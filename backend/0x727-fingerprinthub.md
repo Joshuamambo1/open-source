@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 235 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fingerprinting` `nuclei-templates` `wappalyzer` `whatweb`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the 0x727/FingerprintHub project:
-
-FingerprintHub is an open-source, backend project that serves as a fingerprint library for ObserverWard, a surveillance tool. It stores and manages unique identifiers for various targets, allowing for efficient and scalable detection. This project facilitates the development of robust surveillance systems by providing a centralized repository for fingerprint data.
+0x727/FingerprintHub is an open‑source fingerprint repository for the ObserverWard (侦查守卫) project, providing a centralized collection of service and application signatures used for reconnaissance and vulnerability detection. It offers a backend API for querying, updating, and managing these fingerprints, enabling security tools and scripts to quickly identify target technologies and configurations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/0x727/FingerprintHub) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/0x727/FingerprintHub) · [← Back to Backend](./README.md)</sub>

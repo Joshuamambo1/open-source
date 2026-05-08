@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 231 |
 | 💻 **Language** | Cuda |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anns` `building-blocks` `clustering` `cuda` `distance` `gpu` `information-retrieval` `linear-algebra` `llm` `machine-learning` `nearest-neighbors` `neighborhood-methods`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-RAFT (RAID Accelerated Transform Framework) is an open-source project that provides a collection of widely-used, CUDA-accelerated algorithms and primitives for machine learning and information retrieval. These building blocks are designed to simplify the development of high-performance applications in AI/ML and information retrieval. By leveraging RAFT, developers can focus on crafting efficient and scalable solutions without the need for low-level optimization.
+RAFT (rapidsai/raft) is an open‑source library that provides a collection of core, CUDA‑accelerated algorithms and primitives for machine learning and information‑retrieval tasks. Designed as high‑performance building blocks, it enables developers to construct fast AI/ML applications and backend services with minimal effort, while also supporting integration with frontend tools in the RAPIDS ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/rapidsai/raft) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rapidsai/raft) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 15.7k |
-| 🍴 **Forks** | 967 |
+| ⭐ **Stars** | 15.8k |
+| 🍴 **Forks** | 977 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai-agent` `apple` `computer-use` `computer-use-agent` `containerization` `cua` `desktop-automation` `hacktoberfest` `lume` `macos` `manus`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The trycua/cua project is an open-source infrastructure designed to facilitate the development and evaluation of Computer-Use Agents (CUAs), which are AI-powered agents capable of controlling full desktop operating systems, including macOS, Linux, and Windows. This platform provides sandboxes, software development kits (SDKs), and benchmarks to enable researchers and developers to train and assess CUAs. By offering a comprehensive toolkit, cua aims to advance the field of AI and ML in the context of desktop automation.
+trycua/cua provides an open‑source platform for building and testing Computer‑Use Agents—AI systems that can operate full desktop environments across macOS, Linux, and Windows. It includes sandboxed environments, SDKs for integration, and standardized benchmarks to train, evaluate, and compare agents’ ability to control graphical user interfaces. The project targets AI/ML researchers and DevOps/infra teams needing reliable infrastructure for developing autonomous desktop‑automation agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/trycua/cua) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/trycua/cua) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 256 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amrex` `gpu` `hpsf` `laser` `particle-in-cell` `physics` `pic` `plasma` `research` `simulation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-WarpX is an open-source, advanced Particle-In-Cell (PIC) code designed to simulate complex plasma dynamics and high-energy particle interactions. It allows researchers to model a wide range of phenomena, from plasma instabilities to high-intensity laser-matter interactions. By providing a highly scalable and configurable code, WarpX enables users to conduct in-depth simulations and accelerate research in fields such as plasma physics and accelerator science.
+BLAST‑WarpX/warpx is an open‑source, high‑performance Particle‑In‑Cell (PIC) simulation framework designed for modeling plasma and beam dynamics in accelerator and laser‑plasma applications. Built on the AMReX library, it supports adaptive mesh refinement, GPU acceleration, and scalable parallel execution, enabling researchers to run large‑scale, multi‑physics plasma simulations efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/BLAST-WarpX/warpx) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/BLAST-WarpX/warpx) · [← Back to Misc](./README.md)</sub>

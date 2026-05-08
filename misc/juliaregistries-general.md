@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 706 |
-| 🍴 **Forks** | 561 |
+| ⭐ **Stars** | 707 |
+| 🍴 **Forks** | 562 |
 | 💻 **Language** | Julia |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The JuliaRegistries/General project is the official registry of general Julia packages. It provides a centralized platform for discovering, installing, and managing Julia packages across various categories. This project plays a crucial role in maintaining the Julia ecosystem by facilitating package discovery and adoption.
+JuliaRegistries/General is the official, community‑maintained registry that lists and indexes all general‑purpose Julia packages, serving as the default source for the Julia package manager. It provides a structured, version‑controlled catalog of package metadata, enabling reliable discovery, installation, and dependency resolution across the Julia ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/JuliaRegistries/General) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/JuliaRegistries/General) · [← Back to Misc](./README.md)</sub>

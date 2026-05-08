@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3139** |
+| 🗂️ **Total projects** | **3179** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1248 | [Browse →](./aiml/) |
-| 📦 **Misc** | 494 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 311 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 308 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 165 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 163 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 128 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 1263 | [Browse →](./aiml/) |
+| 📦 **Misc** | 502 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 315 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 312 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 169 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 165 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 129 | [Browse →](./crypto/) |
 | 📊 **Data** | 75 | [Browse →](./data/) |
 | 💳 **Payments** | 72 | [Browse →](./payments/) |
-| 📈 **Trading** | 48 | [Browse →](./trading/) |
+| 📈 **Trading** | 49 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 44 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 38 | [Browse →](./mobile/) |
-| 🔐 **Security** | 25 | [Browse →](./security/) |
+| 🔐 **Security** | 26 | [Browse →](./security/) |
 | 🎯 **Product** | 9 | [Browse →](./product/) |
 | ✨ **Design** | 9 | [Browse →](./design/) |
 | 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [kovidgoyal/kitty](./misc/kovidgoyal-kitty.md) | ⭐ 32.8k | Misc |
-| 2 | [temporalio/temporal](./orchestration/temporalio-temporal.md) | ⭐ 20.1k | Orchestration |
-| 3 | [weaviate/weaviate](./aiml/weaviate-weaviate.md) | ⭐ 16.2k | AI/ML |
-| 4 | [alirezarezvani/claude-skills](./orchestration/alirezarezvani-claude-skills.md) | ⭐ 14.1k | Orchestration |
-| 5 | [PrestaShop/PrestaShop](./frontend/prestashop-prestashop.md) | ⭐ 9.1k | Frontend |
-| 6 | [armbian/build](./aiml/armbian-build.md) | ⭐ 5.2k | AI/ML |
-| 7 | [kserve/kserve](./aiml/kserve-kserve.md) | ⭐ 5.4k | AI/ML |
-| 8 | [alibaba/spring-ai-alibaba](./orchestration/alibaba-spring-ai-alibaba.md) | ⭐ 9.5k | Orchestration |
-| 9 | [zalando/postgres-operator](./data/zalando-postgres-operator.md) | ⭐ 5.2k | Data |
-| 10 | [frappe/erpnext](./aiml/frappe-erpnext.md) | ⭐ 33.7k | AI/ML |
+| 1 | [trycua/cua](./aiml/trycua-cua.md) | ⭐ 15.8k | AI/ML |
+| 2 | [Raphire/Win11Debloat](./devtools/raphire-win11debloat.md) | ⭐ 46k | DevTools |
+| 3 | [vuetifyjs/vuetify](./frontend/vuetifyjs-vuetify.md) | ⭐ 41k | Frontend |
+| 4 | [luanti-org/luanti](./devtools/luanti-org-luanti.md) | ⭐ 12.8k | DevTools |
+| 5 | [microsoft/vcpkg](./misc/microsoft-vcpkg.md) | ⭐ 27k | Misc |
+| 6 | [kovidgoyal/kitty](./misc/kovidgoyal-kitty.md) | ⭐ 32.8k | Misc |
+| 7 | [temporalio/temporal](./orchestration/temporalio-temporal.md) | ⭐ 20.1k | Orchestration |
+| 8 | [weaviate/weaviate](./aiml/weaviate-weaviate.md) | ⭐ 16.2k | AI/ML |
+| 9 | [armbian/build](./aiml/armbian-build.md) | ⭐ 5.2k | AI/ML |
+| 10 | [alirezarezvani/claude-skills](./orchestration/alirezarezvani-claude-skills.md) | ⭐ 14.1k | Orchestration |
 
 ## 🚀 How it works
 

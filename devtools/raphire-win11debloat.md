@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 45.8k |
+| ⭐ **Stars** | 46k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | PowerShell |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automated` `bloatware` `bloatware-removal` `cleanup` `cli` `debloat` `debloater` `interactive` `optimize` `powershell` `powershell-script` `privacy`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here is a brief summary for the Raphire/Win11Debloat project:
-
-Raphire/Win11Debloat is an open-source PowerShell script designed to declutter and customize your Windows experience. This lightweight tool allows users to remove pre-installed applications, disable telemetry, and make various other modifications to tailor their Windows setup. Compatible with both Windows 10 and Windows 11, Win11Debloat provides a simple and effective way to refine your operating system.
+Raphire/Win11Debloat is a lightweight PowerShell utility that streamlines Windows 10 and Windows 11 by removing pre‑installed bloatware, disabling telemetry, and applying a variety of custom tweaks. Designed for simplicity and speed, the script lets users quickly declutter and personalize their system without manual registry edits or third‑party tools. It’s an open‑source DevTools project aimed at enhancing privacy and performance on modern Windows installations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Raphire/Win11Debloat) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Raphire/Win11Debloat) · [← Back to DevTools](./README.md)</sub>

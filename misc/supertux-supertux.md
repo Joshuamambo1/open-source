@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 581 |
+| 🍴 **Forks** | 582 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `game` `games` `hacktoberfest` `opengl` `sdl` `sdl2` `supertux`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-SuperTux is an open-source, 2D platformer game that features a unique and colorful world. Developed from the source code of the classic Tux game, SuperTux offers a similar gameplay experience with the addition of new characters, levels, and graphics. It is a free-to-play game that is suitable for players of all ages and skill levels.
+SuperTux is an open‑source, 2D side‑scrolling platformer featuring Tux, the Linux mascot, as the main character. The repository contains the full source code for the game, including its engine, graphics, levels, and build scripts, and is organized for easy compilation and contribution across multiple platforms. It serves as a community‑driven project for anyone interested in game development, modding, or extending a classic arcade‑style experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/SuperTux/supertux) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/SuperTux/supertux) · [← Back to Misc](./README.md)</sub>

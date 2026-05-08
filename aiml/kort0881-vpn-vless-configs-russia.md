@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 402 |
+| ⭐ **Stars** | 409 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`clash` `free-vpn` `hiddify` `proxy` `shadowrocket` `telegram-channel` `v2ray` `vless` `vless-telegram-bot` `vmess` `vpn` `vpn-auto-poster`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project:
-
-The kort0881/vpn-vless-configs-russia project offers a collection of free and up-to-date VLESS, VMESS, and Shadowsocks proxy configurations tailored for users in Russia. The repository utilizes an automated validation and rotation system to ensure secure and reliable VPN connections. This open-source initiative aims to provide a comprehensive and easily accessible VPN keys repository for users in Russia.
+kort0881/vpn-vless-configs-russia is an open‑source repository that provides free, daily‑updated proxy configurations for VLESS, VMESS, and Shadowsocks tailored for use in Russia. It includes an automated system that validates the VPN keys, rotates them regularly, and ensures the configurations remain functional and secure. Although listed under AI/ML, the project focuses on network proxy management rather than machine‑learning functionality.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/kort0881/vpn-vless-configs-russia) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/kort0881/vpn-vless-configs-russia) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`javascript` `material` `material-components` `material-design` `material-theme` `semantic` `typescript` `ui` `ui-components` `ui-design` `ui-kit` `ui-library`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-Vuetify is an open-source Vue component framework that provides a robust set of pre-designed and customizable UI components to streamline the development process. With its extensive library of components, Vuetify enables developers to build visually appealing and user-friendly web applications with minimal effort. It is a popular choice for building modern web applications with a Material Design aesthetic.
+Vuetify is an open‑source UI library for Vue.js that provides a comprehensive collection of reusable, customizable components based on the Material Design specification. It streamlines the development of responsive, aesthetically consistent front‑end interfaces, offering built‑in theming, accessibility, and layout tools for rapid prototyping and production‑grade applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/vuetifyjs/vuetify) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/vuetifyjs/vuetify) · [← Back to Frontend](./README.md)</sub>

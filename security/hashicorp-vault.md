@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.7k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`go` `secrets` `vault`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-Hashicorp Vault is an open-source secrets management platform that securely stores and manages sensitive data, such as API keys and passwords, through encryption and access control. It provides a robust framework for encryption as a service and privileged access management, enabling organizations to protect their sensitive information and maintain compliance. By centralizing sensitive data and controlling access, Vault helps to mitigate the risk of data breaches and maintain the security posture of an organization.
+HashiCorp Vault is an open‑source tool that provides a unified solution for securely storing, managing, and controlling access to secrets such as API keys, passwords, certificates, and encryption keys. It offers encryption‑as‑a‑service, dynamic secret generation, and fine‑grained privileged access management, enabling organizations to enforce strong security policies and reduce the risk of credential leakage.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hashicorp/vault) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/hashicorp/vault) · [← Back to Security](./README.md)</sub>

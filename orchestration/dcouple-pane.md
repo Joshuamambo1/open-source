@@ -8,27 +8,25 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 73 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 76 |
+| 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-manager` `agentic-ai` `agents` `ai` `aider` `claude-code` `cli` `codex` `coding-agents` `cursor-ai` `desktop` `developer`
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the dcouple/Pane project:
-
-Pane is an open-source, terminal-first AI agent manager that empowers users to integrate their preferred agents seamlessly. By providing a centralized interface, Pane streamlines the experience of working with various AI assistants, much like a client application simplifies email management. This project offers a flexible and customizable solution for managing AI agents in a unified manner.
+Pane is a terminal‑first client for managing AI agents, letting users orchestrate and interact with any agents they choose without providing the agents themselves. It offers a lightweight, developer‑focused interface that streamlines agent deployment, monitoring, and communication directly from the command line. Ideal for AI/ML workflows and DevOps tooling, Pane focuses on orchestration rather than agent creation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/dcouple/Pane) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dcouple/Pane) · [← Back to Orchestration](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automatic-dependency-generator` `build-tool` `cli` `cmake` `fortran` `github-integration` `makefile` `oop`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the FoBiS project:
-
-FoBiS is an open-source, command-line tool for building and managing Fortran projects. As a frontend, FoBiS provides a simple and efficient way to compile, link, and test Fortran code, streamlining the development process for scientists and engineers who use the language. With FoBiS, users can easily configure and execute complex build processes for their Fortran projects.
+FoBiS.py (Fortran Build System) is an open‑source, Python‑based tool that streamlines the compilation, testing, and deployment of Fortran projects. It provides a simple, cross‑platform command‑line interface for managing source files, dependencies, and build configurations, making Fortran development faster and more reproducible. Ideal for both small scripts and large scientific codebases, FoBiS.py integrates seamlessly with existing workflows and continuous‑integration pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/szaghi/FoBiS) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/szaghi/FoBiS) · [← Back to Frontend](./README.md)</sub>

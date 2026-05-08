@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 64 |
-| 🍴 **Forks** | 7 |
+| ⭐ **Stars** | 78 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`coding-agent` `command-rewrite` `hack` `optimization` `output-compaction` `performance` `pi` `pi-coding-agent` `pi-extension` `pi-optimization` `redux-toolkit` `rtk`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The pi-rtk-optimizer is an open-source extension that enhances the performance of coding agents by optimizing RTK command rewriting and compacting tool output. By streamlining these processes, it enables more efficient and effective coding workflows. This project is particularly suited for developers working in AI/ML and frontend development.
+MasuRii/pi-rtk-optimizer is an open‑source Pi extension that streamlines Real‑Time Kinematic (RTK) workflows by automatically rewriting RTK commands for optimal performance and compacting tool output for easier consumption by coding agents. It integrates lightweight AI/ML heuristics to detect inefficiencies and refactor code, while providing a clean frontend interface for developers to monitor and fine‑tune the optimization process.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/MasuRii/pi-rtk-optimizer) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/MasuRii/pi-rtk-optimizer) · [← Back to AI/ML](./README.md)</sub>

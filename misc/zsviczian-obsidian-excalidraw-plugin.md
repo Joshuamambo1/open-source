@@ -1,6 +1,6 @@
 # zsviczian/obsidian-excalidraw-plugin
 
-[![Stars](https://img.shields.io/github/stars/zsviczian/obsidian-excalidraw-plugin?style=flat-square&color=yellow)](https://github.com/zsviczian/obsidian-excalidraw-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/zsviczian/obsidian-excalidraw-plugin?style=flat-square&color=blue)](https://github.com/zsviczian/obsidian-excalidraw-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zsviczian/obsidian-excalidraw-plugin?style=flat-square&color=yellow)](https://github.com/zsviczian/obsidian-excalidraw-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/zsviczian/obsidian-excalidraw-plugin?style=flat-square&color=blue)](https://github.com/zsviczian/obsidian-excalidraw-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > A plugin to edit and view Excalidraw drawings in Obsidian
 
@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.8k |
-| 🍴 **Forks** | 430 |
+| 🍴 **Forks** | 435 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 82/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Obsidian Excalidraw Plugin allows users to seamlessly integrate Excalidraw drawings into their Obsidian knowledge management workflows. This plugin enables the creation, editing, and viewing of Excalidraw files directly within Obsidian, streamlining the process of incorporating visual diagrams into notes and projects. By leveraging Excalidraw's powerful drawing capabilities, users can enhance their note-taking and idea organization with interactive, hand-drawn graphics.
+The **Obsidian Excalidraw Plugin** (zsviczian/obsidian-excalidraw-plugin) adds full support for creating, editing, and viewing Excalidraw sketches directly within Obsidian notes. It integrates the Excalidraw canvas as a native block, allowing users to embed interactive diagrams, synchronize changes with the vault, and export drawings in standard image formats. The plugin streamlines visual note‑taking workflows for anyone using Obsidian as a knowledge‑management tool.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/zsviczian/obsidian-excalidraw-plugin) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/zsviczian/obsidian-excalidraw-plugin) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`jellyseerr` `lastfm` `lidarr` `music` `musicbrainz` `overseerr` `seerr`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The aurral project is an open-source artist discovery and request manager designed specifically for Lidarr, a music library manager. This AI-driven tool helps users discover new artists and manage music requests, providing an enhanced music collection experience. aurral utilizes machine learning capabilities to learn user preferences and suggest relevant artists and tracks.
+Aurral is an open‑source discovery and request manager that integrates with **Lidarr** to help users find new music artists and automate album imports. Leveraging AI/ML techniques, it recommends emerging artists, tracks user preferences, and streamlines request handling, making it easier for music enthusiasts to curate and expand their collections.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/lklynet/aurral) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/lklynet/aurral) · [← Back to AI/ML](./README.md)</sub>

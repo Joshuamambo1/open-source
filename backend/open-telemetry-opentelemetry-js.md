@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `distributed-tracing` `metrics` `monitoring` `telemetry`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The open-telemetry/opentelemetry-js project is an open-source JavaScript client for OpenTelemetry, enabling developers to collect and visualize distributed system metrics and traces in real-time. This client allows for easy integration with various OpenTelemetry backends, providing a seamless and standardized way to instrument and monitor applications. By utilizing this library, developers can gain valuable insights into their application's performance and behavior.
+OpenTelemetry JS is the official JavaScript client library for the OpenTelemetry observability framework, enabling developers to generate, collect, and export traces, metrics, and logs from Node.js and browser applications. It provides a standardized API and SDKs, along with integrations for popular frameworks and libraries, making it easy to instrument code and send telemetry data to a wide range of back‑ends for monitoring and debugging.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/open-telemetry/opentelemetry-js) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/open-telemetry/opentelemetry-js) · [← Back to Backend](./README.md)</sub>

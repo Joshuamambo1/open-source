@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `claude` `collaboration` `go` `golang` `mcp` `mcp-server` `miro` `model-context-protocol` `whiteboard`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This open-source project, olgasafonova/miro-mcp-server, provides a MCP server for controlling Miro whiteboards with AI assistants, enabling seamless integration and automation of virtual meetings and collaborative workspaces. The project is categorized under AI/ML and Backend, showcasing its advanced capabilities in artificial intelligence and server-side development. By utilizing this MCP server, users can unlock the full potential of Miro whiteboards with intelligent control and automation.
+The **miro-mcp-server** is an open‑source backend that implements the Miro Collaboration Protocol (MCP), enabling programmatic control of Miro whiteboards through AI assistants. It provides a lightweight, extensible server that handles authentication, event routing, and board manipulation, allowing developers to integrate natural‑language or machine‑learning agents directly into Miro sessions. Ideal for AI/ML projects that need real‑time interaction with Miro’s collaborative canvas.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/olgasafonova/miro-mcp-server) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/olgasafonova/miro-mcp-server) · [← Back to AI/ML](./README.md)</sub>

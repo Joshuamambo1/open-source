@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 136 |
+| 🍴 **Forks** | 137 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`app` `crud-application` `data-analysis` `data-science` `data-visualization` `developer-tools` `framework` `gui` `machine-learning` `python` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-RIO (RIO Labs/rio) is an open-source project that enables the creation of web applications using pure Python, eliminating the need for JavaScript, HTML, and CSS. This innovative framework streamlines frontend development, making it more accessible and efficient for developers. With RIO, you can focus on building robust web applications without the complexities of frontend technologies.
+Rio is an open‑source framework that lets developers build full‑featured web applications using only Python—eliminating the need to write any JavaScript, HTML, or CSS. By rendering UI components server‑side and handling interactivity through Python code, Rio simplifies frontend development while integrating smoothly with AI/ML workflows and other Python tools. It serves as a DevTools solution for rapid prototyping and production‑grade web apps entirely in pure Python.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/rio-labs/rio) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/rio-labs/rio) · [← Back to AI/ML](./README.md)</sub>

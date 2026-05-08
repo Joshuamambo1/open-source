@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 179 |
+| 🍴 **Forks** | 180 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `anthropic` `automation` `browser` `llm` `openai` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-nottelabs/notte is a promising open-source project. Categories: AI/ML, Frontend, Backend. Interest score: 66/100.
+Notte is an open‑source framework designed for building web‑based agents and deploying serverless automation functions that run on a reliable, headless‑browser infrastructure. It streamlines both frontend and backend development, offering AI/ML‑ready tools for creating intelligent, browser‑driven workflows that can be easily scaled and managed.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/nottelabs/notte) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/nottelabs/notte) · [← Back to AI/ML](./README.md)</sub>

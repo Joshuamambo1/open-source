@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6.3k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `linux` `mmorpg` `multi-platform` `multiplayer` `trinitycore` `wow`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-TrinityCore/TrinityCore is a promising open-source project. Categories: Misc. Interest score: 99/100.
+TrinityCore is an open‑source server framework that recreates the core functionality of World of Warcraft, enabling developers to run private or test realms for multiple game versions (including the latest master build, 3.3.5a, and Cataclysm Classic). It provides a fully configurable, community‑maintained codebase with extensive scripting, database tools, and documentation, making it a popular foundation for custom MMO projects and research.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/TrinityCore/TrinityCore) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/TrinityCore/TrinityCore) · [← Back to Misc](./README.md)</sub>

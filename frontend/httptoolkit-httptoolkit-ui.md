@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-tools` `http` `http-proxy` `tools`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the httptoolkit/httptoolkit-ui project:
-
-HTTP Toolkit UI is a user-friendly interface for the HTTP Toolkit project, providing a graphical frontend for inspecting and manipulating HTTP requests and responses. This open-source project allows developers to visualize and interact with their HTTP traffic in a more intuitive and accessible way, making it easier to debug and optimize web applications. By leveraging the HTTP Toolkit's powerful features, this UI offers a streamlined experience for developers and testers.
+HTTP Toolkit UI is the front‑end interface for the open‑source HTTP Toolkit, providing developers with a visual, interactive environment to intercept, inspect, and debug HTTP(S) traffic. Built with modern web technologies, it offers real‑time request/response inspection, editing, and replay features, making it a powerful dev‑tool for web and API development. The project is maintained as a standalone UI component, ready to be integrated or extended within custom workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/httptoolkit/httptoolkit-ui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/httptoolkit/httptoolkit-ui) · [← Back to Frontend](./README.md)</sub>

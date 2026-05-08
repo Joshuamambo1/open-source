@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7.5k |
 | 💻 **Language** | CMake |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `cmake` `cplusplus` `cpp` `libraries` `package-manager` `packages` `vcpkg` `visual-studio` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Microsoft vcpkg project is an open-source, cross-platform C++ library manager that simplifies the process of building, managing, and tracking dependencies for various operating systems, including Windows, Linux, and MacOS. It provides a unified interface for discovering, installing, and updating libraries, making it easier to develop and maintain C++ applications. With vcpkg, developers can focus on writing code rather than managing complex library dependencies.
+Microsoft vcpkg is an open‑source, cross‑platform package manager that simplifies acquiring, building, and integrating C++ libraries on Windows, Linux, and macOS. It automates dependency resolution, supports a wide range of libraries, and integrates seamlessly with Visual Studio, CMake, and other build systems, helping developers manage third‑party code consistently across environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/microsoft/vcpkg) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/microsoft/vcpkg) · [← Back to Misc](./README.md)</sub>

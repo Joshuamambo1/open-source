@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `cpp17` `game-engine` `lua` `luanti` `minetest` `voxel` `voxel-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Luanti is an open-source voxel game-creation platform that empowers users to easily build and customize their own games through its intuitive modding system. With Luanti, game developers can focus on creativity and imagination, rather than complicated coding, to create engaging and immersive gaming experiences. This versatile platform offers a vast array of possibilities for game creation and modification.
+Luanti (formerly Minetest) is an open‑source voxel engine that enables users to build and play sandbox games with a focus on simplicity and extensibility. It provides a robust modding API, Lua scripting, and a flexible client‑server architecture, making it a powerful tool for both hobbyists and developers to create custom gameplay experiences. As a DevTools platform, Luanti emphasizes easy content creation, cross‑platform support, and a vibrant community of contributors.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/luanti-org/luanti) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/luanti-org/luanti) · [← Back to DevTools](./README.md)</sub>

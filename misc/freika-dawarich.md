@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.9k |
-| 🍴 **Forks** | 296 |
+| ⭐ **Stars** | 9k |
+| 🍴 **Forks** | 299 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`google-maps` `gpslogger` `hacktoberfest` `homelab` `maps` `memory` `owntracks` `self-hosted` `timeline`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Freika/dawarich is an open-source, self-hosted alternative to Google Timeline, allowing users to maintain control over their location history. This project provides a decentralized solution for users to store and view their GPS coordinates and timeline, free from the constraints of a third-party service like Google Location History. By hosting the data locally, users can ensure their location information remains private and secure.
+Freika/dawarich is an open‑source, self‑hosted web application that lets users record, visualize, and manage their own location history—functionally similar to Google Timeline but without reliance on Google services. It stores GPS data locally, provides interactive maps and timeline views, and can be deployed on personal servers or containers for full privacy control.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Freika/dawarich) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Freika/dawarich) · [← Back to Misc](./README.md)</sub>

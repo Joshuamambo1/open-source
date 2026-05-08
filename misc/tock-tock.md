@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.3k |
-| 🍴 **Forks** | 826 |
+| 🍴 **Forks** | 827 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arm` `cortex-m` `embedded` `iot` `kernel` `mcu` `microcontroller` `operating-system` `risc-v` `rust` `secure-operating-system` `tock`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Tock/tock is an open-source, secure embedded operating system designed for microcontrollers. It provides a robust and reliable foundation for building a wide range of embedded systems, from wearables and IoT devices to industrial automation and robotics. With a focus on security and flexibility, tock/tock enables developers to create embedded systems that are both efficient and trustworthy.
+tock is an open‑source, safety‑focused operating system designed for low‑power microcontrollers. It provides memory isolation, preemptive multitasking, and a lightweight kernel that enables secure, reliable firmware development for embedded IoT devices. The project is written in Rust and targets a wide range of ARM Cortex‑M platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/tock/tock) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tock/tock) · [← Back to Misc](./README.md)</sub>

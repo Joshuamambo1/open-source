@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 143 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 151 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`air-gapped` `artifact-registry` `artifactory-alternative` `cargo-registry` `conan` `curation` `docker-registry` `maven-repository` `nexus-alternative` `npm-registry` `nuget` `oci-registry`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Nora is an open-source, lightweight artifact registry that supports various package managers, including Docker, Maven, npm, PyPI, Cargo, and Go. This single-binary solution requires zero dependencies and consumes less than 100MB of RAM, making it a suitable choice for resource-constrained environments. Nora is categorized under AI/ML, DevOps/Infra, and Security, indicating its potential applications in these areas.
+The **getnora-io/nora** project provides a lightweight, single‑binary artifact registry that supports more than a dozen package formats—including Docker, Maven, npm, PyPI, Cargo, Go, RubyGems, Terraform, and NuGet—while requiring zero external dependencies and under 100 MB of RAM. Designed for DevOps and security teams, Nora enables fast, self‑hosted storage and retrieval of artifacts across AI/ML, infrastructure, and other pipelines without the overhead of traditional registries.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/getnora-io/nora) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/getnora-io/nora) · [← Back to AI/ML](./README.md)</sub>

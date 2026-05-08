@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 43 |
+| ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `amp` `claude` `claude-code` `code-duplication` `codebase-hygiene` `codebase-intelligence` `codex` `copilot` `cursor` `dead-code` `fallow`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the fallow-skills project:
-
-Fallow-skills is an open-source project that empowers AI agents to analyze and optimize codebases by detecting issues such as unused code, duplication, and complexity hotspots. This codebase intelligence tool integrates with various agents, including Claude Code, Cursor, and Codex, to provide insights and improvements for developers. By leveraging fallow-skills, developers can maintain healthy and maintainable codebases.
+Fallow‑Skills is an open‑source library that equips AI agents with deep code‑base intelligence for JavaScript and TypeScript projects. It enables agents to automatically detect unused code, duplication, circular dependencies, complexity hotspots, architectural drift, and—when used with the Fallow Runtime—hot‑path and cold‑path execution evidence. The package integrates with Claude Code, Cursor, Codex, Gemini CLI, and more than 30 other agents, making it a versatile tool for orchestration, AI‑assisted development, and dev‑tool workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/fallow-rs/fallow-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/fallow-rs/fallow-skills) · [← Back to Orchestration](./README.md)</sub>

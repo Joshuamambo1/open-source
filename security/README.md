@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**36 projects** in this category.
+**37 projects** in this category.
 
 ## Projects
 
@@ -33,17 +33,18 @@
 | 23 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 56/100 |
 | 24 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 54/100 |
 | 25 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 53/100 |
-| 26 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 52/100 |
-| 27 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 52/100 |
-| 28 | [mytechnotalent/Hacking-Rust](./mytechnotalent-hacking-rust.md) | ⭐ 224 | Rust | 52/100 |
-| 29 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 52/100 |
-| 30 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 51/100 |
-| 31 | [yaklang/yaklang](./yaklang-yaklang.md) | ⭐ 548 | Go | 51/100 |
-| 32 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
-| 33 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 50/100 |
-| 34 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 48/100 |
-| 35 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
-| 36 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
+| 26 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 52/100 |
+| 27 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 52/100 |
+| 28 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 52/100 |
+| 29 | [mytechnotalent/Hacking-Rust](./mytechnotalent-hacking-rust.md) | ⭐ 224 | Rust | 52/100 |
+| 30 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 52/100 |
+| 31 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 51/100 |
+| 32 | [yaklang/yaklang](./yaklang-yaklang.md) | ⭐ 548 | Go | 51/100 |
+| 33 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
+| 34 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 50/100 |
+| 35 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 48/100 |
+| 36 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
+| 37 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
 
 ---
 

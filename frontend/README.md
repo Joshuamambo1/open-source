@@ -465,8 +465,8 @@
 | 455 | [PozzettiAndrea/ComfyUI-UniRig](./pozzettiandrea-comfyui-unirig.md) | ⭐ 383 | Python | 43/100 |
 | 456 | [ALT-F4-LLC/vorpal](./alt-f4-llc-vorpal.md) | ⭐ 116 | Rust | 42/100 |
 | 457 | [Reviewable/Reviewable](./reviewable-reviewable.md) | ⭐ 198 | CSS | 42/100 |
-| 458 | [tangramdotdev/tangram](./tangramdotdev-tangram.md) | ⭐ 122 | Rust | 41/100 |
-| 459 | [timasoft/hyprviz](./timasoft-hyprviz.md) | ⭐ 192 | Rust | 41/100 |
+| 458 | [timasoft/hyprviz](./timasoft-hyprviz.md) | ⭐ 192 | Rust | 41/100 |
+| 459 | [tangramdotdev/tangram](./tangramdotdev-tangram.md) | ⭐ 122 | Rust | 41/100 |
 | 460 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 40/100 |
 | 461 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 39/100 |
 | 462 | [skorotkiewicz/nanorust](./skorotkiewicz-nanorust.md) | ⭐ — | — | 39/100 |

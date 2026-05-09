@@ -325,16 +325,16 @@
 | 315 | [programmersd21/kairo](./programmersd21-kairo.md) | ⭐ 191 | Go | 52/100 |
 | 316 | [GlitterKill/sdl-mcp](./glitterkill-sdl-mcp.md) | ⭐ 296 | TypeScript | 52/100 |
 | 317 | [bobmatnyc/claude-mpm](./bobmatnyc-claude-mpm.md) | ⭐ 126 | Python | 51/100 |
-| 318 | [haiphucnguyen/askimo](./haiphucnguyen-askimo.md) | ⭐ 104 | Kotlin | 51/100 |
-| 319 | [qualixar/superlocalmemory](./qualixar-superlocalmemory.md) | ⭐ 142 | Python | 51/100 |
+| 318 | [qualixar/superlocalmemory](./qualixar-superlocalmemory.md) | ⭐ 142 | Python | 51/100 |
+| 319 | [haiphucnguyen/askimo](./haiphucnguyen-askimo.md) | ⭐ 104 | Kotlin | 51/100 |
 | 320 | [synapseorch-ai/synapse-ai](./synapseorch-ai-synapse-ai.md) | ⭐ 48 | Python | 51/100 |
 | 321 | [notadev-iamaura/OneRAG](./notadev-iamaura-onerag.md) | ⭐ 120 | Python | 51/100 |
 | 322 | [mitulgarg/env-doctor](./mitulgarg-env-doctor.md) | ⭐ 139 | Python | 51/100 |
 | 323 | [espressif/esp-claw](./espressif-esp-claw.md) | ⭐ 1.1k | C | 51/100 |
 | 324 | [vinhnx/VT.ai](./vinhnx-vt.ai.md) | ⭐ 112 | Python | 51/100 |
 | 325 | [Agnuxo1/OpenCLAW-P2P](./agnuxo1-openclaw-p2p.md) | ⭐ 40 | TypeScript | 51/100 |
-| 326 | [MDalamin5/End-to-End-Agentic-Ai-Automation-Lab](./mdalamin5-end-to-end-agentic-ai-automation-lab.md) | ⭐ 68 | Jupyter Notebook | 51/100 |
-| 327 | [JKHeadley/instar](./jkheadley-instar.md) | ⭐ 60 | TypeScript | 51/100 |
+| 326 | [JKHeadley/instar](./jkheadley-instar.md) | ⭐ 60 | TypeScript | 51/100 |
+| 327 | [MDalamin5/End-to-End-Agentic-Ai-Automation-Lab](./mdalamin5-end-to-end-agentic-ai-automation-lab.md) | ⭐ 68 | Jupyter Notebook | 51/100 |
 | 328 | [dotboris/alt](./dotboris-alt.md) | ⭐ 88 | Rust | 51/100 |
 | 329 | [XortexAI/XMem](./xortexai-xmem.md) | ⭐ 45 | Python | 51/100 |
 | 330 | [opsrobot-ai/opsrobot](./opsrobot-ai-opsrobot.md) | ⭐ 136 | JavaScript | 51/100 |
@@ -392,8 +392,8 @@
 | 382 | [yonatangross/orchestkit](./yonatangross-orchestkit.md) | ⭐ 168 | TypeScript | 51/100 |
 | 383 | [syncable-dev/memtrace-public](./syncable-dev-memtrace-public.md) | ⭐ 148 | Python | 51/100 |
 | 384 | [Signet-AI/signetai](./signet-ai-signetai.md) | ⭐ 137 | TypeScript | 51/100 |
-| 385 | [voidborne-d/master-skill](./voidborne-d-master-skill.md) | ⭐ 49 | Shell | 50/100 |
-| 386 | [bug-ops/zeph](./bug-ops-zeph.md) | ⭐ 30 | Rust | 50/100 |
+| 385 | [bug-ops/zeph](./bug-ops-zeph.md) | ⭐ 30 | Rust | 50/100 |
+| 386 | [voidborne-d/master-skill](./voidborne-d-master-skill.md) | ⭐ 49 | Shell | 50/100 |
 | 387 | [Apra-Labs/apra-fleet](./apra-labs-apra-fleet.md) | ⭐ 37 | TypeScript | 50/100 |
 | 388 | [radimsem/remindb](./radimsem-remindb.md) | ⭐ 41 | Go | 50/100 |
 | 389 | [Icarus603/claude-code](./icarus603-claude-code.md) | ⭐ 21 | TypeScript | 50/100 |
@@ -410,10 +410,10 @@
 | 400 | [sahil87/run-kit](./sahil87-run-kit.md) | ⭐ 39 | TypeScript | 50/100 |
 | 401 | [arvindrk/extract-design-system](./arvindrk-extract-design-system.md) | ⭐ 32 | TypeScript | 50/100 |
 | 402 | [CreminiAI/skillpack](./creminiai-skillpack.md) | ⭐ 331 | TypeScript | 50/100 |
-| 403 | [DiegoNogueiraDev/mcp-graph-workflow](./diegonogueiradev-mcp-graph-workflow.md) | ⭐ 34 | TypeScript | 50/100 |
-| 404 | [simota/agent-skills](./simota-agent-skills.md) | ⭐ 32 | HTML | 50/100 |
-| 405 | [itlackey/akm](./itlackey-akm.md) | ⭐ 43 | TypeScript | 50/100 |
-| 406 | [dkondo/agent-tackle-box](./dkondo-agent-tackle-box.md) | ⭐ 49 | Python | 50/100 |
+| 403 | [simota/agent-skills](./simota-agent-skills.md) | ⭐ 32 | HTML | 50/100 |
+| 404 | [DiegoNogueiraDev/mcp-graph-workflow](./diegonogueiradev-mcp-graph-workflow.md) | ⭐ 34 | TypeScript | 50/100 |
+| 405 | [dkondo/agent-tackle-box](./dkondo-agent-tackle-box.md) | ⭐ 49 | Python | 50/100 |
+| 406 | [itlackey/akm](./itlackey-akm.md) | ⭐ 43 | TypeScript | 50/100 |
 | 407 | [MarlBurroW/kinbot](./marlburrow-kinbot.md) | ⭐ 40 | TypeScript | 50/100 |
 | 408 | [friday-platform/friday-studio](./friday-platform-friday-studio.md) | ⭐ 63 | TypeScript | 50/100 |
 | 409 | [dhyansraj/mcp-mesh](./dhyansraj-mcp-mesh.md) | ⭐ 33 | Python | 50/100 |

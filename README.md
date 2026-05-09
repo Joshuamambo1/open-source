@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4662** |
+| 🗂️ **Total projects** | **4672** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,8 +18,8 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1891 | [Browse →](./aiml/) |
-| 📦 **Misc** | 783 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 1897 | [Browse →](./aiml/) |
+| 📦 **Misc** | 786 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 467 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 450 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 244 | [Browse →](./devtools/) |
@@ -30,7 +30,7 @@
 | 📈 **Trading** | 60 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 55 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 53 | [Browse →](./mobile/) |
-| 🔐 **Security** | 36 | [Browse →](./security/) |
+| 🔐 **Security** | 37 | [Browse →](./security/) |
 | ✨ **Design** | 12 | [Browse →](./design/) |
 | 🎯 **Product** | 10 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
@@ -43,12 +43,12 @@
 | 2 | [flybywiresim/aircraft](./aiml/flybywiresim-aircraft.md) | ⭐ 5.4k | AI/ML |
 | 3 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.9k | Frontend |
 | 4 | [apache/groovy](./misc/apache-groovy.md) | ⭐ 5.4k | Misc |
-| 5 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
+| 5 | [ai-collection/ai-collection](./aiml/ai-collection-ai-collection.md) | ⭐ 8.9k | AI/ML |
 | 6 | [TeamNewPipe/NewPipe](./mobile/teamnewpipe-newpipe.md) | ⭐ 38k | Mobile |
-| 7 | [ai-collection/ai-collection](./aiml/ai-collection-ai-collection.md) | ⭐ 8.9k | AI/ML |
+| 7 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
 | 8 | [alibaba/spring-cloud-alibaba](./frontend/alibaba-spring-cloud-alibaba.md) | ⭐ 29.1k | Frontend |
-| 9 | [tw93/Pake](./misc/tw93-pake.md) | ⭐ 48.6k | Misc |
-| 10 | [Anionex/banana-slides](./aiml/anionex-banana-slides.md) | ⭐ 14.4k | AI/ML |
+| 9 | [Anionex/banana-slides](./aiml/anionex-banana-slides.md) | ⭐ 14.4k | AI/ML |
+| 10 | [tw93/Pake](./misc/tw93-pake.md) | ⭐ 48.6k | Misc |
 
 ## 🚀 How it works
 

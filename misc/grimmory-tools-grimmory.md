@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 193 |
+| 🍴 **Forks** | 199 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the Grimmory project:
-
-Grimmory is an open-source community fork of Booklore, a project that aims to provide a comprehensive collection of knowledge and information. As an independent and community-driven initiative, Grimmory seeks to preserve and expand on the original project's goals, fostering a collaborative environment for users to contribute and access a wide range of knowledge.
+Grimmory is an open‑source, community‑driven fork of the Booklore platform, maintained independently to extend and customize its features. It provides a flexible framework for managing and sharing literary content, while encouraging contributions from developers and readers alike. The project is categorized under Miscellaneous utilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/grimmory-tools/grimmory) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/grimmory-tools/grimmory) · [← Back to Misc](./README.md)</sub>

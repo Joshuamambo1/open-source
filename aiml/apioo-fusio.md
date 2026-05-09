@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 239 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `api` `api-gateway` `api-management` `api-manager` `backend` `javascript` `mcp-server` `microservice` `openapi` `php`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Fusio is a self-hosted API management platform designed for developers and builders, offering a flexible and customizable solution for API creation, management, and integration. This open-source project provides a robust set of tools for building and deploying APIs, with features such as API documentation, authentication, and rate limiting. By using Fusio, developers can streamline their API workflows and focus on building innovative applications.
+Fusio is an open‑source, self‑hosted API management platform that empowers developers to design, secure, and monitor RESTful services without relying on third‑party gateways. It provides a web‑based UI and robust backend tools for creating routes, handling authentication, rate limiting, and generating documentation, making it ideal for builders who need full control over their API lifecycle. The project blends frontend and backend components and can be extended with AI/ML integrations for advanced analytics and automated policy enforcement.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/apioo/fusio) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/apioo/fusio) · [← Back to AI/ML](./README.md)</sub>

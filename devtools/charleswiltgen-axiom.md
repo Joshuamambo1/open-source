@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 884 |
-| 🍴 **Forks** | 68 |
+| ⭐ **Stars** | 891 |
+| 🍴 **Forks** | 70 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools · Mobile
 
 ## 📝 Summary
 
-Axiom is an open-source project offering battle-tested Claude Code skills for developing apps on modern Apple operating systems, including iOS, iPadOS, watchOS, and tvOS. This project enables developers to leverage its pre-existing knowledge and skills to streamline their cross-platform development process. By utilizing Axiom, developers can focus on creating innovative and high-quality apps for the Apple ecosystem.
+**Axiom** is an open‑source toolkit that packages battle‑tested Claude AI code‑generation prompts and utilities for modern Apple platforms (iOS, iPadOS, watchOS, and tvOS). It streamlines the development workflow by delivering ready‑to‑use snippets, templates, and helper scripts that let developers harness Claude’s coding expertise to accelerate app creation, debugging, and refactoring. Ideal for DevTools and mobile teams looking to boost productivity across the entire Apple ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/CharlesWiltgen/Axiom) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/CharlesWiltgen/Axiom) · [← Back to DevTools](./README.md)</sub>

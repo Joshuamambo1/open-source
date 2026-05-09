@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 37 |
-| 🍴 **Forks** | 2 |
+| ⭐ **Stars** | 118 |
+| 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude-code` `codex` `gemini-cli` `github-copilot` `openrouter` `vercel-ai-gateway`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The aivo project is an open-source initiative that enables users to integrate various AI and machine learning models into their coding agents. This platform provides developers with a flexible framework for incorporating models into their tools and applications, streamlining the process of leveraging AI capabilities. By supporting multiple models, aivo aims to simplify the development of intelligent coding agents.
+Aivo is a versatile command‑line utility that lets you hook any coding agent up to virtually any language model, while also providing a set of ready‑to‑use built‑in models that require no API keys or registration. It streamlines AI‑assisted development for both frontend and backend projects, offering a plug‑and‑play solution for rapid prototyping and integration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/yuanchuan/aivo) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/yuanchuan/aivo) · [← Back to AI/ML](./README.md)</sub>

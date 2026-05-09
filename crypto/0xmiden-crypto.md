@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 133 |
-| 🍴 **Forks** | 88 |
+| 🍴 **Forks** | 89 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cryptography`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-The 0xMiden/crypto project is an open-source repository of cryptographic primitives used in Polygon Miden, a rollup solution that provides scalability and security for blockchain applications. This collection of cryptographic primitives enables secure and efficient transactions within the Miden ecosystem. By making these primitives open-source, the project fosters collaboration and innovation in the development of secure, scalable blockchain solutions.
+0xMiden/crypto is an open‑source library that implements the core cryptographic primitives required by the Polygon Miden rollup, including hash functions, signatures, and zero‑knowledge proof utilities. Designed for high performance and security, the project provides reusable, well‑documented code that enables developers to build and verify Miden‑compatible rollup transactions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/0xMiden/crypto) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/0xMiden/crypto) · [← Back to Crypto](./README.md)</sub>

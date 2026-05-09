@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | HCL |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gcp` `google-cloud` `terraform`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The GoogleCloudPlatform/cloud-foundation-fabric open-source project provides a comprehensive toolkit for building end-to-end modular samples and landing zones on Google Cloud Platform using Terraform. This DevOps/Infra project aims to simplify infrastructure setup and management on GCP by offering a flexible and scalable framework for automating cloud deployments. With cloud-foundation-fabric, users can efficiently create and manage complex cloud environments with ease.
+Google Cloud Foundation Fabric is an open‑source collection of modular, end‑to‑end Terraform examples and landing‑zone templates designed to help teams provision, manage, and govern Google Cloud resources consistently. It provides reusable building blocks for common infrastructure patterns—such as networking, identity, security, and logging—enabling fast, repeatable deployments of production‑grade environments on GCP.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) · [← Back to DevOps & Infra](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 323 |
-| 🍴 **Forks** | 37 |
+| ⭐ **Stars** | 326 |
+| 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`graphics` `kitty` `rust` `sixel` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Ratatui-image is an open-source project that enhances the Ratatui widget by enabling the rendering of image graphics in terminals that support it, providing a more visually engaging experience for users. This project leverages the capabilities of terminals to display images, making it suitable for various applications, including interactive graphics and visual feedback. By utilizing Ratatui-image, developers can create more interactive and engaging terminal-based interfaces.
+Ratatui‑Image is an open‑source widget for the Ratatui UI framework that enables rendering of image graphics directly in terminal emulators that support graphics protocols (e.g., iTerm2, Kitty, Sixel). By converting image data into the appropriate terminal escape sequences, it lets developers embed rich visual content—photos, icons, or charts—within text‑based interfaces, making terminal applications more expressive and interactive.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/ratatui/ratatui-image) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ratatui/ratatui-image) · [← Back to Frontend](./README.md)</sub>

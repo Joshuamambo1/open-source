@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 404 |
+| ⭐ **Stars** | 403 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aur` `chaotic-aur` `packages` `repository`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The chaotic-aur/packages project is an open-source, read-only mirror of Chaotic-AUR's main repository, providing access to a collection of packages for various uses. Located in the AI/ML category, this repository serves as a centralized hub for users to discover and utilize a range of packages. Users are encouraged to submit issues and bug reports to contribute to the project's development and improvement.
+Chaotic‑AUR’s `packages` repository provides a read‑only mirror of the main Chaotic‑AUR package collection, offering a convenient, up‑to‑date source of Arch Linux packages curated for the community. While the mirror itself is static, the project welcomes issues, bug reports, and contributions to improve documentation and synchronization. This makes it a reliable resource for users and developers who need reliable access to Chaotic‑AUR’s package set.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/chaotic-aur/packages) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/chaotic-aur/packages) · [← Back to AI/ML](./README.md)</sub>

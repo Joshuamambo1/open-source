@@ -2,7 +2,7 @@
 
 > Developer productivity, editors, workflow
 
-**243 projects** in this category.
+**244 projects** in this category.
 
 ## Projects
 
@@ -225,32 +225,33 @@
 | 215 | [ekristen/cast](./ekristen-cast.md) | ⭐ 138 | Go | 48/100 |
 | 216 | [suzuki-shunsuke/tfcmt](./suzuki-shunsuke-tfcmt.md) | ⭐ 528 | Go | 48/100 |
 | 217 | [Dicklesworthstone/asupersync](./dicklesworthstone-asupersync.md) | ⭐ 165 | Rust | 48/100 |
-| 218 | [getreu/tp-note](./getreu-tp-note.md) | ⭐ 143 | Rust | 47/100 |
-| 219 | [anistark/feluda](./anistark-feluda.md) | ⭐ 451 | Rust | 47/100 |
-| 220 | [PSeitz/lz4_flex](./pseitz-lz4-flex.md) | ⭐ 594 | Rust | 47/100 |
-| 221 | [nuxt/cli](./nuxt-cli.md) | ⭐ 384 | TypeScript | 47/100 |
-| 222 | [jdx/hk](./jdx-hk.md) | ⭐ 833 | Rust | 47/100 |
-| 223 | [indaco/malt](./indaco-malt.md) | ⭐ 104 | Zig | 47/100 |
-| 224 | [frostwire/frostwire](./frostwire-frostwire.md) | ⭐ 587 | Java | 47/100 |
-| 225 | [neutralinojs/neutralinojs-cli](./neutralinojs-neutralinojs-cli.md) | ⭐ 115 | JavaScript | 46/100 |
-| 226 | [suzuki-shunsuke/ghtkn](./suzuki-shunsuke-ghtkn.md) | ⭐ 143 | Go | 46/100 |
-| 227 | [mvanhorn/printing-press-library](./mvanhorn-printing-press-library.md) | ⭐ 618 | Go | 45/100 |
-| 228 | [suzuki-shunsuke/tfmv](./suzuki-shunsuke-tfmv.md) | ⭐ 159 | Go | 45/100 |
-| 229 | [Kelsidavis/WoWee](./kelsidavis-wowee.md) | ⭐ 417 | C++ | 45/100 |
-| 230 | [Dokploy/cli](./dokploy-cli.md) | ⭐ 106 | TypeScript | 45/100 |
-| 231 | [openabdev/openab](./openabdev-openab.md) | ⭐ 436 | Rust | 45/100 |
-| 232 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
-| 233 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
-| 234 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
-| 235 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 569 | Rust | 44/100 |
-| 236 | [salesforcecli/cli](./salesforcecli-cli.md) | ⭐ 168 | TypeScript | 44/100 |
-| 237 | [gildas/bitbucket-cli](./gildas-bitbucket-cli.md) | ⭐ 43 | Go | 44/100 |
-| 238 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
-| 239 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 43/100 |
-| 240 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
-| 241 | [SableClient/Sable](./sableclient-sable.md) | ⭐ 189 | TypeScript | 42/100 |
-| 242 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
-| 243 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
+| 218 | [CharlesWiltgen/Axiom](./charleswiltgen-axiom.md) | ⭐ 891 | Go | 47/100 |
+| 219 | [getreu/tp-note](./getreu-tp-note.md) | ⭐ 143 | Rust | 47/100 |
+| 220 | [anistark/feluda](./anistark-feluda.md) | ⭐ 451 | Rust | 47/100 |
+| 221 | [PSeitz/lz4_flex](./pseitz-lz4-flex.md) | ⭐ 594 | Rust | 47/100 |
+| 222 | [nuxt/cli](./nuxt-cli.md) | ⭐ 384 | TypeScript | 47/100 |
+| 223 | [jdx/hk](./jdx-hk.md) | ⭐ 833 | Rust | 47/100 |
+| 224 | [indaco/malt](./indaco-malt.md) | ⭐ 104 | Zig | 47/100 |
+| 225 | [frostwire/frostwire](./frostwire-frostwire.md) | ⭐ 587 | Java | 47/100 |
+| 226 | [neutralinojs/neutralinojs-cli](./neutralinojs-neutralinojs-cli.md) | ⭐ 115 | JavaScript | 46/100 |
+| 227 | [suzuki-shunsuke/ghtkn](./suzuki-shunsuke-ghtkn.md) | ⭐ 143 | Go | 46/100 |
+| 228 | [mvanhorn/printing-press-library](./mvanhorn-printing-press-library.md) | ⭐ 618 | Go | 45/100 |
+| 229 | [suzuki-shunsuke/tfmv](./suzuki-shunsuke-tfmv.md) | ⭐ 159 | Go | 45/100 |
+| 230 | [Kelsidavis/WoWee](./kelsidavis-wowee.md) | ⭐ 417 | C++ | 45/100 |
+| 231 | [Dokploy/cli](./dokploy-cli.md) | ⭐ 106 | TypeScript | 45/100 |
+| 232 | [openabdev/openab](./openabdev-openab.md) | ⭐ 436 | Rust | 45/100 |
+| 233 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
+| 234 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
+| 235 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
+| 236 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 569 | Rust | 44/100 |
+| 237 | [salesforcecli/cli](./salesforcecli-cli.md) | ⭐ 168 | TypeScript | 44/100 |
+| 238 | [gildas/bitbucket-cli](./gildas-bitbucket-cli.md) | ⭐ 43 | Go | 44/100 |
+| 239 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
+| 240 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 43/100 |
+| 241 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
+| 242 | [SableClient/Sable](./sableclient-sable.md) | ⭐ 189 | TypeScript | 42/100 |
+| 243 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
+| 244 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
 
 ---
 

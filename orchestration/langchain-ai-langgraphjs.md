@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 479 |
+| 🍴 **Forks** | 482 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `artificial-intelligence` `generative-ai` `llm` `node` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-LangGraph.js is an open-source framework for building resilient language agents as graphs, allowing developers to model complex language interactions and relationships in a highly scalable and organized manner. This innovative framework enables the creation of sophisticated language AI systems with improved reliability and maintainability. By leveraging graph structure, LangGraph.js facilitates the seamless integration of AI and ML capabilities with frontend applications.
+LangGraphJS is an open‑source framework that lets developers construct robust, composable language agents using graph‑based workflows. By treating prompts, tools, and decision logic as nodes and edges, it simplifies orchestration of complex AI/ML pipelines while offering seamless integration with front‑end applications. The library enables resilient, maintainable agents that can adapt to dynamic conversational flows and external tool calls.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/langchain-ai/langgraphjs) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/langchain-ai/langgraphjs) · [← Back to Orchestration](./README.md)</sub>

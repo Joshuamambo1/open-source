@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 616 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Sigil is a free and open-source EPUB ebook editor that allows users to create, edit, and manage EPUB files across various platforms. This versatile tool offers a user-friendly interface and a range of features for customizing ebook content, including formatting, layout, and metadata management. With Sigil, authors and publishers can easily craft professional-quality ebooks.
+Sigil is a free, open‑source EPUB editor that runs on Windows, macOS, and Linux. It provides a WYSIWYG interface alongside full HTML and CSS source editing, allowing users to create, edit, and validate EPUB books with built‑in tools for spell‑checking, metadata management, and previewing. Designed for both authors and publishers, Sigil streamlines the production of standards‑compliant e‑books without requiring proprietary software.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Sigil-Ebook/Sigil) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Sigil-Ebook/Sigil) · [← Back to Misc](./README.md)</sub>

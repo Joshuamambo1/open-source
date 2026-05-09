@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 146 |
+| ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The ludusavi-manifest project is an open-source initiative that aims to provide backup information for PC game saves, helping users to manage and store their game progress securely. This project offers a solution for gamers to safeguard their saved data, preventing potential loss in case of hardware failure or other issues. By utilizing ludusavi-manifest, users can ensure the preservation of their gaming experiences.
+Ludusavi‑Manifest is an open‑source repository that provides structured metadata for backing up PC game save files using the Ludusavi backup tool. It contains curated manifest files that list the locations, file patterns, and special handling instructions for a wide range of games, making automated save management easier and more reliable. The project is maintained by the community and serves as a centralized source of backup information for gamers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/mtkennerly/ludusavi-manifest) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/mtkennerly/ludusavi-manifest) · [← Back to Misc](./README.md)</sub>

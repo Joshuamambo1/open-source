@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 113 |
-| 🍴 **Forks** | 15 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`luau` `lune` `package-manager` `roblox`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The pesde package manager is an open-source tool designed for the Luau programming language, allowing users to easily manage dependencies and install packages across multiple runtimes such as Roblox and Lune. This package manager streamlines the development process by providing a simple and efficient way to handle package installations and updates. It is particularly useful for developers working on Luau projects that require runtime-specific dependencies.
+pesde is an open‑source package manager tailored for the Luau programming language, enabling developers to share, version, and install libraries across different Luau runtimes such as Roblox and Lune. It provides a unified workflow for dependency resolution, publishing, and project scaffolding, making it easier to manage Luau codebases regardless of the target platform.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/pesde-pkg/pesde) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pesde-pkg/pesde) · [← Back to Misc](./README.md)</sub>

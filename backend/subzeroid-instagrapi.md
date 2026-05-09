@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.1k |
-| 🍴 **Forks** | 906 |
+| ⭐ **Stars** | 6.2k |
+| 🍴 **Forks** | 909 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-wrapper` `instabot` `instagram` `instagram-account` `instagram-api` `instagram-api-python` `instagram-automation` `instagram-bot` `instagram-client` `instagram-crawler` `instagram-downloader` `instagram-feed`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Instagrapi is an open-source, Python library designed to provide a fast and powerful interface to the Instagram Private API 2026. Built on top of HikerAPI SaaS, this library enables seamless interaction with the Instagram API, making it an ideal choice for developers building backend applications and tools. With Instagrapi, you can access a wide range of Instagram features and functionality in a secure and efficient manner.
+subzeroid/instagrapi is a high‑performance, open‑source Python library that provides comprehensive access to Instagram’s private API, optimized for speed and reliability in 2026. It includes seamless integration with the HikerAPI SaaS platform, enabling developers to automate posting, messaging, analytics, and other Instagram actions from backend services and dev‑tools pipelines. The project is designed for easy installation, extensive documentation, and robust handling of rate limits and authentication.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/subzeroid/instagrapi) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/subzeroid/instagrapi) · [← Back to Backend](./README.md)</sub>

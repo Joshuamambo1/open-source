@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 233 |
+| 🍴 **Forks** | 235 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-training` `fine-tuning` `inference` `machine-learning` `onnx` `onnxruntime` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The pykeio/ort project is an open-source Rust library that enables fast machine learning (ML) inference and training for ONNX models. It provides a high-performance interface for executing ML models, making it an essential tool for developers working with AI/ML applications. With pykeio/ort, users can leverage the efficiency of Rust to accelerate their ML workflows.
+pykeio/ort is a high‑performance Rust library that enables fast inference and training of ONNX models by leveraging the ONNX Runtime. It provides a safe, ergonomic API for loading, executing, and fine‑tuning neural networks directly from Rust, making it ideal for low‑latency AI/ML applications. The project is open‑source and aims to bridge the gap between Rust’s safety guarantees and state‑of‑the‑art machine‑learning workloads.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/pykeio/ort) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pykeio/ort) · [← Back to AI/ML](./README.md)</sub>

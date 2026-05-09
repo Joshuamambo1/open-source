@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4617** |
+| 🗂️ **Total projects** | **4642** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1878 | [Browse →](./aiml/) |
-| 📦 **Misc** | 771 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 458 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 449 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 243 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 230 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 170 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 1886 | [Browse →](./aiml/) |
+| 📦 **Misc** | 778 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 461 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 450 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 244 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 231 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 171 | [Browse →](./crypto/) |
 | 📊 **Data** | 103 | [Browse →](./data/) |
 | 💳 **Payments** | 87 | [Browse →](./payments/) |
 | 📈 **Trading** | 60 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 54 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 51 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 55 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 53 | [Browse →](./mobile/) |
 | 🔐 **Security** | 36 | [Browse →](./security/) |
 | ✨ **Design** | 12 | [Browse →](./design/) |
 | 🎯 **Product** | 10 | [Browse →](./product/) |
@@ -47,8 +47,8 @@
 | 6 | [ai-collection/ai-collection](./aiml/ai-collection-ai-collection.md) | ⭐ 8.9k | AI/ML |
 | 7 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
 | 8 | [alibaba/spring-cloud-alibaba](./frontend/alibaba-spring-cloud-alibaba.md) | ⭐ 29.1k | Frontend |
-| 9 | [tw93/Pake](./misc/tw93-pake.md) | ⭐ 48.6k | Misc |
-| 10 | [Anionex/banana-slides](./aiml/anionex-banana-slides.md) | ⭐ 14.4k | AI/ML |
+| 9 | [Anionex/banana-slides](./aiml/anionex-banana-slides.md) | ⭐ 14.4k | AI/ML |
+| 10 | [tw93/Pake](./misc/tw93-pake.md) | ⭐ 48.6k | Misc |
 
 ## 🚀 How it works
 

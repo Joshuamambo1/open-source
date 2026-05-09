@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 284 |
+| ⭐ **Stars** | 287 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`commodore` `one-rom` `onerom` `raspberry-pi` `rom` `rp2350` `stm32` `stm32f4`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The "one-rom" project is an open-source alternative to traditional ROMs for retro systems, offering unparalleled flexibility through its use of a low-cost microcontroller like the Raspberry Pi RP2350 or the STM32. This innovative solution enables users to create custom, DIY retro gaming consoles with a wide range of possibilities. With its sub-$2 price point, the one-rom project brings high-end retro gaming capabilities within reach of enthusiasts and hobbyists.
+One‑ROM is an open‑source hardware/firmware platform that replaces traditional ROM chips in retro computers and gaming consoles with a highly configurable solution built around a sub‑$2 Raspberry Pi RP2350 or an STM32 microcontroller. It lets users store multiple firmware images, switch them on‑the‑fly, and add custom features such as fast loading, debugging hooks, or peripheral emulation, making it the most flexible drop‑in ROM replacement for classic systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/piersfinlayson/one-rom) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/piersfinlayson/one-rom) · [← Back to Misc](./README.md)</sub>

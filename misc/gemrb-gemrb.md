@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `engine` `game` `game-engine` `isometric` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-GemRB is a free and open-source project that recreates the Infinity Engine, a game engine developed by Bioware. This implementation allows users to play classic games such as Baldur's Gate, Icewind Dale, and Planescape: Torment on modern operating systems. GemRB is a portable solution, making it accessible across various platforms.
+GemRB is an open‑source, cross‑platform reimplementation of Bioware’s Infinity Engine, enabling classic role‑playing games such as Baldur’s Gate, Icewind Dale, and Planescape: Torment to run on modern operating systems. It faithfully reproduces the original games’ mechanics, graphics, and scripting while adding compatibility layers and enhancements for contemporary hardware. The project is community‑driven and licensed under the GPL, making it freely extensible and portable across Windows, Linux, macOS, and various handheld devices.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/gemrb/gemrb) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/gemrb/gemrb) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `command-line-tool` `swap` `zswap` `zswap-cli`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-zswap-cli is an open-source command-line tool designed to provide simple control over the zswap kernel module options. This tool allows users to easily configure and manage zswap settings from the terminal, making it a useful addition for system administrators and Linux enthusiasts. By streamlining zswap management, zswap-cli simplifies the process of optimizing system performance and memory usage.
+xvitaly/zswap‑cli is a lightweight command‑line utility that lets users view and modify the runtime parameters of the Linux kernel’s zswap module, such as pool size, compression algorithm, and enable/disable flags. It provides straightforward syntax for querying current settings and applying changes without needing to edit sysfs files manually, making zswap management easier for developers and system administrators.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/xvitaly/zswap-cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/xvitaly/zswap-cli) · [← Back to DevTools](./README.md)</sub>

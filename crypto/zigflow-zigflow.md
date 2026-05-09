@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 142 |
+| ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-tools` `dsl` `durable-execution` `low-code` `no-code` `orchestration` `serverless-workflow` `temporal` `temporal-dsl` `workflow-management-system` `workflow-orchestration` `workflows`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the zigflow project:
-
-zigflow is an open-source platform that enables durable workflow definition in YAML, providing a flexible and scalable way to orchestrate complex processes. Built on top of the Temporal engine, zigflow offers a robust foundation for workflow management, suitable for applications in crypto, AI/ML, and other domains. This project empowers developers to create reliable and maintainable workflows.
+Zigflow lets you describe robust, long‑running workflows using simple YAML files, which are then executed on Temporal’s fault‑tolerant orchestration engine. By turning declarative YAML definitions into durable Temporal activities and pipelines, it streamlines the creation of complex, stateful processes—whether for crypto operations, AI/ML pipelines, or general automation—without writing boilerplate code.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/zigflow/zigflow) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/zigflow/zigflow) · [← Back to Crypto](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51 |
+| ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `autonomous-agent` `claude` `claude-code` `claude-code-plugin` `dreaming` `mcp` `memory` `openclaw` `openclaw-compatible` `personality` `stt`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-ClawCode is an open-source project that integrates persistent agents with Claude Code, enabling 24/7 operations in service mode. It supports various messaging platforms, including WhatsApp, Telegram, and Discord, and offers a range of features such as memory and personality management. This project utilizes imports from OpenClaw and is designed as a plugin rather than a standalone harness.
+ClawCode is an open‑source plugin that adds persistent, personality‑driven agents to Claude Code, enabling long‑term memory and cross‑platform messaging via WhatsApp, Telegram, and Discord, plus a “service mode” for continuous 24/7 operation. It leverages the OpenClaw framework for seamless integration and extends Claude’s capabilities without requiring a separate harness.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/crisandrews/ClawCode) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/crisandrews/ClawCode) · [← Back to AI/ML](./README.md)</sub>

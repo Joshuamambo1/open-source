@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 335 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 347 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `ai-agents` `evaluation` `governance` `meta-skill` `portability` `skill-engineering` `workflow-automation`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a summary for the yao-meta-skill project:
-
-YAO (Yielding AI Outcomes) is an open-source system designed to facilitate the development, evaluation, governance, and portability of reusable AI skills. This framework enables the creation of agent skills that can be easily integrated and orchestrated across various applications, enhancing the efficiency and consistency of AI outcomes. By providing a rigorous engineering foundation, YAO aims to promote the development of reliable and maintainable AI skills.
+Yao‑Meta‑Skill is an open‑source framework that defines, evaluates, and governs reusable AI agent capabilities under the YAO (“Yielding AI Outcomes”) methodology. It provides a rigorous engineering pipeline, standardized testing, and portable packaging so that individual agent skills can be orchestrated reliably across different environments and AI/ML platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/yaojingang/yao-meta-skill) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/yaojingang/yao-meta-skill) · [← Back to Orchestration](./README.md)</sub>

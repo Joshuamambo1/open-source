@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.3k |
+| ⭐ **Stars** | 12.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apple-silicon` `inference-server` `llm` `macos` `mlx` `openai-api`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Design
 
 ## 📝 Summary
 
-Omlx is an open-source project that provides a fast and efficient LLM (Large Language Model) inference server, optimized for Apple Silicon devices. It features continuous batching and SSD caching for improved performance, and is conveniently managed from a macOS menu bar application. This allows users to easily deploy and utilize powerful LLMs on their Macs.
+jundot/omlx is an open‑source inference server optimized for Apple Silicon that delivers fast LLM responses through continuous batching and an SSD‑backed cache. It runs as a lightweight background service that can be started, stopped, and monitored directly from the macOS menu bar, making it easy to integrate high‑performance language models into local workflows. The project combines AI/ML capabilities with a clean backend design and a user‑friendly macOS interface.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jundot/omlx) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jundot/omlx) · [← Back to AI/ML](./README.md)</sub>

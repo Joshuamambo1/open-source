@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `rust` `substrate`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-The Hydration Node is an open-source, cross-chain liquidity protocol built using the Polkadot SDK, aiming to facilitate seamless interactions across various blockchain networks. This innovative project enables the creation of a decentralized, interconnected liquidity ecosystem, fostering greater flexibility and accessibility in the world of cryptocurrency trading. By harnessing the power of Polkadot, the Hydration Node seeks to revolutionize the way we approach cross-chain liquidity management.
+Hydration Node is an open‑source cross‑chain liquidity protocol built on the Polkadot SDK, enabling seamless asset transfers and decentralized finance interactions across multiple blockchains. The project provides a robust backend framework for liquidity provisioning while also offering frontend components and AI‑enhanced tools for efficient market making and automated strategy execution. It targets developers in the crypto ecosystem who need scalable, interoperable solutions for multi‑chain liquidity management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/galacticcouncil/hydration-node) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/galacticcouncil/hydration-node) · [← Back to Crypto](./README.md)</sub>

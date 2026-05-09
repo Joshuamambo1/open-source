@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 47 |
+| ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `karpathy` `knowledge-base` `llm` `wiki`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, the Karpathy LLM Wiki, is a self-growing knowledge base created by an AI agent named yoyo. Built upon a founding prompt by Andrej Karpathy, the wiki aims to provide a continuously expanding repository of information on large language models (LLMs) and artificial intelligence (AI) concepts. The project showcases the potential of AI-driven knowledge creation and curation.
+The **Self‑Growing Karpathy LLM Wiki** is an open‑source knowledge base that continuously expands itself through an autonomous AI agent named *yoyo*, which operates from the original prompt crafted by Andrej Karpathy. By leveraging large language model capabilities, yoyo automatically curates, updates, and enriches the wiki’s content, creating a dynamic, self‑maintaining repository of AI/ML information. This project demonstrates how prompting and LLMs can be combined to build self‑sustaining documentation systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/yologdev/karpathy-llm-wiki) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/yologdev/karpathy-llm-wiki) · [← Back to AI/ML](./README.md)</sub>

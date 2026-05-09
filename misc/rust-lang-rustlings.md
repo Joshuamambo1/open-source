@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 11.2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`beginner-friendly` `exercises` `rust` `rustlings`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The rustlings project is an open-source collection of small exercises designed to help individuals get familiar with reading and writing Rust code. By working through these hands-on examples, users can gain a deeper understanding of Rust's syntax, concepts, and best practices. This project serves as an ideal resource for new Rust programmers looking to improve their skills.
+Rustlings is an open‑source collection of bite‑size exercises designed to help newcomers become comfortable reading, compiling, and modifying Rust code. Each exercise focuses on a specific language feature or standard‑library concept, providing hints and automated tests that guide learners toward the correct solution. By working through the problems locally, users gain hands‑on experience with Rust’s syntax, tooling, and best practices.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/rust-lang/rustlings) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/rust-lang/rustlings) · [← Back to Misc](./README.md)</sub>

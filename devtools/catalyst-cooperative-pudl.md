@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cems` `climate` `coal` `ddj` `eia` `eia860` `eia923` `electricity` `emissions` `energy` `epa` `etl`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data
 
 ## 📝 Summary
 
-The Public Utility Data Liberation Project (PUDL) is an open-source initiative that aims to liberate analysis-ready energy system data for the benefit of climate advocates, researchers, policymakers, and journalists. By providing a centralized repository of energy data, PUDL facilitates informed decision-making and collaborative research on climate-related issues. This project offers a valuable resource for those seeking to understand and address the complexities of the energy sector.
+The Public Utility Data Liberation (PUDL) project is an open‑source toolkit that extracts, cleans, and standardizes utility‑scale electricity data from U.S. public sources, turning raw filings into analysis‑ready datasets. By providing consistent, reproducible data pipelines and ready‑to‑use CSV/Parquet files, PUDL helps climate advocates, researchers, policymakers, and journalists quickly access reliable energy system information for modeling, reporting, and decision‑making.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/catalyst-cooperative/pudl) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/catalyst-cooperative/pudl) · [← Back to DevTools](./README.md)</sub>

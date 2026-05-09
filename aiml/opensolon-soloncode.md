@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 102 |
+| ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude-code` `cli` `cli-app` `java` `opencode` `solon` `solon-ai`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-Soloncode is an open-source coding agent designed to assist developers with intelligent coding capabilities. This AI-powered tool aims to streamline the development process by providing predictive coding suggestions, automating repetitive tasks, and enhancing overall coding efficiency. By leveraging machine learning and artificial intelligence, Soloncode enables developers to write code faster and with greater accuracy.
+opensolon/soloncode is an open‑source coding agent that leverages AI/ML techniques to assist developers with code generation, debugging, and refactoring tasks. Designed as a versatile DevTools component, it integrates seamlessly into development workflows, offering automated suggestions and context‑aware code improvements.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/opensolon/soloncode) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/opensolon/soloncode) · [← Back to AI/ML](./README.md)</sub>

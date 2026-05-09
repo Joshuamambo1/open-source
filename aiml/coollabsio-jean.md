@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 894 |
-| 🍴 **Forks** | 92 |
+| ⭐ **Stars** | 906 |
+| 🍴 **Forks** | 93 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `claude-code` `git` `parallel` `worktree`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Jean is an open-source development environment designed specifically for creating and testing AI agents. It provides a comprehensive platform for developers to build, train, and deploy AI models, streamlining the process and improving efficiency. With its intuitive interface and robust features, Jean makes it easier for developers to work with AI agents and accelerate their projects.
+coollabsio/jean provides a lightweight, container‑based development environment tailored for building and testing AI agents. It bundles essential tools, libraries, and runtime configurations so developers can quickly prototype, iterate, and debug machine‑learning models without manual setup. The project aims to streamline AI/ML workflows and promote reproducible experimentation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/coollabsio/jean) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/coollabsio/jean) · [← Back to AI/ML](./README.md)</sub>

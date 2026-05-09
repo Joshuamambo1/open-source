@@ -1,34 +1,32 @@
 # legeling/PromptHub
 
-[![Stars](https://img.shields.io/github/stars/legeling/PromptHub?style=flat-square&color=yellow)](https://github.com/legeling/PromptHub/stargazers) [![Forks](https://img.shields.io/github/forks/legeling/PromptHub?style=flat-square&color=blue)](https://github.com/legeling/PromptHub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/legeling/PromptHub?style=flat-square&color=yellow)](https://github.com/legeling/PromptHub/stargazers) [![Forks](https://img.shields.io/github/forks/legeling/PromptHub?style=flat-square&color=blue)](https://github.com/legeling/PromptHub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
-> 一款开源、纯本地 Prompt ，Skill 管理工具，帮助你高效管理、版本控制和复用 Prompt，并一键分发skill | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts
+> 一款包含了 Prompt管理，Skill管理，Agent管理的一站式AI工具箱，助你高效管理提示词，一键分发skills ，一站式管理Agent资产，并实现云同步，备份，版本管理 | An all-in-one AI toolbox for prompt, skill, and agent management. Reuse prompts, distribute skills with one click, manage agent assets, and support cloud sync, backup, and version control
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 124 |
+| ⭐ **Stars** | 1.1k |
+| 🍴 **Forks** | 128 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `cli-tool` `llm` `prompt` `prompt-toolkit` `skills`
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the PromptHub project:
-
-PromptHub is an open-source, local-first AI prompt management tool that enables efficient management, version control, and reuse of prompts. It helps users streamline their workflow by providing a centralized platform to store, organize, and distribute AI prompts. With PromptHub, users can easily manage and share their prompts across projects, reducing the time and effort spent on manual management.
+PromptHub is an open‑source, all‑in‑one toolbox for AI development that centralizes prompt, skill, and agent management. It lets users store, reuse, and version‑control prompts, distribute skills with a single click, and oversee agent assets—all with cloud synchronization, backup, and versioning features. The project targets AI/ML practitioners and developers needing a streamlined DevOps workflow for their generative AI components.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/legeling/PromptHub) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/legeling/PromptHub) · [← Back to AI/ML](./README.md)</sub>

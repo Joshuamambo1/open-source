@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`algorithm-challenges` `algorithms` `datastructures` `datastructures-algorithms` `dsa` `dsa-algorithm` `dynamic-programming` `graph` `interview` `java` `javascript` `leetcode`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The sudheerj/datastructures-algorithms project is an open-source collection of programs focused on data structures and algorithms, providing a comprehensive resource for learning and practicing these fundamental computer science concepts. This repository offers a wide range of implementations and examples, making it an excellent starting point for students and professionals looking to improve their skills in these areas. By exploring this project, users can gain hands-on experience with various data structures and algorithms.
+A concise collection of open‑source implementations showcasing fundamental data structures and algorithms, organized for easy reference and learning. The repository provides ready‑to‑run code examples covering common structures (arrays, linked lists, trees, graphs, etc.) and classic algorithmic techniques (searching, sorting, traversal, recursion, etc.). Ideal for students and developers who want quick, practical illustrations of core computer‑science concepts.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/sudheerj/datastructures-algorithms) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sudheerj/datastructures-algorithms) · [← Back to Data](./README.md)</sub>

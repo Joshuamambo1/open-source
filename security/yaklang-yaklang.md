@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 546 |
+| ⭐ **Stars** | 548 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cybersecurity` `dsl` `go` `security` `security-tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security · Design
 
 ## 📝 Summary
 
-Yaklang is an open-source, cybersecurity-focused programming language designed to provide a secure environment for writing secure code. Its primary goal is to prevent common programming mistakes that can lead to security vulnerabilities, thereby making it a valuable tool for developers and cybersecurity professionals. By leveraging Yaklang's secure-by-design architecture, users can write more secure code and reduce the risk of cyber threats.
+Yaklang is an open‑source, purpose‑built programming language tailored for cybersecurity tasks such as vulnerability scanning, exploit development, and incident response. It combines a concise syntax with built‑in security‑oriented libraries and tooling, enabling security professionals to write, automate, and extend complex security workflows efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/yaklang/yaklang) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/yaklang/yaklang) · [← Back to Security](./README.md)</sub>

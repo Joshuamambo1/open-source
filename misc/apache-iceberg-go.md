@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 406 |
-| 🍴 **Forks** | 182 |
+| ⭐ **Stars** | 410 |
+| 🍴 **Forks** | 184 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apache` `golang` `iceberg`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Apache Iceberg-Go is an open-source project that provides a Go implementation of the Apache Iceberg project, a popular open data management system for large-scale analytics. It enables users to create and manage tables, store and retrieve data, and optimize data processing for various use cases. With Iceberg-Go, developers can integrate Apache Iceberg's capabilities into their Go applications and take advantage of its scalability and performance features.
+Apache Iceberg Go is an open‑source Go library that provides native support for reading, writing, and managing Apache Iceberg tables. It enables Go applications to interact with Iceberg’s high‑performance, schema‑evolution‑aware data format, offering features such as partition pruning, snapshot isolation, and atomic commits. The project serves as the official Go implementation for working with Iceberg tables across cloud and on‑premise data lakes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/apache/iceberg-go) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/apache/iceberg-go) · [← Back to Misc](./README.md)</sub>

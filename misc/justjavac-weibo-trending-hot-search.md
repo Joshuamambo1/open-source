@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 758 |
-| 🍴 **Forks** | 115 |
+| ⭐ **Stars** | 759 |
+| 🍴 **Forks** | 116 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This project, weibo-trending-hot-search, is an open-source initiative that collects and archives trending Weibo hot searches on a daily basis, starting from November 24, 2020. The data is updated hourly and organized by date for easy reference. The project aims to provide a comprehensive record of Weibo's trending searches over time.
+justjavac’s **weibo‑trending‑hot‑search** is an open‑source collector that tracks Weibo’s hot‑search list. Starting from November 24 2020, it scrapes the trending keywords every hour, stores each snapshot, and organizes the data into daily archives for easy analysis. The project is a lightweight, language‑agnostic tool for monitoring and preserving Chinese social‑media trends.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/justjavac/weibo-trending-hot-search) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/justjavac/weibo-trending-hot-search) · [← Back to Misc](./README.md)</sub>

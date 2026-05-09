@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 152 |
+| 🍴 **Forks** | 154 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `infographic` `katex` `markdown` `markstream-vue` `mermaid` `monaco-editor` `shiki` `stream-render` `vue3`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the project:
-
-Markstream-Vue is an open-source, AI-powered streaming renderer specifically designed for Vue 3 applications. It features real-time updates and high-performance rendering capabilities for Markdown, including incremental rendering of Monaco, progressive rendering of Mermaid diagrams, and fast rendering of KaTeX formulas. This renderer aims to provide a seamless and smooth user experience, ideal for applications requiring dynamic and interactive content.
+Simon‑He95/markstream‑vue is a Vue 3 component that renders Markdown streams optimized for AI‑generated content, delivering incremental updates for code blocks (Monaco), diagrams (Mermaid) and mathematical formulas (KaTeX) without visual jitter. It processes incoming Markdown in real time, progressively enhancing each element as data arrives, and can be dropped straight into a Vue 3 project with zero configuration. This makes it ideal for building responsive, AI‑driven editors and viewers on the frontend.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/Simon-He95/markstream-vue) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Simon-He95/markstream-vue) · [← Back to AI/ML](./README.md)</sub>

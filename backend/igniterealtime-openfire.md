@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`collaboration` `hacktoberfest` `jabber` `java` `openfire` `xmpp` `xmpp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Openfire is an open-source XMPP (Extensible Messaging and Presence Protocol) server, licensed under the Apache License. It provides a robust and scalable foundation for real-time communication applications, enabling users to engage in instant messaging, voice and video conferencing, and presence sharing. As a widely-used backend solution, Openfire supports various XMPP extensions and plugins for enhanced functionality.
+IgniteRealtime's Openfire is a robust, real‑time XMPP server that enables instant messaging, presence, and chat services for web, mobile, and IoT applications. Built on Java and released under the Apache License, it offers extensible plugins, a web‑based admin console, and strong support for federation, security, and scalability, making it a popular backend choice for deploying custom communication solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/igniterealtime/Openfire) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/igniterealtime/Openfire) · [← Back to Backend](./README.md)</sub>

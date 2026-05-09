@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 202 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`broken-links` `check` `link` `link-checker` `link-checkers` `link-checking` `validator`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The lychee project is an open-source, Rust-based link checker that utilizes asynchronous and stream-based processing to rapidly identify broken URLs and email addresses within various document formats, including Markdown, HTML, and reStructuredText. This tool is designed to efficiently scan websites and documents, providing users with detailed insights into the integrity of their links and email addresses. By leveraging AI/ML principles, lychee offers a fast and effective solution for link validation and maintenance.
+Lychee is a high‑performance, asynchronous link checker written in Rust that scans streams of text to detect broken URLs, email addresses, and other resources. It supports a wide range of input formats—including Markdown, HTML, reStructuredText, and full websites—making it ideal for developers and content creators who need fast, reliable validation of hyperlinks across projects. Its lightweight, stream‑based design enables rapid processing even on large collections of files.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/lycheeverse/lychee) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/lycheeverse/lychee) · [← Back to AI/ML](./README.md)</sub>

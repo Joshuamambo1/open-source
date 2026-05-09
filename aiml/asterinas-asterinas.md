@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 297 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`kernel` `os` `rust` `tee`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Asterinas is an open-source project striving to create a production-grade Linux alternative. It prioritizes memory safety, high-performance capabilities, and seeks to offer more innovative features. By pushing the boundaries of what a Linux system can do, Asterinas aims to provide a robust and efficient platform for various applications, including AI and machine learning.
+Asterinas is an open‑source operating system that strives to replace traditional Linux with a production‑grade, memory‑safe alternative, delivering high performance and strong security guarantees. Built on Rust’s safety principles, it targets modern workloads in AI/ML and other compute‑intensive domains while remaining fully compatible with existing Linux ecosystems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/asterinas/asterinas) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/asterinas/asterinas) · [← Back to AI/ML](./README.md)</sub>

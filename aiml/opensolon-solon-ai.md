@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 377 |
+| ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `chat` `deepseek` `embedding` `function-call` `java` `llm` `mcp-client` `mcp-server` `modelcontextprotocol` `openai` `rag`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Solon-AI is an open-source, Java-based framework for building AI applications. It supports various AI capabilities, including large language models, reasoning and aggregation graphs, multi-chain prediction models, and agent-based systems. Solon-AI can be easily integrated with popular frameworks like SpringBoot, jFinal, and Vert.x, making it a versatile tool for AI development.
+opensolon/solon‑ai is a Java‑centric framework that streamlines the development of AI‑powered applications, offering built‑in support for large‑language‑model tools, skill orchestration, Retrieval‑Augmented Generation (RAG), multi‑candidate processing (MCP), and advanced agent patterns such as ReAct, Team‑Agent, and more. It runs on Java 8 through Java 25 and can be seamlessly embedded into popular Java ecosystems like Spring Boot, jFinal, Vert.x, Quarkus, and other frameworks, making it suitable for both frontend and backend AI/ML projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/opensolon/solon-ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/opensolon/solon-ai) · [← Back to AI/ML](./README.md)</sub>

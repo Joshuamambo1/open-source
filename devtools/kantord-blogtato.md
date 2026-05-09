@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 222 |
+| ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`atom-feed-reader` `cli` `git-synced` `rss` `rss-reader` `rust` `taskwarrior`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Kantord/blogtato is an open-source command-line RSS/Atom feed reader inspired by Taskwarrior. This tool allows users to easily manage and read RSS/Atom feeds from the terminal, providing a simple and efficient way to stay up-to-date on their favorite blogs and news sites. Its Taskwarrior-inspired design makes it a great option for developers who prefer a text-based interface.
+kantord/blogtato is a lightweight command‑line RSS/Atom feed reader that takes inspiration from Taskwarrior’s workflow and interface. It lets users add, organize, and read feeds using simple, task‑oriented commands, making feed consumption fast and scriptable. Designed for developers and power users, blogtato integrates seamlessly into terminal‑centric workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/kantord/blogtato) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/kantord/blogtato) · [← Back to DevTools](./README.md)</sub>

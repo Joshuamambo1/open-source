@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 137 |
-| 🍴 **Forks** | 19 |
+| ⭐ **Stars** | 153 |
+| 🍴 **Forks** | 22 |
 | 💻 **Language** | Markdown |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-teams` `ai-agents` `autonomous-development` `claude-code` `code-review` `github-actions` `greptile` `prd` `sub-agents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The opensesh/KARIMO project is an open-source engineering framework designed to streamline feature development and deployment. It utilizes a product design-driven approach to orchestrate agents and sub-agents, facilitating collaboration between developers and designers. By integrating phased adoption from PRD execution to automated review and CI-friendly agent teams, KARIMO aims to enhance the efficiency of real feature shipping.
+KARIMO is an open‑source Claude‑based engineering plugin that supercharges “plan mode” by orchestrating product‑design‑driven agents, sub‑agents, and whole agent teams. Tailored for developers and designers, it streamlines the entire feature lifecycle—from PRD execution through automated code review and CI‑friendly agent collaboration—enabling phased, real‑world adoption of AI‑assisted development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/opensesh/KARIMO) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/opensesh/KARIMO) · [← Back to Orchestration](./README.md)</sub>

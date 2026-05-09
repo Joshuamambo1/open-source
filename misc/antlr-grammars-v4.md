@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | ANTLR |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The ANTLR Grammars-v4 project is an open-source collection of grammars written for the ANTLR v4 parser generator, ensuring they are action-free for optimal parsing performance. This repository provides a comprehensive set of grammars for various programming languages and formats, allowing developers to leverage ANTLR's parsing capabilities without any additional logic. By utilizing these pre-written grammars, developers can quickly integrate ANTLR into their projects.
+The **antlr/grammars-v4** repository houses a collection of language grammars written for ANTLR 4, deliberately keeping them free of embedded actions to stay pure and reusable. These grammars serve as reference implementations and starting points for developers building parsers, compilers, or language tools across a wide range of programming and data languages. The project is maintained as an open‑source resource for the ANTLR community.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/antlr/grammars-v4) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/antlr/grammars-v4) · [← Back to Misc](./README.md)</sub>

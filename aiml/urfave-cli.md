@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `go` `golang-library` `json` `toml` `yaml`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-urfave/cli is an open-source package for building command-line tools in Go. It offers a simple and declarative approach to creating fast and user-friendly CLI applications. This package enables developers to focus on the functionality of their tools without worrying about the underlying command-line logic.
+urFave/cli is a lightweight Go library that lets developers define command‑line interfaces declaratively, offering fast parsing, built‑in help generation, and support for flags, subcommands, and custom actions. Its simple API and zero‑dependency design make it ideal for creating robust, user‑friendly CLI tools quickly, and it’s widely adopted in the Go ecosystem for DevOps and development utilities.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/urfave/cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/urfave/cli) · [← Back to AI/ML](./README.md)</sub>

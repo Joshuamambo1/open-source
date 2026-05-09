@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 337 |
+| 🍴 **Forks** | 340 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic` `ai` `automation` `developer-tools` `enterprise` `messaging`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The spacebot project is an open-source AI agent designed to support teams, communities, and multi-user environments. This AI assistant can be integrated into various platforms to provide enhanced functionality, automation, and intelligence. By leveraging AI and machine learning capabilities, spacebot aims to streamline workflows, improve collaboration, and increase productivity.
+spacedriveapp/spacebot is an open‑source AI-powered assistant designed to enhance collaboration within teams, communities, and other multi‑user environments. By integrating natural‑language understanding and automation capabilities, Spacebot helps users manage tasks, retrieve information, and streamline workflows directly within their preferred communication platforms. The project is built with modern AI/ML techniques and packaged as a developer‑friendly tool for easy extension and deployment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/spacedriveapp/spacebot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/spacedriveapp/spacebot) · [← Back to AI/ML](./README.md)</sub>

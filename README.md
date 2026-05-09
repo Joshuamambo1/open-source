@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4806** |
+| 🗂️ **Total projects** | **4835** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1945 | [Browse →](./aiml/) |
-| 📦 **Misc** | 813 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 479 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 457 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 258 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 238 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 178 | [Browse →](./crypto/) |
-| 📊 **Data** | 110 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 1955 | [Browse →](./aiml/) |
+| 📦 **Misc** | 821 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 482 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 459 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 259 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 239 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 179 | [Browse →](./crypto/) |
+| 📊 **Data** | 111 | [Browse →](./data/) |
 | 💳 **Payments** | 88 | [Browse →](./payments/) |
 | 📈 **Trading** | 60 | [Browse →](./trading/) |
 | 📱 **Mobile** | 58 | [Browse →](./mobile/) |
-| 🚀 **DevOps & Infra** | 55 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 37 | [Browse →](./security/) |
+| 🚀 **DevOps & Infra** | 56 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 38 | [Browse →](./security/) |
 | ✨ **Design** | 14 | [Browse →](./design/) |
 | 🎯 **Product** | 11 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
@@ -47,8 +47,8 @@
 | 6 | [flybywiresim/aircraft](./aiml/flybywiresim-aircraft.md) | ⭐ 5.4k | AI/ML |
 | 7 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.9k | Frontend |
 | 8 | [apache/groovy](./misc/apache-groovy.md) | ⭐ 5.4k | Misc |
-| 9 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
-| 10 | [ai-collection/ai-collection](./aiml/ai-collection-ai-collection.md) | ⭐ 8.9k | AI/ML |
+| 9 | [ai-collection/ai-collection](./aiml/ai-collection-ai-collection.md) | ⭐ 8.9k | AI/ML |
+| 10 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
 
 ## 🚀 How it works
 

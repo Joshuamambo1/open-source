@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 152 |
-| 🍴 **Forks** | 165 |
+| ⭐ **Stars** | 153 |
+| 🍴 **Forks** | 167 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`testing` `testing-tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The TMT (Test Management Tool) is an open-source project designed to streamline test management processes. It provides a comprehensive platform for planning, executing, and tracking tests, making it an essential tool for DevOps teams and software developers. With TMT, users can manage test cases, track test results, and gain insights into their testing workflows.
+teemtee/tmt is an open‑source Test Management Tool designed to help development teams organize, execute, and track test cases across multiple projects. It provides a lightweight web interface for creating test suites, managing test runs, and generating results reports, integrating smoothly with common CI/CD pipelines and version‑control systems. Ideal for DevOps and QA workflows, tmt streamlines test documentation and promotes collaborative quality assurance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/teemtee/tmt) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/teemtee/tmt) · [← Back to DevTools](./README.md)</sub>

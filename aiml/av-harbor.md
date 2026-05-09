@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 200 |
+| 🍴 **Forks** | 199 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `automation` `bash` `cli` `container` `docker` `docker-compose` `homelab` `llm` `local` `mcp` `npm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the av/harbor project:
-
-Av/Harbor is an open-source project that provides a comprehensive, pre-wired Large Language Model (LLM) stack with hundreds of services, accessible through a single command. This innovative tool streamlines the exploration and development process for AI/ML applications, enabling users to quickly explore and deploy various services. By bringing this extensive LLM stack to users, av/harbor aims to accelerate the creation and innovation of AI-powered solutions.
+av/harbor is an open‑source tool that instantly spins up a fully pre‑wired LLM stack, bundling hundreds of AI‑related services into a single, ready‑to‑use environment. With just one command, developers can bypass complex configuration and start experimenting with language models, backend integrations, and DevOps workflows right away. It’s designed for AI/ML, backend, and developer tooling projects that need a fast, reproducible setup.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/av/harbor) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/av/harbor) · [← Back to AI/ML](./README.md)</sub>

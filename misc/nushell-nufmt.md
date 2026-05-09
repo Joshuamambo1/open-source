@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 197 |
-| 🍴 **Forks** | 25 |
+| ⭐ **Stars** | 198 |
+| 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The nushell/nufmt project is an open-source software for formatting and styling text output in the Nu shell. It provides a flexible and customizable way to format text, allowing users to easily create consistent and visually appealing output. This project integrates well with the Nu shell environment, enabling users to enhance their command-line interactions with visually appealing and readable text.
+Nufmt is a lightweight, open‑source formatter for **Nushell** scripts, providing consistent code styling and automatic formatting of pipeline syntax, tables, and expressions. Designed to integrate seamlessly with the Nushell ecosystem, it helps developers maintain readable, idiomatic Nushell code across projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/nushell/nufmt) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nushell/nufmt) · [← Back to Misc](./README.md)</sub>

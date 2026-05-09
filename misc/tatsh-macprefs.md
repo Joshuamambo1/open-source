@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `macos` `preferences` `utilities`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Tatsh/macprefs is an open-source command-line tool designed to export macOS preferences. This project provides a library and a command that allows developers to easily extract and manage macOS preferences, offering a convenient solution for system administrators and programmers. By utilizing macprefs, users can obtain a detailed snapshot of their system's configuration.
+Tatsh/macprefs is an open‑source command‑line tool and accompanying library that enables users to extract and export macOS preference files (plist data) in a convenient, programmatic format. It simplifies the process of reading system and application settings, making them accessible for analysis, backup, or migration across macOS installations. Suitable for developers and power users needing reliable access to macOS configuration data.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Tatsh/macprefs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Tatsh/macprefs) · [← Back to Misc](./README.md)</sub>

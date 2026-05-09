@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `claude` `claude-code` `cli` `marketplaces` `mcp` `plugins` `skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The MCPick project is an open-source extension manager for Claude Code, designed to streamline the management of MCP servers, plugins (including skills, hooks, and agents), and marketplaces. This tool aims to simplify the development and deployment process for AI/ML applications built with Claude Code. By centralizing configuration and management tasks, MCPick improves productivity and reduces the complexity of working with Claude Code infrastructure.
+spences10 /mcpick is an open‑source extension manager for Claude‑based AI agents, providing a unified platform to discover, install, and manage MCP (Model‑Centered Programming) servers, plugins (including skills, hooks, and agents), and marketplace offerings. It streamlines the backend workflow for developers by handling versioning, dependency resolution, and deployment of AI/ML extensions, making it easier to integrate and scale custom capabilities within Claude‑driven applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/spences10/mcpick) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/spences10/mcpick) · [← Back to AI/ML](./README.md)</sub>

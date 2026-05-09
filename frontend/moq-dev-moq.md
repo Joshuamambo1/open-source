@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.1k |
+| ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Moq is an open-source project that provides a Media over QUIC (M-Qaeda-QUIC) library, allowing for the development of high-performance media streaming applications. Built in Rust and Typescript, Moq offers a flexible and scalable solution for transferring video, audio, and other multimedia data over the QUIC protocol. This enables developers to create efficient and robust streaming experiences for web and other applications.
+Moq is an open‑source library that enables high‑performance media streaming over the QUIC protocol, providing both a Rust core for low‑level networking and a TypeScript wrapper for easy integration into web front‑ends. It abstracts the complexities of QUIC, offering developers a simple API to send and receive audio, video, or other media streams with low latency and built‑in congestion control. The project targets frontend applications that need reliable, real‑time media delivery without relying on traditional TCP‑based solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/moq-dev/moq) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/moq-dev/moq) · [← Back to Frontend](./README.md)</sub>

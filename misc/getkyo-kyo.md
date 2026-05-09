@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 762 |
-| 🍴 **Forks** | 101 |
+| ⭐ **Stars** | 764 |
+| 🍴 **Forks** | 102 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Kyo project is an open-source toolkit designed to support and enhance Scala development. It aims to provide a collection of utilities, libraries, and tools that simplify the development process, making it easier for developers to create robust and efficient Scala applications. Kyo is built to be highly customizable and adaptable to various project needs.
+**getkyo/kyo** is an open‑source toolkit designed to streamline Scala development by providing a collection of utilities, abstractions, and helper functions that simplify common programming tasks. It targets a wide range of use cases—from functional programming patterns to practical code‑generation tools—making it a versatile resource for Scala developers looking to boost productivity and maintain clean, idiomatic code.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/getkyo/kyo) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/getkyo/kyo) · [← Back to Misc](./README.md)</sub>

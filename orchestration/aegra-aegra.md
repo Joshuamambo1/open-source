@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 863 |
-| 🍴 **Forks** | 165 |
+| ⭐ **Stars** | 879 |
+| 🍴 **Forks** | 169 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fastapi` `langchain` `langggraph` `langgraph-agents` `langgraph-platform-alternative` `opensource-langgraph-platform` `postgres` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project aegra/aegra:
-
-aegra/aegra is an open-source alternative to LangGraph Platform, offering a self-hosted AI agent backend with full control over infrastructure. Built using FastAPI and PostgreSQL, this project provides a vendor-agnostic solution for managing AI/ML agents, enabling users to avoid vendor lock-in. With aeggra/aegra, users can orchestrate and deploy their AI agents without relying on a third-party platform.
+Aegra provides a self‑hosted, open‑source backend for AI agents, offering the same orchestration capabilities as LangGraph Platform (now LangSmith Deployments) without vendor lock‑in. Built with FastAPI and PostgreSQL, it lets developers fully control, scale, and customize their agent infrastructure while maintaining easy integration with existing AI/ML workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/aegra/aegra) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/aegra/aegra) · [← Back to Orchestration](./README.md)</sub>

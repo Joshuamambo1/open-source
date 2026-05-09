@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai-analytics` `ai-workflow` `bigquery` `business-intelligence` `clickhouse` `data-analytics` `databricks` `dremio` `duckdb` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-OrionBelt Semantic Layer is an open-source, API-first semantic engine that enables AI agents to interact with various databases through a unified interface. It translates declarative YAML models into optimized SQL queries, supporting dialects for BigQuery, PostgreSQL, and more. This project streamlines data access and manipulation for AI applications across multiple data storage systems.
+rAlfbecher’s **orionbelt-semantic-layer** is an API‑first semantic engine and query planner designed for AI agents. It transforms declarative YAML models into optimized, dialect‑specific SQL, supporting a wide range of backends—including BigQuery, PostgreSQL, Snowflake, ClickHouse, Dremio, Databricks, DuckDB, and MySQL—so developers can query heterogeneous data stores with a single, unified semantic layer.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ralfbecher/orionbelt-semantic-layer) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ralfbecher/orionbelt-semantic-layer) · [← Back to AI/ML](./README.md)</sub>

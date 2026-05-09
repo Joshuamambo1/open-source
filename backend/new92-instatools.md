@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 296 |
-| 🍴 **Forks** | 32 |
+| ⭐ **Stars** | 299 |
+| 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automation` `bot` `cli` `collection` `explore` `github` `instagram` `instagram-bot` `python` `python3` `scraper` `scraping`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Instatools is an open-source collection of automation tools designed to streamline tasks on Instagram. Written in Python, this repository offers a set of utilities to simplify backend development and DevOps processes for Instagram-related projects. By leveraging Instatools, developers can automate repetitive tasks and enhance their overall productivity.
+new92/instatools is an open‑source Python library that bundles a set of command‑line utilities for automating common Instagram tasks such as posting, scheduling, and data retrieval. Designed for backend and developer workflows, the tools provide simple, scriptable interfaces that can be integrated into larger automation pipelines. The project encourages community contributions and stars to help it grow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/new92/instatools) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/new92/instatools) · [← Back to Backend](./README.md)</sub>

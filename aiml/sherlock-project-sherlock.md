@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 82.9k |
+| ⭐ **Stars** | 83.1k |
 | 🍴 **Forks** | 9.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `cti` `cybersecurity` `forensics` `hacktoberfest` `information-gathering` `infosec` `linux` `osint` `pentesting` `python` `python3`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-The Sherlock project is an open-source tool designed to identify social media accounts by username across various social networks, providing a comprehensive and efficient way to track and monitor online presence. Utilizing AI/ML capabilities, Sherlock enables developers and security professionals to rapidly gather information about individuals, organizations, or entities across multiple social media platforms. This project helps bridge the gap in online investigation and security research.
+Sherlock is an open‑source command‑line tool that automates the process of locating a person's presence on dozens of social networking sites by checking the availability of a given username. It quickly scans a curated list of platforms, reports existing accounts, and highlights missing or private profiles, making it useful for security research, OSINT investigations, and personal brand audits. The project is actively maintained, extensible, and integrates well with other DevTools for automated reconnaissance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/sherlock-project/sherlock) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sherlock-project/sherlock) · [← Back to AI/ML](./README.md)</sub>

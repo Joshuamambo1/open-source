@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 70 |
+| ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The "skills" project is an open-source initiative that enables developers to enhance their AI agents and bots with reusable skills, allowing for more efficient and scalable AI development. By leveraging this project, users can orchestrate and combine various skills to create sophisticated AI systems that can tackle complex tasks. This project is a valuable resource for developers working on AI/ML projects, offering a modular and flexible framework for building intelligent agents.
+The **skills** project provides a lightweight framework for enriching AI agents and chatbots with modular, reusable “skills” that encapsulate specific capabilities—such as data retrieval, tool invocation, or custom logic—so they can be easily composed and orchestrated at runtime. By defining skills as simple, language‑agnostic specifications, developers can plug them into any LLM‑driven system, share them across projects, and build more flexible, maintainable AI pipelines without rewriting core bot logic.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/luongnv89/skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/luongnv89/skills) · [← Back to Orchestration](./README.md)</sub>

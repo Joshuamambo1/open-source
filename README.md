@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4179** |
+| 🗂️ **Total projects** | **4219** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,14 +18,14 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1697 | [Browse →](./aiml/) |
-| 📦 **Misc** | 665 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 420 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 410 | [Browse →](./frontend/) |
-| 🔧 **DevTools** | 221 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 215 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 1715 | [Browse →](./aiml/) |
+| 📦 **Misc** | 671 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 425 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 413 | [Browse →](./frontend/) |
+| 🔧 **DevTools** | 225 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 218 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 162 | [Browse →](./crypto/) |
-| 📊 **Data** | 90 | [Browse →](./data/) |
+| 📊 **Data** | 91 | [Browse →](./data/) |
 | 💳 **Payments** | 86 | [Browse →](./payments/) |
 | 📈 **Trading** | 56 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 51 | [Browse →](./devopsinfra/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [jnMetaCode/agency-agents-zh](./crypto/jnmetacode-agency-agents-zh.md) | ⭐ 10.3k | Crypto |
-| 2 | [fastlane/fastlane](./frontend/fastlane-fastlane.md) | ⭐ 41.5k | Frontend |
-| 3 | [mrexodia/ida-pro-mcp](./aiml/mrexodia-ida-pro-mcp.md) | ⭐ 8.3k | AI/ML |
-| 4 | [junit-team/junit-framework](./devtools/junit-team-junit-framework.md) | ⭐ 7k | DevTools |
-| 5 | [rustdesk/rustdesk](./mobile/rustdesk-rustdesk.md) | ⭐ 113.8k | Mobile |
-| 6 | [rohitg00/ai-engineering-from-scratch](./aiml/rohitg00-ai-engineering-from-scratch.md) | ⭐ 6.5k | AI/ML |
-| 7 | [wailsapp/wails](./aiml/wailsapp-wails.md) | ⭐ 34k | AI/ML |
-| 8 | [alibaba/nacos](./aiml/alibaba-nacos.md) | ⭐ 32.9k | AI/ML |
-| 9 | [alibaba/arthas](./orchestration/alibaba-arthas.md) | ⭐ 37.3k | Orchestration |
-| 10 | [open-multi-agent/open-multi-agent](./orchestration/open-multi-agent-open-multi-agent.md) | ⭐ 6.1k | Orchestration |
+| 1 | [renovatebot/renovate](./devtools/renovatebot-renovate.md) | ⭐ 21.5k | DevTools |
+| 2 | [sherlock-project/sherlock](./aiml/sherlock-project-sherlock.md) | ⭐ 83.1k | AI/ML |
+| 3 | [jnMetaCode/agency-agents-zh](./crypto/jnmetacode-agency-agents-zh.md) | ⭐ 10.3k | Crypto |
+| 4 | [fastlane/fastlane](./frontend/fastlane-fastlane.md) | ⭐ 41.5k | Frontend |
+| 5 | [mrexodia/ida-pro-mcp](./aiml/mrexodia-ida-pro-mcp.md) | ⭐ 8.3k | AI/ML |
+| 6 | [junit-team/junit-framework](./devtools/junit-team-junit-framework.md) | ⭐ 7k | DevTools |
+| 7 | [rustdesk/rustdesk](./mobile/rustdesk-rustdesk.md) | ⭐ 113.8k | Mobile |
+| 8 | [rohitg00/ai-engineering-from-scratch](./aiml/rohitg00-ai-engineering-from-scratch.md) | ⭐ 6.5k | AI/ML |
+| 9 | [wailsapp/wails](./aiml/wailsapp-wails.md) | ⭐ 34k | AI/ML |
+| 10 | [alibaba/nacos](./aiml/alibaba-nacos.md) | ⭐ 32.9k | AI/ML |
 
 ## 🚀 How it works
 

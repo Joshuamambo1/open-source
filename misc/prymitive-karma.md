@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alerting` `alertmanager` `dashboard` `monitoring` `prometheus` `prometheus-alertmanager` `prometheus-utility`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Prymitive/karma is an open-source alert dashboard for Prometheus Alertmanager, providing a user-friendly interface to visualize and manage alerts from your monitoring system. This tool enables teams to quickly identify and respond to critical issues, streamlining incident resolution processes. By offering a customizable and intuitive experience, karma aims to simplify the complexities of alert management.
+prymitive/karma is an open‑source web UI that visualizes and manages alerts from Prometheus Alertmanager. It provides a searchable, filterable dashboard where users can view active, silenced, and inhibited alerts, acknowledge or mute them, and integrate with notification channels. Designed for ease of use and quick troubleshooting, Karma helps teams stay on top of their monitoring alerts in real time.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/prymitive/karma) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/prymitive/karma) · [← Back to Misc](./README.md)</sub>

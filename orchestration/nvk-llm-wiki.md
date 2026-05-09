@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 356 |
-| 🍴 **Forks** | 47 |
+| ⭐ **Stars** | 382 |
+| 🍴 **Forks** | 52 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agentic-skills` `agentic-workflow` `claude-code` `codex` `llm` `plugin` `wiki`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The nvk/llm-wiki project is an open-source initiative that aims to create comprehensive, compiled knowledge bases for AI agents, enabling parallel multi-agent research and facilitating thesis-driven investigations. This platform supports source ingestion, wiki compilation, querying, and artifact generation, providing a robust foundation for AI and machine learning (ML) research. By harnessing the power of large language models (LLMs), nvk/llm-wiki empowers AI agents with vast knowledge bases and advanced querying capabilities.
+**Summary:**  
+nvk/llm-wiki is an open‑source framework that builds and manages LLM‑generated knowledge bases, turning diverse source material into a structured wiki that can be queried and used by any AI agent. It supports parallel multi‑agent workflows for research, thesis‑driven investigation, source ingestion, and artifact generation, providing orchestration tools to streamline knowledge compilation and retrieval.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nvk/llm-wiki) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nvk/llm-wiki) · [← Back to Orchestration](./README.md)</sub>

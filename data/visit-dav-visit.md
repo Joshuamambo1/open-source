@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | C |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`data-analysis` `data-viz` `hpc` `python` `radiuss` `scientific-computing` `scientific-visualization` `visualization`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-VisIt is an open-source project that enables users to visualize and analyze complex mesh-based scientific data. This powerful tool allows researchers and scientists to create high-fidelity visualizations and extract valuable insights from large datasets, facilitating a deeper understanding of various scientific phenomena. By leveraging VisIt, users can unlock the full potential of their data and drive meaningful discoveries.
+Visit‑dav/visit is an open‑source, high‑performance visualisation and analysis framework designed for large, mesh‑based scientific data sets. It provides interactive 2‑D/3‑D rendering, advanced data probing, and a powerful scripting interface to explore complex simulations across many disciplines. The project is actively maintained and freely available under a permissive license.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/visit-dav/visit) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/visit-dav/visit) · [← Back to Data](./README.md)</sub>

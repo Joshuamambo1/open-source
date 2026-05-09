@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 245 |
-| 🍴 **Forks** | 21 |
+| ⭐ **Stars** | 291 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Pebble email client:
-
-Pebble is a lightweight, open-source email client that prioritizes simplicity and elegance. Built with developers in mind, its minimalistic design allows users to focus on their emails without unnecessary distractions. With its intuitive interface and flexibility, Pebble offers a refreshing alternative to traditional email clients.
+QingJ01/Pebble is a lightweight, aesthetically designed email client that focuses on simplicity and visual appeal while delivering core messaging functionality. Though compact, it incorporates smart features powered by AI/ML to enhance email organization, filtering, and user interaction. Ideal for developers and power users, Pebble serves as a sleek, open‑source alternative to traditional mail applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/QingJ01/Pebble) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/QingJ01/Pebble) · [← Back to AI/ML](./README.md)</sub>

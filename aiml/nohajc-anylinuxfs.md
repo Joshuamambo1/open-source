@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 34 |
+| 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitlocker` `btrfs` `container` `disk` `disk-management` `docker` `encrypted-data` `exfat` `ext4` `filesystem` `linux` `luks`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
-The anylinuxfs project by nohajc is an open-source initiative that enables read/write access to Linux-supported file systems on macOS using NFS and a micro virtual machine. This project aims to bridge the gap between macOS and Linux file systems, facilitating seamless cross-platform collaboration and development. By leveraging a microVM and NFS, anylinuxfs provides a reliable and efficient solution for accessing and sharing files between macOS and Linux environments.
+anylinuxfs is an open‑source tool that lets macOS users mount any Linux‑supported filesystem with full read/write access by exporting it over NFS from a lightweight microVM. It automatically provisions a minimal Linux VM, attaches the desired block device, and presents the filesystem as a native macOS mount point, simplifying cross‑platform development and data workflows. The project targets DevOps and infrastructure engineers who need seamless, on‑the‑fly access to Linux filesystems from macOS environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nohajc/anylinuxfs) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nohajc/anylinuxfs) · [← Back to AI/ML](./README.md)</sub>

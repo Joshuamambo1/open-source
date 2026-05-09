@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 52 |
-| 🍴 **Forks** | 7 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai` `ai-agents` `ai-assistant` `ai-developer` `autonomous-agents` `claude-code` `cli` `cli-app` `code-assist-tool` `code-assistant` `developer-tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Muvon/octomind is an open-source project that provides plug-and-play AI agents for various domains, simplifying the integration of artificial intelligence into existing systems. This project aims to make AI more accessible and user-friendly, allowing developers to easily deploy AI capabilities without extensive expertise in machine learning. By leveraging octomind, developers can focus on building and customizing AI agents for their specific use cases.
+Muvon/octomind provides a plug‑and‑play framework for creating and deploying AI agents across any domain, abstracting away the complexities of model integration, orchestration, and state management. It offers a modular backend and developer tools that let you instantly spin up custom agents, connect them to external APIs, and scale them with minimal code. Ideal for developers who need flexible, domain‑agnostic AI assistants without building the infrastructure from scratch.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/Muvon/octomind) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Muvon/octomind) · [← Back to AI/ML](./README.md)</sub>

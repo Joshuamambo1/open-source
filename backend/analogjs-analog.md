@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 320 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `framework` `fullstack` `meta-framework` `nitro` `router` `server-side-rendering` `ssg` `ssr` `static-site-generator` `vite` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Analog is an open-source, fullstack meta-framework for Angular applications. It leverages Vite and Nitro to provide a fast and streamlined development experience, offering a comprehensive solution for building scalable and efficient Angular projects. With Analog, developers can create robust backend infrastructure while utilizing the power of Angular for frontend development.
+AnalogJS is a full‑stack meta‑framework for Angular that combines the speed of Vite with the server‑side capabilities of Nitro, enabling developers to build modern, high‑performance web applications using a single codebase. It provides seamless integration of client‑side rendering, server‑side rendering, API routes, and static site generation, allowing Angular projects to serve as both the frontend and backend without leaving the Angular ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/analogjs/analog) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/analogjs/analog) · [← Back to Backend](./README.md)</sub>

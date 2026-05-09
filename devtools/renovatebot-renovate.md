@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21.4k |
+| ⭐ **Stars** | 21.5k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`azure-devops` `bitbucket` `dependencies` `dependencies-checking` `dependency-manager` `github` `gitlab` `npm` `package-management`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-renovatebot/renovate is a promising open-source project. Categories: DevTools. Interest score: 100/100.
+Renovate is an open‑source CLI tool that automates dependency updates across a wide range of package managers, languages, and platforms. By scanning project manifests and creating pull requests for new versions, it helps teams keep libraries, containers, and other resources up‑to‑date with minimal manual effort. The tool is maintained by Mend.io and integrates with popular version‑control services, CI pipelines, and DevOps workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/renovatebot/renovate) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/renovatebot/renovate) · [← Back to DevTools](./README.md)</sub>

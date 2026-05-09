@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`derive` `developer-tools` `macros` `newtype` `rust` `trait`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The JelteF/derive_more project is an open-source initiative that expands on the derive macro in Rust, allowing for more trait options to be automatically implemented for structs and enums. This project enhances the flexibility and usability of Rust's derive feature, making it easier to work with various data structures and abstractions. By providing additional derive options, developers can write more concise and efficient code with reduced boilerplate.
+Derive_more is an open‑source Rust library that expands the set of automatically generated trait implementations available via `#[derive]`. By providing additional derive macros for common traits such as `From`, `Into`, `Add`, `Display`, and many others, it reduces boilerplate and speeds up development of Rust applications. The crate is lightweight, well‑documented, and widely used in the Rust ecosystem for more ergonomic code generation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/JelteF/derive_more) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/JelteF/derive_more) · [← Back to AI/ML](./README.md)</sub>

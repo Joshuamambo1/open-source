@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 730 |
+| ⭐ **Stars** | 731 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`autocr` `cheat` `children-of-the-light` `cotl` `mod` `script` `sky` `tgc` `thatgamecompany`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The Sky-CotL-Scripts project is a public collection of open-source mods for the game Sky: Children of the Light. This collection of mods provides players with additional content and features, allowing them to customize and enhance their gaming experience. Developed by thatgamecompany, Sky: Children of the Light is a beautifully crafted game available on various platforms.
+A curated repository of community‑created modifications for **Sky: Children of the Light**, offering tools, scripts, and assets that enhance gameplay, visuals, and user experience. Designed for developers and hobbyists, the collection provides open‑source code, documentation, and examples to help users safely integrate custom features into the game. It serves as a collaborative hub for extending the latest title from thatgamecompany.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/thatskymod/Sky-CotL-Scripts) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/thatskymod/Sky-CotL-Scripts) · [← Back to DevTools](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Calimero is an open-source peer-to-peer application platform that prioritizes local-first governance and CRDT (Conflict-Free Replicated Data Types) state synchronization. It enables the execution of WebAssembly (WASM) code, allowing for a high degree of flexibility and scalability. By leveraging these innovative technologies, Calimero provides a unique foundation for building decentralized applications.
+Calimero is an open‑source peer‑to‑peer application platform that emphasizes local‑first governance, enabling decentralized collaboration without relying on central servers. It provides built‑in CRDT (Conflict‑Free Replicated Data Type) state synchronization for seamless data consistency across nodes, and supports executing WebAssembly (WASM) modules to extend functionality. The project serves as a versatile foundation for building distributed, offline‑first applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/calimero-network/core) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/calimero-network/core) · [← Back to Misc](./README.md)</sub>

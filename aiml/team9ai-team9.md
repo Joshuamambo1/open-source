@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `openclaw` `team9`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Team9 is an open-source collaborative workspace for AI agents, built on the OpenClaw platform and its ecosystem. This innovative project enables seamless interaction and collaboration between AI agents, fostering a powerful and dynamic environment for AI development and research. By leveraging the OpenClaw ecosystem, Team9 provides a flexible and scalable foundation for AI applications.
+Team9 is an open‑source collaborative workspace that enables multiple AI agents to interact and coordinate within a shared environment. Built on the OpenClaw platform and its ecosystem, it provides a frontend interface for seamless integration, visualization, and management of AI/ML workflows. The project targets developers looking to create multi‑agent systems with an intuitive, web‑based UI.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/team9ai/team9) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/team9ai/team9) · [← Back to AI/ML](./README.md)</sub>

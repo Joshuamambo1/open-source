@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 560 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automated-machine-learning` `automl` `classification` `data-science` `deep-learning` `finetuning` `hyperparam` `hyperparameter-optimization` `jupyter-notebook` `machine-learning` `natural-language-generation` `natural-language-processing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-FLAML is an open-source, fast library for AutoML and hyperparameter tuning. It enables users to automate machine learning model selection and optimization, streamlining the process of finding the best model for their specific problem. With FLAML, users can quickly and efficiently experiment with different models and hyperparameters to achieve optimal results.
+FLAML (Fast Lightweight AutoML) is an open‑source Python library that enables rapid automated machine learning and hyperparameter tuning with minimal computational overhead, supporting a wide range of models and tasks such as classification, regression, and time‑series forecasting. It is designed for efficiency, allowing users to achieve strong predictive performance with low resource consumption and easy integration into existing pipelines. The project also maintains an active community, including a Discord server for support and discussion.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/microsoft/FLAML) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/microsoft/FLAML) · [← Back to AI/ML](./README.md)</sub>

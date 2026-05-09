@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acis` `agentic-ai-security` `cloudnative` `cloudsecurity` `cybersecurity` `deception` `decoys` `framework` `go` `honeypot` `llama` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Beelzebub is an open-source, low-code honeypot framework that utilizes AI-powered system virtualization to provide secure and advanced threat detection capabilities. This innovative framework leverages artificial intelligence to mimic various operating systems and applications, making it an attractive target for attackers that can be monitored and analyzed for potential security threats. By using Beelzebub, organizations can gain valuable insights into potential vulnerabilities and improve their overall cybersecurity posture.
+Beelzebub is an open‑source, low‑code runtime framework that enables developers to create sophisticated deception environments for security testing and threat mitigation. By combining AI‑driven automation with system virtualization, it lets users quickly generate realistic fake assets and services that can lure, detect, and analyze attackers while keeping the underlying infrastructure secure. The project targets both AI/ML enthusiasts and security professionals seeking scalable, programmable deception solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/beelzebub-labs/beelzebub) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/beelzebub-labs/beelzebub) · [← Back to AI/ML](./README.md)</sub>

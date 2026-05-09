@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 339 |
+| 🍴 **Forks** | 340 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`addon` `lua` `quest` `questie` `world-of-warcraft` `world-of-warcraft-classic` `wow` `wow-addon`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Questie is an open-source, user-friendly quest helper designed specifically for World of Warcraft Classic. This tool assists players by providing detailed quest information, tracking, and automatic quest acceptance and completion, enhancing the overall gameplay experience. With Questie, players can focus on exploring the vast world of Azeroth without the hassle of manual quest management.
+Questie is an open‑source addon for World of Warcraft Classic that streamlines questing by displaying quest objectives, locations, and routes directly on the game map and minimap. It provides real‑time guidance, quest tracking, and detailed information to help players efficiently complete quests and explore the world.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Questie/Questie) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Questie/Questie) · [← Back to Misc](./README.md)</sub>

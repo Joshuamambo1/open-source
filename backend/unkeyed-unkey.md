@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.3k |
-| 🍴 **Forks** | 618 |
+| 🍴 **Forks** | 620 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `api-keys` `authentication` `authorization` `deployment` `gateway` `open-source` `rate-limiter`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools · Security
 
 ## 📝 Summary
 
-unkey is an open-source platform designed to provide a developer-friendly environment for building and managing modern APIs. It offers a comprehensive set of tools and features to simplify API development, enhance security, and streamline backend operations. By leveraging unkey, developers can create scalable, efficient, and secure APIs with ease, improving overall development productivity.
+unkey is an open‑source developer platform that simplifies the creation, management, and protection of modern APIs. It provides backend utilities, DevTools, and built‑in security features—such as API key handling, rate limiting, and analytics—so teams can quickly launch robust, production‑ready services without managing separate infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/unkeyed/unkey) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/unkeyed/unkey) · [← Back to Backend](./README.md)</sub>

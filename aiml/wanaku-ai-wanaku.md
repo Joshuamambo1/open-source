@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `agentic-ai` `agents` `artificial-intelligence` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-Wanaku is an open-source AI/ML-powered MCP (Micro-Controller Platform) router that enables users to create a scalable and efficient network infrastructure. By leveraging machine learning capabilities, Wanaku optimizes network performance, provides real-time analytics, and ensures seamless communication between devices. This project aims to bridge the gap between traditional networking solutions and AI-driven innovations.
+Wanaku is an open‑source MCP (Message Control Protocol) router designed to facilitate high‑performance, AI‑aware communication between backend services. It provides a lightweight, extensible routing layer that can parse, transform, and forward MCP messages, enabling seamless integration of machine‑learning models and other AI components into distributed systems. The project is built for developers who need a reliable, scalable backend infrastructure for AI/ML workloads.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/wanaku-ai/wanaku) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/wanaku-ai/wanaku) · [← Back to AI/ML](./README.md)</sub>

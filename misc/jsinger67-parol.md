@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`grammar` `parser` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The parol project is an open-source parser generator tool that supports both LL(k) and LALR(1) parsing algorithms. It is designed to work with Rust and C# programming languages, enabling developers to build efficient and reliable parsers for their specific needs. This project aims to provide a flexible and versatile solution for parsing tasks in various applications.
+**jsinger67/parol** is an open‑source parser generator that supports LL(k) and LALR(1) grammars, producing parsers for both Rust and C#. It provides a flexible DSL for defining grammars and automatically generates high‑performance, type‑safe parsing code, making it easier to build compilers, interpreters, or any language‑processing tools in those languages.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/jsinger67/parol) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jsinger67/parol) · [← Back to Misc](./README.md)</sub>

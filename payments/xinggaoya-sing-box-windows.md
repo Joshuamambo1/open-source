@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 708 |
+| ⭐ **Stars** | 718 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Payments · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Sing-Box is a modern, cross-platform desktop client for subscriptions and runtime monitoring. The application supports proxy switching and runtime monitoring, offering a convenient and unified experience across multiple platforms, including Windows, Linux, and macOS. It caters to developers and users who require efficient and streamlined management of subscriptions and proxy settings.
+A modern, cross‑platform desktop client for **sing‑box** that runs on Windows, Linux and macOS. It lets users import subscription files, switch between proxy modes, and monitor real‑time connection status—all from a native GUI. Ideal for users who need a simple, unified interface to manage sing‑box configurations and traffic.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/xinggaoya/sing-box-windows) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/xinggaoya/sing-box-windows) · [← Back to Payments](./README.md)</sub>

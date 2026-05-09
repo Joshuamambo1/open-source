@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 47 |
-| 🍴 **Forks** | 5 |
+| ⭐ **Stars** | 45 |
+| 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `claude` `claude-code` `claude-code-plugin` `claude-code-plugins` `claude-code-skills` `code-review` `developer-tools`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the Kanevry/session-orchestrator project:
-
-Kanevry/session-orchestrator is an open-source project that enables structured AI development sessions through the Claude Code plugin. It offers a 5-wave execution, parallel agents, quality gates, and version control system integration, all while utilizing pure Markdown and avoiding runtime code. This project aims to streamline AI development by providing a comprehensive and flexible toolset.
+Kanevry/session-orchestrator is a Claude Code plugin that streamlines structured AI development sessions using a five‑wave execution model, parallel agents, and built‑in quality gates, all while integrating seamlessly with version‑control systems. The tool is defined entirely in pure Markdown—no runtime code is required—making it lightweight, portable, and easy to version. It targets developers who need robust orchestration for AI/ML workflows and DevOps pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Kanevry/session-orchestrator) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Kanevry/session-orchestrator) · [← Back to Orchestration](./README.md)</sub>

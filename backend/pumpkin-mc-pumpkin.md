@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.5k |
-| 🍴 **Forks** | 508 |
+| 🍴 **Forks** | 510 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `game-server` `gamedev` `minecraft` `minecraft-bedrock-edition` `minecraft-protocol` `minecraft-server` `networking` `rust` `server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Pumpkin-MC/Pumpkin is an open-source project that enables users to set up fast and efficient Minecraft servers. This project empowers individuals to easily host and manage Minecraft servers, making it an ideal solution for both personal and large-scale server deployments. By utilizing Pumpkin's capabilities, users can streamline their server operations and enhance their Minecraft experience.
+Pumpkin is an open‑source platform that streamlines the deployment and management of high‑performance Minecraft servers. By providing a lightweight, modular backend and DevOps‑focused tooling, it enables users of any skill level to launch, scale, and maintain fast, resource‑efficient game servers with minimal configuration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Pumpkin-MC/Pumpkin) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Pumpkin-MC/Pumpkin) · [← Back to Backend](./README.md)</sub>

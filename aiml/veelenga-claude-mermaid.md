@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 138 |
+| ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude-code` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The Claude-Mermaid project is an open-source implementation of an MCP (Machine Configuration Protocol) server that enables live previewing of Mermaid diagrams. This allows developers to instantly see the rendered diagram as they update the code, streamlining the process of creating and refining visualizations. The project is designed for use in AI/ML and backend development environments.
+**Summary:**  
+`veelenga/claude-mermaid` is an open‑source MCP (Mermaid Control Protocol) server that renders Mermaid diagram definitions into live, auto‑reloading visual previews. It provides a simple backend API for developers to embed real‑time diagram rendering into their workflows, making it easy to view and iterate on flowcharts, sequence diagrams, and other Mermaid graphics without leaving the editor.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/veelenga/claude-mermaid) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/veelenga/claude-mermaid) · [← Back to AI/ML](./README.md)</sub>

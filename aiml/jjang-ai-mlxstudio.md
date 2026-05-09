@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 668 |
-| 🍴 **Forks** | 42 |
+| ⭐ **Stars** | 692 |
+| 🍴 **Forks** | 43 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `anthropic` `anthropic-api` `apple-silicon` `inference` `inference-engine` `llm` `lmstudio` `macbook` `macstudio` `mlx`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the jjang-ai/mlxstudio project:
-
-MLX Studio is an open-source, multi-faceted platform that combines image generation and editing capabilities with chat and code functionality. It utilizes JANG_Q, an image generation tool, and OpenClaw, an interface to the Anthropic API, to provide a comprehensive creative workspace. This project aims to empower users with a versatile tool for various tasks, from artistic expression to coding and conversational interactions.
+MLX Studio (jjang‑ai/mlxstudio) is an open‑source platform that combines image generation and editing, chat, and code assistance into a single web‑based interface. It integrates the JANG_Q model suite with the OpenClaw wrapper for the Anthropic API, providing both AI‑driven visual creation tools and conversational/code completion features. The project is built for AI/ML developers and designers who need an all‑in‑one backend and UI for multimodal AI workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/jjang-ai/mlxstudio) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jjang-ai/mlxstudio) · [← Back to AI/ML](./README.md)</sub>

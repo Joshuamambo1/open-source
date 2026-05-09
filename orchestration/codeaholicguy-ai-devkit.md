@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 190 |
+| 🍴 **Forks** | 192 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `ai` `ai-assisted-development` `antigravity` `claude-code` `codex` `cursor` `development` `engineering` `engineering-enablement` `engineering-experience` `prd`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-codeaholicguy/ai-devkit is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 61/100.
+codeaholicguy/ai-devkit is a universal command‑line toolkit that lets developers plug in AI‑agent “skills” to automate and enhance coding workflows. It provides a unified, extensible interface for interacting with various AI coding assistants—such as Cursor, Claude Code, Codex, and others—enabling structured, repeatable AI‑assisted development across different tools. The project falls under orchestration, AI/ML, and developer tools categories.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/codeaholicguy/ai-devkit) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/codeaholicguy/ai-devkit) · [← Back to Orchestration](./README.md)</sub>

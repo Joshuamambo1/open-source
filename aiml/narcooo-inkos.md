@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.7k |
+| ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-agent` `ai-novel` `ai-writing` `chinese-novel` `cli` `cli-tool` `creative-writing-ai` `novel-ai` `novel-generation` `openclaw`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Narcooo/inkos project is an open-source, autonomous novel writing AI agent that leverages artificial intelligence and machine learning to write, audit, and revise novels. Designed to collaborate with human reviewers, this tool enables the creation of high-quality literary content through a unique combination of AI-driven creativity and human oversight. By streamlining the writing process, Narcooo/inkos aims to democratize access to novel writing and facilitate the development of innovative storytelling.
+Narcooo/inkos is an open‑source autonomous AI agent designed for novel writing. It coordinates multiple specialized agents to draft, audit, and revise manuscript sections, while incorporating human‑review checkpoints to ensure quality and coherence. Positioned at the intersection of AI/ML and developer tools, Inkos streamlines the creative workflow for authors and developers alike.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Narcooo/inkos) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Narcooo/inkos) · [← Back to AI/ML](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The Pactus blockchain is an open-source project that combines the worlds of cryptocurrency and artificial intelligence, aiming to create a more secure, efficient, and scalable decentralized network. By leveraging advanced AI/ML technologies, Pactus seeks to improve its performance, adaptability, and resilience, making it a promising development in the field of blockchain innovation. With a focus on community-driven development, Pactus encourages collaboration and contribution from experts worldwide.
+Pactus is an open‑source blockchain platform focused on delivering high‑performance, secure, and scalable decentralized infrastructure. It leverages a novel consensus algorithm and modular architecture to enable fast transaction finality, low fees, and easy integration of smart contracts and AI/ML-powered applications. The project aims to provide a robust foundation for decentralized finance, NFTs, and other emerging crypto use cases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/pactus-project/pactus) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pactus-project/pactus) · [← Back to Crypto](./README.md)</sub>

@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**32 projects** in this category.
+**33 projects** in this category.
 
 ## Projects
 
@@ -22,24 +22,25 @@
 | 12 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 85/100 |
 | 13 | [pocket-id/pocket-id](./pocket-id-pocket-id.md) | ⭐ 7.8k | Go | 84/100 |
 | 14 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.1k | TypeScript | 83/100 |
-| 15 | [zizmorcore/zizmor](./zizmorcore-zizmor.md) | ⭐ 4.5k | Rust | 79/100 |
-| 16 | [EnergizedProtection/block](./energizedprotection-block.md) | ⭐ 2.8k | — | 73/100 |
-| 17 | [nielsfaber/alarmo](./nielsfaber-alarmo.md) | ⭐ 2.1k | Python | 66/100 |
-| 18 | [mthcht/awesome-lists](./mthcht-awesome-lists.md) | ⭐ 1.4k | YARA | 63/100 |
-| 19 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 60/100 |
-| 20 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 507 | TypeScript | 57/100 |
-| 21 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 56/100 |
-| 22 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 54/100 |
-| 23 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 53/100 |
-| 24 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 52/100 |
-| 25 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 52/100 |
-| 26 | [mytechnotalent/Hacking-Rust](./mytechnotalent-hacking-rust.md) | ⭐ 224 | Rust | 52/100 |
-| 27 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 52/100 |
-| 28 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
-| 29 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 50/100 |
-| 30 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 48/100 |
-| 31 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
-| 32 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
+| 15 | [rizinorg/rizin](./rizinorg-rizin.md) | ⭐ 3.6k | C | 80/100 |
+| 16 | [zizmorcore/zizmor](./zizmorcore-zizmor.md) | ⭐ 4.5k | Rust | 79/100 |
+| 17 | [EnergizedProtection/block](./energizedprotection-block.md) | ⭐ 2.8k | — | 73/100 |
+| 18 | [nielsfaber/alarmo](./nielsfaber-alarmo.md) | ⭐ 2.1k | Python | 66/100 |
+| 19 | [mthcht/awesome-lists](./mthcht-awesome-lists.md) | ⭐ 1.4k | YARA | 63/100 |
+| 20 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 60/100 |
+| 21 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 507 | TypeScript | 57/100 |
+| 22 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 56/100 |
+| 23 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 54/100 |
+| 24 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 53/100 |
+| 25 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 52/100 |
+| 26 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 52/100 |
+| 27 | [mytechnotalent/Hacking-Rust](./mytechnotalent-hacking-rust.md) | ⭐ 224 | Rust | 52/100 |
+| 28 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 52/100 |
+| 29 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
+| 30 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 50/100 |
+| 31 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 48/100 |
+| 32 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
+| 33 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
 
 ---
 

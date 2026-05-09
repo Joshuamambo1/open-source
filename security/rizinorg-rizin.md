@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 559 |
 | 💻 **Language** | C |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`debugging` `exploitation` `program-analysis` `reverse-engineering` `security`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-Rizin is an open-source, UNIX-like reverse engineering framework and command-line toolset designed to provide a comprehensive platform for analyzing and dissecting various types of binary files. This versatile toolset enables security professionals and researchers to perform in-depth analysis, debugging, and exploitation of software. With its extensive feature set and extensibility, Rizin has become a valuable resource in the field of reverse engineering and security research.
+Rizin is an open‑source, UNIX‑like reverse‑engineering framework that provides a powerful command‑line toolset for binary analysis, debugging, and exploitation. It offers features such as disassembly, decompilation, scripting, and visualizations, making it a versatile platform for security researchers and developers working on low‑level software inspection.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rizinorg/rizin) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/rizinorg/rizin) · [← Back to Security](./README.md)</sub>

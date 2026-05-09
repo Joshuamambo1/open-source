@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 433 |
-| 🍴 **Forks** | 67 |
+| ⭐ **Stars** | 439 |
+| 🍴 **Forks** | 68 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adult` `blocklist` `compilation` `dns` `dns-firewall` `domains` `explicit` `explicit-content` `family-filter` `family-friendly` `filter` `hosts`
 
 ## 🎯 Categories
 
@@ -29,4 +29,4 @@ Bon-Appetit/porn-domains is a promising open-source project. Categories: AI/ML. 
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Bon-Appetit/porn-domains) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Bon-Appetit/porn-domains) · [← Back to AI/ML](./README.md)</sub>

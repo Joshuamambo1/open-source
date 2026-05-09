@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 193 |
+| 🍴 **Forks** | 194 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The bootc-dev/bootc project is an open-source initiative that enables the use of container images for booting and upgrading systems, revolutionizing the way devices initialize and update. This innovative approach simplifies the process of deploying and updating software, particularly in the context of AI/ML applications. By leveraging containerization, bootc-dev/bootc facilitates faster, more reliable, and more secure system updates.
+Bootc (bootc-dev/bootc) is an open‑source tool that enables Linux systems to boot and perform upgrades directly from OCI container images, turning immutable, reproducible images into full operating system roots. By leveraging container registries and standard image formats, it simplifies lifecycle management, reduces configuration drift, and provides a consistent, declarative approach to OS provisioning and updates.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bootc-dev/bootc) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/bootc-dev/bootc) · [← Back to AI/ML](./README.md)</sub>

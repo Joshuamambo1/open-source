@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `nuxt`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Nuxt CLI is an open-source command-line interface tool for Nuxt.js, a popular Vue.js framework for building server-rendered and statically generated web applications. With Nuxt CLI, users can easily manage and maintain their Nuxt projects, streamlining tasks such as project initialization, build, and deployment. This tool aims to simplify the development process and provide a more efficient workflow for Nuxt developers.
+nuxt/cli is the command‑line interface for the Nuxt framework, providing developers with tools to create, build, and manage Nuxt applications efficiently. It offers streamlined commands for project scaffolding, development server handling, production builds, and deployment workflows, integrating tightly with Nuxt’s ecosystem. This open‑source DevTools package simplifies the entire lifecycle of Nuxt projects from initialization to production.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/nuxt/cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nuxt/cli) · [← Back to DevTools](./README.md)</sub>

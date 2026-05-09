@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-development` `bmad` `claude-code` `cli` `ralph`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The BMAD project, managed by LarsCowe, is an open-source, unified AI development framework that integrates the BMAD phases with the Ralph execution loop. This framework aims to provide a structured approach to AI development, making it easier to build, test, and deploy AI models. By unifying the development process, BMAD enables faster and more efficient AI development.
+LarsCowe/bmalph is an open‑source unified AI development framework that structures projects into BMAD (Build‑Model‑Analyze‑Deploy) phases while providing a “Ralph” execution loop to orchestrate and automate each stage. It streamlines the workflow for machine‑learning experimentation, model management, and deployment, offering developers a cohesive set of tools for building, testing, and releasing AI solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/LarsCowe/bmalph) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/LarsCowe/bmalph) · [← Back to AI/ML](./README.md)</sub>

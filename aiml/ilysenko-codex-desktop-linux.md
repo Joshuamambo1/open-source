@@ -1,6 +1,6 @@
 # ilysenko/codex-desktop-linux
 
-[![Stars](https://img.shields.io/github/stars/ilysenko/codex-desktop-linux?style=flat-square&color=yellow)](https://github.com/ilysenko/codex-desktop-linux/stargazers) [![Forks](https://img.shields.io/github/forks/ilysenko/codex-desktop-linux?style=flat-square&color=blue)](https://github.com/ilysenko/codex-desktop-linux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ilysenko/codex-desktop-linux?style=flat-square&color=yellow)](https://github.com/ilysenko/codex-desktop-linux/stargazers) [![Forks](https://img.shields.io/github/forks/ilysenko/codex-desktop-linux?style=flat-square&color=blue)](https://github.com/ilysenko/codex-desktop-linux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Run OpenAI Codex Desktop on Linux - automated installer
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 583 |
-| 🍴 **Forks** | 91 |
+| ⭐ **Stars** | 649 |
+| 🍴 **Forks** | 112 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The ilysenko/codex-desktop-linux project provides a simplified, automated installer for running OpenAI Codex Desktop on Linux systems. This open-source tool streamlines the installation process, making it easier for users to leverage the capabilities of Codex Desktop on their Linux machines. By utilizing this project, users can access the full range of Codex Desktop features without the need for manual configuration.
+ilysenko/codex-desktop-linux provides an automated installer that enables the OpenAI Codex Desktop application to run smoothly on Linux systems. It handles all necessary dependencies, configuration steps, and environment setup, allowing developers to quickly launch Codex Desktop without manual installation hassles. This open‑source tool simplifies access to AI‑powered code generation on Linux platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ilysenko/codex-desktop-linux) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ilysenko/codex-desktop-linux) · [← Back to AI/ML](./README.md)</sub>

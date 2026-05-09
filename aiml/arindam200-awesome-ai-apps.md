@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10.8k |
-| 🍴 **Forks** | 1.4k |
+| ⭐ **Stars** | 12k |
+| 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `hacktoberfest` `llm` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, 'awesome-ai-apps', is a curated collection of AI projects that highlight various applications, including Reasoning Augmentation Graph (RAG) models, agents, and workflows. It serves as a valuable resource for developers and researchers interested in exploring different AI use cases. By showcasing these innovative projects, 'awesome-ai-apps' facilitates knowledge sharing and collaboration in the AI community.
+Arindam200/awesome‑ai‑apps is an open‑source repository that curates a variety of practical AI projects, highlighting implementations of Retrieval‑Augmented Generation (RAG), autonomous agents, and end‑to‑end workflows. It serves as a showcase and reference library for developers looking to explore and integrate cutting‑edge AI use cases into their own applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Arindam200/awesome-ai-apps) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Arindam200/awesome-ai-apps) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apache` `distributed` `storm` `streaming`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Apache Storm is an open-source distributed real-time processing system that enables users to process large amounts of data in real-time. It provides a flexible framework for handling high-throughput and high-availability data processing, making it suitable for various applications, including big data processing, real-time analytics, and machine learning. With Apache Storm, developers can build scalable and fault-tolerant systems for processing data streams in real-time.
+Apache Storm is an open‑source distributed real‑time computation system that enables developers to process massive streams of data with low latency. It provides a scalable, fault‑tolerant architecture where complex processing topologies are defined as directed acyclic graphs of spouts (data sources) and bolts (processing units), and it runs reliably across a cluster of machines. Storm’s simple programming model and robust APIs make it suitable for tasks such as event analytics, online machine learning, and continuous data integration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/apache/storm) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/apache/storm) · [← Back to Misc](./README.md)</sub>

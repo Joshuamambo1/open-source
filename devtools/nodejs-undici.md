@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.5k |
-| 🍴 **Forks** | 758 |
+| ⭐ **Stars** | 7.6k |
+| 🍴 **Forks** | 759 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`client` `http` `nodejs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The nodejs/undici project is an open-source, high-performance HTTP/1.1 client specifically designed for Node.js applications. This client is built from the ground up to provide efficient and reliable HTTP connections, catering to the needs of modern web development. By leveraging its optimized architecture, developers can create faster and more scalable network applications.
+Undici is a high‑performance HTTP/1.1 client library built from the ground up for Node.js, offering a lightweight, fully‑typed API that focuses on speed, low overhead, and modern features such as HTTP pipelining and keep‑alive connections. It serves as a drop‑in replacement for the native `http` module, providing developers with faster request handling, better resource utilization, and extensive support for streaming and pooling in production‑grade applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/nodejs/undici) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nodejs/undici) · [← Back to DevTools](./README.md)</sub>

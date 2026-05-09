@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d-printer` `3d-printing` `makers` `orca` `orcaslicer` `slicer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-OrcaSlicer is an open-source G-code generator designed for various 3D printer models, including Bambu, Prusa, Voron, VzBot, RatRig, and Creality. This project aims to provide a versatile and customizable solution for 3D printing enthusiasts, enabling them to optimize their prints and achieve high-quality results. By leveraging OrcaSlicer, users can explore the full potential of their 3D printers and push the boundaries of innovation in 3D printing technology.
+OrcaSlicer is an open‑source G‑code generation tool designed for a wide range of 3D printers, including popular brands such as Bambu, Prusa, Voron, VzBot, RatRig, and Creality. It offers advanced slicing features, customizable print settings, and a user‑friendly interface that streamlines the workflow from 3D model to printable instructions. The project is community‑driven and continuously updated to support new hardware and cutting‑edge printing techniques.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/OrcaSlicer/OrcaSlicer) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/OrcaSlicer/OrcaSlicer) · [← Back to Misc](./README.md)</sub>

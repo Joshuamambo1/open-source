@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**153 projects** in this category.
+**154 projects** in this category.
 
 ## Projects
 
@@ -158,9 +158,10 @@
 | 148 | [hiero-ledger/hiero-consensus-node](./hiero-ledger-hiero-consensus-node.md) | ⭐ 392 | Java | 47/100 |
 | 149 | [near/near-cli-rs](./near-near-cli-rs.md) | ⭐ 142 | Rust | 47/100 |
 | 150 | [pawurb/mevlog-rs](./pawurb-mevlog-rs.md) | ⭐ 200 | Rust | 45/100 |
-| 151 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 44/100 |
-| 152 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 140 | Rust | 42/100 |
-| 153 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
+| 151 | [pactus-project/pactus](./pactus-project-pactus.md) | ⭐ 237 | Go | 44/100 |
+| 152 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 44/100 |
+| 153 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 140 | Rust | 42/100 |
+| 154 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
 
 ---
 

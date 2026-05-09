@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 321 |
-| 🍴 **Forks** | 45 |
+| ⭐ **Stars** | 322 |
+| 🍴 **Forks** | 44 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`async` `component-model` `wasm` `wit`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the bytecodealliance/wrpc project:
-
-The bytecodealliance/wrpc project is an open-source, WebAssembly (Wasm) component-native RPC (Remote Procedure Call) framework. It enables the creation of efficient, scalable, and secure communication between Wasm modules and native code, facilitating seamless integration between WebAssembly and native applications. This framework aims to simplify the process of building and deploying Wasm-based systems.
+bytecodealliance/wrpc is an open‑source framework that enables remote procedure calls (RPC) between WebAssembly components and native code. By leveraging the Wasm component model, it provides a type‑safe, language‑agnostic interface for invoking functions across the Wasm‑native boundary, simplifying the development of distributed and polyglot applications. The project is maintained by the Bytecode Alliance and is categorized under miscellaneous utilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/bytecodealliance/wrpc) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/bytecodealliance/wrpc) · [← Back to Misc](./README.md)</sub>

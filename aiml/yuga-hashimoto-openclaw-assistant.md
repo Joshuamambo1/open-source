@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 260 |
-| 🍴 **Forks** | 64 |
+| ⭐ **Stars** | 261 |
+| 🍴 **Forks** | 65 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-assistant` `android` `android-app` `jetpack-compose` `kotlin` `offline-voice` `open-source` `self-hosted` `speech-recognition` `text-to-speech` `voice-assistant` `voiceinteractionservice`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The OpenClaw Assistant is an open-source voice assistant app for Android that leverages AI-powered wake word activation and integrates with various system assistants. This project aims to provide a customizable and flexible voice assistant solution for Android users, with the potential for community-driven development and extension. By harnessing the power of open-source collaboration, OpenClaw Assistant seeks to advance the capabilities of voice assistants on the Android platform.
+OpenClaw is an Android voice‑assistant application that leverages wake‑word detection to provide hands‑free interaction with the device’s system functions. Built with open‑source components, it integrates speech recognition, natural‑language processing, and Android assistant APIs to enable users to control apps, retrieve information, and perform common tasks entirely by voice. The project targets AI/ML enthusiasts and mobile developers looking to extend or customize a fully configurable voice‑assistant platform.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/yuga-hashimoto/openclaw-assistant) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/yuga-hashimoto/openclaw-assistant) · [← Back to AI/ML](./README.md)</sub>

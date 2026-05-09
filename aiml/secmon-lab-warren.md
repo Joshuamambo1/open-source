@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `llm` `security`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Warren is an open-source AI-powered security alert management system designed to minimize noise and expedite response times. This tool uses advanced AI and machine learning capabilities to effectively filter and prioritize security alerts, allowing security teams to focus on critical threats. By streamlining the alert management process, Warren aims to enhance overall security posture and incident response efficiency.
+Secmon‑lab’s **Warren** is an open‑source platform that leverages AI/ML to streamline security alert management. By intelligently filtering out false positives and prioritizing genuine threats, it cuts through alert noise and speeds up incident response, helping teams react faster and more accurately.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/secmon-lab/warren) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/secmon-lab/warren) · [← Back to AI/ML](./README.md)</sub>

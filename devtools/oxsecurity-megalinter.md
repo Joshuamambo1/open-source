@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | Dockerfile |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apex` `autofix` `azure-pipelines` `best-practices` `code-quality` `formatter` `gitlab-ci` `golang` `groovy` `java` `jenkins` `kotlin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · DevOps/Infra · Security
 
 ## 📝 Summary
 
-MegaLinter is an open-source project that provides comprehensive code analysis across 50 languages, 22 formats, and 21 tooling formats. It detects security issues, spelling mistakes, excessive copy-pastes, and other potential problems in repository sources, making it a valuable tool for developers and DevOps teams. MegaLinter can be integrated into GitHub Actions, other CI tools, or used locally for seamless code quality and security checks.
+MegaLinter is an open‑source, highly configurable linting framework that can automatically scan a repository for code quality, security, spelling and copy‑paste issues across more than 50 programming languages, 22 file formats and 21 tooling ecosystems. It can be run locally or integrated into CI pipelines—including GitHub Actions—to enforce consistent standards and catch vulnerabilities early in the development workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/oxsecurity/megalinter) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/oxsecurity/megalinter) · [← Back to DevTools](./README.md)</sub>

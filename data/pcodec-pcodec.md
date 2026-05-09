@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 477 |
+| ⭐ **Stars** | 478 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compression`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-pcodec is an open-source, lossless codec designed to efficiently compress and decompress numerical data. This project aims to provide a reliable and high-performance solution for data compression, enabling users to store and transmit numerical data in a more compact and space-efficient manner. By leveraging pcodec, developers can optimize data storage and reduce transfer times for numerical datasets.
+pcodec is an open‑source, lossless compression library specifically designed for numerical data such as arrays, matrices, and scientific datasets. It provides fast encoding and decoding while preserving exact precision, making it ideal for high‑performance computing, data analytics, and storage‑constrained applications. The project is released under a permissive license and integrates easily with popular data‑processing ecosystems.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/pcodec/pcodec) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pcodec/pcodec) · [← Back to Data](./README.md)</sub>

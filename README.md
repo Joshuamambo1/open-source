@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4859** |
+| 🗂️ **Total projects** | **4883** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,14 +18,14 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1961 | [Browse →](./aiml/) |
-| 📦 **Misc** | 826 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 486 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 1970 | [Browse →](./aiml/) |
+| 📦 **Misc** | 835 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 487 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 462 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 261 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 239 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 263 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 241 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 181 | [Browse →](./crypto/) |
-| 📊 **Data** | 112 | [Browse →](./data/) |
+| 📊 **Data** | 113 | [Browse →](./data/) |
 | 💳 **Payments** | 89 | [Browse →](./payments/) |
 | 📈 **Trading** | 60 | [Browse →](./trading/) |
 | 📱 **Mobile** | 58 | [Browse →](./mobile/) |
@@ -47,8 +47,8 @@
 | 6 | [flybywiresim/aircraft](./aiml/flybywiresim-aircraft.md) | ⭐ 5.4k | AI/ML |
 | 7 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.9k | Frontend |
 | 8 | [apache/groovy](./misc/apache-groovy.md) | ⭐ 5.4k | Misc |
-| 9 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
-| 10 | [ai-collection/ai-collection](./aiml/ai-collection-ai-collection.md) | ⭐ 8.9k | AI/ML |
+| 9 | [TeamNewPipe/NewPipe](./mobile/teamnewpipe-newpipe.md) | ⭐ 38k | Mobile |
+| 10 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
 
 ## 🚀 How it works
 

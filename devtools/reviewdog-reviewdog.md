@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 485 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitbucket` `ci` `cli` `code-quality` `code-review` `codereview` `github` `gitlab` `go` `lint` `linter` `static-analysis`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-ReviewDog is an open-source, automated code review tool that seamlessly integrates with various code analysis tools across different programming languages. It allows developers to streamline their code review process by automating the collection and reporting of code analysis results. With ReviewDog, teams can quickly identify and address code issues, improving overall code quality and efficiency.
+reviewdog is an open‑source automation tool that runs code analysis results through a unified, comment‑driven workflow on pull requests. By parsing the output of any static analysis, linting, or security scanner (regardless of language), it posts inline review comments, suggestions, and summaries directly to GitHub, GitLab, Bitbucket, or other supported platforms, helping teams catch issues early and keep code quality high. The project is lightweight, highly configurable, and integrates seamlessly into CI pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/reviewdog/reviewdog) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/reviewdog/reviewdog) · [← Back to DevTools](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`game-engine` `gamedev` `lua` `luau` `luau-lang` `multi-platform` `opengl` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Vectarine is a free, open-source game engine that allows for fast prototyping and development on multiple platforms. Built with a focus on ease of use and fun, it utilizes the Luau scripting language, making it an ideal choice for game developers looking to quickly bring their ideas to life. With Vectarine, users can easily create and iterate on game projects without the complexity often associated with traditional game engines.
+Vanyle / Vectarine is an open‑source, cross‑platform game engine designed for rapid prototyping and playful development. It leverages the Luau scripting language to provide a lightweight, flexible workflow, allowing creators to build and iterate on games quickly across multiple operating systems. The project is freely available and targets developers who value speed, simplicity, and fun in their game‑making process.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/vanyle/vectarine) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/vanyle/vectarine) · [← Back to Misc](./README.md)</sub>

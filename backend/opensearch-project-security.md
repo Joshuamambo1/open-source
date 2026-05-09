@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 243 |
-| 🍴 **Forks** | 363 |
+| ⭐ **Stars** | 244 |
+| 🍴 **Forks** | 364 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Backend · Data · Security
 
 ## 📝 Summary
 
-The opensearch-project/security open-source project offers comprehensive security features to ensure the integrity of your cluster. It provides robust authentication options, data masking, audit logging, and role-based access control to protect sensitive data at various levels, including indices, documents, and fields. By implementing these security measures, you can safeguard your data and maintain control over access within your OpenSearch cluster.
+The **opensearch‑project/security** plugin adds comprehensive security features to OpenSearch clusters, including TLS encryption, a variety of authentication backends, audit logging, and fine‑grained role‑based access control that can restrict access at the index, document, and field levels. It also supports data masking to protect sensitive information while allowing flexible policy configuration for secure, compliant data handling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/opensearch-project/security) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/opensearch-project/security) · [← Back to Backend](./README.md)</sub>

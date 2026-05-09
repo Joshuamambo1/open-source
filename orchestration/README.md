@@ -343,8 +343,8 @@
 | 333 | [Agnuxo1/OpenCLAW-P2P](./agnuxo1-openclaw-p2p.md) | ⭐ 40 | TypeScript | 51/100 |
 | 334 | [JKHeadley/instar](./jkheadley-instar.md) | ⭐ 60 | TypeScript | 51/100 |
 | 335 | [MDalamin5/End-to-End-Agentic-Ai-Automation-Lab](./mdalamin5-end-to-end-agentic-ai-automation-lab.md) | ⭐ 68 | Jupyter Notebook | 51/100 |
-| 336 | [dotboris/alt](./dotboris-alt.md) | ⭐ 88 | Rust | 51/100 |
-| 337 | [XortexAI/XMem](./xortexai-xmem.md) | ⭐ 45 | Python | 51/100 |
+| 336 | [XortexAI/XMem](./xortexai-xmem.md) | ⭐ 45 | Python | 51/100 |
+| 337 | [dotboris/alt](./dotboris-alt.md) | ⭐ 88 | Rust | 51/100 |
 | 338 | [opsrobot-ai/opsrobot](./opsrobot-ai-opsrobot.md) | ⭐ 136 | JavaScript | 51/100 |
 | 339 | [openwong2kim/wmux](./openwong2kim-wmux.md) | ⭐ 51 | TypeScript | 51/100 |
 | 340 | [shinpr/mcp-image](./shinpr-mcp-image.md) | ⭐ 109 | TypeScript | 51/100 |
@@ -426,8 +426,8 @@
 | 416 | [dkondo/agent-tackle-box](./dkondo-agent-tackle-box.md) | ⭐ 49 | Python | 50/100 |
 | 417 | [friday-platform/friday-studio](./friday-platform-friday-studio.md) | ⭐ 63 | TypeScript | 50/100 |
 | 418 | [MarlBurroW/kinbot](./marlburrow-kinbot.md) | ⭐ 40 | TypeScript | 50/100 |
-| 419 | [kstevica/captain-claw](./kstevica-captain-claw.md) | ⭐ 34 | Python | 50/100 |
-| 420 | [dhyansraj/mcp-mesh](./dhyansraj-mcp-mesh.md) | ⭐ 33 | Python | 50/100 |
+| 419 | [dhyansraj/mcp-mesh](./dhyansraj-mcp-mesh.md) | ⭐ 33 | Python | 50/100 |
+| 420 | [kstevica/captain-claw](./kstevica-captain-claw.md) | ⭐ 34 | Python | 50/100 |
 | 421 | [major7apps/pensyve](./major7apps-pensyve.md) | ⭐ 24 | Rust | 50/100 |
 | 422 | [dmae97/oh-my-kimi](./dmae97-oh-my-kimi.md) | ⭐ 60 | TypeScript | 50/100 |
 | 423 | [markus-global/markus](./markus-global-markus.md) | ⭐ 42 | TypeScript | 50/100 |
@@ -447,8 +447,8 @@
 | 437 | [lthoangg/OpenAgentd](./lthoangg-openagentd.md) | ⭐ 133 | Python | 48/100 |
 | 438 | [Sankhya-AI/Dhee](./sankhya-ai-dhee.md) | ⭐ 31 | Python | 48/100 |
 | 439 | [agentculture/culture](./agentculture-culture.md) | ⭐ 81 | Python | 48/100 |
-| 440 | [raphaeltm/simple-agent-manager](./raphaeltm-simple-agent-manager.md) | ⭐ 32 | TypeScript | 48/100 |
-| 441 | [DotHarness/dotcraft](./dotharness-dotcraft.md) | ⭐ 34 | C# | 48/100 |
+| 440 | [DotHarness/dotcraft](./dotharness-dotcraft.md) | ⭐ 34 | C# | 48/100 |
+| 441 | [raphaeltm/simple-agent-manager](./raphaeltm-simple-agent-manager.md) | ⭐ 32 | TypeScript | 48/100 |
 | 442 | [aws-samples/sample-autonomous-cloud-coding-agents](./aws-samples-sample-autonomous-cloud-coding-agents.md) | ⭐ 47 | TypeScript | 48/100 |
 | 443 | [gastownhall/gascity](./gastownhall-gascity.md) | ⭐ 643 | Go | 48/100 |
 | 444 | [ldclabs/anda-hippocampus](./ldclabs-anda-hippocampus.md) | ⭐ 50 | Rust | 47/100 |

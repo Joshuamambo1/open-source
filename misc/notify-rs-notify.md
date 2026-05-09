@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.3k |
-| 🍴 **Forks** | 266 |
+| ⭐ **Stars** | 3.4k |
+| 🍴 **Forks** | 269 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cross-platform` `filesystem` `filesystem-events` `rust` `watcher`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The notify-rs/notify library is a cross-platform, open-source Rust library that provides filesystem notification capabilities. It allows developers to monitor file system events, such as creation, deletion, and modification, across various operating systems. This library is particularly useful for applications that require real-time file system updates, like file synchronization tools or backup software.
+notify‑rs/notify is a Rust library that provides cross‑platform filesystem event watching, abstracting the native notification APIs of Linux (inotify), macOS (FSEvents/kqueue), Windows (ReadDirectoryChangesW), and other systems behind a unified, ergonomic interface. It enables developers to monitor file and directory changes—such as creations, modifications, deletions, and moves—in a reliable, non‑blocking manner, making it ideal for building tools like IDEs, build systems, and sync services. The project is open‑source, well‑documented, and actively maintained within the Rust ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/notify-rs/notify) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/notify-rs/notify) · [← Back to Misc](./README.md)</sub>

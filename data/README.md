@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**112 projects** in this category.
+**113 projects** in this category.
 
 ## Projects
 
@@ -112,14 +112,15 @@
 | 102 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 335 | R | 47/100 |
 | 103 | [RetroAchievements/RAWeb](./retroachievements-raweb.md) | ⭐ 395 | PHP | 47/100 |
 | 104 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 46/100 |
-| 105 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 45/100 |
-| 106 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 44/100 |
-| 107 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 44/100 |
-| 108 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
-| 109 | [AdrianEddy/telemetry-parser](./adrianeddy-telemetry-parser.md) | ⭐ 264 | Rust | 42/100 |
-| 110 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 39/100 |
-| 111 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
-| 112 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
+| 105 | [pcodec/pcodec](./pcodec-pcodec.md) | ⭐ 478 | Rust | 45/100 |
+| 106 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 45/100 |
+| 107 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 44/100 |
+| 108 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 44/100 |
+| 109 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
+| 110 | [AdrianEddy/telemetry-parser](./adrianeddy-telemetry-parser.md) | ⭐ 264 | Rust | 42/100 |
+| 111 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 39/100 |
+| 112 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
+| 113 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
 
 ---
 

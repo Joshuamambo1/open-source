@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 448 |
-| 🍴 **Forks** | 49 |
+| ⭐ **Stars** | 450 |
+| 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `database` `geospatial` `hacktoberfest` `python` `r` `rust` `spatial-analysis` `spatial-query` `spatial-sql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Apache Sedona-DB is an open-source, single-node analytical database engine that seamlessly integrates geospatial data as a primary feature. This database is designed to efficiently process and analyze large-scale spatial and non-spatial data, making it an ideal solution for various geospatial applications and use cases. By leveraging Sedona-DB, users can unlock the full potential of their geospatial data and enable data-driven insights and decision-making.
+Apache Sedona‑DB is a single‑node analytical database engine that treats geospatial data as a core feature rather than an afterthought, enabling high‑performance spatial queries and analytics alongside traditional SQL workloads. Built on top of Apache Sedona’s powerful spatial processing capabilities, it provides a familiar relational interface while delivering optimized indexing, vectorized execution, and seamless integration with popular data tools. This makes it an ideal open‑source solution for workloads that require fast, scalable geospatial analysis on a single server.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/apache/sedona-db) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/apache/sedona-db) · [← Back to Data](./README.md)</sub>

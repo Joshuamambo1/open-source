@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | CSS |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacking` `hacktricks` `peass` `pentesting`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-HackTricks is an open-source wiki project that serves as a comprehensive repository of hacking techniques, tricks, and methods gathered from various sources including CTFs, real-life applications, research papers, and news articles. This project is categorized under Frontend and DevTools, offering valuable insights for developers, security researchers, and cybersecurity enthusiasts. The wiki aims to provide a centralized platform for sharing and learning various hacking techniques in a structured and accessible manner.
+HackTricks-wiki / hacktricks is an open‑source, community‑driven repository that compiles practical tricks, techniques, and insights gathered from capture‑the‑flag (CTF) challenges, real‑world application security, and current research or news. It serves as a searchable, front‑end‑focused knowledge base and dev‑tools reference for security enthusiasts and professionals.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/HackTricks-wiki/hacktricks) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/HackTricks-wiki/hacktricks) · [← Back to Frontend](./README.md)</sub>

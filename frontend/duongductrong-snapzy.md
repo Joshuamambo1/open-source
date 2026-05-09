@@ -1,6 +1,6 @@
 # duongductrong/Snapzy
 
-[![Stars](https://img.shields.io/github/stars/duongductrong/Snapzy?style=flat-square&color=yellow)](https://github.com/duongductrong/Snapzy/stargazers) [![Forks](https://img.shields.io/github/forks/duongductrong/Snapzy?style=flat-square&color=blue)](https://github.com/duongductrong/Snapzy/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/duongductrong/Snapzy?style=flat-square&color=yellow)](https://github.com/duongductrong/Snapzy/stargazers) [![Forks](https://img.shields.io/github/forks/duongductrong/Snapzy?style=flat-square&color=blue)](https://github.com/duongductrong/Snapzy/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 507 |
-| 🍴 **Forks** | 30 |
+| ⭐ **Stars** | 1.1k |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`capture` `cleanshot-alternative` `recording-app` `screenshot` `screenshot-capture` `swiftui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Snapzy is an open-source native macOS application designed for taking screenshots and screen recordings. As a cleaner alternative to CleanShot X, it aims to provide users with a seamless and intuitive experience for capturing their screens. This project is built to serve the macOS community, offering a free and customizable solution for everyday screenshot needs.
+Snapzy is an open‑source macOS application that provides native screenshot capture and screen‑recording capabilities, positioned as a free alternative to CleanShot X. Built with a focus on a clean, user‑friendly frontend, it offers quick editing tools, customizable shortcuts, and seamless integration with macOS features. The project is community‑driven, allowing developers to extend and improve the app’s functionality.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/duongductrong/Snapzy) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/duongductrong/Snapzy) · [← Back to Frontend](./README.md)</sub>

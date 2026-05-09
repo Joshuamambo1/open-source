@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 841 |
+| ⭐ **Stars** | 843 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The misakaio/chnroutes2 project is an open-source initiative aimed at improving the aggregation of chnroutes, a crucial component in AI/ML applications. This project offers a more efficient and effective solution for handling chnroutes, enhancing the overall performance and accuracy of AI models. By contributing to this project, developers can help advance the field of AI and improve the way chnroutes are processed.
+misakaio/chnroutes2 is an open‑source repository that provides an enhanced, aggregated collection of China routing tables (chnroutes). It consolidates multiple sources, cleans and de‑duplicates the data, and offers the result in ready‑to‑use formats for network diagnostics, censorship monitoring, and routing analysis. The project is maintained as a lightweight, community‑driven resource for researchers and engineers working with Chinese internet infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/misakaio/chnroutes2) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/misakaio/chnroutes2) · [← Back to AI/ML](./README.md)</sub>

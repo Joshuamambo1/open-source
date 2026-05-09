@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 15.2k |
+| ⭐ **Stars** | 15.3k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`evaluation-framework` `evaluation-metrics` `llm-evaluation` `llm-evaluation-framework` `llm-evaluation-metrics` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The confident-ai/deepeval project provides a comprehensive evaluation framework for Large Language Models (LLMs), enabling researchers and developers to assess the performance and quality of these AI systems. This open-source framework allows for a wide range of evaluation tasks and metrics, facilitating in-depth analysis and comparison of various LLMs. By using deepeval, users can gain a deeper understanding of LLM capabilities and limitations.
+confident‑ai/deepeval is an open‑source framework designed to evaluate large language models (LLMs) across a wide range of tasks and metrics. It provides a modular, extensible pipeline for running benchmarks, collecting quantitative scores, and generating qualitative analyses, making it easier for researchers and developers to compare model performance and identify strengths and weaknesses. The project is built with a focus on reproducibility, flexibility, and integration with popular AI/ML toolchains.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/confident-ai/deepeval) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/confident-ai/deepeval) · [← Back to AI/ML](./README.md)</sub>

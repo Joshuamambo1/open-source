@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 15k |
-| 🍴 **Forks** | 612 |
+| 🍴 **Forks** | 613 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gpu` `neovim` `neovim-guis` `rust` `skia`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the neovide project:
-
-Neovide is an open-source, Rust-based client for Neovim, a popular code editor. This no-nonsense client aims to provide a seamless and intuitive integration with Neovim, leveraging the power of Rust for performance and reliability. With its focus on simplicity and efficiency, neovide offers a robust alternative for those seeking a lightweight and feature-rich Neovim client.
+Neovide is a fast, minimalist graphical client for Neovim built entirely in Rust. It provides a sleek, GPU‑accelerated UI with smooth animations, true‑color support, and seamless integration of Neovim’s features while remaining lightweight and easy to configure. Ideal for developers who want a modern, cross‑platform frontend without the overhead of heavyweight IDEs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/neovide/neovide) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/neovide/neovide) · [← Back to Frontend](./README.md)</sub>

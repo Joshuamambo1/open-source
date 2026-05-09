@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 53.6k |
-| 🍴 **Forks** | 2.6k |
+| ⭐ **Stars** | 54.1k |
+| 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Ghostty is an open-source, cross-platform terminal emulator that offers a fast and feature-rich experience. Built with platform-native UI and GPU acceleration, it provides a seamless and efficient terminal experience across various operating systems. With its focus on performance and usability, Ghostty is an attractive option for developers and users seeking a high-quality terminal emulator.
+Ghostty is a high‑performance, cross‑platform terminal emulator that leverages native UI toolkits and GPU acceleration to deliver a fast, feature‑rich experience. Built with modern web technologies, it offers smooth rendering, customizable themes, and extensive keyboard shortcuts while remaining lightweight and open source. Ghostty aims to provide developers with a responsive, visually appealing terminal that works consistently on Windows, macOS, and Linux.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ghostty-org/ghostty) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ghostty-org/ghostty) · [← Back to Frontend](./README.md)</sub>

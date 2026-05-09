@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.4k |
-| 🍴 **Forks** | 423 |
+| 🍴 **Forks** | 427 |
 | 💻 **Language** | C |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arm64` `box64` `dynarec` `emulator` `linux`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Box64 is an open-source Linux userspace x86_64 emulator designed for ARM64, RV64, and LoongArch Linux devices. It allows users to run x86_64 binaries on non-x86 hardware, providing a versatile solution for cross-platform compatibility. This emulator aims to bridge the gap between different architectures, enabling seamless execution of x86 applications on ARM-based systems.
+Box64 is an open‑source userspace emulator that runs x86_64 Linux binaries on non‑x86_64 platforms, primarily targeting ARM64, RISC‑V 64 (RV64) and LoongArch devices. It translates system calls and CPU instructions on the fly, allowing a wide range of x86_64 applications and games to operate natively on Linux systems without requiring full virtualization. The project is lightweight, actively maintained, and licensed for community contributions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ptitSeb/box64) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ptitSeb/box64) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`networking` `nextjs14` `organization` `self-hosted` `tailwindcss` `web-ui` `zerotier` `zerotier-controller` `zerotier-one` `ztnet`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-ZTNET is an open-source project that provides a web-based interface for ZeroTier private controllers, offering multiuser and organization support. This project enables users to manage and configure their ZeroTier networks through a user-friendly web interface, facilitating collaboration and administration within organizations. By utilizing ZeroTier's private networking capabilities, ZTNET empowers users to establish secure, isolated networks for various applications and use cases.
+sinamics/ztnet is an open‑source web interface built for ZeroTier private controllers, offering a user‑friendly dashboard that supports multi‑user access, organization management, and granular permissions. It streamlines network provisioning and monitoring through a modern frontend, making ZeroTier deployments easier to administer for teams and enterprises.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/sinamics/ztnet) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sinamics/ztnet) · [← Back to AI/ML](./README.md)</sub>

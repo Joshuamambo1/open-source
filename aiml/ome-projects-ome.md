@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 441 |
+| ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`deepseek` `k8s` `kimi-k2` `llama` `llm` `llm-inference` `model-as-a-service` `model-serving` `multi-node-kubernetes` `oracle-cloud` `pd-disaggregation` `qwen`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the Open Model Engine (OME) project:
-
-The Open Model Engine (OME) is an open-source Kubernetes operator designed to manage the lifecycle of large language models (LLMs) across various frameworks, including SGLang, vLLM, TensorRT-LLM, and Triton. OME provides seamless GPU scheduling, efficient LLM serving, and streamlined model management, making it a valuable tool for AI/ML developers and DevOps professionals. By leveraging OME, users can simplify the deployment and maintenance of LLM-based applications in Kubernetes environments.
+Open Model Engine (OME) is an open‑source Kubernetes operator that simplifies the deployment, scaling, and lifecycle management of large language models (LLMs). It provides built‑in GPU scheduling and integrates with popular inference runtimes such as SGLang, vLLM, TensorRT‑LLM, and Triton, enabling seamless, production‑grade serving of LLMs on Kubernetes clusters.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ome-projects/ome) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ome-projects/ome) · [← Back to AI/ML](./README.md)</sub>

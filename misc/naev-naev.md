@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 202 |
 | 💻 **Language** | C |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`2d-game` `action` `c` `exploration` `free` `game` `lua` `modding` `multiplatform` `naev` `opensource` `rpg`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the naev project:
-
-Naev is an open-source, space-based action-adventure game that offers a rich and immersive gaming experience. With its engaging gameplay and exploration mechanics, Naev allows players to navigate through a vast, procedurally generated galaxy, encountering various challenges and enemies along the way. This project is available on Codeberg and is free to download and play.
+Naev is an open‑source 2D space simulation game that lets players explore, trade, and engage in combat across a procedurally generated galaxy. This repository is simply a mirror of the project's primary source code now hosted on Codeberg, providing the same game engine, assets, and development tools for contributors and users.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/naev/naev) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/naev/naev) · [← Back to Misc](./README.md)</sub>

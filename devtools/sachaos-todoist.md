@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `cli-client` `golang` `peco` `todoist`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the sachaos/todoist project:
-
-This project provides an open-source Todoist Command-Line Interface (CLI) client, allowing users to interact with their Todoist tasks and projects from the comfort of their terminal. With this tool, users can view and manage their Todoist tasks, projects, and labels directly from the command line. The project is a useful addition for power users who want to streamline their Todoist workflow.
+sachaos/todoist is a lightweight command‑line interface for the Todoist task‑management service, enabling users to view, add, complete, and organize tasks directly from the terminal. It provides a fast, scriptable workflow for power users who prefer working in a CLI environment while still leveraging Todoist’s features. The project is open‑source and aimed at developers and productivity enthusiasts.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/sachaos/todoist) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sachaos/todoist) · [← Back to DevTools](./README.md)</sub>

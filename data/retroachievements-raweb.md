@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`laravel` `retroachievements`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-RetroAchievements/RAWeb is an open-source project that powers the RetroAchievements.org platform, allowing users to manage and track achievements for retro games. The platform includes core functionality for storing game data, managing achievements, and facilitating community interaction. Through RAWeb, users can unlock achievements and connect with others who share similar interests in retro gaming.
+RetroAchievements/RAWeb is the open‑source web platform behind RetroAchievements.org, providing the core backend for tracking and awarding video‑game achievements. It handles game data integration, user profiles, leaderboards, and community interactions such as forums and social features, enabling developers and players to create, manage, and enjoy retro gaming achievements.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/RetroAchievements/RAWeb) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/RetroAchievements/RAWeb) · [← Back to Data](./README.md)</sub>

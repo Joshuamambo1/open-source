@@ -1,6 +1,6 @@
 # temidaradev/kopuz
 
-[![Stars](https://img.shields.io/github/stars/temidaradev/kopuz?style=flat-square&color=yellow)](https://github.com/temidaradev/kopuz/stargazers) [![Forks](https://img.shields.io/github/forks/temidaradev/kopuz?style=flat-square&color=blue)](https://github.com/temidaradev/kopuz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/temidaradev/kopuz?style=flat-square&color=yellow)](https://github.com/temidaradev/kopuz/stargazers) [![Forks](https://img.shields.io/github/forks/temidaradev/kopuz?style=flat-square&color=blue)](https://github.com/temidaradev/kopuz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Feature rich music player but written in rust using dioxus
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 517 |
+| ⭐ **Stars** | 535 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dioxus` `jellyfin` `music` `music-player` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Kopuz is an open-source music player written in Rust, utilizing the Dioxus framework for a user-friendly interface. It supports playback of local files and integrates with Jellyfin, a popular media server, for seamless streaming and management. With Kopuz, users can enjoy a robust music experience without compromising on customization or functionality.
+**Kopuz** is a feature‑rich music player built with Rust and the Dioxus UI framework. It offers a modern, cross‑platform interface for managing and playing audio libraries, supporting playlists, metadata editing, and customizable themes—all while leveraging Rust’s safety and performance. The project is open source and aims to provide a lightweight yet powerful alternative to existing music players.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/temidaradev/kopuz) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/temidaradev/kopuz) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 76 |
+| ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-gateway` `azure-openai` `claude` `function-calling` `groq` `llama` `llamacpp` `llm` `mistral` `ollama` `openai` `openai-api`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "adrianliechti/wingman":
-
-Wingman is an open-source Inference Hub designed to facilitate scalable AI deployments. It provides a centralized infrastructure for managing and serving AI models at scale, making it easier to integrate and deploy machine learning applications. Wingman aims to streamline the process of AI inference, enabling developers to build more efficient and scalable AI-powered systems.
+adrianliechti/wingman is an open‑source inference hub designed to serve and manage large‑scale AI models efficiently. It provides a backend framework for deploying, routing, and scaling model predictions, enabling developers to integrate high‑throughput AI services into their applications with minimal overhead. The project focuses on robust performance, easy extensibility, and support for a wide range of machine‑learning workloads.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/adrianliechti/wingman) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/adrianliechti/wingman) · [← Back to AI/ML](./README.md)</sub>

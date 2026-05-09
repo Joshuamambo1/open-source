@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aleo` `blockchain` `cryptography` `rust` `zero-knowledge` `zkp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The ProvableHQ/snarkVM project is an open-source implementation of a zero-knowledge virtual machine (zkVM) designed for decentralized private computations (DPC). This platform enables secure and private processing of sensitive data, utilizing advanced cryptographic techniques. By leveraging zero-knowledge proofs, snarkVM facilitates trustworthy and transparent computations within a secure environment.
+ProvableHQ/snarkVM is an open‑source zero‑knowledge virtual machine designed to enable decentralized private computations (DPC). It provides a high‑performance, programmable execution environment where developers can write and run cryptographic circuits that generate succinct, verifiable proofs, allowing data to be processed off‑chain while preserving confidentiality and integrity. The project combines advanced zk‑SNARK technology with a flexible VM architecture, making it suitable for privacy‑preserving applications in both the crypto and AI/ML domains.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/ProvableHQ/snarkVM) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ProvableHQ/snarkVM) · [← Back to Crypto](./README.md)</sub>

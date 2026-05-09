@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`2d` `3d` `data-driven` `data-oriented-design` `game-development` `game-engine` `gamedev` `lua`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · Design
 
 ## 📝 Summary
 
-The Crown game engine is an open-source, cross-platform framework designed to cater to the needs of developers seeking flexibility, high performance, and rapid iteration. This comprehensive engine is engineered to support a wide range of applications, from game development to data visualization and design tools. By leveraging its capabilities, developers can streamline their workflow and bring their ideas to life.
+Crown is a fully featured, cross‑platform game engine that emphasizes flexibility, high performance, and rapid iteration cycles for developers. It provides a modular architecture and data‑driven design tools, enabling creators to build games efficiently on multiple platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/crownengine/crown) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/crownengine/crown) · [← Back to Data](./README.md)</sub>

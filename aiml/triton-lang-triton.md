@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | MLIR |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Triton language and compiler project is an open-source initiative focused on developing a high-performance, low-level programming language for artificial intelligence and machine learning applications. This language aims to provide efficient execution and flexible compilation capabilities for various AI/ML workloads. By leveraging the Triton compiler, developers can optimize their AI/ML code for performance and scalability.
+The Triton project provides an open‑source programming language and compiler designed for writing high‑performance custom kernels on modern GPUs. By offering a Python‑friendly syntax and automatic optimization for tensor operations, Triton enables researchers and engineers to develop fast AI/ML kernels without needing deep GPU programming expertise. The repository serves as the central development hub for the language, its compiler, and related tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/triton-lang/triton) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/triton-lang/triton) · [← Back to AI/ML](./README.md)</sub>

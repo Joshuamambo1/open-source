@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 48 |
+| 🍴 **Forks** | 50 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the StressOzz/Zapret-Manager open-source project:
-
-Zapret-Manager is a universal traffic bypass manager for OpenWrt, designed to overcome internet restrictions and blockages. This open-source project provides a customizable solution for users to bypass content filters and regain access to blocked websites. With Zapret-Manager, users can easily manage and maintain their bypass settings, ensuring uninterrupted internet access.
+StressOzz’s **Zapret‑Manager** is an open‑source utility for OpenWrt routers that automates the detection and circumvention of network censorship and blocklists. It provides a universal, easy‑to‑configure interface for managing proxy, VPN, and DNS‑based unblock methods, helping users maintain unrestricted internet access on supported devices.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/StressOzz/Zapret-Manager) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/StressOzz/Zapret-Manager) · [← Back to Misc](./README.md)</sub>

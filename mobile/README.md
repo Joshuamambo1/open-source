@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**49 projects** in this category.
+**50 projects** in this category.
 
 ## Projects
 
@@ -54,9 +54,10 @@
 | 44 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 51/100 |
 | 45 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 51/100 |
 | 46 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 51/100 |
-| 47 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 47/100 |
-| 48 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 47/100 |
-| 49 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 43/100 |
+| 47 | [1amageek/Toolbar](./1amageek-toolbar.md) | ⭐ 456 | Swift | 50/100 |
+| 48 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 47/100 |
+| 49 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 47/100 |
+| 50 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 43/100 |
 
 ---
 

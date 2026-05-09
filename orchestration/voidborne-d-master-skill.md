@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31 |
+| ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `agent-infrastructure` `ai-agent` `claude-code` `claude-skill` `codex` `hermes` `industry-distillation` `llm-agent` `master-skill` `mental-models` `meta-skill`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the voidborne-d/master-skill project:
-
-The master-skill project is an open-source tool that automates research and distills industry knowledge into a runnable Master OS skill, allowing for seamless integration with AI agents. This skill enables Claude Code, OpenClaw, Codex, and Hermes agents to quickly acquire expertise in various industries, making it an ideal solution for DevOps/Infra and AI/ML applications. With master-skill, users can easily create customized skills for their AI agents, streamlining their workflow and enhancing their productivity.
+**voidborne-d/master-skill** is an open‑source tool that takes an industry name as input, automatically researches six key dimensions (expertise, tools, workflows, standards, information sources, and terminology), and distills the results into a runnable “Master OS” skill for AI agents. The generated skill can be loaded into any Claude Code, OpenClaw, Codex, or Hermes agent, enabling rapid orchestration of domain‑specific knowledge across AI/ML, DevOps, and automation pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/voidborne-d/master-skill) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/voidborne-d/master-skill) · [← Back to Orchestration](./README.md)</sub>

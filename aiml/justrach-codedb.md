@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 773 |
+| ⭐ **Stars** | 784 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agents` `anthropic` `cursor` `gemini` `mcp` `openai` `zig`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the justrach/codedb project:
-
-codedb is an open-source project that provides a powerful code intelligence server and MCP (Machine-Code Parser) toolset for AI agents. It offers fast and efficient capabilities for parsing code, including tree, outline, symbol, search, read, edit, dependency, and snapshot queries, as well as remote GitHub repository integration. This project enables AI agents to quickly understand and interact with codebases.
+justrach/codedb is an open‑source Zig‑based code‑intelligence server that provides fast, tree‑structured analysis and manipulation of source code for AI agents. It offers a comprehensive toolset—including outlining, symbol lookup, search, editing, dependency tracking, snapshotting, and remote GitHub repository queries—to enable sophisticated backend development and AI/ML workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/justrach/codedb) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/justrach/codedb) · [← Back to AI/ML](./README.md)</sub>

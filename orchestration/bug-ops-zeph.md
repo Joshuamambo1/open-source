@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `claude` `cli` `gemini` `graph-memory` `huggingface` `llm` `local-llm` `mcp` `multi-model` `ollama` `openai`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the bug-ops/zeph project:
-
-Zeph is an open-source Rust AI agent that enables self-learning skills and temporal graph memory, ensuring every context token earns its place. This hybrid inference engine seamlessly integrates multiple models, including Ollama, Claude, Gemini, OpenAI, and GGUF, while incorporating OWASP AI security guidelines and MCP + ACP architecture. The result is a single, unified binary that streamlines AI operations.
+**bug‑ops/zeph** is a Rust‑based AI agent that treats each context token as a first‑class citizen, combining self‑learning skills, a temporal graph memory, and cascade quality routing to deliver secure, high‑quality responses (OWASP AI security). It supports hybrid inference across multiple back‑ends—including Ollama, Claude, Gemini, OpenAI, and GGUF—while offering unified deployment via a single binary with MCP + ACP orchestration. The project targets orchestration, AI/ML, and frontend integration use cases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/bug-ops/zeph) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/bug-ops/zeph) · [← Back to Orchestration](./README.md)</sub>

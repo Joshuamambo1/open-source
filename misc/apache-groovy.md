@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apache` `compiler` `dynamic-typing` `functional-programming` `groovy` `jvm-languages` `metaprogramming` `programming-language` `static-typing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Apache Groovy is an open-source, multi-faceted programming language designed for the Java Virtual Machine (JVM) platform. It offers a powerful and flexible syntax, allowing developers to write concise and readable code for a wide range of applications. As a JVM-based language, Groovy seamlessly integrates with Java and other JVM languages, enabling developers to leverage the strengths of both worlds.
+Apache Groovy is an agile, dynamic language for the Java Virtual Machine that seamlessly integrates with existing Java code while adding powerful features such as concise syntax, closures, and metaprogramming capabilities. It enables developers to write expressive, script‑like programs that compile to bytecode, run on any JVM, and interoperate with Java libraries and frameworks. The project is open‑source under the Apache License and serves as a versatile tool for scripting, testing, domain‑specific language creation, and full‑stack application development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/apache/groovy) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/apache/groovy) · [← Back to Misc](./README.md)</sub>

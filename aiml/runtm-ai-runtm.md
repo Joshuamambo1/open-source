@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 111 |
-| 🍴 **Forks** | 10 |
+| ⭐ **Stars** | 114 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-runtime` `agentic` `ai-agents` `anthropic` `app-runtime` `claude` `claude-code` `control-plane` `cursor` `ephemeral-environments` `infra` `llm-tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The runtm project provides an open-source sandbox platform for coding agents to build and deploy software in isolated environments. This platform enables agents like Claude Code and Cursor to collaborate and develop software securely and independently. With runtm, developers can create and manage isolated coding spaces for various AI and ML projects.
+runtm‑ai / runtm provides open‑source sandbox environments that let AI coding agents—such as Claude Code, Cursor, and similar tools—write, build, and deploy software autonomously. By spinning up isolated, reproducible containers, developers can test and iterate on AI‑generated code safely for both frontend and backend projects. The platform streamlines the end‑to‑end workflow from code generation to deployment, making AI‑assisted development more reliable and scalable.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/runtm-ai/runtm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/runtm-ai/runtm) · [← Back to AI/ML](./README.md)</sub>

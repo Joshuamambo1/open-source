@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 96 |
+| ⭐ **Stars** | 99 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`channeltalk` `discord` `instagram` `kakaotalk` `line` `slack` `teams` `telegram` `webex` `whatsapp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Agent Messenger is an open-source, command-line interface (CLI) tool designed to automate messaging for AI agents. It enables developers to streamline interactions between AI systems and users, simplifying the process of sending and receiving messages. This tool is ideal for developers working with AI/ML projects, providing a user-friendly interface for messenger automation.
+Agent‑Messenger is an open‑source command‑line interface that lets developers automate interactions with messenger platforms (such as WhatsApp, Telegram, or Slack) using AI agents. It provides a lightweight, scriptable environment for sending, receiving, and processing messages, enabling rapid prototyping of conversational AI workflows and integrations. The tool is geared toward AI/ML practitioners and DevOps teams looking to embed intelligent agents directly into their messaging pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/agent-messenger/agent-messenger) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/agent-messenger/agent-messenger) · [← Back to AI/ML](./README.md)</sub>

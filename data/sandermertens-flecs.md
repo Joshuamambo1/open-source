@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 590 |
 | 💻 **Language** | C |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c99` `cpp11` `cpp14` `cpp17` `data-oriented` `data-oriented-design` `ecs` `entity-component-system` `entity-framework` `flecs` `game-development` `game-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · Design · Product
 
 ## 📝 Summary
 
-Flecs is an open-source, high-performance entity component system (ECS) designed for C and C++. It provides a fast and efficient framework for building scalable and flexible applications. Leveraging ECS principles, flecs enables developers to manage complex systems and data with ease.
+SanderMertens/flecs is a high‑performance Entity Component System (ECS) library written in C with a modern C++ API, designed to simplify data‑driven game and simulation development. It provides a lightweight, cache‑friendly architecture, fast iteration over component data, and flexible query, system, and event mechanisms while remaining easy to integrate into existing codebases. The project is open‑source, actively maintained, and suitable for both small prototypes and large‑scale production projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/SanderMertens/flecs) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/SanderMertens/flecs) · [← Back to Data](./README.md)</sub>

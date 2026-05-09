@@ -1,6 +1,6 @@
 # ousnius/BodySlide-and-Outfit-Studio
 
-[![Stars](https://img.shields.io/github/stars/ousnius/BodySlide-and-Outfit-Studio?style=flat-square&color=yellow)](https://github.com/ousnius/BodySlide-and-Outfit-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/ousnius/BodySlide-and-Outfit-Studio?style=flat-square&color=blue)](https://github.com/ousnius/BodySlide-and-Outfit-Studio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ousnius/BodySlide-and-Outfit-Studio?style=flat-square&color=yellow)](https://github.com/ousnius/BodySlide-and-Outfit-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/ousnius/BodySlide-and-Outfit-Studio?style=flat-square&color=blue)](https://github.com/ousnius/BodySlide-and-Outfit-Studio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > BodySlide and Outfit Studio, a tool to convert, create, and customize outfits and bodies for Bethesda games.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 343 |
+| ⭐ **Stars** | 344 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d` `3d-models` `c-plus-plus` `modding` `modeling` `opengl` `wxwidgets`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the BodySlide and Outfit Studio project:
-
-BodySlide and Outfit Studio is an open-source tool designed to help Bethesda game enthusiasts create, customize, and convert outfits and bodies. It provides a user-friendly interface for modifying and editing characters' physical appearances in games such as The Elder Scrolls V: Skyrim. This versatile tool streamlines the process of creating and managing characters' styles, allowing users to unlock new possibilities in the world of Bethesda games.
+BodySlide & Outfit Studio is an open‑source utility for Bethesda titles (such as Skyrim, Fallout 4, and the Creation Engine games) that lets users convert, edit, and generate custom armor, clothing, and body meshes. It provides a graphical interface for scaling, reshaping, and applying texture sets to game assets, enabling both simple outfit swaps and advanced, user‑crafted cosmetics. The project is maintained under the “Misc” category and is freely available for community contributions.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/ousnius/BodySlide-and-Outfit-Studio) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ousnius/BodySlide-and-Outfit-Studio) · [← Back to Misc](./README.md)</sub>

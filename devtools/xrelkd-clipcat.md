@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 566 |
+| ⭐ **Stars** | 569 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Clipcat is a clipboard manager written in Rust, providing users with a secure and efficient way to manage their clipboard history. This open-source project offers a convenient means of accessing previously copied content, reducing the need for manual recall or re-copying. By utilizing Rust, Clipcat benefits from high performance and a small memory footprint.
+Clipcat is a lightweight, cross‑platform clipboard manager built with Rust. It efficiently tracks, stores, and restores clipboard history, offering fast performance and low memory usage while providing a simple command‑line and optional GUI interface for developers. Designed as an open‑source DevTools utility, Clipcat can be easily integrated into workflows or extended via its modular codebase.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/xrelkd/clipcat) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/xrelkd/clipcat) · [← Back to DevTools](./README.md)</sub>

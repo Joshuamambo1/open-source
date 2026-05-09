@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 482 |
-| 🍴 **Forks** | 125 |
+| ⭐ **Stars** | 485 |
+| 🍴 **Forks** | 127 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Unfortunately, I do not have sufficient information to provide a summary of the SOCFortress CoPilot project. However, I can suggest a possible summary based on the available information:
-
-The SOCFortress CoPilot is an open-source project, part of the socfortress organization, categorized under Misc. It appears to be a tool or framework designed to assist with various tasks, although its specific purpose and functionality are not immediately clear.
+SOC Fortress CoPilot is an open‑source toolkit that assists security operations centers (SOCs) by automating routine tasks, enriching alerts, and providing contextual insights to streamline incident response. It integrates with common SIEMs, threat‑intel feeds, and ticketing systems, offering a modular framework for building custom playbooks and enrichments. The project is licensed under an open‑source model, encouraging community contributions and extensions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/socfortress/CoPilot) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/socfortress/CoPilot) · [← Back to Misc](./README.md)</sub>

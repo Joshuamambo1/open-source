@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 481 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`access` `bulk-inserts` `clickhouse` `database` `db2` `dotnet` `firebird` `informix` `linq` `mariadb` `mssql` `mysql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-Linq2DB is an open-source project that provides a Linq to database provider, allowing developers to use the Linq syntax to interact with various databases. This project enables seamless integration of data access with your .NET application, making it easier to manage and manipulate large datasets. It supports a wide range of databases, including SQL Server, Oracle, MySQL, PostgreSQL, and more.
+Linq2db is an open‑source, lightweight LINQ provider that enables developers to write type‑safe, compile‑time‑checked queries directly against a variety of relational databases. It offers high‑performance data access without an ORM layer, supporting multiple DBMSs, bulk operations, and advanced mapping features, making it ideal for backend and data‑centric applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/linq2db/linq2db) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/linq2db/linq2db) · [← Back to Backend](./README.md)</sub>

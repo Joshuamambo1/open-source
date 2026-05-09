@@ -1,6 +1,6 @@
-# lthoangg/openagentd
+# lthoangg/OpenAgentd
 
-[![Stars](https://img.shields.io/github/stars/lthoangg/openagentd?style=flat-square&color=yellow)](https://github.com/lthoangg/openagentd/stargazers) [![Forks](https://img.shields.io/github/forks/lthoangg/openagentd?style=flat-square&color=blue)](https://github.com/lthoangg/openagentd/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lthoangg/OpenAgentd?style=flat-square&color=yellow)](https://github.com/lthoangg/OpenAgentd/stargazers) [![Forks](https://img.shields.io/github/forks/lthoangg/OpenAgentd?style=flat-square&color=blue)](https://github.com/lthoangg/OpenAgentd/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 92 |
-| 🍴 **Forks** | 17 |
+| ⭐ **Stars** | 133 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `llm` `multi-agent` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-OpenAgentD is a self-hosted AI agent operating system that enables users to run their own AI agents on their local machine, providing features like real-time chat, tool integration, and persistent memory. This open-source platform also supports multi-agent teams, allowing for seamless collaboration and coordination among AI agents. By running entirely on your machine, OpenAgentD offers a secure and private AI solution for personal or professional use.
+OpenAgentd is a self‑hosted operating system for AI agents that delivers real‑time, streaming chat capabilities, tool integration, persistent memory, and coordinated multi‑agent teamwork—all running locally on your own hardware. Designed for developers and teams, it provides a lightweight orchestration layer that lets you build, manage, and scale AI‑driven workflows without relying on external services.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/lthoangg/openagentd) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/lthoangg/OpenAgentd) · [← Back to Orchestration](./README.md)</sub>

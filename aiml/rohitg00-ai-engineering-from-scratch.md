@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.4k |
-| 🍴 **Forks** | 1.3k |
+| ⭐ **Stars** | 6.5k |
+| 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agents` `ai-engineering` `computer-vision` `course` `deep-learning` `from-scratch` `generative-ai` `llm` `machine-learning` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The "ai-engineering-from-scratch" project is an open-source initiative aimed at empowering developers to build and deploy AI-powered applications from the ground up. This project focuses on providing a comprehensive understanding of AI engineering concepts, enabling users to learn, build, and ship robust and innovative AI solutions. By mastering AI engineering fundamentals, developers can create impactful applications for others.
+**Summary**  
+The *ai-engineering-from-scratch* repository by rohitg00 is a hands‑on learning platform that walks users through the entire lifecycle of AI/ML development—from foundational concepts and model building to deployment and production‑ready front‑end integration. It provides clear, incremental tutorials, reusable code snippets, and example projects that enable developers to quickly prototype, test, and ship intelligent applications for others to use.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) · [← Back to AI/ML](./README.md)</sub>

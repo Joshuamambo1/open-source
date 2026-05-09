@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 95 |
+| 🍴 **Forks** | 97 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agentic-ai` `agentic-framework` `ai` `ai-agent` `ai-agent-development-framework` `ai-agents-framework` `development` `genai` `golang` `llm` `mcp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the UnicomAI/wanwu project:
-
-China Unicom's Yuanjing Wanwu Agent Platform is a multi-tenant AI agent development platform designed for enterprise-grade applications. It allows users to build intelligent agents, workflows, and other applications, while also managing models in a centralized manner. This open-source platform is developer-friendly, offering a license that welcomes contributions from the community.
+UnicomAI’s wanwu is an enterprise‑grade, multi‑tenant platform for creating AI agents, workflows, and Retrieval‑Augmented Generation (RAG) applications, while also providing comprehensive model‑management tools. Designed with developers in mind, the platform offers a permissive license and a suite of front‑end and dev‑tool integrations to accelerate AI‑powered solution building.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/UnicomAI/wanwu) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/UnicomAI/wanwu) · [← Back to AI/ML](./README.md)</sub>

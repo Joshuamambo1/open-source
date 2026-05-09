@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 67 |
-| 🍴 **Forks** | 30 |
+| ⭐ **Stars** | 68 |
+| 🍴 **Forks** | 31 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agentic-rag` `agno` `ambient-ai` `autogen` `aws` `docker` `google-adk` `langchain` `langgraph` `langsmit` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the MDalamin5/End-to-End-Agentic-Ai-Automation-Lab open-source project:
-
-This repository offers a comprehensive lab for hands-on learning and exploration of end-to-end AI automation, featuring a range of tools and technologies including multi-agent systems, LangChain, and n8n. The project provides code examples, deployment workflows, and scalable agent deployment solutions using Docker, AWS, and BentoML. With its diverse toolkit, this lab serves as an ideal resource for developers and researchers looking to delve into the field of AI automation.
+A hands‑on collection of examples and deployment pipelines for building and scaling multi‑agent AI systems. It showcases end‑to‑end workflows with LangChain, LangGraph, AutoGen, CrewAI, RAG, MCP, and n8n automation, and provides ready‑to‑run Docker, AWS, and BentoML configurations for robust backend orchestration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab) · [← Back to Orchestration](./README.md)</sub>

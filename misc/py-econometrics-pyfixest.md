@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 318 |
+| ⭐ **Stars** | 320 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`econometrics` `fixed-effects` `regression`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The pyfixest project is an open-source, high-performance Python library for fixed effects regression, allowing users to estimate models with multiple levels of fixed effects in large datasets. It follows the syntax of the popular R package fixest, providing a seamless interface for data analysts familiar with the original package. This project enables fast and efficient fixed effects regression in high-dimensional settings, making it a valuable tool for econometricians and data scientists working with complex datasets.
+pyfixest is an open‑source Python library that delivers fast, high‑dimensional fixed‑effects regression by replicating the syntax and functionality of the popular R package **fixest**. It leverages efficient algorithms and sparse matrix techniques to handle large panel datasets with multiple fixed effects, offering a familiar API for econometricians and data scientists. The package is lightweight, pure‑Python, and integrates smoothly with the broader scientific Python ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/py-econometrics/pyfixest) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/py-econometrics/pyfixest) · [← Back to Misc](./README.md)</sub>

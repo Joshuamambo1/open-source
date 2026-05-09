@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 181 |
-| 🍴 **Forks** | 23 |
+| ⭐ **Stars** | 186 |
+| 🍴 **Forks** | 25 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `appstore-connect` `appstoreconnect` `asccli` `iap` `screenshot-generator` `subscriptions` `swift` `testflight`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · AI/ML · Frontend
 
 ## 📝 Summary
 
-The tddworks/asc-cli project is an open-source, Swift-based command-line interface (CLI) that enables users to manage their iOS and macOS apps on App Store Connect from the terminal. With its AI-agent support, users can automate tasks such as submitting versions, managing screenshots, and tracking builds. This tool streamlines the app management process, making it more efficient for developers.
+tddworks/asc‑cli is a Swift‑based command‑line tool that lets developers manage their iOS and macOS apps on App Store Connect directly from the terminal. It supports tasks such as submitting new versions, handling screenshots, and tracking builds, and it can be extended with AI agents through CAEOAS affordances for automated workflows. The project sits at the intersection of payments, AI/ML, and frontend tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/tddworks/asc-cli) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tddworks/asc-cli) · [← Back to Payments](./README.md)</sub>

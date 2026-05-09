@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 342 |
-| 🍴 **Forks** | 59 |
+| ⭐ **Stars** | 341 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`archiving` `bittorrent` `bittorrent-tracker` `decentralized` `p2p` `peer-to-peer` `torrent` `tracker`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Arcadia project:
-
-Arcadia is an open-source, content-agnostic torrent site and tracker framework designed to facilitate the creation and management of decentralized file sharing platforms. This orchestration tool enables users to build and customize their own torrent sites and trackers, providing a flexible solution for file sharing communities. By offering a content-agnostic framework, Arcadia promotes the development of decentralized file sharing ecosystems.
+Arcadia is an open‑source, content‑agnostic framework for building torrent sites and trackers, providing a modular, orchestrated architecture that handles user management, torrent indexing, and peer coordination. It abstracts the underlying storage and networking layers, enabling developers to deploy custom, scalable torrent platforms without being tied to any specific media type.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Arcadia-Solutions/arcadia) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Arcadia-Solutions/arcadia) · [← Back to Orchestration](./README.md)</sub>

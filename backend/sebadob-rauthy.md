@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 92 |
+| 🍴 **Forks** | 94 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`authentication` `fido2` `jwt` `keycloak` `mfa` `oidc` `oidc-provider` `openid-connect` `pam` `passkey` `rust` `scim`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Security
 
 ## 📝 Summary
 
-Rauthy is an open-source Single Sign-On (SSO) solution that provides identity and access management capabilities. It supports multiple authentication protocols, including OpenID Connect and OAuth 2.0, as well as integration with Pluggable Authentication Modules (PAM) for secure authentication. Rauthy enables seamless, secure user authentication across various applications and systems.
+sebadob/rauthy is an open‑source backend service that provides centralized Single Sign‑On (SSO) and Identity & Access Management (IAM) using OpenID Connect, OAuth 2.0 and PAM integration. It enables developers to authenticate users across multiple applications, enforce fine‑grained authorization policies, and manage credentials securely, all through a lightweight, extensible API.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/sebadob/rauthy) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sebadob/rauthy) · [← Back to Backend](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.5k |
-| 🍴 **Forks** | 238 |
+| 🍴 **Forks** | 237 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `cli-utilities` `json` `python` `session-manager` `teamocil` `terminal` `tmux` `tmuxinator` `yaml`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the tmuxp project:
-
-tmuxp is an open-source session manager for tmux, a powerful terminal multiplexer. Built on top of the libtmux library, tmuxp provides a Python interface for managing tmux sessions, making it easier to automate and customize tmux workflows. This project is ideal for developers and data scientists who use tmux to manage multiple terminal sessions and want to streamline their productivity.
+tmuxp is an open‑source session manager for tmux that leverages the libtmux Python library to define, launch, and restore complex tmux workspaces from simple YAML or JSON configuration files. It streamlines development workflows by allowing developers to script reproducible terminal environments, making it a valuable DevTools utility for both local and remote sessions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/tmux-python/tmuxp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tmux-python/tmuxp) · [← Back to AI/ML](./README.md)</sub>

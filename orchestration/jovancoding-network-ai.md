@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `agent-orchestration` `ai-agents` `autogen` `blackboard` `blackboard-architecture` `crewai` `hermes` `hermes-agent` `langchain` `llm` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The Network-AI project is an open-source, multi-agent orchestrator built on TypeScript and Node.js, designed to integrate and manage AI agents from various frameworks in a shared state environment. It provides a traffic light-like system for AI agents, along with guardrails and adapters for 28 popular AI frameworks, enabling seamless collaboration and coordination among agents. This platform streamlines AI development and deployment, facilitating more efficient and effective AI-powered applications.
+Jovancoding/Network‑AI is an open‑source TypeScript/Node framework that orchestrates multiple AI agents through a shared‑state “traffic‑light” system, providing guardrails and adapters for 29 different AI frameworks. It enables developers to coordinate, synchronize, and manage multi‑agent workflows with built‑in state sharing, safety controls, and extensible integration points. Suitable for projects that require robust orchestration of heterogeneous AI services.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/Jovancoding/Network-AI) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Jovancoding/Network-AI) · [← Back to Orchestration](./README.md)</sub>

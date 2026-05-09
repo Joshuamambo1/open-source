@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `eolang` `java` `javascript` `maven` `toolkit`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The objectionary/eoc project is an open-source command-line toolkit designed to facilitate the development and execution of EOLANG programs. It provides a comprehensive set of tools for tasks such as parsing, compiling, transpiling, optimizing, linking, and dataizing, enabling efficient and streamlined EOLANG programming. This toolkit supports the entire development lifecycle of EOLANG applications, making it a valuable resource for developers and researchers working with this language.
+Objectionary /EOC is a command‑line toolkit that lets developers work with EOLANG—an object‑oriented, stack‑based language—by providing a full pipeline for parsing, compiling, transpiling, optimizing, linking, dataizing and executing programs. It streamlines the development workflow for EOLANG projects, making it easy to transform source code into runnable artifacts and to integrate with other tools in AI/ML and data‑centric pipelines. The project is open source, encouraging contributions and extensibility across various data‑processing use cases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/objectionary/eoc) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/objectionary/eoc) · [← Back to AI/ML](./README.md)</sub>

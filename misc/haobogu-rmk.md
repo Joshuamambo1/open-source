@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 175 |
+| 🍴 **Forks** | 176 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cortex-m` `embedded` `esp32` `firmware` `keyboard` `keyboard-firmware` `nrf52` `rp2040` `rust` `stm32` `usb` `usb-hid`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the rmk project:
-
-Rmk is an open-source, Rust-based keyboard firmware library that offers advanced features such as layers, macros, and real-time keymap editing. It also supports wireless connectivity via Bluetooth Low Energy (BLE) and split keyboards. This library provides a flexible and customizable foundation for keyboard development.
+HaoboGu/rmk is an open‑source Rust library for building custom keyboard firmware. It provides advanced features such as multi‑layer keymaps, programmable macros, real‑time keymap editing, Bluetooth Low Energy (BLE) wireless connectivity, and support for split keyboard designs. The project aims to simplify firmware development while offering high performance and flexibility for enthusiasts and developers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/HaoboGu/rmk) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/HaoboGu/rmk) · [← Back to Misc](./README.md)</sub>

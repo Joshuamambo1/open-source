@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 113.5k |
-| 🍴 **Forks** | 17k |
+| ⭐ **Stars** | 113.8k |
+| 🍴 **Forks** | 17.1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `anydesk` `dart` `flatpak` `flutter` `flutter-apps` `ios` `linux` `macos` `p2p` `rdp` `remote-control`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile · Design
 
 ## 📝 Summary
 
-RustDesk is an open-source remote desktop application that enables secure and self-hosted remote access, providing users with a viable alternative to traditional remote desktop solutions like TeamViewer. This cross-platform application offers seamless connectivity and control over remote desktops, allowing users to access and interact with their devices from anywhere. With its open-source nature, RustDesk promotes flexibility and customization for its users.
+RustDesk is an open‑source remote‑desktop solution that lets you control computers and mobile devices over the internet without relying on third‑party services. Designed for self‑hosting, it provides a TeamViewer‑like experience with end‑to‑end encryption, cross‑platform support, and a lightweight client‑server architecture. The project also includes mobile apps, making remote access convenient from smartphones and tablets.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rustdesk/rustdesk) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/rustdesk/rustdesk) · [← Back to Mobile](./README.md)</sub>

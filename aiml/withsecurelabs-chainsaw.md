@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 297 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`attack` `blueteam` `chainsaw` `countercept` `detection` `dfir` `forensics` `logs` `rust` `security` `sigma` `threat-hunting`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Security
 
 ## 📝 Summary
 
-Chainsaw is an open-source project that enables rapid searching and hunting through Windows forensic artifacts. It utilizes AI/ML to efficiently analyze and identify potential security threats and incidents. By leveraging this tool, security professionals can streamline their investigative processes and respond to threats more effectively.
+WithSecureLabs / chainsaw is an open‑source toolkit that enables fast, automated searching and hunting across Windows forensic artefacts such as logs, registry hives, and file system metadata. Leveraging AI/ML techniques for pattern detection, it provides a backend framework for security analysts to quickly surface indicators of compromise and conduct deep investigations. The project is designed for extensibility, allowing custom queries and integration into broader threat‑hunting pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/WithSecureLabs/chainsaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/WithSecureLabs/chainsaw) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4k |
-| 🍴 **Forks** | 269 |
+| 🍴 **Forks** | 268 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `jellyfin` `kotlin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-Findroid is an open-source, third-party native Jellyfin Android app that provides an alternative to the official Jellyfin mobile client. It offers a native Android experience, allowing users to access and manage their media libraries, watch live TV, and stream content directly to their devices. With Findroid, users can enjoy a seamless and feature-rich Jellyfin experience on their Android smartphones and tablets.
+The **jarnedemeulemeester/findroid** project is an open‑source, native Android client for Jellyfin, providing a fully featured, third‑party alternative to the official app. It offers a streamlined mobile interface for browsing, streaming, and managing media libraries directly from Android devices.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/jarnedemeulemeester/findroid) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jarnedemeulemeester/findroid) · [← Back to Mobile](./README.md)</sub>

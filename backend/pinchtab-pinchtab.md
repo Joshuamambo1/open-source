@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9k |
-| 🍴 **Forks** | 657 |
+| 🍴 **Forks** | 665 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`browser-automation` `cdp` `golang` `headless-chrome` `orchestrator` `stealth` `web-scraping`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-pinchtab/pinchtab is a promising open-source project. Categories: Backend. Interest score: 93/100.
+Pinchtab is a high‑performance backend framework that bridges browser automation tools with a multi‑instance orchestration layer, enabling developers to run and manage dozens of browsers concurrently. It features advanced stealth injection techniques to evade detection and a real‑time dashboard for monitoring and controlling each session, making it ideal for large‑scale web scraping, testing, and automation workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/pinchtab/pinchtab) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pinchtab/pinchtab) · [← Back to Backend](./README.md)</sub>

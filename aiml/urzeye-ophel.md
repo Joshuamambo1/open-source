@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 599 |
-| 🍴 **Forks** | 32 |
+| ⭐ **Stars** | 610 |
+| 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-assistant` `ai-studio` `ai-workflow` `browser-extension` `chatgpt` `chrome-extension` `claude` `gemini` `grok` `long-conversation` `outline` `productivity`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Product
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Ophel is an open-source project that enables users to transform AI conversations into organized, reusable workflows across various major AI platforms. This innovative tool streamlines AI-driven processes, making it easier to leverage conversations as executable workflows. By bridging the gap between AI interactions and workflow automation, Ophel aims to enhance productivity and efficiency in AI-driven applications.
+urze​ye/ophel is an open‑source framework that captures AI chat interactions and transforms them into structured, reusable workflows, enabling developers to orchestrate and automate multi‑step conversations across major AI platforms. By providing a platform‑agnostic format and tooling for workflow creation, it helps teams turn ad‑hoc AI dialogues into maintainable, shareable processes for faster product development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/urzeye/ophel) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/urzeye/ophel) · [← Back to AI/ML](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 557 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The mozilla/addons-server project is an open-source Django application and API that powers the Add-ons website at addons.mozilla.org. It is responsible for managing and serving various types of browser extensions and themes, providing a centralized platform for users to discover, download, and manage their add-ons. This project plays a critical role in the Mozilla ecosystem, enabling a seamless user experience for millions of users worldwide.
+Mozilla Add-ons Server is the backend Django application and REST API that powers addons.mozilla.org, the official marketplace for Firefox extensions and themes. It provides tools for add‑on developers to upload, manage, and distribute their packages, while handling authentication, reviews, ratings, and statistics for end users. The open‑source project enables contributors to extend, customize, and deploy the full add‑on ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/mozilla/addons-server) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/mozilla/addons-server) · [← Back to Backend](./README.md)</sub>

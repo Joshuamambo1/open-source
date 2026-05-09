@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 33 |
+| ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `chatgpt` `claude` `deepseek` `ernie-bot` `fast` `fastapi` `gemini` `glm` `gpt` `gpt-4` `gpt-5`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the iimeta/fastapi-web project:
-
-iimeta/fastapi-web is an open-source, enterprise-level LLM API integration system that supports multiple large language models from various providers, including OpenAI and Azure. This high-performance system features a simple and lightweight design, ensuring stability and ease of deployment via Docker. It offers a straightforward and efficient way to integrate LLM APIs into applications.
+FastAPI‑Web is an enterprise‑grade, lightweight system for quickly integrating a wide range of LLM APIs—including OpenAI, Azure, Baidu Wenxin, iFlytek Spark, Tongyi Qianwen, Zhipu GLM, Gemini, DeepSeek, Anthropic Claude, and any OpenAI‑compatible model—into your applications. It offers a clean, minimal UI, high performance, and stability, and can be deployed with a single Docker command. Suitable for both frontend and backend developers working on AI/ML projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/iimeta/fastapi-web) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/iimeta/fastapi-web) · [← Back to AI/ML](./README.md)</sub>

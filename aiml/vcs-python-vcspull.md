@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `cli-utilities` `git` `hg` `json` `project-management` `python` `svn` `terminal` `vcs` `yaml`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The vcspull project is an open-source tool for synchronizing projects across different versions and environments. It uses a yaml/json manifest to manage the synchronization process, allowing for easy tracking and updating of projects. Built on top of libvcs, vcspull is a powerful tool for developers and data scientists working with AI/ML and frontend projects.
+vcs‑python/vcspull is a lightweight, open‑source tool that synchronizes multiple codebases according to a YAML or JSON manifest, handling cloning, pulling, and updating across a variety of version‑control systems. Built on top of the `libvcs` library, it provides a simple, declarative workflow for keeping projects in sync—making it a handy utility for developers, DevOps engineers, and CI pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/vcs-python/vcspull) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/vcs-python/vcspull) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`proxies` `proxy` `proxy-checker` `proxy-list` `proxypool` `proxyscraper`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project in 2-3 sentences:
-
-This open-source project, ErcinDedeoglu/proxies, provides a daily updated list of reliable proxy servers. The list offers a seamless and secure browsing experience by eliminating outdated and unreliable proxy servers. It's an ideal solution for developers and users seeking a trustworthy proxy list.
+ErcinDedeoglu/proxies is an open‑source utility that aggregates and continuously updates a curated list of reliable proxy servers, providing developers and users with fresh, high‑quality proxies for secure and uninterrupted web access. The project offers a simple API/CLI to fetch the latest entries, making it easy to integrate up‑to‑date proxy data into AI/ML pipelines, backend services, or any application requiring reliable network routing.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ErcinDedeoglu/proxies) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ErcinDedeoglu/proxies) · [← Back to AI/ML](./README.md)</sub>

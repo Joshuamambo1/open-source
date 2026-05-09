@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 210 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 214 |
+| 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude` `ebbinghaus` `llm-memory` `mcp` `memory` `model-context-protocol` `pgvector`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "YourMemory":
-
-YourMemory is an agentic AI memory system that incorporates the Ebbinghaus forgetting curve to simulate how information decays over time. This approach has been shown to improve recall by 16% compared to traditional methods, as demonstrated on the LoCoMo dataset. By leveraging this dynamic forgetting curve, YourMemory aims to enhance the learning and retention capabilities of AI models.
+YourMemory is an open‑source agentic AI memory system that models human‑like forgetting using the Ebbinghaus decay curve, automatically pruning and reinforcing stored information over time. By integrating this curve‑based decay with efficient retrieval orchestration, it achieves roughly 16 percentage points higher recall than Mem0 on the LoCoMo benchmark, making it a robust tool for long‑term, context‑aware AI applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/sachitrafa/YourMemory) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sachitrafa/YourMemory) · [← Back to Orchestration](./README.md)</sub>

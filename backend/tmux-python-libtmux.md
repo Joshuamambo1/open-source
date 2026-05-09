@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `cli` `library` `python` `python-3` `terminal` `tmux`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The tmux-python/libtmux project is an open-source Python library that provides a simple and intuitive interface to interact with the powerful tmux terminal multiplexer. This wrapper allows Python developers to easily automate and integrate tmux functionality into their scripts and applications. By leveraging tmux-python, developers can create more efficient and complex workflows within their terminal environments.
+tmux-python/libtmux provides a lightweight Python wrapper around the tmux terminal multiplexer, exposing tmux’s core commands and session management features through an intuitive, object‑oriented API. It enables developers to script, automate, and integrate tmux functionality directly from Python applications and tools, making it ideal for backend services and development tooling that require dynamic terminal control.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/tmux-python/libtmux) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tmux-python/libtmux) · [← Back to Backend](./README.md)</sub>

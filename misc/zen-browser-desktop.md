@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`firefox` `firefox-based` `firefox-browser` `zen-browser`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-zen-browser/desktop is a promising open-source project. Categories: Misc. Interest score: 95/100.
+**zen-browser/desktop** is an open‑source, privacy‑focused web browser that aims to provide a calm, distraction‑free online experience. Built on modern web technologies, it offers a minimalist interface, built‑in ad‑blocking, and extensive customization while respecting user data and security.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/zen-browser/desktop) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/zen-browser/desktop) · [← Back to Misc](./README.md)</sub>

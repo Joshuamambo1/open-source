@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `agent-identity` `agent-infrastructure` `agent-memory` `agent-skills` `ai-agents` `ai-safety` `autonomous-agents` `claude-code` `cli` `cron` `job-scheduler`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The instar project is an open-source toolkit that enables developers to create persistent Claude Code agents. Featuring a robust architecture with scheduling, sessions, memory management, and integration with Telegram, instar facilitates the development and deployment of sophisticated AI and machine learning applications. This project is suitable for those looking to build and orchestrate complex AI systems.
+JKHeadley/instar is an open‑source framework that lets you run persistent Claude‑based AI agents equipped with scheduling, session handling, and long‑term memory. It integrates seamlessly with Telegram, enabling you to interact with and manage these agents through chat while supporting orchestration of complex workflows. Ideal for developers building AI‑enhanced tools, the project combines DevOps orchestration, AI/ML capabilities, and developer utilities in a single package.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/JKHeadley/instar) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/JKHeadley/instar) · [← Back to Orchestration](./README.md)</sub>

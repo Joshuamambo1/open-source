@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | C |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bpf` `capture` `command-line` `command-line-tool` `ebpf` `network` `sniffer` `tcp` `tcpdump` `tcpdump-like`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Kyanos is an open-source networking analysis tool that leverages eBPF (Extended Berkeley Packet Filter) to provide in-depth insights into network traffic. It enables users to visualize packet processing times within the kernel, capture network requests and responses, and streamline troubleshooting processes. This tool aims to make network analysis more efficient and effective.
+Kyanos is an open‑source networking analysis utility built on eBPF that visualizes how long packets linger in the kernel and captures request/response flows. By exposing detailed timing and traffic information, it helps users pinpoint performance bottlenecks and troubleshoot network issues more efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hengyoush/kyanos) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/hengyoush/kyanos) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `go` `ipaddress` `security` `tool`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "jreisinger/checkip":
-
-The jreisinger/checkip project is an open-source tool designed to retrieve detailed security information about IP addresses. By utilizing this tool, users can conduct thorough IP address research to identify potential security risks and vulnerabilities. This DevTools project is particularly useful for security professionals and researchers.
+jreisinger/checkip is an open‑source utility that retrieves detailed security and reputation data for any IP address, including geolocation, blacklist status, and threat intelligence. It provides developers and security analysts with a simple command‑line interface and API wrappers to quickly assess the risk associated with IPs during testing, monitoring, or incident response.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/jreisinger/checkip) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jreisinger/checkip) · [← Back to DevTools](./README.md)</sub>

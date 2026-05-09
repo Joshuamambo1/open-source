@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 347 |
-| 🍴 **Forks** | 47 |
+| ⭐ **Stars** | 348 |
+| 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bot` `collector` `config` `freedom` `python` `shadowsocks` `trojan` `v2ray` `vless` `vmess` `vpn` `xray`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-This open-source project provides a comprehensive collection of free VPN configurations, including VMess, VLESS, Trojan, Shadowsocks, and V2Ray/Xray configs, sorted by country for easy access. The configs are designed to support mobile devices, offering users a convenient way to bypass geo-restrictions and access global content. With this project, users can select the most suitable config for their needs based on their location.
+The **bulk‑xray‑v2ray‑vless‑vmess** repository provides a curated collection of free, ready‑to‑use configuration files for Xray/V2Ray, VLESS, VMess, Trojan and Shadowsocks proxies, organized by country. It enables mobile users to quickly import region‑specific proxy settings for bypassing geo‑restrictions and enhancing privacy without having to generate their own configurations. The project is open‑source and regularly updated with new server entries.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs) · [← Back to Mobile](./README.md)</sub>

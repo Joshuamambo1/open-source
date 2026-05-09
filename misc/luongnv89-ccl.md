@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `codex` `llamacpp` `lmstudio` `ollama`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The "ccl" project is an open-source initiative that offers users flexibility and control over their model usage, allowing them to swap models quickly without disrupting their existing workflows or setups. This approach prioritizes convenience and privacy by minimizing the need to make extensive changes when switching models. The project aims to simplify the process of adapting to different models while maintaining continuity.
+luongnv89/ccl is a lightweight utility that lets you bypass usage limits and protect privacy by swapping out the underlying model while preserving the rest of your workflow. It acts as a drop‑in replacement, intercepting calls to the original model and redirecting them to an alternative without requiring code changes. This makes it easy to maintain functionality, improve security, or avoid throttling in any environment.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/luongnv89/ccl) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/luongnv89/ccl) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 297 |
+| ⭐ **Stars** | 298 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-tools` `expect` `test` `test-runner` `testing-tools` `types` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The tstyche project is an open-source tool designed to provide a comprehensive set of features for type testing purposes. Its intuitive interface and robust functionality make it an essential resource for developers seeking to streamline and improve their type testing processes. With tstyche, users can efficiently test and validate their type-related tasks.
+tstyche is an open‑source dev‑tool that streamlines type testing for TypeScript projects. It provides a simple CLI and configuration system to run type‑only tests, catch type errors early, and integrate seamlessly with existing test frameworks and CI pipelines. By focusing on type checking as a first‑class testing concern, tstyche helps developers maintain robust, type‑safe codebases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/tstyche/tstyche) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tstyche/tstyche) · [← Back to DevTools](./README.md)</sub>

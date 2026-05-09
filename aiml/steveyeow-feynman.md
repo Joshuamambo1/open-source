@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 147 |
+| ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `books` `education` `fastapi` `knowledge-graph` `llm` `python` `rag` `reading`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Feynman is an open-source project that allows users to read books in a unique and interactive way. Inspired by the learning style of physicist Richard Feynman, the project employs agent-simulated great minds to provide a continuously evolving network of insights and discussions. This platform aims to enhance the reading experience by fostering a dynamic and collaborative learning environment.
+Feynman is an open‑source platform that lets users read and study books using the same active‑recall, “explain‑it‑to‑a‑child” techniques championed by Richard Feynman, while being assisted by a dynamic network of AI agents that simulate the reasoning styles of famous thinkers. The system integrates advanced language models on the backend to generate questions, explanations, and analogies, enabling a collaborative, constantly evolving learning experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/steveyeow/Feynman) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/steveyeow/Feynman) · [← Back to AI/ML](./README.md)</sub>

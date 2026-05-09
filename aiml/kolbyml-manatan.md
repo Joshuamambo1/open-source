@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 457 |
+| ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Manatan is an open-source project that utilizes AI and ML to provide a seamless immersion experience for language learners, particularly those interested in Japanese culture, through anime, manga, and novels. This project aims to bridge the gap between language learning and cultural appreciation by offering a comprehensive platform that can be accessed on various devices. By leveraging AI and ML, Manatan strives to make language learning more engaging, efficient, and accessible to users worldwide.
+KolbyML’s **Manatan** is an open‑source AI‑powered platform that integrates language‑learning tools directly into anime, manga, and novel content, allowing users to acquire new languages while enjoying their favorite media. It works across desktop, mobile, and web environments, providing real‑time translations, vocabulary extraction, and adaptive quizzes that sync with the narrative flow. Designed for developers and educators, Manatan offers extensible APIs and pretrained models to enable seamless immersion‑learning experiences on any platform.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/KolbyML/Manatan) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/KolbyML/Manatan) · [← Back to AI/ML](./README.md)</sub>

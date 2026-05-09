@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aarch64` `freebsd` `hypervisor-framework` `kernel` `kvm` `linux` `macos` `ps4` `reverse-engineering` `rust` `unix-like` `virtualization`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The obhq/obliteration project is an experimental, open-source implementation of the PlayStation 4 kernel, providing a free and community-driven alternative to the original commercial code. This project aims to offer a unique insight into the inner workings of the PlayStation 4's operating system and facilitate learning and research in the field of kernel development. By making the kernel open-source, developers can contribute to its improvement and expand its capabilities.
+Obliteration is an experimental, free and open‑source reimplementation of the PlayStation 4 kernel, aiming to provide a functional, community‑driven alternative to Sony’s proprietary firmware. The project explores the PS4’s low‑level architecture, hardware interfaces, and system services, offering a foundation for research, development, and hobbyist experimentation. It is currently in an early stage and categorized under miscellaneous projects.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/obhq/obliteration) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/obhq/obliteration) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 24 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 23 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-routing` `anthropic` `claude` `claude-code` `cost-optimization` `gemini` `litellm` `llm` `llm-router` `mcp` `mcp-server` `model-router`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the ypollak2/llm-router project:
-
-The ypollak2/llm-router is an open-source, universal LLM (Large Language Model) router designed to optimize AI coding tools. It seamlessly integrates with popular tools like Claude Code, Cursor, Codex, Gemini CLI, and Copilot, reducing costs by 70-85% through a free-first fallback chain. This project empowers developers to leverage the power of AI coding tools while minimizing expenses.
+The **LLM‑Router** is a universal, open‑source routing layer that lets developers plug in multiple large‑language‑model providers—such as Claude Code, Cursor, Codex, Gemini CLI, Copilot, and others—into a single, cohesive API for AI‑assisted coding tools. It implements a “free‑first” fallback chain that automatically tries lower‑cost or no‑cost models before resorting to paid services, reducing overall usage expenses by roughly 70–85 %. The project is built for backend and dev‑tool integrations, making it easy to add, prioritize, and manage LLMs across a wide range of AI coding workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ypollak2/llm-router) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ypollak2/llm-router) · [← Back to AI/ML](./README.md)</sub>

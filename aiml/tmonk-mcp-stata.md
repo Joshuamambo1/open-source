@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 58 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 59 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `econometrics` `economics` `llm` `mcp` `mcp-server` `stata`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The tmonk/mcp-stata project provides a Model Context Protocol (MCP) server for Stata, allowing users to execute commands, inspect data, and retrieve results directly within their chat interface. This integration enables economists to seamlessly incorporate Large Language Model (LLM) assistance into their Stata workflow, streamlining their data analysis and research process. The project offers a lightweight, open-source solution for enhancing Stata's capabilities with AI-powered tools.
+tmonk/mcp-stata is a lightweight Model Context Protocol (MCP) server that lets users control Stata from a chat interface—running commands, inspecting datasets, fetching stored results (r()/e()), and displaying graphs. It’s designed for economists who want to embed LLM‑driven assistance directly into their Stata workflow, providing both backend MCP handling and a simple frontend for interactive communication.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/tmonk/mcp-stata) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tmonk/mcp-stata) · [← Back to AI/ML](./README.md)</sub>

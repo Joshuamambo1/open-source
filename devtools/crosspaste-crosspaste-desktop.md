@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 92 |
+| 🍴 **Forks** | 93 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`clipboard` `clipboard-history` `clipboard-manager` `clips` `compose-desktop` `copy-paste` `cross-platform` `desktop-application` `kotlin-multiplatform` `paste` `pasteboard` `sync`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-CrossPaste is an open-source project that enables a universal pasteboard across devices, allowing users to seamlessly share and transfer content between different devices and platforms. This project aims to simplify the process of data exchange and collaboration between devices, making it easier to share text, images, and other types of content. By providing a unified pasteboard, CrossPaste facilitates a more streamlined and efficient workflow.
+CrossPaste is an open‑source desktop application that creates a universal clipboard, letting you copy text, images, files and other data on one device and instantly paste it on any other device on the same network. It works across Windows, macOS and Linux, synchronizing the pasteboard in real time without needing cloud services, making seamless cross‑device workflow simple for developers and power users.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/CrossPaste/crosspaste-desktop) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/CrossPaste/crosspaste-desktop) · [← Back to DevTools](./README.md)</sub>

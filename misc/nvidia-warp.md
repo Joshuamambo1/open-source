@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.6k |
-| 🍴 **Forks** | 496 |
+| 🍴 **Forks** | 502 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cuda` `differentiable-programming` `gpu` `gpu-acceleration` `nvidia` `nvidia-warp` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-NVIDIA's warp is an open-source Python framework that accelerates simulations, robotics, and machine learning applications on GPUs. This framework enables developers to take advantage of NVIDIA's GPU capabilities, streamlining the process of building and deploying complex AI and simulation workloads. By leveraging warp, users can unlock significant performance gains and simplify the development of high-performance applications.
+NVIDIA Warp is an open‑source Python framework that leverages GPU acceleration to speed up a wide range of tasks, from physics‑based simulation and robotics control to machine‑learning inference and training. It provides high‑level, NumPy‑compatible APIs while handling low‑level CUDA details under the hood, enabling developers to write concise, portable code that runs efficiently on NVIDIA GPUs.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/NVIDIA/warp) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/NVIDIA/warp) · [← Back to Misc](./README.md)</sub>

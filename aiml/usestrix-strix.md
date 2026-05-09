@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 24.9k |
+| ⭐ **Stars** | 25.1k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `artificial-intelligence` `cybersecurity` `generative-ai` `llm` `penetration-testing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Strix is an open-source AI-powered security tool designed to identify and rectify vulnerabilities in applications. It utilizes advanced machine learning algorithms to scan and analyze code, providing developers with actionable insights to enhance their application's security posture. With Strix, developers can automate the vulnerability detection process and prioritize fixes to ensure their applications are secure and reliable.
+Strix is an open‑source platform that leverages AI-driven “hackers” to automatically discover and remediate security vulnerabilities in your applications. By integrating advanced machine‑learning models with developer tools, it streamlines the detection, analysis, and fixing of bugs, helping teams boost code security and reduce manual testing effort. Suitable for developers, security engineers, and DevOps workflows, Strix turns AI insights into actionable patches across a variety of tech stacks.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/usestrix/strix) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/usestrix/strix) · [← Back to AI/ML](./README.md)</sub>

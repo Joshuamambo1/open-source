@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `development` `development-tools` `mcp` `mcp-client` `mcp-proxy` `mcp-server` `mcp-tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Muster is an open-source project by giantswarm that manages and proxies MCP (Multi-Cloud Platform) tool workflows. It simplifies the interaction with MCP tools, providing a unified interface for tasks such as deployment, scaling, and monitoring across cloud providers. Muster streamlines MCP tool management, reducing complexity and improving productivity for developers and DevOps teams.
+Giantswarm Muster is an open‑source management and workflow proxy for the MCP (Multi‑Cluster Platform) ecosystem, streamlining the deployment, monitoring, and lifecycle handling of cluster components. It offers a backend‑focused, DevTools‑friendly interface that automates routine tasks while providing extensible hooks for AI/ML‑driven operations and custom workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/giantswarm/muster) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/giantswarm/muster) · [← Back to AI/ML](./README.md)</sub>

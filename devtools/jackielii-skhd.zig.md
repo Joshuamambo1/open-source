@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 511 |
+| ⭐ **Stars** | 514 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`capslock-remap` `cli` `hotkey` `macos` `qmk` `remapping-keyboards` `taphold`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the jackielii/skhd.zig project:
-
-Skhd.zig is an open-source, macOS-based hotkey daemon that provides a simple and customizable way to manage keyboard shortcuts. Ported from the original skhd by koekeishiya, this project aims to offer a reliable and efficient solution for users seeking to streamline their workflow. With its modular design and support for various actions, Skhd.zig enables users to tailor their hotkey setup to suit their specific needs.
+jackielii/skhd.zig is an open‑source hotkey daemon for macOS that lets users define and trigger custom keyboard shortcuts system‑wide. It is a clean, lightweight rewrite of the original **skhd** (by koekeishiya) in Zig, preserving the same configuration syntax while offering the safety and performance benefits of the Zig language. The project targets developers who need a simple, scriptable way to manage global hotkeys on macOS.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/jackielii/skhd.zig) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jackielii/skhd.zig) · [← Back to DevTools](./README.md)</sub>

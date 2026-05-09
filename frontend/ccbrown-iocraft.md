@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 37 |
+| 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `iocraft` `logs` `rust` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The iocraft Rust crate is an open-source project designed to craft visually appealing and interactive command-line interfaces (CLIs), text-based user interfaces (TUIs), and text-based input/output applications. This crate provides a framework for developers to create beautiful, artisanal user experiences in a straightforward and efficient manner. By leveraging iocraft, developers can focus on building engaging and effective user interfaces without the need for extensive coding expertise in UI design.
+c​c​b​r​o​w​n​/​i​o​c​r​a​f​t is a Rust library that makes it easy to build polished, highly‑customizable command‑line interfaces, text‑based user interfaces, and other interactive console applications. It provides a collection of composable widgets, theming support, and ergonomic APIs so developers can craft “artisanally” styled CLIs and TUIs without dealing with low‑level terminal handling. The crate is positioned as a front‑end dev‑tool for Rust projects that need beautiful, functional text‑based I/O.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ccbrown/iocraft) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ccbrown/iocraft) · [← Back to Frontend](./README.md)</sub>

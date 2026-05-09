@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 195 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 211 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `chatbot` `claude` `markdown` `skill`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The skill-based-architecture project is an open-source meta-skill that extracts knowledge from any codebase, distilling its rules, workflows, and best practices into a dedicated project skill directory. This centralized skill repository serves as a single source of truth for AI agents to consult before undertaking tasks. By leveraging this project, developers can efficiently share their expertise and streamline AI-driven development processes.
+WoJiSama/skill‑based‑architecture is a meta‑skill that automatically extracts the core rules, workflows, and best‑practice lessons from any codebase and generates a self‑contained `skills/<name>/` directory. This directory serves as a dedicated “project skill,” acting as the single source of truth that AI coding assistants (e.g., Cursor, Claude Code, Codex, Windsurf, Gemini) can consult before performing any task. The tool streamlines knowledge transfer and ensures consistent, context‑aware assistance across the entire development lifecycle.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/WoJiSama/skill-based-architecture) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/WoJiSama/skill-based-architecture) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`armis` `causal-discovery` `causal-inference` `deck-gl` `erts` `homelab` `monitoring-tool` `netbox` `network-monitoring-tool` `network-scanning` `observability` `ocsf`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the carverauto/serviceradar project:
-
-Serviceradar is an open-source, zero-trust network management and observability platform designed to provide secure and transparent network visibility. This platform enables users to monitor and manage their network with confidence, ensuring a secure and reliable environment for their systems and applications. By leveraging Serviceradar, users can gain unparalleled insights into their network operations and make data-driven decisions to improve their IT infrastructure.
+carverauto/serviceradar is an open‑source, zero‑trust platform that provides comprehensive network management and observability capabilities. It offers a modern frontend interface for monitoring services, visualizing dependencies, and enforcing security policies without relying on implicit trust. Ideal for teams seeking transparent, secure insights into their infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/carverauto/serviceradar) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/carverauto/serviceradar) · [← Back to Frontend](./README.md)</sub>

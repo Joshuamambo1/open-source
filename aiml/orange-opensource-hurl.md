@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 18.9k |
-| 🍴 **Forks** | 721 |
+| 🍴 **Forks** | 722 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-testing` `cli` `curl` `http` `http-client` `integration-testing` `testing` `testing-tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Hurl is an open-source project that enables users to run and test HTTP requests with ease, utilizing plain text configurations. This tool is designed for developers and testers working on backend applications, as well as those in the AI/ML space, to streamline their workflow and ensure accurate API interactions. With Hurl, users can create, execute, and verify HTTP requests in a simple and efficient manner.
+Orange-OpenSource/hurl is a lightweight command‑line tool that lets developers define, execute, and verify HTTP requests using a simple, human‑readable plain‑text syntax. It streamlines API testing and debugging by combining request execution with built‑in assertions, making it ideal for backend development and DevOps workflows. The project is open source and can be integrated into CI pipelines or used interactively for rapid API prototyping.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Orange-OpenSource/hurl) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Orange-OpenSource/hurl) · [← Back to AI/ML](./README.md)</sub>

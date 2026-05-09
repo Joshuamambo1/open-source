@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.5k |
+| ⭐ **Stars** | 7.6k |
 | 🍴 **Forks** | 209 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`git` `git-hooks` `pre-commit`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Design
 
 ## 📝 Summary
 
-The j178/prek project is an open-source, Rust-based Git hook manager designed to serve as a drop-in alternative to pre-commit. It provides a flexible and efficient way to manage custom Git hooks, ensuring seamless integration with development workflows. This alternative aims to offer a streamlined solution for developers looking to automate repetitive tasks and enforce coding standards.
+j178/prek is a high‑performance Git hook manager built in Rust, offering a drop‑in, drop‑out replacement for the popular pre‑commit framework. It streamlines hook installation, execution, and configuration while delivering faster runtimes and lower resource usage, making it ideal for projects that need reliable, scalable pre‑commit checks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/j178/prek) · [← Back to Design](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/j178/prek) · [← Back to Design](./README.md)</sub>

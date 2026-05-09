@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 847 |
-| 🍴 **Forks** | 87 |
+| ⭐ **Stars** | 850 |
+| 🍴 **Forks** | 88 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `clawdbot` `cloud` `database` `deepseek-r1` `free` `hosting` `iaas` `linux` `llm` `llm-inference` `moltbot`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-The "awesome-hosting" project by dalisoft is an open-source list of exceptional hosting services, categorized by minimal plan price. It provides users with a comprehensive and sorted selection of AI/ML, Backend, and Data hosting options, making it easier to find the best fit for their needs. By leveraging this resource, developers can efficiently compare and choose the most cost-effective hosting solutions.
+**awesome‑hosting** is an open‑source curated list that ranks web‑hosting services by their lowest‑price plans, helping developers quickly identify cost‑effective options. It’s organized by categories such as AI/ML, Backend, and Data, making it easy to find hosting solutions that match specific technology stacks. The project is community‑maintained and aims to keep pricing information up‑to‑date for anyone seeking affordable hosting.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/dalisoft/awesome-hosting) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/dalisoft/awesome-hosting) · [← Back to AI/ML](./README.md)</sub>

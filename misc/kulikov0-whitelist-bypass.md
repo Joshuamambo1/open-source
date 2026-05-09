@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 977 |
-| 🍴 **Forks** | 54 |
+| ⭐ **Stars** | 1k |
+| 🍴 **Forks** | 56 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The whitelist-bypass project is an open-source initiative that aims to explore and demonstrate methods for evading whitelisting mechanisms. This project likely involves reverse engineering and bypassing security protocols designed to restrict or block certain applications or processes. By making its findings and techniques publicly available, the project contributes to the ongoing cat-and-mouse game between security developers and threat actors.
+**Summary:**  
+The *whitelist-bypass* project by kulikov0 provides a lightweight utility for circumventing simple whitelist checks in various software contexts. It offers a collection of scripts and configuration examples that demonstrate how to exploit common whitelist validation flaws, making it a useful reference for security researchers and developers looking to test or harden their own whitelist implementations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/kulikov0/whitelist-bypass) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/kulikov0/whitelist-bypass) · [← Back to Misc](./README.md)</sub>

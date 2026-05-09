@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `bookmark-manager` `cli` `knowledge-management` `local-first` `lsp` `onnx` `rust` `semantic-search` `sqlite`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The sysid/bkmr project is an open-source knowledge management system designed to bridge the gap between human knowledge and artificial intelligence (AI) agents. Its primary goal is to enable seamless collaboration and information exchange between humans and AI systems, facilitating more informed decision-making and improved AI capabilities. By providing a platform for knowledge management, sysid/bkmr aims to unlock the full potential of AI and human collaboration.
+**sysid/bkmr** is an open‑source knowledge‑management platform designed to help both people and AI agents capture, organize, and retrieve information efficiently. It combines intuitive UI components with programmable interfaces, enabling seamless integration into AI/ML workflows and developer toolchains. The project aims to bridge human‑centric note‑taking with machine‑readable knowledge graphs for smarter, context‑aware applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/sysid/bkmr) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sysid/bkmr) · [← Back to AI/ML](./README.md)</sub>

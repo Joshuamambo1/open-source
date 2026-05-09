@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 72 |
+| ⭐ **Stars** | 75 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `crawler` `data-extraction` `docker` `firecrawl` `firecrawl-alternative` `html-to-markdown` `llm` `markdown` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The us/crw project is an open-source, Rust-based alternative to Firecrawl, offering a fast and lightweight web scraping, crawling, and search API with an MCP server for AI agents. With a footprint of just 6 MB RAM and a single binary, this drop-in Firecrawl-compatible API is ideal for self-hosting or cloud deployments. Its exceptional performance, with speeds 2.3x faster than Tavily and 1.5x faster than Firecrawl, makes it a compelling choice for developers.
+us/crw is a fast, lightweight Rust implementation that serves as a drop‑in replacement for Firecrawl, offering a unified API for scraping, crawling, and searching (compatible with /v1/scrape, /v1/crawl, /v1/search). It runs as a single binary, uses only about 6 MB of RAM, and delivers up to 2.3× the speed of Tavily and 1.5× the speed of Firecrawl on 1,000‑URL benchmarks, making it ideal for AI agents that need a low‑overhead, self‑hosted or managed search backend.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/us/crw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/us/crw) · [← Back to AI/ML](./README.md)</sub>

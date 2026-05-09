@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 158 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 160 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `anthropic` `compression` `context-optimization` `deduplication` `deterministic` `developer-tools` `go` `golang` `llm` `openai` `pinecone`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the Siddhant-K-code/distill project:
-
-The Siddhant-K-code/distill project is an open-source initiative that aims to enhance the reliability of Large Language Model (LLM) outputs by ensuring clean context through deterministic deduplication, compression, and caching of Retrieval-Augmented Generation (RAG) pipelines. This project facilitates efficient and consistent results in AI/ML applications. By streamlining RAG pipeline operations, distill enhances the overall performance and accuracy of LLMs.
+Siddhant‑K‑code/distill provides a lightweight middleware layer that preprocesses context for large‑language‑model applications. It combines deduplication, compression, summarization, and prompt‑cache management into a single, configurable pipeline, helping developers reduce token usage and improve response quality. The tool is open‑source and targets AI/ML, DevTools, and data‑processing workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/Siddhant-K-code/distill) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Siddhant-K-code/distill) · [← Back to AI/ML](./README.md)</sub>

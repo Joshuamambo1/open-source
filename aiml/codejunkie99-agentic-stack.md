@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 244 |
+| 🍴 **Forks** | 252 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The agentic-stack project is an open-source initiative that aims to create a portable, multi-platform AI framework. It allows users to seamlessly transfer their knowledge and skills across various applications, including Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, and others, using a single, portable .agent/ folder. This framework provides a flexible and efficient way to integrate AI capabilities across different platforms and environments.
+The **agentic‑stack** project provides a portable `.agent/` directory that bundles an AI’s memory, skill set, and communication protocols into a single, interchangeable package. By plugging this folder into various back‑ends such as Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or custom Python agents, users can retain the same knowledge and capabilities across different environments without re‑training. It streamlines the development of reusable, “agent‑as‑a‑service” components for AI/ML applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/codejunkie99/agentic-stack) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/codejunkie99/agentic-stack) · [← Back to AI/ML](./README.md)</sub>

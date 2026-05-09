@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4579** |
+| 🗂️ **Total projects** | **4617** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1864 | [Browse →](./aiml/) |
-| 📦 **Misc** | 764 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 450 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 448 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 241 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 228 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 1878 | [Browse →](./aiml/) |
+| 📦 **Misc** | 771 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 458 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 449 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 243 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 230 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 170 | [Browse →](./crypto/) |
-| 📊 **Data** | 101 | [Browse →](./data/) |
-| 💳 **Payments** | 86 | [Browse →](./payments/) |
+| 📊 **Data** | 103 | [Browse →](./data/) |
+| 💳 **Payments** | 87 | [Browse →](./payments/) |
 | 📈 **Trading** | 60 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 54 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 50 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 51 | [Browse →](./mobile/) |
 | 🔐 **Security** | 36 | [Browse →](./security/) |
 | ✨ **Design** | 12 | [Browse →](./design/) |
 | 🎯 **Product** | 10 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [flybywiresim/aircraft](./aiml/flybywiresim-aircraft.md) | ⭐ 5.4k | AI/ML |
-| 2 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.9k | Frontend |
-| 3 | [apache/groovy](./misc/apache-groovy.md) | ⭐ 5.4k | Misc |
-| 4 | [ai-collection/ai-collection](./aiml/ai-collection-ai-collection.md) | ⭐ 8.9k | AI/ML |
-| 5 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
-| 6 | [TeamNewPipe/NewPipe](./mobile/teamnewpipe-newpipe.md) | ⭐ 38k | Mobile |
-| 7 | [alibaba/spring-cloud-alibaba](./frontend/alibaba-spring-cloud-alibaba.md) | ⭐ 29.1k | Frontend |
-| 8 | [Anionex/banana-slides](./aiml/anionex-banana-slides.md) | ⭐ 14.4k | AI/ML |
+| 1 | [navidrome/navidrome](./aiml/navidrome-navidrome.md) | ⭐ 21k | AI/ML |
+| 2 | [flybywiresim/aircraft](./aiml/flybywiresim-aircraft.md) | ⭐ 5.4k | AI/ML |
+| 3 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.9k | Frontend |
+| 4 | [apache/groovy](./misc/apache-groovy.md) | ⭐ 5.4k | Misc |
+| 5 | [TeamNewPipe/NewPipe](./mobile/teamnewpipe-newpipe.md) | ⭐ 38k | Mobile |
+| 6 | [ai-collection/ai-collection](./aiml/ai-collection-ai-collection.md) | ⭐ 8.9k | AI/ML |
+| 7 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
+| 8 | [alibaba/spring-cloud-alibaba](./frontend/alibaba-spring-cloud-alibaba.md) | ⭐ 29.1k | Frontend |
 | 9 | [tw93/Pake](./misc/tw93-pake.md) | ⭐ 48.6k | Misc |
-| 10 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.5k | AI/ML |
+| 10 | [Anionex/banana-slides](./aiml/anionex-banana-slides.md) | ⭐ 14.4k | AI/ML |
 
 ## 🚀 How it works
 

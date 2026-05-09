@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bevy` `bevy-engine` `game-development` `lua` `rhai` `rust` `scripting`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-This project, Bevy Scripting Plugin, is an open-source extension for the Bevy game engine that enables scripting functionality, allowing developers to create and customize game logic without requiring extensive programming knowledge. The plugin aims to bridge the gap between game development and scripting, making it easier for designers and non-programmers to contribute to game development. By leveraging this plugin, developers can focus on creating engaging gameplay experiences while relying on scripting for dynamic and interactive elements.
+The **bevy_mod_scripting** crate adds a flexible scripting layer to the Bevy game engine, allowing developers to write game logic in external languages (such as Lua, Python, or JavaScript) and hot‑reload scripts at runtime. It provides a clean API for registering scriptable components, exposing Bevy’s ECS and resources to the scripting environment, and handling script lifecycle events. This makes it easier to prototype, mod, or extend Bevy projects without recompiling the Rust code.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/makspll/bevy_mod_scripting) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/makspll/bevy_mod_scripting) · [← Back to AI/ML](./README.md)</sub>

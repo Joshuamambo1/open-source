@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20.9k |
+| ⭐ **Stars** | 21k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`airsonic` `madsonic` `media-server` `music` `music-server` `navidrome` `opensubsonic` `raspberry-pi` `self-hosted` `streamer` `streaming-api` `streaming-audio`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Marketing
 
 ## 📝 Summary
 
-Navidrome is an open-source, personal streaming service that allows users to host and manage their own music library. This self-hosted platform provides a seamless and customizable listening experience, free from the constraints of commercial music services. With its flexible and modular design, Navidrome empowers users to take control of their music and create a tailored listening experience.
+Navidrome is an open‑source, self‑hosted music streaming server that lets you organize, browse, and play your personal collection from any device, offering a modern web UI and compatibility with popular clients like Subsonic, AirPlay, and DLNA. Built with Go, it provides a lightweight, high‑performance backend that can be easily deployed on servers, containers, or home NAS, while supporting features such as user authentication, playlists, metadata fetching, and integration with AI‑driven recommendations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/navidrome/navidrome) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/navidrome/navidrome) · [← Back to AI/ML](./README.md)</sub>

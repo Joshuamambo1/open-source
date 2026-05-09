@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 409 |
-| 🍴 **Forks** | 628 |
+| ⭐ **Stars** | 407 |
+| 🍴 **Forks** | 633 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`django` `graphql` `gsoc` `heroui` `nextjs` `python` `react` `rest` `tailwindcss` `typescript` `typescript-react`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-OWASP/Nest is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 62/100.
+OWASP/Nest is an open‑source, AI‑powered front‑end gateway that centralizes access to the entire OWASP ecosystem, allowing users to discover projects, contribute to discussions, and influence the direction of web‑security standards. By combining intelligent recommendations with an intuitive interface, it streamlines community engagement and helps shape the future of secure software development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/OWASP/Nest) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/OWASP/Nest) · [← Back to AI/ML](./README.md)</sub>

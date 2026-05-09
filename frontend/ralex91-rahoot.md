@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 614 |
-| 🍴 **Forks** | 89 |
+| 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`learning` `quizz` `reactjs` `self-hosted` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Rahoot is an open-source, self-hosted quiz platform designed for smaller events. It offers a customizable and user-friendly interface to create, manage, and conduct quizzes, making it an ideal solution for event organizers. With Rahoot, you can host engaging and interactive quizzes in a secure, self-hosted environment.
+Rahoot is a lightweight, self‑hosted quiz platform designed for small‑scale events such as workshops, classrooms, or team‑building sessions. Built with a modern front‑end stack, it lets organizers create and run interactive quizzes in real time without relying on external services. The open‑source project is easy to deploy and customize, making it ideal for anyone who needs a simple, on‑premise solution for live polling and trivia.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/Ralex91/Rahoot) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Ralex91/Rahoot) · [← Back to Frontend](./README.md)</sub>

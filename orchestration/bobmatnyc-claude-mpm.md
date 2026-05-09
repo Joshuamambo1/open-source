@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 126 |
-| 🍴 **Forks** | 25 |
+| 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `claude` `cli` `mcp` `multi-agent` `orchestration` `plugin` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Claude-mpm is an open-source project that serves as a multi-agent project manager for Claude, a platform that enables multi-channel orchestration and plugin management. This project is designed to work in a GitHub-first SDK mode, streamlining the process of building and managing complex AI/ML projects. It offers a highly customizable plugin system, allowing users to extend its functionality and adapt it to their specific needs.
+Claude Multi-Agent Project Manager (claude-mpm) is an open‑source framework that enables multi‑channel orchestration of Claude‑based AI agents, offering a GitHub‑first SDK mode for seamless integration with repositories and a flexible plugin system for extending functionality. It streamlines complex workflows by coordinating multiple Claude instances, making it ideal for developers building AI‑driven automation, DevOps pipelines, and other orchestration‑heavy applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/bobmatnyc/claude-mpm) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/bobmatnyc/claude-mpm) · [← Back to Orchestration](./README.md)</sub>

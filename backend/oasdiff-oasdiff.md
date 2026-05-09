@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 94 |
+| 🍴 **Forks** | 95 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`breaking-changes` `changelog` `diff` `github-actions` `go` `golang` `openapi` `openapi-spec` `openapi-specification` `openapi3` `openapi30` `openapi31`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-oasdiff is an open-source tool designed to compare OpenAPI specifications and identify breaking changes between different versions. This allows developers to easily track and manage changes to their API, ensuring seamless integration and minimizing the risk of compatibility issues. By leveraging oasdiff, teams can maintain a high level of API quality and ensure a smooth transition between API versions.
+oasdiff (oasdiff/oasdiff) is an open‑source Go library and CLI tool that computes differences between two OpenAPI specifications and highlights breaking changes. It helps developers and API teams automate version compatibility checks, generate detailed diff reports, and integrate change detection into CI/CD pipelines. Suitable for backend services that rely on stable, contract‑driven APIs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/oasdiff/oasdiff) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/oasdiff/oasdiff) · [← Back to Backend](./README.md)</sub>

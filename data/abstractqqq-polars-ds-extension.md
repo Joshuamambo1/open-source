@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The polars_ds_extension project is an open-source extension for the Polars library, designed to provide a comprehensive set of tools for data science use cases. This extension offers a broad range of functionality to support data manipulation, analysis, and visualization, making it a valuable asset for data scientists working with Polars. By leveraging this extension, users can unlock advanced data science capabilities within the Polars ecosystem.
+**abstractqqq/polars_ds_extension** is an open‑source Polars extension that adds a suite of utilities and helper functions tailored for everyday data‑science workflows. It provides ready‑to‑use tools for data cleaning, feature engineering, statistical summarization, and seamless integration with popular Python data‑science libraries, making Polars more accessible for general analytics tasks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/abstractqqq/polars_ds_extension) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/abstractqqq/polars_ds_extension) · [← Back to Data](./README.md)</sub>

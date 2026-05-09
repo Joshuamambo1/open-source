@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Tangram is an open-source build system and package manager designed for frontend development. It allows developers to easily manage dependencies, automate build processes, and streamline their workflow. By leveraging Tangram, developers can save time and focus on writing high-quality code.
+Tangram is an open‑source build system and package manager designed for frontend development. It streamlines the process of defining, compiling, and bundling assets while handling dependency resolution and versioning across projects. By integrating both build automation and package management, Tangram simplifies workflow orchestration for modern web applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/tangramdotdev/tangram) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tangramdotdev/tangram) · [← Back to Frontend](./README.md)</sub>

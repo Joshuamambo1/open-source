@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 144 |
+| ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `messenger` `ratatui` `rust` `signal` `signal-cli` `terminal` `tui` `vim`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The siggy project is a terminal-based client for the Signal messenger service, allowing users to access their Signal conversations from the command line. Built with a focus on usability, siggy incorporates vim keybindings to provide a familiar and efficient user experience. This open-source project offers a convenient alternative to the standard Signal desktop application.
+johnsideserf’s **siggy** is a lightweight, terminal‑based client for Signal that brings the speed and efficiency of Vim-style keybindings to secure messaging. It lets users send and receive encrypted chats directly from the command line, making it ideal for developers and power users who prefer a text‑only interface. The project is open source, easy to install, and integrates smoothly with existing Signal accounts.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/johnsideserf/siggy) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/johnsideserf/siggy) · [← Back to Frontend](./README.md)</sub>

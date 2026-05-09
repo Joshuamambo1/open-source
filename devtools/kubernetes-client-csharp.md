@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 311 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the kubernetes-client/csharp project:
-
-The kubernetes-client/csharp project is an open-source, officially supported .NET library for interacting with Kubernetes. It enables developers to easily manage and automate Kubernetes resources using C# code, streamlining DevOps and infrastructure tasks. This library provides a reliable and efficient way to interact with Kubernetes from within .NET applications.
+The **kubernetes-client/csharp** repository provides an officially supported .NET client library for interacting with Kubernetes clusters. It offers strongly‑typed, idiomatic C# APIs for managing resources, watching events, and performing CRUD operations against the Kubernetes API server, making it easy to integrate Kubernetes functionality into .NET applications and tooling. Ideal for developers building DevOps, automation, or cloud‑native solutions on the Microsoft stack.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/kubernetes-client/csharp) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/kubernetes-client/csharp) · [← Back to DevTools](./README.md)</sub>

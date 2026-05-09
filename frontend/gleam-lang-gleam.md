@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 21.4k |
-| 🍴 **Forks** | 957 |
+| 🍴 **Forks** | 960 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `erlang` `gleam` `programming-language` `statically-typed`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Gleam is an open-source, type-safe programming language designed for building scalable systems. It is particularly well-suited for frontend development due to its focus on concurrency and performance. With Gleam, developers can create efficient and robust applications that are easy to maintain and scale.
+Gleam is an open‑source, functional programming language that emphasizes type safety and scalability, allowing developers to build reliable, concurrent systems with confidence. Its friendly syntax and strong static typing make it well‑suited for both backend and frontend projects, while seamless interoperability with existing ecosystems (such as Erlang/OTP) enables smooth integration and rapid development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/gleam-lang/gleam) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/gleam-lang/gleam) · [← Back to Frontend](./README.md)</sub>

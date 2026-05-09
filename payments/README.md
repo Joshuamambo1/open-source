@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**86 projects** in this category.
+**87 projects** in this category.
 
 ## Projects
 
@@ -94,6 +94,7 @@
 | 84 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 47/100 |
 | 85 | [xinggaoya/sing-box-windows](./xinggaoya-sing-box-windows.md) | ⭐ 718 | Rust | 46/100 |
 | 86 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 46/100 |
+| 87 | [itsyebekhe/PSG](./itsyebekhe-psg.md) | ⭐ 341 | HTML | 44/100 |
 
 ---
 

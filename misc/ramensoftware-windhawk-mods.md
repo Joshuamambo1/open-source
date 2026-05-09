@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 801 |
-| 🍴 **Forks** | 311 |
+| ⭐ **Stars** | 803 |
+| 🍴 **Forks** | 319 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Windhawk-mods repository is an open-source collection of community-created modifications for the Windhawk project. This official repository provides users with access to a wide range of user-submitted mods, allowing for customization and extension of the Windhawk project. By hosting these mods in a centralized location, the community can easily discover and contribute new content.
+The **Windhawk Mods** repository (ramensoftware/windhawk-mods) is the official, community‑maintained collection of extensions and customizations for the Windhawk application. It gathers a variety of ready‑to‑use mods that enhance functionality, tweak UI elements, and add new features, all organized for easy discovery and installation. This open‑source project serves as a central hub for users to explore, contribute, and keep their Windhawk experience up to date.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ramensoftware/windhawk-mods) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ramensoftware/windhawk-mods) · [← Back to Misc](./README.md)</sub>

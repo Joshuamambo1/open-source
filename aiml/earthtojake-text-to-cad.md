@@ -1,6 +1,6 @@
 # earthtojake/text-to-cad
 
-[![Stars](https://img.shields.io/github/stars/earthtojake/text-to-cad?style=flat-square&color=yellow)](https://github.com/earthtojake/text-to-cad/stargazers) [![Forks](https://img.shields.io/github/forks/earthtojake/text-to-cad?style=flat-square&color=blue)](https://github.com/earthtojake/text-to-cad/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/earthtojake/text-to-cad?style=flat-square&color=yellow)](https://github.com/earthtojake/text-to-cad/stargazers) [![Forks](https://img.shields.io/github/forks/earthtojake/text-to-cad?style=flat-square&color=blue)](https://github.com/earthtojake/text-to-cad/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > An open source harness for generating CAD models
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 235 |
+| ⭐ **Stars** | 2.3k |
+| 🍴 **Forks** | 276 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3mf` `agents` `ai` `ai-agents` `build123d` `cad` `cad-skill` `dxf` `glb` `mechanical-engineering` `opencascade` `robotics`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The earthtojake/text-to-cad project is an open-source initiative that enables the generation of CAD models using AI/ML technology. By harnessing the power of text-to-CAD capabilities, users can create digital 3D models from textual descriptions, streamlining the design process and reducing the need for manual drafting. This innovative tool has the potential to revolutionize the field of computer-aided design (CAD) and its applications in various industries.
+**earthtojake/text-to-cad** is an open‑source framework that converts natural‑language prompts into 3D CAD models, leveraging AI/ML techniques to interpret user intent and generate geometry automatically. It provides a lightweight frontend interface for interacting with the model generation pipeline, making CAD creation more accessible to designers and developers without requiring deep CAD expertise.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/earthtojake/text-to-cad) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/earthtojake/text-to-cad) · [← Back to AI/ML](./README.md)</sub>

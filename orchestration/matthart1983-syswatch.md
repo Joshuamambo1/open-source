@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 355 |
+| ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the matthart1983/syswatch project:
-
-Syswatch is an open-source, single-host system diagnostics tool that provides a simple, text-based user interface (TUI) for monitoring system performance. This project offers 12 informative tabs that present system insights in plain English, allowing users to quickly identify potential issues. Available on both macOS and Linux, syswatch is a valuable tool for system administrators and developers seeking a streamlined diagnostics experience.
+matthart1983/syswatch is a terminal‑based user interface that provides comprehensive, single‑host system diagnostics across macOS and Linux. Featuring twelve organized tabs, plain‑English insights, and a session scrubber, it delivers real‑time monitoring and troubleshooting in a lightweight, TUI format. As a sibling to netwatch, it bridges orchestration, AI‑enhanced analysis, and frontend usability for developers and sysadmins.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/matthart1983/syswatch) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/matthart1983/syswatch) · [← Back to Orchestration](./README.md)</sub>

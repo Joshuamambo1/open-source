@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 125 |
+| ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`learn-skills` `skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The learn-skills.dev project provides a curated repository of high-quality AI agent skills, allowing users to easily search, install, copy, and share them across various AI coding tools. This open-source platform supports integrations with Claude Code, Cursor, OpenClaw, and other popular AI development tools, facilitating seamless collaboration and skill management. By streamlining the process of discovering and leveraging AI capabilities, learn-skills.dev empowers developers to build more sophisticated and effective AI applications.
+NeverSight/learn‑skills.dev is an open‑source repository that curates a library of high‑quality AI agent “skills” for rapid reuse across coding assistants. It provides searchable, installable, copy‑and‑shareable skill definitions that integrate seamlessly with Claude Code, Cursor, OpenClaw and other AI‑driven development tools, streamlining orchestration of complex workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/NeverSight/learn-skills.dev) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/NeverSight/learn-skills.dev) · [← Back to Orchestration](./README.md)</sub>

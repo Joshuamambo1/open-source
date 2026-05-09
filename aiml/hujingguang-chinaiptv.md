@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 219 |
+| 🍴 **Forks** | 222 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a summary of the open-source project in English:
-
-ChinaIPTV is an open-source project that provides a list of Chinese television live streaming sources in the m3u format, updated in real-time with long-term validity. This project aims to facilitate access to Chinese television channels for users worldwide. It can be useful for users interested in Chinese content, such as news, entertainment, and educational programs.
+**ChinaIPTV** is an open‑source repository that provides a continuously updated collection of Chinese live TV streaming URLs in M3U format, ensuring long‑term usability for viewers and developers. While primarily a media resource, the project is categorized under AI/ML, indicating potential integration with intelligent recommendation or content‑analysis tools. It serves as a convenient, ready‑to‑use database for anyone building IPTV applications or researching Chinese broadcast media.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/hujingguang/ChinaIPTV) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/hujingguang/ChinaIPTV) · [← Back to AI/ML](./README.md)</sub>

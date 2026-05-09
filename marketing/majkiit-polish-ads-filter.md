@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 725 |
+| ⭐ **Stars** | 726 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Adblock Filter List |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ad-blocker` `adblock` `adblock-plus` `adguard` `adguard-windows` `blocker` `ciasteczka` `cookies` `filter` `filtry` `hosts` `hosts-file`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Marketing
 
 ## 📝 Summary
 
-Here's a summary of the project in 2-3 sentences:
-
-The polish-ads-filter project provides official Polish filters for popular ad-blocking software such as Adblock, uBlock Origin, and Adguard. These filters are designed to block unwanted advertisements and improve the user experience for Polish-language web users. Maintained by CertyficateIT, this open-source project aims to promote a cleaner and more secure online browsing environment.
+MajkiIT/polish-ads-filter is an open‑source repository that provides officially curated Polish ad‑blocking lists for popular extensions such as Adblock, uBlock Origin, and AdGuard. Maintained by CertyficateIT, the project offers region‑specific filters to block advertisements, trackers, and unwanted content on Polish websites, improving browsing speed and privacy. It is categorized under Marketing, reflecting its focus on enhancing user experience through targeted ad filtration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/MajkiIT/polish-ads-filter) · [← Back to Marketing](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/MajkiIT/polish-ads-filter) · [← Back to Marketing](./README.md)</sub>

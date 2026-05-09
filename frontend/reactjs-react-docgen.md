@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 314 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docgen` `documentation` `json` `react` `reactjs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-React DocGen is an open-source project that enables the extraction of metadata from React component files for seamless documentation generation. This project provides a command-line interface (CLI) and a library that can be integrated into various workflows, making it an essential tool for frontend developers who need to maintain accurate and up-to-date documentation. By leveraging React DocGen, developers can automate the process of generating documentation for their React components.
+react-docgen is a CLI tool and library that parses React component source files to automatically extract metadata such as prop types, default values, and documentation comments. It enables developers to generate accurate, up‑to‑date component documentation without manual bookkeeping, and integrates easily into build pipelines and documentation generators. Suitable for frontend projects and developer tooling ecosystems.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/reactjs/react-docgen) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/reactjs/react-docgen) · [← Back to Frontend](./README.md)</sub>

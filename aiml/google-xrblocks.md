@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 390 |
-| 🍴 **Forks** | 75 |
+| ⭐ **Stars** | 391 |
+| 🍴 **Forks** | 76 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`androidxr` `gemini` `gestures` `litert` `tensorflow` `webai` `webxr` `xrblocks`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the google/xrblocks project:
-
-XR Blocks is an open-source library that enables rapid prototyping of advanced AI and WebXR experiences. This lightweight library combines AI and WebXR capabilities to facilitate the creation of immersive and interactive applications. By leveraging XR Blocks, developers can quickly build and test innovative AI + XR experiences.
+XR Blocks (google/xrblocks) is a lightweight open‑source library that combines WebXR capabilities with AI tools, enabling developers to quickly prototype immersive mixed‑reality experiences powered by machine‑learning models. It provides a streamlined backend and mobile‑friendly API for integrating real‑time computer‑vision, gesture recognition, and other AI-driven interactions directly into WebXR applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/google/xrblocks) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/google/xrblocks) · [← Back to AI/ML](./README.md)</sub>

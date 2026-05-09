@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | PowerShell |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`edge` `electron` `macos` `macosx` `microsoft` `microsoft-teams` `microsoft-windows` `office` `office-365` `office365` `osx` `powershell`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-This open-source project, MicrosoftTeams-msinternal, enables users to download the latest internal build of Microsoft Teams using a PowerShell script. The tool offers an alternative to traditional methods for accessing Microsoft Teams internal builds, making it a valuable resource for developers and users seeking early access to new features. By leveraging this project, users can stay up-to-date with the latest Microsoft Teams build and explore new functionality.
+ItzLevvie / MicrosoftTeams‑msinternal is a lightweight PowerShell‑based utility that lets users download the newest internal (preview) builds of Microsoft Teams directly from Microsoft’s internal feed. By automating the retrieval and installation process, the tool provides developers and power users with quick access to the latest features and bug fixes for testing and experimentation. It’s packaged as an open‑source DevTools script with a simple front‑end interface for selecting and fetching the desired Teams version.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ItzLevvie/MicrosoftTeams-msinternal) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ItzLevvie/MicrosoftTeams-msinternal) · [← Back to Frontend](./README.md)</sub>

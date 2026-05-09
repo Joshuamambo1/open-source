@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`buck` `buck2` `starlark`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Reindeer is an open-source tool that automates the process of transforming Rust Cargo dependencies into generated Buck build rules. This allows developers to integrate Rust libraries into their existing Buck-based build pipelines with ease. By simplifying the build process, Reindeer streamlines development and deployment workflows for projects that utilize both Rust and Buck.
+Reindeer is an open‑source utility that scans a Rust project's Cargo manifest and automatically generates corresponding Buck build rules, streamlining the integration of Rust dependencies into Buck‑based build systems. By converting Cargo crates into Buck targets, it eliminates manual rule authoring and keeps the build graph in sync with the project's Cargo configuration. Suitable for teams using Buck for front‑end or full‑stack development who want seamless Rust support.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/facebookincubator/reindeer) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/facebookincubator/reindeer) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`managed-by-terraform` `team-crypto`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-World Chain is an open-source monorepo project that integrates cutting-edge technologies in crypto, AI/ML, and DevOps/Infra to revolutionize the way blockchain systems operate. This project aims to provide a scalable and secure foundation for World Coin, a cryptocurrency that leverages AI and machine learning to enhance its functionality and usability. By contributing to World Chain, developers can collaborate on a groundbreaking project that pushes the boundaries of blockchain innovation.
+World Chain is an open‑source monorepo that provides the core infrastructure and tooling for the Worldcoin ecosystem. It consolidates blockchain protocols, smart‑contract libraries, and DevOps utilities—leveraging cryptographic primitives and AI‑enhanced components—to enable scalable, decentralized applications and token operations. The project serves developers and operators looking to build, deploy, and maintain Worldcoin‑compatible services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/worldcoin/world-chain) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/worldcoin/world-chain) · [← Back to Crypto](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`btree-index` `bufferpool` `copy-on-write` `database` `storage` `transaction-management`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the DoraDB open-source project:
-
-DoraDB, a Rust-based storage engine, is an open-source project providing a scalable and flexible storage solution. This project is designed for various use cases such as AI and ML applications, where efficient data storage and management are crucial. By leveraging Rust's performance capabilities, DoraDB aims to deliver high-speed data storage and manipulation.
+DoraDB is an open‑source storage engine written in Rust, designed to provide a fast, reliable, and type‑safe foundation for data‑intensive applications. Leveraging Rust’s memory safety and zero‑cost abstractions, it offers a modern API for building AI/ML pipelines and other data‑centric workloads while ensuring high performance and minimal runtime overhead.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/jiangzhe/doradb) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jiangzhe/doradb) · [← Back to AI/ML](./README.md)</sub>

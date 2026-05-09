@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 164 |
-| 🍴 **Forks** | 18 |
+| ⭐ **Stars** | 195 |
+| 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `gtm` `hermes-agent` `openclaw-skills` `skills` `technical-seo`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The opendirectory project is an open-source initiative that provides AI Agent Skills for GTM (Go-To-Market), Technical Marketing, and growth automation. These skills are designed to be highly adaptable and can be easily orchestrated to streamline various business processes. This innovative project aims to leverage AI and ML capabilities to enhance marketing and growth strategies.
+Varnan‑Tech’s **opendirectory** is an open‑source collection of AI‑driven agent skills designed to streamline go‑to‑market, technical marketing, and growth‑automation workflows. By exposing reusable, orchestrated capabilities that integrate with front‑end interfaces and AI/ML pipelines, it enables teams to automate repetitive tasks, enrich data, and accelerate product launch cycles. The project is organized for easy extension and can be incorporated into broader orchestration platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Varnan-Tech/opendirectory) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Varnan-Tech/opendirectory) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 239 |
+| ⭐ **Stars** | 240 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `github-actions` `linter` `oss` `security`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the GitHub Actions linter project:
-
-Ghalint is an open-source GitHub Actions linter designed to ensure the quality and security of workflows and actions on GitHub. It helps developers catch errors, improve code maintainability, and adhere to best practices, ultimately reducing the risk of workflow failures and security vulnerabilities. With ghalint, developers can write more reliable and maintainable GitHub Actions.
+suzuki‑shunsuke/ghalint is an open‑source linter designed to analyze GitHub Actions workflow files for potential security and best‑practice issues. It scans YAML definitions, flags risky configurations (such as insecure permissions, use of deprecated actions, or exposure of secrets), and provides actionable suggestions to harden CI/CD pipelines. The tool integrates easily into CI workflows, helping developers catch problems early and maintain more secure, maintainable GitHub Actions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/suzuki-shunsuke/ghalint) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/suzuki-shunsuke/ghalint) · [← Back to DevTools](./README.md)</sub>

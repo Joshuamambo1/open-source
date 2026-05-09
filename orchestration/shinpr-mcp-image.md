@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `ai-tools` `claude-code` `codex` `cursor` `gemini` `generative-ai` `gpt-image-2` `image-editing` `image-generation` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The shinpr/mcp-image project is an open-source MCP server that enables AI-powered image generation and editing capabilities, featuring automatic prompt optimization and customizable quality settings. Built on the Gemini platform, it supports the Nano Banana 2 and Pro models, allowing for efficient and high-quality image processing. This project is ideal for developers and artists seeking to integrate AI-driven image editing into their workflows.
+Shinpr/mcp-image is an open‑source MCP server that streamlines AI‑based image generation and editing by automatically optimizing prompts and applying quality presets. It leverages Gemini models (Nano Banana 2 & Pro) for core processing, with optional support for OpenAI GPT‑based image generation. Designed for orchestration, AI/ML, and backend workflows, the project provides a flexible, plug‑and‑play solution for high‑quality, automated visual content creation.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/shinpr/mcp-image) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/shinpr/mcp-image) · [← Back to Orchestration](./README.md)</sub>

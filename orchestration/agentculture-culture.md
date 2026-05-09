@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 77 |
-| 🍴 **Forks** | 5 |
+| ⭐ **Stars** | 81 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `agents` `ai-first` `ai-first-development` `local-first` `workspace`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Culture is an open-source project that provides a professional workspace for humans and AI agents, enabling seamless collaboration and orchestration. This platform empowers developers to integrate AI models into their workflows, streamlining tasks and enhancing productivity. By merging human expertise with AI capabilities, Culture fosters a more efficient and innovative work environment.
+AgentCulture (Culture) is an open‑source platform that creates a shared, professional workspace where human users and AI agents can collaborate seamlessly. It provides orchestration tools for defining, deploying, and managing AI‑driven workflows, enabling agents to act as teammates that assist with tasks, share context, and enhance productivity. The project targets developers and organizations looking to integrate AI/ML capabilities into everyday work environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/agentculture/culture) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/agentculture/culture) · [← Back to Orchestration](./README.md)</sub>

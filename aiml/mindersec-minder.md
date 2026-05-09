@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`security` `software-supply-chain` `software-supply-chain-security` `supply-chain`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-The minder project is an open-source Software Supply Chain Security Platform designed to help organizations protect themselves from potential security threats by monitoring and analyzing their software dependencies. This platform leverages AI/ML capabilities to identify vulnerabilities and risks within the software supply chain, enabling proactive defense against cyber attacks. By utilizing minder, developers can ensure the integrity and security of their software ecosystem.
+mindersec/minder is an open‑source platform designed to secure the software supply chain by providing continuous monitoring, risk assessment, and compliance automation for libraries, containers, and build pipelines. Leveraging AI/ML techniques, it detects vulnerable components, suspicious code patterns, and policy violations, then offers actionable remediation guidance. The tool integrates with popular CI/CD systems and registries, helping teams enforce security standards throughout the development lifecycle.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/mindersec/minder) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/mindersec/minder) · [← Back to AI/ML](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 253 |
+| ⭐ **Stars** | 258 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-RepoLens is an open-source, multi-lens code audit tool that leverages 280 expert AI agents to perform thorough code reviews, security testing, and infrastructure auditing. This comprehensive platform empowers developers and security teams to identify potential vulnerabilities and optimize their codebase with unparalleled precision. By harnessing the power of AI, RepoLens streamlines the auditing process, enabling users to build more secure, reliable, and maintainable software applications.
+TheMorpheus407/RepoLens is an open‑source, multi‑lens auditing platform that employs a fleet of ≈280 specialized AI agents to perform comprehensive code reviews, security testing, and infrastructure assessments. By parallelizing expert analyses across different domains (static analysis, dependency scanning, cloud‑config checks, etc.), RepoLens delivers fast, automated, and highly detailed audit reports for any repository. It’s positioned at the intersection of AI/ML, developer tooling, and DevOps/infra automation.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/TheMorpheus407/RepoLens) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/TheMorpheus407/RepoLens) · [← Back to AI/ML](./README.md)</sub>

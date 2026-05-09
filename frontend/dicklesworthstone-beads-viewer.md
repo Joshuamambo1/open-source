@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 122 |
+| 🍴 **Forks** | 123 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-tools` `go` `graph-analysis` `issue-tracker` `tui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the "beads_viewer" project:
-
-Beads Viewer is a graph-aware text-based user interface (TUI) for the Beads issue tracker, providing a comprehensive platform for project management and visualization. It offers features such as PageRank, critical path analysis, kanban boards, and dependency DAG visualization, making it easier to monitor and optimize project workflows. Additionally, the tool includes a robot-mode JSON API for automating tasks and integrating with other systems.
+Dicklesworthstone’s **beads_viewer** is a terminal‑based user interface that visualizes data from the Beads issue tracker in a graph‑aware way. It provides interactive views such as PageRank rankings, critical‑path analysis, kanban boards, and dependency DAGs, while also offering a “robot‑mode” JSON API for automated tooling. The project spans both frontend (TUI rendering) and backend (data processing and API) components, making it a handy dev‑tool for tracking and managing complex issue networks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Dicklesworthstone/beads_viewer) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Dicklesworthstone/beads_viewer) · [← Back to Frontend](./README.md)</sub>

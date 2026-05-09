@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agentic-workflow` `claude` `game-development` `gamedev` `gemini` `llms` `mcp` `multi-agent-simulation` `openai` `openclaw` `python3`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Strada.Brain is an open-source AI-powered autonomous coding agent designed for Unity and Strada.Core. It utilizes a PAOR agent loop to provide a wide range of tools, including RAG code analysis and persistent memory, allowing for continuous software development and maintenance. This multi-channel agent offers seamless communication and orchestration through various platforms, including Web and popular messaging services.
+Strada.Brain is an open‑source, AI‑driven autonomous coding agent built for Unity and the Strada.Core ecosystem. It runs a PAOR (Plan‑Act‑Observe‑Reflect) loop backed by over 40 specialized tools, RAG over C# codebases, persistent HNSW vector memory, and a SOUL.md personality system, while supporting multi‑channel interaction (Web, Telegram, Discord, Slack, WhatsApp), 24/7 daemon mode, and coordinated multi‑agent orchestration.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/okandemirel/Strada.Brain) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/okandemirel/Strada.Brain) · [← Back to Orchestration](./README.md)</sub>

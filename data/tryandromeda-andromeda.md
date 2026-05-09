@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 816 |
+| ⭐ **Stars** | 817 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`andromeda` `data-oriented-design` `javascript` `javascript-runtime` `js` `nova` `object-oriented-programming` `runtime` `rust` `ts` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · Design
 
 ## 📝 Summary
 
-Andromeda is an open-source JavaScript runtime that aims to provide a flexible and efficient environment for running JavaScript code. It offers a unique approach to data handling and design, making it an attractive option for developers looking to streamline their projects. With its open-source nature, the community can contribute to and benefit from the project's ongoing development.
+**Andromeda** is an open‑source JavaScript runtime that aims to provide a lightweight, extensible environment for executing JavaScript code outside the browser. Designed with a focus on simplicity and modularity, it offers developers a customizable platform that can be integrated into data processing pipelines and design tooling. The project is community‑driven and welcomes contributions that enhance performance, add language features, or expand its ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/tryandromeda/andromeda) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tryandromeda/andromeda) · [← Back to Data](./README.md)</sub>

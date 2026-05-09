@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The coregit-api project is an open-source, serverless Git API designed specifically for use by AI agents. This innovative platform enables AI systems to interact seamlessly with Git repositories, simplifying the development and deployment of AI-powered applications. By providing a flexible and scalable interface to Git, coregit-api empowers AI agents to version control, collaborate, and leverage the power of Git in a secure and efficient manner.
+coregit-inc/coregit-api is a serverless API that provides full Git functionality—such as repository creation, commits, branching, and pull‑request handling—exposed through lightweight HTTP endpoints. Designed for AI agents and automation workflows, it runs on cloud functions (e.g., AWS Lambda, Vercel) and eliminates the need for a dedicated Git server, enabling seamless integration of version‑control operations into AI/ML pipelines and backend services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/coregit-inc/coregit-api) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/coregit-inc/coregit-api) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.3k |
+| ⭐ **Stars** | 25.6k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gguf` `llm` `localai` `mlx` `skill` `unsloth`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The LLMFit project, an open-source initiative by AlexsJones, aims to simplify the process of finding and utilizing large language models (LLMs) by providing a unified command to identify compatible models on a given hardware. With hundreds of models and providers to choose from, this project streamlines the workflow for developers and researchers in the field of AI and machine learning. By leveraging LLMFit, users can efficiently discover and deploy LLMs tailored to their system's capabilities.
+AlexsJones/llmfit is an open‑source utility that scans dozens of large‑language‑model (LLM) architectures and cloud providers, automatically detecting which models can run on your local hardware. With a single command it lists compatible models, their resource requirements, and the best provider options, making it easy to experiment with AI/ML without manual compatibility checks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/AlexsJones/llmfit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/AlexsJones/llmfit) · [← Back to AI/ML](./README.md)</sub>

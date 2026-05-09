@@ -2,7 +2,7 @@
 
 > Developer productivity, editors, workflow
 
-**249 projects** in this category.
+**253 projects** in this category.
 
 ## Projects
 
@@ -210,53 +210,57 @@
 | 200 | [KATO-Hiro/AtCoderClans](./kato-hiro-atcoderclans.md) | ⭐ 140 | Shell | 51/100 |
 | 201 | [timothebot/lacy](./timothebot-lacy.md) | ⭐ 175 | Rust | 51/100 |
 | 202 | [azat-io/actions-up](./azat-io-actions-up.md) | ⭐ 523 | TypeScript | 51/100 |
-| 203 | [ehmicky/nvexeca](./ehmicky-nvexeca.md) | ⭐ 48 | JavaScript | 50/100 |
-| 204 | [hivemq/mqtt-cli](./hivemq-mqtt-cli.md) | ⭐ 361 | Java | 50/100 |
-| 205 | [kantord/blogtato](./kantord-blogtato.md) | ⭐ 224 | Rust | 50/100 |
-| 206 | [34j/decryptpdf](./34j-decryptpdf.md) | ⭐ 33 | Python | 50/100 |
-| 207 | [newrelic/newrelic-cli](./newrelic-newrelic-cli.md) | ⭐ 141 | Go | 50/100 |
-| 208 | [snowflakedb/snowflake-cli](./snowflakedb-snowflake-cli.md) | ⭐ 250 | Python | 50/100 |
-| 209 | [chenxin-yan/crust](./chenxin-yan-crust.md) | ⭐ 381 | TypeScript | 50/100 |
-| 210 | [apollographql/rover](./apollographql-rover.md) | ⭐ 445 | Rust | 50/100 |
-| 211 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 395 | Go | 50/100 |
-| 212 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 50/100 |
-| 213 | [meshtastic/Meshtastic-Apple](./meshtastic-meshtastic-apple.md) | ⭐ 776 | Swift | 49/100 |
-| 214 | [test-summary/action](./test-summary-action.md) | ⭐ 438 | TypeScript | 49/100 |
-| 215 | [russellbanks/Komac](./russellbanks-komac.md) | ⭐ 430 | Rust | 48/100 |
-| 216 | [jreisinger/checkip](./jreisinger-checkip.md) | ⭐ 247 | Go | 48/100 |
-| 217 | [xvitaly/zswap-cli](./xvitaly-zswap-cli.md) | ⭐ 40 | C++ | 48/100 |
-| 218 | [suzuki-shunsuke/ghalint](./suzuki-shunsuke-ghalint.md) | ⭐ 240 | Go | 48/100 |
-| 219 | [petdance/altbox](./petdance-altbox.md) | ⭐ 52 | Astro | 48/100 |
-| 220 | [ekristen/cast](./ekristen-cast.md) | ⭐ 138 | Go | 48/100 |
-| 221 | [suzuki-shunsuke/tfcmt](./suzuki-shunsuke-tfcmt.md) | ⭐ 528 | Go | 48/100 |
-| 222 | [Dicklesworthstone/asupersync](./dicklesworthstone-asupersync.md) | ⭐ 165 | Rust | 48/100 |
-| 223 | [CharlesWiltgen/Axiom](./charleswiltgen-axiom.md) | ⭐ 891 | Go | 47/100 |
-| 224 | [getreu/tp-note](./getreu-tp-note.md) | ⭐ 143 | Rust | 47/100 |
-| 225 | [anistark/feluda](./anistark-feluda.md) | ⭐ 451 | Rust | 47/100 |
-| 226 | [PSeitz/lz4_flex](./pseitz-lz4-flex.md) | ⭐ 594 | Rust | 47/100 |
-| 227 | [nuxt/cli](./nuxt-cli.md) | ⭐ 384 | TypeScript | 47/100 |
-| 228 | [jdx/hk](./jdx-hk.md) | ⭐ 833 | Rust | 47/100 |
-| 229 | [indaco/malt](./indaco-malt.md) | ⭐ 104 | Zig | 47/100 |
-| 230 | [frostwire/frostwire](./frostwire-frostwire.md) | ⭐ 587 | Java | 47/100 |
-| 231 | [neutralinojs/neutralinojs-cli](./neutralinojs-neutralinojs-cli.md) | ⭐ 115 | JavaScript | 46/100 |
-| 232 | [suzuki-shunsuke/ghtkn](./suzuki-shunsuke-ghtkn.md) | ⭐ 143 | Go | 46/100 |
-| 233 | [mvanhorn/printing-press-library](./mvanhorn-printing-press-library.md) | ⭐ 618 | Go | 45/100 |
-| 234 | [suzuki-shunsuke/tfmv](./suzuki-shunsuke-tfmv.md) | ⭐ 159 | Go | 45/100 |
-| 235 | [Kelsidavis/WoWee](./kelsidavis-wowee.md) | ⭐ 417 | C++ | 45/100 |
-| 236 | [Dokploy/cli](./dokploy-cli.md) | ⭐ 106 | TypeScript | 45/100 |
-| 237 | [openabdev/openab](./openabdev-openab.md) | ⭐ 436 | Rust | 45/100 |
-| 238 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
-| 239 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
-| 240 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
-| 241 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 569 | Rust | 44/100 |
-| 242 | [salesforcecli/cli](./salesforcecli-cli.md) | ⭐ 168 | TypeScript | 44/100 |
-| 243 | [gildas/bitbucket-cli](./gildas-bitbucket-cli.md) | ⭐ 43 | Go | 44/100 |
-| 244 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
-| 245 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 43/100 |
-| 246 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
-| 247 | [SableClient/Sable](./sableclient-sable.md) | ⭐ 189 | TypeScript | 42/100 |
-| 248 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
-| 249 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
+| 203 | [rafi/awesome-cli-binaries](./rafi-awesome-cli-binaries.md) | ⭐ 45 | Lua | 50/100 |
+| 204 | [ehmicky/nvexeca](./ehmicky-nvexeca.md) | ⭐ 48 | JavaScript | 50/100 |
+| 205 | [hivemq/mqtt-cli](./hivemq-mqtt-cli.md) | ⭐ 361 | Java | 50/100 |
+| 206 | [kantord/blogtato](./kantord-blogtato.md) | ⭐ 224 | Rust | 50/100 |
+| 207 | [34j/decryptpdf](./34j-decryptpdf.md) | ⭐ 33 | Python | 50/100 |
+| 208 | [newrelic/newrelic-cli](./newrelic-newrelic-cli.md) | ⭐ 141 | Go | 50/100 |
+| 209 | [snowflakedb/snowflake-cli](./snowflakedb-snowflake-cli.md) | ⭐ 250 | Python | 50/100 |
+| 210 | [chenxin-yan/crust](./chenxin-yan-crust.md) | ⭐ 381 | TypeScript | 50/100 |
+| 211 | [apollographql/rover](./apollographql-rover.md) | ⭐ 445 | Rust | 50/100 |
+| 212 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 395 | Go | 50/100 |
+| 213 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 50/100 |
+| 214 | [rust-lang/portable-simd](./rust-lang-portable-simd.md) | ⭐ 1k | Rust | 49/100 |
+| 215 | [VirtusLab/scala-cli](./virtuslab-scala-cli.md) | ⭐ 635 | Scala | 49/100 |
+| 216 | [meshtastic/Meshtastic-Apple](./meshtastic-meshtastic-apple.md) | ⭐ 776 | Swift | 49/100 |
+| 217 | [test-summary/action](./test-summary-action.md) | ⭐ 438 | TypeScript | 49/100 |
+| 218 | [russellbanks/Komac](./russellbanks-komac.md) | ⭐ 430 | Rust | 48/100 |
+| 219 | [jreisinger/checkip](./jreisinger-checkip.md) | ⭐ 247 | Go | 48/100 |
+| 220 | [xvitaly/zswap-cli](./xvitaly-zswap-cli.md) | ⭐ 40 | C++ | 48/100 |
+| 221 | [suzuki-shunsuke/ghalint](./suzuki-shunsuke-ghalint.md) | ⭐ 240 | Go | 48/100 |
+| 222 | [petdance/altbox](./petdance-altbox.md) | ⭐ 52 | Astro | 48/100 |
+| 223 | [ekristen/cast](./ekristen-cast.md) | ⭐ 138 | Go | 48/100 |
+| 224 | [suzuki-shunsuke/tfcmt](./suzuki-shunsuke-tfcmt.md) | ⭐ 528 | Go | 48/100 |
+| 225 | [Dicklesworthstone/asupersync](./dicklesworthstone-asupersync.md) | ⭐ 165 | Rust | 48/100 |
+| 226 | [CharlesWiltgen/Axiom](./charleswiltgen-axiom.md) | ⭐ 891 | Go | 47/100 |
+| 227 | [getreu/tp-note](./getreu-tp-note.md) | ⭐ 143 | Rust | 47/100 |
+| 228 | [anistark/feluda](./anistark-feluda.md) | ⭐ 451 | Rust | 47/100 |
+| 229 | [PSeitz/lz4_flex](./pseitz-lz4-flex.md) | ⭐ 594 | Rust | 47/100 |
+| 230 | [nuxt/cli](./nuxt-cli.md) | ⭐ 384 | TypeScript | 47/100 |
+| 231 | [jdx/hk](./jdx-hk.md) | ⭐ 833 | Rust | 47/100 |
+| 232 | [indaco/malt](./indaco-malt.md) | ⭐ 104 | Zig | 47/100 |
+| 233 | [frostwire/frostwire](./frostwire-frostwire.md) | ⭐ 587 | Java | 47/100 |
+| 234 | [neutralinojs/neutralinojs-cli](./neutralinojs-neutralinojs-cli.md) | ⭐ 115 | JavaScript | 46/100 |
+| 235 | [suzuki-shunsuke/ghtkn](./suzuki-shunsuke-ghtkn.md) | ⭐ 143 | Go | 46/100 |
+| 236 | [mvanhorn/printing-press-library](./mvanhorn-printing-press-library.md) | ⭐ 618 | Go | 45/100 |
+| 237 | [suzuki-shunsuke/tfmv](./suzuki-shunsuke-tfmv.md) | ⭐ 159 | Go | 45/100 |
+| 238 | [Kelsidavis/WoWee](./kelsidavis-wowee.md) | ⭐ 417 | C++ | 45/100 |
+| 239 | [Dokploy/cli](./dokploy-cli.md) | ⭐ 106 | TypeScript | 45/100 |
+| 240 | [openabdev/openab](./openabdev-openab.md) | ⭐ 436 | Rust | 45/100 |
+| 241 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
+| 242 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
+| 243 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
+| 244 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 569 | Rust | 44/100 |
+| 245 | [salesforcecli/cli](./salesforcecli-cli.md) | ⭐ 168 | TypeScript | 44/100 |
+| 246 | [gildas/bitbucket-cli](./gildas-bitbucket-cli.md) | ⭐ 43 | Go | 44/100 |
+| 247 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
+| 248 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 43/100 |
+| 249 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
+| 250 | [SableClient/Sable](./sableclient-sable.md) | ⭐ 189 | TypeScript | 42/100 |
+| 251 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
+| 252 | [jher7/tokenyst](./jher7-tokenyst.md) | ⭐ — | — | 39/100 |
+| 253 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
 
 ---
 

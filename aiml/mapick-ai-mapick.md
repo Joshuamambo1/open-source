@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `claude` `claude-skills` `clawhub` `openclaw` `openclaw-skill` `privacy` `redaction` `skill-management`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the mapick-ai/mapick project:
-
-Mapick is an open-source project that provides a comprehensive privacy layer and skill advisor for OpenClaw. It offers features such as local secret redaction, skill recommendation based on workflow, zombie cleanup, risk scoring, persona generation, and bundle shipping. This project is built on the MIT license and utilizes AI/ML technologies.
+Mapick Butler is an open‑source privacy and skill‑advisory layer for OpenClaw that runs locally to redact secrets, clean up unused (“zombie”) resources, and assess risk. It also recommends workflow‑compatible skills, generates user personas, scores security posture, and packages everything into ready‑to‑ship bundles. Licensed under MIT, it serves as a backend AI/ML utility for secure, streamlined development.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/mapick-ai/mapick) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/mapick-ai/mapick) · [← Back to AI/ML](./README.md)</sub>

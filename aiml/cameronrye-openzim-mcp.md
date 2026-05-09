@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 57 |
-| 🍴 **Forks** | 10 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`kiwix` `mcp` `mcp-server` `openzim` `zim`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The open-source project "openzim-mcp" is a high-performance MCP server that provides offline access to ZIM format knowledge bases for AI models. This secure and modern server enables AI applications to efficiently search and query large-scale knowledge bases, even in areas with limited internet connectivity. By utilizing the ZIM format, users can leverage a vast repository of knowledge and information in a decentralized manner.
+OpenZIM MCP is a modern, secure, high‑performance server that implements the Model Context Protocol (MCP) to let AI models query ZIM‑format knowledge bases without an internet connection. It provides fast, offline search and retrieval of structured content, making it ideal for embedding large reference collections into AI applications. The project is written for backend use and is released under an open‑source license.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/cameronrye/openzim-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/cameronrye/openzim-mcp) · [← Back to AI/ML](./README.md)</sub>

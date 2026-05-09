@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 102 |
+| ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the stakwork/stakgraph project:
-
-Stakgraph is an open-source project that leverages advanced technologies such as treesitter, LSP, and Neo4j to parse source code and construct powerful software knowledge graphs. These knowledge graphs serve as a foundation for AI agents to understand and interact with software systems at a deeper level, enabling more informed decision-making and improved software development experiences. By utilizing this project, developers can unlock new capabilities for their AI-powered tools and applications.
+Stakgraph is an open‑source tool that parses source code with Tree‑Sitter, enriches the results via Language Server Protocol (LSP) diagnostics, and stores the extracted structural data in a Neo4j graph database. By converting codebases into rich software knowledge graphs, it enables AI agents to reason about, navigate, and query code more intelligently. The project sits at the intersection of AI/ML and developer tooling, providing a foundation for advanced code‑understanding applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/stakwork/stakgraph) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/stakwork/stakgraph) · [← Back to AI/ML](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The portable-simd project is an open-source testing ground for the future of portable SIMD (Single Instruction, Multiple Data) in Rust, allowing developers to experiment with and contribute to the development of this technology. This project aims to provide a common and standardized interface for SIMD operations across different hardware platforms. By contributing to portable-simd, developers can help shape the future of SIMD in Rust.
+Portable SIMD is an experimental Rust library that provides a unified, cross‑platform API for writing vectorized code using SIMD (Single Instruction, Multiple Data) instructions. It abstracts away architecture‑specific details, allowing developers to write high‑performance, data‑parallel algorithms that compile to efficient SIMD instructions on any supported CPU. The project serves as the testing ground for Rust’s future portable‑SIMD support and is actively developed as a DevTools resource for the community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/rust-lang/portable-simd) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/rust-lang/portable-simd) · [← Back to DevTools](./README.md)</sub>

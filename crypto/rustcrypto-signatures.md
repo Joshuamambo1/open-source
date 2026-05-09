@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 632 |
+| ⭐ **Stars** | 633 |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dsa` `ecdsa` `ed25519` `rust` `signatures`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-The RustCrypto/signatures project is an open-source library that provides a collection of cryptographic signature algorithms, including DSA (Digital Signature Algorithm), ECDSA (Elliptic Curve Digital Signature Algorithm), and Ed25519. These algorithms enable secure digital signatures and authentication in various cryptographic applications. By providing a standardized and efficient implementation of these algorithms, the project facilitates secure data verification and authentication in software systems.
+RustCrypto’s **signatures** crate provides pure‑Rust implementations of widely used cryptographic signature schemes, including DSA, ECDSA, and Ed25519. It offers a clean, algorithm‑agnostic API that integrates with the broader RustCrypto ecosystem, supporting both signing and verification with safe, constant‑time operations. The library is fully open‑source, well‑tested, and suitable for security‑critical applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/RustCrypto/signatures) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/RustCrypto/signatures) · [← Back to Crypto](./README.md)</sub>

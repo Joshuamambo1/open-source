@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 713 |
-| 🍴 **Forks** | 29 |
+| ⭐ **Stars** | 714 |
+| 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fetch` `fetch-api` `json-schema` `openapi` `swagger` `typescript` `whatwg` `whatwg-fetch` `zod`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project ardatan/feTS:
-
-feTS is a TypeScript-based HTTP framework designed with end-to-end type safety, ease of setup, high performance, and a great developer experience in mind. It aims to provide a robust foundation for building scalable and maintainable backend applications. By leveraging TypeScript's type safety features, feTS enables developers to write more efficient and reliable code.
+**feTS** is a lightweight TypeScript‑first HTTP framework that guarantees end‑to‑end type safety between request handling and response generation, letting developers catch mismatches at compile time. It offers a minimal, high‑performance setup with built‑in tooling for routing, validation, and data handling, delivering a smooth developer experience without sacrificing speed.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/ardatan/feTS) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ardatan/feTS) · [← Back to Backend](./README.md)</sub>

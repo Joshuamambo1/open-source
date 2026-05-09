@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 100 |
+| 🍴 **Forks** | 101 |
 | 💻 **Language** | Common Lisp |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`common-lisp` `functional-programming` `type-safety`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Coalton is a high-performance, statically typed language that builds upon the foundations of Common Lisp, offering a functional programming paradigm. This open-source project aims to enhance the efficiency and reliability of Lisp-based development by providing a modern, typed alternative. By leveraging static typing, Coalton enables developers to write more robust and maintainable code while still enjoying the flexibility of a Lisp-based ecosystem.
+Coalton is an open‑source, statically typed functional language that compiles to Common Lisp, offering high‑performance execution while preserving Lisp’s dynamic ecosystem. By integrating a powerful type system and functional abstractions, Coalton enables developers to write safe, efficient code that seamlessly interoperates with existing Common Lisp libraries and tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/coalton-lang/coalton) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/coalton-lang/coalton) · [← Back to Misc](./README.md)</sub>

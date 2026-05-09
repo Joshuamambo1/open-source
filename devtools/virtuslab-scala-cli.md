@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 634 |
+| ⭐ **Stars** | 635 |
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `scala`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The Scala CLI is an open-source command-line tool that enables developers to interact with the Scala language in an efficient and streamlined manner. It allows users to compile, run, test, and package their Scala code, making it a valuable tool for developers working on Scala projects. With Scala CLI, developers can simplify their workflow and focus on writing high-quality code.
+Scala CLI is an open‑source command‑line utility that streamlines working with the Scala language, allowing developers to compile, run, test, and package Scala code directly from the terminal. It integrates various Scala tooling into a single, easy‑to‑use interface, making project setup and execution faster and more straightforward. Suitable for developers seeking a lightweight yet powerful dev‑tool for Scala development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/VirtusLab/scala-cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/VirtusLab/scala-cli) · [← Back to DevTools](./README.md)</sub>

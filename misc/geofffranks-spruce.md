@@ -1,6 +1,6 @@
 # geofffranks/spruce
 
-[![Stars](https://img.shields.io/github/stars/geofffranks/spruce?style=flat-square&color=yellow)](https://github.com/geofffranks/spruce/stargazers) [![Forks](https://img.shields.io/github/forks/geofffranks/spruce?style=flat-square&color=blue)](https://github.com/geofffranks/spruce/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/geofffranks/spruce?style=flat-square&color=yellow)](https://github.com/geofffranks/spruce/stargazers) [![Forks](https://img.shields.io/github/forks/geofffranks/spruce?style=flat-square&color=blue)](https://github.com/geofffranks/spruce/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A BOSH template merge tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 451 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Spruce project is an open-source tool designed to simplify the management of BOSH templates. It provides a template merge functionality, enabling users to easily combine and customize template configurations for deploying applications on cloud platforms. This allows developers to streamline their deployment processes and reduce errors.
+geofffranks/spruce is an open‑source command‑line utility that merges and interpolates BOSH deployment manifests using a simple, declarative template syntax. It enables developers to compose complex configuration files by overlaying multiple YAML fragments, handling conditional logic and variable substitution automatically. The tool is lightweight, language‑agnostic, and well suited for managing infrastructure-as-code workflows in BOSH environments.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/geofffranks/spruce) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/geofffranks/spruce) · [← Back to Misc](./README.md)</sub>

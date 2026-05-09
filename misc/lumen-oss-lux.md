@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 945 |
+| ⭐ **Stars** | 948 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`luarocks` `package-manager`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Lux is an open-source, luxurious package manager designed for Lua. It aims to provide a seamless and user-friendly experience for managing Lua libraries and dependencies, making it an ideal choice for developers looking to streamline their workflow. With Lux, users can easily discover, install, and manage Lua packages with ease.
+Lumen‑OSS Lux is an open‑source package manager designed specifically for the Lua programming language. It provides a polished, user‑friendly workflow for publishing, discovering, and installing Lua modules, handling version constraints and dependency resolution automatically. Ideal for developers seeking a streamlined, “luxurious” experience when managing Lua libraries.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/lumen-oss/lux) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/lumen-oss/lux) · [← Back to Misc](./README.md)</sub>

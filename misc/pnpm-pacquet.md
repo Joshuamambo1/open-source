@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 35 |
+| 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The pacquet project is an experimental package manager designed for Node.js, aimed at providing a novel solution to the traditional package management challenges. As an open-source initiative, it seeks to innovate and improve the way developers manage dependencies and packages in their Node.js projects. Developed by the pnpm team, pacquet continues to evolve and refine its functionality through community contributions and testing.
+pnpm/pacquet is the Rust‑based rewrite of the popular pnpm package manager, delivering the same fast, deterministic, and disk‑efficient installation experience while leveraging Rust’s performance and safety guarantees. By reimplementing core pnpm functionality in Rust, pacquet aims to improve speed, reduce memory usage, and provide a more robust foundation for future feature development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/pnpm/pacquet) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pnpm/pacquet) · [← Back to Misc](./README.md)</sub>

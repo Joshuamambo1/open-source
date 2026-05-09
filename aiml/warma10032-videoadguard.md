@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 731 |
+| ⭐ **Stars** | 732 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ad-detection` `adguard` `bilibili` `extension` `extension-chrome` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Bilibili Video AdGuard is an open-source browser extension that utilizes AI and machine learning to detect and skip ads in Bilibili videos. With a single click, users can bypass intrusive video ads and sponsored content on the popular Chinese video-sharing platform. This project leverages large language models to provide an enhanced viewing experience.
+Warma10032/VideoAdGuard is a browser extension for Bilibili that leverages large language models to identify and skip embedded or spoken advertisements within videos. With a single click, it detects product placements and in‑video promos, allowing users to watch uninterrupted content. The project is open‑source and categorized under AI/ML.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/Warma10032/VideoAdGuard) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Warma10032/VideoAdGuard) · [← Back to AI/ML](./README.md)</sub>

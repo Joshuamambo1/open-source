@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 157 |
+| 🍴 **Forks** | 158 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automation` `cli` `cloud` `devops` `hcl2` `helm` `helmfile` `orchestration` `terraform` `workflow`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The cloudposse/atmos project is an open-source Terraform orchestration tool designed for DevOps teams. It enables environment configuration management through hierarchical imports, inheritance, and other features, promoting DRY (Don't Repeat Yourself) principles in infrastructure configuration. Atmos natively supports both Terraform and Helmfile, making it a versatile solution for managing complex infrastructure environments.
+cloudposse/atmos is an open‑source orchestration tool that streamlines Terraform and Helmfile workflows by enabling hierarchical, DRY configuration management through imports, inheritance, and templating. It lets DevOps teams define environments once and reuse them across multiple stacks, reducing duplication and simplifying multi‑cloud infrastructure provisioning. The project is geared toward modern DevOps pipelines, offering native support for Terraform, Helmfile, and CI/CD integrations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/cloudposse/atmos) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/cloudposse/atmos) · [← Back to Orchestration](./README.md)</sub>

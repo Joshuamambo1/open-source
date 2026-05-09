@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 42.8k |
-| 🍴 **Forks** | 8.9k |
+| ⭐ **Stars** | 43.8k |
+| 🍴 **Forks** | 9.2k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `anthropic` `automation` `career` `claude` `claude-code` `cli` `golang` `interview-prep` `job-search` `open-source` `resume`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-The career-ops project is an open-source, AI-powered job search system built on Claude Code. This system offers 14 skill modes, a Go-based dashboard, and features for generating PDFs and batch processing, making it a comprehensive tool for job seekers and career management. With its AI-driven capabilities and customizable features, career-ops aims to streamline the job search process.
+santifer / career‑ops is an open‑source, AI‑driven job‑search platform that leverages Claude Code to analyze and match candidates with opportunities across 14 distinct skill modes. It features a Go‑based dashboard for interactive browsing, PDF generation for résumé and job‑listing exports, and batch processing capabilities for handling large volumes of applications. The project sits at the intersection of AI/ML, frontend development, and developer tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/santifer/career-ops) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/santifer/career-ops) · [← Back to AI/ML](./README.md)</sub>

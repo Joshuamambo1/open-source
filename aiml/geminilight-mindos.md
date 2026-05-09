@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 558 |
-| 🍴 **Forks** | 44 |
+| ⭐ **Stars** | 567 |
+| 🍴 **Forks** | 46 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `context` `knowledge-base` `mcp` `memory` `skill`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-MindOS is an open-source Human-AI Collaborative Mind System that enables seamless global synchronization between human thoughts and AI agents, fostering a transparent, controllable, and symbiotic relationship. This innovative platform empowers humans and AI to work together in harmony, driving the evolution of intelligent systems. By harnessing the power of collaboration, MindOS unlocks new possibilities for human-AI symbiosis.
+GeminiLight / MindOS is an open‑source Human‑AI collaborative platform that lets a user’s thoughts serve as the central “mind” while autonomous agents act on its behalf. By synchronizing the user’s mental state across all agents, the system provides transparent, controllable interactions that evolve symbiotically, enabling seamless human‑centric AI assistance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/GeminiLight/MindOS) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/GeminiLight/MindOS) · [← Back to AI/ML](./README.md)</sub>

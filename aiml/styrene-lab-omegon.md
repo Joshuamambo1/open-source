@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 40 |
+| ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the styrene-lab/omegon project:
-
-Omegon is an open-source, native AI agent harness that provides a simple and lightweight framework for developing and running AI agents. This standalone binary has zero dependencies, making it an easily integratable solution for various AI applications. By agents, for agents, Omegon empowers developers to create and manage AI agents with minimal overhead and maximal control.
+Styrene‑Lab’s **omegon** is a lightweight, native AI‑agent harness designed to run and manage autonomous agents with a single, self‑contained binary and zero external dependencies. It provides a minimal‑overhead runtime that lets developers deploy, orchestrate, and communicate between agents directly on the host system, making it ideal for edge deployments and privacy‑focused applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/styrene-lab/omegon) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/styrene-lab/omegon) · [← Back to AI/ML](./README.md)</sub>

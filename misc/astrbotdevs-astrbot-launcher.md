@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 874 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 901 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`astrbot`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the AstrBot Launcher project:
-
-The AstrBot Launcher is an open-source, graphical desktop application designed to manage AstrBot instances. It offers a comprehensive set of features, including version downloads, instance management, data backup, and automated configuration of the Python runtime environment. This user-friendly tool simplifies the management of AstrBot, making it easier to deploy and maintain.
+AstrBot Launcher is a desktop application that provides a graphical interface for managing AstrBot instances. It supports full lifecycle tasks such as downloading specific versions, handling instance creation and removal, backing up data, and automatically configuring the required Python runtime environment. The tool streamlines AstrBot deployment and maintenance for both developers and end‑users.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/AstrBotDevs/astrbot-launcher) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/AstrBotDevs/astrbot-launcher) · [← Back to Misc](./README.md)</sub>

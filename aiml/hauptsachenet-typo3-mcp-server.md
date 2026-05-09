@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 77 |
+| ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mcp` `mcp-server` `typo3` `typo3-extension`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-This open-source project, typo3-mcp-server, provides a secure connection between a TYPO3 site and various AI tools, including Claude, Cursor, and n8n, through a single MCP endpoint. It enables safe integration of AI capabilities within workspaces, streamlining the process for users. This integration allows for efficient collaboration and automation within a centralized environment.
+The **typo3-mcp-server** project provides a single MCP (Message Communication Protocol) endpoint that securely links a TYPO3 installation to various AI services—including Claude, Cursor, n8n, and other custom tools—via isolated workspaces. By handling authentication, request routing, and sandboxing on the backend, it enables TYPO3 sites to integrate AI functionality safely and with minimal configuration. The solution is open‑source, lightweight, and designed for developers who need a unified, secure bridge between TYPOC​O and external AI platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/hauptsacheNet/typo3-mcp-server) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/hauptsacheNet/typo3-mcp-server) · [← Back to AI/ML](./README.md)</sub>

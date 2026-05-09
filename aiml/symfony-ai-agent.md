@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `llm` `symfony` `symfony-ai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The symfony/ai-agent project provides a PHP library for constructing agentic applications, enabling developers to build intelligent and autonomous systems. This library leverages AI and machine learning to empower applications with decision-making capabilities, making it ideal for complex and dynamic environments. By utilizing this library, developers can create more sophisticated and adaptive applications.
+symfony/ai-agent is an open‑source PHP library that simplifies the creation of agentic applications—software components that can act autonomously, make decisions, and interact with users or other services. It provides a clean, Symfony‑compatible API for integrating AI/ML capabilities such as natural‑language processing, tool usage, and context management, making it easy to build intelligent front‑end experiences.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/symfony/ai-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/symfony/ai-agent) · [← Back to AI/ML](./README.md)</sub>

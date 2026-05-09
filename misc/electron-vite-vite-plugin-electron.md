@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 871 |
-| 🍴 **Forks** | 71 |
+| ⭐ **Stars** | 873 |
+| 🍴 **Forks** | 72 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`electron` `plugin` `vite`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This project is a Vite plugin designed to integrate Electron with the Vite development environment, enabling seamless and efficient development of Electron applications. It provides a core repository for the electron-vite ecosystem, allowing users to leverage Vite's powerful features in building cross-platform desktop applications. By combining Electron and Vite, developers can streamline their workflow and achieve faster development cycles.
+**electron-vite/vite-plugin-electron** is an open‑source Vite plugin that streamlines the development of Electron applications by integrating Vite’s fast build and hot‑module‑replacement capabilities directly into the Electron main and renderer processes. It provides ready‑to‑use configurations, automatic process management, and seamless communication between the Electron runtime and Vite, enabling developers to scaffold, build, and debug Electron apps with minimal setup. This core repository serves as the foundation for the broader “electron‑vite” ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/electron-vite/vite-plugin-electron) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/electron-vite/vite-plugin-electron) · [← Back to Misc](./README.md)</sub>

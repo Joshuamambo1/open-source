@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`art` `creative-coding` `digital-art` `hacktoberfest` `interactive` `intermedia` `media-art` `midi` `open-sound-control` `open-source` `osc` `osc-messages`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Ossia/score is an open-source, interactive sequencer designed for the intermedia arts. It allows artists to create and control complex, dynamic compositions in a user-friendly and intuitive environment. This versatile tool enables the exploration of new possibilities in multimedia performance and installation.
+OSSIA Score is an open‑source, cross‑platform interactive sequencer designed for the intermedia arts, enabling creators to compose, edit, and perform complex multimedia timelines that synchronize audio, video, lighting, and custom data streams. Built on the OSSIA framework, it offers a node‑based visual interface, real-time scripting, and network‑transparent protocols (OSC, MIDI, etc.) for seamless integration with external hardware and software. The project targets artists, performers, and developers who need a flexible, extensible tool for live and studio-based multimedia productions.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/ossia/score) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ossia/score) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 206 |
+| ⭐ **Stars** | 207 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`2d` `2d-game-engine` `c-plus-plus` `cross-platform` `engine` `game` `game-development` `game-engine` `hacktoberfest` `visual-novel` `visual-novel-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-NovelRT is a free and open-source cross-platform 2D game engine designed specifically for visual novels. This powerful toolset enables developers to create engaging interactive stories with ease, offering a streamlined workflow for crafting immersive visual novel experiences. By providing a robust and user-friendly platform, NovelRT empowers creators to focus on storytelling and design.
+NovelRT is an open‑source, cross‑platform 2D game engine designed specifically for creating visual novels and similar narrative‑driven experiences. It bundles a robust toolset—including a scene editor, scripting support, and asset pipelines—to streamline development and enable rapid prototyping across Windows, macOS, and Linux. The engine emphasizes flexibility and performance while offering a developer‑friendly API for building interactive storytelling games.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/novelrt/NovelRT) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/novelrt/NovelRT) · [← Back to Misc](./README.md)</sub>

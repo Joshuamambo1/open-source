@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 890 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 897 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cpp` `cpp20` `emulation` `emulator` `freebsd` `imgui` `linux` `macos` `sdl3` `sega` `sega-saturn` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-StrikerX3/Ymir is an open-source Sega Saturn emulator designed to provide a high-fidelity gaming experience. This project allows users to play their favorite Sega Saturn games on various platforms, thanks to its robust emulation capabilities. By catering to enthusiasts and developers alike, StrikerX3/Ymir aims to preserve the classic gaming library of the Sega Saturn console.
+StrikerX3/Ymir is an open‑source frontend for a Sega Saturn emulator, providing a user‑friendly interface to configure, launch, and manage Saturn game ROMs. It streamlines the emulation experience by handling BIOS selection, controller mapping, and graphics/audio settings, while integrating tightly with the underlying emulator core. The project aims to make Saturn emulation accessible to both casual players and retro‑gaming enthusiasts.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/StrikerX3/Ymir) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/StrikerX3/Ymir) · [← Back to Frontend](./README.md)</sub>

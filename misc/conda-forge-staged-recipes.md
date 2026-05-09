@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`conda-forge` `hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The staged-recipes project is an open-source platform that serves as a testing ground for conda recipes before they are officially integrated into the conda-forge feedstocks. This allows developers to submit and refine their recipes in a controlled environment, ensuring they meet conda-forge standards before being widely distributed. By providing a staging area, staged-recipes facilitates the development and validation of high-quality conda packages.
+The **staged-recipes** repository is a collaborative staging area where contributors can submit and review new Conda recipes before they are promoted to full‑blown conda‑forge feedstocks. It serves as a testing ground for package definitions, allowing the community to catch issues, improve metadata, and ensure compliance with conda‑forge standards prior to official inclusion.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/conda-forge/staged-recipes) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/conda-forge/staged-recipes) · [← Back to Misc](./README.md)</sub>

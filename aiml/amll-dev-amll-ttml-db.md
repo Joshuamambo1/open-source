@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 305 |
+| ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The amll-dev/amll-ttml-db project is an open-source repository of TTML word-level lyric databases, specifically designed for the AMLL (Association for Machine Learning in Music) community. This project aims to facilitate the development and construction of a comprehensive lyric database, with contributions from the public welcome. By sharing this resource, researchers and developers can leverage the database to improve AI and machine learning models for music-related tasks.
+amll‑ttml‑db is an open‑source repository that provides a TTML (Timed Text Markup Language) word‑by‑word lyric database specifically curated for the AMLL (Audio‑Machine‑Learning‑Lab) platform. It serves as a foundational resource for synchronized lyric generation and alignment tasks, and contributors are encouraged to expand and improve the dataset.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/amll-dev/amll-ttml-db) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/amll-dev/amll-ttml-db) · [← Back to AI/ML](./README.md)</sub>

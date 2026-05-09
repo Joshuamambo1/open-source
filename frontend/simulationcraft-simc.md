@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 762 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-simulationcraft/simc is a promising open-source project. Categories: Frontend. Interest score: 62/100.
+SimulationCraft (simc) is an open‑source engine and graphical interface for running high‑precision Monte Carlo simulations of combat mechanics in massively multiplayer online games, most notably World of Warcraft. It parses game data, models character abilities and encounters, and provides detailed statistical output to help players optimize gear, talent choices, and rotation strategies. The project is primarily a frontend tool that drives the SimulationCraft engine for real‑time performance analysis.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/simulationcraft/simc) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/simulationcraft/simc) · [← Back to Frontend](./README.md)</sub>

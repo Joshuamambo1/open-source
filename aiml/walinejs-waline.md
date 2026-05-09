@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 586 |
+| 🍴 **Forks** | 591 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aliyun` `baidu` `blog` `cloudbase` `comment` `comment-system` `disqus` `leancloud` `mongodb` `mysql` `netlify` `postgresql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Waline is a lightweight, open-source comment system designed for a seamless user experience. It provides a simple and safe platform for users to engage in discussions, making it an ideal solution for developers seeking to integrate a reliable comment feature into their applications. This project prioritizes user safety and security, making it a valuable resource for those building data-driven platforms.
+Waline is an open‑source, lightweight comment system designed for easy integration into static sites and modern web applications. Built with safety and simplicity in mind, it provides real‑time commenting, Markdown support, and spam protection without relying on heavyweight backend services. The project is actively maintained and can be customized or self‑hosted, making it a flexible choice for developers seeking a minimal yet powerful commenting solution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/walinejs/waline) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/walinejs/waline) · [← Back to AI/ML](./README.md)</sub>

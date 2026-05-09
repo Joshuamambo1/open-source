@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.5k |
-| 🍴 **Forks** | 971 |
+| 🍴 **Forks** | 973 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`debian` `devilution` `diablo` `game` `hacktober` `hacktoberfest` `homebrew`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-DevilutionX is an open-source project that aims to bring the classic Diablo game to modern operating systems, providing a compatible build for users to enjoy. This frontend-focused project seeks to ensure compatibility and accessibility of the original game on contemporary platforms. By revitalizing Diablo for the digital age, DevilutionX preserves a piece of gaming history for new generations of players.
+Diasurgical/DevilutionX is an open‑source project that re‑implements the classic Diablo game engine, enabling the original 1996 title to run natively on modern operating systems such as Windows, macOS, and Linux. It provides a fully functional, actively maintained codebase with updated graphics, input handling, and compatibility layers while preserving the authentic gameplay experience. The project is community‑driven, allowing contributors to improve performance, add features, and keep the classic game accessible to new and veteran players alike.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/diasurgical/DevilutionX) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/diasurgical/DevilutionX) · [← Back to Frontend](./README.md)</sub>

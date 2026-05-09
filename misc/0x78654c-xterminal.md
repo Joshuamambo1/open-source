@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 109 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 112 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `terminal` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-xTerminal is an open-source, Linux-like terminal emulator for Windows, developed with C#. This project aims to provide a versatile and customizable terminal environment, allowing users to harness the power of Linux commands on their Windows systems. By leveraging C# as the development language, xTerminal offers a unique blend of cross-platform compatibility and native Windows integration.
+xTerminal is an open‑source, Windows‑only terminal emulator written in C# that mimics the look and feel of a Linux command line. It provides basic shell functionality, customizable appearance, and supports common Unix‑style commands, making it a lightweight alternative for developers who need a Linux‑like environment on Windows. The project is licensed under an open‑source model and welcomes contributions from the community.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/0x78654C/xTerminal) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/0x78654C/xTerminal) · [← Back to Misc](./README.md)</sub>

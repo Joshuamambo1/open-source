@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 221 |
+| 🍴 **Forks** | 222 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `language-service` `parse` `slang` `systemverilog` `verilog`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The slang project is an open-source SystemVerilog compiler and language services that aims to support the development of digital design and verification environments. It provides a compiler for SystemVerilog, a hardware description language used in electronic design automation, and offers language services to facilitate code analysis, debugging, and optimization. By leveraging the slang project, users can create and manage SystemVerilog codebases with greater efficiency and effectiveness.
+MikePopoloski/slang is an open‑source SystemVerilog compiler that provides full language parsing, semantic analysis, and code generation, enabling fast and standards‑compliant compilation of hardware designs. In addition to compilation, it offers language services such as syntax highlighting, linting, and IDE integration, making it a versatile tool for both developers and verification engineers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/MikePopoloski/slang) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/MikePopoloski/slang) · [← Back to Misc](./README.md)</sub>

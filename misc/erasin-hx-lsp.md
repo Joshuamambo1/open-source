@@ -1,6 +1,6 @@
 # erasin/hx-lsp
 
-[![Stars](https://img.shields.io/github/stars/erasin/hx-lsp?style=flat-square&color=yellow)](https://github.com/erasin/hx-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/erasin/hx-lsp?style=flat-square&color=blue)](https://github.com/erasin/hx-lsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erasin/hx-lsp?style=flat-square&color=yellow)](https://github.com/erasin/hx-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/erasin/hx-lsp?style=flat-square&color=blue)](https://github.com/erasin/hx-lsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > lsp for helix , support snippets, actions
 
@@ -11,13 +11,13 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`action` `helix-editor` `lsp` `snippets`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The erasin/hx-lsp project is an open-source Language Server Protocol (LSP) implementation for the Helix programming language, providing support for snippets and actions to enhance developer productivity. This LSP enables features such as code completion, debugging, and code refactoring, making Helix development more efficient. By integrating with popular code editors and IDEs, hx-lsp streamlines the Helix development experience.
+The **hx-lsp** project provides a Language Server Protocol (LSP) implementation tailored for the Helix editor, adding features such as code snippets and editor actions to enhance the development experience. It is an open‑source, miscellaneous‑category tool that integrates seamlessly with Helix, delivering smarter autocompletion, refactoring, and other language‑aware capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/erasin/hx-lsp) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/erasin/hx-lsp) · [← Back to Misc](./README.md)</sub>

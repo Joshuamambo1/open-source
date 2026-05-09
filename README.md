@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4299** |
+| 🗂️ **Total projects** | **4339** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1751 | [Browse →](./aiml/) |
-| 📦 **Misc** | 695 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 1766 | [Browse →](./aiml/) |
+| 📦 **Misc** | 707 | [Browse →](./misc/) |
 | 🧩 **Orchestration** | 430 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 418 | [Browse →](./frontend/) |
-| 🔧 **DevTools** | 229 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 220 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 163 | [Browse →](./crypto/) |
-| 📊 **Data** | 93 | [Browse →](./data/) |
+| 🎨 **Frontend** | 422 | [Browse →](./frontend/) |
+| 🔧 **DevTools** | 230 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 221 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 165 | [Browse →](./crypto/) |
+| 📊 **Data** | 94 | [Browse →](./data/) |
 | 💳 **Payments** | 86 | [Browse →](./payments/) |
 | 📈 **Trading** | 56 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 51 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 46 | [Browse →](./mobile/) |
-| 🔐 **Security** | 35 | [Browse →](./security/) |
+| 🚀 **DevOps & Infra** | 52 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 47 | [Browse →](./mobile/) |
+| 🔐 **Security** | 36 | [Browse →](./security/) |
 | ✨ **Design** | 12 | [Browse →](./design/) |
 | 🎯 **Product** | 10 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 4 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.5k | AI/ML |
-| 2 | [curl/curl](./aiml/curl-curl.md) | ⭐ 41.8k | AI/ML |
-| 3 | [vnotex/vnote](./aiml/vnotex-vnote.md) | ⭐ 12.8k | AI/ML |
-| 4 | [MODSetter/SurfSense](./orchestration/modsetter-surfsense.md) | ⭐ 14.2k | Orchestration |
-| 5 | [CISOfy/lynis](./aiml/cisofy-lynis.md) | ⭐ 15.6k | AI/ML |
-| 6 | [renovatebot/renovate](./devtools/renovatebot-renovate.md) | ⭐ 21.5k | DevTools |
-| 7 | [sherlock-project/sherlock](./aiml/sherlock-project-sherlock.md) | ⭐ 83.1k | AI/ML |
-| 8 | [jnMetaCode/agency-agents-zh](./crypto/jnmetacode-agency-agents-zh.md) | ⭐ 10.3k | Crypto |
-| 9 | [fastlane/fastlane](./frontend/fastlane-fastlane.md) | ⭐ 41.5k | Frontend |
-| 10 | [mrexodia/ida-pro-mcp](./aiml/mrexodia-ida-pro-mcp.md) | ⭐ 8.3k | AI/ML |
+| 1 | [Anionex/banana-slides](./aiml/anionex-banana-slides.md) | ⭐ 14.4k | AI/ML |
+| 2 | [tw93/Pake](./misc/tw93-pake.md) | ⭐ 48.6k | Misc |
+| 3 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.5k | AI/ML |
+| 4 | [curl/curl](./aiml/curl-curl.md) | ⭐ 41.8k | AI/ML |
+| 5 | [vnotex/vnote](./aiml/vnotex-vnote.md) | ⭐ 12.8k | AI/ML |
+| 6 | [MODSetter/SurfSense](./orchestration/modsetter-surfsense.md) | ⭐ 14.2k | Orchestration |
+| 7 | [CISOfy/lynis](./aiml/cisofy-lynis.md) | ⭐ 15.6k | AI/ML |
+| 8 | [sherlock-project/sherlock](./aiml/sherlock-project-sherlock.md) | ⭐ 83.1k | AI/ML |
+| 9 | [renovatebot/renovate](./devtools/renovatebot-renovate.md) | ⭐ 21.5k | DevTools |
+| 10 | [jnMetaCode/agency-agents-zh](./crypto/jnmetacode-agency-agents-zh.md) | ⭐ 10.3k | Crypto |
 
 ## 🚀 How it works
 

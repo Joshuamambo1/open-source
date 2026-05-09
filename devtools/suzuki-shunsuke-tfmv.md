@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `oss` `terraform`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-The TFMV (Terraform Move Vocabulary) tool is an open-source, command-line interface (CLI) developed by Suzuki Shunsuke. It allows users to efficiently rename Terraform resources and automatically generates moved blocks to ensure seamless infrastructure updates. This project streamlines the process of updating Terraform configurations, making it easier to maintain and manage complex infrastructure deployments.
+suzuki‑shunsuke/tfmv is a command‑line utility that streamlines the process of renaming Terraform resources. It automatically updates configuration files and generates the necessary `moved` blocks, helping teams keep their state and code in sync while avoiding manual errors. Ideal for DevOps and infrastructure engineers who need a safe, repeatable way to refactor Terraform-managed resources.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/suzuki-shunsuke/tfmv) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/suzuki-shunsuke/tfmv) · [← Back to DevTools](./README.md)</sub>

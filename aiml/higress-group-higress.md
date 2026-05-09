@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-gateway` `ai-native` `api-gateway` `cloud-native` `envoy`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Higress is an open-source AI-native API gateway designed to connect applications with AI services, providing a seamless and efficient interface for AI-based interactions. This project enables developers to build scalable and secure AI-powered applications by providing a gateway for AI-related APIs. Through Higress, users can streamline their AI workflows and enhance their overall application performance.
+higress is an open‑source, AI‑native API gateway that extends traditional gateway capabilities with built‑in artificial‑intelligence features such as LLM routing, request transformation, and policy enforcement. Designed for modern cloud‑native environments, it provides a flexible, high‑performance platform for managing, securing, and optimizing API traffic while enabling AI‑driven traffic control and observability.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/higress-group/higress) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/higress-group/higress) · [← Back to AI/ML](./README.md)</sub>

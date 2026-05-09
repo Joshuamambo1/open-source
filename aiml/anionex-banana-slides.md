@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14.3k |
+| ⭐ **Stars** | 14.4k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-ppt-maker` `ai-slide-builder` `ai-slides` `document-recognition` `editable-pptx` `llm` `nanobananapro` `ppt` `ppt-generator` `slides` `text2image`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project in English:
-
-"Banana Slides is an open-source, AI-native presentation generator built on top of nano banana pro. It enables users to upload custom templates, materials, and automatically generates slides based on provided text, outlines, or page descriptions. The application also supports real-time editing and one-click export of editable PPT files."
+Anionex/banana‑slides is an AI‑native slide generator built on Nano Banana Pro that creates fully editable PowerPoint presentations from simple prompts, outlines, or image templates. It supports uploading arbitrary template images and media assets, intelligently parses them, and allows voice‑controlled edits of specific slide areas, with one‑click export to an editable PPT. The project targets AI/ML and frontend developers looking to automate “Vibe PPT” creation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Anionex/banana-slides) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Anionex/banana-slides) · [← Back to AI/ML](./README.md)</sub>

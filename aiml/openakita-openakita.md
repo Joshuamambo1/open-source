@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 232 |
+| 🍴 **Forks** | 235 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `assistant` `automation` `claw` `clawd` `clawdbot` `openclaw` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-openakita is an open-source AI assistant framework that enables developers to build custom AI-powered conversational systems with a range of skills and agent architectures. This flexible framework provides a robust foundation for creating intelligent assistants that can interact with users in a natural and intuitive way. By leveraging openakita, developers can easily integrate AI capabilities into their applications and services.
+openakita is an open‑source framework for building AI assistants, offering a modular architecture that separates skills (functional capabilities) from agents (decision‑making entities). It enables developers to create, combine, and orchestrate reusable skill modules while managing conversational flow and context through a lightweight agent system, all under a permissive license for easy integration into AI/ML projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/openakita/openakita) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/openakita/openakita) · [← Back to AI/ML](./README.md)</sub>

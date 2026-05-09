@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 276 |
+| 🍴 **Forks** | 280 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`opentofu` `proxmox` `terraform` `terraform-provider`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The bpg/terraform-provider-proxmox is an open-source project that enables integration with Proxmox VE using Terraform, a popular infrastructure-as-code tool. This provider allows users to manage and deploy Proxmox infrastructure resources, such as virtual machines and storage, in a declarative and reproducible manner. By leveraging this provider, DevOps teams can streamline their infrastructure management and provisioning processes.
+The **bpg/terraform-provider-proxmox** project delivers an open‑source Terraform (and OpenTofu) provider that enables infrastructure‑as‑code management of Proxmox VE resources. It supports creating, updating, and deleting virtual machines, containers, storage, networks, and other Proxmox objects directly from Terraform configuration files, streamlining automation and DevOps workflows for Proxmox environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/bpg/terraform-provider-proxmox) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/bpg/terraform-provider-proxmox) · [← Back to DevOps & Infra](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 347 |
+| ⭐ **Stars** | 349 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-This open-source project, website-hot-hub, periodically crawls and archives trending data from various popular platforms, including 36Kr, Bilibili, GitHub, TikTok, and more. The data is collected every hour and sorted by day, with non-current data stored in the Releases section. This project provides a valuable resource for analyzing and tracking trending topics over time.
+cxyfreedom/website-hot-hub is an open‑source data collector that tracks the daily hot‑list rankings across multiple platforms—including 36Kr, Bilibili, GitHub, Douyin, Juejin, and WeChat Reading—starting from October 25 2023. It scrapes each site once per hour, archives the results by day, and moves older (non‑current‑year) data into the repository’s Releases for long‑term storage. The project provides a ready‑to‑use historical snapshot of cross‑platform trending content.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/cxyfreedom/website-hot-hub) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/cxyfreedom/website-hot-hub) · [← Back to Misc](./README.md)</sub>

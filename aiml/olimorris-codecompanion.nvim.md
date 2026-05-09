@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.5k |
+| ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 406 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acp` `agent` `agent-client-protocol` `anthropic` `claude-code` `copilot` `deepseek` `gemini` `google-gemini` `llm` `neovim` `nvim`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-CodeCompanion.nvim is an open-source project that brings AI-driven coding assistance to the popular Vim text editor, enhancing the coding experience with advanced features. This project combines the power of AI with Vim's intuitive interface, allowing developers to focus on writing code more efficiently. By leveraging AI, CodeCompanion.nvim aims to streamline coding workflows and improve overall productivity.
+Olimorris / codecompanion.nvim is an open‑source Neovim plugin that brings AI‑powered coding assistance directly into the editor. It lets you generate, refactor, and explain code snippets, run completions, and interact with large language models—all from familiar Vim keybindings and command‑line interfaces. Ideal for developers who want seamless, AI‑driven workflows without leaving their terminal.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/olimorris/codecompanion.nvim) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/olimorris/codecompanion.nvim) · [← Back to AI/ML](./README.md)</sub>

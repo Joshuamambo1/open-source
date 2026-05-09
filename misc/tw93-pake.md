@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 48.5k |
+| ⭐ **Stars** | 48.6k |
 | 🍴 **Forks** | 9.7k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chatgpt` `claude` `desktop` `gemini` `hight-performance` `linux` `macos` `no-electron` `package` `rust` `tauri` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Pake project is an open-source tool that enables users to convert any webpage into a desktop application with a single command. This conversion allows for a more localized and offline experience, making it easier to access and use web content without the need for a web browser. With Pake, users can enjoy their favorite web applications in a desktop environment.
+Pake is a lightweight open‑source tool that lets you wrap any website into a native‑looking desktop application with a single command. By leveraging Electron (or a similar runtime), it generates a minimal app bundle that loads the specified URL, providing a quick way to create stand‑alone web‑based utilities without writing code. The project is categorized as “Misc” and is ideal for developers who need fast, portable web‑app deployments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/tw93/Pake) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tw93/Pake) · [← Back to Misc](./README.md)</sub>

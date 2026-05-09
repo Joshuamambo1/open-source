@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `certificate-authority` `certificates` `cyber-threat-intelligence` `developer-tools` `dsa` `ec` `open-security` `pem` `pkcs12` `pkcs8` `rsa-cryptography`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Backend · DevTools
 
 ## 📝 Summary
 
-Secutils.dev is an open-source, comprehensive security toolbox designed for engineers and researchers. This versatile platform offers a range of simple yet powerful tools for various security-related tasks, including cryptographic operations and backend development support. By providing an accessible and modular framework, secutils.dev enables users to efficiently explore and address security concerns in their projects.
+Secutils.dev is an open‑source security toolbox that provides engineers and researchers with a collection of lightweight, easy‑to‑integrate utilities for cryptographic operations, backend security checks, and general dev‑tool workflows. Designed for simplicity without sacrificing flexibility, it bundles common crypto primitives, token handling, and security‑related helpers that can be used directly in applications or scripts. The project aims to streamline secure development and testing across a variety of platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/secutils-dev/secutils) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/secutils-dev/secutils) · [← Back to Crypto](./README.md)</sub>

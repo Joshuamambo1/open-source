@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 714 |
-| 🍴 **Forks** | 351 |
+| ⭐ **Stars** | 715 |
+| 🍴 **Forks** | 354 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`resource-management` `scheduler`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-LibreBooking is a free, open-source resource scheduling software designed to help organizations manage resource reservations efficiently. This mobile-friendly solution provides a flexible and extensible interface for managing bookings, reservations, and calendar events. With its latest code available in the "develop" branch, LibreBooking is an ideal choice for organizations seeking a customizable and community-driven resource scheduling tool.
+LibreBooking is an open‑source resource‑scheduling platform that offers a flexible, mobile‑friendly interface for organizations to manage reservations of assets such as rooms, equipment, or staff. Its extensible architecture lets developers customize and integrate the system with existing workflows, while the “develop” branch tracks the latest feature updates and bug fixes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/LibreBooking/librebooking) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/LibreBooking/librebooking) · [← Back to AI/ML](./README.md)</sub>

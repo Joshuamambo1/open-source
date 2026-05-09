@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 119 |
+| ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `claude-code-marketplace` `claude-code-plugin` `claude-code-plugins` `claude-code-plugins-marketplace` `handbook` `plugin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, claude-code-rules, provides practical techniques to optimize AI-assisted development workflows using Claude Code. It aims to enhance the integration of AI and human development processes, streamlining efficiency and productivity. By leveraging Claude Code, developers can refine their workflow with cutting-edge AI tools and techniques.
+NikiforovAll/claude-code-rules is an open‑source collection of practical guidelines and techniques for integrating Claude AI into your development workflow. It provides concise, actionable rules that help developers leverage Claude for code generation, debugging, and refactoring, ultimately boosting productivity and code quality. The project is organized for easy adoption across AI‑enhanced programming environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/NikiforovAll/claude-code-rules) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/NikiforovAll/claude-code-rules) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.6k |
+| ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 652 |
 | 💻 **Language** | Emacs Lisp |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cider` `clojure` `clojure-development` `emacs` `emacs-lisp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Cider is an open-source, interactive development environment for Clojure, specifically designed for use within the Emacs editor. It provides a powerful and intuitive interface for writing, debugging, and testing Clojure code, making it an essential tool for Clojure developers. With cider, users can enjoy seamless integration with Emacs, streamlining their coding experience.
+CIDER (Clojure Interactive Development Environment that Rocks) is an Emacs package that provides a powerful, REPL‑driven workflow for Clojure development. It integrates tightly with nREPL to offer features such as code evaluation, debugging, test running, refactoring, and sophisticated completion, enabling a seamless interactive experience directly inside Emacs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/clojure-emacs/cider) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/clojure-emacs/cider) · [← Back to Misc](./README.md)</sub>

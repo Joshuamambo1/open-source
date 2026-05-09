@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `cmd` `command-line` `devops` `local-llm` `posix` `runbook` `rust` `unix`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the wildcard/caro project:
-
-Wildcard/caro is an open-source Rust CLI that translates natural-language tasks into safe POSIX commands, allowing users to automate tasks with ease. Built specifically for macOS with a built-in ML model, caro supports various large language models, including vLLM, Ollama, and LM Studio. With features like JSON-only output, safety checks, and multi-step goals, caro streamlines task automation and development workflows.
+wildcard/caro is a high‑performance Rust command‑line tool that translates natural‑language instructions into safe, POSIX‑compatible commands. Designed for macOS with native MLX/Metal acceleration, it includes a built‑in model and can also interface with vLLM, Ollama, or LM Studio, delivering JSON‑only output with safety checks, user confirmation, and multi‑step goal handling. A ready‑to‑use devcontainer makes setup and contribution straightforward.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/wildcard/caro) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/wildcard/caro) · [← Back to AI/ML](./README.md)</sub>

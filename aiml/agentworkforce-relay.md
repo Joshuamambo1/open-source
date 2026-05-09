@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 645 |
+| ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-collaboration` `agent-communication` `agentic-ai` `agents` `real-time`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The AgentWorkforce/relay project is an open-source initiative focused on enabling real-time communication between agents, facilitating seamless collaboration and coordination in various AI and machine learning applications. This platform empowers agents to exchange information and work together efficiently, opening up new possibilities for complex tasks and problem-solving. By promoting agent-to-agent communication, the relay project aims to advance the field of artificial intelligence and machine learning.
+AgentWorkforce/relay is an open‑source framework that enables real‑time, peer‑to‑peer communication between autonomous AI agents. By providing a lightweight, extensible relay layer, it allows agents to exchange messages, coordinate actions, and share context instantly, facilitating collaborative workflows in multi‑agent systems. The project is geared toward AI/ML developers who need scalable, low‑latency inter‑agent messaging without building custom networking infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/AgentWorkforce/relay) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/AgentWorkforce/relay) · [← Back to AI/ML](./README.md)</sub>

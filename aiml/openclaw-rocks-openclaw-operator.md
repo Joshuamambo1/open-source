@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 344 |
-| 🍴 **Forks** | 61 |
+| ⭐ **Stars** | 350 |
+| 🍴 **Forks** | 63 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `golang` `helm` `kubernetes` `openclaw` `operator`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The OpenClaw Operator is an open-source Kubernetes tool that streamlines the deployment and management of OpenClaw AI agent instances, ensuring robust security, comprehensive observability, and streamlined lifecycle management. This operator enables users to easily deploy and scale AI-powered applications in production environments, while maintaining the highest standards of reliability and efficiency. By leveraging Kubernetes, developers can focus on building and integrating AI models, rather than worrying about underlying infrastructure and operations.
+The **openclaw-rocks/openclaw-operator** is a Kubernetes operator that automates the deployment, scaling, and lifecycle management of OpenClaw AI agent instances. It incorporates production‑grade security controls, built‑in observability (metrics, logs, tracing), and seamless integration with DevOps pipelines, making it easy to run secure, observable AI workloads on any Kubernetes cluster.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/openclaw-rocks/openclaw-operator) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/openclaw-rocks/openclaw-operator) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 339 |
+| ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Adblock Filter List |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adguard` `filters` `filters-metadata` `filters-subscriptions`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Payments · Data
 
 ## 📝 Summary
 
-The AdguardTeam/FiltersRegistry project provides a collection of open-source filter subscriptions, optimized for better compatibility with AdGuard. This initiative aims to enhance the functionality of AdGuard by offering improved filter configurations, ensuring a smoother user experience. By offering these enhanced filters, the project promotes transparency and community involvement in ad-blocking technology.
+AdguardTeam/FiltersRegistry is an open‑source collection that converts popular filter subscriptions into formats optimized for use with AdGuard products, ensuring smoother integration and improved blocking performance. By standardizing and enhancing compatibility, the project helps users maintain robust ad‑blocking, privacy, and security rules across AdGuard’s ecosystem. It is categorized under Payments and Data, reflecting its role in managing subscription data and related licensing information.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/AdguardTeam/FiltersRegistry) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/AdguardTeam/FiltersRegistry) · [← Back to Payments](./README.md)</sub>

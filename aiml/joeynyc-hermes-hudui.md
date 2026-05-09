@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 163 |
+| 🍴 **Forks** | 168 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, Hermes-HUDUI, is a web-based user interface for monitoring the consciousness of Hermes, an AI agent that utilizes persistent memory. The tool provides real-time insights into Hermes' state, enabling users to track its awareness and decision-making processes. By offering a transparent interface, Hermes-HUDUI promotes understanding and collaboration between humans and the AI agent.
+joeynyc/hermes-hudui is an open‑source web interface that visualizes the internal state and “consciousness” of Hermes, an AI agent equipped with persistent memory. It provides real‑time monitoring, debugging, and interaction tools—such as memory timelines, context inspection, and prompt editing—to help developers understand and steer Hermes’ behavior. Built with modern frontend technologies, the dashboard is lightweight, customizable, and ready to integrate into any Hermes deployment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/joeynyc/hermes-hudui) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/joeynyc/hermes-hudui) · [← Back to AI/ML](./README.md)</sub>

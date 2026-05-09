@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 173 |
-| 🍴 **Forks** | 32 |
+| ⭐ **Stars** | 179 |
+| 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`crypto` `exchange-api` `finance` `quant` `quantitative-trading` `trading-infra`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Trading · Frontend
 
 ## 📝 Summary
 
-The Lqz13Th/extrema_infra project is an open-source, high-performance quantitative trading infrastructure developed using the Rust programming language. This infrastructure is designed to power advanced trading strategies in the cryptocurrency space, offering a robust foundation for developers to build upon. Its modular architecture and performance capabilities make it an attractive choice for professionals in the trading and crypto communities.
+Extrema Infra is a high‑performance, open‑source quantitative trading platform written in Rust, designed to handle the demanding speed and reliability requirements of modern crypto markets. It provides a modular architecture that includes low‑latency data ingestion, real‑time analytics, and a lightweight frontend for strategy development and monitoring. The project aims to enable developers and traders to build, test, and deploy algorithmic trading systems with minimal overhead and maximum safety.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/Lqz13Th/extrema_infra) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Lqz13Th/extrema_infra) · [← Back to Crypto](./README.md)</sub>

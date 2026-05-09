@@ -1,6 +1,6 @@
 # LanRhyme/MicYou
 
-[![Stars](https://img.shields.io/github/stars/LanRhyme/MicYou?style=flat-square&color=yellow)](https://github.com/LanRhyme/MicYou/stargazers) [![Forks](https://img.shields.io/github/forks/LanRhyme/MicYou?style=flat-square&color=blue)](https://github.com/LanRhyme/MicYou/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LanRhyme/MicYou?style=flat-square&color=yellow)](https://github.com/LanRhyme/MicYou/stargazers) [![Forks](https://img.shields.io/github/forks/LanRhyme/MicYou?style=flat-square&color=blue)](https://github.com/LanRhyme/MicYou/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for your PC.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 55 |
+| ⭐ **Stars** | 1.9k |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The LanRhyme/MicYou project is an open-source Android application that transforms a mobile device into a high-quality wireless microphone for PCs. This innovative tool empowers users to turn their Android smartphones into versatile, long-range microphones, offering flexibility and convenience for various audio applications. By utilizing mobile devices as wireless microphones, MicYou expands the possibilities for remote recording, live streaming, and more.
+MicYou is an open‑source Android app that transforms a smartphone into a high‑fidelity wireless microphone for a PC, enabling real‑time audio streaming over Wi‑Fi or Bluetooth. It includes low‑latency audio compression, configurable sampling rates, and a simple companion client for easy setup on Windows, macOS, or Linux. Ideal for podcasts, streaming, or voice‑chat, MicYou provides a cost‑effective alternative to dedicated USB or Bluetooth microphones.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/LanRhyme/MicYou) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/LanRhyme/MicYou) · [← Back to Mobile](./README.md)</sub>

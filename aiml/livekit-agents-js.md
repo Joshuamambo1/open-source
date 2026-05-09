@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 822 |
-| 🍴 **Forks** | 282 |
+| ⭐ **Stars** | 824 |
+| 🍴 **Forks** | 284 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The livekit/agents-js project provides an open-source framework for building real-time multimodal AI agents using Node.js. This framework enables developers to create advanced AI-powered applications that integrate multiple modes of interaction, such as voice, text, and video. By leveraging this technology, developers can create more seamless and intuitive user experiences.
+LiveKit Agents‑JS is an open‑source JavaScript SDK that lets developers create real‑time, multimodal AI agents using Node.js. It provides easy‑to‑use abstractions for audio, video, text, and tool integration, enabling agents to listen, speak, see, and act in live applications such as virtual assistants, collaborative tools, and interactive bots. The library is built on LiveKit’s real‑time communication platform, making it straightforward to connect AI agents to live video/audio streams and front‑end interfaces.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/livekit/agents-js) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/livekit/agents-js) · [← Back to AI/ML](./README.md)</sub>

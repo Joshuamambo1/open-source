@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 13.3k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a-registry` `agent` `ai-registry` `configuration-management` `distributed-configuration` `dubbo` `istio` `kubernetes` `mcp` `mcp-management` `mcp-registry` `microservices`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the Alibaba Nacos project:
-
-Nacos (Namned Operation Center Server) is an open-source platform for building AI cloud-native applications, offering dynamic service discovery, configuration management, and service orchestration capabilities. It simplifies the development process by automating the discovery, registration, and management of services in a microservices architecture. With Nacos, developers can focus on building scalable and efficient AI applications.
+Alibaba Nacos is an open‑source platform that provides dynamic service discovery, centralized configuration management, and comprehensive service governance for cloud‑native applications. Designed with AI and machine‑learning workloads in mind, it offers lightweight APIs and a user‑friendly dashboard for both frontend and backend developers to register, monitor, and manage micro‑services at scale. Its extensible architecture makes it easy to integrate into existing AI pipelines and Kubernetes‑based environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/alibaba/nacos) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/alibaba/nacos) · [← Back to AI/ML](./README.md)</sub>

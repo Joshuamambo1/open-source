@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3979** |
+| 🗂️ **Total projects** | **4019** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1606 | [Browse →](./aiml/) |
-| 📦 **Misc** | 633 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 1629 | [Browse →](./aiml/) |
+| 📦 **Misc** | 640 | [Browse →](./misc/) |
 | 🧩 **Orchestration** | 398 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 390 | [Browse →](./frontend/) |
-| 🔧 **DevTools** | 210 | [Browse →](./devtools/) |
+| 🎨 **Frontend** | 394 | [Browse →](./frontend/) |
+| 🔧 **DevTools** | 211 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 205 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 158 | [Browse →](./crypto/) |
-| 📊 **Data** | 87 | [Browse →](./data/) |
-| 💳 **Payments** | 84 | [Browse →](./payments/) |
+| ⛓️ **Crypto** | 159 | [Browse →](./crypto/) |
+| 📊 **Data** | 88 | [Browse →](./data/) |
+| 💳 **Payments** | 85 | [Browse →](./payments/) |
 | 📈 **Trading** | 55 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 51 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 42 | [Browse →](./mobile/) |
-| 🔐 **Security** | 34 | [Browse →](./security/) |
+| 📱 **Mobile** | 43 | [Browse →](./mobile/) |
+| 🔐 **Security** | 35 | [Browse →](./security/) |
 | ✨ **Design** | 12 | [Browse →](./design/) |
 | 🎯 **Product** | 10 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 4 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [alibaba/arthas](./orchestration/alibaba-arthas.md) | ⭐ 37.3k | Orchestration |
-| 2 | [open-multi-agent/open-multi-agent](./orchestration/open-multi-agent-open-multi-agent.md) | ⭐ 6.1k | Orchestration |
-| 3 | [authelia/authelia](./devopsinfra/authelia-authelia.md) | ⭐ 27.7k | DevOps & Infra |
-| 4 | [Narcooo/inkos](./aiml/narcooo-inkos.md) | ⭐ 5.9k | AI/ML |
-| 5 | [yzhao062/pyod](./orchestration/yzhao062-pyod.md) | ⭐ 9.8k | Orchestration |
-| 6 | [starship/starship](./misc/starship-starship.md) | ⭐ 57.3k | Misc |
-| 7 | [eosphoros-ai/DB-GPT](./aiml/eosphoros-ai-db-gpt.md) | ⭐ 18.7k | AI/ML |
+| 1 | [alibaba/nacos](./aiml/alibaba-nacos.md) | ⭐ 32.9k | AI/ML |
+| 2 | [alibaba/arthas](./orchestration/alibaba-arthas.md) | ⭐ 37.3k | Orchestration |
+| 3 | [open-multi-agent/open-multi-agent](./orchestration/open-multi-agent-open-multi-agent.md) | ⭐ 6.1k | Orchestration |
+| 4 | [authelia/authelia](./devopsinfra/authelia-authelia.md) | ⭐ 27.7k | DevOps & Infra |
+| 5 | [Narcooo/inkos](./aiml/narcooo-inkos.md) | ⭐ 5.9k | AI/ML |
+| 6 | [yzhao062/pyod](./orchestration/yzhao062-pyod.md) | ⭐ 9.8k | Orchestration |
+| 7 | [starship/starship](./misc/starship-starship.md) | ⭐ 57.3k | Misc |
 | 8 | [hwdsl2/docker-ipsec-vpn-server](./backend/hwdsl2-docker-ipsec-vpn-server.md) | ⭐ 7.1k | Backend |
-| 9 | [StarRocks/starrocks](./devtools/starrocks-starrocks.md) | ⭐ 11.7k | DevTools |
-| 10 | [stride3d/stride](./misc/stride3d-stride.md) | ⭐ 7.6k | Misc |
+| 9 | [eosphoros-ai/DB-GPT](./aiml/eosphoros-ai-db-gpt.md) | ⭐ 18.7k | AI/ML |
+| 10 | [StarRocks/starrocks](./devtools/starrocks-starrocks.md) | ⭐ 11.7k | DevTools |
 
 ## 🚀 How it works
 

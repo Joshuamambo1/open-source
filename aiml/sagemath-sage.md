@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 858 |
+| 🍴 **Forks** | 859 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-SageMath is an open-source, comprehensive mathematics software system that provides a unified platform for various mathematical disciplines. The project offers a broad range of features, including symbolic computation, algebraic geometry, calculus, and more, making it a valuable tool for researchers, students, and professionals in the field. SageMath is built on top of Python and utilizes a variety of open-source libraries to deliver a powerful and flexible mathematical environment.
+SageMath (hosted in the **sagemath/sage** repository) is an open‑source mathematics software system that integrates hundreds of existing open‑source packages into a unified, Python‑based environment. It provides a comprehensive, high‑performance platform for symbolic computation, numerical analysis, algebra, calculus, combinatorics, and more, making advanced mathematical research and teaching accessible without proprietary tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/sagemath/sage) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sagemath/sage) · [← Back to AI/ML](./README.md)</sub>

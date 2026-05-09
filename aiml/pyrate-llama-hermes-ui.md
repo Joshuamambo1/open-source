@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 98 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 107 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-assistant` `chat-interface` `dashboard` `glassmorphism` `hermes` `hermes-agent` `llm` `mcp` `python` `react` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the pyrate-llama/hermes-ui project:
-
-Hermes UI is an open-source, glassmorphic web interface for the Hermes Agent, a self-hosted AI assistant. This user-friendly interface enables users to interact with their AI assistant and access its various features from a web-based platform. By utilizing Hermes UI, users can enjoy a seamless and intuitive experience with their AI-powered assistant.
+pyrate-llama/hermes‑ui is a sleek, glass‑morphic web interface that serves as the central command hub for the Hermes Agent. It lets users chat with the agent, steer its behavior, browse and edit files, manage installed skills, and monitor performance—all from a single, responsive HTML application. Ideal for developers building AI/ML agents who need an intuitive frontend for real‑time interaction and control.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/pyrate-llama/hermes-ui) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pyrate-llama/hermes-ui) · [← Back to AI/ML](./README.md)</sub>

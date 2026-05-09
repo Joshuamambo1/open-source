@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 97 |
+| 🍴 **Forks** | 96 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`elm` `gtk` `gtk4` `gui` `hacktoberfest` `native` `relm` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Relm4 is an open-source project that enables developers to create native applications with ease, providing a simple and efficient way to build high-performance, platform-specific applications. By leveraging Relm4, developers can craft visually appealing and user-friendly interfaces for various platforms, streamlining the process of creating native apps. This project is ideal for frontend developers looking to build native applications with a high degree of customization and performance.
+Relm4 is an open‑source Rust framework for building native graphical user interfaces with a declarative, Elm‑inspired architecture. It leverages GTK 4 to let developers create responsive, type‑safe front‑ends while handling state management, actions, and component composition in a concise, ergonomic way. Ideal for anyone wanting to craft truly native applications without the overhead of web‑based UI stacks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Relm4/Relm4) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Relm4/Relm4) · [← Back to Frontend](./README.md)</sub>

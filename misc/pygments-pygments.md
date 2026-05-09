@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 801 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`python` `syntax-highlighting`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Pygments is an open-source Python library that provides a generic syntax highlighting engine, allowing developers to easily highlight and format code snippets from various programming languages and markup formats. It supports over 500 languages and is highly customizable, making it a versatile tool for text processing and documentation. Pygments can be seamlessly integrated into a wide range of applications, from IDEs and text editors to web development frameworks and documentation generators.
+Pygments is a versatile, open‑source syntax highlighter written in Python that supports a wide range of programming languages and markup formats. It can be used as a library, command‑line tool, or integrated into web applications to produce richly colored source code for documentation, blogs, and IDEs. Its extensible architecture allows developers to add new lexers, formatters, and style themes.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/pygments/pygments) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pygments/pygments) · [← Back to Misc](./README.md)</sub>

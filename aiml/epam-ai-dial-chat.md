@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-dial` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The epam/ai-dial-chat project is an open-source, user-friendly interface for AI DIAL, designed to facilitate seamless interactions between users and AI systems. Built with a focus on ease of use, this frontend solution enables developers to integrate AI DIAL capabilities into various applications and platforms. By providing a default UI, this project simplifies the development process and accelerates the deployment of AI-powered conversational interfaces.
+epam/ai-dial-chat provides a ready‑to‑use web interface for the AI DIAL platform, enabling developers to interact with AI models through a clean, responsive front‑end. Built with modern JavaScript frameworks, it offers customizable components, real‑time chat capabilities, and easy integration into existing AI/ML pipelines. The project serves as a reference UI for rapid prototyping and deployment of conversational AI applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/epam/ai-dial-chat) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/epam/ai-dial-chat) · [← Back to AI/ML](./README.md)</sub>

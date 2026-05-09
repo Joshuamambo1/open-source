@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Vim Script |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`borland` `command-line` `gui` `neovim` `neovim-plugin` `neovim-plugins` `popup` `productive` `quickui` `terminal` `text-editor` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Product
 
 ## 📝 Summary
 
-Vim-QuickUI is an open-source project that extends Vim 9 and NeoVim with a missing UI framework, providing a simple and intuitive interface for users to interact with their editor. This project aims to bridge the gap in Vim's UI capabilities, allowing developers to create more efficient and user-friendly workflows. By leveraging Vim 9's scripting capabilities, Vim-QuickUI offers a powerful and customizable solution for Vim and NeoVim users.
+skywind3000/vim-quickui provides a set of lightweight, cross‑compatible UI components that extend Vim 9 and Neovim with modern dialog boxes, menus, input prompts, and floating windows. Designed for developers who need quick, scriptable interfaces without leaving the editor, the plugin offers a simple API and works seamlessly on both Vim and Neovim. It fills the gap of missing native UI features, making interactive workflows faster and more ergonomic.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/skywind3000/vim-quickui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/skywind3000/vim-quickui) · [← Back to Frontend](./README.md)</sub>

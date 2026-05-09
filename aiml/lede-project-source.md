@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The LEDE Project Source repository is an open-source project that mirrors the official LEDE Project source code from git.lede-project.org. This mirror is used for collaborative development and accepts pull requests, which are then merged into the main repository. The LEDE Project focuses on AI/ML development.
+The **lede-project/source** repository is a mirror of the official LEDE (Linux Embedded Development Environment) source code, serving as a centralized point for submitting pull requests. Contributions are merged through staging trees before being integrated back into the main `source.git` tree, ensuring a streamlined workflow for updates and bug fixes. This project is relevant to AI/ML developers who build or customize embedded Linux systems for machine‑learning applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/lede-project/source) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/lede-project/source) · [← Back to AI/ML](./README.md)</sub>

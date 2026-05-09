@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-based-simulation` `artificial-life` `cuda` `open-ended-evolution` `physics-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-chrxh/alien is a promising open-source project. Categories: Misc. Interest score: 84/100.
+ALIEN is an open‑source artificial‑life simulator that leverages NVIDIA's CUDA platform to run complex, large‑scale evolutionary dynamics in real time on GPUs. By providing a highly parallelized framework, it enables researchers and hobbyists to experiment with emergent behaviors, population genetics, and ecosystem interactions at speeds far beyond CPU‑only simulations. The project is positioned within the AI/ML domain, offering a versatile testbed for studying adaptive algorithms and bio‑inspired computation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/chrxh/alien) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/chrxh/alien) · [← Back to AI/ML](./README.md)</sub>

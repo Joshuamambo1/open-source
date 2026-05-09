@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 32 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai` `claude` `codex-cli` `copilot` `document-processing` `llm` `mcp` `mcp-server` `model-context-protocol` `opencode` `pdf`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The jztan/pdf-mcp project provides an MCP server for efficient handling of large PDFs, allowing AI agents like Claude Code to access and process them without hitting context limits. This open-source solution offers features such as chunked reading, hybrid search, OCR, table and image extraction, and a SQLite cache for optimal performance. It serves as a valuable tool for developers working with AI and machine learning applications that rely on large-scale PDF processing.
+jztan/pdf-mcp is a lightweight backend service that enables Claude Code and other AI agents to ingest and query massive PDF documents without exceeding token limits. It preprocesses files into searchable chunks, combines vector and keyword search, and adds OCR, table and image extraction while caching results in SQLite for fast repeated access. The project is ideal for developers needing AI‑driven document retrieval and analysis in their applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/jztan/pdf-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jztan/pdf-mcp) · [← Back to AI/ML](./README.md)</sub>

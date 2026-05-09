@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 431 |
+| ⭐ **Stars** | 433 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ebitengine` `framework` `go` `golang` `gui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the guigui project:
-
-Guigui is an open-source, immediate-mode-inspired GUI framework designed for Go, providing developers with a powerful tool for building desktop applications. It leverages the strengths of the Go language to create a flexible and efficient GUI library. With guigui, developers can create custom, responsive, and interactive user interfaces for their Go-based applications.
+Guigui is an immediate‑mode‑inspired graphical user interface framework for the Go programming language, offering a lightweight, declarative API for building responsive desktop applications. It abstracts low‑level drawing and event handling while providing a familiar, state‑driven workflow that lets developers create UI elements quickly and iterate in real time. Ideal for Go developers seeking a simple yet powerful front‑end solution without the overhead of heavyweight UI toolkits.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/guigui-gui/guigui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/guigui-gui/guigui) · [← Back to Frontend](./README.md)</sub>

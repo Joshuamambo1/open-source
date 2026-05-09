@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 877 |
+| ⭐ **Stars** | 878 |
 | 🍴 **Forks** | 353 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus-17` `cpp` `cross-platform` `game` `hacktoberfest` `linux` `lua` `lua-script` `macos` `modern-cpp` `mud` `mudlet`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Mudlet is a free and open-source graphical MUD (Multi-User Dungeon) client that supports scripting in Lua, allowing users to customize and extend its functionality. This cross-platform application is designed for speed and usability, making it a popular choice among MUD enthusiasts. With its Lua scripting capabilities, Mudlet offers flexibility and versatility for both players and developers.
+Mudlet is a high‑performance, cross‑platform MUD (Multi‑User Dungeon) client that’s fully open source and extensible through Lua scripting. It offers a rich set of development tools—such as triggers, aliases, timers, and a powerful UI editor—to help players and developers customize and automate their gameplay experiences.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Mudlet/Mudlet) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Mudlet/Mudlet) · [← Back to DevTools](./README.md)</sub>

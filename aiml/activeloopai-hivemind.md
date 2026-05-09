@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 65 |
+| ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-memory` `anthropic` `artificial-intelligence` `claude` `claude-agent-sdk` `claude-agents` `claude-code-plugin` `claude-skills` `codex` `embeddings`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Hivemind is an open-source project that enables the integration and coordination of multiple AI agents under a unified brain, allowing for more efficient and scalable machine learning operations. This project provides a framework for distributed AI systems, making it easier to manage and optimize complex agent interactions. By unifying agents under a single brain, Hivemind facilitates collaboration and accelerates decision-making in AI-driven applications.
+ActiveloopAI Hivemind is an open‑source framework that lets multiple AI agents share a common, synchronized neural “brain,” enabling them to read, write, and collaborate on the same model state in real time. By providing a distributed, fault‑tolerant memory layer built on top of PyTorch and DeepSpeed, Hivemind simplifies the development of large‑scale, multi‑agent systems for research and production.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/activeloopai/hivemind) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/activeloopai/hivemind) · [← Back to AI/ML](./README.md)</sub>

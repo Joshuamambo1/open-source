@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 690 |
+| ⭐ **Stars** | 693 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-TypeAgent is an open-source project that demonstrates the use of language models to develop a personal agent that can interact with application agents. This architecture allows for the creation of a customized agent that can perform tasks and provide assistance based on user input and application capabilities. By combining AI/ML and frontend technologies, TypeAgent enables the development of more intuitive and personalized interfaces.
+TypeAgent is an open‑source sample that demonstrates how to combine large language models with specialized application agents to create a personal AI assistant. It showcases an architecture where a central language‑model‑driven “brain” orchestrates multiple domain‑specific agents, handling tasks such as context management, intent routing, and action execution. The project includes reference implementations and a lightweight frontend for interactive experimentation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/microsoft/TypeAgent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/microsoft/TypeAgent) · [← Back to AI/ML](./README.md)</sub>

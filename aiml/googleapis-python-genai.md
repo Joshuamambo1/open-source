@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 856 |
+| 🍴 **Forks** | 855 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The googleapis/python-genai project offers an open-source Python SDK that allows developers to integrate Google's generative AI models into their applications. This Python interface provides a convenient way to leverage the power of Google's generative models, enabling users to build more sophisticated and intelligent applications. With this SDK, developers can easily incorporate AI-driven features into their Python projects.
+The **googleapis/python-genai** SDK lets developers seamlessly access Google’s generative AI models from Python code. It offers a clean, well‑documented interface for invoking text, image, and multimodal generation services, handling authentication, request formatting, and response parsing out‑of‑the‑box. Ideal for AI/ML, backend, and developer‑tooling projects that need to embed Google’s cutting‑edge generative capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/googleapis/python-genai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/googleapis/python-genai) · [← Back to AI/ML](./README.md)</sub>

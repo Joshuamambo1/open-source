@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 1k |
+| 🍴 **Forks** | 1.1k |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here is a brief summary of the project:
-
-TrendRadar is an open-source project that enables real-time monitoring of 35 popular Chinese social media platforms, including Douyin and Bilibili. It uses intelligent keyword filtering to generate automated trend analysis reports, and can be configured to send notifications via enterprise messaging apps like WeChat and DingTalk, or via Telegram. With a simple 30-second web deployment and 1-minute mobile notification, TrendRadar makes it easy for anyone to stay on top of the latest trends without requiring programming knowledge.
+Joyce677’s **TrendRadar** is an open‑source monitoring platform that aggregates real‑time hot topics from 35 sources—including Toutiao, Baidu Hot Search, Weibo, Douyin, Zhihu, and Bilibili—then applies smart keyword filtering to automatically generate comprehensive trend analysis reports. The system integrates with enterprise messengers (WeChat Work, Feishu, DingTalk, Telegram) for instant notifications, offers both text and image APIs, and can be deployed in 30 seconds on a web server with mobile alerts within a minute, all without requiring programming expertise.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/joyce677/TrendRadar) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/joyce677/TrendRadar) · [← Back to AI/ML](./README.md)</sub>

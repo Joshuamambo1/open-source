@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 306 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`activitypub` `books` `bookwyrm` `decentralization` `federation` `openlibrary` `reading` `social-media`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Bookwyrm is an open-source social reading and reviewing platform that utilizes the decentralized ActivityPub protocol to allow users to share and discover content in a community-driven way. This platform enables users to follow authors, read reviews, and interact with others through social features, promoting a collaborative and inclusive online space. By leveraging the power of ActivityPub, Bookwyrm aims to create a more equitable and community-centric alternative to traditional social media platforms.
+bookwyrm is an open‑source platform for social reading and book reviewing that lets users share their reading activity, write reviews, and follow friends across the web. Built on the ActivityPub protocol, it operates as a decentralized service, enabling federation with other compatible instances while preserving user control over data. The project provides a self‑hostable, community‑driven alternative to centralized book‑social networks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/bookwyrm-social/bookwyrm) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/bookwyrm-social/bookwyrm) · [← Back to Misc](./README.md)</sub>

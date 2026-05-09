@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 371 |
-| 🍴 **Forks** | 111 |
+| 🍴 **Forks** | 112 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The googleapis/java-genai project is an open-source Java SDK that enables developers to integrate Google's generative models into their Java applications. This SDK provides a simple interface for leveraging the power of AI-driven generative models, making it easier to build intelligent and interactive applications. By utilizing the Gen AI Java SDK, developers can unlock new possibilities for text generation, image creation, and more.
+The **googleapis/java-genai** project is an open‑source Java SDK that lets developers easily incorporate Google’s generative AI models—such as Gemini—into their Java applications. It provides a clean, type‑safe API for authentication, request construction, and response handling, streamlining the integration of generative AI capabilities on the backend. Ideal for AI/ML, backend services, and developer tooling, the SDK accelerates building AI‑powered features with minimal setup.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/googleapis/java-genai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/googleapis/java-genai) · [← Back to AI/ML](./README.md)</sub>

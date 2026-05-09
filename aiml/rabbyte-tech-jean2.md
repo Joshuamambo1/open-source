@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agents` `ai-agent` `ai-agents` `coding-agent`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "rabbyte-tech/jean2":
-
-Jean2 is an open-source, AI agent that enables seamless communication between a server and any device, allowing for customizable behavior without any pre-defined actions. This versatile platform empowers developers to create tailored AI experiences with flexibility and adaptability. By harnessing machine learning capabilities, Jean2 promises to revolutionize the way we interact with AI.
+Jean 2 is an open‑source, server‑based AI agent platform that runs on a single backend and can be accessed from any device. It provides a flexible framework with no hard‑coded behaviors, allowing developers to plug in their own AI models, tools, and workflows. Ideal for AI/ML and backend projects that need a customizable, device‑agnostic conversational agent.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/rabbyte-tech/jean2) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/rabbyte-tech/jean2) · [← Back to AI/ML](./README.md)</sub>

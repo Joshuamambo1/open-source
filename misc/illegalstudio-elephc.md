@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 105 |
+| ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`assembly` `compiler` `linux` `macos` `php`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The elephc project is an open-source PHP compiler that translates a subset of PHP code into native assembly, eliminating the need for runtime dependencies. It supports compilation to standalone binaries for macOS ARM64, Linux ARM64, and Linux x86_64 architectures, resulting in fast and portable executables. By bypassing the traditional interpreter or virtual machine, elephc offers a unique approach to compiling PHP code for direct execution.
+illegalstudio/elephc is an open‑source PHP‑to‑native compiler that translates a defined subset of PHP code straight into machine assembly, generating self‑contained executable binaries. It supports macOS ARM64, Linux ARM64, and Linux x86_64 targets, eliminating the need for an interpreter, virtual machine, or any runtime dependencies.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/illegalstudio/elephc) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/illegalstudio/elephc) · [← Back to Misc](./README.md)</sub>

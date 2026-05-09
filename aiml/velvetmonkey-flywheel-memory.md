@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 39 |
-| 🍴 **Forks** | 7 |
+| ⭐ **Stars** | 42 |
+| 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-tools` `backlinks` `benchmark` `claude` `claude-desktop` `hotpotqa` `knowledge-graph` `local-first` `markdown` `mcp` `mcp-server` `model-context-protocol`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The flywheel-memory project is an open-source initiative that leverages a MCP server to provide artificial intelligence (AI) with a comprehensive knowledge graph derived from Obsidian vaults. This innovative system employs a 13-layer scoring mechanism that learns and adapts, allowing for a more sophisticated and dynamic understanding of the underlying data. By being local-first and zero-cloud, flywheel-memory prioritizes data privacy and autonomy.
+VelvetMonkey’s **flywheel‑memory** is an open‑source MCP (Minecraft‑compatible) server that builds a dynamic knowledge graph from your Obsidian vaults, enabling AI agents to query and reason over your personal notes in real time. It employs a novel 13‑layer scoring system that continuously learns and refines relevance, while remaining fully local‑first with no cloud dependencies. Ideal for developers seeking a privacy‑preserving, backend‑focused AI/ML solution for personal knowledge management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/velvetmonkey/flywheel-memory) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/velvetmonkey/flywheel-memory) · [← Back to AI/ML](./README.md)</sub>

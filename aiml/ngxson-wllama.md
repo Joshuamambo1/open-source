@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 89 |
+| 🍴 **Forks** | 90 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`llama` `llamacpp` `llm` `wasm` `webassembly`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The ngxson/wllama project is an open-source implementation of a WebAssembly binding for llama.cpp, allowing for on-browser Large Language Model (LLM) inference. This binding enables the seamless integration of LLM capabilities within web applications, promoting more efficient and localized AI processing. By leveraging WebAssembly, developers can now harness the power of LLMs directly within web browsers.
+ngxson/wllama is an open‑source library that provides WebAssembly bindings for the popular llama.cpp inference engine, allowing large language models to run directly in web browsers. By compiling llama.cpp to WASM and exposing a JavaScript API, wllama enables client‑side, privacy‑preserving LLM inference without requiring any server‑side compute. The project targets developers building AI‑enhanced web applications and fits within the AI/ML ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/ngxson/wllama) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ngxson/wllama) · [← Back to AI/ML](./README.md)</sub>

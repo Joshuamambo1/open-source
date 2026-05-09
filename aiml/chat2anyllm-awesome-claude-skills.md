@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Chat2AnyLLM/awesome-claude-skills is an open-source project that curates a list of Claude skills, a suite of AI capabilities designed to interact with Claude, a large language model. This collection of skills enables users to extend the functionality of Claude and create custom applications. By providing a centralized repository of Claude skills, the project aims to facilitate innovation and collaboration in the field of AI/ML.
+Chat2AnyLLM/awesome-claude-skills is an open‑source, community‑maintained repository that collects and organizes a wide range of Claude (Anthropic) skill prompts, examples, and utilities. It serves as a go‑to reference for developers and AI enthusiasts looking to leverage Claude’s capabilities across various domains, from text generation to data analysis. The curated list is regularly updated, making it a valuable resource for anyone building or experimenting with Claude‑powered applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Chat2AnyLLM/awesome-claude-skills) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Chat2AnyLLM/awesome-claude-skills) · [← Back to AI/ML](./README.md)</sub>

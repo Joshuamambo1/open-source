@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 140 |
+| ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`self-improvement` `self-improving-agent` `self-improving-ai` `self-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Reflexio is an open-source AI self-improvement harness that empowers AI agents to learn from real user interactions, enabling them to adapt and improve over time. This tool allows agents to continuously update their knowledge and skills based on user feedback, leading to enhanced performance and capabilities. By harnessing user interactions, Reflexio facilitates a cycle of continuous improvement for AI agents.
+ReflexioAI/reflexio is an open‑source harness that empowers AI agents to autonomously refine their performance by learning from real‑world user interactions. It provides a framework for continuous self‑improvement, allowing agents to capture feedback, update their models, and adapt their behavior without manual intervention. Ideal for developers looking to embed adaptive, self‑learning capabilities into their AI/ML applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ReflexioAI/reflexio) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ReflexioAI/reflexio) · [← Back to AI/ML](./README.md)</sub>

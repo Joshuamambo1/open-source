@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 125 |
+| ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `agentic-coding` `agents` `ai` `cline` `copilot` `llm` `mcp` `rules` `templates`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Agentic Coding is an open-source repository that provides a collection of rules, templates, and best practices for applying agentic coding principles in software development. This project aims to facilitate the integration of human-like behavior and autonomy in coding, enabling developers to create more efficient and adaptive software systems. By leveraging AI/ML principles, Agentic Coding offers a set of tools and guidelines for developers to craft more intelligent and responsive code.
+**Agentic Coding** is an open‑source toolkit that provides a collection of rules, templates, and utilities for building “agentic” code—self‑directed, AI‑augmented programs that can reason, plan, and execute tasks autonomously. It targets developers working at the intersection of AI/ML and DevTools, offering ready‑made patterns and best‑practice guidelines to streamline the creation, testing, and deployment of intelligent coding agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/sammcj/agentic-coding) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sammcj/agentic-coding) · [← Back to AI/ML](./README.md)</sub>

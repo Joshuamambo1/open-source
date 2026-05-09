@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 402 |
+| 🍴 **Forks** | 403 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloudflare` `ffi` `rust` `serverless` `webassembly` `workers` `workers-rs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The cloudflare/workers-rs project enables developers to write Cloudflare Workers in 100% Rust, utilizing WebAssembly to compile Rust code into a format that can run on Cloudflare's edge infrastructure. This allows for efficient and secure execution of Rust code at the edge, providing a flexible and powerful tool for building web applications and services. By leveraging Rust's strong focus on safety and performance, developers can create high-performance and secure edge computing applications.
+cloudflare/workers-rs lets developers write Cloudflare Workers entirely in Rust, compiling the code to WebAssembly for seamless deployment on the Cloudflare edge network. The project provides a native Rust SDK, tooling, and bindings that abstract the Workers runtime, enabling high‑performance, type‑safe backend logic without needing JavaScript. It’s open‑source, actively maintained, and integrates with Cloudflare’s platform for scalable serverless applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cloudflare/workers-rs) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/cloudflare/workers-rs) · [← Back to Backend](./README.md)</sub>

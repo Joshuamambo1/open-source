@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 153 |
+| ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gstreamer` `gstreamer-rs` `gtk4` `gtk4-rs` `libadwaita` `libadwaita-rs` `local-music-player` `music-player` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Mellow is an open-source project that aims to provide a distraction-free music listening experience. Utilizing AI/ML technologies, it strives to minimize background noise and interruptions, allowing users to fully immerse themselves in their music. This project seeks to create a serene environment for music enthusiasts to enjoy their favorite tracks without any distractions.
+Userwithaname/mellow is an open‑source, distraction‑free music player that leverages AI/ML techniques to curate and deliver seamless listening experiences. It automatically analyzes user preferences and contextual cues to generate personalized playlists, while offering a minimalist interface that eliminates interruptions and visual clutter. The project aims to make music consumption more immersive and effortless for anyone seeking a calm, focused environment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Userwithaname/mellow) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Userwithaname/mellow) · [← Back to AI/ML](./README.md)</sub>

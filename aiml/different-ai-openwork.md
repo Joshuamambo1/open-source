@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14.7k |
-| 🍴 **Forks** | 1.4k |
+| ⭐ **Stars** | 14.9k |
+| 🍴 **Forks** | 1.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Openwork is an open-source alternative to Claude Cowork, designed to enhance collaboration and productivity for teams. Built on opencode, a powerful AI foundation, Openwork streamlines workflows and fosters seamless communication among team members. This innovative platform leverages AI/ML capabilities to unlock new possibilities for team collaboration and growth.
+different-ai/openwork is an open-source platform that replicates the functionality of Claude Cowork, providing a collaborative AI workspace powered by the Opencode framework. It enables developers and teams to create, share, and run AI-driven projects with customizable models and integrations, all under a permissive open-source license.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/different-ai/openwork) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/different-ai/openwork) · [← Back to AI/ML](./README.md)</sub>

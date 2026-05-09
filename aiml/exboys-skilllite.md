@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentskills` `ai-agents` `rust-sandbox` `sandbox` `self-evolving`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-EXboys/SkillLite is an open-source, Rust-based project that provides a lightweight and secure Self-evolution engine. This engine features a native system-level sandbox for isolated execution, zero dependencies, and fully local processing, making it an ideal solution for applications requiring robust security and minimal external influences. Suitable for use in AI/ML and frontend development, SkillLite offers a reliable foundation for building scalable and efficient software solutions.
+EXboys/skilllite is a lightweight, secure self‑evolution engine written in Rust that runs entirely locally with zero external dependencies. It includes a native system‑level sandbox to safely execute dynamically generated code, making it ideal for AI/ML and frontend applications that require on‑device adaptation without relying on remote services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/EXboys/skilllite) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/EXboys/skilllite) · [← Back to AI/ML](./README.md)</sub>

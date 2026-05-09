@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 932 |
+| ⭐ **Stars** | 934 |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-This project, TVBox_live, is an open-source tool for live TV source discovery, speed testing, and optimized selection. It helps users find and evaluate live TV sources, providing a convenient way to choose the best option. By automating the process, TVBox_live streamlines the search for reliable and high-quality live TV streams.
+Supprise0901’s **TVBox_live** is an open‑source tool for searching, testing, and optimizing live streaming sources. It provides utilities to retrieve stream URLs, measure their performance, and automatically select the best‑quality feeds, making it easier to curate reliable live‑TV content. The project is categorized under “Misc” and is documented in Chinese.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Supprise0901/TVBox_live) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Supprise0901/TVBox_live) · [← Back to Misc](./README.md)</sub>

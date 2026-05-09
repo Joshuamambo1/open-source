@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 528 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`autochess` `pokemon` `pokemon-auto-chess`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-keldaanCommunity/pokemonAutoChess is a promising open-source project. Categories: Misc. Interest score: 64/100.
+A fan‑made, open‑source Pokémon Auto Chess game that recreates the strategic auto‑battler experience using Pokémon characters. Developed by the keldaanCommunity, the project is non‑commercial, respects all rights of The Pokémon Company, and invites contributions from the community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/keldaanCommunity/pokemonAutoChess) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/keldaanCommunity/pokemonAutoChess) · [← Back to Misc](./README.md)</sub>

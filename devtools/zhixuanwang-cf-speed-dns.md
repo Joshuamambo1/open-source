@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 421 |
+| 🍴 **Forks** | 420 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project, CF Speed DNS, is a tool designed to dynamically fetch preferred IP addresses from Cloudflare, as well as perform speed tests using Cloudflare's Speed Test feature. It is categorized as a DevTool and can be used to optimize website performance by selecting the best IP address for Cloudflare.
+ZhiXuanWang’s **cf-speed-dns** is a developer‑focused utility for automatically retrieving Cloudflare’s optimal IP addresses and measuring their performance with CloudflareSpeedTest. It dynamically fetches the best‑performing Cloudflare endpoints and provides speed‑testing capabilities, helping users configure faster, more reliable DNS routing.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ZhiXuanWang/cf-speed-dns) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ZhiXuanWang/cf-speed-dns) · [← Back to DevTools](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 113 |
-| 🍴 **Forks** | 99 |
+| ⭐ **Stars** | 115 |
+| 🍴 **Forks** | 100 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `sdlc-platform` `speckit`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The ambient-code/platform is an open-source, virtual team management and collaboration platform that leverages AI and ML technologies to streamline workflows and enhance productivity. This platform is designed to meet the needs of modern teams, providing a comprehensive toolset for communication, project management, and collaboration. With its user-friendly interface and robust features, ambient-code/platform empowers teams to work together more efficiently and effectively.
+ambient-code/platform is an open‑source virtual team management and collaboration suite that leverages AI/ML to streamline communication, task coordination, and knowledge sharing across distributed teams. Built with a modern frontend stack, it offers interactive dashboards, real‑time chat, AI‑driven insights, and extensible integrations, all documented in its user guides. The project aims to provide a scalable, privacy‑focused alternative to commercial collaboration tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ambient-code/platform) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ambient-code/platform) · [← Back to AI/ML](./README.md)</sub>

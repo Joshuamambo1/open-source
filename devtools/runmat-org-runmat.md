@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 209 |
+| ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gpu` `gpu-acceleration` `gpu-computing` `gpu-programming` `jit-compiler` `jupyter` `linear-algebra` `mathematics` `matlab` `numerical-analysis` `plotting` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Runmat is an open-source project that provides a runtime environment for mathematical computations. It allows users to write MATLAB syntax and automatically execute it on both CPU and GPU, making it a versatile tool for numerical computations. With runmat, users can easily install and embed the runtime in various environments, including the command line, npm packages, and even directly in their web browsers.
+Runmat is an open‑source runtime that lets you execute MATLAB‑style code directly on CPUs or GPUs without any manual configuration. It can be installed via a command‑line tool, embedded in projects through NPM, or used instantly in a web browser—no account required. Ideal for developers needing seamless, high‑performance mathematical computing in a familiar syntax.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/runmat-org/runmat) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/runmat-org/runmat) · [← Back to DevTools](./README.md)</sub>

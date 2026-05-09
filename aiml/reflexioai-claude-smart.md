@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27 |
-| 🍴 **Forks** | 6 |
+| ⭐ **Stars** | 45 |
+| 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude` `claude-code` `claude-code-plugin` `memory` `self-improvement` `self-improving-ai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Claude-smart is an open-source plugin that enhances Claude Code's capabilities by allowing it to learn from user corrections, enabling continuous self-improvement and more accurate responses. This plugin leverages machine learning to refine Claude's understanding, ultimately providing a more personalized and effective experience. By incorporating user feedback, Claude-smart empowers Claude Code to adapt and improve over time.
+ReflexioAI/claude-smart is an open‑source Claude Code plugin that enables the model to self‑improve by learning from user corrections rather than merely storing them as static edits. It integrates a feedback loop that updates Claude’s code‑generation behavior in real time, enhancing accuracy and adaptability across development tasks. This tool is positioned within the AI/ML ecosystem for developers seeking smarter, continuously evolving code assistants.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/ReflexioAI/claude-smart) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ReflexioAI/claude-smart) · [← Back to AI/ML](./README.md)</sub>

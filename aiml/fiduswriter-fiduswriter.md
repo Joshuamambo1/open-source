@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`academics` `biblatex` `bibtex` `citations` `docx` `jats` `jats-publishing` `jats-xml` `latex` `math` `opendocument` `text-editor`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Fidus Writer is an open-source, online collaborative editor designed specifically for academics, providing a seamless platform for scholars to work together on research papers, theses, and other academic documents. This AI-powered tool enables real-time co-authoring, version control, and commenting features, fostering a more efficient and effective collaborative environment. With Fidus Writer, researchers can focus on advancing knowledge without the hassle of cumbersome editing processes.
+Fidus Writer is an open‑source, web‑based collaborative writing platform tailored for academic authors. It provides a rich, LaTeX‑compatible editor with real‑time co‑authoring, citation management, and version control, enabling researchers to compose and publish scholarly manuscripts together. The project also integrates AI‑assisted features for content suggestion and formatting, enhancing productivity in academic writing workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/fiduswriter/fiduswriter) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/fiduswriter/fiduswriter) · [← Back to AI/ML](./README.md)</sub>

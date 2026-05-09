@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**99 projects** in this category.
+**101 projects** in this category.
 
 ## Projects
 
@@ -100,13 +100,15 @@
 | 90 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
 | 91 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 162 | Rust | 48/100 |
 | 92 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 48/100 |
-| 93 | [RetroAchievements/RAWeb](./retroachievements-raweb.md) | ⭐ 395 | PHP | 47/100 |
-| 94 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 46/100 |
-| 95 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 44/100 |
-| 96 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 44/100 |
-| 97 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
-| 98 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
-| 99 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
+| 93 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 335 | R | 47/100 |
+| 94 | [RetroAchievements/RAWeb](./retroachievements-raweb.md) | ⭐ 395 | PHP | 47/100 |
+| 95 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 46/100 |
+| 96 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 44/100 |
+| 97 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 44/100 |
+| 98 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
+| 99 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 39/100 |
+| 100 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
+| 101 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
 
 ---
 

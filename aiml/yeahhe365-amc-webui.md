@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 837 |
+| ⭐ **Stars** | 843 |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `chatbot` `gemini` `gemini-api` `google` `image-generation` `local-first` `pwa` `react` `tailwindcss` `typescript` `vite`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-AMC-WebUI is an open-source, local-first web interface for Gemini and AI workflows. It offers a comprehensive set of features, including multi-modal chat, code execution, advanced reasoning, file processing, and real-time search. This web UI is designed to provide a seamless and efficient experience for developers and users to harness the power of AI and Gemini in a local environment.
+**yeahhe365/AMC-WebUI** is an open‑source, Local‑First web interface designed for Gemini‑based AI workflows. It combines multimodal chat, an interactive canvas, file handling, real‑time search, code execution, and advanced reasoning capabilities into a single, unified UI. The project provides both frontend and backend components, enabling developers to run sophisticated AI pipelines locally without relying on external services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/yeahhe365/AMC-WebUI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/yeahhe365/AMC-WebUI) · [← Back to AI/ML](./README.md)</sub>

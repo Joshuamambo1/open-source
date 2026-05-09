@@ -1,6 +1,6 @@
 # ojuschugh1/sqz
 
-[![Stars](https://img.shields.io/github/stars/ojuschugh1/sqz?style=flat-square&color=yellow)](https://github.com/ojuschugh1/sqz/stargazers) [![Forks](https://img.shields.io/github/forks/ojuschugh1/sqz?style=flat-square&color=blue)](https://github.com/ojuschugh1/sqz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ojuschugh1/sqz?style=flat-square&color=yellow)](https://github.com/ojuschugh1/sqz/stargazers) [![Forks](https://img.shields.io/github/forks/ojuschugh1/sqz?style=flat-square&color=blue)](https://github.com/ojuschugh1/sqz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Compress LLM context to save tokens and reduce costs
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 195 |
-| 🍴 **Forks** | 7 |
+| ⭐ **Stars** | 215 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai` `api` `cli` `context` `cost-optimization` `developer-tools` `extensions` `javascript` `llms` `open-source` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The sqz project is an open-source tool designed to compress Large Language Model (LLM) context, resulting in significant token savings and cost reductions for developers working with AI/ML applications. By optimizing context compression, sqz enables more efficient use of computing resources and reduces the financial burden associated with LLM operations. This project is particularly useful for developers working on backend applications and utilizing DevTools.
+**sqz** is an open‑source utility that compresses the context of large language model (LLM) prompts, enabling developers to represent the same information using far fewer tokens. By encoding and decoding conversational history on the backend, it helps lower API usage costs while preserving the quality of LLM responses. Ideal for AI/ML applications, backend services, and developer tooling that need efficient token management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ojuschugh1/sqz) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ojuschugh1/sqz) · [← Back to AI/ML](./README.md)</sub>

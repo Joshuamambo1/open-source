@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**59 projects** in this category.
+**60 projects** in this category.
 
 ## Projects
 
@@ -63,10 +63,11 @@
 | 53 | [qiboteam/qibo](./qiboteam-qibo.md) | ⭐ 353 | Python | 51/100 |
 | 54 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 51/100 |
 | 55 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 51/100 |
-| 56 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
-| 57 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 341 | Rust | 49/100 |
-| 58 | [tqec/tqec](./tqec-tqec.md) | ⭐ 361 | Python | 48/100 |
-| 59 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 312 | Rust | 47/100 |
+| 56 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 496 | Python | 50/100 |
+| 57 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
+| 58 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 341 | Rust | 49/100 |
+| 59 | [tqec/tqec](./tqec-tqec.md) | ⭐ 361 | Python | 48/100 |
+| 60 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 312 | Rust | 47/100 |
 
 ---
 

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 765 |
+| ⭐ **Stars** | 776 |
 | 🍴 **Forks** | 238 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools · Mobile
 
 ## 📝 Summary
 
-Meshtastic/Meshtastic-Apple is an open-source project providing Apple iOS, iPadOS, and macOS clients for the Meshtastic network. This project enables seamless communication between devices on the Meshtastic network, allowing users to share data and collaborate across different platforms. With Meshtastic-Apple, users can integrate their Apple devices into a robust and decentralized mesh network.
+Meshtastic‑Apple provides native Apple clients for the Meshtastic mesh‑networking platform, offering fully featured iOS, iPadOS, and macOS applications. The apps let users configure devices, send and receive messages, share locations, and manage node settings—all through an intuitive UI that integrates with Apple’s ecosystem. As an open‑source DevTools project, it enables developers to extend or customize the client for their own mesh‑network solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/meshtastic/Meshtastic-Apple) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/meshtastic/Meshtastic-Apple) · [← Back to DevTools](./README.md)</sub>

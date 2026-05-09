@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**227 projects** in this category.
+**228 projects** in this category.
 
 ## Projects
 
@@ -232,9 +232,10 @@
 | 222 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 44/100 |
 | 223 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
 | 224 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 42/100 |
-| 225 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
-| 226 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
-| 227 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
+| 225 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 39/100 |
+| 226 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
+| 227 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
+| 228 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
 
 ---
 

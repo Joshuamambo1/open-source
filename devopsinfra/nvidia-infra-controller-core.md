@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 139 |
-| 🍴 **Forks** | 92 |
+| ⭐ **Stars** | 141 |
+| 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The NVIDIA Infra Controller is an open-source project that provides a comprehensive hardware lifecycle management solution and multitenant networking capabilities. This project enables organizations to efficiently manage and scale their physical and virtual infrastructure, supporting a wide range of use cases. By leveraging the Infra Controller, users can streamline their infrastructure operations and reduce complexity.
+NVIDIA Infra Controller is an open‑source solution for managing the full hardware lifecycle of NVIDIA infrastructure, from provisioning and monitoring to decommissioning. It also provides multitenant networking capabilities, enabling secure, isolated network environments for multiple users or workloads on shared hardware. This tool is aimed at DevOps and infrastructure teams looking to automate and streamline large‑scale NVIDIA deployments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/NVIDIA/infra-controller-core) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/NVIDIA/infra-controller-core) · [← Back to DevOps & Infra](./README.md)</sub>

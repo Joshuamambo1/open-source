@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**53 projects** in this category.
+**54 projects** in this category.
 
 ## Projects
 
@@ -61,6 +61,7 @@
 | 51 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
 | 52 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
 | 53 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 560 | Go | 47/100 |
+| 54 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 42/100 |
 
 ---
 

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 502 |
+| ⭐ **Stars** | 518 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hy2` `hysteria` `hysteria2` `shadowsocks` `shadowsocksr` `trojan` `tuic` `v2ray` `vless` `vless-reality` `vmess` `xray`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the whoahaow/rjsxrd project:
-
-The rjsxrd project is an open-source tool designed to bypass network restrictions. It allows users to circumvent blocklists and whitelists, providing a means to access content that may be restricted by these security measures. This project is categorized under frontend development.
+**whoahaow/rjsxrd** is an open‑source frontend tool designed to bypass various types of content restrictions, including blocklists and whitelists. It provides mechanisms to circumvent site‑wide blocks and whitelist filters, enabling unrestricted access to web resources. The project focuses on client‑side techniques for overcoming these access controls.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/whoahaow/rjsxrd) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/whoahaow/rjsxrd) · [← Back to Frontend](./README.md)</sub>

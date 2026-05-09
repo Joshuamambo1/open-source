@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-skills` `claude-code` `codex` `copilot` `cursor` `declarative` `developer-tools` `devex` `mcp` `mcps`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Kasetto is an open-source, declarative AI agent environment manager written in Rust. It provides a framework for managing and interacting with AI agents in a structured and efficient manner. By leveraging Rust's performance and safety features, Kasetto aims to simplify the development and deployment of AI-powered applications.
+pivoshenko/kasetto is a Rust‑based, declarative environment manager designed for AI agents. It lets developers define, configure, and orchestrate the runtime dependencies, resources, and execution contexts of AI/ML
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/pivoshenko/kasetto) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pivoshenko/kasetto) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `api-wrapper` `chatgpt` `claude` `ebay` `ebay-api` `llm` `local-mcp` `localhost` `mcp` `mcp-server` `model-context-protocol`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-This open-source project, known as eBay-mcp, is a local server that enables AI assistants to access eBay's Sell APIs, providing a comprehensive set of tools for various tasks such as inventory management, order fulfillment, and marketing campaigns. With 325 included tools, this project supports a wide range of functionalities, including analytics, developer tools, and more. It is designed to facilitate seamless integration with eBay's APIs and enhance the capabilities of AI assistants.
+YosefHayim/ebay-mcp is an open‑source, locally hosted MCP (Marketplace Connect Platform) server that gives AI assistants full, programmable access to eBay’s Sell APIs. It bundles over 325 ready‑to‑use tools for tasks such as inventory control, order fulfillment, marketing campaign creation, analytics, and developer utilities, enabling rapid integration of AI‑driven e‑commerce workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/YosefHayim/ebay-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/YosefHayim/ebay-mcp) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | YAML |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`flux` `gitops` `helm` `k8s` `k8s-at-home` `kubernetes`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The billimek/k8s-gitops project applies GitOps principles to manage Kubernetes clusters, enabling users to define and maintain the cluster's state through code. This approach promotes version control and automation, improving cluster consistency and reducing the risk of human error. By leveraging GitOps, users can easily track and revert changes to their cluster configurations.
+billimek/k8s‑gitops is an open‑source toolkit that applies GitOps practices to manage Kubernetes cluster configurations as declarative code. By storing manifests, Helm charts, and other infrastructure definitions in a Git repository, it enables automated, version‑controlled deployments and continuous reconciliation of cluster state. The project streamlines DevOps workflows, providing reproducible and auditable infrastructure management for cloud‑native environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/billimek/k8s-gitops) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/billimek/k8s-gitops) · [← Back to Crypto](./README.md)</sub>

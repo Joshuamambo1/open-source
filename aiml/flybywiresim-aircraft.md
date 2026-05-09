@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a320` `a380` `javascript` `matlab` `msfs2020` `react` `reactjs` `rust` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The A32NX & A380X Project is an open-source initiative that aims to create highly realistic, free Airbus aircraft models for Microsoft Flight Simulator. By leveraging community collaboration and development, the project strives to recreate the authentic experience of flying these aircraft. This effort brings forth cutting-edge AI/ML and frontend technologies to provide a truly immersive simulation experience.
+The flybywiresim/aircraft repository hosts the community‑driven A32NX and A380X projects, which develop fully functional, open‑source Airbus A320neo and A380X aircraft for Microsoft Flight Simulator. By combining detailed flight‑model physics, realistic systems modeling, and modern UI/UX components, the project aims to deliver free, high‑fidelity virtual aircraft that match real‑world performance and cockpit experience. It leverages AI/ML techniques for system automation and a sophisticated frontend for interactive cockpit displays.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/flybywiresim/aircraft) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/flybywiresim/aircraft) · [← Back to AI/ML](./README.md)</sub>

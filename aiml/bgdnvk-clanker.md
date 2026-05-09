@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 285 |
+| ⭐ **Stars** | 289 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-agent` `ai-ops` `aws` `clanker` `cli` `cloudflare` `cloudflare-workers` `devops` `gcp` `golang`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the bgdnvk/clanker project:
-
-Clanker is an open-source, autonomous systems engineering CLI agent designed to streamline workflows across various cloud environments, including AWS, GCP, and Cloudflare. This versatile tool enables developers and DevOps teams to automate tasks and manage infrastructure with greater ease and efficiency. By leveraging Clanker, users can simplify their cloud management and focus on higher-level tasks.
+bgdnvk/clanker is a command‑line agent that automates the engineering, deployment, and management of autonomous systems across any cloud provider—including AWS, GCP, Cloudflare, and others. It combines AI‑driven decision making with DevOps tooling to streamline infrastructure provisioning, configuration, and continuous operation, making it a versatile solution for modern cloud‑native environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/bgdnvk/clanker) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/bgdnvk/clanker) · [← Back to AI/ML](./README.md)</sub>

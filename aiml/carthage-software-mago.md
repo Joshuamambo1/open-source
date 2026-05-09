@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 150 |
+| 🍴 **Forks** | 148 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`code-analyzer` `code-style` `coding-standards` `formatter` `lexer` `linter` `parser` `php` `static-analysis` `type-checker`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-carthage-software/mago is a promising open-source project. Categories: AI/ML, DevTools. Interest score: 73/100.
+Mago is an open‑source PHP toolchain designed to improve developer productivity and code quality. It bundles a collection of utilities—such as static analysis, code generation, and automated testing helpers—to streamline common development tasks and encourage best practices. By integrating AI‑assisted features with traditional DevTools, Mago helps PHP teams write cleaner, more maintainable code.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/carthage-software/mago) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/carthage-software/mago) · [← Back to AI/ML](./README.md)</sub>

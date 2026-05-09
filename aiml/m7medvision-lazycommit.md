@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `cli` `copilot` `golang` `lazygit` `neovim`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The lazycommit project utilizes AI technology to automatically generate commit messages and PR titles, streamlining the development process and reducing the time spent on documentation. This open-source tool leverages machine learning algorithms to provide accurate and context-specific suggestions, improving code organization and collaboration among developers. By automating this tedious task, lazycommit enables teams to focus on more complex and creative aspects of software development.
+LazyCommit (m7medVision/lazycommit) is an open‑source tool that leverages AI to automatically generate clear, concise commit messages and pull‑request titles based on code changes. Designed for developers, it integrates with common version‑control workflows to streamline documentation and improve collaboration. The project falls under AI/ML and DevTools, offering an easy‑to‑use solution for consistent commit hygiene.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/m7medVision/lazycommit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/m7medVision/lazycommit) · [← Back to AI/ML](./README.md)</sub>

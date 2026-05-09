@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 270 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 282 |
+| 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aeon` `ai-agents` `claude-code`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Aeon is an open-source autonomous agent framework designed for seamless orchestration, revolutionizing AI/ML operations by eliminating the need for constant monitoring and approval loops. With its intuitive configuration capabilities, users can set up and forget, allowing agents to run independently with minimal maintenance. This innovative framework empowers developers to build robust, self-sustaining systems that streamline workflows and maximize efficiency.
+**aeon** is an open‑source framework for building fully autonomous AI agents that run without human approval loops or continuous supervision. By letting developers define a one‑time configuration, aeon handles the entire orchestration of tasks, decision‑making, and execution, enabling agents to operate independently and “forget” after deployment. It’s ideal for projects that need self‑sufficient AI/ML workflows with minimal ongoing maintenance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/aaronjmars/aeon) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/aaronjmars/aeon) · [← Back to Orchestration](./README.md)</sub>

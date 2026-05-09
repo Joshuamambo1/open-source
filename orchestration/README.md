@@ -2,7 +2,7 @@
 
 > Agent orchestration frameworks (LangGraph, CrewAI, AutoGen, DSPy), long-term memory (Mem0, Letta, Zep), skills & tool-use plugins
 
-**456 projects** in this category.
+**457 projects** in this category.
 
 ## Projects
 
@@ -339,8 +339,8 @@
 | 329 | [Agnuxo1/OpenCLAW-P2P](./agnuxo1-openclaw-p2p.md) | ⭐ 40 | TypeScript | 51/100 |
 | 330 | [MDalamin5/End-to-End-Agentic-Ai-Automation-Lab](./mdalamin5-end-to-end-agentic-ai-automation-lab.md) | ⭐ 68 | Jupyter Notebook | 51/100 |
 | 331 | [JKHeadley/instar](./jkheadley-instar.md) | ⭐ 60 | TypeScript | 51/100 |
-| 332 | [dotboris/alt](./dotboris-alt.md) | ⭐ 88 | Rust | 51/100 |
-| 333 | [XortexAI/XMem](./xortexai-xmem.md) | ⭐ 45 | Python | 51/100 |
+| 332 | [XortexAI/XMem](./xortexai-xmem.md) | ⭐ 45 | Python | 51/100 |
+| 333 | [dotboris/alt](./dotboris-alt.md) | ⭐ 88 | Rust | 51/100 |
 | 334 | [opsrobot-ai/opsrobot](./opsrobot-ai-opsrobot.md) | ⭐ 136 | JavaScript | 51/100 |
 | 335 | [openwong2kim/wmux](./openwong2kim-wmux.md) | ⭐ 51 | TypeScript | 51/100 |
 | 336 | [shinpr/mcp-image](./shinpr-mcp-image.md) | ⭐ 109 | TypeScript | 51/100 |
@@ -397,8 +397,8 @@
 | 387 | [airbytehq/airbyte-agent-sdk](./airbytehq-airbyte-agent-sdk.md) | ⭐ 121 | Python | 51/100 |
 | 388 | [Signet-AI/signetai](./signet-ai-signetai.md) | ⭐ 137 | TypeScript | 51/100 |
 | 389 | [okandemirel/Strada.Brain](./okandemirel-strada.brain.md) | ⭐ 25 | TypeScript | 50/100 |
-| 390 | [bug-ops/zeph](./bug-ops-zeph.md) | ⭐ 30 | Rust | 50/100 |
-| 391 | [voidborne-d/master-skill](./voidborne-d-master-skill.md) | ⭐ 49 | Shell | 50/100 |
+| 390 | [voidborne-d/master-skill](./voidborne-d-master-skill.md) | ⭐ 49 | Shell | 50/100 |
+| 391 | [bug-ops/zeph](./bug-ops-zeph.md) | ⭐ 30 | Rust | 50/100 |
 | 392 | [Apra-Labs/apra-fleet](./apra-labs-apra-fleet.md) | ⭐ 37 | TypeScript | 50/100 |
 | 393 | [radimsem/remindb](./radimsem-remindb.md) | ⭐ 41 | Go | 50/100 |
 | 394 | [Icarus603/claude-code](./icarus603-claude-code.md) | ⭐ 21 | TypeScript | 50/100 |
@@ -410,13 +410,13 @@
 | 400 | [Vinix24/vnx-orchestration](./vinix24-vnx-orchestration.md) | ⭐ 29 | Python | 50/100 |
 | 401 | [tingly-dev/tingly-box](./tingly-dev-tingly-box.md) | ⭐ 259 | Go | 50/100 |
 | 402 | [Kanevry/session-orchestrator](./kanevry-session-orchestrator.md) | ⭐ 45 | JavaScript | 50/100 |
-| 403 | [njbinbin-pisci/openpisci](./njbinbin-pisci-openpisci.md) | ⭐ 38 | Rust | 50/100 |
-| 404 | [buiducnhat/agent-skills](./buiducnhat-agent-skills.md) | ⭐ 45 | TypeScript | 50/100 |
+| 403 | [buiducnhat/agent-skills](./buiducnhat-agent-skills.md) | ⭐ 45 | TypeScript | 50/100 |
+| 404 | [njbinbin-pisci/openpisci](./njbinbin-pisci-openpisci.md) | ⭐ 38 | Rust | 50/100 |
 | 405 | [sahil87/run-kit](./sahil87-run-kit.md) | ⭐ 39 | TypeScript | 50/100 |
 | 406 | [arvindrk/extract-design-system](./arvindrk-extract-design-system.md) | ⭐ 32 | TypeScript | 50/100 |
 | 407 | [CreminiAI/skillpack](./creminiai-skillpack.md) | ⭐ 331 | TypeScript | 50/100 |
-| 408 | [DiegoNogueiraDev/mcp-graph-workflow](./diegonogueiradev-mcp-graph-workflow.md) | ⭐ 34 | TypeScript | 50/100 |
-| 409 | [simota/agent-skills](./simota-agent-skills.md) | ⭐ 32 | HTML | 50/100 |
+| 408 | [simota/agent-skills](./simota-agent-skills.md) | ⭐ 32 | HTML | 50/100 |
+| 409 | [DiegoNogueiraDev/mcp-graph-workflow](./diegonogueiradev-mcp-graph-workflow.md) | ⭐ 34 | TypeScript | 50/100 |
 | 410 | [dkondo/agent-tackle-box](./dkondo-agent-tackle-box.md) | ⭐ 49 | Python | 50/100 |
 | 411 | [itlackey/akm](./itlackey-akm.md) | ⭐ 43 | TypeScript | 50/100 |
 | 412 | [MarlBurroW/kinbot](./marlburrow-kinbot.md) | ⭐ 40 | TypeScript | 50/100 |
@@ -442,28 +442,29 @@
 | 432 | [lthoangg/OpenAgentd](./lthoangg-openagentd.md) | ⭐ 133 | Python | 48/100 |
 | 433 | [Sankhya-AI/Dhee](./sankhya-ai-dhee.md) | ⭐ 31 | Python | 48/100 |
 | 434 | [agentculture/culture](./agentculture-culture.md) | ⭐ 81 | Python | 48/100 |
-| 435 | [DotHarness/dotcraft](./dotharness-dotcraft.md) | ⭐ 34 | C# | 48/100 |
-| 436 | [raphaeltm/simple-agent-manager](./raphaeltm-simple-agent-manager.md) | ⭐ 32 | TypeScript | 48/100 |
+| 435 | [raphaeltm/simple-agent-manager](./raphaeltm-simple-agent-manager.md) | ⭐ 32 | TypeScript | 48/100 |
+| 436 | [DotHarness/dotcraft](./dotharness-dotcraft.md) | ⭐ 34 | C# | 48/100 |
 | 437 | [aws-samples/sample-autonomous-cloud-coding-agents](./aws-samples-sample-autonomous-cloud-coding-agents.md) | ⭐ 47 | TypeScript | 48/100 |
 | 438 | [gastownhall/gascity](./gastownhall-gascity.md) | ⭐ 643 | Go | 48/100 |
 | 439 | [ldclabs/anda-hippocampus](./ldclabs-anda-hippocampus.md) | ⭐ 50 | Rust | 47/100 |
-| 440 | [Dicklesworthstone/frankenterm](./dicklesworthstone-frankenterm.md) | ⭐ 79 | Rust | 47/100 |
-| 441 | [sympozium-ai/sympozium](./sympozium-ai-sympozium.md) | ⭐ 475 | Go | 47/100 |
+| 440 | [sympozium-ai/sympozium](./sympozium-ai-sympozium.md) | ⭐ 475 | Go | 47/100 |
+| 441 | [Dicklesworthstone/frankenterm](./dicklesworthstone-frankenterm.md) | ⭐ 79 | Rust | 47/100 |
 | 442 | [aws/bedrock-agentcore-sdk-python](./aws-bedrock-agentcore-sdk-python.md) | ⭐ 696 | Python | 47/100 |
-| 443 | [Kohaku-Lab/KohakuTerrarium](./kohaku-lab-kohakuterrarium.md) | ⭐ 291 | Python | 46/100 |
-| 444 | [study8677/OpenCMO](./study8677-opencmo.md) | ⭐ 74 | Python | 46/100 |
-| 445 | [YPares/agent-skills](./ypares-agent-skills.md) | ⭐ 24 | Shell | 46/100 |
-| 446 | [LF-Decentralized-Trust-labs/gitmesh](./lf-decentralized-trust-labs-gitmesh.md) | ⭐ 131 | TypeScript | 45/100 |
-| 447 | [noonghunna/club-3090](./noonghunna-club-3090.md) | ⭐ 675 | Python | 45/100 |
-| 448 | [github/gh-aw-firewall](./github-gh-aw-firewall.md) | ⭐ 68 | TypeScript | 45/100 |
-| 449 | [enmanuelmag/agent-harness-kit](./enmanuelmag-agent-harness-kit.md) | ⭐ 105 | TypeScript | 45/100 |
-| 450 | [ksenxx/kiss_ai](./ksenxx-kiss-ai.md) | ⭐ 496 | Python | 44/100 |
-| 451 | [NeverSight/learn-skills.dev](./neversight-learn-skills.dev.md) | ⭐ 129 | — | 44/100 |
-| 452 | [luongnv89/skills](./luongnv89-skills.md) | ⭐ 71 | Python | 43/100 |
-| 453 | [matthart1983/syswatch](./matthart1983-syswatch.md) | ⭐ 399 | Rust | 43/100 |
-| 454 | [theoddden/Mandala](./theoddden-mandala.md) | ⭐ — | — | 39/100 |
-| 455 | [vystartasv/skill-forge](./vystartasv-skill-forge.md) | ⭐ — | — | 36/100 |
-| 456 | [microsoft/autogen](./microsoft-autogen.md) | ⭐ — | — | 21/100 |
+| 443 | [aaronjmars/aeon](./aaronjmars-aeon.md) | ⭐ 282 | TypeScript | 46/100 |
+| 444 | [Kohaku-Lab/KohakuTerrarium](./kohaku-lab-kohakuterrarium.md) | ⭐ 291 | Python | 46/100 |
+| 445 | [study8677/OpenCMO](./study8677-opencmo.md) | ⭐ 74 | Python | 46/100 |
+| 446 | [YPares/agent-skills](./ypares-agent-skills.md) | ⭐ 24 | Shell | 46/100 |
+| 447 | [LF-Decentralized-Trust-labs/gitmesh](./lf-decentralized-trust-labs-gitmesh.md) | ⭐ 131 | TypeScript | 45/100 |
+| 448 | [noonghunna/club-3090](./noonghunna-club-3090.md) | ⭐ 675 | Python | 45/100 |
+| 449 | [github/gh-aw-firewall](./github-gh-aw-firewall.md) | ⭐ 68 | TypeScript | 45/100 |
+| 450 | [enmanuelmag/agent-harness-kit](./enmanuelmag-agent-harness-kit.md) | ⭐ 105 | TypeScript | 45/100 |
+| 451 | [ksenxx/kiss_ai](./ksenxx-kiss-ai.md) | ⭐ 496 | Python | 44/100 |
+| 452 | [NeverSight/learn-skills.dev](./neversight-learn-skills.dev.md) | ⭐ 129 | — | 44/100 |
+| 453 | [luongnv89/skills](./luongnv89-skills.md) | ⭐ 71 | Python | 43/100 |
+| 454 | [matthart1983/syswatch](./matthart1983-syswatch.md) | ⭐ 399 | Rust | 43/100 |
+| 455 | [theoddden/Mandala](./theoddden-mandala.md) | ⭐ — | — | 39/100 |
+| 456 | [vystartasv/skill-forge](./vystartasv-skill-forge.md) | ⭐ — | — | 36/100 |
+| 457 | [microsoft/autogen](./microsoft-autogen.md) | ⭐ — | — | 21/100 |
 
 ---
 

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-vtuber` `chatbots` `live2d` `llm` `neuro-sama` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"My Neuro" is an open-source AI desktop companion that enables users to create customizable characters and engage in voice conversations. With features like long-term memory, visual recognition, and voice cloning, this project offers a highly interactive and immersive experience. Built on top of various AI/ML technologies, it also supports Live2D customizations.
+morettt / my‑neuro is an open‑source framework for building a real‑time AI desktop companion that can talk, recognize visuals, and remember past interactions. It supports fast (≈1 second) voice conversations, long‑term memory, voice cloning, custom LLM training, and integrates with any Live2D avatar for fully personalized character animations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/morettt/my-neuro) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/morettt/my-neuro) · [← Back to AI/ML](./README.md)</sub>

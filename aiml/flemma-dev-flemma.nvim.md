@@ -1,6 +1,6 @@
 # Flemma-Dev/flemma.nvim
 
-[![Stars](https://img.shields.io/github/stars/Flemma-Dev/flemma.nvim?style=flat-square&color=yellow)](https://github.com/Flemma-Dev/flemma.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/Flemma-Dev/flemma.nvim?style=flat-square&color=blue)](https://github.com/Flemma-Dev/flemma.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Flemma-Dev/flemma.nvim?style=flat-square&color=yellow)](https://github.com/Flemma-Dev/flemma.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/Flemma-Dev/flemma.nvim?style=flat-square&color=blue)](https://github.com/Flemma-Dev/flemma.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > An AI workspace inside Neovim where every conversation is a document you own.
 
@@ -11,13 +11,13 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `anthropic` `chatgpt` `claude` `dev-tools` `gemini` `generative-ai` `llm` `lua` `neovim` `neovim-plugin` `nvim`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Flemma.nvim is an open-source AI workspace integrated into Neovim, allowing users to create and manage their conversations as personal documents. This innovative plugin empowers users to take ownership of their interactions with AI models, providing a unique and transparent experience. By harnessing the power of Neovim, Flemma.nvim streamlines AI collaboration and knowledge management.
+Flemma.nvim creates an AI‑powered workspace directly inside Neovim, turning each interaction with the model into a fully owned, editable document. It lets developers query, generate, and refine code or text while keeping the conversation history in buffers that can be saved, version‑controlled, and revisited later. Ideal for anyone who wants seamless AI assistance without leaving their editor.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/Flemma-Dev/flemma.nvim) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Flemma-Dev/flemma.nvim) · [← Back to AI/ML](./README.md)</sub>

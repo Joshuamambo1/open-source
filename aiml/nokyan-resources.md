@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 92 |
+| 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cpu-monitoring` `gnome` `gpu-monitoring` `gtk` `libadwaita` `memory` `processes` `rust` `system-monitor`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Nokyan/resources is an open-source project designed to monitor and track system resources, providing users with a clear understanding of their system's performance and efficiency. This tool is particularly useful for AI/ML applications, where resource optimization is crucial for optimal model training and execution. By keeping a close eye on system resources, users can identify bottlenecks and make data-driven decisions to improve overall system performance.
+Nokyan /resources is an open‑source utility that continuously monitors and visualizes key system resources such as CPU, memory, disk, and network usage. Designed with a lightweight, AI‑enhanced architecture, it provides real‑time alerts and historical analytics to help developers and operators quickly identify performance bottlenecks. The project is ideal for integrating resource awareness into AI/ML pipelines and DevOps workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/nokyan/resources) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nokyan/resources) · [← Back to AI/ML](./README.md)</sub>

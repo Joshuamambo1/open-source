@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 492 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 539 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `android-application` `dynamic-island-android` `live-updates` `utility`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Livebridge is an open-source library designed to enhance the dynamic pill or island feature on Android applications. It aims to provide a more engaging user experience by offering customizable animations and transitions, allowing developers to level up their app's UI. With Livebridge, developers can easily add a professional touch to their Android apps.
+**LiveBridge** is an open‑source Android library that enhances the dynamic “pill” or “island” UI component, providing developers with easy‑to‑use APIs for creating, updating, and interacting with floating widgets that can persist across apps. It streamlines lifecycle handling, animation, and touch events, enabling richer, context‑aware experiences on mobile devices.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/appsfolder/livebridge) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/appsfolder/livebridge) · [← Back to Mobile](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 150 |
-| 🍴 **Forks** | 50 |
+| ⭐ **Stars** | 153 |
+| 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mcp` `mcp-crypto` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The aaronjmars/web3-research-mcp project is an open-source research tool for cryptocurrency enthusiasts, providing a free and fully local platform for exploring and analyzing crypto data. This project allows users to conduct in-depth research and development in the crypto space without relying on external services or centralized infrastructure. By leveraging web3 technology, users can gain a deeper understanding of blockchain and cryptocurrency concepts.
+Aaron J. Mars’s **web3-research-mcp** is an open‑source toolkit for conducting in‑depth cryptocurrency analysis entirely offline. It provides a local, backend‑focused framework that pulls, processes, and visualizes blockchain data without relying on third‑party APIs, ensuring privacy, speed, and zero cost. Ideal for developers and researchers building custom crypto‑analytics pipelines, the project is free, self‑hosted, and ready to integrate into any web3 stack.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/aaronjmars/web3-research-mcp) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/aaronjmars/web3-research-mcp) · [← Back to Crypto](./README.md)</sub>

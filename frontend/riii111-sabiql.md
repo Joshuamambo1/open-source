@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 180 |
+| ⭐ **Stars** | 187 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`postgresql` `ratatui` `rust` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Data
 
 ## 📝 Summary
 
-The sabiql project is an open-source, fast PostgreSQL Terminal User Interface (TUI) written in Rust. This driver-less, vim-first interface offers ER diagrams and a seamless psql experience without the need for setup or database drivers. It aims to provide a streamlined and efficient way to interact with PostgreSQL databases in a terminal environment.
+riii111 / sabiql is a high‑performance, terminal‑based UI for PostgreSQL built in Rust. It connects directly to `psql` without requiring any database drivers or additional setup, offering a Vim‑centric workflow and built‑in ER diagram visualisation. Ideal for developers who want a fast, driver‑less, TUI‑first interface for exploring and managing PostgreSQL data.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/riii111/sabiql) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/riii111/sabiql) · [← Back to Frontend](./README.md)</sub>

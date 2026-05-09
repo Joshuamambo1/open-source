@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4k |
-| 🍴 **Forks** | 244 |
+| 🍴 **Forks** | 245 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Vello is an open-source, GPU compute-centric 2D renderer designed for high-performance rendering. It utilizes the capabilities of modern graphics processing units (GPUs) to accelerate rendering tasks and provide efficient, fast rendering of 2D graphics, enabling a wide range of applications and use cases. By leveraging GPU compute, Vello offers a powerful and flexible rendering solution.
+linebender/vello is an open‑source 2D rendering library that leverages GPU compute shaders to achieve high‑performance, vector‑based graphics. It focuses on a compute‑centric pipeline, providing fast rasterization, antialiasing, and flexible styling while remaining platform‑agnostic. The project is useful for developers who need a modern, GPU‑accelerated solution for rendering complex 2D scenes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/linebender/vello) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/linebender/vello) · [← Back to Misc](./README.md)</sub>

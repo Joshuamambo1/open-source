@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**177 projects** in this category.
+**178 projects** in this category.
 
 ## Projects
 
@@ -179,12 +179,13 @@
 | 169 | [galacticcouncil/hydration-node](./galacticcouncil-hydration-node.md) | ⭐ 204 | Rust | 47/100 |
 | 170 | [hiero-ledger/hiero-consensus-node](./hiero-ledger-hiero-consensus-node.md) | ⭐ 392 | Java | 47/100 |
 | 171 | [near/near-cli-rs](./near-near-cli-rs.md) | ⭐ 142 | Rust | 47/100 |
-| 172 | [pawurb/mevlog-rs](./pawurb-mevlog-rs.md) | ⭐ 200 | Rust | 45/100 |
-| 173 | [0xMiden/crypto](./0xmiden-crypto.md) | ⭐ 133 | Rust | 44/100 |
-| 174 | [pactus-project/pactus](./pactus-project-pactus.md) | ⭐ 237 | Go | 44/100 |
-| 175 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 44/100 |
-| 176 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 140 | Rust | 42/100 |
-| 177 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
+| 172 | [aaronjmars/web3-research-mcp](./aaronjmars-web3-research-mcp.md) | ⭐ 153 | TypeScript | 46/100 |
+| 173 | [pawurb/mevlog-rs](./pawurb-mevlog-rs.md) | ⭐ 200 | Rust | 45/100 |
+| 174 | [0xMiden/crypto](./0xmiden-crypto.md) | ⭐ 133 | Rust | 44/100 |
+| 175 | [pactus-project/pactus](./pactus-project-pactus.md) | ⭐ 237 | Go | 44/100 |
+| 176 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 44/100 |
+| 177 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 140 | Rust | 42/100 |
+| 178 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
 
 ---
 

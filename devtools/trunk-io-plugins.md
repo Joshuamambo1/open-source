@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 157 |
-| 🍴 **Forks** | 60 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`developer-tools` `formatters` `linters` `security`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Security
 
 ## 📝 Summary
 
-The trunk-io/plugins repository is an open-source collection of plugins for Trunk.io, a development platform, designed to enhance the functionality and security of Trunk.io's DevTools. These plugins offer users a wide range of features and tools to streamline development, boost productivity, and improve the overall security of their projects. By contributing to and leveraging these plugins, developers can extend the capabilities of Trunk.io and better achieve their development goals.
+trunk-io/plugins is an open‑source collection of extensions for the Trunk.io platform, offering ready‑to‑use integrations that enhance developer workflows and security checks. The repository houses a variety of plugins—ranging from linters and formatters to vulnerability scanners—so teams can easily add automated tooling to their CI/CD pipelines. It serves as a centralized hub for community‑maintained, plug‑and‑play components that improve code quality and protect applications throughout the development lifecycle.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/trunk-io/plugins) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/trunk-io/plugins) · [← Back to DevTools](./README.md)</sub>

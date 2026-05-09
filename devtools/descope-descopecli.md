@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 111 |
+| ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`authentication` `authorization` `cli` `descope`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Security
 
 ## 📝 Summary
 
-Descope CLI is an open-source command line utility designed to simplify common tasks on Descope projects. This tool enables users to efficiently manage and secure their projects, streamlining workflows and reducing complexity. With Descope CLI, developers can focus on building secure applications while automating routine tasks.
+DescopeCLI is an open‑source command‑line tool that streamlines routine operations for Descope projects, such as managing authentication flows, configuring environments, and handling API keys. Designed for developers and security engineers, it integrates with Descope’s platform to provide quick, scriptable access to common DevTools and security tasks directly from the terminal.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/descope/descopecli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/descope/descopecli) · [← Back to DevTools](./README.md)</sub>

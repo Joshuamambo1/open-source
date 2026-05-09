@@ -1,6 +1,6 @@
 # zanfranceschi/rinha-de-backend-2026
 
-[![Stars](https://img.shields.io/github/stars/zanfranceschi/rinha-de-backend-2026?style=flat-square&color=yellow)](https://github.com/zanfranceschi/rinha-de-backend-2026/stargazers) [![Forks](https://img.shields.io/github/forks/zanfranceschi/rinha-de-backend-2026?style=flat-square&color=blue)](https://github.com/zanfranceschi/rinha-de-backend-2026/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zanfranceschi/rinha-de-backend-2026?style=flat-square&color=yellow)](https://github.com/zanfranceschi/rinha-de-backend-2026/stargazers) [![Forks](https://img.shields.io/github/forks/zanfranceschi/rinha-de-backend-2026?style=flat-square&color=blue)](https://github.com/zanfranceschi/rinha-de-backend-2026/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Rinha de Backend - Quarta Edição: Detecção de Fraude com Busca Vetorial
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 463 |
-| 🍴 **Forks** | 147 |
+| ⭐ **Stars** | 578 |
+| 🍴 **Forks** | 216 |
 | 💻 **Language** | C |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,9 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Rinha de Backend is an open-source project focused on detecting fraud using vector search techniques as part of its 4th edition. This project aims to develop efficient algorithms and methods for identifying and preventing fraudulent activities. By leveraging vector search technology, it seeks to improve the accuracy and speed of fraud detection processes.
+**Summary:**  
+This open‑source project implements the fourth edition of the “Rinha de Backend” challenge, focusing on fraud detection using vector search techniques. It provides a complete backend solution—including data ingestion, indexing, and query APIs—built with modern Go services and a vector database, showcasing how to design scalable, low‑latency systems for real‑time anomaly detection.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/zanfranceschi/rinha-de-backend-2026) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/zanfranceschi/rinha-de-backend-2026) · [← Back to Backend](./README.md)</sub>

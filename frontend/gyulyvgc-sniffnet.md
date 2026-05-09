@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 37.2k |
+| ⭐ **Stars** | 37.3k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`application` `gui` `iced` `linux` `macos` `network` `network-analysis` `network-monitoring` `networking` `packet-analyser` `packet-capture` `packet-sniffer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Security
 
 ## 📝 Summary
 
-Sniffnet is an open-source tool that allows users to comfortably monitor their internet traffic, providing insight into network activity. This project caters to users seeking to track and analyze their online interactions, making it a valuable resource for those concerned with internet security and data management. By utilizing Sniffnet, users can gain a deeper understanding of their online habits and potential security risks.
+Sniffnet is an open‑source, user‑friendly desktop application that lets you visualize and analyze your network traffic in real time. With an intuitive frontend and built‑in security features, it helps users monitor bandwidth usage, detect unusual activity, and gain insight into the data flowing through their internet connection.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/GyulyVGC/sniffnet) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/GyulyVGC/sniffnet) · [← Back to Frontend](./README.md)</sub>

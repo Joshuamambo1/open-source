@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-tools` `claude` `claude-skills` `deployment-automation` `devtools` `gvisor` `mcp` `paas`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-Openberth is an open-source, self-hosted deployment platform that enables developers to easily deploy applications with a live HTTPS URL. Supporting various programming languages, including Node.js, Python, Go, and static sites, the platform ensures secure deployments that run sandboxed within gVisor. This results in a lightweight, dependency-free experience with just three static Go binaries.
+AmirSoleimani/openberth is a lightweight, self‑hosted deployment platform that takes source code (Node.js, Python, Go, or static sites) and instantly provides a live HTTPS URL for the app. Each deployment runs in an isolated gVisor sandbox, and the entire service is delivered as three static Go binaries with zero runtime dependencies. This makes it fast, secure, and easy to run on any infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/AmirSoleimani/openberth) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/AmirSoleimani/openberth) · [← Back to AI/ML](./README.md)</sub>

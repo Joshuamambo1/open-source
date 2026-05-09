@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 239 |
-| 🍴 **Forks** | 10 |
+| ⭐ **Stars** | 258 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alerting` `container-monitoring` `devops` `docker` `golang` `heartbeat` `homelab` `kubernetes` `monitoring` `network-security` `observability` `open-source`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the kOlapsis/maintenant project:
-
-kOlapsis/maintenant is an open-source project that allows users to monitor their stack in real-time by dropping a container. This tool utilizes AI and ML capabilities to provide a comprehensive overview of the system's performance and health. By leveraging both frontend and backend technologies, maintenant offers a user-friendly interface for monitoring and managing complex systems.
+kOlapsis/maintenant is an open‑source monitoring solution that automatically drops a lightweight container into any application stack and continuously tracks its health, performance metrics, and resource usage. By integrating both frontend dashboards and backend telemetry, it provides real‑time insights and alerts for AI/ML workloads as well as traditional services, simplifying observability across the entire stack.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/kOlapsis/maintenant) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/kOlapsis/maintenant) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 203 |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`elixir` `erlang` `hacktoberfest` `package-manager`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the hexpm/hex project:
-
-Hex is an open-source package manager for the Erlang ecosystem, designed to streamline the process of discovering, installing, and managing Erlang libraries and applications. It provides a centralized repository of packages, making it easy to keep dependencies up to date and collaborate on Erlang projects. With Hex, developers can efficiently manage their Erlang projects and focus on writing code.
+hexpm/hex is the official package manager for the Erlang and Elixir ecosystems, providing a centralized repository for publishing, discovering, and retrieving libraries and tools. It offers command‑line utilities, API endpoints, and a web interface that handle versioning, dependency resolution, and secure distribution of packages. The project is open source, enabling community contributions to improve the tooling and infrastructure that powers the Hex package ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/hexpm/hex) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/hexpm/hex) · [← Back to Misc](./README.md)</sub>

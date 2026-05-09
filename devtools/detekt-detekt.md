@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.9k |
-| 🍴 **Forks** | 835 |
+| 🍴 **Forks** | 834 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analysis` `code-quality` `codesmells` `gradle-plugin` `hacktoberfest` `kotlin` `lint` `linter` `static` `static-analysis`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Detekt is an open-source static code analysis tool specifically designed for Kotlin, helping developers identify and address potential issues in their codebase. It provides a comprehensive set of rules to detect common mistakes, security vulnerabilities, and best practices deviations, thereby improving code quality and maintainability. By leveraging Detekt, developers can ensure their Kotlin code adheres to industry standards and best practices.
+Detekt is an open‑source static analysis tool designed specifically for Kotlin codebases. It provides a rich set of built‑in rules to detect code smells, style violations, and potential bugs, while also supporting custom rule sets and seamless integration with Gradle, Maven, and CI pipelines. By helping developers enforce consistent coding standards and catch issues early, Detekt improves code quality and maintainability in Kotlin projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/detekt/detekt) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/detekt/detekt) · [← Back to DevTools](./README.md)</sub>

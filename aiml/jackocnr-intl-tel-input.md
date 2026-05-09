@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`angular` `formatting` `input` `international-telephone` `javascript-plugin` `libphonenumber` `phone-number` `react` `reactjs` `svelte` `typescript` `validation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The intl-tel-input project is an open-source JavaScript plugin designed to simplify the process of entering, formatting, and validating international telephone numbers. This plugin offers pre-built components for popular front-end frameworks, including React, Vue, Angular, and Svelte, making it easy to integrate into various web applications. It also provides TypeScript definitions for developers working with the TypeScript language.
+A lightweight, open‑source library that provides a user‑friendly input field for entering, formatting, and validating international telephone numbers. It works out‑of‑the‑box with vanilla JavaScript and also offers ready‑made components for React, Vue, Angular, and Svelte, making it easy to integrate into modern front‑end applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/jackocnr/intl-tel-input) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jackocnr/intl-tel-input) · [← Back to AI/ML](./README.md)</sub>

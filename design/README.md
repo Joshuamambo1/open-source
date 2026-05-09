@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**12 projects** in this category.
+**14 projects** in this category.
 
 ## Projects
 
@@ -19,7 +19,9 @@
 | 9 | [sblantipodi/firefly_luciferin](./sblantipodi-firefly-luciferin.md) | ⭐ 436 | Java | 54/100 |
 | 10 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 54/100 |
 | 11 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 54/100 |
-| 12 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 52/100 |
+| 12 | [JuliaGPU/Metal.jl](./juliagpu-metal.jl.md) | ⭐ 448 | Julia | 53/100 |
+| 13 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 52/100 |
+| 14 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 39/100 |
 
 ---
 

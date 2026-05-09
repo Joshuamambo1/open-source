@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 142 |
+| ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`astro` `cli` `privacy-policy` `react` `typescript` `vite`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The openpolicy project, maintained by Jamie Davenport, provides a comprehensive framework for developing applications with a strong focus on user privacy. This framework offers a solid foundation for building frontend applications that prioritize data protection and adhere to best practices for maintaining user confidentiality. By leveraging openpolicy, developers can create secure, private, and compliant applications with ease.
+jamiedavenport/openpolicy is a lightweight frontend toolkit that provides reusable primitives for constructing privacy‑first user interfaces and rendering clear, customizable privacy and cookie policies. Designed as a dev‑tool, it helps developers integrate consent management and policy disclosures into web applications with minimal effort while keeping user data protection front and center.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/jamiedavenport/openpolicy) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jamiedavenport/openpolicy) · [← Back to Frontend](./README.md)</sub>

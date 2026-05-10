@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ci` `go` `golang` `golangci-lint` `linter`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-golangci-lint is an open-source tool that rapidly executes multiple linters for Go, allowing developers to identify and fix code issues efficiently. This fast linters runner streamlines the process of detecting errors and warnings in Go code, making it an essential addition to any Go development workflow. With golangci-lint, developers can ensure the quality and maintainability of their Go projects.
+golangci-lint is a high‑performance, open‑source tool that aggregates and runs multiple Go linters in parallel, providing fast, comprehensive static analysis for Go codebases. It streamlines code quality checks by automatically handling configuration, caching, and output formatting, making it a go‑to solution for developers seeking efficient linting in their CI pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/golangci/golangci-lint) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/golangci/golangci-lint) · [← Back to DevTools](./README.md)</sub>

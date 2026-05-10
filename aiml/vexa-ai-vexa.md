@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 271 |
+| 🍴 **Forks** | 275 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`google-meet` `meeting-assistant` `meeting-minutes` `meeting-notes` `ms-teams` `ms-teams-app` `notetaker` `zoom`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Product
 
 ## 📝 Summary
 
-Vexa is an open-source meeting transcription API that enables seamless transcription of Google Meet, Microsoft Teams, and Zoom meetings in real-time. This platform allows for auto-join bots, WebSocket transcripts, and integration with AI agents via its MCP server, providing a flexible and customizable solution. Users can either self-host Vexa or leverage its hosted SaaS offering for maximum convenience.
+Vexa is an open‑source API that automatically joins Google Meet, Microsoft Teams, and Zoom calls as a bot and generates real‑time transcripts via WebSocket streams, while also providing an MCP server for integrating AI agents. It can be self‑hosted or accessed through a hosted SaaS offering, making it a versatile backend solution for meeting‑automation and AI‑enhanced collaboration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Vexa-ai/vexa) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Vexa-ai/vexa) · [← Back to AI/ML](./README.md)</sub>

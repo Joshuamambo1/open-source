@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 120 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 138 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skill` `ai` `asr` `captions` `desktop-app` `electron` `groq` `linux` `local-first` `mcp` `open-api` `realtime`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the DeLive project:
-
-DeLive is an open-source, multi-provider AI-powered review workspace that enables system audio capture, automatic speech recognition, and real-time captioning in over 60 languages. This local-first workspace integrates with six ASR backends and offers AI-driven features like summary, chat, and mindmap capabilities, as well as an Open API and MCP server for customization. The DeLive project is designed to support developers in creating scalable and efficient AI review workspaces.
+XimilalaXiang/DeLive is an open‑source workspace that captures system audio and provides real‑time floating captions using 12 ASR backends covering more than 60 languages, while keeping all processing local‑first. It integrates AI capabilities for summarisation, chat, mind‑mapping, and custom agent skills via an Open API and an MCP server, offering both front‑end and back‑end components for a versatile, multi‑provider speech‑to‑text and AI review platform.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/XimilalaXiang/DeLive) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/XimilalaXiang/DeLive) · [← Back to AI/ML](./README.md)</sub>

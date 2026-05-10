@@ -1,6 +1,6 @@
 # presenton/presenton
 
-[![Stars](https://img.shields.io/github/stars/presenton/presenton?style=flat-square&color=yellow)](https://github.com/presenton/presenton/stargazers) [![Forks](https://img.shields.io/github/forks/presenton/presenton?style=flat-square&color=blue)](https://github.com/presenton/presenton/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/presenton/presenton?style=flat-square&color=yellow)](https://github.com/presenton/presenton/stargazers) [![Forks](https://img.shields.io/github/forks/presenton/presenton?style=flat-square&color=blue)](https://github.com/presenton/presenton/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 
@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 956 |
+| 🍴 **Forks** | 964 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 99/100 |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-presentation` `api` `gamma` `powerpoint-automation` `powerpoint-free` `powerpoint-generation` `presentation`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Presenton is an open-source AI-powered presentation generator and API that allows users to create professional-quality slides quickly and easily. Designed as an alternative to existing solutions like Gamma and Decktopus, Presenton leverages AI technology to automate the presentation creation process. Its modular architecture and API enable developers to build custom integrations and workflows.
+presenton/presenton is an open‑source platform that automatically creates slide decks using AI, offering a ready‑to‑use API as an alternative to services like Gamma, Beautiful AI, and Decktopus. Built with a backend focused on AI/ML pipelines, it lets developers generate, customize, and serve professional presentations programmatically. The project provides both a web interface for end‑users and a robust API for integration into other applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/presenton/presenton) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/presenton/presenton) · [← Back to AI/ML](./README.md)</sub>

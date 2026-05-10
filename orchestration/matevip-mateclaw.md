@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 396 |
-| 🍴 **Forks** | 130 |
+| ⭐ **Stars** | 437 |
+| 🍴 **Forks** | 149 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-assistant` `chatbot` `dingtalk-robot` `discord-bot` `feishu-bot` `mcp-protocol` `multi-agent` `openclaw` `plan-and-execute` `react-agent` `skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the project:
-
-MateClaw is an open-source, multi-agent orchestration tool that serves as a second brain for users. Built on top of Spring AI Alibaba, it supports various features such as the MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. By leveraging these capabilities, MateClaw enables users to streamline their workflow and automate tasks with greater efficiency.
+MateClaw is an open‑source AI platform that acts as a “second brain,” enabling multi‑agent orchestration through its proprietary MCP protocol. Built on Spring AI Alibaba, it combines skill‑based agents, persistent memory, dream‑state reasoning, and multi‑channel integration to deliver flexible, extensible AI workflows for both backend orchestration and frontend interfaces.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/matevip/mateclaw) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/matevip/mateclaw) · [← Back to Orchestration](./README.md)</sub>

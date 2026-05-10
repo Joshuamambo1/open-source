@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 102 |
-| 🍴 **Forks** | 37 |
+| ⭐ **Stars** | 104 |
+| 🍴 **Forks** | 39 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bclb-compliance` `betting-platform` `crash-game` `flutterwave` `golang` `kyc` `microservices` `payment-gateway` `provably-fair` `real-time` `sports-betting` `websocket`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Let's-Bet is an open-source, tier-1 betting platform designed for Kenya, Nigeria, and Ghana, offering a range of gaming experiences, including sports betting and crash games. The platform supports real-time WebSocket odds and integrates with popular payment gateways such as M-Pesa and Flutterwave, ensuring seamless transactions. Built on a scalable Go microservices architecture with NATS, Let's-Bet aims to provide a secure and compliant solution for the African betting market, adhering to BCLB regulations.
+The **lets‑bet** project is a Tier‑1 sports‑betting platform targeting Kenya, Nigeria and Ghana, offering traditional sports wagering, crash‑style games, and integrated M‑Pay (M‑Pesa) and Flutterwave payment processing. Built as a set of Go microservices connected via NATS, it delivers real‑time odds through WebSockets and complies with the Betting Control and Licensing Board (BCLB) regulations. The stack emphasizes high‑performance backend services, secure payments, and AI/ML‑driven features for odds and risk management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/nutcas3/lets-bet) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/nutcas3/lets-bet) · [← Back to Payments](./README.md)</sub>

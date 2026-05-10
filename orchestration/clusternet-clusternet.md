@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-native` `cluster-management` `distributed-cloud` `edge-cloud` `hybrid-cloud` `kubernetes` `multi-cluster-management` `multicloud` `orchestration` `out-of-the-box` `public-cloud`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · DevOps/Infra
 
 ## 📝 Summary
 
-Clusternet is an open-source project that enables users to manage their Kubernetes clusters across various environments, including public, private, and edge clusters, with ease. This project aims to simplify the orchestration and management of clusters, allowing for a more streamlined experience. By leveraging Clusternet, users can effectively visit, discover, and manage their clusters as if they were browsing the internet.
+Clusternet is an open‑source CNCF Sandbox project that simplifies the management of multiple Kubernetes clusters—whether they are public cloud, private data‑center, or edge deployments—by providing a unified, Internet‑like experience. It offers a lightweight control plane that abstracts cluster provisioning, federation, and workload distribution, enabling developers and operators to discover, access, and orchestrate resources across heterogeneous environments with minimal friction.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/clusternet/clusternet) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/clusternet/clusternet) · [← Back to Orchestration](./README.md)</sub>

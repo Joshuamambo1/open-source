@@ -1,6 +1,6 @@
 # descope/virtualwebauthn
 
-[![Stars](https://img.shields.io/github/stars/descope/virtualwebauthn?style=flat-square&color=yellow)](https://github.com/descope/virtualwebauthn/stargazers) [![Forks](https://img.shields.io/github/forks/descope/virtualwebauthn?style=flat-square&color=blue)](https://github.com/descope/virtualwebauthn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/descope/virtualwebauthn?style=flat-square&color=yellow)](https://github.com/descope/virtualwebauthn/stargazers) [![Forks](https://img.shields.io/github/forks/descope/virtualwebauthn?style=flat-square&color=blue)](https://github.com/descope/virtualwebauthn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A set of helper tools for testing WebAuthn authentication flows
 
@@ -11,13 +11,13 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`authentication` `automation` `biometric` `descope` `fido` `fido2` `golang` `passkeys` `test-automation` `testing-tools` `webauthn`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Security
 
 ## 📝 Summary
 
-The descope/virtualwebauthn project is an open-source collection of tools designed to simplify and streamline testing of WebAuthn authentication flows. It provides developers with a versatile set of helpers to efficiently verify and validate the integrity of their WebAuthn implementations. By leveraging virtualwebauthn, developers can expedite and enhance their testing processes.
+descope/virtualwebauthn provides a collection of lightweight utilities for simulating WebAuthn authenticators, enabling developers to test registration and authentication flows without requiring physical hardware. It streamlines security testing and debugging of FIDO2‑compatible applications, making it easier to integrate and verify WebAuthn functionality in development and CI pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/descope/virtualwebauthn) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/descope/virtualwebauthn) · [← Back to DevTools](./README.md)</sub>

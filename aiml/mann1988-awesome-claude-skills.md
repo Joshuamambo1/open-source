@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 56 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 58 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `anthropic-claude` `anthropic-skills` `awesome-claude-code` `claude-ai` `claude-api` `claude-code` `claude-code-skills` `claude-desktop` `claude-skills` `claude-skills-hub` `codex-cli`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The "awesome-claude-skills" project is an open-source collection of high-quality Claude skills focused on practical business analysis and content creation. This resource aims to enhance AI capabilities for real-world applications, offering users a curated selection of skills to improve their AI development experience. The project is categorized under AI/ML, Backend, and DevTools.
+Mann1988/awesome-claude-skills is a curated collection of high‑quality Claude prompts and skills tailored for business analysis and content creation. It offers ready‑to‑use examples and utilities that help developers and analysts extend Claude’s capabilities for practical, real‑world AI applications. The repository serves as a handy reference and toolkit for anyone looking to integrate Claude into backend workflows, dev‑tools, or data‑driven projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Mann1988/awesome-claude-skills) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Mann1988/awesome-claude-skills) · [← Back to AI/ML](./README.md)</sub>

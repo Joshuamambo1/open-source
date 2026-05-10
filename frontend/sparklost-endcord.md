@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 752 |
+| ⭐ **Stars** | 768 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cross-platform` `discord` `discord-client` `discord-rpc` `endcord` `rich-presence` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project 'endcord':
-
-Endcord is an open-source, feature-rich Terminal User Interface (TUI) client for Discord, providing a convenient and accessible way to interact with the platform from the command line. This project offers a robust and customizable Discord experience, ideal for users who prefer a more traditional or text-based interface. With endcord, users can manage their Discord servers and conversations from the comfort of their terminal.
+sparklost/endcord is a feature‑rich terminal user interface (TUI) client for Discord, allowing users to browse servers, read and send messages, and manage channels without leaving the command line. Built with a focus on speed and customization, it offers rich text rendering, emoji support, and keyboard‑driven navigation, making it a powerful tool for developers and power users who prefer a lightweight, front‑end alternative to the official Discord app.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/sparklost/endcord) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/sparklost/endcord) · [← Back to Frontend](./README.md)</sub>

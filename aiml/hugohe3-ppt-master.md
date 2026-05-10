@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11.5k |
-| 🍴 **Forks** | 1.2k |
+| ⭐ **Stars** | 14.1k |
+| 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `aippt` `office` `powerpoint` `powerpoint-generation` `ppt` `pptx` `presentation` `slide` `slides`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Theppt-master project, developed by hugohe3, leverages AI to generate natively editable PowerPoint (PPTX) files from any document. This innovative tool creates real PowerPoint shapes, rather than images, allowing users to edit and customize their presentations without requiring design expertise. By automating the process, theppt-master streamlines the creation of professional-looking PPTX files.
+hugohe3/ppt-master is an open‑source tool that uses artificial intelligence to convert any source document into a fully editable PowerPoint (PPTX) file. Unlike image‑based converters, it generates native PowerPoint shapes and preserves animations, allowing users to refine the output directly in PowerPoint. The project targets AI/ML developers looking to automate high‑fidelity presentation creation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hugohe3/ppt-master) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/hugohe3/ppt-master) · [← Back to AI/ML](./README.md)</sub>

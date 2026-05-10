@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 263 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database` `docker` `docker-compose` `elasticsearch` `faq` `frankenphp` `kubernetes` `mariadb` `mcp-server` `mssql` `mysql` `opensearch`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the thorsten/phpMyFAQ project:
-
-phpMyFAQ is an open-source, web-based FAQ application developed for PHP 8.3+ and various databases, including MySQL and PostgreSQL. This robust platform allows users to easily create, manage, and maintain a centralized knowledge base, perfect for organizations and individuals seeking efficient documentation and support solutions. With its flexibility and customizability, phpMyFAQ is an ideal choice for businesses, developers, and communities alike.
+Thorsten/phpMyFAQ is an open‑source FAQ management system built for modern PHP (8.3+) that lets administrators create, organize, and publish frequently asked questions through a web interface. It supports multiple database engines—including MySQL, PostgreSQL, and others—providing flexible backend storage, while offering features such as categorization, search, multilingual support, and easy integration with existing sites. The project targets developers and DevOps teams looking for a lightweight, extensible solution for FAQ content management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/thorsten/phpMyFAQ) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/thorsten/phpMyFAQ) · [← Back to Backend](./README.md)</sub>

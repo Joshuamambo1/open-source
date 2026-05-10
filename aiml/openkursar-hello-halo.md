@@ -1,6 +1,6 @@
 # openkursar/hello-halo
 
-[![Stars](https://img.shields.io/github/stars/openkursar/hello-halo?style=flat-square&color=yellow)](https://github.com/openkursar/hello-halo/stargazers) [![Forks](https://img.shields.io/github/forks/openkursar/hello-halo?style=flat-square&color=blue)](https://github.com/openkursar/hello-halo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openkursar/hello-halo?style=flat-square&color=yellow)](https://github.com/openkursar/hello-halo/stargazers) [![Forks](https://img.shields.io/github/forks/openkursar/hello-halo?style=flat-square&color=blue)](https://github.com/openkursar/hello-halo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 7×24 Desktop AI Agent for Everyone. Visual AI assistant with remote access, file management, and built-in AI browser.
 
@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 122 |
+| 🍴 **Forks** | 124 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `claudecode` `cowork`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The hello-halo project is an open-source, 24/7 desktop AI agent designed for everyone, providing a visual AI assistant with features such as remote access, file management, and a built-in AI browser. This innovative platform aims to simplify the interaction between humans and AI, making it accessible to a wide range of users. With its user-friendly interface and robust functionalities, hello-halo is poised to revolutionize the way we interact with AI technology.
+openkursar/hello-halo is a 24/7 desktop AI agent that provides a visual, always‑on assistant capable of remote access, file management, and an integrated AI‑powered web browser. Designed for everyday users, it combines a sleek frontend interface with AI/ML functionality to streamline tasks, retrieve information, and interact with the operating system in real time. The project is open‑source, making the continuous‑online assistant customizable and extensible for a wide range of personal and professional workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/openkursar/hello-halo) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/openkursar/hello-halo) · [← Back to AI/ML](./README.md)</sub>

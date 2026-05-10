@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 40 |
+| ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-agents` `coding` `developer-tools` `electron` `react` `terminal` `tiling-window-manager` `typescript` `xterm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-InbarR/tmax is an open-source, cross-platform multi-terminal app that offers customizable tiling layouts and floating panels to enhance productivity. With a strong focus on keyboard-driven workflows, this application streamlines interaction for users who value efficient and hands-free navigation. It serves as a versatile development tool for AI/ML, frontend, and other development tasks.
+InbarR/tmax is a cross‑platform terminal emulator that lets users work with multiple shells in tiled or floating panels, all controllable via keyboard shortcuts for a fast, mouse‑free workflow. It combines a modern, customizable UI with developer‑focused features, making it a versatile tool for power users, DevOps engineers, and anyone who needs to manage many terminal sessions efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/InbarR/tmax) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/InbarR/tmax) · [← Back to AI/ML](./README.md)</sub>

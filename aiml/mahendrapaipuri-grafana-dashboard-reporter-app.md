@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 145 |
+| ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chromium` `dashboard` `grafana` `grafana-plugin` `grafana-plugin-sdk` `grafana-reporter` `pdf-generation` `reporting`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Grafana Dashboard Reporter App is an open-source plugin that enables users to generate PDF reports of their Grafana dashboards. This convenient feature allows for easy sharing and export of critical data insights, making it an essential tool for data-driven decision-making. By leveraging AI/ML, this app streamlines the reporting process, saving time and effort for users.
+Mahendrapaipuri’s **grafana-dashboard-reporter-app** is an open‑source Grafana plugin that enables users to generate PDF reports directly from their dashboards. It integrates with Grafana’s UI to capture dashboard visualizations, apply custom layouts, and export them as high‑quality PDFs for sharing or archival. Ideal for teams needing automated or on‑demand reporting, the app is lightweight, easy to configure, and licensed for community use.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) · [← Back to AI/ML](./README.md)</sub>

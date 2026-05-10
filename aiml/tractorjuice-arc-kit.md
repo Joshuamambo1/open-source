@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 212 |
+| 🍴 **Forks** | 217 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The tractorjuice/arc-kit is an open-source project that offers a comprehensive Enterprise Architecture Governance and Vendor Procurement Toolkit. This platform aims to streamline and standardize the architecture governance process within organizations, ensuring compliance and quality in IT systems. By leveraging the arc-kit, businesses can simplify vendor procurement, improve decision-making, and enhance the overall effectiveness of their IT infrastructure.
+tractorjuice/arc‑kit is an open‑source toolkit that helps enterprises define, govern, and visualize their architecture landscapes while streamlining vendor procurement processes. It combines AI‑driven insights with an intuitive frontend UI to model architecture components, enforce governance policies, and generate procurement recommendations. The project is geared toward organizations that need a unified, data‑rich platform for architecture management and vendor selection.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/tractorjuice/arc-kit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/tractorjuice/arc-kit) · [← Back to AI/ML](./README.md)</sub>

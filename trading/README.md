@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**69 projects** in this category.
+**70 projects** in this category.
 
 ## Projects
 
@@ -64,19 +64,20 @@
 | 54 | [FloatingPragma/observer-patch-holography](./floatingpragma-observer-patch-holography.md) | ⭐ 492 | Python | 52/100 |
 | 55 | [Miasyster/QuantGPT](./miasyster-quantgpt.md) | ⭐ 141 | Python | 52/100 |
 | 56 | [PwnKit-Labs/foxguard](./pwnkit-labs-foxguard.md) | ⭐ 236 | Rust | 52/100 |
-| 57 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 159 | Rust | 51/100 |
-| 58 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 110 | Python | 51/100 |
-| 59 | [qiboteam/qibo](./qiboteam-qibo.md) | ⭐ 353 | Python | 51/100 |
-| 60 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 51/100 |
-| 61 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 51/100 |
-| 62 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 50/100 |
-| 63 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 496 | Python | 50/100 |
-| 64 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
-| 65 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 341 | Rust | 49/100 |
-| 66 | [tqec/tqec](./tqec-tqec.md) | ⭐ 361 | Python | 48/100 |
-| 67 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 312 | Rust | 47/100 |
-| 68 | [quantiota/Raspberry-Pi-AI-Agent-Host](./quantiota-raspberry-pi-ai-agent-host.md) | ⭐ 32 | Python | 40/100 |
-| 69 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 39/100 |
+| 57 | [LLMQuant/awesome-trading-agents](./llmquant-awesome-trading-agents.md) | ⭐ 61 | — | 51/100 |
+| 58 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 159 | Rust | 51/100 |
+| 59 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 110 | Python | 51/100 |
+| 60 | [qiboteam/qibo](./qiboteam-qibo.md) | ⭐ 353 | Python | 51/100 |
+| 61 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 51/100 |
+| 62 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 51/100 |
+| 63 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 50/100 |
+| 64 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 496 | Python | 50/100 |
+| 65 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
+| 66 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 341 | Rust | 49/100 |
+| 67 | [tqec/tqec](./tqec-tqec.md) | ⭐ 361 | Python | 48/100 |
+| 68 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 312 | Rust | 47/100 |
+| 69 | [quantiota/Raspberry-Pi-AI-Agent-Host](./quantiota-raspberry-pi-ai-agent-host.md) | ⭐ 32 | Python | 40/100 |
+| 70 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 39/100 |
 
 ---
 

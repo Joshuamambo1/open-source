@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 70 |
-| 🍴 **Forks** | 5 |
+| ⭐ **Stars** | 72 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a2a` `a2ui` `acp` `ag-ui` `agent-framework` `ai` `ai-agent` `ai-sdk-v6` `copilotkit` `human-in-the-loop` `llm` `mcp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the awaken project:
-
-Awaken is an open-source, type-safe AI agent runtime for Rust that enables developers to build and serve intelligent systems with ease. With features like multi-protocol serving and plugin extensibility, it provides a robust foundation for complex AI and ML applications. Awaken is designed for orchestration, frontend development, and AI/ML workflows, making it a versatile solution for modern intelligent systems.
+Awaken is an open‑source AI‑agent runtime written in Rust that provides a type‑safe, state‑driven framework for building and orchestrating intelligent agents. It supports multi‑protocol serving (HTTP, WebSocket, gRPC, etc.) and a plugin architecture that lets developers extend its capabilities without sacrificing safety or performance. Ideal for projects that need reliable orchestration of AI/ML components with a fast, Rust‑native frontend.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/awakenworks/awaken) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/awakenworks/awaken) · [← Back to Orchestration](./README.md)</sub>

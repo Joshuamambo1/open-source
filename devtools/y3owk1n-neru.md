@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 284 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 296 |
+| 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`accessibility` `bindings` `homerow` `homerow-app` `keyboard` `keyboard-navigation` `linux` `mac` `macos` `macos-app` `macosx` `mouse`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Neru is an open-source project that enables keyboard-driven navigation, allowing users to seamlessly navigate and click on their interface without relying on a traditional mouse. This innovative tool is currently available for macOS, with partial support for Linux and potential future support for Windows. By leveraging keyboard shortcuts, Neru streamlines user experience and promotes efficient productivity.
+A lightweight, open‑source tool that lets you control the cursor and perform clicks using only the keyboard, enabling mouse‑free navigation on macOS and, to a limited extent, Linux (with potential Windows support). It integrates seamlessly with the OS, offering customizable key bindings and visual feedback for precise, hands‑free interaction. Ideal for developers and power users who want to boost productivity without reaching for a mouse.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/y3owk1n/neru) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/y3owk1n/neru) · [← Back to DevTools](./README.md)</sub>

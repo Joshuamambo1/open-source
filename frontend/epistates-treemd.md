@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 618 |
+| ⭐ **Stars** | 622 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `markdown` `md` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Epistates/treemd is an open-source project that provides a markdown navigator with tree-based structural navigation, offering both text-based user interface (TUI) and command-line interface (CLI) options. This tool allows users to efficiently navigate and explore markdown files and documents, leveraging a tree-based structure for streamlined organization and access. It is designed to be a useful development tool for individuals working with markdown files.
+Epistates/treemd is an open‑source terminal‑based tool that lets you explore and edit Markdown files using a tree‑structured view of headings and sections. It provides a fast, keyboard‑driven TUI/CLI interface for navigating, searching, and previewing documents, making it a handy utility for developers and writers who work with Markdown in the terminal.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/Epistates/treemd) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Epistates/treemd) · [← Back to Frontend](./README.md)</sub>

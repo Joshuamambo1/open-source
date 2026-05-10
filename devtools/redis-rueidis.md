@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 240 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cache` `client-side-caching` `distributed` `generics` `go` `golang` `lock` `rdma` `redis` `redis-client` `resp3` `resp3-client`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the redis/rueidis project:
-
-Rueidis is a high-performance, open-source Redis client written in Go that provides features such as client-side caching and auto-pipelining for efficient Redis interactions. This project also supports RDMA (Remote Direct Memory Access) for low-latency data transfer. By leveraging these advanced features, Rueidis enables developers to build fast and scalable Redis-based applications.
+Redis Rueidis is a high‑performance Go client for Redis that adds advanced features such as client‑side caching, automatic pipelining, and support for RDMA‑based connections. It’s designed for low‑latency, high‑throughput workloads while providing a clean, idiomatic API for Go developers. The project is open source and positioned as a modern DevTools library for building Redis‑driven applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/redis/rueidis) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/redis/rueidis) · [← Back to DevTools](./README.md)</sub>

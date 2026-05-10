@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54k |
-| 🍴 **Forks** | 2.9k |
+| ⭐ **Stars** | 57.3k |
+| 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `anthropic` `caveman` `claude` `claude-code` `llm` `meme` `prompt-engineering` `skill` `tokens`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The "caveman" project is an open-source AI/ML tool that utilizes a novel approach to reduce token usage by 65%. It achieves this by leveraging "caveman language" - a simplified, primitive syntax that condenses complex code into concise expressions. This innovative technique can streamline code and optimize performance.
+JuliusBrussee/caveman is an open‑source Claude Code plugin that compresses prompts by rewriting them in a minimalist “caveman” style, reducing token usage by roughly 65 % without sacrificing functionality. By translating natural‑language instructions into terse, low‑token equivalents, it helps developers cut costs and improve performance when interacting with Claude‑based AI models. The project is geared toward AI/ML practitioners looking to optimize token efficiency in their code‑generation workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/JuliusBrussee/caveman) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/JuliusBrussee/caveman) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ad-block` `adblock` `adblocker` `desktop-app` `go` `gui` `linux` `macos` `privacy` `windows` `zen`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the irbis-sh/zen-desktop project:
-
-Zen Desktop is a free, open-source ad-blocker and privacy guard available for Windows, macOS, and Linux. This simple and efficient tool helps protect users from online trackers and unwanted advertisements, promoting a safer and more private browsing experience. With Zen Desktop, users can enjoy a clutter-free and secure web environment.
+**zen-desktop** is an open‑source, cross‑platform ad‑blocking and privacy‑protection tool that runs on Windows, macOS, and Linux. It offers a lightweight, user‑friendly interface for filtering unwanted content, blocking trackers, and safeguarding users’ online privacy without sacrificing performance. The project is maintained under the Frontend category and is freely available for anyone to use or contribute to.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/irbis-sh/zen-desktop) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/irbis-sh/zen-desktop) · [← Back to Frontend](./README.md)</sub>

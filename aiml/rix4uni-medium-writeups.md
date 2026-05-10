@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bug-bounty` `bugbounty` `bugbountytips` `hacking` `infosec` `osint` `osint-resources` `osint-tool` `penetration-testing` `pentest-tool` `pentesting` `recon`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-The rix4uni/medium-writeups open-source project is designed to automatically update the latest Bug Bounty writeups from Medium every 10 minutes. This repository aggregates writeups from various sources, including the original Medium link, the Internet Archive's Wayback Machine, and a mirror at freedium.cfd. The project categories include AI/ML, DevTools, and Security, making it a valuable resource for researchers and enthusiasts in these fields.
+A lightweight automation tool that continuously refreshes and archives the newest Bug Bounty write‑ups published on Medium, fetching each article every ten minutes and storing three accessible mirrors (direct Medium link, Archive.ph snapshot, and Freedium proxy). Designed for security researchers and developers, the project streamlines timely access to vulnerability disclosures while preserving them for future reference.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rix4uni/medium-writeups) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/rix4uni/medium-writeups) · [← Back to AI/ML](./README.md)</sub>

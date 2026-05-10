@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5207** |
+| 🗂️ **Total projects** | **5234** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2091 | [Browse →](./aiml/) |
-| 📦 **Misc** | 916 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 522 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 486 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 274 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 259 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 188 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 2102 | [Browse →](./aiml/) |
+| 📦 **Misc** | 922 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 523 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 489 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 275 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 260 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 190 | [Browse →](./crypto/) |
 | 📊 **Data** | 120 | [Browse →](./data/) |
 | 💳 **Payments** | 91 | [Browse →](./payments/) |
 | 📱 **Mobile** | 64 | [Browse →](./mobile/) |
 | 📈 **Trading** | 63 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 58 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 59 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 41 | [Browse →](./security/) |
 | ✨ **Design** | 16 | [Browse →](./design/) |
-| 🎯 **Product** | 12 | [Browse →](./product/) |
+| 🎯 **Product** | 13 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 6 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [formatjs/formatjs](./frontend/formatjs-formatjs.md) | ⭐ 14.7k | Frontend |
-| 2 | [jaywcjlove/reference](./aiml/jaywcjlove-reference.md) | ⭐ 15.1k | AI/ML |
-| 3 | [kubernetes-sigs/kubespray](./aiml/kubernetes-sigs-kubespray.md) | ⭐ 18.5k | AI/ML |
-| 4 | [laramies/theHarvester](./aiml/laramies-theharvester.md) | ⭐ 16.2k | AI/ML |
-| 5 | [PX4/PX4-Autopilot](./misc/px4-px4-autopilot.md) | ⭐ 11.7k | Misc |
-| 6 | [clap-rs/clap](./misc/clap-rs-clap.md) | ⭐ 16.4k | Misc |
-| 7 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25.1k | Design |
-| 8 | [mvanhorn/last30days-skill](./trading/mvanhorn-last30days-skill.md) | ⭐ 25.3k | Trading |
-| 9 | [GyulyVGC/sniffnet](./frontend/gyulyvgc-sniffnet.md) | ⭐ 37.3k | Frontend |
-| 10 | [jackocnr/intl-tel-input](./aiml/jackocnr-intl-tel-input.md) | ⭐ 8.2k | AI/ML |
+| 1 | [hoochanlon/hamuleite](./misc/hoochanlon-hamuleite.md) | ⭐ 9.4k | Misc |
+| 2 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 28.5k | AI/ML |
+| 3 | [formatjs/formatjs](./frontend/formatjs-formatjs.md) | ⭐ 14.7k | Frontend |
+| 4 | [jaywcjlove/reference](./aiml/jaywcjlove-reference.md) | ⭐ 15.1k | AI/ML |
+| 5 | [kubernetes-sigs/kubespray](./aiml/kubernetes-sigs-kubespray.md) | ⭐ 18.5k | AI/ML |
+| 6 | [laramies/theHarvester](./aiml/laramies-theharvester.md) | ⭐ 16.2k | AI/ML |
+| 7 | [PX4/PX4-Autopilot](./misc/px4-px4-autopilot.md) | ⭐ 11.7k | Misc |
+| 8 | [clap-rs/clap](./misc/clap-rs-clap.md) | ⭐ 16.4k | Misc |
+| 9 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25.1k | Design |
+| 10 | [mvanhorn/last30days-skill](./trading/mvanhorn-last30days-skill.md) | ⭐ 25.3k | Trading |
 
 ## 🚀 How it works
 

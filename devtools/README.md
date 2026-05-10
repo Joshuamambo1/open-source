@@ -2,7 +2,7 @@
 
 > Developer productivity, editors, workflow
 
-**274 projects** in this category.
+**275 projects** in this category.
 
 ## Projects
 
@@ -229,13 +229,13 @@
 | 219 | [newrelic/newrelic-cli](./newrelic-newrelic-cli.md) | ⭐ 141 | Go | 50/100 |
 | 220 | [snowflakedb/snowflake-cli](./snowflakedb-snowflake-cli.md) | ⭐ 250 | Python | 50/100 |
 | 221 | [chenxin-yan/crust](./chenxin-yan-crust.md) | ⭐ 381 | TypeScript | 50/100 |
-| 222 | [apollographql/rover](./apollographql-rover.md) | ⭐ 445 | Rust | 50/100 |
-| 223 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 395 | Go | 50/100 |
+| 222 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 395 | Go | 50/100 |
+| 223 | [apollographql/rover](./apollographql-rover.md) | ⭐ 445 | Rust | 50/100 |
 | 224 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 50/100 |
 | 225 | [kazupon/gunshi](./kazupon-gunshi.md) | ⭐ 412 | TypeScript | 49/100 |
 | 226 | [openclaw/goplaces](./openclaw-goplaces.md) | ⭐ 223 | Go | 49/100 |
-| 227 | [rust-lang/portable-simd](./rust-lang-portable-simd.md) | ⭐ 1k | Rust | 49/100 |
-| 228 | [VirtusLab/scala-cli](./virtuslab-scala-cli.md) | ⭐ 635 | Scala | 49/100 |
+| 227 | [VirtusLab/scala-cli](./virtuslab-scala-cli.md) | ⭐ 635 | Scala | 49/100 |
+| 228 | [rust-lang/portable-simd](./rust-lang-portable-simd.md) | ⭐ 1k | Rust | 49/100 |
 | 229 | [meshtastic/Meshtastic-Apple](./meshtastic-meshtastic-apple.md) | ⭐ 776 | Swift | 49/100 |
 | 230 | [test-summary/action](./test-summary-action.md) | ⭐ 438 | TypeScript | 49/100 |
 | 231 | [raffis/gitops-zombies](./raffis-gitops-zombies.md) | ⭐ 112 | Go | 48/100 |
@@ -266,8 +266,8 @@
 | 256 | [Dokploy/cli](./dokploy-cli.md) | ⭐ 106 | TypeScript | 45/100 |
 | 257 | [openabdev/openab](./openabdev-openab.md) | ⭐ 436 | Rust | 45/100 |
 | 258 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
-| 259 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
-| 260 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
+| 259 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
+| 260 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
 | 261 | [lessweb/deepcode-cli](./lessweb-deepcode-cli.md) | ⭐ 464 | TypeScript | 44/100 |
 | 262 | [getstackit/stackit](./getstackit-stackit.md) | ⭐ 28 | Go | 44/100 |
 | 263 | [GlassHaven/Haven](./glasshaven-haven.md) | ⭐ 465 | Kotlin | 44/100 |
@@ -277,11 +277,12 @@
 | 267 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
 | 268 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 43/100 |
 | 269 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
-| 270 | [Diegovsky/riff](./diegovsky-riff.md) | ⭐ 215 | Rust | 42/100 |
-| 271 | [SableClient/Sable](./sableclient-sable.md) | ⭐ 189 | TypeScript | 42/100 |
-| 272 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
-| 273 | [jher7/tokenyst](./jher7-tokenyst.md) | ⭐ — | — | 39/100 |
-| 274 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
+| 270 | [davidmhewitt/torrential](./davidmhewitt-torrential.md) | ⭐ 143 | Rust | 42/100 |
+| 271 | [Diegovsky/riff](./diegovsky-riff.md) | ⭐ 215 | Rust | 42/100 |
+| 272 | [SableClient/Sable](./sableclient-sable.md) | ⭐ 189 | TypeScript | 42/100 |
+| 273 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
+| 274 | [jher7/tokenyst](./jher7-tokenyst.md) | ⭐ — | — | 39/100 |
+| 275 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
 
 ---
 

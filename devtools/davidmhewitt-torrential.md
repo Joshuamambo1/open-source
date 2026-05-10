@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Torrential is a simple, open-source torrent client designed specifically for elementary OS users. This lightweight application provides a clean and intuitive interface for downloading and managing torrents, making it an ideal option for those seeking a hassle-free torrent experience on their Linux-based system. With a focus on ease of use, Torrential aims to make torrenting accessible to all users.
+Torrential is a lightweight, open‑source BitTorrent client designed specifically for elementary OS, offering a clean and intuitive interface that integrates seamlessly with the desktop environment. It provides essential torrent‑downloading features—such as magnet link support, speed controls, and file prioritization—while keeping resource usage low, making it ideal for users who want a simple yet functional torrent solution on elementary OS.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/davidmhewitt/torrential) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/davidmhewitt/torrential) · [← Back to DevTools](./README.md)</sub>

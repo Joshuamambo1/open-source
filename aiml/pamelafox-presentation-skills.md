@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 69 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 71 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, pamelafox/presentation-skills, focuses on developing AI skills for processing presentations, aiming to enhance the experience of teachers and speakers. By leveraging AI/ML capabilities, the project seeks to improve the way presentations are understood, organized, and analyzed. Ultimately, this project aims to bridge the gap between human communication and AI-driven technology.
+PamelaFox’s **presentation‑skills** repository provides a collection of AI‑driven tools and pre‑trained models that enable autonomous agents to analyze, generate, and enhance presentation content. Designed for educators and public speakers, the project offers modules for slide summarization, speaker note extraction, visual‑aide recommendation, and real‑time feedback, helping users create clearer, more engaging presentations. It is open‑source, extensible, and integrates with popular AI/ML frameworks for easy customization.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/pamelafox/presentation-skills) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/pamelafox/presentation-skills) · [← Back to AI/ML](./README.md)</sub>

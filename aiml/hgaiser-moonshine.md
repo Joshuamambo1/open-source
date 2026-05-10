@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 174 |
-| 🍴 **Forks** | 28 |
+| ⭐ **Stars** | 179 |
+| 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Moonshine is an open-source, headless streaming server designed to work seamlessly with Moonlight clients. Written in Rust, this project enables streaming functionality for Moonlight users, providing a reliable and efficient backend solution. By utilizing Moonshine, developers can create robust and scalable streaming experiences for various applications.
+Moonshine is a lightweight, headless streaming server written in Rust that enables Moonlight clients to connect and stream games or desktop sessions without a graphical interface. Designed for high performance and low latency, it serves as a backend solution for remote gaming and virtual desktop use cases, and can be integrated into AI/ML pipelines or development toolchains. The project is open‑source and aims to provide a simple, extensible alternative to traditional streaming servers.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/hgaiser/moonshine) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/hgaiser/moonshine) · [← Back to AI/ML](./README.md)</sub>

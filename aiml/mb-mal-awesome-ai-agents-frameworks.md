@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 50 |
+| 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-This open-source project, "awesome-ai-agents-frameworks," is a curated list of AI and machine learning frameworks and libraries that support the development of intelligent agents. It aims to provide a comprehensive and up-to-date resource for researchers and developers working in the field of AI and agent-based modeling. The project helps users navigate the diverse landscape of AI frameworks and make informed decisions about their project requirements.
+**awesome-ai-agents-frameworks** is a curated collection of open‑source libraries and tools for building intelligent agents, covering everything from reinforcement learning and planning to large‑language‑model orchestration. It categorizes frameworks by language, architecture, and use‑case, providing brief overviews, key features, and links to documentation to help developers quickly find the right solution for their AI/ML projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/mb-mal/awesome-ai-agents-frameworks) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/mb-mal/awesome-ai-agents-frameworks) · [← Back to AI/ML](./README.md)</sub>

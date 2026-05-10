@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`archive` `chatgpt` `cnki` `history` `it` `mirrors` `site` `social` `university` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The hoochanlon/hamuleite project is an open-source, multi-institutional digital repository of academic papers in various fields, including social sciences, economics, mathematics, game theory, philosophy, and systems engineering. This knowledge base aggregates research from top institutions such as National Taiwan University, Nanyang Technological University, and key universities and research institutions in China. The repository aims to provide a centralized platform for accessing and sharing research findings.
+Hoochanlon/hamuleite is an open‑source repository that aggregates a comprehensive knowledge base of academic papers across a wide range of disciplines—including social science, economics, mathematics, game theory, philosophy, and systems engineering—from leading institutions such as National Taiwan University, National University of Singapore, Waseda University, the University of Tokyo, the Academia Sinica, and major Chinese universities and research institutes. The project provides curated, searchable collections of scholarly articles, facilitating easy access to high‑quality research for students, researchers, and developers worldwide.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/hoochanlon/hamuleite) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/hoochanlon/hamuleite) · [← Back to Misc](./README.md)</sub>

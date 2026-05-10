@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.8k |
-| 🍴 **Forks** | 224 |
+| 🍴 **Forks** | 225 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line-interface` `command-line-tool` `dns` `icmp` `linux` `macos` `mtr` `netbsd` `network` `networking` `ping`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ Orchestration · Frontend · DevTools
 
 ## 📝 Summary
 
-Trippy is an open-source network diagnostic tool designed to provide comprehensive insights into network performance and connectivity. This versatile tool offers orchestration capabilities, a user-friendly frontend interface, and development-focused functionality, making it an invaluable resource for network administrators and developers alike. By utilizing Trippy, users can swiftly identify and troubleshoot network issues, optimizing overall network efficiency and performance.
+**Summary**  
+`fujiapple852/trippy` is an open‑source network diagnostic utility designed to visualize and analyze connectivity paths across distributed systems. It combines a modern frontend interface with orchestration capabilities, allowing users to run, monitor, and compare traceroute‑style diagnostics from multiple nodes in real time. Ideal for developers and DevOps teams, the tool streamlines troubleshooting and performance tuning of complex network topologies.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/fujiapple852/trippy) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/fujiapple852/trippy) · [← Back to Orchestration](./README.md)</sub>

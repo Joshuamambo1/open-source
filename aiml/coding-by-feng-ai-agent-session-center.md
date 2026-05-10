@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 68 |
+| ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `claude` `claude-code` `codex` `gemini` `vibe-coding` `vibecoding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The AI Agent Session Center is an open-source project that visualizes AI coding agent sessions in a real-time 3D dashboard. This interactive interface brings sessions from agents like Claude Code, Gemini CLI, and Codex to life, featuring animated robots with live terminals, prompt history, tool logs, and queuing functionality. The project can run on any device, making it accessible for users to monitor and explore AI coding agent sessions.
+A real‑time dashboard that visualizes AI coding‑agent sessions—such as Claude Code, Gemini CLI, or Codex—as animated 3D robots, complete with live terminal output, prompt history, tool logs, and queuing information. The web‑based interface runs on any device, turning abstract AI interactions into an interactive, visual development experience. It’s an open‑source dev‑tool that blends AI/ML, frontend graphics, and workflow monitoring in a single, extensible platform.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/coding-by-feng/ai-agent-session-center) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/coding-by-feng/ai-agent-session-center) · [← Back to AI/ML](./README.md)</sub>

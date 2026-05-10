@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 819 |
-| 🍴 **Forks** | 74 |
+| ⭐ **Stars** | 838 |
+| 🍴 **Forks** | 76 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `ai-memory` `ai-memory-system` `awesome-ai-memory` `continual-learning` `llm-memory` `long-term-memory` `memory-augmented-models` `memory-systems` `rag` `reasoning-over-time`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Awesome-AI-Memory is an open-source, continuously updated knowledge base that systematically organizes cutting-edge research, engineering frameworks, system designs, evaluation benchmarks, and practical applications of AI memory for Large Language Models (LLMs) and intelligent agents. This comprehensive resource covers key aspects of AI memory, including long-term memory, reasoning, retrieval, and native system design. Its goal is to facilitate the development and improvement of AI memory technologies.
+Awesome‑AI‑Memory is a curated, continuously updated knowledge base that compiles cutting‑edge research, engineering frameworks, system designs, benchmarks, and real‑world applications related to long‑term memory, reasoning, retrieval, and memory‑native architectures for large language models and autonomous agents. It serves as a centralized resource for developers and researchers aiming to build or evaluate LLM‑based memory and agent systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) · [← Back to Orchestration](./README.md)</sub>

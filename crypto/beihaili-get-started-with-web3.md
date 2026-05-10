@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 610 |
+| ⭐ **Stars** | 611 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitcoin` `blockchain` `cryptocurrency` `education` `learn-web3` `tutorial` `web3`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project in 2-3 sentences:
-
-Get-Started-with-Web3 is an open-source tutorial series designed to help beginners navigate the world of Web3 with ease. By aggregating high-quality resources from the open-source community, this project aims to guide individuals from entry-level to advanced Web3 knowledge, making it a valuable resource for those interested in crypto and AI/ML. New content is added every week to keep the learning journey up-to-date and engaging.
+A concise, beginner‑friendly guide for newcomers to Web3, this repository compiles and curates high‑quality open‑source resources into a clear, step‑by‑step tutorial pathway—from basic concepts to advanced mastery. Updated weekly, it serves as a living roadmap for self‑studying blockchain, decentralized applications, and related crypto technologies.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/beihaili/Get-Started-with-Web3) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/beihaili/Get-Started-with-Web3) · [← Back to Crypto](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 28.1k |
+| ⭐ **Stars** | 28.5k |
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-prompts` `ai-tools` `llm` `prompt` `prompt-engineering` `prompt-optimization` `prompt-optimizer` `prompt-testing` `prompt-toolkit` `prompt-tuning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The linshenkx/prompt-optimizer is an open-source project that aims to improve AI performance by optimizing prompts. This tool helps users craft better prompts, leading to more accurate and relevant results from AI models. By refining the input, it enables more effective interactions with AI systems and enhances overall productivity.
+The **prompt-optimizer** project provides an open‑source AI tool that refines user‑written prompts to improve the quality and relevance of downstream AI model responses. By analyzing and re‑phrasing input queries, it helps developers and creators generate clearer, more effective prompts, boosting overall performance in AI/ML applications and developer workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/linshenkx/prompt-optimizer) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/linshenkx/prompt-optimizer) · [← Back to AI/ML](./README.md)</sub>

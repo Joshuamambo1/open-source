@@ -1,6 +1,6 @@
 # Azure/terraform
 
-[![Stars](https://img.shields.io/github/stars/Azure/terraform?style=flat-square&color=yellow)](https://github.com/Azure/terraform/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/terraform?style=flat-square&color=blue)](https://github.com/Azure/terraform/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/terraform?style=flat-square&color=yellow)](https://github.com/Azure/terraform/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/terraform?style=flat-square&color=blue)](https://github.com/Azure/terraform/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Source code for the Azure Marketplace Terraform development VM package.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 907 |
-| 🍴 **Forks** | 918 |
+| ⭐ **Stars** | 908 |
+| 🍴 **Forks** | 917 |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-This open-source project provides the source code for the Azure Marketplace Terraform development VM package, enabling users to deploy a pre-configured virtual machine for Terraform development on the Azure cloud platform. By leveraging this package, developers can quickly set up a Terraform development environment and start building and deploying infrastructure as code. This project is categorized under DevOps/Infra, making it a valuable resource for DevOps engineers and Terraform users.
+Azure/terraform provides the source code for a ready‑to‑use development virtual machine that ships as a Terraform module on the Azure Marketplace. It enables DevOps and infrastructure teams to quickly provision a pre‑configured VM with all the tools needed for Terraform development, testing, and CI/CD pipelines on Azure. The project is open‑source and organized for easy customization and integration into existing IaC workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Azure/terraform) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Azure/terraform) · [← Back to DevOps & Infra](./README.md)</sub>

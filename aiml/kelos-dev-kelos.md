@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 154 |
+| ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agentic-coding` `ai` `ai-agents` `ci-cd` `claude` `claude-code` `codex` `cursor` `gemini` `kubernetes` `kubernetes-operator`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Kelos is an open-source framework that leverages Kubernetes to orchestrate autonomous AI coding agents, empowering developers to streamline and automate software development processes. This Kubernetes-native platform enables efficient collaboration between human teams and AI agents, enhancing productivity and reducing development time. By harnessing the power of autonomous coding agents, Kelos facilitates the creation of high-quality software with reduced manual effort.
+KelOS is an open‑source, Kubernetes‑native framework that lets you deploy, manage, and scale autonomous AI coding agents directly within your cluster. By integrating AI/ML capabilities with DevOps tooling, KelOS automates code generation, testing, and deployment workflows, enabling self‑service development pipelines that adapt to changing requirements.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/kelos-dev/kelos) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/kelos-dev/kelos) · [← Back to AI/ML](./README.md)</sub>

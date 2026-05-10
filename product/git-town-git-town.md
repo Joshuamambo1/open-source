@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 147 |
+| 🍴 **Forks** | 149 |
 | 💻 **Language** | Gherkin |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `git` `git-flow` `productivity` `workflow`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Product
 
 ## 📝 Summary
 
-git-town is an open-source project designed to simplify the use of Git branches, making it easier to manage your repository's workflow. It provides a more streamlined approach to common Git operations, allowing developers to focus on their code rather than navigating complex branch management. With git-town, users can easily create, merge, and manage branches in a more intuitive and user-friendly way.
+Git Town is an open‑source command‑line tool that streamlines Git branch workflows by providing intuitive, high‑level commands for creating, merging, publishing, and managing feature branches. It automates repetitive tasks, enforces best‑practice branching models, and integrates seamlessly with existing Git repositories, making collaborative development faster and less error‑prone.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/git-town/git-town) · [← Back to Product](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/git-town/git-town) · [← Back to Product](./README.md)</sub>

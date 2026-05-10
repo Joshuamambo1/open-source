@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome-list` `cli` `cli-lovers` `cli-tool` `command-line` `curated-list` `terminal` `terminal-colors` `terminal-graphics` `terminal-theme` `terminal-ui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The "Fucking Terminals Are Sexy" project is an open-source collection of Terminal frameworks, plugins, and resources specifically designed for command-line interface (CLI) enthusiasts. This curated list helps developers discover and explore the vast array of tools available for Terminal customization and enhancement. With its community-driven approach, it's a valuable resource for anyone looking to elevate their CLI experience.
+**Summary**  
+This repository is a curated collection of terminal‑focused frameworks, plugins, and resources aimed at developers who love building command‑line interfaces. It highlights popular projects by showcasing their GitHub stars and forks, making it easy to discover well‑maintained CLI tools across the Frontend and DevTools ecosystems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Correia-jpv/fucking-terminals-are-sexy) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Correia-jpv/fucking-terminals-are-sexy) · [← Back to Frontend](./README.md)</sub>

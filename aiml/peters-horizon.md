@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 596 |
+| ⭐ **Stars** | 598 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude` `codex` `developer-tools` `egui` `gemeni-cli` `gpu` `kilocode-cli` `opencode` `rust` `terminal` `terminal-emulator`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Horizon is an open-source project that allows users to create a GPU-accelerated terminal board, providing an infinite canvas to manage multiple sessions and applications. This project leverages GPU acceleration to deliver high-performance and efficient management of terminal sessions, making it ideal for developers and data scientists. Horizon offers a unique and flexible solution for multitasking in a terminal environment.
+peters/horizon is an open‑source, GPU‑accelerated terminal multiplexer that lets you arrange and navigate multiple shell sessions on an infinite, zoomable canvas. By leveraging WebGL for rendering, it provides smooth, high‑performance panning and scaling, turning the terminal into a flexible, visual workspace for developers. The project sits at the intersection of AI/ML, frontend innovation, and dev‑tool ergonomics.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/peters/horizon) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/peters/horizon) · [← Back to AI/ML](./README.md)</sub>

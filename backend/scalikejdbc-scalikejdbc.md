@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`database` `h2` `jdbc` `mysql` `postgresql` `scala`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-Scalikejdbc is an open-source, SQL-based database access library designed for Scala developers. It provides a simple and intuitive API by wrapping the JDBC APIs, making database interactions easier and more efficient. This library is ideal for backend development and data management tasks.
+ScalikeJDBC is a lightweight, type‑safe library that simplifies database access for Scala applications by providing a clean, idiomatic wrapper around JDBC. It lets developers write concise, SQL‑centric code while handling resource management, connection pooling, and result‑set mapping automatically. Ideal for backend services, it streamlines data‑layer development without sacrificing performance or flexibility.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/scalikejdbc/scalikejdbc) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/scalikejdbc/scalikejdbc) · [← Back to Backend](./README.md)</sub>

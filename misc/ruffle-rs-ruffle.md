@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18k |
+| ⭐ **Stars** | 18.1k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`emulator` `flash` `hacktoberfest` `reimplementation` `rust` `swf`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Ruffle is a free, open-source Flash Player emulator written in Rust. It aims to provide a modern alternative to the original Adobe Flash Player, allowing users to run Flash content in a secure and maintainable environment. By utilizing Rust, Ruffle prioritizes performance and reliability while eliminating the need for outdated and insecure Flash technology.
+Ruffle is an open‑source Flash Player emulator built in Rust, designed to safely render SWF content in modern browsers and desktop environments without the security risks of the original plugin. By translating Flash's ActionScript and graphics pipelines into native Rust code, Ruffle provides high performance, cross‑platform compatibility, and active community support for preserving legacy multimedia. It can be embedded as a WebAssembly module for web use or run as a standalone application.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ruffle-rs/ruffle) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ruffle-rs/ruffle) · [← Back to Misc](./README.md)</sub>

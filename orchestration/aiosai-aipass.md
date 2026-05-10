@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 93 |
-| 🍴 **Forks** | 17 |
+| ⭐ **Stars** | 108 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Mobile
 
 ## 📝 Summary
 
-AIPass is an open-source, local multi-agent framework that enables AI agents to retain memory and collaborate seamlessly, eliminating the need for context explanations. This innovative platform facilitates the orchestration of AI/ML capabilities on mobile devices, promoting efficient and intelligent workflows. By allowing agents to work together with shared memory, AIPass streamlines complex tasks and enhances overall AI performance.
+AIOSAI / AIPass is an open‑source, locally‑run framework that lets multiple AI agents operate together while preserving their individual memories and shared context. By handling orchestration, state management, and inter‑agent communication on‑device, it eliminates the need for users to repeatedly re‑provide background information. The project targets developers building AI‑enhanced mobile and edge applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/AIOSAI/AIPass) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/AIOSAI/AIPass) · [← Back to Orchestration](./README.md)</sub>

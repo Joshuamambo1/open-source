@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 374 |
-| 🍴 **Forks** | 26 |
+| ⭐ **Stars** | 377 |
+| 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Fluree's open-source database library, fluree/db, is a versatile tool for storing and managing data in a secure, decentralized manner. This library allows developers to interact with the Fluree database, a blockchain-based graph database that provides a scalable and reliable platform for storing complex data models. It offers a simple and intuitive interface for developers to build and deploy applications with robust data management capabilities.
+Fluree DB is an open‑source, immutable graph‑database library that combines blockchain‑style data integrity with flexible, queryable data structures. It provides a Rust‑based core with a JavaScript/TypeScript client, enabling developers to store, version, and query linked data securely and efficiently. Ideal for applications that require tamper‑evident audit trails, decentralized data sharing, and rich graph analytics.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/fluree/db) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/fluree/db) · [← Back to Data](./README.md)</sub>

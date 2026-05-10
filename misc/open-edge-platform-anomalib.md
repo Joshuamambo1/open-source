@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.7k |
-| 🍴 **Forks** | 921 |
+| 🍴 **Forks** | 927 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anomaly-detection` `anomaly-localization` `anomaly-segmentation` `geti` `neural-network-compression` `openvino` `unsupervised-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Anomalib is an open-source anomaly detection library that offers cutting-edge algorithms and features to facilitate efficient and effective anomaly detection. This comprehensive library includes tools for experiment management, hyper-parameter optimization, and edge inference, making it an ideal choice for developers working on complex anomaly detection tasks. By utilizing anomalib, users can leverage state-of-the-art techniques to identify and analyze anomalies in various applications.
+Anomalib is an open‑source Python library that provides a collection of state‑of‑the‑art anomaly detection algorithms for visual inspection tasks. It includes built‑in tools for experiment tracking, hyper‑parameter optimization, and streamlined edge‑inference deployment, making it easy to develop, evaluate, and ship robust anomaly‑detection models.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/open-edge-platform/anomalib) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/open-edge-platform/anomalib) · [← Back to Misc](./README.md)</sub>

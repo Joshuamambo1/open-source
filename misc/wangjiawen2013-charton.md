@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 277 |
+| ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Wangjiawen2013/charton is an open-source Rust library that implements the Grammar of Graphics, a data visualization framework that separates the concerns of data, aesthetics, and geometry. This library provides a flexible and modular approach to data visualization, allowing users to easily create complex and customized plots by combining different components. By leveraging the Rust programming language, charton offers a fast and efficient way to generate high-quality visualizations.
+WangJiaWen’s **charton** is an open‑source Rust library that brings the Grammar of Graphics paradigm to native Rust applications. It provides a declarative API for building complex statistical visualizations—such as scatter plots, histograms, and layered charts—while leveraging Rust’s performance and type safety. The project aims to make expressive, high‑quality data graphics accessible to developers working in the Rust ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/wangjiawen2013/charton) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/wangjiawen2013/charton) · [← Back to Misc](./README.md)</sub>

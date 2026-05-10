@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**118 projects** in this category.
+**120 projects** in this category.
 
 ## Projects
 
@@ -109,23 +109,25 @@
 | 99 | [gaopengbin/geo-downloader](./gaopengbin-geo-downloader.md) | ⭐ 124 | Rust | 51/100 |
 | 100 | [mjaakko/NeoStumbler](./mjaakko-neostumbler.md) | ⭐ 445 | Kotlin | 50/100 |
 | 101 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
-| 102 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 162 | Rust | 48/100 |
-| 103 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 48/100 |
-| 104 | [JanKaul/iceberg-rust](./jankaul-iceberg-rust.md) | ⭐ 235 | Rust | 47/100 |
-| 105 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 335 | R | 47/100 |
-| 106 | [RetroAchievements/RAWeb](./retroachievements-raweb.md) | ⭐ 395 | PHP | 47/100 |
-| 107 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 46/100 |
-| 108 | [pcodec/pcodec](./pcodec-pcodec.md) | ⭐ 478 | Rust | 45/100 |
-| 109 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 45/100 |
-| 110 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 44/100 |
-| 111 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 44/100 |
-| 112 | [krumjahn/applehealth](./krumjahn-applehealth.md) | ⭐ 396 | Python | 43/100 |
-| 113 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
-| 114 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 42/100 |
-| 115 | [AdrianEddy/telemetry-parser](./adrianeddy-telemetry-parser.md) | ⭐ 264 | Rust | 42/100 |
-| 116 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 39/100 |
-| 117 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
-| 118 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
+| 102 | [dennisss/dacha](./dennisss-dacha.md) | ⭐ 162 | Rust | 49/100 |
+| 103 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 162 | Rust | 48/100 |
+| 104 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 48/100 |
+| 105 | [JanKaul/iceberg-rust](./jankaul-iceberg-rust.md) | ⭐ 235 | Rust | 47/100 |
+| 106 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 335 | R | 47/100 |
+| 107 | [RetroAchievements/RAWeb](./retroachievements-raweb.md) | ⭐ 395 | PHP | 47/100 |
+| 108 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 46/100 |
+| 109 | [pcodec/pcodec](./pcodec-pcodec.md) | ⭐ 478 | Rust | 45/100 |
+| 110 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 45/100 |
+| 111 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 44/100 |
+| 112 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 44/100 |
+| 113 | [fluree/db](./fluree-db.md) | ⭐ 377 | Rust | 43/100 |
+| 114 | [krumjahn/applehealth](./krumjahn-applehealth.md) | ⭐ 396 | Python | 43/100 |
+| 115 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
+| 116 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 42/100 |
+| 117 | [AdrianEddy/telemetry-parser](./adrianeddy-telemetry-parser.md) | ⭐ 264 | Rust | 42/100 |
+| 118 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 39/100 |
+| 119 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
+| 120 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
 
 ---
 

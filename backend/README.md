@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**250 projects** in this category.
+**251 projects** in this category.
 
 ## Projects
 
@@ -205,59 +205,60 @@
 | 195 | [huahua132/skynet_fly](./huahua132-skynet-fly.md) | ⭐ 521 | C | 53/100 |
 | 196 | [bivlked/amneziawg-installer](./bivlked-amneziawg-installer.md) | ⭐ 389 | Shell | 53/100 |
 | 197 | [kiriwalawren/nixflix](./kiriwalawren-nixflix.md) | ⭐ 339 | Nix | 53/100 |
-| 198 | [drhelius/Geargrafx](./drhelius-geargrafx.md) | ⭐ 212 | C++ | 52/100 |
-| 199 | [blacktop/ida-mcp-rs](./blacktop-ida-mcp-rs.md) | ⭐ 393 | Rust | 52/100 |
-| 200 | [Epix-Incorporated/Adonis](./epix-incorporated-adonis.md) | ⭐ 463 | Luau | 52/100 |
-| 201 | [bootgly/bootgly](./bootgly-bootgly.md) | ⭐ 228 | PHP | 52/100 |
-| 202 | [gramiojs/gramio](./gramiojs-gramio.md) | ⭐ 252 | TypeScript | 52/100 |
-| 203 | [httptoolkit/httptoolkit-server](./httptoolkit-httptoolkit-server.md) | ⭐ 548 | JavaScript | 52/100 |
-| 204 | [rundeck/rundeck-cli](./rundeck-rundeck-cli.md) | ⭐ 140 | Java | 52/100 |
-| 205 | [soxoj/awesome-osint-mcp-servers](./soxoj-awesome-osint-mcp-servers.md) | ⭐ 224 | — | 52/100 |
-| 206 | [knative/client](./knative-client.md) | ⭐ 383 | Go | 52/100 |
-| 207 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 426 | Rust | 52/100 |
-| 208 | [googleapis/google-cloud-rust](./googleapis-google-cloud-rust.md) | ⭐ 918 | Rust | 52/100 |
-| 209 | [brettchalupa/usagi](./brettchalupa-usagi.md) | ⭐ 105 | Rust | 51/100 |
-| 210 | [jolars/panache](./jolars-panache.md) | ⭐ 104 | Rust | 51/100 |
-| 211 | [DatanoiseTV/tinyice](./datanoisetv-tinyice.md) | ⭐ 320 | Go | 51/100 |
-| 212 | [stac-utils/rustac](./stac-utils-rustac.md) | ⭐ 139 | Rust | 51/100 |
-| 213 | [NVlabs/cutile-rs](./nvlabs-cutile-rs.md) | ⭐ 285 | Rust | 51/100 |
-| 214 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 51/100 |
-| 215 | [av1155/houndarr](./av1155-houndarr.md) | ⭐ 203 | Python | 51/100 |
-| 216 | [cablehead/http-nu](./cablehead-http-nu.md) | ⭐ 129 | Rust | 51/100 |
-| 217 | [boykush/scraps](./boykush-scraps.md) | ⭐ 44 | Rust | 50/100 |
+| 198 | [pchuri/confluence-cli](./pchuri-confluence-cli.md) | ⭐ 171 | JavaScript | 52/100 |
+| 199 | [drhelius/Geargrafx](./drhelius-geargrafx.md) | ⭐ 212 | C++ | 52/100 |
+| 200 | [blacktop/ida-mcp-rs](./blacktop-ida-mcp-rs.md) | ⭐ 393 | Rust | 52/100 |
+| 201 | [Epix-Incorporated/Adonis](./epix-incorporated-adonis.md) | ⭐ 463 | Luau | 52/100 |
+| 202 | [bootgly/bootgly](./bootgly-bootgly.md) | ⭐ 228 | PHP | 52/100 |
+| 203 | [gramiojs/gramio](./gramiojs-gramio.md) | ⭐ 252 | TypeScript | 52/100 |
+| 204 | [httptoolkit/httptoolkit-server](./httptoolkit-httptoolkit-server.md) | ⭐ 548 | JavaScript | 52/100 |
+| 205 | [rundeck/rundeck-cli](./rundeck-rundeck-cli.md) | ⭐ 140 | Java | 52/100 |
+| 206 | [soxoj/awesome-osint-mcp-servers](./soxoj-awesome-osint-mcp-servers.md) | ⭐ 224 | — | 52/100 |
+| 207 | [knative/client](./knative-client.md) | ⭐ 383 | Go | 52/100 |
+| 208 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 426 | Rust | 52/100 |
+| 209 | [googleapis/google-cloud-rust](./googleapis-google-cloud-rust.md) | ⭐ 918 | Rust | 52/100 |
+| 210 | [brettchalupa/usagi](./brettchalupa-usagi.md) | ⭐ 105 | Rust | 51/100 |
+| 211 | [jolars/panache](./jolars-panache.md) | ⭐ 104 | Rust | 51/100 |
+| 212 | [DatanoiseTV/tinyice](./datanoisetv-tinyice.md) | ⭐ 320 | Go | 51/100 |
+| 213 | [stac-utils/rustac](./stac-utils-rustac.md) | ⭐ 139 | Rust | 51/100 |
+| 214 | [NVlabs/cutile-rs](./nvlabs-cutile-rs.md) | ⭐ 285 | Rust | 51/100 |
+| 215 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 51/100 |
+| 216 | [av1155/houndarr](./av1155-houndarr.md) | ⭐ 203 | Python | 51/100 |
+| 217 | [cablehead/http-nu](./cablehead-http-nu.md) | ⭐ 129 | Rust | 51/100 |
 | 218 | [internetworklab/cloudping](./internetworklab-cloudping.md) | ⭐ 21 | Go | 50/100 |
-| 219 | [webdown-a/webdown](./webdown-a-webdown.md) | ⭐ 111 | — | 50/100 |
-| 220 | [Apicurio/apicurio-registry](./apicurio-apicurio-registry.md) | ⭐ 803 | Java | 50/100 |
-| 221 | [georgekhananaev/claude-skills-vault](./georgekhananaev-claude-skills-vault.md) | ⭐ 23 | Python | 50/100 |
-| 222 | [Mearman/mcp-wayback-machine](./mearman-mcp-wayback-machine.md) | ⭐ 22 | TypeScript | 50/100 |
-| 223 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 50/100 |
-| 224 | [Epistates/turbomcp](./epistates-turbomcp.md) | ⭐ 82 | Rust | 48/100 |
-| 225 | [NodeSeekDev/NodeGet](./nodeseekdev-nodeget.md) | ⭐ 184 | Rust | 48/100 |
-| 226 | [anthropics/anthropic-cli](./anthropics-anthropic-cli.md) | ⭐ 341 | Go | 48/100 |
-| 227 | [GrahamCampbell/Laravel-GitHub](./grahamcampbell-laravel-github.md) | ⭐ 644 | PHP | 48/100 |
-| 228 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
-| 229 | [bjia56/cosmotop](./bjia56-cosmotop.md) | ⭐ 66 | C++ | 47/100 |
-| 230 | [opensearch-project/security](./opensearch-project-security.md) | ⭐ 244 | Java | 47/100 |
-| 231 | [zanfranceschi/rinha-de-backend-2026](./zanfranceschi-rinha-de-backend-2026.md) | ⭐ 578 | C | 47/100 |
-| 232 | [jkawamoto/mcp-youtube-transcript](./jkawamoto-mcp-youtube-transcript.md) | ⭐ 386 | Python | 47/100 |
-| 233 | [verygoodplugins/whatsapp-mcp](./verygoodplugins-whatsapp-mcp.md) | ⭐ 39 | Go | 47/100 |
-| 234 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
-| 235 | [BenedictKing/ccx](./benedictking-ccx.md) | ⭐ 266 | Go | 46/100 |
-| 236 | [cl0nazepamm/3dsmax-mcp](./cl0nazepamm-3dsmax-mcp.md) | ⭐ 70 | Python | 46/100 |
-| 237 | [GrahamCampbell/Laravel-DigitalOcean](./grahamcampbell-laravel-digitalocean.md) | ⭐ 503 | PHP | 46/100 |
-| 238 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
-| 239 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
-| 240 | [nietus/anki-mcp](./nietus-anki-mcp.md) | ⭐ 39 | JavaScript | 45/100 |
-| 241 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 310 | Dockerfile | 44/100 |
-| 242 | [C24Be/AS_Network_List](./c24be-as-network-list.md) | ⭐ 526 | Python | 44/100 |
-| 243 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 44/100 |
-| 244 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
-| 245 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 42/100 |
-| 246 | [joshuadavidthomas/django-language-server](./joshuadavidthomas-django-language-server.md) | ⭐ 184 | Rust | 41/100 |
-| 247 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 39/100 |
-| 248 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
-| 249 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
-| 250 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
+| 219 | [boykush/scraps](./boykush-scraps.md) | ⭐ 44 | Rust | 50/100 |
+| 220 | [webdown-a/webdown](./webdown-a-webdown.md) | ⭐ 111 | — | 50/100 |
+| 221 | [Apicurio/apicurio-registry](./apicurio-apicurio-registry.md) | ⭐ 803 | Java | 50/100 |
+| 222 | [georgekhananaev/claude-skills-vault](./georgekhananaev-claude-skills-vault.md) | ⭐ 23 | Python | 50/100 |
+| 223 | [Mearman/mcp-wayback-machine](./mearman-mcp-wayback-machine.md) | ⭐ 22 | TypeScript | 50/100 |
+| 224 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 50/100 |
+| 225 | [Epistates/turbomcp](./epistates-turbomcp.md) | ⭐ 82 | Rust | 48/100 |
+| 226 | [NodeSeekDev/NodeGet](./nodeseekdev-nodeget.md) | ⭐ 184 | Rust | 48/100 |
+| 227 | [anthropics/anthropic-cli](./anthropics-anthropic-cli.md) | ⭐ 341 | Go | 48/100 |
+| 228 | [GrahamCampbell/Laravel-GitHub](./grahamcampbell-laravel-github.md) | ⭐ 644 | PHP | 48/100 |
+| 229 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
+| 230 | [bjia56/cosmotop](./bjia56-cosmotop.md) | ⭐ 66 | C++ | 47/100 |
+| 231 | [opensearch-project/security](./opensearch-project-security.md) | ⭐ 244 | Java | 47/100 |
+| 232 | [zanfranceschi/rinha-de-backend-2026](./zanfranceschi-rinha-de-backend-2026.md) | ⭐ 578 | C | 47/100 |
+| 233 | [jkawamoto/mcp-youtube-transcript](./jkawamoto-mcp-youtube-transcript.md) | ⭐ 386 | Python | 47/100 |
+| 234 | [verygoodplugins/whatsapp-mcp](./verygoodplugins-whatsapp-mcp.md) | ⭐ 39 | Go | 47/100 |
+| 235 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
+| 236 | [BenedictKing/ccx](./benedictking-ccx.md) | ⭐ 266 | Go | 46/100 |
+| 237 | [cl0nazepamm/3dsmax-mcp](./cl0nazepamm-3dsmax-mcp.md) | ⭐ 70 | Python | 46/100 |
+| 238 | [GrahamCampbell/Laravel-DigitalOcean](./grahamcampbell-laravel-digitalocean.md) | ⭐ 503 | PHP | 46/100 |
+| 239 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
+| 240 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
+| 241 | [nietus/anki-mcp](./nietus-anki-mcp.md) | ⭐ 39 | JavaScript | 45/100 |
+| 242 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 310 | Dockerfile | 44/100 |
+| 243 | [C24Be/AS_Network_List](./c24be-as-network-list.md) | ⭐ 526 | Python | 44/100 |
+| 244 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 44/100 |
+| 245 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
+| 246 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 42/100 |
+| 247 | [joshuadavidthomas/django-language-server](./joshuadavidthomas-django-language-server.md) | ⭐ 184 | Rust | 41/100 |
+| 248 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 39/100 |
+| 249 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
+| 250 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
+| 251 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
 
 ---
 

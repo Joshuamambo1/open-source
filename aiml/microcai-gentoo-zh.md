@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 408 |
-| 🍴 **Forks** | 219 |
+| 🍴 **Forks** | 221 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ebuild`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the microcai/gentoo-zh project:
-
-The microcai/gentoo-zh project is an open-source overlay designed specifically for Gentoo users, aiming to simplify the process of installing and managing packages on the Gentoo Linux distribution. This overlay is a collection of ebuilds, which are the building blocks of the Gentoo package management system, making it easier for users to install and maintain their packages. By utilizing this overlay, Gentoo users can streamline their package installation and management.
+Microcai’s **gentoo-zh** is an open‑source overlay that provides Chinese language support and localized resources for Gentoo Linux users. It bundles translation files, documentation, and community‑maintained packages to simplify installing and managing software in Mandarin. Ideal for Gentoo enthusiasts who prefer a fully Chinese‑friendly environment, the overlay integrates seamlessly with the Portage system.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/microcai/gentoo-zh) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/microcai/gentoo-zh) · [← Back to AI/ML](./README.md)</sub>

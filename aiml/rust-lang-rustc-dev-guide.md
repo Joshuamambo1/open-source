@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 584 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `contributing` `rust` `rustc`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The rust-lang/rustc-dev-guide project is an open-source resource that provides a comprehensive guide to understanding the inner workings of the Rust compiler, rustc. This guide serves as a valuable tool for developers, offering insights into the compiler's architecture and processes, as well as instructions on how to contribute to its development. By following this guide, users can gain a deeper understanding of Rust's compilation process and participate in shaping the language's future.
+The **rustc-dev-guide** is an open‑source handbook that explains the architecture, compilation pipeline, and inner workings of the Rust compiler (rustc). It provides detailed, step‑by‑step instructions for developers who want to understand the codebase, debug compiler issues, and contribute new features or fixes. Though the guide itself isn’t a machine‑learning or frontend project, it serves as essential documentation for anyone working on the Rust compiler ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/rust-lang/rustc-dev-guide) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/rust-lang/rustc-dev-guide) · [← Back to AI/ML](./README.md)</sub>

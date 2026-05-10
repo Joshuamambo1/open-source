@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**59 projects** in this category.
+**60 projects** in this category.
 
 ## Projects
 
@@ -53,20 +53,21 @@
 | 43 | [SORMAS-Foundation/SORMAS-Project](./sormas-foundation-sormas-project.md) | ⭐ 321 | Java | 55/100 |
 | 44 | [LanRhyme/MicYou](./lanrhyme-micyou.md) | ⭐ 1.9k | Kotlin | 54/100 |
 | 45 | [DowneyRem/PixivSource](./downeyrem-pixivsource.md) | ⭐ 838 | JavaScript | 54/100 |
-| 46 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 53/100 |
-| 47 | [bitwarden/ios](./bitwarden-ios.md) | ⭐ 585 | Swift | 53/100 |
-| 48 | [a1ive/nwinfo](./a1ive-nwinfo.md) | ⭐ 546 | C | 53/100 |
-| 49 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 51/100 |
-| 50 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 51/100 |
-| 51 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 51/100 |
-| 52 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 51/100 |
-| 53 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 539 | Dart | 50/100 |
-| 54 | [1amageek/Toolbar](./1amageek-toolbar.md) | ⭐ 456 | Swift | 50/100 |
-| 55 | [llfbandit/record](./llfbandit-record.md) | ⭐ 312 | Kotlin | 47/100 |
-| 56 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 47/100 |
-| 57 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 47/100 |
-| 58 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 43/100 |
-| 59 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 43/100 |
+| 46 | [jinleili/wgpu-in-app](./jinleili-wgpu-in-app.md) | ⭐ 398 | Rust | 53/100 |
+| 47 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 53/100 |
+| 48 | [bitwarden/ios](./bitwarden-ios.md) | ⭐ 585 | Swift | 53/100 |
+| 49 | [a1ive/nwinfo](./a1ive-nwinfo.md) | ⭐ 546 | C | 53/100 |
+| 50 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 51/100 |
+| 51 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 51/100 |
+| 52 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 51/100 |
+| 53 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 51/100 |
+| 54 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 539 | Dart | 50/100 |
+| 55 | [1amageek/Toolbar](./1amageek-toolbar.md) | ⭐ 456 | Swift | 50/100 |
+| 56 | [llfbandit/record](./llfbandit-record.md) | ⭐ 312 | Kotlin | 47/100 |
+| 57 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 47/100 |
+| 58 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 47/100 |
+| 59 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 43/100 |
+| 60 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 43/100 |
 
 ---
 

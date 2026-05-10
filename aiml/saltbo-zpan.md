@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 258 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud` `cloud-disk` `cloud-storage` `disk` `oss` `qiniuyun` `s3` `upyun`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project saltbo/zpan:
-
-zpan is an open-source, self-hosted cloud disk solution based on cloud storage, enabling users to create private cloud storage for personal or enterprise use. This project leverages cloud storage to provide a secure and scalable web-based file management system. It aims to provide a robust and customizable solution for individuals and organizations seeking to host their own cloud storage solutions.
+saltbo/zpan is an open‑source, self‑hosted cloud disk solution that layers a user‑friendly web interface over any underlying cloud storage service. It enables individuals and organizations to build private or enterprise file‑sharing platforms with features such as authentication, directory management, and configurable storage back‑ends, all deployable on their own infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/saltbo/zpan) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/saltbo/zpan) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 401 |
+| ⭐ **Stars** | 402 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Fortran |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blackbox-optimization` `bobyqa` `cobyla` `constrained-optimization` `derivative-free-optimization` `lincoa` `matlab` `modern-fortran` `newuoa` `nonlinear-optimization` `numerical-optimization` `optimization`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the libprima/prima project:
-
-PRIMA is an open-source package for solving nonlinear optimization problems without requiring derivative information. It provides a reference implementation of Powell's derivative-free optimization methods, including COBYLA, UOBYQA, NEWUOA, BOBYQA, and LINCOA, making it a valuable resource for researchers and practitioners in the field of artificial intelligence and machine learning. By leveraging derivative-free methods, PRIMA enables efficient optimization of complex functions without the need for computationally expensive derivative calculations.
+PRIMA (libprima/prima) is an open‑source C/C++ library that implements Powell’s classic derivative‑free optimization algorithms—COBYLA, UOBYQA, NEWUOA, BOBYQA, and LINCOA—providing a modern, reference‑grade solution for general nonlinear problems where gradient information is unavailable. It offers a clean, portable API and extensive documentation, making these powerful methods readily accessible for research and engineering applications in AI/ML and other fields.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/libprima/prima) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/libprima/prima) · [← Back to AI/ML](./README.md)</sub>

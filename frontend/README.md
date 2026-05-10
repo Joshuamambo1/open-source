@@ -2,7 +2,7 @@
 
 > Web frameworks, UI libraries, browser tooling
 
-**510 projects** in this category.
+**512 projects** in this category.
 
 ## Projects
 
@@ -432,8 +432,8 @@
 | 422 | [vavallee/bindery](./vavallee-bindery.md) | ⭐ 234 | Go | 52/100 |
 | 423 | [akirarika/milkio](./akirarika-milkio.md) | ⭐ 399 | TypeScript | 52/100 |
 | 424 | [h3pdesign/Neon-Vision-Editor](./h3pdesign-neon-vision-editor.md) | ⭐ 229 | Swift | 52/100 |
-| 425 | [david-vanderson/dvui](./david-vanderson-dvui.md) | ⭐ 1.4k | Zig | 51/100 |
-| 426 | [Charcoal-SE/SmokeDetector](./charcoal-se-smokedetector.md) | ⭐ 493 | Python | 51/100 |
+| 425 | [Charcoal-SE/SmokeDetector](./charcoal-se-smokedetector.md) | ⭐ 493 | Python | 51/100 |
+| 426 | [david-vanderson/dvui](./david-vanderson-dvui.md) | ⭐ 1.4k | Zig | 51/100 |
 | 427 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 51/100 |
 | 428 | [moq-dev/moq](./moq-dev-moq.md) | ⭐ 1.2k | Rust | 51/100 |
 | 429 | [stjude-rust-labs/sprocket](./stjude-rust-labs-sprocket.md) | ⭐ 155 | Rust | 51/100 |
@@ -499,25 +499,27 @@
 | 489 | [PozzettiAndrea/ComfyUI-SAM3](./pozzettiandrea-comfyui-sam3.md) | ⭐ 524 | Python | 45/100 |
 | 490 | [rust-embedded-community/embedded-sdmmc-rs](./rust-embedded-community-embedded-sdmmc-rs.md) | ⭐ 470 | Rust | 45/100 |
 | 491 | [PozzettiAndrea/ComfyUI-TRELLIS2](./pozzettiandrea-comfyui-trellis2.md) | ⭐ 469 | Python | 44/100 |
-| 492 | [missdeer/coredns_custom_build](./missdeer-coredns-custom-build.md) | ⭐ 333 | Go Template | 43/100 |
-| 493 | [emavgl/oinkoin](./emavgl-oinkoin.md) | ⭐ 379 | Dart | 43/100 |
-| 494 | [AstrBotDevs/AstrBot-desktop](./astrbotdevs-astrbot-desktop.md) | ⭐ 454 | Rust | 43/100 |
-| 495 | [PozzettiAndrea/ComfyUI-SAM3DBody](./pozzettiandrea-comfyui-sam3dbody.md) | ⭐ 303 | Python | 43/100 |
-| 496 | [PozzettiAndrea/ComfyUI-UniRig](./pozzettiandrea-comfyui-unirig.md) | ⭐ 383 | Python | 43/100 |
-| 497 | [ALT-F4-LLC/vorpal](./alt-f4-llc-vorpal.md) | ⭐ 116 | Rust | 42/100 |
-| 498 | [Reviewable/Reviewable](./reviewable-reviewable.md) | ⭐ 198 | CSS | 42/100 |
-| 499 | [tangramdotdev/tangram](./tangramdotdev-tangram.md) | ⭐ 122 | Rust | 41/100 |
+| 492 | [Asymmetric-al/core](./asymmetric-al-core.md) | ⭐ 446 | TypeScript | 43/100 |
+| 493 | [missdeer/coredns_custom_build](./missdeer-coredns-custom-build.md) | ⭐ 333 | Go Template | 43/100 |
+| 494 | [emavgl/oinkoin](./emavgl-oinkoin.md) | ⭐ 379 | Dart | 43/100 |
+| 495 | [AstrBotDevs/AstrBot-desktop](./astrbotdevs-astrbot-desktop.md) | ⭐ 454 | Rust | 43/100 |
+| 496 | [PozzettiAndrea/ComfyUI-SAM3DBody](./pozzettiandrea-comfyui-sam3dbody.md) | ⭐ 303 | Python | 43/100 |
+| 497 | [PozzettiAndrea/ComfyUI-UniRig](./pozzettiandrea-comfyui-unirig.md) | ⭐ 383 | Python | 43/100 |
+| 498 | [ALT-F4-LLC/vorpal](./alt-f4-llc-vorpal.md) | ⭐ 116 | Rust | 42/100 |
+| 499 | [Reviewable/Reviewable](./reviewable-reviewable.md) | ⭐ 198 | CSS | 42/100 |
 | 500 | [timasoft/hyprviz](./timasoft-hyprviz.md) | ⭐ 192 | Rust | 41/100 |
-| 501 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 40/100 |
-| 502 | [vercel-labs/zero-native](./vercel-labs-zero-native.md) | ⭐ — | — | 39/100 |
-| 503 | [BitPusher16/qwench](./bitpusher16-qwench.md) | ⭐ — | — | 39/100 |
-| 504 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 39/100 |
-| 505 | [skorotkiewicz/nanorust](./skorotkiewicz-nanorust.md) | ⭐ — | — | 39/100 |
-| 506 | [pthom/imgui_bundle](./pthom-imgui-bundle.md) | ⭐ — | — | 39/100 |
-| 507 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 36/100 |
-| 508 | [Recticode/python-cli](./recticode-python-cli.md) | ⭐ — | — | 36/100 |
-| 509 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 21/100 |
-| 510 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 21/100 |
+| 501 | [tangramdotdev/tangram](./tangramdotdev-tangram.md) | ⭐ 122 | Rust | 41/100 |
+| 502 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 40/100 |
+| 503 | [imtomt/ymawky](./imtomt-ymawky.md) | ⭐ — | — | 39/100 |
+| 504 | [vercel-labs/zero-native](./vercel-labs-zero-native.md) | ⭐ — | — | 39/100 |
+| 505 | [BitPusher16/qwench](./bitpusher16-qwench.md) | ⭐ — | — | 39/100 |
+| 506 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 39/100 |
+| 507 | [skorotkiewicz/nanorust](./skorotkiewicz-nanorust.md) | ⭐ — | — | 39/100 |
+| 508 | [pthom/imgui_bundle](./pthom-imgui-bundle.md) | ⭐ — | — | 39/100 |
+| 509 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 36/100 |
+| 510 | [Recticode/python-cli](./recticode-python-cli.md) | ⭐ — | — | 36/100 |
+| 511 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 21/100 |
+| 512 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 21/100 |
 
 ---
 

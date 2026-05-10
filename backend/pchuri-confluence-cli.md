@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 162 |
-| 🍴 **Forks** | 44 |
+| ⭐ **Stars** | 171 |
+| 🍴 **Forks** | 45 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-client` `atlassian` `automation` `cli` `command-line` `confluence` `developer-tools` `documentation` `javascript` `nodejs` `productivity` `wiki`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Confluence-cli is an open-source, command-line interface (CLI) for Atlassian Confluence, providing a powerful tool for seamless interaction with Confluence from the terminal. It enables users to manage content, users, and spaces, as well as perform various administrative tasks with ease. This CLI simplifies Confluence management and enhances productivity for developers and administrators.
+The **Confluence CLI** is an open‑source command‑line tool that lets developers and administrators interact with Atlassian Confluence directly from the terminal. It provides powerful backend operations—such as creating, updating, and retrieving pages, spaces, and attachments—and integrates smoothly with CI/CD pipelines and other dev‑tools. By simplifying automation and scripting of Confluence tasks, it enhances productivity for product and engineering teams.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/pchuri/confluence-cli) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/pchuri/confluence-cli) · [← Back to Backend](./README.md)</sub>

@@ -2,7 +2,7 @@
 
 > Developer productivity, editors, workflow
 
-**269 projects** in this category.
+**271 projects** in this category.
 
 ## Projects
 
@@ -232,8 +232,8 @@
 | 222 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 50/100 |
 | 223 | [kazupon/gunshi](./kazupon-gunshi.md) | ⭐ 412 | TypeScript | 49/100 |
 | 224 | [openclaw/goplaces](./openclaw-goplaces.md) | ⭐ 223 | Go | 49/100 |
-| 225 | [rust-lang/portable-simd](./rust-lang-portable-simd.md) | ⭐ 1k | Rust | 49/100 |
-| 226 | [VirtusLab/scala-cli](./virtuslab-scala-cli.md) | ⭐ 635 | Scala | 49/100 |
+| 225 | [VirtusLab/scala-cli](./virtuslab-scala-cli.md) | ⭐ 635 | Scala | 49/100 |
+| 226 | [rust-lang/portable-simd](./rust-lang-portable-simd.md) | ⭐ 1k | Rust | 49/100 |
 | 227 | [meshtastic/Meshtastic-Apple](./meshtastic-meshtastic-apple.md) | ⭐ 776 | Swift | 49/100 |
 | 228 | [test-summary/action](./test-summary-action.md) | ⭐ 438 | TypeScript | 49/100 |
 | 229 | [russellbanks/Komac](./russellbanks-komac.md) | ⭐ 430 | Rust | 48/100 |
@@ -265,18 +265,20 @@
 | 255 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
 | 256 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
 | 257 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
-| 258 | [getstackit/stackit](./getstackit-stackit.md) | ⭐ 28 | Go | 44/100 |
-| 259 | [GlassHaven/Haven](./glasshaven-haven.md) | ⭐ 465 | Kotlin | 44/100 |
-| 260 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 569 | Rust | 44/100 |
-| 261 | [salesforcecli/cli](./salesforcecli-cli.md) | ⭐ 168 | TypeScript | 44/100 |
-| 262 | [gildas/bitbucket-cli](./gildas-bitbucket-cli.md) | ⭐ 43 | Go | 44/100 |
-| 263 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
-| 264 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 43/100 |
-| 265 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
-| 266 | [SableClient/Sable](./sableclient-sable.md) | ⭐ 189 | TypeScript | 42/100 |
-| 267 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
-| 268 | [jher7/tokenyst](./jher7-tokenyst.md) | ⭐ — | — | 39/100 |
-| 269 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
+| 258 | [lessweb/deepcode-cli](./lessweb-deepcode-cli.md) | ⭐ 464 | TypeScript | 44/100 |
+| 259 | [getstackit/stackit](./getstackit-stackit.md) | ⭐ 28 | Go | 44/100 |
+| 260 | [GlassHaven/Haven](./glasshaven-haven.md) | ⭐ 465 | Kotlin | 44/100 |
+| 261 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 569 | Rust | 44/100 |
+| 262 | [salesforcecli/cli](./salesforcecli-cli.md) | ⭐ 168 | TypeScript | 44/100 |
+| 263 | [gildas/bitbucket-cli](./gildas-bitbucket-cli.md) | ⭐ 43 | Go | 44/100 |
+| 264 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
+| 265 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 43/100 |
+| 266 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
+| 267 | [Diegovsky/riff](./diegovsky-riff.md) | ⭐ 215 | Rust | 42/100 |
+| 268 | [SableClient/Sable](./sableclient-sable.md) | ⭐ 189 | TypeScript | 42/100 |
+| 269 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
+| 270 | [jher7/tokenyst](./jher7-tokenyst.md) | ⭐ — | — | 39/100 |
+| 271 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
 
 ---
 

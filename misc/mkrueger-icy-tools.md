@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 169 |
-| 🍴 **Forks** | 12 |
+| ⭐ **Stars** | 170 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The icy_tools project is an open-source collection of applications related to ANSI and BBS (Bulletin Board System) technology. This suite of tools is designed to facilitate the creation, sharing, and management of ANSI art and BBS content. By providing a range of functionalities, icy_tools aims to revitalize the nostalgia surrounding these retro technologies.
+mkrueger/icy_tools is an open‑source suite of small utilities focused on ANSI and BBS (Bulletin Board System) handling. It bundles various command‑line applications for creating, editing, and displaying ANSI art, managing BBS file transfers, and performing related text‑mode tasks. The tools are lightweight, cross‑platform, and intended for hobbyists and developers working with retro‑style terminal graphics.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/mkrueger/icy_tools) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/mkrueger/icy_tools) · [← Back to Misc](./README.md)</sub>

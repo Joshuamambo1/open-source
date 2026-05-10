@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 951 |
-| 🍴 **Forks** | 224 |
+| ⭐ **Stars** | 957 |
+| 🍴 **Forks** | 228 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aiops` `gemini` `hacktoberfest` `haystack` `langchain` `langraph` `llamaindex` `llmops` `llms` `mcp` `openai` `openai-agents`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The openinference project provides OpenTelemetry instrumentation to enhance AI observability by collecting and analyzing metrics and logs from AI/ML workflows. This project enables developers to gain insights into the performance, stability, and efficiency of their AI applications, streamlining the process of debugging and optimizing complex AI systems. By integrating openinference, developers can gain a deeper understanding of their AI workloads, leading to improved model performance and reduced costs.
+Arize‑ai/openinference provides OpenTelemetry‑compatible instrumentation libraries that enable seamless observability of AI/ML workloads. By automatically capturing traces, metrics, and logs from model serving, training pipelines, and data processing components, it lets developers monitor performance, detect anomalies, and gain end‑to‑end insight into their AI systems. The project is open source and integrates with existing orchestration platforms to simplify AI observability across the entire stack.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Arize-ai/openinference) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Arize-ai/openinference) · [← Back to Orchestration](./README.md)</sub>

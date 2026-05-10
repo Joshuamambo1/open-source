@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 138 |
-| 🍴 **Forks** | 220 |
+| ⭐ **Stars** | 141 |
+| 🍴 **Forks** | 222 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `blockchain` `bounties` `bug-bounty` `community` `contributions` `cryptocurrency` `earn-crypto` `first-timers-only` `good-first-issue` `hacktoberfest` `open-source`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The RustChain-bounties project is an open-source initiative that rewards contributors with RTC cryptocurrency for participating in the RustChain ecosystem. Users can earn bounties ranging from 1 to 150 RTC tokens by engaging in various activities such as coding, writing tutorials, and identifying bugs. This project combines cryptocurrency with community involvement, promoting collaboration and innovation in AI and machine learning.
+Scottcjn’s **rustchain‑bounties** repo is a community‑driven program that rewards contributors with RTC tokens for helping grow the RustChain ecosystem. Participants can earn bounties ranging from 1 to 150 RTC by starring the project, submitting code, writing tutorials, or discovering bugs, making it a practical way to get involved in both crypto and AI/ML development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Scottcjn/rustchain-bounties) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Scottcjn/rustchain-bounties) · [← Back to Crypto](./README.md)</sub>

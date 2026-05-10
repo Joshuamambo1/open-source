@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 419 |
+| 🍴 **Forks** | 420 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chromebook` `chromeos` `crew` `hacktoberfest` `linux` `package-manager`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Chromebrew is an open-source package manager designed specifically for Chrome OS, providing users with a convenient and efficient way to install, update, and manage applications on their Chromebook. This project aims to enhance the flexibility and customizability of Chrome OS by allowing users to easily discover and install new software. With Chromebrew, users can explore a wider range of applications and extend the capabilities of their Chromebook.
+Chromebrew is an open‑source package manager designed specifically for Chrome OS, enabling users to install, update, and manage a wide range of Unix‑like software directly on their Chromebooks. By providing familiar command‑line tools and a curated repository of packages, Chromebrew extends the functionality of Chrome OS beyond its default web‑centric environment, making it easier for developers and power users to run native applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/chromebrew/chromebrew) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/chromebrew/chromebrew) · [← Back to Misc](./README.md)</sub>

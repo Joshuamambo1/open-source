@@ -144,8 +144,8 @@
 | 134 | [jrswab/axe](./jrswab-axe.md) | ⭐ 803 | Go | 55/100 |
 | 135 | [dappros/ethora](./dappros-ethora.md) | ⭐ 530 | JavaScript | 55/100 |
 | 136 | [wecode-ai/Wegent](./wecode-ai-wegent.md) | ⭐ 552 | Python | 55/100 |
-| 137 | [OnChainMee/OnChainMee-Web3-Portfolio](./onchainmee-onchainmee-web3-portfolio.md) | ⭐ 308 | TypeScript | 54/100 |
-| 138 | [Vasco0x4/AIDA](./vasco0x4-aida.md) | ⭐ 371 | JavaScript | 54/100 |
+| 137 | [Vasco0x4/AIDA](./vasco0x4-aida.md) | ⭐ 371 | JavaScript | 54/100 |
+| 138 | [OnChainMee/OnChainMee-Web3-Portfolio](./onchainmee-onchainmee-web3-portfolio.md) | ⭐ 308 | TypeScript | 54/100 |
 | 139 | [OnChainMee/OnChaiMee-Web3-Portfolio](./onchainmee-onchaimee-web3-portfolio.md) | ⭐ 307 | TypeScript | 54/100 |
 | 140 | [OnChainMee/blockchain-projects](./onchainmee-blockchain-projects.md) | ⭐ 309 | — | 54/100 |
 | 141 | [beihaili/Get-Started-with-Web3](./beihaili-get-started-with-web3.md) | ⭐ 611 | JavaScript | 54/100 |

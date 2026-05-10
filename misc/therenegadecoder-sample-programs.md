@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 627 |
-| 🍴 **Forks** | 630 |
+| 🍴 **Forks** | 629 |
 | 💻 **Language** | ALGOL |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`collection` `discord` `polyglot` `programming-languages` `snippets`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-TheRenegadeCoder/sample-programs is an open-source project that provides a comprehensive collection of sample programs in various programming languages. This repository serves as a valuable resource for coders, educators, and learners, allowing them to explore and learn from examples in multiple programming languages. It offers a wide range of sample code snippets for different programming languages, making it a one-stop-shop for programming examples and tutorials.
+The RenegadeCoder/sample-programs repository is a curated collection of simple, runnable code examples covering a wide range of programming languages—from classic languages like C and Java to newer ones such as Rust and Go. Each program demonstrates basic syntax and core concepts, making it a handy reference for learners, educators, and developers who need quick language‑specific snippets. The project is organized by language and aims to provide a consistent “hello‑world” style baseline for anyone exploring or teaching programming fundamentals.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/TheRenegadeCoder/sample-programs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/TheRenegadeCoder/sample-programs) · [← Back to Misc](./README.md)</sub>

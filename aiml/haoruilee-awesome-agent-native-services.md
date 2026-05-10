@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 328 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 351 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,9 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "haoruilee/awesome-agent-native-services":
-
-This project, "awesome-agent-native-services", facilitates the discovery of services tailored for AI agents, enabling them to seamlessly integrate with relevant offerings. By providing a centralized platform for AI services, this project enhances the efficiency and effectiveness of AI agents in various applications. It is an open-source resource that benefits both developers and AI agents.
+**Summary:**  
+The *awesome‑agent‑native‑services* repository curates a collection of APIs, tools, and UI components specifically built for AI agents, helping developers quickly discover services that can be directly consumed by autonomous systems. It spans categories such as AI/ML, frontend interfaces, and design assets, providing links, brief descriptions, and usage pointers to streamline integration of agent‑friendly capabilities into your projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/haoruilee/awesome-agent-native-services) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/haoruilee/awesome-agent-native-services) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aws` `cli` `cosign` `github-actions` `goreleaser` `libnuke` `mkdocs` `mkdocs-material`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project 'ekristen/aws-nuke':
-
-The ekristen/aws-nuke project is an open-source tool designed to securely delete all resources from an AWS account, effectively 'nuke' it. This tool provides a convenient and reliable way to thoroughly remove AWS resources, including EC2 instances, S3 buckets, and more, saving administrators time and effort. It helps ensure a complete cleanup of AWS resources, reducing the risk of data breaches and compliance issues.
+ekristen/aws-nuke is an open‑source command‑line tool that safely and comprehensively deletes every resource within an AWS account, helping users clean up test environments, decommission projects, or enforce security hygiene. It supports a wide range of AWS services, offers configurable whitelists to preserve essential assets, and provides detailed reporting of the resources it removes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/ekristen/aws-nuke) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ekristen/aws-nuke) · [← Back to DevTools](./README.md)</sub>

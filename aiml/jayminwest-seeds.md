@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 74 |
+| ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project 'jayminwest/seeds':
-
-Seeds is an open-source, Git-native issue tracker specifically designed for AI agent workflows. This lightweight tool features zero dependencies, using JSONL storage and the Bun runtime for efficient performance. It's an ideal solution for developers working on AI and machine learning projects who need a streamlined issue tracking system.
+jayminwest/seeds is a lightweight, Git‑native issue tracker designed specifically for managing AI agent workflows. It stores data in simple JSONL files, runs on the Bun runtime, and has zero external dependencies, making it easy to integrate and deploy in any AI/ML project.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/jayminwest/seeds) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/jayminwest/seeds) · [← Back to AI/ML](./README.md)</sub>

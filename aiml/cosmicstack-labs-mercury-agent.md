@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 205 |
+| ⭐ **Stars** | 2.1k |
+| 🍴 **Forks** | 215 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-assistant` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Mercury-Agent is an open-source, soul-driven AI agent that provides secure and multi-channel access to tools and resources. This permission-hardened agent comes equipped with token budgets and runs continuously from either a command-line interface (CLI) or Telegram, ensuring seamless and automated access. By utilizing Mercury-Agent, users can unlock the full potential of AI-driven operations while maintaining robust security and control.
+cosmicstack‑labs/mercury‑agent is an open‑source, soul‑driven AI agent that operates continuously from the command line or via Telegram, equipped with permission‑hardened tools, token‑budget management, and multi‑channel access. It enables developers to run autonomous AI workflows 24/7 while maintaining strict control over tool permissions and resource usage. Suitable for AI/ML experimentation and DevOps automation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/cosmicstack-labs/mercury-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/cosmicstack-labs/mercury-agent) · [← Back to AI/ML](./README.md)</sub>

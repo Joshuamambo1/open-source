@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.3k |
-| 🍴 **Forks** | 803 |
+| ⭐ **Stars** | 12.4k |
+| 🍴 **Forks** | 811 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`fanqiang` `gfw` `lantern` `ss` `ssr` `trojan` `v2ray` `v2rayfree` `vmess` `vpn`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The v2rayfree project provides an open-source collection of free and public V2Ray nodes, updated daily, for users to access. The project offers a subscription to the latest free V2Ray nodes, as well as free nodes for SS and Trojan protocols. This initiative aims to facilitate secure and convenient internet access by providing a community-driven repository of free and reliable V2Ray nodes.
+Free‑nodes/v2rayfree is an open‑source repository that curates and regularly updates free V2Ray, Shadowsocks and Trojan proxy nodes for public use. It provides subscription links to the latest community‑maintained, donation‑free node lists, with daily refreshes to ensure reliable, unrestricted access. The project is designed for anyone needing a quick, no‑cost solution for bypassing network restrictions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/free-nodes/v2rayfree) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/free-nodes/v2rayfree) · [← Back to Misc](./README.md)</sub>

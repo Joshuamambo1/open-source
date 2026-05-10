@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 449 |
-| 🍴 **Forks** | 45 |
+| ⭐ **Stars** | 466 |
+| 🍴 **Forks** | 46 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `chat` `copilot` `custom-chat` `custom-models` `github-copilot` `language-model` `language-model-api` `llm` `ucp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Integrate multiple Large Language Model (LLM) API providers into VS Code's GitHub Copilot Chat with the smallmain/vscode-unify-chat-provider project. This tool aggregates leading free mainstream models, making it easy to configure and utilize popular services like Claude Code, Gemini CLI, Antigravity, and more in just a few steps. Enjoy seamless one-click access to your account quotas for services such as ChatGPT Plus/Pro.
+smallmain/vscode-unify-chat-provider is an open‑source VS Code extension that plugs a variety of large‑language‑model APIs into the built‑in GitHub Copilot Chat interface. It aggregates the latest free and paid models—Claude Code, Gemini CLI, Antigravity, GitHub Copilot, Qwen Code, OpenAI CodeX (ChatGPT Plus/Pro), etc.—and lets users switch between them with a few configuration steps and a single click. The project streamlines backend integration for developers who want flexible, multi‑provider AI assistance directly inside their editor.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/smallmain/vscode-unify-chat-provider) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/smallmain/vscode-unify-chat-provider) · [← Back to AI/ML](./README.md)</sub>

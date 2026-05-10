@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 346 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`no-code` `nocode`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Saltcorn is an open-source, no-code application builder that allows users to create custom applications without needing to write code. This free tool offers a user-friendly interface for designing and deploying web applications, making it accessible to individuals and organizations of various technical backgrounds. With Saltcorn, users can quickly build and deploy tailored solutions to meet their specific needs.
+Saltcorn is a free, open‑source platform that lets users create full‑stack web applications without writing code. By offering a visual builder for databases, forms, pages, and custom logic, it enables rapid development of data‑driven apps that can be deployed on any server. The project focuses on a user‑friendly frontend experience while remaining extensible for developers who need deeper customization.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/saltcorn/saltcorn) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/saltcorn/saltcorn) · [← Back to Frontend](./README.md)</sub>

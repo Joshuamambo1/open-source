@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`http` `http-server` `java` `java-framework` `oop` `web-framework` `xml-xslt`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Takes is an open-source, true object-oriented Java web framework that prioritizes code quality and maintainability. It eliminates common pitfalls such as nulls, static methods, annotations, and mutable objects, promoting a more robust and scalable development process. This project is suitable for AI/ML and backend application development.
+**yegor256/takes** is a minimalist, pure‑object‑oriented Java web framework that eliminates nulls, static methods, annotations, and mutable objects, encouraging immutable, type‑safe code that’s easier to test and maintain. By leveraging functional‑style request handling and a tiny core API, Takes lets developers build clean, modular backend services without the boilerplate and pitfalls typical of conventional Java web stacks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/yegor256/takes) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/yegor256/takes) · [← Back to AI/ML](./README.md)</sub>

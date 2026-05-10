@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 991 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apache-mahout` `cuda` `python` `qumat` `qumat-qdp` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Apache Mahout is an open-source project that provides a scalable and performant environment for creating machine learning applications. It allows developers to quickly build and deploy machine learning models, making it an ideal choice for big data and data science projects. With Mahout, users can create scalable and efficient machine learning applications.
+Apache Mahout is an open‑source library that provides a collection of scalable machine learning algorithms designed for large‑scale data processing on distributed platforms such as Hadoop and Spark. It offers ready‑to‑use implementations for clustering, classification, recommendation, and dimensionality reduction, enabling developers to build high‑performance analytics applications with minimal effort. The project focuses on delivering a flexible, production‑ready environment for fast prototyping and deployment of machine‑learning pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/apache/mahout) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/apache/mahout) · [← Back to Frontend](./README.md)</sub>

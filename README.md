@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5795** |
+| 🗂️ **Total projects** | **5829** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,16 +18,16 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2314 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1059 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 577 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 525 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 306 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 278 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 2330 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1066 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 581 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 526 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 308 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 281 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 207 | [Browse →](./crypto/) |
 | 📊 **Data** | 137 | [Browse →](./data/) |
 | 💳 **Payments** | 94 | [Browse →](./payments/) |
-| 📈 **Trading** | 75 | [Browse →](./trading/) |
+| 📈 **Trading** | 76 | [Browse →](./trading/) |
 | 📱 **Mobile** | 74 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 64 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 44 | [Browse →](./security/) |
@@ -46,8 +46,8 @@
 | 5 | [gofiber/fiber](./backend/gofiber-fiber.md) | ⭐ 39.7k | Backend |
 | 6 | [quic-go/quic-go](./frontend/quic-go-quic-go.md) | ⭐ 11.6k | Frontend |
 | 7 | [x64dbg/x64dbg](./security/x64dbg-x64dbg.md) | ⭐ 48.3k | Security |
-| 8 | [MudBlazor/MudBlazor](./frontend/mudblazor-mudblazor.md) | ⭐ 10.4k | Frontend |
-| 9 | [laurent22/joplin](./frontend/laurent22-joplin.md) | ⭐ 54.7k | Frontend |
+| 8 | [laurent22/joplin](./frontend/laurent22-joplin.md) | ⭐ 54.7k | Frontend |
+| 9 | [MudBlazor/MudBlazor](./frontend/mudblazor-mudblazor.md) | ⭐ 10.4k | Frontend |
 | 10 | [ScrapeGraphAI/Scrapegraph-ai](./aiml/scrapegraphai-scrapegraph-ai.md) | ⭐ 24.9k | AI/ML |
 
 ## 🚀 How it works

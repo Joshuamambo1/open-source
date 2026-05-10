@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 384 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 386 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`file-sharing` `golang` `self-hosted` `storj`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the safebucket project:
-
-Safebucket is an open-source, on-premises file sharing solution that provides a secure and efficient way to share files across an organization or team. It allows users to store, access, and collaborate on files in a centralized location, while maintaining control over data ownership and security. With safebucket, users can rest assured that their sensitive files are protected while still being easily accessible.
+Safebucket is an open‑source, on‑premises file‑sharing solution that lets teams quickly upload, store, and distribute files without relying on external cloud services. It emphasizes simplicity, speed, and security, offering a lightweight web interface and robust access controls for safe internal collaboration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/safebucket/safebucket) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/safebucket/safebucket) · [← Back to Misc](./README.md)</sub>

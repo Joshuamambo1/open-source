@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 357 |
-| 🍴 **Forks** | 92 |
+| 🍴 **Forks** | 93 |
 | 💻 **Language** | QML |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`decentralized` `messenger` `nim` `privacy` `qml`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Status App is an open-source, multi-platform client built using Nim and QML, providing a user interface for interacting with the Status Network, a decentralized platform for secure messaging and social networking. This cross-platform application allows users to engage in encrypted conversations, share content, and participate in a decentralized social media experience. By leveraging Nim and QML, the Status App offers a unique blend of performance and visual appeal.
+Status App is an open‑source mobile client built with Nim and QML that provides a privacy‑focused, decentralized messaging, browsing, and crypto‑wallet experience. Leveraging Nim’s performance and QML’s flexible UI, the app integrates secure messaging, Web3 browsing, and on‑chain transactions into a single, lightweight interface. It serves developers and power users looking for a high‑performance, open‑source alternative to mainstream messaging and crypto wallets.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/status-im/status-app) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/status-im/status-app) · [← Back to AI/ML](./README.md)</sub>

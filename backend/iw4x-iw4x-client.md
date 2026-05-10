@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 266 |
+| ⭐ **Stars** | 267 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Backend · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the iw4x/iw4x-client project:
-
-iw4x/iw4x-client is an open-source, custom client for Call of Duty: Modern Warfare 2 (2009) that offers enhanced features, improved security, and extensive modding capabilities. This project provides a dedicated server system and various security fixes to provide a more stable and secure gaming experience. With its modding support, users can customize and extend the game to their liking.
+A lightweight, open‑source client for Call of Duty: Modern Warfare 2 (2009) that replaces the original game client, adding support for dedicated multiplayer servers, modern security patches, and extensive modding capabilities. It provides a stable backend for developers and server operators, while offering tools for customizing gameplay and enhancing overall security.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/iw4x/iw4x-client) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/iw4x/iw4x-client) · [← Back to Backend](./README.md)</sub>

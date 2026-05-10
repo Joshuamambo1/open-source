@@ -1,6 +1,6 @@
 # timothepoznanski/poznote
 
-[![Stars](https://img.shields.io/github/stars/timothepoznanski/poznote?style=flat-square&color=yellow)](https://github.com/timothepoznanski/poznote/stargazers) [![Forks](https://img.shields.io/github/forks/timothepoznanski/poznote?style=flat-square&color=blue)](https://github.com/timothepoznanski/poznote/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timothepoznanski/poznote?style=flat-square&color=yellow)](https://github.com/timothepoznanski/poznote/stargazers) [![Forks](https://img.shields.io/github/forks/timothepoznanski/poznote?style=flat-square&color=blue)](https://github.com/timothepoznanski/poznote/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Poznote is a personal note-taking and documentation platform.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 572 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ timothepoznanski/poznote：timothepoznanski/poznote may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 78/100 |
+| production | 66/100 |
+| outlook | 71/100 |
 | adoption | 52/100 |
 | stars | 59/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

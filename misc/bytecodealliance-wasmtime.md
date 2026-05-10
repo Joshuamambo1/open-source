@@ -1,6 +1,6 @@
 # bytecodealliance/wasmtime
 
-[![Stars](https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=flat-square&color=yellow)](https://github.com/bytecodealliance/wasmtime/stargazers) [![Forks](https://img.shields.io/github/forks/bytecodealliance/wasmtime?style=flat-square&color=blue)](https://github.com/bytecodealliance/wasmtime/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=flat-square&color=yellow)](https://github.com/bytecodealliance/wasmtime/stargazers) [![Forks](https://img.shields.io/github/forks/bytecodealliance/wasmtime?style=flat-square&color=blue)](https://github.com/bytecodealliance/wasmtime/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-bytecodealliance/wasmtime: bytecodealliance/wasmtime may be useful when its README and activity match a concrete workflow.. Use it for Misc. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+bytecodealliance/wasmtime: bytecodealliance/wasmtime may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-bytecodealliance/wasmtime: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+bytecodealliance/wasmtime: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-bytecodealliance/wasmtime：bytecodealliance/wasmtime may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+bytecodealliance/wasmtime：bytecodealliance/wasmtime may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ bytecodealliance/wasmtime：bytecodealliance/wasmtime may be useful when its REA
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ bytecodealliance/wasmtime：bytecodealliance/wasmtime may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 95/100 |
+| quality | 90/100 |
 | integration | 30/100 |
-| production | 79/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 88/100 |
 | stars | 91/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

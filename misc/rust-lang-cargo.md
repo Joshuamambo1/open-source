@@ -1,6 +1,6 @@
 # rust-lang/cargo
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/cargo?style=flat-square&color=yellow)](https://github.com/rust-lang/cargo/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/cargo?style=flat-square&color=blue)](https://github.com/rust-lang/cargo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/cargo?style=flat-square&color=yellow)](https://github.com/rust-lang/cargo/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/cargo?style=flat-square&color=blue)](https://github.com/rust-lang/cargo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The Rust package manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.9k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-rust-lang/cargo: rust-lang/cargo may be useful when its README and activity match a concrete workflow.. Use it for Misc. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rust-lang/cargo: rust-lang/cargo may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-rust-lang/cargo: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+rust-lang/cargo: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-rust-lang/cargo：rust-lang/cargo may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rust-lang/cargo：rust-lang/cargo may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ rust-lang/cargo：rust-lang/cargo may be useful when its README and activity mat
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ rust-lang/cargo：rust-lang/cargo may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 72/100 |
+| outlook | 72/100 |
 | adoption | 88/100 |
 | stars | 89/100 |
 | forks | 87/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

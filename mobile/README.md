@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**76 projects** in this category.
+**77 projects** in this category.
 
 ## Projects
 
@@ -65,25 +65,26 @@
 | 55 | [coreboot/coreboot](./coreboot-coreboot.md) | ⭐ 2.7k | C | 57/100 |
 | 56 | [ossappcollective/OSS-DocumentScanner](./ossappcollective-oss-documentscanner.md) | ⭐ 2.1k | C++ | 57/100 |
 | 57 | [NeoApplications/Neo-Launcher](./neoapplications-neo-launcher.md) | ⭐ 2k | Java | 57/100 |
-| 58 | [mozilla-mobile/reference-browser](./mozilla-mobile-reference-browser.md) | ⭐ 658 | Kotlin | 57/100 |
-| 59 | [DowneyRem/PixivSource](./downeyrem-pixivsource.md) | ⭐ 838 | JavaScript | 57/100 |
-| 60 | [bitwarden/ios](./bitwarden-ios.md) | ⭐ 585 | Swift | 57/100 |
-| 61 | [llfbandit/record](./llfbandit-record.md) | ⭐ 312 | Kotlin | 57/100 |
-| 62 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 56/100 |
-| 63 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 56/100 |
-| 64 | [woocommerce/woocommerce-ios](./woocommerce-woocommerce-ios.md) | ⭐ 357 | Swift | 56/100 |
-| 65 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 55/100 |
-| 66 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 55/100 |
-| 67 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 539 | Dart | 55/100 |
-| 68 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 311 | Kotlin | 55/100 |
-| 69 | [minh-ton/reynard-browser](./minh-ton-reynard-browser.md) | ⭐ 519 | Swift | 55/100 |
-| 70 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 54/100 |
-| 71 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 54/100 |
-| 72 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 53/100 |
-| 73 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 53/100 |
-| 74 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 52/100 |
-| 75 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 52/100 |
-| 76 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 41/100 |
+| 58 | [localdesktop/localdesktop.github.io](./localdesktop-localdesktop.github.io.md) | ⭐ 1.5k | Rust | 57/100 |
+| 59 | [mozilla-mobile/reference-browser](./mozilla-mobile-reference-browser.md) | ⭐ 658 | Kotlin | 57/100 |
+| 60 | [DowneyRem/PixivSource](./downeyrem-pixivsource.md) | ⭐ 838 | JavaScript | 57/100 |
+| 61 | [bitwarden/ios](./bitwarden-ios.md) | ⭐ 585 | Swift | 57/100 |
+| 62 | [llfbandit/record](./llfbandit-record.md) | ⭐ 312 | Kotlin | 57/100 |
+| 63 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 56/100 |
+| 64 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 56/100 |
+| 65 | [woocommerce/woocommerce-ios](./woocommerce-woocommerce-ios.md) | ⭐ 357 | Swift | 56/100 |
+| 66 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 55/100 |
+| 67 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 55/100 |
+| 68 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 539 | Dart | 55/100 |
+| 69 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 311 | Kotlin | 55/100 |
+| 70 | [minh-ton/reynard-browser](./minh-ton-reynard-browser.md) | ⭐ 519 | Swift | 55/100 |
+| 71 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 54/100 |
+| 72 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 54/100 |
+| 73 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 53/100 |
+| 74 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 53/100 |
+| 75 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 52/100 |
+| 76 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 52/100 |
+| 77 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 41/100 |
 
 ---
 

@@ -15,9 +15,9 @@
 | 5 | [git-town/git-town](./git-town-git-town.md) | ⭐ 3.2k | Gherkin | 64/100 |
 | 6 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.9k | C++ | 63/100 |
 | 7 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.2k | Rust | 63/100 |
-| 8 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 62/100 |
-| 9 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 62/100 |
-| 10 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 6.1k | Swift | 59/100 |
+| 8 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 62/100 |
+| 9 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 6.1k | Swift | 59/100 |
+| 10 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 59/100 |
 | 11 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 57/100 |
 | 12 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 52/100 |
 | 13 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 52/100 |

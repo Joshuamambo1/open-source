@@ -1,6 +1,6 @@
 # NativePHP/mobile-air
 
-[![Stars](https://img.shields.io/github/stars/NativePHP/mobile-air?style=flat-square&color=yellow)](https://github.com/NativePHP/mobile-air/stargazers) [![Forks](https://img.shields.io/github/forks/NativePHP/mobile-air?style=flat-square&color=blue)](https://github.com/NativePHP/mobile-air/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NativePHP/mobile-air?style=flat-square&color=yellow)](https://github.com/NativePHP/mobile-air/stargazers) [![Forks](https://img.shields.io/github/forks/NativePHP/mobile-air?style=flat-square&color=blue)](https://github.com/NativePHP/mobile-air/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Create mobile applications with PHP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 906 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | C |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ NativePHP/mobile-air：NativePHP/mobile-air helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

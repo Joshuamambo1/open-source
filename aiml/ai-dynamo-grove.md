@@ -1,6 +1,6 @@
 # ai-dynamo/grove
 
-[![Stars](https://img.shields.io/github/stars/ai-dynamo/grove?style=flat-square&color=yellow)](https://github.com/ai-dynamo/grove/stargazers) [![Forks](https://img.shields.io/github/forks/ai-dynamo/grove?style=flat-square&color=blue)](https://github.com/ai-dynamo/grove/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-dynamo/grove?style=flat-square&color=yellow)](https://github.com/ai-dynamo/grove/stargazers) [![Forks](https://img.shields.io/github/forks/ai-dynamo/grove?style=flat-square&color=blue)](https://github.com/ai-dynamo/grove/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes enhancements for Network Topology Aware Gang Scheduling & Autoscaling
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ai-dynamo/grove — это open‑source набор расширений дл�
 
 ### 中文
 
-ai-dynamo/grove：ai-dynamo/grove helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ai-dynamo/grove：ai-dynamo/grove helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ai-dynamo/grove：ai-dynamo/grove helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ai-dynamo/grove：ai-dynamo/grove helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 79/100 |
+| production | 71/100 |
+| outlook | 72/100 |
 | adoption | 48/100 |
 | stars | 49/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

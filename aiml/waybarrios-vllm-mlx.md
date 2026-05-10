@@ -1,6 +1,6 @@
 # waybarrios/vllm-mlx
 
-[![Stars](https://img.shields.io/github/stars/waybarrios/vllm-mlx?style=flat-square&color=yellow)](https://github.com/waybarrios/vllm-mlx/stargazers) [![Forks](https://img.shields.io/github/forks/waybarrios/vllm-mlx?style=flat-square&color=blue)](https://github.com/waybarrios/vllm-mlx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/waybarrios/vllm-mlx?style=flat-square&color=yellow)](https://github.com/waybarrios/vllm-mlx/stargazers) [![Forks](https://img.shields.io/github/forks/waybarrios/vllm-mlx?style=flat-square&color=blue)](https://github.com/waybarrios/vllm-mlx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Backend · Mobile
 
 ### English
 
-waybarrios/vllm-mlx: waybarrios/vllm-mlx helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+waybarrios/vllm-mlx: waybarrios/vllm-mlx helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-waybarrios/vllm-mlx: open-source проект в категориях AI/ML, Backend, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+waybarrios/vllm-mlx: open-source проект в категориях AI/ML, Backend, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-waybarrios/vllm-mlx：waybarrios/vllm-mlx helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+waybarrios/vllm-mlx：waybarrios/vllm-mlx helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ waybarrios/vllm-mlx：waybarrios/vllm-mlx helps add AI capability without starti
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ waybarrios/vllm-mlx：waybarrios/vllm-mlx helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 62/100 |
 | stars | 65/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

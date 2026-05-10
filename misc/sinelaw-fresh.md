@@ -1,6 +1,6 @@
 # sinelaw/fresh
 
-[![Stars](https://img.shields.io/github/stars/sinelaw/fresh?style=flat-square&color=yellow)](https://github.com/sinelaw/fresh/stargazers) [![Forks](https://img.shields.io/github/forks/sinelaw/fresh?style=flat-square&color=blue)](https://github.com/sinelaw/fresh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sinelaw/fresh?style=flat-square&color=yellow)](https://github.com/sinelaw/fresh/stargazers) [![Forks](https://img.shields.io/github/forks/sinelaw/fresh?style=flat-square&color=blue)](https://github.com/sinelaw/fresh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal based IDE & text editor: easy, powerful and fast
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.1k |
 | 🍴 **Forks** | 246 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ sinelaw/fresh：sinelaw/fresh may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 76/100 |
 | stars | 82/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

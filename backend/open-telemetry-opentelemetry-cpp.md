@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-cpp
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-cpp?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-cpp?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-cpp?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-cpp?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > The OpenTelemetry C++ Client
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 556 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Backend · DevTools
 
 ### English
 
-open-telemetry/opentelemetry-cpp: open-telemetry/opentelemetry-cpp helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+open-telemetry/opentelemetry-cpp: open-telemetry/opentelemetry-cpp helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-open-telemetry/opentelemetry-cpp: open-source проект в категориях Backend, DevTools. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+open-telemetry/opentelemetry-cpp: open-source проект в категориях Backend, DevTools. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-open-telemetry/opentelemetry-cpp：open-telemetry/opentelemetry-cpp helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+open-telemetry/opentelemetry-cpp：open-telemetry/opentelemetry-cpp helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ open-telemetry/opentelemetry-cpp：open-telemetry/opentelemetry-cpp helps teams 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ open-telemetry/opentelemetry-cpp：open-telemetry/opentelemetry-cpp helps teams 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 78/100 |
-| production | 81/100 |
-| outlook | 87/100 |
+| production | 75/100 |
+| outlook | 80/100 |
 | adoption | 67/100 |
 | stars | 66/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

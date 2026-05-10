@@ -1,6 +1,6 @@
 # esphome/esphome
 
-[![Stars](https://img.shields.io/github/stars/esphome/esphome?style=flat-square&color=yellow)](https://github.com/esphome/esphome/stargazers) [![Forks](https://img.shields.io/github/forks/esphome/esphome?style=flat-square&color=blue)](https://github.com/esphome/esphome/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/esphome/esphome?style=flat-square&color=yellow)](https://github.com/esphome/esphome/stargazers) [![Forks](https://img.shields.io/github/forks/esphome/esphome?style=flat-square&color=blue)](https://github.com/esphome/esphome/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11k |
 | 🍴 **Forks** | 5.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ esphome/esphome：esphome/esphome helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 95/100 |
+| quality | 90/100 |
 | integration | 46/100 |
-| production | 82/100 |
-| outlook | 89/100 |
+| production | 75/100 |
+| outlook | 82/100 |
 | adoption | 88/100 |
 | stars | 86/100 |
 | forks | 93/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

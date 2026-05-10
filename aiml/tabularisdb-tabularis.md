@@ -1,6 +1,6 @@
 # TabularisDB/tabularis
 
-[![Stars](https://img.shields.io/github/stars/TabularisDB/tabularis?style=flat-square&color=yellow)](https://github.com/TabularisDB/tabularis/stargazers) [![Forks](https://img.shields.io/github/forks/TabularisDB/tabularis?style=flat-square&color=blue)](https://github.com/TabularisDB/tabularis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TabularisDB/tabularis?style=flat-square&color=yellow)](https://github.com/TabularisDB/tabularis/stargazers) [![Forks](https://img.shields.io/github/forks/TabularisDB/tabularis?style=flat-square&color=blue)](https://github.com/TabularisDB/tabularis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ TabularisDB/tabularis：TabularisDB/tabularis helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 94/100 |
-| production | 84/100 |
-| outlook | 90/100 |
+| production | 77/100 |
+| outlook | 83/100 |
 | adoption | 61/100 |
 | stars | 66/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

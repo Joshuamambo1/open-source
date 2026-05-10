@@ -1,6 +1,6 @@
 # Mintplex-Labs/anything-llm
 
-[![Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=flat-square&color=yellow)](https://github.com/Mintplex-Labs/anything-llm/stargazers) [![Forks](https://img.shields.io/github/forks/Mintplex-Labs/anything-llm?style=flat-square&color=blue)](https://github.com/Mintplex-Labs/anything-llm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=flat-square&color=yellow)](https://github.com/Mintplex-Labs/anything-llm/stargazers) [![Forks](https://img.shields.io/github/forks/Mintplex-Labs/anything-llm?style=flat-square&color=blue)](https://github.com/Mintplex-Labs/anything-llm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 59.7k |
 | 🍴 **Forks** | 6.5k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Mintplex-Labs/anything-llm：Mintplex-Labs/anything-llm helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 99/100 |
+| quality | 94/100 |
 | integration | 62/100 |
-| production | 86/100 |
-| outlook | 100/100 |
+| production | 79/100 |
+| outlook | 93/100 |
 | adoption | 99/100 |
 | stars | 100/100 |
 | forks | 95/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

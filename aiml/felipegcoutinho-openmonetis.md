@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 245 |
-| 🍴 **Forks** | 83 |
+| ⭐ **Stars** | 248 |
+| 🍴 **Forks** | 85 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`better-auth` `drizzle-orm` `financas-pessoais` `finance-tracker` `financeiro` `nextjs` `open-source` `postgresql` `self-hosted` `shadcn-ui` `tailwindcss` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here is a brief summary of the open-source project in English:
-
-OpenMonetis is an open-source, self-hosted personal finance management system that automates the capture of bank notifications. It provides features such as transaction tracking, card management, billing, and budgeting, all controlled from within your own infrastructure without relying on third-party services. This project empowers users to have full control over their financial data.
+OpenMonetis is a self‑hosted personal finance manager that automatically captures bank notifications to track income, expenses, credit‑card transactions, invoices and budgets. Built to run on your own infrastructure, it provides a privacy‑first alternative to third‑party services, with a modern frontend, AI‑enhanced data processing, and DevOps‑ready deployment options.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/felipegcoutinho/openmonetis) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/felipegcoutinho/openmonetis) · [← Back to AI/ML](./README.md)</sub>

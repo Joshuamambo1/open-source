@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The rust-lang/rustc_codegen_gcc project is an open-source initiative that integrates the libgccjit Ahead-of-Time (AOT) codegen into the Rust compiler (rustc). This integration enables the compilation of Rust code into native machine code using the GCC's JIT compiler, improving performance and efficiency. The project aims to provide a high-performance compilation solution for Rust applications.
+The **rustc_codegen_gcc** project provides a Rust compiler backend that leverages GCC’s libgccjit library for ahead‑of‑time (AOT) code generation. By integrating libgccjit with `rustc`, it enables Rust programs to be compiled using the GCC toolchain, offering an alternative to LLVM‑based codegen and expanding the compiler’s target flexibility. This open‑source component is maintained under the rust-lang organization and falls under the “Misc” category.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/rust-lang/rustc_codegen_gcc) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/rust-lang/rustc_codegen_gcc) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `claude` `code-server` `docker` `helm` `kubernetes` `oidc` `openclaw` `self-hosted` `terminal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Agent Server is an open-source project that enables self-hosted, multi-user access to OpenClaw and OpenCode in a browser. This project provides a scalable and customizable backend solution using Helm for deployment, catering to the needs of developers and DevOps professionals in the AI/ML and Backend spaces. By leveraging Agent Server, users can enjoy seamless integration and collaboration capabilities.
+AgentServer is an open‑source platform that lets you run OpenClaw and OpenCode directly in a web browser, providing a self‑hosted, multi‑user environment for AI/ML development. It’s packaged as a Helm chart for easy deployment on Kubernetes, handling backend services, user isolation, and infrastructure automation out of the box. This makes it simple to spin up a scalable, collaborative AI workspace without relying on external SaaS solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/agentserver/agentserver) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/agentserver/agentserver) · [← Back to AI/ML](./README.md)</sub>

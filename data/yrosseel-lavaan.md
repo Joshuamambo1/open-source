@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 498 |
-| 🍴 **Forks** | 116 |
+| 🍴 **Forks** | 117 |
 | 💻 **Language** | R |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`factor-analysis` `growth-curve-models` `latent-variables` `missing-data` `multilevel-models` `multivariate-analysis` `path-analysis` `psychometrics` `statistical-modeling` `structural-equation-modeling`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data · Marketing
 
 ## 📝 Summary
 
-The lavaan package is an open-source R tool for structural equation modeling (SEM) and other related statistical analyses. It provides a comprehensive framework for estimating and analyzing complex relationships between observed and latent variables, enabling researchers to uncover underlying patterns and structures within their data. This package is widely used in various fields, including data science, marketing, and social sciences.
+The **lavaan** package (yrosseel/lavaan) is an open‑source R library that provides a comprehensive set of tools for specifying, estimating, and testing structural equation models, including confirmatory factor analysis, path analysis, and latent growth modeling. It offers a user‑friendly syntax, extensive diagnostic output, and support for a variety of estimators and fit indices, making it suitable for both academic research and applied marketing analytics.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/yrosseel/lavaan) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/yrosseel/lavaan) · [← Back to Data](./README.md)</sub>

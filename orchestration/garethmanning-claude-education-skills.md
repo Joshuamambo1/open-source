@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 203 |
+| ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adaptive-learning` `agentic-workflow` `ai-agent` `ai-education` `claude` `competency-based-education` `curriculum-design` `edtech` `education` `evidence-based-education` `intelligent-tutoring-system` `learning-science`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "GarethManning/claude-education-skills":
-
-Claude-education-skills is an open-source library of evidence-based AI skills for educators, designed to support teacher use and agent orchestration. This library provides a collection of Claude skills tailored for educational settings, offering a valuable resource for educators seeking to integrate AI into their teaching practices. By leveraging this library, educators can create more effective and engaging learning experiences.
+GarethManning/claude-education-skills is an open‑source collection of evidence‑based Claude “skills” tailored for educators, enabling teachers to leverage Claude’s capabilities for classroom tasks such as lesson planning, assessment creation, and personalized feedback. The library is structured for easy integration into larger AI orchestration pipelines, allowing seamless agent coordination and customization across educational workflows. It targets the intersection of AI/ML, orchestration, and instructional design to streamline and enhance teaching practices.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/GarethManning/claude-education-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/GarethManning/claude-education-skills) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 120 |
-| 🍴 **Forks** | 28 |
+| ⭐ **Stars** | 135 |
+| 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chat-analysis` `chat-history` `chat-mcp` `llm` `macos` `mcp-server` `skill` `skills` `wechat` `weixin`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "welink":
-
-Welink is an open-source, locally hosted AI agent for analyzing WeChat chat data. It provides features such as AI companion, large model analysis, friend rankings, word clouds, sentiment trends, and group chat profiles. This project can be run on various platforms, including Docker, Windows, and MacOS.
+runzhliu/welink is an open‑source, cross‑platform AI agent (Docker, Windows, macOS) designed for local analysis of WeChat chat data. It leverages large language models to generate insights such as friend rankings, word clouds, sentiment trends, and group‑chat profiling, effectively creating a personal AI “twin” for conversational analytics. The project combines AI/ML techniques with backend and DevOps tooling to provide an easy‑to‑deploy, privacy‑preserving analytics suite.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/runzhliu/welink) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/runzhliu/welink) · [← Back to AI/ML](./README.md)</sub>

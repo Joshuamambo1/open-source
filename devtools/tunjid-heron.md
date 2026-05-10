@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 506 |
+| ⭐ **Stars** | 510 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`architecture` `architecture-components` `bluesky-client` `compose` `compose-desktop` `compose-ios` `coroutines` `jetpack-datastore` `jetpack-lifecycle` `jetpack-room` `kotlin` `kotlin-multiplatform-sample`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data · Mobile
 
 ## 📝 Summary
 
-Heron is an open-source, multiplatform Bluesky client designed to provide a seamless and elegant user experience. This project aims to offer a reliable and user-friendly interface for accessing Bluesky, a decentralized social networking platform. Heron is built with a focus on accessibility and is available across various platforms.
+tunjid/heron is an open‑source, cross‑platform client for the Bluesky social network, offering a clean and responsive UI that works seamlessly on desktop, mobile, and web environments. Built with modern development tools, it provides developers and power users with a customizable, data‑driven experience for browsing, posting, and interacting with Bluesky content.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/tunjid/heron) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/tunjid/heron) · [← Back to DevTools](./README.md)</sub>

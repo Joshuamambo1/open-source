@@ -10,12 +10,12 @@
 |---|---|---|---|---|
 | 1 | [jnMetaCode/agency-agents-zh](./jnmetacode-agency-agents-zh.md) | ⭐ 10.3k | Shell | 100/100 |
 | 2 | [recharts/recharts](./recharts-recharts.md) | ⭐ 27.1k | TypeScript | 100/100 |
-| 3 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 100/100 |
-| 4 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 100/100 |
+| 3 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 100/100 |
+| 4 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 100/100 |
 | 5 | [PrivateBin/PrivateBin](./privatebin-privatebin.md) | ⭐ 8.3k | PHP | 100/100 |
 | 6 | [guanzhi/GmSSL](./guanzhi-gmssl.md) | ⭐ 6k | C | 100/100 |
-| 7 | [Superalgos/Superalgos](./superalgos-superalgos.md) | ⭐ 5.5k | JavaScript | 100/100 |
-| 8 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 67.1k | Python | 100/100 |
+| 7 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 67.1k | Python | 100/100 |
+| 8 | [Superalgos/Superalgos](./superalgos-superalgos.md) | ⭐ 5.5k | JavaScript | 100/100 |
 | 9 | [ccxt/ccxt](./ccxt-ccxt.md) | ⭐ 42.3k | Python | 100/100 |
 | 10 | [lightningnetwork/lnd](./lightningnetwork-lnd.md) | ⭐ 8.1k | Go | 100/100 |
 | 11 | [foundry-rs/foundry](./foundry-rs-foundry.md) | ⭐ 10.3k | Rust | 100/100 |

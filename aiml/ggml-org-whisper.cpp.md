@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49.4k |
+| ⭐ **Stars** | 49.5k |
 | 🍴 **Forks** | 5.5k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`inference` `openai` `speech-recognition` `speech-to-text` `transformer` `whisper`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Whisper.cpp project is an open-source implementation of OpenAI's Whisper model in C/C++, providing a scalable and efficient solution for speech recognition tasks. By leveraging the Whisper model, this project enables developers to integrate high-performance speech-to-text capabilities into various applications, including real-time processing and offline analysis. The project's C/C++ architecture makes it accessible to a wide range of users and systems.
+ggml‑org/whisper.cpp is an open‑source C/C++ implementation that brings OpenAI’s Whisper speech‑to‑text model to native environments without Python dependencies. By leveraging the lightweight ggml tensor library, it runs efficiently on CPUs (including ARM) and can be compiled for a wide range of platforms, making real‑time transcription accessible on desktops, servers, and embedded devices.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/ggml-org/whisper.cpp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ggml-org/whisper.cpp) · [← Back to AI/ML](./README.md)</sub>

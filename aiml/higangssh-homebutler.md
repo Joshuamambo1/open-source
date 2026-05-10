@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 139 |
+| ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `chatops` `cli` `devops` `docker` `go` `golang` `homelab` `mcp` `mcp-server` `monitoring` `openclaw`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-HomeButler is an open-source project that enables users to manage their home lab environments directly from their chat interface. It features a single, self-contained binary with no dependencies, making it an intuitive and hassle-free solution for those who need to monitor and control their homelab. This innovative tool streamlines the process of interacting with home lab devices, facilitating effortless management.
+Higangssh /homebutler is a lightweight, single‑binary tool that lets you control and monitor your homelab directly from chat interfaces. With zero external dependencies, it provides AI‑enhanced command execution and status queries for servers, containers, and services, making everyday DevOps tasks as simple as sending a message. Ideal for developers and sysadmins who want a chat‑driven backend and dev‑tool workflow without any setup overhead.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Higangssh/homebutler) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Higangssh/homebutler) · [← Back to AI/ML](./README.md)</sub>

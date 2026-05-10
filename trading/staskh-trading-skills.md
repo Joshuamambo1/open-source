@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 172 |
-| 🍴 **Forks** | 40 |
+| ⭐ **Stars** | 184 |
+| 🍴 **Forks** | 43 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-trading` `claude` `claude-skills` `mcp-server` `option-trading` `options-trading`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
-This open-source project, 'staskh/trading_skills', is an AI-powered advisory system designed specifically for option traders. Leveraging the capabilities of Claude, a cutting-edge language model, this system aims to provide traders with data-driven insights and strategic recommendations to inform their trading decisions. By integrating AI/ML technologies with trading expertise, the project seeks to enhance the effectiveness and efficiency of option trading.
+The **staskh/trading_skills** project is an open‑source advisor system that leverages Claude’s large‑language‑model capabilities to provide real‑time guidance for options traders. It combines AI‑driven analysis with a robust backend to generate trade ideas, risk assessments, and strategy recommendations, helping users make more informed decisions in the options market.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/staskh/trading_skills) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/staskh/trading_skills) · [← Back to Trading](./README.md)</sub>

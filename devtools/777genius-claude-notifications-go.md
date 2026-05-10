@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 601 |
-| 🍴 **Forks** | 75 |
+| ⭐ **Stars** | 612 |
+| 🍴 **Forks** | 76 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `cross-platform` `iterm2` `linux` `macos` `notifications` `sounds` `tmux` `webhooks` `windows`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-Claude-notifications-go is an open-source, cross-platform plugin that provides smart notifications for Claude Code, allowing users to customize their notification experience with six different types and click-to-focus functionality. The plugin can be easily installed with a single line of code and supports instant notifications with context analysis, as well as integrations with webhooks like ntfy, Slack, and Telegram. It is compatible with Linux, MacOS, and Windows operating systems.
+The **claude-notifications-go** plugin provides smart, cross‑platform notifications for Claude Code, supporting six notification types with click‑to‑focus functionality and instant delivery. It requires only a single line of installation, has zero external dependencies, and can send alerts via webhooks to services such as ntfy, Slack, Telegram, and more on Linux, macOS, and Windows. This lightweight DevTools extension streamlines context analysis and keeps developers promptly informed.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/777genius/claude-notifications-go) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/777genius/claude-notifications-go) · [← Back to DevTools](./README.md)</sub>

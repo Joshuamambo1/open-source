@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 104 |
+| ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blackboard-learn` `cli` `command-line-tool` `crawler` `m3u8` `peking-university` `pku` `rust`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Pku3b is an open-source command-line tool designed for PKUers (students of Peking University) to interact with the university's teaching network from their computers. It allows users to view and submit assignments, as well as download lecture recordings. This tool is compatible with Windows, Linux, and macOS systems.
+A cross‑platform command‑line client for Peking University’s teaching portal, sshwy/pku3b lets students view course materials, download lecture recordings, and submit assignments directly from Windows, Linux, or macOS terminals. Designed as a lightweight, open‑source alternative to Blackboard, it streamlines everyday academic tasks for PKU users.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/sshwy/pku3b) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/sshwy/pku3b) · [← Back to DevTools](./README.md)</sub>

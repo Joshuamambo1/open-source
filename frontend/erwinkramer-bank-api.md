@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 831 |
-| 🍴 **Forks** | 77 |
+| 🍴 **Forks** | 76 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `architecture` `asp-net-core` `aspnet-core` `dotnet` `gridify` `mcp` `mcp-server` `minimal-api` `scalar` `spectral`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · Design
 
 ## 📝 Summary
 
-The Bank API is an open-source design reference project that enables developers to efficiently bootstrap the development of compliant and modern APIs. It serves as a foundational template for building robust backend and frontend systems, providing a solid starting point for various application development projects. This project facilitates streamlined API development by offering a well-structured design and implementation framework.
+The **Bank API** is an open‑source reference implementation that demonstrates how to build a clean, standards‑compliant banking API using modern design principles. It provides a ready‑to‑run full‑stack example—including both frontend and backend components—so developers can quickly bootstrap their own secure, scalable financial services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/erwinkramer/bank-api) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/erwinkramer/bank-api) · [← Back to Frontend](./README.md)</sub>

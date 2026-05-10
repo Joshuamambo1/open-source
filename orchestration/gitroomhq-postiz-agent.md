@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 198 |
-| 🍴 **Forks** | 32 |
+| ⭐ **Stars** | 210 |
+| 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `agentic-ai` `agents` `claude` `claude-code` `openclaw` `openclaw-skills` `social-media` `social-media-scheduler`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the gitroomhq/postiz-agent project:
-
-The postiz-agent is an open-source, command-line interface tool that enables seamless scheduling of social media posts by integrating with AI/ML platforms such as Claude and OpenClaw. This orchestration tool streamlines the process of automating social media content, making it ideal for businesses and organizations looking to optimize their online presence. With postiz-agent, users can efficiently manage and schedule their social media content in a centralized and automated manner.
+Postiz Agents CLI is an open‑source tool that lets you integrate various AI models—such as Claude, OpenClaw, and others—into a unified workflow for scheduling and publishing social‑media posts. It provides a lightweight, command‑line interface for orchestrating content generation, approval, and posting across multiple platforms, making it easy to automate social media management directly from your development environment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/gitroomhq/postiz-agent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/gitroomhq/postiz-agent) · [← Back to Orchestration](./README.md)</sub>

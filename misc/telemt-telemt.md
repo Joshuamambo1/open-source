@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 200 |
+| ⭐ **Stars** | 3.7k |
+| 🍴 **Forks** | 204 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aes-ctr` `async` `mtproto` `mtproto-proxy` `mtproxy` `network` `obfuscation` `privacy` `proxy` `rust` `rustls` `socks5`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the telemt/telemt project:
-
-Telemt/telemt is an open-source implementation of MTProxy for Telegram, built using Rust and the Tokio framework. This project aims to provide a highly scalable and reliable solution for Telegram users, allowing them to access the platform through a proxy server. By leveraging Rust and Tokio, telemt/telemt offers a fast and efficient way to interact with the Telegram network.
+telemt is an open‑source MTProxy implementation written in Rust that leverages the Tokio asynchronous runtime for high‑performance, non‑blocking network handling. It provides a lightweight, secure proxy server compatible with Telegram’s MTProto protocol, making it easy to deploy and scale Telegram traffic. The project is categorized under Miscellaneous and is actively maintained on GitHub.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/telemt/telemt) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/telemt/telemt) · [← Back to Misc](./README.md)</sub>

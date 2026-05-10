@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`galgame` `ocr` `reverse-engineering` `translator` `visual-novel` `win32`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the LunaTranslator project:
-
-LunaTranslator is an open-source visual novel translation tool designed to aid in translating and localizing visual novel content. This project provides a platform for users to work together on translating visual novels, making it more accessible and easier to consume for non-native speakers. By leveraging community collaboration, LunaTranslator aims to bridge the language gap and bring visual novels to a broader audience.
+LunaTranslator is an open‑source visual‑novel translation tool that extracts, edits, and re‑injects dialogue text for Japanese VN games, enabling users to create and apply their own translations. It provides a straightforward GUI for parsing game assets, managing translation files, and patching the modified text back into the game, making fan‑translation workflows more accessible.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/HIllya51/LunaTranslator) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/HIllya51/LunaTranslator) · [← Back to Misc](./README.md)</sub>

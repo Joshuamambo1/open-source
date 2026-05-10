@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`code-quality` `hacktoberfest` `linter` `linting` `static-analysis` `swift`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Realm/SwiftLint is an open-source tool that helps enforce Swift coding style and conventions, ensuring consistency and quality in Swift development projects. It checks for common Swift programming mistakes and coding standards, providing a set of rules to follow for writing clean, maintainable, and efficient Swift code. By using SwiftLint, developers can improve code readability and reduce errors, making the development process more efficient and enjoyable.
+SwiftLint is an open‑source command‑line utility that automatically checks Swift code for style violations and enforces common conventions. By integrating linting rules directly into Xcode or CI pipelines, it helps developers maintain clean, consistent codebases and catch potential issues early. It’s widely used in the Swift community as a lightweight, configurable DevTools solution.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/realm/SwiftLint) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/realm/SwiftLint) · [← Back to DevTools](./README.md)</sub>

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5658** |
+| 🗂️ **Total projects** | **5698** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2251 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1030 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 568 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 516 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 299 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 274 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 2265 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1037 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 569 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 521 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 304 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 276 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 205 | [Browse →](./crypto/) |
-| 📊 **Data** | 132 | [Browse →](./data/) |
+| 📊 **Data** | 136 | [Browse →](./data/) |
 | 💳 **Payments** | 94 | [Browse →](./payments/) |
-| 📈 **Trading** | 73 | [Browse →](./trading/) |
-| 📱 **Mobile** | 68 | [Browse →](./mobile/) |
+| 📈 **Trading** | 74 | [Browse →](./trading/) |
+| 📱 **Mobile** | 69 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 64 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 44 | [Browse →](./security/) |
 | ✨ **Design** | 19 | [Browse →](./design/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [gofiber/fiber](./backend/gofiber-fiber.md) | ⭐ 39.7k | Backend |
-| 2 | [laurent22/joplin](./frontend/laurent22-joplin.md) | ⭐ 54.7k | Frontend |
-| 3 | [quic-go/quic-go](./frontend/quic-go-quic-go.md) | ⭐ 11.6k | Frontend |
-| 4 | [x64dbg/x64dbg](./security/x64dbg-x64dbg.md) | ⭐ 48.3k | Security |
-| 5 | [MudBlazor/MudBlazor](./frontend/mudblazor-mudblazor.md) | ⭐ 10.4k | Frontend |
-| 6 | [ScrapeGraphAI/Scrapegraph-ai](./aiml/scrapegraphai-scrapegraph-ai.md) | ⭐ 24.9k | AI/ML |
-| 7 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 186.9k | AI/ML |
-| 8 | [streamlink/streamlink](./aiml/streamlink-streamlink.md) | ⭐ 11.5k | AI/ML |
-| 9 | [hugohe3/ppt-master](./aiml/hugohe3-ppt-master.md) | ⭐ 14.1k | AI/ML |
-| 10 | [JuliusBrussee/caveman](./aiml/juliusbrussee-caveman.md) | ⭐ 57.3k | AI/ML |
+| 1 | [dockur/windows](./aiml/dockur-windows.md) | ⭐ 51.3k | AI/ML |
+| 2 | [gofiber/fiber](./backend/gofiber-fiber.md) | ⭐ 39.7k | Backend |
+| 3 | [x64dbg/x64dbg](./security/x64dbg-x64dbg.md) | ⭐ 48.3k | Security |
+| 4 | [MudBlazor/MudBlazor](./frontend/mudblazor-mudblazor.md) | ⭐ 10.4k | Frontend |
+| 5 | [laurent22/joplin](./frontend/laurent22-joplin.md) | ⭐ 54.7k | Frontend |
+| 6 | [quic-go/quic-go](./frontend/quic-go-quic-go.md) | ⭐ 11.6k | Frontend |
+| 7 | [ScrapeGraphAI/Scrapegraph-ai](./aiml/scrapegraphai-scrapegraph-ai.md) | ⭐ 24.9k | AI/ML |
+| 8 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 186.9k | AI/ML |
+| 9 | [streamlink/streamlink](./aiml/streamlink-streamlink.md) | ⭐ 11.5k | AI/ML |
+| 10 | [hugohe3/ppt-master](./aiml/hugohe3-ppt-master.md) | ⭐ 14.1k | AI/ML |
 
 ## 🚀 How it works
 

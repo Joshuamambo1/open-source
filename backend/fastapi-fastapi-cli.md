@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 602 |
-| 🍴 **Forks** | 80 |
+| ⭐ **Stars** | 604 |
+| 🍴 **Forks** | 78 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `fastapi` `typer` `uvicorn`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-FastAPI CLI is an open-source command-line tool that simplifies the development and management of FastAPI applications. With it, you can easily run, test, and deploy your FastAPI apps from the comfort of your terminal. This tool streamlines the workflow, saving you time and effort in the development process.
+FastAPI CLI is a lightweight command‑line tool that simplifies running, testing, and managing FastAPI applications. It provides convenient commands for launching servers, generating OpenAPI docs, and handling common development tasks without writing boilerplate code. Ideal for backend developers who want a fast, integrated workflow for FastAPI projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/fastapi/fastapi-cli) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/fastapi/fastapi-cli) · [← Back to Backend](./README.md)</sub>

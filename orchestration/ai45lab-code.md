@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 147 |
+| ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The Agentic Agent Framework is an open-source project that enables the development and deployment of intelligent agents, providing a comprehensive orchestration platform for AI and ML applications. This framework is designed to facilitate the creation of autonomous, adaptive, and goal-oriented agents that can interact with their environment and make decisions based on complex data. By leveraging the Agentic Agent Framework, developers can build sophisticated AI-powered systems that learn, reason, and interact with their surroundings in a more human-like manner.
+AI45Lab/Code is an open‑source framework that enables the creation and management of “agentic agents”—autonomous AI components that can plan, act, and collaborate within complex workflows. By providing orchestration tools and reusable building blocks, it simplifies the integration of multiple AI/ML models, tools, and external services into cohesive, self‑directed applications. The project targets developers who need scalable, modular AI pipelines for tasks such as automation, decision‑making, and multi‑agent coordination.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/AI45Lab/Code) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/AI45Lab/Code) · [← Back to Orchestration](./README.md)</sub>

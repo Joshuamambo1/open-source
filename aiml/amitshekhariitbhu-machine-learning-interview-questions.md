@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 186 |
+| ⭐ **Stars** | 191 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Markdown |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `artificial-intelligence` `deep-learning` `deep-learning-interview` `deep-learning-interview-questions` `interview` `interview-questions` `llm` `llm-interview` `machine-learning` `machine-learning-interview` `machine-learning-interview-questions`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Design
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the project:
-
-This open-source project provides a comprehensive cheat sheet for machine learning interview questions and answers, serving as a valuable resource for both aspiring and experienced professionals in the field. The project's repository contains a curated list of machine learning interview questions, along with detailed explanations and code examples to help users better understand the concepts. By leveraging this project, individuals can prepare for machine learning interviews and enhance their skills in the AI/ML domain.
+The **machine-learning-interview-questions** repository by *amitshekhariitbhu* is a curated cheat sheet that compiles a wide range of common machine‑learning interview questions along with concise, well‑structured answers. It covers fundamental concepts, algorithms, model evaluation, system design, and real‑world application scenarios, making it a handy reference for both interview preparation and quick knowledge refresh in AI/ML and design contexts.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/amitshekhariitbhu/machine-learning-interview-questions) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/amitshekhariitbhu/machine-learning-interview-questions) · [← Back to AI/ML](./README.md)</sub>

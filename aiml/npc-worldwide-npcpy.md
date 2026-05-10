@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `llm` `mcp` `mcp-client` `mcp-server` `ollama` `perplexity` `python` `sql` `yaml`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-npcpy is an open-source Python library designed for research and development in various artificial intelligence and machine learning disciplines. It provides a comprehensive suite of tools for Natural Language Processing (NLP), multimodal Large Language Models, Agents, Machine Learning, and Knowledge Graphs. This library aims to facilitate innovation and experimentation in AI research and development.
+NPCpy is an open‑source Python library that streamlines research and development across a wide range of AI fields, including natural language processing, multimodal large language models, autonomous agents, machine learning pipelines, and knowledge‑graph construction. It provides a unified, extensible backend and developer‑friendly tools for building, testing, and deploying complex AI systems, making it a versatile toolkit for both prototyping and production‑grade projects.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/NPC-Worldwide/npcpy) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/NPC-Worldwide/npcpy) · [← Back to AI/ML](./README.md)</sub>

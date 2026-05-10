@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 126 |
+| 🍴 **Forks** | 134 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Syngnat/GoNavi project:
-
-Syngnat/GoNavi is an open-source, modern database management tool that offers a native experience for managing databases like MySQL, PostgreSQL, and SQLite. Built with a Go backend, Wails, and React frontend, it boasts fast startup times, a small footprint, and strong performance. This project is ideal for developers seeking a powerful and efficient database management solution.
+Syngnat/GoNavi is a modern, native‑feel database management tool that supports MySQL, PostgreSQL, SQLite and other popular engines. Built with a Go backend, Wails, and a React frontend, it launches quickly, remains lightweight, and delivers strong performance for developers who need a fast, cross‑platform UI for database administration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Syngnat/GoNavi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Syngnat/GoNavi) · [← Back to AI/ML](./README.md)</sub>

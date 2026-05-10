@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**251 projects** in this category.
+**252 projects** in this category.
 
 ## Projects
 
@@ -243,22 +243,23 @@
 | 233 | [jkawamoto/mcp-youtube-transcript](./jkawamoto-mcp-youtube-transcript.md) | ⭐ 386 | Python | 47/100 |
 | 234 | [verygoodplugins/whatsapp-mcp](./verygoodplugins-whatsapp-mcp.md) | ⭐ 39 | Go | 47/100 |
 | 235 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
-| 236 | [BenedictKing/ccx](./benedictking-ccx.md) | ⭐ 266 | Go | 46/100 |
-| 237 | [cl0nazepamm/3dsmax-mcp](./cl0nazepamm-3dsmax-mcp.md) | ⭐ 70 | Python | 46/100 |
-| 238 | [GrahamCampbell/Laravel-DigitalOcean](./grahamcampbell-laravel-digitalocean.md) | ⭐ 503 | PHP | 46/100 |
-| 239 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
-| 240 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
-| 241 | [nietus/anki-mcp](./nietus-anki-mcp.md) | ⭐ 39 | JavaScript | 45/100 |
-| 242 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 310 | Dockerfile | 44/100 |
-| 243 | [C24Be/AS_Network_List](./c24be-as-network-list.md) | ⭐ 526 | Python | 44/100 |
-| 244 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 44/100 |
-| 245 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
-| 246 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 42/100 |
-| 247 | [joshuadavidthomas/django-language-server](./joshuadavidthomas-django-language-server.md) | ⭐ 184 | Rust | 41/100 |
-| 248 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 39/100 |
-| 249 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
-| 250 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
-| 251 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
+| 236 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 46/100 |
+| 237 | [BenedictKing/ccx](./benedictking-ccx.md) | ⭐ 266 | Go | 46/100 |
+| 238 | [cl0nazepamm/3dsmax-mcp](./cl0nazepamm-3dsmax-mcp.md) | ⭐ 70 | Python | 46/100 |
+| 239 | [GrahamCampbell/Laravel-DigitalOcean](./grahamcampbell-laravel-digitalocean.md) | ⭐ 503 | PHP | 46/100 |
+| 240 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
+| 241 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
+| 242 | [nietus/anki-mcp](./nietus-anki-mcp.md) | ⭐ 39 | JavaScript | 45/100 |
+| 243 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 310 | Dockerfile | 44/100 |
+| 244 | [C24Be/AS_Network_List](./c24be-as-network-list.md) | ⭐ 526 | Python | 44/100 |
+| 245 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 44/100 |
+| 246 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
+| 247 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 42/100 |
+| 248 | [joshuadavidthomas/django-language-server](./joshuadavidthomas-django-language-server.md) | ⭐ 184 | Rust | 41/100 |
+| 249 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 39/100 |
+| 250 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
+| 251 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
+| 252 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
 
 ---
 

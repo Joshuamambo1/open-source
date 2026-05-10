@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 421 |
+| ⭐ **Stars** | 422 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, "proxy-list", offers a collection of free proxies sourced from various locations, including a few VPN and Tor exit nodes. The list is updated hourly to provide users with a constantly refreshed pool of proxy options. This project is useful for anyone looking for free proxies for various applications, such as web scraping, data collection, or anonymous browsing.
+mmpx12/proxy‑list is an open‑source repository that aggregates free proxy servers—including a selection of VPN and Tor exit nodes—from multiple public sources and refreshes the list on an hourly basis. It provides a simple, regularly updated JSON/CSV feed that can be integrated into scripts or applications needing quick access to a diverse pool of anonymous proxies. The project is categorized under Miscellaneous utilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/mmpx12/proxy-list) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/mmpx12/proxy-list) · [← Back to Misc](./README.md)</sub>

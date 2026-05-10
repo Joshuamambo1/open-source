@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 265 |
+| 🍴 **Forks** | 272 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `langchain` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The awesome-llm-agents project is an open-source curated list of impressive LLM (Large Language Model) agents frameworks, providing a comprehensive resource for developers and researchers to explore and utilize the latest advancements in AI/ML. This project offers a centralized hub for discovering and accessing various LLM agent frameworks, facilitating the adoption and integration of cutting-edge technologies. By aggregating these frameworks, awesome-llm-agents aims to accelerate innovation and collaboration within the AI/ML community.
+A curated repository of top-notch frameworks for building and orchestrating large language model (LLM) agents. It gathers and categorizes the most useful tools, libraries, and resources for developers looking to create, manage, and scale LLM‑driven autonomous agents.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/kaushikb11/awesome-llm-agents) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/kaushikb11/awesome-llm-agents) · [← Back to Orchestration](./README.md)</sub>

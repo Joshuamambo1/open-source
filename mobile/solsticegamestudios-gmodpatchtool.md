@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 777 |
+| ⭐ **Stars** | 780 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cef` `chromium` `codec` `fix` `garrysmod` `gmod` `gmodpatchtool` `mod` `patch` `tool`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The GModPatchTool is an open-source project that provides patches for Garry's Mod, enhancing performance and fixing common issues, particularly on Linux, Proton, and macOS environments. This tool updates and improves the CEF (Chrome Embedded Framework) component, ensuring a smoother gaming experience. By using the GModPatchTool, users can optimize their game's launch and performance.
+solsticegamestudios/GModPatchTool is an open‑source utility that provides patches for Garry’s Mod, enhancing the Chromium Embedded Framework (CEF) integration and resolving frequent launch and performance problems—particularly on Linux, Proton, and macOS platforms. It builds on the former GModCEFCodecFix project, offering updated fixes and improvements to ensure a smoother, more stable gaming experience across multiple operating systems.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/solsticegamestudios/GModPatchTool) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/solsticegamestudios/GModPatchTool) · [← Back to Mobile](./README.md)</sub>

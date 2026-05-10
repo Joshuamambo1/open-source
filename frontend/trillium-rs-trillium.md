@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 363 |
+| ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`trillium`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Trillium is an open-source, composable toolkit for building asynchronous internet applications with Rust. This frontend framework enables developers to create scalable and efficient web applications by leveraging Rust's strong type system and concurrency features. With Trillium, developers can build high-performance web applications with a focus on reliability and maintainability.
+Trillium is a lightweight, composable toolkit for building asynchronous internet applications in Rust. It provides a modular architecture that lets developers combine small, focused components—such as request handling, routing, middleware, and response generation—to craft high‑performance web services and APIs with minimal boilerplate. Ideal for both server‑side and frontend‑oriented Rust projects, Trillium emphasizes flexibility, extensibility, and async‑first design.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/trillium-rs/trillium) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/trillium-rs/trillium) · [← Back to Frontend](./README.md)</sub>

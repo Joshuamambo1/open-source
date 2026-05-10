@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.2k |
-| 🍴 **Forks** | 746 |
+| 🍴 **Forks** | 755 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-This project, modded-nanogpt, is an open-source implementation of the 124M parameter NanoGPT model, specifically optimized to be trained in just 2 minutes. This accelerated training process allows for faster experimentation and development with the model. The goal of modded-nanogpt is to provide a versatile and rapidly trainable AI model for various applications.
+KellerJordan’s **modded‑nanogpt** is a lightweight fork of the NanoGPT repository that streamlines the training and inference of the 124‑million‑parameter GPT model, enabling users to get a functional language model up and running in roughly 90 seconds. The project bundles pre‑configured scripts, optimized hyper‑parameters, and a concise setup guide so that developers can quickly experiment with text generation without the overhead of a full‑scale training pipeline. It’s positioned as a miscellaneous utility for rapid prototyping and educational demos.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/KellerJordan/modded-nanogpt) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/KellerJordan/modded-nanogpt) · [← Back to Misc](./README.md)</sub>

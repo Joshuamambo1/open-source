@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`antigravity-ide` `antigravity2api` `claude` `claude-api` `claude-code` `gemini` `gemini-ai` `gemini-api` `gemini-pro`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-The su-kaka/gcli2api project provides a bridge between popular command-line interfaces (CLI) like GeminiCLI and Antigravity, and cutting-edge AI APIs from OpenAI, GEMINI, and Claude. This open-source tool enables seamless conversions between CLI commands and API requests, simplifying the integration process for developers.
+The **gcli2api** project converts GeminiCLI and Antigravity command‑line tools into standard OpenAI‑compatible API endpoints, providing seamless access to Gemini, OpenAI, and Claude models through a unified backend. By exposing these services as RESTful API interfaces, it enables developers to integrate multiple large‑language‑model providers into their applications with minimal code changes. The repository is open‑source and targets AI/ML, backend, and developer‑tooling workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/su-kaka/gcli2api) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/su-kaka/gcli2api) · [← Back to AI/ML](./README.md)</sub>

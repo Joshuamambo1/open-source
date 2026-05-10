@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 829 |
-| 🍴 **Forks** | 86 |
+| ⭐ **Stars** | 876 |
+| 🍴 **Forks** | 90 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Lunel is an open-source AI-powered mobile IDE and cloud development platform that leverages artificial intelligence to streamline the development process. This innovative platform aims to simplify mobile app development by automating manual tasks and providing insightful suggestions to enhance coding efficiency. By integrating AI technology, Lunel enables developers to create and deploy high-quality mobile apps more quickly and effectively.
+Lunel (lunel-dev/lunel) is an open‑source, AI‑enhanced mobile IDE that enables developers to code, test, and deploy applications directly from their smartphones or tablets. By integrating cloud‑based development environments with intelligent code assistance, it streamlines the entire development workflow—from writing and debugging to continuous integration—making mobile‑first development more accessible and efficient.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/lunel-dev/lunel) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/lunel-dev/lunel) · [← Back to AI/ML](./README.md)</sub>

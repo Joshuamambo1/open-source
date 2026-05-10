@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 32 |
-| 🍴 **Forks** | 1 |
+| ⭐ **Stars** | 40 |
+| 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-cost` `ai-cost-tracking` `ai-spending` `ai-usage` `claude` `claude-code` `claude-code-usage` `claude-usage-monitor` `codex` `coding-agents` `copilot` `copilot-usage`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The openusage project provides a unified dashboard to track spend and usage across various AI and ML tools, including Claude, Cursor, OpenRouter, Copilot, Gemini, and Codex. This platform aims to offer a centralized view of your resources and expenses, simplifying management and optimization. By leveraging openusage, users can gain better insights into their tool usage and make more informed decisions.
+janekbaraniewski/openusage is an open‑source dashboard that consolidates and visualizes token and cost data from a wide range of AI services—including Claude, Cursor, OpenRouter, Copilot, Gemini, Codex, and others—into a single, easy‑to‑read interface. It helps developers and teams monitor usage patterns, control expenses, and gain insights across multiple generative‑AI providers without switching between separate billing portals. The project is positioned as a dev‑tool for AI/ML workflows, offering straightforward setup and extensibility for additional services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/janekbaraniewski/openusage) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/janekbaraniewski/openusage) · [← Back to AI/ML](./README.md)</sub>

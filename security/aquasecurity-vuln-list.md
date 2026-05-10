@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 456 |
-| 🍴 **Forks** | 39 |
+| 🍴 **Forks** | 40 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-The aquasecurity/vuln-list project is an open-source repository of known security vulnerabilities. It aggregates vulnerability data from the National Vulnerability Database (NVD), Ubuntu, and Alpine, providing a comprehensive list of potential security risks. This centralized resource enables developers and security professionals to easily identify and prioritize vulnerabilities in their systems.
+The **aquasecurity/vuln-list** repository aggregates vulnerability data from multiple authoritative sources—including the National Vulnerability Database (NVD), Ubuntu Security Notices, and Alpine Linux security advisories—into a single, regularly updated list. It provides a lightweight, machine‑readable feed that security tools and developers can consume to quickly identify and prioritize known CVEs across these major platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/aquasecurity/vuln-list) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/aquasecurity/vuln-list) · [← Back to Security](./README.md)</sub>

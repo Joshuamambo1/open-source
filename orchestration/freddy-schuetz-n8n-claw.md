@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 424 |
-| 🍴 **Forks** | 82 |
+| ⭐ **Stars** | 429 |
+| 🍴 **Forks** | 83 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-agent` `ai-agent-framework` `ai-agents` `ai-agents-framework` `crawl4ai` `crawl4ai-scraper` `framework` `mcp` `modelcontextprotocol` `n8n`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the 'n8n-claw' project:
-
-The n8n-claw project is an open-source, self-hosted AI agent inspired by OpenClaw, built entirely within the n8n platform. It features adaptive memory, proactive task management, and media understanding capabilities, making it an advanced autonomous AI solution. With skills powered by MCP templates and expert agents with delegated sub-agents, n8n-claw enables flexible and scalable AI implementation.
+Freddy‑Schuetz / n8n‑claw is an open‑source, self‑hosted AI agent built entirely on n8n that emulates the functionality of OpenClaw. It combines adaptive RAG‑powered memory with modular skills defined via MCP templates, supports expert agents that can delegate work to sub‑agents, and includes proactive task management and media‑understanding capabilities—all provisioned with a single setup script. The project sits at the intersection of orchestration, AI/ML, and frontend development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/freddy-schuetz/n8n-claw) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/freddy-schuetz/n8n-claw) · [← Back to Orchestration](./README.md)</sub>

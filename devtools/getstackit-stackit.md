@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 28 |
-| 🍴 **Forks** | — |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `git` `stacking`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Stackit is a Go-based command-line tool designed to simplify the management of dependent branches in Git repositories. It tracks branch relationships, automates rebases across related branches, and streamlines the process of submitting connected pull requests. This open-source tool aims to make collaborative development more efficient and organized.
+Stackit is a Go‑based command‑line utility that streamlines working with stacked (dependent) branches in Git repositories. It tracks branch relationships, automates rebasing across the entire stack, and can create linked pull requests, making multi‑branch development faster and less error‑prone. Suitable for developers who need robust DevTools for managing complex branch workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/getstackit/stackit) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/getstackit/stackit) · [← Back to DevTools](./README.md)</sub>

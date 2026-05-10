@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`argument-parser` `argument-parsing` `command-line` `command-line-parser` `parsed-arguments` `positional-arguments` `rust` `subcommands`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The clap library is an open-source, fast, and feature-rich command line argument parser for the Rust programming language. It allows developers to create robust and user-friendly command-line interfaces with ease, enabling them to define and handle various command-line options and arguments. With clap, Rust developers can create reliable and efficient command-line tools and applications.
+clap (Command Line Argument Parser) is a robust, high‑performance library for building command‑line interfaces in Rust. It supports a rich set of features—including subcommands, automatic help/version generation, argument validation, and configurable parsing styles—while remaining lightweight and easy to integrate. Ideal for both simple utilities and complex applications, clap streamlines argument handling and enhances developer productivity.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/clap-rs/clap) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/clap-rs/clap) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 19.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`component-library` `element-plus` `element-ui` `vue` `vue-components` `vuejs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Element Plus is an open-source, Vue.js 3-based UI library created by the Element team. It offers a comprehensive set of components and tools to help developers build visually appealing, user-friendly applications. With its robust feature set and ease of use, Element Plus is an ideal choice for web development projects.
+Element Plus is a modern UI component library built for Vue 3, offering a comprehensive set of customizable, responsive, and accessible UI elements such as forms, tables, dialogs, and navigation components. Developed by the Element team, it follows the popular Element design language while fully leveraging Vue 3’s composition API and TypeScript support, making it ideal for building clean, production‑ready front‑end applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/element-plus/element-plus) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/element-plus/element-plus) · [← Back to Frontend](./README.md)</sub>

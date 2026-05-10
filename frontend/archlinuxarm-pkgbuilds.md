@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 642 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The archlinuxarm/PKGBUILDs project provides modified PKGBUILDs for building popular software packages on Arch Linux ARM, allowing users to easily install a wide range of applications on their ARM-based devices. This open-source initiative simplifies the process of compiling packages for ARM architecture, making it accessible to a broader audience. By contributing to this project, users can help expand the availability of software on their Arch Linux ARM systems.
+archlinuxarm/PKGBUILDs is an open‑source collection of PKGBUILD scripts that have been adapted to compile and package software for Arch Linux ARM environments. It provides ready‑to‑use build definitions, ensuring that packages compile correctly on ARM hardware while maintaining compatibility with the Arch Linux packaging standards. This repository is useful for developers and users who need ARM‑specific builds of Arch Linux packages.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/archlinuxarm/PKGBUILDs) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/archlinuxarm/PKGBUILDs) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.7k |
-| 🍴 **Forks** | 500 |
+| ⭐ **Stars** | 5.8k |
+| 🍴 **Forks** | 502 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `hotspot` `tethering` `vpn` `wifi-direct`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Mobile
 
 ## 📝 Summary
 
-Mygod/VPNHotspot is a user-friendly, open-source project that enables users to share their VPN connection via a hotspot or repeater, providing a secure and private internet access for multiple devices. To access this feature, a rooted device is required. This project is especially useful for users who want to extend their secure internet connection to public hotspots or other devices.
+Mygod/VPNHotspot is an open‑source Android app that lets users share an existing VPN connection through the device’s Wi‑Fi hotspot or as a network repeater—requiring root access to function. It provides a simple frontend for configuring and managing the hotspot while transparently routing all client traffic through the VPN, making secure internet access easily extendable to other devices.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/Mygod/VPNHotspot) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Mygod/VPNHotspot) · [← Back to Frontend](./README.md)</sub>

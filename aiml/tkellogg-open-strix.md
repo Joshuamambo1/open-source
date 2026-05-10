@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 65 |
+| ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The open-strix project is an open-source initiative aimed at developing an artificial intelligence (AI) agent that can harness ship systems thinking as a skill, enabling it to navigate complex systems and make informed decisions. This project seeks to bridge the gap between AI capabilities and the real-world complexity of ship systems, fostering more effective and efficient decision-making. By leveraging ship systems thinking, the AI agent can better understand and interact with dynamic systems.
+**tkellogg/open‑strix** explores the challenge of giving AI agents the ability to apply “ship systems thinking”—the holistic, interdisciplinary reasoning used by naval engineers—to solve complex problems. By open‑sourcing a framework that integrates domain‑specific knowledge graphs, simulation environments, and reinforcement‑learning agents, the project aims to demonstrate how structured systems cognition can be learned and leveraged by AI. It provides tools, datasets, and benchmarks for researchers interested in building AI that can reason about interconnected mechanical, electrical, and operational subsystems as a unified skill.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/tkellogg/open-strix) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/tkellogg/open-strix) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25k |
+| ⭐ **Stars** | 25.1k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`brand` `brand-assets` `brand-colors` `branding` `branding-assets` `brands` `company-brands` `design` `design-assets` `icon-pack` `icon-packs` `icons`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Design
 
 ## 📝 Summary
 
-The simple-icons project is an open-source repository that provides a collection of SVG icons for well-known brands. This comprehensive library offers a wide range of logos in a scalable vector graphics format, making it easy to integrate into various design projects. The icons are available for free and can be used to enhance the visual identity of websites, applications, and other digital platforms.
+Simple Icons is an open‑source collection of SVG logos for thousands of popular brands, meticulously crafted to be scalable, lightweight, and easily customizable. The repository provides consistent, high‑quality vector graphics that designers and developers can integrate into websites, apps, and marketing materials without worrying about licensing issues. It’s organized by brand name, includes a simple JSON metadata file, and encourages community contributions to keep the icon set up‑to‑date.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/simple-icons/simple-icons) · [← Back to Design](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/simple-icons/simple-icons) · [← Back to Design](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 626 |
-| 🍴 **Forks** | 55 |
+| ⭐ **Stars** | 625 |
+| 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the NiceVPN project:
-
-NiceVPN is an open-source node library that prioritizes users' freedom and privacy. This project provides a decentralized approach to accessing secure online connections, promoting online anonymity and protection. By contributing to the NiceVPN community, developers can work together to create a safer and more private internet experience.
+NiceVPN is an open‑source project that provides a publicly available library of VPN nodes, aimed at promoting free and private internet access. By aggregating and maintaining a curated list of servers, it enables users to easily connect to reliable, privacy‑focused VPN endpoints without relying on proprietary services. The project is maintained under the Misc category and encourages community contributions to keep the node database up‑to‑date.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/NiceVPN123/NiceVPN) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/NiceVPN123/NiceVPN) · [← Back to Misc](./README.md)</sub>

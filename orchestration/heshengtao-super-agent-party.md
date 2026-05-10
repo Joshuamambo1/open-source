@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 227 |
+| 🍴 **Forks** | 229 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `ai-companion` `ai-vtuber` `claude-code` `comfyui` `cowork` `discord-bot` `home-assistant` `im-bot` `livestream` `mcp` `neuro-sama`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project:
-
-Super Agent Party is an all-in-one AI companion that combines the self-hosted neuro sama and OpenClaw platforms, offering a comprehensive and user-friendly experience for interacting with AI and machine learning technologies. This open-source project enables users to leverage the capabilities of both platforms, making it an ideal choice for developers and enthusiasts alike. With its orchestration, AI/ML, and frontend features, Super Agent Party is poised to revolutionize the way we interact with AI.
+Super Agent Party is an open‑source, self‑hosted AI companion that combines the Neuro‑Sama language model with the OpenClaw toolset, delivering a unified platform for conversational agents, tool orchestration, and interactive front‑end experiences. It provides a single container that manages model serving, tool integration, and UI components, enabling developers to deploy a powerful, extensible AI assistant on their own infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/heshengtao/super-agent-party) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/heshengtao/super-agent-party) · [← Back to Orchestration](./README.md)</sub>

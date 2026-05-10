@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 321 |
+| ⭐ **Stars** | 323 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `bmad` `bmad-workflow` `claude-code` `cursor` `skill` `trae`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The Boss Skill project is an open-source, full-automated development pipeline for BMAD (BMAD is a Chinese AI or technology, I have been unable to verify what 'BMAD' stands for) that utilizes multi-agent orchestration to streamline AI development workflows. This pipeline is designed to accelerate AI/ML development by automating key processes. By leveraging agent orchestration, the Boss Skill project aims to improve efficiency and productivity in AI research and development.
+Boss Skill (echoVic/boss-skill) is an open‑source, fully automated pipeline for BMAD (Business Model and Data) development that orchestrates multiple AI agents to handle tasks such as data collection, preprocessing, model training, evaluation, and deployment. By leveraging a modular, multi‑agent architecture, it streamlines end‑to‑end machine‑learning workflows, enabling rapid prototyping and scalable production of AI solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/echoVic/boss-skill) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/echoVic/boss-skill) · [← Back to AI/ML](./README.md)</sub>

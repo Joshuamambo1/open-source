@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**38 projects** in this category.
+**39 projects** in this category.
 
 ## Projects
 
@@ -45,7 +45,8 @@
 | 35 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 50/100 |
 | 36 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 48/100 |
 | 37 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
-| 38 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
+| 38 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 44/100 |
+| 39 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
 
 ---
 

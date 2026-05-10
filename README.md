@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4973** |
+| 🗂️ **Total projects** | **5007** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1999 | [Browse →](./aiml/) |
-| 📦 **Misc** | 862 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 496 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 469 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 267 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 2009 | [Browse →](./aiml/) |
+| 📦 **Misc** | 871 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 502 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 473 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 268 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 247 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 183 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 184 | [Browse →](./crypto/) |
 | 📊 **Data** | 114 | [Browse →](./data/) |
-| 💳 **Payments** | 90 | [Browse →](./payments/) |
+| 💳 **Payments** | 91 | [Browse →](./payments/) |
 | 📈 **Trading** | 62 | [Browse →](./trading/) |
 | 📱 **Mobile** | 58 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 57 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 38 | [Browse →](./security/) |
-| ✨ **Design** | 15 | [Browse →](./design/) |
+| 🔐 **Security** | 39 | [Browse →](./security/) |
+| ✨ **Design** | 16 | [Browse →](./design/) |
 | 🎯 **Product** | 11 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
 
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [mvanhorn/last30days-skill](./trading/mvanhorn-last30days-skill.md) | ⭐ 25.3k | Trading |
-| 2 | [GyulyVGC/sniffnet](./frontend/gyulyvgc-sniffnet.md) | ⭐ 37.3k | Frontend |
-| 3 | [jackocnr/intl-tel-input](./aiml/jackocnr-intl-tel-input.md) | ⭐ 8.2k | AI/ML |
-| 4 | [santifer/career-ops](./aiml/santifer-career-ops.md) | ⭐ 43.8k | AI/ML |
-| 5 | [exelban/stats](./misc/exelban-stats.md) | ⭐ 38.6k | Misc |
-| 6 | [navidrome/navidrome](./aiml/navidrome-navidrome.md) | ⭐ 21k | AI/ML |
-| 7 | [flybywiresim/aircraft](./aiml/flybywiresim-aircraft.md) | ⭐ 5.4k | AI/ML |
-| 8 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.9k | Frontend |
-| 9 | [apache/groovy](./misc/apache-groovy.md) | ⭐ 5.4k | Misc |
-| 10 | [ai-collection/ai-collection](./aiml/ai-collection-ai-collection.md) | ⭐ 8.9k | AI/ML |
+| 1 | [clap-rs/clap](./misc/clap-rs-clap.md) | ⭐ 16.4k | Misc |
+| 2 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25.1k | Design |
+| 3 | [mvanhorn/last30days-skill](./trading/mvanhorn-last30days-skill.md) | ⭐ 25.3k | Trading |
+| 4 | [GyulyVGC/sniffnet](./frontend/gyulyvgc-sniffnet.md) | ⭐ 37.3k | Frontend |
+| 5 | [jackocnr/intl-tel-input](./aiml/jackocnr-intl-tel-input.md) | ⭐ 8.2k | AI/ML |
+| 6 | [santifer/career-ops](./aiml/santifer-career-ops.md) | ⭐ 43.8k | AI/ML |
+| 7 | [exelban/stats](./misc/exelban-stats.md) | ⭐ 38.6k | Misc |
+| 8 | [navidrome/navidrome](./aiml/navidrome-navidrome.md) | ⭐ 21k | AI/ML |
+| 9 | [flybywiresim/aircraft](./aiml/flybywiresim-aircraft.md) | ⭐ 5.4k | AI/ML |
+| 10 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.9k | Frontend |
 
 ## 🚀 How it works
 

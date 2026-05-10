@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ardupilot` `drone` `hacktoberfest` `mavlink` `pixhawk` `px4` `qt` `uas` `uav`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The mavlink/qgroundcontrol project is an open-source, cross-platform ground control station for drones that supports a wide range of operating systems, including Android, iOS, Mac OS, Linux, and Windows. This versatile platform allows users to remotely control and manage their drones with ease, making it an ideal solution for drone enthusiasts and professionals alike. With a focus on mobile compatibility, qgroundcontrol enables users to take control of their drones anywhere, at any time.
+MAVLink / QGroundControl is a versatile, open‑source ground control station that lets users plan, monitor, and control UAVs from a single interface. It runs natively on Android, iOS, macOS, Linux, and Windows, providing real‑time telemetry, mission planning, and video streaming across all major platforms. The project is community‑driven and focuses on a clean, cross‑platform UI built on the MAVLink communication protocol.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/mavlink/qgroundcontrol) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/mavlink/qgroundcontrol) · [← Back to Mobile](./README.md)</sub>

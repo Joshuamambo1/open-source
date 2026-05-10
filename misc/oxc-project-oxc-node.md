@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 211 |
-| 🍴 **Forks** | 6 |
+| 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The oxc-node project provides a set of fast and user-friendly Node.js development tools, designed to streamline and simplify the development process. With its open-source nature, developers can contribute and benefit from the community-driven features and enhancements. This collection of tools aims to improve efficiency and productivity for Node.js developers.
+oxc‑node is an open‑source suite of high‑performance development tools for Node.js, offering fast diagnostics, profiling, and debugging capabilities while maintaining a friendly, easy‑to‑use API. Built on the Rust‑based oxc parser, it provides low‑overhead analysis and real‑time feedback for JavaScript/TypeScript code, helping developers catch errors and optimize performance quickly.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/oxc-project/oxc-node) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/oxc-project/oxc-node) · [← Back to Misc](./README.md)</sub>

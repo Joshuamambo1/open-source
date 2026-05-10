@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dart` `flame` `flutter` `game` `game-development` `game-engine` `gamedev` `hacktoberfest`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-Here's a summary for the flame-engine/flame project:
-
-Flame is an open-source, Flutter-based game engine designed for mobile game development. It provides a powerful and flexible framework for creating 2D games, with features such as animation, physics, and input handling. With flame, developers can build high-performance, visually appealing games for Android and iOS devices using a single codebase.
+Flame is a lightweight, open‑source game engine built on top of Flutter, enabling developers to create high‑performance 2D games for mobile platforms with minimal boilerplate. It provides a rich set of components—including a component system, sprite rendering, collision detection, input handling, and a flexible game loop—while leveraging Flutter’s widget tree and rendering pipeline. The project is actively maintained, well‑documented, and integrates seamlessly with the broader Flutter ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/flame-engine/flame) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/flame-engine/flame) · [← Back to Mobile](./README.md)</sub>

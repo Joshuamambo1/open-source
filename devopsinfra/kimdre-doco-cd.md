@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 46 |
+| 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`continuous-delivery` `continuous-deployment` `devops` `docker` `docker-compose` `docker-swarm` `doco-cd` `gitops` `swarm-mode` `webhook`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the kimdre/doco-cd project:
-
-The kimdre/doco-cd project is an open-source tool that integrates Docker Compose with continuous deployment (CD) pipelines, simplifying the process of automating application deployments. This DevOps/Infra project provides a seamless way to deploy and manage complex applications, reducing the manual effort required for updates and maintenance. With doco-cd, users can streamline their application lifecycle and boost efficiency.
+kimdre/doco-cd is an open‑source tool that automates continuous deployment using Docker Compose. It monitors your Git repositories, builds updated images, and seamlessly applies the changes to running Compose stacks, streamlining DevOps workflows for containerized applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/kimdre/doco-cd) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/kimdre/doco-cd) · [← Back to DevOps & Infra](./README.md)</sub>

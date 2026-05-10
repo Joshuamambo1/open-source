@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 577 |
+| ⭐ **Stars** | 583 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`linting` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The trailofbits/dylint project is an open-source tool that enables running Rust lints from dynamic libraries. This allows developers to leverage the power of Rust's linter in a more flexible and dynamic way, making it easier to integrate into existing toolchains and workflows. By providing a way to run lints from dynamic libraries, dylint facilitates more efficient and automated code analysis and quality control.
+**trailofbits/dylint** is an open‑source Rust tool that enables developers to run custom lints compiled as dynamic libraries, allowing linting logic to be added, updated, or swapped without rebuilding the entire toolchain. By loading lint plugins at runtime, it provides a flexible, extensible way to enforce coding standards and catch bugs across Rust projects, making it a powerful addition to any developer’s DevTools suite.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/trailofbits/dylint) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/trailofbits/dylint) · [← Back to AI/ML](./README.md)</sub>

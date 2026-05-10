@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 491 |
+| ⭐ **Stars** | 494 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `diagnostics` `http` `http2` `monitoring` `networking` `performance` `profiling` `rich` `tls` `visualization`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The httptap project is an open-source, Rich-powered CLI tool that provides a detailed breakdown of HTTP requests into distinct phases, including DNS resolution, connection establishment, TLS encryption, waiting, and data transfer. This allows users to visualize and analyze the performance of their HTTP requests in a waterfall timeline, compact summary, or metrics-only format. The tool is designed to aid developers and DevOps teams in debugging and optimizing network operations.
+ozeranskii/httptap is a Rich‑based command‑line tool that dissects every HTTP transaction into its constituent DNS lookup, TCP connect, TLS handshake, wait, and data‑transfer phases, presenting the results as detailed waterfall timelines, concise summaries, or pure metrics. It helps developers and operators quickly diagnose performance bottlenecks and understand request latency across the full network stack.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ozeranskii/httptap) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ozeranskii/httptap) · [← Back to Orchestration](./README.md)</sub>

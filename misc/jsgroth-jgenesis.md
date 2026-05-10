@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`emulator` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The jgenesis project is an open-source emulator that supports a wide range of classic consoles, including the Sega Genesis, Sega CD, SNES, Master System, and Game Gear. This versatile emulator allows users to play their favorite retro games on modern devices, offering a nostalgic gaming experience with improved compatibility and features. By leveraging open-source principles, jgenesis continues to evolve and improve with contributions from the community.
+jGenisis is an open‑source, multi‑system emulator written in Rust that faithfully reproduces the hardware of the Sega Genesis, Sega CD, Super NES, Master System, and Game Gear. It offers accurate audio/video rendering, support for a wide range of cartridge formats, and modern features such as save states, controller mapping, and cross‑platform builds for Windows, macOS, and Linux. The project is actively maintained and licensed under the MIT license, making it easy for developers to contribute or integrate the core into their own applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/jsgroth/jgenesis) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/jsgroth/jgenesis) · [← Back to Misc](./README.md)</sub>

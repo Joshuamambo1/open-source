@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.5k |
-| 🍴 **Forks** | 285 |
+| ⭐ **Stars** | 18.6k |
+| 🍴 **Forks** | 289 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The astral-sh/ty project is an open-source, high-performance Python type checker and language server built with Rust. This tool aims to provide fast and accurate type checking capabilities, making it an ideal solution for developers working with Python. By leveraging Rust's speed and efficiency, ty enables developers to catch errors earlier in the development process.
+**astral-sh/ty** is a high‑performance Python type checker and language server built in Rust, offering rapid static analysis and real‑time feedback for Python codebases. By leveraging Rust’s speed and safety, it delivers near‑instant type checking, diagnostics, and IDE‑friendly features while remaining fully open source. This makes it an ideal backend tool for developers seeking fast, reliable type safety and language‑server capabilities in their Python workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/astral-sh/ty) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/astral-sh/ty) · [← Back to Backend](./README.md)</sub>

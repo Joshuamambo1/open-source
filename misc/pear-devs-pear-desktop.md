@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`desktop-app` `electron` `linux` `mac` `macosx` `music` `music-player` `music-player-application` `music-player-extension` `node` `windows`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the pear-desktop project:
-
-Pear is an open-source music player extension designed to enhance music listening experiences. This user-friendly extension provides a customizable and accessible way to manage music libraries and enjoy favorite tracks. With its flexible and intuitive interface, Pear aims to simplify music playback and user interaction.
+Pear‑Desktop is an open‑source extension that enhances a music player with additional desktop‑focused features. Developed by the pear‑devs team, it provides tools such as customizable widgets, media controls, and integration utilities to improve the overall listening experience on the desktop. The project is categorized under Miscellaneous and is freely available for community contributions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/pear-devs/pear-desktop) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/pear-devs/pear-desktop) · [← Back to Misc](./README.md)</sub>

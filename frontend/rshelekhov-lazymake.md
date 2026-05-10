@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 182 |
+| ⭐ **Stars** | 185 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bubbles` `bubbletea` `cli` `cobra` `go` `golang` `lipgloss` `makefile` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The rshelekhov/lazymake project is an open-source, modern Terminal User Interface (TUI) designed for Makefiles. It offers interactive features such as target selection, dependency visualization, and command safety analysis, enhancing the usability and reliability of Makefiles. This project aims to simplify the build process and reduce the learning curve for users working with Makefiles.
+Lazymake is a modern terminal‑user‑interface front‑end for Makefiles that lets developers browse and select build targets interactively. It visualizes target dependencies, highlights potential command‑execution hazards, and provides safety analysis to help prevent accidental destructive actions, making Make‑driven workflows faster and more reliable.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/rshelekhov/lazymake) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/rshelekhov/lazymake) · [← Back to Frontend](./README.md)</sub>

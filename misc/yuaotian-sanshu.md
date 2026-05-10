@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 231 |
+| ⭐ **Stars** | 232 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,9 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The sanshu project is an open-source, unified binary MCP (Multi-Controller Protocol) that combines the efforts of various contributors, aiming for efficiency and simplicity. It is a three-part MCP implementation that facilitates communication between different controllers and devices. The project is built on open-source principles, allowing for community-driven development and customization.
+**Summary**  
+`sanshu` is an open‑source binary MCP (Message Control Protocol) that consolidates the features of numerous existing implementations into a single, highly efficient solution. Designed with simplicity and performance in mind, it offers a lightweight, fully‑documented framework for developers who need fast, reliable binary communication.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/yuaotian/sanshu) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/yuaotian/sanshu) · [← Back to Misc](./README.md)</sub>

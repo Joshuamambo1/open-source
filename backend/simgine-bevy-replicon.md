@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 594 |
-| 🍴 **Forks** | 47 |
+| ⭐ **Stars** | 595 |
+| 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bevy` `client-server` `multiplayer` `netcode` `networking` `replication` `server-authoritative`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools · Security
 
 ## 📝 Summary
 
-simgine/bevy_replicon is an open-source project that provides a server-authoritative replication system for Bevy, a popular game engine. This crate enables seamless synchronization of game state between clients and servers, ensuring a reliable and immersive experience for players. By using a server-authoritative approach, bevy_replicon helps maintain a secure and fair gameplay environment.
+simgine / bevy_replicon is an open‑source Rust crate that provides server‑authoritative state replication for games built with the Bevy engine. It handles networking, entity synchronization, and security concerns, enabling developers to implement reliable multiplayer back‑ends with minimal boilerplate. The library fits into the Backend, DevTools, and Security categories, offering a ready‑made solution for authoritative server architectures.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/simgine/bevy_replicon) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/simgine/bevy_replicon) · [← Back to Backend](./README.md)</sub>

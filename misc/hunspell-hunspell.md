@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 271 |
+| 🍴 **Forks** | 273 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`natural-language-processing` `spell-check` `spell-checker` `spell-checking-engine` `spellcheck` `spellchecker` `stemming`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Hunspell is a widely-used, open-source spellchecking library that provides robust language support for detecting grammatical errors in text. This versatile library is available in multiple languages, making it a popular choice for developers to integrate spellchecking functionality into their applications. By leveraging Hunspell, users can ensure accurate and efficient spellchecking across various platforms and languages.
+Hunspell is a widely used, open‑source spellchecking library that provides robust morphological analysis and dictionary support for multiple languages. It powers spellcheck functionality in many major applications and operating systems, offering features such as affix handling, suggestions, and customizable word lists.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/hunspell/hunspell) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/hunspell/hunspell) · [← Back to Misc](./README.md)</sub>

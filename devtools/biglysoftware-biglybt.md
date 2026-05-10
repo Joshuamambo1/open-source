@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bittorrent` `bittorrent-client` `i2p` `p2p` `torrent` `torrent-client` `torrent-downloader` `torrent-management`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-BiglyBT is an open-source Bittorrent client that offers a wide range of features, built on top of the Azureus project. This feature-rich client provides users with a seamless torrent experience, offering enhanced functionality and customization options. Developed as an open-source project, BiglyBT is constantly evolving to meet the needs of users and the ever-changing landscape of peer-to-peer file sharing.
+BiglyBT is a fully open‑source BitTorrent client that builds on the legacy Azureus/Vuze codebase, adding a modern UI, extensive plugin support, and advanced features such as detailed bandwidth management, magnet link handling, and torrent creation tools. Designed for power users and developers, it runs on Windows, macOS, and Linux and can be extended via a rich ecosystem of community‑maintained plugins.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/BiglySoftware/BiglyBT) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/BiglySoftware/BiglyBT) · [← Back to DevTools](./README.md)</sub>

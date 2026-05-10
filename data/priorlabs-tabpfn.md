@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.3k |
-| 🍴 **Forks** | 638 |
+| ⭐ **Stars** | 6.9k |
+| 🍴 **Forks** | 679 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`data-science` `foundation-models` `machine-learning` `tabpfn` `tabular-data`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-TabPFN is an open-source foundation model designed for tabular data, allowing for faster and more efficient processing of structured information. This model is built to handle a wide range of tasks, including classification, regression, and more, making it a versatile tool for data analysis. By leveraging TabPFN, users can unlock deeper insights and improve their overall data processing capabilities.
+TabPFN (PriorLabs/TabPFN) is an open‑source foundation model designed specifically for tabular data tasks, delivering fast and accurate predictions without extensive hyper‑parameter tuning. It leverages a pretrained neural network that can be applied directly to a wide range of classification and regression problems, making it a plug‑and‑play solution for data scientists working with structured datasets.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/PriorLabs/TabPFN) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/PriorLabs/TabPFN) · [← Back to Data](./README.md)</sub>

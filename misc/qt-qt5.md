@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 675 |
+| 🍴 **Forks** | 676 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The qt/qt5 project is an open-source super module for Qt5, a cross-platform application development framework. Qt5 provides a comprehensive set of libraries and tools for building GUI applications, including UI components, multimedia, and database connectivity. This project offers a robust foundation for developing cross-platform applications with a native look and feel.
+Qt5 is a comprehensive, open‑source C++ framework that provides a complete set of libraries for building cross‑platform applications with native‑looking GUIs, multimedia, networking, and more. The **qt/qt5** repository aggregates the core Qt5 modules into a single “super‑module” source tree, simplifying builds, updates, and contribution across the entire Qt5 ecosystem. It serves as the central hub for developers who want to compile, customize, or extend the full Qt5 suite.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/qt/qt5) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/qt/qt5) · [← Back to Misc](./README.md)</sub>

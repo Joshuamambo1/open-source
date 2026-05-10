@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 413 |
-| 🍴 **Forks** | 57 |
+| ⭐ **Stars** | 425 |
+| 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the allenhutchison/obsidian-gemini project:
-
-The allenhutchison/obsidian-gemini project is an open-source Obsidian plugin that enables users to interact with Google Gemini, a knowledge graph search engine. This plugin allows Obsidian users to query the Gemini network and surface relevant information within their note-taking environment. By integrating Gemini with Obsidian, users can expand their research capabilities and access a broader range of knowledge.
+A lightweight Obsidian plugin that lets users query and generate content using Google Gemini directly within their notes. It provides a simple interface for sending prompts to Gemini, receiving AI‑generated responses, and inserting the results into the active markdown file. Ideal for enriching personal knowledge bases with AI‑assisted writing and research.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/allenhutchison/obsidian-gemini) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/allenhutchison/obsidian-gemini) · [← Back to Misc](./README.md)</sub>

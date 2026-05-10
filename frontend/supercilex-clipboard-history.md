@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 458 |
-| 🍴 **Forks** | 18 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `clipboard` `clipboard-history` `clipboard-manager` `gui` `linux` `ringboard` `rust` `tui` `wayland` `x11`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Ringboard is an open-source clipboard manager designed for Linux systems, allowing users to easily view, edit, and manage their clipboard history. This project, part of the SUPERCILEX/clipboard-history repository, provides a convenient interface for managing clipboard data, enhancing productivity and reducing lost information. By offering a flexible and user-friendly front-end, Ringboard streamlines clipboard management for Linux users.
+Ringboard is a lightweight clipboard manager for Linux that maintains a history of copied items in a circular (ring) buffer, allowing users to quickly retrieve and paste previous entries. It provides a clean, unobtrusive UI and integrates with common desktop environments, offering keyboard shortcuts, configurable size limits, and support for text, images, and rich‑text formats. As an open‑source project, Ringboard is built with modern frontend technologies and is aimed at developers and power users who need efficient clipboard handling tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/SUPERCILEX/clipboard-history) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/SUPERCILEX/clipboard-history) · [← Back to Frontend](./README.md)</sub>

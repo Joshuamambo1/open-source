@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 342 |
-| 🍴 **Forks** | 54 |
+| ⭐ **Stars** | 361 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`control-panel` `devops` `docker` `hosting-panel` `react` `rust` `self-hosted` `server-management` `vps` `web-hosting`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The ovexro/dockpanel project is an open-source, modern server management panel that provides a comprehensive platform for managing various aspects of server operations. Built with Rust and React, it offers a wide range of features, including site management, database administration, Docker app deployment, Git integration, email management, DNS management, monitoring, backup solutions, and security measures. This all-in-one panel aims to simplify server management tasks and provide a unified interface for system administrators.
+ovexro/dockpanel is a modern, full‑stack server management panel that combines a Rust backend with a React frontend to provide a unified interface for handling websites, databases, Docker containers, Git deployments, mail services, DNS, monitoring, backups, and security features. Designed for ease of use and extensibility, it streamlines complex server operations into a single, open‑source dashboard.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/ovexro/dockpanel) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ovexro/dockpanel) · [← Back to AI/ML](./README.md)</sub>

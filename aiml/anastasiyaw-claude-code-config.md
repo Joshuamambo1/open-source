@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 100 |
-| 🍴 **Forks** | 13 |
+| ⭐ **Stars** | 101 |
+| 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude` `claude-code` `llm` `machine-learning` `mcp` `prompt-engineering` `skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Claude Code is an open-source project focused on developing AI-assisted development skills and architectural principles. It provides a platform for exploring alternative approaches to AI-assisted coding, with the goal of improving the efficiency and effectiveness of AI development. This project is categorized under AI/ML and offers a wealth of information for developers looking to leverage AI in their coding practices.
+AnastasiyaW/claude-code-config is an open‑source repository that documents Claude Code’s development skills, architectural guidelines, and alternative design patterns for AI‑assisted programming. It serves as a practical reference for building, configuring, and extending Claude‑based code generation workflows, helping developers integrate robust AI assistance into their software projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/AnastasiyaW/claude-code-config) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/AnastasiyaW/claude-code-config) · [← Back to AI/ML](./README.md)</sub>

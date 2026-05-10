@@ -17,8 +17,8 @@
 | 7 | [influxdata/influxdb](./influxdata-influxdb.md) | ⭐ 31.5k | Rust | 100/100 |
 | 8 | [payloadcms/payload](./payloadcms-payload.md) | ⭐ 42.3k | TypeScript | 100/100 |
 | 9 | [Lissy93/dashy](./lissy93-dashy.md) | ⭐ 25k | Vue | 100/100 |
-| 10 | [jhipster/generator-jhipster](./jhipster-generator-jhipster.md) | ⭐ 22.4k | TypeScript | 100/100 |
-| 11 | [reactos/reactos](./reactos-reactos.md) | ⭐ 17.5k | C | 100/100 |
+| 10 | [reactos/reactos](./reactos-reactos.md) | ⭐ 17.5k | C | 100/100 |
+| 11 | [jhipster/generator-jhipster](./jhipster-generator-jhipster.md) | ⭐ 22.4k | TypeScript | 100/100 |
 | 12 | [Automattic/wp-calypso](./automattic-wp-calypso.md) | ⭐ 12.6k | TypeScript | 100/100 |
 | 13 | [vuetifyjs/vuetify](./vuetifyjs-vuetify.md) | ⭐ 41k | TypeScript | 100/100 |
 | 14 | [PrestaShop/PrestaShop](./prestashop-prestashop.md) | ⭐ 9.1k | PHP | 100/100 |
@@ -445,8 +445,8 @@
 | 435 | [MIERUNE/svelte-maplibre-gl](./mierune-svelte-maplibre-gl.md) | ⭐ 301 | Svelte | 51/100 |
 | 436 | [LiamMorrow/LiftLog](./liammorrow-liftlog.md) | ⭐ 435 | TypeScript | 51/100 |
 | 437 | [ZeroDeng01/sublinkPro](./zerodeng01-sublinkpro.md) | ⭐ 1.2k | Go | 51/100 |
-| 438 | [david-vanderson/dvui](./david-vanderson-dvui.md) | ⭐ 1.4k | Zig | 51/100 |
-| 439 | [Charcoal-SE/SmokeDetector](./charcoal-se-smokedetector.md) | ⭐ 493 | Python | 51/100 |
+| 438 | [Charcoal-SE/SmokeDetector](./charcoal-se-smokedetector.md) | ⭐ 493 | Python | 51/100 |
+| 439 | [david-vanderson/dvui](./david-vanderson-dvui.md) | ⭐ 1.4k | Zig | 51/100 |
 | 440 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 51/100 |
 | 441 | [moq-dev/moq](./moq-dev-moq.md) | ⭐ 1.2k | Rust | 51/100 |
 | 442 | [stjude-rust-labs/sprocket](./stjude-rust-labs-sprocket.md) | ⭐ 155 | Rust | 51/100 |
@@ -530,8 +530,8 @@
 | 520 | [ALT-F4-LLC/vorpal](./alt-f4-llc-vorpal.md) | ⭐ 116 | Rust | 42/100 |
 | 521 | [Reviewable/Reviewable](./reviewable-reviewable.md) | ⭐ 198 | CSS | 42/100 |
 | 522 | [hyperlane-dev/hyperlane](./hyperlane-dev-hyperlane.md) | ⭐ 116 | Rust | 41/100 |
-| 523 | [timasoft/hyprviz](./timasoft-hyprviz.md) | ⭐ 192 | Rust | 41/100 |
-| 524 | [tangramdotdev/tangram](./tangramdotdev-tangram.md) | ⭐ 122 | Rust | 41/100 |
+| 523 | [tangramdotdev/tangram](./tangramdotdev-tangram.md) | ⭐ 122 | Rust | 41/100 |
+| 524 | [timasoft/hyprviz](./timasoft-hyprviz.md) | ⭐ 192 | Rust | 41/100 |
 | 525 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 40/100 |
 | 526 | [mech-lang/mech](./mech-lang-mech.md) | ⭐ — | — | 39/100 |
 | 527 | [imtomt/ymawky](./imtomt-ymawky.md) | ⭐ — | — | 39/100 |

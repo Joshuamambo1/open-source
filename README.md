@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5396** |
+| 🗂️ **Total projects** | **5399** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,8 +18,8 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2165 | [Browse →](./aiml/) |
-| 📦 **Misc** | 966 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 2166 | [Browse →](./aiml/) |
+| 📦 **Misc** | 967 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 536 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 501 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 285 | [Browse →](./devtools/) |
@@ -28,7 +28,7 @@
 | 📊 **Data** | 125 | [Browse →](./data/) |
 | 💳 **Payments** | 91 | [Browse →](./payments/) |
 | 📱 **Mobile** | 66 | [Browse →](./mobile/) |
-| 📈 **Trading** | 64 | [Browse →](./trading/) |
+| 📈 **Trading** | 65 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 60 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 42 | [Browse →](./security/) |
 | ✨ **Design** | 17 | [Browse →](./design/) |

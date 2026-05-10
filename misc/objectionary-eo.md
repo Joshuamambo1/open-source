@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 188 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`eolang` `java` `language` `object-oriented` `object-oriented-language` `object-oriented-programming` `oop` `programming-language`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-EOLANG is an open-source, experimental object-oriented programming language that leverages the concepts of 𝜑-Calculus to provide a unique and innovative approach to programming. This pure object-oriented language offers a distinct paradigm for developers looking to explore alternative programming methodologies. EOLANG is built to be extensible and allows for customization through its underlying 𝜑-Calculus foundation.
+objectionary/eo is an open‑source implementation of EO (EOLANG), a minimalist, pure object‑oriented language designed around the concepts of 𝜑‑calculus. It treats every value as an object and all computation as the composition of immutable object transformations, aiming to provide a clean theoretical foundation for modular, side‑effect‑free software. The project supplies the language runtime, compiler, and a suite of examples to explore this experimental approach to programming.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/objectionary/eo) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/objectionary/eo) · [← Back to Misc](./README.md)</sub>

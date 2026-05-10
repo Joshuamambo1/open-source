@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 381 |
+| ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`diff` `insider` `nextjs` `ntoskrnl` `pdb` `portable-executable` `preview` `reverse-engineering` `rust` `syscalls` `undocumented` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The windiff project is an open-source, web-based tool for comparing symbol, type, and syscall information of Microsoft Windows binaries across different versions of the operating system. This allows users to analyze and identify changes in binary code over time, facilitating reverse engineering and research. By providing a comprehensive comparison of binary data, windiff empowers developers and researchers to better understand the evolution of Windows binaries.
+Windiff is a web‑based utility that lets users compare the symbols, data types, and system‑call definitions embedded in Microsoft Windows binaries across multiple OS versions. By presenting the differences in an easy‑to‑navigate interface, it helps developers and reverse engineers track API changes, compatibility issues, and other binary‑level variations between Windows releases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ergrelet/windiff) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ergrelet/windiff) · [← Back to Misc](./README.md)</sub>

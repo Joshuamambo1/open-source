@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 128 |
+| 🍴 **Forks** | 129 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai-identity` `ai-memory` `artificial-intelligence` `claude` `claude-code` `digital-soul` `gemini-cli` `llm` `long-term-memory` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Dataojitori/nocturne_memory is an open-source, lightweight Long-Term Memory Server designed for MCP Agents. This project enables persistent, graph-like structured memory across various models, sessions, and tools, eliminating the need for Vector RAG and amnesia. It serves as a drop-in replacement for OpenClaw, empowering AI with a robust memory system.
+Dataojitori / nocturne_memory is a lightweight, rollback‑enabled Long‑Term Memory server designed for MCP agents, providing persistent, graph‑structured memory that works across any model, session, or tool. It eliminates the need for vector‑based RAG and prevents memory loss, acting as a drop‑in replacement for OpenClaw while offering visualisation and easy backend integration.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/Dataojitori/nocturne_memory) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Dataojitori/nocturne_memory) · [← Back to AI/ML](./README.md)</sub>

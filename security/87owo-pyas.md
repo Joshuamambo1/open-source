@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 342 |
-| 🍴 **Forks** | 36 |
+| ⭐ **Stars** | 362 |
+| 🍴 **Forks** | 38 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`antivirus` `cpp` `kernel` `lightgbm` `pefile` `protect` `python` `scanner` `security` `tools` `windows` `yara`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project 87owo/PYAS:
-
-"PYAS is an open-source antivirus software that leverages deep learning and behavioral monitoring to detect and block various threats in real-time. Developed using Python and C++, this innovative security tool provides robust protection against malware and other cyber threats. With its cutting-edge approach, PYAS offers a powerful and effective solution for safeguarding against the ever-evolving landscape of online threats."
+87owo/PYAS is an open‑source antivirus solution that combines Python and C++ to detect and block malicious software. It leverages machine‑learning models and real‑time behavioral monitoring to identify threats, offering a lightweight yet powerful security layer for users. The project is categorized under Security and is designed for easy integration and extensibility.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/87owo/PYAS) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/87owo/PYAS) · [← Back to Security](./README.md)</sub>

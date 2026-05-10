@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**42 projects** in this category.
+**43 projects** in this category.
 
 ## Projects
 
@@ -34,22 +34,23 @@
 | 24 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 507 | TypeScript | 57/100 |
 | 25 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 56/100 |
 | 26 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 54/100 |
-| 27 | [Vu1nT0tal/yarb](./vu1nt0tal-yarb.md) | ⭐ 804 | Python | 53/100 |
-| 28 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 53/100 |
-| 29 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 52/100 |
-| 30 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 52/100 |
-| 31 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 52/100 |
-| 32 | [mytechnotalent/Hacking-Rust](./mytechnotalent-hacking-rust.md) | ⭐ 224 | Rust | 52/100 |
-| 33 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 52/100 |
-| 34 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 51/100 |
-| 35 | [yaklang/yaklang](./yaklang-yaklang.md) | ⭐ 548 | Go | 51/100 |
-| 36 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
-| 37 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 50/100 |
-| 38 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 48/100 |
-| 39 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
-| 40 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 44/100 |
-| 41 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
-| 42 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
+| 27 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 362 | Python | 53/100 |
+| 28 | [Vu1nT0tal/yarb](./vu1nt0tal-yarb.md) | ⭐ 804 | Python | 53/100 |
+| 29 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 53/100 |
+| 30 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 52/100 |
+| 31 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 52/100 |
+| 32 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 52/100 |
+| 33 | [mytechnotalent/Hacking-Rust](./mytechnotalent-hacking-rust.md) | ⭐ 224 | Rust | 52/100 |
+| 34 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 52/100 |
+| 35 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 51/100 |
+| 36 | [yaklang/yaklang](./yaklang-yaklang.md) | ⭐ 548 | Go | 51/100 |
+| 37 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 51/100 |
+| 38 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 50/100 |
+| 39 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 48/100 |
+| 40 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
+| 41 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 44/100 |
+| 42 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
+| 43 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
 
 ---
 

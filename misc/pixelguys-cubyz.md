@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 218 |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d-game` `cubyz` `game` `procedural-generation` `sandbox` `sandbox-game` `voxel` `voxel-game` `zig`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Cubyz is an open-source voxel sandbox game featuring a vast render distance, procedurally generated content, and impressive graphical effects. Players can immerse themselves in a vast, dynamic world, generating by the game's robust procedural engine. With its focus on creative freedom and exploration, Cubyz offers a unique gaming experience.
+PixelGuys/Cubyz is an open‑source voxel sandbox game that features an expansive render distance and procedurally generated worlds, allowing players to explore vast, ever‑changing landscapes. The project also includes a variety of visual enhancements, such as dynamic lighting and other graphical effects, to deliver an engaging and visually appealing experience. It is categorized under Miscellaneous.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/PixelGuys/Cubyz) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/PixelGuys/Cubyz) · [← Back to Misc](./README.md)</sub>

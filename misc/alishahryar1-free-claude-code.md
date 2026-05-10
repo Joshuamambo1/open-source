@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21.4k |
-| 🍴 **Forks** | 3.1k |
+| ⭐ **Stars** | 23.4k |
+| 🍴 **Forks** | 3.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, 'free-claude-code', provides a free and accessible version of Claude-code, a helpful AI tool, for use in various platforms, including the terminal, VSCode extensions, and Discord. It offers a user-friendly interface to leverage the capabilities of Claude-code without any costs or restrictions. By mirroring the functionality of openclaw, users can seamlessly integrate Claude-code into their workflows.
+Alishahryar1/free-claude-code is an open‑source tool that lets you run Claude‑code locally at no cost, offering command‑line access, a VS Code extension, and a Discord‑style interface similar to OpenClaw, complete with voice interaction support. It simplifies AI‑assisted coding across multiple environments, making powerful Claude models accessible to developers without a subscription.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Alishahryar1/free-claude-code) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Alishahryar1/free-claude-code) · [← Back to Misc](./README.md)</sub>

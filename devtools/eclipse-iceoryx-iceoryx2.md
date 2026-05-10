@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`eclipse` `iceoryx` `inter-process-communication` `ipc` `middleware` `publish-subscribe` `pubsub` `request-response` `rpc` `rust` `shared-memory` `zero-copy`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-eclipse-iceoryx/iceoryx2 is a promising open-source project. Categories: DevTools. Interest score: 67/100.
+Eclipse iceoryx2™ is an open‑source, zero‑copy inter‑process communication (IPC) framework built around a high‑performance Rust core, offering low‑latency, lock‑free data exchange between processes and containers. It provides a type‑safe API, automatic memory management, and seamless integration with existing C/C++ and Rust applications, making it ideal for real‑time and safety‑critical systems. The project is hosted under the Eclipse Foundation and targets developers needing fast, reliable IPC in embedded, automotive, and cloud‑native environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/eclipse-iceoryx/iceoryx2) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/eclipse-iceoryx/iceoryx2) · [← Back to DevTools](./README.md)</sub>

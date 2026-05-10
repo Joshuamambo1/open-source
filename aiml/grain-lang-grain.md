@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | Reason |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`compiler` `functional-programming` `grain` `language` `wasm` `webassembly`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Grain compiler toolchain and CLI is an open-source project that provides a foundation for modern web development. This project offers a comprehensive toolset and command-line interface for building, optimizing, and deploying web applications, catering to the needs of developers working with AI and ML technologies. Grain aims to establish itself as a key component in the web development ecosystem.
+Grain is an open‑source compiler toolchain and command‑line interface for the Grain programming language, designed to streamline modern web development. It provides fast compilation, powerful dev‑tools, and seamless integration with AI/ML workflows, making it a versatile foundation for building responsive, data‑driven web applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/grain-lang/grain) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/grain-lang/grain) · [← Back to AI/ML](./README.md)</sub>

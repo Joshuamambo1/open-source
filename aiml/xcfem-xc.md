@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 344 |
+| ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aci-318` `aisc-360` `bridge-engineering` `eurocode2` `eurocode3` `finite-element-analysis` `finite-elements` `libgmp` `modal-analysis` `open-source` `opensees` `pdelta-effects`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The xcfem/xc project is an open-source finite element analysis package specifically designed for civil engineering structures, providing a powerful tool for engineers to simulate and analyze complex structural behaviors. By leveraging advanced numerical methods and techniques, this package enables users to accurately model and predict the response of various civil engineering systems under different loads and conditions. This AI/ML-enabled package is a valuable resource for researchers, engineers, and students in the field of civil engineering.
+The **xcfem/xc** project is an open‑source finite element analysis (FEA) library tailored for the modeling and simulation of civil‑engineering structures such as bridges, buildings, and dams. It provides a robust set of algorithms, material models, and solver tools that enable engineers and researchers to perform accurate structural analyses and design optimization within a flexible, Python‑compatible framework.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/xcfem/xc) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/xcfem/xc) · [← Back to AI/ML](./README.md)</sub>

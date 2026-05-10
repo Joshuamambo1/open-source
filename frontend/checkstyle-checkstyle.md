@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`code-quality` `command-line-tool` `hacktoberfest` `java` `static-analysis` `static-code-analysis`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Checkstyle is an open-source development tool that helps programmers write Java code consistently by enforcing adherence to a chosen coding standard. It supports popular guidelines such as the Google Java Style Guide and Sun Code Conventions, and can be easily configured to fit specific project needs. Checkstyle can be integrated into projects via ANT tasks or a command-line interface.
+Checkstyle is an open‑source static analysis tool that enforces coding standards in Java projects. It ships with built‑in support for the Google Java Style Guide and Sun Code Conventions, while offering extensive configuration to define custom rules. The tool can be run from the command line or integrated into build processes via an Ant task.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/checkstyle/checkstyle) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/checkstyle/checkstyle) · [← Back to Frontend](./README.md)</sub>

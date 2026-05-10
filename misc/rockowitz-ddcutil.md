@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | C |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`calibration` `ddc` `ddc-ci` `mccs` `monitor`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The rockowitz/ddcutil project is an open-source tool that allows users to control and adjust monitor settings using the Digital Display Control (DDC/CI) and USB protocols. This utility provides a command-line interface for modifying display settings, giving users fine-grained control over their monitor's configuration. By leveraging DDC/CI and USB, ddcutil enables users to customize their monitor settings with ease.
+rockowitz/ddcutil is an open‑source command‑line utility that lets users query and adjust monitor parameters—such as brightness, contrast, color temperature, and input source—through the DDC/CI protocol over VGA, HDMI, DisplayPort, or USB connections. It provides a simple, scriptable interface for automating display configuration on Linux and other Unix‑like systems, supporting a wide range of monitors and offering features like persistent settings, event monitoring, and detailed device information.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/rockowitz/ddcutil) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/rockowitz/ddcutil) · [← Back to Misc](./README.md)</sub>

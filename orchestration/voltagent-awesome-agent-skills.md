@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20.3k |
-| 🍴 **Forks** | 2.1k |
+| ⭐ **Stars** | 21.1k |
+| 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `ai-agents` `antigravity-skills` `awesome` `awesome-list` `awesome-lists` `claude-code` `claude-code-skills` `claude-skills` `codex-skills` `cursor-skills` `gemini-skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-VoltAgent/awesome-agent-skills is an extensive collection of over 1000 agent skills, sourced from official developer teams and the community, to facilitate seamless integration with various tools like Claude Code, Codex, and Cursor. This open-source repository offers a centralized hub for discovering and utilizing AI/ML skills, streamlining development workflows and enhancing productivity. With its diverse range of skills and compatibility with multiple platforms, it has become a go-to resource for developers and teams.
+VoltAgent/awesome-agent-skills is an open‑source repository that gathers more than 1,000 ready‑to‑use agent “skills” contributed by official development teams and the broader community. These skills are designed for seamless integration with popular AI platforms such as Claude Code, Codex, Gemini CLI, Cursor, and others, enabling developers to quickly orchestrate complex workflows and enhance AI‑driven tooling. The collection serves as a centralized hub for reusable, interoperable components that accelerate AI/ML and DevTools projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/VoltAgent/awesome-agent-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/VoltAgent/awesome-agent-skills) · [← Back to Orchestration](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 567 |
+| ⭐ **Stars** | 568 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`binary-analysis` `binary-code` `binary-similarity` `binlex` `cybersecurity` `genetic-progamming` `ida-plugin` `malware-analysis` `malware-research` `reverse-engineering` `yara` `yara-rules`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-c3rb3ru5d3d53c/binlex is an open-source, binary genetic traits lexer framework designed to facilitate the analysis and processing of binary data. This AI/ML and security-focused project enables developers to extract and manipulate genetic traits from binary files, providing a powerful tool for security research and software analysis. By leveraging this framework, researchers and developers can gain deeper insights into binary data and improve the overall security and stability of software systems.
+c3rb3ru5d3d53c/binlex is an open‑source framework that lexes binary files to extract genetic‑style traits for use in machine‑learning and security analyses. It provides a modular, extensible lexer pipeline that can parse executable formats, identify code patterns, and generate feature vectors for downstream AI/ML models, facilitating automated vulnerability detection and binary classification.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/c3rb3ru5d3d53c/binlex) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/c3rb3ru5d3d53c/binlex) · [← Back to AI/ML](./README.md)</sub>

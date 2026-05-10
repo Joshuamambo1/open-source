@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 172 |
+| ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`achievements` `ascii-art` `cli` `command-line-tool` `developer-tools` `fetch` `gaming` `iterm2` `kitty` `neofetch` `rust` `sixel`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Steamfetch is an open-source project that brings the popular terminal system information tool, neofetch, to your Steam gaming experience. This tool allows users to display their Steam statistics in a terminal, providing a convenient way to showcase their gaming achievements. By offering a unique and customizable way to display Steam stats, Steamfetch caters to the gaming community's enthusiasm for showcasing their gaming credentials.
+unhappychoice/steamfetch is a lightweight command‑line tool that brings the popular Neofetch aesthetic to Steam, letting users quickly view their Steam profile information, game library stats, and playtime directly in the terminal. Built with a focus on simplicity and speed, it serves as a handy backend utility for developers and power users who want to script or monitor Steam data without leaving the console.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/unhappychoice/steamfetch) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/unhappychoice/steamfetch) · [← Back to Backend](./README.md)</sub>

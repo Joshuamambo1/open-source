@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 325 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api-documentation` `developer-tools` `docs` `documentation` `doxygen` `openapi` `openapi3` `openapi31` `static-site-generator` `swagger` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Sourcey is an open-source project that enables precise documentation by parsing guides from OpenAPI, MCP, Doxygen, and Markdown formats. This project generates static HTML documentation, giving users full control and ownership over their documentation. It caters to various fields, including AI/ML, frontend, and backend development.
+Sourcey is an open‑source tool that generates precise, searchable documentation from a variety of sources—including OpenAPI specifications, MCP files, Doxygen comments, and Markdown guides—into static HTML sites you can host yourself. It bridges front‑end and back‑end development workflows, offering AI‑assisted content handling while keeping the output fully owned and customizable.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/sourcey/sourcey) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/sourcey/sourcey) · [← Back to AI/ML](./README.md)</sub>

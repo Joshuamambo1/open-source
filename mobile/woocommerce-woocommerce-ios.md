@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 356 |
-| 🍴 **Forks** | 123 |
+| ⭐ **Stars** | 357 |
+| 🍴 **Forks** | 122 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ios` `mobile-app` `swift` `woocommerce`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The WooCommerce iOS project is an open-source initiative that seeks to develop a native iOS application for WooCommerce, a popular e-commerce plugin for WordPress. This project aims to provide a seamless shopping experience for WooCommerce store owners and their customers, leveraging the power of iOS to deliver a user-friendly and efficient mobile shopping app. By contributing to this project, developers can help shape the future of online shopping on iOS devices.
+The WooCommerce iOS project provides an official mobile client for the WooCommerce platform, enabling merchants to manage their online stores directly from an iPhone or iPad. It offers features such as order processing, product catalog management, customer communication, and real‑time analytics, all built with Swift and integrated with the WooCommerce REST API. The open‑source repository welcomes contributions and can be customized to fit specific store workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/woocommerce/woocommerce-ios) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/woocommerce/woocommerce-ios) · [← Back to Mobile](./README.md)</sub>

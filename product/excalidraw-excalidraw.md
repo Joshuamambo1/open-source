@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 122.5k |
-| 🍴 **Forks** | 13.5k |
+| ⭐ **Stars** | 122.9k |
+| 🍴 **Forks** | 13.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`canvas` `collaboration` `diagrams` `drawing` `hacktoberfest` `productivity` `whiteboard`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Product
 
 ## 📝 Summary
 
-Excalidraw is an open-source, virtual whiteboard for creating hand-drawn like diagrams and sketches. This intuitive tool allows users to create digital artwork reminiscent of traditional hand-drawn diagrams, making it suitable for a variety of applications, including brainstorming, prototyping, and collaboration. With Excalidraw, users can easily sketch and share their ideas in a flexible and interactive digital environment.
+Excalidraw is an open‑source virtual whiteboard that lets users create quick, hand‑drawn‑style diagrams and sketches directly in the browser. It offers a simple, intuitive UI with real‑time collaboration, infinite canvas, and export options, making it ideal for brainstorming, UI mockups, and visual communication. The project is actively maintained and can be self‑hosted or used via the hosted web app.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/excalidraw/excalidraw) · [← Back to Product](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/excalidraw/excalidraw) · [← Back to Product](./README.md)</sub>

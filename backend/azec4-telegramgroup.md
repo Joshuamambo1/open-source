@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`telegram` `telegram-api` `telegram-bot` `telegram-bot-api` `telegram-bots` `telegram-channel` `telegramgroups`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the AZeC4/TelegramGroup project:
-
-This open-source project is a comprehensive collection of over 10,000 Telegram groups, accompanied by a curated list of useful bots that can be accessed through the dianbaodaohang.com platform. The project aims to provide a centralized resource for users to discover and engage with Telegram communities and bots. With its vast database, users can easily find and join groups that match their interests and explore the capabilities of various bots.
+AZeC4/TelegramGroup is an open‑source repository that curates a massive collection of over 10,000 Telegram groups, continuously updated with the latest 2026 listings. It also bundles a selection of popular, utility‑focused bots to enhance group interactions, making it a handy resource for developers and community managers looking to discover or integrate Telegram communities and automated tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/AZeC4/TelegramGroup) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/AZeC4/TelegramGroup) · [← Back to Backend](./README.md)</sub>

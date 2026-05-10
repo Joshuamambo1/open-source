@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5169** |
+| 🗂️ **Total projects** | **5207** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2079 | [Browse →](./aiml/) |
-| 📦 **Misc** | 907 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 517 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 482 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 273 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 253 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 2091 | [Browse →](./aiml/) |
+| 📦 **Misc** | 916 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 522 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 486 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 274 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 259 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 188 | [Browse →](./crypto/) |
 | 📊 **Data** | 120 | [Browse →](./data/) |
 | 💳 **Payments** | 91 | [Browse →](./payments/) |
 | 📱 **Mobile** | 64 | [Browse →](./mobile/) |
 | 📈 **Trading** | 63 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 58 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 40 | [Browse →](./security/) |
+| 🔐 **Security** | 41 | [Browse →](./security/) |
 | ✨ **Design** | 16 | [Browse →](./design/) |
 | 🎯 **Product** | 12 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 6 | [Browse →](./marketing/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [jaywcjlove/reference](./aiml/jaywcjlove-reference.md) | ⭐ 15.1k | AI/ML |
-| 2 | [kubernetes-sigs/kubespray](./aiml/kubernetes-sigs-kubespray.md) | ⭐ 18.5k | AI/ML |
-| 3 | [laramies/theHarvester](./aiml/laramies-theharvester.md) | ⭐ 16.2k | AI/ML |
-| 4 | [PX4/PX4-Autopilot](./misc/px4-px4-autopilot.md) | ⭐ 11.7k | Misc |
-| 5 | [clap-rs/clap](./misc/clap-rs-clap.md) | ⭐ 16.4k | Misc |
-| 6 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25.1k | Design |
-| 7 | [mvanhorn/last30days-skill](./trading/mvanhorn-last30days-skill.md) | ⭐ 25.3k | Trading |
-| 8 | [GyulyVGC/sniffnet](./frontend/gyulyvgc-sniffnet.md) | ⭐ 37.3k | Frontend |
-| 9 | [jackocnr/intl-tel-input](./aiml/jackocnr-intl-tel-input.md) | ⭐ 8.2k | AI/ML |
-| 10 | [santifer/career-ops](./aiml/santifer-career-ops.md) | ⭐ 43.8k | AI/ML |
+| 1 | [formatjs/formatjs](./frontend/formatjs-formatjs.md) | ⭐ 14.7k | Frontend |
+| 2 | [jaywcjlove/reference](./aiml/jaywcjlove-reference.md) | ⭐ 15.1k | AI/ML |
+| 3 | [kubernetes-sigs/kubespray](./aiml/kubernetes-sigs-kubespray.md) | ⭐ 18.5k | AI/ML |
+| 4 | [laramies/theHarvester](./aiml/laramies-theharvester.md) | ⭐ 16.2k | AI/ML |
+| 5 | [PX4/PX4-Autopilot](./misc/px4-px4-autopilot.md) | ⭐ 11.7k | Misc |
+| 6 | [clap-rs/clap](./misc/clap-rs-clap.md) | ⭐ 16.4k | Misc |
+| 7 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25.1k | Design |
+| 8 | [mvanhorn/last30days-skill](./trading/mvanhorn-last30days-skill.md) | ⭐ 25.3k | Trading |
+| 9 | [GyulyVGC/sniffnet](./frontend/gyulyvgc-sniffnet.md) | ⭐ 37.3k | Frontend |
+| 10 | [jackocnr/intl-tel-input](./aiml/jackocnr-intl-tel-input.md) | ⭐ 8.2k | AI/ML |
 
 ## 🚀 How it works
 

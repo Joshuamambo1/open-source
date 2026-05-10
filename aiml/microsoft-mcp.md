@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 479 |
+| 🍴 **Forks** | 485 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-microsoft/mcp is a promising open-source project. Categories: AI/ML, Backend, Data. Interest score: 68/100.
+The **microsoft/mcp** repository is a curated catalog of open‑source server implementations that conform to Microsoft’s Model Context Protocol (MCP), a standard for AI‑driven data access and tool integration. It provides developers with ready‑to‑use reference implementations and deployment guides for building backend services that expose data and functionality to large language models in a secure, scalable way. This collection helps accelerate the creation of AI‑enhanced applications across the AI/ML, backend, and data domains.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/microsoft/mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/microsoft/mcp) · [← Back to AI/ML](./README.md)</sub>

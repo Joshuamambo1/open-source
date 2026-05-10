@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`formatjs` `globalization` `i18n` `internationalization` `intl` `javascript` `localization` `react` `translation` `ui` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-FormatJS is an open-source project that serves as a monorepo for various internationalization and localization libraries. It is home to react-intl, a popular library for integrating internationalization into React applications. The project enables developers to efficiently manage and display text in multiple languages across frontend applications.
+FormatJS is a monorepo that bundles a suite of internationalization libraries for JavaScript, including the widely used **react-intl** component for React applications. It provides tools for formatting dates, numbers, messages, and handling locale data, enabling developers to build fully localized front‑end experiences with a consistent API across frameworks. The project is open‑source and maintained under the `formatjs` organization.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/formatjs/formatjs) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/formatjs/formatjs) · [← Back to Frontend](./README.md)</sub>

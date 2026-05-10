@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 808 |
+| 🍴 **Forks** | 809 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cats` `fs2` `http` `http-client` `http-server` `scala` `typelevel`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-http4s is an open-source, idiomatic Scala library providing a minimal and elegant interface for building HTTP applications. It offers a robust foundation for creating web servers and clients with a focus on simplicity, scalability, and maintainability. By leveraging http4s, developers can craft efficient and reliable HTTP services with ease.
+http4s is a lightweight, purely functional library that provides an idiomatic Scala API for building HTTP services and clients. It emphasizes type safety, composability, and minimalism, allowing developers to create robust backend applications and tooling without sacrificing functional programming principles.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/http4s/http4s) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/http4s/http4s) · [← Back to Backend](./README.md)</sub>

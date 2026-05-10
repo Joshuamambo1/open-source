@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `go` `golang` `nyagos` `readline` `readline-library`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The nyaosorg/go-readline-ny project is an open-source implementation of the Readline library for the Go programming language, providing a native and efficient way to handle user input in command-line applications. It offers a New and Yet another Readline that can be used in various Go projects, enhancing user interaction with more robust and feature-rich input handling. This library is designed to be a drop-in replacement for traditional Go input handling methods.
+A lightweight, drop‑in replacement for Go’s standard input handling, **nyaosorg/go-readline-ny** provides a modern, feature‑rich readline implementation. It supports line editing, history navigation, customizable key bindings, and Unicode handling while remaining minimal and easy to integrate into existing Go projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/nyaosorg/go-readline-ny) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/nyaosorg/go-readline-ny) · [← Back to Misc](./README.md)</sub>

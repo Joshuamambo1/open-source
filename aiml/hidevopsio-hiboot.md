@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`application` `autoconfiguration` `cli` `cloudnative` `command` `command-line-tool` `container` `dependency-injection` `di` `golang` `ioc` `mvc`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the hiboot project:
-
-Hiboot is an open-source, high-performance framework for building web and CLI applications, designed to provide a robust and scalable development experience. Featuring dependency injection support, hiboot streamlines the development process and empowers developers to create efficient and maintainable applications. With its modular architecture, hiboot is ideal for building complex, data-driven applications that require high performance and low latency.
+hiboot is an open‑source, high‑performance framework for building both web services and command‑line applications. It provides a lightweight dependency‑injection container, enabling modular, testable code while delivering fast startup and low runtime overhead. Ideal for developers who need a versatile, DevTools‑focused platform for creating scalable, production‑ready applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/hidevopsio/hiboot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/hidevopsio/hiboot) · [← Back to AI/ML](./README.md)</sub>

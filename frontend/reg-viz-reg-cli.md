@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 405 |
+| ⭐ **Stars** | 406 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`reg-suit` `visual-recognition` `visual-regression-testing` `visual-tests`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the reg-viz/reg-cli project:
-
-reg-viz/reg-cli is an open-source, visual regression test tool designed to identify changes in the visual appearance of web applications. This tool enables developers to detect and track UI changes across different versions, ensuring that updates do not introduce unintended visual modifications. By facilitating thorough visual regression testing, reg-viz/reg-cli helps maintain a consistent user experience across various software iterations.
+Reg‑CLI is an open‑source visual regression testing tool designed for frontend developers. It captures screenshots of UI components or pages, compares them against baseline images, and highlights pixel‑level differences to help catch unintended visual changes. The CLI integrates easily into CI pipelines and supports customizable diff thresholds, making it a lightweight yet powerful addition to any dev‑toolchain.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/reg-viz/reg-cli) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/reg-viz/reg-cli) · [← Back to Frontend](./README.md)</sub>

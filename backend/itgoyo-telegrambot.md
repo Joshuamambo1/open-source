@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`telegram` `telegram-api` `telegram-api-bot` `telegram-bots` `telegrambot` `telegramchannels` `telegramgroups`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The itgoyo/TelegramBot project is an open-source initiative aimed at collecting and updating the most comprehensive list of Telegram bots available. This curated list is intended to provide users with a vast selection of bots that can cater to their diverse needs and interests. The project focuses on the backend aspect, ensuring the accuracy and reliability of the bot database.
+itgoyo/TelegramBot is an open‑source backend project that continuously aggregates and updates a comprehensive catalog of Telegram bots from across the internet, aiming to provide users with the most complete and entertaining collection available. By scraping, indexing, and maintaining detailed information on each bot, the repository makes it easy to discover, compare, and select the perfect bot for any use case.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/itgoyo/TelegramBot) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/itgoyo/TelegramBot) · [← Back to Backend](./README.md)</sub>

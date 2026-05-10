@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 40 |
-| 🍴 **Forks** | 6 |
+| ⭐ **Stars** | 43 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-tools` `anthropic` `automation` `claude` `claude-code` `clickhouse` `coding-assistant` `developer-tools` `devops` `llm` `marketplace`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The Claude Code Skills Marketplace, hosted on GitHub as terrylica/cc-skills, offers a collection of plugins and skills for ADR-driven development, DevOps automation, ClickHouse management, and more. This open-source project aims to streamline workflows and boost productivity through semantic versioning and automation. With a focus on AI/ML, DevTools, and Productivity, it provides a valuable resource for developers and teams seeking to optimize their coding processes.
+The Claude Code Skills Marketplace (terrylica/cc-skills) is an open‑source collection of plugins and reusable “skills” that streamline ADR‑driven development, DevOps automation, ClickHouse administration, semantic versioning, and various productivity workflows. By exposing these capabilities as modular components, the project lets developers integrate AI‑assisted code generation and orchestration directly into their toolchains, boosting efficiency across AI/ML, DevTools, and product pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/terrylica/cc-skills) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/terrylica/cc-skills) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude` `fastapi` `knowledge-graph` `knowledge-management` `obsidian` `personal-knowledge-base` `react` `self-hosted` `telegram-bot`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Yrzhe/pagefly is an open-source, self-hosted knowledge data platform that empowers individuals to capture, distill, compile, and serve their personal knowledge. This Personal Knowledge OS leverages AI agents, integrates with a Telegram bot, and provides a REST API, enabling users to manage and share their knowledge in a seamless and efficient manner. By harnessing AI-driven tools and APIs, users can streamline their knowledge management and organization.
+Yrzhe/pagefly is an open‑source, self‑hosted knowledge operating system that lets users capture information, distill insights, compile structured content, and serve it through multiple interfaces. It combines AI agents, a Telegram bot, and a REST API to provide a flexible platform for personal knowledge management, with both frontend and backend components.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/Yrzhe/pagefly) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Yrzhe/pagefly) · [← Back to AI/ML](./README.md)</sub>

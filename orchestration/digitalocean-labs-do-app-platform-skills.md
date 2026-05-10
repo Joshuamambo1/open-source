@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-skills` `app-platform` `claude` `deployment` `devops` `digitalocean` `paas`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
-This open-source project, 'do-app-platform-skills', provides Claude/Agent skills for DigitalOcean's App Platform. It enables users to streamline various tasks, including deployment, migration, networking, database configuration, and troubleshooting, making it easier to manage and maintain their applications. By integrating with DigitalOcean's App Platform, this project enhances the overall development experience with automated and efficient workflows.
+digitalocean‑labs/do‑app‑platform‑skills is an open‑source collection of Claude/Agent “skills” that automate common tasks on DigitalOcean’s App Platform. The repo provides ready‑to‑use modules for deploying apps, migrating workloads, configuring networking and databases, and handling routine troubleshooting, enabling AI‑driven orchestration and faster DevOps workflows. It’s geared toward developers and teams looking to integrate AI/ML‑powered automation into their cloud infrastructure management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/digitalocean-labs/do-app-platform-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/digitalocean-labs/do-app-platform-skills) · [← Back to Orchestration](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`archive` `backup` `channels` `dump` `dumper` `mattermost` `mattermost-app` `mcp-server` `migration-tool` `slack` `slack-exports` `slackdump`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · Marketing
 
 ## 📝 Summary
 
-The rusq/slackdump project allows users to download and save private and public Slack data, including messages, threads, files, and user information, directly to their local machine without the need for administrative privileges. This open-source tool provides users with a secure and convenient way to preserve their Slack data for archiving, backup, or offline access. By utilizing slackdump, users can maintain control over their Slack data and ensure its availability even after leaving a workspace or organization.
+rusq/slackdump is an open‑source utility that lets you locally archive Slack data—including private and public messages, threaded conversations, files, and user information—without requiring admin rights or API tokens with elevated privileges. It provides a simple command‑line interface for exporting this content in JSON or CSV formats, making it useful for backup, compliance, or analysis tasks. The tool is geared toward developers and marketers who need reliable, self‑hosted access to Slack’s communication history.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/rusq/slackdump) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/rusq/slackdump) · [← Back to Backend](./README.md)</sub>

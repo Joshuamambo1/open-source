@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 246 |
+| ⭐ **Stars** | 1.5k |
+| 🍴 **Forks** | 258 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The Kiro Account Manager is an intelligent account management tool designed for use with the Kiro IDE. It offers convenient one-click switching between accounts and real-time quota monitoring, making it easier to manage multiple Kiro accounts. This open-source project aims to simplify account management for Kiro IDE users.
+The **Kiro Account Manager** is an open‑source tool for the Kiro IDE that lets users store multiple Kiro accounts, switch between them instantly, and monitor each account’s usage quota. It provides a simple command‑line interface (and optional UI) to add, remove, and select accounts, displaying real‑time quota information to help developers manage their resources efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/hj01857655/kiro-account-manager) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/hj01857655/kiro-account-manager) · [← Back to Misc](./README.md)</sub>

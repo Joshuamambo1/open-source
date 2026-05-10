@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 318 |
+| ⭐ **Stars** | 320 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `apps` `fdroid`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data · Mobile
 
 ## 📝 Summary
 
-The f-droid/fdroiddata project provides open-source data for the main F-Droid repository, a popular open-source app store. This data includes information on available apps, their metadata, and dependencies, facilitating the development and maintenance of the F-Droid platform. By being open-source, this data helps promote transparency and community involvement in the app ecosystem.
+f-droid/fdroiddata is the official data repository for the F‑Droid app store, providing the metadata, version information, and signing keys for all open‑source Android applications that appear in the main F‑Droid repository. The project maintains structured, machine‑readable data (including app descriptions, screenshots, and build instructions) that powers the F‑Droid client and website, enabling automated updates and secure distribution of free mobile software. It serves as a key open‑source resource for developers and users seeking a curated, privacy‑respecting Android app ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/f-droid/fdroiddata) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/f-droid/fdroiddata) · [← Back to AI/ML](./README.md)</sub>

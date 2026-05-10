@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 661 |
-| 🍴 **Forks** | 38 |
+| ⭐ **Stars** | 685 |
+| 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audio-converter` `convert` `docker` `fastapi` `file-converter` `image-converter` `pdf-converter` `python` `react` `self-hosted` `vite`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the transmute-app/transmute project:
-
-Transmute is an open-source, self-hosted file converter that supports over 2,000 conversions across various file formats, including images, videos, audio, JSON, and Excel documents. This versatile tool enables users to effortlessly convert files on their own infrastructure, providing flexibility and control over their data. With its comprehensive range of supported formats, transmute is an ideal solution for developers, power users, and organizations requiring seamless file conversions.
+Transmute is an open‑source, self‑hosted conversion service that handles a wide range of media and data formats—including images, video, audio, JSON, Excel and many more—offering over 2,000 possible conversions. It provides both a user‑friendly frontend interface and a robust backend API, making it easy to integrate into any workflow or infrastructure. The project also includes DevOps‑ready deployment options for seamless scaling and management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/transmute-app/transmute) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/transmute-app/transmute) · [← Back to Frontend](./README.md)</sub>

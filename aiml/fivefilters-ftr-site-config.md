@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 466 |
-| 🍴 **Forks** | 291 |
+| ⭐ **Stars** | 467 |
+| 🍴 **Forks** | 293 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`article-extracting` `extract-rules` `xpath`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The fivefilters/ftr-site-config project is an open-source initiative that provides site-specific article extraction rules. These rules aid content extractors, feed readers, and 'read later' applications by helping them efficiently identify and extract relevant content from various websites. By offering customizable extraction rules, this project enhances the accuracy and reliability of content aggregation tools.
+FiveFilters ftr‑site‑config is an open‑source collection of site‑specific parsing rules that help content extraction tools—such as article extractors, feed readers, and “read‑later” services—strip away clutter and retrieve clean article text and metadata. The repository maintains a curated set of patterns (XPath, CSS selectors, regexes, etc.) for thousands of websites, enabling developers to improve extraction accuracy without writing custom scrapers for each site. It’s a lightweight, community‑maintained resource that can be integrated into any AI‑oriented content‑processing pipeline.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/fivefilters/ftr-site-config) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/fivefilters/ftr-site-config) · [← Back to AI/ML](./README.md)</sub>

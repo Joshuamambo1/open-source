@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude-code` `cli` `developer-tools` `git` `lightweight` `statusline`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the Owloops/claude-powerline project:
-
-Owloops/claude-powerline is an open-source project that provides a visually stunning vim-style powerline for Claude Code. This tool aims to enhance the user experience by offering a customizable and elegant status line, making it easier to navigate and work with Claude Code. With its user-friendly design, developers can now enjoy a more streamlined and efficient coding experience.
+Owloops/claude-powerline provides a sleek, Vim‑inspired powerline theme for Claude Code, enhancing the editor’s status bar with clear, customizable segments for file information, Git status, diagnostics, and more. It’s a lightweight, open‑source DevTools extension that lets developers personalize their workflow while maintaining a clean, visually appealing interface.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Owloops/claude-powerline) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Owloops/claude-powerline) · [← Back to DevTools](./README.md)</sub>

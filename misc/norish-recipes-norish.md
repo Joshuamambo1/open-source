@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`food` `meal-planner` `recipes` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the Norish project:
-
-Norish is an open-source, self-hosted recipe app designed for families and friends. This real-time platform allows users to collaborate, save, and discover new recipes together, making it easier to plan and organize meals. With Norish, users can access their recipe collections from anywhere and enjoy a seamless cooking experience.
+Norish is a self‑hosted, real‑time recipe management platform designed for families and friends to share, organize, and discover cooking ideas together. It offers collaborative features such as live editing, instant syncing across devices, and easy categorization of recipes, all under an open‑source license. The project aims to provide a privacy‑focused alternative to cloud‑based recipe apps, allowing users to run the service on their own server.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/norish-recipes/norish) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/norish-recipes/norish) · [← Back to Misc](./README.md)</sub>

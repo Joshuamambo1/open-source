@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 826 |
-| 🍴 **Forks** | 117 |
+| ⭐ **Stars** | 862 |
+| 🍴 **Forks** | 120 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`falkordb` `genai` `graph-database` `graphrag` `knowledge-graph` `llm` `open-source` `rag` `sdk`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-FalkorDB/GraphRAG-SDK is an open-source project that enables developers to build fast and accurate Generative AI (GenAI) applications at scale. This project leverages the GraphRAG SDK to empower users to create GenAI apps with high performance and accuracy. By utilizing this SDK, developers can efficiently integrate GenAI capabilities into their applications, unlocking a wide range of innovative possibilities.
+FalkorDB/GraphRAG‑SDK is an open‑source toolkit that lets developers build high‑performance, retrieval‑augmented generation (RAG) applications by leveraging graph‑based data structures. It combines FalkorDB’s fast, scalable graph database with a Python SDK that simplifies indexing, querying, and integrating external knowledge sources, enabling accurate GenAI workflows at scale. The project targets AI/ML, frontend, and data engineers looking to create responsive, data‑driven AI experiences.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/FalkorDB/GraphRAG-SDK) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/FalkorDB/GraphRAG-SDK) · [← Back to AI/ML](./README.md)</sub>

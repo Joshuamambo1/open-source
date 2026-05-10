@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16.8k |
-| 🍴 **Forks** | 3.2k |
+| ⭐ **Stars** | 17.2k |
+| 🍴 **Forks** | 3.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-OpenMAIC is an open-source project providing an immersive, multi-agent learning experience that can be easily accessed in a single click. This platform, known as THU-MAIC/OpenMAIC, offers a unique approach to interactive education by incorporating AI/ML capabilities and orchestration tools. By leveraging this technology, users can engage in a more engaging and dynamic learning environment.
+OpenMAIC (THU‑MAIC/OpenMAIC) is an open‑source platform that creates an immersive, multi‑agent classroom environment where AI agents can interact, teach, and learn together with minimal setup—just one click. It combines orchestration, AI/ML, and developer tools to manage, coordinate, and customize multiple agents, enabling researchers, educators, and developers to prototype and experiment with collaborative AI-driven learning scenarios.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/THU-MAIC/OpenMAIC) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/THU-MAIC/OpenMAIC) · [← Back to Orchestration](./README.md)</sub>

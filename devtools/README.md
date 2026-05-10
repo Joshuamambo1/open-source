@@ -267,8 +267,8 @@
 | 257 | [Dokploy/cli](./dokploy-cli.md) | ⭐ 106 | TypeScript | 45/100 |
 | 258 | [openabdev/openab](./openabdev-openab.md) | ⭐ 436 | Rust | 45/100 |
 | 259 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
-| 260 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
-| 261 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
+| 260 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
+| 261 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
 | 262 | [lessweb/deepcode-cli](./lessweb-deepcode-cli.md) | ⭐ 464 | TypeScript | 44/100 |
 | 263 | [getstackit/stackit](./getstackit-stackit.md) | ⭐ 28 | Go | 44/100 |
 | 264 | [GlassHaven/Haven](./glasshaven-haven.md) | ⭐ 465 | Kotlin | 44/100 |

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 9.3k |
-| 🍴 **Forks** | 437 |
+| 🍴 **Forks** | 438 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d` `3d-engine` `engine` `game-development` `game-engine` `gamedev` `gui` `rendering` `rust` `rust-lang`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Fyrox is an open-source, Rust-based game engine that enables the creation of both 3D and 2D games. With its modular architecture and extensive feature set, Fyrox provides developers with a versatile platform for building high-performance games across multiple platforms. This game engine is designed to be highly customizable and scalable, making it an attractive choice for developers looking to create complex and visually stunning game titles.
+Fyrox (formerly known as rg3d) is an open‑source, data‑driven game engine written in Rust that supports both 3D and 2D rendering, physics, animation, and a visual editor. Designed for high performance and safety, it offers a modular architecture, real‑time scripting, and cross‑platform deployment, making it suitable for indie developers and hobbyists building games and interactive graphics.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/FyroxEngine/Fyrox) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/FyroxEngine/Fyrox) · [← Back to Frontend](./README.md)</sub>

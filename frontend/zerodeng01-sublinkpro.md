@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 169 |
+| 🍴 **Forks** | 173 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary:
-
-sublinkPro is an open-source, modernized proxy subscription management platform that boasts features such as intelligent tagging, professional speed testing, and chain proxy relay. It also includes a Telegram bot for remote management and a JavaScript script extension. Built with a new UI using Go and React, it offers a mobile-friendly and user-friendly experience.
+ZeroDeng01 /sublinkPro is a modern, open‑source proxy subscription management platform built with Go and React, featuring a fresh, mobile‑friendly UI. It offers smart tag auto‑classification, integrated speed testing, chained proxy relays, airport traffic monitoring, Telegram remote control, and extensible JavaScript scripting. The project focuses on frontend functionality while providing a comprehensive suite of tools for managing and optimizing proxy services.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/ZeroDeng01/sublinkPro) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ZeroDeng01/sublinkPro) · [← Back to Frontend](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 452 |
+| ⭐ **Stars** | 457 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | C |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ime` `macos`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here is a brief summary for the open-source project vChewing/vChewing-macOS:
-
-vChewing is a free, open-source input method for macOS, developed with a focus on usability and functionality. It features a robust dictionary for both Simplified Chinese and Traditional Chinese, as well as several unique features and a pure Swift implementation. This input method offers a range of input modes, including a traditional Pinyin input method and a native Traditional Chinese input mode.
+vChewing‑macOS is a feature‑rich, open‑source Chinese input method for macOS, written entirely in Swift. It offers a pure Simplified‑Chinese Zhuyin keyboard with a native Traditional‑Chinese mode, alongside custom dictionaries and a suite of usability‑focused enhancements that make it one of the most versatile third‑party IMEs for the platform. Development and project management are handled through AtomGit.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/vChewing/vChewing-macOS) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/vChewing/vChewing-macOS) · [← Back to Misc](./README.md)</sub>

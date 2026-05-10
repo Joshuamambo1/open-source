@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | DM |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`byond` `game` `hacktoberfest` `role-playing` `ss13`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-ParadiseSS13/Paradise is an open-source project that serves as the main repository for Paradise Station, focusing on AI and Machine Learning (ML) developments. This repository likely contains a collection of research, tools, and software related to AI and ML, providing a collaborative platform for developers and researchers to share knowledge and ideas. The project aims to advance the field of AI and ML through open-source contributions and community engagement.
+Paradise Station is an open‑source, community‑driven fork of the popular BYOND game *Space Station 13*, providing a highly customizable, multiplayer role‑playing environment set aboard a futuristic space station. The repository hosts all core code, assets, and tooling needed to build, run, and extend the server, enabling developers to contribute new gameplay features, bug fixes, and content updates. It serves as a collaborative platform for both programmers and content creators to enhance the immersive, emergent gameplay experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/ParadiseSS13/Paradise) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ParadiseSS13/Paradise) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 365 |
-| 🍴 **Forks** | 495 |
+| ⭐ **Stars** | 369 |
+| 🍴 **Forks** | 500 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-app` `capacitor` `chatbot` `image-generation` `music-generation` `video-generation` `vue3`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The Nexior project is an open-source, consumer AI app that empowers users to create, communicate, and express themselves through various digital media. Leveraging the capabilities of Ace Data Cloud APIs, Nexior offers a comprehensive suite of features, including chat, image generation, video generation, and music creation. This innovative application enables users to tap into the vast potential of AI-driven creativity.
+AceDataCloud/Nexior is an open‑source consumer AI platform that brings together chat, image generation, video synthesis, and music creation in a single web application. It leverages the Ace Data Cloud APIs to deliver high‑quality generative content while providing a clean, responsive frontend and a robust backend infrastructure. The project is organized for easy extension and can serve as a starter kit for developers building multi‑modal AI experiences.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/AceDataCloud/Nexior) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/AceDataCloud/Nexior) · [← Back to AI/ML](./README.md)</sub>

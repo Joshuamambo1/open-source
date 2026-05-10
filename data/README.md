@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**122 projects** in this category.
+**123 projects** in this category.
 
 ## Projects
 
@@ -127,9 +127,10 @@
 | 117 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
 | 118 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 42/100 |
 | 119 | [AdrianEddy/telemetry-parser](./adrianeddy-telemetry-parser.md) | ⭐ 264 | Rust | 42/100 |
-| 120 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 39/100 |
-| 121 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
-| 122 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
+| 120 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 39/100 |
+| 121 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 39/100 |
+| 122 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
+| 123 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
 
 ---
 

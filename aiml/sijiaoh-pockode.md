@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `codex` `mobile-first`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The sijiaoh/pockode project is an open-source mobile interface that allows users to control their local AI coding agent, Claude Code and Codex, from anywhere. This mobile application provides a convenient way to interact with AI-powered coding capabilities remotely, enhancing the productivity and accessibility of AI-assisted coding. By leveraging pockode, users can take advantage of advanced coding features and capabilities on-the-go.
+sijiaoh/pockode is a mobile-friendly web interface that lets you interact with Claude Code and Codex—local AI coding assistants—directly from your phone or tablet. It provides a lightweight, responsive front‑end for sending prompts, receiving code suggestions, and managing sessions, enabling developers to control their on‑premise AI coding agents from anywhere. The project is open‑source and geared toward AI/ML workflows that require portable, real‑time code generation.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/sijiaoh/pockode) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/sijiaoh/pockode) · [← Back to AI/ML](./README.md)</sub>

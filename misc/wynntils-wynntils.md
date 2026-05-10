@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 235 |
-| 🍴 **Forks** | 161 |
+| ⭐ **Stars** | 236 |
+| 🍴 **Forks** | 163 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`minecraft-mod` `wynncraft` `wynntils`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Wynntils is an open-source project that offers a rewritten version of the original Wynntils mod, optimized for Minecraft 1.21.11. Built using Architectury, it provides compatibility with both Fabric and Forge modding platforms. This mod aims to enhance the player experience with a range of features and modifications.
+Wynntils (Artemis) is an open‑source rewrite of the original Wynntils mod, upgraded to Minecraft version 1.21.11 and built with the Architectury framework. By leveraging Architectury, the project provides cross‑compatibility for both Fabric and Forge mod loaders, allowing players on either platform to use the same feature‑rich client. It serves as a modern, maintainable foundation for the Wynntils ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Wynntils/Wynntils) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Wynntils/Wynntils) · [← Back to Misc](./README.md)</sub>

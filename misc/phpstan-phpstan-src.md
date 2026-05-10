@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 390 |
+| ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 574 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the phpstan/phpstan-src project:
-
-PHPStan's source code repository is a crucial hub for development, where the core functionality of this static analysis tool is maintained and improved. This open-source project is essential for keeping the PHPStan distribution up-to-date and ensuring the tool's accuracy and effectiveness in analyzing PHP code. Contributions to this repository help shape the future of PHPStan.
+PHPStan‑src is the core development repository for PHPStan, a popular static analysis tool that detects bugs and improves code quality in PHP projects. It contains the full source code, tests, and build scripts used to generate the official releases found in the distribution repository (github.com/phpstan/phpstan). This open‑source project enables contributors to extend, debug, and evolve PHPStan’s analysis capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/phpstan/phpstan-src) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/phpstan/phpstan-src) · [← Back to Misc](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 442 |
-| 🍴 **Forks** | 88 |
+| ⭐ **Stars** | 446 |
+| 🍴 **Forks** | 89 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the kakaxi-1/IPTV project:
-
-Kakaxi-1/IPTV is an open-source IPTV collector, designed to aggregate and manage multiple IPTV sources. This project, also known as the "IPTV 神源收集站" (IPTV Divine Source Collector), enables users to centralize their IPTV content and improve their viewing experience.
+kakaxi-1/IPTV is an open‑source repository that aggregates and curates IPTV stream sources, providing a centralized collection of live television channels and on‑demand content. The project serves as a “神源” (divine source) for users seeking a ready‑to‑use list of IPTV URLs, organized for easy access and integration into media players. It is categorized under Miscellaneous, reflecting its utility as a general-purpose streaming resource.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/kakaxi-1/IPTV) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/kakaxi-1/IPTV) · [← Back to Misc](./README.md)</sub>

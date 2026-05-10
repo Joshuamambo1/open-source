@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 949 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`php` `php7` `phpstan` `static-analysis` `static-analyzer` `static-code-analysis` `testing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-PHPStan is an open-source static analysis tool that scans PHP code for errors and potential issues without executing it. This helps developers identify bugs and inconsistencies in their codebase, ensuring higher code quality and reliability. By utilizing PHPStan, developers can catch errors early in the development process, reducing the risk of production issues.
+PHPStan is a powerful static analysis tool for PHP that scans your codebase to detect bugs, type errors, and potential issues without executing the code. By leveraging advanced type inference and configurable rule sets, it helps developers enforce best practices, improve code quality, and catch problems early in the development cycle. Ideal for teams seeking reliable, automated code analysis within their DevOps workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/phpstan/phpstan) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/phpstan/phpstan) · [← Back to DevTools](./README.md)</sub>

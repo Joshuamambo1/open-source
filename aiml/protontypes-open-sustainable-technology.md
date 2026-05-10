@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 312 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome-list` `biodiversity` `carbon-emissions` `climate` `climate-change` `climate-data` `climate-science` `earth-science` `energy` `energy-consumption` `energy-data`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-The protontypes/open-sustainable-technology project is an open-source directory and analysis of the ecosystem related to sustainable technology, including climate change, sustainable energy, biodiversity, and natural resources. The project provides an overview of open-source initiatives in these areas, aiming to facilitate collaboration, innovation, and knowledge sharing. By categorizing relevant projects under AI/ML, DevTools, and Data, it offers a valuable resource for developers, researchers, and sustainability professionals.
+The **protontypes/open‑sustainable‑technology** project curates a structured directory and analytical overview of open‑source initiatives tackling climate change, sustainable energy, biodiversity, and natural resource management. By aggregating repositories, datasets, and tools across AI/ML, DevOps, and data‑science domains, it provides a searchable knowledge base that helps developers, researchers, and policymakers identify, evaluate, and contribute to open‑source solutions for a greener future.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/protontypes/open-sustainable-technology) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/protontypes/open-sustainable-technology) · [← Back to AI/ML](./README.md)</sub>

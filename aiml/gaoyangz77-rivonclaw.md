@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
-RivonClaw is an open-source project that enables users to turn long-lived AI agents into personal digital butlers. This easy-mode runtime and UI layer, built on top of OpenClaw, allows users to interact with the agent through natural-language rules and feedback, facilitating adaptation and improvement over time. By simplifying the configuration process, RivonClaw empowers users to evolve their AI assistants into personalized, intelligent companions.
+RivonClaw is an easy‑mode runtime and UI layer built atop OpenClaw that transforms long‑living AI agents into personal digital butlers. Rather than requiring users to hand‑craft skills or workflows, it lets them define natural‑language rules and provide feedback, enabling a single agent to continuously evolve, adapt, and better understand its owner. The project combines AI/ML, frontend, and design components to deliver an intuitive, conversational interface for managing autonomous agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/gaoyangz77/rivonclaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/gaoyangz77/rivonclaw) · [← Back to AI/ML](./README.md)</sub>

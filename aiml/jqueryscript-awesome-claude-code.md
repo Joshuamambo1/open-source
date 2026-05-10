@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 340 |
-| 🍴 **Forks** | 241 |
+| ⭐ **Stars** | 353 |
+| 🍴 **Forks** | 252 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome-list` `awesome-lists` `claude` `claude-code` `claude-code-plugin` `claude-skills` `cli` `code-generation` `coding-agents` `vibe-coding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Claude Code, a powerful AI model from Anthropic, demands a curated set of tools to maximize its potential. The awesome-claude-code repository gathers exceptional resources, IDE integrations, and frameworks tailored for developers working with Claude Code, streamlining their workflow and efficiency. This collection is a valuable starting point for anyone looking to unlock Claude Code's capabilities.
+The **awesome-claude-code** repository is a curated collection of tools, IDE extensions, frameworks, and related resources designed to help developers work efficiently with Anthropic’s Claude Code model. It organizes the best open‑source projects, libraries, and utilities across AI/ML and DevTools, making it easy to discover integrations, debugging aids, and productivity enhancements for Claude‑based development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/jqueryscript/awesome-claude-code) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/jqueryscript/awesome-claude-code) · [← Back to AI/ML](./README.md)</sub>

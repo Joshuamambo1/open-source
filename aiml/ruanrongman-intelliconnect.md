@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 117 |
-| 🍴 **Forks** | 30 |
+| ⭐ **Stars** | 118 |
+| 🍴 **Forks** | 29 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `iot-core` `iot-platform` `mcp-client` `mcp-server` `xiaozhi-ai` `xiaozhi-mcp` `xiaozhi-server` `xioazhi-esp32`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the IntelliConnect project:
-
-IntelliConnect is an open-source, AI-powered IoT platform core that provides a robust backend service for the xiaozhi-esp32 project. This project enables developers to build and integrate AI-driven IoT applications with ease. As a powerful AI agent IoT platform core, IntelliConnect facilitates the creation of scalable and intelligent IoT solutions.
+IntelliConnect is an open‑source backend platform that powers the xiaozhi‑ESP32 AI agent, delivering a robust, cloud‑ready core for IoT devices. It combines AI/ML capabilities with scalable backend services and developer tools, enabling rapid integration of intelligent agents into embedded hardware. The project is designed for easy deployment, extensibility, and community contribution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/ruanrongman/IntelliConnect) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ruanrongman/IntelliConnect) · [← Back to AI/ML](./README.md)</sub>

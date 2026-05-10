@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 457 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`github` `hosts` `hosts-file`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, ineo6/hosts, provides the latest GitHub hosts file, addressing an issue where GitHub images fail to load. By updating the hosts file, users can accelerate their GitHub web browsing experience. This project essentially offers a solution to improve GitHub page loading times.
+The **ineo6/hosts** repository provides an up‑to‑date hosts file that blocks unwanted domains and redirects GitHub’s image‑hosting services to faster, reliable endpoints. By applying this hosts list, users can resolve issues with GitHub images not loading and enjoy quicker, more stable access to GitHub web pages. It’s a lightweight, plug‑and‑play solution for improving GitHub browsing performance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/ineo6/hosts) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ineo6/hosts) · [← Back to Misc](./README.md)</sub>

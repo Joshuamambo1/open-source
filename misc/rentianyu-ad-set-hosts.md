@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 418 |
+| ⭐ **Stars** | 419 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Ad-set-hosts project is an open-source collection of ad-blocking hosts that aggregates and deduplicates multiple sources into a single, convenient repository. This project aims to provide a comprehensive and up-to-date list of hosts that can be used to block advertisements across various platforms. By combining and cleaning up these hosts, Ad-set-hosts offers a streamlined solution for users seeking to minimize online advertisements.
+**Ad‑set‑hosts** is an open‑source utility that aggregates a variety of ad‑blocking hosts files into a single list while removing duplicate entries. By consolidating these sources, it provides a clean, deduplicated hosts file that can be used to block advertisements, trackers, and other unwanted domains system‑wide. The project is categorized under Miscellaneous.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/rentianyu/Ad-set-hosts) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/rentianyu/Ad-set-hosts) · [← Back to Misc](./README.md)</sub>

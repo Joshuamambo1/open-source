@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 398 |
-| 🍴 **Forks** | 69 |
+| ⭐ **Stars** | 401 |
+| 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `copilot` `mcp` `mcp-server` `monday`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-The mondaycom/mcp project is an open-source initiative aimed at empowering AI agents to make informed decisions by providing them with secure access to structured data, tools for taking action, and contextual understanding. This project focuses on enhancing the reliability and capabilities of AI agents, paving the way for more sophisticated automation and decision-making. By doing so, it enables organizations to unlock the full potential of artificial intelligence.
+mondaycom / mcp is an open‑source framework that equips AI agents with secure, structured data access and the tooling they need to execute actions reliably. By integrating robust authentication, data schemas, and contextual awareness, the platform enables autonomous agents to make informed, safe decisions across backend and data‑intensive workflows. It’s aimed at developers building AI‑driven applications that require trusted access to internal resources.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/mondaycom/mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/mondaycom/mcp) · [← Back to AI/ML](./README.md)</sub>

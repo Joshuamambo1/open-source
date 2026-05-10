@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 182 |
-| 🍴 **Forks** | 18 |
+| ⭐ **Stars** | 185 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-coding` `claude` `claude-ai` `claude-code` `claude-pl` `codex` `context` `gemini` `golang` `gpt-5` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the ory/lumen project:
-
-Ory/Lumen is an open-source, local semantic search solution that significantly reduces the use of AI/ML-based services, such as Claude Code and Codex, by 50%. This enterprise-ready tool is designed to work with both small and large codebases, including monorepos, and is fully compliant with Ollama and SQLite-vec. By leveraging local search capabilities, Lumen helps developers streamline their workflow and improve performance.
+Ory Lumen is an open‑source, enterprise‑ready tool that cuts token usage and wall‑clock time for Claude, Codex, and OpenCode by roughly 50% through local, semantic code search powered by Ollama and SQLite‑vec. It scales from small projects to massive monorepos, offering fast, privacy‑preserving code retrieval without relying on external APIs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ory/lumen) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ory/lumen) · [← Back to AI/ML](./README.md)</sub>

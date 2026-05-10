@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 287 |
+| 🍴 **Forks** | 289 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `claude-code-skill` `codex` `codex-cli` `codex-skill` `game-development` `godot` `godot4` `skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Godogen is an open-source project that utilizes Claude Code and Codex skills to automate the creation of complete Godot projects directly from a game description. This tool streamlines the game development process by generating a fully functional project based on the input description, reducing development time and effort. With Godogen, developers can focus on refining and enhancing their game without the burden of manual project setup.
+The **htdt/godogen** project is an open‑source toolkit that automates the creation of games for the Godot and Bevy engines using AI code generators such as Claude and Codex. By integrating these large‑language‑model assistants, the tool can generate, compile, and iterate on game logic, assets, and engine‑specific scaffolding with minimal human intervention, streamlining rapid prototyping and development workflows. It is positioned as a DevTools solution for developers who want AI‑driven, cross‑engine game production.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/htdt/godogen) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/htdt/godogen) · [← Back to DevTools](./README.md)</sub>

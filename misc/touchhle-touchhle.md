@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 227 |
+| 🍴 **Forks** | 233 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-TouchHLE is an open-source, high-level emulator designed to run iPhone OS applications. This project provides a platform for users to test and develop iOS apps outside of the traditional Apple ecosystem. With its open-source nature, TouchHLE allows developers to submit patches and contribute to the emulator's growth.
+TouchHLE is an open‑source, high‑level emulator that runs iPhone OS applications on non‑Apple platforms by reimplementing the original APIs in a portable way. The repository hosts the project's source code, issue tracker, release assets, and continuous‑integration pipeline, and contributions are managed through Gerrit at review.gerrithub.io. It serves as a community hub for developing, testing, and improving the emulator.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/touchHLE/touchHLE) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/touchHLE/touchHLE) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 836 |
-| 🍴 **Forks** | 89 |
+| ⭐ **Stars** | 838 |
+| 🍴 **Forks** | 90 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`annotations` `base64` `chrono` `crates` `hacktoberfest` `hex` `json` `macros` `rust` `serde`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The serde_with crate offers a set of custom de/serialization helpers that can be used in conjunction with Serde's `with`-annotation and `serde_as`-annotation, enhancing the serialization and deserialization process. These helpers provide a more flexible and efficient way to handle complex data formats. By leveraging serde_with, developers can write more readable and maintainable serialization code.
+`serde_with` is a Rust crate that supplies a collection of reusable helper types and functions for customizing Serde serialization and deserialization. It extends the functionality of Serde’s `#[serde(with = "...")]` attribute and the newer `#[serde_as]` macro, letting developers handle edge‑cases such as optional fields, custom date formats, base64 encoding, and more with concise annotations. The library is lightweight, well‑documented, and intended for any project that needs fine‑grained control over how data is (de)serialized.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/jonasbb/serde_with) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/jonasbb/serde_with) · [← Back to Misc](./README.md)</sub>

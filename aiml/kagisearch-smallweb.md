@@ -1,6 +1,6 @@
 # kagisearch/smallweb
 
-[![Stars](https://img.shields.io/github/stars/kagisearch/smallweb?style=flat-square&color=yellow)](https://github.com/kagisearch/smallweb/stargazers) [![Forks](https://img.shields.io/github/forks/kagisearch/smallweb?style=flat-square&color=blue)](https://github.com/kagisearch/smallweb/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kagisearch/smallweb?style=flat-square&color=yellow)](https://github.com/kagisearch/smallweb/stargazers) [![Forks](https://img.shields.io/github/forks/kagisearch/smallweb?style=flat-square&color=blue)](https://github.com/kagisearch/smallweb/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Kagi Small Web
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 647 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ kagisearch/smallweb：kagisearch/smallweb helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 68/100 |
 | stars | 68/100 |
 | forks | 70/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

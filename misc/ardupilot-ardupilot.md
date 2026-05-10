@@ -1,6 +1,6 @@
 # ArduPilot/ardupilot
 
-[![Stars](https://img.shields.io/github/stars/ArduPilot/ardupilot?style=flat-square&color=yellow)](https://github.com/ArduPilot/ardupilot/stargazers) [![Forks](https://img.shields.io/github/forks/ArduPilot/ardupilot?style=flat-square&color=blue)](https://github.com/ArduPilot/ardupilot/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArduPilot/ardupilot?style=flat-square&color=yellow)](https://github.com/ArduPilot/ardupilot/stargazers) [![Forks](https://img.shields.io/github/forks/ArduPilot/ardupilot?style=flat-square&color=blue)](https://github.com/ArduPilot/ardupilot/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > ArduPlane, ArduCopter, ArduRover, ArduSub source
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15k |
 | 🍴 **Forks** | 20.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ ArduPilot is an open-source autopilot system for various vehicles, including fix
 
 ### 中文
 
-ArduPilot/ardupilot：ArduPilot/ardupilot may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ArduPilot/ardupilot：ArduPilot/ardupilot may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ArduPilot/ardupilot：ArduPilot/ardupilot may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ArduPilot/ardupilot：ArduPilot/ardupilot may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 96/100 |
+| quality | 91/100 |
 | integration | 30/100 |
-| production | 80/100 |
-| outlook | 86/100 |
+| production | 74/100 |
+| outlook | 79/100 |
 | adoption | 92/100 |
 | stars | 89/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Prompthon-IO/agent-systems-handbook
 
-[![Stars](https://img.shields.io/github/stars/Prompthon-IO/agent-systems-handbook?style=flat-square&color=yellow)](https://github.com/Prompthon-IO/agent-systems-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/Prompthon-IO/agent-systems-handbook?style=flat-square&color=blue)](https://github.com/Prompthon-IO/agent-systems-handbook/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Prompthon-IO/agent-systems-handbook?style=flat-square&color=yellow)](https://github.com/Prompthon-IO/agent-systems-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/Prompthon-IO/agent-systems-handbook?style=flat-square&color=blue)](https://github.com/Prompthon-IO/agent-systems-handbook/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent memory, evaluation, observability, and multi-agent architecture. Current trend focus: multimodal file search, emerging agent runtimes, and production AI workflow patterns.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Prompthon-IO/agent-systems-handbook：Prompthon-IO/agent-systems-handbook helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 86/100 |
+| production | 68/100 |
+| outlook | 79/100 |
 | adoption | 44/100 |
 | stars | 47/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # milady-ai/milady
 
-[![Stars](https://img.shields.io/github/stars/milady-ai/milady?style=flat-square&color=yellow)](https://github.com/milady-ai/milady/stargazers) [![Forks](https://img.shields.io/github/forks/milady-ai/milady?style=flat-square&color=blue)](https://github.com/milady-ai/milady/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/milady-ai/milady?style=flat-square&color=yellow)](https://github.com/milady-ai/milady/stargazers) [![Forks](https://img.shields.io/github/forks/milady-ai/milady?style=flat-square&color=blue)](https://github.com/milady-ai/milady/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > terminally online
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 395 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Milady is an open‑source orchestration framework that leverages AI/ML models t
 
 ### 中文
 
-milady-ai/milady：milady-ai/milady helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+milady-ai/milady：milady-ai/milady helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ milady-ai/milady：milady-ai/milady helps turn isolated prompts and tools into r
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ milady-ai/milady：milady-ai/milady helps turn isolated prompts and tools into r
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 53/100 |
 | stars | 55/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # delta-io/delta
 
-[![Stars](https://img.shields.io/github/stars/delta-io/delta?style=flat-square&color=yellow)](https://github.com/delta-io/delta/stargazers) [![Forks](https://img.shields.io/github/forks/delta-io/delta?style=flat-square&color=blue)](https://github.com/delta-io/delta/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/delta-io/delta?style=flat-square&color=yellow)](https://github.com/delta-io/delta/stargazers) [![Forks](https://img.shields.io/github/forks/delta-io/delta?style=flat-square&color=blue)](https://github.com/delta-io/delta/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Delta is an open-source storage framework that empowers the development of a Lak
 
 ### 中文
 
-delta-io/delta：delta-io/delta helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+delta-io/delta：delta-io/delta helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ delta-io/delta：delta-io/delta helps add AI capability without starting from a 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ delta-io/delta：delta-io/delta helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 90/100 |
+| production | 72/100 |
+| outlook | 83/100 |
 | adoption | 84/100 |
 | stars | 84/100 |
 | forks | 83/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

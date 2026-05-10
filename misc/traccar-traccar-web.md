@@ -1,6 +1,6 @@
 # traccar/traccar-web
 
-[![Stars](https://img.shields.io/github/stars/traccar/traccar-web?style=flat-square&color=yellow)](https://github.com/traccar/traccar-web/stargazers) [![Forks](https://img.shields.io/github/forks/traccar/traccar-web?style=flat-square&color=blue)](https://github.com/traccar/traccar-web/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/traccar/traccar-web?style=flat-square&color=yellow)](https://github.com/traccar/traccar-web/stargazers) [![Forks](https://img.shields.io/github/forks/traccar/traccar-web?style=flat-square&color=blue)](https://github.com/traccar/traccar-web/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Traccar GPS Tracking System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ traccar/traccar-web：traccar/traccar-web may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 69/100 |
 | stars | 65/100 |
 | forks | 79/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

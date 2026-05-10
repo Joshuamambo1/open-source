@@ -1,6 +1,6 @@
 # electron/update.electronjs.org
 
-[![Stars](https://img.shields.io/github/stars/electron/update.electronjs.org?style=flat-square&color=yellow)](https://github.com/electron/update.electronjs.org/stargazers) [![Forks](https://img.shields.io/github/forks/electron/update.electronjs.org?style=flat-square&color=blue)](https://github.com/electron/update.electronjs.org/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/electron/update.electronjs.org?style=flat-square&color=yellow)](https://github.com/electron/update.electronjs.org/stargazers) [![Forks](https://img.shields.io/github/forks/electron/update.electronjs.org?style=flat-square&color=blue)](https://github.com/electron/update.electronjs.org/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 📡 A free service that makes it easy for open-source Electron apps to update themselves.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 691 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ electron/update.electronjs.org：electron/update.electronjs.org may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 68/100 |
+| production | 65/100 |
+| outlook | 61/100 |
 | adoption | 57/100 |
 | stars | 60/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

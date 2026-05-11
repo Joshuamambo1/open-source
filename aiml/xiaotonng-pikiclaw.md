@@ -1,6 +1,6 @@
 # xiaotonng/pikiclaw
 
-[![Stars](https://img.shields.io/github/stars/xiaotonng/pikiclaw?style=flat-square&color=yellow)](https://github.com/xiaotonng/pikiclaw/stargazers) [![Forks](https://img.shields.io/github/forks/xiaotonng/pikiclaw?style=flat-square&color=blue)](https://github.com/xiaotonng/pikiclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xiaotonng/pikiclaw?style=flat-square&color=yellow)](https://github.com/xiaotonng/pikiclaw/stargazers) [![Forks](https://img.shields.io/github/forks/xiaotonng/pikiclaw?style=flat-square&color=blue)](https://github.com/xiaotonng/pikiclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Put the world's smartest AI agents & plugins in your pocket
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ xiaotonng/pikiclaw is an open‑source framework that brings cutting‑edge AI a
 
 ### 中文
 
-xiaotonng/pikiclaw：xiaotonng/pikiclaw helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+xiaotonng/pikiclaw：xiaotonng/pikiclaw helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ xiaotonng/pikiclaw：xiaotonng/pikiclaw helps add AI capability without starting
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ xiaotonng/pikiclaw：xiaotonng/pikiclaw helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 73/100 |
+| outlook | 74/100 |
 | adoption | 45/100 |
 | stars | 49/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

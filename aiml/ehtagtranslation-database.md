@@ -1,6 +1,6 @@
 # EhTagTranslation/Database
 
-[![Stars](https://img.shields.io/github/stars/EhTagTranslation/Database?style=flat-square&color=yellow)](https://github.com/EhTagTranslation/Database/stargazers) [![Forks](https://img.shields.io/github/forks/EhTagTranslation/Database?style=flat-square&color=blue)](https://github.com/EhTagTranslation/Database/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EhTagTranslation/Database?style=flat-square&color=yellow)](https://github.com/EhTagTranslation/Database/stargazers) [![Forks](https://img.shields.io/github/forks/EhTagTranslation/Database?style=flat-square&color=blue)](https://github.com/EhTagTranslation/Database/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > EhTagTranslation 项目的翻译数据。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ EhTagTranslation/Database：EhTagTranslation/Database helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 72/100 |
+| production | 65/100 |
+| outlook | 65/100 |
 | adoption | 60/100 |
 | stars | 64/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # thesongzhu/Friday
 
-[![Stars](https://img.shields.io/github/stars/thesongzhu/Friday?style=flat-square&color=yellow)](https://github.com/thesongzhu/Friday/stargazers) [![Forks](https://img.shields.io/github/forks/thesongzhu/Friday?style=flat-square&color=blue)](https://github.com/thesongzhu/Friday/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thesongzhu/Friday?style=flat-square&color=yellow)](https://github.com/thesongzhu/Friday/stargazers) [![Forks](https://img.shields.io/github/forks/thesongzhu/Friday?style=flat-square&color=blue)](https://github.com/thesongzhu/Friday/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > AGI-Like Agent that grow with you
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 247 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **Friday** project (github.com/thesongzhu/Friday) is an open‑source, AGI�
 
 ### 中文
 
-thesongzhu/Friday：thesongzhu/Friday helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+thesongzhu/Friday：thesongzhu/Friday helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ thesongzhu/Friday：thesongzhu/Friday helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ thesongzhu/Friday：thesongzhu/Friday helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 87/100 |
+| production | 68/100 |
+| outlook | 80/100 |
 | adoption | 47/100 |
 | stars | 51/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

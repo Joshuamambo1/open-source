@@ -1,6 +1,6 @@
 # EDCD/EDDI
 
-[![Stars](https://img.shields.io/github/stars/EDCD/EDDI?style=flat-square&color=yellow)](https://github.com/EDCD/EDDI/stargazers) [![Forks](https://img.shields.io/github/forks/EDCD/EDDI?style=flat-square&color=blue)](https://github.com/EDCD/EDDI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EDCD/EDDI?style=flat-square&color=yellow)](https://github.com/EDCD/EDDI/stargazers) [![Forks](https://img.shields.io/github/forks/EDCD/EDDI?style=flat-square&color=blue)](https://github.com/EDCD/EDDI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Companion application for Elite Dangerous
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 514 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ EDDI — это открытая сервер‑сторона‑прилож�
 
 ### 中文
 
-EDCD/EDDI：EDCD/EDDI helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+EDCD/EDDI：EDCD/EDDI helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ EDCD/EDDI：EDCD/EDDI helps teams reuse service infrastructure instead of rebuil
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ EDCD/EDDI：EDCD/EDDI helps teams reuse service infrastructure instead of rebuil
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -2,7 +2,7 @@
 
 > 
 
-**18 projects** in this category.
+**19 projects** in this category.
 
 ## Projects
 
@@ -24,8 +24,9 @@
 | 14 | [alpyxn/aeterna](./alpyxn-aeterna.md) | ⭐ 247 | JavaScript | 63/100 |
 | 15 | [ThingsPanel/thingspanel-backend-community](./thingspanel-thingspanel-backend-community.md) | ⭐ 548 | Go | 62/100 |
 | 16 | [fronalabs/frona](./fronalabs-frona.md) | ⭐ 108 | Rust | 61/100 |
-| 17 | [Big-Sh0t114/NachoBot](./big-sh0t114-nachobot.md) | ⭐ 102 | Python | 58/100 |
-| 18 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
+| 17 | [PhotonVision/photonvision](./photonvision-photonvision.md) | ⭐ 411 | Java | 58/100 |
+| 18 | [Big-Sh0t114/NachoBot](./big-sh0t114-nachobot.md) | ⭐ 102 | Python | 58/100 |
+| 19 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
 
 ---
 

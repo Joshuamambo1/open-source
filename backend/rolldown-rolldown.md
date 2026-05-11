@@ -1,6 +1,6 @@
 # rolldown/rolldown
 
-[![Stars](https://img.shields.io/github/stars/rolldown/rolldown?style=flat-square&color=yellow)](https://github.com/rolldown/rolldown/stargazers) [![Forks](https://img.shields.io/github/forks/rolldown/rolldown?style=flat-square&color=blue)](https://github.com/rolldown/rolldown/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rolldown/rolldown?style=flat-square&color=yellow)](https://github.com/rolldown/rolldown/stargazers) [![Forks](https://img.shields.io/github/forks/rolldown/rolldown?style=flat-square&color=blue)](https://github.com/rolldown/rolldown/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.4k |
 | 🍴 **Forks** | 767 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ rolldown — это высокопроизводительный bundler, на
 
 ### 中文
 
-rolldown/rolldown：rolldown/rolldown helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rolldown/rolldown：rolldown/rolldown helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rolldown/rolldown：rolldown/rolldown helps teams reuse service infrastructure i
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ rolldown/rolldown：rolldown/rolldown helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 81/100 |
+| production | 73/100 |
+| outlook | 74/100 |
 | adoption | 83/100 |
 | stars | 88/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

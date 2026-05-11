@@ -1,6 +1,6 @@
 # saigontechnology/AgentCrew
 
-[![Stars](https://img.shields.io/github/stars/saigontechnology/AgentCrew?style=flat-square&color=yellow)](https://github.com/saigontechnology/AgentCrew/stargazers) [![Forks](https://img.shields.io/github/forks/saigontechnology/AgentCrew?style=flat-square&color=blue)](https://github.com/saigontechnology/AgentCrew/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saigontechnology/AgentCrew?style=flat-square&color=yellow)](https://github.com/saigontechnology/AgentCrew/stargazers) [![Forks](https://img.shields.io/github/forks/saigontechnology/AgentCrew?style=flat-square&color=blue)](https://github.com/saigontechnology/AgentCrew/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Chat application with multi-agents system supports multi-models and MCP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 191 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AgentCrew is an open‑source chat platform that orchestrates multiple AI agents
 
 ### 中文
 
-saigontechnology/AgentCrew：saigontechnology/AgentCrew helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+saigontechnology/AgentCrew：saigontechnology/AgentCrew helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ saigontechnology/AgentCrew：saigontechnology/AgentCrew helps turn isolated prom
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ saigontechnology/AgentCrew：saigontechnology/AgentCrew helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 94/100 |
-| production | 82/100 |
-| outlook | 86/100 |
+| production | 75/100 |
+| outlook | 79/100 |
 | adoption | 46/100 |
 | stars | 49/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

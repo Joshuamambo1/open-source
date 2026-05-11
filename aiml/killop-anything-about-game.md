@@ -1,6 +1,6 @@
 # killop/anything_about_game
 
-[![Stars](https://img.shields.io/github/stars/killop/anything_about_game?style=flat-square&color=yellow)](https://github.com/killop/anything_about_game/stargazers) [![Forks](https://img.shields.io/github/forks/killop/anything_about_game?style=flat-square&color=blue)](https://github.com/killop/anything_about_game/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/killop/anything_about_game?style=flat-square&color=yellow)](https://github.com/killop/anything_about_game/stargazers) [![Forks](https://img.shields.io/github/forks/killop/anything_about_game?style=flat-square&color=blue)](https://github.com/killop/anything_about_game/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A wonderful list of Game Development resources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 499 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ The *killop/anything_about_game* repository is a curated collection of resources
 
 ### 中文
 
-killop/anything_about_game：killop/anything_about_game helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+killop/anything_about_game：killop/anything_about_game helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ killop/anything_about_game：killop/anything_about_game helps add AI capability 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ killop/anything_about_game：killop/anything_about_game helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 88/100 |
+| production | 71/100 |
+| outlook | 81/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

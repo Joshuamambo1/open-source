@@ -1,6 +1,6 @@
 # xinnan-tech/xiaozhi-esp32-server
 
-[![Stars](https://img.shields.io/github/stars/xinnan-tech/xiaozhi-esp32-server?style=flat-square&color=yellow)](https://github.com/xinnan-tech/xiaozhi-esp32-server/stargazers) [![Forks](https://img.shields.io/github/forks/xinnan-tech/xiaozhi-esp32-server?style=flat-square&color=blue)](https://github.com/xinnan-tech/xiaozhi-esp32-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xinnan-tech/xiaozhi-esp32-server?style=flat-square&color=yellow)](https://github.com/xinnan-tech/xiaozhi-esp32-server/stargazers) [![Forks](https://img.shields.io/github/forks/xinnan-tech/xiaozhi-esp32-server?style=flat-square&color=blue)](https://github.com/xinnan-tech/xiaozhi-esp32-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.5k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ xian‑nan‑tech’s xiaozhi‑esp32‑server is an open‑source backend tha
 
 ### 中文
 
-xinnan-tech/xiaozhi-esp32-server：xinnan-tech/xiaozhi-esp32-server helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+xinnan-tech/xiaozhi-esp32-server：xinnan-tech/xiaozhi-esp32-server helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ xinnan-tech/xiaozhi-esp32-server：xinnan-tech/xiaozhi-esp32-server helps add AI
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ xinnan-tech/xiaozhi-esp32-server：xinnan-tech/xiaozhi-esp32-server helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 92/100 |
+| quality | 87/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 87/100 |
+| production | 74/100 |
+| outlook | 80/100 |
 | adoption | 85/100 |
 | stars | 85/100 |
 | forks | 88/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

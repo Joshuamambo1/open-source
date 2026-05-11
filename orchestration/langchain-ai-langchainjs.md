@@ -1,6 +1,6 @@
 # langchain-ai/langchainjs
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchainjs/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchainjs?style=flat-square&color=blue)](https://github.com/langchain-ai/langchainjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchainjs/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchainjs?style=flat-square&color=blue)](https://github.com/langchain-ai/langchainjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The agent engineering platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.6k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ LangChainJS — это открытая платформа для постро
 
 ### 中文
 
-langchain-ai/langchainjs：langchain-ai/langchainjs helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+langchain-ai/langchainjs：langchain-ai/langchainjs helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ langchain-ai/langchainjs：langchain-ai/langchainjs helps turn isolated prompts 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ langchain-ai/langchainjs：langchain-ai/langchainjs helps turn isolated prompts 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 79/100 |
+| production | 70/100 |
+| outlook | 72/100 |
 | adoption | 90/100 |
 | stars | 90/100 |
 | forks | 87/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

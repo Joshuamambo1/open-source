@@ -1,6 +1,6 @@
 # open-spaced-repetition/fsrs4anki-helper
 
-[![Stars](https://img.shields.io/github/stars/open-spaced-repetition/fsrs4anki-helper?style=flat-square&color=yellow)](https://github.com/open-spaced-repetition/fsrs4anki-helper/stargazers) [![Forks](https://img.shields.io/github/forks/open-spaced-repetition/fsrs4anki-helper?style=flat-square&color=blue)](https://github.com/open-spaced-repetition/fsrs4anki-helper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-spaced-repetition/fsrs4anki-helper?style=flat-square&color=yellow)](https://github.com/open-spaced-repetition/fsrs4anki-helper/stargazers) [![Forks](https://img.shields.io/github/forks/open-spaced-repetition/fsrs4anki-helper?style=flat-square&color=blue)](https://github.com/open-spaced-repetition/fsrs4anki-helper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An Anki add-on that supports Postpone & Advance & Load Balance & Easy Days & Disperse Siblings & Flatten
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ open-spaced-repetition/fsrs4anki-helper is an open‑source Anki add‑on that e
 
 ### 中文
 
-open-spaced-repetition/fsrs4anki-helper：open-spaced-repetition/fsrs4anki-helper may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+open-spaced-repetition/fsrs4anki-helper：open-spaced-repetition/fsrs4anki-helper may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ open-spaced-repetition/fsrs4anki-helper：open-spaced-repetition/fsrs4anki-helpe
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ open-spaced-repetition/fsrs4anki-helper：open-spaced-repetition/fsrs4anki-helpe
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 73/100 |
+| production | 70/100 |
+| outlook | 66/100 |
 | adoption | 49/100 |
 | stars | 53/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

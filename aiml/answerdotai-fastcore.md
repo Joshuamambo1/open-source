@@ -1,6 +1,6 @@
 # AnswerDotAI/fastcore
 
-[![Stars](https://img.shields.io/github/stars/AnswerDotAI/fastcore?style=flat-square&color=yellow)](https://github.com/AnswerDotAI/fastcore/stargazers) [![Forks](https://img.shields.io/github/forks/AnswerDotAI/fastcore?style=flat-square&color=blue)](https://github.com/AnswerDotAI/fastcore/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnswerDotAI/fastcore?style=flat-square&color=yellow)](https://github.com/AnswerDotAI/fastcore/stargazers) [![Forks](https://img.shields.io/github/forks/AnswerDotAI/fastcore?style=flat-square&color=blue)](https://github.com/AnswerDotAI/fastcore/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Python supercharged for the fastai library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 295 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AnswerDotAI/fastcore — это лёгкий набор утилит для Py
 
 ### 中文
 
-AnswerDotAI/fastcore：AnswerDotAI/fastcore helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+AnswerDotAI/fastcore：AnswerDotAI/fastcore helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AnswerDotAI/fastcore：AnswerDotAI/fastcore helps add AI capability without star
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ AnswerDotAI/fastcore：AnswerDotAI/fastcore helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 71/100 |
+| outlook | 76/100 |
 | adoption | 64/100 |
 | stars | 65/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

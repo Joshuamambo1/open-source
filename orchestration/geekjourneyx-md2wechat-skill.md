@@ -1,6 +1,6 @@
 # geekjourneyx/md2wechat-skill
 
-[![Stars](https://img.shields.io/github/stars/geekjourneyx/md2wechat-skill?style=flat-square&color=yellow)](https://github.com/geekjourneyx/md2wechat-skill/stargazers) [![Forks](https://img.shields.io/github/forks/geekjourneyx/md2wechat-skill?style=flat-square&color=blue)](https://github.com/geekjourneyx/md2wechat-skill/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/geekjourneyx/md2wechat-skill?style=flat-square&color=yellow)](https://github.com/geekjourneyx/md2wechat-skill/stargazers) [![Forks](https://img.shields.io/github/forks/geekjourneyx/md2wechat-skill?style=flat-square&color=blue)](https://github.com/geekjourneyx/md2wechat-skill/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > 用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **geekjourneyx/md2wechat-skill** project provides a command‑line tool that
 
 ### 中文
 
-geekjourneyx/md2wechat-skill：geekjourneyx/md2wechat-skill helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+geekjourneyx/md2wechat-skill：geekjourneyx/md2wechat-skill helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ geekjourneyx/md2wechat-skill：geekjourneyx/md2wechat-skill helps turn isolated 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ geekjourneyx/md2wechat-skill：geekjourneyx/md2wechat-skill helps turn isolated 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 81/100 |
-| outlook | 90/100 |
+| production | 74/100 |
+| outlook | 83/100 |
 | adoption | 68/100 |
 | stars | 70/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

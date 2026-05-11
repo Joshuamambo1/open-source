@@ -10,9 +10,9 @@
 |---|---|---|---|---|
 | 1 | [sahibzada-allahyar/YC-Killer](./sahibzada-allahyar-yc-killer.md) | ⭐ 2.6k | TypeScript | 87/100 |
 | 2 | [YoungCan-Wang/WyckoffTradingAgent](./youngcan-wang-wyckofftradingagent.md) | ⭐ 392 | Python | 84/100 |
-| 3 | [HKUDS/Vibe-Trading](./hkuds-vibe-trading.md) | ⭐ 5.6k | Python | 82/100 |
-| 4 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 110 | Python | 81/100 |
-| 5 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 27 | Swift | 81/100 |
+| 3 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 110 | Python | 81/100 |
+| 4 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 27 | Swift | 81/100 |
+| 5 | [HKUDS/Vibe-Trading](./hkuds-vibe-trading.md) | ⭐ 5.6k | Python | 79/100 |
 | 6 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 26k | HTML | 79/100 |
 | 7 | [TauricResearch/TradingAgents](./tauricresearch-tradingagents.md) | ⭐ 72.7k | Python | 79/100 |
 | 8 | [intuitem/ciso-assistant-community](./intuitem-ciso-assistant-community.md) | ⭐ 4k | Python | 79/100 |

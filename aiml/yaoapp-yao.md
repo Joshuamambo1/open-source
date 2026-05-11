@@ -1,6 +1,6 @@
 # YaoApp/yao
 
-[![Stars](https://img.shields.io/github/stars/YaoApp/yao?style=flat-square&color=yellow)](https://github.com/YaoApp/yao/stargazers) [![Forks](https://img.shields.io/github/forks/YaoApp/yao?style=flat-square&color=blue)](https://github.com/YaoApp/yao/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YaoApp/yao?style=flat-square&color=yellow)](https://github.com/YaoApp/yao/stargazers) [![Forks](https://img.shields.io/github/forks/YaoApp/yao?style=flat-square&color=blue)](https://github.com/YaoApp/yao/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ Build AI agents and web apps — with a single binary.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.5k |
 | 🍴 **Forks** | 683 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ YaoApp/yao：YaoApp/yao helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 78/100 |
-| production | 85/100 |
-| outlook | 95/100 |
+| production | 78/100 |
+| outlook | 88/100 |
 | adoption | 79/100 |
 | stars | 83/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

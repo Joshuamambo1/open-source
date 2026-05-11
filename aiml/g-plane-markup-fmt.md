@@ -1,6 +1,6 @@
 # g-plane/markup_fmt
 
-[![Stars](https://img.shields.io/github/stars/g-plane/markup_fmt?style=flat-square&color=yellow)](https://github.com/g-plane/markup_fmt/stargazers) [![Forks](https://img.shields.io/github/forks/g-plane/markup_fmt?style=flat-square&color=blue)](https://github.com/g-plane/markup_fmt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/g-plane/markup_fmt?style=flat-square&color=yellow)](https://github.com/g-plane/markup_fmt/stargazers) [![Forks](https://img.shields.io/github/forks/g-plane/markup_fmt?style=flat-square&color=blue)](https://github.com/g-plane/markup_fmt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Configurable HTML, Vue, Svelte, Astro, Angular, Jinja, Twig, Nunjucks, Vento, Mustache, Handlebars and XML formatter with dprint integration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 171 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ g-plane/markup_fmt：g-plane/markup_fmt helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 44/100 |
 | stars | 48/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

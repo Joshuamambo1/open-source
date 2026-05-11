@@ -1,6 +1,6 @@
 # risingwavelabs/risingwave
 
-[![Stars](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=flat-square&color=yellow)](https://github.com/risingwavelabs/risingwave/stargazers) [![Forks](https://img.shields.io/github/forks/risingwavelabs/risingwave?style=flat-square&color=blue)](https://github.com/risingwavelabs/risingwave/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=flat-square&color=yellow)](https://github.com/risingwavelabs/risingwave/stargazers) [![Forks](https://img.shields.io/github/forks/risingwavelabs/risingwave?style=flat-square&color=blue)](https://github.com/risingwavelabs/risingwave/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 765 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ RisingWave — это масштабируемая платформа пото
 
 ### 中文
 
-risingwavelabs/risingwave：risingwavelabs/risingwave helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+risingwavelabs/risingwave：risingwavelabs/risingwave helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ risingwavelabs/risingwave：risingwavelabs/risingwave helps add AI capability wi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ risingwavelabs/risingwave：risingwavelabs/risingwave helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 87/100 |
+| production | 72/100 |
+| outlook | 80/100 |
 | adoption | 81/100 |
 | stars | 84/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

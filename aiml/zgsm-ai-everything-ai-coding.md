@@ -1,6 +1,6 @@
 # zgsm-ai/everything-ai-coding
 
-[![Stars](https://img.shields.io/github/stars/zgsm-ai/everything-ai-coding?style=flat-square&color=yellow)](https://github.com/zgsm-ai/everything-ai-coding/stargazers) [![Forks](https://img.shields.io/github/forks/zgsm-ai/everything-ai-coding?style=flat-square&color=blue)](https://github.com/zgsm-ai/everything-ai-coding/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zgsm-ai/everything-ai-coding?style=flat-square&color=yellow)](https://github.com/zgsm-ai/everything-ai-coding/stargazers) [![Forks](https://img.shields.io/github/forks/zgsm-ai/everything-ai-coding?style=flat-square&color=blue)](https://github.com/zgsm-ai/everything-ai-coding/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 聚合精选编程 AI 扩展资源：MCP Servers、Skills、Rules、Prompts，周更索引 + 一键安装。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A curated collection of programming‑focused AI extensions, including MCP serve
 
 ### 中文
 
-zgsm-ai/everything-ai-coding：zgsm-ai/everything-ai-coding helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+zgsm-ai/everything-ai-coding：zgsm-ai/everything-ai-coding helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ zgsm-ai/everything-ai-coding：zgsm-ai/everything-ai-coding helps add AI capabil
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ zgsm-ai/everything-ai-coding：zgsm-ai/everything-ai-coding helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 78/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 71/100 |
+| outlook | 74/100 |
 | adoption | 36/100 |
 | stars | 45/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

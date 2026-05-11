@@ -1,6 +1,6 @@
 # datachain-ai/datachain
 
-[![Stars](https://img.shields.io/github/stars/datachain-ai/datachain?style=flat-square&color=yellow)](https://github.com/datachain-ai/datachain/stargazers) [![Forks](https://img.shields.io/github/forks/datachain-ai/datachain?style=flat-square&color=blue)](https://github.com/datachain-ai/datachain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datachain-ai/datachain?style=flat-square&color=yellow)](https://github.com/datachain-ai/datachain/stargazers) [![Forks](https://img.shields.io/github/forks/datachain-ai/datachain?style=flat-square&color=blue)](https://github.com/datachain-ai/datachain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Data Memory: the operational data context layer for AI agents - typed, versioned datasets over images, video, docs and tables
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Datachain — это открытая библиотека, предостав
 
 ### 中文
 
-datachain-ai/datachain：datachain-ai/datachain helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+datachain-ai/datachain：datachain-ai/datachain helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ datachain-ai/datachain：datachain-ai/datachain helps add AI capability without 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ datachain-ai/datachain：datachain-ai/datachain helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 84/100 |
+| production | 72/100 |
+| outlook | 77/100 |
 | adoption | 68/100 |
 | stars | 73/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

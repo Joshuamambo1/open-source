@@ -1,6 +1,6 @@
 # hwfengcs/DM-Code-Agent
 
-[![Stars](https://img.shields.io/github/stars/hwfengcs/DM-Code-Agent?style=flat-square&color=yellow)](https://github.com/hwfengcs/DM-Code-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/hwfengcs/DM-Code-Agent?style=flat-square&color=blue)](https://github.com/hwfengcs/DM-Code-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hwfengcs/DM-Code-Agent?style=flat-square&color=yellow)](https://github.com/hwfengcs/DM-Code-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/hwfengcs/DM-Code-Agent?style=flat-square&color=blue)](https://github.com/hwfengcs/DM-Code-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight, auditable Python code agent (~1500 LOC) — ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   eval and trace replay.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ hwfengcs/DM‑Code‑Agent is a lightweight (~1,500 lines) Python code‑generat
 
 ### 中文
 
-hwfengcs/DM-Code-Agent：hwfengcs/DM-Code-Agent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+hwfengcs/DM-Code-Agent：hwfengcs/DM-Code-Agent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hwfengcs/DM-Code-Agent：hwfengcs/DM-Code-Agent helps turn isolated prompts and 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ hwfengcs/DM-Code-Agent：hwfengcs/DM-Code-Agent helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 70/100 |
+| outlook | 76/100 |
 | adoption | 40/100 |
 | stars | 45/100 |
 | forks | 27/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

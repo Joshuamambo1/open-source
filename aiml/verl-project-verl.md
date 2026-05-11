@@ -1,6 +1,6 @@
 # verl-project/verl
 
-[![Stars](https://img.shields.io/github/stars/verl-project/verl?style=flat-square&color=yellow)](https://github.com/verl-project/verl/stargazers) [![Forks](https://img.shields.io/github/forks/verl-project/verl?style=flat-square&color=blue)](https://github.com/verl-project/verl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/verl-project/verl?style=flat-square&color=yellow)](https://github.com/verl-project/verl/stargazers) [![Forks](https://img.shields.io/github/forks/verl-project/verl?style=flat-square&color=blue)](https://github.com/verl-project/verl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21.1k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Verl — это открытый фреймворк HybridFlow, предназ
 
 ### 中文
 
-verl-project/verl：verl-project/verl helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+verl-project/verl：verl-project/verl helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ verl-project/verl：verl-project/verl helps add AI capability without starting f
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ verl-project/verl：verl-project/verl helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 79/100 |
+| production | 70/100 |
+| outlook | 72/100 |
 | adoption | 91/100 |
 | stars | 92/100 |
 | forks | 90/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # amzxyz/rime_wanxiang
 
-[![Stars](https://img.shields.io/github/stars/amzxyz/rime_wanxiang?style=flat-square&color=yellow)](https://github.com/amzxyz/rime_wanxiang/stargazers) [![Forks](https://img.shields.io/github/forks/amzxyz/rime_wanxiang?style=flat-square&color=blue)](https://github.com/amzxyz/rime_wanxiang/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amzxyz/rime_wanxiang?style=flat-square&color=yellow)](https://github.com/amzxyz/rime_wanxiang/stargazers) [![Forks](https://img.shields.io/github/forks/amzxyz/rime_wanxiang?style=flat-square&color=blue)](https://github.com/amzxyz/rime_wanxiang/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Misc
 
 ### 中文
 
-amzxyz/rime_wanxiang：amzxyz/rime_wanxiang may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+amzxyz/rime_wanxiang：amzxyz/rime_wanxiang may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ amzxyz/rime_wanxiang：amzxyz/rime_wanxiang may be useful when its README and ac
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ amzxyz/rime_wanxiang：amzxyz/rime_wanxiang may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 30/100 |
-| production | 76/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 69/100 |
 | stars | 75/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

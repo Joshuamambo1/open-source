@@ -1,6 +1,6 @@
 # HKUDS/Vibe-Trading
 
-[![Stars](https://img.shields.io/github/stars/HKUDS/Vibe-Trading?style=flat-square&color=yellow)](https://github.com/HKUDS/Vibe-Trading/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/Vibe-Trading?style=flat-square&color=blue)](https://github.com/HKUDS/Vibe-Trading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HKUDS/Vibe-Trading?style=flat-square&color=yellow)](https://github.com/HKUDS/Vibe-Trading/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/Vibe-Trading?style=flat-square&color=blue)](https://github.com/HKUDS/Vibe-Trading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > "Vibe-Trading: Your Personal Trading Agent"
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ HKUDS/Vibe-Trading：HKUDS/Vibe-Trading helps research and automate market workf
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 90/100 |
+| quality | 85/100 |
 | integration | 78/100 |
-| production | 85/100 |
-| outlook | 90/100 |
+| production | 78/100 |
+| outlook | 83/100 |
 | adoption | 79/100 |
 | stars | 80/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # 1Panel-dev/MaxKB
 
-[![Stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=flat-square&color=yellow)](https://github.com/1Panel-dev/MaxKB/stargazers) [![Forks](https://img.shields.io/github/forks/1Panel-dev/MaxKB?style=flat-square&color=blue)](https://github.com/1Panel-dev/MaxKB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=flat-square&color=yellow)](https://github.com/1Panel-dev/MaxKB/stargazers) [![Forks](https://img.shields.io/github/forks/1Panel-dev/MaxKB?style=flat-square&color=blue)](https://github.com/1Panel-dev/MaxKB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.9k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MaxKB — это открытая платформа для создания �
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 96/100 |
+| quality | 91/100 |
 | integration | 62/100 |
-| production | 84/100 |
-| outlook | 96/100 |
+| production | 78/100 |
+| outlook | 89/100 |
 | adoption | 90/100 |
 | stars | 92/100 |
 | forks | 86/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # arkadiyt/bounty-targets-data
 
-[![Stars](https://img.shields.io/github/stars/arkadiyt/bounty-targets-data?style=flat-square&color=yellow)](https://github.com/arkadiyt/bounty-targets-data/stargazers) [![Forks](https://img.shields.io/github/forks/arkadiyt/bounty-targets-data?style=flat-square&color=blue)](https://github.com/arkadiyt/bounty-targets-data/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arkadiyt/bounty-targets-data?style=flat-square&color=yellow)](https://github.com/arkadiyt/bounty-targets-data/stargazers) [![Forks](https://img.shields.io/github/forks/arkadiyt/bounty-targets-data?style=flat-square&color=blue)](https://github.com/arkadiyt/bounty-targets-data/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 656 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **arkadiyt/bounty-targets-data** repository provides regularly refreshed (ho
 
 ### 中文
 
-arkadiyt/bounty-targets-data：arkadiyt/bounty-targets-data helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+arkadiyt/bounty-targets-data：arkadiyt/bounty-targets-data helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ arkadiyt/bounty-targets-data：arkadiyt/bounty-targets-data helps add AI capabil
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ arkadiyt/bounty-targets-data：arkadiyt/bounty-targets-data helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 70/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

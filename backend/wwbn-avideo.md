@@ -1,6 +1,6 @@
 # WWBN/AVideo
 
-[![Stars](https://img.shields.io/github/stars/WWBN/AVideo?style=flat-square&color=yellow)](https://github.com/WWBN/AVideo/stargazers) [![Forks](https://img.shields.io/github/forks/WWBN/AVideo?style=flat-square&color=blue)](https://github.com/WWBN/AVideo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WWBN/AVideo?style=flat-square&color=yellow)](https://github.com/WWBN/AVideo/stargazers) [![Forks](https://img.shields.io/github/forks/WWBN/AVideo?style=flat-square&color=blue)](https://github.com/WWBN/AVideo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **WWBN/AVideo** — это полностью бес�
 
 ### 中文
 
-WWBN/AVideo：WWBN/AVideo helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+WWBN/AVideo：WWBN/AVideo helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ WWBN/AVideo：WWBN/AVideo helps teams reuse service infrastructure instead of re
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ WWBN/AVideo：WWBN/AVideo helps teams reuse service infrastructure instead of re
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 85/100 |
+| production | 70/100 |
+| outlook | 78/100 |
 | adoption | 72/100 |
 | stars | 71/100 |
 | forks | 75/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

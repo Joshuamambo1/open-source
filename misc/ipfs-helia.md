@@ -1,6 +1,6 @@
 # ipfs/helia
 
-[![Stars](https://img.shields.io/github/stars/ipfs/helia?style=flat-square&color=yellow)](https://github.com/ipfs/helia/stargazers) [![Forks](https://img.shields.io/github/forks/ipfs/helia?style=flat-square&color=blue)](https://github.com/ipfs/helia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ipfs/helia?style=flat-square&color=yellow)](https://github.com/ipfs/helia/stargazers) [![Forks](https://img.shields.io/github/forks/ipfs/helia?style=flat-square&color=blue)](https://github.com/ipfs/helia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > An implementation of IPFS in TypeScript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ ipfs/helia：ipfs/helia may be useful when its README and activity match a concr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 72/100 |
+| production | 67/100 |
+| outlook | 65/100 |
 | adoption | 63/100 |
 | stars | 66/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

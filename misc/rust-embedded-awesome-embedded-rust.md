@@ -1,6 +1,6 @@
 # rust-embedded/awesome-embedded-rust
 
-[![Stars](https://img.shields.io/github/stars/rust-embedded/awesome-embedded-rust?style=flat-square&color=yellow)](https://github.com/rust-embedded/awesome-embedded-rust/stargazers) [![Forks](https://img.shields.io/github/forks/rust-embedded/awesome-embedded-rust?style=flat-square&color=blue)](https://github.com/rust-embedded/awesome-embedded-rust/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-embedded/awesome-embedded-rust?style=flat-square&color=yellow)](https://github.com/rust-embedded/awesome-embedded-rust/stargazers) [![Forks](https://img.shields.io/github/forks/rust-embedded/awesome-embedded-rust?style=flat-square&color=blue)](https://github.com/rust-embedded/awesome-embedded-rust/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of resources for Embedded and Low-level development in the Rust programming language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.9k |
 | 🍴 **Forks** | 476 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **awesome-embedded-rust** repository is a curated collection of high‑quali
 
 ### 中文
 
-rust-embedded/awesome-embedded-rust：rust-embedded/awesome-embedded-rust may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rust-embedded/awesome-embedded-rust：rust-embedded/awesome-embedded-rust may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ rust-embedded/awesome-embedded-rust：rust-embedded/awesome-embedded-rust may be
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ rust-embedded/awesome-embedded-rust：rust-embedded/awesome-embedded-rust may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 78/100 |
 | stars | 83/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

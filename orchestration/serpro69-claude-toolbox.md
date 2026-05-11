@@ -1,6 +1,6 @@
 # serpro69/claude-toolbox
 
-[![Stars](https://img.shields.io/github/stars/serpro69/claude-toolbox?style=flat-square&color=yellow)](https://github.com/serpro69/claude-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/serpro69/claude-toolbox?style=flat-square&color=blue)](https://github.com/serpro69/claude-toolbox/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serpro69/claude-toolbox?style=flat-square&color=yellow)](https://github.com/serpro69/claude-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/serpro69/claude-toolbox?style=flat-square&color=blue)](https://github.com/serpro69/claude-toolbox/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your Claude Code agentic development workflows: mcp, configs, skills, agents and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ serpro69/claude-toolbox：serpro69/claude-toolbox helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 100/100 |
-| production | 82/100 |
-| outlook | 86/100 |
+| production | 75/100 |
+| outlook | 79/100 |
 | adoption | 43/100 |
 | stars | 46/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

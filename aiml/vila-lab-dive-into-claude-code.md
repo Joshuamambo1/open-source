@@ -1,6 +1,6 @@
 # VILA-Lab/Dive-into-Claude-Code
 
-[![Stars](https://img.shields.io/github/stars/VILA-Lab/Dive-into-Claude-Code?style=flat-square&color=yellow)](https://github.com/VILA-Lab/Dive-into-Claude-Code/stargazers) [![Forks](https://img.shields.io/github/forks/VILA-Lab/Dive-into-Claude-Code?style=flat-square&color=blue)](https://github.com/VILA-Lab/Dive-into-Claude-Code/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VILA-Lab/Dive-into-Claude-Code?style=flat-square&color=yellow)](https://github.com/VILA-Lab/Dive-into-Claude-Code/stargazers) [![Forks](https://img.shields.io/github/forks/VILA-Lab/Dive-into-Claude-Code?style=flat-square&color=blue)](https://github.com/VILA-Lab/Dive-into-Claude-Code/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ VILA-Lab/Dive-into-Claude-Code：VILA-Lab/Dive-into-Claude-Code helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 65/100 |
+| outlook | 68/100 |
 | adoption | 62/100 |
 | stars | 64/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # digital-asset/daml
 
-[![Stars](https://img.shields.io/github/stars/digital-asset/daml?style=flat-square&color=yellow)](https://github.com/digital-asset/daml/stargazers) [![Forks](https://img.shields.io/github/forks/digital-asset/daml?style=flat-square&color=blue)](https://github.com/digital-asset/daml/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/digital-asset/daml?style=flat-square&color=yellow)](https://github.com/digital-asset/daml/stargazers) [![Forks](https://img.shields.io/github/forks/digital-asset/daml?style=flat-square&color=blue)](https://github.com/digital-asset/daml/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The Daml smart contract language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 891 |
 | 🍴 **Forks** | 255 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ digital-asset/daml — это открытая реализация языка
 
 ### 中文
 
-digital-asset/daml：digital-asset/daml helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+digital-asset/daml：digital-asset/daml helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ digital-asset/daml：digital-asset/daml helps prototype or inspect blockchain wo
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ digital-asset/daml：digital-asset/daml helps prototype or inspect blockchain wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 89/100 |
+| production | 71/100 |
+| outlook | 82/100 |
 | adoption | 62/100 |
 | stars | 63/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

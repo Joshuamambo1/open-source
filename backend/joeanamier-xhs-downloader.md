@@ -1,6 +1,6 @@
 # JoeanAmier/XHS-Downloader
 
-[![Stars](https://img.shields.io/github/stars/JoeanAmier/XHS-Downloader?style=flat-square&color=yellow)](https://github.com/JoeanAmier/XHS-Downloader/stargazers) [![Forks](https://img.shields.io/github/forks/JoeanAmier/XHS-Downloader?style=flat-square&color=blue)](https://github.com/JoeanAmier/XHS-Downloader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JoeanAmier/XHS-Downloader?style=flat-square&color=yellow)](https://github.com/JoeanAmier/XHS-Downloader/stargazers) [![Forks](https://img.shields.io/github/forks/JoeanAmier/XHS-Downloader?style=flat-square&color=blue)](https://github.com/JoeanAmier/XHS-Downloader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.1k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ JoeanAmier/XHS-Downloader：JoeanAmier/XHS-Downloader helps teams reuse service 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 94/100 |
-| production | 88/100 |
-| outlook | 91/100 |
+| production | 81/100 |
+| outlook | 84/100 |
 | adoption | 85/100 |
 | stars | 86/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

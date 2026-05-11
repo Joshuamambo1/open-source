@@ -1,6 +1,6 @@
 # dotnet/dev-proxy
 
-[![Stars](https://img.shields.io/github/stars/dotnet/dev-proxy?style=flat-square&color=yellow)](https://github.com/dotnet/dev-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/dev-proxy?style=flat-square&color=blue)](https://github.com/dotnet/dev-proxy/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/dev-proxy?style=flat-square&color=yellow)](https://github.com/dotnet/dev-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/dev-proxy?style=flat-square&color=blue)](https://github.com/dotnet/dev-proxy/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Simulate API failures, throttling, and chaos — all from your command line.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 788 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ dotnet/dev-proxy — это утилита командной строки, п
 
 ### 中文
 
-dotnet/dev-proxy：dotnet/dev-proxy helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+dotnet/dev-proxy：dotnet/dev-proxy helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dotnet/dev-proxy：dotnet/dev-proxy helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ dotnet/dev-proxy：dotnet/dev-proxy helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 84/100 |
+| production | 70/100 |
+| outlook | 77/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

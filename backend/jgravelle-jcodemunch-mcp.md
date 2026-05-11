@@ -1,6 +1,6 @@
 # jgravelle/jcodemunch-mcp
 
-[![Stars](https://img.shields.io/github/stars/jgravelle/jcodemunch-mcp?style=flat-square&color=yellow)](https://github.com/jgravelle/jcodemunch-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jgravelle/jcodemunch-mcp?style=flat-square&color=blue)](https://github.com/jgravelle/jcodemunch-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jgravelle/jcodemunch-mcp?style=flat-square&color=yellow)](https://github.com/jgravelle/jcodemunch-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jgravelle/jcodemunch-mcp?style=flat-square&color=blue)](https://github.com/jgravelle/jcodemunch-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The leading, most token-efficient MCP server for GitHub source code exploration via tree-sitter AST parsing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 287 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ jcodemunch‑MCP — это высокопроизводительный open�
 
 ### 中文
 
-jgravelle/jcodemunch-mcp：jgravelle/jcodemunch-mcp helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jgravelle/jcodemunch-mcp：jgravelle/jcodemunch-mcp helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jgravelle/jcodemunch-mcp：jgravelle/jcodemunch-mcp helps teams reuse service in
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jgravelle/jcodemunch-mcp：jgravelle/jcodemunch-mcp helps teams reuse service in
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 73/100 |
+| outlook | 74/100 |
 | adoption | 67/100 |
 | stars | 69/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

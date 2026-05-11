@@ -1,6 +1,6 @@
 # intelligencedev/manifold
 
-[![Stars](https://img.shields.io/github/stars/intelligencedev/manifold?style=flat-square&color=yellow)](https://github.com/intelligencedev/manifold/stargazers) [![Forks](https://img.shields.io/github/forks/intelligencedev/manifold?style=flat-square&color=blue)](https://github.com/intelligencedev/manifold/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intelligencedev/manifold?style=flat-square&color=yellow)](https://github.com/intelligencedev/manifold/stargazers) [![Forks](https://img.shields.io/github/forks/intelligencedev/manifold?style=flat-square&color=blue)](https://github.com/intelligencedev/manifold/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Manifold is an experimental platform for enabling long horizon workflow automation using teams of AI assistants.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 491 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Manifold — экспериментальная платформа, позво
 
 ### 中文
 
-intelligencedev/manifold：intelligencedev/manifold helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+intelligencedev/manifold：intelligencedev/manifold helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ intelligencedev/manifold：intelligencedev/manifold helps add AI capability with
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ intelligencedev/manifold：intelligencedev/manifold helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 88/100 |
+| production | 69/100 |
+| outlook | 81/100 |
 | adoption | 52/100 |
 | stars | 57/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

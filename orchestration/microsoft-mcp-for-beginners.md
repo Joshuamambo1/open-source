@@ -1,6 +1,6 @@
 # microsoft/mcp-for-beginners
 
-[![Stars](https://img.shields.io/github/stars/microsoft/mcp-for-beginners?style=flat-square&color=yellow)](https://github.com/microsoft/mcp-for-beginners/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/mcp-for-beginners?style=flat-square&color=blue)](https://github.com/microsoft/mcp-for-beginners/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/mcp-for-beginners?style=flat-square&color=yellow)](https://github.com/microsoft/mcp-for-beginners/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/mcp-for-beginners?style=flat-square&color=blue)](https://github.com/microsoft/mcp-for-beginners/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
 > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16k |
 | 🍴 **Forks** | 5.2k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 92/100 |
+| 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ microsoft/mcp-for-beginners：microsoft/mcp-for-beginners helps turn isolated pr
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 96/100 |
+| quality | 91/100 |
 | integration | 94/100 |
-| production | 89/100 |
-| outlook | 96/100 |
+| production | 82/100 |
+| outlook | 89/100 |
 | adoption | 90/100 |
 | stars | 89/100 |
 | forks | 93/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

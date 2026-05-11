@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**66 projects** in this category.
+**67 projects** in this category.
 
 ## Projects
 
@@ -50,9 +50,9 @@
 | 40 | [kubie-org/kubie](./kubie-org-kubie.md) | ⭐ 2.5k | Rust | 62/100 |
 | 41 | [bpg/terraform-provider-proxmox](./bpg-terraform-provider-proxmox.md) | ⭐ 2k | Go | 62/100 |
 | 42 | [hackforla/website](./hackforla-website.md) | ⭐ 364 | JavaScript | 62/100 |
-| 43 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 62/100 |
-| 44 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 898 | Go | 62/100 |
-| 45 | [netxms/netxms](./netxms-netxms.md) | ⭐ 353 | C++ | 62/100 |
+| 43 | [stakater/Forecastle](./stakater-forecastle.md) | ⭐ 794 | Go | 62/100 |
+| 44 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 62/100 |
+| 45 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 898 | Go | 62/100 |
 | 46 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1k | Go | 62/100 |
 | 47 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 61/100 |
 | 48 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 61/100 |
@@ -60,20 +60,21 @@
 | 50 | [docker-library/official-images](./docker-library-official-images.md) | ⭐ 7k | Shell | 60/100 |
 | 51 | [docker/docs](./docker-docs.md) | ⭐ 4.6k | Markdown | 60/100 |
 | 52 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 60/100 |
-| 53 | [kubernetes/k8s.io](./kubernetes-k8s.io.md) | ⭐ 951 | HCL | 60/100 |
-| 54 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 824 | Haskell | 60/100 |
-| 55 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 60/100 |
-| 56 | [mkuthan/homelab-public](./mkuthan-homelab-public.md) | ⭐ 610 | HCL | 60/100 |
-| 57 | [Gisto/Gisto](./gisto-gisto.md) | ⭐ 1.1k | TypeScript | 59/100 |
+| 53 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 824 | Haskell | 60/100 |
+| 54 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 60/100 |
+| 55 | [mkuthan/homelab-public](./mkuthan-homelab-public.md) | ⭐ 610 | HCL | 60/100 |
+| 56 | [Gisto/Gisto](./gisto-gisto.md) | ⭐ 1.1k | TypeScript | 59/100 |
+| 57 | [netxms/netxms](./netxms-netxms.md) | ⭐ 353 | C++ | 59/100 |
 | 58 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 59/100 |
-| 59 | [Azure/terraform](./azure-terraform.md) | ⭐ 908 | HCL | 56/100 |
-| 60 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 56/100 |
-| 61 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 56/100 |
-| 62 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 55/100 |
-| 63 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 55/100 |
-| 64 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 55/100 |
-| 65 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 55/100 |
-| 66 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 51/100 |
+| 59 | [kubernetes/k8s.io](./kubernetes-k8s.io.md) | ⭐ 951 | HCL | 57/100 |
+| 60 | [Azure/terraform](./azure-terraform.md) | ⭐ 908 | HCL | 56/100 |
+| 61 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 56/100 |
+| 62 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 56/100 |
+| 63 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 55/100 |
+| 64 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 55/100 |
+| 65 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 55/100 |
+| 66 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 55/100 |
+| 67 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 51/100 |
 
 ---
 

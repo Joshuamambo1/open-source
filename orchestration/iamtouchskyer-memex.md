@@ -1,6 +1,6 @@
 # iamtouchskyer/memex
 
-[![Stars](https://img.shields.io/github/stars/iamtouchskyer/memex?style=flat-square&color=yellow)](https://github.com/iamtouchskyer/memex/stargazers) [![Forks](https://img.shields.io/github/forks/iamtouchskyer/memex?style=flat-square&color=blue)](https://github.com/iamtouchskyer/memex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iamtouchskyer/memex?style=flat-square&color=yellow)](https://github.com/iamtouchskyer/memex/stargazers) [![Forks](https://img.shields.io/github/forks/iamtouchskyer/memex?style=flat-square&color=blue)](https://github.com/iamtouchskyer/memex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 196 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ i​amtouchskyer/memex — это открытая система постоя
 
 ### 中文
 
-iamtouchskyer/memex：iamtouchskyer/memex helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+iamtouchskyer/memex：iamtouchskyer/memex helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ iamtouchskyer/memex：iamtouchskyer/memex helps turn isolated prompts and tools 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ iamtouchskyer/memex：iamtouchskyer/memex helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 47/100 |
 | stars | 49/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

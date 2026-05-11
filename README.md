@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6374** |
+| 🗂️ **Total projects** | **6414** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,28 +18,28 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2450 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1167 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 626 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 567 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 340 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 2460 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1177 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 629 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 569 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 341 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 316 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 219 | [Browse →](./crypto/) |
-| 📊 **Data** | 153 | [Browse →](./data/) |
+| ⛓️ **Crypto** | 220 | [Browse →](./crypto/) |
+| 📊 **Data** | 154 | [Browse →](./data/) |
 | 💳 **Payments** | 98 | [Browse →](./payments/) |
 | 📱 **Mobile** | 78 | [Browse →](./mobile/) |
 | 📈 **Trading** | 78 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 66 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 67 | [Browse →](./devopsinfra/) |
+| 🏷️ **Mcp** | 48 | [Browse →](./mcp/) |
 | 🔐 **Security** | 46 | [Browse →](./security/) |
-| 🏷️ **Mcp** | 46 | [Browse →](./mcp/) |
-| 🏷️ **Automation** | 37 | [Browse →](./automation/) |
-| 🏷️ **Knowledgerag** | 26 | [Browse →](./knowledgerag/) |
+| 🏷️ **Automation** | 42 | [Browse →](./automation/) |
+| 🏷️ **Knowledgerag** | 28 | [Browse →](./knowledgerag/) |
 | ✨ **Design** | 20 | [Browse →](./design/) |
 | 🎯 **Product** | 14 | [Browse →](./product/) |
 | 🏷️ **Database** | 14 | [Browse →](./database/) |
 | 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
-| 🏷️ **Education** | 2 | [Browse →](./education/) |
-| 🏷️ **Observability** | 2 | [Browse →](./observability/) |
+| 🏷️ **Education** | 3 | [Browse →](./education/) |
+| 🏷️ **Observability** | 3 | [Browse →](./observability/) |
 
 ## 🔥 Top 10 by score
 
@@ -53,8 +53,8 @@
 | 6 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
 | 7 | [wshobson/agents](./orchestration/wshobson-agents.md) | ⭐ 35k | Orchestration |
 | 8 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
-| 9 | [microsoft/mcp-for-beginners](./orchestration/microsoft-mcp-for-beginners.md) | ⭐ 16k | Orchestration |
-| 10 | [subzeroid/instagrapi](./backend/subzeroid-instagrapi.md) | ⭐ 6.2k | Backend |
+| 9 | [subzeroid/instagrapi](./backend/subzeroid-instagrapi.md) | ⭐ 6.2k | Backend |
+| 10 | [xerrors/Yuxi](./orchestration/xerrors-yuxi.md) | ⭐ 5.1k | Orchestration |
 
 ## 🚀 How it works
 

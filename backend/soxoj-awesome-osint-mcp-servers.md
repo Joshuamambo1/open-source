@@ -1,6 +1,6 @@
 # soxoj/awesome-osint-mcp-servers
 
-[![Stars](https://img.shields.io/github/stars/soxoj/awesome-osint-mcp-servers?style=flat-square&color=yellow)](https://github.com/soxoj/awesome-osint-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/soxoj/awesome-osint-mcp-servers?style=flat-square&color=blue)](https://github.com/soxoj/awesome-osint-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/soxoj/awesome-osint-mcp-servers?style=flat-square&color=yellow)](https://github.com/soxoj/awesome-osint-mcp-servers/stargazers) [![Forks](https://img.shields.io/github/forks/soxoj/awesome-osint-mcp-servers?style=flat-square&color=blue)](https://github.com/soxoj/awesome-osint-mcp-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of OSINT MCP servers. Pull requests are welcomed!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A curated collection of publicly accessible OSINT (Open‑Source Intelligence) M
 
 ### 中文
 
-soxoj/awesome-osint-mcp-servers：soxoj/awesome-osint-mcp-servers helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+soxoj/awesome-osint-mcp-servers：soxoj/awesome-osint-mcp-servers helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ soxoj/awesome-osint-mcp-servers：soxoj/awesome-osint-mcp-servers helps teams re
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ soxoj/awesome-osint-mcp-servers：soxoj/awesome-osint-mcp-servers helps teams re
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 47/100 |
 | stars | 50/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

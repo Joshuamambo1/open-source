@@ -1,6 +1,6 @@
 # pypsa-meets-earth/pypsa-earth
 
-[![Stars](https://img.shields.io/github/stars/pypsa-meets-earth/pypsa-earth?style=flat-square&color=yellow)](https://github.com/pypsa-meets-earth/pypsa-earth/stargazers) [![Forks](https://img.shields.io/github/forks/pypsa-meets-earth/pypsa-earth?style=flat-square&color=blue)](https://github.com/pypsa-meets-earth/pypsa-earth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pypsa-meets-earth/pypsa-earth?style=flat-square&color=yellow)](https://github.com/pypsa-meets-earth/pypsa-earth/stargazers) [![Forks](https://img.shields.io/github/forks/pypsa-meets-earth/pypsa-earth?style=flat-square&color=blue)](https://github.com/pypsa-meets-earth/pypsa-earth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > PyPSA-Earth: A flexible Python-based open optimisation model to study energy system futures around the world.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ PyPSA‑Earth — гибкая открытая модель оптимизац
 
 ### 中文
 
-pypsa-meets-earth/pypsa-earth：pypsa-meets-earth/pypsa-earth may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+pypsa-meets-earth/pypsa-earth：pypsa-meets-earth/pypsa-earth may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ pypsa-meets-earth/pypsa-earth：pypsa-meets-earth/pypsa-earth may be useful when
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ pypsa-meets-earth/pypsa-earth：pypsa-meets-earth/pypsa-earth may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 77/100 |
+| production | 70/100 |
+| outlook | 70/100 |
 | adoption | 56/100 |
 | stars | 54/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

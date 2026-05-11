@@ -1,6 +1,6 @@
 # lightningpixel/modly
 
-[![Stars](https://img.shields.io/github/stars/lightningpixel/modly?style=flat-square&color=yellow)](https://github.com/lightningpixel/modly/stargazers) [![Forks](https://img.shields.io/github/forks/lightningpixel/modly?style=flat-square&color=blue)](https://github.com/lightningpixel/modly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightningpixel/modly?style=flat-square&color=yellow)](https://github.com/lightningpixel/modly/stargazers) [![Forks](https://img.shields.io/github/forks/lightningpixel/modly?style=flat-square&color=blue)](https://github.com/lightningpixel/modly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop app to generate 3D models from images using local AI — runs entirely on your GPU
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 281 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ LightningPixel / Modly — это кроссплатформенное д�
 
 ### 中文
 
-lightningpixel/modly：lightningpixel/modly helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+lightningpixel/modly：lightningpixel/modly helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ lightningpixel/modly：lightningpixel/modly helps add AI capability without star
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ lightningpixel/modly：lightningpixel/modly helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 86/100 |
+| production | 71/100 |
+| outlook | 79/100 |
 | adoption | 69/100 |
 | stars | 73/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # henrygd/beszel
 
-[![Stars](https://img.shields.io/github/stars/henrygd/beszel?style=flat-square&color=yellow)](https://github.com/henrygd/beszel/stargazers) [![Forks](https://img.shields.io/github/forks/henrygd/beszel?style=flat-square&color=blue)](https://github.com/henrygd/beszel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/henrygd/beszel?style=flat-square&color=yellow)](https://github.com/henrygd/beszel/stargazers) [![Forks](https://img.shields.io/github/forks/henrygd/beszel?style=flat-square&color=blue)](https://github.com/henrygd/beszel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight server monitoring with historical data, docker stats, and alerts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21.7k |
 | 🍴 **Forks** | 775 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Henrigd/beszel — это лёгкий серверный мониторинг
 
 ### 中文
 
-henrygd/beszel：henrygd/beszel helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+henrygd/beszel：henrygd/beszel helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ henrygd/beszel：henrygd/beszel helps teams reuse service infrastructure instead
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ henrygd/beszel：henrygd/beszel helps teams reuse service infrastructure instead
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 85/100 |
+| production | 74/100 |
+| outlook | 78/100 |
 | adoption | 87/100 |
 | stars | 92/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -76,14 +76,14 @@
 | 66 | [deezertidal/QuantumultX-Rewrite](./deezertidal-quantumultx-rewrite.md) | ⭐ 3.2k | JavaScript | 57/100 |
 | 67 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 918 | Rust | 57/100 |
 | 68 | [microsoft/CSS-Exchange](./microsoft-css-exchange.md) | ⭐ 1.3k | PowerShell | 57/100 |
-| 69 | [Kaden-Schutt/hipfire](./kaden-schutt-hipfire.md) | ⭐ 351 | Rust | 57/100 |
-| 70 | [xxczaki/cashify](./xxczaki-cashify.md) | ⭐ 404 | TypeScript | 57/100 |
-| 71 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 57/100 |
-| 72 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 720 | Java | 56/100 |
-| 73 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 56/100 |
-| 74 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 56/100 |
-| 75 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 159 | Rust | 55/100 |
-| 76 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 55/100 |
+| 69 | [xxczaki/cashify](./xxczaki-cashify.md) | ⭐ 404 | TypeScript | 57/100 |
+| 70 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 57/100 |
+| 71 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 720 | Java | 56/100 |
+| 72 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 56/100 |
+| 73 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 56/100 |
+| 74 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 159 | Rust | 55/100 |
+| 75 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 55/100 |
+| 76 | [Kaden-Schutt/hipfire](./kaden-schutt-hipfire.md) | ⭐ 351 | Rust | 54/100 |
 | 77 | [quantiota/Raspberry-Pi-AI-Agent-Host](./quantiota-raspberry-pi-ai-agent-host.md) | ⭐ 32 | Python | 53/100 |
 | 78 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 41/100 |
 

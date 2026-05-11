@@ -1,6 +1,6 @@
 # photoprism/photoprism
 
-[![Stars](https://img.shields.io/github/stars/photoprism/photoprism?style=flat-square&color=yellow)](https://github.com/photoprism/photoprism/stargazers) [![Forks](https://img.shields.io/github/forks/photoprism/photoprism?style=flat-square&color=blue)](https://github.com/photoprism/photoprism/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/photoprism/photoprism?style=flat-square&color=yellow)](https://github.com/photoprism/photoprism/stargazers) [![Forks](https://img.shields.io/github/forks/photoprism/photoprism?style=flat-square&color=blue)](https://github.com/photoprism/photoprism/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39.6k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ photoprism/photoprism：photoprism/photoprism helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 97/100 |
+| quality | 92/100 |
 | integration | 46/100 |
-| production | 83/100 |
-| outlook | 90/100 |
+| production | 76/100 |
+| outlook | 83/100 |
 | adoption | 94/100 |
 | stars | 98/100 |
 | forks | 84/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

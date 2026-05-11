@@ -1,6 +1,6 @@
 # musescore/MuseScore
 
-[![Stars](https://img.shields.io/github/stars/musescore/MuseScore?style=flat-square&color=yellow)](https://github.com/musescore/MuseScore/stargazers) [![Forks](https://img.shields.io/github/forks/musescore/MuseScore?style=flat-square&color=blue)](https://github.com/musescore/MuseScore/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/musescore/MuseScore?style=flat-square&color=yellow)](https://github.com/musescore/MuseScore/stargazers) [![Forks](https://img.shields.io/github/forks/musescore/MuseScore?style=flat-square&color=blue)](https://github.com/musescore/MuseScore/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.5k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MuseScore — бесплатное и открытое программное 
 
 ### 中文
 
-musescore/MuseScore：musescore/MuseScore helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+musescore/MuseScore：musescore/MuseScore helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ musescore/MuseScore：musescore/MuseScore helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ musescore/MuseScore：musescore/MuseScore helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 95/100 |
+| quality | 90/100 |
 | integration | 30/100 |
-| production | 79/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 88/100 |
 | stars | 89/100 |
 | forks | 87/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

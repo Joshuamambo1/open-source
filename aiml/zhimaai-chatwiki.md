@@ -1,6 +1,6 @@
 # zhimaAi/chatwiki
 
-[![Stars](https://img.shields.io/github/stars/zhimaAi/chatwiki?style=flat-square&color=yellow)](https://github.com/zhimaAi/chatwiki/stargazers) [![Forks](https://img.shields.io/github/forks/zhimaAi/chatwiki?style=flat-square&color=blue)](https://github.com/zhimaAi/chatwiki/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhimaAi/chatwiki?style=flat-square&color=yellow)](https://github.com/zhimaAi/chatwiki/stargazers) [![Forks](https://img.shields.io/github/forks/zhimaAi/chatwiki?style=flat-square&color=blue)](https://github.com/zhimaAi/chatwiki/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > ChatWiki 微信公众号的AI知识库工作流Agent平台，RAG大模型AI客服机器人，致力于成为垂直领域的coze、n8n。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 304 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ zhimaAi/chatwiki：zhimaAi/chatwiki helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 87/100 |
+| production | 68/100 |
+| outlook | 80/100 |
 | adoption | 68/100 |
 | stars | 70/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

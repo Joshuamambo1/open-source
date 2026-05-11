@@ -1,6 +1,6 @@
 # mother-of-all-self-hosting/mash-playbook
 
-[![Stars](https://img.shields.io/github/stars/mother-of-all-self-hosting/mash-playbook?style=flat-square&color=yellow)](https://github.com/mother-of-all-self-hosting/mash-playbook/stargazers) [![Forks](https://img.shields.io/github/forks/mother-of-all-self-hosting/mash-playbook?style=flat-square&color=blue)](https://github.com/mother-of-all-self-hosting/mash-playbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mother-of-all-self-hosting/mash-playbook?style=flat-square&color=yellow)](https://github.com/mother-of-all-self-hosting/mash-playbook/stargazers) [![Forks](https://img.shields.io/github/forks/mother-of-all-self-hosting/mash-playbook?style=flat-square&color=blue)](https://github.com/mother-of-all-self-hosting/mash-playbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **mother‑of‑all‑self‑hosting (mash‑playbook)** is an Ansible playb
 
 ### 中文
 
-mother-of-all-self-hosting/mash-playbook：mother-of-all-self-hosting/mash-playbook helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mother-of-all-self-hosting/mash-playbook：mother-of-all-self-hosting/mash-playbook helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mother-of-all-self-hosting/mash-playbook：mother-of-all-self-hosting/mash-playb
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ mother-of-all-self-hosting/mash-playbook：mother-of-all-self-hosting/mash-playb
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 79/100 |
+| production | 73/100 |
+| outlook | 72/100 |
 | adoption | 61/100 |
 | stars | 64/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

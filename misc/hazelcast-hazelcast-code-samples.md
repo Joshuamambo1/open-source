@@ -1,6 +1,6 @@
 # hazelcast/hazelcast-code-samples
 
-[![Stars](https://img.shields.io/github/stars/hazelcast/hazelcast-code-samples?style=flat-square&color=yellow)](https://github.com/hazelcast/hazelcast-code-samples/stargazers) [![Forks](https://img.shields.io/github/forks/hazelcast/hazelcast-code-samples?style=flat-square&color=blue)](https://github.com/hazelcast/hazelcast-code-samples/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hazelcast/hazelcast-code-samples?style=flat-square&color=yellow)](https://github.com/hazelcast/hazelcast-code-samples/stargazers) [![Forks](https://img.shields.io/github/forks/hazelcast/hazelcast-code-samples?style=flat-square&color=blue)](https://github.com/hazelcast/hazelcast-code-samples/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Hazelcast Code Samples
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 560 |
 | 🍴 **Forks** | 602 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ hazelcast/hazelcast-code-samples：hazelcast/hazelcast-code-samples may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 62/100 |
 | stars | 59/100 |
 | forks | 70/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

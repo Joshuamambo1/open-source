@@ -1,6 +1,6 @@
 # discourse/discourse
 
-[![Stars](https://img.shields.io/github/stars/discourse/discourse?style=flat-square&color=yellow)](https://github.com/discourse/discourse/stargazers) [![Forks](https://img.shields.io/github/forks/discourse/discourse?style=flat-square&color=blue)](https://github.com/discourse/discourse/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/discourse/discourse?style=flat-square&color=yellow)](https://github.com/discourse/discourse/stargazers) [![Forks](https://img.shields.io/github/forks/discourse/discourse?style=flat-square&color=blue)](https://github.com/discourse/discourse/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A platform for community discussion. Free, open, simple.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47k |
 | 🍴 **Forks** | 8.9k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Discourse — это бесплатная открытая платформа 
 
 ### 中文
 
-discourse/discourse：discourse/discourse helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+discourse/discourse：discourse/discourse helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ discourse/discourse：discourse/discourse helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ discourse/discourse：discourse/discourse helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 98/100 |
+| quality | 93/100 |
 | integration | 30/100 |
-| production | 81/100 |
-| outlook | 87/100 |
+| production | 74/100 |
+| outlook | 80/100 |
 | adoption | 99/100 |
 | stars | 99/100 |
 | forks | 99/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

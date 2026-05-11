@@ -1,6 +1,6 @@
 # lesovsky/pgcenter
 
-[![Stars](https://img.shields.io/github/stars/lesovsky/pgcenter?style=flat-square&color=yellow)](https://github.com/lesovsky/pgcenter/stargazers) [![Forks](https://img.shields.io/github/forks/lesovsky/pgcenter?style=flat-square&color=blue)](https://github.com/lesovsky/pgcenter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lesovsky/pgcenter?style=flat-square&color=yellow)](https://github.com/lesovsky/pgcenter/stargazers) [![Forks](https://img.shields.io/github/forks/lesovsky/pgcenter?style=flat-square&color=blue)](https://github.com/lesovsky/pgcenter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line admin tool for observing and troubleshooting Postgres.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ lesovsky/pgcenter：lesovsky/pgcenter may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 68/100 |
+| outlook | 69/100 |
 | adoption | 63/100 |
 | stars | 68/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

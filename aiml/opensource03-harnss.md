@@ -1,6 +1,6 @@
 # OpenSource03/harnss
 
-[![Stars](https://img.shields.io/github/stars/OpenSource03/harnss?style=flat-square&color=yellow)](https://github.com/OpenSource03/harnss/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSource03/harnss?style=flat-square&color=blue)](https://github.com/OpenSource03/harnss/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenSource03/harnss?style=flat-square&color=yellow)](https://github.com/OpenSource03/harnss/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSource03/harnss?style=flat-square&color=blue)](https://github.com/OpenSource03/harnss/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, desktop client/UI build to harness Claude Code, Codex and any other Agent accepting Agent Client Protocol. Run multiple AI coding agents side by side with rich tool visualization, MCP integrations, built-in terminal, git, browser and just about anything else you may need.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 216 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenSource03/harnss — это кроссплатформенный насто
 
 ### 中文
 
-OpenSource03/harnss：OpenSource03/harnss helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+OpenSource03/harnss：OpenSource03/harnss helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ OpenSource03/harnss：OpenSource03/harnss helps add AI capability without starti
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ OpenSource03/harnss：OpenSource03/harnss helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 86/100 |
+| production | 73/100 |
+| outlook | 79/100 |
 | adoption | 46/100 |
 | stars | 50/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # 360CVGroup/FG-CLIP
 
-[![Stars](https://img.shields.io/github/stars/360CVGroup/FG-CLIP?style=flat-square&color=yellow)](https://github.com/360CVGroup/FG-CLIP/stargazers) [![Forks](https://img.shields.io/github/forks/360CVGroup/FG-CLIP?style=flat-square&color=blue)](https://github.com/360CVGroup/FG-CLIP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/360CVGroup/FG-CLIP?style=flat-square&color=yellow)](https://github.com/360CVGroup/FG-CLIP/stargazers) [![Forks](https://img.shields.io/github/forks/360CVGroup/FG-CLIP?style=flat-square&color=blue)](https://github.com/360CVGroup/FG-CLIP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > New generation of CLIP with strong fine grained discrimination capability, ICML2026 and ICML2025
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 752 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **FG‑CLIP** project presents a next‑generation CLIP model that delivers 
 
 ### 中文
 
-360CVGroup/FG-CLIP：360CVGroup/FG-CLIP helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+360CVGroup/FG-CLIP：360CVGroup/FG-CLIP helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ The **FG‑CLIP** project presents a next‑generation CLIP model that delivers 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ The **FG‑CLIP** project presents a next‑generation CLIP model that delivers 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 75/100 |
+| production | 69/100 |
+| outlook | 68/100 |
 | adoption | 55/100 |
 | stars | 61/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

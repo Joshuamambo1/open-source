@@ -1,6 +1,6 @@
 # DIGI-UW/OpenELIS-Global-2
 
-[![Stars](https://img.shields.io/github/stars/DIGI-UW/OpenELIS-Global-2?style=flat-square&color=yellow)](https://github.com/DIGI-UW/OpenELIS-Global-2/stargazers) [![Forks](https://img.shields.io/github/forks/DIGI-UW/OpenELIS-Global-2?style=flat-square&color=blue)](https://github.com/DIGI-UW/OpenELIS-Global-2/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DIGI-UW/OpenELIS-Global-2?style=flat-square&color=yellow)](https://github.com/DIGI-UW/OpenELIS-Global-2/stargazers) [![Forks](https://img.shields.io/github/forks/DIGI-UW/OpenELIS-Global-2?style=flat-square&color=blue)](https://github.com/DIGI-UW/OpenELIS-Global-2/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > This is the core repo for OpenELIS global v3
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 215 |
 | 🍴 **Forks** | 569 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ DIGI-UW/OpenELIS-Global-2：DIGI-UW/OpenELIS-Global-2 may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 55/100 |
 | stars | 50/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

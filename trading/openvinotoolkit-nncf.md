@@ -1,6 +1,6 @@
 # openvinotoolkit/nncf
 
-[![Stars](https://img.shields.io/github/stars/openvinotoolkit/nncf?style=flat-square&color=yellow)](https://github.com/openvinotoolkit/nncf/stargazers) [![Forks](https://img.shields.io/github/forks/openvinotoolkit/nncf?style=flat-square&color=blue)](https://github.com/openvinotoolkit/nncf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openvinotoolkit/nncf?style=flat-square&color=yellow)](https://github.com/openvinotoolkit/nncf/stargazers) [![Forks](https://img.shields.io/github/forks/openvinotoolkit/nncf?style=flat-square&color=blue)](https://github.com/openvinotoolkit/nncf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Neural Network Compression Framework for enhanced OpenVINO™ inference
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenNNCF – это открытая библиотека для автома�
 
 ### 中文
 
-openvinotoolkit/nncf：openvinotoolkit/nncf helps research and automate market workflows.。适合用于research trading systems、backtest strategies。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+openvinotoolkit/nncf：openvinotoolkit/nncf helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ openvinotoolkit/nncf：openvinotoolkit/nncf helps research and automate market w
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ openvinotoolkit/nncf：openvinotoolkit/nncf helps research and automate market w
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 86/100 |
+| production | 71/100 |
+| outlook | 79/100 |
 | adoption | 64/100 |
 | stars | 65/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -2,7 +2,7 @@
 
 > 
 
-**24 projects** in this category.
+**26 projects** in this category.
 
 ## Projects
 
@@ -21,17 +21,19 @@
 | 11 | [kcosr/assistant](./kcosr-assistant.md) | ⭐ 74 | TypeScript | 72/100 |
 | 12 | [Anil-matcha/Open-AI-Design-Agent](./anil-matcha-open-ai-design-agent.md) | ⭐ 657 | JavaScript | 71/100 |
 | 13 | [pfrest/pfSense-pkg-RESTAPI](./pfrest-pfsense-pkg-restapi.md) | ⭐ 806 | PHP | 71/100 |
-| 14 | [harbor-framework/terminal-bench-science](./harbor-framework-terminal-bench-science.md) | ⭐ 72 | Python | 68/100 |
-| 15 | [xaspx/hermes-control-interface](./xaspx-hermes-control-interface.md) | ⭐ 627 | JavaScript | 68/100 |
-| 16 | [MasterGroosha/aiogram-3-guide](./mastergroosha-aiogram-3-guide.md) | ⭐ 1.1k | Python | 67/100 |
-| 17 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.7k | Go | 66/100 |
-| 18 | [alpyxn/aeterna](./alpyxn-aeterna.md) | ⭐ 247 | JavaScript | 63/100 |
-| 19 | [ThingsPanel/thingspanel-backend-community](./thingspanel-thingspanel-backend-community.md) | ⭐ 548 | Go | 62/100 |
-| 20 | [strands-labs/robots](./strands-labs-robots.md) | ⭐ 49 | Python | 61/100 |
-| 21 | [fronalabs/frona](./fronalabs-frona.md) | ⭐ 108 | Rust | 61/100 |
-| 22 | [PhotonVision/photonvision](./photonvision-photonvision.md) | ⭐ 411 | Java | 58/100 |
-| 23 | [Big-Sh0t114/NachoBot](./big-sh0t114-nachobot.md) | ⭐ 102 | Python | 58/100 |
-| 24 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
+| 14 | [droidrun/mobilerun-portal](./droidrun-mobilerun-portal.md) | ⭐ 311 | Kotlin | 68/100 |
+| 15 | [harbor-framework/terminal-bench-science](./harbor-framework-terminal-bench-science.md) | ⭐ 72 | Python | 68/100 |
+| 16 | [xaspx/hermes-control-interface](./xaspx-hermes-control-interface.md) | ⭐ 627 | JavaScript | 68/100 |
+| 17 | [MasterGroosha/aiogram-3-guide](./mastergroosha-aiogram-3-guide.md) | ⭐ 1.1k | Python | 67/100 |
+| 18 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.7k | Go | 66/100 |
+| 19 | [alpyxn/aeterna](./alpyxn-aeterna.md) | ⭐ 247 | JavaScript | 63/100 |
+| 20 | [LiveHelperChat/livehelperchat](./livehelperchat-livehelperchat.md) | ⭐ 2.2k | PHP | 62/100 |
+| 21 | [ThingsPanel/thingspanel-backend-community](./thingspanel-thingspanel-backend-community.md) | ⭐ 548 | Go | 62/100 |
+| 22 | [strands-labs/robots](./strands-labs-robots.md) | ⭐ 49 | Python | 61/100 |
+| 23 | [fronalabs/frona](./fronalabs-frona.md) | ⭐ 108 | Rust | 61/100 |
+| 24 | [PhotonVision/photonvision](./photonvision-photonvision.md) | ⭐ 411 | Java | 58/100 |
+| 25 | [Big-Sh0t114/NachoBot](./big-sh0t114-nachobot.md) | ⭐ 102 | Python | 58/100 |
+| 26 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
 
 ---
 

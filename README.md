@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6214** |
+| 🗂️ **Total projects** | **6254** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,25 +18,25 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2423 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1150 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 609 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 550 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 325 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 305 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 216 | [Browse →](./crypto/) |
-| 📊 **Data** | 146 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 2428 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1155 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 613 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 553 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 330 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 308 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 217 | [Browse →](./crypto/) |
+| 📊 **Data** | 148 | [Browse →](./data/) |
 | 💳 **Payments** | 98 | [Browse →](./payments/) |
 | 📱 **Mobile** | 78 | [Browse →](./mobile/) |
 | 📈 **Trading** | 78 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 65 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 46 | [Browse →](./security/) |
-| 🏷️ **Mcp** | 27 | [Browse →](./mcp/) |
-| 🏷️ **Automation** | 24 | [Browse →](./automation/) |
+| 🏷️ **Mcp** | 32 | [Browse →](./mcp/) |
+| 🏷️ **Automation** | 26 | [Browse →](./automation/) |
+| 🏷️ **Knowledgerag** | 22 | [Browse →](./knowledgerag/) |
 | ✨ **Design** | 20 | [Browse →](./design/) |
-| 🏷️ **Knowledgerag** | 18 | [Browse →](./knowledgerag/) |
 | 🎯 **Product** | 14 | [Browse →](./product/) |
-| 🏷️ **Database** | 10 | [Browse →](./database/) |
+| 🏷️ **Database** | 11 | [Browse →](./database/) |
 | 🏷️ **Marketing** | 8 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 2 | [Browse →](./education/) |
 | 🏷️ **Observability** | 2 | [Browse →](./observability/) |
@@ -53,8 +53,8 @@
 | 6 | [mcp-use/mcp-use](./aiml/mcp-use-mcp-use.md) | ⭐ 9.9k | AI/ML |
 | 7 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
 | 8 | [wshobson/agents](./orchestration/wshobson-agents.md) | ⭐ 35k | Orchestration |
-| 9 | [sickn33/antigravity-awesome-skills](./orchestration/sickn33-antigravity-awesome-skills.md) | ⭐ 36.8k | Orchestration |
-| 10 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
+| 9 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
+| 10 | [microsoft/mcp-for-beginners](./orchestration/microsoft-mcp-for-beginners.md) | ⭐ 16k | Orchestration |
 
 ## 🚀 How it works
 

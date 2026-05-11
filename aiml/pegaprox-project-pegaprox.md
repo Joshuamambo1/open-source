@@ -1,6 +1,6 @@
 # PegaProx/project-pegaprox
 
-[![Stars](https://img.shields.io/github/stars/PegaProx/project-pegaprox?style=flat-square&color=yellow)](https://github.com/PegaProx/project-pegaprox/stargazers) [![Forks](https://img.shields.io/github/forks/PegaProx/project-pegaprox?style=flat-square&color=blue)](https://github.com/PegaProx/project-pegaprox/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PegaProx/project-pegaprox?style=flat-square&color=yellow)](https://github.com/PegaProx/project-pegaprox/stargazers) [![Forks](https://img.shields.io/github/forks/PegaProx/project-pegaprox?style=flat-square&color=blue)](https://github.com/PegaProx/project-pegaprox/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interface.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ PegaProx/project-pegaprox：PegaProx/project-pegaprox helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 88/100 |
+| production | 68/100 |
+| outlook | 81/100 |
 | adoption | 60/100 |
 | stars | 65/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

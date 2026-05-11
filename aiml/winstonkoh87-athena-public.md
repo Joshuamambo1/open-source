@@ -1,6 +1,6 @@
 # winstonkoh87/Athena-Public
 
-[![Stars](https://img.shields.io/github/stars/winstonkoh87/Athena-Public?style=flat-square&color=yellow)](https://github.com/winstonkoh87/Athena-Public/stargazers) [![Forks](https://img.shields.io/github/forks/winstonkoh87/Athena-Public?style=flat-square&color=blue)](https://github.com/winstonkoh87/Athena-Public/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/winstonkoh87/Athena-Public?style=flat-square&color=yellow)](https://github.com/winstonkoh87/Athena-Public/stargazers) [![Forks](https://img.shields.io/github/forks/winstonkoh87/Athena-Public?style=flat-square&color=blue)](https://github.com/winstonkoh87/Athena-Public/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 474 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Winstonkoh87’s **Athena-Public** is an open‑source Linux‑based operating s
 
 ### 中文
 
-winstonkoh87/Athena-Public：winstonkoh87/Athena-Public helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+winstonkoh87/Athena-Public：winstonkoh87/Athena-Public helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ winstonkoh87/Athena-Public：winstonkoh87/Athena-Public helps add AI capability 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ winstonkoh87/Athena-Public：winstonkoh87/Athena-Public helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 88/100 |
+| production | 72/100 |
+| outlook | 81/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

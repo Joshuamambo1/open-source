@@ -1,6 +1,6 @@
 # erickochen/purple
 
-[![Stars](https://img.shields.io/github/stars/erickochen/purple?style=flat-square&color=yellow)](https://github.com/erickochen/purple/stargazers) [![Forks](https://img.shields.io/github/forks/erickochen/purple?style=flat-square&color=blue)](https://github.com/erickochen/purple/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erickochen/purple?style=flat-square&color=yellow)](https://github.com/erickochen/purple/stargazers) [![Forks](https://img.shields.io/github/forks/erickochen/purple?style=flat-square&color=blue)](https://github.com/erickochen/purple/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up in your host list. Destroy it, it dims. Plus fuzzy search, live tunnel monitoring, scp, Docker over SSH, Vault SSH certs and an MCP server for AI agents. Rust TUI, MIT.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Purple is an open‑source terminal SSH manager written in Rust that automatical
 
 ### 中文
 
-erickochen/purple：erickochen/purple helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+erickochen/purple：erickochen/purple helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ erickochen/purple：erickochen/purple helps add AI capability without starting f
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ erickochen/purple：erickochen/purple helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 86/100 |
+| production | 72/100 |
+| outlook | 79/100 |
 | adoption | 44/100 |
 | stars | 51/100 |
 | forks | 26/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

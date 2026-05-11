@@ -1,6 +1,6 @@
 # electh/nextflux
 
-[![Stars](https://img.shields.io/github/stars/electh/nextflux?style=flat-square&color=yellow)](https://github.com/electh/nextflux/stargazers) [![Forks](https://img.shields.io/github/forks/electh/nextflux?style=flat-square&color=blue)](https://github.com/electh/nextflux/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/electh/nextflux?style=flat-square&color=yellow)](https://github.com/electh/nextflux/stargazers) [![Forks](https://img.shields.io/github/forks/electh/nextflux?style=flat-square&color=blue)](https://github.com/electh/nextflux/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Yet another web-based frontend for Miniflux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 471 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ electh/nextflux：electh/nextflux helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 55/100 |
 | stars | 57/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

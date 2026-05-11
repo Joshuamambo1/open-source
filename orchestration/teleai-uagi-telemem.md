@@ -1,6 +1,6 @@
 # TeleAI-UAGI/telemem
 
-[![Stars](https://img.shields.io/github/stars/TeleAI-UAGI/telemem?style=flat-square&color=yellow)](https://github.com/TeleAI-UAGI/telemem/stargazers) [![Forks](https://img.shields.io/github/forks/TeleAI-UAGI/telemem?style=flat-square&color=blue)](https://github.com/TeleAI-UAGI/telemem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TeleAI-UAGI/telemem?style=flat-square&color=yellow)](https://github.com/TeleAI-UAGI/telemem/stargazers) [![Forks](https://img.shields.io/github/forks/TeleAI-UAGI/telemem?style=flat-square&color=blue)](https://github.com/TeleAI-UAGI/telemem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > TeleMem is a high-performance drop-in replacement for Mem0, featuring semantic deduplication, long-term dialogue memory, and multimodal video reasoning.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ TeleMem — это высокопроизводительная open‑source 
 
 ### 中文
 
-TeleAI-UAGI/telemem：TeleAI-UAGI/telemem helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+TeleAI-UAGI/telemem：TeleAI-UAGI/telemem helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ TeleAI-UAGI/telemem：TeleAI-UAGI/telemem helps turn isolated prompts and tools 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ TeleAI-UAGI/telemem：TeleAI-UAGI/telemem helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 69/100 |
+| outlook | 76/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

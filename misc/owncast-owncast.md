@@ -1,6 +1,6 @@
 # owncast/owncast
 
-[![Stars](https://img.shields.io/github/stars/owncast/owncast?style=flat-square&color=yellow)](https://github.com/owncast/owncast/stargazers) [![Forks](https://img.shields.io/github/forks/owncast/owncast?style=flat-square&color=blue)](https://github.com/owncast/owncast/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/owncast/owncast?style=flat-square&color=yellow)](https://github.com/owncast/owncast/stargazers) [![Forks](https://img.shields.io/github/forks/owncast/owncast?style=flat-square&color=blue)](https://github.com/owncast/owncast/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Owncast — это полностью открытая платформа дл
 
 ### 中文
 
-owncast/owncast：owncast/owncast may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+owncast/owncast：owncast/owncast may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ owncast/owncast：owncast/owncast may be useful when its README and activity mat
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ owncast/owncast：owncast/owncast may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 87/100 |
+| production | 74/100 |
+| outlook | 80/100 |
 | adoption | 84/100 |
 | stars | 86/100 |
 | forks | 77/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # emanuelef/daily-stars-explorer
 
-[![Stars](https://img.shields.io/github/stars/emanuelef/daily-stars-explorer?style=flat-square&color=yellow)](https://github.com/emanuelef/daily-stars-explorer/stargazers) [![Forks](https://img.shields.io/github/forks/emanuelef/daily-stars-explorer?style=flat-square&color=blue)](https://github.com/emanuelef/daily-stars-explorer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emanuelef/daily-stars-explorer?style=flat-square&color=yellow)](https://github.com/emanuelef/daily-stars-explorer/stargazers) [![Forks](https://img.shields.io/github/forks/emanuelef/daily-stars-explorer?style=flat-square&color=blue)](https://github.com/emanuelef/daily-stars-explorer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Gain deeper insights into your favourite open-source GitHub repositories. Explore star trends showing daily stats.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 355 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ emanuelef/daily-stars-explorer：emanuelef/daily-stars-explorer helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 78/100 |
+| production | 66/100 |
+| outlook | 71/100 |
 | adoption | 47/100 |
 | stars | 54/100 |
 | forks | 28/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # sheeki03/tirith
 
-[![Stars](https://img.shields.io/github/stars/sheeki03/tirith?style=flat-square&color=yellow)](https://github.com/sheeki03/tirith/stargazers) [![Forks](https://img.shields.io/github/forks/sheeki03/tirith?style=flat-square&color=blue)](https://github.com/sheeki03/tirith/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sheeki03/tirith?style=flat-square&color=yellow)](https://github.com/sheeki03/tirith/stargazers) [![Forks](https://img.shields.io/github/forks/sheeki03/tirith?style=flat-square&color=blue)](https://github.com/sheeki03/tirith/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Sheeki03’s **tirith** is a terminal‑level security tool designed to protect 
 
 ### 中文
 
-sheeki03/tirith：sheeki03/tirith helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sheeki03/tirith：sheeki03/tirith helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sheeki03/tirith：sheeki03/tirith helps add AI capability without starting from 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ sheeki03/tirith：sheeki03/tirith helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 89/100 |
+| production | 71/100 |
+| outlook | 82/100 |
 | adoption | 65/100 |
 | stars | 72/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

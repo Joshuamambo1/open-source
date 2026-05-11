@@ -1,6 +1,6 @@
 # bluesky-social/social-app
 
-[![Stars](https://img.shields.io/github/stars/bluesky-social/social-app?style=flat-square&color=yellow)](https://github.com/bluesky-social/social-app/stargazers) [![Forks](https://img.shields.io/github/forks/bluesky-social/social-app?style=flat-square&color=blue)](https://github.com/bluesky-social/social-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bluesky-social/social-app?style=flat-square&color=yellow)](https://github.com/bluesky-social/social-app/stargazers) [![Forks](https://img.shields.io/github/forks/bluesky-social/social-app?style=flat-square&color=blue)](https://github.com/bluesky-social/social-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The Bluesky Social application for Web, iOS, and Android
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.9k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Bluesky Social — кроссплатформенное мобильное п�
 
 ### 中文
 
-bluesky-social/social-app：bluesky-social/social-app may be useful when its README and activity match a concrete workflow.。适合用于Mobile。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+bluesky-social/social-app：bluesky-social/social-app may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ bluesky-social/social-app：bluesky-social/social-app may be useful when its REA
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ bluesky-social/social-app：bluesky-social/social-app may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 76/100 |
+| production | 70/100 |
+| outlook | 69/100 |
 | adoption | 89/100 |
 | stars | 91/100 |
 | forks | 86/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

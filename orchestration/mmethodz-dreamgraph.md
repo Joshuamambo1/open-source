@@ -1,6 +1,6 @@
 # mmethodz/dreamgraph
 
-[![Stars](https://img.shields.io/github/stars/mmethodz/dreamgraph?style=flat-square&color=yellow)](https://github.com/mmethodz/dreamgraph/stargazers) [![Forks](https://img.shields.io/github/forks/mmethodz/dreamgraph?style=flat-square&color=blue)](https://github.com/mmethodz/dreamgraph/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mmethodz/dreamgraph?style=flat-square&color=yellow)](https://github.com/mmethodz/dreamgraph/stargazers) [![Forks](https://img.shields.io/github/forks/mmethodz/dreamgraph?style=flat-square&color=blue)](https://github.com/mmethodz/dreamgraph/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ DreamGraph — это open‑source платформа, ставящая гр�
 
 ### 中文
 
-mmethodz/dreamgraph：mmethodz/dreamgraph helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mmethodz/dreamgraph：mmethodz/dreamgraph helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mmethodz/dreamgraph：mmethodz/dreamgraph helps turn isolated prompts and tools 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ mmethodz/dreamgraph：mmethodz/dreamgraph helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 85/100 |
+| production | 72/100 |
+| outlook | 78/100 |
 | adoption | 39/100 |
 | stars | 41/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

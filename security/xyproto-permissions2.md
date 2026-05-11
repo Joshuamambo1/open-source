@@ -1,6 +1,6 @@
 # xyproto/permissions2
 
-[![Stars](https://img.shields.io/github/stars/xyproto/permissions2?style=flat-square&color=yellow)](https://github.com/xyproto/permissions2/stargazers) [![Forks](https://img.shields.io/github/forks/xyproto/permissions2?style=flat-square&color=blue)](https://github.com/xyproto/permissions2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xyproto/permissions2?style=flat-square&color=yellow)](https://github.com/xyproto/permissions2/stargazers) [![Forks](https://img.shields.io/github/forks/xyproto/permissions2?style=flat-square&color=blue)](https://github.com/xyproto/permissions2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > :closed_lock_with_key: Middleware for keeping track of users, login states and permissions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 506 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ xyproto/permissions2：xyproto/permissions2 helps catch security and privacy iss
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 74/100 |
+| production | 68/100 |
+| outlook | 67/100 |
 | adoption | 53/100 |
 | stars | 58/100 |
 | forks | 40/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

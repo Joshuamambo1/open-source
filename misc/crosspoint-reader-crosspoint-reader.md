@@ -1,6 +1,6 @@
 # crosspoint-reader/crosspoint-reader
 
-[![Stars](https://img.shields.io/github/stars/crosspoint-reader/crosspoint-reader?style=flat-square&color=yellow)](https://github.com/crosspoint-reader/crosspoint-reader/stargazers) [![Forks](https://img.shields.io/github/forks/crosspoint-reader/crosspoint-reader?style=flat-square&color=blue)](https://github.com/crosspoint-reader/crosspoint-reader/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crosspoint-reader/crosspoint-reader?style=flat-square&color=yellow)](https://github.com/crosspoint-reader/crosspoint-reader/stargazers) [![Forks](https://img.shields.io/github/forks/crosspoint-reader/crosspoint-reader?style=flat-square&color=blue)](https://github.com/crosspoint-reader/crosspoint-reader/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Firmware for the Xteink X4 e-paper display reader
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 746 |
 | 💻 **Language** | C |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ crosspoint-reader/crosspoint-reader：crosspoint-reader/crosspoint-reader may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 72/100 |
+| production | 65/100 |
+| outlook | 65/100 |
 | adoption | 76/100 |
 | stars | 77/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # open-telemetry/weaver
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/weaver?style=flat-square&color=yellow)](https://github.com/open-telemetry/weaver/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/weaver?style=flat-square&color=blue)](https://github.com/open-telemetry/weaver/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/weaver?style=flat-square&color=yellow)](https://github.com/open-telemetry/weaver/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/weaver?style=flat-square&color=blue)](https://github.com/open-telemetry/weaver/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 400 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ open-telemetry/weaver：open-telemetry/weaver may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 53/100 |
 | stars | 55/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

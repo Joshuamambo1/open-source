@@ -1,6 +1,6 @@
 # WildGums/Orchestra
 
-[![Stars](https://img.shields.io/github/stars/WildGums/Orchestra?style=flat-square&color=yellow)](https://github.com/WildGums/Orchestra/stargazers) [![Forks](https://img.shields.io/github/forks/WildGums/Orchestra?style=flat-square&color=blue)](https://github.com/WildGums/Orchestra/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WildGums/Orchestra?style=flat-square&color=yellow)](https://github.com/WildGums/Orchestra/stargazers) [![Forks](https://img.shields.io/github/forks/WildGums/Orchestra?style=flat-square&color=blue)](https://github.com/WildGums/Orchestra/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestra is a composable shell and WPF framework built on top of Catel
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 494 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ WildGums/Orchestra：WildGums/Orchestra helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 78/100 |
+| production | 66/100 |
+| outlook | 71/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

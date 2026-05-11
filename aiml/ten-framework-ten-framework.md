@@ -1,6 +1,6 @@
 # TEN-framework/ten-framework
 
-[![Stars](https://img.shields.io/github/stars/TEN-framework/ten-framework?style=flat-square&color=yellow)](https://github.com/TEN-framework/ten-framework/stargazers) [![Forks](https://img.shields.io/github/forks/TEN-framework/ten-framework?style=flat-square&color=blue)](https://github.com/TEN-framework/ten-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TEN-framework/ten-framework?style=flat-square&color=yellow)](https://github.com/TEN-framework/ten-framework/stargazers) [![Forks](https://img.shields.io/github/forks/TEN-framework/ten-framework?style=flat-square&color=blue)](https://github.com/TEN-framework/ten-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source framework for conversational voice AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.5k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ TEN-framework — это открытый фреймворк для созда
 
 ### 中文
 
-TEN-framework/ten-framework：TEN-framework/ten-framework helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+TEN-framework/ten-framework：TEN-framework/ten-framework helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ TEN-framework/ten-framework：TEN-framework/ten-framework helps add AI capabilit
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ TEN-framework/ten-framework：TEN-framework/ten-framework helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 87/100 |
+| production | 72/100 |
+| outlook | 80/100 |
 | adoption | 83/100 |
 | stars | 86/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # fiorastudio/buddy
 
-[![Stars](https://img.shields.io/github/stars/fiorastudio/buddy?style=flat-square&color=yellow)](https://github.com/fiorastudio/buddy/stargazers) [![Forks](https://img.shields.io/github/forks/fiorastudio/buddy?style=flat-square&color=blue)](https://github.com/fiorastudio/buddy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fiorastudio/buddy?style=flat-square&color=yellow)](https://github.com/fiorastudio/buddy/stargazers) [![Forks](https://img.shields.io/github/forks/fiorastudio/buddy?style=flat-square&color=blue)](https://github.com/fiorastudio/buddy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > A virtual pet companion for your AI — Designed to provide in-context code review feedback with personality. Grow with your buddy and level up together. Works with Claude Code, Codex, CursorCLI, Github CopilotCLI, OpenClaw, and any MCP compatible clients
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ fiorastudio/buddy — это виртуальный помощник‑пи�
 
 ### 中文
 
-fiorastudio/buddy：fiorastudio/buddy helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+fiorastudio/buddy：fiorastudio/buddy helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ fiorastudio/buddy：fiorastudio/buddy helps add AI capability without starting f
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ fiorastudio/buddy：fiorastudio/buddy helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 94/100 |
-| production | 80/100 |
-| outlook | 84/100 |
+| production | 74/100 |
+| outlook | 77/100 |
 | adoption | 38/100 |
 | stars | 40/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

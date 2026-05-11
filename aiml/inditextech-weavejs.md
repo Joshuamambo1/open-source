@@ -1,6 +1,6 @@
 # InditexTech/weavejs
 
-[![Stars](https://img.shields.io/github/stars/InditexTech/weavejs?style=flat-square&color=yellow)](https://github.com/InditexTech/weavejs/stargazers) [![Forks](https://img.shields.io/github/forks/InditexTech/weavejs?style=flat-square&color=blue)](https://github.com/InditexTech/weavejs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/InditexTech/weavejs?style=flat-square&color=yellow)](https://github.com/InditexTech/weavejs/stargazers) [![Forks](https://img.shields.io/github/forks/InditexTech/weavejs?style=flat-square&color=blue)](https://github.com/InditexTech/weavejs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open source library to build real-time collaboration applications like whiteboards, diagram editors, etc. on HTML5 Canvas with your own UI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 178 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ InditexTech/weavejs：InditexTech/weavejs helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 43/100 |
 | stars | 48/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

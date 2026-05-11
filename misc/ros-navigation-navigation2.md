@@ -1,6 +1,6 @@
 # ros-navigation/navigation2
 
-[![Stars](https://img.shields.io/github/stars/ros-navigation/navigation2?style=flat-square&color=yellow)](https://github.com/ros-navigation/navigation2/stargazers) [![Forks](https://img.shields.io/github/forks/ros-navigation/navigation2?style=flat-square&color=blue)](https://github.com/ros-navigation/navigation2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ros-navigation/navigation2?style=flat-square&color=yellow)](https://github.com/ros-navigation/navigation2/stargazers) [![Forks](https://img.shields.io/github/forks/ros-navigation/navigation2?style=flat-square&color=blue)](https://github.com/ros-navigation/navigation2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > ROS 2 Navigation Framework and System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ ros-navigation/navigation2：ros-navigation/navigation2 may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 80/100 |
+| production | 68/100 |
+| outlook | 73/100 |
 | adoption | 78/100 |
 | stars | 77/100 |
 | forks | 82/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

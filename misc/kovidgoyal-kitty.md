@@ -1,6 +1,6 @@
 # kovidgoyal/kitty
 
-[![Stars](https://img.shields.io/github/stars/kovidgoyal/kitty?style=flat-square&color=yellow)](https://github.com/kovidgoyal/kitty/stargazers) [![Forks](https://img.shields.io/github/forks/kovidgoyal/kitty?style=flat-square&color=blue)](https://github.com/kovidgoyal/kitty/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kovidgoyal/kitty?style=flat-square&color=yellow)](https://github.com/kovidgoyal/kitty/stargazers) [![Forks](https://img.shields.io/github/forks/kovidgoyal/kitty?style=flat-square&color=blue)](https://github.com/kovidgoyal/kitty/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32.8k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ kovidgoyal/kitty：kovidgoyal/kitty may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 96/100 |
+| quality | 91/100 |
 | integration | 62/100 |
-| production | 84/100 |
-| outlook | 86/100 |
+| production | 78/100 |
+| outlook | 79/100 |
 | adoption | 91/100 |
 | stars | 96/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

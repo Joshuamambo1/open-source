@@ -1,6 +1,6 @@
 # bluerobotics/cockpit
 
-[![Stars](https://img.shields.io/github/stars/bluerobotics/cockpit?style=flat-square&color=yellow)](https://github.com/bluerobotics/cockpit/stargazers) [![Forks](https://img.shields.io/github/forks/bluerobotics/cockpit?style=flat-square&color=blue)](https://github.com/bluerobotics/cockpit/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bluerobotics/cockpit?style=flat-square&color=yellow)](https://github.com/bluerobotics/cockpit/stargazers) [![Forks](https://img.shields.io/github/forks/bluerobotics/cockpit?style=flat-square&color=blue)](https://github.com/bluerobotics/cockpit/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > An intuitive and customizable cross-platform ground control station for remote vehicles of all types.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 176 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bluerobotics/cockpit：bluerobotics/cockpit helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 75/100 |
+| production | 68/100 |
+| outlook | 68/100 |
 | adoption | 47/100 |
 | stars | 48/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

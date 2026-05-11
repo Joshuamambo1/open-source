@@ -1,6 +1,6 @@
 # netdisco/netdisco
 
-[![Stars](https://img.shields.io/github/stars/netdisco/netdisco?style=flat-square&color=yellow)](https://github.com/netdisco/netdisco/stargazers) [![Forks](https://img.shields.io/github/forks/netdisco/netdisco?style=flat-square&color=blue)](https://github.com/netdisco/netdisco/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netdisco/netdisco?style=flat-square&color=yellow)](https://github.com/netdisco/netdisco/stargazers) [![Forks](https://img.shields.io/github/forks/netdisco/netdisco?style=flat-square&color=blue)](https://github.com/netdisco/netdisco/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A web-based network management tool.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 864 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Perl |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Netdisco — это веб‑приложение с открытым исхо
 
 ### 中文
 
-netdisco/netdisco：netdisco/netdisco helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+netdisco/netdisco：netdisco/netdisco helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ netdisco/netdisco：netdisco/netdisco helps convert raw data into searchable, an
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ netdisco/netdisco：netdisco/netdisco helps convert raw data into searchable, an
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 85/100 |
+| production | 70/100 |
+| outlook | 78/100 |
 | adoption | 59/100 |
 | stars | 63/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

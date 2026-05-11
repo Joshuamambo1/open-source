@@ -1,6 +1,6 @@
 # tokio-rs/tokio
 
-[![Stars](https://img.shields.io/github/stars/tokio-rs/tokio?style=flat-square&color=yellow)](https://github.com/tokio-rs/tokio/stargazers) [![Forks](https://img.shields.io/github/forks/tokio-rs/tokio?style=flat-square&color=blue)](https://github.com/tokio-rs/tokio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tokio-rs/tokio?style=flat-square&color=yellow)](https://github.com/tokio-rs/tokio/stargazers) [![Forks](https://img.shields.io/github/forks/tokio-rs/tokio?style=flat-square&color=blue)](https://github.com/tokio-rs/tokio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31.9k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Tokio — это высокопроизводительная асинхрон
 
 ### 中文
 
-tokio-rs/tokio：tokio-rs/tokio may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+tokio-rs/tokio：tokio-rs/tokio may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ tokio-rs/tokio：tokio-rs/tokio may be useful when its README and activity match
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ tokio-rs/tokio：tokio-rs/tokio may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 93/100 |
 | stars | 96/100 |
 | forks | 87/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

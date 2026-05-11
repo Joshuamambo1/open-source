@@ -1,6 +1,6 @@
 # kizuna-ai-lab/sokuji
 
-[![Stars](https://img.shields.io/github/stars/kizuna-ai-lab/sokuji?style=flat-square&color=yellow)](https://github.com/kizuna-ai-lab/sokuji/stargazers) [![Forks](https://img.shields.io/github/forks/kizuna-ai-lab/sokuji?style=flat-square&color=blue)](https://github.com/kizuna-ai-lab/sokuji/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kizuna-ai-lab/sokuji?style=flat-square&color=yellow)](https://github.com/kizuna-ai-lab/sokuji/stargazers) [![Forks](https://img.shields.io/github/forks/kizuna-ai-lab/sokuji?style=flat-square&color=blue)](https://github.com/kizuna-ai-lab/sokuji/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Live speech translation powered by on-device AI and cloud providers — OpenAI, Google Gemini, Palabra.ai, Kizuna AI, Volcengine, and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 833 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ kizuna-ai-lab/sokuji — это open‑source веб‑приложение д
 
 ### 中文
 
-kizuna-ai-lab/sokuji：kizuna-ai-lab/sokuji helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+kizuna-ai-lab/sokuji：kizuna-ai-lab/sokuji helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kizuna-ai-lab/sokuji：kizuna-ai-lab/sokuji helps add AI capability without star
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ kizuna-ai-lab/sokuji：kizuna-ai-lab/sokuji helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 78/100 |
+| production | 73/100 |
+| outlook | 71/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

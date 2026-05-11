@@ -1,6 +1,6 @@
 # dhyansraj/mcp-mesh
 
-[![Stars](https://img.shields.io/github/stars/dhyansraj/mcp-mesh?style=flat-square&color=yellow)](https://github.com/dhyansraj/mcp-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/dhyansraj/mcp-mesh?style=flat-square&color=blue)](https://github.com/dhyansraj/mcp-mesh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dhyansraj/mcp-mesh?style=flat-square&color=yellow)](https://github.com/dhyansraj/mcp-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/dhyansraj/mcp-mesh?style=flat-square&color=blue)](https://github.com/dhyansraj/mcp-mesh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-grade distributed AI agent framework | Develop → Deploy → Observe | K8s-native | Dynamic DI | Auto-failover | Multi-LLM | Python + Java + TypeScript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ dhyansraj/mcp-mesh — это корпоративный фреймворк д
 
 ### 中文
 
-dhyansraj/mcp-mesh：dhyansraj/mcp-mesh helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+dhyansraj/mcp-mesh：dhyansraj/mcp-mesh helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dhyansraj/mcp-mesh：dhyansraj/mcp-mesh helps turn isolated prompts and tools in
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ dhyansraj/mcp-mesh：dhyansraj/mcp-mesh helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 94/100 |
-| production | 79/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 30/100 |
 | stars | 33/100 |
 | forks | 23/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

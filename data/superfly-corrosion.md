@@ -1,6 +1,6 @@
 # superfly/corrosion
 
-[![Stars](https://img.shields.io/github/stars/superfly/corrosion?style=flat-square&color=yellow)](https://github.com/superfly/corrosion/stargazers) [![Forks](https://img.shields.io/github/forks/superfly/corrosion?style=flat-square&color=blue)](https://github.com/superfly/corrosion/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superfly/corrosion?style=flat-square&color=yellow)](https://github.com/superfly/corrosion/stargazers) [![Forks](https://img.shields.io/github/forks/superfly/corrosion?style=flat-square&color=blue)](https://github.com/superfly/corrosion/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Gossip-based service discovery (and more) for large distributed systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Superfly / Corrosion — это открытая библиотека, р�
 
 ### 中文
 
-superfly/corrosion：superfly/corrosion helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+superfly/corrosion：superfly/corrosion helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ superfly/corrosion：superfly/corrosion helps convert raw data into searchable, 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ superfly/corrosion：superfly/corrosion helps convert raw data into searchable, 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 78/100 |
+| production | 70/100 |
+| outlook | 71/100 |
 | adoption | 63/100 |
 | stars | 69/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # linux-credentials/libwebauthn
 
-[![Stars](https://img.shields.io/github/stars/linux-credentials/libwebauthn?style=flat-square&color=yellow)](https://github.com/linux-credentials/libwebauthn/stargazers) [![Forks](https://img.shields.io/github/forks/linux-credentials/libwebauthn?style=flat-square&color=blue)](https://github.com/linux-credentials/libwebauthn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linux-credentials/libwebauthn?style=flat-square&color=yellow)](https://github.com/linux-credentials/libwebauthn/stargazers) [![Forks](https://img.shields.io/github/forks/linux-credentials/libwebauthn?style=flat-square&color=blue)](https://github.com/linux-credentials/libwebauthn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > FIDO2 (WebAuthn) and FIDO U2F platform library for Linux written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ linux-credentials/libwebauthn：linux-credentials/libwebauthn helps catch securi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 51/100 |
 | stars | 58/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

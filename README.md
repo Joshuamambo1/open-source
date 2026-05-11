@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6654** |
+| 🗂️ **Total projects** | **6694** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,24 +18,24 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2510 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1214 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 662 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 583 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 356 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 331 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 229 | [Browse →](./crypto/) |
-| 📊 **Data** | 157 | [Browse →](./data/) |
-| 💳 **Payments** | 101 | [Browse →](./payments/) |
-| 📈 **Trading** | 82 | [Browse →](./trading/) |
+| 🤖 **AI/ML** | 2520 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1218 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 663 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 587 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 357 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 334 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 231 | [Browse →](./crypto/) |
+| 📊 **Data** | 159 | [Browse →](./data/) |
+| 💳 **Payments** | 104 | [Browse →](./payments/) |
+| 📈 **Trading** | 83 | [Browse →](./trading/) |
 | 📱 **Mobile** | 79 | [Browse →](./mobile/) |
+| 🏷️ **Mcp** | 70 | [Browse →](./mcp/) |
 | 🚀 **DevOps & Infra** | 69 | [Browse →](./devopsinfra/) |
-| 🏷️ **Mcp** | 67 | [Browse →](./mcp/) |
-| 🏷️ **Automation** | 53 | [Browse →](./automation/) |
-| 🔐 **Security** | 46 | [Browse →](./security/) |
-| 🏷️ **Knowledgerag** | 45 | [Browse →](./knowledgerag/) |
+| 🏷️ **Automation** | 56 | [Browse →](./automation/) |
+| 🔐 **Security** | 47 | [Browse →](./security/) |
+| 🏷️ **Knowledgerag** | 46 | [Browse →](./knowledgerag/) |
 | ✨ **Design** | 21 | [Browse →](./design/) |
-| 🏷️ **Database** | 18 | [Browse →](./database/) |
+| 🏷️ **Database** | 19 | [Browse →](./database/) |
 | 🎯 **Product** | 14 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
 | 🏷️ **Observability** | 5 | [Browse →](./observability/) |

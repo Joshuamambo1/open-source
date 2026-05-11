@@ -1,6 +1,6 @@
 # gotify/server
 
-[![Stars](https://img.shields.io/github/stars/gotify/server?style=flat-square&color=yellow)](https://github.com/gotify/server/stargazers) [![Forks](https://img.shields.io/github/forks/gotify/server?style=flat-square&color=blue)](https://github.com/gotify/server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gotify/server?style=flat-square&color=yellow)](https://github.com/gotify/server/stargazers) [![Forks](https://img.shields.io/github/forks/gotify/server?style=flat-square&color=blue)](https://github.com/gotify/server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15k |
 | 🍴 **Forks** | 812 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gotify/server：gotify/server helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 62/100 |
-| production | 83/100 |
-| outlook | 91/100 |
+| production | 77/100 |
+| outlook | 84/100 |
 | adoption | 84/100 |
 | stars | 89/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

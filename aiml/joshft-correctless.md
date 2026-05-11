@@ -1,6 +1,6 @@
 # joshft/correctless
 
-[![Stars](https://img.shields.io/github/stars/joshft/correctless?style=flat-square&color=yellow)](https://github.com/joshft/correctless/stargazers) [![Forks](https://img.shields.io/github/forks/joshft/correctless?style=flat-square&color=blue)](https://github.com/joshft/correctless/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joshft/correctless?style=flat-square&color=yellow)](https://github.com/joshft/correctless/stargazers) [![Forks](https://img.shields.io/github/forks/joshft/correctless?style=flat-square&color=blue)](https://github.com/joshft/correctless/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The agent that writes the code never reviews it. Spec-driven TDD with agent separation, adversarial QA, and dynamic rigor for Claude Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ joshft/correctless：joshft/correctless helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 81/100 |
+| production | 66/100 |
+| outlook | 74/100 |
 | adoption | 31/100 |
 | stars | 38/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

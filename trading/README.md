@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**82 projects** in this category.
+**83 projects** in this category.
 
 ## Projects
 
@@ -75,21 +75,22 @@
 | 65 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 496 | Python | 59/100 |
 | 66 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 341 | Rust | 59/100 |
 | 67 | [cp2k/cp2k](./cp2k-cp2k.md) | ⭐ 1.1k | Fortran | 58/100 |
-| 68 | [deezertidal/QuantumultX-Rewrite](./deezertidal-quantumultx-rewrite.md) | ⭐ 3.2k | JavaScript | 57/100 |
-| 69 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 918 | Rust | 57/100 |
-| 70 | [microsoft/CSS-Exchange](./microsoft-css-exchange.md) | ⭐ 1.3k | PowerShell | 57/100 |
-| 71 | [xxczaki/cashify](./xxczaki-cashify.md) | ⭐ 404 | TypeScript | 57/100 |
-| 72 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 57/100 |
-| 73 | [radioman/OpenClaw-Trading-Hub](./radioman-openclaw-trading-hub.md) | ⭐ 977 | — | 56/100 |
-| 74 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 720 | Java | 56/100 |
-| 75 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 56/100 |
-| 76 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 56/100 |
-| 77 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 55/100 |
-| 78 | [Kaden-Schutt/hipfire](./kaden-schutt-hipfire.md) | ⭐ 351 | Rust | 54/100 |
-| 79 | [quantiota/Raspberry-Pi-AI-Agent-Host](./quantiota-raspberry-pi-ai-agent-host.md) | ⭐ 32 | Python | 53/100 |
-| 80 | [FLOX-Foundation/flox](./flox-foundation-flox.md) | ⭐ — | — | 52/100 |
-| 81 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 159 | Rust | 52/100 |
-| 82 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 41/100 |
+| 68 | [jnlaoshu/MySelf](./jnlaoshu-myself.md) | ⭐ 550 | JavaScript | 58/100 |
+| 69 | [deezertidal/QuantumultX-Rewrite](./deezertidal-quantumultx-rewrite.md) | ⭐ 3.2k | JavaScript | 57/100 |
+| 70 | [microsoft/qdk](./microsoft-qdk.md) | ⭐ 918 | Rust | 57/100 |
+| 71 | [microsoft/CSS-Exchange](./microsoft-css-exchange.md) | ⭐ 1.3k | PowerShell | 57/100 |
+| 72 | [xxczaki/cashify](./xxczaki-cashify.md) | ⭐ 404 | TypeScript | 57/100 |
+| 73 | [PennyLaneAI/catalyst](./pennylaneai-catalyst.md) | ⭐ 208 | Python | 57/100 |
+| 74 | [radioman/OpenClaw-Trading-Hub](./radioman-openclaw-trading-hub.md) | ⭐ 977 | — | 56/100 |
+| 75 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 720 | Java | 56/100 |
+| 76 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 56/100 |
+| 77 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 56/100 |
+| 78 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 55/100 |
+| 79 | [Kaden-Schutt/hipfire](./kaden-schutt-hipfire.md) | ⭐ 351 | Rust | 54/100 |
+| 80 | [quantiota/Raspberry-Pi-AI-Agent-Host](./quantiota-raspberry-pi-ai-agent-host.md) | ⭐ 32 | Python | 53/100 |
+| 81 | [FLOX-Foundation/flox](./flox-foundation-flox.md) | ⭐ — | — | 52/100 |
+| 82 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 159 | Rust | 52/100 |
+| 83 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 41/100 |
 
 ---
 

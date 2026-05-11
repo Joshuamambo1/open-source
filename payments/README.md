@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**101 projects** in this category.
+**104 projects** in this category.
 
 ## Projects
 
@@ -78,21 +78,21 @@
 | 68 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 61/100 |
 | 69 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 61/100 |
 | 70 | [Dicklesworthstone/flywheel_connectors](./dicklesworthstone-flywheel-connectors.md) | ⭐ 75 | Rust | 61/100 |
-| 71 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 1.3k | C# | 60/100 |
-| 72 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 60/100 |
-| 73 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 60/100 |
-| 74 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 60/100 |
-| 75 | [pay-rails/pay](./pay-rails-pay.md) | ⭐ 2.2k | Ruby | 59/100 |
+| 71 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 60/100 |
+| 72 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 60/100 |
+| 73 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 60/100 |
+| 74 | [pay-rails/pay](./pay-rails-pay.md) | ⭐ 2.2k | Ruby | 59/100 |
+| 75 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 59/100 |
 | 76 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 59/100 |
-| 77 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 59/100 |
-| 78 | [hiroppy/web-app-template](./hiroppy-web-app-template.md) | ⭐ 168 | TypeScript | 59/100 |
-| 79 | [killbill/killbill](./killbill-killbill.md) | ⭐ 5.5k | Java | 58/100 |
-| 80 | [Paymenter/Paymenter](./paymenter-paymenter.md) | ⭐ 1.7k | PHP | 58/100 |
-| 81 | [Lin-arm/GKD_subscription](./lin-arm-gkd-subscription.md) | ⭐ 2.4k | TypeScript | 58/100 |
-| 82 | [stripe-samples/checkout-one-time-payments](./stripe-samples-checkout-one-time-payments.md) | ⭐ 1.1k | CSS | 58/100 |
-| 83 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
-| 84 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 58/100 |
-| 85 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 67 | TypeScript | 58/100 |
+| 77 | [hiroppy/web-app-template](./hiroppy-web-app-template.md) | ⭐ 168 | TypeScript | 59/100 |
+| 78 | [killbill/killbill](./killbill-killbill.md) | ⭐ 5.5k | Java | 58/100 |
+| 79 | [Paymenter/Paymenter](./paymenter-paymenter.md) | ⭐ 1.7k | PHP | 58/100 |
+| 80 | [Lin-arm/GKD_subscription](./lin-arm-gkd-subscription.md) | ⭐ 2.4k | TypeScript | 58/100 |
+| 81 | [stripe-samples/checkout-one-time-payments](./stripe-samples-checkout-one-time-payments.md) | ⭐ 1.1k | CSS | 58/100 |
+| 82 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
+| 83 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 58/100 |
+| 84 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 67 | TypeScript | 58/100 |
+| 85 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 1.3k | C# | 57/100 |
 | 86 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 385 | PHP | 57/100 |
 | 87 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 57/100 |
 | 88 | [laravel/cashier-stripe](./laravel-cashier-stripe.md) | ⭐ 2.5k | PHP | 56/100 |
@@ -103,12 +103,15 @@
 | 93 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 55/100 |
 | 94 | [wevm/mppx](./wevm-mppx.md) | ⭐ 119 | TypeScript | 55/100 |
 | 95 | [AdguardTeam/FiltersRegistry](./adguardteam-filtersregistry.md) | ⭐ 341 | Adblock Filter List | 55/100 |
-| 96 | [shetabit/payment](./shetabit-payment.md) | ⭐ 940 | PHP | 54/100 |
-| 97 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 53/100 |
-| 98 | [bzsanti/oxidizePdf](./bzsanti-oxidizepdf.md) | ⭐ 168 | Rust | 53/100 |
-| 99 | [OrchardCMS/OrchardCore.Commerce](./orchardcms-orchardcore.commerce.md) | ⭐ 229 | C# | 53/100 |
-| 100 | [itsyebekhe/PSG](./itsyebekhe-psg.md) | ⭐ 341 | HTML | 53/100 |
-| 101 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 50/100 |
+| 96 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 54/100 |
+| 97 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 54/100 |
+| 98 | [shetabit/payment](./shetabit-payment.md) | ⭐ 940 | PHP | 54/100 |
+| 99 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 65 | HTML | 53/100 |
+| 100 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 53/100 |
+| 101 | [bzsanti/oxidizePdf](./bzsanti-oxidizepdf.md) | ⭐ 168 | Rust | 53/100 |
+| 102 | [OrchardCMS/OrchardCore.Commerce](./orchardcms-orchardcore.commerce.md) | ⭐ 229 | C# | 53/100 |
+| 103 | [itsyebekhe/PSG](./itsyebekhe-psg.md) | ⭐ 341 | HTML | 53/100 |
+| 104 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 50/100 |
 
 ---
 

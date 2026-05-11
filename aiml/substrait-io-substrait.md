@@ -1,6 +1,6 @@
 # substrait-io/substrait
 
-[![Stars](https://img.shields.io/github/stars/substrait-io/substrait?style=flat-square&color=yellow)](https://github.com/substrait-io/substrait/stargazers) [![Forks](https://img.shields.io/github/forks/substrait-io/substrait?style=flat-square&color=blue)](https://github.com/substrait-io/substrait/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/substrait-io/substrait?style=flat-square&color=yellow)](https://github.com/substrait-io/substrait/stargazers) [![Forks](https://img.shields.io/github/forks/substrait-io/substrait?style=flat-square&color=blue)](https://github.com/substrait-io/substrait/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ substrait‑io/substrait — это кроссплатформенный от�
 
 ### 中文
 
-substrait-io/substrait：substrait-io/substrait helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+substrait-io/substrait：substrait-io/substrait helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ substrait-io/substrait：substrait-io/substrait helps add AI capability without 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ substrait-io/substrait：substrait-io/substrait helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 75/100 |
+| production | 69/100 |
+| outlook | 68/100 |
 | adoption | 65/100 |
 | stars | 68/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # openjdk/jdk
 
-[![Stars](https://img.shields.io/github/stars/openjdk/jdk?style=flat-square&color=yellow)](https://github.com/openjdk/jdk/stargazers) [![Forks](https://img.shields.io/github/forks/openjdk/jdk?style=flat-square&color=blue)](https://github.com/openjdk/jdk/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openjdk/jdk?style=flat-square&color=yellow)](https://github.com/openjdk/jdk/stargazers) [![Forks](https://img.shields.io/github/forks/openjdk/jdk?style=flat-square&color=blue)](https://github.com/openjdk/jdk/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > JDK main-line development https://openjdk.org/projects/jdk
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.9k |
 | 🍴 **Forks** | 6.3k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenJDK JDK — это основной репозиторий разраб�
 
 ### 中文
 
-openjdk/jdk：openjdk/jdk helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+openjdk/jdk：openjdk/jdk helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ openjdk/jdk：openjdk/jdk helps add AI capability without starting from a blank 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ openjdk/jdk：openjdk/jdk helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 93/100 |
 | stars | 93/100 |
 | forks | 95/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

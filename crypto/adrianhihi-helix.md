@@ -1,6 +1,6 @@
 # adrianhihi/helix
 
-[![Stars](https://img.shields.io/github/stars/adrianhihi/helix?style=flat-square&color=yellow)](https://github.com/adrianhihi/helix/stargazers) [![Forks](https://img.shields.io/github/forks/adrianhihi/helix?style=flat-square&color=blue)](https://github.com/adrianhihi/helix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adrianhihi/helix?style=flat-square&color=yellow)](https://github.com/adrianhihi/helix/stargazers) [![Forks](https://img.shields.io/github/forks/adrianhihi/helix?style=flat-square&color=blue)](https://github.com/adrianhihi/helix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Self-healing infrastructure for AI agent payments. 90.3% auto-recovery.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Helix is an open‑source framework that automates the management and recovery o
 
 ### 中文
 
-adrianhihi/helix：adrianhihi/helix helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+adrianhihi/helix：adrianhihi/helix helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ adrianhihi/helix：adrianhihi/helix helps prototype or inspect blockchain workfl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ adrianhihi/helix：adrianhihi/helix helps prototype or inspect blockchain workfl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 41/100 |
 | stars | 54/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

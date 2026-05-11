@@ -1,6 +1,6 @@
 # SteveTheKiller/KillerPDF
 
-[![Stars](https://img.shields.io/github/stars/SteveTheKiller/KillerPDF?style=flat-square&color=yellow)](https://github.com/SteveTheKiller/KillerPDF/stargazers) [![Forks](https://img.shields.io/github/forks/SteveTheKiller/KillerPDF?style=flat-square&color=blue)](https://github.com/SteveTheKiller/KillerPDF/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SteveTheKiller/KillerPDF?style=flat-square&color=yellow)](https://github.com/SteveTheKiller/KillerPDF/stargazers) [![Forks](https://img.shields.io/github/forks/SteveTheKiller/KillerPDF?style=flat-square&color=blue)](https://github.com/SteveTheKiller/KillerPDF/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > PDF editor for Windows. Install or run portable. GPLv3. No account, no subscription, no telemetry.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SteveTheKiller/KillerPDF — это бесплатный PDF‑редакто�
 
 ### 中文
 
-SteveTheKiller/KillerPDF：SteveTheKiller/KillerPDF helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+SteveTheKiller/KillerPDF：SteveTheKiller/KillerPDF helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ SteveTheKiller/KillerPDF：SteveTheKiller/KillerPDF helps integrate monetization
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ SteveTheKiller/KillerPDF：SteveTheKiller/KillerPDF helps integrate monetization
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 79/100 |
+| production | 68/100 |
+| outlook | 72/100 |
 | adoption | 61/100 |
 | stars | 66/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

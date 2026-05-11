@@ -1,6 +1,6 @@
 # fabriziosalmi/certmate
 
-[![Stars](https://img.shields.io/github/stars/fabriziosalmi/certmate?style=flat-square&color=yellow)](https://github.com/fabriziosalmi/certmate/stargazers) [![Forks](https://img.shields.io/github/forks/fabriziosalmi/certmate?style=flat-square&color=blue)](https://github.com/fabriziosalmi/certmate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fabriziosalmi/certmate?style=flat-square&color=yellow)](https://github.com/fabriziosalmi/certmate/stargazers) [![Forks](https://img.shields.io/github/forks/fabriziosalmi/certmate?style=flat-square&color=blue)](https://github.com/fabriziosalmi/certmate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > SSL Certificate Management System (API + UI)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Frontend · Backend · Mobile
 
 ### 中文
 
-fabriziosalmi/certmate：fabriziosalmi/certmate helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+fabriziosalmi/certmate：fabriziosalmi/certmate helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ fabriziosalmi/certmate：fabriziosalmi/certmate helps ship user-facing interface
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ fabriziosalmi/certmate：fabriziosalmi/certmate helps ship user-facing interface
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

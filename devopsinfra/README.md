@@ -30,16 +30,16 @@
 | 20 | [GoogleCloudPlatform/cloud-foundation-fabric](./googlecloudplatform-cloud-foundation-fabric.md) | ⭐ 2k | HCL | 67/100 |
 | 21 | [ovn-kubernetes/ovn-kubernetes](./ovn-kubernetes-ovn-kubernetes.md) | ⭐ 1k | Go | 67/100 |
 | 22 | [n8n-io/n8n-hosting](./n8n-io-n8n-hosting.md) | ⭐ 1.6k | Go Template | 67/100 |
-| 23 | [lwindolf/lzone-cheat-sheets](./lwindolf-lzone-cheat-sheets.md) | ⭐ 333 | Shell | 67/100 |
-| 24 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 66/100 |
-| 25 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 9k | Go | 66/100 |
-| 26 | [external-secrets/external-secrets](./external-secrets-external-secrets.md) | ⭐ 6.6k | Go | 66/100 |
-| 27 | [pulumi/pulumi-aws](./pulumi-pulumi-aws.md) | ⭐ 574 | Go | 66/100 |
-| 28 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 66/100 |
-| 29 | [kubesphere/kubekey](./kubesphere-kubekey.md) | ⭐ 2.8k | Go | 65/100 |
-| 30 | [kube-vip/kube-vip](./kube-vip-kube-vip.md) | ⭐ 2.8k | Go | 65/100 |
-| 31 | [frappe/press](./frappe-press.md) | ⭐ 506 | Python | 65/100 |
-| 32 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 630 | PHP | 65/100 |
+| 23 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 66/100 |
+| 24 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 9k | Go | 66/100 |
+| 25 | [external-secrets/external-secrets](./external-secrets-external-secrets.md) | ⭐ 6.6k | Go | 66/100 |
+| 26 | [pulumi/pulumi-aws](./pulumi-pulumi-aws.md) | ⭐ 574 | Go | 66/100 |
+| 27 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 66/100 |
+| 28 | [kubesphere/kubekey](./kubesphere-kubekey.md) | ⭐ 2.8k | Go | 65/100 |
+| 29 | [kube-vip/kube-vip](./kube-vip-kube-vip.md) | ⭐ 2.8k | Go | 65/100 |
+| 30 | [frappe/press](./frappe-press.md) | ⭐ 506 | Python | 65/100 |
+| 31 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 630 | PHP | 65/100 |
+| 32 | [lwindolf/lzone-cheat-sheets](./lwindolf-lzone-cheat-sheets.md) | ⭐ 333 | Shell | 64/100 |
 | 33 | [hashicorp/terraform-provider-aws](./hashicorp-terraform-provider-aws.md) | ⭐ 10.9k | Go | 63/100 |
 | 34 | [NVIDIA/gpu-operator](./nvidia-gpu-operator.md) | ⭐ 2.7k | Go | 63/100 |
 | 35 | [integrations/terraform-provider-github](./integrations-terraform-provider-github.md) | ⭐ 1.1k | Go | 63/100 |

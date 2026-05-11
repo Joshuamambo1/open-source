@@ -1,6 +1,6 @@
 # warpdotdev/workflows
 
-[![Stars](https://img.shields.io/github/stars/warpdotdev/workflows?style=flat-square&color=yellow)](https://github.com/warpdotdev/workflows/stargazers) [![Forks](https://img.shields.io/github/forks/warpdotdev/workflows?style=flat-square&color=blue)](https://github.com/warpdotdev/workflows/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/warpdotdev/workflows?style=flat-square&color=yellow)](https://github.com/warpdotdev/workflows/stargazers) [![Forks](https://img.shields.io/github/forks/warpdotdev/workflows?style=flat-square&color=blue)](https://github.com/warpdotdev/workflows/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 796 |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ warpdotdev/workflows：warpdotdev/workflows may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 75/100 |
+| production | 65/100 |
+| outlook | 68/100 |
 | adoption | 60/100 |
 | stars | 62/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

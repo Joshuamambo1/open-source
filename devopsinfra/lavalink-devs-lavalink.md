@@ -1,6 +1,6 @@
 # lavalink-devs/Lavalink
 
-[![Stars](https://img.shields.io/github/stars/lavalink-devs/Lavalink?style=flat-square&color=yellow)](https://github.com/lavalink-devs/Lavalink/stargazers) [![Forks](https://img.shields.io/github/forks/lavalink-devs/Lavalink?style=flat-square&color=blue)](https://github.com/lavalink-devs/Lavalink/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lavalink-devs/Lavalink?style=flat-square&color=yellow)](https://github.com/lavalink-devs/Lavalink/stargazers) [![Forks](https://img.shields.io/github/forks/lavalink-devs/Lavalink?style=flat-square&color=blue)](https://github.com/lavalink-devs/Lavalink/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Standalone audio sending node based on Lavaplayer.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 884 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Lavalink — это автономный аудио‑узел, построе
 
 ### 中文
 
-lavalink-devs/Lavalink：lavalink-devs/Lavalink helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+lavalink-devs/Lavalink：lavalink-devs/Lavalink helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ lavalink-devs/Lavalink：lavalink-devs/Lavalink helps make deployment and operat
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ lavalink-devs/Lavalink：lavalink-devs/Lavalink helps make deployment and operat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 71/100 |
 | stars | 70/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

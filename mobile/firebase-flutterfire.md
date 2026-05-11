@@ -1,6 +1,6 @@
 # firebase/flutterfire
 
-[![Stars](https://img.shields.io/github/stars/firebase/flutterfire?style=flat-square&color=yellow)](https://github.com/firebase/flutterfire/stargazers) [![Forks](https://img.shields.io/github/forks/firebase/flutterfire?style=flat-square&color=blue)](https://github.com/firebase/flutterfire/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firebase/flutterfire?style=flat-square&color=yellow)](https://github.com/firebase/flutterfire/stargazers) [![Forks](https://img.shields.io/github/forks/firebase/flutterfire?style=flat-square&color=blue)](https://github.com/firebase/flutterfire/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 A collection of Firebase plugins for Flutter apps.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.2k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Firebase FlutterFire is an open‑source suite of officially maintained plugins 
 
 ### 中文
 
-firebase/flutterfire：firebase/flutterfire may be useful when its README and activity match a concrete workflow.。适合用于Mobile。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+firebase/flutterfire：firebase/flutterfire may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ firebase/flutterfire：firebase/flutterfire may be useful when its README and ac
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ firebase/flutterfire：firebase/flutterfire may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 62/100 |
-| production | 81/100 |
-| outlook | 80/100 |
+| production | 74/100 |
+| outlook | 73/100 |
 | adoption | 86/100 |
 | stars | 84/100 |
 | forks | 90/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

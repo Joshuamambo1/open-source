@@ -1,6 +1,6 @@
 # wikimedia/wikipedia-ios
 
-[![Stars](https://img.shields.io/github/stars/wikimedia/wikipedia-ios?style=flat-square&color=yellow)](https://github.com/wikimedia/wikipedia-ios/stargazers) [![Forks](https://img.shields.io/github/forks/wikimedia/wikipedia-ios?style=flat-square&color=blue)](https://github.com/wikimedia/wikipedia-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wikimedia/wikipedia-ios?style=flat-square&color=yellow)](https://github.com/wikimedia/wikipedia-ios/stargazers) [![Forks](https://img.shields.io/github/forks/wikimedia/wikipedia-ios?style=flat-square&color=blue)](https://github.com/wikimedia/wikipedia-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 📱The official Wikipedia iOS app.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 873 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ wikimedia/wikipedia-ios：wikimedia/wikipedia-ios may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 75/100 |
 | stars | 75/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # 2anki/server
 
-[![Stars](https://img.shields.io/github/stars/2anki/server?style=flat-square&color=yellow)](https://github.com/2anki/server/stargazers) [![Forks](https://img.shields.io/github/forks/2anki/server?style=flat-square&color=blue)](https://github.com/2anki/server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/2anki/server?style=flat-square&color=yellow)](https://github.com/2anki/server/stargazers) [![Forks](https://img.shields.io/github/forks/2anki/server?style=flat-square&color=blue)](https://github.com/2anki/server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Server to create Anki flashcards faster, easier and better today ⭐️
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Backend
 
 ### 中文
 
-2anki/server：2anki/server helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+2anki/server：2anki/server helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Backend
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Backend
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 76/100 |
+| production | 69/100 |
+| outlook | 69/100 |
 | adoption | 49/100 |
 | stars | 53/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

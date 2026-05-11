@@ -1,6 +1,6 @@
 # frappe/erpnext
 
-[![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=flat-square&color=yellow)](https://github.com/frappe/erpnext/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/erpnext?style=flat-square&color=blue)](https://github.com/frappe/erpnext/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=flat-square&color=yellow)](https://github.com/frappe/erpnext/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/erpnext?style=flat-square&color=blue)](https://github.com/frappe/erpnext/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Free and Open Source Enterprise Resource Planning (ERP)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33.7k |
 | 🍴 **Forks** | 11.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ frappe/erpnext：frappe/erpnext helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 99/100 |
+| quality | 94/100 |
 | integration | 46/100 |
-| production | 83/100 |
-| outlook | 88/100 |
+| production | 77/100 |
+| outlook | 81/100 |
 | adoption | 97/100 |
 | stars | 96/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

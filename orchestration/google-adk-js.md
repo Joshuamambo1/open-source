@@ -1,6 +1,6 @@
 # google/adk-js
 
-[![Stars](https://img.shields.io/github/stars/google/adk-js?style=flat-square&color=yellow)](https://github.com/google/adk-js/stargazers) [![Forks](https://img.shields.io/github/forks/google/adk-js?style=flat-square&color=blue)](https://github.com/google/adk-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/adk-js?style=flat-square&color=yellow)](https://github.com/google/adk-js/stargazers) [![Forks](https://img.shields.io/github/forks/google/adk-js?style=flat-square&color=blue)](https://github.com/google/adk-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ google/adk-js：google/adk-js helps turn isolated prompts and tools into repeata
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 78/100 |
-| production | 82/100 |
-| outlook | 90/100 |
+| production | 75/100 |
+| outlook | 83/100 |
 | adoption | 62/100 |
 | stars | 65/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

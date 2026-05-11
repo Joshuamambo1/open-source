@@ -1,6 +1,6 @@
 # webpack/webpack
 
-[![Stars](https://img.shields.io/github/stars/webpack/webpack?style=flat-square&color=yellow)](https://github.com/webpack/webpack/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack?style=flat-square&color=blue)](https://github.com/webpack/webpack/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webpack/webpack?style=flat-square&color=yellow)](https://github.com/webpack/webpack/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack?style=flat-square&color=blue)](https://github.com/webpack/webpack/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 65.8k |
 | 🍴 **Forks** | 9.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ webpack/webpack：webpack/webpack helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 100/100 |
+| quality | 95/100 |
 | integration | 46/100 |
-| production | 84/100 |
-| outlook | 92/100 |
+| production | 77/100 |
+| outlook | 85/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 99/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

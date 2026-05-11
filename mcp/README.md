@@ -39,8 +39,8 @@
 | 29 | [nicobailon/pi-mcp-adapter](./nicobailon-pi-mcp-adapter.md) | ⭐ 640 | TypeScript | 74/100 |
 | 30 | [danielsogl/lighthouse-mcp-server](./danielsogl-lighthouse-mcp-server.md) | ⭐ 58 | TypeScript | 74/100 |
 | 31 | [jacob-bd/notebooklm-mcp-cli](./jacob-bd-notebooklm-mcp-cli.md) | ⭐ 4.3k | Python | 74/100 |
-| 32 | [PatrickSys/codebase-context](./patricksys-codebase-context.md) | ⭐ 44 | TypeScript | 73/100 |
-| 33 | [OHNLP/omop_mcp](./ohnlp-omop-mcp.md) | ⭐ 34 | Python | 73/100 |
+| 32 | [OHNLP/omop_mcp](./ohnlp-omop-mcp.md) | ⭐ 34 | Python | 73/100 |
+| 33 | [PatrickSys/codebase-context](./patricksys-codebase-context.md) | ⭐ 44 | TypeScript | 73/100 |
 | 34 | [redis/mcp-redis](./redis-mcp-redis.md) | ⭐ 507 | Python | 72/100 |
 | 35 | [SmartBear/smartbear-mcp](./smartbear-smartbear-mcp.md) | ⭐ 34 | TypeScript | 72/100 |
 | 36 | [Unclecheng-li/VulnClaw](./unclecheng-li-vulnclaw.md) | ⭐ 37 | Python | 72/100 |

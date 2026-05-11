@@ -2,7 +2,7 @@
 
 > 
 
-**46 projects** in this category.
+**48 projects** in this category.
 
 ## Projects
 
@@ -20,40 +20,42 @@
 | 10 | [suitedaces/dorabot](./suitedaces-dorabot.md) | ⭐ 229 | TypeScript | 76/100 |
 | 11 | [customermates/customermates](./customermates-customermates.md) | ⭐ 221 | TypeScript | 76/100 |
 | 12 | [home-assistant-ecosystem/home-assistant-cli](./home-assistant-ecosystem-home-assistant-cli.md) | ⭐ 558 | Python | 76/100 |
-| 13 | [semantic-release/semantic-release](./semantic-release-semantic-release.md) | ⭐ 23.7k | JavaScript | 75/100 |
-| 14 | [ether/etherpad](./ether-etherpad.md) | ⭐ 18.3k | TypeScript | 74/100 |
-| 15 | [huisezhiyin/sdd-riper](./huisezhiyin-sdd-riper.md) | ⭐ 188 | Python | 73/100 |
-| 16 | [jolicode/castor](./jolicode-castor.md) | ⭐ 542 | PHP | 73/100 |
-| 17 | [web-infra-dev/midscene](./web-infra-dev-midscene.md) | ⭐ 13k | TypeScript | 73/100 |
-| 18 | [TechNickAI/openclaw-config](./technickai-openclaw-config.md) | ⭐ 69 | Python | 73/100 |
-| 19 | [kcosr/assistant](./kcosr-assistant.md) | ⭐ 74 | TypeScript | 72/100 |
-| 20 | [Anil-matcha/Open-AI-Design-Agent](./anil-matcha-open-ai-design-agent.md) | ⭐ 657 | JavaScript | 71/100 |
-| 21 | [pfrest/pfSense-pkg-RESTAPI](./pfrest-pfsense-pkg-restapi.md) | ⭐ 806 | PHP | 71/100 |
-| 22 | [egeominotti/bunqueue](./egeominotti-bunqueue.md) | ⭐ 453 | TypeScript | 69/100 |
-| 23 | [zhinjs/zhin](./zhinjs-zhin.md) | ⭐ 127 | TypeScript | 69/100 |
-| 24 | [numtide/treefmt](./numtide-treefmt.md) | ⭐ 996 | Go | 68/100 |
-| 25 | [droidrun/mobilerun-portal](./droidrun-mobilerun-portal.md) | ⭐ 311 | Kotlin | 68/100 |
-| 26 | [harbor-framework/terminal-bench-science](./harbor-framework-terminal-bench-science.md) | ⭐ 72 | Python | 68/100 |
-| 27 | [xaspx/hermes-control-interface](./xaspx-hermes-control-interface.md) | ⭐ 627 | JavaScript | 68/100 |
-| 28 | [itbench-hub/ITBench](./itbench-hub-itbench.md) | ⭐ 315 | Python | 67/100 |
-| 29 | [Mathews-Tom/armory](./mathews-tom-armory.md) | ⭐ 230 | Python | 67/100 |
-| 30 | [MasterGroosha/aiogram-3-guide](./mastergroosha-aiogram-3-guide.md) | ⭐ 1.1k | Python | 67/100 |
-| 31 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.7k | Go | 66/100 |
-| 32 | [LmeSzinc/AzurLaneAutoScript](./lmeszinc-azurlaneautoscript.md) | ⭐ 9.1k | Python | 65/100 |
-| 33 | [oxidezap/whatsapp-rust](./oxidezap-whatsapp-rust.md) | ⭐ 562 | Rust | 64/100 |
-| 34 | [maziyarpanahi/openmed](./maziyarpanahi-openmed.md) | ⭐ 1.1k | Python | 63/100 |
-| 35 | [kornia/kornia-rs](./kornia-kornia-rs.md) | ⭐ 637 | Rust | 63/100 |
-| 36 | [alpyxn/aeterna](./alpyxn-aeterna.md) | ⭐ 247 | JavaScript | 63/100 |
-| 37 | [LiveHelperChat/livehelperchat](./livehelperchat-livehelperchat.md) | ⭐ 2.2k | PHP | 62/100 |
-| 38 | [ThingsPanel/thingspanel-backend-community](./thingspanel-thingspanel-backend-community.md) | ⭐ 548 | Go | 62/100 |
-| 39 | [strands-labs/robots](./strands-labs-robots.md) | ⭐ 49 | Python | 61/100 |
-| 40 | [fronalabs/frona](./fronalabs-frona.md) | ⭐ 108 | Rust | 61/100 |
-| 41 | [heal-dev/heal-playwright-tracer](./heal-dev-heal-playwright-tracer.md) | ⭐ 35 | JavaScript | 59/100 |
-| 42 | [TzuHuanTai/RaspberryPi-WebRTC](./tzuhuantai-raspberrypi-webrtc.md) | ⭐ 975 | C++ | 59/100 |
-| 43 | [PhotonVision/photonvision](./photonvision-photonvision.md) | ⭐ 411 | Java | 58/100 |
-| 44 | [Big-Sh0t114/NachoBot](./big-sh0t114-nachobot.md) | ⭐ 102 | Python | 58/100 |
-| 45 | [nix-community/nix-ld](./nix-community-nix-ld.md) | ⭐ 1.6k | Rust | 55/100 |
-| 46 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
+| 13 | [BoboTiG/python-mss](./bobotig-python-mss.md) | ⭐ 1.3k | Python | 75/100 |
+| 14 | [semantic-release/semantic-release](./semantic-release-semantic-release.md) | ⭐ 23.7k | JavaScript | 75/100 |
+| 15 | [ether/etherpad](./ether-etherpad.md) | ⭐ 18.3k | TypeScript | 74/100 |
+| 16 | [huisezhiyin/sdd-riper](./huisezhiyin-sdd-riper.md) | ⭐ 188 | Python | 73/100 |
+| 17 | [jolicode/castor](./jolicode-castor.md) | ⭐ 542 | PHP | 73/100 |
+| 18 | [web-infra-dev/midscene](./web-infra-dev-midscene.md) | ⭐ 13k | TypeScript | 73/100 |
+| 19 | [TechNickAI/openclaw-config](./technickai-openclaw-config.md) | ⭐ 69 | Python | 73/100 |
+| 20 | [kcosr/assistant](./kcosr-assistant.md) | ⭐ 74 | TypeScript | 72/100 |
+| 21 | [Anil-matcha/Open-AI-Design-Agent](./anil-matcha-open-ai-design-agent.md) | ⭐ 657 | JavaScript | 71/100 |
+| 22 | [pfrest/pfSense-pkg-RESTAPI](./pfrest-pfsense-pkg-restapi.md) | ⭐ 806 | PHP | 71/100 |
+| 23 | [egeominotti/bunqueue](./egeominotti-bunqueue.md) | ⭐ 453 | TypeScript | 69/100 |
+| 24 | [zhinjs/zhin](./zhinjs-zhin.md) | ⭐ 127 | TypeScript | 69/100 |
+| 25 | [numtide/treefmt](./numtide-treefmt.md) | ⭐ 996 | Go | 68/100 |
+| 26 | [droidrun/mobilerun-portal](./droidrun-mobilerun-portal.md) | ⭐ 311 | Kotlin | 68/100 |
+| 27 | [harbor-framework/terminal-bench-science](./harbor-framework-terminal-bench-science.md) | ⭐ 72 | Python | 68/100 |
+| 28 | [xaspx/hermes-control-interface](./xaspx-hermes-control-interface.md) | ⭐ 627 | JavaScript | 68/100 |
+| 29 | [itbench-hub/ITBench](./itbench-hub-itbench.md) | ⭐ 315 | Python | 67/100 |
+| 30 | [Mathews-Tom/armory](./mathews-tom-armory.md) | ⭐ 230 | Python | 67/100 |
+| 31 | [MasterGroosha/aiogram-3-guide](./mastergroosha-aiogram-3-guide.md) | ⭐ 1.1k | Python | 67/100 |
+| 32 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.7k | Go | 66/100 |
+| 33 | [harnessclaw/harnessclaw](./harnessclaw-harnessclaw.md) | ⭐ 409 | TypeScript | 65/100 |
+| 34 | [LmeSzinc/AzurLaneAutoScript](./lmeszinc-azurlaneautoscript.md) | ⭐ 9.1k | Python | 65/100 |
+| 35 | [oxidezap/whatsapp-rust](./oxidezap-whatsapp-rust.md) | ⭐ 562 | Rust | 64/100 |
+| 36 | [maziyarpanahi/openmed](./maziyarpanahi-openmed.md) | ⭐ 1.1k | Python | 63/100 |
+| 37 | [kornia/kornia-rs](./kornia-kornia-rs.md) | ⭐ 637 | Rust | 63/100 |
+| 38 | [alpyxn/aeterna](./alpyxn-aeterna.md) | ⭐ 247 | JavaScript | 63/100 |
+| 39 | [LiveHelperChat/livehelperchat](./livehelperchat-livehelperchat.md) | ⭐ 2.2k | PHP | 62/100 |
+| 40 | [ThingsPanel/thingspanel-backend-community](./thingspanel-thingspanel-backend-community.md) | ⭐ 548 | Go | 62/100 |
+| 41 | [strands-labs/robots](./strands-labs-robots.md) | ⭐ 49 | Python | 61/100 |
+| 42 | [fronalabs/frona](./fronalabs-frona.md) | ⭐ 108 | Rust | 61/100 |
+| 43 | [heal-dev/heal-playwright-tracer](./heal-dev-heal-playwright-tracer.md) | ⭐ 35 | JavaScript | 59/100 |
+| 44 | [TzuHuanTai/RaspberryPi-WebRTC](./tzuhuantai-raspberrypi-webrtc.md) | ⭐ 975 | C++ | 59/100 |
+| 45 | [PhotonVision/photonvision](./photonvision-photonvision.md) | ⭐ 411 | Java | 58/100 |
+| 46 | [Big-Sh0t114/NachoBot](./big-sh0t114-nachobot.md) | ⭐ 102 | Python | 58/100 |
+| 47 | [nix-community/nix-ld](./nix-community-nix-ld.md) | ⭐ 1.6k | Rust | 55/100 |
+| 48 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
 
 ---
 

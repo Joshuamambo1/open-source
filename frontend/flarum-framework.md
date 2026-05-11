@@ -1,6 +1,6 @@
 # flarum/framework
 
-[![Stars](https://img.shields.io/github/stars/flarum/framework?style=flat-square&color=yellow)](https://github.com/flarum/framework/stargazers) [![Forks](https://img.shields.io/github/forks/flarum/framework?style=flat-square&color=blue)](https://github.com/flarum/framework/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flarum/framework?style=flat-square&color=yellow)](https://github.com/flarum/framework/stargazers) [![Forks](https://img.shields.io/github/forks/flarum/framework?style=flat-square&color=blue)](https://github.com/flarum/framework/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Simple forum software for building great communities.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 872 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Flarum — это лёгкая и быстрая open‑source платфор�
 
 ### 中文
 
-flarum/framework：flarum/framework helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+flarum/framework：flarum/framework helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ flarum/framework：flarum/framework helps ship user-facing interfaces with less 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ flarum/framework：flarum/framework helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 85/100 |
+| production | 71/100 |
+| outlook | 78/100 |
 | adoption | 79/100 |
 | stars | 81/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

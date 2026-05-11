@@ -1,6 +1,6 @@
 # electric-capital/open-dev-data
 
-[![Stars](https://img.shields.io/github/stars/electric-capital/open-dev-data?style=flat-square&color=yellow)](https://github.com/electric-capital/open-dev-data/stargazers) [![Forks](https://img.shields.io/github/forks/electric-capital/open-dev-data?style=flat-square&color=blue)](https://github.com/electric-capital/open-dev-data/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/electric-capital/open-dev-data?style=flat-square&color=yellow)](https://github.com/electric-capital/open-dev-data/stargazers) [![Forks](https://img.shields.io/github/forks/electric-capital/open-dev-data?style=flat-square&color=blue)](https://github.com/electric-capital/open-dev-data/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ electric‑capital/open‑dev‑data provides a structured taxonomy that catalog
 
 ### 中文
 
-electric-capital/open-dev-data：electric-capital/open-dev-data helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+electric-capital/open-dev-data：electric-capital/open-dev-data helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ electric-capital/open-dev-data：electric-capital/open-dev-data helps prototype 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ electric-capital/open-dev-data：electric-capital/open-dev-data helps prototype 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 81/100 |
+| production | 73/100 |
+| outlook | 74/100 |
 | adoption | 74/100 |
 | stars | 70/100 |
 | forks | 83/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # DjangoCRM/django-crm
 
-[![Stars](https://img.shields.io/github/stars/DjangoCRM/django-crm?style=flat-square&color=yellow)](https://github.com/DjangoCRM/django-crm/stargazers) [![Forks](https://img.shields.io/github/forks/DjangoCRM/django-crm?style=flat-square&color=blue)](https://github.com/DjangoCRM/django-crm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DjangoCRM/django-crm?style=flat-square&color=yellow)](https://github.com/DjangoCRM/django-crm/stargazers) [![Forks](https://img.shields.io/github/forks/DjangoCRM/django-crm?style=flat-square&color=blue)](https://github.com/DjangoCRM/django-crm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > CRM and Task management software, Email marketing and many more. Django CRM software app is built for individual use by businesses of any size or freelancers and is designed to provide easy customization and quick development. ✨
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 561 |
 | 🍴 **Forks** | 357 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ DjangoCRM/django-crm — это открытая CRM‑система на б�
 
 ### 中文
 
-DjangoCRM/django-crm：DjangoCRM/django-crm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+DjangoCRM/django-crm：DjangoCRM/django-crm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ DjangoCRM/django-crm：DjangoCRM/django-crm helps add AI capability without star
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ DjangoCRM/django-crm：DjangoCRM/django-crm helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 88/100 |
+| production | 73/100 |
+| outlook | 81/100 |
 | adoption | 60/100 |
 | stars | 59/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

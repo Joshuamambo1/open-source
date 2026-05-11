@@ -1,6 +1,6 @@
 # stefanoamorelli/sec-edgar-mcp
 
-[![Stars](https://img.shields.io/github/stars/stefanoamorelli/sec-edgar-mcp?style=flat-square&color=yellow)](https://github.com/stefanoamorelli/sec-edgar-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/stefanoamorelli/sec-edgar-mcp?style=flat-square&color=blue)](https://github.com/stefanoamorelli/sec-edgar-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stefanoamorelli/sec-edgar-mcp?style=flat-square&color=yellow)](https://github.com/stefanoamorelli/sec-edgar-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/stefanoamorelli/sec-edgar-mcp?style=flat-square&color=blue)](https://github.com/stefanoamorelli/sec-edgar-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A SEC EDGAR MCP (Model Context Protocol) Server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 260 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **SEC EDGAR MCP Server** is an open‑source backend service that implements
 
 ### 中文
 
-stefanoamorelli/sec-edgar-mcp：stefanoamorelli/sec-edgar-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+stefanoamorelli/sec-edgar-mcp：stefanoamorelli/sec-edgar-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ stefanoamorelli/sec-edgar-mcp：stefanoamorelli/sec-edgar-mcp helps add AI capab
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ stefanoamorelli/sec-edgar-mcp：stefanoamorelli/sec-edgar-mcp helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 71/100 |
+| outlook | 72/100 |
 | adoption | 50/100 |
 | stars | 51/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

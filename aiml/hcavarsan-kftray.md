@@ -1,6 +1,6 @@
 # hcavarsan/kftray
 
-[![Stars](https://img.shields.io/github/stars/hcavarsan/kftray?style=flat-square&color=yellow)](https://github.com/hcavarsan/kftray/stargazers) [![Forks](https://img.shields.io/github/forks/hcavarsan/kftray?style=flat-square&color=blue)](https://github.com/hcavarsan/kftray/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hcavarsan/kftray?style=flat-square&color=yellow)](https://github.com/hcavarsan/kftray/stargazers) [![Forks](https://img.shields.io/github/forks/hcavarsan/kftray?style=flat-square&color=blue)](https://github.com/hcavarsan/kftray/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s clusters, stateful config via filesystem or  git - GUI and TUI available
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ hcavarsan/kftray is a versatile tool that manages kubectl port‑forwards an
 
 ### 中文
 
-hcavarsan/kftray：hcavarsan/kftray helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+hcavarsan/kftray：hcavarsan/kftray helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hcavarsan/kftray：hcavarsan/kftray helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ hcavarsan/kftray：hcavarsan/kftray helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 62/100 |
 | stars | 68/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

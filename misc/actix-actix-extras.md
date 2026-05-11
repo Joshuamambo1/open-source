@@ -1,6 +1,6 @@
 # actix/actix-extras
 
-[![Stars](https://img.shields.io/github/stars/actix/actix-extras?style=flat-square&color=yellow)](https://github.com/actix/actix-extras/stargazers) [![Forks](https://img.shields.io/github/forks/actix/actix-extras?style=flat-square&color=blue)](https://github.com/actix/actix-extras/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/actix/actix-extras?style=flat-square&color=yellow)](https://github.com/actix/actix-extras/stargazers) [![Forks](https://img.shields.io/github/forks/actix/actix-extras?style=flat-square&color=blue)](https://github.com/actix/actix-extras/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of additional crates supporting the actix and actix-web frameworks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 883 |
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ actix/actix-extras：actix/actix-extras may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 79/100 |
+| production | 67/100 |
+| outlook | 72/100 |
 | adoption | 62/100 |
 | stars | 63/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

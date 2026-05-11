@@ -1,6 +1,6 @@
 # ast-grep/ast-grep
 
-[![Stars](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&color=yellow)](https://github.com/ast-grep/ast-grep/stargazers) [![Forks](https://img.shields.io/github/forks/ast-grep/ast-grep?style=flat-square&color=blue)](https://github.com/ast-grep/ast-grep/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&color=yellow)](https://github.com/ast-grep/ast-grep/stargazers) [![Forks](https://img.shields.io/github/forks/ast-grep/ast-grep?style=flat-square&color=blue)](https://github.com/ast-grep/ast-grep/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.7k |
 | 🍴 **Forks** | 351 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ast-grep/ast-grep：ast-grep/ast-grep helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 92/100 |
+| quality | 87/100 |
 | integration | 62/100 |
-| production | 83/100 |
-| outlook | 90/100 |
+| production | 76/100 |
+| outlook | 83/100 |
 | adoption | 81/100 |
 | stars | 88/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

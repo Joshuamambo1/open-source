@@ -1,6 +1,6 @@
 # google/ksp
 
-[![Stars](https://img.shields.io/github/stars/google/ksp?style=flat-square&color=yellow)](https://github.com/google/ksp/stargazers) [![Forks](https://img.shields.io/github/forks/google/ksp?style=flat-square&color=blue)](https://github.com/google/ksp/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/ksp?style=flat-square&color=yellow)](https://github.com/google/ksp/stargazers) [![Forks](https://img.shields.io/github/forks/google/ksp?style=flat-square&color=blue)](https://github.com/google/ksp/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Kotlin Symbol Processing API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 393 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **google/ksp** project provides the Kotlin Symbol Processing (KSP) API, a li
 
 ### 中文
 
-google/ksp：google/ksp helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+google/ksp：google/ksp helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ google/ksp：google/ksp helps teams reuse service infrastructure instead of rebu
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ google/ksp：google/ksp helps teams reuse service infrastructure instead of rebu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 75/100 |
+| production | 69/100 |
+| outlook | 68/100 |
 | adoption | 72/100 |
 | stars | 75/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

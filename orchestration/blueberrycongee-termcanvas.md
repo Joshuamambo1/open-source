@@ -1,6 +1,6 @@
 # blueberrycongee/termcanvas
 
-[![Stars](https://img.shields.io/github/stars/blueberrycongee/termcanvas?style=flat-square&color=yellow)](https://github.com/blueberrycongee/termcanvas/stargazers) [![Forks](https://img.shields.io/github/forks/blueberrycongee/termcanvas?style=flat-square&color=blue)](https://github.com/blueberrycongee/termcanvas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blueberrycongee/termcanvas?style=flat-square&color=yellow)](https://github.com/blueberrycongee/termcanvas/stargazers) [![Forks](https://img.shields.io/github/forks/blueberrycongee/termcanvas?style=flat-square&color=blue)](https://github.com/blueberrycongee/termcanvas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > An infinite canvas desktop app for visually managing terminals
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 276 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Blueberrycongee / termcanvas is an open‑source desktop application that pr
 
 ### 中文
 
-blueberrycongee/termcanvas：blueberrycongee/termcanvas helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+blueberrycongee/termcanvas：blueberrycongee/termcanvas helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ blueberrycongee/termcanvas：blueberrycongee/termcanvas helps turn isolated prom
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ blueberrycongee/termcanvas：blueberrycongee/termcanvas helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 85/100 |
+| production | 71/100 |
+| outlook | 78/100 |
 | adoption | 46/100 |
 | stars | 52/100 |
 | forks | 32/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

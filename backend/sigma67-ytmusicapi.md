@@ -1,6 +1,6 @@
 # sigma67/ytmusicapi
 
-[![Stars](https://img.shields.io/github/stars/sigma67/ytmusicapi?style=flat-square&color=yellow)](https://github.com/sigma67/ytmusicapi/stargazers) [![Forks](https://img.shields.io/github/forks/sigma67/ytmusicapi?style=flat-square&color=blue)](https://github.com/sigma67/ytmusicapi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sigma67/ytmusicapi?style=flat-square&color=yellow)](https://github.com/sigma67/ytmusicapi/stargazers) [![Forks](https://img.shields.io/github/forks/sigma67/ytmusicapi?style=flat-square&color=blue)](https://github.com/sigma67/ytmusicapi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial API for YouTube Music
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 296 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Sigma67’s **ytmusicapi** is an open‑source, reverse‑engineered client libr
 
 ### 中文
 
-sigma67/ytmusicapi：sigma67/ytmusicapi helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sigma67/ytmusicapi：sigma67/ytmusicapi helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sigma67/ytmusicapi：sigma67/ytmusicapi helps teams reuse service infrastructure
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ sigma67/ytmusicapi：sigma67/ytmusicapi helps teams reuse service infrastructure
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # playcanvas/splat-transform
 
-[![Stars](https://img.shields.io/github/stars/playcanvas/splat-transform?style=flat-square&color=yellow)](https://github.com/playcanvas/splat-transform/stargazers) [![Forks](https://img.shields.io/github/forks/playcanvas/splat-transform?style=flat-square&color=blue)](https://github.com/playcanvas/splat-transform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/playcanvas/splat-transform?style=flat-square&color=yellow)](https://github.com/playcanvas/splat-transform/stargazers) [![Forks](https://img.shields.io/github/forks/playcanvas/splat-transform?style=flat-square&color=blue)](https://github.com/playcanvas/splat-transform/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool and library for 3D Gaussian splat processing and conversion
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 803 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **playcanvas/splat-transform** project provides a command‑line interface a
 
 ### 中文
 
-playcanvas/splat-transform：playcanvas/splat-transform helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+playcanvas/splat-transform：playcanvas/splat-transform helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ playcanvas/splat-transform：playcanvas/splat-transform helps engineers save tim
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ playcanvas/splat-transform：playcanvas/splat-transform helps engineers save tim
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

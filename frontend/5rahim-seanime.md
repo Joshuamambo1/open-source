@@ -1,6 +1,6 @@
 # 5rahim/seanime
 
-[![Stars](https://img.shields.io/github/stars/5rahim/seanime?style=flat-square&color=yellow)](https://github.com/5rahim/seanime/stargazers) [![Forks](https://img.shields.io/github/forks/5rahim/seanime?style=flat-square&color=blue)](https://github.com/5rahim/seanime/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/5rahim/seanime?style=flat-square&color=yellow)](https://github.com/5rahim/seanime/stargazers) [![Forks](https://img.shields.io/github/forks/5rahim/seanime?style=flat-square&color=blue)](https://github.com/5rahim/seanime/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source media server with a web interface and desktop app for anime and manga.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Frontend · Backend
 
 ### 中文
 
-5rahim/seanime：5rahim/seanime helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+5rahim/seanime：5rahim/seanime helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Frontend · Backend
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Frontend · Backend
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 84/100 |
+| production | 72/100 |
+| outlook | 77/100 |
 | adoption | 71/100 |
 | stars | 75/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

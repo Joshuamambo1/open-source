@@ -1,6 +1,6 @@
 # evo-hq/evo
 
-[![Stars](https://img.shields.io/github/stars/evo-hq/evo?style=flat-square&color=yellow)](https://github.com/evo-hq/evo/stargazers) [![Forks](https://img.shields.io/github/forks/evo-hq/evo?style=flat-square&color=blue)](https://github.com/evo-hq/evo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evo-hq/evo?style=flat-square&color=yellow)](https://github.com/evo-hq/evo/stargazers) [![Forks](https://img.shields.io/github/forks/evo-hq/evo?style=flat-square&color=blue)](https://github.com/evo-hq/evo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A plugin for Claude Code and Codex that turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree search with parallel subagents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 662 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ evo‑hq/evo — это плагин для Claude Code и Codex, котор
 
 ### 中文
 
-evo-hq/evo：evo-hq/evo helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+evo-hq/evo：evo-hq/evo helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ evo-hq/evo：evo-hq/evo helps turn isolated prompts and tools into repeatable ag
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ evo-hq/evo：evo-hq/evo helps turn isolated prompts and tools into repeatable ag
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 78/100 |
-| production | 81/100 |
-| outlook | 80/100 |
+| production | 74/100 |
+| outlook | 73/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

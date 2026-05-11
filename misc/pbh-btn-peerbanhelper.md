@@ -1,6 +1,6 @@
 # PBH-BTN/PeerBanHelper
 
-[![Stars](https://img.shields.io/github/stars/PBH-BTN/PeerBanHelper?style=flat-square&color=yellow)](https://github.com/PBH-BTN/PeerBanHelper/stargazers) [![Forks](https://img.shields.io/github/forks/PBH-BTN/PeerBanHelper?style=flat-square&color=blue)](https://github.com/PBH-BTN/PeerBanHelper/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PBH-BTN/PeerBanHelper?style=flat-square&color=yellow)](https://github.com/PBH-BTN/PeerBanHelper/stargazers) [![Forks](https://img.shields.io/github/forks/PBH-BTN/PeerBanHelper?style=flat-square&color=blue)](https://github.com/PBH-BTN/PeerBanHelper/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ PBH‑BTN (PeerBanHelper) — это бесплатный инструмент �
 
 ### 中文
 
-PBH-BTN/PeerBanHelper：PBH-BTN/PeerBanHelper may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+PBH-BTN/PeerBanHelper：PBH-BTN/PeerBanHelper may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ PBH-BTN/PeerBanHelper：PBH-BTN/PeerBanHelper may be useful when its README and 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ PBH-BTN/PeerBanHelper：PBH-BTN/PeerBanHelper may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 70/100 |
+| outlook | 75/100 |
 | adoption | 73/100 |
 | stars | 80/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

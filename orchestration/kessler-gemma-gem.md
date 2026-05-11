@@ -1,6 +1,6 @@
 # kessler/gemma-gem
 
-[![Stars](https://img.shields.io/github/stars/kessler/gemma-gem?style=flat-square&color=yellow)](https://github.com/kessler/gemma-gem/stargazers) [![Forks](https://img.shields.io/github/forks/kessler/gemma-gem?style=flat-square&color=blue)](https://github.com/kessler/gemma-gem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kessler/gemma-gem?style=flat-square&color=yellow)](https://github.com/kessler/gemma-gem/stargazers) [![Forks](https://img.shields.io/github/forks/kessler/gemma-gem?style=flat-square&color=blue)](https://github.com/kessler/gemma-gem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 893 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ kessler/gemma-gem — это open‑source‑проект, позволяющ�
 
 ### 中文
 
-kessler/gemma-gem：kessler/gemma-gem helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+kessler/gemma-gem：kessler/gemma-gem helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kessler/gemma-gem：kessler/gemma-gem helps turn isolated prompts and tools into
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ kessler/gemma-gem：kessler/gemma-gem helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 78/100 |
-| production | 80/100 |
-| outlook | 82/100 |
+| production | 74/100 |
+| outlook | 75/100 |
 | adoption | 59/100 |
 | stars | 63/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -2,7 +2,7 @@
 
 > 
 
-**11 projects** in this category.
+**12 projects** in this category.
 
 ## Projects
 
@@ -13,12 +13,13 @@
 | 3 | [fooyin/fooyin](./fooyin-fooyin.md) | ⭐ 1.9k | C++ | 64/100 |
 | 4 | [eranif/codelite](./eranif-codelite.md) | ⭐ 2.4k | C++ | 63/100 |
 | 5 | [tinylibs/tinybench](./tinylibs-tinybench.md) | ⭐ 2.3k | TypeScript | 62/100 |
-| 6 | [google/angle](./google-angle.md) | ⭐ 4k | C++ | 61/100 |
-| 7 | [vlang/vsl](./vlang-vsl.md) | ⭐ 393 | V | 58/100 |
-| 8 | [kool-engine/kool](./kool-engine-kool.md) | ⭐ 548 | Kotlin | 58/100 |
-| 9 | [Makisuo/maple](./makisuo-maple.md) | ⭐ 322 | TypeScript | 55/100 |
-| 10 | [fables-tales/rubyfmt](./fables-tales-rubyfmt.md) | ⭐ 1.2k | Rust | 54/100 |
-| 11 | [INCY-DEV/incy-platforms](./incy-dev-incy-platforms.md) | ⭐ 309 | — | 51/100 |
+| 6 | [mongodb/mongo-rust-driver](./mongodb-mongo-rust-driver.md) | ⭐ 1.5k | Rust | 61/100 |
+| 7 | [google/angle](./google-angle.md) | ⭐ 4k | C++ | 61/100 |
+| 8 | [vlang/vsl](./vlang-vsl.md) | ⭐ 393 | V | 58/100 |
+| 9 | [kool-engine/kool](./kool-engine-kool.md) | ⭐ 548 | Kotlin | 58/100 |
+| 10 | [Makisuo/maple](./makisuo-maple.md) | ⭐ 322 | TypeScript | 55/100 |
+| 11 | [fables-tales/rubyfmt](./fables-tales-rubyfmt.md) | ⭐ 1.2k | Rust | 54/100 |
+| 12 | [INCY-DEV/incy-platforms](./incy-dev-incy-platforms.md) | ⭐ 309 | — | 51/100 |
 
 ---
 

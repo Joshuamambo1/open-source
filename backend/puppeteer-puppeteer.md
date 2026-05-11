@@ -1,6 +1,6 @@
 # puppeteer/puppeteer
 
-[![Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=flat-square&color=yellow)](https://github.com/puppeteer/puppeteer/stargazers) [![Forks](https://img.shields.io/github/forks/puppeteer/puppeteer?style=flat-square&color=blue)](https://github.com/puppeteer/puppeteer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=flat-square&color=yellow)](https://github.com/puppeteer/puppeteer/stargazers) [![Forks](https://img.shields.io/github/forks/puppeteer/puppeteer?style=flat-square&color=blue)](https://github.com/puppeteer/puppeteer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > JavaScript API for Chrome and Firefox
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 94.3k |
 | 🍴 **Forks** | 9.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ puppeteer/puppeteer：puppeteer/puppeteer helps teams reuse service infrastructu
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 100/100 |
+| quality | 95/100 |
 | integration | 62/100 |
-| production | 86/100 |
-| outlook | 98/100 |
+| production | 79/100 |
+| outlook | 91/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 99/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

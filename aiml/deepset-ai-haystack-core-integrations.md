@@ -1,6 +1,6 @@
 # deepset-ai/haystack-core-integrations
 
-[![Stars](https://img.shields.io/github/stars/deepset-ai/haystack-core-integrations?style=flat-square&color=yellow)](https://github.com/deepset-ai/haystack-core-integrations/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/haystack-core-integrations?style=flat-square&color=blue)](https://github.com/deepset-ai/haystack-core-integrations/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepset-ai/haystack-core-integrations?style=flat-square&color=yellow)](https://github.com/deepset-ai/haystack-core-integrations/stargazers) [![Forks](https://img.shields.io/github/forks/deepset-ai/haystack-core-integrations?style=flat-square&color=blue)](https://github.com/deepset-ai/haystack-core-integrations/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Additional packages (components, document stores and the likes) to extend the capabilities of Haystack
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 195 |
 | 🍴 **Forks** | 255 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ deepset-ai/haystack-core-integrations：deepset-ai/haystack-core-integrations he
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 52/100 |
 | stars | 49/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

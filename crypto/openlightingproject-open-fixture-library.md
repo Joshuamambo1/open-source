@@ -1,6 +1,6 @@
 # OpenLightingProject/open-fixture-library
 
-[![Stars](https://img.shields.io/github/stars/OpenLightingProject/open-fixture-library?style=flat-square&color=yellow)](https://github.com/OpenLightingProject/open-fixture-library/stargazers) [![Forks](https://img.shields.io/github/forks/OpenLightingProject/open-fixture-library?style=flat-square&color=blue)](https://github.com/OpenLightingProject/open-fixture-library/network) [![Language](https://img.shields.io/badge/lang-JSON-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenLightingProject/open-fixture-library?style=flat-square&color=yellow)](https://github.com/OpenLightingProject/open-fixture-library/stargazers) [![Forks](https://img.shields.io/github/forks/OpenLightingProject/open-fixture-library?style=flat-square&color=blue)](https://github.com/OpenLightingProject/open-fixture-library/network) [![Language](https://img.shields.io/badge/lang-JSON-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A library and website for lighting technology's DMX fixture definition files.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 244 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | JSON |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ OpenLightingProject/open-fixture-library：OpenLightingProject/open-fixture-libr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 50/100 |
 | stars | 51/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

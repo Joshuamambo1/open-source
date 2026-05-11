@@ -1,6 +1,6 @@
 # gohugoio/hugo
 
-[![Stars](https://img.shields.io/github/stars/gohugoio/hugo?style=flat-square&color=yellow)](https://github.com/gohugoio/hugo/stargazers) [![Forks](https://img.shields.io/github/forks/gohugoio/hugo?style=flat-square&color=blue)](https://github.com/gohugoio/hugo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gohugoio/hugo?style=flat-square&color=yellow)](https://github.com/gohugoio/hugo/stargazers) [![Forks](https://img.shields.io/github/forks/gohugoio/hugo?style=flat-square&color=blue)](https://github.com/gohugoio/hugo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > The world’s fastest framework for building websites.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 88k |
 | 🍴 **Forks** | 8.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gohugoio/hugo：gohugoio/hugo helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 98/100 |
+| quality | 93/100 |
 | integration | 46/100 |
-| production | 83/100 |
-| outlook | 93/100 |
+| production | 76/100 |
+| outlook | 86/100 |
 | adoption | 99/100 |
 | stars | 100/100 |
 | forks | 98/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

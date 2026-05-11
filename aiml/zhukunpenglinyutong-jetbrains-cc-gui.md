@@ -1,6 +1,6 @@
 # zhukunpenglinyutong/jetbrains-cc-gui
 
-[![Stars](https://img.shields.io/github/stars/zhukunpenglinyutong/jetbrains-cc-gui?style=flat-square&color=yellow)](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui/stargazers) [![Forks](https://img.shields.io/github/forks/zhukunpenglinyutong/jetbrains-cc-gui?style=flat-square&color=blue)](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhukunpenglinyutong/jetbrains-cc-gui?style=flat-square&color=yellow)](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui/stargazers) [![Forks](https://img.shields.io/github/forks/zhukunpenglinyutong/jetbrains-cc-gui?style=flat-square&color=blue)](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Jetbrains Claude Code and Codex GUI Plugin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 412 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **JetBrains Claude Code and Codex GUI Plugin** is an open‑source extension
 
 ### 中文
 
-zhukunpenglinyutong/jetbrains-cc-gui：zhukunpenglinyutong/jetbrains-cc-gui helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+zhukunpenglinyutong/jetbrains-cc-gui：zhukunpenglinyutong/jetbrains-cc-gui helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ zhukunpenglinyutong/jetbrains-cc-gui：zhukunpenglinyutong/jetbrains-cc-gui help
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ zhukunpenglinyutong/jetbrains-cc-gui：zhukunpenglinyutong/jetbrains-cc-gui help
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 71/100 |
+| production | 69/100 |
+| outlook | 64/100 |
 | adoption | 72/100 |
 | stars | 75/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

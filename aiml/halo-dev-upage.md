@@ -1,6 +1,6 @@
 # halo-dev/upage
 
-[![Stars](https://img.shields.io/github/stars/halo-dev/upage?style=flat-square&color=yellow)](https://github.com/halo-dev/upage/stargazers) [![Forks](https://img.shields.io/github/forks/halo-dev/upage?style=flat-square&color=blue)](https://github.com/halo-dev/upage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/halo-dev/upage?style=flat-square&color=yellow)](https://github.com/halo-dev/upage/stargazers) [![Forks](https://img.shields.io/github/forks/halo-dev/upage?style=flat-square&color=blue)](https://github.com/halo-dev/upage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ halo-dev/upage：halo-dev/upage helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 68/100 |
+| outlook | 69/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ropensci/magick
 
-[![Stars](https://img.shields.io/github/stars/ropensci/magick?style=flat-square&color=yellow)](https://github.com/ropensci/magick/stargazers) [![Forks](https://img.shields.io/github/forks/ropensci/magick?style=flat-square&color=blue)](https://github.com/ropensci/magick/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ropensci/magick?style=flat-square&color=yellow)](https://github.com/ropensci/magick/stargazers) [![Forks](https://img.shields.io/github/forks/ropensci/magick?style=flat-square&color=blue)](https://github.com/ropensci/magick/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Magic, madness, heaven, sin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 481 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | R |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ ropensci/magick：ropensci/magick may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

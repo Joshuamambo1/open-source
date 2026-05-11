@@ -1,6 +1,6 @@
 # TencentCloudBase/awesome-cloudbase-examples
 
-[![Stars](https://img.shields.io/github/stars/TencentCloudBase/awesome-cloudbase-examples?style=flat-square&color=yellow)](https://github.com/TencentCloudBase/awesome-cloudbase-examples/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloudBase/awesome-cloudbase-examples?style=flat-square&color=blue)](https://github.com/TencentCloudBase/awesome-cloudbase-examples/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TencentCloudBase/awesome-cloudbase-examples?style=flat-square&color=yellow)](https://github.com/TencentCloudBase/awesome-cloudbase-examples/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloudBase/awesome-cloudbase-examples?style=flat-square&color=blue)](https://github.com/TencentCloudBase/awesome-cloudbase-examples/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome Tencent CloudBase Examples 腾讯云开发案例
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 377 |
 | 🍴 **Forks** | 272 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ TencentCloudBase/awesome-cloudbase-examples：TencentCloudBase/awesome-cloudbase
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 66/100 |
+| outlook | 68/100 |
 | adoption | 57/100 |
 | stars | 55/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

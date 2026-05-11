@@ -1,6 +1,6 @@
 # dyoshikawa/rulesync
 
-[![Stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=flat-square&color=yellow)](https://github.com/dyoshikawa/rulesync/stargazers) [![Forks](https://img.shields.io/github/forks/dyoshikawa/rulesync?style=flat-square&color=blue)](https://github.com/dyoshikawa/rulesync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=flat-square&color=yellow)](https://github.com/dyoshikawa/rulesync/stargazers) [![Forks](https://img.shields.io/github/forks/dyoshikawa/rulesync?style=flat-square&color=blue)](https://github.com/dyoshikawa/rulesync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > A Utility CLI for AI Coding Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML · DevTools
 
 ### 中文
 
-dyoshikawa/rulesync：dyoshikawa/rulesync helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+dyoshikawa/rulesync：dyoshikawa/rulesync helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dyoshikawa/rulesync：dyoshikawa/rulesync helps add AI capability without starti
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ dyoshikawa/rulesync：dyoshikawa/rulesync helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 78/100 |
-| production | 81/100 |
-| outlook | 87/100 |
+| production | 75/100 |
+| outlook | 80/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

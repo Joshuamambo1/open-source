@@ -1,6 +1,6 @@
 # rsim/oracle-enhanced
 
-[![Stars](https://img.shields.io/github/stars/rsim/oracle-enhanced?style=flat-square&color=yellow)](https://github.com/rsim/oracle-enhanced/stargazers) [![Forks](https://img.shields.io/github/forks/rsim/oracle-enhanced?style=flat-square&color=blue)](https://github.com/rsim/oracle-enhanced/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rsim/oracle-enhanced?style=flat-square&color=yellow)](https://github.com/rsim/oracle-enhanced/stargazers) [![Forks](https://img.shields.io/github/forks/rsim/oracle-enhanced?style=flat-square&color=blue)](https://github.com/rsim/oracle-enhanced/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Oracle enhaced adapter for ActiveRecord
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 564 |
 | 🍴 **Forks** | 324 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ rsim/oracle-enhanced：rsim/oracle-enhanced may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 63/100 |
+| outlook | 61/100 |
 | adoption | 60/100 |
 | stars | 59/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

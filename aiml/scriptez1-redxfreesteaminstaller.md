@@ -1,6 +1,6 @@
 # Scriptez1/RedXFreeSteamInstaller
 
-[![Stars](https://img.shields.io/github/stars/Scriptez1/RedXFreeSteamInstaller?style=flat-square&color=yellow)](https://github.com/Scriptez1/RedXFreeSteamInstaller/stargazers) [![Forks](https://img.shields.io/github/forks/Scriptez1/RedXFreeSteamInstaller?style=flat-square&color=blue)](https://github.com/Scriptez1/RedXFreeSteamInstaller/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Scriptez1/RedXFreeSteamInstaller?style=flat-square&color=yellow)](https://github.com/Scriptez1/RedXFreeSteamInstaller/stargazers) [![Forks](https://img.shields.io/github/forks/Scriptez1/RedXFreeSteamInstaller?style=flat-square&color=blue)](https://github.com/Scriptez1/RedXFreeSteamInstaller/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > It allows you to automatically add all free and paid games and DLCs to your Steam account securely and for free. - Steam hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 717 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ RedXFreeSteamInstaller - это открытый исходный проект, 
 
 ### 中文
 
-Scriptez1/RedXFreeSteamInstaller：Scriptez1/RedXFreeSteamInstaller helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Scriptez1/RedXFreeSteamInstaller：Scriptez1/RedXFreeSteamInstaller helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ Scriptez1/RedXFreeSteamInstaller：Scriptez1/RedXFreeSteamInstaller helps add AI
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ Scriptez1/RedXFreeSteamInstaller：Scriptez1/RedXFreeSteamInstaller helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 79/100 |
+| production | 69/100 |
+| outlook | 72/100 |
 | adoption | 51/100 |
 | stars | 61/100 |
 | forks | 26/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

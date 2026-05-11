@@ -1,6 +1,6 @@
 # Shubhamsaboo/awesome-llm-apps
 
-[![Stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=flat-square&color=yellow)](https://github.com/Shubhamsaboo/awesome-llm-apps/stargazers) [![Forks](https://img.shields.io/github/forks/Shubhamsaboo/awesome-llm-apps?style=flat-square&color=blue)](https://github.com/Shubhamsaboo/awesome-llm-apps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=flat-square&color=yellow)](https://github.com/Shubhamsaboo/awesome-llm-apps/stargazers) [![Forks](https://img.shields.io/github/forks/Shubhamsaboo/awesome-llm-apps?style=flat-square&color=blue)](https://github.com/Shubhamsaboo/awesome-llm-apps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 109.2k |
 | 🍴 **Forks** | 16.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ The "awesome-llm-apps" repository is an open-source collection of over 100 AI an
 
 ### 中文
 
-Shubhamsaboo/awesome-llm-apps：Shubhamsaboo/awesome-llm-apps helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Shubhamsaboo/awesome-llm-apps：Shubhamsaboo/awesome-llm-apps helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ Shubhamsaboo/awesome-llm-apps：Shubhamsaboo/awesome-llm-apps helps add AI capab
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ Shubhamsaboo/awesome-llm-apps：Shubhamsaboo/awesome-llm-apps helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 90/100 |
+| production | 74/100 |
+| outlook | 83/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

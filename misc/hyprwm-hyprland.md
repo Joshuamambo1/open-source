@@ -1,6 +1,6 @@
 # hyprwm/Hyprland
 
-[![Stars](https://img.shields.io/github/stars/hyprwm/Hyprland?style=flat-square&color=yellow)](https://github.com/hyprwm/Hyprland/stargazers) [![Forks](https://img.shields.io/github/forks/hyprwm/Hyprland?style=flat-square&color=blue)](https://github.com/hyprwm/Hyprland/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyprwm/Hyprland?style=flat-square&color=yellow)](https://github.com/hyprwm/Hyprland/stargazers) [![Forks](https://img.shields.io/github/forks/hyprwm/Hyprland?style=flat-square&color=blue)](https://github.com/hyprwm/Hyprland/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35.6k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Hyprland - это полностью открытое, высоко настра
 
 ### 中文
 
-hyprwm/Hyprland：hyprwm/Hyprland may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+hyprwm/Hyprland：hyprwm/Hyprland may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hyprwm/Hyprland：hyprwm/Hyprland may be useful when its README and activity mat
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ hyprwm/Hyprland：hyprwm/Hyprland may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 71/100 |
+| outlook | 74/100 |
 | adoption | 92/100 |
 | stars | 97/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

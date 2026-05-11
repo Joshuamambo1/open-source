@@ -1,6 +1,6 @@
 # dotnet/aspnetcore
 
-[![Stars](https://img.shields.io/github/stars/dotnet/aspnetcore?style=flat-square&color=yellow)](https://github.com/dotnet/aspnetcore/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/aspnetcore?style=flat-square&color=blue)](https://github.com/dotnet/aspnetcore/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/aspnetcore?style=flat-square&color=yellow)](https://github.com/dotnet/aspnetcore/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/aspnetcore?style=flat-square&color=blue)](https://github.com/dotnet/aspnetcore/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37.9k |
 | 🍴 **Forks** | 10.6k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ ASP.NET Core is an open-source, cross-platform .NET framework for building moder
 
 ### 中文
 
-dotnet/aspnetcore：dotnet/aspnetcore helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+dotnet/aspnetcore：dotnet/aspnetcore helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ dotnet/aspnetcore：dotnet/aspnetcore helps ship user-facing interfaces with les
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ dotnet/aspnetcore：dotnet/aspnetcore helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 92/100 |
+| quality | 87/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 86/100 |
+| production | 72/100 |
+| outlook | 79/100 |
 | adoption | 98/100 |
 | stars | 97/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

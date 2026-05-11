@@ -1,6 +1,6 @@
 # BurningC4/Chinese-IPTV
 
-[![Stars](https://img.shields.io/github/stars/BurningC4/Chinese-IPTV?style=flat-square&color=yellow)](https://github.com/BurningC4/Chinese-IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/BurningC4/Chinese-IPTV?style=flat-square&color=blue)](https://github.com/BurningC4/Chinese-IPTV/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BurningC4/Chinese-IPTV?style=flat-square&color=yellow)](https://github.com/BurningC4/Chinese-IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/BurningC4/Chinese-IPTV?style=flat-square&color=blue)](https://github.com/BurningC4/Chinese-IPTV/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Chinese CCTV List (IPV4)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ BurningC4/Chinese-IPTV：BurningC4/Chinese-IPTV may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 64/100 |
+| outlook | 63/100 |
 | adoption | 65/100 |
 | stars | 68/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

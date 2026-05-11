@@ -1,6 +1,6 @@
 # ivan-hc/AM
 
-[![Stars](https://img.shields.io/github/stars/ivan-hc/AM?style=flat-square&color=yellow)](https://github.com/ivan-hc/AM/stargazers) [![Forks](https://img.shields.io/github/forks/ivan-hc/AM?style=flat-square&color=blue)](https://github.com/ivan-hc/AM/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ivan-hc/AM?style=flat-square&color=yellow)](https://github.com/ivan-hc/AM/stargazers) [![Forks](https://img.shields.io/github/forks/ivan-hc/AM?style=flat-square&color=blue)](https://github.com/ivan-hc/AM/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binaries, integrate AppImages by drag/drop or install unlisted AppImages, conversion of old AppImage types... and more! Manage AppImages like never before!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The AppImage Package Manager (AM) is an open‑source tool that streamlines the 
 
 ### 中文
 
-ivan-hc/AM：ivan-hc/AM helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ivan-hc/AM：ivan-hc/AM helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ivan-hc/AM：ivan-hc/AM helps add AI capability without starting from a blank mo
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ivan-hc/AM：ivan-hc/AM helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 85/100 |
+| production | 71/100 |
+| outlook | 78/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # gitkraken/vscode-gitlens
 
-[![Stars](https://img.shields.io/github/stars/gitkraken/vscode-gitlens?style=flat-square&color=yellow)](https://github.com/gitkraken/vscode-gitlens/stargazers) [![Forks](https://img.shields.io/github/forks/gitkraken/vscode-gitlens?style=flat-square&color=blue)](https://github.com/gitkraken/vscode-gitlens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gitkraken/vscode-gitlens?style=flat-square&color=yellow)](https://github.com/gitkraken/vscode-gitlens/stargazers) [![Forks](https://img.shields.io/github/forks/gitkraken/vscode-gitlens?style=flat-square&color=blue)](https://github.com/gitkraken/vscode-gitlens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ GitLens is an open-source extension for VS Code that supercharges Git capabiliti
 
 ### 中文
 
-gitkraken/vscode-gitlens：gitkraken/vscode-gitlens helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+gitkraken/vscode-gitlens：gitkraken/vscode-gitlens helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ gitkraken/vscode-gitlens：gitkraken/vscode-gitlens helps add AI capability with
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -70,14 +70,14 @@ gitkraken/vscode-gitlens：gitkraken/vscode-gitlens helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 72/100 |
+| outlook | 72/100 |
 | adoption | 84/100 |
 | stars | 85/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

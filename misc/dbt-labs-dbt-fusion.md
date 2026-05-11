@@ -1,6 +1,6 @@
 # dbt-labs/dbt-fusion
 
-[![Stars](https://img.shields.io/github/stars/dbt-labs/dbt-fusion?style=flat-square&color=yellow)](https://github.com/dbt-labs/dbt-fusion/stargazers) [![Forks](https://img.shields.io/github/forks/dbt-labs/dbt-fusion?style=flat-square&color=blue)](https://github.com/dbt-labs/dbt-fusion/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dbt-labs/dbt-fusion?style=flat-square&color=yellow)](https://github.com/dbt-labs/dbt-fusion/stargazers) [![Forks](https://img.shields.io/github/forks/dbt-labs/dbt-fusion?style=flat-square&color=blue)](https://github.com/dbt-labs/dbt-fusion/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The next-generation engine for dbt
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 699 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ dbt-labs/dbt-fusion：dbt-labs/dbt-fusion may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 63/100 |
+| outlook | 61/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

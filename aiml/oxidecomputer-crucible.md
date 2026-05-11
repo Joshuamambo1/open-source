@@ -1,6 +1,6 @@
 # oxidecomputer/crucible
 
-[![Stars](https://img.shields.io/github/stars/oxidecomputer/crucible?style=flat-square&color=yellow)](https://github.com/oxidecomputer/crucible/stargazers) [![Forks](https://img.shields.io/github/forks/oxidecomputer/crucible?style=flat-square&color=blue)](https://github.com/oxidecomputer/crucible/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxidecomputer/crucible?style=flat-square&color=yellow)](https://github.com/oxidecomputer/crucible/stargazers) [![Forks](https://img.shields.io/github/forks/oxidecomputer/crucible?style=flat-square&color=blue)](https://github.com/oxidecomputer/crucible/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A storage service.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 247 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ oxidecomputer/crucible：oxidecomputer/crucible helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 68/100 |
+| production | 61/100 |
+| outlook | 61/100 |
 | adoption | 47/100 |
 | stars | 51/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

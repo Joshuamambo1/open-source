@@ -67,11 +67,11 @@
 | 57 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 59/100 |
 | 58 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 59/100 |
 | 59 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 59/100 |
-| 60 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 59/100 |
-| 61 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 58/100 |
-| 62 | [Azure/terraform](./azure-terraform.md) | ⭐ 908 | HCL | 56/100 |
-| 63 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 56/100 |
-| 64 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 55/100 |
+| 60 | [Azure/terraform](./azure-terraform.md) | ⭐ 908 | HCL | 56/100 |
+| 61 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 56/100 |
+| 62 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 55/100 |
+| 63 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 55/100 |
+| 64 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 55/100 |
 | 65 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 51/100 |
 
 ---

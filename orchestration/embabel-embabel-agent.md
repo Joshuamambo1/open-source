@@ -1,6 +1,6 @@
 # embabel/embabel-agent
 
-[![Stars](https://img.shields.io/github/stars/embabel/embabel-agent?style=flat-square&color=yellow)](https://github.com/embabel/embabel-agent/stargazers) [![Forks](https://img.shields.io/github/forks/embabel/embabel-agent?style=flat-square&color=blue)](https://github.com/embabel/embabel-agent/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/embabel/embabel-agent?style=flat-square&color=yellow)](https://github.com/embabel/embabel-agent/stargazers) [![Forks](https://img.shields.io/github/forks/embabel/embabel-agent?style=flat-square&color=blue)](https://github.com/embabel/embabel-agent/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 337 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ Embabel-Agent is an open-source, agent framework for the Java Virtual Machine (J
 
 ### 中文
 
-embabel/embabel-agent：embabel/embabel-agent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+embabel/embabel-agent：embabel/embabel-agent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ embabel/embabel-agent：embabel/embabel-agent helps turn isolated prompts and to
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -70,14 +70,14 @@ embabel/embabel-agent：embabel/embabel-agent helps turn isolated prompts and to
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 88/100 |
+| production | 70/100 |
+| outlook | 81/100 |
 | adoption | 72/100 |
 | stars | 75/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

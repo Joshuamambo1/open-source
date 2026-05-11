@@ -1,6 +1,6 @@
 # ShaftHQ/SHAFT_ENGINE
 
-[![Stars](https://img.shields.io/github/stars/ShaftHQ/SHAFT_ENGINE?style=flat-square&color=yellow)](https://github.com/ShaftHQ/SHAFT_ENGINE/stargazers) [![Forks](https://img.shields.io/github/forks/ShaftHQ/SHAFT_ENGINE?style=flat-square&color=blue)](https://github.com/ShaftHQ/SHAFT_ENGINE/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShaftHQ/SHAFT_ENGINE?style=flat-square&color=yellow)](https://github.com/ShaftHQ/SHAFT_ENGINE/stargazers) [![Forks](https://img.shields.io/github/forks/ShaftHQ/SHAFT_ENGINE?style=flat-square&color=blue)](https://github.com/ShaftHQ/SHAFT_ENGINE/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > SHAFT is a unified test automation engine for web, mobile, API, CLI, database, and desktop e2e testing. Powered by best-in-class frameworks, SHAFT provides a wizard-like syntax to drive your automation efficiently, maximize your ROI, and minimize your learning curve with no limitations! Stop reinventing the wheel! Upgrade now!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 386 |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ SHAFT_ENGINE - это унифицированный движок автомат
 
 ### 中文
 
-ShaftHQ/SHAFT_ENGINE：ShaftHQ/SHAFT_ENGINE helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ShaftHQ/SHAFT_ENGINE：ShaftHQ/SHAFT_ENGINE helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ ShaftHQ/SHAFT_ENGINE：ShaftHQ/SHAFT_ENGINE helps teams reuse service infrastruc
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -70,14 +70,14 @@ ShaftHQ/SHAFT_ENGINE：ShaftHQ/SHAFT_ENGINE helps teams reuse service infrastruc
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 89/100 |
+| production | 72/100 |
+| outlook | 82/100 |
 | adoption | 55/100 |
 | stars | 55/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

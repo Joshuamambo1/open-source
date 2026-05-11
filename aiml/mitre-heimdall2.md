@@ -1,6 +1,6 @@
 # mitre/heimdall2
 
-[![Stars](https://img.shields.io/github/stars/mitre/heimdall2?style=flat-square&color=yellow)](https://github.com/mitre/heimdall2/stargazers) [![Forks](https://img.shields.io/github/forks/mitre/heimdall2?style=flat-square&color=blue)](https://github.com/mitre/heimdall2/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mitre/heimdall2?style=flat-square&color=yellow)](https://github.com/mitre/heimdall2/stargazers) [![Forks](https://img.shields.io/github/forks/mitre/heimdall2?style=flat-square&color=blue)](https://github.com/mitre/heimdall2/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Heimdall Enterprise Server 2 lets you view, store, and compare automated security control scan results.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 249 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ mitre/heimdall2：mitre/heimdall2 helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 50/100 |
 | stars | 51/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

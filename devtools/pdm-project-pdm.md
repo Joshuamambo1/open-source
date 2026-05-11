@@ -1,6 +1,6 @@
 # pdm-project/pdm
 
-[![Stars](https://img.shields.io/github/stars/pdm-project/pdm?style=flat-square&color=yellow)](https://github.com/pdm-project/pdm/stargazers) [![Forks](https://img.shields.io/github/forks/pdm-project/pdm?style=flat-square&color=blue)](https://github.com/pdm-project/pdm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pdm-project/pdm?style=flat-square&color=yellow)](https://github.com/pdm-project/pdm/stargazers) [![Forks](https://img.shields.io/github/forks/pdm-project/pdm?style=flat-square&color=blue)](https://github.com/pdm-project/pdm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A modern Python package and dependency manager supporting the latest PEP standards
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 471 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ pdm-project/pdm is an open-source, modern Python package and dependency manager 
 
 ### 中文
 
-pdm-project/pdm：pdm-project/pdm helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+pdm-project/pdm：pdm-project/pdm helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ pdm-project/pdm：pdm-project/pdm helps engineers save time in daily development
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ pdm-project/pdm：pdm-project/pdm helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 46/100 |
-| production | 80/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 79/100 |
 | stars | 84/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

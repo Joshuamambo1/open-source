@@ -1,6 +1,6 @@
 # christinminor459/OnionClaw
 
-[![Stars](https://img.shields.io/github/stars/christinminor459/OnionClaw?style=flat-square&color=yellow)](https://github.com/christinminor459/OnionClaw/stargazers) [![Forks](https://img.shields.io/github/forks/christinminor459/OnionClaw?style=flat-square&color=blue)](https://github.com/christinminor459/OnionClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/christinminor459/OnionClaw?style=flat-square&color=yellow)](https://github.com/christinminor459/OnionClaw/stargazers) [![Forks](https://img.shields.io/github/forks/christinminor459/OnionClaw?style=flat-square&color=blue)](https://github.com/christinminor459/OnionClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 178 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ OnionClaw is an open-source project that grants AI agents seamless access to the
 
 ### 中文
 
-christinminor459/OnionClaw：christinminor459/OnionClaw helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+christinminor459/OnionClaw：christinminor459/OnionClaw helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ christinminor459/OnionClaw：christinminor459/OnionClaw helps add AI capability 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ christinminor459/OnionClaw：christinminor459/OnionClaw helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 85/100 |
+| production | 71/100 |
+| outlook | 78/100 |
 | adoption | 47/100 |
 | stars | 48/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

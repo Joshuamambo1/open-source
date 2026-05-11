@@ -1,6 +1,6 @@
 # yichuan-w/LEANN
 
-[![Stars](https://img.shields.io/github/stars/yichuan-w/LEANN?style=flat-square&color=yellow)](https://github.com/yichuan-w/LEANN/stargazers) [![Forks](https://img.shields.io/github/forks/yichuan-w/LEANN?style=flat-square&color=blue)](https://github.com/yichuan-w/LEANN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yichuan-w/LEANN?style=flat-square&color=yellow)](https://github.com/yichuan-w/LEANN/stargazers) [![Forks](https://img.shields.io/github/forks/yichuan-w/LEANN?style=flat-square&color=blue)](https://github.com/yichuan-w/LEANN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11k |
 | 🍴 **Forks** | 962 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ LEANN — это открытая платформа для реализаци
 
 ### 中文
 
-yichuan-w/LEANN：yichuan-w/LEANN helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+yichuan-w/LEANN：yichuan-w/LEANN helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ yichuan-w/LEANN：yichuan-w/LEANN helps turn isolated prompts and tools into rep
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ yichuan-w/LEANN：yichuan-w/LEANN helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 92/100 |
+| quality | 87/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 87/100 |
+| production | 74/100 |
+| outlook | 80/100 |
 | adoption | 83/100 |
 | stars | 86/100 |
 | forks | 75/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

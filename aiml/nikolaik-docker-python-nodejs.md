@@ -1,6 +1,6 @@
 # nikolaik/docker-python-nodejs
 
-[![Stars](https://img.shields.io/github/stars/nikolaik/docker-python-nodejs?style=flat-square&color=yellow)](https://github.com/nikolaik/docker-python-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/nikolaik/docker-python-nodejs?style=flat-square&color=blue)](https://github.com/nikolaik/docker-python-nodejs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikolaik/docker-python-nodejs?style=flat-square&color=yellow)](https://github.com/nikolaik/docker-python-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/nikolaik/docker-python-nodejs?style=flat-square&color=blue)](https://github.com/nikolaik/docker-python-nodejs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🐳 Python with Node.js docker image
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 547 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ nikolaik/docker-python-nodejs：nikolaik/docker-python-nodejs helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 67/100 |
+| production | 67/100 |
+| outlook | 60/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

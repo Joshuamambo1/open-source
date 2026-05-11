@@ -1,6 +1,6 @@
 # AhoyISki/duat
 
-[![Stars](https://img.shields.io/github/stars/AhoyISki/duat?style=flat-square&color=yellow)](https://github.com/AhoyISki/duat/stargazers) [![Forks](https://img.shields.io/github/forks/AhoyISki/duat?style=flat-square&color=blue)](https://github.com/AhoyISki/duat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AhoyISki/duat?style=flat-square&color=yellow)](https://github.com/AhoyISki/duat/stargazers) [![Forks](https://img.shields.io/github/forks/AhoyISki/duat?style=flat-square&color=blue)](https://github.com/AhoyISki/duat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, very customizable text editor, configured in rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 241 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AhoyISki/duat：AhoyISki/duat may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 63/100 |
+| outlook | 61/100 |
 | adoption | 45/100 |
 | stars | 51/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ericbuess/claude-code-docs
 
-[![Stars](https://img.shields.io/github/stars/ericbuess/claude-code-docs?style=flat-square&color=yellow)](https://github.com/ericbuess/claude-code-docs/stargazers) [![Forks](https://img.shields.io/github/forks/ericbuess/claude-code-docs?style=flat-square&color=blue)](https://github.com/ericbuess/claude-code-docs/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ericbuess/claude-code-docs?style=flat-square&color=yellow)](https://github.com/ericbuess/claude-code-docs/stargazers) [![Forks](https://img.shields.io/github/forks/ericbuess/claude-code-docs?style=flat-square&color=blue)](https://github.com/ericbuess/claude-code-docs/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 892 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ ericbuess/claude-code-docs：ericbuess/claude-code-docs may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 18/100 |
-| production | 68/100 |
-| outlook | 68/100 |
+| production | 61/100 |
+| outlook | 61/100 |
 | adoption | 60/100 |
 | stars | 63/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

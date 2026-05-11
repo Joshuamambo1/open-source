@@ -1,6 +1,6 @@
 # cberner/redb
 
-[![Stars](https://img.shields.io/github/stars/cberner/redb?style=flat-square&color=yellow)](https://github.com/cberner/redb/stargazers) [![Forks](https://img.shields.io/github/forks/cberner/redb?style=flat-square&color=blue)](https://github.com/cberner/redb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cberner/redb?style=flat-square&color=yellow)](https://github.com/cberner/redb/stargazers) [![Forks](https://img.shields.io/github/forks/cberner/redb?style=flat-square&color=blue)](https://github.com/cberner/redb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An embedded key-value database in pure Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ cberner/redb：cberner/redb helps convert raw data into searchable, analyzable, 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 72/100 |
 | stars | 78/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

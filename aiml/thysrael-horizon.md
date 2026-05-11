@@ -1,6 +1,6 @@
 # Thysrael/Horizon
 
-[![Stars](https://img.shields.io/github/stars/Thysrael/Horizon?style=flat-square&color=yellow)](https://github.com/Thysrael/Horizon/stargazers) [![Forks](https://img.shields.io/github/forks/Thysrael/Horizon?style=flat-square&color=blue)](https://github.com/Thysrael/Horizon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Thysrael/Horizon?style=flat-square&color=yellow)](https://github.com/Thysrael/Horizon/stargazers) [![Forks](https://img.shields.io/github/forks/Thysrael/Horizon?style=flat-square&color=blue)](https://github.com/Thysrael/Horizon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 383 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Thysrael/Horizon is an open-source AI-powered news radar that generates daily br
 
 ### 中文
 
-Thysrael/Horizon：Thysrael/Horizon helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Thysrael/Horizon：Thysrael/Horizon helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ Thysrael/Horizon：Thysrael/Horizon helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ Thysrael/Horizon：Thysrael/Horizon helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 62/100 |
-| production | 81/100 |
-| outlook | 84/100 |
+| production | 75/100 |
+| outlook | 77/100 |
 | adoption | 71/100 |
 | stars | 74/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

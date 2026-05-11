@@ -2,7 +2,7 @@
 
 > 
 
-**7 projects** in this category.
+**8 projects** in this category.
 
 ## Projects
 
@@ -15,6 +15,7 @@
 | 5 | [kool-engine/kool](./kool-engine-kool.md) | ⭐ 548 | Kotlin | 58/100 |
 | 6 | [Makisuo/maple](./makisuo-maple.md) | ⭐ 322 | TypeScript | 55/100 |
 | 7 | [fables-tales/rubyfmt](./fables-tales-rubyfmt.md) | ⭐ 1.2k | Rust | 54/100 |
+| 8 | [INCY-DEV/incy-platforms](./incy-dev-incy-platforms.md) | ⭐ 309 | — | 51/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rio-labs/rio
 
-[![Stars](https://img.shields.io/github/stars/rio-labs/rio?style=flat-square&color=yellow)](https://github.com/rio-labs/rio/stargazers) [![Forks](https://img.shields.io/github/forks/rio-labs/rio?style=flat-square&color=blue)](https://github.com/rio-labs/rio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rio-labs/rio?style=flat-square&color=yellow)](https://github.com/rio-labs/rio/stargazers) [![Forks](https://img.shields.io/github/forks/rio-labs/rio?style=flat-square&color=blue)](https://github.com/rio-labs/rio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > WebApps in pure Python. No JavaScript, HTML and CSS needed
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Rio is an open‑source framework that lets developers build full‑featured web
 
 ### 中文
 
-rio-labs/rio：rio-labs/rio helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rio-labs/rio：rio-labs/rio helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rio-labs/rio：rio-labs/rio helps add AI capability without starting from a blan
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ rio-labs/rio：rio-labs/rio helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 87/100 |
+| production | 72/100 |
+| outlook | 80/100 |
 | adoption | 69/100 |
 | stars | 75/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

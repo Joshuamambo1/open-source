@@ -1,6 +1,6 @@
 # aklivity/zilla
 
-[![Stars](https://img.shields.io/github/stars/aklivity/zilla?style=flat-square&color=yellow)](https://github.com/aklivity/zilla/stargazers) [![Forks](https://img.shields.io/github/forks/aklivity/zilla?style=flat-square&color=blue)](https://github.com/aklivity/zilla/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aklivity/zilla?style=flat-square&color=yellow)](https://github.com/aklivity/zilla/stargazers) [![Forks](https://img.shields.io/github/forks/aklivity/zilla?style=flat-square&color=blue)](https://github.com/aklivity/zilla/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🦎 A multi-protocol edge & service proxy. Seamlessly interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 687 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Aklivity Zilla is an open‑source, multi‑protocol edge and service proxy th
 
 ### 中文
 
-aklivity/zilla：aklivity/zilla helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+aklivity/zilla：aklivity/zilla helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ aklivity/zilla：aklivity/zilla helps prototype or inspect blockchain workflows 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ aklivity/zilla：aklivity/zilla helps prototype or inspect blockchain workflows 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 84/100 |
+| production | 72/100 |
+| outlook | 77/100 |
 | adoption | 56/100 |
 | stars | 60/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

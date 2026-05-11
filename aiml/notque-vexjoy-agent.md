@@ -1,6 +1,6 @@
 # notque/vexjoy-agent
 
-[![Stars](https://img.shields.io/github/stars/notque/vexjoy-agent?style=flat-square&color=yellow)](https://github.com/notque/vexjoy-agent/stargazers) [![Forks](https://img.shields.io/github/forks/notque/vexjoy-agent?style=flat-square&color=blue)](https://github.com/notque/vexjoy-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/notque/vexjoy-agent?style=flat-square&color=yellow)](https://github.com/notque/vexjoy-agent/stargazers) [![Forks](https://img.shields.io/github/forks/notque/vexjoy-agent?style=flat-square&color=blue)](https://github.com/notque/vexjoy-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > VexJoy AI Agent with Intelligent Routing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ notque/vexjoy-agent：notque/vexjoy-agent helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 50/100 |
 | stars | 55/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

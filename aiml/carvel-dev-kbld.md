@@ -1,6 +1,6 @@
 # carvel-dev/kbld
 
-[![Stars](https://img.shields.io/github/stars/carvel-dev/kbld?style=flat-square&color=yellow)](https://github.com/carvel-dev/kbld/stargazers) [![Forks](https://img.shields.io/github/forks/carvel-dev/kbld?style=flat-square&color=blue)](https://github.com/carvel-dev/kbld/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carvel-dev/kbld?style=flat-square&color=yellow)](https://github.com/carvel-dev/kbld/stargazers) [![Forks](https://img.shields.io/github/forks/carvel-dev/kbld?style=flat-square&color=blue)](https://github.com/carvel-dev/kbld/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > kbld seamlessly incorporates image building and image pushing into your development and deployment workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ carvel-dev/kbld：carvel-dev/kbld helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 94/100 |
-| production | 82/100 |
-| outlook | 82/100 |
+| production | 76/100 |
+| outlook | 75/100 |
 | adoption | 50/100 |
 | stars | 54/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

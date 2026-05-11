@@ -83,8 +83,8 @@
 | 73 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 60/100 |
 | 74 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 60/100 |
 | 75 | [pay-rails/pay](./pay-rails-pay.md) | ⭐ 2.2k | Ruby | 59/100 |
-| 76 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 59/100 |
-| 77 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 59/100 |
+| 76 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 59/100 |
+| 77 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 59/100 |
 | 78 | [hiroppy/web-app-template](./hiroppy-web-app-template.md) | ⭐ 168 | TypeScript | 59/100 |
 | 79 | [killbill/killbill](./killbill-killbill.md) | ⭐ 5.5k | Java | 58/100 |
 | 80 | [Paymenter/Paymenter](./paymenter-paymenter.md) | ⭐ 1.7k | PHP | 58/100 |
@@ -92,16 +92,16 @@
 | 82 | [stripe-samples/checkout-one-time-payments](./stripe-samples-checkout-one-time-payments.md) | ⭐ 1.1k | CSS | 58/100 |
 | 83 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
 | 84 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 58/100 |
-| 85 | [wevm/mppx](./wevm-mppx.md) | ⭐ 119 | TypeScript | 58/100 |
-| 86 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 67 | TypeScript | 58/100 |
-| 87 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 385 | PHP | 57/100 |
-| 88 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 57/100 |
-| 89 | [laravel/cashier-stripe](./laravel-cashier-stripe.md) | ⭐ 2.5k | PHP | 56/100 |
-| 90 | [ebrasha/free-v2ray-public-list](./ebrasha-free-v2ray-public-list.md) | ⭐ 731 | — | 56/100 |
-| 91 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 534 | Perl | 56/100 |
-| 92 | [elementary/appcenter](./elementary-appcenter.md) | ⭐ 553 | Vala | 56/100 |
-| 93 | [nutcas3/lets-bet](./nutcas3-lets-bet.md) | ⭐ 104 | Go | 56/100 |
-| 94 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 55/100 |
+| 85 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 67 | TypeScript | 58/100 |
+| 86 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 385 | PHP | 57/100 |
+| 87 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 77 | Rust | 57/100 |
+| 88 | [laravel/cashier-stripe](./laravel-cashier-stripe.md) | ⭐ 2.5k | PHP | 56/100 |
+| 89 | [ebrasha/free-v2ray-public-list](./ebrasha-free-v2ray-public-list.md) | ⭐ 731 | — | 56/100 |
+| 90 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 534 | Perl | 56/100 |
+| 91 | [elementary/appcenter](./elementary-appcenter.md) | ⭐ 553 | Vala | 56/100 |
+| 92 | [nutcas3/lets-bet](./nutcas3-lets-bet.md) | ⭐ 104 | Go | 56/100 |
+| 93 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 55/100 |
+| 94 | [wevm/mppx](./wevm-mppx.md) | ⭐ 119 | TypeScript | 55/100 |
 | 95 | [AdguardTeam/FiltersRegistry](./adguardteam-filtersregistry.md) | ⭐ 341 | Adblock Filter List | 55/100 |
 | 96 | [shetabit/payment](./shetabit-payment.md) | ⭐ 940 | PHP | 54/100 |
 | 97 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 53/100 |

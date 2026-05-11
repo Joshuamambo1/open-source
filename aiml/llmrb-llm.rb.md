@@ -1,6 +1,6 @@
 # llmrb/llm.rb
 
-[![Stars](https://img.shields.io/github/stars/llmrb/llm.rb?style=flat-square&color=yellow)](https://github.com/llmrb/llm.rb/stargazers) [![Forks](https://img.shields.io/github/forks/llmrb/llm.rb?style=flat-square&color=blue)](https://github.com/llmrb/llm.rb/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llmrb/llm.rb?style=flat-square&color=yellow)](https://github.com/llmrb/llm.rb/stargazers) [![Forks](https://img.shields.io/github/forks/llmrb/llm.rb?style=flat-square&color=blue)](https://github.com/llmrb/llm.rb/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Ruby's most capable AI runtime
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ llmrb/llm.rb：llmrb/llm.rb helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 79/100 |
+| production | 65/100 |
+| outlook | 72/100 |
 | adoption | 39/100 |
 | stars | 45/100 |
 | forks | 23/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

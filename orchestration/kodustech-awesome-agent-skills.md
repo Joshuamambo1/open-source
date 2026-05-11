@@ -1,6 +1,6 @@
 # kodustech/awesome-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/kodustech/awesome-agent-skills?style=flat-square&color=yellow)](https://github.com/kodustech/awesome-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/kodustech/awesome-agent-skills?style=flat-square&color=blue)](https://github.com/kodustech/awesome-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kodustech/awesome-agent-skills?style=flat-square&color=yellow)](https://github.com/kodustech/awesome-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/kodustech/awesome-agent-skills?style=flat-square&color=blue)](https://github.com/kodustech/awesome-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of Agent Skills for AI coding agents like Claude Code, Codex and Cursor.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ kodustech/awesome-agent-skills：kodustech/awesome-agent-skills helps turn isola
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 82/100 |
+| production | 64/100 |
+| outlook | 75/100 |
 | adoption | 36/100 |
 | stars | 38/100 |
 | forks | 32/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # aws-samples/sample-autonomous-cloud-coding-agents
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/sample-autonomous-cloud-coding-agents?style=flat-square&color=yellow)](https://github.com/aws-samples/sample-autonomous-cloud-coding-agents/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/sample-autonomous-cloud-coding-agents?style=flat-square&color=blue)](https://github.com/aws-samples/sample-autonomous-cloud-coding-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/sample-autonomous-cloud-coding-agents?style=flat-square&color=yellow)](https://github.com/aws-samples/sample-autonomous-cloud-coding-agents/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/sample-autonomous-cloud-coding-agents?style=flat-square&color=blue)](https://github.com/aws-samples/sample-autonomous-cloud-coding-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous background coding agents on AWS. Turn tasks into pull requests via isolated runtimes, with built-in orchestration, observability, and governance.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ aws-samples/sample-autonomous-cloud-coding-agents：aws-samples/sample-autonomou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 73/100 |
+| production | 67/100 |
+| outlook | 66/100 |
 | adoption | 35/100 |
 | stars | 36/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6614** |
+| 🗂️ **Total projects** | **6654** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,27 +18,27 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2501 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1200 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 659 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 2510 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1214 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 662 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 583 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 354 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 356 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 331 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 227 | [Browse →](./crypto/) |
-| 📊 **Data** | 156 | [Browse →](./data/) |
+| ⛓️ **Crypto** | 229 | [Browse →](./crypto/) |
+| 📊 **Data** | 157 | [Browse →](./data/) |
 | 💳 **Payments** | 101 | [Browse →](./payments/) |
 | 📈 **Trading** | 82 | [Browse →](./trading/) |
 | 📱 **Mobile** | 79 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 69 | [Browse →](./devopsinfra/) |
-| 🏷️ **Mcp** | 65 | [Browse →](./mcp/) |
-| 🏷️ **Automation** | 51 | [Browse →](./automation/) |
+| 🏷️ **Mcp** | 67 | [Browse →](./mcp/) |
+| 🏷️ **Automation** | 53 | [Browse →](./automation/) |
 | 🔐 **Security** | 46 | [Browse →](./security/) |
-| 🏷️ **Knowledgerag** | 41 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 45 | [Browse →](./knowledgerag/) |
 | ✨ **Design** | 21 | [Browse →](./design/) |
 | 🏷️ **Database** | 18 | [Browse →](./database/) |
 | 🎯 **Product** | 14 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
-| 🏷️ **Observability** | 4 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 5 | [Browse →](./observability/) |
 | 🏷️ **Education** | 3 | [Browse →](./education/) |
 
 ## 🔥 Top 10 by score
@@ -46,12 +46,12 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 186.9k | AI/ML |
-| 2 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
-| 3 | [google-gemini/gemini-cli](./aiml/google-gemini-gemini-cli.md) | ⭐ 103.3k | AI/ML |
-| 4 | [n8n-io/n8n](./aiml/n8n-io-n8n.md) | ⭐ 186.9k | AI/ML |
-| 5 | [mcp-use/mcp-use](./aiml/mcp-use-mcp-use.md) | ⭐ 9.9k | AI/ML |
-| 6 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
-| 7 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
+| 2 | [google-gemini/gemini-cli](./aiml/google-gemini-gemini-cli.md) | ⭐ 103.3k | AI/ML |
+| 3 | [n8n-io/n8n](./aiml/n8n-io-n8n.md) | ⭐ 186.9k | AI/ML |
+| 4 | [mcp-use/mcp-use](./aiml/mcp-use-mcp-use.md) | ⭐ 9.9k | AI/ML |
+| 5 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
+| 6 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
+| 7 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
 | 8 | [subzeroid/instagrapi](./backend/subzeroid-instagrapi.md) | ⭐ 6.2k | Backend |
 | 9 | [xerrors/Yuxi](./orchestration/xerrors-yuxi.md) | ⭐ 5.1k | Orchestration |
 | 10 | [Klavis-AI/klavis](./aiml/klavis-ai-klavis.md) | ⭐ 5.7k | AI/ML |

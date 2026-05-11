@@ -1,6 +1,6 @@
 # Potterli20/hosts
 
-[![Stars](https://img.shields.io/github/stars/Potterli20/hosts?style=flat-square&color=yellow)](https://github.com/Potterli20/hosts/stargazers) [![Forks](https://img.shields.io/github/forks/Potterli20/hosts?style=flat-square&color=blue)](https://github.com/Potterli20/hosts/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Potterli20/hosts?style=flat-square&color=yellow)](https://github.com/Potterli20/hosts/stargazers) [![Forks](https://img.shields.io/github/forks/Potterli20/hosts?style=flat-square&color=blue)](https://github.com/Potterli20/hosts/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 冷莫(trli)的规则唯一一个提供全球比较全的库Cold Mo (TRLI) rules is the only one to provide a global comparison of the library.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Potterli20/hosts：Potterli20/hosts helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 66/100 |
+| outlook | 68/100 |
 | adoption | 47/100 |
 | stars | 53/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

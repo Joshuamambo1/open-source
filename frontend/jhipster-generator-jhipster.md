@@ -1,6 +1,6 @@
 # jhipster/generator-jhipster
 
-[![Stars](https://img.shields.io/github/stars/jhipster/generator-jhipster?style=flat-square&color=yellow)](https://github.com/jhipster/generator-jhipster/stargazers) [![Forks](https://img.shields.io/github/forks/jhipster/generator-jhipster?style=flat-square&color=blue)](https://github.com/jhipster/generator-jhipster/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jhipster/generator-jhipster?style=flat-square&color=yellow)](https://github.com/jhipster/generator-jhipster/stargazers) [![Forks](https://img.shields.io/github/forks/jhipster/generator-jhipster?style=flat-square&color=blue)](https://github.com/jhipster/generator-jhipster/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.4k |
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jhipster/generator-jhipster：jhipster/generator-jhipster helps ship user-facing
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 96/100 |
+| quality | 91/100 |
 | integration | 78/100 |
-| production | 87/100 |
-| outlook | 86/100 |
+| production | 80/100 |
+| outlook | 79/100 |
 | adoption | 92/100 |
 | stars | 93/100 |
 | forks | 91/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

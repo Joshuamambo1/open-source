@@ -1,6 +1,6 @@
 # jaegertracing/jaeger
 
-[![Stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=flat-square&color=yellow)](https://github.com/jaegertracing/jaeger/stargazers) [![Forks](https://img.shields.io/github/forks/jaegertracing/jaeger?style=flat-square&color=blue)](https://github.com/jaegertracing/jaeger/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=flat-square&color=yellow)](https://github.com/jaegertracing/jaeger/stargazers) [![Forks](https://img.shields.io/github/forks/jaegertracing/jaeger?style=flat-square&color=blue)](https://github.com/jaegertracing/jaeger/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > CNCF Jaeger, a Distributed Tracing Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.8k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Jaeger — это открытая платформа распределённ
 
 ### 中文
 
-jaegertracing/jaeger：jaegertracing/jaeger may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jaegertracing/jaeger：jaegertracing/jaeger may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ jaegertracing/jaeger：jaegertracing/jaeger may be useful when its README and ac
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ jaegertracing/jaeger：jaegertracing/jaeger may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 46/100 |
-| production | 82/100 |
-| outlook | 85/100 |
+| production | 75/100 |
+| outlook | 78/100 |
 | adoption | 91/100 |
 | stars | 93/100 |
 | forks | 86/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

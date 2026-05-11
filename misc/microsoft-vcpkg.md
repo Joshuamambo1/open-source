@@ -1,6 +1,6 @@
 # microsoft/vcpkg
 
-[![Stars](https://img.shields.io/github/stars/microsoft/vcpkg?style=flat-square&color=yellow)](https://github.com/microsoft/vcpkg/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/vcpkg?style=flat-square&color=blue)](https://github.com/microsoft/vcpkg/network) [![Language](https://img.shields.io/badge/lang-CMake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/vcpkg?style=flat-square&color=yellow)](https://github.com/microsoft/vcpkg/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/vcpkg?style=flat-square&color=blue)](https://github.com/microsoft/vcpkg/network) [![Language](https://img.shields.io/badge/lang-CMake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > C++ Library Manager for Windows, Linux, and MacOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27k |
 | 🍴 **Forks** | 7.5k |
 | 💻 **Language** | CMake |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **microsoft/vcpkg** — кроссплатформе�
 
 ### 中文
 
-microsoft/vcpkg：microsoft/vcpkg may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+microsoft/vcpkg：microsoft/vcpkg may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ microsoft/vcpkg：microsoft/vcpkg may be useful when its README and activity mat
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ microsoft/vcpkg：microsoft/vcpkg may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 98/100 |
+| quality | 93/100 |
 | integration | 30/100 |
-| production | 81/100 |
-| outlook | 87/100 |
+| production | 74/100 |
+| outlook | 80/100 |
 | adoption | 95/100 |
 | stars | 94/100 |
 | forks | 97/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

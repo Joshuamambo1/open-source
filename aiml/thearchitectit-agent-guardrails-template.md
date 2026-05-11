@@ -1,6 +1,6 @@
 # TheArchitectit/agent-guardrails-template
 
-[![Stars](https://img.shields.io/github/stars/TheArchitectit/agent-guardrails-template?style=flat-square&color=yellow)](https://github.com/TheArchitectit/agent-guardrails-template/stargazers) [![Forks](https://img.shields.io/github/forks/TheArchitectit/agent-guardrails-template?style=flat-square&color=blue)](https://github.com/TheArchitectit/agent-guardrails-template/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheArchitectit/agent-guardrails-template?style=flat-square&color=yellow)](https://github.com/TheArchitectit/agent-guardrails-template/stargazers) [![Forks](https://img.shields.io/github/forks/TheArchitectit/agent-guardrails-template?style=flat-square&color=blue)](https://github.com/TheArchitectit/agent-guardrails-template/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Template repository with AI agent guardrails, safety protocols, and sprint task framework. For Claude, GPT, Gemini, and all LLMs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ TheArchitectit/agent-guardrails-template：TheArchitectit/agent-guardrails-templ
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 28/100 |
 | stars | 34/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

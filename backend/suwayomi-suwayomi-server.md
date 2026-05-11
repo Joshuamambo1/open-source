@@ -1,6 +1,6 @@
 # Suwayomi/Suwayomi-Server
 
-[![Stars](https://img.shields.io/github/stars/Suwayomi/Suwayomi-Server?style=flat-square&color=yellow)](https://github.com/Suwayomi/Suwayomi-Server/stargazers) [![Forks](https://img.shields.io/github/forks/Suwayomi/Suwayomi-Server?style=flat-square&color=blue)](https://github.com/Suwayomi/Suwayomi-Server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Suwayomi/Suwayomi-Server?style=flat-square&color=yellow)](https://github.com/Suwayomi/Suwayomi-Server/stargazers) [![Forks](https://img.shields.io/github/forks/Suwayomi/Suwayomi-Server?style=flat-square&color=blue)](https://github.com/Suwayomi/Suwayomi-Server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A rewrite of Tachiyomi for the Desktop
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 374 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Suwayomi‑Server — это полностью переписанный се�
 
 ### 中文
 
-Suwayomi/Suwayomi-Server：Suwayomi/Suwayomi-Server helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Suwayomi/Suwayomi-Server：Suwayomi/Suwayomi-Server helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Suwayomi/Suwayomi-Server：Suwayomi/Suwayomi-Server helps teams reuse service in
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Suwayomi/Suwayomi-Server：Suwayomi/Suwayomi-Server helps teams reuse service in
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 90/100 |
+| quality | 85/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 86/100 |
+| production | 71/100 |
+| outlook | 79/100 |
 | adoption | 77/100 |
 | stars | 82/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

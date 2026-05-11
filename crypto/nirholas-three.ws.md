@@ -1,6 +1,6 @@
 # nirholas/three.ws
 
-[![Stars](https://img.shields.io/github/stars/nirholas/three.ws?style=flat-square&color=yellow)](https://github.com/nirholas/three.ws/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/three.ws?style=flat-square&color=blue)](https://github.com/nirholas/three.ws/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirholas/three.ws?style=flat-square&color=yellow)](https://github.com/nirholas/three.ws/stargazers) [![Forks](https://img.shields.io/github/forks/nirholas/three.ws?style=flat-square&color=blue)](https://github.com/nirholas/three.ws/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 3D AI agent platform for the browser. Load any GLB/glTF avatar, give it an LLM brain with memory, emotions, and tool use, then embed it anywhere as a web component. Includes a character studio, on-chain identity, MCP server, OAuth 2.1, animation gallery, and five embeddable widget types. No plugins. No installs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Three.ws is an open‑source, browser‑based platform that lets you turn any GL
 
 ### 中文
 
-nirholas/three.ws：nirholas/three.ws helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+nirholas/three.ws：nirholas/three.ws helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ nirholas/three.ws：nirholas/three.ws helps prototype or inspect blockchain work
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ nirholas/three.ws：nirholas/three.ws helps prototype or inspect blockchain work
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 78/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 27/100 |
 | stars | 32/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

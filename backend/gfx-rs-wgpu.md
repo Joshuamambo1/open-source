@@ -1,6 +1,6 @@
 # gfx-rs/wgpu
 
-[![Stars](https://img.shields.io/github/stars/gfx-rs/wgpu?style=flat-square&color=yellow)](https://github.com/gfx-rs/wgpu/stargazers) [![Forks](https://img.shields.io/github/forks/gfx-rs/wgpu?style=flat-square&color=blue)](https://github.com/gfx-rs/wgpu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gfx-rs/wgpu?style=flat-square&color=yellow)](https://github.com/gfx-rs/wgpu/stargazers) [![Forks](https://img.shields.io/github/forks/gfx-rs/wgpu?style=flat-square&color=blue)](https://github.com/gfx-rs/wgpu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform, safe, pure-Rust graphics API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ gfx-rs/wgpu — кросс‑платформенный графический
 
 ### 中文
 
-gfx-rs/wgpu：gfx-rs/wgpu helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+gfx-rs/wgpu：gfx-rs/wgpu helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ gfx-rs/wgpu：gfx-rs/wgpu helps teams reuse service infrastructure instead of re
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ gfx-rs/wgpu：gfx-rs/wgpu helps teams reuse service infrastructure instead of re
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 88/100 |
+| production | 75/100 |
+| outlook | 81/100 |
 | adoption | 87/100 |
 | stars | 90/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

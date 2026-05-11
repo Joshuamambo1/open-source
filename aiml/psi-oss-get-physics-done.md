@@ -1,6 +1,6 @@
 # psi-oss/get-physics-done
 
-[![Stars](https://img.shields.io/github/stars/psi-oss/get-physics-done?style=flat-square&color=yellow)](https://github.com/psi-oss/get-physics-done/stargazers) [![Forks](https://img.shields.io/github/forks/psi-oss/get-physics-done?style=flat-square&color=blue)](https://github.com/psi-oss/get-physics-done/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/psi-oss/get-physics-done?style=flat-square&color=yellow)](https://github.com/psi-oss/get-physics-done/stargazers) [![Forks](https://img.shields.io/github/forks/psi-oss/get-physics-done?style=flat-square&color=blue)](https://github.com/psi-oss/get-physics-done/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 768 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ psi-oss/get-physics-done is an open‑source project that provides a self‑dire
 
 ### 中文
 
-psi-oss/get-physics-done：psi-oss/get-physics-done helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+psi-oss/get-physics-done：psi-oss/get-physics-done helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ psi-oss/get-physics-done：psi-oss/get-physics-done helps add AI capability with
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ psi-oss/get-physics-done：psi-oss/get-physics-done helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 59/100 |
 | stars | 61/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

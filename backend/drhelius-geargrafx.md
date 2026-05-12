@@ -1,6 +1,6 @@
 # drhelius/Geargrafx
 
-[![Stars](https://img.shields.io/github/stars/drhelius/Geargrafx?style=flat-square&color=yellow)](https://github.com/drhelius/Geargrafx/stargazers) [![Forks](https://img.shields.io/github/forks/drhelius/Geargrafx?style=flat-square&color=blue)](https://github.com/drhelius/Geargrafx/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drhelius/Geargrafx?style=flat-square&color=yellow)](https://github.com/drhelius/Geargrafx/stargazers) [![Forks](https://img.shields.io/github/forks/drhelius/Geargrafx?style=flat-square&color=blue)](https://github.com/drhelius/Geargrafx/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator, debugger, and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ drhelius/Geargrafx：drhelius/Geargrafx helps teams reuse service infrastructure
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 44/100 |
 | stars | 50/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

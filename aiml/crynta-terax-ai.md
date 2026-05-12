@@ -1,6 +1,6 @@
 # crynta/terax-ai
 
-[![Stars](https://img.shields.io/github/stars/crynta/terax-ai?style=flat-square&color=yellow)](https://github.com/crynta/terax-ai/stargazers) [![Forks](https://img.shields.io/github/forks/crynta/terax-ai?style=flat-square&color=blue)](https://github.com/crynta/terax-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crynta/terax-ai?style=flat-square&color=yellow)](https://github.com/crynta/terax-ai/stargazers) [![Forks](https://img.shields.io/github/forks/crynta/terax-ai?style=flat-square&color=blue)](https://github.com/crynta/terax-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 562 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Crynta/terax‑ai is a lightweight (≈7 MB) AI‑powered terminal emulator bu
 
 ### 中文
 
-crynta/terax-ai：crynta/terax-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+crynta/terax-ai：crynta/terax-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ crynta/terax-ai：crynta/terax-ai helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ crynta/terax-ai：crynta/terax-ai helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 55/100 |
 | stars | 59/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

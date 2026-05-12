@@ -1,6 +1,6 @@
 # QLHazyCoder/codex-oauth-automation-extension
 
-[![Stars](https://img.shields.io/github/stars/QLHazyCoder/codex-oauth-automation-extension?style=flat-square&color=yellow)](https://github.com/QLHazyCoder/codex-oauth-automation-extension/stargazers) [![Forks](https://img.shields.io/github/forks/QLHazyCoder/codex-oauth-automation-extension?style=flat-square&color=blue)](https://github.com/QLHazyCoder/codex-oauth-automation-extension/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QLHazyCoder/codex-oauth-automation-extension?style=flat-square&color=yellow)](https://github.com/QLHazyCoder/codex-oauth-automation-extension/stargazers) [![Forks](https://img.shields.io/github/forks/QLHazyCoder/codex-oauth-automation-extension?style=flat-square&color=blue)](https://github.com/QLHazyCoder/codex-oauth-automation-extension/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Chrome扩展：支持OpenAI OAuth注册(自动开通plus账号)、验证码获取、CPA/sub/cpdex2api回调验证与自动恢复
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 676 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ QLHazyCoder/codex-oauth-automation-extension：QLHazyCoder/codex-oauth-automatio
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 78/100 |
+| production | 67/100 |
+| outlook | 71/100 |
 | adoption | 74/100 |
 | stars | 75/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

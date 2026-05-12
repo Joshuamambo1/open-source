@@ -1,6 +1,6 @@
 # wienerlabs/covenant
 
-[![Stars](https://img.shields.io/github/stars/wienerlabs/covenant?style=flat-square&color=yellow)](https://github.com/wienerlabs/covenant/stargazers) [![Forks](https://img.shields.io/github/forks/wienerlabs/covenant?style=flat-square&color=blue)](https://github.com/wienerlabs/covenant/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wienerlabs/covenant?style=flat-square&color=yellow)](https://github.com/wienerlabs/covenant/stargazers) [![Forks](https://img.shields.io/github/forks/wienerlabs/covenant?style=flat-square&color=blue)](https://github.com/wienerlabs/covenant/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The payment rail AI agents use to get paid without human approval. Optimistic settlement on @solana. Jobs auto-finalize after a challenge period, disputed jobs escalate to a bonded arbitrator. One protocol, any agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ wienerlabs/covenant：wienerlabs/covenant helps prototype or inspect blockchain 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 72/100 |
+| production | 64/100 |
+| outlook | 65/100 |
 | adoption | 21/100 |
 | stars | 29/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # notify-rs/notify
 
-[![Stars](https://img.shields.io/github/stars/notify-rs/notify?style=flat-square&color=yellow)](https://github.com/notify-rs/notify/stargazers) [![Forks](https://img.shields.io/github/forks/notify-rs/notify?style=flat-square&color=blue)](https://github.com/notify-rs/notify/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/notify-rs/notify?style=flat-square&color=yellow)](https://github.com/notify-rs/notify/stargazers) [![Forks](https://img.shields.io/github/forks/notify-rs/notify?style=flat-square&color=blue)](https://github.com/notify-rs/notify/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🔭 Cross-platform filesystem notification library for Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 269 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ notify-rs/notify：notify-rs/notify may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 77/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 71/100 |
 | stars | 75/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

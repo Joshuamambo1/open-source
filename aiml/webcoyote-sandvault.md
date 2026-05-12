@@ -1,6 +1,6 @@
 # webcoyote/sandvault
 
-[![Stars](https://img.shields.io/github/stars/webcoyote/sandvault?style=flat-square&color=yellow)](https://github.com/webcoyote/sandvault/stargazers) [![Forks](https://img.shields.io/github/forks/webcoyote/sandvault?style=flat-square&color=blue)](https://github.com/webcoyote/sandvault/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webcoyote/sandvault?style=flat-square&color=yellow)](https://github.com/webcoyote/sandvault/stargazers) [![Forks](https://img.shields.io/github/forks/webcoyote/sandvault?style=flat-square&color=blue)](https://github.com/webcoyote/sandvault/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Run AI agents isolated in a macOS user account and sandbox-exec. Configured to run Claude Code, OpenAI Codex, Cursor Agent, Google Gemini.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ webcoyote/sandvault：webcoyote/sandvault helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 45/100 |
 | stars | 51/100 |
 | forks | 28/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

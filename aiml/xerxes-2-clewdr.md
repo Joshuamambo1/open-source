@@ -1,6 +1,6 @@
 # Xerxes-2/clewdr
 
-[![Stars](https://img.shields.io/github/stars/Xerxes-2/clewdr?style=flat-square&color=yellow)](https://github.com/Xerxes-2/clewdr/stargazers) [![Forks](https://img.shields.io/github/forks/Xerxes-2/clewdr?style=flat-square&color=blue)](https://github.com/Xerxes-2/clewdr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xerxes-2/clewdr?style=flat-square&color=yellow)](https://github.com/Xerxes-2/clewdr/stargazers) [![Forks](https://img.shields.io/github/forks/Xerxes-2/clewdr?style=flat-square&color=blue)](https://github.com/Xerxes-2/clewdr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > High Performance LLM Reverse Proxy
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ Xerxes-2/clewdr：Xerxes-2/clewdr helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 63/100 |
 | stars | 65/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

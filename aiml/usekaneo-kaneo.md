@@ -1,6 +1,6 @@
 # usekaneo/kaneo
 
-[![Stars](https://img.shields.io/github/stars/usekaneo/kaneo?style=flat-square&color=yellow)](https://github.com/usekaneo/kaneo/stargazers) [![Forks](https://img.shields.io/github/forks/usekaneo/kaneo?style=flat-square&color=blue)](https://github.com/usekaneo/kaneo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/usekaneo/kaneo?style=flat-square&color=yellow)](https://github.com/usekaneo/kaneo/stargazers) [![Forks](https://img.shields.io/github/forks/usekaneo/kaneo?style=flat-square&color=blue)](https://github.com/usekaneo/kaneo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 310 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ usekaneo/kaneo is an open‑source project‑management platform that streamline
 
 ### 中文
 
-usekaneo/kaneo：usekaneo/kaneo helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+usekaneo/kaneo：usekaneo/kaneo helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ usekaneo/kaneo：usekaneo/kaneo helps add AI capability without starting from a 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ usekaneo/kaneo：usekaneo/kaneo helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 85/100 |
+| production | 72/100 |
+| outlook | 78/100 |
 | adoption | 72/100 |
 | stars | 75/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

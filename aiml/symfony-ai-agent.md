@@ -1,6 +1,6 @@
 # symfony/ai-agent
 
-[![Stars](https://img.shields.io/github/stars/symfony/ai-agent?style=flat-square&color=yellow)](https://github.com/symfony/ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/symfony/ai-agent?style=flat-square&color=blue)](https://github.com/symfony/ai-agent/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/symfony/ai-agent?style=flat-square&color=yellow)](https://github.com/symfony/ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/symfony/ai-agent?style=flat-square&color=blue)](https://github.com/symfony/ai-agent/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > PHP library for building agentic applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ symfony/ai-agent：symfony/ai-agent helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 61/100 |
+| outlook | 63/100 |
 | adoption | 27/100 |
 | stars | 32/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

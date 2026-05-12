@@ -1,6 +1,6 @@
 # LadybirdBrowser/ladybird
 
-[![Stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird?style=flat-square&color=yellow)](https://github.com/LadybirdBrowser/ladybird/stargazers) [![Forks](https://img.shields.io/github/forks/LadybirdBrowser/ladybird?style=flat-square&color=blue)](https://github.com/LadybirdBrowser/ladybird/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird?style=flat-square&color=yellow)](https://github.com/LadybirdBrowser/ladybird/stargazers) [![Forks](https://img.shields.io/github/forks/LadybirdBrowser/ladybird?style=flat-square&color=blue)](https://github.com/LadybirdBrowser/ladybird/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Truly independent web browser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 63.2k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ladybird — полностью независимый, открытый веб�
 
 ### 中文
 
-LadybirdBrowser/ladybird：LadybirdBrowser/ladybird may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+LadybirdBrowser/ladybird：LadybirdBrowser/ladybird may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ LadybirdBrowser/ladybird：LadybirdBrowser/ladybird may be useful when its READM
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ LadybirdBrowser/ladybird：LadybirdBrowser/ladybird may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 96/100 |
 | stars | 100/100 |
 | forks | 87/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

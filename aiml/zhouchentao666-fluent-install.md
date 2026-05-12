@@ -1,6 +1,6 @@
 # zhouchentao666/Fluent-Install
 
-[![Stars](https://img.shields.io/github/stars/zhouchentao666/Fluent-Install?style=flat-square&color=yellow)](https://github.com/zhouchentao666/Fluent-Install/stargazers) [![Forks](https://img.shields.io/github/forks/zhouchentao666/Fluent-Install?style=flat-square&color=blue)](https://github.com/zhouchentao666/Fluent-Install/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhouchentao666/Fluent-Install?style=flat-square&color=yellow)](https://github.com/zhouchentao666/Fluent-Install/stargazers) [![Forks](https://img.shields.io/github/forks/zhouchentao666/Fluent-Install?style=flat-square&color=blue)](https://github.com/zhouchentao666/Fluent-Install/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 一个免费开源的由cai-install的后端改编的前端自制的fluent，基于steamtools的入库工具 中文名：流畅入库 英文名：FluentInstall
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ zhouchentao666/Fluent-Install：zhouchentao666/Fluent-Install helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 64/100 |
+| outlook | 63/100 |
 | adoption | 52/100 |
 | stars | 57/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

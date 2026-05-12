@@ -1,6 +1,6 @@
 # walinejs/waline
 
-[![Stars](https://img.shields.io/github/stars/walinejs/waline?style=flat-square&color=yellow)](https://github.com/walinejs/waline/stargazers) [![Forks](https://img.shields.io/github/forks/walinejs/waline?style=flat-square&color=blue)](https://github.com/walinejs/waline/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/walinejs/waline?style=flat-square&color=yellow)](https://github.com/walinejs/waline/stargazers) [![Forks](https://img.shields.io/github/forks/walinejs/waline?style=flat-square&color=blue)](https://github.com/walinejs/waline/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 💬 A Simple, Safe Comment System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 591 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Waline is an open‑source, lightweight comment system designed for easy integra
 
 ### 中文
 
-walinejs/waline：walinejs/waline helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+walinejs/waline：walinejs/waline helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ walinejs/waline：walinejs/waline helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ walinejs/waline：walinejs/waline helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 73/100 |
 | stars | 74/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

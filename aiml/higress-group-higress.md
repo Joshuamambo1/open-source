@@ -1,6 +1,6 @@
 # higress-group/higress
 
-[![Stars](https://img.shields.io/github/stars/higress-group/higress?style=flat-square&color=yellow)](https://github.com/higress-group/higress/stargazers) [![Forks](https://img.shields.io/github/forks/higress-group/higress?style=flat-square&color=blue)](https://github.com/higress-group/higress/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/higress-group/higress?style=flat-square&color=yellow)](https://github.com/higress-group/higress/stargazers) [![Forks](https://img.shields.io/github/forks/higress-group/higress?style=flat-square&color=blue)](https://github.com/higress-group/higress/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 AI Gateway | AI Native API Gateway
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.3k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ higress — это open‑source AI‑ориентированный API‑gatew
 
 ### 中文
 
-higress-group/higress：higress-group/higress helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+higress-group/higress：higress-group/higress helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ higress-group/higress：higress-group/higress helps add AI capability without st
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ higress-group/higress：higress-group/higress helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 62/100 |
-| production | 81/100 |
-| outlook | 83/100 |
+| production | 74/100 |
+| outlook | 76/100 |
 | adoption | 81/100 |
 | stars | 83/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

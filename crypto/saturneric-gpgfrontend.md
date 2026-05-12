@@ -1,6 +1,6 @@
 # saturneric/GpgFrontend
 
-[![Stars](https://img.shields.io/github/stars/saturneric/GpgFrontend?style=flat-square&color=yellow)](https://github.com/saturneric/GpgFrontend/stargazers) [![Forks](https://img.shields.io/github/forks/saturneric/GpgFrontend?style=flat-square&color=blue)](https://github.com/saturneric/GpgFrontend/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saturneric/GpgFrontend?style=flat-square&color=yellow)](https://github.com/saturneric/GpgFrontend/stargazers) [![Forks](https://img.shields.io/github/forks/saturneric/GpgFrontend?style=flat-square&color=blue)](https://github.com/saturneric/GpgFrontend/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A modern "Enigma" for OpenPGP. It makes encryption, signing, and key management easier and more trustworthy in everyday privacy workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 713 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ saturneric/GpgFrontend：saturneric/GpgFrontend helps prototype or inspect block
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 84/100 |
+| production | 68/100 |
+| outlook | 77/100 |
 | adoption | 56/100 |
 | stars | 61/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

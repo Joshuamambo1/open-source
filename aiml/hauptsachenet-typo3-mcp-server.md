@@ -1,6 +1,6 @@
 # hauptsacheNet/typo3-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/hauptsacheNet/typo3-mcp-server?style=flat-square&color=yellow)](https://github.com/hauptsacheNet/typo3-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/hauptsacheNet/typo3-mcp-server?style=flat-square&color=blue)](https://github.com/hauptsacheNet/typo3-mcp-server/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hauptsacheNet/typo3-mcp-server?style=flat-square&color=yellow)](https://github.com/hauptsacheNet/typo3-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/hauptsacheNet/typo3-mcp-server?style=flat-square&color=blue)](https://github.com/hauptsacheNet/typo3-mcp-server/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > One MCP endpoint connects your TYPO3 site to Claude, Cursor, n8n, and any AI tool — safely through workspaces.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hauptsacheNet/typo3-mcp-server：hauptsacheNet/typo3-mcp-server helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 74/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 38/100 |
 | stars | 40/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

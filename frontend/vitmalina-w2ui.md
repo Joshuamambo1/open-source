@@ -1,6 +1,6 @@
 # vitmalina/w2ui
 
-[![Stars](https://img.shields.io/github/stars/vitmalina/w2ui?style=flat-square&color=yellow)](https://github.com/vitmalina/w2ui/stargazers) [![Forks](https://img.shields.io/github/forks/vitmalina/w2ui?style=flat-square&color=blue)](https://github.com/vitmalina/w2ui/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vitmalina/w2ui?style=flat-square&color=yellow)](https://github.com/vitmalina/w2ui/stargazers) [![Forks](https://img.shields.io/github/forks/vitmalina/w2ui?style=flat-square&color=blue)](https://github.com/vitmalina/w2ui/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > UI widgets for modern apps. Data table, forms, toolbars, sidebar, tabs, tooltips, popups. All under 120kb (gzipped).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 732 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ vitmalina/w2ui：vitmalina/w2ui helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 75/100 |
+| production | 65/100 |
+| outlook | 68/100 |
 | adoption | 73/100 |
 | stars | 73/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

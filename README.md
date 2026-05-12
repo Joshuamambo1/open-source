@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **7152** |
+| 🗂️ **Total projects** | **7192** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,22 +18,22 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2608 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1314 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 2622 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1318 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 711 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 608 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 381 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 352 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 251 | [Browse →](./crypto/) |
-| 📊 **Data** | 166 | [Browse →](./data/) |
-| 💳 **Payments** | 117 | [Browse →](./payments/) |
-| 🏷️ **Mcp** | 105 | [Browse →](./mcp/) |
-| 🏷️ **Automation** | 91 | [Browse →](./automation/) |
-| 📱 **Mobile** | 85 | [Browse →](./mobile/) |
+| 🧩 **Orchestration** | 611 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 383 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 353 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 253 | [Browse →](./crypto/) |
+| 📊 **Data** | 167 | [Browse →](./data/) |
+| 💳 **Payments** | 118 | [Browse →](./payments/) |
+| 🏷️ **Mcp** | 110 | [Browse →](./mcp/) |
+| 🏷️ **Automation** | 96 | [Browse →](./automation/) |
+| 📱 **Mobile** | 86 | [Browse →](./mobile/) |
 | 📈 **Trading** | 85 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 71 | [Browse →](./devopsinfra/) |
 | 🏷️ **Knowledgerag** | 64 | [Browse →](./knowledgerag/) |
-| 🔐 **Security** | 52 | [Browse →](./security/) |
+| 🔐 **Security** | 53 | [Browse →](./security/) |
 | 🏷️ **Database** | 33 | [Browse →](./database/) |
 | ✨ **Design** | 21 | [Browse →](./design/) |
 | 🎯 **Product** | 15 | [Browse →](./product/) |

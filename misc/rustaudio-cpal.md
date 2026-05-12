@@ -1,6 +1,6 @@
 # RustAudio/cpal
 
-[![Stars](https://img.shields.io/github/stars/RustAudio/cpal?style=flat-square&color=yellow)](https://github.com/RustAudio/cpal/stargazers) [![Forks](https://img.shields.io/github/forks/RustAudio/cpal?style=flat-square&color=blue)](https://github.com/RustAudio/cpal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RustAudio/cpal?style=flat-square&color=yellow)](https://github.com/RustAudio/cpal/stargazers) [![Forks](https://img.shields.io/github/forks/RustAudio/cpal?style=flat-square&color=blue)](https://github.com/RustAudio/cpal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform audio I/O library in pure Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 502 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ RustAudio/cpal：RustAudio/cpal may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 68/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

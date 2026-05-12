@@ -1,6 +1,6 @@
 # webrtc-rs/webrtc
 
-[![Stars](https://img.shields.io/github/stars/webrtc-rs/webrtc?style=flat-square&color=yellow)](https://github.com/webrtc-rs/webrtc/stargazers) [![Forks](https://img.shields.io/github/forks/webrtc-rs/webrtc?style=flat-square&color=blue)](https://github.com/webrtc-rs/webrtc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webrtc-rs/webrtc?style=flat-square&color=yellow)](https://github.com/webrtc-rs/webrtc/stargazers) [![Forks](https://img.shields.io/github/forks/webrtc-rs/webrtc?style=flat-square&color=blue)](https://github.com/webrtc-rs/webrtc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Async-friendly WebRTC implementation in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 478 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ webrtc-rs/webrtc：webrtc-rs/webrtc may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 77/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 75/100 |
 | stars | 79/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

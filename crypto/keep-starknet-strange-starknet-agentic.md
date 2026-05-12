@@ -1,6 +1,6 @@
 # keep-starknet-strange/starknet-agentic
 
-[![Stars](https://img.shields.io/github/stars/keep-starknet-strange/starknet-agentic?style=flat-square&color=yellow)](https://github.com/keep-starknet-strange/starknet-agentic/stargazers) [![Forks](https://img.shields.io/github/forks/keep-starknet-strange/starknet-agentic?style=flat-square&color=blue)](https://github.com/keep-starknet-strange/starknet-agentic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keep-starknet-strange/starknet-agentic?style=flat-square&color=yellow)](https://github.com/keep-starknet-strange/starknet-agentic/stargazers) [![Forks](https://img.shields.io/github/forks/keep-starknet-strange/starknet-agentic?style=flat-square&color=blue)](https://github.com/keep-starknet-strange/starknet-agentic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Smart contracts, tools, and skills for AI agents that transact on Starknet
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ keep-starknet-strange/starknet-agentic：keep-starknet-strange/starknet-agentic 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 83/100 |
+| production | 67/100 |
+| outlook | 76/100 |
 | adoption | 39/100 |
 | stars | 41/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

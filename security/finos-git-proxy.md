@@ -1,6 +1,6 @@
 # finos/git-proxy
 
-[![Stars](https://img.shields.io/github/stars/finos/git-proxy?style=flat-square&color=yellow)](https://github.com/finos/git-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/finos/git-proxy?style=flat-square&color=blue)](https://github.com/finos/git-proxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/finos/git-proxy?style=flat-square&color=yellow)](https://github.com/finos/git-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/finos/git-proxy?style=flat-square&color=blue)](https://github.com/finos/git-proxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Deploy custom push protections and policies on top of Git
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ finos/git-proxy：finos/git-proxy helps catch security and privacy issues earlie
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 70/100 |
+| production | 66/100 |
+| outlook | 63/100 |
 | adoption | 51/100 |
 | stars | 49/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

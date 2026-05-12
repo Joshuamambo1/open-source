@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**82 projects** in this category.
+**83 projects** in this category.
 
 ## Projects
 
@@ -72,24 +72,25 @@
 | 62 | [chipweinberger/flutter_blue_plus](./chipweinberger-flutter-blue-plus.md) | ⭐ 991 | Dart | 56/100 |
 | 63 | [woocommerce/woocommerce-ios](./woocommerce-woocommerce-ios.md) | ⭐ 357 | Swift | 56/100 |
 | 64 | [Automattic/pocket-casts-android](./automattic-pocket-casts-android.md) | ⭐ 2.8k | Kotlin | 55/100 |
-| 65 | [SORMAS-Foundation/SORMAS-Project](./sormas-foundation-sormas-project.md) | ⭐ 321 | Java | 55/100 |
-| 66 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 539 | Dart | 55/100 |
-| 67 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 311 | Kotlin | 55/100 |
-| 68 | [minh-ton/reynard-browser](./minh-ton-reynard-browser.md) | ⭐ 519 | Swift | 55/100 |
-| 69 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 54/100 |
-| 70 | [DowneyRem/PixivSource](./downeyrem-pixivsource.md) | ⭐ 838 | JavaScript | 54/100 |
-| 71 | [bitwarden/ios](./bitwarden-ios.md) | ⭐ 585 | Swift | 54/100 |
-| 72 | [a1ive/nwinfo](./a1ive-nwinfo.md) | ⭐ 546 | C | 54/100 |
-| 73 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 53/100 |
-| 74 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 53/100 |
-| 75 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 53/100 |
-| 76 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 53/100 |
-| 77 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 52/100 |
-| 78 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 52/100 |
-| 79 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 52/100 |
-| 80 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 52/100 |
-| 81 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 51/100 |
-| 82 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 41/100 |
+| 65 | [Berrysoft/tunet-rust](./berrysoft-tunet-rust.md) | ⭐ 154 | Rust | 55/100 |
+| 66 | [SORMAS-Foundation/SORMAS-Project](./sormas-foundation-sormas-project.md) | ⭐ 321 | Java | 55/100 |
+| 67 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 539 | Dart | 55/100 |
+| 68 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 311 | Kotlin | 55/100 |
+| 69 | [minh-ton/reynard-browser](./minh-ton-reynard-browser.md) | ⭐ 519 | Swift | 55/100 |
+| 70 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 54/100 |
+| 71 | [DowneyRem/PixivSource](./downeyrem-pixivsource.md) | ⭐ 838 | JavaScript | 54/100 |
+| 72 | [bitwarden/ios](./bitwarden-ios.md) | ⭐ 585 | Swift | 54/100 |
+| 73 | [a1ive/nwinfo](./a1ive-nwinfo.md) | ⭐ 546 | C | 54/100 |
+| 74 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 53/100 |
+| 75 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 53/100 |
+| 76 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 53/100 |
+| 77 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 53/100 |
+| 78 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 52/100 |
+| 79 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 52/100 |
+| 80 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 52/100 |
+| 81 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 52/100 |
+| 82 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 51/100 |
+| 83 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 41/100 |
 
 ---
 

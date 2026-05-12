@@ -1,6 +1,6 @@
 # eosphoros-ai/DB-GPT
 
-[![Stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=flat-square&color=yellow)](https://github.com/eosphoros-ai/DB-GPT/stargazers) [![Forks](https://img.shields.io/github/forks/eosphoros-ai/DB-GPT?style=flat-square&color=blue)](https://github.com/eosphoros-ai/DB-GPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=flat-square&color=yellow)](https://github.com/eosphoros-ai/DB-GPT/stargazers) [![Forks](https://img.shields.io/github/forks/eosphoros-ai/DB-GPT?style=flat-square&color=blue)](https://github.com/eosphoros-ai/DB-GPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > open-source agentic AI data assistant for the next generation of AI + Data products.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.7k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ eosphoros-ai/DB-GPT：eosphoros-ai/DB-GPT helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 95/100 |
+| quality | 90/100 |
 | integration | 46/100 |
-| production | 82/100 |
-| outlook | 92/100 |
+| production | 75/100 |
+| outlook | 85/100 |
 | adoption | 89/100 |
 | stars | 91/100 |
 | forks | 86/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

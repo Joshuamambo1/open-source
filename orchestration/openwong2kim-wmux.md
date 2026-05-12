@@ -1,6 +1,6 @@
 # openwong2kim/wmux
 
-[![Stars](https://img.shields.io/github/stars/openwong2kim/wmux?style=flat-square&color=yellow)](https://github.com/openwong2kim/wmux/stargazers) [![Forks](https://img.shields.io/github/forks/openwong2kim/wmux?style=flat-square&color=blue)](https://github.com/openwong2kim/wmux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openwong2kim/wmux?style=flat-square&color=yellow)](https://github.com/openwong2kim/wmux/stargazers) [![Forks](https://img.shields.io/github/forks/openwong2kim/wmux?style=flat-square&color=blue)](https://github.com/openwong2kim/wmux/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ openwong2kim/wmux is a lightweight, Windows‑native alternative to tmux designe
 
 ### 中文
 
-openwong2kim/wmux：openwong2kim/wmux helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+openwong2kim/wmux：openwong2kim/wmux helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ openwong2kim/wmux：openwong2kim/wmux helps turn isolated prompts and tools into
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ openwong2kim/wmux：openwong2kim/wmux helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 84/100 |
+| production | 71/100 |
+| outlook | 77/100 |
 | adoption | 35/100 |
 | stars | 37/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

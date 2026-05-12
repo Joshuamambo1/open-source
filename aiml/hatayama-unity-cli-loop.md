@@ -1,6 +1,6 @@
 # hatayama/unity-cli-loop
 
-[![Stars](https://img.shields.io/github/stars/hatayama/unity-cli-loop?style=flat-square&color=yellow)](https://github.com/hatayama/unity-cli-loop/stargazers) [![Forks](https://img.shields.io/github/forks/hatayama/unity-cli-loop?style=flat-square&color=blue)](https://github.com/hatayama/unity-cli-loop/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hatayama/unity-cli-loop?style=flat-square&color=yellow)](https://github.com/hatayama/unity-cli-loop/stargazers) [![Forks](https://img.shields.io/github/forks/hatayama/unity-cli-loop?style=flat-square&color=blue)](https://github.com/hatayama/unity-cli-loop/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Let AI Drive Unity, from Editor to Play Mode.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ hatayama/unity-cli-loop is an open‑source utility that enables AI‑driven con
 
 ### 中文
 
-hatayama/unity-cli-loop：hatayama/unity-cli-loop helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+hatayama/unity-cli-loop：hatayama/unity-cli-loop helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hatayama/unity-cli-loop：hatayama/unity-cli-loop helps add AI capability withou
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ hatayama/unity-cli-loop：hatayama/unity-cli-loop helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 70/100 |
+| outlook | 76/100 |
 | adoption | 50/100 |
 | stars | 54/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

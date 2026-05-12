@@ -1,6 +1,6 @@
 # charliedream1/ai_wiki
 
-[![Stars](https://img.shields.io/github/stars/charliedream1/ai_wiki?style=flat-square&color=yellow)](https://github.com/charliedream1/ai_wiki/stargazers) [![Forks](https://img.shields.io/github/forks/charliedream1/ai_wiki?style=flat-square&color=blue)](https://github.com/charliedream1/ai_wiki/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/charliedream1/ai_wiki?style=flat-square&color=yellow)](https://github.com/charliedream1/ai_wiki/stargazers) [![Forks](https://img.shields.io/github/forks/charliedream1/ai_wiki?style=flat-square&color=blue)](https://github.com/charliedream1/ai_wiki/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 《AI全栈-全网优秀资源搜集站》：搜集全网优秀资源，记载工程实践问题的解决策略与关键要点，分享各种实用案例，追踪前沿技术发展，囊括 AI 全栈知识，涵盖大模型、编程技术、机器学习、深度学习、强化学习、图神经网络、语音识别、NLP 及图像识别等领域
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 652 |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ charliedream1/ai_wiki：charliedream1/ai_wiki helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 58/100 |
 | stars | 60/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

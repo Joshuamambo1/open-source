@@ -1,6 +1,6 @@
 # ldclabs/anda-hippocampus
 
-[![Stars](https://img.shields.io/github/stars/ldclabs/anda-hippocampus?style=flat-square&color=yellow)](https://github.com/ldclabs/anda-hippocampus/stargazers) [![Forks](https://img.shields.io/github/forks/ldclabs/anda-hippocampus?style=flat-square&color=blue)](https://github.com/ldclabs/anda-hippocampus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ldclabs/anda-hippocampus?style=flat-square&color=yellow)](https://github.com/ldclabs/anda-hippocampus/stargazers) [![Forks](https://img.shields.io/github/forks/ldclabs/anda-hippocampus?style=flat-square&color=blue)](https://github.com/ldclabs/anda-hippocampus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🧠 A native graph-based memory system for autonomous AI agents, featuring bio-inspired sleep-based memory consolidation and powered by KIP & AndaDB.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ldclabs/anda-hippocampus：ldclabs/anda-hippocampus helps turn isolated prompts 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 62/100 |
+| outlook | 64/100 |
 | adoption | 32/100 |
 | stars | 36/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

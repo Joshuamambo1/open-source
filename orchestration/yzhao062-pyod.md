@@ -1,6 +1,6 @@
 # yzhao062/pyod
 
-[![Stars](https://img.shields.io/github/stars/yzhao062/pyod?style=flat-square&color=yellow)](https://github.com/yzhao062/pyod/stargazers) [![Forks](https://img.shields.io/github/forks/yzhao062/pyod?style=flat-square&color=blue)](https://github.com/yzhao062/pyod/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yzhao062/pyod?style=flat-square&color=yellow)](https://github.com/yzhao062/pyod/stargazers) [![Forks](https://img.shields.io/github/forks/yzhao062/pyod?style=flat-square&color=blue)](https://github.com/yzhao062/pyod/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A Python library for anomaly detection across tabular, time series, graph, text, and image data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ pyod is an open‑source Python library that provides a comprehensive suite of m
 
 ### 中文
 
-yzhao062/pyod：yzhao062/pyod helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+yzhao062/pyod：yzhao062/pyod helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ yzhao062/pyod：yzhao062/pyod helps turn isolated prompts and tools into repeata
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ yzhao062/pyod：yzhao062/pyod helps turn isolated prompts and tools into repeata
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 91/100 |
+| production | 74/100 |
+| outlook | 84/100 |
 | adoption | 83/100 |
 | stars | 85/100 |
 | forks | 79/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # omega-memory/omega-memory
 
-[![Stars](https://img.shields.io/github/stars/omega-memory/omega-memory?style=flat-square&color=yellow)](https://github.com/omega-memory/omega-memory/stargazers) [![Forks](https://img.shields.io/github/forks/omega-memory/omega-memory?style=flat-square&color=blue)](https://github.com/omega-memory/omega-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omega-memory/omega-memory?style=flat-square&color=yellow)](https://github.com/omega-memory/omega-memory/stargazers) [![Forks](https://img.shields.io/github/forks/omega-memory/omega-memory?style=flat-square&color=blue)](https://github.com/omega-memory/omega-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory for AI coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Omega‑Memory is an open‑source library that provides persistent, long‑term
 
 ### 中文
 
-omega-memory/omega-memory：omega-memory/omega-memory helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+omega-memory/omega-memory：omega-memory/omega-memory helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ omega-memory/omega-memory：omega-memory/omega-memory helps add AI capability wi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ omega-memory/omega-memory：omega-memory/omega-memory helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 42/100 |
 | stars | 45/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

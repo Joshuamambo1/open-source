@@ -1,6 +1,6 @@
 # Azure/azure-sdk-for-net
 
-[![Stars](https://img.shields.io/github/stars/Azure/azure-sdk-for-net?style=flat-square&color=yellow)](https://github.com/Azure/azure-sdk-for-net/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-sdk-for-net?style=flat-square&color=blue)](https://github.com/Azure/azure-sdk-for-net/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/azure-sdk-for-net?style=flat-square&color=yellow)](https://github.com/Azure/azure-sdk-for-net/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-sdk-for-net?style=flat-square&color=blue)](https://github.com/Azure/azure-sdk-for-net/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Azure/azure-sdk-for-net — это открытый репозиторий, в
 
 ### 中文
 
-Azure/azure-sdk-for-net：Azure/azure-sdk-for-net helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Azure/azure-sdk-for-net：Azure/azure-sdk-for-net helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Azure/azure-sdk-for-net：Azure/azure-sdk-for-net helps engineers save time in d
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Azure/azure-sdk-for-net：Azure/azure-sdk-for-net helps engineers save time in d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 46/100 |
-| production | 80/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 84/100 |
 | stars | 80/100 |
 | forks | 93/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

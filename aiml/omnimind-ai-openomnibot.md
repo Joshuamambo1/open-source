@@ -1,6 +1,6 @@
 # omnimind-ai/OpenOmniBot
 
-[![Stars](https://img.shields.io/github/stars/omnimind-ai/OpenOmniBot?style=flat-square&color=yellow)](https://github.com/omnimind-ai/OpenOmniBot/stargazers) [![Forks](https://img.shields.io/github/forks/omnimind-ai/OpenOmniBot?style=flat-square&color=blue)](https://github.com/omnimind-ai/OpenOmniBot/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omnimind-ai/OpenOmniBot?style=flat-square&color=yellow)](https://github.com/omnimind-ai/OpenOmniBot/stargazers) [![Forks](https://img.shields.io/github/forks/omnimind-ai/OpenOmniBot?style=flat-square&color=blue)](https://github.com/omnimind-ai/OpenOmniBot/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Your on-device AI assistant, capable of operating terminals and performing a wide range of tasks in the Android world || 你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ omnimind-ai/OpenOmniBot：omnimind-ai/OpenOmniBot helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 85/100 |
+| production | 68/100 |
+| outlook | 78/100 |
 | adoption | 59/100 |
 | stars | 67/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

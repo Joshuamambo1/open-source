@@ -1,6 +1,6 @@
 # RekklesNA/ProxmoxMCP-Plus
 
-[![Stars](https://img.shields.io/github/stars/RekklesNA/ProxmoxMCP-Plus?style=flat-square&color=yellow)](https://github.com/RekklesNA/ProxmoxMCP-Plus/stargazers) [![Forks](https://img.shields.io/github/forks/RekklesNA/ProxmoxMCP-Plus?style=flat-square&color=blue)](https://github.com/RekklesNA/ProxmoxMCP-Plus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RekklesNA/ProxmoxMCP-Plus?style=flat-square&color=yellow)](https://github.com/RekklesNA/ProxmoxMCP-Plus/stargazers) [![Forks](https://img.shields.io/github/forks/RekklesNA/ProxmoxMCP-Plus?style=flat-square&color=blue)](https://github.com/RekklesNA/ProxmoxMCP-Plus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 182 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ RekklesNA/ProxmoxMCP-Plus — это открытый проект, позво
 
 ### 中文
 
-RekklesNA/ProxmoxMCP-Plus：RekklesNA/ProxmoxMCP-Plus helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+RekklesNA/ProxmoxMCP-Plus：RekklesNA/ProxmoxMCP-Plus helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ RekklesNA/ProxmoxMCP-Plus：RekklesNA/ProxmoxMCP-Plus helps add AI capability wi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ RekklesNA/ProxmoxMCP-Plus：RekklesNA/ProxmoxMCP-Plus helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 87/100 |
+| production | 73/100 |
+| outlook | 80/100 |
 | adoption | 47/100 |
 | stars | 48/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

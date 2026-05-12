@@ -1,6 +1,6 @@
 # BA-CalderonMorales/terminal-jarvis
 
-[![Stars](https://img.shields.io/github/stars/BA-CalderonMorales/terminal-jarvis?style=flat-square&color=yellow)](https://github.com/BA-CalderonMorales/terminal-jarvis/stargazers) [![Forks](https://img.shields.io/github/forks/BA-CalderonMorales/terminal-jarvis?style=flat-square&color=blue)](https://github.com/BA-CalderonMorales/terminal-jarvis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BA-CalderonMorales/terminal-jarvis?style=flat-square&color=yellow)](https://github.com/BA-CalderonMorales/terminal-jarvis/stargazers) [![Forks](https://img.shields.io/github/forks/BA-CalderonMorales/terminal-jarvis?style=flat-square&color=blue)](https://github.com/BA-CalderonMorales/terminal-jarvis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > In the midst of all the tools out there that you can possibly use to keep track of them. Here's a "shovel" that just works to try them all out.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ BA‑CalderonMorales / terminal‑jarvis is a lightweight, open‑source com
 
 ### 中文
 
-BA-CalderonMorales/terminal-jarvis：BA-CalderonMorales/terminal-jarvis helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+BA-CalderonMorales/terminal-jarvis：BA-CalderonMorales/terminal-jarvis helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ BA-CalderonMorales/terminal-jarvis：BA-CalderonMorales/terminal-jarvis helps ad
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ BA-CalderonMorales/terminal-jarvis：BA-CalderonMorales/terminal-jarvis helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 41/100 |
 | stars | 45/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

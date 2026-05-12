@@ -1,6 +1,6 @@
 # dtkmn/mcp-zap-server
 
-[![Stars](https://img.shields.io/github/stars/dtkmn/mcp-zap-server?style=flat-square&color=yellow)](https://github.com/dtkmn/mcp-zap-server/stargazers) [![Forks](https://img.shields.io/github/forks/dtkmn/mcp-zap-server?style=flat-square&color=blue)](https://github.com/dtkmn/mcp-zap-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dtkmn/mcp-zap-server?style=flat-square&color=yellow)](https://github.com/dtkmn/mcp-zap-server/stargazers) [![Forks](https://img.shields.io/github/forks/dtkmn/mcp-zap-server?style=flat-square&color=blue)](https://github.com/dtkmn/mcp-zap-server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A Spring Boot application exposing OWASP ZAP as an MCP (Model Context Protocol) server. It lets any MCP‑compatible AI agent (e.g., Claude Desktop, Cursor) orchestrate ZAP actions—spider, active scan, import OpenAPI specs, and generate reports.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ d​tkmn/mcp‑zap‑server — это open‑source Spring Boot‑прило�
 
 ### 中文
 
-dtkmn/mcp-zap-server：dtkmn/mcp-zap-server helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+dtkmn/mcp-zap-server：dtkmn/mcp-zap-server helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dtkmn/mcp-zap-server：dtkmn/mcp-zap-server helps add AI capability without star
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ dtkmn/mcp-zap-server：dtkmn/mcp-zap-server helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 69/100 |
+| outlook | 74/100 |
 | adoption | 34/100 |
 | stars | 37/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

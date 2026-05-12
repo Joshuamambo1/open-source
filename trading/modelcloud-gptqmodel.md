@@ -1,6 +1,6 @@
 # ModelCloud/GPTQModel
 
-[![Stars](https://img.shields.io/github/stars/ModelCloud/GPTQModel?style=flat-square&color=yellow)](https://github.com/ModelCloud/GPTQModel/stargazers) [![Forks](https://img.shields.io/github/forks/ModelCloud/GPTQModel?style=flat-square&color=blue)](https://github.com/ModelCloud/GPTQModel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ModelCloud/GPTQModel?style=flat-square&color=yellow)](https://github.com/ModelCloud/GPTQModel/stargazers) [![Forks](https://img.shields.io/github/forks/ModelCloud/GPTQModel?style=flat-square&color=blue)](https://github.com/ModelCloud/GPTQModel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > LLM model quantization (compression) toolkit with HW acceleration support for Nvidia, AMD, Intel GPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ModelCloud/GPTQModel — это открытый набор инструме
 
 ### 中文
 
-ModelCloud/GPTQModel：ModelCloud/GPTQModel helps research and automate market workflows.。适合用于research trading systems、backtest strategies。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ModelCloud/GPTQModel：ModelCloud/GPTQModel helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ModelCloud/GPTQModel：ModelCloud/GPTQModel helps research and automate market w
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ModelCloud/GPTQModel：ModelCloud/GPTQModel helps research and automate market w
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 63/100 |
 | stars | 65/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

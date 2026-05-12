@@ -1,6 +1,6 @@
 # tanaikech/MCPApp
 
-[![Stars](https://img.shields.io/github/stars/tanaikech/MCPApp?style=flat-square&color=yellow)](https://github.com/tanaikech/MCPApp/stargazers) [![Forks](https://img.shields.io/github/forks/tanaikech/MCPApp?style=flat-square&color=blue)](https://github.com/tanaikech/MCPApp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tanaikech/MCPApp?style=flat-square&color=yellow)](https://github.com/tanaikech/MCPApp/stargazers) [![Forks](https://img.shields.io/github/forks/tanaikech/MCPApp?style=flat-square&color=blue)](https://github.com/tanaikech/MCPApp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > This text introduces the Model Context Protocol (MCP) for AI interaction, exploring Google Apps Script (GAS) as a server option. It shows feasibility with a sample but notes the lack of a GAS SDK, aiming to encourage understanding and development.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ tanaikech/MCPApp is an open‑source proof‑of‑concept that demonstrates how 
 
 ### 中文
 
-tanaikech/MCPApp：tanaikech/MCPApp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+tanaikech/MCPApp：tanaikech/MCPApp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ tanaikech/MCPApp：tanaikech/MCPApp helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ tanaikech/MCPApp：tanaikech/MCPApp helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 78/100 |
-| production | 77/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 33/100 |
 | stars | 36/100 |
 | forks | 26/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

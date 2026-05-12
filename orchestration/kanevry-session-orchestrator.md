@@ -1,6 +1,6 @@
 # Kanevry/session-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/Kanevry/session-orchestrator?style=flat-square&color=yellow)](https://github.com/Kanevry/session-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Kanevry/session-orchestrator?style=flat-square&color=blue)](https://github.com/Kanevry/session-orchestrator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kanevry/session-orchestrator?style=flat-square&color=yellow)](https://github.com/Kanevry/session-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Kanevry/session-orchestrator?style=flat-square&color=blue)](https://github.com/Kanevry/session-orchestrator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin for structured AI development sessions — 5-wave execution, parallel agents, quality gates, VCS integration. Pure Markdown, no runtime code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Kanevry/session-orchestrator：Kanevry/session-orchestrator helps turn isolated 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 83/100 |
+| production | 68/100 |
+| outlook | 76/100 |
 | adoption | 30/100 |
 | stars | 35/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

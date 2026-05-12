@@ -1,6 +1,6 @@
 # jingsongliujing/OnnxOCR
 
-[![Stars](https://img.shields.io/github/stars/jingsongliujing/OnnxOCR?style=flat-square&color=yellow)](https://github.com/jingsongliujing/OnnxOCR/stargazers) [![Forks](https://img.shields.io/github/forks/jingsongliujing/OnnxOCR?style=flat-square&color=blue)](https://github.com/jingsongliujing/OnnxOCR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jingsongliujing/OnnxOCR?style=flat-square&color=yellow)](https://github.com/jingsongliujing/OnnxOCR/stargazers) [![Forks](https://img.shields.io/github/forks/jingsongliujing/OnnxOCR?style=flat-square&color=blue)](https://github.com/jingsongliujing/OnnxOCR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 基于PaddleOCR重构，并且脱离PaddlePaddle深度学习训练框架的轻量级OCR，推理速度超快   ——  A lightweight OCR system based on PaddleOCR, decoupled from the PaddlePaddle deep learning training framework, with ultra-fast inference speed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Jingsongliujing/OnnxOCR is a lightweight optical character recognition (OCR) sol
 
 ### 中文
 
-jingsongliujing/OnnxOCR：jingsongliujing/OnnxOCR helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jingsongliujing/OnnxOCR：jingsongliujing/OnnxOCR helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jingsongliujing/OnnxOCR：jingsongliujing/OnnxOCR helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jingsongliujing/OnnxOCR：jingsongliujing/OnnxOCR helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 71/100 |
+| outlook | 76/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

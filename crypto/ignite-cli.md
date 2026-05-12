@@ -1,6 +1,6 @@
 # ignite/cli
 
-[![Stars](https://img.shields.io/github/stars/ignite/cli?style=flat-square&color=yellow)](https://github.com/ignite/cli/stargazers) [![Forks](https://img.shields.io/github/forks/ignite/cli?style=flat-square&color=blue)](https://github.com/ignite/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ignite/cli?style=flat-square&color=yellow)](https://github.com/ignite/cli/stargazers) [![Forks](https://img.shields.io/github/forks/ignite/cli?style=flat-square&color=blue)](https://github.com/ignite/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 572 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ignite/cli — это открытый CLI‑инструмент и хаб, �
 
 ### 中文
 
-ignite/cli：ignite/cli helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ignite/cli：ignite/cli helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ignite/cli：ignite/cli helps prototype or inspect blockchain workflows with ope
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ignite/cli：ignite/cli helps prototype or inspect blockchain workflows with ope
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 78/100 |
-| production | 81/100 |
-| outlook | 86/100 |
+| production | 74/100 |
+| outlook | 79/100 |
 | adoption | 67/100 |
 | stars | 67/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

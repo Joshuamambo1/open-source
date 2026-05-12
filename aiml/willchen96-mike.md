@@ -1,6 +1,6 @@
 # willchen96/mike
 
-[![Stars](https://img.shields.io/github/stars/willchen96/mike?style=flat-square&color=yellow)](https://github.com/willchen96/mike/stargazers) [![Forks](https://img.shields.io/github/forks/willchen96/mike?style=flat-square&color=blue)](https://github.com/willchen96/mike/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/willchen96/mike?style=flat-square&color=yellow)](https://github.com/willchen96/mike/stargazers) [![Forks](https://img.shields.io/github/forks/willchen96/mike?style=flat-square&color=blue)](https://github.com/willchen96/mike/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > OSS AI Legal Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 723 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ willchen96/mike：willchen96/mike helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 71/100 |
+| production | 67/100 |
+| outlook | 64/100 |
 | adoption | 72/100 |
 | stars | 73/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

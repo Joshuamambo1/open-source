@@ -1,6 +1,6 @@
 # rizinorg/rizin
 
-[![Stars](https://img.shields.io/github/stars/rizinorg/rizin?style=flat-square&color=yellow)](https://github.com/rizinorg/rizin/stargazers) [![Forks](https://img.shields.io/github/forks/rizinorg/rizin?style=flat-square&color=blue)](https://github.com/rizinorg/rizin/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rizinorg/rizin?style=flat-square&color=yellow)](https://github.com/rizinorg/rizin/stargazers) [![Forks](https://img.shields.io/github/forks/rizinorg/rizin?style=flat-square&color=blue)](https://github.com/rizinorg/rizin/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > UNIX-like reverse engineering framework and command-line toolset.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 559 |
 | 💻 **Language** | C |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Rizin is an open‑source, UNIX‑like reverse‑engineering framework that prov
 
 ### 中文
 
-rizinorg/rizin：rizinorg/rizin helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rizinorg/rizin：rizinorg/rizin helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rizinorg/rizin：rizinorg/rizin helps catch security and privacy issues earlier 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ rizinorg/rizin：rizinorg/rizin helps catch security and privacy issues earlier 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 84/100 |
+| production | 69/100 |
+| outlook | 77/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

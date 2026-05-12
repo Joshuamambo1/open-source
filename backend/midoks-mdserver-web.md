@@ -1,6 +1,6 @@
 # midoks/mdserver-web
 
-[![Stars](https://img.shields.io/github/stars/midoks/mdserver-web?style=flat-square&color=yellow)](https://github.com/midoks/mdserver-web/stargazers) [![Forks](https://img.shields.io/github/forks/midoks/mdserver-web?style=flat-square&color=blue)](https://github.com/midoks/mdserver-web/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/midoks/mdserver-web?style=flat-square&color=yellow)](https://github.com/midoks/mdserver-web/stargazers) [![Forks](https://img.shields.io/github/forks/midoks/mdserver-web?style=flat-square&color=blue)](https://github.com/midoks/mdserver-web/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Simple Linux Panel
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 723 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ midoks/mdserver-web — это открытый веб‑панель для �
 
 ### 中文
 
-midoks/mdserver-web：midoks/mdserver-web helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+midoks/mdserver-web：midoks/mdserver-web helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ midoks/mdserver-web：midoks/mdserver-web helps teams reuse service infrastructu
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ midoks/mdserver-web：midoks/mdserver-web helps teams reuse service infrastructu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 46/100 |
-| production | 80/100 |
-| outlook | 82/100 |
+| production | 73/100 |
+| outlook | 75/100 |
 | adoption | 76/100 |
 | stars | 78/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

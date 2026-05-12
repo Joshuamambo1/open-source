@@ -1,6 +1,6 @@
 # LvcidPsyche/auto-browser
 
-[![Stars](https://img.shields.io/github/stars/LvcidPsyche/auto-browser?style=flat-square&color=yellow)](https://github.com/LvcidPsyche/auto-browser/stargazers) [![Forks](https://img.shields.io/github/forks/LvcidPsyche/auto-browser?style=flat-square&color=blue)](https://github.com/LvcidPsyche/auto-browser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LvcidPsyche/auto-browser?style=flat-square&color=yellow)](https://github.com/LvcidPsyche/auto-browser/stargazers) [![Forks](https://img.shields.io/github/forks/LvcidPsyche/auto-browser?style=flat-square&color=blue)](https://github.com/LvcidPsyche/auto-browser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 428 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ LvcidPsyche/auto-browser：LvcidPsyche/auto-browser helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 94/100 |
-| production | 83/100 |
-| outlook | 88/100 |
+| production | 76/100 |
+| outlook | 81/100 |
 | adoption | 53/100 |
 | stars | 56/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

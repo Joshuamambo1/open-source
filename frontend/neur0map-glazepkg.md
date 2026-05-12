@@ -1,6 +1,6 @@
 # neur0map/glazepkg
 
-[![Stars](https://img.shields.io/github/stars/neur0map/glazepkg?style=flat-square&color=yellow)](https://github.com/neur0map/glazepkg/stargazers) [![Forks](https://img.shields.io/github/forks/neur0map/glazepkg?style=flat-square&color=blue)](https://github.com/neur0map/glazepkg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neur0map/glazepkg?style=flat-square&color=yellow)](https://github.com/neur0map/glazepkg/stargazers) [![Forks](https://img.shields.io/github/forks/neur0map/glazepkg?style=flat-square&color=blue)](https://github.com/neur0map/glazepkg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > See all your installed packages in one place.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 518 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Neur0map / glazepkg — это открытый инструмент дл�
 
 ### 中文
 
-neur0map/glazepkg：neur0map/glazepkg helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+neur0map/glazepkg：neur0map/glazepkg helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ neur0map/glazepkg：neur0map/glazepkg helps ship user-facing interfaces with les
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ neur0map/glazepkg：neur0map/glazepkg helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 88/100 |
+| production | 71/100 |
+| outlook | 81/100 |
 | adoption | 51/100 |
 | stars | 58/100 |
 | forks | 33/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

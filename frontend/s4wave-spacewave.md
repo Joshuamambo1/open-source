@@ -1,6 +1,6 @@
 # s4wave/spacewave
 
-[![Stars](https://img.shields.io/github/stars/s4wave/spacewave?style=flat-square&color=yellow)](https://github.com/s4wave/spacewave/stargazers) [![Forks](https://img.shields.io/github/forks/s4wave/spacewave?style=flat-square&color=blue)](https://github.com/s4wave/spacewave/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/s4wave/spacewave?style=flat-square&color=yellow)](https://github.com/s4wave/spacewave/stargazers) [![Forks](https://img.shields.io/github/forks/s4wave/spacewave?style=flat-square&color=blue)](https://github.com/s4wave/spacewave/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > self-host directly in the web browser, no servers required. local-first, p2p
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 573 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ s4wave/spacewave：s4wave/spacewave helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 71/100 |
+| production | 68/100 |
+| outlook | 64/100 |
 | adoption | 49/100 |
 | stars | 59/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

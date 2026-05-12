@@ -1,6 +1,6 @@
 # yuga-hashimoto/openclaw-assistant
 
-[![Stars](https://img.shields.io/github/stars/yuga-hashimoto/openclaw-assistant?style=flat-square&color=yellow)](https://github.com/yuga-hashimoto/openclaw-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/yuga-hashimoto/openclaw-assistant?style=flat-square&color=blue)](https://github.com/yuga-hashimoto/openclaw-assistant/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuga-hashimoto/openclaw-assistant?style=flat-square&color=yellow)](https://github.com/yuga-hashimoto/openclaw-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/yuga-hashimoto/openclaw-assistant?style=flat-square&color=blue)](https://github.com/yuga-hashimoto/openclaw-assistant/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > OpenClaw voice assistant app for Android - Wake word activation & system assistant integration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 261 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ yuga-hashimoto/openclaw-assistant：yuga-hashimoto/openclaw-assistant helps add 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 82/100 |
+| production | 67/100 |
+| outlook | 75/100 |
 | adoption | 50/100 |
 | stars | 51/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

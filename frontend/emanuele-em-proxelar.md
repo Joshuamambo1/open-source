@@ -1,6 +1,6 @@
 # emanuele-em/proxelar
 
-[![Stars](https://img.shields.io/github/stars/emanuele-em/proxelar?style=flat-square&color=yellow)](https://github.com/emanuele-em/proxelar/stargazers) [![Forks](https://img.shields.io/github/forks/emanuele-em/proxelar?style=flat-square&color=blue)](https://github.com/emanuele-em/proxelar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emanuele-em/proxelar?style=flat-square&color=yellow)](https://github.com/emanuele-em/proxelar/stargazers) [![Forks](https://img.shields.io/github/forks/emanuele-em/proxelar?style=flat-square&color=blue)](https://github.com/emanuele-em/proxelar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 965 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Proxelar is a programmable man‑in‑the‑middle proxy that captures and manip
 
 ### 中文
 
-emanuele-em/proxelar：emanuele-em/proxelar helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+emanuele-em/proxelar：emanuele-em/proxelar helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ emanuele-em/proxelar：emanuele-em/proxelar helps ship user-facing interfaces wi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ emanuele-em/proxelar：emanuele-em/proxelar helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 58/100 |
 | stars | 64/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

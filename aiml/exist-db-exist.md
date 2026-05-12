@@ -1,6 +1,6 @@
 # eXist-db/exist
 
-[![Stars](https://img.shields.io/github/stars/eXist-db/exist?style=flat-square&color=yellow)](https://github.com/eXist-db/exist/stargazers) [![Forks](https://img.shields.io/github/forks/eXist-db/exist?style=flat-square&color=blue)](https://github.com/eXist-db/exist/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eXist-db/exist?style=flat-square&color=yellow)](https://github.com/eXist-db/exist/stargazers) [![Forks](https://img.shields.io/github/forks/eXist-db/exist?style=flat-square&color=blue)](https://github.com/eXist-db/exist/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > eXist Native XML Database and Application Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 464 |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ eXist-db/exist：eXist-db/exist helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 57/100 |
 | stars | 57/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

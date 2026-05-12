@@ -1,6 +1,6 @@
 # microsoft/FLAML
 
-[![Stars](https://img.shields.io/github/stars/microsoft/FLAML?style=flat-square&color=yellow)](https://github.com/microsoft/FLAML/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/FLAML?style=flat-square&color=blue)](https://github.com/microsoft/FLAML/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/FLAML?style=flat-square&color=yellow)](https://github.com/microsoft/FLAML/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/FLAML?style=flat-square&color=blue)](https://github.com/microsoft/FLAML/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 560 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ FLAML — это высокопроизводительная открытая
 
 ### 中文
 
-microsoft/FLAML：microsoft/FLAML helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+microsoft/FLAML：microsoft/FLAML helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ microsoft/FLAML：microsoft/FLAML helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ microsoft/FLAML：microsoft/FLAML helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 46/100 |
-| production | 80/100 |
-| outlook | 82/100 |
+| production | 73/100 |
+| outlook | 75/100 |
 | adoption | 75/100 |
 | stars | 77/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

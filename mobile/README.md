@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**84 projects** in this category.
+**85 projects** in this category.
 
 ## Projects
 
@@ -82,16 +82,17 @@
 | 72 | [DowneyRem/PixivSource](./downeyrem-pixivsource.md) | ⭐ 838 | JavaScript | 54/100 |
 | 73 | [bitwarden/ios](./bitwarden-ios.md) | ⭐ 585 | Swift | 54/100 |
 | 74 | [a1ive/nwinfo](./a1ive-nwinfo.md) | ⭐ 546 | C | 54/100 |
-| 75 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 53/100 |
-| 76 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 53/100 |
-| 77 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 53/100 |
-| 78 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 52/100 |
-| 79 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 52/100 |
-| 80 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 52/100 |
-| 81 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 52/100 |
-| 82 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 51/100 |
-| 83 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 50/100 |
-| 84 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 41/100 |
+| 75 | [christianrowlands/android-network-survey](./christianrowlands-android-network-survey.md) | ⭐ 479 | Java | 53/100 |
+| 76 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 53/100 |
+| 77 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 53/100 |
+| 78 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 53/100 |
+| 79 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 52/100 |
+| 80 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 52/100 |
+| 81 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 52/100 |
+| 82 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 52/100 |
+| 83 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 51/100 |
+| 84 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 50/100 |
+| 85 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 41/100 |
 
 ---
 

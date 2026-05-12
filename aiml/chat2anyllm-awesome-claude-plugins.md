@@ -1,6 +1,6 @@
 # Chat2AnyLLM/awesome-claude-plugins
 
-[![Stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-plugins?style=flat-square&color=yellow)](https://github.com/Chat2AnyLLM/awesome-claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/Chat2AnyLLM/awesome-claude-plugins?style=flat-square&color=blue)](https://github.com/Chat2AnyLLM/awesome-claude-plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-plugins?style=flat-square&color=yellow)](https://github.com/Chat2AnyLLM/awesome-claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/Chat2AnyLLM/awesome-claude-plugins?style=flat-square&color=blue)](https://github.com/Chat2AnyLLM/awesome-claude-plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome claude marketplaces and plugins
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Chat2AnyLLM/awesome-claude-plugins is a community‑maintained repository that a
 
 ### 中文
 
-Chat2AnyLLM/awesome-claude-plugins：Chat2AnyLLM/awesome-claude-plugins helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Chat2AnyLLM/awesome-claude-plugins：Chat2AnyLLM/awesome-claude-plugins helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Chat2AnyLLM/awesome-claude-plugins：Chat2AnyLLM/awesome-claude-plugins helps ad
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Chat2AnyLLM/awesome-claude-plugins：Chat2AnyLLM/awesome-claude-plugins helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 72/100 |
+| production | 69/100 |
+| outlook | 65/100 |
 | adoption | 41/100 |
 | stars | 41/100 |
 | forks | 40/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

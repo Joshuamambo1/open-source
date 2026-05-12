@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **7112** |
+| 🗂️ **Total projects** | **7152** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,23 +18,23 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2603 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1304 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 709 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 605 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 379 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 350 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 248 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 2608 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1314 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 711 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 608 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 381 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 352 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 251 | [Browse →](./crypto/) |
 | 📊 **Data** | 166 | [Browse →](./data/) |
-| 💳 **Payments** | 116 | [Browse →](./payments/) |
-| 🏷️ **Mcp** | 101 | [Browse →](./mcp/) |
-| 🏷️ **Automation** | 88 | [Browse →](./automation/) |
+| 💳 **Payments** | 117 | [Browse →](./payments/) |
+| 🏷️ **Mcp** | 105 | [Browse →](./mcp/) |
+| 🏷️ **Automation** | 91 | [Browse →](./automation/) |
+| 📱 **Mobile** | 85 | [Browse →](./mobile/) |
 | 📈 **Trading** | 85 | [Browse →](./trading/) |
-| 📱 **Mobile** | 84 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 71 | [Browse →](./devopsinfra/) |
-| 🏷️ **Knowledgerag** | 62 | [Browse →](./knowledgerag/) |
-| 🔐 **Security** | 51 | [Browse →](./security/) |
-| 🏷️ **Database** | 32 | [Browse →](./database/) |
+| 🏷️ **Knowledgerag** | 64 | [Browse →](./knowledgerag/) |
+| 🔐 **Security** | 52 | [Browse →](./security/) |
+| 🏷️ **Database** | 33 | [Browse →](./database/) |
 | ✨ **Design** | 21 | [Browse →](./design/) |
 | 🎯 **Product** | 15 | [Browse →](./product/) |
 | 🏷️ **Observability** | 10 | [Browse →](./observability/) |

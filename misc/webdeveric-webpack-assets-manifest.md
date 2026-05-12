@@ -1,6 +1,6 @@
 # webdeveric/webpack-assets-manifest
 
-[![Stars](https://img.shields.io/github/stars/webdeveric/webpack-assets-manifest?style=flat-square&color=yellow)](https://github.com/webdeveric/webpack-assets-manifest/stargazers) [![Forks](https://img.shields.io/github/forks/webdeveric/webpack-assets-manifest?style=flat-square&color=blue)](https://github.com/webdeveric/webpack-assets-manifest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webdeveric/webpack-assets-manifest?style=flat-square&color=yellow)](https://github.com/webdeveric/webpack-assets-manifest/stargazers) [![Forks](https://img.shields.io/github/forks/webdeveric/webpack-assets-manifest?style=flat-square&color=blue)](https://github.com/webdeveric/webpack-assets-manifest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > This webpack plugin will generate a JSON file that matches the original filename with the hashed version.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 327 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **webpack‑assets‑manifest** plugin for Webpack automatically creates a J
 
 ### 中文
 
-webdeveric/webpack-assets-manifest：webdeveric/webpack-assets-manifest may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+webdeveric/webpack-assets-manifest：webdeveric/webpack-assets-manifest may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ webdeveric/webpack-assets-manifest：webdeveric/webpack-assets-manifest may be u
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ webdeveric/webpack-assets-manifest：webdeveric/webpack-assets-manifest may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 74/100 |
+| production | 70/100 |
+| outlook | 67/100 |
 | adoption | 49/100 |
 | stars | 54/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

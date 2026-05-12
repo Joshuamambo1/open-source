@@ -1,6 +1,6 @@
 # JonasKruckenberg/imagetools
 
-[![Stars](https://img.shields.io/github/stars/JonasKruckenberg/imagetools?style=flat-square&color=yellow)](https://github.com/JonasKruckenberg/imagetools/stargazers) [![Forks](https://img.shields.io/github/forks/JonasKruckenberg/imagetools?style=flat-square&color=blue)](https://github.com/JonasKruckenberg/imagetools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JonasKruckenberg/imagetools?style=flat-square&color=yellow)](https://github.com/JonasKruckenberg/imagetools/stargazers) [![Forks](https://img.shields.io/github/forks/JonasKruckenberg/imagetools?style=flat-square&color=blue)](https://github.com/JonasKruckenberg/imagetools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Load and transform images using a toolbox :toolbox: of custom import directives!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ JonasKruckenberg /imagetools is an open‑source JavaScript/TypeScript library
 
 ### 中文
 
-JonasKruckenberg/imagetools：JonasKruckenberg/imagetools may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+JonasKruckenberg/imagetools：JonasKruckenberg/imagetools may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ JonasKruckenberg/imagetools：JonasKruckenberg/imagetools may be useful when its
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ JonasKruckenberg/imagetools：JonasKruckenberg/imagetools may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 71/100 |
+| outlook | 72/100 |
 | adoption | 60/100 |
 | stars | 65/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

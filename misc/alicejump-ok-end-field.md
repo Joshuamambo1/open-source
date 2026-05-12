@@ -1,6 +1,6 @@
 # AliceJump/ok-end-field
 
-[![Stars](https://img.shields.io/github/stars/AliceJump/ok-end-field?style=flat-square&color=yellow)](https://github.com/AliceJump/ok-end-field/stargazers) [![Forks](https://img.shields.io/github/forks/AliceJump/ok-end-field?style=flat-square&color=blue)](https://github.com/AliceJump/ok-end-field/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AliceJump/ok-end-field?style=flat-square&color=yellow)](https://github.com/AliceJump/ok-end-field/stargazers) [![Forks](https://img.shields.io/github/forks/AliceJump/ok-end-field?style=flat-square&color=blue)](https://github.com/AliceJump/ok-end-field/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 终末地 End Field Automation 基于ok-script开发的自动化
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 495 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ AliceJump/ok-end-field：AliceJump/ok-end-field may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

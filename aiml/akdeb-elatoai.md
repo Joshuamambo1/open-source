@@ -1,6 +1,6 @@
 # akdeb/ElatoAI
 
-[![Stars](https://img.shields.io/github/stars/akdeb/ElatoAI?style=flat-square&color=yellow)](https://github.com/akdeb/ElatoAI/stargazers) [![Forks](https://img.shields.io/github/forks/akdeb/ElatoAI?style=flat-square&color=blue)](https://github.com/akdeb/ElatoAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akdeb/ElatoAI?style=flat-square&color=yellow)](https://github.com/akdeb/ElatoAI/stargazers) [![Forks](https://img.shields.io/github/forks/akdeb/ElatoAI?style=flat-square&color=blue)](https://github.com/akdeb/ElatoAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Toys, Companions, and Devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML · Frontend
 
 ### 中文
 
-akdeb/ElatoAI：akdeb/ElatoAI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+akdeb/ElatoAI：akdeb/ElatoAI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ akdeb/ElatoAI：akdeb/ElatoAI helps add AI capability without starting from a bl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ akdeb/ElatoAI：akdeb/ElatoAI helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 71/100 |
+| outlook | 76/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

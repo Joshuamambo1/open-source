@@ -1,6 +1,6 @@
 # barun-saha/slide-deck-ai
 
-[![Stars](https://img.shields.io/github/stars/barun-saha/slide-deck-ai?style=flat-square&color=yellow)](https://github.com/barun-saha/slide-deck-ai/stargazers) [![Forks](https://img.shields.io/github/forks/barun-saha/slide-deck-ai?style=flat-square&color=blue)](https://github.com/barun-saha/slide-deck-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/barun-saha/slide-deck-ai?style=flat-square&color=yellow)](https://github.com/barun-saha/slide-deck-ai/stargazers) [![Forks](https://img.shields.io/github/forks/barun-saha/slide-deck-ai?style=flat-square&color=blue)](https://github.com/barun-saha/slide-deck-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Co-create PowerPoint slide decks with AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 352 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ barun-saha/slide-deck-ai is an open‑source tool that lets users collaborativel
 
 ### 中文
 
-barun-saha/slide-deck-ai：barun-saha/slide-deck-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+barun-saha/slide-deck-ai：barun-saha/slide-deck-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ barun-saha/slide-deck-ai：barun-saha/slide-deck-ai helps add AI capability with
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ barun-saha/slide-deck-ai：barun-saha/slide-deck-ai helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 78/100 |
-| production | 80/100 |
-| outlook | 83/100 |
+| production | 74/100 |
+| outlook | 76/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Icarus603/claude-code
 
-[![Stars](https://img.shields.io/github/stars/Icarus603/claude-code?style=flat-square&color=yellow)](https://github.com/Icarus603/claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/Icarus603/claude-code?style=flat-square&color=blue)](https://github.com/Icarus603/claude-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Icarus603/claude-code?style=flat-square&color=yellow)](https://github.com/Icarus603/claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/Icarus603/claude-code?style=flat-square&color=blue)](https://github.com/Icarus603/claude-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Refactored fork of the sourcemap-leaked Claude Code CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Icarus603/claude-code：Icarus603/claude-code helps turn isolated prompts and to
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 67/100 |
+| outlook | 68/100 |
 | adoption | 23/100 |
 | stars | 29/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

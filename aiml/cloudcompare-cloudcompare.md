@@ -1,6 +1,6 @@
 # CloudCompare/CloudCompare
 
-[![Stars](https://img.shields.io/github/stars/CloudCompare/CloudCompare?style=flat-square&color=yellow)](https://github.com/CloudCompare/CloudCompare/stargazers) [![Forks](https://img.shields.io/github/forks/CloudCompare/CloudCompare?style=flat-square&color=blue)](https://github.com/CloudCompare/CloudCompare/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CloudCompare/CloudCompare?style=flat-square&color=yellow)](https://github.com/CloudCompare/CloudCompare/stargazers) [![Forks](https://img.shields.io/github/forks/CloudCompare/CloudCompare?style=flat-square&color=blue)](https://github.com/CloudCompare/CloudCompare/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > CloudCompare main repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CloudCompare/CloudCompare：CloudCompare/CloudCompare helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 75/100 |
+| production | 67/100 |
+| outlook | 68/100 |
 | adoption | 77/100 |
 | stars | 78/100 |
 | forks | 77/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

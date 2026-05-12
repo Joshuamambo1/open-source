@@ -1,6 +1,6 @@
 # huggingface/datasets
 
-[![Stars](https://img.shields.io/github/stars/huggingface/datasets?style=flat-square&color=yellow)](https://github.com/huggingface/datasets/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/datasets?style=flat-square&color=blue)](https://github.com/huggingface/datasets/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/datasets?style=flat-square&color=yellow)](https://github.com/huggingface/datasets/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/datasets?style=flat-square&color=blue)](https://github.com/huggingface/datasets/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21.5k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ huggingface/datasets：huggingface/datasets helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 96/100 |
+| quality | 91/100 |
 | integration | 46/100 |
-| production | 82/100 |
-| outlook | 89/100 |
+| production | 76/100 |
+| outlook | 82/100 |
 | adoption | 91/100 |
 | stars | 92/100 |
 | forks | 88/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

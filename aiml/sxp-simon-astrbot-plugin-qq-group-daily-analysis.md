@@ -1,6 +1,6 @@
 # SXP-Simon/astrbot_plugin_qq_group_daily_analysis
 
-[![Stars](https://img.shields.io/github/stars/SXP-Simon/astrbot_plugin_qq_group_daily_analysis?style=flat-square&color=yellow)](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/stargazers) [![Forks](https://img.shields.io/github/forks/SXP-Simon/astrbot_plugin_qq_group_daily_analysis?style=flat-square&color=blue)](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SXP-Simon/astrbot_plugin_qq_group_daily_analysis?style=flat-square&color=yellow)](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/stargazers) [![Forks](https://img.shields.io/github/forks/SXP-Simon/astrbot_plugin_qq_group_daily_analysis?style=flat-square&color=blue)](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > [多平台接入开发中] ✨ 群日常分析总结插件 - 生成精美的群聊分析报告，支持话题分析、用户形象、群聊圣经等功能；支持 QQ (OneBot)、Telegram、Discord
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SXP‑Simon/astrbot_plugin_qq_group_daily_analysis — это открытый
 
 ### 中文
 
-SXP-Simon/astrbot_plugin_qq_group_daily_analysis：SXP-Simon/astrbot_plugin_qq_group_daily_analysis helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+SXP-Simon/astrbot_plugin_qq_group_daily_analysis：SXP-Simon/astrbot_plugin_qq_group_daily_analysis helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ SXP-Simon/astrbot_plugin_qq_group_daily_analysis：SXP-Simon/astrbot_plugin_qq_g
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ SXP-Simon/astrbot_plugin_qq_group_daily_analysis：SXP-Simon/astrbot_plugin_qq_g
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 75/100 |
+| production | 68/100 |
+| outlook | 68/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

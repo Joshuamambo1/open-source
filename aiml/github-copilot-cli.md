@@ -1,6 +1,6 @@
 # github/copilot-cli
 
-[![Stars](https://img.shields.io/github/stars/github/copilot-cli?style=flat-square&color=yellow)](https://github.com/github/copilot-cli/stargazers) [![Forks](https://img.shields.io/github/forks/github/copilot-cli?style=flat-square&color=blue)](https://github.com/github/copilot-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github/copilot-cli?style=flat-square&color=yellow)](https://github.com/github/copilot-cli/stargazers) [![Forks](https://img.shields.io/github/forks/github/copilot-cli?style=flat-square&color=blue)](https://github.com/github/copilot-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag github): The 3 Pillars of Agentic DevOps: From Zero to Hero
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | devto |
 
@@ -63,14 +63,14 @@ The 3 Pillars of Agentic DevOps: From Zero to Hero：The 3 Pillars of Agentic De
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # matt1398/claude-devtools
 
-[![Stars](https://img.shields.io/github/stars/matt1398/claude-devtools?style=flat-square&color=yellow)](https://github.com/matt1398/claude-devtools/stargazers) [![Forks](https://img.shields.io/github/forks/matt1398/claude-devtools?style=flat-square&color=blue)](https://github.com/matt1398/claude-devtools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matt1398/claude-devtools?style=flat-square&color=yellow)](https://github.com/matt1398/claude-devtools/stargazers) [![Forks](https://img.shields.io/github/forks/matt1398/claude-devtools?style=flat-square&color=blue)](https://github.com/matt1398/claude-devtools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 247 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ matt1398/claude-devtools is an open‑source visual interface that fills the gap
 
 ### 中文
 
-matt1398/claude-devtools：matt1398/claude-devtools helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+matt1398/claude-devtools：matt1398/claude-devtools helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ matt1398/claude-devtools：matt1398/claude-devtools helps add AI capability with
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ matt1398/claude-devtools：matt1398/claude-devtools helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 87/100 |
+| production | 72/100 |
+| outlook | 80/100 |
 | adoption | 71/100 |
 | stars | 75/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # MODSetter/SurfSense
 
-[![Stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&color=yellow)](https://github.com/MODSetter/SurfSense/stargazers) [![Forks](https://img.shields.io/github/forks/MODSetter/SurfSense?style=flat-square&color=blue)](https://github.com/MODSetter/SurfSense/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&color=yellow)](https://github.com/MODSetter/SurfSense/stargazers) [![Forks](https://img.shields.io/github/forks/MODSetter/SurfSense?style=flat-square&color=blue)](https://github.com/MODSetter/SurfSense/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.2k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MODSetter/SurfSense：MODSetter/SurfSense helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 78/100 |
-| production | 86/100 |
-| outlook | 94/100 |
+| production | 79/100 |
+| outlook | 87/100 |
 | adoption | 85/100 |
 | stars | 88/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

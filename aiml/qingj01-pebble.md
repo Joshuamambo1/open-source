@@ -1,6 +1,6 @@
 # QingJ01/Pebble
 
-[![Stars](https://img.shields.io/github/stars/QingJ01/Pebble?style=flat-square&color=yellow)](https://github.com/QingJ01/Pebble/stargazers) [![Forks](https://img.shields.io/github/forks/QingJ01/Pebble?style=flat-square&color=blue)](https://github.com/QingJ01/Pebble/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QingJ01/Pebble?style=flat-square&color=yellow)](https://github.com/QingJ01/Pebble/stargazers) [![Forks](https://img.shields.io/github/forks/QingJ01/Pebble?style=flat-square&color=blue)](https://github.com/QingJ01/Pebble/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A small yet beautiful email client.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ QingJ01/Pebble：QingJ01/Pebble helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 68/100 |
+| production | 63/100 |
+| outlook | 61/100 |
 | adoption | 47/100 |
 | stars | 52/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

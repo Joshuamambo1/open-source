@@ -1,6 +1,6 @@
 # CISOfy/lynis
 
-[![Stars](https://img.shields.io/github/stars/CISOfy/lynis?style=flat-square&color=yellow)](https://github.com/CISOfy/lynis/stargazers) [![Forks](https://img.shields.io/github/forks/CISOfy/lynis?style=flat-square&color=blue)](https://github.com/CISOfy/lynis/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CISOfy/lynis?style=flat-square&color=yellow)](https://github.com/CISOfy/lynis/stargazers) [![Forks](https://img.shields.io/github/forks/CISOfy/lynis?style=flat-square&color=blue)](https://github.com/CISOfy/lynis/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.6k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Lynis — это бесплатный open‑source инструмент дл�
 
 ### 中文
 
-CISOfy/lynis：CISOfy/lynis helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+CISOfy/lynis：CISOfy/lynis helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ CISOfy/lynis：CISOfy/lynis helps add AI capability without starting from a blan
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ CISOfy/lynis：CISOfy/lynis helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 30/100 |
-| production | 79/100 |
-| outlook | 91/100 |
+| production | 73/100 |
+| outlook | 84/100 |
 | adoption | 87/100 |
 | stars | 89/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

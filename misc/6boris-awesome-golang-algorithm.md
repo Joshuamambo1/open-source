@@ -1,6 +1,6 @@
 # 6boris/awesome-golang-algorithm
 
-[![Stars](https://img.shields.io/github/stars/6boris/awesome-golang-algorithm?style=flat-square&color=yellow)](https://github.com/6boris/awesome-golang-algorithm/stargazers) [![Forks](https://img.shields.io/github/forks/6boris/awesome-golang-algorithm?style=flat-square&color=blue)](https://github.com/6boris/awesome-golang-algorithm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/6boris/awesome-golang-algorithm?style=flat-square&color=yellow)](https://github.com/6boris/awesome-golang-algorithm/stargazers) [![Forks](https://img.shields.io/github/forks/6boris/awesome-golang-algorithm?style=flat-square&color=blue)](https://github.com/6boris/awesome-golang-algorithm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > :memo: LeetCode of algorithms with golang solution(updating).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **awesome-golang-algorithm** repository by 6boris curates a collection of 
 
 ### 中文
 
-6boris/awesome-golang-algorithm：6boris/awesome-golang-algorithm may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+6boris/awesome-golang-algorithm：6boris/awesome-golang-algorithm may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ The **awesome-golang-algorithm** repository by 6boris curates a collection of 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ The **awesome-golang-algorithm** repository by 6boris curates a collection of 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 72/100 |
+| outlook | 74/100 |
 | adoption | 70/100 |
 | stars | 75/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

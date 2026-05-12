@@ -1,6 +1,6 @@
 # prymitive/karma
 
-[![Stars](https://img.shields.io/github/stars/prymitive/karma?style=flat-square&color=yellow)](https://github.com/prymitive/karma/stargazers) [![Forks](https://img.shields.io/github/forks/prymitive/karma?style=flat-square&color=blue)](https://github.com/prymitive/karma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prymitive/karma?style=flat-square&color=yellow)](https://github.com/prymitive/karma/stargazers) [![Forks](https://img.shields.io/github/forks/prymitive/karma?style=flat-square&color=blue)](https://github.com/prymitive/karma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Alert dashboard for Prometheus Alertmanager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ prymitive/karma is an open‑source web UI that visualizes and manages alerts fr
 
 ### 中文
 
-prymitive/karma：prymitive/karma may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+prymitive/karma：prymitive/karma may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ prymitive/karma：prymitive/karma may be useful when its README and activity mat
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ prymitive/karma：prymitive/karma may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 86/100 |
+| production | 71/100 |
+| outlook | 79/100 |
 | adoption | 69/100 |
 | stars | 73/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

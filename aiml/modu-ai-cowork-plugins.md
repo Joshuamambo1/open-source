@@ -1,6 +1,6 @@
 # modu-ai/cowork-plugins
 
-[![Stars](https://img.shields.io/github/stars/modu-ai/cowork-plugins?style=flat-square&color=yellow)](https://github.com/modu-ai/cowork-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/modu-ai/cowork-plugins?style=flat-square&color=blue)](https://github.com/modu-ai/cowork-plugins/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modu-ai/cowork-plugins?style=flat-square&color=yellow)](https://github.com/modu-ai/cowork-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/modu-ai/cowork-plugins?style=flat-square&color=blue)](https://github.com/modu-ai/cowork-plugins/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Cowork 한국어 도메인 전문가 AI 마켓플레이스 — 21 plugins · 108 skills · Korean B2B (business · finance · legal · HR · marketing · content · commerce · BI · PM · sales) + AI media (image/video/voice) + office docs (HWPX/DOCX/XLSX/PPTX/PDF) + html-report renderer. Anthropic Claude Code 한국어 도메인 특화 플러그인 모음.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 178 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ modu‑ai/cowork-plugins — это набор из 21 плагина и 108 �
 
 ### 中文
 
-modu-ai/cowork-plugins：modu-ai/cowork-plugins helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+modu-ai/cowork-plugins：modu-ai/cowork-plugins helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ modu-ai/cowork-plugins：modu-ai/cowork-plugins helps add AI capability without 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ modu-ai/cowork-plugins：modu-ai/cowork-plugins helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 87/100 |
+| production | 71/100 |
+| outlook | 80/100 |
 | adoption | 46/100 |
 | stars | 48/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

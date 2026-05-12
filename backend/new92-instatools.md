@@ -1,6 +1,6 @@
 # new92/instatools
 
-[![Stars](https://img.shields.io/github/stars/new92/instatools?style=flat-square&color=yellow)](https://github.com/new92/instatools/stargazers) [![Forks](https://img.shields.io/github/forks/new92/instatools?style=flat-square&color=blue)](https://github.com/new92/instatools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/new92/instatools?style=flat-square&color=yellow)](https://github.com/new92/instatools/stargazers) [![Forks](https://img.shields.io/github/forks/new92/instatools?style=flat-square&color=blue)](https://github.com/new92/instatools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > 🧰 A collection of automation tools for Instagram 📱| Written in Python 🐍 | Don't forget to ⭐ the repo !
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 299 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ new92/instatools is an open‑source Python library that bundles a set of comman
 
 ### 中文
 
-new92/instatools：new92/instatools helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+new92/instatools：new92/instatools helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ new92/instatools：new92/instatools helps teams reuse service infrastructure ins
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ new92/instatools：new92/instatools helps teams reuse service infrastructure ins
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 78/100 |
-| production | 80/100 |
-| outlook | 87/100 |
+| production | 73/100 |
+| outlook | 80/100 |
 | adoption | 49/100 |
 | stars | 53/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

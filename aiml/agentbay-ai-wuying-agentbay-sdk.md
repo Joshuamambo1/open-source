@@ -1,6 +1,6 @@
 # agentbay-ai/wuying-agentbay-sdk
 
-[![Stars](https://img.shields.io/github/stars/agentbay-ai/wuying-agentbay-sdk?style=flat-square&color=yellow)](https://github.com/agentbay-ai/wuying-agentbay-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/agentbay-ai/wuying-agentbay-sdk?style=flat-square&color=blue)](https://github.com/agentbay-ai/wuying-agentbay-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentbay-ai/wuying-agentbay-sdk?style=flat-square&color=yellow)](https://github.com/agentbay-ai/wuying-agentbay-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/agentbay-ai/wuying-agentbay-sdk?style=flat-square&color=blue)](https://github.com/agentbay-ai/wuying-agentbay-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The Cloud Sandbox Built for AI Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ agentbay‑ai/wuying‑agentbay‑sdk is an open‑source SDK that provides deve
 
 ### 中文
 
-agentbay-ai/wuying-agentbay-sdk：agentbay-ai/wuying-agentbay-sdk helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+agentbay-ai/wuying-agentbay-sdk：agentbay-ai/wuying-agentbay-sdk helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ agentbay-ai/wuying-agentbay-sdk：agentbay-ai/wuying-agentbay-sdk helps add AI c
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ agentbay-ai/wuying-agentbay-sdk：agentbay-ai/wuying-agentbay-sdk helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 71/100 |
+| outlook | 74/100 |
 | adoption | 59/100 |
 | stars | 65/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

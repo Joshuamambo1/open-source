@@ -1,6 +1,6 @@
 # Jovancoding/Network-AI
 
-[![Stars](https://img.shields.io/github/stars/Jovancoding/Network-AI?style=flat-square&color=yellow)](https://github.com/Jovancoding/Network-AI/stargazers) [![Forks](https://img.shields.io/github/forks/Jovancoding/Network-AI?style=flat-square&color=blue)](https://github.com/Jovancoding/Network-AI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jovancoding/Network-AI?style=flat-square&color=yellow)](https://github.com/Jovancoding/Network-AI/stargazers) [![Forks](https://img.shields.io/github/forks/Jovancoding/Network-AI?style=flat-square&color=blue)](https://github.com/Jovancoding/Network-AI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for 29 AI frameworks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Jovancoding/Network-AI：Jovancoding/Network-AI helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 83/100 |
+| production | 68/100 |
+| outlook | 76/100 |
 | adoption | 33/100 |
 | stars | 35/100 |
 | forks | 26/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

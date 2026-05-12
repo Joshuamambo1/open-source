@@ -1,6 +1,6 @@
 # hook0/hook0
 
-[![Stars](https://img.shields.io/github/stars/hook0/hook0?style=flat-square&color=yellow)](https://github.com/hook0/hook0/stargazers) [![Forks](https://img.shields.io/github/forks/hook0/hook0?style=flat-square&color=blue)](https://github.com/hook0/hook0/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hook0/hook0?style=flat-square&color=yellow)](https://github.com/hook0/hook0/stargazers) [![Forks](https://img.shields.io/github/forks/hook0/hook0?style=flat-square&color=blue)](https://github.com/hook0/hook0/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Hook0 – это открытый сервер веб‑хуков, позво
 
 ### 中文
 
-hook0/hook0：hook0/hook0 helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+hook0/hook0：hook0/hook0 helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hook0/hook0：hook0/hook0 helps teams reuse service infrastructure instead of re
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ hook0/hook0：hook0/hook0 helps teams reuse service infrastructure instead of re
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 62/100 |
 | stars | 67/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

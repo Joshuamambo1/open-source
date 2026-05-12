@@ -1,6 +1,6 @@
 # pglombardo/PasswordPusher
 
-[![Stars](https://img.shields.io/github/stars/pglombardo/PasswordPusher?style=flat-square&color=yellow)](https://github.com/pglombardo/PasswordPusher/stargazers) [![Forks](https://img.shields.io/github/forks/pglombardo/PasswordPusher?style=flat-square&color=blue)](https://github.com/pglombardo/PasswordPusher/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pglombardo/PasswordPusher?style=flat-square&color=yellow)](https://github.com/pglombardo/PasswordPusher/stargazers) [![Forks](https://img.shields.io/github/forks/pglombardo/PasswordPusher?style=flat-square&color=blue)](https://github.com/pglombardo/PasswordPusher/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 444 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ PasswordPusher — это открытый инструмент для без�
 
 ### 中文
 
-pglombardo/PasswordPusher：pglombardo/PasswordPusher helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+pglombardo/PasswordPusher：pglombardo/PasswordPusher helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ pglombardo/PasswordPusher：pglombardo/PasswordPusher helps add AI capability wi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ pglombardo/PasswordPusher：pglombardo/PasswordPusher helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 88/100 |
+| production | 72/100 |
+| outlook | 81/100 |
 | adoption | 72/100 |
 | stars | 74/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # sebastienros/jint
 
-[![Stars](https://img.shields.io/github/stars/sebastienros/jint?style=flat-square&color=yellow)](https://github.com/sebastienros/jint/stargazers) [![Forks](https://img.shields.io/github/forks/sebastienros/jint?style=flat-square&color=blue)](https://github.com/sebastienros/jint/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sebastienros/jint?style=flat-square&color=yellow)](https://github.com/sebastienros/jint/stargazers) [![Forks](https://img.shields.io/github/forks/sebastienros/jint?style=flat-square&color=blue)](https://github.com/sebastienros/jint/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Javascript Interpreter for .NET
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 596 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ sebastienros/jint：sebastienros/jint may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 72/100 |
+| production | 65/100 |
+| outlook | 65/100 |
 | adoption | 76/100 |
 | stars | 78/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

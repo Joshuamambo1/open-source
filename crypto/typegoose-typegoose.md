@@ -1,6 +1,6 @@
 # typegoose/typegoose
 
-[![Stars](https://img.shields.io/github/stars/typegoose/typegoose?style=flat-square&color=yellow)](https://github.com/typegoose/typegoose/stargazers) [![Forks](https://img.shields.io/github/forks/typegoose/typegoose?style=flat-square&color=blue)](https://github.com/typegoose/typegoose/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typegoose/typegoose?style=flat-square&color=yellow)](https://github.com/typegoose/typegoose/stargazers) [![Forks](https://img.shields.io/github/forks/typegoose/typegoose?style=flat-square&color=blue)](https://github.com/typegoose/typegoose/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Typegoose - Define Mongoose models using TypeScript classes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ typegoose/typegoose — это open‑source библиотека, позво�
 
 ### 中文
 
-typegoose/typegoose：typegoose/typegoose helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+typegoose/typegoose：typegoose/typegoose helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ typegoose/typegoose：typegoose/typegoose helps prototype or inspect blockchain 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ typegoose/typegoose：typegoose/typegoose helps prototype or inspect blockchain 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 80/100 |
+| production | 74/100 |
+| outlook | 73/100 |
 | adoption | 66/100 |
 | stars | 72/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

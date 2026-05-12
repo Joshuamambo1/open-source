@@ -1,6 +1,6 @@
 # arconia-io/arconia
 
-[![Stars](https://img.shields.io/github/stars/arconia-io/arconia?style=flat-square&color=yellow)](https://github.com/arconia-io/arconia/stargazers) [![Forks](https://img.shields.io/github/forks/arconia-io/arconia?style=flat-square&color=blue)](https://github.com/arconia-io/arconia/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arconia-io/arconia?style=flat-square&color=yellow)](https://github.com/arconia-io/arconia/stargazers) [![Forks](https://img.shields.io/github/forks/arconia-io/arconia?style=flat-square&color=blue)](https://github.com/arconia-io/arconia/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Arconia is a framework that acts as an add-on for Spring Boot, designed to enhance modern enterprise applications built with Java. You can add Arconia to an existing Spring Boot application to boost developer experience, reduce boilerplate, and seamlessly adopt cloud native patterns.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ arconia-io/arconia：arconia-io/arconia helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 77/100 |
+| production | 65/100 |
+| outlook | 70/100 |
 | adoption | 41/100 |
 | stars | 46/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

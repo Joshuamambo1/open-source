@@ -1,6 +1,6 @@
 # zen-browser/desktop
 
-[![Stars](https://img.shields.io/github/stars/zen-browser/desktop?style=flat-square&color=yellow)](https://github.com/zen-browser/desktop/stargazers) [![Forks](https://img.shields.io/github/forks/zen-browser/desktop?style=flat-square&color=blue)](https://github.com/zen-browser/desktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zen-browser/desktop?style=flat-square&color=yellow)](https://github.com/zen-browser/desktop/stargazers) [![Forks](https://img.shields.io/github/forks/zen-browser/desktop?style=flat-square&color=blue)](https://github.com/zen-browser/desktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Welcome to a calmer internet
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41.9k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Misc
 
 ### 中文
 
-zen-browser/desktop：zen-browser/desktop may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+zen-browser/desktop：zen-browser/desktop may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ zen-browser/desktop：zen-browser/desktop may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ zen-browser/desktop：zen-browser/desktop may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 93/100 |
 | stars | 98/100 |
 | forks | 79/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

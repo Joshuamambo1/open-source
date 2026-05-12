@@ -1,6 +1,6 @@
 # StyleSwift/StyleSwift
 
-[![Stars](https://img.shields.io/github/stars/StyleSwift/StyleSwift?style=flat-square&color=yellow)](https://github.com/StyleSwift/StyleSwift/stargazers) [![Forks](https://img.shields.io/github/forks/StyleSwift/StyleSwift?style=flat-square&color=blue)](https://github.com/StyleSwift/StyleSwift/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StyleSwift/StyleSwift?style=flat-square&color=yellow)](https://github.com/StyleSwift/StyleSwift/stargazers) [![Forks](https://img.shields.io/github/forks/StyleSwift/StyleSwift?style=flat-square&color=blue)](https://github.com/StyleSwift/StyleSwift/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Step into style! Transform any website with a single prompt. Elevate your browsing experience instantly. > Fully Open-Source | Smart Parsing | Precise Generation | Privacy-First.完全取代stylish！一句话，给任何网站换个好看的皮肤，给冲浪一个好心情。完全开源、智能解析、精准生成、隐私优先。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ StyleSwift/StyleSwift：StyleSwift/StyleSwift helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 64/100 |
+| outlook | 68/100 |
 | adoption | 33/100 |
 | stars | 38/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

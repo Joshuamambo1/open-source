@@ -1,6 +1,6 @@
 # cdeust/Cortex
 
-[![Stars](https://img.shields.io/github/stars/cdeust/Cortex?style=flat-square&color=yellow)](https://github.com/cdeust/Cortex/stargazers) [![Forks](https://img.shields.io/github/forks/cdeust/Cortex?style=flat-square&color=blue)](https://github.com/cdeust/Cortex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cdeust/Cortex?style=flat-square&color=yellow)](https://github.com/cdeust/Cortex/stargazers) [![Forks](https://img.shields.io/github/forks/cdeust/Cortex?style=flat-square&color=blue)](https://github.com/cdeust/Cortex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory for Claude Code — 41 neuroscience papers, 26 biological mechanisms with paper-bearing per-mechanism ablation evidence (E1 v3). LongMemEval R@10 98.4% / MRR 0.9124 (n=500). LoCoMo R@10 94.2% / MRR 0.8278 (n=1986). BEAM-10M +33.4% over flat retrieval. PostgreSQL + pgvector. Verified via 31-row two-benchmark ablation campaign.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Cortex — открытая платформа для долговременн
 
 ### 中文
 
-cdeust/Cortex：cdeust/Cortex helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+cdeust/Cortex：cdeust/Cortex helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ cdeust/Cortex：cdeust/Cortex helps turn isolated prompts and tools into repeata
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ cdeust/Cortex：cdeust/Cortex helps turn isolated prompts and tools into repeata
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 78/100 |
-| production | 77/100 |
-| outlook | 77/100 |
+| production | 70/100 |
+| outlook | 70/100 |
 | adoption | 29/100 |
 | stars | 31/100 |
 | forks | 24/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

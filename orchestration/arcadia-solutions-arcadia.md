@@ -1,6 +1,6 @@
 # Arcadia-Solutions/arcadia
 
-[![Stars](https://img.shields.io/github/stars/Arcadia-Solutions/arcadia?style=flat-square&color=yellow)](https://github.com/Arcadia-Solutions/arcadia/stargazers) [![Forks](https://img.shields.io/github/forks/Arcadia-Solutions/arcadia?style=flat-square&color=blue)](https://github.com/Arcadia-Solutions/arcadia/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arcadia-Solutions/arcadia?style=flat-square&color=yellow)](https://github.com/Arcadia-Solutions/arcadia/stargazers) [![Forks](https://img.shields.io/github/forks/Arcadia-Solutions/arcadia?style=flat-square&color=blue)](https://github.com/Arcadia-Solutions/arcadia/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Content-agnostic torrent site & tracker framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Arcadia-Solutions/arcadia：Arcadia-Solutions/arcadia helps turn isolated prompt
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 79/100 |
+| production | 67/100 |
+| outlook | 72/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # shipth-is/cli
 
-[![Stars](https://img.shields.io/github/stars/shipth-is/cli?style=flat-square&color=yellow)](https://github.com/shipth-is/cli/stargazers) [![Forks](https://img.shields.io/github/forks/shipth-is/cli?style=flat-square&color=blue)](https://github.com/shipth-is/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shipth-is/cli?style=flat-square&color=yellow)](https://github.com/shipth-is/cli/stargazers) [![Forks](https://img.shields.io/github/forks/shipth-is/cli?style=flat-square&color=blue)](https://github.com/shipth-is/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > CLI to build and publish Godot games to the App Store and Google Play - no Xcode or Android Studio required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 273 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CLI‑утилита **shipth‑is/cli** упрощает процесс сбо�
 
 ### 中文
 
-shipth-is/cli：shipth-is/cli helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+shipth-is/cli：shipth-is/cli helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ shipth-is/cli：shipth-is/cli helps ship user-facing interfaces with less custom
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ shipth-is/cli：shipth-is/cli helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 78/100 |
-| production | 76/100 |
-| outlook | 73/100 |
+| production | 70/100 |
+| outlook | 66/100 |
 | adoption | 39/100 |
 | stars | 52/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

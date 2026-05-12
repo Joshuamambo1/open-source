@@ -1,6 +1,6 @@
 # YACReader/yacreader
 
-[![Stars](https://img.shields.io/github/stars/YACReader/yacreader?style=flat-square&color=yellow)](https://github.com/YACReader/yacreader/stargazers) [![Forks](https://img.shields.io/github/forks/YACReader/yacreader?style=flat-square&color=blue)](https://github.com/YACReader/yacreader/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YACReader/yacreader?style=flat-square&color=yellow)](https://github.com/YACReader/yacreader/stargazers) [![Forks](https://img.shields.io/github/forks/YACReader/yacreader?style=flat-square&color=blue)](https://github.com/YACReader/yacreader/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > This repo contains the code of YACReader's desktop version.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ YACReader/yacreader：YACReader/yacreader helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 65/100 |
+| outlook | 64/100 |
 | adoption | 62/100 |
 | stars | 66/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # EvgenyOrekhov/eslint-config-hardcore
 
-[![Stars](https://img.shields.io/github/stars/EvgenyOrekhov/eslint-config-hardcore?style=flat-square&color=yellow)](https://github.com/EvgenyOrekhov/eslint-config-hardcore/stargazers) [![Forks](https://img.shields.io/github/forks/EvgenyOrekhov/eslint-config-hardcore?style=flat-square&color=blue)](https://github.com/EvgenyOrekhov/eslint-config-hardcore/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvgenyOrekhov/eslint-config-hardcore?style=flat-square&color=yellow)](https://github.com/EvgenyOrekhov/eslint-config-hardcore/stargazers) [![Forks](https://img.shields.io/github/forks/EvgenyOrekhov/eslint-config-hardcore?style=flat-square&color=blue)](https://github.com/EvgenyOrekhov/eslint-config-hardcore/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The most strict (yet practical) ESLint config. 51 plugins. 1376 rules. React, Vue, Node, and pure JS/TS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 468 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ EvgenyOrekhov/eslint-config-hardcore：EvgenyOrekhov/eslint-config-hardcore help
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 74/100 |
+| production | 68/100 |
+| outlook | 67/100 |
 | adoption | 49/100 |
 | stars | 57/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

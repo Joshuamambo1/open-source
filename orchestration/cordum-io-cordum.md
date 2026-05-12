@@ -1,6 +1,6 @@
 # cordum-io/cordum
 
-[![Stars](https://img.shields.io/github/stars/cordum-io/cordum?style=flat-square&color=yellow)](https://github.com/cordum-io/cordum/stargazers) [![Forks](https://img.shields.io/github/forks/cordum-io/cordum?style=flat-square&color=blue)](https://github.com/cordum-io/cordum/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cordum-io/cordum?style=flat-square&color=yellow)](https://github.com/cordum-io/cordum/stargazers) [![Forks](https://img.shields.io/github/forks/cordum-io/cordum?style=flat-square&color=blue)](https://github.com/cordum-io/cordum/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Cordum — это открытая платформа управления а�
 
 ### 中文
 
-cordum-io/cordum：cordum-io/cordum helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+cordum-io/cordum：cordum-io/cordum helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ cordum-io/cordum：cordum-io/cordum helps turn isolated prompts and tools into r
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ cordum-io/cordum：cordum-io/cordum helps turn isolated prompts and tools into r
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 88/100 |
+| production | 71/100 |
+| outlook | 81/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

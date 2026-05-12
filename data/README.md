@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**164 projects** in this category.
+**165 projects** in this category.
 
 ## Projects
 
@@ -164,14 +164,15 @@
 | 154 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 51/100 |
 | 155 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 51/100 |
 | 156 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 51/100 |
-| 157 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
-| 158 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 50/100 |
-| 159 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 135 | Rust | 50/100 |
-| 160 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
-| 161 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 41/100 |
-| 162 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 41/100 |
-| 163 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 38/100 |
-| 164 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
+| 157 | [rudof-project/rudof](./rudof-project-rudof.md) | ⭐ 105 | Rust | 50/100 |
+| 158 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
+| 159 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 50/100 |
+| 160 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 135 | Rust | 50/100 |
+| 161 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
+| 162 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 41/100 |
+| 163 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 41/100 |
+| 164 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 38/100 |
+| 165 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
 
 ---
 

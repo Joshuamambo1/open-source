@@ -1,6 +1,6 @@
 # awf-project/cli
 
-[![Stars](https://img.shields.io/github/stars/awf-project/cli?style=flat-square&color=yellow)](https://github.com/awf-project/cli/stargazers) [![Forks](https://img.shields.io/github/forks/awf-project/cli?style=flat-square&color=blue)](https://github.com/awf-project/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awf-project/cli?style=flat-square&color=yellow)](https://github.com/awf-project/cli/stargazers) [![Forks](https://img.shields.io/github/forks/awf-project/cli?style=flat-square&color=blue)](https://github.com/awf-project/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A Go CLI tool for orchestrating AI agents through YAML workflows with determinism and hardenning
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ awf-project/cli：awf-project/cli helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 78/100 |
+| production | 66/100 |
+| outlook | 71/100 |
 | adoption | 28/100 |
 | stars | 34/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

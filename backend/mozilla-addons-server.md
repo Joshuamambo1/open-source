@@ -1,6 +1,6 @@
 # mozilla/addons-server
 
-[![Stars](https://img.shields.io/github/stars/mozilla/addons-server?style=flat-square&color=yellow)](https://github.com/mozilla/addons-server/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/addons-server?style=flat-square&color=blue)](https://github.com/mozilla/addons-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozilla/addons-server?style=flat-square&color=yellow)](https://github.com/mozilla/addons-server/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/addons-server?style=flat-square&color=blue)](https://github.com/mozilla/addons-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🕶 addons.mozilla.org Django app and API 🎉
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 896 |
 | 🍴 **Forks** | 557 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Mozilla Add-ons Server is the backend Django application and REST API that power
 
 ### 中文
 
-mozilla/addons-server：mozilla/addons-server helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mozilla/addons-server：mozilla/addons-server helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mozilla/addons-server：mozilla/addons-server helps teams reuse service infrastr
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ mozilla/addons-server：mozilla/addons-server helps teams reuse service infrastr
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 78/100 |
-| production | 77/100 |
-| outlook | 73/100 |
+| production | 70/100 |
+| outlook | 66/100 |
 | adoption | 64/100 |
 | stars | 63/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

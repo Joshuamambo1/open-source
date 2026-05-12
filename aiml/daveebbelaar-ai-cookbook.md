@@ -1,6 +1,6 @@
 # daveebbelaar/ai-cookbook
 
-[![Stars](https://img.shields.io/github/stars/daveebbelaar/ai-cookbook?style=flat-square&color=yellow)](https://github.com/daveebbelaar/ai-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/daveebbelaar/ai-cookbook?style=flat-square&color=blue)](https://github.com/daveebbelaar/ai-cookbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daveebbelaar/ai-cookbook?style=flat-square&color=yellow)](https://github.com/daveebbelaar/ai-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/daveebbelaar/ai-cookbook?style=flat-square&color=blue)](https://github.com/daveebbelaar/ai-cookbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Examples and tutorials to help developers build AI systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **ai‑cookbook** repository by daveebbelaar is a curated collection of prac
 
 ### 中文
 
-daveebbelaar/ai-cookbook：daveebbelaar/ai-cookbook helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+daveebbelaar/ai-cookbook：daveebbelaar/ai-cookbook helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ daveebbelaar/ai-cookbook：daveebbelaar/ai-cookbook helps add AI capability with
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ daveebbelaar/ai-cookbook：daveebbelaar/ai-cookbook helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 83/100 |
+| production | 72/100 |
+| outlook | 76/100 |
 | adoption | 77/100 |
 | stars | 77/100 |
 | forks | 79/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

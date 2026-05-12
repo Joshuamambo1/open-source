@@ -1,6 +1,6 @@
 # UnicomAI/wanwu
 
-[![Stars](https://img.shields.io/github/stars/UnicomAI/wanwu?style=flat-square&color=yellow)](https://github.com/UnicomAI/wanwu/stargazers) [![Forks](https://img.shields.io/github/forks/UnicomAI/wanwu?style=flat-square&color=blue)](https://github.com/UnicomAI/wanwu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UnicomAI/wanwu?style=flat-square&color=yellow)](https://github.com/UnicomAI/wanwu/stargazers) [![Forks](https://img.shields.io/github/forks/UnicomAI/wanwu?style=flat-square&color=blue)](https://github.com/UnicomAI/wanwu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > China Unicom's Yuanjing Wanwu Agent Platform is an enterprise-grade, multi-tenant AI agent development platform. It helps users build applications such as intelligent agents, workflows, and rag, and also supports model management. The platform features a developer-friendly license, and we welcome all developers to build upon the platform.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ UnicomAI/wanwu — это корпоративная, многопользов
 
 ### 中文
 
-UnicomAI/wanwu：UnicomAI/wanwu helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+UnicomAI/wanwu：UnicomAI/wanwu helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ UnicomAI/wanwu：UnicomAI/wanwu helps add AI capability without starting from a 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ UnicomAI/wanwu：UnicomAI/wanwu helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 92/100 |
+| production | 74/100 |
+| outlook | 85/100 |
 | adoption | 66/100 |
 | stars | 72/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

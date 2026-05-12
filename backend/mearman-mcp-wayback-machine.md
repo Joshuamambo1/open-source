@@ -1,6 +1,6 @@
 # Mearman/mcp-wayback-machine
 
-[![Stars](https://img.shields.io/github/stars/Mearman/mcp-wayback-machine?style=flat-square&color=yellow)](https://github.com/Mearman/mcp-wayback-machine/stargazers) [![Forks](https://img.shields.io/github/forks/Mearman/mcp-wayback-machine?style=flat-square&color=blue)](https://github.com/Mearman/mcp-wayback-machine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mearman/mcp-wayback-machine?style=flat-square&color=yellow)](https://github.com/Mearman/mcp-wayback-machine/stargazers) [![Forks](https://img.shields.io/github/forks/Mearman/mcp-wayback-machine?style=flat-square&color=blue)](https://github.com/Mearman/mcp-wayback-machine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server and CLI tool for interacting with the Internet Archive's Wayback Machine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Mearman/mcp-wayback-machine — это сервер и CLI‑утилита, �
 
 ### 中文
 
-Mearman/mcp-wayback-machine：Mearman/mcp-wayback-machine helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Mearman/mcp-wayback-machine：Mearman/mcp-wayback-machine helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Mearman/mcp-wayback-machine：Mearman/mcp-wayback-machine helps teams reuse serv
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Mearman/mcp-wayback-machine：Mearman/mcp-wayback-machine helps teams reuse serv
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 78/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 27/100 |
 | stars | 29/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

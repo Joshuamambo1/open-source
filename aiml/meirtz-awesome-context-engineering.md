@@ -1,6 +1,6 @@
 # Meirtz/Awesome-Context-Engineering
 
-[![Stars](https://img.shields.io/github/stars/Meirtz/Awesome-Context-Engineering?style=flat-square&color=yellow)](https://github.com/Meirtz/Awesome-Context-Engineering/stargazers) [![Forks](https://img.shields.io/github/forks/Meirtz/Awesome-Context-Engineering?style=flat-square&color=blue)](https://github.com/Meirtz/Awesome-Context-Engineering/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Meirtz/Awesome-Context-Engineering?style=flat-square&color=yellow)](https://github.com/Meirtz/Awesome-Context-Engineering/stargazers) [![Forks](https://img.shields.io/github/forks/Meirtz/Awesome-Context-Engineering?style=flat-square&color=blue)](https://github.com/Meirtz/Awesome-Context-Engineering/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Meirtz’s **Awesome‑Context‑Engineering** repository is a curated collectio
 
 ### 中文
 
-Meirtz/Awesome-Context-Engineering：Meirtz/Awesome-Context-Engineering helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Meirtz/Awesome-Context-Engineering：Meirtz/Awesome-Context-Engineering helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Meirtz/Awesome-Context-Engineering：Meirtz/Awesome-Context-Engineering helps ad
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ Meirtz/Awesome-Context-Engineering：Meirtz/Awesome-Context-Engineering helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 90/100 |
+| production | 70/100 |
+| outlook | 83/100 |
 | adoption | 70/100 |
 | stars | 74/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

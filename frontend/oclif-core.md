@@ -1,6 +1,6 @@
 # oclif/core
 
-[![Stars](https://img.shields.io/github/stars/oclif/core?style=flat-square&color=yellow)](https://github.com/oclif/core/stargazers) [![Forks](https://img.shields.io/github/forks/oclif/core?style=flat-square&color=blue)](https://github.com/oclif/core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oclif/core?style=flat-square&color=yellow)](https://github.com/oclif/core/stargazers) [![Forks](https://img.shields.io/github/forks/oclif/core?style=flat-square&color=blue)](https://github.com/oclif/core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Node.js Open CLI Framework. Built by Salesforce.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 298 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ oclif/core — это модульный фреймворк для созда�
 
 ### 中文
 
-oclif/core：oclif/core helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+oclif/core：oclif/core helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ oclif/core：oclif/core helps ship user-facing interfaces with less custom UI wo
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ oclif/core：oclif/core helps ship user-facing interfaces with less custom UI wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 69/100 |
+| outlook | 71/100 |
 | adoption | 52/100 |
 | stars | 53/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

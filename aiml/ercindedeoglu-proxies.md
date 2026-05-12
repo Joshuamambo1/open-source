@@ -1,6 +1,6 @@
 # ErcinDedeoglu/proxies
 
-[![Stars](https://img.shields.io/github/stars/ErcinDedeoglu/proxies?style=flat-square&color=yellow)](https://github.com/ErcinDedeoglu/proxies/stargazers) [![Forks](https://img.shields.io/github/forks/ErcinDedeoglu/proxies?style=flat-square&color=blue)](https://github.com/ErcinDedeoglu/proxies/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ErcinDedeoglu/proxies?style=flat-square&color=yellow)](https://github.com/ErcinDedeoglu/proxies/stargazers) [![Forks](https://img.shields.io/github/forks/ErcinDedeoglu/proxies?style=flat-square&color=blue)](https://github.com/ErcinDedeoglu/proxies/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🔍💻🔒🌀🔄🌟🚀📂📈 Need a daily updated proxy list? Look no further! Our PROXY list offers the freshest and most reliable proxy servers available. Say goodbye to outdated and unreliable lists and hello to a seamless, secure browsing experience. Get started with our PROXY list today!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ ErcinDedeoglu/proxies：ErcinDedeoglu/proxies helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 73/100 |
+| production | 67/100 |
+| outlook | 66/100 |
 | adoption | 49/100 |
 | stars | 55/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

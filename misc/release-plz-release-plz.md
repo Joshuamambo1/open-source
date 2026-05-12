@@ -1,6 +1,6 @@
 # release-plz/release-plz
 
-[![Stars](https://img.shields.io/github/stars/release-plz/release-plz?style=flat-square&color=yellow)](https://github.com/release-plz/release-plz/stargazers) [![Forks](https://img.shields.io/github/forks/release-plz/release-plz?style=flat-square&color=blue)](https://github.com/release-plz/release-plz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/release-plz/release-plz?style=flat-square&color=yellow)](https://github.com/release-plz/release-plz/stargazers) [![Forks](https://img.shields.io/github/forks/release-plz/release-plz?style=flat-square&color=blue)](https://github.com/release-plz/release-plz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Publish Rust crates from CI with a Release PR.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ release-plz/release-plz：release-plz/release-plz may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 64/100 |
 | stars | 67/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

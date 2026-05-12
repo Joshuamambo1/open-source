@@ -1,6 +1,6 @@
 # truss44/mcp-crypto-price
 
-[![Stars](https://img.shields.io/github/stars/truss44/mcp-crypto-price?style=flat-square&color=yellow)](https://github.com/truss44/mcp-crypto-price/stargazers) [![Forks](https://img.shields.io/github/forks/truss44/mcp-crypto-price?style=flat-square&color=blue)](https://github.com/truss44/mcp-crypto-price/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/truss44/mcp-crypto-price?style=flat-square&color=yellow)](https://github.com/truss44/mcp-crypto-price/stargazers) [![Forks](https://img.shields.io/github/forks/truss44/mcp-crypto-price?style=flat-square&color=blue)](https://github.com/truss44/mcp-crypto-price/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that provides real-time cryptocurrency analysis via CoinCap's API. Enables Claude and other MCP clients to fetch crypto prices, analyze market trends, and track historical data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ truss44/mcp-crypto-price — это сервер Model Context Protocol (MCP), �
 
 ### 中文
 
-truss44/mcp-crypto-price：truss44/mcp-crypto-price helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+truss44/mcp-crypto-price：truss44/mcp-crypto-price helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ truss44/mcp-crypto-price：truss44/mcp-crypto-price helps prototype or inspect b
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ truss44/mcp-crypto-price：truss44/mcp-crypto-price helps prototype or inspect b
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 94/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 73/100 |
+| outlook | 74/100 |
 | adoption | 32/100 |
 | stars | 34/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

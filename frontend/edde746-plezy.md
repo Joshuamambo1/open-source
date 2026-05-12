@@ -1,6 +1,6 @@
 # edde746/plezy
 
-[![Stars](https://img.shields.io/github/stars/edde746/plezy?style=flat-square&color=yellow)](https://github.com/edde746/plezy/stargazers) [![Forks](https://img.shields.io/github/forks/edde746/plezy?style=flat-square&color=blue)](https://github.com/edde746/plezy/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edde746/plezy?style=flat-square&color=yellow)](https://github.com/edde746/plezy/stargazers) [![Forks](https://img.shields.io/github/forks/edde746/plezy?style=flat-square&color=blue)](https://github.com/edde746/plezy/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Modern cross-platform Plex client built with Flutter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Plezy is a modern, cross‑platform Plex client built using Flutter, offering a 
 
 ### 中文
 
-edde746/plezy：edde746/plezy helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+edde746/plezy：edde746/plezy helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ edde746/plezy：edde746/plezy helps ship user-facing interfaces with less custom
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ edde746/plezy：edde746/plezy helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 66/100 |
 | stars | 71/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

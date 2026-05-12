@@ -1,6 +1,6 @@
 # yuanzui0728/Enclave
 
-[![Stars](https://img.shields.io/github/stars/yuanzui0728/Enclave?style=flat-square&color=yellow)](https://github.com/yuanzui0728/Enclave/stargazers) [![Forks](https://img.shields.io/github/forks/yuanzui0728/Enclave?style=flat-square&color=blue)](https://github.com/yuanzui0728/Enclave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuanzui0728/Enclave?style=flat-square&color=yellow)](https://github.com/yuanzui0728/Enclave/stargazers) [![Forks](https://img.shields.io/github/forks/yuanzui0728/Enclave?style=flat-square&color=blue)](https://github.com/yuanzui0728/Enclave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Your own AI-powered virtual world.     一个属于你的 AI 虚拟世界 。AI companionship.AI陪伴。AI Socializing.AI社交。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ yuanzui0728/Enclave：yuanzui0728/Enclave helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 67/100 |
+| outlook | 73/100 |
 | adoption | 39/100 |
 | stars | 46/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

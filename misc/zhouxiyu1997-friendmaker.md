@@ -1,6 +1,6 @@
 # zhouxiyu1997/friendmaker
 
-[![Stars](https://img.shields.io/github/stars/zhouxiyu1997/friendmaker?style=flat-square&color=yellow)](https://github.com/zhouxiyu1997/friendmaker/stargazers) [![Forks](https://img.shields.io/github/forks/zhouxiyu1997/friendmaker?style=flat-square&color=blue)](https://github.com/zhouxiyu1997/friendmaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhouxiyu1997/friendmaker?style=flat-square&color=yellow)](https://github.com/zhouxiyu1997/friendmaker/stargazers) [![Forks](https://img.shields.io/github/forks/zhouxiyu1997/friendmaker?style=flat-square&color=blue)](https://github.com/zhouxiyu1997/friendmaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Friend Maker is a macOS/Windows toolkit for turning images into pixel grids and ESP32 controller scripts, enabling automatic drawing on Nintendo Switch in Tomodachi Life and related workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 396 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ zhouxiyu1997/friendmaker：zhouxiyu1997/friendmaker may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 77/100 |
+| production | 66/100 |
+| outlook | 70/100 |
 | adoption | 49/100 |
 | stars | 55/100 |
 | forks | 33/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

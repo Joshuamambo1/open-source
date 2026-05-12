@@ -1,6 +1,6 @@
 # basher83/Zammad-MCP
 
-[![Stars](https://img.shields.io/github/stars/basher83/Zammad-MCP?style=flat-square&color=yellow)](https://github.com/basher83/Zammad-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/basher83/Zammad-MCP?style=flat-square&color=blue)](https://github.com/basher83/Zammad-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basher83/Zammad-MCP?style=flat-square&color=yellow)](https://github.com/basher83/Zammad-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/basher83/Zammad-MCP?style=flat-square&color=blue)](https://github.com/basher83/Zammad-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server for Zammad integration, enabling AI assistants to interact with tickets, users, and organizations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **basher83/Zammad-MCP** project provides a Model Context Protocol (MCP) serv
 
 ### 中文
 
-basher83/Zammad-MCP：basher83/Zammad-MCP helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+basher83/Zammad-MCP：basher83/Zammad-MCP helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ basher83/Zammad-MCP：basher83/Zammad-MCP helps add AI capability without starti
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ basher83/Zammad-MCP：basher83/Zammad-MCP helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 78/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 71/100 |
+| outlook | 74/100 |
 | adoption | 32/100 |
 | stars | 32/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

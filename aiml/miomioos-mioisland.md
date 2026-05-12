@@ -1,6 +1,6 @@
 # MioMioOS/MioIsland
 
-[![Stars](https://img.shields.io/github/stars/MioMioOS/MioIsland?style=flat-square&color=yellow)](https://github.com/MioMioOS/MioIsland/stargazers) [![Forks](https://img.shields.io/github/forks/MioMioOS/MioIsland?style=flat-square&color=blue)](https://github.com/MioMioOS/MioIsland/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MioMioOS/MioIsland?style=flat-square&color=yellow)](https://github.com/MioMioOS/MioIsland/stargazers) [![Forks](https://img.shields.io/github/forks/MioMioOS/MioIsland?style=flat-square&color=blue)](https://github.com/MioMioOS/MioIsland/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 432 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MioMioOS/MioIsland：MioMioOS/MioIsland helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 86/100 |
+| production | 67/100 |
+| outlook | 79/100 |
 | adoption | 53/100 |
 | stars | 56/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

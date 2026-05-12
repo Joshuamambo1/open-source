@@ -1,6 +1,6 @@
 # dapr/js-sdk
 
-[![Stars](https://img.shields.io/github/stars/dapr/js-sdk?style=flat-square&color=yellow)](https://github.com/dapr/js-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/dapr/js-sdk?style=flat-square&color=blue)](https://github.com/dapr/js-sdk/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dapr/js-sdk?style=flat-square&color=yellow)](https://github.com/dapr/js-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/dapr/js-sdk?style=flat-square&color=blue)](https://github.com/dapr/js-sdk/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Dapr SDK for Javascript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 219 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ dapr/js-sdk：dapr/js-sdk may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 50/100 |
 | stars | 50/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

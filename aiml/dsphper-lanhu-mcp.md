@@ -1,6 +1,6 @@
 # dsphper/lanhu-mcp
 
-[![Stars](https://img.shields.io/github/stars/dsphper/lanhu-mcp?style=flat-square&color=yellow)](https://github.com/dsphper/lanhu-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/dsphper/lanhu-mcp?style=flat-square&color=blue)](https://github.com/dsphper/lanhu-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dsphper/lanhu-mcp?style=flat-square&color=yellow)](https://github.com/dsphper/lanhu-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/dsphper/lanhu-mcp?style=flat-square&color=blue)](https://github.com/dsphper/lanhu-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ dsphper/lanhu-mcp：dsphper/lanhu-mcp helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 72/100 |
+| production | 68/100 |
+| outlook | 65/100 |
 | adoption | 63/100 |
 | stars | 66/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # rodrigocfd/winsafe
 
-[![Stars](https://img.shields.io/github/stars/rodrigocfd/winsafe?style=flat-square&color=yellow)](https://github.com/rodrigocfd/winsafe/stargazers) [![Forks](https://img.shields.io/github/forks/rodrigocfd/winsafe?style=flat-square&color=blue)](https://github.com/rodrigocfd/winsafe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rodrigocfd/winsafe?style=flat-square&color=yellow)](https://github.com/rodrigocfd/winsafe/stargazers) [![Forks](https://img.shields.io/github/forks/rodrigocfd/winsafe?style=flat-square&color=blue)](https://github.com/rodrigocfd/winsafe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Windows API and GUI in safe, idiomatic Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 656 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A lightweight Rust library that provides safe, idiomatic bindings to the Windows
 
 ### 中文
 
-rodrigocfd/winsafe：rodrigocfd/winsafe helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rodrigocfd/winsafe：rodrigocfd/winsafe helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rodrigocfd/winsafe：rodrigocfd/winsafe helps ship user-facing interfaces with l
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ rodrigocfd/winsafe：rodrigocfd/winsafe helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 71/100 |
+| outlook | 72/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

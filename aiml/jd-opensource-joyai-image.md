@@ -1,6 +1,6 @@
 # jd-opensource/JoyAI-Image
 
-[![Stars](https://img.shields.io/github/stars/jd-opensource/JoyAI-Image?style=flat-square&color=yellow)](https://github.com/jd-opensource/JoyAI-Image/stargazers) [![Forks](https://img.shields.io/github/forks/jd-opensource/JoyAI-Image?style=flat-square&color=blue)](https://github.com/jd-opensource/JoyAI-Image/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jd-opensource/JoyAI-Image?style=flat-square&color=yellow)](https://github.com/jd-opensource/JoyAI-Image/stargazers) [![Forks](https://img.shields.io/github/forks/jd-opensource/JoyAI-Image?style=flat-square&color=blue)](https://github.com/jd-opensource/JoyAI-Image/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ jd-opensource/JoyAI-Image：jd-opensource/JoyAI-Image helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 70/100 |
+| production | 66/100 |
+| outlook | 63/100 |
 | adoption | 66/100 |
 | stars | 71/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Decade-qiu/CookHero
 
-[![Stars](https://img.shields.io/github/stars/Decade-qiu/CookHero?style=flat-square&color=yellow)](https://github.com/Decade-qiu/CookHero/stargazers) [![Forks](https://img.shields.io/github/forks/Decade-qiu/CookHero?style=flat-square&color=blue)](https://github.com/Decade-qiu/CookHero/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Decade-qiu/CookHero?style=flat-square&color=yellow)](https://github.com/Decade-qiu/CookHero/stargazers) [![Forks](https://img.shields.io/github/forks/Decade-qiu/CookHero?style=flat-square&color=blue)](https://github.com/Decade-qiu/CookHero/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > CookHero是一个基于 LLM + RAG + Agent + 多模态的智能饮食与烹饪管理平台，支持智能菜谱查询、个性化饮食计划、AI 饮食记录、营养分析、Web 搜索增强，以及可扩展的 ReAct Agent / Subagent 工具体系，帮助厨房新手轻松成为“烹饪英雄”。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 482 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Decade‑qiu/CookHero — это открытая платформа, объ
 
 ### 中文
 
-Decade-qiu/CookHero：Decade-qiu/CookHero helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Decade-qiu/CookHero：Decade-qiu/CookHero helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Decade-qiu/CookHero：Decade-qiu/CookHero helps turn isolated prompts and tools 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Decade-qiu/CookHero：Decade-qiu/CookHero helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 89/100 |
+| production | 72/100 |
+| outlook | 82/100 |
 | adoption | 55/100 |
 | stars | 57/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

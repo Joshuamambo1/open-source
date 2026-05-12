@@ -1,6 +1,6 @@
 # athola/claude-night-market
 
-[![Stars](https://img.shields.io/github/stars/athola/claude-night-market?style=flat-square&color=yellow)](https://github.com/athola/claude-night-market/stargazers) [![Forks](https://img.shields.io/github/forks/athola/claude-night-market?style=flat-square&color=blue)](https://github.com/athola/claude-night-market/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/athola/claude-night-market?style=flat-square&color=yellow)](https://github.com/athola/claude-night-market/stargazers) [![Forks](https://img.shields.io/github/forks/athola/claude-night-market?style=flat-square&color=blue)](https://github.com/athola/claude-night-market/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 19 production-ready Claude Code plugins: git workflows, code review, spec-driven development, architecture patterns, resource optimization, and multi-LLM delegation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 273 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ athola/claude-night-market — это набор из 19 готовых к и�
 
 ### 中文
 
-athola/claude-night-market：athola/claude-night-market helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+athola/claude-night-market：athola/claude-night-market helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ athola/claude-night-market：athola/claude-night-market helps add AI capability 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ athola/claude-night-market：athola/claude-night-market helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 47/100 |
 | stars | 52/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

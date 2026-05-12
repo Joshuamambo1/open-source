@@ -1,6 +1,6 @@
 # datawhalechina/torch-rechub
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/torch-rechub?style=flat-square&color=yellow)](https://github.com/datawhalechina/torch-rechub/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/torch-rechub?style=flat-square&color=blue)](https://github.com/datawhalechina/torch-rechub/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/torch-rechub?style=flat-square&color=yellow)](https://github.com/datawhalechina/torch-rechub/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/torch-rechub?style=flat-square&color=blue)](https://github.com/datawhalechina/torch-rechub/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **torch‑rechub** project provides a lightweight, Lightning‑based PyTorch
 
 ### 中文
 
-datawhalechina/torch-rechub：datawhalechina/torch-rechub helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+datawhalechina/torch-rechub：datawhalechina/torch-rechub helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ datawhalechina/torch-rechub：datawhalechina/torch-rechub helps add AI capabilit
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ datawhalechina/torch-rechub：datawhalechina/torch-rechub helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 62/100 |
 | stars | 65/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

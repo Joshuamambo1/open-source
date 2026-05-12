@@ -40,18 +40,18 @@
 | 30 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 68/100 |
 | 31 | [Tencent/AngelSlim](./tencent-angelslim.md) | ⭐ 1.1k | Python | 67/100 |
 | 32 | [ModelCloud/GPTQModel](./modelcloud-gptqmodel.md) | ⭐ 1.1k | Python | 67/100 |
-| 33 | [tqec/tqec](./tqec-tqec.md) | ⭐ 361 | Python | 67/100 |
-| 34 | [alekspetrov/navigator](./alekspetrov-navigator.md) | ⭐ 174 | Python | 66/100 |
-| 35 | [staskh/trading_skills](./staskh-trading-skills.md) | ⭐ 184 | Python | 66/100 |
-| 36 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.4k | TypeScript | 65/100 |
-| 37 | [Classiq/classiq-library](./classiq-classiq-library.md) | ⭐ 2k | Jupyter Notebook | 65/100 |
-| 38 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 65/100 |
-| 39 | [LLMQuant/awesome-trading-agents](./llmquant-awesome-trading-agents.md) | ⭐ 61 | — | 65/100 |
-| 40 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 35 | Python | 64/100 |
-| 41 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 64/100 |
-| 42 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 192 | Go | 64/100 |
-| 43 | [FloatingPragma/observer-patch-holography](./floatingpragma-observer-patch-holography.md) | ⭐ 492 | Python | 64/100 |
-| 44 | [qiboteam/qibo](./qiboteam-qibo.md) | ⭐ 353 | Python | 64/100 |
+| 33 | [alekspetrov/navigator](./alekspetrov-navigator.md) | ⭐ 174 | Python | 66/100 |
+| 34 | [staskh/trading_skills](./staskh-trading-skills.md) | ⭐ 184 | Python | 66/100 |
+| 35 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.4k | TypeScript | 65/100 |
+| 36 | [Classiq/classiq-library](./classiq-classiq-library.md) | ⭐ 2k | Jupyter Notebook | 65/100 |
+| 37 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 65/100 |
+| 38 | [LLMQuant/awesome-trading-agents](./llmquant-awesome-trading-agents.md) | ⭐ 61 | — | 65/100 |
+| 39 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 35 | Python | 64/100 |
+| 40 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 64/100 |
+| 41 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 192 | Go | 64/100 |
+| 42 | [FloatingPragma/observer-patch-holography](./floatingpragma-observer-patch-holography.md) | ⭐ 492 | Python | 64/100 |
+| 43 | [qiboteam/qibo](./qiboteam-qibo.md) | ⭐ 353 | Python | 64/100 |
+| 44 | [tqec/tqec](./tqec-tqec.md) | ⭐ 361 | Python | 64/100 |
 | 45 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.9k | — | 63/100 |
 | 46 | [bitsandbytes-foundation/bitsandbytes](./bitsandbytes-foundation-bitsandbytes.md) | ⭐ 8.2k | Python | 63/100 |
 | 47 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 624 | Python | 63/100 |

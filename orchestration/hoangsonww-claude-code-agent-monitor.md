@@ -1,6 +1,6 @@
 # hoangsonww/Claude-Code-Agent-Monitor
 
-[![Stars](https://img.shields.io/github/stars/hoangsonww/Claude-Code-Agent-Monitor?style=flat-square&color=yellow)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/stargazers) [![Forks](https://img.shields.io/github/forks/hoangsonww/Claude-Code-Agent-Monitor?style=flat-square&color=blue)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoangsonww/Claude-Code-Agent-Monitor?style=flat-square&color=yellow)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/stargazers) [![Forks](https://img.shields.io/github/forks/hoangsonww/Claude-Code-Agent-Monitor?style=flat-square&color=blue)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 A real-time monitoring dashboard for Claude Code agents, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration through Claude Code hooks, providing live analytics, a Kanban status board, status notifications, and an interactive web interface.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ hoangsonww/Claude-Code-Agent-Monitor — это open‑source дашборд �
 
 ### 中文
 
-hoangsonww/Claude-Code-Agent-Monitor：hoangsonww/Claude-Code-Agent-Monitor helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+hoangsonww/Claude-Code-Agent-Monitor：hoangsonww/Claude-Code-Agent-Monitor helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hoangsonww/Claude-Code-Agent-Monitor：hoangsonww/Claude-Code-Agent-Monitor help
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ hoangsonww/Claude-Code-Agent-Monitor：hoangsonww/Claude-Code-Agent-Monitor help
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 78/100 |
-| production | 80/100 |
-| outlook | 88/100 |
+| production | 74/100 |
+| outlook | 81/100 |
 | adoption | 52/100 |
 | stars | 54/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

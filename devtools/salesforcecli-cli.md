@@ -1,6 +1,6 @@
 # salesforcecli/cli
 
-[![Stars](https://img.shields.io/github/stars/salesforcecli/cli?style=flat-square&color=yellow)](https://github.com/salesforcecli/cli/stargazers) [![Forks](https://img.shields.io/github/forks/salesforcecli/cli?style=flat-square&color=blue)](https://github.com/salesforcecli/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/salesforcecli/cli?style=flat-square&color=yellow)](https://github.com/salesforcecli/cli/stargazers) [![Forks](https://img.shields.io/github/forks/salesforcecli/cli?style=flat-square&color=blue)](https://github.com/salesforcecli/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The `sf` cli.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ salesforcecli/cli：salesforcecli/cli helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 70/100 |
+| production | 66/100 |
+| outlook | 63/100 |
 | adoption | 45/100 |
 | stars | 47/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

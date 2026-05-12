@@ -1,6 +1,6 @@
 # enactic/openarm
 
-[![Stars](https://img.shields.io/github/stars/enactic/openarm?style=flat-square&color=yellow)](https://github.com/enactic/openarm/stargazers) [![Forks](https://img.shields.io/github/forks/enactic/openarm?style=flat-square&color=blue)](https://github.com/enactic/openarm/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enactic/openarm?style=flat-square&color=yellow)](https://github.com/enactic/openarm/stargazers) [![Forks](https://img.shields.io/github/forks/enactic/openarm?style=flat-square&color=blue)](https://github.com/enactic/openarm/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 264 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ enactic/openarm is an open‑source, fully articulated humanoid arm designed for
 
 ### 中文
 
-enactic/openarm：enactic/openarm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+enactic/openarm：enactic/openarm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ enactic/openarm：enactic/openarm helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ enactic/openarm：enactic/openarm helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 72/100 |
+| outlook | 74/100 |
 | adoption | 69/100 |
 | stars | 72/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

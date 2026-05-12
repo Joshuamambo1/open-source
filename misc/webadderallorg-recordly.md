@@ -1,6 +1,6 @@
 # webadderallorg/Recordly
 
-[![Stars](https://img.shields.io/github/stars/webadderallorg/Recordly?style=flat-square&color=yellow)](https://github.com/webadderallorg/Recordly/stargazers) [![Forks](https://img.shields.io/github/forks/webadderallorg/Recordly?style=flat-square&color=blue)](https://github.com/webadderallorg/Recordly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webadderallorg/Recordly?style=flat-square&color=yellow)](https://github.com/webadderallorg/Recordly/stargazers) [![Forks](https://img.shields.io/github/forks/webadderallorg/Recordly?style=flat-square&color=blue)](https://github.com/webadderallorg/Recordly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Create polished screen recordings without editing. Mac/Windows/Linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.8k |
 | 🍴 **Forks** | 963 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Recordly is an open‑source, cross‑platform tool that lets you capture high�
 
 ### 中文
 
-webadderallorg/Recordly：webadderallorg/Recordly may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+webadderallorg/Recordly：webadderallorg/Recordly may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ webadderallorg/Recordly：webadderallorg/Recordly may be useful when its README 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ webadderallorg/Recordly：webadderallorg/Recordly may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 84/100 |
+| production | 75/100 |
+| outlook | 77/100 |
 | adoption | 84/100 |
 | stars | 88/100 |
 | forks | 75/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

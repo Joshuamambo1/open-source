@@ -1,6 +1,6 @@
 # chrisdoc/hevy-mcp
 
-[![Stars](https://img.shields.io/github/stars/chrisdoc/hevy-mcp?style=flat-square&color=yellow)](https://github.com/chrisdoc/hevy-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/chrisdoc/hevy-mcp?style=flat-square&color=blue)](https://github.com/chrisdoc/hevy-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrisdoc/hevy-mcp?style=flat-square&color=yellow)](https://github.com/chrisdoc/hevy-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/chrisdoc/hevy-mcp?style=flat-square&color=blue)](https://github.com/chrisdoc/hevy-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Manage your Hevy workouts, routines, folders, and exercise templates. Create and update sessions faster, organize plans, and search exercises to build workouts quickly. Stay synced with changes so your training log is always up to date.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 221 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Hevy‑MCP is an open‑source web app that lets you manage Hevy workouts, routi
 
 ### 中文
 
-chrisdoc/hevy-mcp：chrisdoc/hevy-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+chrisdoc/hevy-mcp：chrisdoc/hevy-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ chrisdoc/hevy-mcp：chrisdoc/hevy-mcp helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ chrisdoc/hevy-mcp：chrisdoc/hevy-mcp helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 78/100 |
-| production | 76/100 |
-| outlook | 72/100 |
+| production | 70/100 |
+| outlook | 65/100 |
 | adoption | 48/100 |
 | stars | 50/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # mohanson/gameboy
 
-[![Stars](https://img.shields.io/github/stars/mohanson/gameboy?style=flat-square&color=yellow)](https://github.com/mohanson/gameboy/stargazers) [![Forks](https://img.shields.io/github/forks/mohanson/gameboy?style=flat-square&color=blue)](https://github.com/mohanson/gameboy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mohanson/gameboy?style=flat-square&color=yellow)](https://github.com/mohanson/gameboy/stargazers) [![Forks](https://img.shields.io/github/forks/mohanson/gameboy?style=flat-square&color=blue)](https://github.com/mohanson/gameboy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ mohanson/gameboy：mohanson/gameboy may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 62/100 |
 | stars | 67/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

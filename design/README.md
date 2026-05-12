@@ -18,11 +18,11 @@
 | 8 | [intel/systemc-compiler](./intel-systemc-compiler.md) | ⭐ 302 | C++ | 60/100 |
 | 9 | [SideCloudGroup/BetterForward](./sidecloudgroup-betterforward.md) | ⭐ 648 | Python | 59/100 |
 | 10 | [SylEleuth/gruvbox-plus-icon-pack](./syleleuth-gruvbox-plus-icon-pack.md) | ⭐ 701 | Shell | 58/100 |
-| 11 | [sblantipodi/firefly_luciferin](./sblantipodi-firefly-luciferin.md) | ⭐ 436 | Java | 58/100 |
-| 12 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 58/100 |
-| 13 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 57/100 |
-| 14 | [ComputationalRadiationPhysics/picongpu](./computationalradiationphysics-picongpu.md) | ⭐ 779 | C++ | 57/100 |
-| 15 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 57/100 |
+| 11 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 58/100 |
+| 12 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 57/100 |
+| 13 | [ComputationalRadiationPhysics/picongpu](./computationalradiationphysics-picongpu.md) | ⭐ 779 | C++ | 57/100 |
+| 14 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 57/100 |
+| 15 | [sblantipodi/firefly_luciferin](./sblantipodi-firefly-luciferin.md) | ⭐ 436 | Java | 55/100 |
 | 16 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 55/100 |
 | 17 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 54/100 |
 | 18 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 54/100 |

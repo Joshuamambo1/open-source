@@ -1,6 +1,6 @@
 # AbsolutelySkilled/AbsolutelySkilled
 
-[![Stars](https://img.shields.io/github/stars/AbsolutelySkilled/AbsolutelySkilled?style=flat-square&color=yellow)](https://github.com/AbsolutelySkilled/AbsolutelySkilled/stargazers) [![Forks](https://img.shields.io/github/forks/AbsolutelySkilled/AbsolutelySkilled?style=flat-square&color=blue)](https://github.com/AbsolutelySkilled/AbsolutelySkilled/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AbsolutelySkilled/AbsolutelySkilled?style=flat-square&color=yellow)](https://github.com/AbsolutelySkilled/AbsolutelySkilled/stargazers) [![Forks](https://img.shields.io/github/forks/AbsolutelySkilled/AbsolutelySkilled?style=flat-square&color=blue)](https://github.com/AbsolutelySkilled/AbsolutelySkilled/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome Skills from Around the World
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ AbsolutelySkilled/AbsolutelySkilled：AbsolutelySkilled/AbsolutelySkilled may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 43/100 |
 | stars | 46/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

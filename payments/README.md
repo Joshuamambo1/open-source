@@ -113,8 +113,8 @@
 | 103 | [mollie/Shopware6](./mollie-shopware6.md) | ⭐ 64 | PHP | 55/100 |
 | 104 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 55/100 |
 | 105 | [wevm/mppx](./wevm-mppx.md) | ⭐ 119 | TypeScript | 55/100 |
-| 106 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 54/100 |
-| 107 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 54/100 |
+| 106 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 54/100 |
+| 107 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 54/100 |
 | 108 | [shetabit/payment](./shetabit-payment.md) | ⭐ 940 | PHP | 54/100 |
 | 109 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 65 | HTML | 53/100 |
 | 110 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 53/100 |

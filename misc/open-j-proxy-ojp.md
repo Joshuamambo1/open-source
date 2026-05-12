@@ -1,6 +1,6 @@
 # Open-J-Proxy/ojp
 
-[![Stars](https://img.shields.io/github/stars/Open-J-Proxy/ojp?style=flat-square&color=yellow)](https://github.com/Open-J-Proxy/ojp/stargazers) [![Forks](https://img.shields.io/github/forks/Open-J-Proxy/ojp?style=flat-square&color=blue)](https://github.com/Open-J-Proxy/ojp/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Open-J-Proxy/ojp?style=flat-square&color=yellow)](https://github.com/Open-J-Proxy/ojp/stargazers) [![Forks](https://img.shields.io/github/forks/Open-J-Proxy/ojp?style=flat-square&color=blue)](https://github.com/Open-J-Proxy/ojp/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ Open-J-Proxy/ojp：Open-J-Proxy/ojp may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 18/100 |
-| production | 66/100 |
-| outlook | 65/100 |
+| production | 59/100 |
+| outlook | 58/100 |
 | adoption | 47/100 |
 | stars | 49/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

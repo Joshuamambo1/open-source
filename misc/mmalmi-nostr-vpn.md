@@ -1,6 +1,6 @@
 # mmalmi/nostr-vpn
 
-[![Stars](https://img.shields.io/github/stars/mmalmi/nostr-vpn?style=flat-square&color=yellow)](https://github.com/mmalmi/nostr-vpn/stargazers) [![Forks](https://img.shields.io/github/forks/mmalmi/nostr-vpn?style=flat-square&color=blue)](https://github.com/mmalmi/nostr-vpn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mmalmi/nostr-vpn?style=flat-square&color=yellow)](https://github.com/mmalmi/nostr-vpn/stargazers) [![Forks](https://img.shields.io/github/forks/mmalmi/nostr-vpn?style=flat-square&color=blue)](https://github.com/mmalmi/nostr-vpn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 321 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ mmalmi/nostr-vpn：mmalmi/nostr-vpn may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 18/100 |
-| production | 66/100 |
-| outlook | 65/100 |
+| production | 59/100 |
+| outlook | 58/100 |
 | adoption | 48/100 |
 | stars | 53/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

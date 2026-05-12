@@ -1,6 +1,6 @@
 # buildingjoshbetter/TrueMemory
 
-[![Stars](https://img.shields.io/github/stars/buildingjoshbetter/TrueMemory?style=flat-square&color=yellow)](https://github.com/buildingjoshbetter/TrueMemory/stargazers) [![Forks](https://img.shields.io/github/forks/buildingjoshbetter/TrueMemory?style=flat-square&color=blue)](https://github.com/buildingjoshbetter/TrueMemory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buildingjoshbetter/TrueMemory?style=flat-square&color=yellow)](https://github.com/buildingjoshbetter/TrueMemory/stargazers) [![Forks](https://img.shields.io/github/forks/buildingjoshbetter/TrueMemory?style=flat-square&color=blue)](https://github.com/buildingjoshbetter/TrueMemory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A living memory system that ingests long-horizon data to infer insights, enabling more decisive action, all while running on a single SQLite file locally.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ buildingjoshbetter/TrueMemory：buildingjoshbetter/TrueMemory helps turn isolate
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 80/100 |
+| production | 68/100 |
+| outlook | 73/100 |
 | adoption | 30/100 |
 | stars | 33/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

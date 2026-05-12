@@ -1,6 +1,6 @@
 # oritera/Cairn
 
-[![Stars](https://img.shields.io/github/stars/oritera/Cairn?style=flat-square&color=yellow)](https://github.com/oritera/Cairn/stargazers) [![Forks](https://img.shields.io/github/forks/oritera/Cairn?style=flat-square&color=blue)](https://github.com/oritera/Cairn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oritera/Cairn?style=flat-square&color=yellow)](https://github.com/oritera/Cairn/stargazers) [![Forks](https://img.shields.io/github/forks/oritera/Cairn?style=flat-square&color=blue)](https://github.com/oritera/Cairn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 797 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Cairn — это открытый движок поиска в простра�
 
 ### 中文
 
-oritera/Cairn：oritera/Cairn helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+oritera/Cairn：oritera/Cairn helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ oritera/Cairn：oritera/Cairn helps add AI capability without starting from a bl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ oritera/Cairn：oritera/Cairn helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 87/100 |
+| production | 70/100 |
+| outlook | 80/100 |
 | adoption | 57/100 |
 | stars | 62/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

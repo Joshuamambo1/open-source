@@ -1,6 +1,6 @@
 # justoneapi/data-api
 
-[![Stars](https://img.shields.io/github/stars/justoneapi/data-api?style=flat-square&color=yellow)](https://github.com/justoneapi/data-api/stargazers) [![Forks](https://img.shields.io/github/forks/justoneapi/data-api?style=flat-square&color=blue)](https://github.com/justoneapi/data-api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justoneapi/data-api?style=flat-square&color=yellow)](https://github.com/justoneapi/data-api/stargazers) [![Forks](https://img.shields.io/github/forks/justoneapi/data-api?style=flat-square&color=blue)](https://github.com/justoneapi/data-api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Just One API - 数据接口服务: 接口,小红书,Xiaohongshu,RedNote,淘宝,天猫,Taobao,Tmall,抖音,Douyin,抖音电商,Douyin E-commerce,TikTok,TikTok Shop,快手,Kuaishou,微博,Sina Weibo,哔哩哔哩,bilibili,豆瓣,小红书蒲公英,抖音星图,巨量星图,微信公众号,WeChat,优酷,贝壳,IMDb,京东,美团,大众点评,携程,今日头条,Toutiao,知乎,Zhihu,亚马逊,Amazon,Facebook,Twitter,Temu,Reddit,Shopee,拼多多,YouTube,Instagram,谷歌搜索API,Google Search API,SERP API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 448 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Just One API — это открытый сервис данных, предо
 
 ### 中文
 
-justoneapi/data-api：justoneapi/data-api helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+justoneapi/data-api：justoneapi/data-api helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ justoneapi/data-api：justoneapi/data-api helps add AI capability without starti
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ justoneapi/data-api：justoneapi/data-api helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 71/100 |
+| outlook | 72/100 |
 | adoption | 50/100 |
 | stars | 56/100 |
 | forks | 33/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

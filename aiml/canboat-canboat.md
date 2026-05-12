@@ -1,6 +1,6 @@
 # canboat/canboat
 
-[![Stars](https://img.shields.io/github/stars/canboat/canboat?style=flat-square&color=yellow)](https://github.com/canboat/canboat/stargazers) [![Forks](https://img.shields.io/github/forks/canboat/canboat?style=flat-square&color=blue)](https://github.com/canboat/canboat/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/canboat/canboat?style=flat-square&color=yellow)](https://github.com/canboat/canboat/stargazers) [![Forks](https://img.shields.io/github/forks/canboat/canboat?style=flat-square&color=blue)](https://github.com/canboat/canboat/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > CAN Boat provides NMEA 2000 and NMEA 0183 utilities. It contains a NMEA 2000 PGN decoder and can read and write N2K messages. It is not meant as an end-user tool but as a discovery mechanism for delving into NMEA 2000 networks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 630 |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ canboat/canboat：canboat/canboat helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 67/100 |
+| outlook | 73/100 |
 | adoption | 59/100 |
 | stars | 60/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

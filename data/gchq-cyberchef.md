@@ -1,6 +1,6 @@
 # gchq/CyberChef
 
-[![Stars](https://img.shields.io/github/stars/gchq/CyberChef?style=flat-square&color=yellow)](https://github.com/gchq/CyberChef/stargazers) [![Forks](https://img.shields.io/github/forks/gchq/CyberChef?style=flat-square&color=blue)](https://github.com/gchq/CyberChef/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gchq/CyberChef?style=flat-square&color=yellow)](https://github.com/gchq/CyberChef/stargazers) [![Forks](https://img.shields.io/github/forks/gchq/CyberChef?style=flat-square&color=blue)](https://github.com/gchq/CyberChef/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34.8k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CyberChef — это открытый веб‑инструмент, кото�
 
 ### 中文
 
-gchq/CyberChef：gchq/CyberChef helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+gchq/CyberChef：gchq/CyberChef helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ gchq/CyberChef：gchq/CyberChef helps convert raw data into searchable, analyzab
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ gchq/CyberChef：gchq/CyberChef helps convert raw data into searchable, analyzab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 96/100 |
+| quality | 91/100 |
 | integration | 30/100 |
-| production | 80/100 |
-| outlook | 86/100 |
+| production | 73/100 |
+| outlook | 79/100 |
 | adoption | 95/100 |
 | stars | 97/100 |
 | forks | 90/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

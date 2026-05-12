@@ -1,6 +1,6 @@
 # jnMetaCode/agency-agents-zh
 
-[![Stars](https://img.shields.io/github/stars/jnMetaCode/agency-agents-zh?style=flat-square&color=yellow)](https://github.com/jnMetaCode/agency-agents-zh/stargazers) [![Forks](https://img.shields.io/github/forks/jnMetaCode/agency-agents-zh?style=flat-square&color=blue)](https://github.com/jnMetaCode/agency-agents-zh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jnMetaCode/agency-agents-zh?style=flat-square&color=yellow)](https://github.com/jnMetaCode/agency-agents-zh/stargazers) [![Forks](https://img.shields.io/github/forks/jnMetaCode/agency-agents-zh?style=flat-square&color=blue)](https://github.com/jnMetaCode/agency-agents-zh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.3k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ jnMetaCode/agency‑agents‑zh — это открытый набор из 21
 
 ### 中文
 
-jnMetaCode/agency-agents-zh：jnMetaCode/agency-agents-zh helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jnMetaCode/agency-agents-zh：jnMetaCode/agency-agents-zh helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jnMetaCode/agency-agents-zh：jnMetaCode/agency-agents-zh helps prototype or ins
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jnMetaCode/agency-agents-zh：jnMetaCode/agency-agents-zh helps prototype or ins
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 30/100 |
-| production | 79/100 |
-| outlook | 91/100 |
+| production | 72/100 |
+| outlook | 84/100 |
 | adoption | 85/100 |
 | stars | 85/100 |
 | forks | 82/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # huangjia2019/claude-code-engineering
 
-[![Stars](https://img.shields.io/github/stars/huangjia2019/claude-code-engineering?style=flat-square&color=yellow)](https://github.com/huangjia2019/claude-code-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/huangjia2019/claude-code-engineering?style=flat-square&color=blue)](https://github.com/huangjia2019/claude-code-engineering/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huangjia2019/claude-code-engineering?style=flat-square&color=yellow)](https://github.com/huangjia2019/claude-code-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/huangjia2019/claude-code-engineering?style=flat-square&color=blue)](https://github.com/huangjia2019/claude-code-engineering/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > This repository demonstrates how to use Claude Code to do real engineering work, not just writing code.  本项目是极客时间专栏 《Claude Code 工程化实战》 的官方配套示例仓库，目标很明确： 👉 把 Claude Code 从“对话式编码工具”，变成 可设计、可复用、可治理的工程系统。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 600 |
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ huangjia2019/claude-code-engineering：huangjia2019/claude-code-engineering help
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 79/100 |
+| production | 67/100 |
+| outlook | 72/100 |
 | adoption | 59/100 |
 | stars | 59/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

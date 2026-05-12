@@ -1,6 +1,6 @@
 # huimeicloud/hm_editor
 
-[![Stars](https://img.shields.io/github/stars/huimeicloud/hm_editor?style=flat-square&color=yellow)](https://github.com/huimeicloud/hm_editor/stargazers) [![Forks](https://img.shields.io/github/forks/huimeicloud/hm_editor?style=flat-square&color=blue)](https://github.com/huimeicloud/hm_editor/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huimeicloud/hm_editor?style=flat-square&color=yellow)](https://github.com/huimeicloud/hm_editor/stargazers) [![Forks](https://img.shields.io/github/forks/huimeicloud/hm_editor?style=flat-square&color=blue)](https://github.com/huimeicloud/hm_editor/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 一款轻量级、可扩展的、跨平台的、专为医疗信息化设计的电子病历编辑器内核，为EMR（电子病历系统）提供专业的结构化病历编辑与AI接入解决方案。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ HuimeiCloud’s **hm_editor** is a lightweight, extensible, cross‑platform cor
 
 ### 中文
 
-huimeicloud/hm_editor：huimeicloud/hm_editor helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+huimeicloud/hm_editor：huimeicloud/hm_editor helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ huimeicloud/hm_editor：huimeicloud/hm_editor helps add AI capability without st
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ huimeicloud/hm_editor：huimeicloud/hm_editor helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 70/100 |
+| outlook | 76/100 |
 | adoption | 41/100 |
 | stars | 42/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

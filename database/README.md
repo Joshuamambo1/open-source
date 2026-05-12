@@ -2,7 +2,7 @@
 
 > 
 
-**31 projects** in this category.
+**32 projects** in this category.
 
 ## Projects
 
@@ -14,31 +14,32 @@
 | 4 | [runs-on/runs-on](./runs-on-runs-on.md) | ⭐ 1.2k | — | 68/100 |
 | 5 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 951 | Go Template | 68/100 |
 | 6 | [papra-hq/papra](./papra-hq-papra.md) | ⭐ 4.4k | TypeScript | 68/100 |
-| 7 | [fooyin/fooyin](./fooyin-fooyin.md) | ⭐ 1.9k | C++ | 64/100 |
-| 8 | [zentralopensource/zentral](./zentralopensource-zentral.md) | ⭐ 860 | Python | 63/100 |
-| 9 | [eranif/codelite](./eranif-codelite.md) | ⭐ 2.4k | C++ | 63/100 |
-| 10 | [knurling-rs/defmt](./knurling-rs-defmt.md) | ⭐ 1.2k | Rust | 62/100 |
-| 11 | [tinylibs/tinybench](./tinylibs-tinybench.md) | ⭐ 2.3k | TypeScript | 62/100 |
-| 12 | [zumerlab/snapdom](./zumerlab-snapdom.md) | ⭐ 7.8k | JavaScript | 61/100 |
-| 13 | [opensource-socialnetwork/opensource-socialnetwork](./opensource-socialnetwork-opensource-socialnetwork.md) | ⭐ 1.2k | PHP | 61/100 |
-| 14 | [mongodb/mongo-rust-driver](./mongodb-mongo-rust-driver.md) | ⭐ 1.5k | Rust | 61/100 |
-| 15 | [google/angle](./google-angle.md) | ⭐ 4k | C++ | 61/100 |
-| 16 | [OpenAEV-Platform/openaev](./openaev-platform-openaev.md) | ⭐ 1.7k | Java | 60/100 |
-| 17 | [hydro-project/hydro](./hydro-project-hydro.md) | ⭐ 1.2k | Rust | 60/100 |
-| 18 | [lukecav/awesome-gravity-forms](./lukecav-awesome-gravity-forms.md) | ⭐ 324 | — | 59/100 |
-| 19 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 59/100 |
-| 20 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 59/100 |
-| 21 | [sebaslogen/resaca](./sebaslogen-resaca.md) | ⭐ 636 | Kotlin | 58/100 |
-| 22 | [open-source-cooperative/keyring-rs](./open-source-cooperative-keyring-rs.md) | ⭐ 726 | Rust | 58/100 |
-| 23 | [b-editor/beutl](./b-editor-beutl.md) | ⭐ 1.2k | C# | 58/100 |
-| 24 | [vlang/vsl](./vlang-vsl.md) | ⭐ 393 | V | 58/100 |
-| 25 | [kool-engine/kool](./kool-engine-kool.md) | ⭐ 548 | Kotlin | 58/100 |
-| 26 | [kokkos/kokkos-kernels](./kokkos-kokkos-kernels.md) | ⭐ 383 | C++ | 57/100 |
-| 27 | [tianocore/edk2-platforms](./tianocore-edk2-platforms.md) | ⭐ 640 | C | 55/100 |
-| 28 | [Makisuo/maple](./makisuo-maple.md) | ⭐ 322 | TypeScript | 55/100 |
-| 29 | [fables-tales/rubyfmt](./fables-tales-rubyfmt.md) | ⭐ 1.2k | Rust | 54/100 |
-| 30 | [INCY-DEV/incy-platforms](./incy-dev-incy-platforms.md) | ⭐ 309 | — | 51/100 |
-| 31 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
+| 7 | [audacity/audacity](./audacity-audacity.md) | ⭐ 17k | C++ | 64/100 |
+| 8 | [fooyin/fooyin](./fooyin-fooyin.md) | ⭐ 1.9k | C++ | 64/100 |
+| 9 | [zentralopensource/zentral](./zentralopensource-zentral.md) | ⭐ 860 | Python | 63/100 |
+| 10 | [eranif/codelite](./eranif-codelite.md) | ⭐ 2.4k | C++ | 63/100 |
+| 11 | [knurling-rs/defmt](./knurling-rs-defmt.md) | ⭐ 1.2k | Rust | 62/100 |
+| 12 | [tinylibs/tinybench](./tinylibs-tinybench.md) | ⭐ 2.3k | TypeScript | 62/100 |
+| 13 | [zumerlab/snapdom](./zumerlab-snapdom.md) | ⭐ 7.8k | JavaScript | 61/100 |
+| 14 | [opensource-socialnetwork/opensource-socialnetwork](./opensource-socialnetwork-opensource-socialnetwork.md) | ⭐ 1.2k | PHP | 61/100 |
+| 15 | [mongodb/mongo-rust-driver](./mongodb-mongo-rust-driver.md) | ⭐ 1.5k | Rust | 61/100 |
+| 16 | [google/angle](./google-angle.md) | ⭐ 4k | C++ | 61/100 |
+| 17 | [OpenAEV-Platform/openaev](./openaev-platform-openaev.md) | ⭐ 1.7k | Java | 60/100 |
+| 18 | [hydro-project/hydro](./hydro-project-hydro.md) | ⭐ 1.2k | Rust | 60/100 |
+| 19 | [lukecav/awesome-gravity-forms](./lukecav-awesome-gravity-forms.md) | ⭐ 324 | — | 59/100 |
+| 20 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 59/100 |
+| 21 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 59/100 |
+| 22 | [sebaslogen/resaca](./sebaslogen-resaca.md) | ⭐ 636 | Kotlin | 58/100 |
+| 23 | [open-source-cooperative/keyring-rs](./open-source-cooperative-keyring-rs.md) | ⭐ 726 | Rust | 58/100 |
+| 24 | [b-editor/beutl](./b-editor-beutl.md) | ⭐ 1.2k | C# | 58/100 |
+| 25 | [vlang/vsl](./vlang-vsl.md) | ⭐ 393 | V | 58/100 |
+| 26 | [kool-engine/kool](./kool-engine-kool.md) | ⭐ 548 | Kotlin | 58/100 |
+| 27 | [kokkos/kokkos-kernels](./kokkos-kokkos-kernels.md) | ⭐ 383 | C++ | 57/100 |
+| 28 | [tianocore/edk2-platforms](./tianocore-edk2-platforms.md) | ⭐ 640 | C | 55/100 |
+| 29 | [Makisuo/maple](./makisuo-maple.md) | ⭐ 322 | TypeScript | 55/100 |
+| 30 | [fables-tales/rubyfmt](./fables-tales-rubyfmt.md) | ⭐ 1.2k | Rust | 54/100 |
+| 31 | [INCY-DEV/incy-platforms](./incy-dev-incy-platforms.md) | ⭐ 309 | — | 51/100 |
+| 32 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
 
 ---
 

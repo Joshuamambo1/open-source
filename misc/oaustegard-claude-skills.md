@@ -1,6 +1,6 @@
 # oaustegard/claude-skills
 
-[![Stars](https://img.shields.io/github/stars/oaustegard/claude-skills?style=flat-square&color=yellow)](https://github.com/oaustegard/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/oaustegard/claude-skills?style=flat-square&color=blue)](https://github.com/oaustegard/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oaustegard/claude-skills?style=flat-square&color=yellow)](https://github.com/oaustegard/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/oaustegard/claude-skills?style=flat-square&color=blue)](https://github.com/oaustegard/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > My collection of Claude skills
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ oaustegard/claude-skills：oaustegard/claude-skills may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 66/100 |
+| production | 64/100 |
+| outlook | 59/100 |
 | adoption | 37/100 |
 | stars | 44/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

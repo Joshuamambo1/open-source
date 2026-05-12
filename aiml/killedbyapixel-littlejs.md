@@ -1,6 +1,6 @@
 # KilledByAPixel/LittleJS
 
-[![Stars](https://img.shields.io/github/stars/KilledByAPixel/LittleJS?style=flat-square&color=yellow)](https://github.com/KilledByAPixel/LittleJS/stargazers) [![Forks](https://img.shields.io/github/forks/KilledByAPixel/LittleJS?style=flat-square&color=blue)](https://github.com/KilledByAPixel/LittleJS/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KilledByAPixel/LittleJS?style=flat-square&color=yellow)](https://github.com/KilledByAPixel/LittleJS/stargazers) [![Forks](https://img.shields.io/github/forks/KilledByAPixel/LittleJS?style=flat-square&color=blue)](https://github.com/KilledByAPixel/LittleJS/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Tiny fast HTML5 game engine with many features and no dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 219 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ KilledByAPixel/LittleJS — это крошечный, высокопроиз�
 
 ### 中文
 
-KilledByAPixel/LittleJS：KilledByAPixel/LittleJS helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+KilledByAPixel/LittleJS：KilledByAPixel/LittleJS helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ KilledByAPixel/LittleJS：KilledByAPixel/LittleJS helps add AI capability withou
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ KilledByAPixel/LittleJS：KilledByAPixel/LittleJS helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 62/100 |
-| production | 81/100 |
-| outlook | 85/100 |
+| production | 75/100 |
+| outlook | 78/100 |
 | adoption | 72/100 |
 | stars | 77/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # m-mizutani/gollem
 
-[![Stars](https://img.shields.io/github/stars/m-mizutani/gollem?style=flat-square&color=yellow)](https://github.com/m-mizutani/gollem/stargazers) [![Forks](https://img.shields.io/github/forks/m-mizutani/gollem?style=flat-square&color=blue)](https://github.com/m-mizutani/gollem/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/m-mizutani/gollem?style=flat-square&color=yellow)](https://github.com/m-mizutani/gollem/stargazers) [![Forks](https://img.shields.io/github/forks/m-mizutani/gollem?style=flat-square&color=blue)](https://github.com/m-mizutani/gollem/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Go framework for agentic AI app with MCP and built-in tools
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 185 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ m-mizutani/gollem：m-mizutani/gollem helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 79/100 |
+| production | 67/100 |
+| outlook | 72/100 |
 | adoption | 42/100 |
 | stars | 48/100 |
 | forks | 26/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

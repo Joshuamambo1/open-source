@@ -1,6 +1,6 @@
 # coregit-inc/coregit-api
 
-[![Stars](https://img.shields.io/github/stars/coregit-inc/coregit-api?style=flat-square&color=yellow)](https://github.com/coregit-inc/coregit-api/stargazers) [![Forks](https://img.shields.io/github/forks/coregit-inc/coregit-api?style=flat-square&color=blue)](https://github.com/coregit-inc/coregit-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coregit-inc/coregit-api?style=flat-square&color=yellow)](https://github.com/coregit-inc/coregit-api/stargazers) [![Forks](https://img.shields.io/github/forks/coregit-inc/coregit-api?style=flat-square&color=blue)](https://github.com/coregit-inc/coregit-api/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Serverless Git API for AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ coregit-inc/coregit-api：coregit-inc/coregit-api helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 66/100 |
+| production | 62/100 |
+| outlook | 59/100 |
 | adoption | 26/100 |
 | stars | 33/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

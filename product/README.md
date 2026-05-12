@@ -13,7 +13,7 @@
 | 3 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9.1k | Python | 67/100 |
 | 4 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.7k | Clojure | 64/100 |
 | 5 | [git-town/git-town](./git-town-git-town.md) | ⭐ 3.2k | Gherkin | 64/100 |
-| 6 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.9k | C++ | 63/100 |
+| 6 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.9k | C++ | 60/100 |
 | 7 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.2k | Rust | 60/100 |
 | 8 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 6.1k | Swift | 59/100 |
 | 9 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 59/100 |

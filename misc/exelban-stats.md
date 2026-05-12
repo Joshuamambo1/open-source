@@ -1,6 +1,6 @@
 # exelban/stats
 
-[![Stars](https://img.shields.io/github/stars/exelban/stats?style=flat-square&color=yellow)](https://github.com/exelban/stats/stargazers) [![Forks](https://img.shields.io/github/forks/exelban/stats?style=flat-square&color=blue)](https://github.com/exelban/stats/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/exelban/stats?style=flat-square&color=yellow)](https://github.com/exelban/stats/stargazers) [![Forks](https://img.shields.io/github/forks/exelban/stats?style=flat-square&color=blue)](https://github.com/exelban/stats/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > macOS system monitor in your menu bar
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38.6k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A lightweight macOS utility that places a real‑time system monitor directly in
 
 ### 中文
 
-exelban/stats：exelban/stats may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+exelban/stats：exelban/stats may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ exelban/stats：exelban/stats may be useful when its README and activity match a
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ exelban/stats：exelban/stats may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 96/100 |
+| quality | 91/100 |
 | integration | 30/100 |
-| production | 80/100 |
-| outlook | 90/100 |
+| production | 74/100 |
+| outlook | 83/100 |
 | adoption | 92/100 |
 | stars | 98/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

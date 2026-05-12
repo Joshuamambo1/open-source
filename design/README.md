@@ -28,7 +28,7 @@
 | 18 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 54/100 |
 | 19 | [agersant/polaris](./agersant-polaris.md) | ⭐ 2.6k | Rust | 53/100 |
 | 20 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 53/100 |
-| 21 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 41/100 |
+| 21 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 38/100 |
 
 ---
 

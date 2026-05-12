@@ -1,6 +1,6 @@
 # clitic/vsd
 
-[![Stars](https://img.shields.io/github/stars/clitic/vsd?style=flat-square&color=yellow)](https://github.com/clitic/vsd/stargazers) [![Forks](https://img.shields.io/github/forks/clitic/vsd?style=flat-square&color=blue)](https://github.com/clitic/vsd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clitic/vsd?style=flat-square&color=yellow)](https://github.com/clitic/vsd/stargazers) [![Forks](https://img.shields.io/github/forks/clitic/vsd?style=flat-square&color=blue)](https://github.com/clitic/vsd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Download video streams served over HTTP from websites, DASH (.mpd) and HLS (.m3u8) playlists.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 481 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ clitic/vsd is an open‑source utility that lets you download video streams deli
 
 ### 中文
 
-clitic/vsd：clitic/vsd helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+clitic/vsd：clitic/vsd helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ clitic/vsd：clitic/vsd helps engineers save time in daily development and revie
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ clitic/vsd：clitic/vsd helps engineers save time in daily development and revie
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 69/100 |
+| outlook | 73/100 |
 | adoption | 53/100 |
 | stars | 57/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

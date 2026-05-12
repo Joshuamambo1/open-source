@@ -1,6 +1,6 @@
 # oxigraph/oxigraph
 
-[![Stars](https://img.shields.io/github/stars/oxigraph/oxigraph?style=flat-square&color=yellow)](https://github.com/oxigraph/oxigraph/stargazers) [![Forks](https://img.shields.io/github/forks/oxigraph/oxigraph?style=flat-square&color=blue)](https://github.com/oxigraph/oxigraph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxigraph/oxigraph?style=flat-square&color=yellow)](https://github.com/oxigraph/oxigraph/stargazers) [![Forks](https://img.shields.io/github/forks/oxigraph/oxigraph?style=flat-square&color=blue)](https://github.com/oxigraph/oxigraph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > SPARQL graph database
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ oxigraph/oxigraph：oxigraph/oxigraph helps convert raw data into searchable, an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 64/100 |
 | stars | 69/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

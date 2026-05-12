@@ -1,6 +1,6 @@
 # Warma10032/VideoAdGuard
 
-[![Stars](https://img.shields.io/github/stars/Warma10032/VideoAdGuard?style=flat-square&color=yellow)](https://github.com/Warma10032/VideoAdGuard/stargazers) [![Forks](https://img.shields.io/github/forks/Warma10032/VideoAdGuard?style=flat-square&color=blue)](https://github.com/Warma10032/VideoAdGuard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Warma10032/VideoAdGuard?style=flat-square&color=yellow)](https://github.com/Warma10032/VideoAdGuard/stargazers) [![Forks](https://img.shields.io/github/forks/Warma10032/VideoAdGuard?style=flat-square&color=blue)](https://github.com/Warma10032/VideoAdGuard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 732 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Warma10032/VideoAdGuard：Warma10032/VideoAdGuard helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 75/100 |
+| production | 68/100 |
+| outlook | 68/100 |
 | adoption | 55/100 |
 | stars | 61/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

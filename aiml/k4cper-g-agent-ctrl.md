@@ -1,6 +1,6 @@
 # k4cper-g/agent-ctrl
 
-[![Stars](https://img.shields.io/github/stars/k4cper-g/agent-ctrl?style=flat-square&color=yellow)](https://github.com/k4cper-g/agent-ctrl/stargazers) [![Forks](https://img.shields.io/github/forks/k4cper-g/agent-ctrl?style=flat-square&color=blue)](https://github.com/k4cper-g/agent-ctrl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/k4cper-g/agent-ctrl?style=flat-square&color=yellow)](https://github.com/k4cper-g/agent-ctrl/stargazers) [![Forks](https://img.shields.io/github/forks/k4cper-g/agent-ctrl?style=flat-square&color=blue)](https://github.com/k4cper-g/agent-ctrl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > OS automation CLI for AI agents. Fast native Rust CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ k4cper-g/agent-ctrl：k4cper-g/agent-ctrl helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 72/100 |
+| production | 61/100 |
+| outlook | 65/100 |
 | adoption | 36/100 |
 | stars | 45/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

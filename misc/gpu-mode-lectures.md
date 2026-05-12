@@ -1,6 +1,6 @@
 # gpu-mode/lectures
 
-[![Stars](https://img.shields.io/github/stars/gpu-mode/lectures?style=flat-square&color=yellow)](https://github.com/gpu-mode/lectures/stargazers) [![Forks](https://img.shields.io/github/forks/gpu-mode/lectures?style=flat-square&color=blue)](https://github.com/gpu-mode/lectures/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gpu-mode/lectures?style=flat-square&color=yellow)](https://github.com/gpu-mode/lectures/stargazers) [![Forks](https://img.shields.io/github/forks/gpu-mode/lectures?style=flat-square&color=blue)](https://github.com/gpu-mode/lectures/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Material for gpu-mode lectures
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 609 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ gpu-mode/lectures：gpu-mode/lectures may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 77/100 |
 | stars | 81/100 |
 | forks | 70/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

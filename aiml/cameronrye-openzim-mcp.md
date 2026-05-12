@@ -1,6 +1,6 @@
 # cameronrye/openzim-mcp
 
-[![Stars](https://img.shields.io/github/stars/cameronrye/openzim-mcp?style=flat-square&color=yellow)](https://github.com/cameronrye/openzim-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/cameronrye/openzim-mcp?style=flat-square&color=blue)](https://github.com/cameronrye/openzim-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cameronrye/openzim-mcp?style=flat-square&color=yellow)](https://github.com/cameronrye/openzim-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/cameronrye/openzim-mcp?style=flat-square&color=blue)](https://github.com/cameronrye/openzim-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > OpenZIM MCP is a modern, secure, and high-performance MCP (Model Context Protocol) server that enables AI models to access and search ZIM format knowledge bases offline.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cameronrye/openzim-mcp：cameronrye/openzim-mcp helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 71/100 |
+| production | 67/100 |
+| outlook | 64/100 |
 | adoption | 35/100 |
 | stars | 38/100 |
 | forks | 27/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # huggingface/trl
 
-[![Stars](https://img.shields.io/github/stars/huggingface/trl?style=flat-square&color=yellow)](https://github.com/huggingface/trl/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/trl?style=flat-square&color=blue)](https://github.com/huggingface/trl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/trl?style=flat-square&color=yellow)](https://github.com/huggingface/trl/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/trl?style=flat-square&color=blue)](https://github.com/huggingface/trl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Train transformer language models with reinforcement learning.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.3k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ The `huggingface/trl` library provides tools for fine‑tuning transformer langu
 
 ### 中文
 
-huggingface/trl：huggingface/trl helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+huggingface/trl：huggingface/trl helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ huggingface/trl：huggingface/trl helps add AI capability without starting from 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ huggingface/trl：huggingface/trl helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 76/100 |
+| production | 70/100 |
+| outlook | 69/100 |
 | adoption | 89/100 |
 | stars | 91/100 |
 | forks | 86/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

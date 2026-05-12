@@ -1,6 +1,6 @@
 # winsiderss/systeminformer
 
-[![Stars](https://img.shields.io/github/stars/winsiderss/systeminformer?style=flat-square&color=yellow)](https://github.com/winsiderss/systeminformer/stargazers) [![Forks](https://img.shields.io/github/forks/winsiderss/systeminformer?style=flat-square&color=blue)](https://github.com/winsiderss/systeminformer/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/winsiderss/systeminformer?style=flat-square&color=yellow)](https://github.com/winsiderss/systeminformer/stargazers) [![Forks](https://img.shields.io/github/forks/winsiderss/systeminformer?style=flat-square&color=blue)](https://github.com/winsiderss/systeminformer/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.5k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ winsiderss/systeminformer is a free, open‑source utility for Windows that prov
 
 ### 中文
 
-winsiderss/systeminformer：winsiderss/systeminformer helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+winsiderss/systeminformer：winsiderss/systeminformer helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ winsiderss/systeminformer：winsiderss/systeminformer helps catch security and p
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ winsiderss/systeminformer：winsiderss/systeminformer helps catch security and p
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 30/100 |
-| production | 79/100 |
-| outlook | 91/100 |
+| production | 73/100 |
+| outlook | 84/100 |
 | adoption | 86/100 |
 | stars | 89/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

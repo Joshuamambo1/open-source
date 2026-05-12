@@ -1,6 +1,6 @@
 # ampache/ampache
 
-[![Stars](https://img.shields.io/github/stars/ampache/ampache?style=flat-square&color=yellow)](https://github.com/ampache/ampache/stargazers) [![Forks](https://img.shields.io/github/forks/ampache/ampache?style=flat-square&color=blue)](https://github.com/ampache/ampache/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ampache/ampache?style=flat-square&color=yellow)](https://github.com/ampache/ampache/stargazers) [![Forks](https://img.shields.io/github/forks/ampache/ampache?style=flat-square&color=blue)](https://github.com/ampache/ampache/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 602 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ ampache/ampache：ampache/ampache may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 72/100 |
+| production | 65/100 |
+| outlook | 65/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 70/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # BlueWallet/BlueWallet
 
-[![Stars](https://img.shields.io/github/stars/BlueWallet/BlueWallet?style=flat-square&color=yellow)](https://github.com/BlueWallet/BlueWallet/stargazers) [![Forks](https://img.shields.io/github/forks/BlueWallet/BlueWallet?style=flat-square&color=blue)](https://github.com/BlueWallet/BlueWallet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlueWallet/BlueWallet?style=flat-square&color=yellow)](https://github.com/BlueWallet/BlueWallet/stargazers) [![Forks](https://img.shields.io/github/forks/BlueWallet/BlueWallet?style=flat-square&color=blue)](https://github.com/BlueWallet/BlueWallet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Bitcoin wallet for iOS & Android. Built with React Native
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ BlueWallet — это кроссплатформенный Bitcoin‑коше�
 
 ### 中文
 
-BlueWallet/BlueWallet：BlueWallet/BlueWallet helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+BlueWallet/BlueWallet：BlueWallet/BlueWallet helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ BlueWallet/BlueWallet：BlueWallet/BlueWallet helps prototype or inspect blockch
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ BlueWallet/BlueWallet：BlueWallet/BlueWallet helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 75/100 |
 | stars | 75/100 |
 | forks | 75/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

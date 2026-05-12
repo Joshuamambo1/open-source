@@ -1,6 +1,6 @@
 # googleapis/java-genai
 
-[![Stars](https://img.shields.io/github/stars/googleapis/java-genai?style=flat-square&color=yellow)](https://github.com/googleapis/java-genai/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/java-genai?style=flat-square&color=blue)](https://github.com/googleapis/java-genai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/java-genai?style=flat-square&color=yellow)](https://github.com/googleapis/java-genai/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/java-genai?style=flat-square&color=blue)](https://github.com/googleapis/java-genai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Google Gen AI Java SDK provides an interface for developers to integrate Google's generative models into their Java applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 371 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Google Gen AI Java SDK — это открытая библиотека, по�
 
 ### 中文
 
-googleapis/java-genai：googleapis/java-genai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+googleapis/java-genai：googleapis/java-genai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ googleapis/java-genai：googleapis/java-genai helps add AI capability without st
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ googleapis/java-genai：googleapis/java-genai helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 78/100 |
-| production | 75/100 |
-| outlook | 73/100 |
+| production | 69/100 |
+| outlook | 66/100 |
 | adoption | 54/100 |
 | stars | 55/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

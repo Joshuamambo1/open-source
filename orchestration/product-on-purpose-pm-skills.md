@@ -1,6 +1,6 @@
 # product-on-purpose/pm-skills
 
-[![Stars](https://img.shields.io/github/stars/product-on-purpose/pm-skills?style=flat-square&color=yellow)](https://github.com/product-on-purpose/pm-skills/stargazers) [![Forks](https://img.shields.io/github/forks/product-on-purpose/pm-skills?style=flat-square&color=blue)](https://github.com/product-on-purpose/pm-skills/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/product-on-purpose/pm-skills?style=flat-square&color=yellow)](https://github.com/product-on-purpose/pm-skills/stargazers) [![Forks](https://img.shields.io/github/forks/product-on-purpose/pm-skills?style=flat-square&color=blue)](https://github.com/product-on-purpose/pm-skills/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Curated, plug-and-play product management skills for AI agents. 40 skills across Triple Diamond phases plus foundation (lean canvas, persona, meeting lifecycle family) and utility (create, validate, iterate). Templates, workflows, thread-aligned samples, CI-enforced skill-family contracts. Apache 2.0.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 193 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ product-on-purpose/pm-skills：product-on-purpose/pm-skills helps turn isolated 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 46/100 |
 | stars | 49/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

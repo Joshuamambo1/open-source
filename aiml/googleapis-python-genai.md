@@ -1,6 +1,6 @@
 # googleapis/python-genai
 
-[![Stars](https://img.shields.io/github/stars/googleapis/python-genai?style=flat-square&color=yellow)](https://github.com/googleapis/python-genai/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/python-genai?style=flat-square&color=blue)](https://github.com/googleapis/python-genai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/python-genai?style=flat-square&color=yellow)](https://github.com/googleapis/python-genai/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/python-genai?style=flat-square&color=blue)](https://github.com/googleapis/python-genai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 855 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Google Gen AI Python SDK — это открытая библиотека, п�
 
 ### 中文
 
-googleapis/python-genai：googleapis/python-genai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+googleapis/python-genai：googleapis/python-genai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ googleapis/python-genai：googleapis/python-genai helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ googleapis/python-genai：googleapis/python-genai helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 94/100 |
-| production | 81/100 |
-| outlook | 79/100 |
+| production | 74/100 |
+| outlook | 72/100 |
 | adoption | 75/100 |
 | stars | 76/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

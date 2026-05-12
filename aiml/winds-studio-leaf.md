@@ -1,6 +1,6 @@
 # Winds-Studio/Leaf
 
-[![Stars](https://img.shields.io/github/stars/Winds-Studio/Leaf?style=flat-square&color=yellow)](https://github.com/Winds-Studio/Leaf/stargazers) [![Forks](https://img.shields.io/github/forks/Winds-Studio/Leaf?style=flat-square&color=blue)](https://github.com/Winds-Studio/Leaf/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Winds-Studio/Leaf?style=flat-square&color=yellow)](https://github.com/Winds-Studio/Leaf/stargazers) [![Forks](https://img.shields.io/github/forks/Winds-Studio/Leaf?style=flat-square&color=blue)](https://github.com/Winds-Studio/Leaf/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Paper fork, focused on finding balance between performance, vanilla behavior and stability
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 964 |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Winds‑Studio/Leaf — это форк проекта Paper, ориенти
 
 ### 中文
 
-Winds-Studio/Leaf：Winds-Studio/Leaf helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Winds-Studio/Leaf：Winds-Studio/Leaf helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Winds-Studio/Leaf：Winds-Studio/Leaf helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Winds-Studio/Leaf：Winds-Studio/Leaf helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 79/100 |
+| production | 69/100 |
+| outlook | 72/100 |
 | adoption | 61/100 |
 | stars | 64/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

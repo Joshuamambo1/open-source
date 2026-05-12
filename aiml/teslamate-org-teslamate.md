@@ -1,6 +1,6 @@
 # teslamate-org/teslamate
 
-[![Stars](https://img.shields.io/github/stars/teslamate-org/teslamate?style=flat-square&color=yellow)](https://github.com/teslamate-org/teslamate/stargazers) [![Forks](https://img.shields.io/github/forks/teslamate-org/teslamate?style=flat-square&color=blue)](https://github.com/teslamate-org/teslamate/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teslamate-org/teslamate?style=flat-square&color=yellow)](https://github.com/teslamate-org/teslamate/stargazers) [![Forks](https://img.shields.io/github/forks/teslamate-org/teslamate?style=flat-square&color=blue)](https://github.com/teslamate-org/teslamate/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 930 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ teslamate-org/teslamate：teslamate-org/teslamate helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 62/100 |
-| production | 83/100 |
-| outlook | 95/100 |
+| production | 76/100 |
+| outlook | 88/100 |
 | adoption | 81/100 |
 | stars | 83/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # remix-run/remix
 
-[![Stars](https://img.shields.io/github/stars/remix-run/remix?style=flat-square&color=yellow)](https://github.com/remix-run/remix/stargazers) [![Forks](https://img.shields.io/github/forks/remix-run/remix?style=flat-square&color=blue)](https://github.com/remix-run/remix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remix-run/remix?style=flat-square&color=yellow)](https://github.com/remix-run/remix/stargazers) [![Forks](https://img.shields.io/github/forks/remix-run/remix?style=flat-square&color=blue)](https://github.com/remix-run/remix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32.9k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Remix — это современный open‑source фреймворк дл�
 
 ### 中文
 
-remix-run/remix：remix-run/remix helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+remix-run/remix：remix-run/remix helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ remix-run/remix：remix-run/remix helps ship user-facing interfaces with less cu
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ remix-run/remix：remix-run/remix helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 77/100 |
+| production | 71/100 |
+| outlook | 70/100 |
 | adoption | 93/100 |
 | stars | 96/100 |
 | forks | 86/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

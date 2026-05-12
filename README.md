@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6732** |
+| 🗂️ **Total projects** | **6792** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,27 +18,27 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2528 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1228 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 666 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 588 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 359 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 335 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 233 | [Browse →](./crypto/) |
-| 📊 **Data** | 160 | [Browse →](./data/) |
-| 💳 **Payments** | 104 | [Browse →](./payments/) |
-| 📈 **Trading** | 83 | [Browse →](./trading/) |
+| 🤖 **AI/ML** | 2539 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1240 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 675 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 590 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 361 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 337 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 234 | [Browse →](./crypto/) |
+| 📊 **Data** | 161 | [Browse →](./data/) |
+| 💳 **Payments** | 107 | [Browse →](./payments/) |
+| 📈 **Trading** | 84 | [Browse →](./trading/) |
 | 📱 **Mobile** | 81 | [Browse →](./mobile/) |
+| 🏷️ **Mcp** | 76 | [Browse →](./mcp/) |
 | 🚀 **DevOps & Infra** | 70 | [Browse →](./devopsinfra/) |
-| 🏷️ **Mcp** | 70 | [Browse →](./mcp/) |
-| 🏷️ **Automation** | 58 | [Browse →](./automation/) |
-| 🏷️ **Knowledgerag** | 49 | [Browse →](./knowledgerag/) |
-| 🔐 **Security** | 47 | [Browse →](./security/) |
+| 🏷️ **Automation** | 62 | [Browse →](./automation/) |
+| 🏷️ **Knowledgerag** | 52 | [Browse →](./knowledgerag/) |
+| 🔐 **Security** | 48 | [Browse →](./security/) |
 | ✨ **Design** | 21 | [Browse →](./design/) |
-| 🏷️ **Database** | 20 | [Browse →](./database/) |
+| 🏷️ **Database** | 21 | [Browse →](./database/) |
 | 🎯 **Product** | 14 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
-| 🏷️ **Observability** | 6 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 7 | [Browse →](./observability/) |
 | 🏷️ **Education** | 3 | [Browse →](./education/) |
 
 ## 🔥 Top 10 by score
@@ -49,12 +49,12 @@
 | 2 | [google-gemini/gemini-cli](./aiml/google-gemini-gemini-cli.md) | ⭐ 103.3k | AI/ML |
 | 3 | [n8n-io/n8n](./aiml/n8n-io-n8n.md) | ⭐ 186.9k | AI/ML |
 | 4 | [mcp-use/mcp-use](./aiml/mcp-use-mcp-use.md) | ⭐ 9.9k | AI/ML |
-| 5 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
-| 6 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
-| 7 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
-| 8 | [subzeroid/instagrapi](./backend/subzeroid-instagrapi.md) | ⭐ 6.2k | Backend |
-| 9 | [xerrors/Yuxi](./orchestration/xerrors-yuxi.md) | ⭐ 5.1k | Orchestration |
-| 10 | [Klavis-AI/klavis](./aiml/klavis-ai-klavis.md) | ⭐ 5.7k | AI/ML |
+| 5 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
+| 6 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
+| 7 | [subzeroid/instagrapi](./backend/subzeroid-instagrapi.md) | ⭐ 6.2k | Backend |
+| 8 | [xerrors/Yuxi](./orchestration/xerrors-yuxi.md) | ⭐ 5.1k | Orchestration |
+| 9 | [Klavis-AI/klavis](./aiml/klavis-ai-klavis.md) | ⭐ 5.7k | AI/ML |
+| 10 | [davepoon/buildwithclaude](./aiml/davepoon-buildwithclaude.md) | ⭐ 2.9k | AI/ML |
 
 ## 🚀 How it works
 

@@ -1,6 +1,6 @@
 # KhronosGroup/Vulkan-ValidationLayers
 
-[![Stars](https://img.shields.io/github/stars/KhronosGroup/Vulkan-ValidationLayers?style=flat-square&color=yellow)](https://github.com/KhronosGroup/Vulkan-ValidationLayers/stargazers) [![Forks](https://img.shields.io/github/forks/KhronosGroup/Vulkan-ValidationLayers?style=flat-square&color=blue)](https://github.com/KhronosGroup/Vulkan-ValidationLayers/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KhronosGroup/Vulkan-ValidationLayers?style=flat-square&color=yellow)](https://github.com/KhronosGroup/Vulkan-ValidationLayers/stargazers) [![Forks](https://img.shields.io/github/forks/KhronosGroup/Vulkan-ValidationLayers?style=flat-square&color=blue)](https://github.com/KhronosGroup/Vulkan-ValidationLayers/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Vulkan Validation Layers (VVL)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 994 |
 | 🍴 **Forks** | 474 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ KhronosGroup/Vulkan-ValidationLayers：KhronosGroup/Vulkan-ValidationLayers may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 65/100 |
 | stars | 64/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

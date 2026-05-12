@@ -1,6 +1,6 @@
 # ryanb/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/ryanb/dotfiles?style=flat-square&color=yellow)](https://github.com/ryanb/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/ryanb/dotfiles?style=flat-square&color=blue)](https://github.com/ryanb/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ryanb/dotfiles?style=flat-square&color=yellow)](https://github.com/ryanb/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/ryanb/dotfiles?style=flat-square&color=blue)](https://github.com/ryanb/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > config files for zsh, bash, completions, gem, git, irb, rails
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 775 |
 | 💻 **Language** | Vim Script |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ ryanb/dotfiles：ryanb/dotfiles helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 65/100 |
+| outlook | 64/100 |
 | adoption | 72/100 |
 | stars | 72/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

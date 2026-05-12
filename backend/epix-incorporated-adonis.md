@@ -1,6 +1,6 @@
 # Epix-Incorporated/Adonis
 
-[![Stars](https://img.shields.io/github/stars/Epix-Incorporated/Adonis?style=flat-square&color=yellow)](https://github.com/Epix-Incorporated/Adonis/stargazers) [![Forks](https://img.shields.io/github/forks/Epix-Incorporated/Adonis?style=flat-square&color=blue)](https://github.com/Epix-Incorporated/Adonis/network) [![Language](https://img.shields.io/badge/lang-Luau-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Epix-Incorporated/Adonis?style=flat-square&color=yellow)](https://github.com/Epix-Incorporated/Adonis/stargazers) [![Forks](https://img.shields.io/github/forks/Epix-Incorporated/Adonis?style=flat-square&color=blue)](https://github.com/Epix-Incorporated/Adonis/network) [![Language](https://img.shields.io/badge/lang-Luau-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Roblox Server Administration System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 463 |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | Luau |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Epix-Incorporated/Adonis：Epix-Incorporated/Adonis helps teams reuse service in
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 57/100 |
 | stars | 57/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

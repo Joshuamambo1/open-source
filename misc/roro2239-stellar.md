@@ -1,6 +1,6 @@
 # roro2239/Stellar
 
-[![Stars](https://img.shields.io/github/stars/roro2239/Stellar?style=flat-square&color=yellow)](https://github.com/roro2239/Stellar/stargazers) [![Forks](https://img.shields.io/github/forks/roro2239/Stellar?style=flat-square&color=blue)](https://github.com/roro2239/Stellar/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roro2239/Stellar?style=flat-square&color=yellow)](https://github.com/roro2239/Stellar/stargazers) [![Forks](https://img.shields.io/github/forks/roro2239/Stellar?style=flat-square&color=blue)](https://github.com/roro2239/Stellar/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Another Shizuku impl
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 765 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ roro2239/Stellar：roro2239/Stellar may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 54/100 |
 | stars | 61/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

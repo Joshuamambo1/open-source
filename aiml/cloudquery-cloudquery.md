@@ -1,6 +1,6 @@
 # cloudquery/cloudquery
 
-[![Stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=flat-square&color=yellow)](https://github.com/cloudquery/cloudquery/stargazers) [![Forks](https://img.shields.io/github/forks/cloudquery/cloudquery?style=flat-square&color=blue)](https://github.com/cloudquery/cloudquery/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=flat-square&color=yellow)](https://github.com/cloudquery/cloudquery/stargazers) [![Forks](https://img.shields.io/github/forks/cloudquery/cloudquery?style=flat-square&color=blue)](https://github.com/cloudquery/cloudquery/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 544 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cloudquery/cloudquery：cloudquery/cloudquery helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 90/100 |
+| quality | 85/100 |
 | integration | 78/100 |
-| production | 84/100 |
-| outlook | 92/100 |
+| production | 78/100 |
+| outlook | 85/100 |
 | adoption | 77/100 |
 | stars | 81/100 |
 | forks | 68/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

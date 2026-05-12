@@ -1,6 +1,6 @@
 # ThirdKeyAI/Symbiont
 
-[![Stars](https://img.shields.io/github/stars/ThirdKeyAI/Symbiont?style=flat-square&color=yellow)](https://github.com/ThirdKeyAI/Symbiont/stargazers) [![Forks](https://img.shields.io/github/forks/ThirdKeyAI/Symbiont?style=flat-square&color=blue)](https://github.com/ThirdKeyAI/Symbiont/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThirdKeyAI/Symbiont?style=flat-square&color=yellow)](https://github.com/ThirdKeyAI/Symbiont/stargazers) [![Forks](https://img.shields.io/github/forks/ThirdKeyAI/Symbiont?style=flat-square&color=blue)](https://github.com/ThirdKeyAI/Symbiont/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Rust-native runtime for executing AI agents and tools under explicit policy, identity, and audit controls.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ThirdKeyAI/Symbiont：ThirdKeyAI/Symbiont helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 81/100 |
+| production | 64/100 |
+| outlook | 74/100 |
 | adoption | 32/100 |
 | stars | 35/100 |
 | forks | 23/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

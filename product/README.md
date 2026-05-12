@@ -19,7 +19,7 @@
 | 9 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 59/100 |
 | 10 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 59/100 |
 | 11 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 54/100 |
-| 12 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 52/100 |
+| 12 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 49/100 |
 | 13 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 49/100 |
 | 14 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 44/100 |
 

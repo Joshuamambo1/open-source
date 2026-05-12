@@ -1,6 +1,6 @@
 # benjamimgois/goverlay
 
-[![Stars](https://img.shields.io/github/stars/benjamimgois/goverlay?style=flat-square&color=yellow)](https://github.com/benjamimgois/goverlay/stargazers) [![Forks](https://img.shields.io/github/forks/benjamimgois/goverlay?style=flat-square&color=blue)](https://github.com/benjamimgois/goverlay/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/benjamimgois/goverlay?style=flat-square&color=yellow)](https://github.com/benjamimgois/goverlay/stargazers) [![Forks](https://img.shields.io/github/forks/benjamimgois/goverlay?style=flat-square&color=blue)](https://github.com/benjamimgois/goverlay/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Pascal |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ benjamimgois/goverlay：benjamimgois/goverlay may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 68/100 |
+| production | 65/100 |
+| outlook | 61/100 |
 | adoption | 60/100 |
 | stars | 66/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

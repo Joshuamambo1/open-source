@@ -1,6 +1,6 @@
 # wallabag/wallabag
 
-[![Stars](https://img.shields.io/github/stars/wallabag/wallabag?style=flat-square&color=yellow)](https://github.com/wallabag/wallabag/stargazers) [![Forks](https://img.shields.io/github/forks/wallabag/wallabag?style=flat-square&color=blue)](https://github.com/wallabag/wallabag/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wallabag/wallabag?style=flat-square&color=yellow)](https://github.com/wallabag/wallabag/stargazers) [![Forks](https://img.shields.io/github/forks/wallabag/wallabag?style=flat-square&color=blue)](https://github.com/wallabag/wallabag/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.7k |
 | 🍴 **Forks** | 868 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Wallabag — это бесплатное приложение с открыт�
 
 ### 中文
 
-wallabag/wallabag：wallabag/wallabag may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+wallabag/wallabag：wallabag/wallabag may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ wallabag/wallabag：wallabag/wallabag may be useful when its README and activity
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ wallabag/wallabag：wallabag/wallabag may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 86/100 |
+| production | 71/100 |
+| outlook | 79/100 |
 | adoption | 83/100 |
 | stars | 87/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # spring-guides/tut-spring-security-and-angular-js
 
-[![Stars](https://img.shields.io/github/stars/spring-guides/tut-spring-security-and-angular-js?style=flat-square&color=yellow)](https://github.com/spring-guides/tut-spring-security-and-angular-js/stargazers) [![Forks](https://img.shields.io/github/forks/spring-guides/tut-spring-security-and-angular-js?style=flat-square&color=blue)](https://github.com/spring-guides/tut-spring-security-and-angular-js/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spring-guides/tut-spring-security-and-angular-js?style=flat-square&color=yellow)](https://github.com/spring-guides/tut-spring-security-and-angular-js/stargazers) [![Forks](https://img.shields.io/github/forks/spring-guides/tut-spring-security-and-angular-js?style=flat-square&color=blue)](https://github.com/spring-guides/tut-spring-security-and-angular-js/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Spring Security and Angular:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ spring-guides/tut-spring-security-and-angular-js：spring-guides/tut-spring-secu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 75/100 |
+| production | 67/100 |
+| outlook | 68/100 |
 | adoption | 72/100 |
 | stars | 69/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

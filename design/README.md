@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25.1k | JavaScript | 70/100 |
-| 2 | [murtaza-nasir/speakr](./murtaza-nasir-speakr.md) | ⭐ 3.1k | Python | 64/100 |
-| 3 | [JuliaGPU/Metal.jl](./juliagpu-metal.jl.md) | ⭐ 448 | Julia | 62/100 |
+| 2 | [JuliaGPU/Metal.jl](./juliagpu-metal.jl.md) | ⭐ 448 | Julia | 62/100 |
+| 3 | [murtaza-nasir/speakr](./murtaza-nasir-speakr.md) | ⭐ 3.1k | Python | 61/100 |
 | 4 | [CuteLeaf/Firefly](./cuteleaf-firefly.md) | ⭐ 937 | Astro | 61/100 |
 | 5 | [tw93/Waza](./tw93-waza.md) | ⭐ 4.5k | Shell | 60/100 |
 | 6 | [j178/prek](./j178-prek.md) | ⭐ 7.6k | Rust | 60/100 |

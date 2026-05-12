@@ -1,6 +1,6 @@
 # openstack/openstack-helm
 
-[![Stars](https://img.shields.io/github/stars/openstack/openstack-helm?style=flat-square&color=yellow)](https://github.com/openstack/openstack-helm/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/openstack-helm?style=flat-square&color=blue)](https://github.com/openstack/openstack-helm/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openstack/openstack-helm?style=flat-square&color=yellow)](https://github.com/openstack/openstack-helm/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/openstack-helm?style=flat-square&color=blue)](https://github.com/openstack/openstack-helm/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Helm charts for deploying OpenStack on Kubernetes. Mirror of code maintained at opendev.org.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 564 |
 | 🍴 **Forks** | 260 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ openstack/openstack-helm：openstack/openstack-helm helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 68/100 |
+| production | 65/100 |
+| outlook | 61/100 |
 | adoption | 59/100 |
 | stars | 59/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

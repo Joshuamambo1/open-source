@@ -2,17 +2,17 @@
 
 > Security, auth, encryption, privacy
 
-**47 projects** in this category.
+**48 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.5k | C | 74/100 |
-| 2 | [Lissy93/web-check](./lissy93-web-check.md) | ⭐ 33.1k | TypeScript | 73/100 |
-| 3 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.3k | C++ | 72/100 |
-| 4 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.7k | C | 72/100 |
-| 5 | [hahwul/dalfox](./hahwul-dalfox.md) | ⭐ 5k | Rust | 72/100 |
+| 1 | [Lissy93/web-check](./lissy93-web-check.md) | ⭐ 33.1k | TypeScript | 73/100 |
+| 2 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.3k | C++ | 72/100 |
+| 3 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.7k | C | 72/100 |
+| 4 | [hahwul/dalfox](./hahwul-dalfox.md) | ⭐ 5k | Rust | 72/100 |
+| 5 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.5k | C | 71/100 |
 | 6 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 507 | TypeScript | 71/100 |
 | 7 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.8k | TypeScript | 70/100 |
 | 8 | [zeek/zeek](./zeek-zeek.md) | ⭐ 7.6k | C++ | 70/100 |
@@ -40,21 +40,22 @@
 | 30 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.1k | TypeScript | 59/100 |
 | 31 | [EnergizedProtection/block](./energizedprotection-block.md) | ⭐ 2.8k | — | 59/100 |
 | 32 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 58/100 |
-| 33 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 58/100 |
-| 34 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 58/100 |
-| 35 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 58/100 |
-| 36 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 57/100 |
-| 37 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 57/100 |
-| 38 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 57/100 |
-| 39 | [PreTeXtBook/pretext](./pretextbook-pretext.md) | ⭐ 442 | XSLT | 56/100 |
-| 40 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 55/100 |
-| 41 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 54/100 |
-| 42 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 53/100 |
-| 43 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 53/100 |
-| 44 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 53/100 |
-| 45 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 53/100 |
-| 46 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 50/100 |
-| 47 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 49/100 |
+| 33 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 390 | Rust | 58/100 |
+| 34 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 58/100 |
+| 35 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 58/100 |
+| 36 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 58/100 |
+| 37 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 57/100 |
+| 38 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 57/100 |
+| 39 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 57/100 |
+| 40 | [PreTeXtBook/pretext](./pretextbook-pretext.md) | ⭐ 442 | XSLT | 56/100 |
+| 41 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 55/100 |
+| 42 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 54/100 |
+| 43 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 53/100 |
+| 44 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 53/100 |
+| 45 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 53/100 |
+| 46 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 53/100 |
+| 47 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 50/100 |
+| 48 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 49/100 |
 
 ---
 

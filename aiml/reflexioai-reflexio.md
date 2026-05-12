@@ -1,6 +1,6 @@
 # ReflexioAI/reflexio
 
-[![Stars](https://img.shields.io/github/stars/ReflexioAI/reflexio?style=flat-square&color=yellow)](https://github.com/ReflexioAI/reflexio/stargazers) [![Forks](https://img.shields.io/github/forks/ReflexioAI/reflexio?style=flat-square&color=blue)](https://github.com/ReflexioAI/reflexio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ReflexioAI/reflexio?style=flat-square&color=yellow)](https://github.com/ReflexioAI/reflexio/stargazers) [![Forks](https://img.shields.io/github/forks/ReflexioAI/reflexio?style=flat-square&color=blue)](https://github.com/ReflexioAI/reflexio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Make your agents improve themselves. Reflexio is an AI agent self-improvement harness that enables your AI agents to continuously learn from real user interactions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ReflexioAI/reflexio：ReflexioAI/reflexio helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 72/100 |
+| production | 65/100 |
+| outlook | 65/100 |
 | adoption | 41/100 |
 | stars | 46/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

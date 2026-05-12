@@ -1,6 +1,6 @@
 # joyce677/TrendRadar
 
-[![Stars](https://img.shields.io/github/stars/joyce677/TrendRadar?style=flat-square&color=yellow)](https://github.com/joyce677/TrendRadar/stargazers) [![Forks](https://img.shields.io/github/forks/joyce677/TrendRadar?style=flat-square&color=blue)](https://github.com/joyce677/TrendRadar/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joyce677/TrendRadar?style=flat-square&color=yellow)](https://github.com/joyce677/TrendRadar/stargazers) [![Forks](https://img.shields.io/github/forks/joyce677/TrendRadar?style=flat-square&color=blue)](https://github.com/joyce677/TrendRadar/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ joyce677/TrendRadar：joyce677/TrendRadar helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 74/100 |
+| production | 67/100 |
+| outlook | 67/100 |
 | adoption | 71/100 |
 | stars | 69/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

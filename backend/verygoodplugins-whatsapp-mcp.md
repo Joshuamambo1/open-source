@@ -1,6 +1,6 @@
 # verygoodplugins/whatsapp-mcp
 
-[![Stars](https://img.shields.io/github/stars/verygoodplugins/whatsapp-mcp?style=flat-square&color=yellow)](https://github.com/verygoodplugins/whatsapp-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/whatsapp-mcp?style=flat-square&color=blue)](https://github.com/verygoodplugins/whatsapp-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/verygoodplugins/whatsapp-mcp?style=flat-square&color=yellow)](https://github.com/verygoodplugins/whatsapp-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/whatsapp-mcp?style=flat-square&color=blue)](https://github.com/verygoodplugins/whatsapp-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > WhatsApp MCP server - Connect Claude to WhatsApp for reading and sending messages
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ verygoodplugins/whatsapp-mcp — это сервер‑модуль, позв�
 
 ### 中文
 
-verygoodplugins/whatsapp-mcp：verygoodplugins/whatsapp-mcp helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+verygoodplugins/whatsapp-mcp：verygoodplugins/whatsapp-mcp helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ verygoodplugins/whatsapp-mcp：verygoodplugins/whatsapp-mcp helps teams reuse se
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ verygoodplugins/whatsapp-mcp：verygoodplugins/whatsapp-mcp helps teams reuse se
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 78/100 |
-| production | 76/100 |
-| outlook | 72/100 |
+| production | 69/100 |
+| outlook | 65/100 |
 | adoption | 35/100 |
 | stars | 34/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

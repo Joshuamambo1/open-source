@@ -1,6 +1,6 @@
 # facebook/docusaurus
 
-[![Stars](https://img.shields.io/github/stars/facebook/docusaurus?style=flat-square&color=yellow)](https://github.com/facebook/docusaurus/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/docusaurus?style=flat-square&color=blue)](https://github.com/facebook/docusaurus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/docusaurus?style=flat-square&color=yellow)](https://github.com/facebook/docusaurus/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/docusaurus?style=flat-square&color=blue)](https://github.com/facebook/docusaurus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Easy to maintain open source documentation websites.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 64.9k |
 | 🍴 **Forks** | 9.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ facebook/docusaurus：facebook/docusaurus helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 96/100 |
+| quality | 91/100 |
 | integration | 46/100 |
-| production | 82/100 |
-| outlook | 86/100 |
+| production | 76/100 |
+| outlook | 79/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

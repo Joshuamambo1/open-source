@@ -1,6 +1,6 @@
 # kantord/SeaGOAT
 
-[![Stars](https://img.shields.io/github/stars/kantord/SeaGOAT?style=flat-square&color=yellow)](https://github.com/kantord/SeaGOAT/stargazers) [![Forks](https://img.shields.io/github/forks/kantord/SeaGOAT?style=flat-square&color=blue)](https://github.com/kantord/SeaGOAT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kantord/SeaGOAT?style=flat-square&color=yellow)](https://github.com/kantord/SeaGOAT/stargazers) [![Forks](https://img.shields.io/github/forks/kantord/SeaGOAT?style=flat-square&color=blue)](https://github.com/kantord/SeaGOAT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > local-first semantic code search engine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SeaGOAT is a local‑first semantic code search engine that lets developers quic
 
 ### 中文
 
-kantord/SeaGOAT：kantord/SeaGOAT helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+kantord/SeaGOAT：kantord/SeaGOAT helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kantord/SeaGOAT：kantord/SeaGOAT helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ kantord/SeaGOAT：kantord/SeaGOAT helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 79/100 |
+| production | 73/100 |
+| outlook | 72/100 |
 | adoption | 61/100 |
 | stars | 66/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

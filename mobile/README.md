@@ -9,16 +9,16 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [immich-app/immich](./immich-app-immich.md) | ⭐ 99.9k | TypeScript | 80/100 |
-| 2 | [TeamNewPipe/NewPipe](./teamnewpipe-newpipe.md) | ⭐ 38k | Java | 68/100 |
-| 3 | [home-assistant/android](./home-assistant-android.md) | ⭐ 3.6k | Kotlin | 67/100 |
-| 4 | [xybp888/iOS-SDKs](./xybp888-ios-sdks.md) | ⭐ 873 | Objective-C | 67/100 |
-| 5 | [sameerasw/essentials](./sameerasw-essentials.md) | ⭐ 1.6k | Kotlin | 67/100 |
-| 6 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 113.8k | Rust | 66/100 |
-| 7 | [skylot/jadx](./skylot-jadx.md) | ⭐ 48.4k | Java | 66/100 |
-| 8 | [firebase/flutterfire](./firebase-flutterfire.md) | ⭐ 9.2k | Dart | 66/100 |
-| 9 | [SukkaW/Surge](./sukkaw-surge.md) | ⭐ 4k | TypeScript | 66/100 |
-| 10 | [dotnet/macios](./dotnet-macios.md) | ⭐ 2.9k | C# | 66/100 |
-| 11 | [flame-engine/flame](./flame-engine-flame.md) | ⭐ 10.6k | Dart | 65/100 |
+| 2 | [home-assistant/android](./home-assistant-android.md) | ⭐ 3.6k | Kotlin | 67/100 |
+| 3 | [xybp888/iOS-SDKs](./xybp888-ios-sdks.md) | ⭐ 873 | Objective-C | 67/100 |
+| 4 | [sameerasw/essentials](./sameerasw-essentials.md) | ⭐ 1.6k | Kotlin | 67/100 |
+| 5 | [rustdesk/rustdesk](./rustdesk-rustdesk.md) | ⭐ 113.8k | Rust | 66/100 |
+| 6 | [skylot/jadx](./skylot-jadx.md) | ⭐ 48.4k | Java | 66/100 |
+| 7 | [firebase/flutterfire](./firebase-flutterfire.md) | ⭐ 9.2k | Dart | 66/100 |
+| 8 | [SukkaW/Surge](./sukkaw-surge.md) | ⭐ 4k | TypeScript | 66/100 |
+| 9 | [dotnet/macios](./dotnet-macios.md) | ⭐ 2.9k | C# | 66/100 |
+| 10 | [flame-engine/flame](./flame-engine-flame.md) | ⭐ 10.6k | Dart | 65/100 |
+| 11 | [TeamNewPipe/NewPipe](./teamnewpipe-newpipe.md) | ⭐ 38k | Java | 65/100 |
 | 12 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 62.4k | Markdown | 65/100 |
 | 13 | [mavlink/qgroundcontrol](./mavlink-qgroundcontrol.md) | ⭐ 4.6k | C++ | 65/100 |
 | 14 | [offa/android-foss](./offa-android-foss.md) | ⭐ 10k | Python | 64/100 |
@@ -86,13 +86,13 @@
 | 76 | [christianrowlands/android-network-survey](./christianrowlands-android-network-survey.md) | ⭐ 479 | Java | 53/100 |
 | 77 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 53/100 |
 | 78 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 53/100 |
-| 79 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 53/100 |
-| 80 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 52/100 |
-| 81 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 52/100 |
-| 82 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 52/100 |
-| 83 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 52/100 |
-| 84 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 51/100 |
-| 85 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 50/100 |
+| 79 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 52/100 |
+| 80 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 52/100 |
+| 81 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 52/100 |
+| 82 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 52/100 |
+| 83 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 51/100 |
+| 84 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 50/100 |
+| 85 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 50/100 |
 | 86 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 41/100 |
 
 ---

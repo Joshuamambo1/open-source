@@ -1,6 +1,6 @@
 # h4ckf0r0day/obscura
 
-[![Stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=flat-square&color=yellow)](https://github.com/h4ckf0r0day/obscura/stargazers) [![Forks](https://img.shields.io/github/forks/h4ckf0r0day/obscura?style=flat-square&color=blue)](https://github.com/h4ckf0r0day/obscura/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=flat-square&color=yellow)](https://github.com/h4ckf0r0day/obscura/stargazers) [![Forks](https://img.shields.io/github/forks/h4ckf0r0day/obscura?style=flat-square&color=blue)](https://github.com/h4ckf0r0day/obscura/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The headless browser for AI agents and web scraping
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.3k |
 | 🍴 **Forks** | 734 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ h4ckf0r0day/obscura — это легковесный headless‑браузе�
 
 ### 中文
 
-h4ckf0r0day/obscura：h4ckf0r0day/obscura helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+h4ckf0r0day/obscura：h4ckf0r0day/obscura helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ h4ckf0r0day/obscura：h4ckf0r0day/obscura helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ h4ckf0r0day/obscura：h4ckf0r0day/obscura helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 80/100 |
+| production | 69/100 |
+| outlook | 73/100 |
 | adoption | 82/100 |
 | stars | 86/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

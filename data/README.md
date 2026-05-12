@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**167 projects** in this category.
+**168 projects** in this category.
 
 ## Projects
 
@@ -98,35 +98,35 @@
 | 88 | [facebookresearch/balance](./facebookresearch-balance.md) | ⭐ 747 | Python | 61/100 |
 | 89 | [RediSearch/RediSearch](./redisearch-redisearch.md) | ⭐ 6.1k | C | 60/100 |
 | 90 | [Sequel-Ace/Sequel-Ace](./sequel-ace-sequel-ace.md) | ⭐ 7.4k | Objective-C | 60/100 |
-| 91 | [rweekly/rweekly.org](./rweekly-rweekly.org.md) | ⭐ 813 | Rez | 60/100 |
-| 92 | [superfly/corrosion](./superfly-corrosion.md) | ⭐ 1.7k | Rust | 60/100 |
-| 93 | [WerWolv/ImHex-Patterns](./werwolv-imhex-patterns.md) | ⭐ 958 | Rust | 60/100 |
-| 94 | [1313e/CMasher](./1313e-cmasher.md) | ⭐ 482 | Python | 60/100 |
-| 95 | [lakekeeper/lakekeeper](./lakekeeper-lakekeeper.md) | ⭐ 1.3k | Rust | 60/100 |
-| 96 | [wavelog/wavelog](./wavelog-wavelog.md) | ⭐ 428 | PHP | 60/100 |
-| 97 | [ormsgpack/ormsgpack](./ormsgpack-ormsgpack.md) | ⭐ 392 | Rust | 60/100 |
-| 98 | [SteamDeckHomebrew/decky-plugin-database](./steamdeckhomebrew-decky-plugin-database.md) | ⭐ 316 | Shell | 60/100 |
-| 99 | [mdn/browser-compat-data](./mdn-browser-compat-data.md) | ⭐ 5.7k | JSON | 59/100 |
-| 100 | [dask/distributed](./dask-distributed.md) | ⭐ 1.7k | Python | 59/100 |
-| 101 | [OpenDDS/OpenDDS](./opendds-opendds.md) | ⭐ 1.5k | C++ | 59/100 |
-| 102 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 514 | C | 59/100 |
-| 103 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 725 | Python | 59/100 |
-| 104 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 498 | R | 59/100 |
-| 105 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 611 | Rust | 59/100 |
-| 106 | [AdrianEddy/telemetry-parser](./adrianeddy-telemetry-parser.md) | ⭐ 264 | Rust | 59/100 |
-| 107 | [h2database/h2database](./h2database-h2database.md) | ⭐ 4.6k | Java | 58/100 |
-| 108 | [PRQL/prql](./prql-prql.md) | ⭐ 10.8k | Rust | 58/100 |
-| 109 | [OpenGeoscience/geojs](./opengeoscience-geojs.md) | ⭐ 470 | JavaScript | 58/100 |
-| 110 | [apache/tez](./apache-tez.md) | ⭐ 514 | Java | 58/100 |
-| 111 | [Zeugma440/atldotnet](./zeugma440-atldotnet.md) | ⭐ 554 | C# | 58/100 |
-| 112 | [magda-io/magda](./magda-io-magda.md) | ⭐ 597 | JavaScript | 58/100 |
-| 113 | [dennisss/dacha](./dennisss-dacha.md) | ⭐ 162 | Rust | 58/100 |
-| 114 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 601 | Python | 58/100 |
-| 115 | [JanKaul/iceberg-rust](./jankaul-iceberg-rust.md) | ⭐ 235 | Rust | 58/100 |
-| 116 | [apache/pinot](./apache-pinot.md) | ⭐ 6.1k | Java | 57/100 |
-| 117 | [facebookincubator/velox](./facebookincubator-velox.md) | ⭐ 4.1k | C++ | 57/100 |
-| 118 | [pgdogdev/pgdog](./pgdogdev-pgdog.md) | ⭐ 4.3k | Rust | 57/100 |
-| 119 | [posit-dev/positron](./posit-dev-positron.md) | ⭐ 4.1k | TypeScript | 57/100 |
+| 91 | [superfly/corrosion](./superfly-corrosion.md) | ⭐ 1.7k | Rust | 60/100 |
+| 92 | [WerWolv/ImHex-Patterns](./werwolv-imhex-patterns.md) | ⭐ 958 | Rust | 60/100 |
+| 93 | [1313e/CMasher](./1313e-cmasher.md) | ⭐ 482 | Python | 60/100 |
+| 94 | [lakekeeper/lakekeeper](./lakekeeper-lakekeeper.md) | ⭐ 1.3k | Rust | 60/100 |
+| 95 | [wavelog/wavelog](./wavelog-wavelog.md) | ⭐ 428 | PHP | 60/100 |
+| 96 | [ormsgpack/ormsgpack](./ormsgpack-ormsgpack.md) | ⭐ 392 | Rust | 60/100 |
+| 97 | [SteamDeckHomebrew/decky-plugin-database](./steamdeckhomebrew-decky-plugin-database.md) | ⭐ 316 | Shell | 60/100 |
+| 98 | [mdn/browser-compat-data](./mdn-browser-compat-data.md) | ⭐ 5.7k | JSON | 59/100 |
+| 99 | [dask/distributed](./dask-distributed.md) | ⭐ 1.7k | Python | 59/100 |
+| 100 | [OpenDDS/OpenDDS](./opendds-opendds.md) | ⭐ 1.5k | C++ | 59/100 |
+| 101 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 514 | C | 59/100 |
+| 102 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 725 | Python | 59/100 |
+| 103 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 498 | R | 59/100 |
+| 104 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 611 | Rust | 59/100 |
+| 105 | [AdrianEddy/telemetry-parser](./adrianeddy-telemetry-parser.md) | ⭐ 264 | Rust | 59/100 |
+| 106 | [h2database/h2database](./h2database-h2database.md) | ⭐ 4.6k | Java | 58/100 |
+| 107 | [PRQL/prql](./prql-prql.md) | ⭐ 10.8k | Rust | 58/100 |
+| 108 | [OpenGeoscience/geojs](./opengeoscience-geojs.md) | ⭐ 470 | JavaScript | 58/100 |
+| 109 | [apache/tez](./apache-tez.md) | ⭐ 514 | Java | 58/100 |
+| 110 | [Zeugma440/atldotnet](./zeugma440-atldotnet.md) | ⭐ 554 | C# | 58/100 |
+| 111 | [magda-io/magda](./magda-io-magda.md) | ⭐ 597 | JavaScript | 58/100 |
+| 112 | [dennisss/dacha](./dennisss-dacha.md) | ⭐ 162 | Rust | 58/100 |
+| 113 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 601 | Python | 58/100 |
+| 114 | [JanKaul/iceberg-rust](./jankaul-iceberg-rust.md) | ⭐ 235 | Rust | 58/100 |
+| 115 | [apache/pinot](./apache-pinot.md) | ⭐ 6.1k | Java | 57/100 |
+| 116 | [facebookincubator/velox](./facebookincubator-velox.md) | ⭐ 4.1k | C++ | 57/100 |
+| 117 | [pgdogdev/pgdog](./pgdogdev-pgdog.md) | ⭐ 4.3k | Rust | 57/100 |
+| 118 | [posit-dev/positron](./posit-dev-positron.md) | ⭐ 4.1k | TypeScript | 57/100 |
+| 119 | [rweekly/rweekly.org](./rweekly-rweekly.org.md) | ⭐ 813 | Rez | 57/100 |
 | 120 | [trynova/nova](./trynova-nova.md) | ⭐ 1.9k | Rust | 57/100 |
 | 121 | [pacman82/odbc2parquet](./pacman82-odbc2parquet.md) | ⭐ 253 | Rust | 57/100 |
 | 122 | [rpbouman/huey](./rpbouman-huey.md) | ⭐ 571 | JavaScript | 57/100 |
@@ -170,11 +170,12 @@
 | 160 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 135 | Rust | 50/100 |
 | 161 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 49/100 |
 | 162 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 48/100 |
-| 163 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
-| 164 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 41/100 |
-| 165 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 38/100 |
-| 166 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 38/100 |
-| 167 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
+| 163 | [swytchdb/swytch](./swytchdb-swytch.md) | ⭐ — | — | 45/100 |
+| 164 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
+| 165 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 41/100 |
+| 166 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 38/100 |
+| 167 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 38/100 |
+| 168 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
 
 ---
 

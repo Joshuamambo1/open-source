@@ -1,6 +1,6 @@
 # rizsotto/Bear
 
-[![Stars](https://img.shields.io/github/stars/rizsotto/Bear?style=flat-square&color=yellow)](https://github.com/rizsotto/Bear/stargazers) [![Forks](https://img.shields.io/github/forks/rizsotto/Bear?style=flat-square&color=blue)](https://github.com/rizsotto/Bear/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rizsotto/Bear?style=flat-square&color=yellow)](https://github.com/rizsotto/Bear/stargazers) [![Forks](https://img.shields.io/github/forks/rizsotto/Bear?style=flat-square&color=blue)](https://github.com/rizsotto/Bear/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Bear is a tool that generates a compilation database for clang tooling.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 363 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rizsotto/Bear：rizsotto/Bear helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 76/100 |
 | stars | 81/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

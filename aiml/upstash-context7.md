@@ -1,6 +1,6 @@
 # upstash/context7
 
-[![Stars](https://img.shields.io/github/stars/upstash/context7?style=flat-square&color=yellow)](https://github.com/upstash/context7/stargazers) [![Forks](https://img.shields.io/github/forks/upstash/context7?style=flat-square&color=blue)](https://github.com/upstash/context7/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/upstash/context7?style=flat-square&color=yellow)](https://github.com/upstash/context7/stargazers) [![Forks](https://img.shields.io/github/forks/upstash/context7?style=flat-square&color=blue)](https://github.com/upstash/context7/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 54.9k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ upstash/context7：upstash/context7 helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 62/100 |
-| production | 83/100 |
-| outlook | 86/100 |
+| production | 76/100 |
+| outlook | 79/100 |
 | adoption | 96/100 |
 | stars | 100/100 |
 | forks | 85/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

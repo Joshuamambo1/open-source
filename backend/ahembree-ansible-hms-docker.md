@@ -1,6 +1,6 @@
 # ahembree/ansible-hms-docker
 
-[![Stars](https://img.shields.io/github/stars/ahembree/ansible-hms-docker?style=flat-square&color=yellow)](https://github.com/ahembree/ansible-hms-docker/stargazers) [![Forks](https://img.shields.io/github/forks/ahembree/ansible-hms-docker?style=flat-square&color=blue)](https://github.com/ahembree/ansible-hms-docker/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahembree/ansible-hms-docker?style=flat-square&color=yellow)](https://github.com/ahembree/ansible-hms-docker/stargazers) [![Forks](https://img.shields.io/github/forks/ahembree/ansible-hms-docker?style=flat-square&color=blue)](https://github.com/ahembree/ansible-hms-docker/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Ansible playbook for an orchestrated Home Media Server deployment
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 452 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Jinja |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **ahembree/ansible-hms-docker** представля�
 
 ### 中文
 
-ahembree/ansible-hms-docker：ahembree/ansible-hms-docker helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ahembree/ansible-hms-docker：ahembree/ansible-hms-docker helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ahembree/ansible-hms-docker：ahembree/ansible-hms-docker helps teams reuse serv
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ahembree/ansible-hms-docker：ahembree/ansible-hms-docker helps teams reuse serv
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 69/100 |
+| outlook | 73/100 |
 | adoption | 53/100 |
 | stars | 57/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

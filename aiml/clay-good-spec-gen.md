@@ -1,6 +1,6 @@
 # clay-good/spec-gen
 
-[![Stars](https://img.shields.io/github/stars/clay-good/spec-gen?style=flat-square&color=yellow)](https://github.com/clay-good/spec-gen/stargazers) [![Forks](https://img.shields.io/github/forks/clay-good/spec-gen?style=flat-square&color=blue)](https://github.com/clay-good/spec-gen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clay-good/spec-gen?style=flat-square&color=yellow)](https://github.com/clay-good/spec-gen/stargazers) [![Forks](https://img.shields.io/github/forks/clay-good/spec-gen?style=flat-square&color=blue)](https://github.com/clay-good/spec-gen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Automate the reverse-engineering of your codebase into structured OpenSpec specifications using static analysis and LLM-powered generation to extract business logic, verify architectural accuracy, and maintain a living source of truth.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ clay-good/spec-gen automates the reverse‑engineering of a codebase into struct
 
 ### 中文
 
-clay-good/spec-gen：clay-good/spec-gen helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+clay-good/spec-gen：clay-good/spec-gen helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ clay-good/spec-gen：clay-good/spec-gen helps add AI capability without starting
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ clay-good/spec-gen：clay-good/spec-gen helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 41/100 |
 | stars | 44/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

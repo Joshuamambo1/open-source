@@ -1,6 +1,6 @@
 # chinawsb/delphi-complier-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/chinawsb/delphi-complier-mcp-server?style=flat-square&color=yellow)](https://github.com/chinawsb/delphi-complier-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/chinawsb/delphi-complier-mcp-server?style=flat-square&color=blue)](https://github.com/chinawsb/delphi-complier-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chinawsb/delphi-complier-mcp-server?style=flat-square&color=yellow)](https://github.com/chinawsb/delphi-complier-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/chinawsb/delphi-complier-mcp-server?style=flat-square&color=blue)](https://github.com/chinawsb/delphi-complier-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Delphi Complier MCP Server for AI agent, Used for compile project and file to check ai code result.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ chinawsb/delphi-complier-mcp-server：chinawsb/delphi-complier-mcp-server helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 68/100 |
+| production | 63/100 |
+| outlook | 61/100 |
 | adoption | 34/100 |
 | stars | 36/100 |
 | forks | 28/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # nodiscc/xsrv
 
-[![Stars](https://img.shields.io/github/stars/nodiscc/xsrv?style=flat-square&color=yellow)](https://github.com/nodiscc/xsrv/stargazers) [![Forks](https://img.shields.io/github/forks/nodiscc/xsrv?style=flat-square&color=blue)](https://github.com/nodiscc/xsrv/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nodiscc/xsrv?style=flat-square&color=yellow)](https://github.com/nodiscc/xsrv/stargazers) [![Forks](https://img.shields.io/github/forks/nodiscc/xsrv?style=flat-square&color=blue)](https://github.com/nodiscc/xsrv/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > [mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 400 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Jinja |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nodiscc/xsrv：nodiscc/xsrv helps teams reuse service infrastructure instead of 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 79/100 |
+| production | 67/100 |
+| outlook | 72/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -2,7 +2,7 @@
 
 > 
 
-**96 projects** in this category.
+**97 projects** in this category.
 
 ## Projects
 
@@ -86,24 +86,25 @@
 | 76 | [alpyxn/aeterna](./alpyxn-aeterna.md) | ⭐ 247 | JavaScript | 63/100 |
 | 77 | [LiveHelperChat/livehelperchat](./livehelperchat-livehelperchat.md) | ⭐ 2.2k | PHP | 62/100 |
 | 78 | [ThingsPanel/thingspanel-backend-community](./thingspanel-thingspanel-backend-community.md) | ⭐ 548 | Go | 62/100 |
-| 79 | [strands-labs/robots](./strands-labs-robots.md) | ⭐ 49 | Python | 61/100 |
-| 80 | [fronalabs/frona](./fronalabs-frona.md) | ⭐ 108 | Rust | 61/100 |
-| 81 | [ros-controls/ros2_controllers](./ros-controls-ros2-controllers.md) | ⭐ 752 | C++ | 60/100 |
-| 82 | [heal-dev/heal-playwright-tracer](./heal-dev-heal-playwright-tracer.md) | ⭐ 35 | JavaScript | 59/100 |
-| 83 | [TzuHuanTai/RaspberryPi-WebRTC](./tzuhuantai-raspberrypi-webrtc.md) | ⭐ 975 | C++ | 59/100 |
-| 84 | [ipverse/as-ip-blocks](./ipverse-as-ip-blocks.md) | ⭐ 453 | — | 58/100 |
-| 85 | [NeoGeographyToolkit/StereoPipeline](./neogeographytoolkit-stereopipeline.md) | ⭐ 592 | C++ | 58/100 |
-| 86 | [PhotonVision/photonvision](./photonvision-photonvision.md) | ⭐ 411 | Java | 58/100 |
-| 87 | [Big-Sh0t114/NachoBot](./big-sh0t114-nachobot.md) | ⭐ 102 | Python | 58/100 |
-| 88 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 449 | JavaScript | 57/100 |
-| 89 | [tickstem/python](./tickstem-python.md) | ⭐ — | — | 56/100 |
-| 90 | [mindeng/nom-exif](./mindeng-nom-exif.md) | ⭐ 105 | Rust | 55/100 |
-| 91 | [nix-community/nix-ld](./nix-community-nix-ld.md) | ⭐ 1.6k | Rust | 55/100 |
-| 92 | [visionworkbench/visionworkbench](./visionworkbench-visionworkbench.md) | ⭐ 502 | C++ | 54/100 |
-| 93 | [aadya940/orbit-ui](./aadya940-orbit-ui.md) | ⭐ — | — | 49/100 |
-| 94 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 48/100 |
-| 95 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
-| 96 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
+| 79 | [posit-dev/chatlas](./posit-dev-chatlas.md) | ⭐ 159 | Python | 61/100 |
+| 80 | [strands-labs/robots](./strands-labs-robots.md) | ⭐ 49 | Python | 61/100 |
+| 81 | [fronalabs/frona](./fronalabs-frona.md) | ⭐ 108 | Rust | 61/100 |
+| 82 | [ros-controls/ros2_controllers](./ros-controls-ros2-controllers.md) | ⭐ 752 | C++ | 60/100 |
+| 83 | [heal-dev/heal-playwright-tracer](./heal-dev-heal-playwright-tracer.md) | ⭐ 35 | JavaScript | 59/100 |
+| 84 | [TzuHuanTai/RaspberryPi-WebRTC](./tzuhuantai-raspberrypi-webrtc.md) | ⭐ 975 | C++ | 59/100 |
+| 85 | [ipverse/as-ip-blocks](./ipverse-as-ip-blocks.md) | ⭐ 453 | — | 58/100 |
+| 86 | [NeoGeographyToolkit/StereoPipeline](./neogeographytoolkit-stereopipeline.md) | ⭐ 592 | C++ | 58/100 |
+| 87 | [PhotonVision/photonvision](./photonvision-photonvision.md) | ⭐ 411 | Java | 58/100 |
+| 88 | [Big-Sh0t114/NachoBot](./big-sh0t114-nachobot.md) | ⭐ 102 | Python | 58/100 |
+| 89 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 449 | JavaScript | 57/100 |
+| 90 | [tickstem/python](./tickstem-python.md) | ⭐ — | — | 56/100 |
+| 91 | [mindeng/nom-exif](./mindeng-nom-exif.md) | ⭐ 105 | Rust | 55/100 |
+| 92 | [nix-community/nix-ld](./nix-community-nix-ld.md) | ⭐ 1.6k | Rust | 55/100 |
+| 93 | [visionworkbench/visionworkbench](./visionworkbench-visionworkbench.md) | ⭐ 502 | C++ | 54/100 |
+| 94 | [aadya940/orbit-ui](./aadya940-orbit-ui.md) | ⭐ — | — | 49/100 |
+| 95 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 48/100 |
+| 96 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
+| 97 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
 
 ---
 

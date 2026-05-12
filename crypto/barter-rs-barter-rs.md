@@ -1,6 +1,6 @@
 # barter-rs/barter-rs
 
-[![Stars](https://img.shields.io/github/stars/barter-rs/barter-rs?style=flat-square&color=yellow)](https://github.com/barter-rs/barter-rs/stargazers) [![Forks](https://img.shields.io/github/forks/barter-rs/barter-rs?style=flat-square&color=blue)](https://github.com/barter-rs/barter-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/barter-rs/barter-rs?style=flat-square&color=yellow)](https://github.com/barter-rs/barter-rs/stargazers) [![Forks](https://img.shields.io/github/forks/barter-rs/barter-rs?style=flat-square&color=blue)](https://github.com/barter-rs/barter-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Rust framework for building event-driven live-trading & backtesting systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 336 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Barter‑rs — это открытый фреймворк на Rust, пред
 
 ### 中文
 
-barter-rs/barter-rs：barter-rs/barter-rs helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+barter-rs/barter-rs：barter-rs/barter-rs helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ barter-rs/barter-rs：barter-rs/barter-rs helps prototype or inspect blockchain 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ barter-rs/barter-rs：barter-rs/barter-rs helps prototype or inspect blockchain 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 84/100 |
+| production | 72/100 |
+| outlook | 77/100 |
 | adoption | 69/100 |
 | stars | 71/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

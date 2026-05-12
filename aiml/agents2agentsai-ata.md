@@ -1,6 +1,6 @@
 # Agents2AgentsAI/ata
 
-[![Stars](https://img.shields.io/github/stars/Agents2AgentsAI/ata?style=flat-square&color=yellow)](https://github.com/Agents2AgentsAI/ata/stargazers) [![Forks](https://img.shields.io/github/forks/Agents2AgentsAI/ata?style=flat-square&color=blue)](https://github.com/Agents2AgentsAI/ata/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agents2AgentsAI/ata?style=flat-square&color=yellow)](https://github.com/Agents2AgentsAI/ata/stargazers) [![Forks](https://img.shields.io/github/forks/Agents2AgentsAI/ata?style=flat-square&color=blue)](https://github.com/Agents2AgentsAI/ata/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI agents for solving engineering and research problems end to end
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 88 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ Agents2AgentsAI/ata：Agents2AgentsAI/ata helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 65/100 |
+| production | 59/100 |
+| outlook | 58/100 |
 | adoption | 35/100 |
 | stars | 41/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

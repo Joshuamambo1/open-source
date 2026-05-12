@@ -1,6 +1,6 @@
 # taishi-i/awesome-japanese-nlp-resources
 
-[![Stars](https://img.shields.io/github/stars/taishi-i/awesome-japanese-nlp-resources?style=flat-square&color=yellow)](https://github.com/taishi-i/awesome-japanese-nlp-resources/stargazers) [![Forks](https://img.shields.io/github/forks/taishi-i/awesome-japanese-nlp-resources?style=flat-square&color=blue)](https://github.com/taishi-i/awesome-japanese-nlp-resources/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taishi-i/awesome-japanese-nlp-resources?style=flat-square&color=yellow)](https://github.com/taishi-i/awesome-japanese-nlp-resources/stargazers) [![Forks](https://img.shields.io/github/forks/taishi-i/awesome-japanese-nlp-resources?style=flat-square&color=blue)](https://github.com/taishi-i/awesome-japanese-nlp-resources/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of resources dedicated to Python libraries, LLMs, dictionaries, and corpora of NLP for Japanese
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 952 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ awesome‑japanese‑nlp‑resources — это открытый катало�
 
 ### 中文
 
-taishi-i/awesome-japanese-nlp-resources：taishi-i/awesome-japanese-nlp-resources helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+taishi-i/awesome-japanese-nlp-resources：taishi-i/awesome-japanese-nlp-resources helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ taishi-i/awesome-japanese-nlp-resources：taishi-i/awesome-japanese-nlp-resource
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ taishi-i/awesome-japanese-nlp-resources：taishi-i/awesome-japanese-nlp-resource
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # MayersScott/rkn-block-checker
 
-[![Stars](https://img.shields.io/github/stars/MayersScott/rkn-block-checker?style=flat-square&color=yellow)](https://github.com/MayersScott/rkn-block-checker/stargazers) [![Forks](https://img.shields.io/github/forks/MayersScott/rkn-block-checker?style=flat-square&color=blue)](https://github.com/MayersScott/rkn-block-checker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MayersScott/rkn-block-checker?style=flat-square&color=yellow)](https://github.com/MayersScott/rkn-block-checker/stargazers) [![Forks](https://img.shields.io/github/forks/MayersScott/rkn-block-checker?style=flat-square&color=blue)](https://github.com/MayersScott/rkn-block-checker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 925 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MayersScott/rkn-block-checker — это открытый инструмент
 
 ### 中文
 
-MayersScott/rkn-block-checker：MayersScott/rkn-block-checker helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+MayersScott/rkn-block-checker：MayersScott/rkn-block-checker helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ MayersScott/rkn-block-checker：MayersScott/rkn-block-checker helps turn isolate
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ MayersScott/rkn-block-checker：MayersScott/rkn-block-checker helps turn isolate
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 72/100 |
+| outlook | 74/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ai-collection/ai-collection
 
-[![Stars](https://img.shields.io/github/stars/ai-collection/ai-collection?style=flat-square&color=yellow)](https://github.com/ai-collection/ai-collection/stargazers) [![Forks](https://img.shields.io/github/forks/ai-collection/ai-collection?style=flat-square&color=blue)](https://github.com/ai-collection/ai-collection/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-collection/ai-collection?style=flat-square&color=yellow)](https://github.com/ai-collection/ai-collection/stargazers) [![Forks](https://img.shields.io/github/forks/ai-collection/ai-collection?style=flat-square&color=blue)](https://github.com/ai-collection/ai-collection/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.9k |
 | 🍴 **Forks** | 974 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **ai-collection** repository curates a comprehensive, community‑maintained
 
 ### 中文
 
-ai-collection/ai-collection：ai-collection/ai-collection helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ai-collection/ai-collection：ai-collection/ai-collection helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ai-collection/ai-collection：ai-collection/ai-collection helps add AI capabilit
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ ai-collection/ai-collection：ai-collection/ai-collection helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 92/100 |
+| quality | 87/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 84/100 |
+| production | 72/100 |
+| outlook | 77/100 |
 | adoption | 81/100 |
 | stars | 84/100 |
 | forks | 75/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

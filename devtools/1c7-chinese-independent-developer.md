@@ -1,6 +1,6 @@
 # 1c7/chinese-independent-developer
 
-[![Stars](https://img.shields.io/github/stars/1c7/chinese-independent-developer?style=flat-square&color=yellow)](https://github.com/1c7/chinese-independent-developer/stargazers) [![Forks](https://img.shields.io/github/forks/1c7/chinese-independent-developer?style=flat-square&color=blue)](https://github.com/1c7/chinese-independent-developer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1c7/chinese-independent-developer?style=flat-square&color=yellow)](https://github.com/1c7/chinese-independent-developer/stargazers) [![Forks](https://img.shields.io/github/forks/1c7/chinese-independent-developer?style=flat-square&color=blue)](https://github.com/1c7/chinese-independent-developer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48.4k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **1c7/chinese-independent-developer** repository is a curated, community‑m
 
 ### 中文
 
-1c7/chinese-independent-developer：1c7/chinese-independent-developer helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+1c7/chinese-independent-developer：1c7/chinese-independent-developer helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ The **1c7/chinese-independent-developer** repository is a curated, community‑m
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ The **1c7/chinese-independent-developer** repository is a curated, community‑m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 81/100 |
+| production | 71/100 |
+| outlook | 74/100 |
 | adoption | 97/100 |
 | stars | 100/100 |
 | forks | 90/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

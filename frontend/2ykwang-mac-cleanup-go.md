@@ -1,6 +1,6 @@
 # 2ykwang/mac-cleanup-go
 
-[![Stars](https://img.shields.io/github/stars/2ykwang/mac-cleanup-go?style=flat-square&color=yellow)](https://github.com/2ykwang/mac-cleanup-go/stargazers) [![Forks](https://img.shields.io/github/forks/2ykwang/mac-cleanup-go?style=flat-square&color=blue)](https://github.com/2ykwang/mac-cleanup-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/2ykwang/mac-cleanup-go?style=flat-square&color=yellow)](https://github.com/2ykwang/mac-cleanup-go/stargazers) [![Forks](https://img.shields.io/github/forks/2ykwang/mac-cleanup-go?style=flat-square&color=blue)](https://github.com/2ykwang/mac-cleanup-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > TUI macOS cleaner that scans caches/logs, shows sizes/paths, lets you select what to delete before Trash.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Frontend · DevTools
 
 ### 中文
 
-2ykwang/mac-cleanup-go：2ykwang/mac-cleanup-go helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+2ykwang/mac-cleanup-go：2ykwang/mac-cleanup-go helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Frontend · DevTools
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Frontend · DevTools
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 78/100 |
+| production | 71/100 |
+| outlook | 71/100 |
 | adoption | 47/100 |
 | stars | 55/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

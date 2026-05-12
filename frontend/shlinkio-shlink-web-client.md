@@ -1,6 +1,6 @@
 # shlinkio/shlink-web-client
 
-[![Stars](https://img.shields.io/github/stars/shlinkio/shlink-web-client?style=flat-square&color=yellow)](https://github.com/shlinkio/shlink-web-client/stargazers) [![Forks](https://img.shields.io/github/forks/shlinkio/shlink-web-client?style=flat-square&color=blue)](https://github.com/shlinkio/shlink-web-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shlinkio/shlink-web-client?style=flat-square&color=yellow)](https://github.com/shlinkio/shlink-web-client/stargazers) [![Forks](https://img.shields.io/github/forks/shlinkio/shlink-web-client?style=flat-square&color=blue)](https://github.com/shlinkio/shlink-web-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A React-based client application for Shlink
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ shlinkio/shlink-web-client — это клиентское приложени�
 
 ### 中文
 
-shlinkio/shlink-web-client：shlinkio/shlink-web-client helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+shlinkio/shlink-web-client：shlinkio/shlink-web-client helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ shlinkio/shlink-web-client：shlinkio/shlink-web-client helps ship user-facing i
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ shlinkio/shlink-web-client：shlinkio/shlink-web-client helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 78/100 |
-| production | 81/100 |
-| outlook | 83/100 |
+| production | 74/100 |
+| outlook | 76/100 |
 | adoption | 54/100 |
 | stars | 55/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

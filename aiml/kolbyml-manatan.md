@@ -1,6 +1,6 @@
 # KolbyML/Manatan
 
-[![Stars](https://img.shields.io/github/stars/KolbyML/Manatan?style=flat-square&color=yellow)](https://github.com/KolbyML/Manatan/stargazers) [![Forks](https://img.shields.io/github/forks/KolbyML/Manatan?style=flat-square&color=blue)](https://github.com/KolbyML/Manatan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KolbyML/Manatan?style=flat-square&color=yellow)](https://github.com/KolbyML/Manatan/stargazers) [![Forks](https://img.shields.io/github/forks/KolbyML/Manatan?style=flat-square&color=blue)](https://github.com/KolbyML/Manatan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Seamless immersion language learning for anime, manga, novels on all platforms
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ KolbyML/Manatan：KolbyML/Manatan helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 66/100 |
+| production | 62/100 |
+| outlook | 59/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # rust-lang/rustlings
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/rustlings?style=flat-square&color=yellow)](https://github.com/rust-lang/rustlings/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustlings?style=flat-square&color=blue)](https://github.com/rust-lang/rustlings/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/rustlings?style=flat-square&color=yellow)](https://github.com/rust-lang/rustlings/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustlings?style=flat-square&color=blue)](https://github.com/rust-lang/rustlings/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > :crab: Small exercises to get you used to reading and writing Rust code!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 62.7k |
 | 🍴 **Forks** | 11.2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Rustlings is an open‑source collection of bite‑size exercises designed to he
 
 ### 中文
 
-rust-lang/rustlings：rust-lang/rustlings may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rust-lang/rustlings：rust-lang/rustlings may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ rust-lang/rustlings：rust-lang/rustlings may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ rust-lang/rustlings：rust-lang/rustlings may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 30/100 |
-| production | 79/100 |
-| outlook | 83/100 |
+| production | 72/100 |
+| outlook | 76/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

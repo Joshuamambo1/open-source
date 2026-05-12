@@ -1,6 +1,6 @@
 # WoJiSama/skill-based-architecture
 
-[![Stars](https://img.shields.io/github/stars/WoJiSama/skill-based-architecture?style=flat-square&color=yellow)](https://github.com/WoJiSama/skill-based-architecture/stargazers) [![Forks](https://img.shields.io/github/forks/WoJiSama/skill-based-architecture?style=flat-square&color=blue)](https://github.com/WoJiSama/skill-based-architecture/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WoJiSama/skill-based-architecture?style=flat-square&color=yellow)](https://github.com/WoJiSama/skill-based-architecture/stargazers) [![Forks](https://img.shields.io/github/forks/WoJiSama/skill-based-architecture?style=flat-square&color=blue)](https://github.com/WoJiSama/skill-based-architecture/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A meta-skill that produces skills. Point it at any codebase and it distills the project's rules, workflows, and hard-won lessons into a dedicated skills/<name>/ directory — a project skill that becomes the single source of truth every AI agent (Cursor, Claude Code, Codex, Windsurf, Gemini) consults before every task.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ WoJiSama/skill-based-architecture：WoJiSama/skill-based-architecture helps add 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 78/100 |
+| production | 64/100 |
+| outlook | 71/100 |
 | adoption | 45/100 |
 | stars | 50/100 |
 | forks | 33/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

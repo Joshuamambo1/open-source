@@ -11,11 +11,11 @@
 | 1 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 78.3k | TypeScript | 80/100 |
 | 2 | [DaKheera47/job-ops](./dakheera47-job-ops.md) | ⭐ 3k | TypeScript | 78/100 |
 | 3 | [alam00000/bentopdf](./alam00000-bentopdf.md) | ⭐ 13.1k | JavaScript | 77/100 |
-| 4 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.7k | Go | 76/100 |
-| 5 | [odigos-io/odigos](./odigos-io-odigos.md) | ⭐ 3.7k | Go | 76/100 |
-| 6 | [argoproj/argo-cd](./argoproj-argo-cd.md) | ⭐ 22.8k | Go | 74/100 |
-| 7 | [prometheus-operator/kube-prometheus](./prometheus-operator-kube-prometheus.md) | ⭐ 7.6k | Jsonnet | 74/100 |
-| 8 | [hywax/mafl](./hywax-mafl.md) | ⭐ 724 | TypeScript | 74/100 |
+| 4 | [odigos-io/odigos](./odigos-io-odigos.md) | ⭐ 3.7k | Go | 76/100 |
+| 5 | [argoproj/argo-cd](./argoproj-argo-cd.md) | ⭐ 22.8k | Go | 74/100 |
+| 6 | [prometheus-operator/kube-prometheus](./prometheus-operator-kube-prometheus.md) | ⭐ 7.6k | Jsonnet | 74/100 |
+| 7 | [hywax/mafl](./hywax-mafl.md) | ⭐ 724 | TypeScript | 74/100 |
+| 8 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.7k | Go | 73/100 |
 | 9 | [mastodon/mastodon](./mastodon-mastodon.md) | ⭐ 49.9k | Ruby | 73/100 |
 | 10 | [projectcalico/calico](./projectcalico-calico.md) | ⭐ 7.2k | Go | 71/100 |
 | 11 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.4k | Python | 71/100 |

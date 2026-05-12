@@ -1,6 +1,6 @@
 # jkawamoto/mcp-youtube-transcript
 
-[![Stars](https://img.shields.io/github/stars/jkawamoto/mcp-youtube-transcript?style=flat-square&color=yellow)](https://github.com/jkawamoto/mcp-youtube-transcript/stargazers) [![Forks](https://img.shields.io/github/forks/jkawamoto/mcp-youtube-transcript?style=flat-square&color=blue)](https://github.com/jkawamoto/mcp-youtube-transcript/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jkawamoto/mcp-youtube-transcript?style=flat-square&color=yellow)](https://github.com/jkawamoto/mcp-youtube-transcript/stargazers) [![Forks](https://img.shields.io/github/forks/jkawamoto/mcp-youtube-transcript?style=flat-square&color=blue)](https://github.com/jkawamoto/mcp-youtube-transcript/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server retrieving transcripts of YouTube videos
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 386 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jkawamoto/mcp-youtube-transcript：jkawamoto/mcp-youtube-transcript helps teams 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 73/100 |
+| production | 68/100 |
+| outlook | 66/100 |
 | adoption | 52/100 |
 | stars | 55/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

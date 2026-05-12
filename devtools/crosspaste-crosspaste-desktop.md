@@ -1,6 +1,6 @@
 # CrossPaste/crosspaste-desktop
 
-[![Stars](https://img.shields.io/github/stars/CrossPaste/crosspaste-desktop?style=flat-square&color=yellow)](https://github.com/CrossPaste/crosspaste-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/CrossPaste/crosspaste-desktop?style=flat-square&color=blue)](https://github.com/CrossPaste/crosspaste-desktop/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CrossPaste/crosspaste-desktop?style=flat-square&color=yellow)](https://github.com/CrossPaste/crosspaste-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/CrossPaste/crosspaste-desktop?style=flat-square&color=blue)](https://github.com/CrossPaste/crosspaste-desktop/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Universal Pasteboard Across Devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CrossPaste — это кроссплатформенное приложени�
 
 ### 中文
 
-CrossPaste/crosspaste-desktop：CrossPaste/crosspaste-desktop helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+CrossPaste/crosspaste-desktop：CrossPaste/crosspaste-desktop helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ CrossPaste/crosspaste-desktop：CrossPaste/crosspaste-desktop helps engineers sa
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ CrossPaste/crosspaste-desktop：CrossPaste/crosspaste-desktop helps engineers sa
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 71/100 |
+| outlook | 76/100 |
 | adoption | 65/100 |
 | stars | 71/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

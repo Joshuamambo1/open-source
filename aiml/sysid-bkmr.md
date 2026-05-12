@@ -1,6 +1,6 @@
 # sysid/bkmr
 
-[![Stars](https://img.shields.io/github/stars/sysid/bkmr?style=flat-square&color=yellow)](https://github.com/sysid/bkmr/stargazers) [![Forks](https://img.shields.io/github/forks/sysid/bkmr?style=flat-square&color=blue)](https://github.com/sysid/bkmr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sysid/bkmr?style=flat-square&color=yellow)](https://github.com/sysid/bkmr/stargazers) [![Forks](https://img.shields.io/github/forks/sysid/bkmr?style=flat-square&color=blue)](https://github.com/sysid/bkmr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Knowledge Management for Humans and Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sysid/bkmr：sysid/bkmr helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 44/100 |
 | stars | 51/100 |
 | forks | 26/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

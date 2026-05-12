@@ -1,6 +1,6 @@
 # steveyeow/Feynman
 
-[![Stars](https://img.shields.io/github/stars/steveyeow/Feynman?style=flat-square&color=yellow)](https://github.com/steveyeow/Feynman/stargazers) [![Forks](https://img.shields.io/github/forks/steveyeow/Feynman?style=flat-square&color=blue)](https://github.com/steveyeow/Feynman/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steveyeow/Feynman?style=flat-square&color=yellow)](https://github.com/steveyeow/Feynman/stargazers) [![Forks](https://img.shields.io/github/forks/steveyeow/Feynman?style=flat-square&color=blue)](https://github.com/steveyeow/Feynman/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Read books the way Feynman did — along with a continuously evolving network of agent-simulated great minds
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ste​veyeow/Feynman — это открытый проект, позволя�
 
 ### 中文
 
-steveyeow/Feynman：steveyeow/Feynman helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+steveyeow/Feynman：steveyeow/Feynman helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ steveyeow/Feynman：steveyeow/Feynman helps add AI capability without starting f
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ steveyeow/Feynman：steveyeow/Feynman helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 69/100 |
+| outlook | 76/100 |
 | adoption | 40/100 |
 | stars | 46/100 |
 | forks | 23/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

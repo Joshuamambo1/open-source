@@ -1,6 +1,6 @@
 # authelia/authelia
 
-[![Stars](https://img.shields.io/github/stars/authelia/authelia?style=flat-square&color=yellow)](https://github.com/authelia/authelia/stargazers) [![Forks](https://img.shields.io/github/forks/authelia/authelia?style=flat-square&color=blue)](https://github.com/authelia/authelia/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/authelia/authelia?style=flat-square&color=yellow)](https://github.com/authelia/authelia/stargazers) [![Forks](https://img.shields.io/github/forks/authelia/authelia?style=flat-square&color=blue)](https://github.com/authelia/authelia/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27.7k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ authelia/authelia：authelia/authelia helps make deployment and operations more 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 96/100 |
+| quality | 91/100 |
 | integration | 78/100 |
-| production | 87/100 |
-| outlook | 86/100 |
+| production | 80/100 |
+| outlook | 79/100 |
 | adoption | 90/100 |
 | stars | 95/100 |
 | forks | 79/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

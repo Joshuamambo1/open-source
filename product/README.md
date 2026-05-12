@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**14 projects** in this category.
+**15 projects** in this category.
 
 ## Projects
 
@@ -18,10 +18,11 @@
 | 8 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 6.1k | Swift | 59/100 |
 | 9 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 59/100 |
 | 10 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 59/100 |
-| 11 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 54/100 |
-| 12 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 49/100 |
-| 13 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 49/100 |
-| 14 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 44/100 |
+| 11 | [getsentry/relay](./getsentry-relay.md) | ⭐ 378 | Rust | 54/100 |
+| 12 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 54/100 |
+| 13 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 49/100 |
+| 14 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 49/100 |
+| 15 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 44/100 |
 
 ---
 

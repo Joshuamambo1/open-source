@@ -1,6 +1,6 @@
 # C24Be/AS_Network_List
 
-[![Stars](https://img.shields.io/github/stars/C24Be/AS_Network_List?style=flat-square&color=yellow)](https://github.com/C24Be/AS_Network_List/stargazers) [![Forks](https://img.shields.io/github/forks/C24Be/AS_Network_List?style=flat-square&color=blue)](https://github.com/C24Be/AS_Network_List/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/C24Be/AS_Network_List?style=flat-square&color=yellow)](https://github.com/C24Be/AS_Network_List/stargazers) [![Forks](https://img.shields.io/github/forks/C24Be/AS_Network_List?style=flat-square&color=blue)](https://github.com/C24Be/AS_Network_List/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Blacklists generator of subnets of Russian government agencies for blocking them on one's servers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 526 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ C24Be/AS_Network_List：C24Be/AS_Network_List helps teams reuse service infrastr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 66/100 |
+| production | 66/100 |
+| outlook | 59/100 |
 | adoption | 50/100 |
 | stars | 58/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

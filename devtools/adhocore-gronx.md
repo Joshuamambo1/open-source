@@ -1,6 +1,6 @@
 # adhocore/gronx
 
-[![Stars](https://img.shields.io/github/stars/adhocore/gronx?style=flat-square&color=yellow)](https://github.com/adhocore/gronx/stargazers) [![Forks](https://img.shields.io/github/forks/adhocore/gronx?style=flat-square&color=blue)](https://github.com/adhocore/gronx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adhocore/gronx?style=flat-square&color=yellow)](https://github.com/adhocore/gronx/stargazers) [![Forks](https://img.shields.io/github/forks/adhocore/gronx?style=flat-square&color=blue)](https://github.com/adhocore/gronx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight, fast and dependency-free Cron expression parser (due checker, next/prev due date finder), task runner, job scheduler and/or daemon for Golang (tested on v1.13+) and standalone usage. If you are bold, use it to replace crontab entirely.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 505 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A lightweight, fast, and dependency‑free library for parsing Cron expressions 
 
 ### 中文
 
-adhocore/gronx：adhocore/gronx helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+adhocore/gronx：adhocore/gronx helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ adhocore/gronx：adhocore/gronx helps engineers save time in daily development a
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ adhocore/gronx：adhocore/gronx helps engineers save time in daily development a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 76/100 |
+| production | 69/100 |
+| outlook | 69/100 |
 | adoption | 52/100 |
 | stars | 58/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

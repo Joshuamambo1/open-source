@@ -1,6 +1,6 @@
 # Orange-OpenSource/hurl
 
-[![Stars](https://img.shields.io/github/stars/Orange-OpenSource/hurl?style=flat-square&color=yellow)](https://github.com/Orange-OpenSource/hurl/stargazers) [![Forks](https://img.shields.io/github/forks/Orange-OpenSource/hurl?style=flat-square&color=blue)](https://github.com/Orange-OpenSource/hurl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Orange-OpenSource/hurl?style=flat-square&color=yellow)](https://github.com/Orange-OpenSource/hurl/stargazers) [![Forks](https://img.shields.io/github/forks/Orange-OpenSource/hurl?style=flat-square&color=blue)](https://github.com/Orange-OpenSource/hurl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Hurl, run and test HTTP requests with plain text.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.9k |
 | 🍴 **Forks** | 722 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Orange-OpenSource/hurl：Orange-OpenSource/hurl helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 62/100 |
-| production | 84/100 |
-| outlook | 96/100 |
+| production | 77/100 |
+| outlook | 89/100 |
 | adoption | 86/100 |
 | stars | 91/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # UfoMiao/zcf
 
-[![Stars](https://img.shields.io/github/stars/UfoMiao/zcf?style=flat-square&color=yellow)](https://github.com/UfoMiao/zcf/stargazers) [![Forks](https://img.shields.io/github/forks/UfoMiao/zcf?style=flat-square&color=blue)](https://github.com/UfoMiao/zcf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UfoMiao/zcf?style=flat-square&color=yellow)](https://github.com/UfoMiao/zcf/stargazers) [![Forks](https://img.shields.io/github/forks/UfoMiao/zcf?style=flat-square&color=blue)](https://github.com/UfoMiao/zcf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-Config Code Flow for Claude code & Codex
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 418 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ UfoMiao/zcf：UfoMiao/zcf helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 62/100 |
-| production | 82/100 |
-| outlook | 92/100 |
+| production | 75/100 |
+| outlook | 85/100 |
 | adoption | 76/100 |
 | stars | 80/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

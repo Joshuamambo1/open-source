@@ -1,6 +1,6 @@
 # Kohaku-Lab/KohakuTerrarium
 
-[![Stars](https://img.shields.io/github/stars/Kohaku-Lab/KohakuTerrarium?style=flat-square&color=yellow)](https://github.com/Kohaku-Lab/KohakuTerrarium/stargazers) [![Forks](https://img.shields.io/github/forks/Kohaku-Lab/KohakuTerrarium?style=flat-square&color=blue)](https://github.com/Kohaku-Lab/KohakuTerrarium/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kohaku-Lab/KohakuTerrarium?style=flat-square&color=yellow)](https://github.com/Kohaku-Lab/KohakuTerrarium/stargazers) [![Forks](https://img.shields.io/github/forks/Kohaku-Lab/KohakuTerrarium?style=flat-square&color=blue)](https://github.com/Kohaku-Lab/KohakuTerrarium/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > KohakuTerrarium is a general-purpose AI agent framework and batteries-included app for building, running, and composing self-contained agents and multi-agent teams, with built-in tools, sub-agents, persistent sessions, TUI, and web UI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Kohaku-Lab/KohakuTerrarium：Kohaku-Lab/KohakuTerrarium helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 79/100 |
+| production | 65/100 |
+| outlook | 72/100 |
 | adoption | 49/100 |
 | stars | 52/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

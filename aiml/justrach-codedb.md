@@ -1,6 +1,6 @@
 # justrach/codedb
 
-[![Stars](https://img.shields.io/github/stars/justrach/codedb?style=flat-square&color=yellow)](https://github.com/justrach/codedb/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/codedb?style=flat-square&color=blue)](https://github.com/justrach/codedb/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justrach/codedb?style=flat-square&color=yellow)](https://github.com/justrach/codedb/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/codedb?style=flat-square&color=blue)](https://github.com/justrach/codedb/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 784 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ justrach/codedb — это open‑source сервер интеллектуал
 
 ### 中文
 
-justrach/codedb：justrach/codedb helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+justrach/codedb：justrach/codedb helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ justrach/codedb：justrach/codedb helps add AI capability without starting from 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ justrach/codedb：justrach/codedb helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 87/100 |
+| production | 70/100 |
+| outlook | 80/100 |
 | adoption | 56/100 |
 | stars | 62/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ChunelFeng/CGraph
 
-[![Stars](https://img.shields.io/github/stars/ChunelFeng/CGraph?style=flat-square&color=yellow)](https://github.com/ChunelFeng/CGraph/stargazers) [![Forks](https://img.shields.io/github/forks/ChunelFeng/CGraph?style=flat-square&color=blue)](https://github.com/ChunelFeng/CGraph/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChunelFeng/CGraph?style=flat-square&color=yellow)](https://github.com/ChunelFeng/CGraph/stargazers) [![Forks](https://img.shields.io/github/forks/ChunelFeng/CGraph?style=flat-square&color=blue)](https://github.com/ChunelFeng/CGraph/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 【A common used C++ & Python DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 386 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ChunelFeng/CGraph — это кросс‑платформенный фрей�
 
 ### 中文
 
-ChunelFeng/CGraph：ChunelFeng/CGraph helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ChunelFeng/CGraph：ChunelFeng/CGraph helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ChunelFeng/CGraph：ChunelFeng/CGraph helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ChunelFeng/CGraph：ChunelFeng/CGraph helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 89/100 |
+| production | 71/100 |
+| outlook | 82/100 |
 | adoption | 70/100 |
 | stars | 71/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

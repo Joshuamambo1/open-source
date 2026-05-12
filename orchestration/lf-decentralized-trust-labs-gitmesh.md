@@ -1,6 +1,6 @@
 # LF-Decentralized-Trust-labs/gitmesh
 
-[![Stars](https://img.shields.io/github/stars/LF-Decentralized-Trust-labs/gitmesh?style=flat-square&color=yellow)](https://github.com/LF-Decentralized-Trust-labs/gitmesh/stargazers) [![Forks](https://img.shields.io/github/forks/LF-Decentralized-Trust-labs/gitmesh?style=flat-square&color=blue)](https://github.com/LF-Decentralized-Trust-labs/gitmesh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LF-Decentralized-Trust-labs/gitmesh?style=flat-square&color=yellow)](https://github.com/LF-Decentralized-Trust-labs/gitmesh/stargazers) [![Forks](https://img.shields.io/github/forks/LF-Decentralized-Trust-labs/gitmesh?style=flat-square&color=blue)](https://github.com/LF-Decentralized-Trust-labs/gitmesh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > GitMesh: Policy-as-Code Engine for Open Source AI Agent Orchestration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ LF-Decentralized-Trust-labs/gitmesh：LF-Decentralized-Trust-labs/gitmesh helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 65/100 |
+| outlook | 64/100 |
 | adoption | 44/100 |
 | stars | 45/100 |
 | forks | 40/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

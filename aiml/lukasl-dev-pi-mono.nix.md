@@ -1,6 +1,6 @@
 # lukasl-dev/pi-mono.nix
 
-[![Stars](https://img.shields.io/github/stars/lukasl-dev/pi-mono.nix?style=flat-square&color=yellow)](https://github.com/lukasl-dev/pi-mono.nix/stargazers) [![Forks](https://img.shields.io/github/forks/lukasl-dev/pi-mono.nix?style=flat-square&color=blue)](https://github.com/lukasl-dev/pi-mono.nix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lukasl-dev/pi-mono.nix?style=flat-square&color=yellow)](https://github.com/lukasl-dev/pi-mono.nix/stargazers) [![Forks](https://img.shields.io/github/forks/lukasl-dev/pi-mono.nix?style=flat-square&color=blue)](https://github.com/lukasl-dev/pi-mono.nix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Nix flake for pi, a terminal coding agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ lukasl-dev/pi-mono.nix：lukasl-dev/pi-mono.nix helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 63/100 |
+| outlook | 63/100 |
 | adoption | 27/100 |
 | stars | 29/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

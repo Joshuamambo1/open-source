@@ -1,6 +1,6 @@
 # jazzenchen/VibeAround
 
-[![Stars](https://img.shields.io/github/stars/jazzenchen/VibeAround?style=flat-square&color=yellow)](https://github.com/jazzenchen/VibeAround/stargazers) [![Forks](https://img.shields.io/github/forks/jazzenchen/VibeAround?style=flat-square&color=blue)](https://github.com/jazzenchen/VibeAround/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jazzenchen/VibeAround?style=flat-square&color=yellow)](https://github.com/jazzenchen/VibeAround/stargazers) [![Forks](https://img.shields.io/github/forks/jazzenchen/VibeAround?style=flat-square&color=blue)](https://github.com/jazzenchen/VibeAround/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Vibe coding companion: work with your local AI agents from anywhere. Chat on your phone or through a browser terminal, with instant previews for your work. Switch profiles freely, run multiple agents in parallel, and third-party APIs are supported.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 227 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jazzenchen/VibeAround：jazzenchen/VibeAround helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 78/100 |
+| production | 65/100 |
+| outlook | 71/100 |
 | adoption | 46/100 |
 | stars | 50/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

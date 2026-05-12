@@ -1,6 +1,6 @@
 # adrianliechti/wingman
 
-[![Stars](https://img.shields.io/github/stars/adrianliechti/wingman?style=flat-square&color=yellow)](https://github.com/adrianliechti/wingman/stargazers) [![Forks](https://img.shields.io/github/forks/adrianliechti/wingman?style=flat-square&color=blue)](https://github.com/adrianliechti/wingman/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adrianliechti/wingman?style=flat-square&color=yellow)](https://github.com/adrianliechti/wingman/stargazers) [![Forks](https://img.shields.io/github/forks/adrianliechti/wingman?style=flat-square&color=blue)](https://github.com/adrianliechti/wingman/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Inference Hub for AI at Scale
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ adrianliechti/wingman is an open‑source inference hub designed to serve and ma
 
 ### 中文
 
-adrianliechti/wingman：adrianliechti/wingman helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+adrianliechti/wingman：adrianliechti/wingman helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ adrianliechti/wingman：adrianliechti/wingman helps add AI capability without st
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ adrianliechti/wingman：adrianliechti/wingman helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 79/100 |
+| production | 69/100 |
+| outlook | 72/100 |
 | adoption | 37/100 |
 | stars | 40/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

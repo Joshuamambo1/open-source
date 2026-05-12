@@ -1,6 +1,6 @@
 # ProvableHQ/snarkVM
 
-[![Stars](https://img.shields.io/github/stars/ProvableHQ/snarkVM?style=flat-square&color=yellow)](https://github.com/ProvableHQ/snarkVM/stargazers) [![Forks](https://img.shields.io/github/forks/ProvableHQ/snarkVM?style=flat-square&color=blue)](https://github.com/ProvableHQ/snarkVM/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ProvableHQ/snarkVM?style=flat-square&color=yellow)](https://github.com/ProvableHQ/snarkVM/stargazers) [![Forks](https://img.shields.io/github/forks/ProvableHQ/snarkVM?style=flat-square&color=blue)](https://github.com/ProvableHQ/snarkVM/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A zkVM for Decentralized Private Computations (DPC)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ProvableHQ/snarkVM — это открытая виртуальная маши
 
 ### 中文
 
-ProvableHQ/snarkVM：ProvableHQ/snarkVM helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ProvableHQ/snarkVM：ProvableHQ/snarkVM helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ProvableHQ/snarkVM：ProvableHQ/snarkVM helps prototype or inspect blockchain wo
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ProvableHQ/snarkVM：ProvableHQ/snarkVM helps prototype or inspect blockchain wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 69/100 |
 | stars | 65/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # AstrBotDevs/AstrBot-desktop
 
-[![Stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot-desktop?style=flat-square&color=yellow)](https://github.com/AstrBotDevs/AstrBot-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/AstrBotDevs/AstrBot-desktop?style=flat-square&color=blue)](https://github.com/AstrBotDevs/AstrBot-desktop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot-desktop?style=flat-square&color=yellow)](https://github.com/AstrBotDevs/AstrBot-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/AstrBotDevs/AstrBot-desktop?style=flat-square&color=blue)](https://github.com/AstrBotDevs/AstrBot-desktop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The desktop edition of AstrBot, designed for fast local installation and convenient access to ChatUI and plugins.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 454 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ AstrBotDevs/AstrBot-desktop：AstrBotDevs/AstrBot-desktop helps ship user-facing
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 66/100 |
+| production | 64/100 |
+| outlook | 59/100 |
 | adoption | 50/100 |
 | stars | 57/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

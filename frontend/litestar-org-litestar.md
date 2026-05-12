@@ -1,6 +1,6 @@
 # litestar-org/litestar
 
-[![Stars](https://img.shields.io/github/stars/litestar-org/litestar?style=flat-square&color=yellow)](https://github.com/litestar-org/litestar/stargazers) [![Forks](https://img.shields.io/github/forks/litestar-org/litestar?style=flat-square&color=blue)](https://github.com/litestar-org/litestar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/litestar-org/litestar?style=flat-square&color=yellow)](https://github.com/litestar-org/litestar/stargazers) [![Forks](https://img.shields.io/github/forks/litestar-org/litestar?style=flat-square&color=blue)](https://github.com/litestar-org/litestar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Light, flexible and extensible ASGI framework | Built to scale
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.2k |
 | 🍴 **Forks** | 548 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ litestar-org/litestar：litestar-org/litestar helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 62/100 |
-| production | 83/100 |
-| outlook | 90/100 |
+| production | 76/100 |
+| outlook | 83/100 |
 | adoption | 79/100 |
 | stars | 83/100 |
 | forks | 68/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

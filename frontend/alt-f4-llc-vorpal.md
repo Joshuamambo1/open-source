@@ -1,6 +1,6 @@
 # ALT-F4-LLC/vorpal
 
-[![Stars](https://img.shields.io/github/stars/ALT-F4-LLC/vorpal?style=flat-square&color=yellow)](https://github.com/ALT-F4-LLC/vorpal/stargazers) [![Forks](https://img.shields.io/github/forks/ALT-F4-LLC/vorpal?style=flat-square&color=blue)](https://github.com/ALT-F4-LLC/vorpal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ALT-F4-LLC/vorpal?style=flat-square&color=yellow)](https://github.com/ALT-F4-LLC/vorpal/stargazers) [![Forks](https://img.shields.io/github/forks/ALT-F4-LLC/vorpal?style=flat-square&color=blue)](https://github.com/ALT-F4-LLC/vorpal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Build system that works as code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ALT-F4-LLC/vorpal：ALT-F4-LLC/vorpal helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 65/100 |
+| production | 60/100 |
+| outlook | 58/100 |
 | adoption | 40/100 |
 | stars | 44/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

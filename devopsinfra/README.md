@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**71 projects** in this category.
+**72 projects** in this category.
 
 ## Projects
 
@@ -19,14 +19,14 @@
 | 9 | [mastodon/mastodon](./mastodon-mastodon.md) | ⭐ 49.9k | Ruby | 73/100 |
 | 10 | [projectcalico/calico](./projectcalico-calico.md) | ⭐ 7.2k | Go | 71/100 |
 | 11 | [saltstack/salt](./saltstack-salt.md) | ⭐ 15.4k | Python | 71/100 |
-| 12 | [metacall/core](./metacall-core.md) | ⭐ 1.8k | C | 71/100 |
-| 13 | [helm/helm](./helm-helm.md) | ⭐ 29.8k | Go | 69/100 |
-| 14 | [Project-HAMi/HAMi](./project-hami-hami.md) | ⭐ 3.4k | Go | 69/100 |
-| 15 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.3k | PHP | 69/100 |
-| 16 | [traefik/traefik-helm-chart](./traefik-traefik-helm-chart.md) | ⭐ 1.4k | Go Template | 69/100 |
-| 17 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.4k | Go | 69/100 |
-| 18 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.7k | TypeScript | 69/100 |
-| 19 | [netbootxyz/netboot.xyz](./netbootxyz-netboot.xyz.md) | ⭐ 11.8k | Jinja | 68/100 |
+| 12 | [helm/helm](./helm-helm.md) | ⭐ 29.8k | Go | 69/100 |
+| 13 | [Project-HAMi/HAMi](./project-hami-hami.md) | ⭐ 3.4k | Go | 69/100 |
+| 14 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.3k | PHP | 69/100 |
+| 15 | [traefik/traefik-helm-chart](./traefik-traefik-helm-chart.md) | ⭐ 1.4k | Go Template | 69/100 |
+| 16 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.4k | Go | 69/100 |
+| 17 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.7k | TypeScript | 69/100 |
+| 18 | [netbootxyz/netboot.xyz](./netbootxyz-netboot.xyz.md) | ⭐ 11.8k | Jinja | 68/100 |
+| 19 | [metacall/core](./metacall-core.md) | ⭐ 1.8k | C | 68/100 |
 | 20 | [GoogleCloudPlatform/cloud-foundation-fabric](./googlecloudplatform-cloud-foundation-fabric.md) | ⭐ 2k | HCL | 67/100 |
 | 21 | [ovn-kubernetes/ovn-kubernetes](./ovn-kubernetes-ovn-kubernetes.md) | ⭐ 1k | Go | 67/100 |
 | 22 | [n8n-io/n8n-hosting](./n8n-io-n8n-hosting.md) | ⭐ 1.6k | Go Template | 67/100 |
@@ -79,6 +79,7 @@
 | 69 | [ricardomaraschini/oomhero](./ricardomaraschini-oomhero.md) | ⭐ 111 | Rust | 53/100 |
 | 70 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 53/100 |
 | 71 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 51/100 |
+| 72 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 44/100 |
 
 ---
 

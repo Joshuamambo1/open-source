@@ -1,6 +1,6 @@
 # David-OConnor/molchanica
 
-[![Stars](https://img.shields.io/github/stars/David-OConnor/molchanica?style=flat-square&color=yellow)](https://github.com/David-OConnor/molchanica/stargazers) [![Forks](https://img.shields.io/github/forks/David-OConnor/molchanica?style=flat-square&color=blue)](https://github.com/David-OConnor/molchanica/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/David-OConnor/molchanica?style=flat-square&color=yellow)](https://github.com/David-OConnor/molchanica/stargazers) [![Forks](https://img.shields.io/github/forks/David-OConnor/molchanica?style=flat-square&color=blue)](https://github.com/David-OConnor/molchanica/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Protein and molecule viewer, editor, simulator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ David-OConnor/molchanica：David-OConnor/molchanica may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 67/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 36/100 |
 | stars | 46/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

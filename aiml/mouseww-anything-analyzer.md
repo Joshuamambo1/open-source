@@ -1,6 +1,6 @@
 # Mouseww/anything-analyzer
 
-[![Stars](https://img.shields.io/github/stars/Mouseww/anything-analyzer?style=flat-square&color=yellow)](https://github.com/Mouseww/anything-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/Mouseww/anything-analyzer?style=flat-square&color=blue)](https://github.com/Mouseww/anything-analyzer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mouseww/anything-analyzer?style=flat-square&color=yellow)](https://github.com/Mouseww/anything-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/Mouseww/anything-analyzer?style=flat-square&color=blue)](https://github.com/Mouseww/anything-analyzer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 488 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 91/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Mouseww/anything-analyzer：Mouseww/anything-analyzer helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 94/100 |
-| production | 86/100 |
-| outlook | 93/100 |
+| production | 79/100 |
+| outlook | 86/100 |
 | adoption | 71/100 |
 | stars | 72/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

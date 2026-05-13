@@ -1,6 +1,6 @@
 # openebs/openebs
 
-[![Stars](https://img.shields.io/github/stars/openebs/openebs?style=flat-square&color=yellow)](https://github.com/openebs/openebs/stargazers) [![Forks](https://img.shields.io/github/forks/openebs/openebs?style=flat-square&color=blue)](https://github.com/openebs/openebs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openebs/openebs?style=flat-square&color=yellow)](https://github.com/openebs/openebs/stargazers) [![Forks](https://img.shields.io/github/forks/openebs/openebs?style=flat-square&color=blue)](https://github.com/openebs/openebs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 982 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ openebs/openebs：openebs/openebs helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 92/100 |
+| quality | 87/100 |
 | integration | 62/100 |
-| production | 83/100 |
-| outlook | 87/100 |
+| production | 76/100 |
+| outlook | 80/100 |
 | adoption | 82/100 |
 | stars | 85/100 |
 | forks | 75/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

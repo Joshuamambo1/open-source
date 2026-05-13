@@ -1,6 +1,6 @@
 # stdapi-ai/stdapi.ai
 
-[![Stars](https://img.shields.io/github/stars/stdapi-ai/stdapi.ai?style=flat-square&color=yellow)](https://github.com/stdapi-ai/stdapi.ai/stargazers) [![Forks](https://img.shields.io/github/forks/stdapi-ai/stdapi.ai?style=flat-square&color=blue)](https://github.com/stdapi-ai/stdapi.ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stdapi-ai/stdapi.ai?style=flat-square&color=yellow)](https://github.com/stdapi-ai/stdapi.ai/stargazers) [![Forks](https://img.shields.io/github/forks/stdapi-ai/stdapi.ai?style=flat-square&color=blue)](https://github.com/stdapi-ai/stdapi.ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAI & Anthropic Compatible API Gateway for AWS Bedrock and AI Services
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ stdapi-ai/stdapi.ai：stdapi-ai/stdapi.ai helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 72/100 |
+| production | 66/100 |
+| outlook | 65/100 |
 | adoption | 21/100 |
 | stars | 29/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

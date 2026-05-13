@@ -1,6 +1,6 @@
 # jayminwest/seeds
 
-[![Stars](https://img.shields.io/github/stars/jayminwest/seeds?style=flat-square&color=yellow)](https://github.com/jayminwest/seeds/stargazers) [![Forks](https://img.shields.io/github/forks/jayminwest/seeds?style=flat-square&color=blue)](https://github.com/jayminwest/seeds/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jayminwest/seeds?style=flat-square&color=yellow)](https://github.com/jayminwest/seeds/stargazers) [![Forks](https://img.shields.io/github/forks/jayminwest/seeds?style=flat-square&color=blue)](https://github.com/jayminwest/seeds/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Git-native issue tracker for AI agent workflows. Zero dependencies, JSONL storage, Bun runtime.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ jayminwest/seeds：jayminwest/seeds helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 73/100 |
+| production | 62/100 |
+| outlook | 66/100 |
 | adoption | 38/100 |
 | stars | 40/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

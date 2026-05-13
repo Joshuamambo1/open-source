@@ -43,19 +43,19 @@
 | 33 | [alekspetrov/navigator](./alekspetrov-navigator.md) | ⭐ 174 | Python | 66/100 |
 | 34 | [KylinMountain/TradingAgents-AShare](./kylinmountain-tradingagents-ashare.md) | ⭐ 306 | Python | 66/100 |
 | 35 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.4k | TypeScript | 65/100 |
-| 36 | [Classiq/classiq-library](./classiq-classiq-library.md) | ⭐ 2k | Jupyter Notebook | 65/100 |
-| 37 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 65/100 |
-| 38 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 35 | Python | 64/100 |
-| 39 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 64/100 |
-| 40 | [Tencent/AngelSlim](./tencent-angelslim.md) | ⭐ 1.1k | Python | 64/100 |
-| 41 | [ModelCloud/GPTQModel](./modelcloud-gptqmodel.md) | ⭐ 1.1k | Python | 64/100 |
-| 42 | [qiboteam/qibo](./qiboteam-qibo.md) | ⭐ 353 | Python | 64/100 |
-| 43 | [tqec/tqec](./tqec-tqec.md) | ⭐ 361 | Python | 64/100 |
-| 44 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.9k | — | 63/100 |
-| 45 | [bitsandbytes-foundation/bitsandbytes](./bitsandbytes-foundation-bitsandbytes.md) | ⭐ 8.2k | Python | 63/100 |
-| 46 | [nlethetech/nepse-quant-terminal](./nlethetech-nepse-quant-terminal.md) | ⭐ 120 | Python | 63/100 |
-| 47 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 632 | Swift | 63/100 |
-| 48 | [staskh/trading_skills](./staskh-trading-skills.md) | ⭐ 184 | Python | 63/100 |
+| 36 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 65/100 |
+| 37 | [alex-jb/orallexa-ai-trading-agent](./alex-jb-orallexa-ai-trading-agent.md) | ⭐ 35 | Python | 64/100 |
+| 38 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.3k | C++ | 64/100 |
+| 39 | [Tencent/AngelSlim](./tencent-angelslim.md) | ⭐ 1.1k | Python | 64/100 |
+| 40 | [ModelCloud/GPTQModel](./modelcloud-gptqmodel.md) | ⭐ 1.1k | Python | 64/100 |
+| 41 | [qiboteam/qibo](./qiboteam-qibo.md) | ⭐ 353 | Python | 64/100 |
+| 42 | [tqec/tqec](./tqec-tqec.md) | ⭐ 361 | Python | 64/100 |
+| 43 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.9k | — | 63/100 |
+| 44 | [bitsandbytes-foundation/bitsandbytes](./bitsandbytes-foundation-bitsandbytes.md) | ⭐ 8.2k | Python | 63/100 |
+| 45 | [nlethetech/nepse-quant-terminal](./nlethetech-nepse-quant-terminal.md) | ⭐ 120 | Python | 63/100 |
+| 46 | [SharpAI/SwiftLM](./sharpai-swiftlm.md) | ⭐ 632 | Swift | 63/100 |
+| 47 | [staskh/trading_skills](./staskh-trading-skills.md) | ⭐ 184 | Python | 63/100 |
+| 48 | [Classiq/classiq-library](./classiq-classiq-library.md) | ⭐ 2k | Jupyter Notebook | 62/100 |
 | 49 | [pytorch/ao](./pytorch-ao.md) | ⭐ 2.8k | Python | 62/100 |
 | 50 | [quic/aimet](./quic-aimet.md) | ⭐ 2.6k | Python | 62/100 |
 | 51 | [vllm-project/llm-compressor](./vllm-project-llm-compressor.md) | ⭐ 3.2k | Python | 62/100 |

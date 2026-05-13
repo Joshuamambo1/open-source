@@ -1,6 +1,6 @@
 # TheRenegadeCoder/sample-programs
 
-[![Stars](https://img.shields.io/github/stars/TheRenegadeCoder/sample-programs?style=flat-square&color=yellow)](https://github.com/TheRenegadeCoder/sample-programs/stargazers) [![Forks](https://img.shields.io/github/forks/TheRenegadeCoder/sample-programs?style=flat-square&color=blue)](https://github.com/TheRenegadeCoder/sample-programs/network) [![Language](https://img.shields.io/badge/lang-ALGOL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheRenegadeCoder/sample-programs?style=flat-square&color=yellow)](https://github.com/TheRenegadeCoder/sample-programs/stargazers) [![Forks](https://img.shields.io/github/forks/TheRenegadeCoder/sample-programs?style=flat-square&color=blue)](https://github.com/TheRenegadeCoder/sample-programs/network) [![Language](https://img.shields.io/badge/lang-ALGOL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Sample Programs in Every Programming Language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 627 |
 | 🍴 **Forks** | 629 |
 | 💻 **Language** | ALGOL |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The RenegadeCoder/sample-programs repository is a curated collection of simple, 
 
 ### 中文
 
-TheRenegadeCoder/sample-programs：TheRenegadeCoder/sample-programs may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+TheRenegadeCoder/sample-programs：TheRenegadeCoder/sample-programs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ TheRenegadeCoder/sample-programs：TheRenegadeCoder/sample-programs may be usefu
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ TheRenegadeCoder/sample-programs：TheRenegadeCoder/sample-programs may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 75/100 |
+| production | 69/100 |
+| outlook | 68/100 |
 | adoption | 62/100 |
 | stars | 60/100 |
 | forks | 70/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # prisma/prisma-next
 
-[![Stars](https://img.shields.io/github/stars/prisma/prisma-next?style=flat-square&color=yellow)](https://github.com/prisma/prisma-next/stargazers) [![Forks](https://img.shields.io/github/forks/prisma/prisma-next?style=flat-square&color=blue)](https://github.com/prisma/prisma-next/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prisma/prisma-next?style=flat-square&color=yellow)](https://github.com/prisma/prisma-next/stargazers) [![Forks](https://img.shields.io/github/forks/prisma/prisma-next?style=flat-square&color=blue)](https://github.com/prisma/prisma-next/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ prisma/prisma-next：prisma/prisma-next may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 34/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 44/100 |
 | stars | 53/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

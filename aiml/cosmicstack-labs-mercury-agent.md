@@ -1,6 +1,6 @@
 # cosmicstack-labs/mercury-agent
 
-[![Stars](https://img.shields.io/github/stars/cosmicstack-labs/mercury-agent?style=flat-square&color=yellow)](https://github.com/cosmicstack-labs/mercury-agent/stargazers) [![Forks](https://img.shields.io/github/forks/cosmicstack-labs/mercury-agent?style=flat-square&color=blue)](https://github.com/cosmicstack-labs/mercury-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosmicstack-labs/mercury-agent?style=flat-square&color=yellow)](https://github.com/cosmicstack-labs/mercury-agent/stargazers) [![Forks](https://img.shields.io/github/forks/cosmicstack-labs/mercury-agent?style=flat-square&color=blue)](https://github.com/cosmicstack-labs/mercury-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ cosmicstack‑labs/mercury‑agent is an open‑source, soul‑driven AI agent t
 
 ### 中文
 
-cosmicstack-labs/mercury-agent：cosmicstack-labs/mercury-agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+cosmicstack-labs/mercury-agent：cosmicstack-labs/mercury-agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ cosmicstack-labs/mercury-agent：cosmicstack-labs/mercury-agent helps add AI cap
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ cosmicstack-labs/mercury-agent：cosmicstack-labs/mercury-agent helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 84/100 |
+| production | 71/100 |
+| outlook | 77/100 |
 | adoption | 67/100 |
 | stars | 71/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

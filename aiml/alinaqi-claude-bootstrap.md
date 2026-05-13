@@ -1,6 +1,6 @@
 # alinaqi/claude-bootstrap
 
-[![Stars](https://img.shields.io/github/stars/alinaqi/claude-bootstrap?style=flat-square&color=yellow)](https://github.com/alinaqi/claude-bootstrap/stargazers) [![Forks](https://img.shields.io/github/forks/alinaqi/claude-bootstrap?style=flat-square&color=blue)](https://github.com/alinaqi/claude-bootstrap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alinaqi/claude-bootstrap?style=flat-square&color=yellow)](https://github.com/alinaqi/claude-bootstrap/stargazers) [![Forks](https://img.shields.io/github/forks/alinaqi/claude-bootstrap?style=flat-square&color=blue)](https://github.com/alinaqi/claude-bootstrap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Opinionated project initialization for Claude Code. Security-first, spec-driven, AI-native.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 607 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Alinaqi’s **claude-bootstrap** is a opinionated starter kit designed to kick�
 
 ### 中文
 
-alinaqi/claude-bootstrap：alinaqi/claude-bootstrap helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+alinaqi/claude-bootstrap：alinaqi/claude-bootstrap helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ alinaqi/claude-bootstrap：alinaqi/claude-bootstrap helps add AI capability with
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ alinaqi/claude-bootstrap：alinaqi/claude-bootstrap helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 55/100 |
 | stars | 59/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

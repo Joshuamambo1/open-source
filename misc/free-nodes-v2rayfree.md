@@ -1,6 +1,6 @@
 # free-nodes/v2rayfree
 
-[![Stars](https://img.shields.io/github/stars/free-nodes/v2rayfree?style=flat-square&color=yellow)](https://github.com/free-nodes/v2rayfree/stargazers) [![Forks](https://img.shields.io/github/forks/free-nodes/v2rayfree?style=flat-square&color=blue)](https://github.com/free-nodes/v2rayfree/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/free-nodes/v2rayfree?style=flat-square&color=yellow)](https://github.com/free-nodes/v2rayfree/stargazers) [![Forks](https://img.shields.io/github/forks/free-nodes/v2rayfree?style=flat-square&color=blue)](https://github.com/free-nodes/v2rayfree/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > v2ray节点、免费节点、免费v2ray节点、最新公益免费v2ray节点订阅地址、免费v2ray节点每日更新、免费ss/v2ray/trojan节点、freefq
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.4k |
 | 🍴 **Forks** | 811 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Free‑nodes/v2rayfree is an open‑source repository that curates and regularly
 
 ### 中文
 
-free-nodes/v2rayfree：free-nodes/v2rayfree may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+free-nodes/v2rayfree：free-nodes/v2rayfree may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ free-nodes/v2rayfree：free-nodes/v2rayfree may be useful when its README and ac
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ free-nodes/v2rayfree：free-nodes/v2rayfree may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 92/100 |
+| quality | 87/100 |
 | integration | 30/100 |
-| production | 79/100 |
-| outlook | 84/100 |
+| production | 72/100 |
+| outlook | 77/100 |
 | adoption | 83/100 |
 | stars | 87/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

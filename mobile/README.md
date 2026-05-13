@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**90 projects** in this category.
+**91 projects** in this category.
 
 ## Projects
 
@@ -97,7 +97,8 @@
 | 87 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 50/100 |
 | 88 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 49/100 |
 | 89 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 49/100 |
-| 90 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 38/100 |
+| 90 | [paralevel/extract-ios-backups-from-terminal](./paralevel-extract-ios-backups-from-terminal.md) | ⭐ — | — | 45/100 |
+| 91 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 38/100 |
 
 ---
 

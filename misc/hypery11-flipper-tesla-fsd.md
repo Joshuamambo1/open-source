@@ -1,6 +1,6 @@
 # hypery11/flipper-tesla-fsd
 
-[![Stars](https://img.shields.io/github/stars/hypery11/flipper-tesla-fsd?style=flat-square&color=yellow)](https://github.com/hypery11/flipper-tesla-fsd/stargazers) [![Forks](https://img.shields.io/github/forks/hypery11/flipper-tesla-fsd?style=flat-square&color=blue)](https://github.com/hypery11/flipper-tesla-fsd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hypery11/flipper-tesla-fsd?style=flat-square&color=yellow)](https://github.com/hypery11/flipper-tesla-fsd/stargazers) [![Forks](https://img.shields.io/github/forks/hypery11/flipper-tesla-fsd?style=flat-square&color=blue)](https://github.com/hypery11/flipper-tesla-fsd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, speed display, steering mode + more. Works via OBD-II or X179 connector.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 739 |
 | 🍴 **Forks** | 352 |
 | 💻 **Language** | C |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **hypery11/flipper-tesla-fsd** превращает F
 
 ### 中文
 
-hypery11/flipper-tesla-fsd：hypery11/flipper-tesla-fsd may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+hypery11/flipper-tesla-fsd：hypery11/flipper-tesla-fsd may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ hypery11/flipper-tesla-fsd：hypery11/flipper-tesla-fsd may be useful when its R
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ hypery11/flipper-tesla-fsd：hypery11/flipper-tesla-fsd may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 85/100 |
+| production | 71/100 |
+| outlook | 78/100 |
 | adoption | 62/100 |
 | stars | 61/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Tongyi-MAI/MobileWorld
 
-[![Stars](https://img.shields.io/github/stars/Tongyi-MAI/MobileWorld?style=flat-square&color=yellow)](https://github.com/Tongyi-MAI/MobileWorld/stargazers) [![Forks](https://img.shields.io/github/forks/Tongyi-MAI/MobileWorld?style=flat-square&color=blue)](https://github.com/Tongyi-MAI/MobileWorld/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tongyi-MAI/MobileWorld?style=flat-square&color=yellow)](https://github.com/Tongyi-MAI/MobileWorld/stargazers) [![Forks](https://img.shields.io/github/forks/Tongyi-MAI/MobileWorld?style=flat-square&color=blue)](https://github.com/Tongyi-MAI/MobileWorld/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments (ACL 2026)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 200 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Tongyi-MAI/MobileWorld：Tongyi-MAI/MobileWorld helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 75/100 |
+| production | 67/100 |
+| outlook | 68/100 |
 | adoption | 46/100 |
 | stars | 49/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # FalkorDB/GraphRAG-SDK
 
-[![Stars](https://img.shields.io/github/stars/FalkorDB/GraphRAG-SDK?style=flat-square&color=yellow)](https://github.com/FalkorDB/GraphRAG-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/FalkorDB/GraphRAG-SDK?style=flat-square&color=blue)](https://github.com/FalkorDB/GraphRAG-SDK/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FalkorDB/GraphRAG-SDK?style=flat-square&color=yellow)](https://github.com/FalkorDB/GraphRAG-SDK/stargazers) [![Forks](https://img.shields.io/github/forks/FalkorDB/GraphRAG-SDK?style=flat-square&color=blue)](https://github.com/FalkorDB/GraphRAG-SDK/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Build fast and accurate GenAI apps with GraphRAG SDK at scale  🌟
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 862 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ FalkorDB/GraphRAG‑SDK — это открытая библиотека для
 
 ### 中文
 
-FalkorDB/GraphRAG-SDK：FalkorDB/GraphRAG-SDK helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+FalkorDB/GraphRAG-SDK：FalkorDB/GraphRAG-SDK helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ FalkorDB/GraphRAG-SDK：FalkorDB/GraphRAG-SDK helps add AI capability without st
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ FalkorDB/GraphRAG-SDK：FalkorDB/GraphRAG-SDK helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 60/100 |
 | stars | 62/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

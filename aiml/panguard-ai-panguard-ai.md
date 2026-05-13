@@ -1,6 +1,6 @@
 # panguard-ai/panguard-ai
 
-[![Stars](https://img.shields.io/github/stars/panguard-ai/panguard-ai?style=flat-square&color=yellow)](https://github.com/panguard-ai/panguard-ai/stargazers) [![Forks](https://img.shields.io/github/forks/panguard-ai/panguard-ai?style=flat-square&color=blue)](https://github.com/panguard-ai/panguard-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/panguard-ai/panguard-ai?style=flat-square&color=yellow)](https://github.com/panguard-ai/panguard-ai/stargazers) [![Forks](https://img.shields.io/github/forks/panguard-ai/panguard-ai?style=flat-square&color=blue)](https://github.com/panguard-ai/panguard-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source security platform for AI agents -- audits skills before install, monitors 24/7, shares threat intelligence across all users. |  AI Agent 開源安全平台 -- 安裝前審計 skill、24/7 即時監控、社群共享威脅情報。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ panguard-ai/panguard-ai：panguard-ai/panguard-ai helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 83/100 |
+| production | 68/100 |
+| outlook | 76/100 |
 | adoption | 30/100 |
 | stars | 34/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

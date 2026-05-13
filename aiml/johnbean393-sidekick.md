@@ -1,6 +1,6 @@
 # johnbean393/Sidekick
 
-[![Stars](https://img.shields.io/github/stars/johnbean393/Sidekick?style=flat-square&color=yellow)](https://github.com/johnbean393/Sidekick/stargazers) [![Forks](https://img.shields.io/github/forks/johnbean393/Sidekick?style=flat-square&color=blue)](https://github.com/johnbean393/Sidekick/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/johnbean393/Sidekick?style=flat-square&color=yellow)](https://github.com/johnbean393/Sidekick/stargazers) [![Forks](https://img.shields.io/github/forks/johnbean393/Sidekick?style=flat-square&color=blue)](https://github.com/johnbean393/Sidekick/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Sidekick — это нативное приложение для macOS, поз
 
 ### 中文
 
-johnbean393/Sidekick：johnbean393/Sidekick helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+johnbean393/Sidekick：johnbean393/Sidekick helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ johnbean393/Sidekick：johnbean393/Sidekick helps add AI capability without star
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ johnbean393/Sidekick：johnbean393/Sidekick helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 30/100 |
-| production | 76/100 |
-| outlook | 87/100 |
+| production | 70/100 |
+| outlook | 80/100 |
 | adoption | 69/100 |
 | stars | 75/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

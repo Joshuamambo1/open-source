@@ -1,6 +1,6 @@
 # SukkaW/Surge
 
-[![Stars](https://img.shields.io/github/stars/SukkaW/Surge?style=flat-square&color=yellow)](https://github.com/SukkaW/Surge/stargazers) [![Forks](https://img.shields.io/github/forks/SukkaW/Surge?style=flat-square&color=blue)](https://github.com/SukkaW/Surge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SukkaW/Surge?style=flat-square&color=yellow)](https://github.com/SukkaW/Surge/stargazers) [![Forks](https://img.shields.io/github/forks/SukkaW/Surge?style=flat-square&color=blue)](https://github.com/SukkaW/Surge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 279 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SukkaW/Surge — это открытый набор правил и снипп
 
 ### 中文
 
-SukkaW/Surge：SukkaW/Surge may be useful when its README and activity match a concrete workflow.。适合用于Mobile。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+SukkaW/Surge：SukkaW/Surge may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ SukkaW/Surge：SukkaW/Surge may be useful when its README and activity match a c
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ SukkaW/Surge：SukkaW/Surge may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 73/100 |
+| outlook | 74/100 |
 | adoption | 72/100 |
 | stars | 77/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

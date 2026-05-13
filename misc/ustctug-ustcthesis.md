@@ -1,6 +1,6 @@
 # ustctug/ustcthesis
 
-[![Stars](https://img.shields.io/github/stars/ustctug/ustcthesis?style=flat-square&color=yellow)](https://github.com/ustctug/ustcthesis/stargazers) [![Forks](https://img.shields.io/github/forks/ustctug/ustcthesis?style=flat-square&color=blue)](https://github.com/ustctug/ustcthesis/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ustctug/ustcthesis?style=flat-square&color=yellow)](https://github.com/ustctug/ustcthesis/stargazers) [![Forks](https://img.shields.io/github/forks/ustctug/ustcthesis?style=flat-square&color=blue)](https://github.com/ustctug/ustcthesis/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > LaTeX template for USTC thesis
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 449 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **ustctug/ustcthesis** repository provides a comprehensive La LaTeX templa
 
 ### 中文
 
-ustctug/ustcthesis：ustctug/ustcthesis may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ustctug/ustcthesis：ustctug/ustcthesis may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ ustctug/ustcthesis：ustctug/ustcthesis may be useful when its README and activi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ ustctug/ustcthesis：ustctug/ustcthesis may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 76/100 |
+| production | 69/100 |
+| outlook | 69/100 |
 | adoption | 69/100 |
 | stars | 71/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # yairm210/Unciv
 
-[![Stars](https://img.shields.io/github/stars/yairm210/Unciv?style=flat-square&color=yellow)](https://github.com/yairm210/Unciv/stargazers) [![Forks](https://img.shields.io/github/forks/yairm210/Unciv?style=flat-square&color=blue)](https://github.com/yairm210/Unciv/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yairm210/Unciv?style=flat-square&color=yellow)](https://github.com/yairm210/Unciv/stargazers) [![Forks](https://img.shields.io/github/forks/yairm210/Unciv?style=flat-square&color=blue)](https://github.com/yairm210/Unciv/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Android/Desktop remake of Civ V
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.3k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Unciv — это полностью открытая кроссплатформ
 
 ### 中文
 
-yairm210/Unciv：yairm210/Unciv helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+yairm210/Unciv：yairm210/Unciv helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ yairm210/Unciv：yairm210/Unciv helps add AI capability without starting from a 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ yairm210/Unciv：yairm210/Unciv helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 30/100 |
-| production | 79/100 |
-| outlook | 84/100 |
+| production | 72/100 |
+| outlook | 77/100 |
 | adoption | 84/100 |
 | stars | 85/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

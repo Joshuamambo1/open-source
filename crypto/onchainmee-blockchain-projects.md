@@ -1,6 +1,6 @@
 # OnChainMee/blockchain-projects
 
-[![Stars](https://img.shields.io/github/stars/OnChainMee/blockchain-projects?style=flat-square&color=yellow)](https://github.com/OnChainMee/blockchain-projects/stargazers) [![Forks](https://img.shields.io/github/forks/OnChainMee/blockchain-projects?style=flat-square&color=blue)](https://github.com/OnChainMee/blockchain-projects/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OnChainMee/blockchain-projects?style=flat-square&color=yellow)](https://github.com/OnChainMee/blockchain-projects/stargazers) [![Forks](https://img.shields.io/github/forks/OnChainMee/blockchain-projects?style=flat-square&color=blue)](https://github.com/OnChainMee/blockchain-projects/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Solana EVM Developer: AI Agents & AI-powered on-chain systems Smart Contracts & DeFi Protocols Cross-Chain Bridges NFT Marketplaces & Dynamic NFT Platforms Token Launchpads & Bonding Curve DEXs P2E Games & GameFi Provably Fair Non-Custodial Casinos & Betting Non-Custodial Staking & Yield Systems  Institutional Lending Protocols & RWA infrastructure
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ OnChainMee/blockchain-projects：OnChainMee/blockchain-projects helps prototype 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 67/100 |
+| outlook | 73/100 |
 | adoption | 53/100 |
 | stars | 53/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

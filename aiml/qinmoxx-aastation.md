@@ -1,6 +1,6 @@
 # QinMoXX/AAStation
 
-[![Stars](https://img.shields.io/github/stars/QinMoXX/AAStation?style=flat-square&color=yellow)](https://github.com/QinMoXX/AAStation/stargazers) [![Forks](https://img.shields.io/github/forks/QinMoXX/AAStation?style=flat-square&color=blue)](https://github.com/QinMoXX/AAStation/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QinMoXX/AAStation?style=flat-square&color=yellow)](https://github.com/QinMoXX/AAStation/stargazers) [![Forks](https://img.shields.io/github/forks/QinMoXX/AAStation?style=flat-square&color=blue)](https://github.com/QinMoXX/AAStation/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent relay station
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ QinMoXX/AAStation：QinMoXX/AAStation helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 59/100 |
+| outlook | 58/100 |
 | adoption | 35/100 |
 | stars | 40/100 |
 | forks | 24/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

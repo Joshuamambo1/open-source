@@ -1,6 +1,6 @@
 # can1357/llm-git
 
-[![Stars](https://img.shields.io/github/stars/can1357/llm-git?style=flat-square&color=yellow)](https://github.com/can1357/llm-git/stargazers) [![Forks](https://img.shields.io/github/forks/can1357/llm-git?style=flat-square&color=blue)](https://github.com/can1357/llm-git/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/can1357/llm-git?style=flat-square&color=yellow)](https://github.com/can1357/llm-git/stargazers) [![Forks](https://img.shields.io/github/forks/can1357/llm-git?style=flat-square&color=blue)](https://github.com/can1357/llm-git/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AI commit message generator. Conventional commits, compose mode, and history rewrite via Claude/GPT APIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ can1357/llm-git：can1357/llm-git helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 82/100 |
+| production | 68/100 |
+| outlook | 75/100 |
 | adoption | 29/100 |
 | stars | 32/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

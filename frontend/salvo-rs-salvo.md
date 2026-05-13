@@ -1,6 +1,6 @@
 # salvo-rs/salvo
 
-[![Stars](https://img.shields.io/github/stars/salvo-rs/salvo?style=flat-square&color=yellow)](https://github.com/salvo-rs/salvo/stargazers) [![Forks](https://img.shields.io/github/forks/salvo-rs/salvo?style=flat-square&color=blue)](https://github.com/salvo-rs/salvo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/salvo-rs/salvo?style=flat-square&color=yellow)](https://github.com/salvo-rs/salvo/stargazers) [![Forks](https://img.shields.io/github/forks/salvo-rs/salvo?style=flat-square&color=blue)](https://github.com/salvo-rs/salvo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful web framework built with a simplified design.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 263 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Salvo — это высокопроизводительный веб‑фре�
 
 ### 中文
 
-salvo-rs/salvo：salvo-rs/salvo helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+salvo-rs/salvo：salvo-rs/salvo helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ salvo-rs/salvo：salvo-rs/salvo helps ship user-facing interfaces with less cust
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ salvo-rs/salvo：salvo-rs/salvo helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 30/100 |
-| production | 76/100 |
-| outlook | 82/100 |
+| production | 69/100 |
+| outlook | 75/100 |
 | adoption | 73/100 |
 | stars | 77/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

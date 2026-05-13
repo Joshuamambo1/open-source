@@ -1,6 +1,6 @@
 # domoticz/domoticz
 
-[![Stars](https://img.shields.io/github/stars/domoticz/domoticz?style=flat-square&color=yellow)](https://github.com/domoticz/domoticz/stargazers) [![Forks](https://img.shields.io/github/forks/domoticz/domoticz?style=flat-square&color=blue)](https://github.com/domoticz/domoticz/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/domoticz/domoticz?style=flat-square&color=yellow)](https://github.com/domoticz/domoticz/stargazers) [![Forks](https://img.shields.io/github/forks/domoticz/domoticz?style=flat-square&color=blue)](https://github.com/domoticz/domoticz/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Free open source home automation system for Linux, Windows, Raspberry Pi. Supports Z-Wave, Zigbee, MQTT, and 150+ devices.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Domoticz — это бесплатная система домашней ав�
 
 ### 中文
 
-domoticz/domoticz：domoticz/domoticz helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+domoticz/domoticz：domoticz/domoticz helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ domoticz/domoticz：domoticz/domoticz helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ domoticz/domoticz：domoticz/domoticz helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 46/100 |
-| production | 80/100 |
-| outlook | 89/100 |
+| production | 73/100 |
+| outlook | 82/100 |
 | adoption | 76/100 |
 | stars | 76/100 |
 | forks | 77/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

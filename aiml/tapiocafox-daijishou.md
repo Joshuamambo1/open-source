@@ -1,6 +1,6 @@
 # TapiocaFox/Daijishou
 
-[![Stars](https://img.shields.io/github/stars/TapiocaFox/Daijishou?style=flat-square&color=yellow)](https://github.com/TapiocaFox/Daijishou/stargazers) [![Forks](https://img.shields.io/github/forks/TapiocaFox/Daijishou?style=flat-square&color=blue)](https://github.com/TapiocaFox/Daijishou/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TapiocaFox/Daijishou?style=flat-square&color=yellow)](https://github.com/TapiocaFox/Daijishou/stargazers) [![Forks](https://img.shields.io/github/forks/TapiocaFox/Daijishou?style=flat-square&color=blue)](https://github.com/TapiocaFox/Daijishou/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Daijishō is a retro launcher that manages your retro games libraries. This repo is for assets and served as a main page.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Daijishō — это ретро‑лейаутер, позволяющий у�
 
 ### 中文
 
-TapiocaFox/Daijishou：TapiocaFox/Daijishou helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+TapiocaFox/Daijishou：TapiocaFox/Daijishou helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ TapiocaFox/Daijishou：TapiocaFox/Daijishou helps add AI capability without star
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ TapiocaFox/Daijishou：TapiocaFox/Daijishou helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 72/100 |
+| outlook | 72/100 |
 | adoption | 65/100 |
 | stars | 69/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

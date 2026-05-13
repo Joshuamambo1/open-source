@@ -1,6 +1,6 @@
 # blockcell-labs/blockcell
 
-[![Stars](https://img.shields.io/github/stars/blockcell-labs/blockcell?style=flat-square&color=yellow)](https://github.com/blockcell-labs/blockcell/stargazers) [![Forks](https://img.shields.io/github/forks/blockcell-labs/blockcell?style=flat-square&color=blue)](https://github.com/blockcell-labs/blockcell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blockcell-labs/blockcell?style=flat-square&color=yellow)](https://github.com/blockcell-labs/blockcell/stargazers) [![Forks](https://img.shields.io/github/forks/blockcell-labs/blockcell?style=flat-square&color=blue)](https://github.com/blockcell-labs/blockcell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Blockcell is a self‑evolving agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 234 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ blockcell-labs/blockcell：blockcell-labs/blockcell helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 69/100 |
+| production | 61/100 |
+| outlook | 62/100 |
 | adoption | 48/100 |
 | stars | 50/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

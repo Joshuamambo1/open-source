@@ -1,6 +1,6 @@
 # openstudiocoalition/OpenStudioApplication
 
-[![Stars](https://img.shields.io/github/stars/openstudiocoalition/OpenStudioApplication?style=flat-square&color=yellow)](https://github.com/openstudiocoalition/OpenStudioApplication/stargazers) [![Forks](https://img.shields.io/github/forks/openstudiocoalition/OpenStudioApplication?style=flat-square&color=blue)](https://github.com/openstudiocoalition/OpenStudioApplication/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openstudiocoalition/OpenStudioApplication?style=flat-square&color=yellow)](https://github.com/openstudiocoalition/OpenStudioApplication/stargazers) [![Forks](https://img.shields.io/github/forks/openstudiocoalition/OpenStudioApplication?style=flat-square&color=blue)](https://github.com/openstudiocoalition/OpenStudioApplication/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The OpenStudio Application is a fully featured graphical interface to OpenStudio models including envelope, loads, schedules, and HVAC.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ openstudiocoalition/OpenStudioApplication：openstudiocoalition/OpenStudioApplic
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 44/100 |
 | stars | 47/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

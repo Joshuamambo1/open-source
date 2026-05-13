@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**380 projects** in this category.
+**381 projects** in this category.
 
 ## Projects
 
@@ -83,8 +83,8 @@
 | 73 | [grpc-ecosystem/grpc-gateway](./grpc-ecosystem-grpc-gateway.md) | ⭐ 19.9k | Go | 73/100 |
 | 74 | [envoyproxy/gateway](./envoyproxy-gateway.md) | ⭐ 2.7k | Go | 73/100 |
 | 75 | [apache/thrift](./apache-thrift.md) | ⭐ 10.9k | C++ | 73/100 |
-| 76 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 73/100 |
-| 77 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 73/100 |
+| 76 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 73/100 |
+| 77 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 73/100 |
 | 78 | [lingrino/vaku](./lingrino-vaku.md) | ⭐ 159 | Go | 73/100 |
 | 79 | [TencentCloud/tencentcloud-sdk-go](./tencentcloud-tencentcloud-sdk-go.md) | ⭐ 736 | Go | 73/100 |
 | 80 | [googleapis/google-api-ruby-client](./googleapis-google-api-ruby-client.md) | ⭐ 2.9k | Ruby | 73/100 |
@@ -348,46 +348,47 @@
 | 338 | [stac-utils/rustac](./stac-utils-rustac.md) | ⭐ 139 | Rust | 56/100 |
 | 339 | [C24Be/AS_Network_List](./c24be-as-network-list.md) | ⭐ 526 | Python | 56/100 |
 | 340 | [dreamhead/moco](./dreamhead-moco.md) | ⭐ 4.4k | Java | 55/100 |
-| 341 | [greenbone/gvmd](./greenbone-gvmd.md) | ⭐ 359 | C | 55/100 |
-| 342 | [dheijl/swyh-rs](./dheijl-swyh-rs.md) | ⭐ 566 | Rust | 55/100 |
-| 343 | [joshuadavidthomas/django-language-server](./joshuadavidthomas-django-language-server.md) | ⭐ 184 | Rust | 55/100 |
-| 344 | [swiftlang/sourcekit-lsp](./swiftlang-sourcekit-lsp.md) | ⭐ 3.8k | Swift | 54/100 |
-| 345 | [facebook/fbthrift](./facebook-fbthrift.md) | ⭐ 2.7k | C++ | 54/100 |
-| 346 | [Devolutions/devolutions-gateway](./devolutions-devolutions-gateway.md) | ⭐ 142 | Rust | 54/100 |
-| 347 | [mirakc/mirakc](./mirakc-mirakc.md) | ⭐ 260 | Rust | 54/100 |
-| 348 | [inferx-net/inferx](./inferx-net-inferx.md) | ⭐ 210 | Rust | 54/100 |
-| 349 | [TencentCloudBase/awesome-cloudbase-examples](./tencentcloudbase-awesome-cloudbase-examples.md) | ⭐ 377 | JavaScript | 54/100 |
-| 350 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 462 | — | 54/100 |
-| 351 | [gizmodata/gizmosql](./gizmodata-gizmosql.md) | ⭐ 308 | C++ | 54/100 |
-| 352 | [JohnnyMorganz/luau-lsp](./johnnymorganz-luau-lsp.md) | ⭐ 479 | Luau | 54/100 |
-| 353 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 54/100 |
-| 354 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 53/100 |
-| 355 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 53/100 |
-| 356 | [Epix-Incorporated/Adonis](./epix-incorporated-adonis.md) | ⭐ 463 | Luau | 53/100 |
-| 357 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 53/100 |
-| 358 | [SwiftPackageIndex/SwiftPackageIndex-Server](./swiftpackageindex-swiftpackageindex-server.md) | ⭐ 659 | Swift | 53/100 |
-| 359 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 52/100 |
-| 360 | [terror/just-lsp](./terror-just-lsp.md) | ⭐ 289 | Rust | 51/100 |
-| 361 | [jolars/panache](./jolars-panache.md) | ⭐ 104 | Rust | 51/100 |
-| 362 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 51/100 |
-| 363 | [zanfranceschi/rinha-de-backend-2026](./zanfranceschi-rinha-de-backend-2026.md) | ⭐ 578 | C | 51/100 |
-| 364 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 310 | Dockerfile | 51/100 |
-| 365 | [opensearch-project/security](./opensearch-project-security.md) | ⭐ 244 | Java | 50/100 |
-| 366 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 50/100 |
-| 367 | [aep-dev/aeps](./aep-dev-aeps.md) | ⭐ — | — | 48/100 |
-| 368 | [VenturFlow/vc-statement-parser](./venturflow-vc-statement-parser.md) | ⭐ — | — | 48/100 |
-| 369 | [Vibeaxis/vibeaxis-analyzer](./vibeaxis-vibeaxis-analyzer.md) | ⭐ — | — | 48/100 |
-| 370 | [aryarahimi1/glnc](./aryarahimi1-glnc.md) | ⭐ — | — | 48/100 |
-| 371 | [ruidasilva/merkleworks-x402-spec](./ruidasilva-merkleworks-x402-spec.md) | ⭐ — | — | 48/100 |
-| 372 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 48/100 |
-| 373 | [orgs/community](./orgs-community.md) | ⭐ — | — | 46/100 |
-| 374 | [lekssays/codebadger](./lekssays-codebadger.md) | ⭐ — | — | 45/100 |
-| 375 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 45/100 |
-| 376 | [lucianofedericopereira/linknim](./lucianofedericopereira-linknim.md) | ⭐ — | — | 41/100 |
-| 377 | [iliaal/fastchart](./iliaal-fastchart.md) | ⭐ — | — | 41/100 |
-| 378 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 38/100 |
-| 379 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 38/100 |
-| 380 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 38/100 |
+| 341 | [neocmakelsp/neocmakelsp](./neocmakelsp-neocmakelsp.md) | ⭐ 390 | Rust | 55/100 |
+| 342 | [greenbone/gvmd](./greenbone-gvmd.md) | ⭐ 359 | C | 55/100 |
+| 343 | [dheijl/swyh-rs](./dheijl-swyh-rs.md) | ⭐ 566 | Rust | 55/100 |
+| 344 | [joshuadavidthomas/django-language-server](./joshuadavidthomas-django-language-server.md) | ⭐ 184 | Rust | 55/100 |
+| 345 | [swiftlang/sourcekit-lsp](./swiftlang-sourcekit-lsp.md) | ⭐ 3.8k | Swift | 54/100 |
+| 346 | [facebook/fbthrift](./facebook-fbthrift.md) | ⭐ 2.7k | C++ | 54/100 |
+| 347 | [Devolutions/devolutions-gateway](./devolutions-devolutions-gateway.md) | ⭐ 142 | Rust | 54/100 |
+| 348 | [mirakc/mirakc](./mirakc-mirakc.md) | ⭐ 260 | Rust | 54/100 |
+| 349 | [inferx-net/inferx](./inferx-net-inferx.md) | ⭐ 210 | Rust | 54/100 |
+| 350 | [TencentCloudBase/awesome-cloudbase-examples](./tencentcloudbase-awesome-cloudbase-examples.md) | ⭐ 377 | JavaScript | 54/100 |
+| 351 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 462 | — | 54/100 |
+| 352 | [gizmodata/gizmosql](./gizmodata-gizmosql.md) | ⭐ 308 | C++ | 54/100 |
+| 353 | [JohnnyMorganz/luau-lsp](./johnnymorganz-luau-lsp.md) | ⭐ 479 | Luau | 54/100 |
+| 354 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 54/100 |
+| 355 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 53/100 |
+| 356 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 53/100 |
+| 357 | [Epix-Incorporated/Adonis](./epix-incorporated-adonis.md) | ⭐ 463 | Luau | 53/100 |
+| 358 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 53/100 |
+| 359 | [SwiftPackageIndex/SwiftPackageIndex-Server](./swiftpackageindex-swiftpackageindex-server.md) | ⭐ 659 | Swift | 53/100 |
+| 360 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 52/100 |
+| 361 | [terror/just-lsp](./terror-just-lsp.md) | ⭐ 289 | Rust | 51/100 |
+| 362 | [jolars/panache](./jolars-panache.md) | ⭐ 104 | Rust | 51/100 |
+| 363 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 51/100 |
+| 364 | [zanfranceschi/rinha-de-backend-2026](./zanfranceschi-rinha-de-backend-2026.md) | ⭐ 578 | C | 51/100 |
+| 365 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 310 | Dockerfile | 51/100 |
+| 366 | [opensearch-project/security](./opensearch-project-security.md) | ⭐ 244 | Java | 50/100 |
+| 367 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 50/100 |
+| 368 | [aep-dev/aeps](./aep-dev-aeps.md) | ⭐ — | — | 48/100 |
+| 369 | [VenturFlow/vc-statement-parser](./venturflow-vc-statement-parser.md) | ⭐ — | — | 48/100 |
+| 370 | [Vibeaxis/vibeaxis-analyzer](./vibeaxis-vibeaxis-analyzer.md) | ⭐ — | — | 48/100 |
+| 371 | [aryarahimi1/glnc](./aryarahimi1-glnc.md) | ⭐ — | — | 48/100 |
+| 372 | [ruidasilva/merkleworks-x402-spec](./ruidasilva-merkleworks-x402-spec.md) | ⭐ — | — | 48/100 |
+| 373 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 48/100 |
+| 374 | [orgs/community](./orgs-community.md) | ⭐ — | — | 46/100 |
+| 375 | [lekssays/codebadger](./lekssays-codebadger.md) | ⭐ — | — | 45/100 |
+| 376 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 45/100 |
+| 377 | [lucianofedericopereira/linknim](./lucianofedericopereira-linknim.md) | ⭐ — | — | 41/100 |
+| 378 | [iliaal/fastchart](./iliaal-fastchart.md) | ⭐ — | — | 41/100 |
+| 379 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 38/100 |
+| 380 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 38/100 |
+| 381 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 38/100 |
 
 ---
 

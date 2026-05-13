@@ -1,6 +1,6 @@
 # awalol/DS5Dongle
 
-[![Stars](https://img.shields.io/github/stars/awalol/DS5Dongle?style=flat-square&color=yellow)](https://github.com/awalol/DS5Dongle/stargazers) [![Forks](https://img.shields.io/github/forks/awalol/DS5Dongle?style=flat-square&color=blue)](https://github.com/awalol/DS5Dongle/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awalol/DS5Dongle?style=flat-square&color=yellow)](https://github.com/awalol/DS5Dongle/stargazers) [![Forks](https://img.shields.io/github/forks/awalol/DS5Dongle?style=flat-square&color=blue)](https://github.com/awalol/DS5Dongle/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Turn your Pico 2 W into a DualSense 5 dongle.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ awalol/DS5Dongle：awalol/DS5Dongle may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 63/100 |
+| outlook | 61/100 |
 | adoption | 60/100 |
 | stars | 65/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

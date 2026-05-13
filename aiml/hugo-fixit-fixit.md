@@ -1,6 +1,6 @@
 # hugo-fixit/FixIt
 
-[![Stars](https://img.shields.io/github/stars/hugo-fixit/FixIt?style=flat-square&color=yellow)](https://github.com/hugo-fixit/FixIt/stargazers) [![Forks](https://img.shields.io/github/forks/hugo-fixit/FixIt?style=flat-square&color=blue)](https://github.com/hugo-fixit/FixIt/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hugo-fixit/FixIt?style=flat-square&color=yellow)](https://github.com/hugo-fixit/FixIt/stargazers) [![Forks](https://img.shields.io/github/forks/hugo-fixit/FixIt?style=flat-square&color=blue)](https://github.com/hugo-fixit/FixIt/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🔧 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ hugo-fixit/FixIt — это современная и при этом лёгк
 
 ### 中文
 
-hugo-fixit/FixIt：hugo-fixit/FixIt helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+hugo-fixit/FixIt：hugo-fixit/FixIt helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hugo-fixit/FixIt：hugo-fixit/FixIt helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ hugo-fixit/FixIt：hugo-fixit/FixIt helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 79/100 |
+| production | 71/100 |
+| outlook | 72/100 |
 | adoption | 62/100 |
 | stars | 65/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

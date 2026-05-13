@@ -1,6 +1,6 @@
 # radkesvat/WaterWall
 
-[![Stars](https://img.shields.io/github/stars/radkesvat/WaterWall?style=flat-square&color=yellow)](https://github.com/radkesvat/WaterWall/stargazers) [![Forks](https://img.shields.io/github/forks/radkesvat/WaterWall?style=flat-square&color=blue)](https://github.com/radkesvat/WaterWall/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/radkesvat/WaterWall?style=flat-square&color=yellow)](https://github.com/radkesvat/WaterWall/stargazers) [![Forks](https://img.shields.io/github/forks/radkesvat/WaterWall?style=flat-square&color=blue)](https://github.com/radkesvat/WaterWall/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > WaterWall is a work in progress networking-core that aims to be as flexible as possible
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 565 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ radkesvat/WaterWall：radkesvat/WaterWall helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 55/100 |
 | stars | 59/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.9k | TypeScript | 71/100 |
+| 1 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 122.9k | TypeScript | 68/100 |
 | 2 | [spring-projects/spring-boot](./spring-projects-spring-boot.md) | ⭐ 80.6k | Java | 67/100 |
 | 3 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9.1k | Python | 67/100 |
 | 4 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.7k | Clojure | 64/100 |

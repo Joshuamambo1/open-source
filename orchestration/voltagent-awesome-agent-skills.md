@@ -1,6 +1,6 @@
 # VoltAgent/awesome-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat-square&color=yellow)](https://github.com/VoltAgent/awesome-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=flat-square&color=blue)](https://github.com/VoltAgent/awesome-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat-square&color=yellow)](https://github.com/VoltAgent/awesome-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=flat-square&color=blue)](https://github.com/VoltAgent/awesome-agent-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21.1k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ VoltAgent/awesome-agent-skills：VoltAgent/awesome-agent-skills helps turn isola
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 95/100 |
+| quality | 90/100 |
 | integration | 46/100 |
-| production | 82/100 |
-| outlook | 92/100 |
+| production | 75/100 |
+| outlook | 85/100 |
 | adoption | 90/100 |
 | stars | 92/100 |
 | forks | 84/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

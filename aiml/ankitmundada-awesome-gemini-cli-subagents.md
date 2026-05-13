@@ -1,6 +1,6 @@
 # ankitmundada/awesome-gemini-cli-subagents
 
-[![Stars](https://img.shields.io/github/stars/ankitmundada/awesome-gemini-cli-subagents?style=flat-square&color=yellow)](https://github.com/ankitmundada/awesome-gemini-cli-subagents/stargazers) [![Forks](https://img.shields.io/github/forks/ankitmundada/awesome-gemini-cli-subagents?style=flat-square&color=blue)](https://github.com/ankitmundada/awesome-gemini-cli-subagents/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ankitmundada/awesome-gemini-cli-subagents?style=flat-square&color=yellow)](https://github.com/ankitmundada/awesome-gemini-cli-subagents/stargazers) [![Forks](https://img.shields.io/github/forks/ankitmundada/awesome-gemini-cli-subagents?style=flat-square&color=blue)](https://github.com/ankitmundada/awesome-gemini-cli-subagents/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 100+ subagents for gemini-cli
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ankitmundada/awesome-gemini-cli-subagents：ankitmundada/awesome-gemini-cli-suba
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 63/100 |
+| outlook | 65/100 |
 | adoption | 27/100 |
 | stars | 31/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

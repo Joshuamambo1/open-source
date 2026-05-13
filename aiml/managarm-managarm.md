@@ -1,6 +1,6 @@
 # managarm/managarm
 
-[![Stars](https://img.shields.io/github/stars/managarm/managarm?style=flat-square&color=yellow)](https://github.com/managarm/managarm/stargazers) [![Forks](https://img.shields.io/github/forks/managarm/managarm?style=flat-square&color=blue)](https://github.com/managarm/managarm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/managarm/managarm?style=flat-square&color=yellow)](https://github.com/managarm/managarm/stargazers) [![Forks](https://img.shields.io/github/forks/managarm/managarm?style=flat-square&color=blue)](https://github.com/managarm/managarm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Pragmatic microkernel-based OS with fully asynchronous I/O
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ managarm/managarm：managarm/managarm helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 64/100 |
 | stars | 70/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

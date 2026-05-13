@@ -1,6 +1,6 @@
 # ballerina-platform/ballerina-dev-website
 
-[![Stars](https://img.shields.io/github/stars/ballerina-platform/ballerina-dev-website?style=flat-square&color=yellow)](https://github.com/ballerina-platform/ballerina-dev-website/stargazers) [![Forks](https://img.shields.io/github/forks/ballerina-platform/ballerina-dev-website?style=flat-square&color=blue)](https://github.com/ballerina-platform/ballerina-dev-website/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ballerina-platform/ballerina-dev-website?style=flat-square&color=yellow)](https://github.com/ballerina-platform/ballerina-dev-website/stargazers) [![Forks](https://img.shields.io/github/forks/ballerina-platform/ballerina-dev-website?style=flat-square&color=blue)](https://github.com/ballerina-platform/ballerina-dev-website/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Dev version of the ballerina.io website
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ballerina-platform/ballerina-dev-website：ballerina-platform/ballerina-dev-webs
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 63/100 |
+| outlook | 61/100 |
 | adoption | 50/100 |
 | stars | 47/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

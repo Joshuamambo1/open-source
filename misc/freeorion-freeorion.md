@@ -1,6 +1,6 @@
 # freeorion/freeorion
 
-[![Stars](https://img.shields.io/github/stars/freeorion/freeorion?style=flat-square&color=yellow)](https://github.com/freeorion/freeorion/stargazers) [![Forks](https://img.shields.io/github/forks/freeorion/freeorion?style=flat-square&color=blue)](https://github.com/freeorion/freeorion/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freeorion/freeorion?style=flat-square&color=yellow)](https://github.com/freeorion/freeorion/stargazers) [![Forks](https://img.shields.io/github/forks/freeorion/freeorion?style=flat-square&color=blue)](https://github.com/freeorion/freeorion/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Source code repository of the FreeOrion project.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 987 |
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ FreeOrion — это открытая кроссплатформенная с�
 
 ### 中文
 
-freeorion/freeorion：freeorion/freeorion may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+freeorion/freeorion：freeorion/freeorion may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ freeorion/freeorion：freeorion/freeorion may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ freeorion/freeorion：freeorion/freeorion may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 79/100 |
+| production | 69/100 |
+| outlook | 72/100 |
 | adoption | 62/100 |
 | stars | 64/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

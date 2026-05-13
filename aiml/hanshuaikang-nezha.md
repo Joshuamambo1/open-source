@@ -1,6 +1,6 @@
 # hanshuaikang/nezha
 
-[![Stars](https://img.shields.io/github/stars/hanshuaikang/nezha?style=flat-square&color=yellow)](https://github.com/hanshuaikang/nezha/stargazers) [![Forks](https://img.shields.io/github/forks/hanshuaikang/nezha?style=flat-square&color=blue)](https://github.com/hanshuaikang/nezha/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hanshuaikang/nezha?style=flat-square&color=yellow)](https://github.com/hanshuaikang/nezha/stargazers) [![Forks](https://img.shields.io/github/forks/hanshuaikang/nezha?style=flat-square&color=blue)](https://github.com/hanshuaikang/nezha/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Nezha is an open‑source code editor designed for the AI‑driven development e
 
 ### 中文
 
-hanshuaikang/nezha：hanshuaikang/nezha helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+hanshuaikang/nezha：hanshuaikang/nezha helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hanshuaikang/nezha：hanshuaikang/nezha helps add AI capability without starting
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ hanshuaikang/nezha：hanshuaikang/nezha helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

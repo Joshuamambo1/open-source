@@ -1,6 +1,6 @@
 # AHCorn/Bilibili-Auto-Quality
 
-[![Stars](https://img.shields.io/github/stars/AHCorn/Bilibili-Auto-Quality?style=flat-square&color=yellow)](https://github.com/AHCorn/Bilibili-Auto-Quality/stargazers) [![Forks](https://img.shields.io/github/forks/AHCorn/Bilibili-Auto-Quality?style=flat-square&color=blue)](https://github.com/AHCorn/Bilibili-Auto-Quality/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AHCorn/Bilibili-Auto-Quality?style=flat-square&color=yellow)](https://github.com/AHCorn/Bilibili-Auto-Quality/stargazers) [![Forks](https://img.shields.io/github/forks/AHCorn/Bilibili-Auto-Quality?style=flat-square&color=blue)](https://github.com/AHCorn/Bilibili-Auto-Quality/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 自动解锁并更改哔哩哔哩视频的画质和音质及直播画质，实现自动选择最高画质、无损音频、杜比全景声。 / Automatically unlock and select highest quality,lossless audio,and Dolby Atmos for Bilibili videos.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 562 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ AHCorn/Bilibili-Auto-Quality：AHCorn/Bilibili-Auto-Quality may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 62/100 |
+| outlook | 61/100 |
 | adoption | 51/100 |
 | stars | 59/100 |
 | forks | 33/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

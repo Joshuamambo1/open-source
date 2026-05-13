@@ -1,6 +1,6 @@
 # robbert-vdh/nih-plug
 
-[![Stars](https://img.shields.io/github/stars/robbert-vdh/nih-plug?style=flat-square&color=yellow)](https://github.com/robbert-vdh/nih-plug/stargazers) [![Forks](https://img.shields.io/github/forks/robbert-vdh/nih-plug?style=flat-square&color=blue)](https://github.com/robbert-vdh/nih-plug/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robbert-vdh/nih-plug?style=flat-square&color=yellow)](https://github.com/robbert-vdh/nih-plug/stargazers) [![Forks](https://img.shields.io/github/forks/robbert-vdh/nih-plug?style=flat-square&color=blue)](https://github.com/robbert-vdh/nih-plug/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Robbert‑vdh/nih‑plug is an open‑source Rust framework for building audio p
 
 ### 中文
 
-robbert-vdh/nih-plug：robbert-vdh/nih-plug may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+robbert-vdh/nih-plug：robbert-vdh/nih-plug may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ robbert-vdh/nih-plug：robbert-vdh/nih-plug may be useful when its README and ac
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ robbert-vdh/nih-plug：robbert-vdh/nih-plug may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 72/100 |
+| outlook | 76/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

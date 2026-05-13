@@ -1,6 +1,6 @@
 # liguodongiot/llm-action
 
-[![Stars](https://img.shields.io/github/stars/liguodongiot/llm-action?style=flat-square&color=yellow)](https://github.com/liguodongiot/llm-action/stargazers) [![Forks](https://img.shields.io/github/forks/liguodongiot/llm-action?style=flat-square&color=blue)](https://github.com/liguodongiot/llm-action/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liguodongiot/llm-action?style=flat-square&color=yellow)](https://github.com/liguodongiot/llm-action/stargazers) [![Forks](https://img.shields.io/github/forks/liguodongiot/llm-action?style=flat-square&color=blue)](https://github.com/liguodongiot/llm-action/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24.2k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **llm-action** repository by *liguodongiot* provides a collection of resourc
 
 ### 中文
 
-liguodongiot/llm-action：liguodongiot/llm-action helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+liguodongiot/llm-action：liguodongiot/llm-action helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ liguodongiot/llm-action：liguodongiot/llm-action helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ liguodongiot/llm-action：liguodongiot/llm-action helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 90/100 |
+| quality | 85/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 91/100 |
 | stars | 93/100 |
 | forks | 86/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

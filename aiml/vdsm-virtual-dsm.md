@@ -1,6 +1,6 @@
 # vdsm/virtual-dsm
 
-[![Stars](https://img.shields.io/github/stars/vdsm/virtual-dsm?style=flat-square&color=yellow)](https://github.com/vdsm/virtual-dsm/stargazers) [![Forks](https://img.shields.io/github/forks/vdsm/virtual-dsm?style=flat-square&color=blue)](https://github.com/vdsm/virtual-dsm/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vdsm/virtual-dsm?style=flat-square&color=yellow)](https://github.com/vdsm/virtual-dsm/stargazers) [![Forks](https://img.shields.io/github/forks/vdsm/virtual-dsm?style=flat-square&color=blue)](https://github.com/vdsm/virtual-dsm/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Virtual DSM in a Docker container.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 474 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ vdsm/virtual-dsm provides a lightweight, containerized implementation of the Vir
 
 ### 中文
 
-vdsm/virtual-dsm：vdsm/virtual-dsm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+vdsm/virtual-dsm：vdsm/virtual-dsm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ vdsm/virtual-dsm：vdsm/virtual-dsm helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ vdsm/virtual-dsm：vdsm/virtual-dsm helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 82/100 |
+| production | 73/100 |
+| outlook | 75/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

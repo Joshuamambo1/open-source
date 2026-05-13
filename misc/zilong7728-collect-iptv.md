@@ -1,6 +1,6 @@
 # zilong7728/Collect-IPTV
 
-[![Stars](https://img.shields.io/github/stars/zilong7728/Collect-IPTV?style=flat-square&color=yellow)](https://github.com/zilong7728/Collect-IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/zilong7728/Collect-IPTV?style=flat-square&color=blue)](https://github.com/zilong7728/Collect-IPTV/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zilong7728/Collect-IPTV?style=flat-square&color=yellow)](https://github.com/zilong7728/Collect-IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/zilong7728/Collect-IPTV?style=flat-square&color=blue)](https://github.com/zilong7728/Collect-IPTV/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 📡IPTV节目源收集，每4小时更新！！
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 219 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -62,14 +62,14 @@ zilong7728/Collect-IPTV：zilong7728/Collect-IPTV may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 63/100 |
 | stars | 64/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

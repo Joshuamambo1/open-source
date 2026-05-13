@@ -1,6 +1,6 @@
 # Pennyw0rth/NetExec
 
-[![Stars](https://img.shields.io/github/stars/Pennyw0rth/NetExec?style=flat-square&color=yellow)](https://github.com/Pennyw0rth/NetExec/stargazers) [![Forks](https://img.shields.io/github/forks/Pennyw0rth/NetExec?style=flat-square&color=blue)](https://github.com/Pennyw0rth/NetExec/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pennyw0rth/NetExec?style=flat-square&color=yellow)](https://github.com/Pennyw0rth/NetExec/stargazers) [![Forks](https://img.shields.io/github/forks/Pennyw0rth/NetExec?style=flat-square&color=blue)](https://github.com/Pennyw0rth/NetExec/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The Network Execution Tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 701 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Pennyw0rth/NetExec — это открытый инструмент для у�
 
 ### 中文
 
-Pennyw0rth/NetExec：Pennyw0rth/NetExec helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Pennyw0rth/NetExec：Pennyw0rth/NetExec helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Pennyw0rth/NetExec：Pennyw0rth/NetExec helps engineers save time in daily devel
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Pennyw0rth/NetExec：Pennyw0rth/NetExec helps engineers save time in daily devel
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 90/100 |
+| quality | 85/100 |
 | integration | 46/100 |
-| production | 80/100 |
-| outlook | 86/100 |
+| production | 73/100 |
+| outlook | 79/100 |
 | adoption | 77/100 |
 | stars | 80/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

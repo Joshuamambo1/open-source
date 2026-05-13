@@ -1,6 +1,6 @@
 # mtantaoui/Integrate
 
-[![Stars](https://img.shields.io/github/stars/mtantaoui/Integrate?style=flat-square&color=yellow)](https://github.com/mtantaoui/Integrate/stargazers) [![Forks](https://img.shields.io/github/forks/mtantaoui/Integrate?style=flat-square&color=blue)](https://github.com/mtantaoui/Integrate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mtantaoui/Integrate?style=flat-square&color=yellow)](https://github.com/mtantaoui/Integrate/stargazers) [![Forks](https://img.shields.io/github/forks/mtantaoui/Integrate?style=flat-square&color=blue)](https://github.com/mtantaoui/Integrate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > a small, lightweight crate for numerical integration written in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mtantaoui/Integrate：mtantaoui/Integrate helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 71/100 |
+| production | 62/100 |
+| outlook | 64/100 |
 | adoption | 37/100 |
 | stars | 44/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

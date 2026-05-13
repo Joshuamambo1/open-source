@@ -1,6 +1,6 @@
 # Ride-The-Lightning/RTL
 
-[![Stars](https://img.shields.io/github/stars/Ride-The-Lightning/RTL?style=flat-square&color=yellow)](https://github.com/Ride-The-Lightning/RTL/stargazers) [![Forks](https://img.shields.io/github/forks/Ride-The-Lightning/RTL?style=flat-square&color=blue)](https://github.com/Ride-The-Lightning/RTL/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ride-The-Lightning/RTL?style=flat-square&color=yellow)](https://github.com/Ride-The-Lightning/RTL/stargazers) [![Forks](https://img.shields.io/github/forks/Ride-The-Lightning/RTL?style=flat-square&color=blue)](https://github.com/Ride-The-Lightning/RTL/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Ride The Lightning - A full function web browser app for LND, C-Lightning and Eclair
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 797 |
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ride-The-Lightning (RTL) — это полностью функциональ�
 
 ### 中文
 
-Ride-The-Lightning/RTL：Ride-The-Lightning/RTL helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Ride-The-Lightning/RTL：Ride-The-Lightning/RTL helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Ride-The-Lightning/RTL：Ride-The-Lightning/RTL helps prototype or inspect block
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Ride-The-Lightning/RTL：Ride-The-Lightning/RTL helps prototype or inspect block
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 78/100 |
+| production | 71/100 |
+| outlook | 71/100 |
 | adoption | 60/100 |
 | stars | 62/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

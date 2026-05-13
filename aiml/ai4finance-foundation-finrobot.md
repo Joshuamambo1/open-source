@@ -1,6 +1,6 @@
 # AI4Finance-Foundation/FinRobot
 
-[![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=flat-square&color=yellow)](https://github.com/AI4Finance-Foundation/FinRobot/stargazers) [![Forks](https://img.shields.io/github/forks/AI4Finance-Foundation/FinRobot?style=flat-square&color=blue)](https://github.com/AI4Finance-Foundation/FinRobot/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=flat-square&color=yellow)](https://github.com/AI4Finance-Foundation/FinRobot/stargazers) [![Forks](https://img.shields.io/github/forks/AI4Finance-Foundation/FinRobot?style=flat-square&color=blue)](https://github.com/AI4Finance-Foundation/FinRobot/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ FinRobot — это открытая платформа‑агент, позв
 
 ### 中文
 
-AI4Finance-Foundation/FinRobot：AI4Finance-Foundation/FinRobot helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+AI4Finance-Foundation/FinRobot：AI4Finance-Foundation/FinRobot helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AI4Finance-Foundation/FinRobot：AI4Finance-Foundation/FinRobot helps add AI cap
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ AI4Finance-Foundation/FinRobot：AI4Finance-Foundation/FinRobot helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 87/100 |
+| production | 72/100 |
+| outlook | 80/100 |
 | adoption | 80/100 |
 | stars | 82/100 |
 | forks | 77/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

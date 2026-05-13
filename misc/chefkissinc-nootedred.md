@@ -1,6 +1,6 @@
 # ChefKissInc/NootedRed
 
-[![Stars](https://img.shields.io/github/stars/ChefKissInc/NootedRed?style=flat-square&color=yellow)](https://github.com/ChefKissInc/NootedRed/stargazers) [![Forks](https://img.shields.io/github/forks/ChefKissInc/NootedRed?style=flat-square&color=blue)](https://github.com/ChefKissInc/NootedRed/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChefKissInc/NootedRed?style=flat-square&color=yellow)](https://github.com/ChefKissInc/NootedRed/stargazers) [![Forks](https://img.shields.io/github/forks/ChefKissInc/NootedRed?style=flat-square&color=blue)](https://github.com/ChefKissInc/NootedRed/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The unsupported AMD GPU support kext. No commercial use.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ChefKissInc/NootedRed — это открытый kext, предоставля
 
 ### 中文
 
-ChefKissInc/NootedRed：ChefKissInc/NootedRed may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ChefKissInc/NootedRed：ChefKissInc/NootedRed may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ ChefKissInc/NootedRed：ChefKissInc/NootedRed may be useful when its README and 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ ChefKissInc/NootedRed：ChefKissInc/NootedRed may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 73/100 |
+| outlook | 74/100 |
 | adoption | 72/100 |
 | stars | 70/100 |
 | forks | 77/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

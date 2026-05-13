@@ -1,6 +1,6 @@
 # 0xCUB3/wBlock
 
-[![Stars](https://img.shields.io/github/stars/0xCUB3/wBlock?style=flat-square&color=yellow)](https://github.com/0xCUB3/wBlock/stargazers) [![Forks](https://img.shields.io/github/forks/0xCUB3/wBlock?style=flat-square&color=blue)](https://github.com/0xCUB3/wBlock/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xCUB3/wBlock?style=flat-square&color=yellow)](https://github.com/0xCUB3/wBlock/stargazers) [![Forks](https://img.shields.io/github/forks/0xCUB3/wBlock?style=flat-square&color=blue)](https://github.com/0xCUB3/wBlock/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The next-generation ad blocker for Safari.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ Misc
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 64/100 |
+| outlook | 62/100 |
 | adoption | 64/100 |
 | stars | 72/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

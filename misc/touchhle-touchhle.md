@@ -1,6 +1,6 @@
 # touchHLE/touchHLE
 
-[![Stars](https://img.shields.io/github/stars/touchHLE/touchHLE?style=flat-square&color=yellow)](https://github.com/touchHLE/touchHLE/stargazers) [![Forks](https://img.shields.io/github/forks/touchHLE/touchHLE?style=flat-square&color=blue)](https://github.com/touchHLE/touchHLE/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/touchHLE/touchHLE?style=flat-square&color=yellow)](https://github.com/touchHLE/touchHLE/stargazers) [![Forks](https://img.shields.io/github/forks/touchHLE/touchHLE?style=flat-square&color=blue)](https://github.com/touchHLE/touchHLE/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ touchHLE/touchHLE：touchHLE/touchHLE may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 65/100 |
+| outlook | 64/100 |
 | adoption | 71/100 |
 | stars | 76/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

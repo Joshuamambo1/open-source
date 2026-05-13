@@ -1,6 +1,6 @@
 # frappe/press
 
-[![Stars](https://img.shields.io/github/stars/frappe/press?style=flat-square&color=yellow)](https://github.com/frappe/press/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/press?style=flat-square&color=blue)](https://github.com/frappe/press/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frappe/press?style=flat-square&color=yellow)](https://github.com/frappe/press/stargazers) [![Forks](https://img.shields.io/github/forks/frappe/press?style=flat-square&color=blue)](https://github.com/frappe/press/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Full service cloud hosting for the Frappe stack - powers Frappe Cloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 506 |
 | 🍴 **Forks** | 373 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ frappe/press is an open‑source platform that provides fully managed cloud host
 
 ### 中文
 
-frappe/press：frappe/press helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+frappe/press：frappe/press helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ frappe/press：frappe/press helps make deployment and operations more repeatable
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ frappe/press：frappe/press helps make deployment and operations more repeatable
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 76/100 |
+| production | 71/100 |
+| outlook | 69/100 |
 | adoption | 59/100 |
 | stars | 58/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

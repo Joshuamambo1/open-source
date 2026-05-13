@@ -1,6 +1,6 @@
 # joomla/joomla-cms
 
-[![Stars](https://img.shields.io/github/stars/joomla/joomla-cms?style=flat-square&color=yellow)](https://github.com/joomla/joomla-cms/stargazers) [![Forks](https://img.shields.io/github/forks/joomla/joomla-cms?style=flat-square&color=blue)](https://github.com/joomla/joomla-cms/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joomla/joomla-cms?style=flat-square&color=yellow)](https://github.com/joomla/joomla-cms/stargazers) [![Forks](https://img.shields.io/github/forks/joomla/joomla-cms?style=flat-square&color=blue)](https://github.com/joomla/joomla-cms/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Home of the Joomla! Content Management System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Joomla CMS — это открытая система управления �
 
 ### 中文
 
-joomla/joomla-cms：joomla/joomla-cms helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+joomla/joomla-cms：joomla/joomla-cms helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ joomla/joomla-cms：joomla/joomla-cms helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ joomla/joomla-cms：joomla/joomla-cms helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 92/100 |
+| quality | 87/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 84/100 |
+| production | 72/100 |
+| outlook | 77/100 |
 | adoption | 82/100 |
 | stars | 79/100 |
 | forks | 90/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

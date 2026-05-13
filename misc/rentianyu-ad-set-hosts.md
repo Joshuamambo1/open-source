@@ -1,6 +1,6 @@
 # rentianyu/Ad-set-hosts
 
-[![Stars](https://img.shields.io/github/stars/rentianyu/Ad-set-hosts?style=flat-square&color=yellow)](https://github.com/rentianyu/Ad-set-hosts/stargazers) [![Forks](https://img.shields.io/github/forks/rentianyu/Ad-set-hosts?style=flat-square&color=blue)](https://github.com/rentianyu/Ad-set-hosts/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rentianyu/Ad-set-hosts?style=flat-square&color=yellow)](https://github.com/rentianyu/Ad-set-hosts/stargazers) [![Forks](https://img.shields.io/github/forks/rentianyu/Ad-set-hosts?style=flat-square&color=blue)](https://github.com/rentianyu/Ad-set-hosts/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 集合多个去广告hosts并去重
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 419 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ rentianyu/Ad-set-hosts：rentianyu/Ad-set-hosts may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 66/100 |
+| production | 61/100 |
+| outlook | 59/100 |
 | adoption | 51/100 |
 | stars | 56/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

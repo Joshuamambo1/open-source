@@ -1,6 +1,6 @@
 # ineo6/hosts
 
-[![Stars](https://img.shields.io/github/stars/ineo6/hosts?style=flat-square&color=yellow)](https://github.com/ineo6/hosts/stargazers) [![Forks](https://img.shields.io/github/forks/ineo6/hosts?style=flat-square&color=blue)](https://github.com/ineo6/hosts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ineo6/hosts?style=flat-square&color=yellow)](https://github.com/ineo6/hosts/stargazers) [![Forks](https://img.shields.io/github/forks/ineo6/hosts?style=flat-square&color=blue)](https://github.com/ineo6/hosts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 457 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **ineo6/hosts** repository provides an up‑to‑date hosts file that blocks
 
 ### 中文
 
-ineo6/hosts：ineo6/hosts may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ineo6/hosts：ineo6/hosts may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ ineo6/hosts：ineo6/hosts may be useful when its README and activity match a con
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ ineo6/hosts：ineo6/hosts may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 76/100 |
+| production | 70/100 |
+| outlook | 69/100 |
 | adoption | 76/100 |
 | stars | 79/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # getomnico/omni
 
-[![Stars](https://img.shields.io/github/stars/getomnico/omni?style=flat-square&color=yellow)](https://github.com/getomnico/omni/stargazers) [![Forks](https://img.shields.io/github/forks/getomnico/omni?style=flat-square&color=blue)](https://github.com/getomnico/omni/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getomnico/omni?style=flat-square&color=yellow)](https://github.com/getomnico/omni/stargazers) [![Forks](https://img.shields.io/github/forks/getomnico/omni?style=flat-square&color=blue)](https://github.com/getomnico/omni/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Workplace AI Assistant and Search Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 704 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ getomnico/omni：getomnico/omni helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 55/100 |
 | stars | 61/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

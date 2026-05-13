@@ -1,6 +1,6 @@
 # formulahendry/wechat-acp
 
-[![Stars](https://img.shields.io/github/stars/formulahendry/wechat-acp?style=flat-square&color=yellow)](https://github.com/formulahendry/wechat-acp/stargazers) [![Forks](https://img.shields.io/github/forks/formulahendry/wechat-acp?style=flat-square&color=blue)](https://github.com/formulahendry/wechat-acp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/formulahendry/wechat-acp?style=flat-square&color=yellow)](https://github.com/formulahendry/wechat-acp/stargazers) [![Forks](https://img.shields.io/github/forks/formulahendry/wechat-acp?style=flat-square&color=blue)](https://github.com/formulahendry/wechat-acp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Bridge WeChat chat messages to any ACP-compatible AI agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode and more)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 528 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML · DevTools
 
 ### 中文
 
-formulahendry/wechat-acp：formulahendry/wechat-acp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+formulahendry/wechat-acp：formulahendry/wechat-acp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ formulahendry/wechat-acp：formulahendry/wechat-acp helps add AI capability with
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ formulahendry/wechat-acp：formulahendry/wechat-acp helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # googleapis/google-api-ruby-client
 
-[![Stars](https://img.shields.io/github/stars/googleapis/google-api-ruby-client?style=flat-square&color=yellow)](https://github.com/googleapis/google-api-ruby-client/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-api-ruby-client?style=flat-square&color=blue)](https://github.com/googleapis/google-api-ruby-client/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/google-api-ruby-client?style=flat-square&color=yellow)](https://github.com/googleapis/google-api-ruby-client/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-api-ruby-client?style=flat-square&color=blue)](https://github.com/googleapis/google-api-ruby-client/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > REST client for Google APIs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 884 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Google API Ruby Client — это открытый REST‑клиент, позв
 
 ### 中文
 
-googleapis/google-api-ruby-client：googleapis/google-api-ruby-client helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+googleapis/google-api-ruby-client：googleapis/google-api-ruby-client helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ googleapis/google-api-ruby-client：googleapis/google-api-ruby-client helps team
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ googleapis/google-api-ruby-client：googleapis/google-api-ruby-client helps team
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 78/100 |
+| production | 72/100 |
+| outlook | 71/100 |
 | adoption | 74/100 |
 | stars | 74/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

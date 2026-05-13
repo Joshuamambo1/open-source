@@ -1,6 +1,6 @@
 # PixelGuys/Cubyz
 
-[![Stars](https://img.shields.io/github/stars/PixelGuys/Cubyz?style=flat-square&color=yellow)](https://github.com/PixelGuys/Cubyz/stargazers) [![Forks](https://img.shields.io/github/forks/PixelGuys/Cubyz?style=flat-square&color=blue)](https://github.com/PixelGuys/Cubyz/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PixelGuys/Cubyz?style=flat-square&color=yellow)](https://github.com/PixelGuys/Cubyz/stargazers) [![Forks](https://img.shields.io/github/forks/PixelGuys/Cubyz?style=flat-square&color=blue)](https://github.com/PixelGuys/Cubyz/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 218 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ PixelGuys/Cubyz — это открытый воксельный песочн�
 
 ### 中文
 
-PixelGuys/Cubyz：PixelGuys/Cubyz may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+PixelGuys/Cubyz：PixelGuys/Cubyz may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ PixelGuys/Cubyz：PixelGuys/Cubyz may be useful when its README and activity mat
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ PixelGuys/Cubyz：PixelGuys/Cubyz may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 71/100 |
 | stars | 75/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

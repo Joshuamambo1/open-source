@@ -1,6 +1,6 @@
 # Alishahryar1/free-claude-code
 
-[![Stars](https://img.shields.io/github/stars/Alishahryar1/free-claude-code?style=flat-square&color=yellow)](https://github.com/Alishahryar1/free-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/Alishahryar1/free-claude-code?style=flat-square&color=blue)](https://github.com/Alishahryar1/free-claude-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Alishahryar1/free-claude-code?style=flat-square&color=yellow)](https://github.com/Alishahryar1/free-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/Alishahryar1/free-claude-code?style=flat-square&color=blue)](https://github.com/Alishahryar1/free-claude-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23.4k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Alishahryar1/free-claude-code — это открытый проект, поз
 
 ### 中文
 
-Alishahryar1/free-claude-code：Alishahryar1/free-claude-code may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Alishahryar1/free-claude-code：Alishahryar1/free-claude-code may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Alishahryar1/free-claude-code：Alishahryar1/free-claude-code may be useful when
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ Alishahryar1/free-claude-code：Alishahryar1/free-claude-code may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 76/100 |
+| production | 70/100 |
+| outlook | 69/100 |
 | adoption | 92/100 |
 | stars | 93/100 |
 | forks | 88/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

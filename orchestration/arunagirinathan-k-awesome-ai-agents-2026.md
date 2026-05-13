@@ -1,6 +1,6 @@
 # ARUNAGIRINATHAN-K/awesome-ai-agents-2026
 
-[![Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/awesome-ai-agents-2026?style=flat-square&color=yellow)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/stargazers) [![Forks](https://img.shields.io/github/forks/ARUNAGIRINATHAN-K/awesome-ai-agents-2026?style=flat-square&color=blue)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/awesome-ai-agents-2026?style=flat-square&color=yellow)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/stargazers) [![Forks](https://img.shields.io/github/forks/ARUNAGIRINATHAN-K/awesome-ai-agents-2026?style=flat-square&color=blue)](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome AI Agents for 2026 - 300+ AI Agents, Frameworks & Coding • Creative • Voice • Research • Enterprise. Comparison guides, benchmarks & deep dives
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ ARUNAGIRINATHAN-K/awesome-ai-agents-2026：ARUNAGIRINATHAN-K/awesome-ai-agents-2
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 82/100 |
+| production | 64/100 |
+| outlook | 75/100 |
 | adoption | 36/100 |
 | stars | 37/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

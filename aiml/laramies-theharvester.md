@@ -1,6 +1,6 @@
 # laramies/theHarvester
 
-[![Stars](https://img.shields.io/github/stars/laramies/theHarvester?style=flat-square&color=yellow)](https://github.com/laramies/theHarvester/stargazers) [![Forks](https://img.shields.io/github/forks/laramies/theHarvester?style=flat-square&color=blue)](https://github.com/laramies/theHarvester/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laramies/theHarvester?style=flat-square&color=yellow)](https://github.com/laramies/theHarvester/stargazers) [![Forks](https://img.shields.io/github/forks/laramies/theHarvester?style=flat-square&color=blue)](https://github.com/laramies/theHarvester/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > E-mails, subdomains and names Harvester - OSINT
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.2k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ laramies/theHarvester：laramies/theHarvester helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 95/100 |
+| quality | 90/100 |
 | integration | 46/100 |
-| production | 82/100 |
-| outlook | 85/100 |
+| production | 75/100 |
+| outlook | 78/100 |
 | adoption | 88/100 |
 | stars | 90/100 |
 | forks | 85/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

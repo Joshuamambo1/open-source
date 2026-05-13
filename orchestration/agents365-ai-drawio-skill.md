@@ -1,6 +1,6 @@
 # Agents365-ai/drawio-skill
 
-[![Stars](https://img.shields.io/github/stars/Agents365-ai/drawio-skill?style=flat-square&color=yellow)](https://github.com/Agents365-ai/drawio-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Agents365-ai/drawio-skill?style=flat-square&color=blue)](https://github.com/Agents365-ai/drawio-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agents365-ai/drawio-skill?style=flat-square&color=yellow)](https://github.com/Agents365-ai/drawio-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Agents365-ai/drawio-skill?style=flat-square&color=blue)](https://github.com/Agents365-ai/drawio-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > drawio-skill — From Text to Professional Diagrams. An Agent Skill (SKILL.md) that generates draw.io diagrams from natural language and exports to PNG/SVG/PDF. Works with Claude Code, OpenClaw, Hermes Agent, OpenAI Codex, and SkillsMP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Agents365‑ai/drawio-skill — это открытый модуль‑нав�
 
 ### 中文
 
-Agents365-ai/drawio-skill：Agents365-ai/drawio-skill helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Agents365-ai/drawio-skill：Agents365-ai/drawio-skill helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Agents365-ai/drawio-skill：Agents365-ai/drawio-skill helps turn isolated prompt
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Agents365-ai/drawio-skill：Agents365-ai/drawio-skill helps turn isolated prompt
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 62/100 |
 | stars | 67/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

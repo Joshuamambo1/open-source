@@ -1,6 +1,6 @@
 # twcclegg/libphonenumber-csharp
 
-[![Stars](https://img.shields.io/github/stars/twcclegg/libphonenumber-csharp?style=flat-square&color=yellow)](https://github.com/twcclegg/libphonenumber-csharp/stargazers) [![Forks](https://img.shields.io/github/forks/twcclegg/libphonenumber-csharp?style=flat-square&color=blue)](https://github.com/twcclegg/libphonenumber-csharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/twcclegg/libphonenumber-csharp?style=flat-square&color=yellow)](https://github.com/twcclegg/libphonenumber-csharp/stargazers) [![Forks](https://img.shields.io/github/forks/twcclegg/libphonenumber-csharp?style=flat-square&color=blue)](https://github.com/twcclegg/libphonenumber-csharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Offical C# port of https://github.com/googlei18n/libphonenumber
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 906 |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ twcclegg/libphonenumber-csharp is an open‑source C# implementation of Google�
 
 ### 中文
 
-twcclegg/libphonenumber-csharp：twcclegg/libphonenumber-csharp may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+twcclegg/libphonenumber-csharp：twcclegg/libphonenumber-csharp may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ twcclegg/libphonenumber-csharp：twcclegg/libphonenumber-csharp may be useful wh
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ twcclegg/libphonenumber-csharp：twcclegg/libphonenumber-csharp may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 76/100 |
+| production | 69/100 |
+| outlook | 69/100 |
 | adoption | 61/100 |
 | stars | 63/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

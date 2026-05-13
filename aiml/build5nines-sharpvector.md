@@ -1,6 +1,6 @@
 # Build5Nines/SharpVector
 
-[![Stars](https://img.shields.io/github/stars/Build5Nines/SharpVector?style=flat-square&color=yellow)](https://github.com/Build5Nines/SharpVector/stargazers) [![Forks](https://img.shields.io/github/forks/Build5Nines/SharpVector?style=flat-square&color=blue)](https://github.com/Build5Nines/SharpVector/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Build5Nines/SharpVector?style=flat-square&color=yellow)](https://github.com/Build5Nines/SharpVector/stargazers) [![Forks](https://img.shields.io/github/forks/Build5Nines/SharpVector?style=flat-square&color=blue)](https://github.com/Build5Nines/SharpVector/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight, In-memory, Semantic Search, Text Vector Database to embed in any .NET Application
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Build5Nines/SharpVector：Build5Nines/SharpVector helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 64/100 |
+| outlook | 68/100 |
 | adoption | 40/100 |
 | stars | 45/100 |
 | forks | 26/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # zhikunqingtao/zhikuncode
 
-[![Stars](https://img.shields.io/github/stars/zhikunqingtao/zhikuncode?style=flat-square&color=yellow)](https://github.com/zhikunqingtao/zhikuncode/stargazers) [![Forks](https://img.shields.io/github/forks/zhikunqingtao/zhikuncode?style=flat-square&color=blue)](https://github.com/zhikunqingtao/zhikuncode/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhikunqingtao/zhikuncode?style=flat-square&color=yellow)](https://github.com/zhikunqingtao/zhikuncode/stargazers) [![Forks](https://img.shields.io/github/forks/zhikunqingtao/zhikuncode?style=flat-square&color=blue)](https://github.com/zhikunqingtao/zhikuncode/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code 的开源替代方案。Multi Agent AI 编程助手，CLI & Web UI 双入口。自托管，随处部署——手机浏览器也能完整操控。支持任意 LLM，原生浏览器自动化，90+ 命令。技能、插件与持久记忆。企业级安全，零锁定。Docker 一键部署。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ zhikuncode — это открытая альтернатива Claude Cod
 
 ### 中文
 
-zhikunqingtao/zhikuncode：zhikunqingtao/zhikuncode helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+zhikunqingtao/zhikuncode：zhikunqingtao/zhikuncode helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ zhikunqingtao/zhikuncode：zhikunqingtao/zhikuncode helps turn isolated prompts 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ zhikunqingtao/zhikuncode：zhikunqingtao/zhikuncode helps turn isolated prompts 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 85/100 |
+| production | 71/100 |
+| outlook | 78/100 |
 | adoption | 48/100 |
 | stars | 50/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -352,8 +352,8 @@
 | 342 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 462 | — | 54/100 |
 | 343 | [gizmodata/gizmosql](./gizmodata-gizmosql.md) | ⭐ 308 | C++ | 54/100 |
 | 344 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 54/100 |
-| 345 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 53/100 |
-| 346 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 53/100 |
+| 345 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 53/100 |
+| 346 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 53/100 |
 | 347 | [Epix-Incorporated/Adonis](./epix-incorporated-adonis.md) | ⭐ 463 | Luau | 53/100 |
 | 348 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 53/100 |
 | 349 | [terror/just-lsp](./terror-just-lsp.md) | ⭐ 289 | Rust | 51/100 |

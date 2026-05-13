@@ -1,6 +1,6 @@
 # ariffazil/arifos
 
-[![Stars](https://img.shields.io/github/stars/ariffazil/arifos?style=flat-square&color=yellow)](https://github.com/ariffazil/arifos/stargazers) [![Forks](https://img.shields.io/github/forks/ariffazil/arifos?style=flat-square&color=blue)](https://github.com/ariffazil/arifos/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ariffazil/arifos?style=flat-square&color=yellow)](https://github.com/ariffazil/arifos/stargazers) [![Forks](https://img.shields.io/github/forks/ariffazil/arifos?style=flat-square&color=blue)](https://github.com/ariffazil/arifos/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > ArifOS — Constitutional MCP kernel for governed AI execution. AAA architecture: Architect · Auditor · Agent. Built for the open-source agentic era.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ArifOS — это конституционный MCP‑ядро для упр�
 
 ### 中文
 
-ariffazil/arifos：ariffazil/arifos helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ariffazil/arifos：ariffazil/arifos helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ariffazil/arifos：ariffazil/arifos helps turn isolated prompts and tools into r
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ariffazil/arifos：ariffazil/arifos helps turn isolated prompts and tools into r
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 94/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 73/100 |
+| outlook | 74/100 |
 | adoption | 32/100 |
 | stars | 35/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

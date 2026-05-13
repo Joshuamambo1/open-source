@@ -1,6 +1,6 @@
 # Mann1988/awesome-claude-skills
 
-[![Stars](https://img.shields.io/github/stars/Mann1988/awesome-claude-skills?style=flat-square&color=yellow)](https://github.com/Mann1988/awesome-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Mann1988/awesome-claude-skills?style=flat-square&color=blue)](https://github.com/Mann1988/awesome-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mann1988/awesome-claude-skills?style=flat-square&color=yellow)](https://github.com/Mann1988/awesome-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Mann1988/awesome-claude-skills?style=flat-square&color=blue)](https://github.com/Mann1988/awesome-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 📊 Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities for practical applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Mann1988/awesome-claude-skills is a curated collection of high‑quality Claude 
 
 ### 中文
 
-Mann1988/awesome-claude-skills：Mann1988/awesome-claude-skills helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Mann1988/awesome-claude-skills：Mann1988/awesome-claude-skills helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Mann1988/awesome-claude-skills：Mann1988/awesome-claude-skills helps add AI cap
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Mann1988/awesome-claude-skills：Mann1988/awesome-claude-skills helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 71/100 |
+| outlook | 72/100 |
 | adoption | 36/100 |
 | stars | 38/100 |
 | forks | 30/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # wnzzer/rank-analysis
 
-[![Stars](https://img.shields.io/github/stars/wnzzer/rank-analysis?style=flat-square&color=yellow)](https://github.com/wnzzer/rank-analysis/stargazers) [![Forks](https://img.shields.io/github/forks/wnzzer/rank-analysis?style=flat-square&color=blue)](https://github.com/wnzzer/rank-analysis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wnzzer/rank-analysis?style=flat-square&color=yellow)](https://github.com/wnzzer/rank-analysis/stargazers) [![Forks](https://img.shields.io/github/forks/wnzzer/rank-analysis?style=flat-square&color=blue)](https://github.com/wnzzer/rank-analysis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 基于Tauri 2 + Rust，构建的一个LOL 英雄联盟腾讯服战绩查询助手，创新式标签标记机制，一键分析的混子、牛马队友
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ wnzzer/rank-analysis：wnzzer/rank-analysis may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 66/100 |
+| production | 61/100 |
+| outlook | 59/100 |
 | adoption | 50/100 |
 | stars | 54/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

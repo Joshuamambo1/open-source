@@ -1,6 +1,6 @@
 # jar-analyzer/jar-analyzer
 
-[![Stars](https://img.shields.io/github/stars/jar-analyzer/jar-analyzer?style=flat-square&color=yellow)](https://github.com/jar-analyzer/jar-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/jar-analyzer/jar-analyzer?style=flat-square&color=blue)](https://github.com/jar-analyzer/jar-analyzer/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jar-analyzer/jar-analyzer?style=flat-square&color=yellow)](https://github.com/jar-analyzer/jar-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/jar-analyzer/jar-analyzer?style=flat-square&color=blue)](https://github.com/jar-analyzer/jar-analyzer/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Jar Analyzer - 一个 JAR 包 GUI 分析工具，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索，紧跟 AI 技术发展，支持 MCP 调用，支持 n8n 工作流
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Jar Analyzer — это открытый GUI‑инструмент для г�
 
 ### 中文
 
-jar-analyzer/jar-analyzer：jar-analyzer/jar-analyzer helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jar-analyzer/jar-analyzer：jar-analyzer/jar-analyzer helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jar-analyzer/jar-analyzer：jar-analyzer/jar-analyzer helps add AI capability wi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jar-analyzer/jar-analyzer：jar-analyzer/jar-analyzer helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 72/100 |
+| outlook | 76/100 |
 | adoption | 67/100 |
 | stars | 71/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

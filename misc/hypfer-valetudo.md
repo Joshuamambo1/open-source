@@ -1,6 +1,6 @@
 # Hypfer/Valetudo
 
-[![Stars](https://img.shields.io/github/stars/Hypfer/Valetudo?style=flat-square&color=yellow)](https://github.com/Hypfer/Valetudo/stargazers) [![Forks](https://img.shields.io/github/forks/Hypfer/Valetudo?style=flat-square&color=blue)](https://github.com/Hypfer/Valetudo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hypfer/Valetudo?style=flat-square&color=yellow)](https://github.com/Hypfer/Valetudo/stargazers) [![Forks](https://img.shields.io/github/forks/Hypfer/Valetudo?style=flat-square&color=blue)](https://github.com/Hypfer/Valetudo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Cloud replacement for vacuum robots enabling local-only operation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 482 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Hypfer/Valetudo — это открытый проект, который з�
 
 ### 中文
 
-Hypfer/Valetudo：Hypfer/Valetudo may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Hypfer/Valetudo：Hypfer/Valetudo may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Hypfer/Valetudo：Hypfer/Valetudo may be useful when its README and activity mat
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ Hypfer/Valetudo：Hypfer/Valetudo may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 79/100 |
 | stars | 84/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

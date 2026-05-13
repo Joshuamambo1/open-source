@@ -1,6 +1,6 @@
 # netinvent/npbackup
 
-[![Stars](https://img.shields.io/github/stars/netinvent/npbackup?style=flat-square&color=yellow)](https://github.com/netinvent/npbackup/stargazers) [![Forks](https://img.shields.io/github/forks/netinvent/npbackup?style=flat-square&color=blue)](https://github.com/netinvent/npbackup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netinvent/npbackup?style=flat-square&color=yellow)](https://github.com/netinvent/npbackup/stargazers) [![Forks](https://img.shields.io/github/forks/netinvent/npbackup?style=flat-square&color=blue)](https://github.com/netinvent/npbackup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A secure and efficient file backup solution that fits both system administrators (CLI) and end users (GUI)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ netinvent/npbackup is an open‑source backup tool that provides secure, high‑
 
 ### 中文
 
-netinvent/npbackup：netinvent/npbackup helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+netinvent/npbackup：netinvent/npbackup helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ netinvent/npbackup：netinvent/npbackup helps ship user-facing interfaces with l
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ netinvent/npbackup：netinvent/npbackup helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 71/100 |
+| outlook | 74/100 |
 | adoption | 46/100 |
 | stars | 54/100 |
 | forks | 26/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

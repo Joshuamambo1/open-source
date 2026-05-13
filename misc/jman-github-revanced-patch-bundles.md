@@ -1,6 +1,6 @@
 # Jman-Github/ReVanced-Patch-Bundles
 
-[![Stars](https://img.shields.io/github/stars/Jman-Github/ReVanced-Patch-Bundles?style=flat-square&color=yellow)](https://github.com/Jman-Github/ReVanced-Patch-Bundles/stargazers) [![Forks](https://img.shields.io/github/forks/Jman-Github/ReVanced-Patch-Bundles?style=flat-square&color=blue)](https://github.com/Jman-Github/ReVanced-Patch-Bundles/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jman-Github/ReVanced-Patch-Bundles?style=flat-square&color=yellow)](https://github.com/Jman-Github/ReVanced-Patch-Bundles/stargazers) [![Forks](https://img.shields.io/github/forks/Jman-Github/ReVanced-Patch-Bundles?style=flat-square&color=blue)](https://github.com/Jman-Github/ReVanced-Patch-Bundles/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 510 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ Jman-Github/ReVanced-Patch-Bundles：Jman-Github/ReVanced-Patch-Bundles may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 74/100 |
+| production | 68/100 |
+| outlook | 67/100 |
 | adoption | 51/100 |
 | stars | 58/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

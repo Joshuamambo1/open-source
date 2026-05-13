@@ -1,6 +1,6 @@
 # Light-Heart-Labs/DreamServer
 
-[![Stars](https://img.shields.io/github/stars/Light-Heart-Labs/DreamServer?style=flat-square&color=yellow)](https://github.com/Light-Heart-Labs/DreamServer/stargazers) [![Forks](https://img.shields.io/github/forks/Light-Heart-Labs/DreamServer?style=flat-square&color=blue)](https://github.com/Light-Heart-Labs/DreamServer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Light-Heart-Labs/DreamServer?style=flat-square&color=yellow)](https://github.com/Light-Heart-Labs/DreamServer/stargazers) [![Forks](https://img.shields.io/github/forks/Light-Heart-Labs/DreamServer?style=flat-square&color=blue)](https://github.com/Light-Heart-Labs/DreamServer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 513 |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Light‑Heart‑Labs/DreamServer — это полностью open‑source �
 
 ### 中文
 
-Light-Heart-Labs/DreamServer：Light-Heart-Labs/DreamServer helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Light-Heart-Labs/DreamServer：Light-Heart-Labs/DreamServer helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Light-Heart-Labs/DreamServer：Light-Heart-Labs/DreamServer helps integrate mone
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Light-Heart-Labs/DreamServer：Light-Heart-Labs/DreamServer helps integrate mone
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 89/100 |
+| production | 70/100 |
+| outlook | 82/100 |
 | adoption | 57/100 |
 | stars | 58/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

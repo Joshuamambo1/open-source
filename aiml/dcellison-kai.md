@@ -1,6 +1,6 @@
 # dcellison/kai
 
-[![Stars](https://img.shields.io/github/stars/dcellison/kai?style=flat-square&color=yellow)](https://github.com/dcellison/kai/stargazers) [![Forks](https://img.shields.io/github/forks/dcellison/kai?style=flat-square&color=blue)](https://github.com/dcellison/kai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dcellison/kai?style=flat-square&color=yellow)](https://github.com/dcellison/kai/stargazers) [![Forks](https://img.shields.io/github/forks/dcellison/kai?style=flat-square&color=blue)](https://github.com/dcellison/kai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic AI coding assistant on Telegram, powered by multiple persistent back ends. Runs locally with shell access, automated PR reviews, layered security, persistent memory, and scheduled jobs. Your machine, your data, your rules.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dcellison/kai：dcellison/kai helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 81/100 |
+| production | 66/100 |
+| outlook | 74/100 |
 | adoption | 31/100 |
 | stars | 32/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

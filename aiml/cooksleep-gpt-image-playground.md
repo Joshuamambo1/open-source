@@ -1,6 +1,6 @@
 # CookSleep/gpt_image_playground
 
-[![Stars](https://img.shields.io/github/stars/CookSleep/gpt_image_playground?style=flat-square&color=yellow)](https://github.com/CookSleep/gpt_image_playground/stargazers) [![Forks](https://img.shields.io/github/forks/CookSleep/gpt_image_playground?style=flat-square&color=blue)](https://github.com/CookSleep/gpt_image_playground/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CookSleep/gpt_image_playground?style=flat-square&color=yellow)](https://github.com/CookSleep/gpt_image_playground/stargazers) [![Forks](https://img.shields.io/github/forks/CookSleep/gpt_image_playground?style=flat-square&color=blue)](https://github.com/CookSleep/gpt_image_playground/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 OpenAI gpt-image-2 接口的图片生成与编辑工具
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 951 |
 | 🍴 **Forks** | 280 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CookSleep/gpt_image_playground — это открытый веб‑инстр
 
 ### 中文
 
-CookSleep/gpt_image_playground：CookSleep/gpt_image_playground helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+CookSleep/gpt_image_playground：CookSleep/gpt_image_playground helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ CookSleep/gpt_image_playground：CookSleep/gpt_image_playground helps add AI cap
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ CookSleep/gpt_image_playground：CookSleep/gpt_image_playground helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 71/100 |
+| outlook | 72/100 |
 | adoption | 63/100 |
 | stars | 63/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # irbis-sh/zen-desktop
 
-[![Stars](https://img.shields.io/github/stars/irbis-sh/zen-desktop?style=flat-square&color=yellow)](https://github.com/irbis-sh/zen-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/irbis-sh/zen-desktop?style=flat-square&color=blue)](https://github.com/irbis-sh/zen-desktop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/irbis-sh/zen-desktop?style=flat-square&color=yellow)](https://github.com/irbis-sh/zen-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/irbis-sh/zen-desktop?style=flat-square&color=blue)](https://github.com/irbis-sh/zen-desktop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Frontend
 
 ### 中文
 
-irbis-sh/zen-desktop：irbis-sh/zen-desktop helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+irbis-sh/zen-desktop：irbis-sh/zen-desktop helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ irbis-sh/zen-desktop：irbis-sh/zen-desktop helps ship user-facing interfaces wi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ irbis-sh/zen-desktop：irbis-sh/zen-desktop helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 72/100 |
+| outlook | 74/100 |
 | adoption | 70/100 |
 | stars | 77/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

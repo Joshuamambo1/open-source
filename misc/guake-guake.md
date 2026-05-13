@@ -1,6 +1,6 @@
 # Guake/guake
 
-[![Stars](https://img.shields.io/github/stars/Guake/guake?style=flat-square&color=yellow)](https://github.com/Guake/guake/stargazers) [![Forks](https://img.shields.io/github/forks/Guake/guake?style=flat-square&color=blue)](https://github.com/Guake/guake/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Guake/guake?style=flat-square&color=yellow)](https://github.com/Guake/guake/stargazers) [![Forks](https://img.shields.io/github/forks/Guake/guake?style=flat-square&color=blue)](https://github.com/Guake/guake/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Drop-down terminal for GNOME
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 590 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Guake — это свободный терминал‑дропдаун, ин�
 
 ### 中文
 
-Guake/guake：Guake/guake may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Guake/guake：Guake/guake may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Guake/guake：Guake/guake may be useful when its README and activity match a con
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ Guake/guake：Guake/guake may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 71/100 |
+| outlook | 72/100 |
 | adoption | 76/100 |
 | stars | 78/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

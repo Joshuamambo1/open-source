@@ -1,6 +1,6 @@
 # niri-wm/niri
 
-[![Stars](https://img.shields.io/github/stars/niri-wm/niri?style=flat-square&color=yellow)](https://github.com/niri-wm/niri/stargazers) [![Forks](https://img.shields.io/github/forks/niri-wm/niri?style=flat-square&color=blue)](https://github.com/niri-wm/niri/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/niri-wm/niri?style=flat-square&color=yellow)](https://github.com/niri-wm/niri/stargazers) [![Forks](https://img.shields.io/github/forks/niri-wm/niri?style=flat-square&color=blue)](https://github.com/niri-wm/niri/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A scrollable-tiling Wayland compositor.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24k |
 | 🍴 **Forks** | 888 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ niri — это открытый Wayland‑композитор с уника�
 
 ### 中文
 
-niri-wm/niri：niri-wm/niri may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+niri-wm/niri：niri-wm/niri may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ niri-wm/niri：niri-wm/niri may be useful when its README and activity match a c
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ niri-wm/niri：niri-wm/niri may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 88/100 |
 | stars | 93/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

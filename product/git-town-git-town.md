@@ -1,6 +1,6 @@
 # git-town/git-town
 
-[![Stars](https://img.shields.io/github/stars/git-town/git-town?style=flat-square&color=yellow)](https://github.com/git-town/git-town/stargazers) [![Forks](https://img.shields.io/github/forks/git-town/git-town?style=flat-square&color=blue)](https://github.com/git-town/git-town/network) [![Language](https://img.shields.io/badge/lang-Gherkin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/git-town/git-town?style=flat-square&color=yellow)](https://github.com/git-town/git-town/stargazers) [![Forks](https://img.shields.io/github/forks/git-town/git-town?style=flat-square&color=blue)](https://github.com/git-town/git-town/network) [![Language](https://img.shields.io/badge/lang-Gherkin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Git branches made easy
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Gherkin |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ git-town/git-town：git-town/git-town may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 68/100 |
+| outlook | 73/100 |
 | adoption | 69/100 |
 | stars | 75/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

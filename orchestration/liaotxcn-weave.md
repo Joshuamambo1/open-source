@@ -1,6 +1,6 @@
 # liaotxcn/Weave
 
-[![Stars](https://img.shields.io/github/stars/liaotxcn/Weave?style=flat-square&color=yellow)](https://github.com/liaotxcn/Weave/stargazers) [![Forks](https://img.shields.io/github/forks/liaotxcn/Weave?style=flat-square&color=blue)](https://github.com/liaotxcn/Weave/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liaotxcn/Weave?style=flat-square&color=yellow)](https://github.com/liaotxcn/Weave/stargazers) [![Forks](https://img.shields.io/github/forks/liaotxcn/Weave?style=flat-square&color=blue)](https://github.com/liaotxcn/Weave/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > A highly efficient, secure, and stable application development platform with excellent performance, easy scalability, and deep integration of AI capabilities such as LLM, AI Chat, RAG, and Agents.高效、安全、稳定的服务研发平台，具备良好性能，同时易扩展，深度集成LLM、AIChat、RAG、Agent等AI能力
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ liaotxcn/Weave：liaotxcn/Weave helps turn isolated prompts and tools into repea
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 94/100 |
-| production | 82/100 |
-| outlook | 87/100 |
+| production | 75/100 |
+| outlook | 80/100 |
 | adoption | 48/100 |
 | stars | 53/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

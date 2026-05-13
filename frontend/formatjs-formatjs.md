@@ -1,6 +1,6 @@
 # formatjs/formatjs
 
-[![Stars](https://img.shields.io/github/stars/formatjs/formatjs?style=flat-square&color=yellow)](https://github.com/formatjs/formatjs/stargazers) [![Forks](https://img.shields.io/github/forks/formatjs/formatjs?style=flat-square&color=blue)](https://github.com/formatjs/formatjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/formatjs/formatjs?style=flat-square&color=yellow)](https://github.com/formatjs/formatjs/stargazers) [![Forks](https://img.shields.io/github/forks/formatjs/formatjs?style=flat-square&color=blue)](https://github.com/formatjs/formatjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.7k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ FormatJS — это открытый монорепозиторий, соде�
 
 ### 中文
 
-formatjs/formatjs：formatjs/formatjs helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+formatjs/formatjs：formatjs/formatjs helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ formatjs/formatjs：formatjs/formatjs helps ship user-facing interfaces with les
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ formatjs/formatjs：formatjs/formatjs helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 85/100 |
+| production | 75/100 |
+| outlook | 78/100 |
 | adoption | 86/100 |
 | stars | 89/100 |
 | forks | 79/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

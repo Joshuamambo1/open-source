@@ -1,6 +1,6 @@
 # nyaosorg/go-readline-ny
 
-[![Stars](https://img.shields.io/github/stars/nyaosorg/go-readline-ny?style=flat-square&color=yellow)](https://github.com/nyaosorg/go-readline-ny/stargazers) [![Forks](https://img.shields.io/github/forks/nyaosorg/go-readline-ny?style=flat-square&color=blue)](https://github.com/nyaosorg/go-readline-ny/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nyaosorg/go-readline-ny?style=flat-square&color=yellow)](https://github.com/nyaosorg/go-readline-ny/stargazers) [![Forks](https://img.shields.io/github/forks/nyaosorg/go-readline-ny?style=flat-square&color=blue)](https://github.com/nyaosorg/go-readline-ny/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The New Yet another Readline for Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ nyaosorg/go-readline-ny：nyaosorg/go-readline-ny may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 68/100 |
+| production | 64/100 |
+| outlook | 61/100 |
 | adoption | 29/100 |
 | stars | 33/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # stefanhendriks/Dune-II---The-Maker
 
-[![Stars](https://img.shields.io/github/stars/stefanhendriks/Dune-II---The-Maker?style=flat-square&color=yellow)](https://github.com/stefanhendriks/Dune-II---The-Maker/stargazers) [![Forks](https://img.shields.io/github/forks/stefanhendriks/Dune-II---The-Maker?style=flat-square&color=blue)](https://github.com/stefanhendriks/Dune-II---The-Maker/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stefanhendriks/Dune-II---The-Maker?style=flat-square&color=yellow)](https://github.com/stefanhendriks/Dune-II---The-Maker/stargazers) [![Forks](https://img.shields.io/github/forks/stefanhendriks/Dune-II---The-Maker?style=flat-square&color=blue)](https://github.com/stefanhendriks/Dune-II---The-Maker/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: higher screenresolutions, zooming, multiselect, skirmish play, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ stefanhendriks/Dune-II---The-Maker：stefanhendriks/Dune-II---The-Maker helps sh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 63/100 |
+| outlook | 63/100 |
 | adoption | 50/100 |
 | stars | 54/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

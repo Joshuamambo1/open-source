@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**74 projects** in this category.
+**75 projects** in this category.
 
 ## Projects
 
@@ -45,43 +45,44 @@
 | 35 | [hashicorp/terraform-provider-aws](./hashicorp-terraform-provider-aws.md) | ⭐ 10.9k | Go | 63/100 |
 | 36 | [NVIDIA/gpu-operator](./nvidia-gpu-operator.md) | ⭐ 2.7k | Go | 63/100 |
 | 37 | [integrations/terraform-provider-github](./integrations-terraform-provider-github.md) | ⭐ 1.1k | Go | 63/100 |
-| 38 | [kubevirt/hyperconverged-cluster-operator](./kubevirt-hyperconverged-cluster-operator.md) | ⭐ 182 | Go | 63/100 |
-| 39 | [hashicorp/terraform-provider-azurerm](./hashicorp-terraform-provider-azurerm.md) | ⭐ 4.9k | Go | 62/100 |
-| 40 | [lavalink-devs/Lavalink](./lavalink-devs-lavalink.md) | ⭐ 1.9k | Kotlin | 62/100 |
-| 41 | [homebridge/docker-homebridge](./homebridge-docker-homebridge.md) | ⭐ 2.7k | Shell | 62/100 |
-| 42 | [kubernetes-sigs/kueue](./kubernetes-sigs-kueue.md) | ⭐ 2.5k | Go | 62/100 |
-| 43 | [hackforla/website](./hackforla-website.md) | ⭐ 364 | JavaScript | 62/100 |
-| 44 | [stakater/Forecastle](./stakater-forecastle.md) | ⭐ 794 | Go | 62/100 |
-| 45 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 62/100 |
-| 46 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 898 | Go | 62/100 |
-| 47 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 630 | PHP | 62/100 |
-| 48 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1k | Go | 62/100 |
-| 49 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 61/100 |
-| 50 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 61/100 |
-| 51 | [docker-library/official-images](./docker-library-official-images.md) | ⭐ 7k | Shell | 60/100 |
-| 52 | [docker/docs](./docker-docs.md) | ⭐ 4.6k | Markdown | 60/100 |
-| 53 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 60/100 |
-| 54 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 824 | Haskell | 60/100 |
-| 55 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 60/100 |
-| 56 | [mkuthan/homelab-public](./mkuthan-homelab-public.md) | ⭐ 610 | HCL | 60/100 |
-| 57 | [kubie-org/kubie](./kubie-org-kubie.md) | ⭐ 2.5k | Rust | 59/100 |
-| 58 | [bpg/terraform-provider-proxmox](./bpg-terraform-provider-proxmox.md) | ⭐ 2k | Go | 59/100 |
-| 59 | [Gisto/Gisto](./gisto-gisto.md) | ⭐ 1.1k | TypeScript | 59/100 |
-| 60 | [netxms/netxms](./netxms-netxms.md) | ⭐ 353 | C++ | 59/100 |
-| 61 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 59/100 |
-| 62 | [kubernetes/k8s.io](./kubernetes-k8s.io.md) | ⭐ 951 | HCL | 57/100 |
-| 63 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 560 | Go | 57/100 |
-| 64 | [Azure/terraform](./azure-terraform.md) | ⭐ 908 | HCL | 56/100 |
-| 65 | [alchemy-run/alchemy-effect](./alchemy-run-alchemy-effect.md) | ⭐ 424 | TypeScript | 56/100 |
-| 66 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 56/100 |
-| 67 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 55/100 |
-| 68 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 55/100 |
-| 69 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 55/100 |
-| 70 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 55/100 |
-| 71 | [ricardomaraschini/oomhero](./ricardomaraschini-oomhero.md) | ⭐ 111 | Rust | 53/100 |
-| 72 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 53/100 |
-| 73 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 48/100 |
-| 74 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 44/100 |
+| 38 | [opf/openproject-docker-compose](./opf-openproject-docker-compose.md) | ⭐ 305 | Shell | 63/100 |
+| 39 | [kubevirt/hyperconverged-cluster-operator](./kubevirt-hyperconverged-cluster-operator.md) | ⭐ 182 | Go | 63/100 |
+| 40 | [hashicorp/terraform-provider-azurerm](./hashicorp-terraform-provider-azurerm.md) | ⭐ 4.9k | Go | 62/100 |
+| 41 | [lavalink-devs/Lavalink](./lavalink-devs-lavalink.md) | ⭐ 1.9k | Kotlin | 62/100 |
+| 42 | [homebridge/docker-homebridge](./homebridge-docker-homebridge.md) | ⭐ 2.7k | Shell | 62/100 |
+| 43 | [kubernetes-sigs/kueue](./kubernetes-sigs-kueue.md) | ⭐ 2.5k | Go | 62/100 |
+| 44 | [hackforla/website](./hackforla-website.md) | ⭐ 364 | JavaScript | 62/100 |
+| 45 | [stakater/Forecastle](./stakater-forecastle.md) | ⭐ 794 | Go | 62/100 |
+| 46 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 62/100 |
+| 47 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 898 | Go | 62/100 |
+| 48 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 630 | PHP | 62/100 |
+| 49 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1k | Go | 62/100 |
+| 50 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 61/100 |
+| 51 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 61/100 |
+| 52 | [docker-library/official-images](./docker-library-official-images.md) | ⭐ 7k | Shell | 60/100 |
+| 53 | [docker/docs](./docker-docs.md) | ⭐ 4.6k | Markdown | 60/100 |
+| 54 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 60/100 |
+| 55 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 824 | Haskell | 60/100 |
+| 56 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 60/100 |
+| 57 | [mkuthan/homelab-public](./mkuthan-homelab-public.md) | ⭐ 610 | HCL | 60/100 |
+| 58 | [kubie-org/kubie](./kubie-org-kubie.md) | ⭐ 2.5k | Rust | 59/100 |
+| 59 | [bpg/terraform-provider-proxmox](./bpg-terraform-provider-proxmox.md) | ⭐ 2k | Go | 59/100 |
+| 60 | [Gisto/Gisto](./gisto-gisto.md) | ⭐ 1.1k | TypeScript | 59/100 |
+| 61 | [netxms/netxms](./netxms-netxms.md) | ⭐ 353 | C++ | 59/100 |
+| 62 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 59/100 |
+| 63 | [kubernetes/k8s.io](./kubernetes-k8s.io.md) | ⭐ 951 | HCL | 57/100 |
+| 64 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 560 | Go | 57/100 |
+| 65 | [Azure/terraform](./azure-terraform.md) | ⭐ 908 | HCL | 56/100 |
+| 66 | [alchemy-run/alchemy-effect](./alchemy-run-alchemy-effect.md) | ⭐ 424 | TypeScript | 56/100 |
+| 67 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 56/100 |
+| 68 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 55/100 |
+| 69 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 55/100 |
+| 70 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 55/100 |
+| 71 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 55/100 |
+| 72 | [ricardomaraschini/oomhero](./ricardomaraschini-oomhero.md) | ⭐ 111 | Rust | 53/100 |
+| 73 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 53/100 |
+| 74 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 48/100 |
+| 75 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 44/100 |
 
 ---
 

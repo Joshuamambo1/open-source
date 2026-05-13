@@ -1,6 +1,6 @@
 # microsoft/mcp
 
-[![Stars](https://img.shields.io/github/stars/microsoft/mcp?style=flat-square&color=yellow)](https://github.com/microsoft/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/mcp?style=flat-square&color=blue)](https://github.com/microsoft/mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/mcp?style=flat-square&color=yellow)](https://github.com/microsoft/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/mcp?style=flat-square&color=blue)](https://github.com/microsoft/mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 485 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ microsoft/mcp：microsoft/mcp helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 81/100 |
+| production | 67/100 |
+| outlook | 74/100 |
 | adoption | 72/100 |
 | stars | 74/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

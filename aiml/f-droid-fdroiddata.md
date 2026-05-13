@@ -1,6 +1,6 @@
 # f-droid/fdroiddata
 
-[![Stars](https://img.shields.io/github/stars/f-droid/fdroiddata?style=flat-square&color=yellow)](https://github.com/f-droid/fdroiddata/stargazers) [![Forks](https://img.shields.io/github/forks/f-droid/fdroiddata?style=flat-square&color=blue)](https://github.com/f-droid/fdroiddata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/f-droid/fdroiddata?style=flat-square&color=yellow)](https://github.com/f-droid/fdroiddata/stargazers) [![Forks](https://img.shields.io/github/forks/f-droid/fdroiddata?style=flat-square&color=blue)](https://github.com/f-droid/fdroiddata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Data for the main F-Droid repository.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 320 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ f-droid/fdroiddata：f-droid/fdroiddata helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 70/100 |
+| production | 66/100 |
+| outlook | 63/100 |
 | adoption | 52/100 |
 | stars | 53/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

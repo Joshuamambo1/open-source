@@ -1,6 +1,6 @@
 # transmute-app/transmute
 
-[![Stars](https://img.shields.io/github/stars/transmute-app/transmute?style=flat-square&color=yellow)](https://github.com/transmute-app/transmute/stargazers) [![Forks](https://img.shields.io/github/forks/transmute-app/transmute?style=flat-square&color=blue)](https://github.com/transmute-app/transmute/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/transmute-app/transmute?style=flat-square&color=yellow)](https://github.com/transmute-app/transmute/stargazers) [![Forks](https://img.shields.io/github/forks/transmute-app/transmute?style=flat-square&color=blue)](https://github.com/transmute-app/transmute/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 685 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Transmute is an open‑source, self‑hosted conversion service that handles a w
 
 ### 中文
 
-transmute-app/transmute：transmute-app/transmute helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+transmute-app/transmute：transmute-app/transmute helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ transmute-app/transmute：transmute-app/transmute helps ship user-facing interfa
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ transmute-app/transmute：transmute-app/transmute helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 78/100 |
-| production | 81/100 |
-| outlook | 83/100 |
+| production | 74/100 |
+| outlook | 76/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 40/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

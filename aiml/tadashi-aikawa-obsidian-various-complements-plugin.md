@@ -1,6 +1,6 @@
 # tadashi-aikawa/obsidian-various-complements-plugin
 
-[![Stars](https://img.shields.io/github/stars/tadashi-aikawa/obsidian-various-complements-plugin?style=flat-square&color=yellow)](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/tadashi-aikawa/obsidian-various-complements-plugin?style=flat-square&color=blue)](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tadashi-aikawa/obsidian-various-complements-plugin?style=flat-square&color=yellow)](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/tadashi-aikawa/obsidian-various-complements-plugin?style=flat-square&color=blue)](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > This plugin for Obsidian enables you complete words like the auto-completion of IDE.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 894 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tadashi-aikawa/obsidian-various-complements-plugin：tadashi-aikawa/obsidian-var
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 70/100 |
+| production | 68/100 |
+| outlook | 63/100 |
 | adoption | 56/100 |
 | stars | 63/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # itgoyo/TelegramBot
 
-[![Stars](https://img.shields.io/github/stars/itgoyo/TelegramBot?style=flat-square&color=yellow)](https://github.com/itgoyo/TelegramBot/stargazers) [![Forks](https://img.shields.io/github/forks/itgoyo/TelegramBot?style=flat-square&color=blue)](https://github.com/itgoyo/TelegramBot/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itgoyo/TelegramBot?style=flat-square&color=yellow)](https://github.com/itgoyo/TelegramBot/stargazers) [![Forks](https://img.shields.io/github/forks/itgoyo/TelegramBot?style=flat-square&color=blue)](https://github.com/itgoyo/TelegramBot/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 持续收集更新全网最全最有趣的Telegram机器人🤖大全，相信总有你需要的一款机器人~
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ itgoyo/TelegramBot is an open‑source backend project that continuously aggrega
 
 ### 中文
 
-itgoyo/TelegramBot：itgoyo/TelegramBot helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+itgoyo/TelegramBot：itgoyo/TelegramBot helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ itgoyo/TelegramBot：itgoyo/TelegramBot helps teams reuse service infrastructure
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ itgoyo/TelegramBot：itgoyo/TelegramBot helps teams reuse service infrastructure
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 73/100 |
+| outlook | 74/100 |
 | adoption | 63/100 |
 | stars | 68/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

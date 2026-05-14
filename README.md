@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8147** |
+| 🗂️ **Total projects** | **8179** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,28 +18,28 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2874 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1452 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 787 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 687 | [Browse →](./orchestration/) |
+| 🤖 **AI/ML** | 2882 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1460 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 789 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 690 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 437 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 383 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 285 | [Browse →](./crypto/) |
-| 🏷️ **Mcp** | 225 | [Browse →](./mcp/) |
-| 📊 **Data** | 187 | [Browse →](./data/) |
-| 🏷️ **Automation** | 143 | [Browse →](./automation/) |
+| ⚙️ **Backend** | 385 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 286 | [Browse →](./crypto/) |
+| 🏷️ **Mcp** | 227 | [Browse →](./mcp/) |
+| 📊 **Data** | 189 | [Browse →](./data/) |
+| 🏷️ **Automation** | 144 | [Browse →](./automation/) |
 | 💳 **Payments** | 131 | [Browse →](./payments/) |
 | 🏷️ **Knowledgerag** | 103 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 92 | [Browse →](./mobile/) |
 | 📈 **Trading** | 92 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 77 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 64 | [Browse →](./security/) |
-| 🏷️ **Database** | 60 | [Browse →](./database/) |
+| 🏷️ **Database** | 62 | [Browse →](./database/) |
 | ✨ **Design** | 27 | [Browse →](./design/) |
 | 🎯 **Product** | 15 | [Browse →](./product/) |
 | 🏷️ **Observability** | 13 | [Browse →](./observability/) |
 | 🏷️ **Marketing** | 10 | [Browse →](./marketing/) |
-| 🏷️ **Education** | 3 | [Browse →](./education/) |
+| 🏷️ **Education** | 4 | [Browse →](./education/) |
 
 ## 🔥 Top 10 by score
 

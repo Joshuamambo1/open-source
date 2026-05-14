@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**137 projects** in this category.
+**138 projects** in this category.
 
 ## Projects
 
@@ -132,19 +132,20 @@
 | 122 | [mollie/Shopware6](./mollie-shopware6.md) | ⭐ 64 | PHP | 55/100 |
 | 123 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 55/100 |
 | 124 | [wevm/mppx](./wevm-mppx.md) | ⭐ 119 | TypeScript | 55/100 |
-| 125 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 54/100 |
-| 126 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 54/100 |
+| 125 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 54/100 |
+| 126 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 54/100 |
 | 127 | [shetabit/payment](./shetabit-payment.md) | ⭐ 940 | PHP | 54/100 |
 | 128 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 65 | HTML | 53/100 |
 | 129 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 53/100 |
 | 130 | [bzsanti/oxidizePdf](./bzsanti-oxidizepdf.md) | ⭐ 168 | Rust | 53/100 |
 | 131 | [OrchardCMS/OrchardCore.Commerce](./orchardcms-orchardcore.commerce.md) | ⭐ 229 | C# | 53/100 |
-| 132 | [AdguardTeam/FiltersRegistry](./adguardteam-filtersregistry.md) | ⭐ 341 | Adblock Filter List | 52/100 |
-| 133 | [juspay/decision-engine](./juspay-decision-engine.md) | ⭐ 115 | Rust | 51/100 |
-| 134 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 50/100 |
-| 135 | [itsyebekhe/PSG](./itsyebekhe-psg.md) | ⭐ 341 | HTML | 50/100 |
-| 136 | [orchidfiles/ungate](./orchidfiles-ungate.md) | ⭐ — | — | 48/100 |
-| 137 | [garyedgington/project_x402](./garyedgington-project-x402.md) | ⭐ — | — | 48/100 |
+| 132 | [fivetran/dbt_stripe](./fivetran-dbt-stripe.md) | ⭐ 58 | Shell | 52/100 |
+| 133 | [AdguardTeam/FiltersRegistry](./adguardteam-filtersregistry.md) | ⭐ 341 | Adblock Filter List | 52/100 |
+| 134 | [juspay/decision-engine](./juspay-decision-engine.md) | ⭐ 115 | Rust | 51/100 |
+| 135 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 50/100 |
+| 136 | [itsyebekhe/PSG](./itsyebekhe-psg.md) | ⭐ 341 | HTML | 50/100 |
+| 137 | [orchidfiles/ungate](./orchidfiles-ungate.md) | ⭐ — | — | 48/100 |
+| 138 | [garyedgington/project_x402](./garyedgington-project-x402.md) | ⭐ — | — | 48/100 |
 
 ---
 

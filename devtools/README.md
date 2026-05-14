@@ -2,7 +2,7 @@
 
 > Developer productivity, editors, workflow
 
-**436 projects** in this category.
+**437 projects** in this category.
 
 ## Projects
 
@@ -386,8 +386,8 @@
 | 376 | [SonarSource/sonar-java](./sonarsource-sonar-java.md) | ⭐ 1.2k | Java | 58/100 |
 | 377 | [gazebosim/gz-sim](./gazebosim-gz-sim.md) | ⭐ 1.3k | C++ | 58/100 |
 | 378 | [Protryon/klickhouse](./protryon-klickhouse.md) | ⭐ 126 | Rust | 58/100 |
-| 379 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
-| 380 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
+| 379 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
+| 380 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
 | 381 | [mos1128/ccg-gateway](./mos1128-ccg-gateway.md) | ⭐ 129 | Rust | 58/100 |
 | 382 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 58/100 |
 | 383 | [coderGtm/yantra-app-launcher](./codergtm-yantra-app-launcher.md) | ⭐ 123 | Kotlin | 58/100 |
@@ -441,9 +441,10 @@
 | 431 | [SGavrl/WfmOxide](./sgavrl-wfmoxide.md) | ⭐ — | — | 45/100 |
 | 432 | [jher7/tokenyst](./jher7-tokenyst.md) | ⭐ — | — | 45/100 |
 | 433 | [maurice2k/ultrapool](./maurice2k-ultrapool.md) | ⭐ — | — | 44/100 |
-| 434 | [radareorg/r2garlic](./radareorg-r2garlic.md) | ⭐ — | — | 41/100 |
-| 435 | [NVIDIA/open-gpu-kernel-modules](./nvidia-open-gpu-kernel-modules.md) | ⭐ — | — | 41/100 |
-| 436 | [se7enxweb/symfonyone](./se7enxweb-symfonyone.md) | ⭐ — | — | 38/100 |
+| 434 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ — | — | 41/100 |
+| 435 | [radareorg/r2garlic](./radareorg-r2garlic.md) | ⭐ — | — | 41/100 |
+| 436 | [NVIDIA/open-gpu-kernel-modules](./nvidia-open-gpu-kernel-modules.md) | ⭐ — | — | 41/100 |
+| 437 | [se7enxweb/symfonyone](./se7enxweb-symfonyone.md) | ⭐ — | — | 38/100 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**300 projects** in this category.
+**301 projects** in this category.
 
 ## Projects
 
@@ -299,15 +299,16 @@
 | 289 | [cosmos/solidity-ibc-eureka](./cosmos-solidity-ibc-eureka.md) | ⭐ 102 | Rust | 51/100 |
 | 290 | [txpipe/pallas](./txpipe-pallas.md) | ⭐ 199 | Rust | 51/100 |
 | 291 | [hiero-ledger/hiero-consensus-node](./hiero-ledger-hiero-consensus-node.md) | ⭐ 392 | Java | 51/100 |
-| 292 | [privacy-ethereum/halo2curves](./privacy-ethereum-halo2curves.md) | ⭐ 224 | Rust | 50/100 |
-| 293 | [frostsnap/frostsnap](./frostsnap-frostsnap.md) | ⭐ 141 | Rust | 50/100 |
-| 294 | [toneloc/stable-channels](./toneloc-stable-channels.md) | ⭐ 117 | Rust | 50/100 |
-| 295 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
-| 296 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 49/100 |
-| 297 | [RustCrypto/SSH](./rustcrypto-ssh.md) | ⭐ 225 | Rust | 49/100 |
-| 298 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 48/100 |
-| 299 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 112 | Rust | 47/100 |
-| 300 | [C2SP/wycheproof](./c2sp-wycheproof.md) | ⭐ — | — | 41/100 |
+| 292 | [Neptune-Crypto/neptune-core](./neptune-crypto-neptune-core.md) | ⭐ 101 | Rust | 50/100 |
+| 293 | [privacy-ethereum/halo2curves](./privacy-ethereum-halo2curves.md) | ⭐ 224 | Rust | 50/100 |
+| 294 | [frostsnap/frostsnap](./frostsnap-frostsnap.md) | ⭐ 141 | Rust | 50/100 |
+| 295 | [toneloc/stable-channels](./toneloc-stable-channels.md) | ⭐ 117 | Rust | 50/100 |
+| 296 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
+| 297 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 49/100 |
+| 298 | [RustCrypto/SSH](./rustcrypto-ssh.md) | ⭐ 225 | Rust | 49/100 |
+| 299 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 48/100 |
+| 300 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 112 | Rust | 47/100 |
+| 301 | [C2SP/wycheproof](./c2sp-wycheproof.md) | ⭐ — | — | 41/100 |
 
 ---
 

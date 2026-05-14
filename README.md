@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8523** |
+| 🗂️ **Total projects** | **8563** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,28 +18,28 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2969 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1520 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 822 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 719 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 459 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 401 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 300 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 2977 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1535 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 827 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 721 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 460 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 402 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 301 | [Browse →](./crypto/) |
 | 🏷️ **Mcp** | 253 | [Browse →](./mcp/) |
-| 📊 **Data** | 195 | [Browse →](./data/) |
+| 📊 **Data** | 196 | [Browse →](./data/) |
 | 🏷️ **Automation** | 166 | [Browse →](./automation/) |
 | 💳 **Payments** | 137 | [Browse →](./payments/) |
-| 🏷️ **Knowledgerag** | 112 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 113 | [Browse →](./knowledgerag/) |
 | 📈 **Trading** | 96 | [Browse →](./trading/) |
-| 📱 **Mobile** | 94 | [Browse →](./mobile/) |
-| 🚀 **DevOps & Infra** | 78 | [Browse →](./devopsinfra/) |
+| 📱 **Mobile** | 95 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 79 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 65 | [Browse →](./security/) |
 | 🏷️ **Database** | 65 | [Browse →](./database/) |
 | ✨ **Design** | 27 | [Browse →](./design/) |
+| 🏷️ **Observability** | 16 | [Browse →](./observability/) |
 | 🎯 **Product** | 15 | [Browse →](./product/) |
-| 🏷️ **Observability** | 15 | [Browse →](./observability/) |
-| 🏷️ **Marketing** | 10 | [Browse →](./marketing/) |
-| 🏷️ **Education** | 5 | [Browse →](./education/) |
+| 🏷️ **Marketing** | 11 | [Browse →](./marketing/) |
+| 🏷️ **Education** | 6 | [Browse →](./education/) |
 
 ## 🔥 Top 10 by score
 

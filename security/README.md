@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**64 projects** in this category.
+**65 projects** in this category.
 
 ## Projects
 
@@ -71,7 +71,8 @@
 | 61 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 49/100 |
 | 62 | [melezhik/Sparrow6](./melezhik-sparrow6.md) | ⭐ — | — | 48/100 |
 | 63 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 47/100 |
-| 64 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
+| 64 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
+| 65 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
 
 ---
 

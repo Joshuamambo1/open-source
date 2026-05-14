@@ -2,7 +2,7 @@
 
 > 
 
-**147 projects** in this category.
+**148 projects** in this category.
 
 ## Projects
 
@@ -101,60 +101,61 @@
 | 91 | [itbench-hub/ITBench](./itbench-hub-itbench.md) | ⭐ 315 | Python | 67/100 |
 | 92 | [Mathews-Tom/armory](./mathews-tom-armory.md) | ⭐ 230 | Python | 67/100 |
 | 93 | [MasterGroosha/aiogram-3-guide](./mastergroosha-aiogram-3-guide.md) | ⭐ 1.1k | Python | 67/100 |
-| 94 | [decisionbox-io/decisionbox-platform](./decisionbox-io-decisionbox-platform.md) | ⭐ 84 | Go | 66/100 |
-| 95 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.7k | Go | 66/100 |
-| 96 | [streamthoughts/jikkou](./streamthoughts-jikkou.md) | ⭐ 288 | Java | 65/100 |
-| 97 | [LoseNine/ruyipage](./losenine-ruyipage.md) | ⭐ 441 | Python | 65/100 |
-| 98 | [apache/yunikorn-core](./apache-yunikorn-core.md) | ⭐ 1k | Go | 65/100 |
-| 99 | [Azure/azure-iot-cli-extension](./azure-azure-iot-cli-extension.md) | ⭐ 86 | Python | 65/100 |
-| 100 | [harnessclaw/harnessclaw](./harnessclaw-harnessclaw.md) | ⭐ 409 | TypeScript | 65/100 |
-| 101 | [LmeSzinc/AzurLaneAutoScript](./lmeszinc-azurlaneautoscript.md) | ⭐ 9.1k | Python | 65/100 |
-| 102 | [autonomousapps/dependency-analysis-gradle-plugin](./autonomousapps-dependency-analysis-gradle-plugin.md) | ⭐ 2.1k | Kotlin | 64/100 |
-| 103 | [tinyfish-io/skills](./tinyfish-io-skills.md) | ⭐ 35 | Shell | 64/100 |
-| 104 | [oxidezap/whatsapp-rust](./oxidezap-whatsapp-rust.md) | ⭐ 562 | Rust | 64/100 |
-| 105 | [AcademySoftwareFoundation/OpenCue](./academysoftwarefoundation-opencue.md) | ⭐ 927 | Python | 63/100 |
-| 106 | [summer-rs/summer-rs](./summer-rs-summer-rs.md) | ⭐ 957 | Rust | 63/100 |
-| 107 | [maziyarpanahi/openmed](./maziyarpanahi-openmed.md) | ⭐ 1.1k | Python | 63/100 |
-| 108 | [kornia/kornia-rs](./kornia-kornia-rs.md) | ⭐ 637 | Rust | 63/100 |
-| 109 | [alpyxn/aeterna](./alpyxn-aeterna.md) | ⭐ 247 | JavaScript | 63/100 |
-| 110 | [hookdeck/outpost](./hookdeck-outpost.md) | ⭐ 968 | Go | 62/100 |
-| 111 | [LiveHelperChat/livehelperchat](./livehelperchat-livehelperchat.md) | ⭐ 2.2k | PHP | 62/100 |
-| 112 | [ThingsPanel/thingspanel-backend-community](./thingspanel-thingspanel-backend-community.md) | ⭐ 548 | Go | 62/100 |
-| 113 | [the-blue-alliance/the-blue-alliance](./the-blue-alliance-the-blue-alliance.md) | ⭐ 444 | Python | 61/100 |
-| 114 | [dora-rs/dora](./dora-rs-dora.md) | ⭐ 3.8k | Rust | 61/100 |
-| 115 | [alexdlaird/pyngrok](./alexdlaird-pyngrok.md) | ⭐ 465 | Python | 61/100 |
-| 116 | [posit-dev/chatlas](./posit-dev-chatlas.md) | ⭐ 159 | Python | 61/100 |
-| 117 | [strands-labs/robots](./strands-labs-robots.md) | ⭐ 49 | Python | 61/100 |
-| 118 | [fronalabs/frona](./fronalabs-frona.md) | ⭐ 108 | Rust | 61/100 |
-| 119 | [AlekseiUL/openclaw-memory-kit](./alekseiul-openclaw-memory-kit.md) | ⭐ 33 | Shell | 60/100 |
-| 120 | [ggplab/n8n-playbook](./ggplab-n8n-playbook.md) | ⭐ 101 | Python | 60/100 |
-| 121 | [ros-controls/ros2_controllers](./ros-controls-ros2-controllers.md) | ⭐ 752 | C++ | 60/100 |
-| 122 | [Opentrons/opentrons](./opentrons-opentrons.md) | ⭐ 501 | Python | 59/100 |
-| 123 | [Javis603/Discord-AIBot](./javis603-discord-aibot.md) | ⭐ 213 | JavaScript | 59/100 |
-| 124 | [SimonSchubert/Kai](./simonschubert-kai.md) | ⭐ 764 | Kotlin | 59/100 |
-| 125 | [heal-dev/heal-playwright-tracer](./heal-dev-heal-playwright-tracer.md) | ⭐ 35 | JavaScript | 59/100 |
-| 126 | [TzuHuanTai/RaspberryPi-WebRTC](./tzuhuantai-raspberrypi-webrtc.md) | ⭐ 975 | C++ | 59/100 |
-| 127 | [NVIDIA/OpenShell-Community](./nvidia-openshell-community.md) | ⭐ 131 | TypeScript | 58/100 |
-| 128 | [ipverse/as-ip-blocks](./ipverse-as-ip-blocks.md) | ⭐ 453 | — | 58/100 |
-| 129 | [NeoGeographyToolkit/StereoPipeline](./neogeographytoolkit-stereopipeline.md) | ⭐ 592 | C++ | 58/100 |
-| 130 | [PhotonVision/photonvision](./photonvision-photonvision.md) | ⭐ 411 | Java | 58/100 |
-| 131 | [Big-Sh0t114/NachoBot](./big-sh0t114-nachobot.md) | ⭐ 102 | Python | 58/100 |
-| 132 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 449 | JavaScript | 57/100 |
-| 133 | [focus-trap/focus-trap](./focus-trap-focus-trap.md) | ⭐ 1.5k | JavaScript | 56/100 |
-| 134 | [focus-trap/focus-trap-react](./focus-trap-focus-trap-react.md) | ⭐ 779 | JavaScript | 56/100 |
-| 135 | [testomatio/explorbot](./testomatio-explorbot.md) | ⭐ 46 | TypeScript | 56/100 |
-| 136 | [tickstem/python](./tickstem-python.md) | ⭐ — | — | 56/100 |
-| 137 | [allenai/molmospaces](./allenai-molmospaces.md) | ⭐ 323 | Python | 55/100 |
-| 138 | [ModernRelay/omnigraph](./modernrelay-omnigraph.md) | ⭐ 199 | Rust | 55/100 |
-| 139 | [mindeng/nom-exif](./mindeng-nom-exif.md) | ⭐ 105 | Rust | 55/100 |
-| 140 | [nix-community/nix-ld](./nix-community-nix-ld.md) | ⭐ 1.6k | Rust | 55/100 |
-| 141 | [visionworkbench/visionworkbench](./visionworkbench-visionworkbench.md) | ⭐ 502 | C++ | 54/100 |
-| 142 | [sly-codechum/chum-mem](./sly-codechum-chum-mem.md) | ⭐ 35 | Rust | 52/100 |
-| 143 | [swenyai/sweny](./swenyai-sweny.md) | ⭐ — | — | 49/100 |
-| 144 | [aadya940/orbit-ui](./aadya940-orbit-ui.md) | ⭐ — | — | 49/100 |
-| 145 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 48/100 |
-| 146 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
-| 147 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
+| 94 | [ntygod/ZhiWei](./ntygod-zhiwei.md) | ⭐ 165 | Java | 66/100 |
+| 95 | [decisionbox-io/decisionbox-platform](./decisionbox-io-decisionbox-platform.md) | ⭐ 84 | Go | 66/100 |
+| 96 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.7k | Go | 66/100 |
+| 97 | [streamthoughts/jikkou](./streamthoughts-jikkou.md) | ⭐ 288 | Java | 65/100 |
+| 98 | [LoseNine/ruyipage](./losenine-ruyipage.md) | ⭐ 441 | Python | 65/100 |
+| 99 | [apache/yunikorn-core](./apache-yunikorn-core.md) | ⭐ 1k | Go | 65/100 |
+| 100 | [Azure/azure-iot-cli-extension](./azure-azure-iot-cli-extension.md) | ⭐ 86 | Python | 65/100 |
+| 101 | [harnessclaw/harnessclaw](./harnessclaw-harnessclaw.md) | ⭐ 409 | TypeScript | 65/100 |
+| 102 | [LmeSzinc/AzurLaneAutoScript](./lmeszinc-azurlaneautoscript.md) | ⭐ 9.1k | Python | 65/100 |
+| 103 | [autonomousapps/dependency-analysis-gradle-plugin](./autonomousapps-dependency-analysis-gradle-plugin.md) | ⭐ 2.1k | Kotlin | 64/100 |
+| 104 | [tinyfish-io/skills](./tinyfish-io-skills.md) | ⭐ 35 | Shell | 64/100 |
+| 105 | [oxidezap/whatsapp-rust](./oxidezap-whatsapp-rust.md) | ⭐ 562 | Rust | 64/100 |
+| 106 | [AcademySoftwareFoundation/OpenCue](./academysoftwarefoundation-opencue.md) | ⭐ 927 | Python | 63/100 |
+| 107 | [summer-rs/summer-rs](./summer-rs-summer-rs.md) | ⭐ 957 | Rust | 63/100 |
+| 108 | [maziyarpanahi/openmed](./maziyarpanahi-openmed.md) | ⭐ 1.1k | Python | 63/100 |
+| 109 | [kornia/kornia-rs](./kornia-kornia-rs.md) | ⭐ 637 | Rust | 63/100 |
+| 110 | [alpyxn/aeterna](./alpyxn-aeterna.md) | ⭐ 247 | JavaScript | 63/100 |
+| 111 | [hookdeck/outpost](./hookdeck-outpost.md) | ⭐ 968 | Go | 62/100 |
+| 112 | [LiveHelperChat/livehelperchat](./livehelperchat-livehelperchat.md) | ⭐ 2.2k | PHP | 62/100 |
+| 113 | [ThingsPanel/thingspanel-backend-community](./thingspanel-thingspanel-backend-community.md) | ⭐ 548 | Go | 62/100 |
+| 114 | [the-blue-alliance/the-blue-alliance](./the-blue-alliance-the-blue-alliance.md) | ⭐ 444 | Python | 61/100 |
+| 115 | [dora-rs/dora](./dora-rs-dora.md) | ⭐ 3.8k | Rust | 61/100 |
+| 116 | [alexdlaird/pyngrok](./alexdlaird-pyngrok.md) | ⭐ 465 | Python | 61/100 |
+| 117 | [posit-dev/chatlas](./posit-dev-chatlas.md) | ⭐ 159 | Python | 61/100 |
+| 118 | [strands-labs/robots](./strands-labs-robots.md) | ⭐ 49 | Python | 61/100 |
+| 119 | [fronalabs/frona](./fronalabs-frona.md) | ⭐ 108 | Rust | 61/100 |
+| 120 | [AlekseiUL/openclaw-memory-kit](./alekseiul-openclaw-memory-kit.md) | ⭐ 33 | Shell | 60/100 |
+| 121 | [ggplab/n8n-playbook](./ggplab-n8n-playbook.md) | ⭐ 101 | Python | 60/100 |
+| 122 | [ros-controls/ros2_controllers](./ros-controls-ros2-controllers.md) | ⭐ 752 | C++ | 60/100 |
+| 123 | [Opentrons/opentrons](./opentrons-opentrons.md) | ⭐ 501 | Python | 59/100 |
+| 124 | [Javis603/Discord-AIBot](./javis603-discord-aibot.md) | ⭐ 213 | JavaScript | 59/100 |
+| 125 | [SimonSchubert/Kai](./simonschubert-kai.md) | ⭐ 764 | Kotlin | 59/100 |
+| 126 | [heal-dev/heal-playwright-tracer](./heal-dev-heal-playwright-tracer.md) | ⭐ 35 | JavaScript | 59/100 |
+| 127 | [TzuHuanTai/RaspberryPi-WebRTC](./tzuhuantai-raspberrypi-webrtc.md) | ⭐ 975 | C++ | 59/100 |
+| 128 | [NVIDIA/OpenShell-Community](./nvidia-openshell-community.md) | ⭐ 131 | TypeScript | 58/100 |
+| 129 | [ipverse/as-ip-blocks](./ipverse-as-ip-blocks.md) | ⭐ 453 | — | 58/100 |
+| 130 | [NeoGeographyToolkit/StereoPipeline](./neogeographytoolkit-stereopipeline.md) | ⭐ 592 | C++ | 58/100 |
+| 131 | [PhotonVision/photonvision](./photonvision-photonvision.md) | ⭐ 411 | Java | 58/100 |
+| 132 | [Big-Sh0t114/NachoBot](./big-sh0t114-nachobot.md) | ⭐ 102 | Python | 58/100 |
+| 133 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 449 | JavaScript | 57/100 |
+| 134 | [focus-trap/focus-trap](./focus-trap-focus-trap.md) | ⭐ 1.5k | JavaScript | 56/100 |
+| 135 | [focus-trap/focus-trap-react](./focus-trap-focus-trap-react.md) | ⭐ 779 | JavaScript | 56/100 |
+| 136 | [testomatio/explorbot](./testomatio-explorbot.md) | ⭐ 46 | TypeScript | 56/100 |
+| 137 | [tickstem/python](./tickstem-python.md) | ⭐ — | — | 56/100 |
+| 138 | [allenai/molmospaces](./allenai-molmospaces.md) | ⭐ 323 | Python | 55/100 |
+| 139 | [ModernRelay/omnigraph](./modernrelay-omnigraph.md) | ⭐ 199 | Rust | 55/100 |
+| 140 | [mindeng/nom-exif](./mindeng-nom-exif.md) | ⭐ 105 | Rust | 55/100 |
+| 141 | [nix-community/nix-ld](./nix-community-nix-ld.md) | ⭐ 1.6k | Rust | 55/100 |
+| 142 | [visionworkbench/visionworkbench](./visionworkbench-visionworkbench.md) | ⭐ 502 | C++ | 54/100 |
+| 143 | [sly-codechum/chum-mem](./sly-codechum-chum-mem.md) | ⭐ 35 | Rust | 52/100 |
+| 144 | [swenyai/sweny](./swenyai-sweny.md) | ⭐ — | — | 49/100 |
+| 145 | [aadya940/orbit-ui](./aadya940-orbit-ui.md) | ⭐ — | — | 49/100 |
+| 146 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 48/100 |
+| 147 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
+| 148 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
 
 ---
 

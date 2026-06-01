@@ -9,52 +9,40 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8759** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **10** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
-| 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
+| 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
 
 ## 🗂️ Categories
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3023 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1596 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 846 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 727 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 467 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 409 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 304 | [Browse →](./crypto/) |
-| 🏷️ **Mcp** | 261 | [Browse →](./mcp/) |
-| 📊 **Data** | 200 | [Browse →](./data/) |
-| 🏷️ **Automation** | 176 | [Browse →](./automation/) |
-| 💳 **Payments** | 139 | [Browse →](./payments/) |
-| 🏷️ **Knowledgerag** | 115 | [Browse →](./knowledgerag/) |
-| 📱 **Mobile** | 99 | [Browse →](./mobile/) |
-| 📈 **Trading** | 98 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 80 | [Browse →](./devopsinfra/) |
-| 🏷️ **Database** | 73 | [Browse →](./database/) |
-| 🔐 **Security** | 67 | [Browse →](./security/) |
-| ✨ **Design** | 30 | [Browse →](./design/) |
-| 🏷️ **Observability** | 16 | [Browse →](./observability/) |
-| 🎯 **Product** | 15 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 11 | [Browse →](./marketing/) |
-| 🏷️ **Education** | 7 | [Browse →](./education/) |
+| 🤖 **AI/ML** | 66 | [Browse →](./aiml/) |
+| 📦 **Misc** | 40 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 21 | [Browse →](./frontend/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🔧 **DevTools** | 3 | [Browse →](./devtools/) |
+| 🔐 **Security** | 2 | [Browse →](./security/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [google-gemini/gemini-cli](./aiml/google-gemini-gemini-cli.md) | ⭐ 103.3k | AI/ML |
-| 2 | [n8n-io/n8n](./aiml/n8n-io-n8n.md) | ⭐ 186.9k | AI/ML |
-| 3 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
-| 4 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 5 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 186.9k | AI/ML |
-| 6 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
-| 7 | [rocketride-org/rocketride-server](./orchestration/rocketride-org-rocketride-server.md) | ⭐ 2.4k | Orchestration |
-| 8 | [open-webui/open-webui](./aiml/open-webui-open-webui.md) | ⭐ 136.1k | AI/ML |
-| 9 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 15k | AI/ML |
-| 10 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 36.7k | Orchestration |
+| 1 | [langfuse/langfuse](./aiml/langfuse-langfuse.md) | ⭐ 25.3k | AI/ML |
+| 2 | [drawdb-io/drawdb](./aiml/drawdb-io-drawdb.md) | ⭐ 37.1k | AI/ML |
+| 3 | [getsentry/sentry](./aiml/getsentry-sentry.md) | ⭐ 43.6k | AI/ML |
+| 4 | [Fincept-Corporation/FinceptTerminal](./data/fincept-corporation-finceptterminal.md) | ⭐ 10.8k | Data |
+| 5 | [chatwoot/chatwoot](./aiml/chatwoot-chatwoot.md) | ⭐ 28.7k | AI/ML |
+| 6 | [usebruno/bruno](./backend/usebruno-bruno.md) | ⭐ 43.1k | Backend |
+| 7 | [ente-io/ente](./mobile/ente-io-ente.md) | ⭐ 26.1k | Mobile |
+| 8 | [nextcloud/server](./backend/nextcloud-server.md) | ⭐ 34.7k | Backend |
+| 9 | [koala73/worldmonitor](./aiml/koala73-worldmonitor.md) | ⭐ 50.7k | AI/ML |
+| 10 | [zaproxy/zaproxy](./security/zaproxy-zaproxy.md) | ⭐ 15k | Security |
 
 ## 🚀 How it works
 
@@ -68,9 +56,9 @@ graph LR
 ```
 
 1. **Discover** — 4 sources pulled in parallel
-2. **Score** — weighted: usefulness, quality, integration, production readiness, outlook, adoption
-3. **Categorize** — rule-based tagging across product domains, integrations, MCP, RAG, automation and infrastructure
-4. **Summarize** — concise RU/EN/ZH summaries via LLM with deterministic fallback
+2. **Score** — weighted: stars, forks, recency, topics, source trust
+3. **Categorize** — rule-based + LLM-assisted tagging
+4. **Summarize** — concise bilingual (EN/RU) summaries via LLM
 5. **Sync** — markdown committed here, metadata upserted to PostgreSQL
 
 ## 🛠️ Self-host
@@ -82,7 +70,7 @@ cp .env.example .env
 npm install && npm start
 ```
 
-Supports cloud LLM providers (OpenAI · Anthropic · OpenRouter · Gemini · Groq · Z.AI).
+Supports local LLMs (Ollama) and cloud providers (OpenAI · Anthropic · OpenRouter).
 
 ## 📦 Data format
 

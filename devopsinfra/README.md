@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**2 projects** in this category.
+**4 projects** in this category.
 
 ## Projects
 
@@ -10,6 +10,8 @@
 |---|---|---|---|---|
 | 1 | [aws/aws-cdk](./aws-aws-cdk.md) | ⭐ 12.7k | TypeScript | 96/100 |
 | 2 | [Normation/rudder](./normation-rudder.md) | ⭐ 645 | Scala | 56/100 |
+| 3 | [Studio-Saelix/sencho](./studio-saelix-sencho.md) | ⭐ — | — | 39/100 |
+| 4 | [gnana997/bumper](./gnana997-bumper.md) | ⭐ — | — | 39/100 |
 
 ---
 

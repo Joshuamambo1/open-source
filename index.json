@@ -5148,92 +5148,24 @@
     "summaryEn": "suitenumerique/drive is a promising open-source project. Categories: Frontend. Interest score: 54/100."
   },
   {
-    "externalId": "3783670",
+    "externalId": "3849318",
     "source": "devto",
-    "url": "https://github.com/stzifkas/pluto-ecss",
-    "owner": "stzifkas",
-    "name": "pluto-ecss",
-    "title": "Pluto-ecss: A transpiler and runtime for PLUTO procedure language",
-    "description": "Mentioned in dev.to article (tag opensource): Pluto-ecss: A transpiler and runtime for PLUTO procedure language",
+    "url": "https://github.com/AloisSeckar/nuxt-ignis",
+    "owner": "AloisSeckar",
+    "name": "nuxt-ignis",
+    "title": "Nuxt Ignis reforged",
+    "description": "Mentioned in dev.to article (tag showdev): Nuxt Ignis reforged",
     "topics": [
       "devto",
-      "opensource",
-      "devchallenge",
-      "githubchallenge",
-      "python"
-    ],
-    "createdAt": "2026-05-30T11:22:34Z",
-    "updatedAt": "2026-05-30T11:22:34Z",
-    "id": "stzifkas/pluto-ecss",
-    "discoveredAt": "2026-06-01T03:17:40.803Z",
-    "score": 40,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.625,
-      "sourceTrust": 0.7
-    },
-    "categories": [
-      "Frontend"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\n\"Pluto-ecss - это бесплатный и открытое исходное программное обеспечение, предназначенное для компиляции и выполнения процедурного языка PLUTO. Это фронтенд-ориентированный проект, который позволяет разрабатывать и исполнять программы на языке PLUTO с помощью transpilers и runtime-интерпретатора. Pluto-ecss обеспечивает быструю и эффективную работу с PLUTO-кодом, делая его идеальным решением для проектов, требующих гибкости и модульности.\"",
-    "summaryEn": "Pluto-ecss is an open-source project that provides a transpiler and runtime for the PLUTO procedure language. This project enables developers to work with PLUTO procedures and deploy them in various frontend environments, offering a flexible and efficient solution for procedural programming. By leveraging Pluto-ecss, developers can write efficient, scalable, and maintainable code using the PLUTO procedure language."
-  },
-  {
-    "externalId": "3783670",
-    "source": "devto",
-    "url": "https://github.com/lark-parser/lark",
-    "owner": "lark-parser",
-    "name": "lark",
-    "title": "Pluto-ecss: A transpiler and runtime for PLUTO procedure language",
-    "description": "Mentioned in dev.to article (tag opensource): Pluto-ecss: A transpiler and runtime for PLUTO procedure language",
-    "topics": [
-      "devto",
-      "opensource",
-      "devchallenge",
-      "githubchallenge",
-      "python"
-    ],
-    "createdAt": "2026-05-30T11:22:34Z",
-    "updatedAt": "2026-05-30T11:22:34Z",
-    "id": "lark-parser/lark",
-    "discoveredAt": "2026-06-01T03:17:40.803Z",
-    "score": 40,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.625,
-      "sourceTrust": 0.7
-    },
-    "categories": [
-      "Frontend"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nПлуто-экесс (Pluto-ecss) - это открытое исходное проект, который предоставляет траплисатор и runtime для языка PLUTO procedure language. Это означает, что проект позволяет конвертировать программы на языке PLUTO в исполняемый код, который можно использовать в веб-приложениях. Pluto-ecss предназначен для frontend-разработчиков и может помочь им создавать более эффективные и производительные приложения.",
-    "summaryEn": "Here's a brief summary of the Pluto-ecss project:\n\nPluto-ecss is an open-source project that provides a transpiler and runtime environment for the PLUTO procedure language, allowing developers to write and execute procedures in a compiled format. This project aims to facilitate the development of frontend applications by offering a high-level procedure language and its accompanying runtime infrastructure. By leveraging Pluto-ecss, developers can write more efficient, readable, and maintainable code for their frontend applications."
-  },
-  {
-    "externalId": "3688249",
-    "source": "devto",
-    "url": "https://github.com/altcha-org/altcha",
-    "owner": "altcha-org",
-    "name": "altcha",
-    "title": "A self-hosted Google reCAPTCHA alternative (we ship it)",
-    "description": "Mentioned in dev.to article (tag opensource): A self-hosted Google reCAPTCHA alternative (we ship it)",
-    "topics": [
-      "devto",
-      "opensource",
-      "development",
+      "showdev",
       "webdev",
-      "opensource"
+      "nuxt",
+      "showdev"
     ],
-    "createdAt": "2026-05-29T06:29:01Z",
-    "updatedAt": "2026-05-29T06:29:01Z",
-    "id": "altcha-org/altcha",
-    "discoveredAt": "2026-06-01T03:17:40.803Z",
+    "createdAt": "2026-06-09T07:52:31Z",
+    "updatedAt": "2026-06-09T07:52:31Z",
+    "id": "aloisseckar/nuxt-ignis",
+    "discoveredAt": "2026-06-09T15:29:20.145Z",
     "score": 40,
     "scoreBreakdown": {
       "stars": 0,
@@ -5246,59 +5178,25 @@
       "Misc"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nПроект \"Self-hosted Google reCAPTCHA alternative\" предлагает альтернативу популярному сервису Google reCAPTCHA для самозатворения. Это означает, что вы можете установить и настроить его на своем собственном сервере, не связываясь с третьими сторонами. Этот проект предназначен для обеспечения безопасности ваших веб-приложений и защиты от ботов и злоумышленников.",
-    "summaryEn": "This project offers a self-hosted, open-source alternative to Google reCAPTCHA, allowing users to manage their own CAPTCHA services. It aims to provide a secure and customizable solution for website owners seeking to protect their platforms from spam and abuse without relying on external services. By hosting it locally, users can maintain control over their user data and reduce their dependence on third-party providers."
+    "summaryRu": "Резюме:\n\nNuxt Ignis reforged - это открытый-source проект, целью которого является восстановление и развитие оригинального проекта Nuxt Ignis. Проект основан на популярном фреймворке Nuxt.js и предназначен для создания высокопроизводительных и гибких веб-приложений. Это отличная возможность для разработчиков присоединиться к сообществу и внести свой вклад в развитие этого инновационного проекта.",
+    "summaryEn": "Here's a brief summary for the Nuxt Ignis reforged project:\n\nNuxt Ignis reforged is an open-source project that aims to revamp the Nuxt Ignis framework, providing a more robust and maintainable solution for building modern web applications. It seeks to leverage the benefits of Nuxt.js and Ignis, resulting in a more efficient and scalable development experience. This project is a community-driven effort to improve and refine the original Nuxt Ignis framework."
   },
   {
-    "externalId": "3780124",
-    "source": "devto",
-    "url": "https://github.com/ArqamWaheed/council",
-    "owner": "ArqamWaheed",
-    "name": "council",
-    "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
-    "description": "Mentioned in dev.to article (tag ai): I Made My AI Models Argue, Then Let Hermes Be the Judge",
-    "topics": [
-      "devto",
-      "ai",
-      "hermesagentchallenge",
-      "devchallenge",
-      "agents"
-    ],
-    "createdAt": "2026-05-30T16:00:54Z",
-    "updatedAt": "2026-05-30T16:00:54Z",
-    "id": "arqamwaheed/council",
-    "discoveredAt": "2026-06-01T03:17:40.803Z",
-    "score": 40,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.625,
-      "sourceTrust": 0.7
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nПроект \"Я сделал свои модели AI спорить, а затем позволил Гермесу быть судьёй\" представляет собой инновационное применение технологий machine learning и искусственного интеллекта. В этом проекте модели AI были обучены аргументировать свои позиции, а затем участвовать в дискуссиях, которые затем судит поэма Гомера \"Илиада\" с персонажем Гермеса. Этот проект демонстрирует потенциал AI в анализе и интерпретации культурного наследия.",
-    "summaryEn": "This open-source project involves creating a unique AI argumentation system where multiple AI models engage in debates, allowing them to present their perspectives and counterarguments. The project then leverages the mythological figure of Hermes, known for his role as a messenger and mediator, to serve as a neutral judge, assessing the validity of each AI model's arguments. This innovative approach aims to push the boundaries of AI development and decision-making."
-  },
-  {
-    "externalId": "48352200-github-mentions",
+    "externalId": "48462366-github-mentions",
     "source": "hackernews",
-    "url": "https://github.com/Mizerness/Ralphy",
-    "owner": "Mizerness",
-    "name": "Ralphy",
-    "title": "Show HN: Ralphy – open-source autonomous Claude Codd built on the Ralph loop",
+    "url": "https://github.com/arman-bd/chromiumfish",
+    "owner": "arman-bd",
+    "name": "chromiumfish",
+    "title": "Show HN: ChromiumFish – Open-source fingerprint-hardened Browser for Scraping",
     "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
       "hn",
       "github-mentions"
     ],
-    "createdAt": "2026-06-01T03:07:36Z",
-    "updatedAt": "2026-06-01T03:07:36Z",
-    "id": "mizerness/ralphy",
-    "discoveredAt": "2026-06-01T03:17:40.800Z",
+    "createdAt": "2026-06-09T15:25:41Z",
+    "updatedAt": "2026-06-09T15:25:41Z",
+    "id": "arman-bd/chromiumfish",
+    "discoveredAt": "2026-06-09T15:29:20.143Z",
     "score": 39,
     "scoreBreakdown": {
       "stars": 0,
@@ -5308,28 +5206,28 @@
       "sourceTrust": 0.8
     },
     "categories": [
-      "Frontend"
+      "Backend"
     ],
     "status": "active",
-    "summaryRu": "Ралфи (Ralphy) - это открытый исходный проект автономной базы данных, построенный на основе цикла Ральфа (Ralph loop) и вдохновленной концепцией Клода Кодда (Claude Codd). Это фронтенд-инструмент, предназначенный для создания автономных баз данных, которые могут обрабатывать и хранить данные без внешней помощи. Ralphy предназначен для облегчения работы разработчикам и исследователям в области автономных баз данных.",
-    "summaryEn": "Ralphy is an open-source autonomous project built on the Ralph loop, inspired by the pioneering work of Claude Codd. This project aims to push the boundaries of frontend development, leveraging the Ralph loop to create a unique and innovative solution. By making its codebase open-source, Ralphy encourages collaboration and community-driven growth in the field of frontend development."
+    "summaryRu": "Резюме:\n\n\"ЧromiumFish - это открытый исходный браузер, предназначенный для скрейпинга и защищенный от фингеринга. Этот проект предлагает безопасный и конфиденциальный способ для web-разработчиков и исследователей сбора данных, избегая потенциальных рисков и последствий фингеринга. ChromiumFish - это важный вклад в открытый исходный код, который может помочь повысить прозрачность и безопасность веб-сайтов.\"",
+    "summaryEn": "Here's a brief summary for the ChromiumFish project:\n\nChromiumFish is an open-source browser designed for fingerprint-hardened web scraping. Built on Chromium, this project aims to provide a secure and anonymous environment for web scraping tasks. By utilizing fingerprint-hardening techniques, ChromiumFish helps protect users' identities while scraping data from the web."
   },
   {
-    "externalId": "48352174-github-mentions",
+    "externalId": "48462248-github-mentions",
     "source": "hackernews",
-    "url": "https://github.com/obra/superpowers",
-    "owner": "obra",
-    "name": "superpowers",
-    "title": "Codex app plugin integration can be better?",
+    "url": "https://github.com/aaddrick/claude-desktop-debian",
+    "owner": "aaddrick",
+    "name": "claude-desktop-debian",
+    "title": "Claude Desktop for Linux",
     "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
       "hn",
       "github-mentions"
     ],
-    "createdAt": "2026-06-01T03:03:15Z",
-    "updatedAt": "2026-06-01T03:03:15Z",
-    "id": "obra/superpowers",
-    "discoveredAt": "2026-06-01T03:17:40.800Z",
+    "createdAt": "2026-06-09T15:17:44Z",
+    "updatedAt": "2026-06-09T15:17:44Z",
+    "id": "aaddrick/claude-desktop-debian",
+    "discoveredAt": "2026-06-09T15:29:20.143Z",
     "score": 39,
     "scoreBreakdown": {
       "stars": 0,
@@ -5342,87 +5240,25 @@
       "Misc"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nПроект \"Codex app plugin integration can be better?\" направлен на улучшение интеграции плагинов в приложение Codex. Он был начат в результате обсуждения на Hacker News и представляет собой открытое решение для разработчиков. Проект находится в категории \"Misc\" и ориентирован на решение проблем и улучшение взаимодействия с плагинами в приложении Codex.",
-    "summaryEn": "The Codex app plugin integration project aims to improve the existing integration between Codex and various plugins, enhancing the overall user experience. By addressing areas where the current integration can be better, this project seeks to promote seamless and efficient interactions between Codex and its plugins. The open-source initiative encourages collaboration and contributions from the community to drive innovation and refinement."
+    "summaryRu": "Резюме:\n\nКлоз Десктоп для Linux - это свободный проект, который позволяет пользователям работать с интеллектуальным ассистентом Клозом напрямую на своей локальной машине. Этот проект предоставляет пользователю интерфейс для взаимодействия с Клозом на Linux-платформе. Программа позволяет использовать функции Клоза для выполнения различных задач и получать персонализированные рекомендации.",
+    "summaryEn": "Claude Desktop for Linux is an open-source project that aims to provide a user-friendly desktop environment for Linux operating systems. This project is designed to offer a simple and intuitive interface for users, potentially rivalling popular desktop environments like GNOME and KDE. By utilizing open-source principles, Claude Desktop for Linux may offer a flexible and customizable alternative for Linux users."
   },
   {
-    "externalId": "48352147-github-mentions",
+    "externalId": "48462197-github-mentions",
     "source": "hackernews",
-    "url": "https://github.com/damien220/UnrealEngine_Agent",
-    "owner": "damien220",
-    "name": "UnrealEngine_Agent",
-    "title": "Specialized Claude Code Agents for Unreal Engine 5",
+    "url": "https://github.com/raeudigerRaeffi/riddlerun",
+    "owner": "raeudigerRaeffi",
+    "name": "riddlerun",
+    "title": "Show HN: RiddleRun – AI run end-to-end browser tests",
     "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
       "hn",
       "github-mentions"
     ],
-    "createdAt": "2026-06-01T02:58:02Z",
-    "updatedAt": "2026-06-01T02:58:02Z",
-    "id": "damien220/unrealengine_agent",
-    "discoveredAt": "2026-06-01T03:17:40.800Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nПроект Specialized Claude Code Agents для Unreal Engine 5 представляет собой открытое программное обеспечение, предназначенное для интеграции с технологиями машинного обучения и искусственного интеллекта. Этот проект позволяет разработчикам использовать мощности Unreal Engine 5 для создания более реалистичных и интуитивно понятных игровых и визуальных приложений с помощью агентов Claude, оснащенных машинным обучением. Проект предназначен для предоставления разработчикам возможностей для создания более сложных и интерактивных симуляций.",
-    "summaryEn": "This open-source project introduces Specialized Claude Code Agents, a set of tools compatible with Unreal Engine 5, leveraging the power of AI and machine learning to enhance game development and content creation. These Claude Code Agents are designed to streamline tasks, improve efficiency, and unlock new creative possibilities within the Unreal Engine 5 ecosystem. By utilizing AI-driven automation, developers can focus on high-level design and innovation."
-  },
-  {
-    "externalId": "48352119-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/chdsbd/kodiak",
-    "owner": "chdsbd",
-    "name": "kodiak",
-    "title": "A bot to automatically update and merge GitHub PRs",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-06-01T02:51:46Z",
-    "updatedAt": "2026-06-01T02:51:46Z",
-    "id": "chdsbd/kodiak",
-    "discoveredAt": "2026-06-01T03:17:40.800Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\n\"Проект A bot to automatically update and merge GitHub PRs предназначен для автоматизации процесса обновления и слияния pull-запросов на GitHub. Он позволяет упростить процесс управления кодом и увеличить эффективность работы команд разработчиков. Проект полностью открыто и может быть использован для улучшения процесса разработки.\"",
-    "summaryEn": "Here's a brief summary of the open-source project:\n\nA bot designed for automating the process of updating and merging GitHub pull requests. This tool aims to streamline project maintenance by simplifying the workflow of managing and merging pull requests. It utilizes GitHub's API to facilitate seamless updates and merges."
-  },
-  {
-    "externalId": "48352070-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/chudweiser/smart-rename",
-    "owner": "chudweiser",
-    "name": "smart-rename",
-    "title": "Smart Rename – renames image file downloads in real time using local AI",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-06-01T02:41:25Z",
-    "updatedAt": "2026-06-01T02:41:25Z",
-    "id": "chudweiser/smart-rename",
-    "discoveredAt": "2026-06-01T03:17:40.800Z",
+    "createdAt": "2026-06-09T15:13:54Z",
+    "updatedAt": "2026-06-09T15:13:54Z",
+    "id": "raeudigerraeffi/riddlerun",
+    "discoveredAt": "2026-06-09T15:29:20.143Z",
     "score": 39,
     "scoreBreakdown": {
       "stars": 0,
@@ -5433,28 +5269,28 @@
     },
     "categories": [
       "AI/ML",
-      "Marketing"
+      "DevTools"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nSmart Rename - уникальный проект, который позволяет реализовывать автоматическое изменение названий скачанных изображений в реальном времени с помощью локальной функции машинного обучения. Эта инновационная технология может быть полезна для маркетологов, фотографов и любых других пользователей, которые часто скачивают и обрабатывают изображения. Проект доступен для скачивания в репозитории GitHub и может быть легко интегрирован в различные системы.",
-    "summaryEn": "Smart Rename is an open-source project that utilizes local AI to automatically rename image file downloads in real-time, streamlining the process of organizing and categorizing visual content. This innovative tool leverages artificial intelligence to analyze downloaded images and assign relevant names based on detected objects, scenes, or other visual attributes. As a result, users can efficiently manage their image collections without manual intervention."
+    "summaryRu": "Резюме:\n\nRiddleRun - это инновационный open-source проект, интегрирующий технологии искусственного интеллекта (AI) для автоматизации конечных-ко-конечных тестов в браузерах. Этот инструмент позволяет разработчикам оптимизировать процесс тестирования, сокращая время и усилия, необходимые для обнаружения ошибок. Ричный функционал RiddleRun делает его актуальным для команд, разрабатывающих сложные веб-приложения и требующих эффективного тестирования.",
+    "summaryEn": "RiddleRun is an open-source project that utilizes AI to automate end-to-end browser testing. This innovative tool enables developers to run comprehensive tests on web applications with ease, streamlining the testing process and enhancing overall software quality. By harnessing the power of AI, RiddleRun eliminates the need for manual testing, saving time and resources."
   },
   {
-    "externalId": "48351958-github-mentions",
+    "externalId": "48462151-github-mentions",
     "source": "hackernews",
-    "url": "https://github.com/lateos-ai/npm-scan",
-    "owner": "lateos-ai",
-    "name": "npm-scan",
-    "title": "NPM-Scan:Detecting Dependency Confusion, Typosquatting,and Credential Harvesting",
+    "url": "https://github.com/FluidForm-ai/fluiddocs-deck-builder",
+    "owner": "FluidForm-ai",
+    "name": "fluiddocs-deck-builder",
+    "title": "Show HN: Open-source plugin that builds single-file HTML decks for coding agents",
     "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
       "hn",
       "github-mentions"
     ],
-    "createdAt": "2026-06-01T02:19:07Z",
-    "updatedAt": "2026-06-01T02:19:07Z",
-    "id": "lateos-ai/npm-scan",
-    "discoveredAt": "2026-06-01T03:17:40.800Z",
+    "createdAt": "2026-06-09T15:09:19Z",
+    "updatedAt": "2026-06-09T15:09:19Z",
+    "id": "fluidform-ai/fluiddocs-deck-builder",
+    "discoveredAt": "2026-06-09T15:29:20.143Z",
     "score": 39,
     "scoreBreakdown": {
       "stars": 0,
@@ -5464,28 +5300,29 @@
       "sourceTrust": 0.8
     },
     "categories": [
-      "Misc"
+      "AI/ML",
+      "Frontend"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nНPM-Scan - это открытый проект, предназначенный для обнаружения потенциальных угроз в зависимости и безопасности Node.js-пакетов. Программа способна выявлять Dependency Confusion, Typosquatting и Credential Harvesting, что является важным инструментом для защиты от атак на безопасности разработки и деплоя приложений. NPM-Scan может помочь разработчикам выявлять и устранять потенциальные риски, связанные с зависимостями в своих проектах.",
-    "summaryEn": "Here's a brief summary of the NPM-Scan project:\n\nNPM-Scan is an open-source tool designed to detect and prevent common security threats in npm packages, including dependency confusion, typosquatting, and credential harvesting. This tool helps developers identify and mitigate potential vulnerabilities in their dependency chains, ensuring the security and integrity of their applications. By utilizing NPM-Scan, developers can proactively identify and address security risks before they become major issues."
+    "summaryRu": "\"Show HN: Open-source плагин, который создает односборные HTML-деки для кодовых агентов. Этот плагин, основанный на технологиях AI/ML и frontend, позволяет автоматически генерировать простые и удобные в использовании HTML-интерфейсы для различных приложений. Открытый исходный код проекта позволяет каждому разработчику внести свой вклад и улучшить функциональность плагина.\"",
+    "summaryEn": "This open-source plugin enables developers to generate single-file HTML decks for coding agents, streamlining the process of creating interactive coding environments. By leveraging this tool, users can create compact, self-contained HTML files that facilitate efficient coding and collaboration. The plugin's single-file approach simplifies deployment and reduces complexity, making it an attractive option for AI/ML and frontend development projects."
   },
   {
-    "externalId": "48351839-github-mentions",
+    "externalId": "48462127-github-mentions",
     "source": "hackernews",
-    "url": "https://github.com/RyanKung/rotom",
-    "owner": "RyanKung",
-    "name": "rotom",
-    "title": "Use Codex, Grok, Kiro, and Cursor OAuth with Claude Code",
+    "url": "https://github.com/Evillare/EMCCA---potential-berach-in-authentication-and-security/tree/main",
+    "owner": "Evillare",
+    "name": "EMCCA---potential-berach-in-authentication-and-security",
+    "title": "Govt websites, security, and the dreaded f12",
     "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
       "hn",
       "github-mentions"
     ],
-    "createdAt": "2026-06-01T01:59:47Z",
-    "updatedAt": "2026-06-01T01:59:47Z",
-    "id": "ryankung/rotom",
-    "discoveredAt": "2026-06-01T03:17:40.800Z",
+    "createdAt": "2026-06-09T15:07:19Z",
+    "updatedAt": "2026-06-09T15:07:19Z",
+    "id": "evillare/emcca---potential-berach-in-authentication-and-security",
+    "discoveredAt": "2026-06-09T15:29:20.143Z",
     "score": 39,
     "scoreBreakdown": {
       "stars": 0,
@@ -5498,25 +5335,57 @@
       "Security"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nПроект \"Use Codex, Grok, Kiro, and Cursor OAuth with Claude Code\" предназначен для обеспечения безопасной авторизации и аутентификации в проектах, использующих платформу Claude Code. Он позволяет интегрировать различные механизмы авторизации, такие как Codex, Grok, Kiro и Cursor OAuth, чтобы создать безопасную и надежную среду для разработки и работы. Этот проект необходим для разработчиков, которые хотят обеспечить высокий уровень безопасности в своих проектах, используя платформу Claude Code.",
-    "summaryEn": "The Claude Code OAuth integration project enables developers to connect their applications with Claude Code using four different OAuth libraries: Codex, Grok, Kiro, and Cursor. This open-source project allows users to securely authenticate and authorize access to Claude Code, promoting secure and compliant API interactions. By integrating these OAuth libraries, developers can ensure seamless and secure communication with Claude Code."
+    "summaryRu": "Резюме:\n\nПроект \"Govt websites, security, and the dreaded f12\" направлен на исследования и выявление уязвимостей в безопасности веб-сайтов правительственных учреждений. Этот проект был вдохновлен обсуждением в Hacker News и является открытым проектом с возможностью участия. В его рамках исследуются методы повышения безопасности веб-сайтов и предотвращения потенциальных угроз.",
+    "summaryEn": "This open-source project aims to address the security vulnerabilities of government websites, specifically focusing on the risks associated with the 'F12' keyboard shortcut, which allows users to access a website's source code and potentially exploit security weaknesses. By addressing these issues, the project seeks to improve the overall security posture of government websites and protect sensitive information. The project is a collaborative effort, as seen on Hacker News and GitHub."
   },
   {
-    "externalId": "48351805-github-mentions",
+    "externalId": "48461956-github-mentions",
     "source": "hackernews",
-    "url": "https://github.com/DominoTree/modern-m68k-toolchains",
-    "owner": "DominoTree",
-    "name": "modern-m68k-toolchains",
-    "title": "Modern-m68k-toolchains: Swift for 68k Mac, rust/Zig for Atari",
+    "url": "https://github.com/ml-from-scratch-book/code",
+    "owner": "ml-from-scratch-book",
+    "name": "code",
+    "title": "Show HN: I built 10 ML algos from scratch because fit() predict() are not enough",
     "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
       "hn",
       "github-mentions"
     ],
-    "createdAt": "2026-06-01T01:54:42Z",
-    "updatedAt": "2026-06-01T01:54:42Z",
-    "id": "dominotree/modern-m68k-toolchains",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
+    "createdAt": "2026-06-09T14:53:46Z",
+    "updatedAt": "2026-06-09T14:53:46Z",
+    "id": "ml-from-scratch-book/code",
+    "discoveredAt": "2026-06-09T15:29:20.143Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\n\"Проект представляет собой коллекцию из 10 машинных обучений алгоритмов, реализованных вручную, поскольку основные функции fit() и predict() не обеспечивают полной возможности работы с данными. Проект направлен на продвижение понимания подлинного процесса машинного обучения и предоставляет практическое руководство по реализации алгоритмов из scratch. Этот проект представляет собой уникальную возможность для изучения AI/ML и frontend-разработки.\"",
+    "summaryEn": "This open-source project showcases 10 machine learning algorithms implemented from scratch to demonstrate the underlying mechanics and provide a deeper understanding of how they work. By avoiding the use of high-level libraries like scikit-learn, the project highlights the importance of understanding the fundamentals of machine learning beyond basic function calls like `fit()` and `predict()`. This project serves as a valuable resource for both beginners and experienced developers looking to improve their ML knowledge."
+  },
+  {
+    "externalId": "48461894-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/elvisun/newsjack",
+    "owner": "elvisun",
+    "name": "newsjack",
+    "title": "Show HN: Newsjack.sh – Open-source skills to turn any agent into a full PR team",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T14:49:15Z",
+    "updatedAt": "2026-06-09T14:49:15Z",
+    "id": "elvisun/newsjack",
+    "discoveredAt": "2026-06-09T15:29:20.143Z",
     "score": 39,
     "scoreBreakdown": {
       "stars": 0,
@@ -5529,25 +5398,58 @@
       "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nПроект Modern-m68k-toolchains направлен на создание современных инструментальных наборов для разработки программного обеспечения на архитектуру 68k Mac и Atari. В рамках проекта реализованы инструментарии для языков Swift, Rust и Zig, позволяющие программистам создавать высокопроизводительные приложения на этих уникальных платформах. Этот проект имеет актуальность в области искусственного интеллекта и машинного обучения, где высокая производительность и эффективность приложений имеют решающее значение.",
-    "summaryEn": "Modern-m68k-toolchains is an open-source project that aims to bring modern programming languages to classic 68k-based systems, including the original Macintosh. It combines efforts to create Swift toolchains for 68k Macs and Rust and Zig toolchains for Atari systems, making it possible for developers to work on these retro platforms using state-of-the-art technologies. This project has the potential to breathe new life into nostalgic computing systems."
+    "summaryRu": "Newsjack.sh - это открытый исходный проект, который позволяет преобразовать любого агента в полноценную команду по работе с прессой. Этот проект, основанный на технологиях AI/ML, позволяет автоматизировать различные задачи по работе с прессой, включая написание пресс-релизов, управление репутацией и мониторинг СМИ. Newsjack.sh предназначен для того, чтобы упростить и автоматизировать процесс работы с прессой, делая его доступным для всех.",
+    "summaryEn": "Newsjack.sh is an open-source project that aims to empower any agent to function as a full Public Relations (PR) team. Leveraging AI/ML capabilities, this innovative tool helps automate tasks typically handled by a dedicated PR team, streamlining communication and amplifying an organization's presence. By democratizing PR efforts, Newsjack.sh facilitates more efficient and effective outreach."
   },
   {
-    "externalId": "48351609-github-mentions",
+    "externalId": "48461835-github-mentions",
     "source": "hackernews",
-    "url": "https://github.com/garrytan/gbrain",
-    "owner": "garrytan",
-    "name": "gbrain",
-    "title": "Garry's Opinionated Agent Brain",
+    "url": "https://github.com/Kellastico/AKA",
+    "owner": "Kellastico",
+    "name": "AKA",
+    "title": "ÄKÄ – A model & agent-agnostic ADE (built on Rust)",
     "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
       "hn",
       "github-mentions"
     ],
-    "createdAt": "2026-06-01T01:22:42Z",
-    "updatedAt": "2026-06-01T01:22:42Z",
-    "id": "garrytan/gbrain",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
+    "createdAt": "2026-06-09T14:44:43Z",
+    "updatedAt": "2026-06-09T14:44:43Z",
+    "id": "kellastico/aka",
+    "discoveredAt": "2026-06-09T15:29:20.143Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "Orchestration",
+      "AI/ML",
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nÄKÄ - это открытый исходный проект на основе Rust, предназначенный для создания агента-независимой ADE (Архитектуры Данных Экспертного). Этот проект обеспечивает оркестрацию, интеграцию и управление AI/ML-приложениями, а также предоставляет удобный интерфейс для frontend-разработчиков. ÄKÄ позволяет создавать универсальные решения для работы с данными экспертного типа в различных приложениях.",
+    "summaryEn": "Here's a brief summary of the open-source project ÄKÄ:\n\nÄKÄ is an open-source, model & agent-agnostic Automated Decision Environment (ADE) built using Rust. This ADE allows for flexible and scalable decision-making processes, making it suitable for various applications in AI/ML and orchestration. By being model and agent-agnostic, ÄKÄ provides a versatile framework for integrating different decision-making models and agents."
+  },
+  {
+    "externalId": "48461575-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/matiasbattocchia/mizzle-mail",
+    "owner": "matiasbattocchia",
+    "name": "mizzle-mail",
+    "title": "Show HN: Instagram for Gmail, a feed where mail expires",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T14:24:04Z",
+    "updatedAt": "2026-06-09T14:24:04Z",
+    "id": "matiasbattocchia/mizzle-mail",
+    "discoveredAt": "2026-06-09T15:29:20.143Z",
     "score": 39,
     "scoreBreakdown": {
       "stars": 0,
@@ -5560,25 +5462,87 @@
       "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\n\"Генератор Garry's Opinionated Agent Brain - это открытый проект, в котором реализован искусственный интеллект и машинное обучение. Этот проект представляет собой агент, способный принимать решения и принимать на основе своего опыта и знаний. Garry's Opinionated Agent Brain может применяться в различных областях, включая исследование, бизнес и разработку.",
-    "summaryEn": "Garry's Opinionated Agent Brain is an open-source artificial intelligence project that aims to provide a comprehensive and opinionated framework for building intelligent agents. This project combines various AI and machine learning techniques to enable the development of sophisticated agents that can learn, reason, and interact with their environment. By leveraging this framework, developers can create complex AI systems with more human-like intelligence and decision-making capabilities."
+    "summaryRu": "Резюме:\n\nПроект \"Instagram для Gmail\" представляет собой уникальную систему отслеживания и управления электронной почтой, которая использует технологии AI/ML для анализа и классификации входящих сообщений. Это позволяет пользователям создавать персонализированную ленту новостей, в которой сообщения автоматически исчезают по истечении определенного срока. Проект предназначен для упрощения управления электронной почтой и повышения эффективности работы.",
+    "summaryEn": "Here's a brief summary for the open-source project:\n\nThis project, an open-source initiative, aims to create a unique feed that combines the functionality of Instagram and the concept of email expiration, providing users with a visually engaging feed where emails expire after a set period. It leverages AI/ML to create a dynamic and interactive experience. By merging these two seemingly disparate concepts, the project seeks to reimagine how users interact with their inbox."
   },
   {
-    "externalId": "48351566-github-mentions",
+    "externalId": "48461500-github-mentions",
     "source": "hackernews",
-    "url": "https://github.com/trholding/shrike-gen",
-    "owner": "trholding",
-    "name": "shrike-gen",
-    "title": "Makefile based build for Shrike-lite and Renesas SLG47910V FPGA",
+    "url": "https://github.com/gaelazzo/python_chess",
+    "owner": "gaelazzo",
+    "name": "python_chess",
+    "title": "Show HN: Hires Chess Trainer – drill the mistakes from your own chess games",
     "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
       "hn",
       "github-mentions"
     ],
-    "createdAt": "2026-06-01T01:15:12Z",
-    "updatedAt": "2026-06-01T01:15:12Z",
-    "id": "trholding/shrike-gen",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
+    "createdAt": "2026-06-09T14:19:00Z",
+    "updatedAt": "2026-06-09T14:19:00Z",
+    "id": "gaelazzo/python_chess",
+    "discoveredAt": "2026-06-09T15:29:20.143Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "Хайрес Чесс Трэнер - это open-source проект, предназначенный для тренировки навыков игры в шахматы с помощью искусственного интеллекта. Программа анализирует ошибки из собственных шахматных партий и поможет вам их исправить, улучшив свою игру. Это уникальный инструмент для шахматистов всех уровней, позволяющий улучшить свои навыки и стать сильнейшим игроком.",
+    "summaryEn": "Hires Chess Trainer is an open-source project that utilizes AI/ML to help chess players improve by analyzing their own games. This tool drills the mistakes made in their games, providing personalized training to reinforce better decision-making and strategies. By leveraging machine learning, users can pinpoint areas for improvement and enhance their chess skills."
+  },
+  {
+    "externalId": "48461492-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/apple/container/releases/tag/1.0.0",
+    "owner": "apple",
+    "name": "container",
+    "title": "Apple Container Hits 1.0",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T14:18:28Z",
+    "updatedAt": "2026-06-09T14:18:28Z",
+    "id": "apple/container",
+    "discoveredAt": "2026-06-09T15:29:20.143Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\n\"Apple Container Hits 1.0\" - это первый релиз open-source проекта, посвященного разработке и распространению технологий искусственной интеллект и машинного обучения. Проект был обнаружен на Hacker News и уже имеет поддержку в GitHub. Этот проект обеспечит разработчикам новые возможности для создания инновационных решений на основе AI и ML.",
+    "summaryEn": "Apple Container, an open-source AI/ML project, has reached a significant milestone with the release of version 1.0. This project aims to provide a robust and efficient framework for containerizing AI models, potentially streamlining the deployment process for developers. With its open-source nature, Apple Container now offers a community-driven platform for advancing AI and ML containerization."
+  },
+  {
+    "externalId": "48461184-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/pseudo-usama/hermex",
+    "owner": "pseudo-usama",
+    "name": "hermex",
+    "title": "Show HN: Run Gemini & ChatGPT UI with Python",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T13:52:48Z",
+    "updatedAt": "2026-06-09T13:52:48Z",
+    "id": "pseudo-usama/hermex",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
     "score": 39,
     "scoreBreakdown": {
       "stars": 0,
@@ -5591,25 +5555,25 @@
       "Frontend"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\n\"Проект представляет собой систему сборки, основанную на Makefile для FPGA-чипов Shrike-lite и Renesas SLG47910V. Эта система позволяет автоматизировать процесс сборки и загрузки программного обеспечения на указанные FPGA-чипы, что упрощает разработку и тестирование на этих платформах. Проект расширяет возможности использования открытых источников в области разработки FPGA-приложений.\"",
-    "summaryEn": "This open-source project provides a Makefile-based build system for Shrike-lite, a lightweight FPGA development board, and the Renesas SLG47910V FPGA. The project enables users to easily build and manage their FPGA projects using a Makefile, streamlining the development process. It caters to developers working with the Shrike-lite and Renesas SLG47910V FPGA, offering a convenient and standardized build framework."
+    "summaryRu": "Резюме:\n\n\"Программа Show HN: Run Gemini & ChatGPT UI with Python позволяет запускать интерфейсы Gemini и ChatGPT на языке Python. Это открытое исходное проект, предназначенное для разработчиков, желающих внедрить функциональность этих популярных сервисов в свои собственные приложения. Программа предоставляет доступ к функциям Gemini и ChatGPT с помощью Python, облегчая разработчикам создание своих собственных пользовательских интерфейсов.\"",
+    "summaryEn": "This open-source project enables users to run the Gemini protocol and ChatGPT UI within a Python environment. By leveraging Python, developers can easily interact with these features, providing a streamlined experience for building and experimenting with Gemini and ChatGPT-related applications. The project offers a flexible and accessible interface for exploring the capabilities of these technologies."
   },
   {
-    "externalId": "48351486-github-mentions",
+    "externalId": "48461115-github-mentions",
     "source": "hackernews",
-    "url": "https://github.com/Reliary/stria",
-    "owner": "Reliary",
-    "name": "stria",
-    "title": "Show HN: Crazy fast codebase analysis MCP: Stria",
+    "url": "https://github.com/rcarmo/womprat",
+    "owner": "rcarmo",
+    "name": "womprat",
+    "title": "Rcarmo/womprat: A single-binary Windows client to access machines on a tailnet",
     "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
       "hn",
       "github-mentions"
     ],
-    "createdAt": "2026-06-01T00:59:00Z",
-    "updatedAt": "2026-06-01T00:59:00Z",
-    "id": "reliary/stria",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
+    "createdAt": "2026-06-09T13:46:59Z",
+    "updatedAt": "2026-06-09T13:46:59Z",
+    "id": "rcarmo/womprat",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
     "score": 39,
     "scoreBreakdown": {
       "stars": 0,
@@ -5619,524 +5583,61 @@
       "sourceTrust": 0.8
     },
     "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\n\"Stria - ультраскорый инструмент анализа кодовой базы, позволяющий быстро и эффективно анализировать и оптимизировать код проекта, повышая производительность и сокращая время разработки.\"",
-    "summaryEn": "Stria is an open-source project that offers rapid codebase analysis, empowering developers to quickly understand and optimize their code. With Stria, users can gain valuable insights into their codebase's performance, structure, and potential areas for improvement. This project is designed to streamline the development process and enhance overall code quality."
-  },
-  {
-    "externalId": "48351367-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/Chleba/ollamaMQ",
-    "owner": "Chleba",
-    "name": "ollamaMQ",
-    "title": "OllamaMQ New Version v0.2.7",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-06-01T00:37:18Z",
-    "updatedAt": "2026-06-01T00:37:18Z",
-    "id": "chleba/ollamamq",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "ОllamaMQ New Version v0.2.7 - это открытый проект, обнаруженный в Hacker News, который представляет собой уникальный инструмент для различных целей. Проект классифицируется как Misc и предлагает новые возможности и функции в сравнении с предыдущей версией. OllamaMQ v0.2.7 представляет собой значительное улучшение и расширение возможностей предыдущей версии.",
-    "summaryEn": "OllamaMQ New Version v0.2.7 is an open-source project that has been discovered on GitHub, suggesting a new iteration of the OllamaMQ system. This project appears to be categorized under 'Misc', indicating its non-standard or miscellaneous nature. Further information is needed to determine the specifics of the system, but its open-source status implies that it is community-driven and transparent."
-  },
-  {
-    "externalId": "48351227-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/alonsovm44/tc-lang",
-    "owner": "alonsovm44",
-    "name": "tc-lang",
-    "title": "I made a systems programming languge, looking for feedback",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-06-01T00:18:18Z",
-    "updatedAt": "2026-06-01T00:18:18Z",
-    "id": "alonsovm44/tc-lang",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "Здесь краткое резюме проекта на русском языке:\n\nЯ создал новую системную программную мову и ищу обратную связь от сообщества. Этот проект открытый и доступен на GitHub. Если вы являетесь экспертом в области системной программной мовы, то пожалуйста, присоединитесь и поделитесь своими мыслями.",
-    "summaryEn": "A developer has created an open-source systems programming language and is seeking feedback from the community. The language is available on GitHub and has been shared on Hacker News for discussion and input. By sharing this project, the developer hopes to collaborate with others and improve the language's features and functionality."
-  },
-  {
-    "externalId": "48351152-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/bernardohcrocha/claude-code-os/",
-    "owner": "bernardohcrocha",
-    "name": "claude-code-os",
-    "title": "Claude Code OS: self-updating operational memory for Claude Code (open source)",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-06-01T00:08:21Z",
-    "updatedAt": "2026-06-01T00:08:21Z",
-    "id": "bernardohcrocha/claude-code-os",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\n\"Клауд Код ОС\" (Claude Code OS) - это открытый исходный проект, предназначенный для автоматической обновляемой оперативной памяти для Клауд Кода. Этот проект предлагает новую концепцию управления оперативной памятью, которая может автоматически обновляться и обновлять свои функции. Claude Code OS может быть использован для различных приложений и систему, которые требуют динамической обновляемой памяти.",
-    "summaryEn": "Claude Code OS is an open-source project that provides a self-updating operational memory for the Claude Code, allowing it to run efficiently and maintain its performance. This innovative project is designed to ensure seamless operation of the Claude Code, eliminating the need for manual updates. By continuously updating its operational memory, Claude Code OS enhances the overall user experience."
-  },
-  {
-    "externalId": "48351134-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/Fimeg/RedFlag",
-    "owner": "Fimeg",
-    "name": "RedFlag",
-    "title": "Show HN: RedFlag – self-hosted update manager with a supply chain gate",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-06-01T00:06:28Z",
-    "updatedAt": "2026-06-01T00:06:28Z",
-    "id": "fimeg/redflag",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nRedFlag - это открытый проект, позволяющий пользователям самостоятельно управлять обновлениями своих систем, обеспечивая тем самым контроль над поставщиками кода. Он включает в себя механизм проверки поставщика кода (supply chain gate), который блокирует вредное или подозрительное содержимое. Этот проект особенно актуален в контексте AI/ML, где обеспечение безопасности и доверия к коду имеет решающее значение.",
-    "summaryEn": "RedFlag is an open-source, self-hosted update manager that incorporates a supply chain security gate. This project aims to provide an additional layer of protection against malicious updates by vetting software dependencies before installation. It is designed to be a valuable tool for individuals and organizations seeking to enhance their software update management and minimize the risk of supply chain attacks."
-  },
-  {
-    "externalId": "48351115-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/pssah4/vault-operator",
-    "owner": "pssah4",
-    "name": "vault-operator",
-    "title": "Karpathy LLM Wiki pattern integrated into Obsidian agenic workflow",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-06-01T00:03:11Z",
-    "updatedAt": "2026-06-01T00:03:11Z",
-    "id": "pssah4/vault-operator",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nПроект \"Karpathy LLM Wiki pattern в интегрированном Obsidian агенческом workflow\" представляет собой открытый исходный код, который объединяет технологии глубокого обучения и систему заметок Obsidian для создания уникального агенческого потока работы. Основанный на открытом исходном коде, этот проект позволяет использовать знания о моделировании языковых моделей (LLM) в реальной рабочей среде. С помощью этого проекта разработчики могут упростить процесс управления знаниями и повысить производительность в области AI и ML.",
-    "summaryEn": "This open-source project integrates the Karpathy LLM Wiki pattern into an Obsidian agenic workflow. By leveraging the power of large language models, it aims to streamline knowledge management and organization. This integration enables users to create and maintain a robust knowledge base within the Obsidian platform."
-  },
-  {
-    "externalId": "48350800-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/botcircuits-ai/botcircuits-agent",
-    "owner": "botcircuits-ai",
-    "name": "botcircuits-agent",
-    "title": "New AI Agent Architecture to fix LLM deviations and token costs",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-05-31T23:21:43Z",
-    "updatedAt": "2026-05-31T23:21:43Z",
-    "id": "botcircuits-ai/botcircuits-agent",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\n\"Новый архитектурный подход для интеллектуального агента AI, призванный решить проблемы отклонений языковых моделей и стоимости токенов. Этот проект, вдохновленный сообществом Hacker News и GitHub, представляет собой инновационное решение в области машинного обучения (AI/ML). Целью этого проекта является разработка более эффективной и стабильной AI-архитектуры, способствующей лучшему пониманию и генерации текста.\"",
-    "summaryEn": "A new open-source project aims to address the limitations of Large Language Models (LLMs) by introducing an innovative AI agent architecture. This architecture seeks to rectify deviations and optimize token costs associated with LLMs, paving the way for more efficient and accurate language processing. By leveraging this new architecture, developers can potentially improve the performance and productivity of their AI applications."
-  },
-  {
-    "externalId": "48350752-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/SCCS-HQ/legal-contract-version-control",
-    "owner": "SCCS-HQ",
-    "name": "legal-contract-version-control",
-    "title": "Legal Contract Version Control",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-05-31T23:16:01Z",
-    "updatedAt": "2026-05-31T23:16:01Z",
-    "id": "sccs-hq/legal-contract-version-control",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме: \n\n\"Legal Contract Version Control - проект, позволяющий управлять версиями юридических контрактов и обеспечить точную запись изменений и обновлений. Программа предназначена для юридических профессионалов и бизнесменов, которые нуждаются в эффективном управлении юридическими документами. Проект открыт для разработок и имеет потенциал для дальнейшего развития и улучшения.\"",
-    "summaryEn": "The Legal Contract Version Control project provides a system for tracking and managing changes to legal contracts, allowing users to maintain a record of revisions and updates. This open-source initiative aims to streamline the contract review and approval process by employing version control principles, commonly used in software development. By doing so, it seeks to increase transparency and reduce errors in contract management."
-  },
-  {
-    "externalId": "48350292-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/singlr-ai/monolith",
-    "owner": "singlr-ai",
-    "name": "monolith",
-    "title": "Show HN: Monolith, live typed queries on real Postgres for Java (no JDBC)",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-05-31T22:20:08Z",
-    "updatedAt": "2026-05-31T22:20:08Z",
-    "id": "singlr-ai/monolith",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\n\"Monolith - это уникальный проект, позволяющий выполнять запросы в реальном PostgreSQL на языке Java без использования JDBC. Этот открытый исходный код проект предлагает живое типизирование для улучшения производительности и эффективности взаимодействия с базой данных. Monolith предлагает новую альтернативу традиционному взаимодействию с PostgreSQL посредством JDBC.\"",
-    "summaryEn": "Monolith is an open-source project that enables live-typed queries on real Postgres databases for Java applications, bypassing the need for JDBC. This innovative solution allows developers to interact with their Postgres databases in a more direct and efficient manner. By leveraging Monolith, Java developers can streamline their database interactions and improve overall performance."
-  },
-  {
-    "externalId": "48350164-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/zfogg/spaniel",
-    "owner": "zfogg",
-    "name": "spaniel",
-    "title": "Spaniel – OpenTelemetry viewer for local development (Postman for your traces)",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-05-31T22:00:18Z",
-    "updatedAt": "2026-05-31T22:00:18Z",
-    "id": "zfogg/spaniel",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nSpaniel - это open-source инструмент для отображения трассировок OpenTelemetry в локальном развитии, который является альтернативой Postman для анализа трассировок. Этот инструмент позволяет разработчикам быстро и легко просматривать и анализировать трассировки в реальном времени, что упрощает процесс отладки и оптимизации приложений. Spaniel - идеальный выбор для разработчиков, которые хотят упростить мониторинг и анализ их приложений в локальном режиме.",
-    "summaryEn": "Spaniel is an open-source project that provides a local OpenTelemetry viewer for developers, offering a Postman-like interface to visualize and interact with distributed traces. This tool allows users to inspect and explore their application's telemetry data in real-time, making it easier to debug and optimize performance issues. By providing an intuitive interface for local development, Spaniel streamlines the process of tracing and debugging distributed systems."
-  },
-  {
-    "externalId": "48350102-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/drmahdikazempour/agent-stack",
-    "owner": "drmahdikazempour",
-    "name": "agent-stack",
-    "title": "Agent-stack – one command to make any repo token-efficient for Claude Code",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-05-31T21:51:06Z",
-    "updatedAt": "2026-05-31T21:51:06Z",
-    "id": "drmahdikazempour/agent-stack",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nAgent-stack - это open-source проект, предназначенный для оптимизации использования токенов в любом репозитории для работы с Claude Code. Этот проект позволяет упростить процесс интеграции AI/ML-технологий в репозитории, обеспечивая более эффективное использование токенов. Благодаря Agent-stack можно сделать любое репозиторий более token-эффективным с единой командой.",
-    "summaryEn": "Agent-stack is an open-source project that aims to optimize any repository for token efficiency when using Claude Code, a powerful AI coding assistant. This tool simplifies the process by providing a single command that can be applied to any repository, making it more cost-effective to utilize Claude Code's capabilities. By streamlining the token management process, Agent-stack helps developers maximize the use of Claude Code while minimizing expenses."
-  },
-  {
-    "externalId": "48349950-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/chrishwiggins/shannon-language-model",
-    "owner": "chrishwiggins",
-    "name": "shannon-language-model",
-    "title": "A (small) language model walks through its training text",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-05-31T21:30:58Z",
-    "updatedAt": "2026-05-31T21:30:58Z",
-    "id": "chrishwiggins/shannon-language-model",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nПроект \"A (small) language model walks through its training text\" представляет собой open-source реализацию языкового моделирования, которая позволяет анализировать и понимать тексты, используя методы машинного обучения. Этот проект можно использовать для создания собственных языковых моделей, а также для изучения процесса обучения и обучения языковых моделей. Проект подойдет разработчикам и исследователям в области искусственного интеллекта и машинного обучения.",
-    "summaryEn": "This open-source project involves a small language model training on its own text data, allowing for a unique exploration of how the model processes and learns from the information it's given. By analyzing the model's training text, users can gain insights into its decision-making processes and identify potential biases or areas for improvement. This self-aware language model can also serve as a tool for understanding the intricacies of language model training."
-  },
-  {
-    "externalId": "48349924-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/unprovable/OrchidMantis",
-    "owner": "unprovable",
-    "name": "OrchidMantis",
-    "title": "Show HN: Orchid Mantis – A PoC in Rust for Zero Knowledge Proofs of Exploit",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-05-31T21:27:20Z",
-    "updatedAt": "2026-05-31T21:27:20Z",
-    "id": "unprovable/orchidmantis",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "Misc"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\n\"Орхидная Мantis\" - это экспериментальный прототип на языке Rust, который демонстрирует возможностями технологии Zero Knowledge Proofs для доказательства эксплуатации. Этот проект представляет собой доказательство концепции (PoC) и призван продемонстрировать потенциал использования Zero Knowledge Proofs в области безопасности. Разработчики надеются, что этот проект станет основой для дальнейшего исследования и развития этой технологии.",
-    "summaryEn": "Orchid Mantis is an open-source proof-of-concept (PoC) project in Rust that enables Zero Knowledge Proofs (ZKP) of exploit, allowing users to prove the existence of a vulnerability without revealing sensitive information. This innovative approach aims to revolutionize the way security vulnerabilities are reported and validated. By leveraging ZKP, Orchid Mantis facilitates a more secure and efficient process for detecting and addressing potential security issues."
-  },
-  {
-    "externalId": "48349870-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/syndicalt/llmff",
-    "owner": "syndicalt",
-    "name": "llmff",
-    "title": "Show HN: Llmff v1.0 FFmpeg for Inference",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-05-31T21:20:02Z",
-    "updatedAt": "2026-05-31T21:20:02Z",
-    "id": "syndicalt/llmff",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме проекта:\n\nЛlmff (Llmff v1.0 FFmpeg for Inference) - это инновационный проект, который объединяет мощь FFmpeg с возможностями глубокого обучения. Этот проект предназначен для использования в задачах инференса, обеспечивая высокую скорость и эффективность. Лlmff открывает новые возможности для разработчиков и исследователей в области AI/ML.",
-    "summaryEn": "Llmff is an open-source project that utilizes FFmpeg to accelerate inference in AI and ML applications. This optimized library, version 1.0, aims to improve the efficiency of machine learning model execution by leveraging FFmpeg's capabilities. By leveraging this innovative approach, developers can potentially achieve faster and more accurate results in various AI-driven tasks."
-  },
-  {
-    "externalId": "48349846-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/VxidDev/arc",
-    "owner": "VxidDev",
-    "name": "arc",
-    "title": "I built a programming language in C (Arc) with a custom interpreter",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-05-31T21:17:17Z",
-    "updatedAt": "2026-05-31T21:17:17Z",
-    "id": "vxiddev/arc",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "Frontend"
-    ],
-    "status": "active",
-    "summaryRu": "Свежий исходный проект на Hacker News!\n\nМой проект Arc - это полноценный программный язык, разработанный мной на языке C с применением встроенного интерпретатора. Этот открытый проект предоставляет уникальную возможность изучить процесс создания языка программирования и его реализации.\nВ Arc можно найти инновационные подходы к обработке и синтаксису языка, которые могут быть интересны разработчикам и любителям компьютерных наук.",
-    "summaryEn": "Here is a brief summary of the open-source project:\n\nArc is an open-source programming language built from scratch in C, featuring a custom interpreter that allows developers to create their own language and execute it on various platforms. This project showcases the capability to design and implement a programming language from the ground up, providing a unique learning experience for developers interested in compiler design and language development. The Arc language can be used for frontend development and other applications, taking advantage of its custom interpreter and extensibility."
-  },
-  {
-    "externalId": "48349572-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/ayoubnabil/aiondb",
-    "owner": "ayoubnabil",
-    "name": "aiondb",
-    "title": "Show HN: AionDbB",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-05-31T20:47:05Z",
-    "updatedAt": "2026-05-31T20:47:05Z",
-    "id": "ayoubnabil/aiondb",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
-      "AI/ML"
-    ],
-    "status": "active",
-    "summaryRu": "Резюме:\n\nАйонДББ (AionDbB) - открытый исходный проект в области искусственного интеллекта и машинного обучения, обнаруженный в сообществе Hacker News. Проект направлен на развитие и совершенствование баз данных, оптимизированных для работы с большими объемами данных и обеспечения высоких показателей производительности. АйонДББ предназначен для использования в приложениях, требующих быстрого и эффективного хранения и обработки данных.",
-    "summaryEn": "AionDbB is an open-source project that leverages AI and machine learning to enhance database management capabilities. This project aims to provide a more efficient and intelligent database system, potentially improving data storage, retrieval, and analysis processes. By harnessing the power of AI, AionDbB seeks to revolutionize the way we interact with and manage data in databases."
-  },
-  {
-    "externalId": "48349546-github-mentions",
-    "source": "hackernews",
-    "url": "https://github.com/zarpay/manceps",
-    "owner": "zarpay",
-    "name": "manceps",
-    "title": "Ruby Client for the Model Context Protocol (MCP)",
-    "description": "Discovered from Hacker News (github-mentions)",
-    "topics": [
-      "hn",
-      "github-mentions"
-    ],
-    "createdAt": "2026-05-31T20:42:40Z",
-    "updatedAt": "2026-05-31T20:42:40Z",
-    "id": "zarpay/manceps",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "stars": 0,
-      "forks": 0,
-      "recency": 1,
-      "topics": 0.25,
-      "sourceTrust": 0.8
-    },
-    "categories": [
+      "AI/ML",
       "DevTools"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nRuby Client for the Model Context Protocol (MCP) - это открытое исходное решение для взаимодействия с протоколом Model Context Protocol. Это утилита DevTools, которая позволяет разработчикам использовать функционал MCP в своих приложениях на основе Ruby. Клиент обеспечивает гибкие возможности для взаимодействия с MCP, позволяя разрабатывать более сложные и инновационные решения.",
-    "summaryEn": "The Ruby Client for the Model Context Protocol (MCP) is an open-source project that enables Ruby developers to interact with the MCP, a standardized protocol for sharing model context between AI models. This client provides a simple and intuitive interface for Ruby applications to integrate with MCP-enabled AI systems. By leveraging the MCP, developers can build more robust and context-aware AI applications."
+    "summaryRu": "Резюме:\n\nRcarmo/womprat - это уникальный, открытое исходный код, многозадачный клиент Windows, который позволяет пользователю подключаться к машинам в сети, обладающей особой архитектурой (tailnet). Этот проект может быть полезен разработчикам и исследователям в области искусственного интеллекта и машинного обучения, поскольку предоставляет им доступ к ресурсам и системам на удаленных машинах. Rcarmo/womprat - это мощный инструмент для автоматизации процессов и выполнения сложных задач в сети.",
+    "summaryEn": "Womprat is an open-source, single-binary client for Windows that provides access to machines on a Tailnet, a decentralized, censorship-resistant network. This project is designed to facilitate secure communication and collaboration on the Tailnet platform. By utilizing Womprat, users can easily connect to and interact with other machines on the network."
   },
   {
-    "externalId": "48349515-github-mentions",
+    "externalId": "48460990-github-mentions",
     "source": "hackernews",
-    "url": "https://github.com/RealZST/HarnessKit",
-    "owner": "RealZST",
-    "name": "HarnessKit",
-    "title": "HarnessKit – Manage skills/MCP/hooks/plugins/memory across all your Agents",
+    "url": "https://github.com/coaxk/subarr",
+    "owner": "coaxk",
+    "name": "subarr",
+    "title": "Subarr – a queue and coverage GUI for the Subgen/Bazarr subtitle stack",
     "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
       "hn",
       "github-mentions"
     ],
-    "createdAt": "2026-05-31T20:40:03Z",
-    "updatedAt": "2026-05-31T20:40:03Z",
-    "id": "realzst/harnesskit",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
+    "createdAt": "2026-06-09T13:37:42Z",
+    "updatedAt": "2026-06-09T13:37:42Z",
+    "id": "coaxk/subarr",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nSubarr - это открытый исходный проект, предназначенный для предоставления графического интерфейса для управления очередью и покрытием в стеке подчинения субтитров Subgen/Bazarr. Этот проект предназначен для упрощения работы с подчинением субтитров, обеспечивая легко доступную и интуитивно понятную систему управления. Subarr является важнейшим компонентом для тех, кто работает с субтитрами и хочет упростить свою работу.",
+    "summaryEn": "Subarr is an open-source project that provides a queue and coverage graphical user interface (GUI) for the Subgen/Bazarr subtitle stack. This tool aims to offer a user-friendly interface for managing and tracking subtitles, enhancing the overall experience for users working with the Subgen/Bazarr system. By utilizing a GUI, Subarr simplifies the subtitle management process."
+  },
+  {
+    "externalId": "48460969-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/melandlabs/openloomi",
+    "owner": "melandlabs",
+    "name": "openloomi",
+    "title": "OpenLoomi: SOTA Holistic Context Graph for AI Agents",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T13:36:14Z",
+    "updatedAt": "2026-06-09T13:36:14Z",
+    "id": "melandlabs/openloomi",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
     "score": 39,
     "scoreBreakdown": {
       "stars": 0,
@@ -6149,25 +5650,87 @@
       "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nHarnessKit – это бесплатный и открытый проект, предназначенный для управления навыками, конфигурацией, плагинами и памятью для всех агентов. Он позволяет централизованно управлять и оптимизировать работу агентов, что является решающим фактором для проектов в области искусственного интеллекта и машинного обучения. HarnessKit помогает разработчикам и исследователям сосредоточиться на развитии своих проектов, а не тратить время на административные задачи.",
-    "summaryEn": "HarnessKit is an open-source project designed to streamline management across multiple AI/ML agents. This tool allows users to centrally manage various elements such as skills, MCP (Machine Code Processor), hooks, and memory, enhancing efficiency and productivity in AI development. By unifying agent management, HarnessKit facilitates a more organized and scalable approach to AI research and implementation."
+    "summaryRu": "Резюме:\n\nOpenLoomi: СOTA (самый высокий уровень достижений) унифицированный контекстный график для агентов AI. Этот проект представляет собой передовой подход к созданию сложных контекстов для агентов AI, позволяя им эффективно ориентироваться в окружающей среде. OpenLoomi может найти применение в различных областях, включая автоматизацию, игровые агенты и интеллектуальные системи.",
+    "summaryEn": "Here's a 2-3 sentence summary for the OpenLoomi project:\n\nOpenLoomi is an open-source, state-of-the-art (SOTA) Holistic Context Graph for AI agents, enabling them to make more informed decisions by considering a wide range of contextual information. This project aims to provide a comprehensive framework for integrating various knowledge sources and incorporating them into a unified graph-based representation. By leveraging OpenLoomi, developers can build more sophisticated and contextually aware AI systems."
   },
   {
-    "externalId": "48349448-github-mentions",
+    "externalId": "48460853-github-mentions",
     "source": "hackernews",
-    "url": "https://github.com/aws-samples/sample-GEDD",
-    "owner": "aws-samples",
-    "name": "sample-GEDD",
-    "title": "Show HN: GEDD – Find what your AI agent gets wrong (before your users do)",
+    "url": "https://github.com/Studio-Saelix/sencho",
+    "owner": "Studio-Saelix",
+    "name": "sencho",
+    "title": "Show HN: Sencho: a multi-node Docker-compose manager",
     "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
       "hn",
       "github-mentions"
     ],
-    "createdAt": "2026-05-31T20:31:24Z",
-    "updatedAt": "2026-05-31T20:31:24Z",
-    "id": "aws-samples/sample-gedd",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
+    "createdAt": "2026-06-09T13:26:00Z",
+    "updatedAt": "2026-06-09T13:26:00Z",
+    "id": "studio-saelix/sencho",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "DevOps/Infra"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nСенчо (Sencho) - это открытое исходное решение для управления многонодными конфигурациями Docker-compose. Проект позволяет автоматизировать создание, мониторинг и управление многонодными окружениями Docker, повышая эффективность и скорость разработки. Сенчо предназначен для использования в средах DevOps и инфраструктуры, способствуя упрощению управления сложными системами.",
+    "summaryEn": "Here's a brief summary of the Sencho project:\n\nSencho is an open-source, multi-node Docker-compose manager that streamlines the deployment and management of complex Docker environments. This project aims to simplify the process of setting up and scaling Docker containers across multiple nodes, making it an attractive solution for DevOps teams. By utilizing Docker-compose, Sencho provides a flexible and scalable infrastructure management tool."
+  },
+  {
+    "externalId": "48460814-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/gnana997/bumper",
+    "owner": "gnana997",
+    "name": "bumper",
+    "title": "Show HN: Bumper – block a destructive Terraform apply or a malicious dependency",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T13:23:06Z",
+    "updatedAt": "2026-06-09T13:23:06Z",
+    "id": "gnana997/bumper",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "DevOps/Infra"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nBumper - это open-source инструмент, предназначенный для предотвращения разрушительного применения Terraform или использования вредоносных зависимостей. Это решение для DevOps/Infra, которое позволяет блокировать опасные действия и защищает инфраструктуру от потенциального вреда. Благодаря Bumper вы можете обеспечить более безопасную и стабильную работу с Terraform и зависимостями в своей инфраструктуре.",
+    "summaryEn": "Bumper is an open-source project designed to protect infrastructure deployments from potential risks by detecting and blocking destructive Terraform applies or malicious dependencies. It serves as a safeguard for DevOps and infrastructure teams, ensuring the integrity and security of their cloud environments. By implementing Bumper, users can minimize the impact of errors or intentional attacks on their Terraform configurations."
+  },
+  {
+    "externalId": "48460784-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/acunningham-ship-it/veilbrowser",
+    "owner": "acunningham-ship-it",
+    "name": "veilbrowser",
+    "title": "Show HN: Veil – stealth browser for AI agents (real Chrome no Playwright)",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T13:20:15Z",
+    "updatedAt": "2026-06-09T13:20:15Z",
+    "id": "acunningham-ship-it/veilbrowser",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
     "score": 39,
     "scoreBreakdown": {
       "stars": 0,
@@ -6180,25 +5743,58 @@
       "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "Резюме проекта GEDD:\n\nGEDD (GeD Detector) - это инновационный инструмент для обнаружения ошибок в работе искусственного интеллекта (AI) и машинного обучения (ML). Этот open-source проект позволяет определить, что конкретно AI-агент допустил ошибку, предоставляя важную информацию для улучшения точности и надежности AI-решений. GEDD предназначен для помощи разработчикам и исследователям в выявлении и исправлении ошибок AI до того, как пользователи столкнутся с ними.",
-    "summaryEn": "GEDD is an open-source project designed to identify and highlight potential errors or inaccuracies in AI models. It allows developers to detect and correct mistakes before they reach end-users, improving AI reliability and trustworthiness. By using GEDD, developers can enhance the overall performance and credibility of their AI-powered applications."
+    "summaryRu": "Резюме:\n\nVeil - это инновационный открытый проект, представляющий собой стелс браузер для агентов искусственного интеллекта. Он позволяет агентам взаимодействовать с веб-сайтами и собираять данные без каких-либо заметных пометок или следов, обеспечивая повышенную конфиденциальность и безопасность. Veil построен на основе реального Chrome, но без использования Playwright, что делает его более эффективным и легким в использовании.",
+    "summaryEn": "Veil is an open-source, stealth browser designed for AI agents, utilizing the actual Chrome browser without the need for Playwright. This innovative project enables AI agents to browse the web anonymously, hiding their presence from websites and other online entities. Veil offers a more natural browsing experience for AI-powered applications, allowing them to interact with web pages as humans do."
   },
   {
-    "externalId": "48348692-github-mentions",
+    "externalId": "48460764-github-mentions",
     "source": "hackernews",
-    "url": "https://github.com/eikiyo/recto",
-    "owner": "eikiyo",
-    "name": "recto",
-    "title": "Recto: Open-source internal-linking and orphan-page auditor (Cloudflare)",
+    "url": "https://github.com/agentsploit/agentsploit",
+    "owner": "agentsploit",
+    "name": "agentsploit",
+    "title": "AgentSploit – Burp Suite for AI Agents and MCP Servers)",
     "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
       "hn",
       "github-mentions"
     ],
-    "createdAt": "2026-05-31T19:10:42Z",
-    "updatedAt": "2026-05-31T19:10:42Z",
-    "id": "eikiyo/recto",
-    "discoveredAt": "2026-06-01T03:17:40.801Z",
+    "createdAt": "2026-06-09T13:18:07Z",
+    "updatedAt": "2026-06-09T13:18:07Z",
+    "id": "agentsploit/agentsploit",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "AI/ML",
+      "Frontend",
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nAgentSploit - это открытое исходное проект, которое предназначено для интеграции Burp Suite с AI-агентами и серверами MCP. Это уникальная платформа, которая объединяет возможности автоматизированного тестирования безопасности с искусственными интеллектом и мощными серверами. AgentSploit позволяет разработчикам и экспертам в области безопасности создавать более эффективные и автоматизированные системы тестирования безопасности.",
+    "summaryEn": "AgentSploit is an open-source project that integrates the functionality of Burp Suite with AI agents and MCP (Master Control Program) servers. This innovative tool enables AI agents to interact with MCP servers in a controlled environment, offering a platform for researchers and developers to test and analyze AI-powered attacks. By leveraging the capabilities of Burp Suite, AgentSploit provides a powerful framework for AI-driven security research and testing."
+  },
+  {
+    "externalId": "48460640-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/vladignatyev/uk-land-registry-price-paid",
+    "owner": "vladignatyev",
+    "name": "uk-land-registry-price-paid",
+    "title": "Show HN: UK sold house prices, uncapped, by postcode/county (Land Registry)",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T13:08:38Z",
+    "updatedAt": "2026-06-09T13:08:38Z",
+    "id": "vladignatyev/uk-land-registry-price-paid",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
     "score": 39,
     "scoreBreakdown": {
       "stars": 0,
@@ -6211,152 +5807,535 @@
       "Misc"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nRecto - это открытое исходное решение для аудита внутренних ссылок и страниц без ссылок на сайте. Это инструмент, созданный Cloudflare, который позволяет выявлять и устранять проблемы с внутренним связыванием веб-ресурсов. Программа может использовать данные GitHub и другие источники для выявления страниц без ссылок и предложить пути их исправления.",
-    "summaryEn": "Recto is an open-source tool developed by Cloudflare for auditing internal-linking and orphan pages on a website. This project helps identify broken or unused links, ensuring a seamless user experience and improved website crawlability. By utilizing Recto, website administrators can maintain a healthy and efficient online presence."
+    "summaryRu": "Резюме: \n\nПроект предоставляет доступ к открытой информации о продаже домов в Великобритании, не ограниченной по району или округу, основанной на данных Land Registry. Это уникальный ресурс, позволяющий анализировать и отслеживать изменения рынка недвижимости в Великобритании. Программа представляет собой открытый проект, который может быть полезен для исследователей, аналитиков и заинтересованных сторон, стремящихся изучить рынок недвижимости в Великобритании.",
+    "summaryEn": "This open-source project provides access to uncapped UK sold house prices data from the Land Registry, allowing users to view prices by postcode or county. The dataset is sourced from public records and made available for anyone to use, offering valuable insights into the UK's property market. This project is an example of the transparency and accessibility of government data through the Land Registry."
   },
   {
-    "externalId": "Ae8wYbFuEfw",
-    "source": "youtube",
-    "url": "https://github.com/sidsoma/consumer-nlos",
-    "owner": "sidsoma",
-    "name": "consumer-nlos",
-    "title": "MIT Figured Out How Consumer LiDAR Can See Around Corners #mit #technology #technews",
-    "description": "Mentioned in YouTube video by <name>Better Stack</name>\n  <uri>https://www.youtube.com/channel/UCkVfrGwV-iG9bSsgCbrNPxQ</uri>: MIT Figured Out How Consumer LiDAR Can See Around Corners #mit #technology #technews",
+    "externalId": "48460471-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/Incultnitollc/claude-code-live-bridge",
+    "owner": "Incultnitollc",
+    "name": "claude-code-live-bridge",
+    "title": "Show HN: Cc-bridge – Two Claude Code windows talking via one JSONL file",
+    "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
-      "youtube",
-      "<name>better-stack</name>-<uri>https://www.youtube.com/channel/uckvfrgwv-ig9bssgcbrnpxq</uri>"
+      "hn",
+      "github-mentions"
     ],
-    "createdAt": "2026-06-01T01:00:15+00:00",
-    "updatedAt": "2026-06-01T01:00:15+00:00",
-    "id": "sidsoma/consumer-nlos",
-    "discoveredAt": "2026-06-01T03:17:40.802Z",
-    "score": 37,
+    "createdAt": "2026-06-09T12:52:03Z",
+    "updatedAt": "2026-06-09T12:52:03Z",
+    "id": "incultnitollc/claude-code-live-bridge",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
     "scoreBreakdown": {
       "stars": 0,
       "forks": 0,
       "recency": 1,
       "topics": 0.25,
-      "sourceTrust": 0.7
+      "sourceTrust": 0.8
     },
     "categories": [
       "Misc"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nПроект MIT предлагает инновационную технологию, которая позволяет LiDAR (лазерному дальномеру) видеть вокруг углов, что является значительным достижением в области потребительской техники. Это открытие потенциально может найти применение в различных областях, таких как автономные транспортные средства, навигация и отслеживание. Технология представлена в видео-канале Better Stack на YouTube.",
-    "summaryEn": "Researchers at MIT have made a breakthrough in LiDAR technology, enabling consumer-grade LiDAR systems to see around corners and detect objects that are not in their direct line of sight. This innovation has the potential to greatly enhance the capabilities of autonomous vehicles and other applications that rely on LiDAR sensors. By improving LiDAR's ability to detect objects around corners, MIT's solution could lead to safer and more efficient navigation in various environments."
+    "summaryRu": "Резюме:\n\nCc-bridge - это уникальная система, которая позволяет двум окнам для работы с кодом Claude чатовать друг с другом через одну общую файл JSONL. Программа обнаружена в сообществе разработчиков на платформе Hacker News. Cc-bridge представляет собой интересный пример применения технологий для автоматизации взаимодействия между программами.",
+    "summaryEn": "Cc-bridge is an open-source project that enables two Claude Code windows to communicate and share data via a single JSONL file. This innovation allows users to integrate and synchronize information between multiple instances of the Claude Code interface, fostering collaboration and streamlined workflows. By leveraging a JSONL file, Cc-bridge simplifies data exchange and promotes efficient interactions between Claude Code windows."
   },
   {
-    "externalId": "Wq6yMdt11LM",
-    "source": "youtube",
-    "url": "https://github.com/lirantal/npm-security-best-practices",
-    "owner": "lirantal",
-    "name": "npm-security-best-practices",
-    "title": "npm installs can hack your laptop (Here's how to stop it)",
-    "description": "Mentioned in YouTube video by <name>Better Stack</name>\n  <uri>https://www.youtube.com/channel/UCkVfrGwV-iG9bSsgCbrNPxQ</uri>: npm installs can hack your laptop (Here's how to stop it)",
+    "externalId": "48460403-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/GaIsBax/Webhix",
+    "owner": "GaIsBax",
+    "name": "Webhix",
+    "title": "Show HN: Webhix – Self-hosted webhook.site alternative in a single Go binary",
+    "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
-      "youtube",
-      "<name>better-stack</name>-<uri>https://www.youtube.com/channel/uckvfrgwv-ig9bssgcbrnpxq</uri>"
+      "hn",
+      "github-mentions"
     ],
-    "createdAt": "2026-05-31T09:00:37+00:00",
-    "updatedAt": "2026-05-31T09:00:37+00:00",
-    "id": "lirantal/npm-security-best-practices",
-    "discoveredAt": "2026-06-01T03:17:40.802Z",
-    "score": 37,
+    "createdAt": "2026-06-09T12:45:49Z",
+    "updatedAt": "2026-06-09T12:45:49Z",
+    "id": "gaisbax/webhix",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
     "scoreBreakdown": {
       "stars": 0,
       "forks": 0,
       "recency": 1,
       "topics": 0.25,
-      "sourceTrust": 0.7
+      "sourceTrust": 0.8
     },
     "categories": [
       "Misc"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nПроект \"npm installs can hack your laptop (Here's how to stop it)\" - это открытое ПО, которое предназначено для защиты от вредного кода, который может быть скачан вместе с пакетами из npm. В основе проекта лежит видеоролик из канала Better Stack, в котором упоминается возможность похищения данных laptop через npm. Этот проект поможет вам научиться останавливать вредные пакеты и обеспечивать безопасность вашей системы.",
-    "summaryEn": "Here's a brief summary of the open-source project:\n\nA recent YouTube video by Better Stack highlights a potential security risk associated with npm (Node Package Manager) installations, where malicious packages can compromise laptop security. This project aims to raise awareness and provide guidance on how to mitigate this risk and secure npm installations. By understanding these vulnerabilities, users can take proactive steps to protect their laptops from potential hacking threats."
+    "summaryRu": "Резюме:\n\n\"Webhix - это бесплатный, открытый проект, предлагающий альтернативу популярному сервису webhook.site. Это самостоятельная установка, написанная на языке Go, что обеспечивает простоту и эффективность. Webhix позволяет пользователям создавать, отправлять и проверять вебхуки в кратчайшие сроки, не привязываясь к внешним сервисам.\"",
+    "summaryEn": "Webhix is an open-source project that provides a self-hosted alternative to webhook.site, a popular web service for testing and debugging webhooks. Written in a single Go binary, Webhix offers a simple and lightweight solution for developers to test and verify webhook endpoints. This project aims to provide a secure and customizable option for managing webhooks without relying on a third-party service."
   },
   {
-    "externalId": "8ukl-0tlVgM",
-    "source": "youtube",
-    "url": "https://github.com/can1357/oh-my-pi",
-    "owner": "can1357",
-    "name": "oh-my-pi",
-    "title": "Stop Using Claude Code CLI. Use THIS Instead! (Oh-My-Pi)",
-    "description": "Mentioned in YouTube video by <name>Better Stack</name>\n  <uri>https://www.youtube.com/channel/UCkVfrGwV-iG9bSsgCbrNPxQ</uri>: Stop Using Claude Code CLI. Use THIS Instead! (Oh-My-Pi)",
+    "externalId": "48460257-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/Rocco-alt/standing-questions",
+    "owner": "Rocco-alt",
+    "name": "standing-questions",
+    "title": "Show HN: Standing Questions – agent memory that stores questions, not answers",
+    "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
-      "youtube",
-      "<name>better-stack</name>-<uri>https://www.youtube.com/channel/uckvfrgwv-ig9bssgcbrnpxq</uri>"
+      "hn",
+      "github-mentions"
     ],
-    "createdAt": "2026-05-30T19:47:10+00:00",
-    "updatedAt": "2026-05-30T19:47:10+00:00",
-    "id": "can1357/oh-my-pi",
-    "discoveredAt": "2026-06-01T03:17:40.802Z",
-    "score": 37,
+    "createdAt": "2026-06-09T12:31:43Z",
+    "updatedAt": "2026-06-09T12:31:43Z",
+    "id": "rocco-alt/standing-questions",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
     "scoreBreakdown": {
       "stars": 0,
       "forks": 0,
       "recency": 1,
       "topics": 0.25,
-      "sourceTrust": 0.7
+      "sourceTrust": 0.8
     },
     "categories": [
-      "DevTools"
+      "Orchestration",
+      "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nOh-My-Pi - это открытый исходный проект DevTools, представленный в виде командной строки. Проект предлагает альтернативу популярному инструменту Claude Code CLI, как упомянуто в видео YouTube канала Better Stack. Oh-My-Pi предназначен для упрощения и оптимизации процессов разработки.",
-    "summaryEn": "Here's a brief summary of the open-source project, Oh-My-Pi:\n\nOh-My-Pi is an open-source alternative to the Claude Code CLI, as recommended in a YouTube video by Better Stack. This project aims to provide a more efficient solution for [insert purpose of the project here, e.g., AI-powered text generation]. With Oh-My-Pi, users can [insert key benefits or features of the project]."
+    "summaryRu": "Резюме проекта:\n\n\"Standing Questions\" - это уникальный open-source проект, который предоставляет агентное хранилище для вопросов, а не ответов. Он предназначен для оркестрации и интеграции с технологиями машинного обучения (МЛ), позволяя пользователям сосредоточиться на поиске вопросов, а не на их ответах. Проект может найти применение в различных областях, включая оркестрацию и оптимизацию сложных задач.",
+    "summaryEn": "Standing Questions is an open-source project that leverages agent memory to store questions, rather than answers. This novel approach enables more efficient and effective question-answering systems, particularly in complex and dynamic environments. By storing questions, the system can better adapt to changing contexts and provide more accurate and relevant responses."
   },
   {
-    "externalId": "zr4ctBgKAOU",
-    "source": "youtube",
-    "url": "https://github.com/vadimdemedes/ink",
-    "owner": "vadimdemedes",
-    "name": "ink",
-    "title": "OpenTUI: React for Your Terminal, Powered by Bun and Zig",
-    "description": "Mentioned in YouTube video by <name>Better Stack</name>\n  <uri>https://www.youtube.com/channel/UCkVfrGwV-iG9bSsgCbrNPxQ</uri>: OpenTUI: React for Your Terminal, Powered by Bun and Zig",
+    "externalId": "48459913-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/chipmates/agoracosmica",
+    "owner": "chipmates",
+    "name": "agoracosmica",
+    "title": "Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",
+    "description": "Discovered from Hacker News (github-mentions)",
     "topics": [
-      "youtube",
-      "<name>better-stack</name>-<uri>https://www.youtube.com/channel/uckvfrgwv-ig9bssgcbrnpxq</uri>"
+      "hn",
+      "github-mentions"
     ],
-    "createdAt": "2026-05-30T09:00:17+00:00",
-    "updatedAt": "2026-05-30T09:00:17+00:00",
-    "id": "vadimdemedes/ink",
-    "discoveredAt": "2026-06-01T03:17:40.802Z",
-    "score": 37,
+    "createdAt": "2026-06-09T11:56:25Z",
+    "updatedAt": "2026-06-09T11:56:25Z",
+    "id": "chipmates/agoracosmica",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
     "scoreBreakdown": {
       "stars": 0,
       "forks": 0,
       "recency": 1,
       "topics": 0.25,
-      "sourceTrust": 0.7
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\n\"Проект Learn from 30 historical figures представляет собой бесплатный и открытый ресурс, позволяющий изучать жизнь и достижения 30 выдающихся исторических личностей. Это проект некоммерческой организации, который можно легко установить и запустить на собственных серверах. Это отличный способ получить доступ к знаниям и вдохновению великих людей из истории.\"",
+    "summaryEn": "This open-source, nonprofit project allows users to learn from 30 historical figures through a self-hosted platform. The initiative aims to provide a unique educational experience, offering insights into the lives and achievements of influential historical personalities. By being self-hosted, users maintain control over their data, making it an attractive option for those seeking a personalized and secure learning experience."
+  },
+  {
+    "externalId": "48459887-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/MB3R-Lab/Sheaft",
+    "owner": "MB3R-Lab",
+    "name": "Sheaft",
+    "title": "Show HN: Sheaft – simulate service failures before deploying",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T11:52:34Z",
+    "updatedAt": "2026-06-09T11:52:34Z",
+    "id": "mb3r-lab/sheaft",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nSheaft - это открытое-source инструмент, предназначенный для симуляции сбоев в сервисе до его развертывания. Это позволяет разработчикам выявлять потенциальные проблемы и тестировать их в контролируемой среде, что может улучшить стабильность и надежность сервиса. С помощью Sheaft можно предсказывать и готовиться к неожиданным ситуациям, что делает его ценным инструментом в процессах разработки и развертывания.",
+    "summaryEn": "Sheaft is an open-source project that simulates service failures to ensure the reliability of applications before deployment. By mimicking potential failure scenarios, developers can identify and address weaknesses, improving overall system resilience. This AI/ML-powered tool helps prevent downtime and data loss by proactively testing application robustness."
+  },
+  {
+    "externalId": "48459809-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/HenryNebula/jaydebeapiarrow",
+    "owner": "HenryNebula",
+    "name": "jaydebeapiarrow",
+    "title": "Jaydebeapiarrow – A high-performance JDBC bridge for Python",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T11:43:22Z",
+    "updatedAt": "2026-06-09T11:43:22Z",
+    "id": "henrynebula/jaydebeapiarrow",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "Backend"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nJaydebeapiarrow - это высокопроизводительный мост JDBC для Python, разработанный с учетом потребностей разрабатывающих backend-системы. Этот проект позволяет легко интегрировать базы данных и другие драйверы JDBC в свои приложения Python, обеспечивая высокую скорость и надежность. Jaydebeapiarrow - идеальный выбор для разработчиков, которым нужна мощная и легко управляемая библиотека для взаимодействия с базами данных.",
+    "summaryEn": "Jaydebeapiarrow is an open-source project that provides a high-performance JDBC (Java Database Connectivity) bridge for Python, enabling seamless interaction with Java-based databases from Python applications. This bridge is designed to streamline data exchange and improve the efficiency of database operations, making it a valuable resource for developers working with multi-language environments. By leveraging Jaydebeapiarrow, developers can easily integrate their Python code with Java-based databases and take advantage of their respective strengths."
+  },
+  {
+    "externalId": "48459689-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/eben-vranken/trusthook",
+    "owner": "eben-vranken",
+    "name": "trusthook",
+    "title": "Show HN: Trusthook – verify webhook signatures for 18 Go providers in one call",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T11:31:23Z",
+    "updatedAt": "2026-06-09T11:31:23Z",
+    "id": "eben-vranken/trusthook",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме для проекта Trusthook:\n\nTrusthook - это утилита для проверки подписей вебхуков, поддерживающая 18 популярных провайдеров, включая GitHub, GitLab и AWS. Программа позволяет в одном вызове проверить подписи вебхуков нескольких провайдеров, упрощая работу с webhooks и обеспечивая более надежную защиту от мошеннической активности. Trusthook - это открытое ПО, написанное на Go и доступное под лицензией MIT.",
+    "summaryEn": "Trusthook is an open-source project that enables the verification of webhook signatures from 18 popular Go providers in a single call, streamlining the authentication process and reducing complexity. This tool simplifies webhook security by providing a unified interface for signature verification, making it easier to ensure the integrity and authenticity of incoming webhooks. By using Trusthook, developers can focus on building their applications while maintaining robust security."
+  },
+  {
+    "externalId": "48459563-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/crmne/ruby_llm/releases/tag/1.16.0",
+    "owner": "crmne",
+    "name": "ruby_llm",
+    "title": "RubyLLM 1.16: concurrent tool execution, Rails-style instrumentation, and more",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T11:18:03Z",
+    "updatedAt": "2026-06-09T11:18:03Z",
+    "id": "crmne/ruby_llm",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nRubyLLM 1.16 - обновленный инструмент для работы с языковыми моделями (LLM). Известная особенность - возможность одновременного выполнения задач и интеграция с веб-фреймворком на основе Ruby - Rails. Проект предназначен для упрощения работы с AI/ML-технологиями в Ruby-проектах.",
+    "summaryEn": "RubyLLM 1.16 is an open-source project that offers enhanced features for large language models, including concurrent tool execution and Rails-style instrumentation for improved performance and efficiency. This release provides developers with more capabilities to harness the power of AI and machine learning in their applications. The update aims to streamline the development process and unlock the full potential of large language models."
+  },
+  {
+    "externalId": "48459506-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/kouhxp/fftext",
+    "owner": "kouhxp",
+    "name": "fftext",
+    "title": "Show HN: fftext - quick summary, fact check, ELI5 on CPU",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T11:12:40Z",
+    "updatedAt": "2026-06-09T11:12:40Z",
+    "id": "kouhxp/fftext",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
     },
     "categories": [
       "Frontend"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nOpenTUI - революционная платформа для создания интерактивных терминальных приложений на основе React. Используя движок Bun и язык программирования Zig, OpenTUI позволяет разработчикам создавать современные и функциональные UI, даже в консольном окружении. С OpenTUI вы можете создавать интуитивно понятные и мощные терминальные приложения, подобные тем, что можно найти в современных GUI-приложениях.",
-    "summaryEn": "OpenTUI is an open-source project that brings a React-like development experience to the terminal, utilizing the Bun runtime and Zig programming language. This innovative project, showcased in a YouTube video by Better Stack, enables developers to create interactive terminal user interfaces with ease. By leveraging Bun and Zig, OpenTUI aims to revolutionize terminal-based development with a more streamlined and efficient approach."
+    "summaryRu": "Резюме:\n\nfftext - быстрая суммаризация, проверка фактов и объяснение сложных концепций на CPU level. Этот проект предназначен для упрощения понимания сложных компьютерных концепций, обеспечивая быстрое и понятное описание сложных процессов. fftext - это утилитарный инструмент для всех, кто хочет深же понять, как работает компьютерная техника.",
+    "summaryEn": "Here's a brief summary of the project:\n\nfftext is an open-source project that aims to provide a quick summary, fact check, and ELI5 (Explain Like I'm 5) explanation of CPU-related concepts on the Hacker News platform. This project enables users to easily grasp complex CPU topics, making it a valuable resource for those interested in computer science and technology. By offering clear and concise explanations, fftext promotes a better understanding of CPU fundamentals."
   },
   {
-    "externalId": "3761174",
+    "externalId": "48459328-github-mentions",
+    "source": "hackernews",
+    "url": "https://github.com/siddharthvaddem/openscreen/releases",
+    "owner": "siddharthvaddem",
+    "name": "openscreen",
+    "title": "OpenScreen is your free, open-source alternative to Screen Studio",
+    "description": "Discovered from Hacker News (github-mentions)",
+    "topics": [
+      "hn",
+      "github-mentions"
+    ],
+    "createdAt": "2026-06-09T10:51:48Z",
+    "updatedAt": "2026-06-09T10:51:48Z",
+    "id": "siddharthvaddem/openscreen",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 39,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.8
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nOpenScreen - это бесплатный и открытый альтернативный проект для создания и управления экранами, который предлагает функциональность аналогичную Screen Studio. Это проект, созданный сообществом разработчиков, который позволяет пользователям создавать и управлять экранами с помощью мощных инструментов и возможностей. OpenScreen - это отличная возможность для тех, кто ищет свободный и гибкий вариант для создания и управления экранами.",
+    "summaryEn": "OpenScreen is a free, open-source alternative to commercial screen recording software, offering a cost-effective solution for users seeking to capture and edit their screen activity. This project provides a viable alternative to Screen Studio, catering to those who prefer open-source software or are looking for a budget-friendly option. OpenScreen is available on GitHub, where users can access and contribute to the code."
+  },
+  {
+    "externalId": "DnMtDdkSIi0",
+    "source": "youtube",
+    "url": "https://github.com/lfnovo/open-notebook",
+    "owner": "lfnovo",
+    "name": "open-notebook",
+    "title": "I Found the Self-Hosted NotebookLM Devs Actually Want (Open-Notebook)",
+    "description": "Mentioned in YouTube video by <name>Better Stack</name>\n  <uri>https://www.youtube.com/channel/UCkVfrGwV-iG9bSsgCbrNPxQ</uri>: I Found the Self-Hosted NotebookLM Devs Actually Want (Open-Notebook)",
+    "topics": [
+      "youtube",
+      "<name>better-stack</name>-<uri>https://www.youtube.com/channel/uckvfrgwv-ig9bssgcbrnpxq</uri>"
+    ],
+    "createdAt": "2026-06-09T12:30:22+00:00",
+    "updatedAt": "2026-06-09T12:30:22+00:00",
+    "id": "lfnovo/open-notebook",
+    "discoveredAt": "2026-06-09T15:29:20.144Z",
+    "score": 37,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.7
+    },
+    "categories": [
+      "Misc"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nПроект Open-Notebook представляет собой открытое решение для запуска NotebooksLM, которое позволяет разработчикам создавать свои собственные самохостедные версии NotebooksLM. Это решение было упомянуто в видеоролике канала Better Stack на YouTube. Open-Notebook предназначен для удовлетворения потребностей разработчиков в создании автономных и гибких систем для работы с NotebooksLM.",
+    "summaryEn": "Open-Notebook is a self-hosted notebook project that caters to the needs of developers who want to run NotebookLM on their own servers. This project was highlighted by the YouTube channel \"Better Stack\" in their video \"I Found the Self-Hosted NotebookLM Devs Actually Want (Open-Notebook)\". With Open-Notebook, users can have full control over their data and customization options, making it an attractive alternative to cloud-based solutions."
+  },
+  {
+    "externalId": "KqdRWE1en8k",
+    "source": "youtube",
+    "url": "https://github.com/chopratejas/headroom",
+    "owner": "chopratejas",
+    "name": "headroom",
+    "title": "Headroom: The Netflix Tool That Makes AI Agents 10x Cheaper",
+    "description": "Mentioned in YouTube video by <name>Better Stack</name>\n  <uri>https://www.youtube.com/channel/UCkVfrGwV-iG9bSsgCbrNPxQ</uri>: Headroom: The Netflix Tool That Makes AI Agents 10x Cheaper",
+    "topics": [
+      "youtube",
+      "<name>better-stack</name>-<uri>https://www.youtube.com/channel/uckvfrgwv-ig9bssgcbrnpxq</uri>"
+    ],
+    "createdAt": "2026-06-08T12:53:05+00:00",
+    "updatedAt": "2026-06-08T12:53:05+00:00",
+    "id": "chopratejas/headroom",
+    "discoveredAt": "2026-06-09T15:29:20.145Z",
+    "score": 37,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.7
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nHeadroom - это открытый проект, который позволяет существенно снизить стоимость работы с искусственными интеллектом (АИ) агентами. Этот инструмент, созданный Netflix, позволяет уменьшить затраты на работу с АИ агентами в 10 раз. Headroom может быть hữu ích для исследователей, разработчиков и компаний, которые работают с АИ технологиями.",
+    "summaryEn": "Headroom is an open-source project developed by Netflix that significantly reduces the cost of training and deploying AI agents by up to 10 times. This cost-effective tool is a game-changer for the field of artificial intelligence and machine learning (AI/ML), enabling developers to create more efficient and affordable AI models. By leveraging Headroom, developers can focus on innovation without being constrained by high costs."
+  },
+  {
+    "externalId": "6ToqW2iGNsA",
+    "source": "youtube",
+    "url": "https://github.com/nexu-io/html-anything",
+    "owner": "nexu-io",
+    "name": "html-anything",
+    "title": "Why Single-File HTML is the New Markdown in 2026",
+    "description": "Mentioned in YouTube video by <name>Better Stack</name>\n  <uri>https://www.youtube.com/channel/UCkVfrGwV-iG9bSsgCbrNPxQ</uri>: Why Single-File HTML is the New Markdown in 2026",
+    "topics": [
+      "youtube",
+      "<name>better-stack</name>-<uri>https://www.youtube.com/channel/uckvfrgwv-ig9bssgcbrnpxq</uri>"
+    ],
+    "createdAt": "2026-06-08T09:30:21+00:00",
+    "updatedAt": "2026-06-08T09:30:21+00:00",
+    "id": "nexu-io/html-anything",
+    "discoveredAt": "2026-06-09T15:29:20.145Z",
+    "score": 37,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 1,
+      "topics": 0.25,
+      "sourceTrust": 0.7
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nПроект \"Why Single-File HTML is the New Markdown in 2026\" представлен в видео YouTube канала Better Stack и посвящен рассмотрению перспектив использования односборной HTML-технологии в 2026 году. Проект относится к категории AI/ML и предназначен для исследования и сравнения односборной HTML-технологии с другими форматами, такими как Markdown.",
+    "summaryEn": "Here's a brief summary of the open-source project:\n\nThe \"Why Single-File HTML is the New Markdown in 2026\" project aims to revolutionize content creation and documentation by leveraging the simplicity and flexibility of single-file HTML. As discussed in a YouTube video by Better Stack, this project utilizes AI and ML concepts to redefine the way we approach documentation and knowledge sharing. By providing a unified platform for content creation, it seeks to empower users with a seamless and efficient experience."
+  },
+  {
+    "externalId": "3812098",
     "source": "devto",
-    "url": "https://github.com/CodeSeven/toastr",
-    "owner": "CodeSeven",
-    "name": "toastr",
-    "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
-    "description": "Mentioned in dev.to article (tag opensource): Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
+    "url": "https://github.com/Varshithvhegde/postitup",
+    "owner": "Varshithvhegde",
+    "name": "postitup",
+    "title": "I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.",
+    "description": "Mentioned in dev.to article (tag opensource): I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.",
+    "topics": [
+      "devto",
+      "opensource",
+      "webdev",
+      "opensource",
+      "productivity"
+    ],
+    "createdAt": "2026-06-04T02:32:36Z",
+    "updatedAt": "2026-06-04T02:32:36Z",
+    "id": "varshithvhegde/postitup",
+    "discoveredAt": "2026-06-09T15:29:20.145Z",
+    "score": 36,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 0.8,
+      "topics": 0.625,
+      "sourceTrust": 0.7
+    },
+    "categories": [
+      "Frontend",
+      "Product"
+    ],
+    "status": "active",
+    "summaryRu": "Здесь краткое резюме проекта:\n\n\"Коллбординг для веба. Сервис для создания и ведения обратной связи через веб-интерфейс. Делает возможным быстрое и удобное ведение ретро-анализов.\"",
+    "summaryEn": "This open-source project aims to provide a web-based corkboard alternative to traditional tools like Miro, designed to streamline retrospectives and eliminate unnecessary time consumption. The web-based application is built to facilitate seamless and efficient collaboration, allowing teams to focus on the task at hand. By creating a digital corkboard, users can easily share and discuss ideas, notes, and feedback."
+  },
+  {
+    "externalId": "3789544",
+    "source": "devto",
+    "url": "https://github.com/nyaomaru/changelog-bot",
+    "owner": "nyaomaru",
+    "name": "changelog-bot",
+    "title": "CHANGELOG.md is for Both Humans and AI Now, So Let’s Automate It",
+    "description": "Mentioned in dev.to article (tag opensource): CHANGELOG.md is for Both Humans and AI Now, So Let’s Automate It",
+    "topics": [
+      "devto",
+      "opensource",
+      "typescript",
+      "opensource",
+      "changelog"
+    ],
+    "createdAt": "2026-06-03T12:33:59Z",
+    "updatedAt": "2026-06-03T12:33:59Z",
+    "id": "nyaomaru/changelog-bot",
+    "discoveredAt": "2026-06-09T15:29:20.145Z",
+    "score": 36,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 0.8,
+      "topics": 0.625,
+      "sourceTrust": 0.7
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nПроект \"CHANGELOG.md is for Both Humans and AI Now, So Let’s Automate It\" представляет собой открытое ПО, предназначенное для автоматизации генерации смен, описанных в CHANGELOG.md-файле. Это утилитарное решение для разработчиков, позволяющее повысить эффективность работы и сократить время, затрачиваемое на обновление изменений в проекте. Проект предназначен для использования в проектах, где применена технология AI/ML.",
+    "summaryEn": "The \"CHANGELOG.md is for Both Humans and AI Now, So Let's Automate It\" project aims to automate the generation of changelogs, previously a task performed manually by developers and human readers. This open-source initiative leverages AI technology to make changelog creation more efficient and accessible for both human audiences and AI parsing tools. By automating changelog generation, the project seeks to streamline software development workflows and enhance collaboration between humans and AI systems."
+  },
+  {
+    "externalId": "3820245",
+    "source": "devto",
+    "url": "https://github.com/P0rt/the_cozy_web",
+    "owner": "P0rt",
+    "name": "the_cozy_web",
+    "title": "The Comments Got Good. That's How I Knew.",
+    "description": "Mentioned in dev.to article (tag opensource): The Comments Got Good. That's How I Knew.",
+    "topics": [
+      "devto",
+      "opensource",
+      "ai",
+      "webdev",
+      "discuss"
+    ],
+    "createdAt": "2026-06-04T14:09:06Z",
+    "updatedAt": "2026-06-04T14:09:06Z",
+    "id": "p0rt/the_cozy_web",
+    "discoveredAt": "2026-06-09T15:29:20.145Z",
+    "score": 36,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 0.8,
+      "topics": 0.625,
+      "sourceTrust": 0.7
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\n\"Проект The Comments Got Good. That's How I Knew представляет собой инновационное решение в области искусственного интеллекта и машинного обучения. Этот проект, упомянутый в статье на dev.to, направлен на анализ комментариев к статьям на платформе и выявление закономерностей в их качестве. Проект предназначен для улучшения взаимодействия между авторами и их читателями, создавая более информативную и полезную среду для обмена знаниями.\"",
+    "summaryEn": "The project \"The Comments Got Good. That's How I Knew\" is an open-source initiative focused on exploring the intersection of AI and Machine Learning (ML). It is likely driven by a dev.to article of the same name, which discusses the power of good comments in evaluating the quality of a codebase. This project aims to advance the field of AI/ML by leveraging insights from the comments section."
+  },
+  {
+    "externalId": "3826531",
+    "source": "devto",
+    "url": "https://github.com/apurba-labs/karate-platform",
+    "owner": "apurba-labs",
+    "name": "karate-platform",
+    "title": "Karate Platform: Finishing the Tournament Experience",
+    "description": "Mentioned in dev.to article (tag opensource): Karate Platform: Finishing the Tournament Experience",
     "topics": [
       "devto",
       "opensource",
       "devchallenge",
       "githubchallenge",
-      "typescript"
+      "githubcopilot"
     ],
-    "createdAt": "2026-05-27T04:59:28Z",
-    "updatedAt": "2026-05-27T04:59:28Z",
-    "id": "codeseven/toastr",
-    "discoveredAt": "2026-06-01T03:17:40.802Z",
+    "createdAt": "2026-06-05T09:41:07Z",
+    "updatedAt": "2026-06-05T09:41:07Z",
+    "id": "apurba-labs/karate-platform",
+    "discoveredAt": "2026-06-09T15:29:20.145Z",
     "score": 36,
     "scoreBreakdown": {
       "stars": 0,
@@ -6369,28 +6348,28 @@
       "Misc"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nПроект toastr-next v3 представляет собой обновлённую версию abandoned-open-source библиотеки toastr-next, первоначально получившей 12 000+ звезд в GitHub. Миссия проекта - перезагрузить и обновить эту популярную библиотеку для современных требований разработчиков, обеспечивая стабильную и поддерживаемую версию. Мы приветствуем всех заинтересованных разработчиков присоединиться к проекту и помочь в его развитии.",
-    "summaryEn": "The toastr-next v3 project aims to revive a widely-used, yet abandoned library with over 12,000 GitHub stars. This open-source endeavor seeks to update and maintain the library, ensuring its continued relevance and usability in modern web development projects. By reviving toastr-next v3, the community can benefit from its rich feature set and streamlined notification system."
+    "summaryRu": "Резюме проекта Karate Platform:\n\nKarate Platform - это open-source проект, целью которого является завершение и улучшение процесса участия в турнирах по карате. Этот проект предназначен для облегчения организации и управления турнирами, обеспечивая простую и удобную платформу для участников, организаторов и судей. Karate Platform может стать ценным инструментом для сообщества каратистов, позволяя им сосредоточиться на спорте, а не на организационных задачах.",
+    "summaryEn": "The Karate Platform is an open-source initiative aiming to enhance the tournament experience. This project focuses on creating a comprehensive solution to manage and streamline tournament-related tasks, providing a more engaging and efficient experience for participants and organizers alike. By finishing the tournament experience, Karate Platform seeks to revolutionize the way tournaments are conducted."
   },
   {
-    "externalId": "3761174",
+    "externalId": "3815208",
     "source": "devto",
-    "url": "https://github.com/Divyesh-5981/toastr-next",
-    "owner": "Divyesh-5981",
-    "name": "toastr-next",
-    "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
-    "description": "Mentioned in dev.to article (tag opensource): Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
+    "url": "https://github.com/FrancisTR/ClassifierAI.git",
+    "owner": "FrancisTR",
+    "name": "ClassifierAI",
+    "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
+    "description": "Mentioned in dev.to article (tag showdev): Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
     "topics": [
       "devto",
-      "opensource",
+      "showdev",
       "devchallenge",
       "githubchallenge",
-      "typescript"
+      "discuss"
     ],
-    "createdAt": "2026-05-27T04:59:28Z",
-    "updatedAt": "2026-05-27T04:59:28Z",
-    "id": "divyesh-5981/toastr-next",
-    "discoveredAt": "2026-06-01T03:17:40.802Z",
+    "createdAt": "2026-06-06T01:41:40Z",
+    "updatedAt": "2026-06-06T01:41:40Z",
+    "id": "francistr/classifierai",
+    "discoveredAt": "2026-06-09T15:29:20.145Z",
     "score": 36,
     "scoreBreakdown": {
       "stars": 0,
@@ -6400,10 +6379,44 @@
       "sourceTrust": 0.7
     },
     "categories": [
-      "Misc"
+      "AI/ML"
     ],
     "status": "active",
-    "summaryRu": "Резюме:\n\nПроект Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞 посвящен возрождению заброшенного открытого проекта toastr-next v3, получившего более 12 тысяч звезд на GitHub. Целью проекта является обновление и поддержка этого популярного JavaScript-компонента для вывода уведомлений. В результате, разработчики получат возможность использовать обновленную и стабильную версию toastr-next v3 в своих проектах.",
-    "summaryEn": "Toastr-next v3 is an open-source library aiming to revive a previously abandoned project with over 12,000 stars. This library provides a customizable, easy-to-use notification system for web applications, facilitating user engagement and feedback. By reviving toastr-next v3, the project aims to ensure continued maintenance and support for developers relying on this notification system."
+    "summaryRu": "Резюме:\n\nClassifierAI - это прототип расширения Chrome, созданный двумя разработчиками и Copilot, предназначенный для автоматического обнаружения содержимого, созданного с помощью AI на платформе DEV. Эта открытая проект является прототипом, описанным в статье на dev.to, посвященной теме обнаружения AI-генерируемого контента. ClassifierAI входит в категорию продуктов, использующих искусственный интеллект и машинное обучение.",
+    "summaryEn": "ClassifierAI is an open-source Chrome extension that uses machine learning to detect AI-generated content on the DEV platform. Developed by Two Devs and a Copilot, this prototype aims to identify and differentiate between human-written and AI-generated content, promoting transparency and authenticity in online communities. The project showcases the potential of AI/ML in content classification."
+  },
+  {
+    "externalId": "3815208",
+    "source": "devto",
+    "url": "https://github.com/FrancisTRAlt/ClassifierAI",
+    "owner": "FrancisTRAlt",
+    "name": "ClassifierAI",
+    "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
+    "description": "Mentioned in dev.to article (tag showdev): Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
+    "topics": [
+      "devto",
+      "showdev",
+      "devchallenge",
+      "githubchallenge",
+      "discuss"
+    ],
+    "createdAt": "2026-06-06T01:41:40Z",
+    "updatedAt": "2026-06-06T01:41:40Z",
+    "id": "francistralt/classifierai",
+    "discoveredAt": "2026-06-09T15:29:20.145Z",
+    "score": 36,
+    "scoreBreakdown": {
+      "stars": 0,
+      "forks": 0,
+      "recency": 0.8,
+      "topics": 0.625,
+      "sourceTrust": 0.7
+    },
+    "categories": [
+      "AI/ML"
+    ],
+    "status": "active",
+    "summaryRu": "Резюме:\n\nClassifierAI - это прототипное расширение Chrome, разработанное двумя программистами и Copilot-ом для автоматического обнаружения контента, созданного на основе искусственного интеллекта на платформе DEV. Расширение использует передовые технологии машинного обучения для анализа контента и определения степени его синтетичности. Этот проект является результатом сотрудничества между разработчиками и Copilot-ом и может стать важным инструментом для выявления фальшивого контента в онлайн-сообществах.",
+    "summaryEn": "ClassifierAI is a prototype Chrome extension developed by Two Devs and a Copilot. It aims to automatically detect AI-generated content on DEV, a platform where developers share their experiences and knowledge. This AI/ML-based extension uses machine learning algorithms to differentiate between human-written and AI-generated content."
   }
 ]

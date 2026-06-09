@@ -2,7 +2,7 @@
 
 > Machine learning, LLMs, AI agents, and data science
 
-**66 projects** in this category.
+**72 projects** in this category.
 
 ## Projects
 
@@ -60,20 +60,26 @@
 | 50 | [VoidenHQ/voiden](./voidenhq-voiden.md) | ⭐ 796 | TypeScript | 56/100 |
 | 51 | [Lifailon/rudocs](./lifailon-rudocs.md) | ⭐ 591 | PowerShell | 55/100 |
 | 52 | [FrancescoXX/rustcrab](./francescoxx-rustcrab.md) | ⭐ 502 | Rust | 55/100 |
-| 53 | [ArqamWaheed/council](./arqamwaheed-council.md) | ⭐ — | — | 40/100 |
-| 54 | [damien220/UnrealEngine_Agent](./damien220-unrealengine-agent.md) | ⭐ — | — | 39/100 |
-| 55 | [chudweiser/smart-rename](./chudweiser-smart-rename.md) | ⭐ — | — | 39/100 |
-| 56 | [DominoTree/modern-m68k-toolchains](./dominotree-modern-m68k-toolchains.md) | ⭐ — | — | 39/100 |
-| 57 | [garrytan/gbrain](./garrytan-gbrain.md) | ⭐ — | — | 39/100 |
-| 58 | [Fimeg/RedFlag](./fimeg-redflag.md) | ⭐ — | — | 39/100 |
-| 59 | [pssah4/vault-operator](./pssah4-vault-operator.md) | ⭐ — | — | 39/100 |
-| 60 | [botcircuits-ai/botcircuits-agent](./botcircuits-ai-botcircuits-agent.md) | ⭐ — | — | 39/100 |
-| 61 | [drmahdikazempour/agent-stack](./drmahdikazempour-agent-stack.md) | ⭐ — | — | 39/100 |
-| 62 | [chrishwiggins/shannon-language-model](./chrishwiggins-shannon-language-model.md) | ⭐ — | — | 39/100 |
-| 63 | [syndicalt/llmff](./syndicalt-llmff.md) | ⭐ — | — | 39/100 |
-| 64 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ — | — | 39/100 |
-| 65 | [RealZST/HarnessKit](./realzst-harnesskit.md) | ⭐ — | — | 39/100 |
-| 66 | [aws-samples/sample-GEDD](./aws-samples-sample-gedd.md) | ⭐ — | — | 39/100 |
+| 53 | [raeudigerRaeffi/riddlerun](./raeudigerraeffi-riddlerun.md) | ⭐ — | — | 39/100 |
+| 54 | [FluidForm-ai/fluiddocs-deck-builder](./fluidform-ai-fluiddocs-deck-builder.md) | ⭐ — | — | 39/100 |
+| 55 | [ml-from-scratch-book/code](./ml-from-scratch-book-code.md) | ⭐ — | — | 39/100 |
+| 56 | [elvisun/newsjack](./elvisun-newsjack.md) | ⭐ — | — | 39/100 |
+| 57 | [matiasbattocchia/mizzle-mail](./matiasbattocchia-mizzle-mail.md) | ⭐ — | — | 39/100 |
+| 58 | [gaelazzo/python_chess](./gaelazzo-python-chess.md) | ⭐ — | — | 39/100 |
+| 59 | [apple/container](./apple-container.md) | ⭐ — | — | 39/100 |
+| 60 | [rcarmo/womprat](./rcarmo-womprat.md) | ⭐ — | — | 39/100 |
+| 61 | [coaxk/subarr](./coaxk-subarr.md) | ⭐ — | — | 39/100 |
+| 62 | [melandlabs/openloomi](./melandlabs-openloomi.md) | ⭐ — | — | 39/100 |
+| 63 | [acunningham-ship-it/veilbrowser](./acunningham-ship-it-veilbrowser.md) | ⭐ — | — | 39/100 |
+| 64 | [agentsploit/agentsploit](./agentsploit-agentsploit.md) | ⭐ — | — | 39/100 |
+| 65 | [MB3R-Lab/Sheaft](./mb3r-lab-sheaft.md) | ⭐ — | — | 39/100 |
+| 66 | [crmne/ruby_llm](./crmne-ruby-llm.md) | ⭐ — | — | 39/100 |
+| 67 | [chopratejas/headroom](./chopratejas-headroom.md) | ⭐ — | — | 37/100 |
+| 68 | [nexu-io/html-anything](./nexu-io-html-anything.md) | ⭐ — | — | 37/100 |
+| 69 | [nyaomaru/changelog-bot](./nyaomaru-changelog-bot.md) | ⭐ — | — | 36/100 |
+| 70 | [P0rt/the_cozy_web](./p0rt-the-cozy-web.md) | ⭐ — | — | 36/100 |
+| 71 | [FrancisTR/ClassifierAI](./francistr-classifierai.md) | ⭐ — | — | 36/100 |
+| 72 | [FrancisTRAlt/ClassifierAI](./francistralt-classifierai.md) | ⭐ — | — | 36/100 |
 
 ---
 

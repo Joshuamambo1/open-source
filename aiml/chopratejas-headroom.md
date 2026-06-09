@@ -1,34 +1,32 @@
 # chopratejas/headroom
 
-[![Stars](https://img.shields.io/github/stars/chopratejas/headroom?style=flat-square&color=yellow)](https://github.com/chopratejas/headroom/stargazers) [![Forks](https://img.shields.io/github/forks/chopratejas/headroom?style=flat-square&color=blue)](https://github.com/chopratejas/headroom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chopratejas/headroom?style=flat-square&color=yellow)](https://github.com/chopratejas/headroom/stargazers) [![Forks](https://img.shields.io/github/forks/chopratejas/headroom?style=flat-square&color=blue)](https://github.com/chopratejas/headroom/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
-> The Context Optimization Layer for LLM Applications
+> Mentioned in YouTube video by <name>Better Stack</name>   <uri>https://www.youtube.com/channel/UCkVfrGwV-iG9bSsgCbrNPxQ</uri>: Headroom: The Netflix Tool That Makes AI Agents 10x Cheaper
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 127 |
-| 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | github |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-06-08 |
+| 🔍 **Source** | youtube |
 
 ## 🏷️ Topics
 
-_no topics_
+`youtube` `<name>better-stack</name>-<uri>https://www.youtube.com/channel/uckvfrgwv-ig9bssgcbrnpxq</uri>`
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "chopratejas/headroom":
-
-Headroom is an open-source Context Optimization Layer designed for Large Language Model (LLM) applications, enhancing their performance and efficiency. This library aims to optimize the context processing for LLMs, allowing for faster and more accurate processing of complex inputs. By streamlining context optimization, Headroom enables developers to build more effective and scalable LLM-powered solutions.
+Headroom is an open-source project developed by Netflix that significantly reduces the cost of training and deploying AI agents by up to 10 times. This cost-effective tool is a game-changer for the field of artificial intelligence and machine learning (AI/ML), enabling developers to create more efficient and affordable AI models. By leveraging Headroom, developers can focus on innovation without being constrained by high costs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/chopratejas/headroom) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-09 · [View on GitHub](https://github.com/chopratejas/headroom) · [← Back to AI/ML](./README.md)</sub>

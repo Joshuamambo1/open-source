@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**9 projects** in this category.
+**11 projects** in this category.
 
 ## Projects
 
@@ -17,6 +17,8 @@
 | 7 | [ebean-orm/ebean](./ebean-orm-ebean.md) | ⭐ 1.5k | Java | 65/100 |
 | 8 | [matrix-org/matrix-rust-sdk](./matrix-org-matrix-rust-sdk.md) | ⭐ 2.1k | Rust | 65/100 |
 | 9 | [Hommy-master/capcut-mate](./hommy-master-capcut-mate.md) | ⭐ 814 | Python | 57/100 |
+| 10 | [arman-bd/chromiumfish](./arman-bd-chromiumfish.md) | ⭐ — | — | 39/100 |
+| 11 | [HenryNebula/jaydebeapiarrow](./henrynebula-jaydebeapiarrow.md) | ⭐ — | — | 39/100 |
 
 ---
 

@@ -1,23 +1,23 @@
 # aaddrick/claude-desktop-debian
 
-[![Stars](https://img.shields.io/github/stars/aaddrick/claude-desktop-debian?style=flat-square&color=yellow)](https://github.com/aaddrick/claude-desktop-debian/stargazers) [![Forks](https://img.shields.io/github/forks/aaddrick/claude-desktop-debian?style=flat-square&color=blue)](https://github.com/aaddrick/claude-desktop-debian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aaddrick/claude-desktop-debian?style=flat-square&color=yellow)](https://github.com/aaddrick/claude-desktop-debian/stargazers) [![Forks](https://img.shields.io/github/forks/aaddrick/claude-desktop-debian?style=flat-square&color=blue)](https://github.com/aaddrick/claude-desktop-debian/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
-> Claude Desktop for Linux
+> Discovered from Hacker News (github-mentions)
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4k |
-| 🍴 **Forks** | 417 |
-| 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | github |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-06-09 |
+| 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
 
-_no topics_
+`hn` `github-mentions`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Claude Desktop for Debian-based Linux distributions is an open-source project providing a user-friendly desktop environment for Debian users. This project offers a convenient way to install and manage the Claude Desktop on Debian-based systems, enhancing their overall user experience. By contributing to this project, users can help make the Claude Desktop more accessible to the Debian community.
+Claude Desktop for Linux is an open-source project that aims to provide a user-friendly desktop environment for Linux operating systems. This project is designed to offer a simple and intuitive interface for users, potentially rivalling popular desktop environments like GNOME and KDE. By utilizing open-source principles, Claude Desktop for Linux may offer a flexible and customizable alternative for Linux users.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/aaddrick/claude-desktop-debian) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-09 · [View on GitHub](https://github.com/aaddrick/claude-desktop-debian) · [← Back to Misc](./README.md)</sub>

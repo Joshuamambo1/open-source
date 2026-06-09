@@ -2,7 +2,7 @@
 
 > Everything else worth noting
 
-**40 projects** in this category.
+**33 projects** in this category.
 
 ## Projects
 
@@ -31,23 +31,16 @@
 | 21 | [alltheplaces/alltheplaces](./alltheplaces-alltheplaces.md) | ⭐ 775 | Python | 57/100 |
 | 22 | [microsoft/AL-Go](./microsoft-al-go.md) | ⭐ 462 | PowerShell | 56/100 |
 | 23 | [night/betterttv](./night-betterttv.md) | ⭐ 1.3k | JavaScript | 55/100 |
-| 24 | [altcha-org/altcha](./altcha-org-altcha.md) | ⭐ — | — | 40/100 |
-| 25 | [obra/superpowers](./obra-superpowers.md) | ⭐ — | — | 39/100 |
-| 26 | [chdsbd/kodiak](./chdsbd-kodiak.md) | ⭐ — | — | 39/100 |
-| 27 | [lateos-ai/npm-scan](./lateos-ai-npm-scan.md) | ⭐ — | — | 39/100 |
-| 28 | [Reliary/stria](./reliary-stria.md) | ⭐ — | — | 39/100 |
-| 29 | [Chleba/ollamaMQ](./chleba-ollamamq.md) | ⭐ — | — | 39/100 |
-| 30 | [alonsovm44/tc-lang](./alonsovm44-tc-lang.md) | ⭐ — | — | 39/100 |
-| 31 | [bernardohcrocha/claude-code-os](./bernardohcrocha-claude-code-os.md) | ⭐ — | — | 39/100 |
-| 32 | [SCCS-HQ/legal-contract-version-control](./sccs-hq-legal-contract-version-control.md) | ⭐ — | — | 39/100 |
-| 33 | [singlr-ai/monolith](./singlr-ai-monolith.md) | ⭐ — | — | 39/100 |
-| 34 | [zfogg/spaniel](./zfogg-spaniel.md) | ⭐ — | — | 39/100 |
-| 35 | [unprovable/OrchidMantis](./unprovable-orchidmantis.md) | ⭐ — | — | 39/100 |
-| 36 | [eikiyo/recto](./eikiyo-recto.md) | ⭐ — | — | 39/100 |
-| 37 | [sidsoma/consumer-nlos](./sidsoma-consumer-nlos.md) | ⭐ — | — | 37/100 |
-| 38 | [lirantal/npm-security-best-practices](./lirantal-npm-security-best-practices.md) | ⭐ — | — | 37/100 |
-| 39 | [CodeSeven/toastr](./codeseven-toastr.md) | ⭐ — | — | 36/100 |
-| 40 | [Divyesh-5981/toastr-next](./divyesh-5981-toastr-next.md) | ⭐ — | — | 36/100 |
+| 24 | [AloisSeckar/nuxt-ignis](./aloisseckar-nuxt-ignis.md) | ⭐ — | — | 40/100 |
+| 25 | [aaddrick/claude-desktop-debian](./aaddrick-claude-desktop-debian.md) | ⭐ — | — | 39/100 |
+| 26 | [vladignatyev/uk-land-registry-price-paid](./vladignatyev-uk-land-registry-price-paid.md) | ⭐ — | — | 39/100 |
+| 27 | [Incultnitollc/claude-code-live-bridge](./incultnitollc-claude-code-live-bridge.md) | ⭐ — | — | 39/100 |
+| 28 | [GaIsBax/Webhix](./gaisbax-webhix.md) | ⭐ — | — | 39/100 |
+| 29 | [chipmates/agoracosmica](./chipmates-agoracosmica.md) | ⭐ — | — | 39/100 |
+| 30 | [eben-vranken/trusthook](./eben-vranken-trusthook.md) | ⭐ — | — | 39/100 |
+| 31 | [siddharthvaddem/openscreen](./siddharthvaddem-openscreen.md) | ⭐ — | — | 39/100 |
+| 32 | [lfnovo/open-notebook](./lfnovo-open-notebook.md) | ⭐ — | — | 37/100 |
+| 33 | [apurba-labs/karate-platform](./apurba-labs-karate-platform.md) | ⭐ — | — | 36/100 |
 
 ---
 

@@ -1,34 +1,32 @@
 # crmne/ruby_llm
 
-[![Stars](https://img.shields.io/github/stars/crmne/ruby_llm?style=flat-square&color=yellow)](https://github.com/crmne/ruby_llm/stargazers) [![Forks](https://img.shields.io/github/forks/crmne/ruby_llm?style=flat-square&color=blue)](https://github.com/crmne/ruby_llm/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crmne/ruby_llm?style=flat-square&color=yellow)](https://github.com/crmne/ruby_llm/releases/tag/1.16.0/stargazers) [![Forks](https://img.shields.io/github/forks/crmne/ruby_llm?style=flat-square&color=blue)](https://github.com/crmne/ruby_llm/releases/tag/1.16.0/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
-> One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, Azure, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, xAI, GPUStack & OpenAI compatible APIs. Agents, Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.
+> Discovered from Hacker News (github-mentions)
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.9k |
-| 🍴 **Forks** | 437 |
-| 💻 **Language** | Ruby |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | github |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-06-09 |
+| 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
 
-_no topics_
+`hn` `github-mentions`
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The ruby_llm project provides a unified, open-source Ruby API for integrating various large language models (LLMs) with popular AI services, including OpenAI and others. This API offers a wide range of features, from chat and vision capabilities to image and audio processing, and supports various frameworks like Rails. By providing a single interface for multiple LLMs, ruby_llm simplifies the development process for AI-powered applications.
+RubyLLM 1.16 is an open-source project that offers enhanced features for large language models, including concurrent tool execution and Rails-style instrumentation for improved performance and efficiency. This release provides developers with more capabilities to harness the power of AI and machine learning in their applications. The update aims to streamline the development process and unlock the full potential of large language models.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/crmne/ruby_llm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-09 · [View on GitHub](https://github.com/crmne/ruby_llm/releases/tag/1.16.0) · [← Back to AI/ML](./README.md)</sub>

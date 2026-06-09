@@ -2,7 +2,7 @@
 
 > Web frameworks, UI libraries, browser tooling
 
-**21 projects** in this category.
+**18 projects** in this category.
 
 ## Projects
 
@@ -23,12 +23,9 @@
 | 13 | [kohii/smoothcsv3](./kohii-smoothcsv3.md) | ⭐ 1.1k | Shell | 55/100 |
 | 14 | [Aryan-Raj3112/episteme](./aryan-raj3112-episteme.md) | ⭐ 478 | Kotlin | 54/100 |
 | 15 | [suitenumerique/drive](./suitenumerique-drive.md) | ⭐ 403 | JavaScript | 54/100 |
-| 16 | [stzifkas/pluto-ecss](./stzifkas-pluto-ecss.md) | ⭐ — | — | 40/100 |
-| 17 | [lark-parser/lark](./lark-parser-lark.md) | ⭐ — | — | 40/100 |
-| 18 | [Mizerness/Ralphy](./mizerness-ralphy.md) | ⭐ — | — | 39/100 |
-| 19 | [trholding/shrike-gen](./trholding-shrike-gen.md) | ⭐ — | — | 39/100 |
-| 20 | [VxidDev/arc](./vxiddev-arc.md) | ⭐ — | — | 39/100 |
-| 21 | [vadimdemedes/ink](./vadimdemedes-ink.md) | ⭐ — | — | 37/100 |
+| 16 | [pseudo-usama/hermex](./pseudo-usama-hermex.md) | ⭐ — | — | 39/100 |
+| 17 | [kouhxp/fftext](./kouhxp-fftext.md) | ⭐ — | — | 39/100 |
+| 18 | [Varshithvhegde/postitup](./varshithvhegde-postitup.md) | ⭐ — | — | 36/100 |
 
 ---
 

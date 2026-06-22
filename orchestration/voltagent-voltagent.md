@@ -1,6 +1,6 @@
 # VoltAgent/voltagent
 
-[![Stars](https://img.shields.io/github/stars/VoltAgent/voltagent?style=flat-square&color=yellow)](https://github.com/VoltAgent/voltagent/stargazers) [![Forks](https://img.shields.io/github/forks/VoltAgent/voltagent?style=flat-square&color=blue)](https://github.com/VoltAgent/voltagent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VoltAgent/voltagent?style=flat-square&color=yellow)](https://github.com/VoltAgent/voltagent/stargazers) [![Forks](https://img.shields.io/github/forks/VoltAgent/voltagent?style=flat-square&color=blue)](https://github.com/VoltAgent/voltagent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9.7k |
-| 🍴 **Forks** | 1k |
+| ⭐ **Stars** | 8.8k |
+| 🍴 **Forks** | 886 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-05-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,41 +27,47 @@ Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ### English
 
-**Summary:** VoltAgent/voltagent is an open-source AI Agent Engineering Platform built on a TypeScript framework, enabling users to turn isolated prompts and tools into repeatable agent workflows. This platform facilitates coordination of multi-agent workflows, addition of tool-use pipelines, and standardization of agent memory. With strong adoption and ecosystem signals, VoltAgent/voltagent is production-ready for serious pilots.
+**Brief Summary (2‑3 sentences)**  
+VoltAgent is an open‑source, TypeScript‑based AI‑agent engineering platform that lets developers stitch together isolated prompts, tools, and memory into repeatable, orchestrated agent workflows. With a rich API/SDK/CLI surface and strong community adoption (8.8 k stars, 886 forks), it serves as a solid foundation for multi‑agent coordination, tool‑use pipelines, and standardized agent state management.
 
-**Value Proposition:** The primary value of VoltAgent/voltagent lies in its ability to transform isolated tools and prompts into organized, repeatable workflows, making it easier to manage complex AI agent tasks.
+**Value**  
+- **From ad‑hoc prompts to production‑grade agents** – VoltAgent abstracts the boilerplate of prompt handling, tool invocation, and memory persistence, turning experimental code into reusable, versionable workflows.  
+- **Multi‑agent orchestration** – Built‑in orchestration primitives let you compose several agents that can collaborate, delegate tasks, or run in parallel, accelerating complex use‑case development (e.g., autonomous data pipelines, customer‑support bots).  
+- **Standardized tool integration** – The framework provides a consistent way to declare, register, and invoke external tools or APIs, reducing integration friction and ensuring traceability.  
+- **Extensible memory layer** – Agents can share a common, pluggable memory store, enabling context continuity across sessions and simplifying RAG (retrieval‑augmented generation) patterns.
 
-**Practical Adoption Path:**
+**Practical Adoption Path**  
+1. **Evaluation** – Clone the repo, run the provided CLI demo, and inspect the TypeScript SDK to verify that the required tool‑use patterns match your needs.  
+2. **Pilot** – Wrap a simple internal prompt or existing micro‑service as a VoltAgent “tool,” configure a lightweight memory backend (e.g., in‑memory or Redis), and expose the agent via the built‑in HTTP API.  
+3. **Integration** – Replace the pilot’s ad‑hoc calls with the VoltAgent SDK in your existing codebase, gradually expanding the workflow to include additional agents or external APIs.  
+4. **Production hardening** – Swap the dev memory store for a persistent, secure backend, enable authentication on the API/CLI, and add observability (logging, tracing) using the framework’s hooks.  
 
-1. **Evaluation:** Begin by evaluating VoltAgent/voltagent through its exposed implementation signals, such as APIs, SDKs, CLIs, language metadata, and focused topics.
-2. **Integration:** Assess the integration process by reviewing documentation and engaging with the community to ensure a smooth onboarding experience.
-3. **Pilot:** Plan a pilot project to test VoltAgent/voltagent in a controlled environment and evaluate its performance, scalability, and potential for integration with existing tools and workflows.
-
-**Production Readiness:** VoltAgent/voltagent is production-ready, with recent activity, strong adoption, and a robust ecosystem signal. Its high production readiness
+**Production Readiness**  
+VoltAgent scores high on readiness: it shows recent activity (last commit 2026‑05‑11), a large and active community (8.8 k stars, 886 forks), and comprehensive integration points (API, SDK, CLI). The TypeScript codebase is well‑documented, and the project covers 20 GitHub topics, indicating broad ecosystem relevance. While no major metadata risks are evident, a final review of licensing, security posture, and maintainer responsiveness is advisable before a full‑scale rollout. Overall, VoltAgent is a strong OSS candidate for serious pilots and can be hardened for production with standard security and observability practices.
 
 ### Русский
 
-Резюме VoltAgent/voltagent:
-
-VoltAgent/voltagent - это платформа для инженерии агентов AI на основе открытого исходного кода в TypeScript. Эта платформа помогает превращать изолированные запросы и инструменты в повторяющиеся потоки агентов, что упрощает координацию мультимодальных агентов, добавление пайплайнов для инструментов и стандартизацию памяти агентов. Платформа готова к сериозному пилотному проекту, поскольку она имеет высокий уровень готовности к производству, недавнюю активность, широкое принятие и сильные сигналы эко-системы.
+VoltAgent / voltagent — это платформа инженерии AI‑агентов, построенная на открытом TypeScript‑фреймворке, которая позволяет превратить разрозненные подсказки и инструменты в повторяемые, управляемые рабочие процессы агентов (координация многопользовательских сценариев, построение пайплайнов с использованием инструментов, стандартизация памяти агентов). Проект уже активно поддерживается (≈ 8 800 ★, 886 forks, последние коммиты — 2026‑05‑11), имеет готовый API/SDK/CLI и богатую мета‑информацию, что делает его практически готовым к пилотному внедрению в продакшн. Оценка готовности — высокая, однако перед масштабным запуском следует уточнить лицензионные условия, безопасность и наличие активных мейнтейнеров.
 
 ### 中文
 
-**VoltAgent/voltagent简介**
+**简短介绍**  
+VoltAgent（voltagent）是基于开源 TypeScript AI Agent 框架构建的 Agent Engineering 平台，能够把零散的 Prompt 与工具组合成可复用、可编排的智能体工作流。它适用于多智能体协同、工具链调用以及统一记忆管理等场景。
 
-VoltAgent/voltagent 是一个基于开源 TypeScript AI 代理框架的 AI 代理工程平台。它可以帮助将孤立的提示和工具转换为可重复的代理工作流程。
+**价值**  
+- 将分散的 Prompt 与外部工具封装为可重复执行的工作流，提升开发效率和系统可维护性。  
+- 提供统一的记忆/知识库（RAG）和编排能力，帮助企业快速搭建复杂的 AI 业务流程。  
+- 开源且社区活跃，降低技术门槛并可自行扩展。
 
-**价值**
+**典型接入方式**  
+1. **API/SDK**：通过提供的 TypeScript SDK 调用核心 Agent 接口，直接在项目代码中创建、管理和调度智能体。  
+2. **CLI**：使用命令行工具快速启动本地或容器化的 Agent 实例，适合原型验证和 CI/CD 集成。  
+3. **语言元数据**：平台暴露 Prompt、Tool、Memory 等元数据，可与现有的 RAG 或工具服务（如数据库、搜索引擎）无缝对接。  
 
-VoltAgent/voltagent 的主要价值在于它可以协调多代理工作流程、添加工具使用流水线以及标准化代理记忆，从而提高工作效率和可靠性。
-
-**典型接入方式**
-
- VoltAgent/voltagent 支持通过 API、SDK 和 CLI 等方式接入。它也暴露了语言元数据和聚焦主题等信号，方便评估和集成。
-
-**生产可用性**
-
-VoltAgent/voltagent 的生产可用性较高，最近有活跃的开发活动、广泛的采用和强大的生态系统信号。它已获得 9736 个 GitHub 星标和 1009 个分支，主要语言是 TypeScript。虽然仍需要进一步的审查，但 VoltAgent/voltagent 已经足够可靠用于严肃的试验。
+**生产可用性**  
+- **活跃度高**：截至 2026‑05‑11，项目拥有 8778 星、886 Fork，最近一次提交在当日，社区贡献持续。  
+- **生态完整**：提供 API、SDK、CLI 三种接入层，文档齐全，已在多个内部项目中验证。  
+- **风险**：许可证、代码安全审计和维护者活跃度仍需最终确认，但整体信号表明已具备在生产环境中进行严肃试点的条件。
 
 ## 🧭 Practical evaluation
 
@@ -79,9 +85,9 @@ VoltAgent/voltagent 的生产可用性较高，最近有活跃的开发活动、
 
 **Quality signals**
 
-- 9736 GitHub stars
-- 1009 forks
-- updated 2026-06-22
+- 8778 GitHub stars
+- 886 forks
+- updated 2026-05-11
 - primary language: TypeScript
 - 20 topics
 
@@ -91,18 +97,18 @@ VoltAgent/voltagent 的生产可用性较高，最近有活跃的开发活动、
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 92/100 |
-| integration | 62/100 |
-| production | 83/100 |
-| outlook | 96/100 |
-| adoption | 82/100 |
-| stars | 85/100 |
-| forks | 75/100 |
-| recency | 100/100 |
+| forks | 74/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 95/100 |
+| quality | 91/100 |
+| recency | 100/100 |
+| adoption | 81/100 |
+| production | 83/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-22 · [View on GitHub](https://github.com/VoltAgent/voltagent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-11 · [View on GitHub](https://github.com/VoltAgent/voltagent) · [← Back to Orchestration](./README.md)</sub>

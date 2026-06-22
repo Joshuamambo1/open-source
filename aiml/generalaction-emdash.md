@@ -1,6 +1,6 @@
 # generalaction/emdash
 
-[![Stars](https://img.shields.io/github/stars/generalaction/emdash?style=flat-square&color=yellow)](https://github.com/generalaction/emdash/stargazers) [![Forks](https://img.shields.io/github/forks/generalaction/emdash?style=flat-square&color=blue)](https://github.com/generalaction/emdash/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/generalaction/emdash?style=flat-square&color=yellow)](https://github.com/generalaction/emdash/stargazers) [![Forks](https://img.shields.io/github/forks/generalaction/emdash?style=flat-square&color=blue)](https://github.com/generalaction/emdash/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 364 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-04-21 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-generalaction/emdash is a promising open-source project. Categories: AI/ML, DevTools, DevOps/Infra. Interest score: 84/100.
+### English
+
+generalaction/emdash: generalaction/emdash helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+generalaction/emdash: open-source проект в категориях AI/ML, DevTools, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+generalaction/emdash：generalaction/emdash helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** generalaction/emdash helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 4032 GitHub stars
+- 364 forks
+- updated 2026-04-21
+- primary language: TypeScript
+- 17 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 74/100 |
+| quality | 73/100 |
+| integration | 78/100 |
+| production | 64/100 |
+| outlook | 67/100 |
+| adoption | 73/100 |
+| stars | 77/100 |
+| forks | 64/100 |
+| recency | 40/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

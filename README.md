@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8819** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **14** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,35 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3044 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1616 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 850 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 729 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 468 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 410 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 304 | [Browse →](./crypto/) |
-| 🏷️ **Mcp** | 262 | [Browse →](./mcp/) |
-| 📊 **Data** | 201 | [Browse →](./data/) |
-| 🏷️ **Automation** | 178 | [Browse →](./automation/) |
-| 💳 **Payments** | 139 | [Browse →](./payments/) |
-| 🏷️ **Knowledgerag** | 116 | [Browse →](./knowledgerag/) |
-| 📱 **Mobile** | 100 | [Browse →](./mobile/) |
-| 📈 **Trading** | 98 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 80 | [Browse →](./devopsinfra/) |
-| 🏷️ **Database** | 76 | [Browse →](./database/) |
-| 🔐 **Security** | 68 | [Browse →](./security/) |
-| ✨ **Design** | 30 | [Browse →](./design/) |
-| 🎯 **Product** | 16 | [Browse →](./product/) |
-| 🏷️ **Observability** | 16 | [Browse →](./observability/) |
-| 🏷️ **Marketing** | 11 | [Browse →](./marketing/) |
-| 🏷️ **Education** | 7 | [Browse →](./education/) |
+| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🏷️ **Mcp** | 17 | [Browse →](./mcp/) |
+| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 13 | [Browse →](./orchestration/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 2 | [rocketride-org/rocketride-server](./orchestration/rocketride-org-rocketride-server.md) | ⭐ 2.4k | Orchestration |
-| 3 | [yusufkaraaslan/Skill_Seekers](./mcp/yusufkaraaslan-skill-seekers.md) | ⭐ 13.5k | Mcp |
-| 4 | [NangoHQ/nango](./aiml/nangohq-nango.md) | ⭐ 7.4k | AI/ML |
-| 5 | [kubeshark/kubeshark](./mcp/kubeshark-kubeshark.md) | ⭐ 11.9k | Mcp |
-| 6 | [GAM-team/GAM](./frontend/gam-team-gam.md) | ⭐ 4.2k | Frontend |
-| 7 | [vstorm-co/full-stack-ai-agent-template](./orchestration/vstorm-co-full-stack-ai-agent-template.md) | ⭐ 1.2k | Orchestration |
-| 8 | [google-gemini/gemini-cli](./aiml/google-gemini-gemini-cli.md) | ⭐ 103.3k | AI/ML |
-| 9 | [ansible/awx](./automation/ansible-awx.md) | ⭐ 15.4k | Automation |
-| 10 | [webiny/webiny-js](./mcp/webiny-webiny-js.md) | ⭐ 8k | Mcp |
+| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 193.6k | Mcp |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.9k | Orchestration |
+| 3 | [PipedreamHQ/pipedream](./automation/pipedreamhq-pipedream.md) | ⭐ 11.5k | Automation |
+| 4 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 39.6k | Orchestration |
+| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 6 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.7k | Mcp |
+| 7 | [kreuzberg-dev/kreuzberg](./mcp/kreuzberg-dev-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 8 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 14.1k | Mcp |
+| 9 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
+| 10 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
 
 ## 🚀 How it works
 

@@ -1,6 +1,6 @@
 # OpenRouterTeam/spawn
 
-[![Stars](https://img.shields.io/github/stars/OpenRouterTeam/spawn?style=flat-square&color=yellow)](https://github.com/OpenRouterTeam/spawn/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRouterTeam/spawn?style=flat-square&color=blue)](https://github.com/OpenRouterTeam/spawn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenRouterTeam/spawn?style=flat-square&color=yellow)](https://github.com/OpenRouterTeam/spawn/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRouterTeam/spawn?style=flat-square&color=blue)](https://github.com/OpenRouterTeam/spawn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Spawn any agent, on any cloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ OpenRouterTeam/spawn：OpenRouterTeam/spawn helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 43/100 |
 | stars | 46/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

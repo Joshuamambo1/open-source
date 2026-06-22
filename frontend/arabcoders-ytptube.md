@@ -1,6 +1,6 @@
 # arabcoders/ytptube
 
-[![Stars](https://img.shields.io/github/stars/arabcoders/ytptube?style=flat-square&color=yellow)](https://github.com/arabcoders/ytptube/stargazers) [![Forks](https://img.shields.io/github/forks/arabcoders/ytptube?style=flat-square&color=blue)](https://github.com/arabcoders/ytptube/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arabcoders/ytptube?style=flat-square&color=yellow)](https://github.com/arabcoders/ytptube/stargazers) [![Forks](https://img.shields.io/github/forks/arabcoders/ytptube?style=flat-square&color=blue)](https://github.com/arabcoders/ytptube/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A WebUI for yt-dlp with concurrent downloads support, presets and scheduled tasks and many more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 909 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ arabcoders/ytptube：arabcoders/ytptube helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 56/100 |
 | stars | 63/100 |
 | forks | 37/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

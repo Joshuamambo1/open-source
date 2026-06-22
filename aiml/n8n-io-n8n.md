@@ -1,6 +1,6 @@
 # n8n-io/n8n
 
-[![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&color=yellow)](https://github.com/n8n-io/n8n/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/n8n?style=flat-square&color=blue)](https://github.com/n8n-io/n8n/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&color=yellow)](https://github.com/n8n-io/n8n/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/n8n?style=flat-square&color=blue)](https://github.com/n8n-io/n8n/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 186.9k |
 | 🍴 **Forks** | 57.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 94/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · Backend
 
 ### English
 
-n8n-io/n8n: n8n-io/n8n helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+n8n-io/n8n: n8n-io/n8n helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-n8n-io/n8n: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+n8n-io/n8n: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-n8n-io/n8n：n8n-io/n8n helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+n8n-io/n8n：n8n-io/n8n helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ n8n-io/n8n：n8n-io/n8n helps add AI capability without starting from a blank mo
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ n8n-io/n8n：n8n-io/n8n helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 95/100 |
+| quality | 85/100 |
 | integration | 94/100 |
-| production | 84/100 |
-| outlook | 93/100 |
+| production | 71/100 |
+| outlook | 79/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

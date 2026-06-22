@@ -1,6 +1,6 @@
 # go-gitea/gitea
 
-[![Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=flat-square&color=yellow)](https://github.com/go-gitea/gitea/stargazers) [![Forks](https://img.shields.io/github/forks/go-gitea/gitea?style=flat-square&color=blue)](https://github.com/go-gitea/gitea/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=flat-square&color=yellow)](https://github.com/go-gitea/gitea/stargazers) [![Forks](https://img.shields.io/github/forks/go-gitea/gitea?style=flat-square&color=blue)](https://github.com/go-gitea/gitea/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 55.4k |
 | 🍴 **Forks** | 6.7k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · Backend
 
 ### English
 
-go-gitea/gitea: go-gitea/gitea helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+go-gitea/gitea: go-gitea/gitea helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-go-gitea/gitea: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+go-gitea/gitea: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-go-gitea/gitea：go-gitea/gitea helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+go-gitea/gitea：go-gitea/gitea helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ go-gitea/gitea：go-gitea/gitea helps add AI capability without starting from a 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ go-gitea/gitea：go-gitea/gitea helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 94/100 |
+| quality | 84/100 |
 | integration | 78/100 |
-| production | 81/100 |
-| outlook | 84/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 99/100 |
 | stars | 100/100 |
 | forks | 96/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # apache/shardingsphere
 
-[![Stars](https://img.shields.io/github/stars/apache/shardingsphere?style=flat-square&color=yellow)](https://github.com/apache/shardingsphere/stargazers) [![Forks](https://img.shields.io/github/forks/apache/shardingsphere?style=flat-square&color=blue)](https://github.com/apache/shardingsphere/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/shardingsphere?style=flat-square&color=yellow)](https://github.com/apache/shardingsphere/stargazers) [![Forks](https://img.shields.io/github/forks/apache/shardingsphere?style=flat-square&color=blue)](https://github.com/apache/shardingsphere/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.7k |
 | 🍴 **Forks** | 6.9k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apache/shardingsphere：apache/shardingsphere helps convert raw data into search
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 92/100 |
+| quality | 82/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 60/100 |
+| outlook | 66/100 |
 | adoption | 93/100 |
 | stars | 92/100 |
 | forks | 96/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

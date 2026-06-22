@@ -1,6 +1,6 @@
 # sou350121/VLA-Handbook
 
-[![Stars](https://img.shields.io/github/stars/sou350121/VLA-Handbook?style=flat-square&color=yellow)](https://github.com/sou350121/VLA-Handbook/stargazers) [![Forks](https://img.shields.io/github/forks/sou350121/VLA-Handbook?style=flat-square&color=blue)](https://github.com/sou350121/VLA-Handbook/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sou350121/VLA-Handbook?style=flat-square&color=yellow)](https://github.com/sou350121/VLA-Handbook/stargazers) [![Forks](https://img.shields.io/github/forks/sou350121/VLA-Handbook?style=flat-square&color=blue)](https://github.com/sou350121/VLA-Handbook/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 187 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sou350121/VLA-Handbook：sou350121/VLA-Handbook helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 43/100 |
 | stars | 48/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

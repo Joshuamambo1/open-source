@@ -1,6 +1,6 @@
 # sashiko-dev/sashiko
 
-[![Stars](https://img.shields.io/github/stars/sashiko-dev/sashiko?style=flat-square&color=yellow)](https://github.com/sashiko-dev/sashiko/stargazers) [![Forks](https://img.shields.io/github/forks/sashiko-dev/sashiko?style=flat-square&color=blue)](https://github.com/sashiko-dev/sashiko/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sashiko-dev/sashiko?style=flat-square&color=yellow)](https://github.com/sashiko-dev/sashiko/stargazers) [![Forks](https://img.shields.io/github/forks/sashiko-dev/sashiko?style=flat-square&color=blue)](https://github.com/sashiko-dev/sashiko/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic review of Linux Kernel code changes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 706 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Sashiko is an open‑source tool that applies AI‑driven, agentic review to Lin
 
 ### 中文
 
-sashiko-dev/sashiko：sashiko-dev/sashiko helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sashiko-dev/sashiko：sashiko-dev/sashiko helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sashiko-dev/sashiko：sashiko-dev/sashiko helps add AI capability without starti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ sashiko-dev/sashiko：sashiko-dev/sashiko helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

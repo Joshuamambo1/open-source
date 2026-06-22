@@ -1,6 +1,6 @@
 # vincent-uden/miro
 
-[![Stars](https://img.shields.io/github/stars/vincent-uden/miro?style=flat-square&color=yellow)](https://github.com/vincent-uden/miro/stargazers) [![Forks](https://img.shields.io/github/forks/vincent-uden/miro?style=flat-square&color=blue)](https://github.com/vincent-uden/miro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vincent-uden/miro?style=flat-square&color=yellow)](https://github.com/vincent-uden/miro/stargazers) [![Forks](https://img.shields.io/github/forks/vincent-uden/miro?style=flat-square&color=blue)](https://github.com/vincent-uden/miro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ vincent-uden/miro：vincent-uden/miro may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 36/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

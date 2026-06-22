@@ -1,6 +1,6 @@
 # sickn33/antigravity-awesome-skills
 
-[![Stars](https://img.shields.io/github/stars/sickn33/antigravity-awesome-skills?style=flat-square&color=yellow)](https://github.com/sickn33/antigravity-awesome-skills/stargazers) [![Forks](https://img.shields.io/github/forks/sickn33/antigravity-awesome-skills?style=flat-square&color=blue)](https://github.com/sickn33/antigravity-awesome-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sickn33/antigravity-awesome-skills?style=flat-square&color=yellow)](https://github.com/sickn33/antigravity-awesome-skills/stargazers) [![Forks](https://img.shields.io/github/forks/sickn33/antigravity-awesome-skills?style=flat-square&color=blue)](https://github.com/sickn33/antigravity-awesome-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36.8k |
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ sickn33/antigravity-awesome-skills — это открытая библиот�
 
 ### 中文
 
-sickn33/antigravity-awesome-skills：sickn33/antigravity-awesome-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sickn33/antigravity-awesome-skills：sickn33/antigravity-awesome-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sickn33/antigravity-awesome-skills：sickn33/antigravity-awesome-skills helps tu
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ sickn33/antigravity-awesome-skills：sickn33/antigravity-awesome-skills helps tu
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 93/100 |
+| quality | 83/100 |
 | integration | 78/100 |
-| production | 81/100 |
-| outlook | 92/100 |
+| production | 68/100 |
+| outlook | 78/100 |
 | adoption | 96/100 |
 | stars | 97/100 |
 | forks | 94/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

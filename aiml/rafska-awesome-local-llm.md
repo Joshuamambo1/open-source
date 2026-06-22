@@ -1,6 +1,6 @@
 # rafska/awesome-local-llm
 
-[![Stars](https://img.shields.io/github/stars/rafska/awesome-local-llm?style=flat-square&color=yellow)](https://github.com/rafska/awesome-local-llm/stargazers) [![Forks](https://img.shields.io/github/forks/rafska/awesome-local-llm?style=flat-square&color=blue)](https://github.com/rafska/awesome-local-llm/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rafska/awesome-local-llm?style=flat-square&color=yellow)](https://github.com/rafska/awesome-local-llm/stargazers) [![Forks](https://img.shields.io/github/forks/rafska/awesome-local-llm?style=flat-square&color=blue)](https://github.com/rafska/awesome-local-llm/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ rafska/awesome-local-llm：rafska/awesome-local-llm helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 79/100 |
+| production | 56/100 |
+| outlook | 65/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

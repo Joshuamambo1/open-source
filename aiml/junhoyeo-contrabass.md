@@ -1,6 +1,6 @@
 # junhoyeo/contrabass
 
-[![Stars](https://img.shields.io/github/stars/junhoyeo/contrabass?style=flat-square&color=yellow)](https://github.com/junhoyeo/contrabass/stargazers) [![Forks](https://img.shields.io/github/forks/junhoyeo/contrabass?style=flat-square&color=blue)](https://github.com/junhoyeo/contrabass/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/junhoyeo/contrabass?style=flat-square&color=yellow)](https://github.com/junhoyeo/contrabass/stargazers) [![Forks](https://img.shields.io/github/forks/junhoyeo/contrabass?style=flat-square&color=blue)](https://github.com/junhoyeo/contrabass/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🎸 A project-level orchestrator for AI coding agents — Go & Charm stack implementation of OpenAI's Symphony
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ junhoyeo/contrabass：junhoyeo/contrabass helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 70/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 40/100 |
 | stars | 45/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

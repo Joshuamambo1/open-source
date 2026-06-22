@@ -1,6 +1,6 @@
 # TauCetiStation/TauCetiClassic
 
-[![Stars](https://img.shields.io/github/stars/TauCetiStation/TauCetiClassic?style=flat-square&color=yellow)](https://github.com/TauCetiStation/TauCetiClassic/stargazers) [![Forks](https://img.shields.io/github/forks/TauCetiStation/TauCetiClassic?style=flat-square&color=blue)](https://github.com/TauCetiStation/TauCetiClassic/network) [![Language](https://img.shields.io/badge/lang-DM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TauCetiStation/TauCetiClassic?style=flat-square&color=yellow)](https://github.com/TauCetiStation/TauCetiClassic/stargazers) [![Forks](https://img.shields.io/github/forks/TauCetiStation/TauCetiClassic?style=flat-square&color=blue)](https://github.com/TauCetiStation/TauCetiClassic/network) [![Language](https://img.shields.io/badge/lang-DM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Франкенштейн жив
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 432 |
 | 💻 **Language** | DM |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ TauCetiStation/TauCetiClassic：TauCetiStation/TauCetiClassic may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 52/100 |
 | stars | 47/100 |
 | forks | 66/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

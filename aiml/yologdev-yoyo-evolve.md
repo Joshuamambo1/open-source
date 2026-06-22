@@ -1,6 +1,6 @@
 # yologdev/yoyo-evolve
 
-[![Stars](https://img.shields.io/github/stars/yologdev/yoyo-evolve?style=flat-square&color=yellow)](https://github.com/yologdev/yoyo-evolve/stargazers) [![Forks](https://img.shields.io/github/forks/yologdev/yoyo-evolve?style=flat-square&color=blue)](https://github.com/yologdev/yoyo-evolve/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yologdev/yoyo-evolve?style=flat-square&color=yellow)](https://github.com/yologdev/yoyo-evolve/stargazers) [![Forks](https://img.shields.io/github/forks/yologdev/yoyo-evolve?style=flat-square&color=blue)](https://github.com/yologdev/yoyo-evolve/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A Truman Show of a self-evolving AI coding agent. It writes its own code. Growing up in public.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ yologdev/yoyo-evolve：yologdev/yoyo-evolve helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 66/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 64/100 |
 | stars | 69/100 |
 | forks | 52/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

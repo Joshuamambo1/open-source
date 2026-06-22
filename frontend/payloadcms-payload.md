@@ -1,6 +1,6 @@
 # payloadcms/payload
 
-[![Stars](https://img.shields.io/github/stars/payloadcms/payload?style=flat-square&color=yellow)](https://github.com/payloadcms/payload/stargazers) [![Forks](https://img.shields.io/github/forks/payloadcms/payload?style=flat-square&color=blue)](https://github.com/payloadcms/payload/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/payloadcms/payload?style=flat-square&color=yellow)](https://github.com/payloadcms/payload/stargazers) [![Forks](https://img.shields.io/github/forks/payloadcms/payload?style=flat-square&color=blue)](https://github.com/payloadcms/payload/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 42.3k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Payload — это полностью open‑source full‑stack фреймв�
 
 ### 中文
 
-payloadcms/payload：payloadcms/payload helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+payloadcms/payload：payloadcms/payload helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ payloadcms/payload：payloadcms/payload helps ship user-facing interfaces with l
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ payloadcms/payload：payloadcms/payload helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 93/100 |
+| quality | 83/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 84/100 |
+| production | 65/100 |
+| outlook | 70/100 |
 | adoption | 96/100 |
 | stars | 98/100 |
 | forks | 89/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # gethomepage/homepage
 
-[![Stars](https://img.shields.io/github/stars/gethomepage/homepage?style=flat-square&color=yellow)](https://github.com/gethomepage/homepage/stargazers) [![Forks](https://img.shields.io/github/forks/gethomepage/homepage?style=flat-square&color=blue)](https://github.com/gethomepage/homepage/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gethomepage/homepage?style=flat-square&color=yellow)](https://github.com/gethomepage/homepage/stargazers) [![Forks](https://img.shields.io/github/forks/gethomepage/homepage?style=flat-square&color=blue)](https://github.com/gethomepage/homepage/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29.9k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Frontend · Backend · DevOps/Infra
 
 ### English
 
-gethomepage/homepage: gethomepage/homepage helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+gethomepage/homepage: gethomepage/homepage helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-gethomepage/homepage: open-source проект в категориях Frontend, Backend, DevOps/Infra. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+gethomepage/homepage: open-source проект в категориях Frontend, Backend, DevOps/Infra. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-gethomepage/homepage：gethomepage/homepage helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+gethomepage/homepage：gethomepage/homepage helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ gethomepage/homepage：gethomepage/homepage helps ship user-facing interfaces wi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ gethomepage/homepage：gethomepage/homepage helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 89/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 90/100 |
+| production | 64/100 |
+| outlook | 76/100 |
 | adoption | 92/100 |
 | stars | 95/100 |
 | forks | 82/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

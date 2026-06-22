@@ -1,6 +1,6 @@
 # open-wanderer/wanderer
 
-[![Stars](https://img.shields.io/github/stars/open-wanderer/wanderer?style=flat-square&color=yellow)](https://github.com/open-wanderer/wanderer/stargazers) [![Forks](https://img.shields.io/github/forks/open-wanderer/wanderer?style=flat-square&color=blue)](https://github.com/open-wanderer/wanderer/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-wanderer/wanderer?style=flat-square&color=yellow)](https://github.com/open-wanderer/wanderer/stargazers) [![Forks](https://img.shields.io/github/forks/open-wanderer/wanderer?style=flat-square&color=blue)](https://github.com/open-wanderer/wanderer/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > wanderer is a self-hosted trail database. Save your adventures!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ open-wanderer/wanderer：open-wanderer/wanderer helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 55/100 |
+| outlook | 61/100 |
 | adoption | 70/100 |
 | stars | 76/100 |
 | forks | 56/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

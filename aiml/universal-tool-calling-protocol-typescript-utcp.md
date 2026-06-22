@@ -1,6 +1,6 @@
 # universal-tool-calling-protocol/typescript-utcp
 
-[![Stars](https://img.shields.io/github/stars/universal-tool-calling-protocol/typescript-utcp?style=flat-square&color=yellow)](https://github.com/universal-tool-calling-protocol/typescript-utcp/stargazers) [![Forks](https://img.shields.io/github/forks/universal-tool-calling-protocol/typescript-utcp?style=flat-square&color=blue)](https://github.com/universal-tool-calling-protocol/typescript-utcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/universal-tool-calling-protocol/typescript-utcp?style=flat-square&color=yellow)](https://github.com/universal-tool-calling-protocol/typescript-utcp/stargazers) [![Forks](https://img.shields.io/github/forks/universal-tool-calling-protocol/typescript-utcp?style=flat-square&color=blue)](https://github.com/universal-tool-calling-protocol/typescript-utcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Official typescript implementation of UTCP. UTCP is an open standard that lets AI agents call any API directly, without extra middleware.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ universal-tool-calling-protocol/typescript-utcp：universal-tool-calling-protoco
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 72/100 |
+| production | 55/100 |
+| outlook | 58/100 |
 | adoption | 40/100 |
 | stars | 44/100 |
 | forks | 33/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

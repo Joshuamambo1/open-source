@@ -1,6 +1,6 @@
 # pcodec/pcodec
 
-[![Stars](https://img.shields.io/github/stars/pcodec/pcodec?style=flat-square&color=yellow)](https://github.com/pcodec/pcodec/stargazers) [![Forks](https://img.shields.io/github/forks/pcodec/pcodec?style=flat-square&color=blue)](https://github.com/pcodec/pcodec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pcodec/pcodec?style=flat-square&color=yellow)](https://github.com/pcodec/pcodec/stargazers) [![Forks](https://img.shields.io/github/forks/pcodec/pcodec?style=flat-square&color=blue)](https://github.com/pcodec/pcodec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Lossless codec for numerical data
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 478 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ pcodec – это открытый кодек без потерь, специ�
 
 ### 中文
 
-pcodec/pcodec：pcodec/pcodec helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pcodec/pcodec：pcodec/pcodec helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ pcodec/pcodec：pcodec/pcodec helps convert raw data into searchable, analyzable
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ pcodec/pcodec：pcodec/pcodec helps convert raw data into searchable, analyzable
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 37/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

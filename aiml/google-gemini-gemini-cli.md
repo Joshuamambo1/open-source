@@ -1,6 +1,6 @@
 # google-gemini/gemini-cli
 
-[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&color=yellow)](https://github.com/google-gemini/gemini-cli/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-cli?style=flat-square&color=blue)](https://github.com/google-gemini/gemini-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&color=yellow)](https://github.com/google-gemini/gemini-cli/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-cli?style=flat-square&color=blue)](https://github.com/google-gemini/gemini-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 103.3k |
 | 🍴 **Forks** | 13.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 95/100 |
+| 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Backend · DevTools
 
 ### English
 
-google-gemini/gemini-cli: google-gemini/gemini-cli helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+google-gemini/gemini-cli: google-gemini/gemini-cli helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-google-gemini/gemini-cli: open-source проект в категориях AI/ML, Backend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+google-gemini/gemini-cli: open-source проект в категориях AI/ML, Backend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-google-gemini/gemini-cli：google-gemini/gemini-cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+google-gemini/gemini-cli：google-gemini/gemini-cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ google-gemini/gemini-cli：google-gemini/gemini-cli helps add AI capability with
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ google-gemini/gemini-cli：google-gemini/gemini-cli helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 93/100 |
+| quality | 83/100 |
 | integration | 100/100 |
-| production | 84/100 |
-| outlook | 92/100 |
+| production | 71/100 |
+| outlook | 78/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

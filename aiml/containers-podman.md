@@ -1,6 +1,6 @@
 # containers/podman
 
-[![Stars](https://img.shields.io/github/stars/containers/podman?style=flat-square&color=yellow)](https://github.com/containers/podman/stargazers) [![Forks](https://img.shields.io/github/forks/containers/podman?style=flat-square&color=blue)](https://github.com/containers/podman/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/containers/podman?style=flat-square&color=yellow)](https://github.com/containers/podman/stargazers) [![Forks](https://img.shields.io/github/forks/containers/podman?style=flat-square&color=blue)](https://github.com/containers/podman/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Podman: A tool for managing OCI containers and pods.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31.6k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Podman — это полностью открытый инструмент д�
 
 ### 中文
 
-containers/podman：containers/podman helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+containers/podman：containers/podman helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ containers/podman：containers/podman helps add AI capability without starting f
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ containers/podman：containers/podman helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 86/100 |
+| quality | 76/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 65/100 |
+| outlook | 65/100 |
 | adoption | 93/100 |
 | stars | 96/100 |
 | forks | 87/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

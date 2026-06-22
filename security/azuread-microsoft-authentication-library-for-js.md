@@ -1,6 +1,6 @@
 # AzureAD/microsoft-authentication-library-for-js
 
-[![Stars](https://img.shields.io/github/stars/AzureAD/microsoft-authentication-library-for-js?style=flat-square&color=yellow)](https://github.com/AzureAD/microsoft-authentication-library-for-js/stargazers) [![Forks](https://img.shields.io/github/forks/AzureAD/microsoft-authentication-library-for-js?style=flat-square&color=blue)](https://github.com/AzureAD/microsoft-authentication-library-for-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AzureAD/microsoft-authentication-library-for-js?style=flat-square&color=yellow)](https://github.com/AzureAD/microsoft-authentication-library-for-js/stargazers) [![Forks](https://img.shields.io/github/forks/AzureAD/microsoft-authentication-library-for-js?style=flat-square&color=blue)](https://github.com/AzureAD/microsoft-authentication-library-for-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Microsoft Authentication Library (MSAL) for JS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ AzureAD/microsoft-authentication-library-for-js：AzureAD/microsoft-authenticati
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 66/100 |
+| production | 55/100 |
+| outlook | 52/100 |
 | adoption | 79/100 |
 | stars | 77/100 |
 | forks | 86/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

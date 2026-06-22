@@ -1,6 +1,6 @@
 # trillium-rs/trillium
 
-[![Stars](https://img.shields.io/github/stars/trillium-rs/trillium?style=flat-square&color=yellow)](https://github.com/trillium-rs/trillium/stargazers) [![Forks](https://img.shields.io/github/forks/trillium-rs/trillium?style=flat-square&color=blue)](https://github.com/trillium-rs/trillium/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trillium-rs/trillium?style=flat-square&color=yellow)](https://github.com/trillium-rs/trillium/stargazers) [![Forks](https://img.shields.io/github/forks/trillium-rs/trillium?style=flat-square&color=blue)](https://github.com/trillium-rs/trillium/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Trillium is a composable toolkit for building internet applications with async rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Trillium — это модульный набор инструментов н�
 
 ### 中文
 
-trillium-rs/trillium：trillium-rs/trillium helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+trillium-rs/trillium：trillium-rs/trillium helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ trillium-rs/trillium：trillium-rs/trillium helps ship user-facing interfaces wi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ trillium-rs/trillium：trillium-rs/trillium helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 63/100 |
+| production | 49/100 |
+| outlook | 49/100 |
 | adoption | 49/100 |
 | stars | 55/100 |
 | forks | 34/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

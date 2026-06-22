@@ -1,6 +1,6 @@
 # EmbarkStudios/cargo-deny
 
-[![Stars](https://img.shields.io/github/stars/EmbarkStudios/cargo-deny?style=flat-square&color=yellow)](https://github.com/EmbarkStudios/cargo-deny/stargazers) [![Forks](https://img.shields.io/github/forks/EmbarkStudios/cargo-deny?style=flat-square&color=blue)](https://github.com/EmbarkStudios/cargo-deny/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EmbarkStudios/cargo-deny?style=flat-square&color=yellow)](https://github.com/EmbarkStudios/cargo-deny/stargazers) [![Forks](https://img.shields.io/github/forks/EmbarkStudios/cargo-deny?style=flat-square&color=blue)](https://github.com/EmbarkStudios/cargo-deny/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ❌ Cargo plugin for linting your dependencies 🦀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ EmbarkStudios/cargo-deny：EmbarkStudios/cargo-deny helps engineers save time in
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 72/100 |
+| production | 60/100 |
+| outlook | 58/100 |
 | adoption | 66/100 |
 | stars | 72/100 |
 | forks | 52/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

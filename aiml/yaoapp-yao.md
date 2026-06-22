@@ -1,6 +1,6 @@
 # YaoApp/yao
 
-[![Stars](https://img.shields.io/github/stars/YaoApp/yao?style=flat-square&color=yellow)](https://github.com/YaoApp/yao/stargazers) [![Forks](https://img.shields.io/github/forks/YaoApp/yao?style=flat-square&color=blue)](https://github.com/YaoApp/yao/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YaoApp/yao?style=flat-square&color=yellow)](https://github.com/YaoApp/yao/stargazers) [![Forks](https://img.shields.io/github/forks/YaoApp/yao?style=flat-square&color=blue)](https://github.com/YaoApp/yao/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ Build AI agents and web apps — with a single binary.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.5k |
 | 🍴 **Forks** | 683 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ YaoApp/yao — это открытый проект, предоставляю�
 
 ### 中文
 
-YaoApp/yao：YaoApp/yao helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+YaoApp/yao：YaoApp/yao helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ YaoApp/yao：YaoApp/yao helps add AI capability without starting from a blank mo
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ YaoApp/yao：YaoApp/yao helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 86/100 |
+| quality | 76/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 88/100 |
+| production | 65/100 |
+| outlook | 74/100 |
 | adoption | 79/100 |
 | stars | 83/100 |
 | forks | 71/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

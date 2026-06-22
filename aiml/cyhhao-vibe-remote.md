@@ -1,6 +1,6 @@
 # cyhhao/vibe-remote
 
-[![Stars](https://img.shields.io/github/stars/cyhhao/vibe-remote?style=flat-square&color=yellow)](https://github.com/cyhhao/vibe-remote/stargazers) [![Forks](https://img.shields.io/github/forks/cyhhao/vibe-remote?style=flat-square&color=blue)](https://github.com/cyhhao/vibe-remote/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyhhao/vibe-remote?style=flat-square&color=yellow)](https://github.com/cyhhao/vibe-remote/stargazers) [![Forks](https://img.shields.io/github/forks/cyhhao/vibe-remote?style=flat-square&color=blue)](https://github.com/cyhhao/vibe-remote/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI agent army, commanded from Slack/Discord/Telegram/Wechat/Lark. Stream Claude Code, OpenCode, or Codex in real-time — from anywhere.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cyhhao/vibe-remote：cyhhao/vibe-remote helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 53/100 |
 | stars | 56/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

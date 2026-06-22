@@ -1,6 +1,6 @@
 # suyoumo/ClawProBench
 
-[![Stars](https://img.shields.io/github/stars/suyoumo/ClawProBench?style=flat-square&color=yellow)](https://github.com/suyoumo/ClawProBench/stargazers) [![Forks](https://img.shields.io/github/forks/suyoumo/ClawProBench?style=flat-square&color=blue)](https://github.com/suyoumo/ClawProBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suyoumo/ClawProBench?style=flat-square&color=yellow)](https://github.com/suyoumo/ClawProBench/stargazers) [![Forks](https://img.shields.io/github/forks/suyoumo/ClawProBench?style=flat-square&color=blue)](https://github.com/suyoumo/ClawProBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > ClawProBench is a live-first benchmark harness for evaluating LLM agents   in the OpenClaw runtime with deterministic grading and repeated-trial   reliability.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 588 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ suyoumo/ClawProBench：suyoumo/ClawProBench helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

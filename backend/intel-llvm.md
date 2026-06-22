@@ -1,6 +1,6 @@
 # intel/llvm
 
-[![Stars](https://img.shields.io/github/stars/intel/llvm?style=flat-square&color=yellow)](https://github.com/intel/llvm/stargazers) [![Forks](https://img.shields.io/github/forks/intel/llvm?style=flat-square&color=blue)](https://github.com/intel/llvm/network) [![Language](https://img.shields.io/badge/lang-LLVM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intel/llvm?style=flat-square&color=yellow)](https://github.com/intel/llvm/stargazers) [![Forks](https://img.shields.io/github/forks/intel/llvm?style=flat-square&color=blue)](https://github.com/intel/llvm/network) [![Language](https://img.shields.io/badge/lang-LLVM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 824 |
 | 💻 **Language** | LLVM |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ intel/llvm：intel/llvm helps teams reuse service infrastructure instead of rebu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 69/100 |
 | stars | 67/100 |
 | forks | 73/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

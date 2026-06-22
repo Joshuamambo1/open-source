@@ -1,6 +1,6 @@
 # puppeteer/puppeteer
 
-[![Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=flat-square&color=yellow)](https://github.com/puppeteer/puppeteer/stargazers) [![Forks](https://img.shields.io/github/forks/puppeteer/puppeteer?style=flat-square&color=blue)](https://github.com/puppeteer/puppeteer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=flat-square&color=yellow)](https://github.com/puppeteer/puppeteer/stargazers) [![Forks](https://img.shields.io/github/forks/puppeteer/puppeteer?style=flat-square&color=blue)](https://github.com/puppeteer/puppeteer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > JavaScript API for Chrome and Firefox
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 94.3k |
 | 🍴 **Forks** | 9.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Puppeteer is a Node.js library that provides a high‑level JavaScript API to co
 
 ### 中文
 
-puppeteer/puppeteer：puppeteer/puppeteer helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+puppeteer/puppeteer：puppeteer/puppeteer helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ puppeteer/puppeteer：puppeteer/puppeteer helps teams reuse service infrastructu
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ puppeteer/puppeteer：puppeteer/puppeteer helps teams reuse service infrastructu
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 95/100 |
+| quality | 85/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 91/100 |
+| production | 66/100 |
+| outlook | 77/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 99/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

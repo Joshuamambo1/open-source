@@ -1,6 +1,6 @@
 # jegly/Box
 
-[![Stars](https://img.shields.io/github/stars/jegly/Box?style=flat-square&color=yellow)](https://github.com/jegly/Box/stargazers) [![Forks](https://img.shields.io/github/forks/jegly/Box?style=flat-square&color=blue)](https://github.com/jegly/Box/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jegly/Box?style=flat-square&color=yellow)](https://github.com/jegly/Box/stargazers) [![Forks](https://img.shields.io/github/forks/jegly/Box?style=flat-square&color=blue)](https://github.com/jegly/Box/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Private on-device AI suite for Android. Fork of Google AI Edge Gallery with llama.cpp, whisper.cpp, stable-diffusion.cpp, GGUF import, voice chat, vision AI, on-device image generation, biometric lock, encrypted history, and NPU/TPU/GPU acceleration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jegly/Box：jegly/Box helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 68/100 |
+| production | 55/100 |
+| outlook | 54/100 |
 | adoption | 47/100 |
 | stars | 53/100 |
 | forks | 31/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

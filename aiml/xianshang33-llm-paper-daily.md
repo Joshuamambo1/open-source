@@ -1,6 +1,6 @@
 # xianshang33/llm-paper-daily
 
-[![Stars](https://img.shields.io/github/stars/xianshang33/llm-paper-daily?style=flat-square&color=yellow)](https://github.com/xianshang33/llm-paper-daily/stargazers) [![Forks](https://img.shields.io/github/forks/xianshang33/llm-paper-daily?style=flat-square&color=blue)](https://github.com/xianshang33/llm-paper-daily/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xianshang33/llm-paper-daily?style=flat-square&color=yellow)](https://github.com/xianshang33/llm-paper-daily/stargazers) [![Forks](https://img.shields.io/github/forks/xianshang33/llm-paper-daily?style=flat-square&color=blue)](https://github.com/xianshang33/llm-paper-daily/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Daily updated LLM papers.        每日更新 LLM 相关的论文，欢迎订阅 👏   喜欢的话动动你的小手 🌟 一个
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ xianshang33/llm-paper-daily：xianshang33/llm-paper-daily helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 60/100 |
 | stars | 66/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

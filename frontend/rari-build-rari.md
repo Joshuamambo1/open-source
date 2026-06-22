@@ -1,6 +1,6 @@
 # rari-build/rari
 
-[![Stars](https://img.shields.io/github/stars/rari-build/rari?style=flat-square&color=yellow)](https://github.com/rari-build/rari/stargazers) [![Forks](https://img.shields.io/github/forks/rari-build/rari?style=flat-square&color=blue)](https://github.com/rari-build/rari/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rari-build/rari?style=flat-square&color=yellow)](https://github.com/rari-build/rari/stargazers) [![Forks](https://img.shields.io/github/forks/rari-build/rari?style=flat-square&color=blue)](https://github.com/rari-build/rari/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > rari: High-performance React Server Components framework powered by a Rust runtime, delivering 9.8x faster response times (0.08ms vs 0.78ms) and 47.7x higher throughput (71,404 vs 1,497 req/sec) than Next.js with zero-config setup.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rari-build/rari：rari-build/rari helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 57/100 |
 | stars | 65/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # justjavac/weibo-trending-hot-search
 
-[![Stars](https://img.shields.io/github/stars/justjavac/weibo-trending-hot-search?style=flat-square&color=yellow)](https://github.com/justjavac/weibo-trending-hot-search/stargazers) [![Forks](https://img.shields.io/github/forks/justjavac/weibo-trending-hot-search?style=flat-square&color=blue)](https://github.com/justjavac/weibo-trending-hot-search/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justjavac/weibo-trending-hot-search?style=flat-square&color=yellow)](https://github.com/justjavac/weibo-trending-hot-search/stargazers) [![Forks](https://img.shields.io/github/forks/justjavac/weibo-trending-hot-search?style=flat-square&color=blue)](https://github.com/justjavac/weibo-trending-hot-search/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 微博热搜榜，记录从 2020-11-24 日开始的微博热门搜索。每小时抓取一次数据，按天归档。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 759 |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ justjavac/weibo-trending-hot-search：justjavac/weibo-trending-hot-search may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 61/100 |
+| production | 52/100 |
+| outlook | 47/100 |
 | adoption | 59/100 |
 | stars | 61/100 |
 | forks | 52/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

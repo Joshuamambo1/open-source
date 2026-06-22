@@ -1,6 +1,6 @@
 # rust-embedded-community/embedded-sdmmc-rs
 
-[![Stars](https://img.shields.io/github/stars/rust-embedded-community/embedded-sdmmc-rs?style=flat-square&color=yellow)](https://github.com/rust-embedded-community/embedded-sdmmc-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-embedded-community/embedded-sdmmc-rs?style=flat-square&color=blue)](https://github.com/rust-embedded-community/embedded-sdmmc-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-embedded-community/embedded-sdmmc-rs?style=flat-square&color=yellow)](https://github.com/rust-embedded-community/embedded-sdmmc-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-embedded-community/embedded-sdmmc-rs?style=flat-square&color=blue)](https://github.com/rust-embedded-community/embedded-sdmmc-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A SD/MMC library with FAT16/FAT32 support, suitable for Embedded Rust systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 470 |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ rust-embedded-community/embedded-sdmmc-rs is a lightweight, no‑std Rust librar
 
 ### 中文
 
-rust-embedded-community/embedded-sdmmc-rs：rust-embedded-community/embedded-sdmmc-rs helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rust-embedded-community/embedded-sdmmc-rs：rust-embedded-community/embedded-sdmmc-rs helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rust-embedded-community/embedded-sdmmc-rs：rust-embedded-community/embedded-sdm
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ rust-embedded-community/embedded-sdmmc-rs：rust-embedded-community/embedded-sdm
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 55/100 |
 | stars | 57/100 |
 | forks | 52/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # AdguardTeam/AdguardFilters
 
-[![Stars](https://img.shields.io/github/stars/AdguardTeam/AdguardFilters?style=flat-square&color=yellow)](https://github.com/AdguardTeam/AdguardFilters/stargazers) [![Forks](https://img.shields.io/github/forks/AdguardTeam/AdguardFilters?style=flat-square&color=blue)](https://github.com/AdguardTeam/AdguardFilters/network) [![Language](https://img.shields.io/badge/lang-Adblock%20Filter%20List-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AdguardTeam/AdguardFilters?style=flat-square&color=yellow)](https://github.com/AdguardTeam/AdguardFilters/stargazers) [![Forks](https://img.shields.io/github/forks/AdguardTeam/AdguardFilters?style=flat-square&color=blue)](https://github.com/AdguardTeam/AdguardFilters/network) [![Language](https://img.shields.io/badge/lang-Adblock%20Filter%20List-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > AdGuard Content Blocking Filters
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 797 |
 | 💻 **Language** | Adblock Filter List |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ AdguardTeam/AdguardFilters：AdguardTeam/AdguardFilters may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 76/100 |
 | stars | 77/100 |
 | forks | 73/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # 0xfnzero/sol-trade-sdk
 
-[![Stars](https://img.shields.io/github/stars/0xfnzero/sol-trade-sdk?style=flat-square&color=yellow)](https://github.com/0xfnzero/sol-trade-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/0xfnzero/sol-trade-sdk?style=flat-square&color=blue)](https://github.com/0xfnzero/sol-trade-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xfnzero/sol-trade-sdk?style=flat-square&color=yellow)](https://github.com/0xfnzero/sol-trade-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/0xfnzero/sol-trade-sdk?style=flat-square&color=blue)](https://github.com/0xfnzero/sol-trade-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance Rust SDK for low-latency Solana DEX trading bots. Built for speed and efficiency, it enables seamless, high-throughput interaction with PumpFun, Pump AMM (PumpSwap), Bonk, Meteora DAMM v2, Raydium AMM v4, and Raydium CPMM for latency-critical trading strategies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 300 |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ high-performance Rust SDK for low-latency Solana DEX trading bots. Built for spe
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 73/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 53/100 |
 | stars | 53/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

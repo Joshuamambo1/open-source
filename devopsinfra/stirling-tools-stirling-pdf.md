@@ -1,6 +1,6 @@
 # Stirling-Tools/Stirling-PDF
 
-[![Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=flat-square&color=yellow)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers) [![Forks](https://img.shields.io/github/forks/Stirling-Tools/Stirling-PDF?style=flat-square&color=blue)](https://github.com/Stirling-Tools/Stirling-PDF/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=flat-square&color=yellow)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers) [![Forks](https://img.shields.io/github/forks/Stirling-Tools/Stirling-PDF?style=flat-square&color=blue)](https://github.com/Stirling-Tools/Stirling-PDF/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 78.3k |
 | 🍴 **Forks** | 6.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ DevOps/Infra
 
 ### English
 
-Stirling-Tools/Stirling-PDF: Stirling-Tools/Stirling-PDF helps make deployment and operations more repeatable.. Use it for standardize deployment; automate operations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Stirling-Tools/Stirling-PDF: Stirling-Tools/Stirling-PDF helps make deployment and operations more repeatable.. Use it for standardize deployment; automate operations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Stirling-Tools/Stirling-PDF: open-source проект в категориях DevOps/Infra. Практическое применение: standardize deployment; automate operations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Stirling-Tools/Stirling-PDF: open-source проект в категориях DevOps/Infra. Практическое применение: standardize deployment; automate operations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Stirling-Tools/Stirling-PDF：Stirling-Tools/Stirling-PDF helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Stirling-Tools/Stirling-PDF：Stirling-Tools/Stirling-PDF helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Stirling-Tools/Stirling-PDF：Stirling-Tools/Stirling-PDF helps make deployment 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Stirling-Tools/Stirling-PDF：Stirling-Tools/Stirling-PDF helps make deployment 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 94/100 |
+| quality | 84/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 88/100 |
+| production | 66/100 |
+| outlook | 74/100 |
 | adoption | 99/100 |
 | stars | 100/100 |
 | forks | 96/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

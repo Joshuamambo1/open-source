@@ -1,6 +1,6 @@
 # Azure/azure-sdk-for-js
 
-[![Stars](https://img.shields.io/github/stars/Azure/azure-sdk-for-js?style=flat-square&color=yellow)](https://github.com/Azure/azure-sdk-for-js/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-sdk-for-js?style=flat-square&color=blue)](https://github.com/Azure/azure-sdk-for-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/azure-sdk-for-js?style=flat-square&color=yellow)](https://github.com/Azure/azure-sdk-for-js/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-sdk-for-js?style=flat-square&color=blue)](https://github.com/Azure/azure-sdk-for-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Azure/azure-sdk-for-js：Azure/azure-sdk-for-js helps engineers save time in dai
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 61/100 |
+| outlook | 63/100 |
 | adoption | 73/100 |
 | stars | 72/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

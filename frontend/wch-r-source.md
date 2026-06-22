@@ -1,6 +1,6 @@
 # wch/r-source
 
-[![Stars](https://img.shields.io/github/stars/wch/r-source?style=flat-square&color=yellow)](https://github.com/wch/r-source/stargazers) [![Forks](https://img.shields.io/github/forks/wch/r-source?style=flat-square&color=blue)](https://github.com/wch/r-source/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wch/r-source?style=flat-square&color=yellow)](https://github.com/wch/r-source/stargazers) [![Forks](https://img.shields.io/github/forks/wch/r-source?style=flat-square&color=blue)](https://github.com/wch/r-source/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 328 |
 | 💻 **Language** | R |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ wch/r-source：wch/r-source helps ship user-facing interfaces with less custom U
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 63/100 |
+| production | 51/100 |
+| outlook | 49/100 |
 | adoption | 65/100 |
 | stars | 66/100 |
 | forks | 63/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

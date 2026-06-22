@@ -1,6 +1,6 @@
 # haiku/haiku
 
-[![Stars](https://img.shields.io/github/stars/haiku/haiku?style=flat-square&color=yellow)](https://github.com/haiku/haiku/stargazers) [![Forks](https://img.shields.io/github/forks/haiku/haiku?style=flat-square&color=blue)](https://github.com/haiku/haiku/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haiku/haiku?style=flat-square&color=yellow)](https://github.com/haiku/haiku/stargazers) [![Forks](https://img.shields.io/github/forks/haiku/haiku?style=flat-square&color=blue)](https://github.com/haiku/haiku/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 407 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ haiku/haiku：haiku/haiku helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 68/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 70/100 |
 | stars | 71/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

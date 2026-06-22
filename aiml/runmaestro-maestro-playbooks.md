@@ -1,6 +1,6 @@
 # RunMaestro/Maestro-Playbooks
 
-[![Stars](https://img.shields.io/github/stars/RunMaestro/Maestro-Playbooks?style=flat-square&color=yellow)](https://github.com/RunMaestro/Maestro-Playbooks/stargazers) [![Forks](https://img.shields.io/github/forks/RunMaestro/Maestro-Playbooks?style=flat-square&color=blue)](https://github.com/RunMaestro/Maestro-Playbooks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RunMaestro/Maestro-Playbooks?style=flat-square&color=yellow)](https://github.com/RunMaestro/Maestro-Playbooks/stargazers) [![Forks](https://img.shields.io/github/forks/RunMaestro/Maestro-Playbooks?style=flat-square&color=blue)](https://github.com/RunMaestro/Maestro-Playbooks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Playbooks for RunMaestro.ai Agent Orchestrator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ RunMaestro/Maestro-Playbooks — набор готовых playbook‑ов д�
 
 ### 中文
 
-RunMaestro/Maestro-Playbooks：RunMaestro/Maestro-Playbooks helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+RunMaestro/Maestro-Playbooks：RunMaestro/Maestro-Playbooks helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ RunMaestro/Maestro-Playbooks：RunMaestro/Maestro-Playbooks helps add AI capabil
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -57,21 +57,21 @@ RunMaestro/Maestro-Playbooks：RunMaestro/Maestro-Playbooks helps add AI capabil
 - 9 forks
 - updated 2026-05-10
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 39/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 57/100 |
+| production | 45/100 |
+| outlook | 43/100 |
 | adoption | 31/100 |
 | stars | 34/100 |
 | forks | 25/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

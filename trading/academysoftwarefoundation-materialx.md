@@ -1,6 +1,6 @@
 # AcademySoftwareFoundation/MaterialX
 
-[![Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/MaterialX?style=flat-square&color=yellow)](https://github.com/AcademySoftwareFoundation/MaterialX/stargazers) [![Forks](https://img.shields.io/github/forks/AcademySoftwareFoundation/MaterialX?style=flat-square&color=blue)](https://github.com/AcademySoftwareFoundation/MaterialX/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/MaterialX?style=flat-square&color=yellow)](https://github.com/AcademySoftwareFoundation/MaterialX/stargazers) [![Forks](https://img.shields.io/github/forks/AcademySoftwareFoundation/MaterialX?style=flat-square&color=blue)](https://github.com/AcademySoftwareFoundation/MaterialX/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 422 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AcademySoftwareFoundation/MaterialX：AcademySoftwareFoundation/MaterialX helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 69/100 |
 | stars | 71/100 |
 | forks | 66/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # GetBindu/awesome-claude-code-and-skills
 
-[![Stars](https://img.shields.io/github/stars/GetBindu/awesome-claude-code-and-skills?style=flat-square&color=yellow)](https://github.com/GetBindu/awesome-claude-code-and-skills/stargazers) [![Forks](https://img.shields.io/github/forks/GetBindu/awesome-claude-code-and-skills?style=flat-square&color=blue)](https://github.com/GetBindu/awesome-claude-code-and-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GetBindu/awesome-claude-code-and-skills?style=flat-square&color=yellow)](https://github.com/GetBindu/awesome-claude-code-and-skills/stargazers) [![Forks](https://img.shields.io/github/forks/GetBindu/awesome-claude-code-and-skills?style=flat-square&color=blue)](https://github.com/GetBindu/awesome-claude-code-and-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of Claude Skills
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ GetBindu/awesome-claude-code-and-skills：GetBindu/awesome-claude-code-and-skill
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 41/100 |
 | stars | 43/100 |
 | forks | 37/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

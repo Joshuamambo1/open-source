@@ -1,6 +1,6 @@
 # chrisdoc/hevy-mcp
 
-[![Stars](https://img.shields.io/github/stars/chrisdoc/hevy-mcp?style=flat-square&color=yellow)](https://github.com/chrisdoc/hevy-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/chrisdoc/hevy-mcp?style=flat-square&color=blue)](https://github.com/chrisdoc/hevy-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrisdoc/hevy-mcp?style=flat-square&color=yellow)](https://github.com/chrisdoc/hevy-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/chrisdoc/hevy-mcp?style=flat-square&color=blue)](https://github.com/chrisdoc/hevy-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Manage your Hevy workouts, routines, folders, and exercise templates. Create and update sessions faster, organize plans, and search exercises to build workouts quickly. Stay synced with changes so your training log is always up to date.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 221 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ chrisdoc/hevy-mcp：chrisdoc/hevy-mcp helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 78/100 |
-| production | 70/100 |
-| outlook | 65/100 |
+| production | 57/100 |
+| outlook | 51/100 |
 | adoption | 48/100 |
 | stars | 50/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # linebender/resvg
 
-[![Stars](https://img.shields.io/github/stars/linebender/resvg?style=flat-square&color=yellow)](https://github.com/linebender/resvg/stargazers) [![Forks](https://img.shields.io/github/forks/linebender/resvg?style=flat-square&color=blue)](https://github.com/linebender/resvg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linebender/resvg?style=flat-square&color=yellow)](https://github.com/linebender/resvg/stargazers) [![Forks](https://img.shields.io/github/forks/linebender/resvg?style=flat-square&color=blue)](https://github.com/linebender/resvg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An SVG rendering library.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 303 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ linebender/resvg：linebender/resvg may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 72/100 |
 | stars | 76/100 |
 | forks | 62/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

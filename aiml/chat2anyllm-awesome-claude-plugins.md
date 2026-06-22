@@ -1,6 +1,6 @@
 # Chat2AnyLLM/awesome-claude-plugins
 
-[![Stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-plugins?style=flat-square&color=yellow)](https://github.com/Chat2AnyLLM/awesome-claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/Chat2AnyLLM/awesome-claude-plugins?style=flat-square&color=blue)](https://github.com/Chat2AnyLLM/awesome-claude-plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-plugins?style=flat-square&color=yellow)](https://github.com/Chat2AnyLLM/awesome-claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/Chat2AnyLLM/awesome-claude-plugins?style=flat-square&color=blue)](https://github.com/Chat2AnyLLM/awesome-claude-plugins/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome claude marketplaces and plugins
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 87 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Chat2AnyLLM/awesome-claude-plugins：Chat2AnyLLM/awesome-claude-plugins helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 51/100 |
 | adoption | 41/100 |
 | stars | 41/100 |
 | forks | 40/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

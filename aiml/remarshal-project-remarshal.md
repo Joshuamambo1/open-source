@@ -1,6 +1,6 @@
 # remarshal-project/remarshal
 
-[![Stars](https://img.shields.io/github/stars/remarshal-project/remarshal?style=flat-square&color=yellow)](https://github.com/remarshal-project/remarshal/stargazers) [![Forks](https://img.shields.io/github/forks/remarshal-project/remarshal?style=flat-square&color=blue)](https://github.com/remarshal-project/remarshal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remarshal-project/remarshal?style=flat-square&color=yellow)](https://github.com/remarshal-project/remarshal/stargazers) [![Forks](https://img.shields.io/github/forks/remarshal-project/remarshal?style=flat-square&color=blue)](https://github.com/remarshal-project/remarshal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Convert between CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 549 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ remarshal-project/remarshal：remarshal-project/remarshal helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 76/100 |
+| production | 58/100 |
+| outlook | 62/100 |
 | adoption | 53/100 |
 | stars | 58/100 |
 | forks | 39/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

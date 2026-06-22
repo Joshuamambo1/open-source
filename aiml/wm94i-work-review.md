@@ -1,6 +1,6 @@
 # wm94i/Work_Review
 
-[![Stars](https://img.shields.io/github/stars/wm94i/Work_Review?style=flat-square&color=yellow)](https://github.com/wm94i/Work_Review/stargazers) [![Forks](https://img.shields.io/github/forks/wm94i/Work_Review?style=flat-square&color=blue)](https://github.com/wm94i/Work_Review/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wm94i/Work_Review?style=flat-square&color=yellow)](https://github.com/wm94i/Work_Review/stargazers) [![Forks](https://img.shields.io/github/forks/wm94i/Work_Review?style=flat-square&color=blue)](https://github.com/wm94i/Work_Review/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wm94i/Work_Review：wm94i/Work_Review helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 59/100 |
 | stars | 65/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

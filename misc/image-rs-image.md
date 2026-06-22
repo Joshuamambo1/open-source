@@ -1,6 +1,6 @@
 # image-rs/image
 
-[![Stars](https://img.shields.io/github/stars/image-rs/image?style=flat-square&color=yellow)](https://github.com/image-rs/image/stargazers) [![Forks](https://img.shields.io/github/forks/image-rs/image?style=flat-square&color=blue)](https://github.com/image-rs/image/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/image-rs/image?style=flat-square&color=yellow)](https://github.com/image-rs/image/stargazers) [![Forks](https://img.shields.io/github/forks/image-rs/image?style=flat-square&color=blue)](https://github.com/image-rs/image/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Encoding and decoding images in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 695 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ image-rs/image：image-rs/image may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 77/100 |
 | stars | 80/100 |
 | forks | 71/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

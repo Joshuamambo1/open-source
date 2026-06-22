@@ -1,6 +1,6 @@
 # getomnico/omni
 
-[![Stars](https://img.shields.io/github/stars/getomnico/omni?style=flat-square&color=yellow)](https://github.com/getomnico/omni/stargazers) [![Forks](https://img.shields.io/github/forks/getomnico/omni?style=flat-square&color=blue)](https://github.com/getomnico/omni/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getomnico/omni?style=flat-square&color=yellow)](https://github.com/getomnico/omni/stargazers) [![Forks](https://img.shields.io/github/forks/getomnico/omni?style=flat-square&color=blue)](https://github.com/getomnico/omni/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Workplace AI Assistant and Search Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 704 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ Omni (getomnico/omni) is an open‑source workplace AI assistant that combines c
 
 ### 中文
 
-getomnico/omni：getomnico/omni helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+getomnico/omni：getomnico/omni helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ getomnico/omni：getomnico/omni helps add AI capability without starting from a 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ getomnico/omni：getomnico/omni helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 55/100 |
 | stars | 61/100 |
 | forks | 39/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

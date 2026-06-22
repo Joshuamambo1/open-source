@@ -1,6 +1,6 @@
 # WingedGuardian/GENesis-AGI
 
-[![Stars](https://img.shields.io/github/stars/WingedGuardian/GENesis-AGI?style=flat-square&color=yellow)](https://github.com/WingedGuardian/GENesis-AGI/stargazers) [![Forks](https://img.shields.io/github/forks/WingedGuardian/GENesis-AGI?style=flat-square&color=blue)](https://github.com/WingedGuardian/GENesis-AGI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WingedGuardian/GENesis-AGI?style=flat-square&color=yellow)](https://github.com/WingedGuardian/GENesis-AGI/stargazers) [![Forks](https://img.shields.io/github/forks/WingedGuardian/GENesis-AGI?style=flat-square&color=blue)](https://github.com/WingedGuardian/GENesis-AGI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI agent with persistent memory, self-learning, and earned autonomy. Cognitive partner that remembers, learns, and evolves.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ WingedGuardian/GENesis-AGI：WingedGuardian/GENesis-AGI helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 30/100 |
 | stars | 32/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

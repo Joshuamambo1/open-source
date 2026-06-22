@@ -1,6 +1,6 @@
 # hook0/hook0
 
-[![Stars](https://img.shields.io/github/stars/hook0/hook0?style=flat-square&color=yellow)](https://github.com/hook0/hook0/stargazers) [![Forks](https://img.shields.io/github/forks/hook0/hook0?style=flat-square&color=blue)](https://github.com/hook0/hook0/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hook0/hook0?style=flat-square&color=yellow)](https://github.com/hook0/hook0/stargazers) [![Forks](https://img.shields.io/github/forks/hook0/hook0?style=flat-square&color=blue)](https://github.com/hook0/hook0/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hook0/hook0：hook0/hook0 helps teams reuse service infrastructure instead of re
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 73/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 62/100 |
 | stars | 67/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

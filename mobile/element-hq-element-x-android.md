@@ -1,6 +1,6 @@
 # element-hq/element-x-android
 
-[![Stars](https://img.shields.io/github/stars/element-hq/element-x-android?style=flat-square&color=yellow)](https://github.com/element-hq/element-x-android/stargazers) [![Forks](https://img.shields.io/github/forks/element-hq/element-x-android?style=flat-square&color=blue)](https://github.com/element-hq/element-x-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/element-hq/element-x-android?style=flat-square&color=yellow)](https://github.com/element-hq/element-x-android/stargazers) [![Forks](https://img.shields.io/github/forks/element-hq/element-x-android?style=flat-square&color=blue)](https://github.com/element-hq/element-x-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 490 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ element-hq/element-x-android：element-hq/element-x-android may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 70/100 |
 | stars | 71/100 |
 | forks | 67/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

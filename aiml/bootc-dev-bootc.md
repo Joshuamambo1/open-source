@@ -1,6 +1,6 @@
 # bootc-dev/bootc
 
-[![Stars](https://img.shields.io/github/stars/bootc-dev/bootc?style=flat-square&color=yellow)](https://github.com/bootc-dev/bootc/stargazers) [![Forks](https://img.shields.io/github/forks/bootc-dev/bootc?style=flat-square&color=blue)](https://github.com/bootc-dev/bootc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bootc-dev/bootc?style=flat-square&color=yellow)](https://github.com/bootc-dev/bootc/stargazers) [![Forks](https://img.shields.io/github/forks/bootc-dev/bootc?style=flat-square&color=blue)](https://github.com/bootc-dev/bootc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Boot and upgrade via container images
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ bootc-dev/bootc：bootc-dev/bootc helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 63/100 |
+| production | 51/100 |
+| outlook | 49/100 |
 | adoption | 67/100 |
 | stars | 70/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

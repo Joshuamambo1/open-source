@@ -1,6 +1,6 @@
 # inception-project/inception
 
-[![Stars](https://img.shields.io/github/stars/inception-project/inception?style=flat-square&color=yellow)](https://github.com/inception-project/inception/stargazers) [![Forks](https://img.shields.io/github/forks/inception-project/inception?style=flat-square&color=blue)](https://github.com/inception-project/inception/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inception-project/inception?style=flat-square&color=yellow)](https://github.com/inception-project/inception/stargazers) [![Forks](https://img.shields.io/github/forks/inception-project/inception?style=flat-square&color=blue)](https://github.com/inception-project/inception/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > INCEpTION provides a semantic annotation platform offering intelligent annotation assistance and knowledge management.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 694 |
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ inception-project/inception：inception-project/inception helps ship user-facing
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 59/100 |
 | stars | 60/100 |
 | forks | 56/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

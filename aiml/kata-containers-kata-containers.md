@@ -1,6 +1,6 @@
 # kata-containers/kata-containers
 
-[![Stars](https://img.shields.io/github/stars/kata-containers/kata-containers?style=flat-square&color=yellow)](https://github.com/kata-containers/kata-containers/stargazers) [![Forks](https://img.shields.io/github/forks/kata-containers/kata-containers?style=flat-square&color=blue)](https://github.com/kata-containers/kata-containers/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kata-containers/kata-containers?style=flat-square&color=yellow)](https://github.com/kata-containers/kata-containers/stargazers) [![Forks](https://img.shields.io/github/forks/kata-containers/kata-containers?style=flat-square&color=blue)](https://github.com/kata-containers/kata-containers/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · DevOps/Infra
 
 ### English
 
-kata-containers/kata-containers: kata-containers/kata-containers helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+kata-containers/kata-containers: kata-containers/kata-containers helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-kata-containers/kata-containers: open-source проект в категориях AI/ML, Frontend, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+kata-containers/kata-containers: open-source проект в категориях AI/ML, Frontend, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-kata-containers/kata-containers：kata-containers/kata-containers helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+kata-containers/kata-containers：kata-containers/kata-containers helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kata-containers/kata-containers：kata-containers/kata-containers helps add AI c
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ kata-containers/kata-containers：kata-containers/kata-containers helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 87/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 77/100 |
+| production | 63/100 |
+| outlook | 63/100 |
 | adoption | 81/100 |
 | stars | 83/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

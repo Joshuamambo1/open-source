@@ -1,6 +1,6 @@
 # numberwolf/h265web.js
 
-[![Stars](https://img.shields.io/github/stars/numberwolf/h265web.js?style=flat-square&color=yellow)](https://github.com/numberwolf/h265web.js/stargazers) [![Forks](https://img.shields.io/github/forks/numberwolf/h265web.js?style=flat-square&color=blue)](https://github.com/numberwolf/h265web.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/numberwolf/h265web.js?style=flat-square&color=yellow)](https://github.com/numberwolf/h265web.js/stargazers) [![Forks](https://img.shields.io/github/forks/numberwolf/h265web.js?style=flat-square&color=blue)](https://github.com/numberwolf/h265web.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 作者：常炎隆(Author: ChangYanlong):HEVC/H.265 网页直播/点播播放器 支持硬解！ 支持H.265的HttpFLV/HLS/MP4/TS/FLV/M3U8/Websocket播放。 🔥 A HEVC/H.265 Web Player, Support hard-decoding! for LIVE/VOD stream. Support H.265 Codec with HttpFLV/HLS/MP4/TS/FLV/M3U8/Websocket.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 381 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ numberwolf/h265web.js：numberwolf/h265web.js helps catch security and privacy i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 70/100 |
 | stars | 71/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

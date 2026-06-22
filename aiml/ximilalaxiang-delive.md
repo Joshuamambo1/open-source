@@ -1,6 +1,6 @@
 # XimilalaXiang/DeLive
 
-[![Stars](https://img.shields.io/github/stars/XimilalaXiang/DeLive?style=flat-square&color=yellow)](https://github.com/XimilalaXiang/DeLive/stargazers) [![Forks](https://img.shields.io/github/forks/XimilalaXiang/DeLive?style=flat-square&color=blue)](https://github.com/XimilalaXiang/DeLive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XimilalaXiang/DeLive?style=flat-square&color=yellow)](https://github.com/XimilalaXiang/DeLive/stargazers) [![Forks](https://img.shields.io/github/forks/XimilalaXiang/DeLive?style=flat-square&color=blue)](https://github.com/XimilalaXiang/DeLive/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > System audio capture + multi-provider ASR + local-first AI review workspace. Floating live captions, 12 ASR backends, 60+ languages, AI summary/chat/mindmap, Open API, MCP server, and Agent Skill.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ XimilalaXiang/DeLive：XimilalaXiang/DeLive helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 78/100 |
-| production | 72/100 |
-| outlook | 76/100 |
+| production | 58/100 |
+| outlook | 62/100 |
 | adoption | 38/100 |
 | stars | 46/100 |
 | forks | 19/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

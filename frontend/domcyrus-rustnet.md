@@ -1,6 +1,6 @@
 # domcyrus/rustnet
 
-[![Stars](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&color=yellow)](https://github.com/domcyrus/rustnet/stargazers) [![Forks](https://img.shields.io/github/forks/domcyrus/rustnet?style=flat-square&color=blue)](https://github.com/domcyrus/rustnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&color=yellow)](https://github.com/domcyrus/rustnet/stargazers) [![Forks](https://img.shields.io/github/forks/domcyrus/rustnet?style=flat-square&color=blue)](https://github.com/domcyrus/rustnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ domcyrus/rustnet：domcyrus/rustnet helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 79/100 |
+| production | 58/100 |
+| outlook | 65/100 |
 | adoption | 64/100 |
 | stars | 71/100 |
 | forks | 46/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

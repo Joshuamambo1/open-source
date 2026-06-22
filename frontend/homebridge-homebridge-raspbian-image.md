@@ -1,6 +1,6 @@
 # homebridge/homebridge-raspbian-image
 
-[![Stars](https://img.shields.io/github/stars/homebridge/homebridge-raspbian-image?style=flat-square&color=yellow)](https://github.com/homebridge/homebridge-raspbian-image/stargazers) [![Forks](https://img.shields.io/github/forks/homebridge/homebridge-raspbian-image?style=flat-square&color=blue)](https://github.com/homebridge/homebridge-raspbian-image/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/homebridge/homebridge-raspbian-image?style=flat-square&color=yellow)](https://github.com/homebridge/homebridge-raspbian-image/stargazers) [![Forks](https://img.shields.io/github/forks/homebridge/homebridge-raspbian-image?style=flat-square&color=blue)](https://github.com/homebridge/homebridge-raspbian-image/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Official Homebridge Raspberry Pi Image based on Raspberry Pi OS Lite.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ homebridge/homebridge-raspbian-image：homebridge/homebridge-raspbian-image help
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 60/100 |
 | stars | 65/100 |
 | forks | 46/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

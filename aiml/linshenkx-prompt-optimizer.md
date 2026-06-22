@@ -1,6 +1,6 @@
 # linshenkx/prompt-optimizer
 
-[![Stars](https://img.shields.io/github/stars/linshenkx/prompt-optimizer?style=flat-square&color=yellow)](https://github.com/linshenkx/prompt-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/linshenkx/prompt-optimizer?style=flat-square&color=blue)](https://github.com/linshenkx/prompt-optimizer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linshenkx/prompt-optimizer?style=flat-square&color=yellow)](https://github.com/linshenkx/prompt-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/linshenkx/prompt-optimizer?style=flat-square&color=blue)](https://github.com/linshenkx/prompt-optimizer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An AI prompt optimizer for writing better prompts and getting better AI results.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28.5k |
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **prompt-optimizer** project provides an open‑source AI tool that refines 
 
 ### 中文
 
-linshenkx/prompt-optimizer：linshenkx/prompt-optimizer helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+linshenkx/prompt-optimizer：linshenkx/prompt-optimizer helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ linshenkx/prompt-optimizer：linshenkx/prompt-optimizer helps add AI capability 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ linshenkx/prompt-optimizer：linshenkx/prompt-optimizer helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 92/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 93/100 |
 | stars | 95/100 |
 | forks | 88/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

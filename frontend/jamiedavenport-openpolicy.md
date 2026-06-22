@@ -1,6 +1,6 @@
 # jamiedavenport/openpolicy
 
-[![Stars](https://img.shields.io/github/stars/jamiedavenport/openpolicy?style=flat-square&color=yellow)](https://github.com/jamiedavenport/openpolicy/stargazers) [![Forks](https://img.shields.io/github/forks/jamiedavenport/openpolicy?style=flat-square&color=blue)](https://github.com/jamiedavenport/openpolicy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jamiedavenport/openpolicy?style=flat-square&color=yellow)](https://github.com/jamiedavenport/openpolicy/stargazers) [![Forks](https://img.shields.io/github/forks/jamiedavenport/openpolicy?style=flat-square&color=blue)](https://github.com/jamiedavenport/openpolicy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Primitives for building privacy-first applications and rendering privacy/cookie policies
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jamiedavenport/openpolicy：jamiedavenport/openpolicy helps ship user-facing int
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 39/100 |
 | stars | 46/100 |
 | forks | 19/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

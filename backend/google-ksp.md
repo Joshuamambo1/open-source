@@ -1,6 +1,6 @@
 # google/ksp
 
-[![Stars](https://img.shields.io/github/stars/google/ksp?style=flat-square&color=yellow)](https://github.com/google/ksp/stargazers) [![Forks](https://img.shields.io/github/forks/google/ksp?style=flat-square&color=blue)](https://github.com/google/ksp/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/ksp?style=flat-square&color=yellow)](https://github.com/google/ksp/stargazers) [![Forks](https://img.shields.io/github/forks/google/ksp?style=flat-square&color=blue)](https://github.com/google/ksp/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Kotlin Symbol Processing API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 393 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ google/ksp：google/ksp helps teams reuse service infrastructure instead of rebu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 54/100 |
 | adoption | 72/100 |
 | stars | 75/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

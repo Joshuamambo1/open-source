@@ -1,6 +1,6 @@
 # PozzettiAndrea/ComfyUI-SAM3
 
-[![Stars](https://img.shields.io/github/stars/PozzettiAndrea/ComfyUI-SAM3?style=flat-square&color=yellow)](https://github.com/PozzettiAndrea/ComfyUI-SAM3/stargazers) [![Forks](https://img.shields.io/github/forks/PozzettiAndrea/ComfyUI-SAM3?style=flat-square&color=blue)](https://github.com/PozzettiAndrea/ComfyUI-SAM3/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PozzettiAndrea/ComfyUI-SAM3?style=flat-square&color=yellow)](https://github.com/PozzettiAndrea/ComfyUI-SAM3/stargazers) [![Forks](https://img.shields.io/github/forks/PozzettiAndrea/ComfyUI-SAM3?style=flat-square&color=blue)](https://github.com/PozzettiAndrea/ComfyUI-SAM3/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > ComfyUI wrapper for segment anything 3
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 524 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ PozzettiAndrea/ComfyUI-SAM3：PozzettiAndrea/ComfyUI-SAM3 helps ship user-facing
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 46/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 47/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

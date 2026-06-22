@@ -1,6 +1,6 @@
 # Ragnt/AngryOxide
 
-[![Stars](https://img.shields.io/github/stars/Ragnt/AngryOxide?style=flat-square&color=yellow)](https://github.com/Ragnt/AngryOxide/stargazers) [![Forks](https://img.shields.io/github/forks/Ragnt/AngryOxide?style=flat-square&color=blue)](https://github.com/Ragnt/AngryOxide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ragnt/AngryOxide?style=flat-square&color=yellow)](https://github.com/Ragnt/AngryOxide/stargazers) [![Forks](https://img.shields.io/github/forks/Ragnt/AngryOxide?style=flat-square&color=blue)](https://github.com/Ragnt/AngryOxide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 802.11 Attack Tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Ragnt/AngryOxide：Ragnt/AngryOxide helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 79/100 |
+| production | 56/100 |
+| outlook | 65/100 |
 | adoption | 64/100 |
 | stars | 69/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

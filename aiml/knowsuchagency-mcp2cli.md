@@ -1,6 +1,6 @@
 # knowsuchagency/mcp2cli
 
-[![Stars](https://img.shields.io/github/stars/knowsuchagency/mcp2cli?style=flat-square&color=yellow)](https://github.com/knowsuchagency/mcp2cli/stargazers) [![Forks](https://img.shields.io/github/forks/knowsuchagency/mcp2cli?style=flat-square&color=blue)](https://github.com/knowsuchagency/mcp2cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knowsuchagency/mcp2cli?style=flat-square&color=yellow)](https://github.com/knowsuchagency/mcp2cli/stargazers) [![Forks](https://img.shields.io/github/forks/knowsuchagency/mcp2cli?style=flat-square&color=blue)](https://github.com/knowsuchagency/mcp2cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ knowsuchagency/mcp2cli is a developer‑focused tool that instantly converts any
 
 ### 中文
 
-knowsuchagency/mcp2cli：knowsuchagency/mcp2cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+knowsuchagency/mcp2cli：knowsuchagency/mcp2cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ knowsuchagency/mcp2cli：knowsuchagency/mcp2cli helps add AI capability without 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ knowsuchagency/mcp2cli：knowsuchagency/mcp2cli helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 94/100 |
-| production | 76/100 |
-| outlook | 79/100 |
+| production | 63/100 |
+| outlook | 65/100 |
 | adoption | 66/100 |
 | stars | 71/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # CISOfy/lynis
 
-[![Stars](https://img.shields.io/github/stars/CISOfy/lynis?style=flat-square&color=yellow)](https://github.com/CISOfy/lynis/stargazers) [![Forks](https://img.shields.io/github/forks/CISOfy/lynis?style=flat-square&color=blue)](https://github.com/CISOfy/lynis/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CISOfy/lynis?style=flat-square&color=yellow)](https://github.com/CISOfy/lynis/stargazers) [![Forks](https://img.shields.io/github/forks/CISOfy/lynis?style=flat-square&color=blue)](https://github.com/CISOfy/lynis/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.6k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CISOfy/lynis：CISOfy/lynis helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 89/100 |
+| quality | 79/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 84/100 |
+| production | 59/100 |
+| outlook | 70/100 |
 | adoption | 87/100 |
 | stars | 89/100 |
 | forks | 80/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

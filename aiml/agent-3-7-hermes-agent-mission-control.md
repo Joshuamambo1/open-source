@@ -1,6 +1,6 @@
 # Agent-3-7/hermes-agent-mission-control
 
-[![Stars](https://img.shields.io/github/stars/Agent-3-7/hermes-agent-mission-control?style=flat-square&color=yellow)](https://github.com/Agent-3-7/hermes-agent-mission-control/stargazers) [![Forks](https://img.shields.io/github/forks/Agent-3-7/hermes-agent-mission-control?style=flat-square&color=blue)](https://github.com/Agent-3-7/hermes-agent-mission-control/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agent-3-7/hermes-agent-mission-control?style=flat-square&color=yellow)](https://github.com/Agent-3-7/hermes-agent-mission-control/stargazers) [![Forks](https://img.shields.io/github/forks/Agent-3-7/hermes-agent-mission-control?style=flat-square&color=blue)](https://github.com/Agent-3-7/hermes-agent-mission-control/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Mission Control Kanban for your Hermes Agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Agent‑3‑7’s **hermes‑agent‑mission‑control** is an open‑source Kan
 
 ### 中文
 
-Agent-3-7/hermes-agent-mission-control：Agent-3-7/hermes-agent-mission-control helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Agent-3-7/hermes-agent-mission-control：Agent-3-7/hermes-agent-mission-control helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Agent-3-7/hermes-agent-mission-control：Agent-3-7/hermes-agent-mission-control 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ Agent-3-7/hermes-agent-mission-control：Agent-3-7/hermes-agent-mission-control 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 46/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 61/100 |
+| production | 50/100 |
+| outlook | 47/100 |
 | adoption | 46/100 |
 | stars | 53/100 |
 | forks | 28/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

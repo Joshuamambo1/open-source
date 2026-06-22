@@ -1,6 +1,6 @@
 # tafia/calamine
 
-[![Stars](https://img.shields.io/github/stars/tafia/calamine?style=flat-square&color=yellow)](https://github.com/tafia/calamine/stargazers) [![Forks](https://img.shields.io/github/forks/tafia/calamine?style=flat-square&color=blue)](https://github.com/tafia/calamine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tafia/calamine?style=flat-square&color=yellow)](https://github.com/tafia/calamine/stargazers) [![Forks](https://img.shields.io/github/forks/tafia/calamine?style=flat-square&color=blue)](https://github.com/tafia/calamine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 224 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ tafia/calamine：tafia/calamine may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 68/100 |
 | stars | 71/100 |
 | forks | 59/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

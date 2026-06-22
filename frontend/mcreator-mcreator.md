@@ -1,6 +1,6 @@
 # MCreator/MCreator
 
-[![Stars](https://img.shields.io/github/stars/MCreator/MCreator?style=flat-square&color=yellow)](https://github.com/MCreator/MCreator/stargazers) [![Forks](https://img.shields.io/github/forks/MCreator/MCreator?style=flat-square&color=blue)](https://github.com/MCreator/MCreator/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MCreator/MCreator?style=flat-square&color=yellow)](https://github.com/MCreator/MCreator/stargazers) [![Forks](https://img.shields.io/github/forks/MCreator/MCreator?style=flat-square&color=blue)](https://github.com/MCreator/MCreator/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MCreator is an open-source software used to make Minecraft Java Edition mods, Minecraft Bedrock Edition Add-Ons, resource packs, and data packs using an intuitive easy-to-learn interface or with an integrated code editor. It is used worldwide by Minecraft players, aspiring mod developers, for education, online classes, and STEM workshops.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 197 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MCreator/MCreator：MCreator/MCreator helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 63/100 |
 | stars | 65/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

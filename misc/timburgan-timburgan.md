@@ -1,6 +1,6 @@
 # timburgan/timburgan
 
-[![Stars](https://img.shields.io/github/stars/timburgan/timburgan?style=flat-square&color=yellow)](https://github.com/timburgan/timburgan/stargazers) [![Forks](https://img.shields.io/github/forks/timburgan/timburgan?style=flat-square&color=blue)](https://github.com/timburgan/timburgan/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timburgan/timburgan?style=flat-square&color=yellow)](https://github.com/timburgan/timburgan/stargazers) [![Forks](https://img.shields.io/github/forks/timburgan/timburgan?style=flat-square&color=blue)](https://github.com/timburgan/timburgan/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Play chess via GitHub
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -62,14 +62,14 @@ timburgan/timburgan：timburgan/timburgan may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 63/100 |
 | stars | 65/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # finch-xu/cc-router
 
-[![Stars](https://img.shields.io/github/stars/finch-xu/cc-router?style=flat-square&color=yellow)](https://github.com/finch-xu/cc-router/stargazers) [![Forks](https://img.shields.io/github/forks/finch-xu/cc-router?style=flat-square&color=blue)](https://github.com/finch-xu/cc-router/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/finch-xu/cc-router?style=flat-square&color=yellow)](https://github.com/finch-xu/cc-router/stargazers) [![Forks](https://img.shields.io/github/forks/finch-xu/cc-router?style=flat-square&color=blue)](https://github.com/finch-xu/cc-router/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 订阅买多了 Claude Code 却只能用一家？cc-router 本地运行的智能路由把 DeepSeek、Qwen、Kimi、MiMo、MiniMax、GLM、Claude 的 Token Plan、Coding Plan、API 额度合并成一个虚拟 Plan，任意搭配 opus / sonnet / haiku 三槽位，按顺序或轮询调度，限流、失败自动切换——充分使用每一份额度。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ finch-xu/cc-router：finch-xu/cc-router helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 37/100 |
 | stars | 43/100 |
 | forks | 23/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Micro-SaaS-Examples/Best-Micro-SaaS-Tools
 
-[![Stars](https://img.shields.io/github/stars/Micro-SaaS-Examples/Best-Micro-SaaS-Tools?style=flat-square&color=yellow)](https://github.com/Micro-SaaS-Examples/Best-Micro-SaaS-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/Micro-SaaS-Examples/Best-Micro-SaaS-Tools?style=flat-square&color=blue)](https://github.com/Micro-SaaS-Examples/Best-Micro-SaaS-Tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Micro-SaaS-Examples/Best-Micro-SaaS-Tools?style=flat-square&color=yellow)](https://github.com/Micro-SaaS-Examples/Best-Micro-SaaS-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/Micro-SaaS-Examples/Best-Micro-SaaS-Tools?style=flat-square&color=blue)](https://github.com/Micro-SaaS-Examples/Best-Micro-SaaS-Tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of real Micro SaaS tools categorized by niche. Perfect for inspiration, research, and startup ideas.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ Micro-SaaS-Examples/Best-Micro-SaaS-Tools：Micro-SaaS-Examples/Best-Micro-SaaS-
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 74/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 47/100 |
 | stars | 46/100 |
 | forks | 47/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

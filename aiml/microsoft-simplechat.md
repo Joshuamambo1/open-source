@@ -1,6 +1,6 @@
 # microsoft/simplechat
 
-[![Stars](https://img.shields.io/github/stars/microsoft/simplechat?style=flat-square&color=yellow)](https://github.com/microsoft/simplechat/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/simplechat?style=flat-square&color=blue)](https://github.com/microsoft/simplechat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/simplechat?style=flat-square&color=yellow)](https://github.com/microsoft/simplechat/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/simplechat?style=flat-square&color=blue)](https://github.com/microsoft/simplechat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Secure AI conversations with documents, video, audio, and more. Personal workspaces for focused context, group spaces for shared insight. Classify docs, reuse prompts, and extend with modular features.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ microsoft/simplechat：microsoft/simplechat helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 47/100 |
 | stars | 45/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

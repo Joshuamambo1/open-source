@@ -1,6 +1,6 @@
 # runestubbe/Crinkler
 
-[![Stars](https://img.shields.io/github/stars/runestubbe/Crinkler?style=flat-square&color=yellow)](https://github.com/runestubbe/Crinkler/stargazers) [![Forks](https://img.shields.io/github/forks/runestubbe/Crinkler?style=flat-square&color=blue)](https://github.com/runestubbe/Crinkler/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runestubbe/Crinkler?style=flat-square&color=yellow)](https://github.com/runestubbe/Crinkler/stargazers) [![Forks](https://img.shields.io/github/forks/runestubbe/Crinkler?style=flat-square&color=blue)](https://github.com/runestubbe/Crinkler/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Crinkler is an executable file compressor (or rather, a compressing linker) for compressing small 32-bit Windows demoscene executables. As of 2026, it is the most widely used tool for compressing 1k/4k/8k intros.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Crinkler — это открытый compressing‑linker, предназна�
 
 ### 中文
 
-runestubbe/Crinkler：runestubbe/Crinkler may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+runestubbe/Crinkler：runestubbe/Crinkler may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ runestubbe/Crinkler：runestubbe/Crinkler may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ runestubbe/Crinkler：runestubbe/Crinkler may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 50/100 |
+| outlook | 51/100 |
 | adoption | 60/100 |
 | stars | 66/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

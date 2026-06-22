@@ -1,6 +1,6 @@
 # ledgersmb/LedgerSMB
 
-[![Stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=flat-square&color=yellow)](https://github.com/ledgersmb/LedgerSMB/stargazers) [![Forks](https://img.shields.io/github/forks/ledgersmb/LedgerSMB?style=flat-square&color=blue)](https://github.com/ledgersmb/LedgerSMB/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=flat-square&color=yellow)](https://github.com/ledgersmb/LedgerSMB/stargazers) [![Forks](https://img.shields.io/github/forks/ledgersmb/LedgerSMB?style=flat-square&color=blue)](https://github.com/ledgersmb/LedgerSMB/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Double-entry accounting & ERP for the web
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 534 |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Perl |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ledgersmb/LedgerSMB：ledgersmb/LedgerSMB helps integrate monetization, billing,
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 57/100 |
 | stars | 58/100 |
 | forks | 56/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

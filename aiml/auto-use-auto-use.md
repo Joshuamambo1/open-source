@@ -1,6 +1,6 @@
 # auto-use/Auto-Use
 
-[![Stars](https://img.shields.io/github/stars/auto-use/Auto-Use?style=flat-square&color=yellow)](https://github.com/auto-use/Auto-Use/stargazers) [![Forks](https://img.shields.io/github/forks/auto-use/Auto-Use?style=flat-square&color=blue)](https://github.com/auto-use/Auto-Use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/auto-use/Auto-Use?style=flat-square&color=yellow)](https://github.com/auto-use/Auto-Use/stargazers) [![Forks](https://img.shields.io/github/forks/auto-use/Auto-Use?style=flat-square&color=blue)](https://github.com/auto-use/Auto-Use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Auto-Use Computer Use — drives your OS, browser, scours the web, writes your code. One agent, end to end.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ auto-use/Auto-Use：auto-use/Auto-Use helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 33/100 |
 | stars | 38/100 |
 | forks | 23/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

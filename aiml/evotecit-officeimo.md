@@ -1,6 +1,6 @@
 # EvotecIT/OfficeIMO
 
-[![Stars](https://img.shields.io/github/stars/EvotecIT/OfficeIMO?style=flat-square&color=yellow)](https://github.com/EvotecIT/OfficeIMO/stargazers) [![Forks](https://img.shields.io/github/forks/EvotecIT/OfficeIMO?style=flat-square&color=blue)](https://github.com/EvotecIT/OfficeIMO/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvotecIT/OfficeIMO?style=flat-square&color=yellow)](https://github.com/EvotecIT/OfficeIMO/stargazers) [![Forks](https://img.shields.io/github/forks/EvotecIT/OfficeIMO?style=flat-square&color=blue)](https://github.com/EvotecIT/OfficeIMO/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 453 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ EvotecIT/OfficeIMO：EvotecIT/OfficeIMO helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 53/100 |
 | stars | 57/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

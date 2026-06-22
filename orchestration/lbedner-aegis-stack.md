@@ -1,6 +1,6 @@
 # lbedner/aegis-stack
 
-[![Stars](https://img.shields.io/github/stars/lbedner/aegis-stack?style=flat-square&color=yellow)](https://github.com/lbedner/aegis-stack/stargazers) [![Forks](https://img.shields.io/github/forks/lbedner/aegis-stack?style=flat-square&color=blue)](https://github.com/lbedner/aegis-stack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lbedner/aegis-stack?style=flat-square&color=yellow)](https://github.com/lbedner/aegis-stack/stargazers) [![Forks](https://img.shields.io/github/forks/lbedner/aegis-stack?style=flat-square&color=blue)](https://github.com/lbedner/aegis-stack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A production-ready FastAPI platform with modular components and a built-in control plane.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ lbedner/aegis-stack：lbedner/aegis-stack helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 100/100 |
-| production | 75/100 |
-| outlook | 75/100 |
+| production | 61/100 |
+| outlook | 61/100 |
 | adoption | 38/100 |
 | stars | 43/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # curl/curl
 
-[![Stars](https://img.shields.io/github/stars/curl/curl?style=flat-square&color=yellow)](https://github.com/curl/curl/stargazers) [![Forks](https://img.shields.io/github/forks/curl/curl?style=flat-square&color=blue)](https://github.com/curl/curl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/curl/curl?style=flat-square&color=yellow)](https://github.com/curl/curl/stargazers) [![Forks](https://img.shields.io/github/forks/curl/curl?style=flat-square&color=blue)](https://github.com/curl/curl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41.8k |
 | 🍴 **Forks** | 7.2k |
 | 💻 **Language** | C |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ curl — это кроссплатформенный консольный ин
 
 ### 中文
 
-curl/curl：curl/curl helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+curl/curl：curl/curl helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ curl/curl：curl/curl helps add AI capability without starting from a blank mode
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ curl/curl：curl/curl helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 94/100 |
+| quality | 84/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 90/100 |
+| production | 66/100 |
+| outlook | 76/100 |
 | adoption | 98/100 |
 | stars | 98/100 |
 | forks | 96/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

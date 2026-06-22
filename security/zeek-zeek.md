@@ -1,6 +1,6 @@
 # zeek/zeek
 
-[![Stars](https://img.shields.io/github/stars/zeek/zeek?style=flat-square&color=yellow)](https://github.com/zeek/zeek/stargazers) [![Forks](https://img.shields.io/github/forks/zeek/zeek?style=flat-square&color=blue)](https://github.com/zeek/zeek/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zeek/zeek?style=flat-square&color=yellow)](https://github.com/zeek/zeek/stargazers) [![Forks](https://img.shields.io/github/forks/zeek/zeek?style=flat-square&color=blue)](https://github.com/zeek/zeek/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.6k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ zeek/zeek：zeek/zeek helps catch security and privacy issues earlier in the wor
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 87/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 83/100 |
+| production | 59/100 |
+| outlook | 69/100 |
 | adoption | 81/100 |
 | stars | 83/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

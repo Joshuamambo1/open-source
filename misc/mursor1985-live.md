@@ -1,6 +1,6 @@
 # mursor1985/LIVE
 
-[![Stars](https://img.shields.io/github/stars/mursor1985/LIVE?style=flat-square&color=yellow)](https://github.com/mursor1985/LIVE/stargazers) [![Forks](https://img.shields.io/github/forks/mursor1985/LIVE?style=flat-square&color=blue)](https://github.com/mursor1985/LIVE/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mursor1985/LIVE?style=flat-square&color=yellow)](https://github.com/mursor1985/LIVE/stargazers) [![Forks](https://img.shields.io/github/forks/mursor1985/LIVE?style=flat-square&color=blue)](https://github.com/mursor1985/LIVE/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A lightweight, open‑source utility that provides a simple, customizable live�
 
 ### 中文
 
-mursor1985/LIVE：mursor1985/LIVE may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mursor1985/LIVE：mursor1985/LIVE may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ mursor1985/LIVE：mursor1985/LIVE may be useful when its README and activity mat
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,14 +62,14 @@ mursor1985/LIVE：mursor1985/LIVE may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 18/100 |
-| production | 62/100 |
-| outlook | 63/100 |
+| production | 49/100 |
+| outlook | 49/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

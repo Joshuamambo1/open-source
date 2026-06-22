@@ -1,6 +1,6 @@
 # Teamwork/mcp
 
-[![Stars](https://img.shields.io/github/stars/Teamwork/mcp?style=flat-square&color=yellow)](https://github.com/Teamwork/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Teamwork/mcp?style=flat-square&color=blue)](https://github.com/Teamwork/mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Teamwork/mcp?style=flat-square&color=yellow)](https://github.com/Teamwork/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Teamwork/mcp?style=flat-square&color=blue)](https://github.com/Teamwork/mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Teamwork.com MCP server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Teamwork/mcp：Teamwork/mcp helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 68/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 29/100 |
 | stars | 29/100 |
 | forks | 31/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

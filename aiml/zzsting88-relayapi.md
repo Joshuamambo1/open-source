@@ -1,6 +1,6 @@
 # zzsting88/relayAPI
 
-[![Stars](https://img.shields.io/github/stars/zzsting88/relayAPI?style=flat-square&color=yellow)](https://github.com/zzsting88/relayAPI/stargazers) [![Forks](https://img.shields.io/github/forks/zzsting88/relayAPI?style=flat-square&color=blue)](https://github.com/zzsting88/relayAPI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zzsting88/relayAPI?style=flat-square&color=yellow)](https://github.com/zzsting88/relayAPI/stargazers) [![Forks](https://img.shields.io/github/forks/zzsting88/relayAPI?style=flat-square&color=blue)](https://github.com/zzsting88/relayAPI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > AI API中转站推荐与评测
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ zzsting88/relayAPI：zzsting88/relayAPI helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 64/100 |
+| production | 54/100 |
+| outlook | 50/100 |
 | adoption | 59/100 |
 | stars | 64/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

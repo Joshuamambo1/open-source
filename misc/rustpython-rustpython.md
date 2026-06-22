@@ -1,6 +1,6 @@
 # RustPython/RustPython
 
-[![Stars](https://img.shields.io/github/stars/RustPython/RustPython?style=flat-square&color=yellow)](https://github.com/RustPython/RustPython/stargazers) [![Forks](https://img.shields.io/github/forks/RustPython/RustPython?style=flat-square&color=blue)](https://github.com/RustPython/RustPython/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RustPython/RustPython?style=flat-square&color=yellow)](https://github.com/RustPython/RustPython/stargazers) [![Forks](https://img.shields.io/github/forks/RustPython/RustPython?style=flat-square&color=blue)](https://github.com/RustPython/RustPython/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A Python Interpreter written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ RustPython — это полностью открытый интерпрета
 
 ### 中文
 
-RustPython/RustPython：RustPython/RustPython may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+RustPython/RustPython：RustPython/RustPython may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ RustPython/RustPython：RustPython/RustPython may be useful when its README and 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ RustPython/RustPython：RustPython/RustPython may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 90/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 79/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 89/100 |
 | stars | 92/100 |
 | forks | 79/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

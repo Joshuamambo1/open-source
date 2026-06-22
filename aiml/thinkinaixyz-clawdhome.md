@@ -1,6 +1,6 @@
 # ThinkInAIXYZ/clawdhome
 
-[![Stars](https://img.shields.io/github/stars/ThinkInAIXYZ/clawdhome?style=flat-square&color=yellow)](https://github.com/ThinkInAIXYZ/clawdhome/stargazers) [![Forks](https://img.shields.io/github/forks/ThinkInAIXYZ/clawdhome?style=flat-square&color=blue)](https://github.com/ThinkInAIXYZ/clawdhome/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThinkInAIXYZ/clawdhome?style=flat-square&color=yellow)](https://github.com/ThinkInAIXYZ/clawdhome/stargazers) [![Forks](https://img.shields.io/github/forks/ThinkInAIXYZ/clawdhome?style=flat-square&color=blue)](https://github.com/ThinkInAIXYZ/clawdhome/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > ClawdHome securely isolates and manages multiple OpenClaw gateway instances on one Mac.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ThinkInAIXYZ/clawdhome：ThinkInAIXYZ/clawdhome helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 50/100 |
 | stars | 53/100 |
 | forks | 42/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

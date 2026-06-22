@@ -1,6 +1,6 @@
 # rclone/rclone
 
-[![Stars](https://img.shields.io/github/stars/rclone/rclone?style=flat-square&color=yellow)](https://github.com/rclone/rclone/stargazers) [![Forks](https://img.shields.io/github/forks/rclone/rclone?style=flat-square&color=blue)](https://github.com/rclone/rclone/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rclone/rclone?style=flat-square&color=yellow)](https://github.com/rclone/rclone/stargazers) [![Forks](https://img.shields.io/github/forks/rclone/rclone?style=flat-square&color=blue)](https://github.com/rclone/rclone/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57k |
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Security
 
 ### English
 
-rclone/rclone: rclone/rclone helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rclone/rclone: rclone/rclone helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-rclone/rclone: open-source проект в категориях AI/ML, Security. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+rclone/rclone: open-source проект в категориях AI/ML, Security. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-rclone/rclone：rclone/rclone helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rclone/rclone：rclone/rclone helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rclone/rclone：rclone/rclone helps add AI capability without starting from a bl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ rclone/rclone：rclone/rclone helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 94/100 |
+| quality | 84/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 84/100 |
+| production | 64/100 |
+| outlook | 70/100 |
 | adoption | 98/100 |
 | stars | 100/100 |
 | forks | 93/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

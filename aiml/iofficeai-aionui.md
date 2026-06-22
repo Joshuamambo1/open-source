@@ -1,6 +1,6 @@
 # iOfficeAI/AionUi
 
-[![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&color=yellow)](https://github.com/iOfficeAI/AionUi/stargazers) [![Forks](https://img.shields.io/github/forks/iOfficeAI/AionUi?style=flat-square&color=blue)](https://github.com/iOfficeAI/AionUi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&color=yellow)](https://github.com/iOfficeAI/AionUi/stargazers) [![Forks](https://img.shields.io/github/forks/iOfficeAI/AionUi?style=flat-square&color=blue)](https://github.com/iOfficeAI/AionUi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · DevTools
 
 ### English
 
-iOfficeAI/AionUi: iOfficeAI/AionUi helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+iOfficeAI/AionUi: iOfficeAI/AionUi helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-iOfficeAI/AionUi: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+iOfficeAI/AionUi: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-iOfficeAI/AionUi：iOfficeAI/AionUi helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+iOfficeAI/AionUi：iOfficeAI/AionUi helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ iOfficeAI/AionUi：iOfficeAI/AionUi helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ iOfficeAI/AionUi：iOfficeAI/AionUi helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 91/100 |
+| quality | 81/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 85/100 |
+| production | 65/100 |
+| outlook | 71/100 |
 | adoption | 90/100 |
 | stars | 93/100 |
 | forks | 83/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

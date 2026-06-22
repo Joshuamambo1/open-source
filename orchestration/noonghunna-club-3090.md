@@ -1,6 +1,6 @@
 # noonghunna/club-3090
 
-[![Stars](https://img.shields.io/github/stars/noonghunna/club-3090?style=flat-square&color=yellow)](https://github.com/noonghunna/club-3090/stargazers) [![Forks](https://img.shields.io/github/forks/noonghunna/club-3090?style=flat-square&color=blue)](https://github.com/noonghunna/club-3090/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noonghunna/club-3090?style=flat-square&color=yellow)](https://github.com/noonghunna/club-3090/stargazers) [![Forks](https://img.shields.io/github/forks/noonghunna/club-3090?style=flat-square&color=blue)](https://github.com/noonghunna/club-3090/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 675 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ noonghunna/club-3090：noonghunna/club-3090 helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 46/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 41/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

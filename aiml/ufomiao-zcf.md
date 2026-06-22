@@ -1,6 +1,6 @@
 # UfoMiao/zcf
 
-[![Stars](https://img.shields.io/github/stars/UfoMiao/zcf?style=flat-square&color=yellow)](https://github.com/UfoMiao/zcf/stargazers) [![Forks](https://img.shields.io/github/forks/UfoMiao/zcf?style=flat-square&color=blue)](https://github.com/UfoMiao/zcf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UfoMiao/zcf?style=flat-square&color=yellow)](https://github.com/UfoMiao/zcf/stargazers) [![Forks](https://img.shields.io/github/forks/UfoMiao/zcf?style=flat-square&color=blue)](https://github.com/UfoMiao/zcf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-Config Code Flow for Claude code & Codex
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 418 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ UfoMiao/zcf — это open‑source инструмент, позволяющ�
 
 ### 中文
 
-UfoMiao/zcf：UfoMiao/zcf helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+UfoMiao/zcf：UfoMiao/zcf helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ UfoMiao/zcf：UfoMiao/zcf helps add AI capability without starting from a blank 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ UfoMiao/zcf：UfoMiao/zcf helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 85/100 |
+| production | 62/100 |
+| outlook | 71/100 |
 | adoption | 76/100 |
 | stars | 80/100 |
 | forks | 66/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

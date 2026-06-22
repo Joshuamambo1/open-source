@@ -1,6 +1,6 @@
 # bluecatengineering/dhcproto
 
-[![Stars](https://img.shields.io/github/stars/bluecatengineering/dhcproto?style=flat-square&color=yellow)](https://github.com/bluecatengineering/dhcproto/stargazers) [![Forks](https://img.shields.io/github/forks/bluecatengineering/dhcproto?style=flat-square&color=blue)](https://github.com/bluecatengineering/dhcproto/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bluecatengineering/dhcproto?style=flat-square&color=yellow)](https://github.com/bluecatengineering/dhcproto/stargazers) [![Forks](https://img.shields.io/github/forks/bluecatengineering/dhcproto?style=flat-square&color=blue)](https://github.com/bluecatengineering/dhcproto/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A DHCP parser and encoder for DHCPv4/DHCPv6
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-bluecatengineering/dhcproto: bluecatengineering/dhcproto may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bluecatengineering/dhcproto: bluecatengineering/dhcproto may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-bluecatengineering/dhcproto: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+bluecatengineering/dhcproto: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-bluecatengineering/dhcproto：bluecatengineering/dhcproto may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bluecatengineering/dhcproto：bluecatengineering/dhcproto may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ bluecatengineering/dhcproto：bluecatengineering/dhcproto may be useful when its
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -56,21 +56,21 @@ bluecatengineering/dhcproto：bluecatengineering/dhcproto may be useful when its
 - updated 2026-05-07
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 57/100 |
+| production | 47/100 |
+| outlook | 43/100 |
 | adoption | 44/100 |
 | stars | 46/100 |
 | forks | 39/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

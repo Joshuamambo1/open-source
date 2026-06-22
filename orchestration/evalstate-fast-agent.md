@@ -1,6 +1,6 @@
 # evalstate/fast-agent
 
-[![Stars](https://img.shields.io/github/stars/evalstate/fast-agent?style=flat-square&color=yellow)](https://github.com/evalstate/fast-agent/stargazers) [![Forks](https://img.shields.io/github/forks/evalstate/fast-agent?style=flat-square&color=blue)](https://github.com/evalstate/fast-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evalstate/fast-agent?style=flat-square&color=yellow)](https://github.com/evalstate/fast-agent/stargazers) [![Forks](https://img.shields.io/github/forks/evalstate/fast-agent?style=flat-square&color=blue)](https://github.com/evalstate/fast-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 403 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Orchestration · AI/ML · Frontend
 
 ### 中文
 
-evalstate/fast-agent：evalstate/fast-agent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+evalstate/fast-agent：evalstate/fast-agent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ evalstate/fast-agent：evalstate/fast-agent helps turn isolated prompts and tool
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ evalstate/fast-agent：evalstate/fast-agent helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 83/100 |
+| quality | 73/100 |
 | integration | 78/100 |
-| production | 77/100 |
-| outlook | 86/100 |
+| production | 64/100 |
+| outlook | 72/100 |
 | adoption | 73/100 |
 | stars | 76/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # NVIDIA/infra-controller-core
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/infra-controller-core?style=flat-square&color=yellow)](https://github.com/NVIDIA/infra-controller-core/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/infra-controller-core?style=flat-square&color=blue)](https://github.com/NVIDIA/infra-controller-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/infra-controller-core?style=flat-square&color=yellow)](https://github.com/NVIDIA/infra-controller-core/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/infra-controller-core?style=flat-square&color=blue)](https://github.com/NVIDIA/infra-controller-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ NVIDIA/infra-controller-core — это открытая платформа д
 
 ### 中文
 
-NVIDIA/infra-controller-core：NVIDIA/infra-controller-core helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+NVIDIA/infra-controller-core：NVIDIA/infra-controller-core helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ NVIDIA/infra-controller-core：NVIDIA/infra-controller-core helps make deploymen
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ NVIDIA/infra-controller-core：NVIDIA/infra-controller-core helps make deploymen
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 47/100 |
 | stars | 46/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

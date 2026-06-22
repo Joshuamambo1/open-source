@@ -1,6 +1,6 @@
 # appergb/openless
 
-[![Stars](https://img.shields.io/github/stars/appergb/openless?style=flat-square&color=yellow)](https://github.com/appergb/openless/stargazers) [![Forks](https://img.shields.io/github/forks/appergb/openless?style=flat-square&color=blue)](https://github.com/appergb/openless/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appergb/openless?style=flat-square&color=yellow)](https://github.com/appergb/openless/stargazers) [![Forks](https://img.shields.io/github/forks/appergb/openless?style=flat-square&color=blue)](https://github.com/appergb/openless/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 935 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ appergb/openless：appergb/openless helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 59/100 |
 | stars | 63/100 |
 | forks | 47/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

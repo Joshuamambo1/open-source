@@ -1,6 +1,6 @@
 # traceloop/openllmetry
 
-[![Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=flat-square&color=yellow)](https://github.com/traceloop/openllmetry/stargazers) [![Forks](https://img.shields.io/github/forks/traceloop/openllmetry?style=flat-square&color=blue)](https://github.com/traceloop/openllmetry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=flat-square&color=yellow)](https://github.com/traceloop/openllmetry/stargazers) [![Forks](https://img.shields.io/github/forks/traceloop/openllmetry?style=flat-square&color=blue)](https://github.com/traceloop/openllmetry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source observability for your GenAI or LLM application, based on OpenTelemetry
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.1k |
 | 🍴 **Forks** | 951 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Data
 
 ### English
 
-traceloop/openllmetry: traceloop/openllmetry helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+traceloop/openllmetry: traceloop/openllmetry helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-traceloop/openllmetry: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+traceloop/openllmetry: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-traceloop/openllmetry：traceloop/openllmetry helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+traceloop/openllmetry：traceloop/openllmetry helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ traceloop/openllmetry：traceloop/openllmetry helps add AI capability without st
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ traceloop/openllmetry：traceloop/openllmetry helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 86/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 63/100 |
+| outlook | 66/100 |
 | adoption | 80/100 |
 | stars | 82/100 |
 | forks | 74/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

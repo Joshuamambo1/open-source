@@ -1,6 +1,6 @@
 # onyx-dot-app/EnterpriseRAG-Bench
 
-[![Stars](https://img.shields.io/github/stars/onyx-dot-app/EnterpriseRAG-Bench?style=flat-square&color=yellow)](https://github.com/onyx-dot-app/EnterpriseRAG-Bench/stargazers) [![Forks](https://img.shields.io/github/forks/onyx-dot-app/EnterpriseRAG-Bench?style=flat-square&color=blue)](https://github.com/onyx-dot-app/EnterpriseRAG-Bench/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onyx-dot-app/EnterpriseRAG-Bench?style=flat-square&color=yellow)](https://github.com/onyx-dot-app/EnterpriseRAG-Bench/stargazers) [![Forks](https://img.shields.io/github/forks/onyx-dot-app/EnterpriseRAG-Bench?style=flat-square&color=blue)](https://github.com/onyx-dot-app/EnterpriseRAG-Bench/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Dataset and benchmark for RAG on company internal documents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ onyx-dot-app/EnterpriseRAG-Bench：onyx-dot-app/EnterpriseRAG-Bench helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 41/100 |
 | stars | 47/100 |
 | forks | 28/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

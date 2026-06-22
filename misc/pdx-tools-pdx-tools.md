@@ -1,6 +1,6 @@
 # pdx-tools/pdx-tools
 
-[![Stars](https://img.shields.io/github/stars/pdx-tools/pdx-tools?style=flat-square&color=yellow)](https://github.com/pdx-tools/pdx-tools/stargazers) [![Forks](https://img.shields.io/github/forks/pdx-tools/pdx-tools?style=flat-square&color=blue)](https://github.com/pdx-tools/pdx-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pdx-tools/pdx-tools?style=flat-square&color=yellow)](https://github.com/pdx-tools/pdx-tools/stargazers) [![Forks](https://img.shields.io/github/forks/pdx-tools/pdx-tools?style=flat-square&color=blue)](https://github.com/pdx-tools/pdx-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > View maps, graphs, and tables of your save and compete in a casual, evergreen leaderboard of EU4 achievement speed runs. Upload and share your save with the world.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ pdx‑tools / pdx‑tools — это open‑source утилита для P
 
 ### 中文
 
-pdx-tools/pdx-tools：pdx-tools/pdx-tools may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pdx-tools/pdx-tools：pdx-tools/pdx-tools may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ pdx-tools/pdx-tools：pdx-tools/pdx-tools may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ pdx-tools/pdx-tools：pdx-tools/pdx-tools may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 39/100 |
 | stars | 44/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # alibaba/MNN
 
-[![Stars](https://img.shields.io/github/stars/alibaba/MNN?style=flat-square&color=yellow)](https://github.com/alibaba/MNN/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/MNN?style=flat-square&color=blue)](https://github.com/alibaba/MNN/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/MNN?style=flat-square&color=yellow)](https://github.com/alibaba/MNN/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/MNN?style=flat-square&color=blue)](https://github.com/alibaba/MNN/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.1k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · DevTools
 
 ### English
 
-alibaba/MNN: alibaba/MNN helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+alibaba/MNN: alibaba/MNN helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-alibaba/MNN: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+alibaba/MNN: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-alibaba/MNN：alibaba/MNN helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+alibaba/MNN：alibaba/MNN helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ alibaba/MNN：alibaba/MNN helps add AI capability without starting from a blank 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ alibaba/MNN：alibaba/MNN helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 89/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 62/100 |
+| outlook | 64/100 |
 | adoption | 88/100 |
 | stars | 89/100 |
 | forks | 84/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

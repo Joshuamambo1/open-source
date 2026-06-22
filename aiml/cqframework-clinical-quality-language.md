@@ -1,6 +1,6 @@
 # cqframework/clinical_quality_language
 
-[![Stars](https://img.shields.io/github/stars/cqframework/clinical_quality_language?style=flat-square&color=yellow)](https://github.com/cqframework/clinical_quality_language/stargazers) [![Forks](https://img.shields.io/github/forks/cqframework/clinical_quality_language?style=flat-square&color=blue)](https://github.com/cqframework/clinical_quality_language/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cqframework/clinical_quality_language?style=flat-square&color=yellow)](https://github.com/cqframework/clinical_quality_language/stargazers) [![Forks](https://img.shields.io/github/forks/cqframework/clinical_quality_language?style=flat-square&color=blue)](https://github.com/cqframework/clinical_quality_language/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Clinical Quality Language (CQL) is an HL7 specification for the expression of clinical knowledge that can be used within both the Clinical Decision Support (CDS) and Clinical Quality Measurement (CQM) domains. This repository contains complementary tooling in support of that specification.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cqframework/clinical_quality_language：cqframework/clinical_quality_language he
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 79/100 |
+| production | 56/100 |
+| outlook | 65/100 |
 | adoption | 53/100 |
 | stars | 53/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

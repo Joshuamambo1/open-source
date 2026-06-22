@@ -1,6 +1,6 @@
 # leiweibau/Pi.Alert
 
-[![Stars](https://img.shields.io/github/stars/leiweibau/Pi.Alert?style=flat-square&color=yellow)](https://github.com/leiweibau/Pi.Alert/stargazers) [![Forks](https://img.shields.io/github/forks/leiweibau/Pi.Alert?style=flat-square&color=blue)](https://github.com/leiweibau/Pi.Alert/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leiweibau/Pi.Alert?style=flat-square&color=yellow)](https://github.com/leiweibau/Pi.Alert/stargazers) [![Forks](https://img.shields.io/github/forks/leiweibau/Pi.Alert?style=flat-square&color=blue)](https://github.com/leiweibau/Pi.Alert/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Scan the devices connected to your WIFI / LAN and alert you the connection of unknown devices. It also warns if a "always connected" device disconnects. In addition, it is possible to check web services for availability. For this purpose HTTP status codes and the response time of the service are evaluated.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ leiweibau/Pi.Alert：leiweibau/Pi.Alert helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 60/100 |
 | stars | 65/100 |
 | forks | 47/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

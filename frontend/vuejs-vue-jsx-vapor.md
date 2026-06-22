@@ -1,6 +1,6 @@
 # vuejs/vue-jsx-vapor
 
-[![Stars](https://img.shields.io/github/stars/vuejs/vue-jsx-vapor?style=flat-square&color=yellow)](https://github.com/vuejs/vue-jsx-vapor/stargazers) [![Forks](https://img.shields.io/github/forks/vuejs/vue-jsx-vapor?style=flat-square&color=blue)](https://github.com/vuejs/vue-jsx-vapor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vuejs/vue-jsx-vapor?style=flat-square&color=yellow)](https://github.com/vuejs/vue-jsx-vapor/stargazers) [![Forks](https://img.shields.io/github/forks/vuejs/vue-jsx-vapor?style=flat-square&color=blue)](https://github.com/vuejs/vue-jsx-vapor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Vapor Mode of Vue JSX
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 293 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Vue JSX Vapor is an open‑source library that enables “vapor mode” for Vue�
 
 ### 中文
 
-vuejs/vue-jsx-vapor：vuejs/vue-jsx-vapor helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vuejs/vue-jsx-vapor：vuejs/vue-jsx-vapor helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ vuejs/vue-jsx-vapor：vuejs/vue-jsx-vapor helps ship user-facing interfaces with
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ vuejs/vue-jsx-vapor：vuejs/vue-jsx-vapor helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 58/100 |
+| production | 47/100 |
+| outlook | 44/100 |
 | adoption | 45/100 |
 | stars | 53/100 |
 | forks | 27/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

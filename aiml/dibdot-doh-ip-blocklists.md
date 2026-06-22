@@ -1,6 +1,6 @@
 # dibdot/DoH-IP-blocklists
 
-[![Stars](https://img.shields.io/github/stars/dibdot/DoH-IP-blocklists?style=flat-square&color=yellow)](https://github.com/dibdot/DoH-IP-blocklists/stargazers) [![Forks](https://img.shields.io/github/forks/dibdot/DoH-IP-blocklists?style=flat-square&color=blue)](https://github.com/dibdot/DoH-IP-blocklists/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dibdot/DoH-IP-blocklists?style=flat-square&color=yellow)](https://github.com/dibdot/DoH-IP-blocklists/stargazers) [![Forks](https://img.shields.io/github/forks/dibdot/DoH-IP-blocklists?style=flat-square&color=blue)](https://github.com/dibdot/DoH-IP-blocklists/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > This repo contains the domain names and the resolved IPv4/IPv6 addresses of public DoH server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 333 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dibdot/DoH-IP-blocklists：dibdot/DoH-IP-blocklists helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

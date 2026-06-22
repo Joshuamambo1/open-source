@@ -1,6 +1,6 @@
 # xuanyustudio/LocalMiniDrama
 
-[![Stars](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square&color=yellow)](https://github.com/xuanyustudio/LocalMiniDrama/stargazers) [![Forks](https://img.shields.io/github/forks/xuanyustudio/LocalMiniDrama?style=flat-square&color=blue)](https://github.com/xuanyustudio/LocalMiniDrama/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xuanyustudio/LocalMiniDrama?style=flat-square&color=yellow)](https://github.com/xuanyustudio/LocalMiniDrama/stargazers) [![Forks](https://img.shields.io/github/forks/xuanyustudio/LocalMiniDrama?style=flat-square&color=blue)](https://github.com/xuanyustudio/LocalMiniDrama/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ xuanyustudio/LocalMiniDrama：xuanyustudio/LocalMiniDrama helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 73/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 52/100 |
 | stars | 54/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # a-h/templ
 
-[![Stars](https://img.shields.io/github/stars/a-h/templ?style=flat-square&color=yellow)](https://github.com/a-h/templ/stargazers) [![Forks](https://img.shields.io/github/forks/a-h/templ?style=flat-square&color=blue)](https://github.com/a-h/templ/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/a-h/templ?style=flat-square&color=yellow)](https://github.com/a-h/templ/stargazers) [![Forks](https://img.shields.io/github/forks/a-h/templ?style=flat-square&color=blue)](https://github.com/a-h/templ/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A language for writing HTML user interfaces in Go.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.3k |
 | 🍴 **Forks** | 354 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ a-h/templ：a-h/templ helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 60/100 |
+| outlook | 62/100 |
 | adoption | 79/100 |
 | stars | 85/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

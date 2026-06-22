@@ -1,6 +1,6 @@
 # dventimisupabase/pg_flight_recorder
 
-[![Stars](https://img.shields.io/github/stars/dventimisupabase/pg_flight_recorder?style=flat-square&color=yellow)](https://github.com/dventimisupabase/pg_flight_recorder/stargazers) [![Forks](https://img.shields.io/github/forks/dventimisupabase/pg_flight_recorder?style=flat-square&color=blue)](https://github.com/dventimisupabase/pg_flight_recorder/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dventimisupabase/pg_flight_recorder?style=flat-square&color=yellow)](https://github.com/dventimisupabase/pg_flight_recorder/stargazers) [![Forks](https://img.shields.io/github/forks/dventimisupabase/pg_flight_recorder?style=flat-square&color=blue)](https://github.com/dventimisupabase/pg_flight_recorder/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 31/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | hackernews |
 
@@ -27,15 +27,15 @@ Backend
 
 ### English
 
-Pg_flight_recorder – server-side flight recorder for Postgres: Pg_flight_recorder – server-side flight recorder for Postgres helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Pg_flight_recorder – server-side flight recorder for Postgres: Pg_flight_recorder – server-side flight recorder for Postgres helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Pg_flight_recorder – server-side flight recorder for Postgres: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Pg_flight_recorder – server-side flight recorder for Postgres: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Pg_flight_recorder – server-side flight recorder for Postgres：Pg_flight_recorder – server-side flight recorder for Postgres helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Pg_flight_recorder – server-side flight recorder for Postgres：Pg_flight_recorder – server-side flight recorder for Postgres helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Pg_flight_recorder – server-side flight recorder for Postgres：Pg_flight_reco
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ Pg_flight_recorder – server-side flight recorder for Postgres：Pg_flight_reco
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 26/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 47/100 |
+| production | 38/100 |
+| outlook | 33/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 80/100 |
 

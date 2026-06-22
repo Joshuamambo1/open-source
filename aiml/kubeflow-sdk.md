@@ -1,6 +1,6 @@
 # kubeflow/sdk
 
-[![Stars](https://img.shields.io/github/stars/kubeflow/sdk?style=flat-square&color=yellow)](https://github.com/kubeflow/sdk/stargazers) [![Forks](https://img.shields.io/github/forks/kubeflow/sdk?style=flat-square&color=blue)](https://github.com/kubeflow/sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeflow/sdk?style=flat-square&color=yellow)](https://github.com/kubeflow/sdk/stargazers) [![Forks](https://img.shields.io/github/forks/kubeflow/sdk?style=flat-square&color=blue)](https://github.com/kubeflow/sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Universal Python SDK to run AI workloads on Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kubeflow/sdk：kubeflow/sdk helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 78/100 |
-| production | 73/100 |
-| outlook | 71/100 |
+| production | 60/100 |
+| outlook | 57/100 |
 | adoption | 47/100 |
 | stars | 44/100 |
 | forks | 56/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

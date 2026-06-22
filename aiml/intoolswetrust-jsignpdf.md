@@ -1,6 +1,6 @@
 # intoolswetrust/jsignpdf
 
-[![Stars](https://img.shields.io/github/stars/intoolswetrust/jsignpdf?style=flat-square&color=yellow)](https://github.com/intoolswetrust/jsignpdf/stargazers) [![Forks](https://img.shields.io/github/forks/intoolswetrust/jsignpdf?style=flat-square&color=blue)](https://github.com/intoolswetrust/jsignpdf/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intoolswetrust/jsignpdf?style=flat-square&color=yellow)](https://github.com/intoolswetrust/jsignpdf/stargazers) [![Forks](https://img.shields.io/github/forks/intoolswetrust/jsignpdf?style=flat-square&color=blue)](https://github.com/intoolswetrust/jsignpdf/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform PDF digital signing tool. JavaFX desktop UI with drag-to-place visible signatures, PKCS#11/PKCS#12 keystores, RFC 3161 timestamping, OCSP/CRL long-term validation, and a scriptable CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 403 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ intoolswetrust/jsignpdf：intoolswetrust/jsignpdf helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 80/100 |
+| production | 57/100 |
+| outlook | 66/100 |
 | adoption | 55/100 |
 | stars | 55/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

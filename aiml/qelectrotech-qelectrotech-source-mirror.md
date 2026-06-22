@@ -1,6 +1,6 @@
 # qelectrotech/qelectrotech-source-mirror
 
-[![Stars](https://img.shields.io/github/stars/qelectrotech/qelectrotech-source-mirror?style=flat-square&color=yellow)](https://github.com/qelectrotech/qelectrotech-source-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/qelectrotech/qelectrotech-source-mirror?style=flat-square&color=blue)](https://github.com/qelectrotech/qelectrotech-source-mirror/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qelectrotech/qelectrotech-source-mirror?style=flat-square&color=yellow)](https://github.com/qelectrotech/qelectrotech-source-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/qelectrotech/qelectrotech-source-mirror?style=flat-square&color=blue)](https://github.com/qelectrotech/qelectrotech-source-mirror/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Main QET repository, Bugtracker: https://qelectrotech.org/bugtracker/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 474 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ qElectroTech (QET) is an open‑source application for creating electrical, elec
 
 ### 中文
 
-qelectrotech/qelectrotech-source-mirror：qelectrotech/qelectrotech-source-mirror helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+qelectrotech/qelectrotech-source-mirror：qelectrotech/qelectrotech-source-mirror helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ qelectrotech/qelectrotech-source-mirror：qelectrotech/qelectrotech-source-mirro
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ qelectrotech/qelectrotech-source-mirror：qelectrotech/qelectrotech-source-mirro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 56/100 |
 | stars | 57/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # google/site-kit-wp
 
-[![Stars](https://img.shields.io/github/stars/google/site-kit-wp?style=flat-square&color=yellow)](https://github.com/google/site-kit-wp/stargazers) [![Forks](https://img.shields.io/github/forks/google/site-kit-wp?style=flat-square&color=blue)](https://github.com/google/site-kit-wp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/site-kit-wp?style=flat-square&color=yellow)](https://github.com/google/site-kit-wp/stargazers) [![Forks](https://img.shields.io/github/forks/google/site-kit-wp?style=flat-square&color=blue)](https://github.com/google/site-kit-wp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 347 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ google/site-kit-wp：google/site-kit-wp may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 51/100 |
 | adoption | 66/100 |
 | stars | 67/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # k4cper-g/agent-ctrl
 
-[![Stars](https://img.shields.io/github/stars/k4cper-g/agent-ctrl?style=flat-square&color=yellow)](https://github.com/k4cper-g/agent-ctrl/stargazers) [![Forks](https://img.shields.io/github/forks/k4cper-g/agent-ctrl?style=flat-square&color=blue)](https://github.com/k4cper-g/agent-ctrl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/k4cper-g/agent-ctrl?style=flat-square&color=yellow)](https://github.com/k4cper-g/agent-ctrl/stargazers) [![Forks](https://img.shields.io/github/forks/k4cper-g/agent-ctrl?style=flat-square&color=blue)](https://github.com/k4cper-g/agent-ctrl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > OS automation CLI for AI agents. Fast native Rust CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ k4cper‑g/agent‑ctrl — это высокопроизводительны�
 
 ### 中文
 
-k4cper-g/agent-ctrl：k4cper-g/agent-ctrl helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+k4cper-g/agent-ctrl：k4cper-g/agent-ctrl helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ k4cper-g/agent-ctrl：k4cper-g/agent-ctrl helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ k4cper-g/agent-ctrl：k4cper-g/agent-ctrl helps add AI capability without starti
 - updated 2026-05-09
 - primary language: Rust
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 41/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 65/100 |
+| production | 48/100 |
+| outlook | 51/100 |
 | adoption | 36/100 |
 | stars | 45/100 |
 | forks | 12/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

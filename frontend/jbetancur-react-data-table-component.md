@@ -1,6 +1,6 @@
 # jbetancur/react-data-table-component
 
-[![Stars](https://img.shields.io/github/stars/jbetancur/react-data-table-component?style=flat-square&color=yellow)](https://github.com/jbetancur/react-data-table-component/stargazers) [![Forks](https://img.shields.io/github/forks/jbetancur/react-data-table-component?style=flat-square&color=blue)](https://github.com/jbetancur/react-data-table-component/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jbetancur/react-data-table-component?style=flat-square&color=yellow)](https://github.com/jbetancur/react-data-table-component/stargazers) [![Forks](https://img.shields.io/github/forks/jbetancur/react-data-table-component?style=flat-square&color=blue)](https://github.com/jbetancur/react-data-table-component/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A responsive table library with built-in sorting, pagination, selection, expandable rows, and customizable styling.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 421 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jbetancur/react-data-table-component：jbetancur/react-data-table-component help
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 70/100 |
 | stars | 71/100 |
 | forks | 66/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # vaadin/web-components
 
-[![Stars](https://img.shields.io/github/stars/vaadin/web-components?style=flat-square&color=yellow)](https://github.com/vaadin/web-components/stargazers) [![Forks](https://img.shields.io/github/forks/vaadin/web-components?style=flat-square&color=blue)](https://github.com/vaadin/web-components/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vaadin/web-components?style=flat-square&color=yellow)](https://github.com/vaadin/web-components/stargazers) [![Forks](https://img.shields.io/github/forks/vaadin/web-components?style=flat-square&color=blue)](https://github.com/vaadin/web-components/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A set of high-quality standards based web components for enterprise web applications. Part of Vaadin 20+
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 562 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ vaadin/web-components：vaadin/web-components helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 56/100 |
 | stars | 59/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

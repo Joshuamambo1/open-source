@@ -1,6 +1,6 @@
 # ucsd-progsys/liquidhaskell
 
-[![Stars](https://img.shields.io/github/stars/ucsd-progsys/liquidhaskell?style=flat-square&color=yellow)](https://github.com/ucsd-progsys/liquidhaskell/stargazers) [![Forks](https://img.shields.io/github/forks/ucsd-progsys/liquidhaskell?style=flat-square&color=blue)](https://github.com/ucsd-progsys/liquidhaskell/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ucsd-progsys/liquidhaskell?style=flat-square&color=yellow)](https://github.com/ucsd-progsys/liquidhaskell/stargazers) [![Forks](https://img.shields.io/github/forks/ucsd-progsys/liquidhaskell?style=flat-square&color=blue)](https://github.com/ucsd-progsys/liquidhaskell/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Liquid Types For Haskell
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ucsd-progsys/liquidhaskell：ucsd-progsys/liquidhaskell helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 63/100 |
 | stars | 66/100 |
 | forks | 55/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

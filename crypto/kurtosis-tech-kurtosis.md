@@ -1,6 +1,6 @@
 # kurtosis-tech/kurtosis
 
-[![Stars](https://img.shields.io/github/stars/kurtosis-tech/kurtosis?style=flat-square&color=yellow)](https://github.com/kurtosis-tech/kurtosis/stargazers) [![Forks](https://img.shields.io/github/forks/kurtosis-tech/kurtosis?style=flat-square&color=blue)](https://github.com/kurtosis-tech/kurtosis/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kurtosis-tech/kurtosis?style=flat-square&color=yellow)](https://github.com/kurtosis-tech/kurtosis/stargazers) [![Forks](https://img.shields.io/github/forks/kurtosis-tech/kurtosis?style=flat-square&color=blue)](https://github.com/kurtosis-tech/kurtosis/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A platform for packaging and launching blockchain infra. Think docker compose for blockchain
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 539 |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Kurtosis — это open‑source платформа для упрощённо
 
 ### 中文
 
-kurtosis-tech/kurtosis：kurtosis-tech/kurtosis helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+kurtosis-tech/kurtosis：kurtosis-tech/kurtosis helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kurtosis-tech/kurtosis：kurtosis-tech/kurtosis helps prototype or inspect block
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ kurtosis-tech/kurtosis：kurtosis-tech/kurtosis helps prototype or inspect block
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 94/100 |
-| production | 77/100 |
-| outlook | 70/100 |
+| production | 63/100 |
+| outlook | 56/100 |
 | adoption | 56/100 |
 | stars | 58/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # smart-mcp-proxy/mcpproxy-go
 
-[![Stars](https://img.shields.io/github/stars/smart-mcp-proxy/mcpproxy-go?style=flat-square&color=yellow)](https://github.com/smart-mcp-proxy/mcpproxy-go/stargazers) [![Forks](https://img.shields.io/github/forks/smart-mcp-proxy/mcpproxy-go?style=flat-square&color=blue)](https://github.com/smart-mcp-proxy/mcpproxy-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smart-mcp-proxy/mcpproxy-go?style=flat-square&color=yellow)](https://github.com/smart-mcp-proxy/mcpproxy-go/stargazers) [![Forks](https://img.shields.io/github/forks/smart-mcp-proxy/mcpproxy-go?style=flat-square&color=blue)](https://github.com/smart-mcp-proxy/mcpproxy-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Supercharge AI Agents, Safely
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ smart-mcp-proxy/mcpproxy-go：smart-mcp-proxy/mcpproxy-go helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 94/100 |
-| production | 75/100 |
-| outlook | 79/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 45/100 |
 | stars | 49/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Tiledesk/tiledesk-dashboard
 
-[![Stars](https://img.shields.io/github/stars/Tiledesk/tiledesk-dashboard?style=flat-square&color=yellow)](https://github.com/Tiledesk/tiledesk-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/Tiledesk/tiledesk-dashboard?style=flat-square&color=blue)](https://github.com/Tiledesk/tiledesk-dashboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tiledesk/tiledesk-dashboard?style=flat-square&color=yellow)](https://github.com/Tiledesk/tiledesk-dashboard/stargazers) [![Forks](https://img.shields.io/github/forks/Tiledesk/tiledesk-dashboard?style=flat-square&color=blue)](https://github.com/Tiledesk/tiledesk-dashboard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Tiledesk is the open source AI agent builder, written in Node.js and Angular. This repository is dedicated to the WebApp dashboard to manage Tiledesk: open-source alternative to Voiceflow, enabling easy creation of advanced LLM-powered Agents with seamless human-in-the-loop (HITL).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Tiledesk/tiledesk-dashboard：Tiledesk/tiledesk-dashboard helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 53/100 |
 | stars | 53/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

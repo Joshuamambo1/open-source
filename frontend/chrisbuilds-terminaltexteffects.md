@@ -1,6 +1,6 @@
 # ChrisBuilds/terminaltexteffects
 
-[![Stars](https://img.shields.io/github/stars/ChrisBuilds/terminaltexteffects?style=flat-square&color=yellow)](https://github.com/ChrisBuilds/terminaltexteffects/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisBuilds/terminaltexteffects?style=flat-square&color=blue)](https://github.com/ChrisBuilds/terminaltexteffects/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChrisBuilds/terminaltexteffects?style=flat-square&color=yellow)](https://github.com/ChrisBuilds/terminaltexteffects/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisBuilds/terminaltexteffects?style=flat-square&color=blue)](https://github.com/ChrisBuilds/terminaltexteffects/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ChrisBuilds/terminaltexteffects：ChrisBuilds/terminaltexteffects helps ship use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 69/100 |
 | stars | 77/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # microsoft/inshellisense
 
-[![Stars](https://img.shields.io/github/stars/microsoft/inshellisense?style=flat-square&color=yellow)](https://github.com/microsoft/inshellisense/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/inshellisense?style=flat-square&color=blue)](https://github.com/microsoft/inshellisense/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/inshellisense?style=flat-square&color=yellow)](https://github.com/microsoft/inshellisense/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/inshellisense?style=flat-square&color=blue)](https://github.com/microsoft/inshellisense/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > IDE style command line auto complete
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Microsoft Inshellisense is an open‑source tool that brings IDE‑like, conte
 
 ### 中文
 
-microsoft/inshellisense：microsoft/inshellisense helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+microsoft/inshellisense：microsoft/inshellisense helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ microsoft/inshellisense：microsoft/inshellisense helps engineers save time in d
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ microsoft/inshellisense：microsoft/inshellisense helps engineers save time in d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 79/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 78/100 |
 | stars | 85/100 |
 | forks | 59/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

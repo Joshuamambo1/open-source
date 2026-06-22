@@ -1,6 +1,6 @@
 # moorcheh-ai/memanto
 
-[![Stars](https://img.shields.io/github/stars/moorcheh-ai/memanto?style=flat-square&color=yellow)](https://github.com/moorcheh-ai/memanto/stargazers) [![Forks](https://img.shields.io/github/forks/moorcheh-ai/memanto?style=flat-square&color=blue)](https://github.com/moorcheh-ai/memanto/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moorcheh-ai/memanto?style=flat-square&color=yellow)](https://github.com/moorcheh-ai/memanto/stargazers) [![Forks](https://img.shields.io/github/forks/moorcheh-ai/memanto?style=flat-square&color=blue)](https://github.com/moorcheh-ai/memanto/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Memory that AI Agents Love!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ moorcheh-ai/memanto：moorcheh-ai/memanto helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 53/100 |
+| outlook | 58/100 |
 | adoption | 35/100 |
 | stars | 35/100 |
 | forks | 36/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

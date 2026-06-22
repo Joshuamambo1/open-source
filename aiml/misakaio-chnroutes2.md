@@ -1,6 +1,6 @@
 # misakaio/chnroutes2
 
-[![Stars](https://img.shields.io/github/stars/misakaio/chnroutes2?style=flat-square&color=yellow)](https://github.com/misakaio/chnroutes2/stargazers) [![Forks](https://img.shields.io/github/forks/misakaio/chnroutes2?style=flat-square&color=blue)](https://github.com/misakaio/chnroutes2/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/misakaio/chnroutes2?style=flat-square&color=yellow)](https://github.com/misakaio/chnroutes2/stargazers) [![Forks](https://img.shields.io/github/forks/misakaio/chnroutes2?style=flat-square&color=blue)](https://github.com/misakaio/chnroutes2/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Better aggregated chnroutes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 843 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ misakaio/chnroutes2 is an open‑source repository that provides an enhanced, ag
 
 ### 中文
 
-misakaio/chnroutes2：misakaio/chnroutes2 helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+misakaio/chnroutes2：misakaio/chnroutes2 helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ misakaio/chnroutes2：misakaio/chnroutes2 helps add AI capability without starti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ misakaio/chnroutes2：misakaio/chnroutes2 helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 47/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

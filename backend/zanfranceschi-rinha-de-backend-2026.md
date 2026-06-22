@@ -1,6 +1,6 @@
 # zanfranceschi/rinha-de-backend-2026
 
-[![Stars](https://img.shields.io/github/stars/zanfranceschi/rinha-de-backend-2026?style=flat-square&color=yellow)](https://github.com/zanfranceschi/rinha-de-backend-2026/stargazers) [![Forks](https://img.shields.io/github/forks/zanfranceschi/rinha-de-backend-2026?style=flat-square&color=blue)](https://github.com/zanfranceschi/rinha-de-backend-2026/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zanfranceschi/rinha-de-backend-2026?style=flat-square&color=yellow)](https://github.com/zanfranceschi/rinha-de-backend-2026/stargazers) [![Forks](https://img.shields.io/github/forks/zanfranceschi/rinha-de-backend-2026?style=flat-square&color=blue)](https://github.com/zanfranceschi/rinha-de-backend-2026/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Rinha de Backend - Quarta Edição: Detecção de Fraude com Busca Vetorial
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 578 |
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | C |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ This open‑source project implements the fourth edition of the “Rinha de Back
 
 ### 中文
 
-zanfranceschi/rinha-de-backend-2026：zanfranceschi/rinha-de-backend-2026 helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+zanfranceschi/rinha-de-backend-2026：zanfranceschi/rinha-de-backend-2026 helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ zanfranceschi/rinha-de-backend-2026：zanfranceschi/rinha-de-backend-2026 helps 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ zanfranceschi/rinha-de-backend-2026：zanfranceschi/rinha-de-backend-2026 helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 61/100 |
+| production | 50/100 |
+| outlook | 47/100 |
 | adoption | 59/100 |
 | stars | 59/100 |
 | forks | 58/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

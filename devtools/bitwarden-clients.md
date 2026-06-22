@@ -1,6 +1,6 @@
 # bitwarden/clients
 
-[![Stars](https://img.shields.io/github/stars/bitwarden/clients?style=flat-square&color=yellow)](https://github.com/bitwarden/clients/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/clients?style=flat-square&color=blue)](https://github.com/bitwarden/clients/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitwarden/clients?style=flat-square&color=yellow)](https://github.com/bitwarden/clients/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/clients?style=flat-square&color=blue)](https://github.com/bitwarden/clients/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Bitwarden client apps (web, browser extension, desktop, and cli).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.8k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ DevTools
 
 ### English
 
-bitwarden/clients: bitwarden/clients helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+bitwarden/clients: bitwarden/clients helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-bitwarden/clients: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+bitwarden/clients: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-bitwarden/clients：bitwarden/clients helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+bitwarden/clients：bitwarden/clients helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bitwarden/clients：bitwarden/clients helps engineers save time in daily develop
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ bitwarden/clients：bitwarden/clients helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 89/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 86/100 |
 | stars | 87/100 |
 | forks | 81/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

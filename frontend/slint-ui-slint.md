@@ -1,6 +1,6 @@
 # slint-ui/slint
 
-[![Stars](https://img.shields.io/github/stars/slint-ui/slint?style=flat-square&color=yellow)](https://github.com/slint-ui/slint/stargazers) [![Forks](https://img.shields.io/github/forks/slint-ui/slint?style=flat-square&color=blue)](https://github.com/slint-ui/slint/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/slint-ui/slint?style=flat-square&color=yellow)](https://github.com/slint-ui/slint/stargazers) [![Forks](https://img.shields.io/github/forks/slint-ui/slint?style=flat-square&color=blue)](https://github.com/slint-ui/slint/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.5k |
 | 🍴 **Forks** | 878 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ slint-ui/slint：slint-ui/slint helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 89/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 62/100 |
+| outlook | 67/100 |
 | adoption | 87/100 |
 | stars | 93/100 |
 | forks | 74/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

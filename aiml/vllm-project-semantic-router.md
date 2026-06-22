@@ -1,6 +1,6 @@
 # vllm-project/semantic-router
 
-[![Stars](https://img.shields.io/github/stars/vllm-project/semantic-router?style=flat-square&color=yellow)](https://github.com/vllm-project/semantic-router/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/semantic-router?style=flat-square&color=blue)](https://github.com/vllm-project/semantic-router/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vllm-project/semantic-router?style=flat-square&color=yellow)](https://github.com/vllm-project/semantic-router/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/semantic-router?style=flat-square&color=blue)](https://github.com/vllm-project/semantic-router/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 659 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Data · DevOps/Infra
 
 ### English
 
-vllm-project/semantic-router: vllm-project/semantic-router helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+vllm-project/semantic-router: vllm-project/semantic-router helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-vllm-project/semantic-router: open-source проект в категориях AI/ML, Data, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+vllm-project/semantic-router: open-source проект в категориях AI/ML, Data, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-vllm-project/semantic-router：vllm-project/semantic-router helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+vllm-project/semantic-router：vllm-project/semantic-router helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ vllm-project/semantic-router：vllm-project/semantic-router helps add AI capabil
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ vllm-project/semantic-router：vllm-project/semantic-router helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 78/100 |
-| production | 77/100 |
-| outlook | 78/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 75/100 |
 | stars | 77/100 |
 | forks | 70/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # vfarcic/dot-ai
 
-[![Stars](https://img.shields.io/github/stars/vfarcic/dot-ai?style=flat-square&color=yellow)](https://github.com/vfarcic/dot-ai/stargazers) [![Forks](https://img.shields.io/github/forks/vfarcic/dot-ai?style=flat-square&color=blue)](https://github.com/vfarcic/dot-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vfarcic/dot-ai?style=flat-square&color=yellow)](https://github.com/vfarcic/dot-ai/stargazers) [![Forks](https://img.shields.io/github/forks/vfarcic/dot-ai?style=flat-square&color=blue)](https://github.com/vfarcic/dot-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Intelligent dual-mode agent for deploying applications to ANY Kubernetes cluster through dynamic discovery and plain English governance
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 317 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ vfarcic/dot-ai：vfarcic/dot-ai helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 48/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 62/100 |
+| production | 55/100 |
+| outlook | 48/100 |
 | adoption | 51/100 |
 | stars | 53/100 |
 | forks | 46/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # syncable-dev/memtrace-public
 
-[![Stars](https://img.shields.io/github/stars/syncable-dev/memtrace-public?style=flat-square&color=yellow)](https://github.com/syncable-dev/memtrace-public/stargazers) [![Forks](https://img.shields.io/github/forks/syncable-dev/memtrace-public?style=flat-square&color=blue)](https://github.com/syncable-dev/memtrace-public/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/syncable-dev/memtrace-public?style=flat-square&color=yellow)](https://github.com/syncable-dev/memtrace-public/stargazers) [![Forks](https://img.shields.io/github/forks/syncable-dev/memtrace-public?style=flat-square&color=blue)](https://github.com/syncable-dev/memtrace-public/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · Hermes · VS Code · Windsurf.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ syncable-dev/memtrace-public：syncable-dev/memtrace-public helps turn isolated 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 78/100 |
+| production | 56/100 |
+| outlook | 64/100 |
 | adoption | 41/100 |
 | stars | 46/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # nhost/nhost
 
-[![Stars](https://img.shields.io/github/stars/nhost/nhost?style=flat-square&color=yellow)](https://github.com/nhost/nhost/stargazers) [![Forks](https://img.shields.io/github/forks/nhost/nhost?style=flat-square&color=blue)](https://github.com/nhost/nhost/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nhost/nhost?style=flat-square&color=yellow)](https://github.com/nhost/nhost/stargazers) [![Forks](https://img.shields.io/github/forks/nhost/nhost?style=flat-square&color=blue)](https://github.com/nhost/nhost/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The Open Source Firebase Alternative with GraphQL.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 571 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · Backend
 
 ### English
 
-nhost/nhost: nhost/nhost helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+nhost/nhost: nhost/nhost helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-nhost/nhost: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+nhost/nhost: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-nhost/nhost：nhost/nhost helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+nhost/nhost：nhost/nhost helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ nhost/nhost：nhost/nhost helps add AI capability without starting from a blank 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ nhost/nhost：nhost/nhost helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 86/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 80/100 |
 | stars | 84/100 |
 | forks | 69/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

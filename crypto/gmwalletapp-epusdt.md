@@ -1,6 +1,6 @@
 # GMWalletApp/epusdt
 
-[![Stars](https://img.shields.io/github/stars/GMWalletApp/epusdt?style=flat-square&color=yellow)](https://github.com/GMWalletApp/epusdt/stargazers) [![Forks](https://img.shields.io/github/forks/GMWalletApp/epusdt?style=flat-square&color=blue)](https://github.com/GMWalletApp/epusdt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GMWalletApp/epusdt?style=flat-square&color=yellow)](https://github.com/GMWalletApp/epusdt/stargazers) [![Forks](https://img.shields.io/github/forks/GMWalletApp/epusdt?style=flat-square&color=blue)](https://github.com/GMWalletApp/epusdt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 开源优雅的跨平台收款网关 Easy Payment USDT——epsdt
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 936 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Crypto · Payments · Backend
 
 ### English
 
-GMWalletApp/epusdt: GMWalletApp/epusdt helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+GMWalletApp/epusdt: GMWalletApp/epusdt helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-GMWalletApp/epusdt: open-source проект в категориях Crypto, Payments, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+GMWalletApp/epusdt: open-source проект в категориях Crypto, Payments, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-GMWalletApp/epusdt：GMWalletApp/epusdt helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+GMWalletApp/epusdt：GMWalletApp/epusdt helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ GMWalletApp/epusdt：GMWalletApp/epusdt helps prototype or inspect blockchain wo
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ GMWalletApp/epusdt：GMWalletApp/epusdt helps prototype or inspect blockchain wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 62/100 |
+| outlook | 64/100 |
 | adoption | 75/100 |
 | stars | 75/100 |
 | forks | 74/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

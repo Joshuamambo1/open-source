@@ -1,6 +1,6 @@
 # DestinyItemManager/DIM
 
-[![Stars](https://img.shields.io/github/stars/DestinyItemManager/DIM?style=flat-square&color=yellow)](https://github.com/DestinyItemManager/DIM/stargazers) [![Forks](https://img.shields.io/github/forks/DestinyItemManager/DIM?style=flat-square&color=blue)](https://github.com/DestinyItemManager/DIM/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DestinyItemManager/DIM?style=flat-square&color=yellow)](https://github.com/DestinyItemManager/DIM/stargazers) [![Forks](https://img.shields.io/github/forks/DestinyItemManager/DIM?style=flat-square&color=blue)](https://github.com/DestinyItemManager/DIM/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Destiny Item Manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 645 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ DestinyItemManager/DIM：DestinyItemManager/DIM helps ship user-facing interface
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 71/100 |
 | stars | 71/100 |
 | forks | 70/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

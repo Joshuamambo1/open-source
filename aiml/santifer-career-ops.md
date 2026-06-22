@@ -1,6 +1,6 @@
 # santifer/career-ops
 
-[![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&color=yellow)](https://github.com/santifer/career-ops/stargazers) [![Forks](https://img.shields.io/github/forks/santifer/career-ops?style=flat-square&color=blue)](https://github.com/santifer/career-ops/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&color=yellow)](https://github.com/santifer/career-ops/stargazers) [![Forks](https://img.shields.io/github/forks/santifer/career-ops?style=flat-square&color=blue)](https://github.com/santifer/career-ops/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43.8k |
 | 🍴 **Forks** | 9.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ santifer / career‑ops is an open‑source, AI‑driven job‑search platfo
 
 ### 中文
 
-santifer/career-ops：santifer/career-ops helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+santifer/career-ops：santifer/career-ops helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ santifer/career-ops：santifer/career-ops helps add AI capability without starti
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ santifer/career-ops：santifer/career-ops helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 94/100 |
+| quality | 84/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 93/100 |
+| production | 66/100 |
+| outlook | 79/100 |
 | adoption | 99/100 |
 | stars | 99/100 |
 | forks | 99/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # HeyPuter/puter
 
-[![Stars](https://img.shields.io/github/stars/HeyPuter/puter?style=flat-square&color=yellow)](https://github.com/HeyPuter/puter/stargazers) [![Forks](https://img.shields.io/github/forks/HeyPuter/puter?style=flat-square&color=blue)](https://github.com/HeyPuter/puter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HeyPuter/puter?style=flat-square&color=yellow)](https://github.com/HeyPuter/puter/stargazers) [![Forks](https://img.shields.io/github/forks/HeyPuter/puter?style=flat-square&color=blue)](https://github.com/HeyPuter/puter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ HeyPuter/puter — это полностью открытая платформ
 
 ### 中文
 
-HeyPuter/puter：HeyPuter/puter helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+HeyPuter/puter：HeyPuter/puter helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ HeyPuter/puter：HeyPuter/puter helps add AI capability without starting from a 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ HeyPuter/puter：HeyPuter/puter helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 93/100 |
+| quality | 83/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 84/100 |
+| production | 63/100 |
+| outlook | 70/100 |
 | adoption | 96/100 |
 | stars | 98/100 |
 | forks | 89/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

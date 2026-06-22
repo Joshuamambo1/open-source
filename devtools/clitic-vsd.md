@@ -1,6 +1,6 @@
 # clitic/vsd
 
-[![Stars](https://img.shields.io/github/stars/clitic/vsd?style=flat-square&color=yellow)](https://github.com/clitic/vsd/stargazers) [![Forks](https://img.shields.io/github/forks/clitic/vsd?style=flat-square&color=blue)](https://github.com/clitic/vsd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clitic/vsd?style=flat-square&color=yellow)](https://github.com/clitic/vsd/stargazers) [![Forks](https://img.shields.io/github/forks/clitic/vsd?style=flat-square&color=blue)](https://github.com/clitic/vsd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Download video streams served over HTTP from websites, DASH (.mpd) and HLS (.m3u8) playlists.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 481 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ clitic/vsd：clitic/vsd helps engineers save time in daily development and revie
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 73/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 53/100 |
 | stars | 57/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

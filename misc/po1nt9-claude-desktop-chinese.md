@@ -1,6 +1,6 @@
 # Po1nt9/Claude-Desktop-Chinese
 
-[![Stars](https://img.shields.io/github/stars/Po1nt9/Claude-Desktop-Chinese?style=flat-square&color=yellow)](https://github.com/Po1nt9/Claude-Desktop-Chinese/stargazers) [![Forks](https://img.shields.io/github/forks/Po1nt9/Claude-Desktop-Chinese?style=flat-square&color=blue)](https://github.com/Po1nt9/Claude-Desktop-Chinese/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Po1nt9/Claude-Desktop-Chinese?style=flat-square&color=yellow)](https://github.com/Po1nt9/Claude-Desktop-Chinese/stargazers) [![Forks](https://img.shields.io/github/forks/Po1nt9/Claude-Desktop-Chinese?style=flat-square&color=blue)](https://github.com/Po1nt9/Claude-Desktop-Chinese/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Desktop 中文汉化补丁 — 聊天/设置/报错/Cowork 全场景覆盖+自定义字体
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ Po1nt9/Claude-Desktop-Chinese：Po1nt9/Claude-Desktop-Chinese may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 48/100 |
 | adoption | 24/100 |
 | stars | 30/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

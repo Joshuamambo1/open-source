@@ -1,6 +1,6 @@
 # 0x5bfa/FluentHub
 
-[![Stars](https://img.shields.io/github/stars/0x5bfa/FluentHub?style=flat-square&color=yellow)](https://github.com/0x5bfa/FluentHub/stargazers) [![Forks](https://img.shields.io/github/forks/0x5bfa/FluentHub?style=flat-square&color=blue)](https://github.com/0x5bfa/FluentHub/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0x5bfa/FluentHub?style=flat-square&color=yellow)](https://github.com/0x5bfa/FluentHub/stargazers) [![Forks](https://img.shields.io/github/forks/0x5bfa/FluentHub?style=flat-square&color=blue)](https://github.com/0x5bfa/FluentHub/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A stylish yet powerful GitHub client for Windows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ FluentHub — это современный клиент GitHub для Windows
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 81/100 |
+| production | 60/100 |
+| outlook | 67/100 |
 | adoption | 60/100 |
 | stars | 66/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

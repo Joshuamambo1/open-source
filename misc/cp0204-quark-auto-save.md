@@ -1,6 +1,6 @@
 # Cp0204/quark-auto-save
 
-[![Stars](https://img.shields.io/github/stars/Cp0204/quark-auto-save?style=flat-square&color=yellow)](https://github.com/Cp0204/quark-auto-save/stargazers) [![Forks](https://img.shields.io/github/forks/Cp0204/quark-auto-save?style=flat-square&color=blue)](https://github.com/Cp0204/quark-auto-save/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cp0204/quark-auto-save?style=flat-square&color=yellow)](https://github.com/Cp0204/quark-auto-save/stargazers) [![Forks](https://img.shields.io/github/forks/Cp0204/quark-auto-save?style=flat-square&color=blue)](https://github.com/Cp0204/quark-auto-save/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 夸克网盘签到、自动转存、命名整理、发推送提醒和刷新媒体库一条龙
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 385 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ Cp0204/quark-auto-save：Cp0204/quark-auto-save may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 64/100 |
+| production | 54/100 |
+| outlook | 50/100 |
 | adoption | 71/100 |
 | stars | 73/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # msrv-tech/AI_agent
 
-[![Stars](https://img.shields.io/github/stars/msrv-tech/AI_agent?style=flat-square&color=yellow)](https://github.com/msrv-tech/AI_agent/stargazers) [![Forks](https://img.shields.io/github/forks/msrv-tech/AI_agent?style=flat-square&color=blue)](https://github.com/msrv-tech/AI_agent/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/msrv-tech/AI_agent?style=flat-square&color=yellow)](https://github.com/msrv-tech/AI_agent/stargazers) [![Forks](https://img.shields.io/github/forks/msrv-tech/AI_agent?style=flat-square&color=blue)](https://github.com/msrv-tech/AI_agent/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > ИИ агент для 1С
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | 1C Enterprise |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI‑агент msrv‑tech/AI_agent — открытый проект, пр
 
 ### 中文
 
-msrv-tech/AI_agent：msrv-tech/AI_agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+msrv-tech/AI_agent：msrv-tech/AI_agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ msrv-tech/AI_agent：msrv-tech/AI_agent helps add AI capability without starting
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,21 +59,21 @@ msrv-tech/AI_agent：msrv-tech/AI_agent helps add AI capability without starting
 - primary language: 1C Enterprise
 - 2 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 43/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 47/100 |
+| outlook | 46/100 |
 | adoption | 33/100 |
 | stars | 36/100 |
 | forks | 25/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

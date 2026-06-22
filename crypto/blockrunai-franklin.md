@@ -1,6 +1,6 @@
 # BlockRunAI/Franklin
 
-[![Stars](https://img.shields.io/github/stars/BlockRunAI/Franklin?style=flat-square&color=yellow)](https://github.com/BlockRunAI/Franklin/stargazers) [![Forks](https://img.shields.io/github/forks/BlockRunAI/Franklin?style=flat-square&color=blue)](https://github.com/BlockRunAI/Franklin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlockRunAI/Franklin?style=flat-square&color=yellow)](https://github.com/BlockRunAI/Franklin/stargazers) [![Forks](https://img.shields.io/github/forks/BlockRunAI/Franklin?style=flat-square&color=blue)](https://github.com/BlockRunAI/Franklin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 564 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ BlockRunAI/Franklin：BlockRunAI/Franklin helps prototype or inspect blockchain 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 73/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 53/100 |
 | stars | 59/100 |
 | forks | 40/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

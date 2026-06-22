@@ -1,6 +1,6 @@
 # auto-novel/auto-novel
 
-[![Stars](https://img.shields.io/github/stars/auto-novel/auto-novel?style=flat-square&color=yellow)](https://github.com/auto-novel/auto-novel/stargazers) [![Forks](https://img.shields.io/github/forks/auto-novel/auto-novel?style=flat-square&color=blue)](https://github.com/auto-novel/auto-novel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/auto-novel/auto-novel?style=flat-square&color=yellow)](https://github.com/auto-novel/auto-novel/stargazers) [![Forks](https://img.shields.io/github/forks/auto-novel/auto-novel?style=flat-square&color=blue)](https://github.com/auto-novel/auto-novel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 轻小说机翻网站，支持网络小说/文库小说/本地小说
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ auto-novel/auto-novel：auto-novel/auto-novel helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 60/100 |
 | stars | 64/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

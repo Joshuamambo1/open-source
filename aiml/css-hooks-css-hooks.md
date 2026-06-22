@@ -1,6 +1,6 @@
 # css-hooks/css-hooks
 
-[![Stars](https://img.shields.io/github/stars/css-hooks/css-hooks?style=flat-square&color=yellow)](https://github.com/css-hooks/css-hooks/stargazers) [![Forks](https://img.shields.io/github/forks/css-hooks/css-hooks?style=flat-square&color=blue)](https://github.com/css-hooks/css-hooks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/css-hooks/css-hooks?style=flat-square&color=yellow)](https://github.com/css-hooks/css-hooks/stargazers) [![Forks](https://img.shields.io/github/forks/css-hooks/css-hooks?style=flat-square&color=blue)](https://github.com/css-hooks/css-hooks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The styling system that gives native inline styles pseudo-classes, media queries, container queries, feature queries, and selector logic.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 604 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ css-hooks/css-hooks：css-hooks/css-hooks helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 45/100 |
 | adoption | 49/100 |
 | stars | 59/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

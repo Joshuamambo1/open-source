@@ -1,6 +1,6 @@
 # awebai/aweb
 
-[![Stars](https://img.shields.io/github/stars/awebai/aweb?style=flat-square&color=yellow)](https://github.com/awebai/aweb/stargazers) [![Forks](https://img.shields.io/github/forks/awebai/aweb?style=flat-square&color=blue)](https://github.com/awebai/aweb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awebai/aweb?style=flat-square&color=yellow)](https://github.com/awebai/aweb/stargazers) [![Forks](https://img.shields.io/github/forks/awebai/aweb?style=flat-square&color=blue)](https://github.com/awebai/aweb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Coordination tools for AI agents: messaging, tasks and file reservations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ aweb — это открытая платформа для координаци
 
 ### 中文
 
-awebai/aweb：awebai/aweb helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+awebai/aweb：awebai/aweb helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ awebai/aweb：awebai/aweb helps add AI capability without starting from a blank 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ awebai/aweb：awebai/aweb helps add AI capability without starting from a blank 
 - updated 2026-05-09
 - primary language: Go
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 49/100 |
+| quality | 39/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 61/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 32/100 |
 | stars | 37/100 |
 | forks | 19/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

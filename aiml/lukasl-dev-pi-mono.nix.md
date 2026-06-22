@@ -1,6 +1,6 @@
 # lukasl-dev/pi-mono.nix
 
-[![Stars](https://img.shields.io/github/stars/lukasl-dev/pi-mono.nix?style=flat-square&color=yellow)](https://github.com/lukasl-dev/pi-mono.nix/stargazers) [![Forks](https://img.shields.io/github/forks/lukasl-dev/pi-mono.nix?style=flat-square&color=blue)](https://github.com/lukasl-dev/pi-mono.nix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lukasl-dev/pi-mono.nix?style=flat-square&color=yellow)](https://github.com/lukasl-dev/pi-mono.nix/stargazers) [![Forks](https://img.shields.io/github/forks/lukasl-dev/pi-mono.nix?style=flat-square&color=blue)](https://github.com/lukasl-dev/pi-mono.nix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Nix flake for pi, a terminal coding agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML
 
 ### 中文
 
-lukasl-dev/pi-mono.nix：lukasl-dev/pi-mono.nix helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+lukasl-dev/pi-mono.nix：lukasl-dev/pi-mono.nix helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ lukasl-dev/pi-mono.nix：lukasl-dev/pi-mono.nix helps add AI capability without 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ lukasl-dev/pi-mono.nix：lukasl-dev/pi-mono.nix helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 46/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 27/100 |
 | stars | 29/100 |
 | forks | 21/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

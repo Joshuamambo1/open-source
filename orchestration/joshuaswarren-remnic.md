@@ -1,6 +1,6 @@
 # joshuaswarren/remnic
 
-[![Stars](https://img.shields.io/github/stars/joshuaswarren/remnic?style=flat-square&color=yellow)](https://github.com/joshuaswarren/remnic/stargazers) [![Forks](https://img.shields.io/github/forks/joshuaswarren/remnic?style=flat-square&color=blue)](https://github.com/joshuaswarren/remnic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joshuaswarren/remnic?style=flat-square&color=yellow)](https://github.com/joshuaswarren/remnic/stargazers) [![Forks](https://img.shields.io/github/forks/joshuaswarren/remnic?style=flat-square&color=blue)](https://github.com/joshuaswarren/remnic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first memory plugin for AI agents including OpenClaw, Hermes, Codex, Claude Code and more. LLM-powered extraction, plain markdown storage, hybrid search via QMD. Gives agents persistent long-term memory across conversations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ joshuaswarren/remnic：joshuaswarren/remnic helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 36/100 |
 | stars | 40/100 |
 | forks | 27/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

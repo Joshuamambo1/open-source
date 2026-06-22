@@ -1,6 +1,6 @@
 # mozilla/application-services
 
-[![Stars](https://img.shields.io/github/stars/mozilla/application-services?style=flat-square&color=yellow)](https://github.com/mozilla/application-services/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/application-services?style=flat-square&color=blue)](https://github.com/mozilla/application-services/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozilla/application-services?style=flat-square&color=yellow)](https://github.com/mozilla/application-services/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/application-services?style=flat-square&color=blue)](https://github.com/mozilla/application-services/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Firefox Application Services
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 664 |
 | 🍴 **Forks** | 260 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ mozilla/application-services：mozilla/application-services may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 60/100 |
 | stars | 60/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

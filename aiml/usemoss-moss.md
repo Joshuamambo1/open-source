@@ -1,6 +1,6 @@
 # usemoss/moss
 
-[![Stars](https://img.shields.io/github/stars/usemoss/moss?style=flat-square&color=yellow)](https://github.com/usemoss/moss/stargazers) [![Forks](https://img.shields.io/github/forks/usemoss/moss?style=flat-square&color=blue)](https://github.com/usemoss/moss/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/usemoss/moss?style=flat-square&color=yellow)](https://github.com/usemoss/moss/stargazers) [![Forks](https://img.shields.io/github/forks/usemoss/moss?style=flat-square&color=blue)](https://github.com/usemoss/moss/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Official Repo of Moss
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ usemoss/moss：usemoss/moss helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 49/100 |
 | stars | 54/100 |
 | forks | 38/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

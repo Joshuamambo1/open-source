@@ -1,6 +1,6 @@
 # ZQuestClassic/ZQuestClassic
 
-[![Stars](https://img.shields.io/github/stars/ZQuestClassic/ZQuestClassic?style=flat-square&color=yellow)](https://github.com/ZQuestClassic/ZQuestClassic/stargazers) [![Forks](https://img.shields.io/github/forks/ZQuestClassic/ZQuestClassic?style=flat-square&color=blue)](https://github.com/ZQuestClassic/ZQuestClassic/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZQuestClassic/ZQuestClassic?style=flat-square&color=yellow)](https://github.com/ZQuestClassic/ZQuestClassic/stargazers) [![Forks](https://img.shields.io/github/forks/ZQuestClassic/ZQuestClassic?style=flat-square&color=blue)](https://github.com/ZQuestClassic/ZQuestClassic/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > ZQuest Classic is a game engine for creating games similar to the original NES Zelda
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 536 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ ZQuestClassic/ZQuestClassic：ZQuestClassic/ZQuestClassic may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

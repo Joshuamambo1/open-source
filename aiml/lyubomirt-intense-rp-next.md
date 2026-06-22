@@ -1,6 +1,6 @@
 # LyubomirT/intense-rp-next
 
-[![Stars](https://img.shields.io/github/stars/LyubomirT/intense-rp-next?style=flat-square&color=yellow)](https://github.com/LyubomirT/intense-rp-next/stargazers) [![Forks](https://img.shields.io/github/forks/LyubomirT/intense-rp-next?style=flat-square&color=blue)](https://github.com/LyubomirT/intense-rp-next/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LyubomirT/intense-rp-next?style=flat-square&color=yellow)](https://github.com/LyubomirT/intense-rp-next/stargazers) [![Forks](https://img.shields.io/github/forks/LyubomirT/intense-rp-next?style=flat-square&color=blue)](https://github.com/LyubomirT/intense-rp-next/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop app + OpenAI-compatible API that proxies LLM web UIs for unofficial integration of LLMs into SillyTavern and other clients.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ LyubomirT/intense-rp-next：LyubomirT/intense-rp-next helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 78/100 |
-| production | 72/100 |
-| outlook | 79/100 |
+| production | 59/100 |
+| outlook | 65/100 |
 | adoption | 42/100 |
 | stars | 46/100 |
 | forks | 33/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

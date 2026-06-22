@@ -1,6 +1,6 @@
 # hongbo-miao/hongbomiao.com
 
-[![Stars](https://img.shields.io/github/stars/hongbo-miao/hongbomiao.com?style=flat-square&color=yellow)](https://github.com/hongbo-miao/hongbomiao.com/stargazers) [![Forks](https://img.shields.io/github/forks/hongbo-miao/hongbomiao.com?style=flat-square&color=blue)](https://github.com/hongbo-miao/hongbomiao.com/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hongbo-miao/hongbomiao.com?style=flat-square&color=yellow)](https://github.com/hongbo-miao/hongbomiao.com/stargazers) [![Forks](https://img.shields.io/github/forks/hongbo-miao/hongbomiao.com?style=flat-square&color=blue)](https://github.com/hongbo-miao/hongbomiao.com/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A personal research and development (R&D) lab that facilitates the sharing of knowledge.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 294 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hongbo-miao/hongbomiao.com：hongbo-miao/hongbomiao.com helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 69/100 |
+| production | 58/100 |
+| outlook | 55/100 |
 | adoption | 50/100 |
 | stars | 53/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # higress-group/higress-console
 
-[![Stars](https://img.shields.io/github/stars/higress-group/higress-console?style=flat-square&color=yellow)](https://github.com/higress-group/higress-console/stargazers) [![Forks](https://img.shields.io/github/forks/higress-group/higress-console?style=flat-square&color=blue)](https://github.com/higress-group/higress-console/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/higress-group/higress-console?style=flat-square&color=yellow)](https://github.com/higress-group/higress-console/stargazers) [![Forks](https://img.shields.io/github/forks/higress-group/higress-console?style=flat-square&color=blue)](https://github.com/higress-group/higress-console/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > higress console
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **higress-console** project provides a web‑based graphical interface for m
 
 ### 中文
 
-higress-group/higress-console：higress-group/higress-console may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+higress-group/higress-console：higress-group/higress-console may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ higress-group/higress-console：higress-group/higress-console may be useful when
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ higress-group/higress-console：higress-group/higress-console may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 50/100 |
 | stars | 48/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

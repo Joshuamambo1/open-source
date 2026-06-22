@@ -1,6 +1,6 @@
 # letta-ai/letta-code
 
-[![Stars](https://img.shields.io/github/stars/letta-ai/letta-code?style=flat-square&color=yellow)](https://github.com/letta-ai/letta-code/stargazers) [![Forks](https://img.shields.io/github/forks/letta-ai/letta-code?style=flat-square&color=blue)](https://github.com/letta-ai/letta-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/letta-ai/letta-code?style=flat-square&color=yellow)](https://github.com/letta-ai/letta-code/stargazers) [![Forks](https://img.shields.io/github/forks/letta-ai/letta-code?style=flat-square&color=blue)](https://github.com/letta-ai/letta-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The memory-first coding agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ letta-ai/letta-code：letta-ai/letta-code helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 69/100 |
 | stars | 72/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

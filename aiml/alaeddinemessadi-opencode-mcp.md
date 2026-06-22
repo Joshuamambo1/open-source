@@ -1,6 +1,6 @@
 # AlaeddineMessadi/opencode-mcp
 
-[![Stars](https://img.shields.io/github/stars/AlaeddineMessadi/opencode-mcp?style=flat-square&color=yellow)](https://github.com/AlaeddineMessadi/opencode-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/AlaeddineMessadi/opencode-mcp?style=flat-square&color=blue)](https://github.com/AlaeddineMessadi/opencode-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlaeddineMessadi/opencode-mcp?style=flat-square&color=yellow)](https://github.com/AlaeddineMessadi/opencode-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/AlaeddineMessadi/opencode-mcp?style=flat-square&color=blue)](https://github.com/AlaeddineMessadi/opencode-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for OpenCode AI — 70 tools, 10 resources, 5 prompts. Use npx opencode-mcp with Claude Desktop, Claude Code, Cursor, Windsurf, or any MCP client.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AlaeddineMessadi/opencode-mcp：AlaeddineMessadi/opencode-mcp helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 64/100 |
+| quality | 54/100 |
 | integration | 94/100 |
-| production | 72/100 |
-| outlook | 76/100 |
+| production | 59/100 |
+| outlook | 62/100 |
 | adoption | 30/100 |
 | stars | 33/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

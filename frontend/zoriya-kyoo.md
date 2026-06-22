@@ -1,6 +1,6 @@
 # zoriya/Kyoo
 
-[![Stars](https://img.shields.io/github/stars/zoriya/Kyoo?style=flat-square&color=yellow)](https://github.com/zoriya/Kyoo/stargazers) [![Forks](https://img.shields.io/github/forks/zoriya/Kyoo?style=flat-square&color=blue)](https://github.com/zoriya/Kyoo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zoriya/Kyoo?style=flat-square&color=yellow)](https://github.com/zoriya/Kyoo/stargazers) [![Forks](https://img.shields.io/github/forks/zoriya/Kyoo?style=flat-square&color=blue)](https://github.com/zoriya/Kyoo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A portable and vast media library solution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Kyoo is an open‑source, cross‑platform media library that lets users organiz
 
 ### 中文
 
-zoriya/Kyoo：zoriya/Kyoo helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+zoriya/Kyoo：zoriya/Kyoo helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ zoriya/Kyoo：zoriya/Kyoo helps ship user-facing interfaces with less custom UI 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ zoriya/Kyoo：zoriya/Kyoo helps ship user-facing interfaces with less custom UI 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 94/100 |
-| production | 78/100 |
-| outlook | 76/100 |
+| production | 65/100 |
+| outlook | 62/100 |
 | adoption | 65/100 |
 | stars | 72/100 |
 | forks | 47/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # jentic/jentic-mini
 
-[![Stars](https://img.shields.io/github/stars/jentic/jentic-mini?style=flat-square&color=yellow)](https://github.com/jentic/jentic-mini/stargazers) [![Forks](https://img.shields.io/github/forks/jentic/jentic-mini?style=flat-square&color=blue)](https://github.com/jentic/jentic-mini/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jentic/jentic-mini?style=flat-square&color=yellow)](https://github.com/jentic/jentic-mini/stargazers) [![Forks](https://img.shields.io/github/forks/jentic/jentic-mini?style=flat-square&color=blue)](https://github.com/jentic/jentic-mini/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted API execution layer that sits between your agent and the outside world. Your agent says what it wants to do. Jentic Mini handles the how — finding the right API, injecting credentials at runtime, and brokering the request
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jentic/jentic-mini：jentic/jentic-mini helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 40/100 |
 | stars | 44/100 |
 | forks | 28/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

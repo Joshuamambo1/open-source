@@ -1,6 +1,6 @@
 # RustCrypto/SSH
 
-[![Stars](https://img.shields.io/github/stars/RustCrypto/SSH?style=flat-square&color=yellow)](https://github.com/RustCrypto/SSH/stargazers) [![Forks](https://img.shields.io/github/forks/RustCrypto/SSH?style=flat-square&color=blue)](https://github.com/RustCrypto/SSH/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RustCrypto/SSH?style=flat-square&color=yellow)](https://github.com/RustCrypto/SSH/stargazers) [![Forks](https://img.shields.io/github/forks/RustCrypto/SSH?style=flat-square&color=blue)](https://github.com/RustCrypto/SSH/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Pure Rust implementation of components of the Secure Shell (SSH) protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 225 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ RustCrypto/SSH — это полностью написанная на Rust б
 
 ### 中文
 
-RustCrypto/SSH：RustCrypto/SSH helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+RustCrypto/SSH：RustCrypto/SSH helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ RustCrypto/SSH：RustCrypto/SSH helps prototype or inspect blockchain workflows 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ RustCrypto/SSH：RustCrypto/SSH helps prototype or inspect blockchain workflows 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 48/100 |
 | stars | 50/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

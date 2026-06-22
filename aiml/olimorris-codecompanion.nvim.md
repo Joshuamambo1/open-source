@@ -1,6 +1,6 @@
 # olimorris/codecompanion.nvim
 
-[![Stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim?style=flat-square&color=yellow)](https://github.com/olimorris/codecompanion.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/olimorris/codecompanion.nvim?style=flat-square&color=blue)](https://github.com/olimorris/codecompanion.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim?style=flat-square&color=yellow)](https://github.com/olimorris/codecompanion.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/olimorris/codecompanion.nvim?style=flat-square&color=blue)](https://github.com/olimorris/codecompanion.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ AI Coding, Vim Style
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 406 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Olimorris / codecompanion.nvim is an open‑source Neovim plugin that brings
 
 ### 中文
 
-olimorris/codecompanion.nvim：olimorris/codecompanion.nvim helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+olimorris/codecompanion.nvim：olimorris/codecompanion.nvim helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ olimorris/codecompanion.nvim：olimorris/codecompanion.nvim helps add AI capabil
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ olimorris/codecompanion.nvim：olimorris/codecompanion.nvim helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 85/100 |
+| quality | 75/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 82/100 |
+| production | 65/100 |
+| outlook | 68/100 |
 | adoption | 77/100 |
 | stars | 81/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

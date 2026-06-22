@@ -1,6 +1,6 @@
 # cloudfoundry/bosh
 
-[![Stars](https://img.shields.io/github/stars/cloudfoundry/bosh?style=flat-square&color=yellow)](https://github.com/cloudfoundry/bosh/stargazers) [![Forks](https://img.shields.io/github/forks/cloudfoundry/bosh?style=flat-square&color=blue)](https://github.com/cloudfoundry/bosh/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudfoundry/bosh?style=flat-square&color=yellow)](https://github.com/cloudfoundry/bosh/stargazers) [![Forks](https://img.shields.io/github/forks/cloudfoundry/bosh?style=flat-square&color=blue)](https://github.com/cloudfoundry/bosh/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 663 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cloudfoundry/bosh：cloudfoundry/bosh helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 71/100 |
 | stars | 71/100 |
 | forks | 71/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

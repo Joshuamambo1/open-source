@@ -1,6 +1,6 @@
 # beyond-all-reason/Beyond-All-Reason
 
-[![Stars](https://img.shields.io/github/stars/beyond-all-reason/Beyond-All-Reason?style=flat-square&color=yellow)](https://github.com/beyond-all-reason/Beyond-All-Reason/stargazers) [![Forks](https://img.shields.io/github/forks/beyond-all-reason/Beyond-All-Reason?style=flat-square&color=blue)](https://github.com/beyond-all-reason/Beyond-All-Reason/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beyond-all-reason/Beyond-All-Reason?style=flat-square&color=yellow)](https://github.com/beyond-all-reason/Beyond-All-Reason/stargazers) [![Forks](https://img.shields.io/github/forks/beyond-all-reason/Beyond-All-Reason?style=flat-square&color=blue)](https://github.com/beyond-all-reason/Beyond-All-Reason/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Main game repository for Beyond All Reason.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 584 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ beyond-all-reason/Beyond-All-Reason：beyond-all-reason/Beyond-All-Reason helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 69/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

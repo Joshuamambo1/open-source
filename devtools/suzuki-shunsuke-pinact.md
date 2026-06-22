@@ -1,6 +1,6 @@
 # suzuki-shunsuke/pinact
 
-[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/pinact?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/pinact/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/pinact?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/pinact/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/pinact?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/pinact/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/pinact?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/pinact/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 967 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ suzuki-shunsuke/pinact：suzuki-shunsuke/pinact helps engineers save time in dai
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 56/100 |
 | stars | 64/100 |
 | forks | 38/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

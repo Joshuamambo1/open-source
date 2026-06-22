@@ -1,6 +1,6 @@
 # OpenTabletDriver/OpenTabletDriver
 
-[![Stars](https://img.shields.io/github/stars/OpenTabletDriver/OpenTabletDriver?style=flat-square&color=yellow)](https://github.com/OpenTabletDriver/OpenTabletDriver/stargazers) [![Forks](https://img.shields.io/github/forks/OpenTabletDriver/OpenTabletDriver?style=flat-square&color=blue)](https://github.com/OpenTabletDriver/OpenTabletDriver/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenTabletDriver/OpenTabletDriver?style=flat-square&color=yellow)](https://github.com/OpenTabletDriver/OpenTabletDriver/stargazers) [![Forks](https://img.shields.io/github/forks/OpenTabletDriver/OpenTabletDriver?style=flat-square&color=blue)](https://github.com/OpenTabletDriver/OpenTabletDriver/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Open source, cross-platform, user-mode tablet driver
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 485 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ OpenTabletDriver/OpenTabletDriver：OpenTabletDriver/OpenTabletDriver may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 67/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

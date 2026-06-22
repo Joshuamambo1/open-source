@@ -1,6 +1,6 @@
 # Qiskit/qiskit
 
-[![Stars](https://img.shields.io/github/stars/Qiskit/qiskit?style=flat-square&color=yellow)](https://github.com/Qiskit/qiskit/stargazers) [![Forks](https://img.shields.io/github/forks/Qiskit/qiskit?style=flat-square&color=blue)](https://github.com/Qiskit/qiskit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Qiskit/qiskit?style=flat-square&color=yellow)](https://github.com/Qiskit/qiskit/stargazers) [![Forks](https://img.shields.io/github/forks/Qiskit/qiskit?style=flat-square&color=blue)](https://github.com/Qiskit/qiskit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Trading · Frontend
 
 ### English
 
-Qiskit/qiskit: Qiskit/qiskit helps research and automate market workflows.. Use it for research trading systems; backtest strategies. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Qiskit/qiskit: Qiskit/qiskit helps research and automate market workflows.. Use it for research trading systems; backtest strategies. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Qiskit/qiskit: open-source проект в категориях Trading, Frontend. Практическое применение: research trading systems; backtest strategies. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Qiskit/qiskit: open-source проект в категориях Trading, Frontend. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Qiskit/qiskit：Qiskit/qiskit helps research and automate market workflows.。适合用于research trading systems、backtest strategies。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Qiskit/qiskit：Qiskit/qiskit helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Qiskit/qiskit：Qiskit/qiskit helps research and automate market workflows.。�
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Qiskit/qiskit：Qiskit/qiskit helps research and automate market workflows.。�
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 88/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 80/100 |
+| production | 63/100 |
+| outlook | 66/100 |
 | adoption | 83/100 |
 | stars | 82/100 |
 | forks | 86/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

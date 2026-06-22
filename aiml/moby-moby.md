@@ -1,6 +1,6 @@
 # moby/moby
 
-[![Stars](https://img.shields.io/github/stars/moby/moby?style=flat-square&color=yellow)](https://github.com/moby/moby/stargazers) [![Forks](https://img.shields.io/github/forks/moby/moby?style=flat-square&color=blue)](https://github.com/moby/moby/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moby/moby?style=flat-square&color=yellow)](https://github.com/moby/moby/stargazers) [![Forks](https://img.shields.io/github/forks/moby/moby?style=flat-square&color=blue)](https://github.com/moby/moby/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 71.5k |
 | 🍴 **Forks** | 18.9k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Moby — это открытый проект, ставящий своей ц�
 
 ### 中文
 
-moby/moby：moby/moby helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+moby/moby：moby/moby helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ moby/moby：moby/moby helps add AI capability without starting from a blank mode
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ moby/moby：moby/moby helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 76/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

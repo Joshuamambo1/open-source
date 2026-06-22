@@ -1,6 +1,6 @@
 # sinavm/SVM
 
-[![Stars](https://img.shields.io/github/stars/sinavm/SVM?style=flat-square&color=yellow)](https://github.com/sinavm/SVM/stargazers) [![Forks](https://img.shields.io/github/forks/sinavm/SVM?style=flat-square&color=blue)](https://github.com/sinavm/SVM/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sinavm/SVM?style=flat-square&color=yellow)](https://github.com/sinavm/SVM/stargazers) [![Forks](https://img.shields.io/github/forks/sinavm/SVM?style=flat-square&color=blue)](https://github.com/sinavm/SVM/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ابزار جمع ‌آوری و تبدیل کانفیگ‌های وی‌پی‌ان به پروتکل‌های مختلف ، توسعه‌یافته توسط سینا
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 385 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sinavm/SVM：sinavm/SVM helps integrate monetization, billing, or PSP flows fast
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 55/100 |
+| outlook | 54/100 |
 | adoption | 48/100 |
 | stars | 55/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

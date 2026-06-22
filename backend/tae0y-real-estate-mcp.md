@@ -1,6 +1,6 @@
 # tae0y/real-estate-mcp
 
-[![Stars](https://img.shields.io/github/stars/tae0y/real-estate-mcp?style=flat-square&color=yellow)](https://github.com/tae0y/real-estate-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tae0y/real-estate-mcp?style=flat-square&color=blue)](https://github.com/tae0y/real-estate-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tae0y/real-estate-mcp?style=flat-square&color=yellow)](https://github.com/tae0y/real-estate-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/tae0y/real-estate-mcp?style=flat-square&color=blue)](https://github.com/tae0y/real-estate-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 🏠 Ask Claude about Korean apartment prices — powered by 국토교통부 open API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tae0y/real-estate-mcp：tae0y/real-estate-mcp helps teams reuse service infrastr
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 78/100 |
-| production | 72/100 |
-| outlook | 72/100 |
+| production | 58/100 |
+| outlook | 58/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

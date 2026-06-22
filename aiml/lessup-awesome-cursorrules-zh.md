@@ -1,6 +1,6 @@
 # LessUp/awesome-cursorrules-zh
 
-[![Stars](https://img.shields.io/github/stars/LessUp/awesome-cursorrules-zh?style=flat-square&color=yellow)](https://github.com/LessUp/awesome-cursorrules-zh/stargazers) [![Forks](https://img.shields.io/github/forks/LessUp/awesome-cursorrules-zh?style=flat-square&color=blue)](https://github.com/LessUp/awesome-cursorrules-zh/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LessUp/awesome-cursorrules-zh?style=flat-square&color=yellow)](https://github.com/LessUp/awesome-cursorrules-zh/stargazers) [![Forks](https://img.shields.io/github/forks/LessUp/awesome-cursorrules-zh?style=flat-square&color=blue)](https://github.com/LessUp/awesome-cursorrules-zh/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 🇨🇳 Cursor AI 编辑器 .cursorrules 规则精选集合 | 132+ 规则 · 32 领域 · 双语站点
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ LessUp/awesome-cursorrules-zh：LessUp/awesome-cursorrules-zh helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 44/100 |
 | stars | 48/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

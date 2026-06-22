@@ -1,6 +1,6 @@
 # alibaba/anolisa
 
-[![Stars](https://img.shields.io/github/stars/alibaba/anolisa?style=flat-square&color=yellow)](https://github.com/alibaba/anolisa/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/anolisa?style=flat-square&color=blue)](https://github.com/alibaba/anolisa/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/anolisa?style=flat-square&color=yellow)](https://github.com/alibaba/anolisa/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/anolisa?style=flat-square&color=blue)](https://github.com/alibaba/anolisa/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > ANOLISA - Agentic Nexus Operating Layer & Interface System Architecture
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 178 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ alibaba/anolisa：alibaba/anolisa helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 46/100 |
 | stars | 48/100 |
 | forks | 41/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

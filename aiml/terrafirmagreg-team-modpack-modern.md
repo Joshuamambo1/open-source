@@ -1,6 +1,6 @@
 # TerraFirmaGreg-Team/Modpack-Modern
 
-[![Stars](https://img.shields.io/github/stars/TerraFirmaGreg-Team/Modpack-Modern?style=flat-square&color=yellow)](https://github.com/TerraFirmaGreg-Team/Modpack-Modern/stargazers) [![Forks](https://img.shields.io/github/forks/TerraFirmaGreg-Team/Modpack-Modern?style=flat-square&color=blue)](https://github.com/TerraFirmaGreg-Team/Modpack-Modern/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TerraFirmaGreg-Team/Modpack-Modern?style=flat-square&color=yellow)](https://github.com/TerraFirmaGreg-Team/Modpack-Modern/stargazers) [![Forks](https://img.shields.io/github/forks/TerraFirmaGreg-Team/Modpack-Modern?style=flat-square&color=blue)](https://github.com/TerraFirmaGreg-Team/Modpack-Modern/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > An innovative modpack that contains GregTech and TerraFirmaCraft on 1.20.x.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 402 |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ TerraFirmaGreg-Team/Modpack-Modern：TerraFirmaGreg-Team/Modpack-Modern helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 56/100 |
 | stars | 55/100 |
 | forks | 58/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

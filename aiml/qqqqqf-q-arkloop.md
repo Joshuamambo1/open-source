@@ -1,6 +1,6 @@
 # qqqqqf-q/Arkloop
 
-[![Stars](https://img.shields.io/github/stars/qqqqqf-q/Arkloop?style=flat-square&color=yellow)](https://github.com/qqqqqf-q/Arkloop/stargazers) [![Forks](https://img.shields.io/github/forks/qqqqqf-q/Arkloop?style=flat-square&color=blue)](https://github.com/qqqqqf-q/Arkloop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qqqqqf-q/Arkloop?style=flat-square&color=yellow)](https://github.com/qqqqqf-q/Arkloop/stargazers) [![Forks](https://img.shields.io/github/forks/qqqqqf-q/Arkloop?style=flat-square&color=blue)](https://github.com/qqqqqf-q/Arkloop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 干净、强大、属于你的 AI Agent 平台  --AI agents, without the clutter.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ qqqqqf-q/Arkloop：qqqqqf-q/Arkloop helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 58/100 |
+| outlook | 61/100 |
 | adoption | 49/100 |
 | stars | 53/100 |
 | forks | 38/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # microsoft/WindowsAppSDK
 
-[![Stars](https://img.shields.io/github/stars/microsoft/WindowsAppSDK?style=flat-square&color=yellow)](https://github.com/microsoft/WindowsAppSDK/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/WindowsAppSDK?style=flat-square&color=blue)](https://github.com/microsoft/WindowsAppSDK/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/WindowsAppSDK?style=flat-square&color=yellow)](https://github.com/microsoft/WindowsAppSDK/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/WindowsAppSDK?style=flat-square&color=blue)](https://github.com/microsoft/WindowsAppSDK/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 436 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Windows App SDK — это открытый набор инструменто�
 
 ### 中文
 
-microsoft/WindowsAppSDK：microsoft/WindowsAppSDK helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+microsoft/WindowsAppSDK：microsoft/WindowsAppSDK helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ microsoft/WindowsAppSDK：microsoft/WindowsAppSDK helps ship user-facing interfa
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ microsoft/WindowsAppSDK：microsoft/WindowsAppSDK helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 62/100 |
+| outlook | 67/100 |
 | adoption | 75/100 |
 | stars | 78/100 |
 | forks | 66/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

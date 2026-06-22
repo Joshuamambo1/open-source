@@ -1,6 +1,6 @@
 # bitcoindevkit/bdk-ffi
 
-[![Stars](https://img.shields.io/github/stars/bitcoindevkit/bdk-ffi?style=flat-square&color=yellow)](https://github.com/bitcoindevkit/bdk-ffi/stargazers) [![Forks](https://img.shields.io/github/forks/bitcoindevkit/bdk-ffi?style=flat-square&color=blue)](https://github.com/bitcoindevkit/bdk-ffi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitcoindevkit/bdk-ffi?style=flat-square&color=yellow)](https://github.com/bitcoindevkit/bdk-ffi/stargazers) [![Forks](https://img.shields.io/github/forks/bitcoindevkit/bdk-ffi?style=flat-square&color=blue)](https://github.com/bitcoindevkit/bdk-ffi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ The bitcoindevkit/bdk-ffi project is an open-source, cross-platform library that
 
 ### 中文
 
-bitcoindevkit/bdk-ffi：bitcoindevkit/bdk-ffi helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bitcoindevkit/bdk-ffi：bitcoindevkit/bdk-ffi helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ bitcoindevkit/bdk-ffi：bitcoindevkit/bdk-ffi helps prototype or inspect blockch
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ bitcoindevkit/bdk-ffi：bitcoindevkit/bdk-ffi helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 18/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 50/100 |
+| outlook | 51/100 |
 | adoption | 45/100 |
 | stars | 45/100 |
 | forks | 46/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

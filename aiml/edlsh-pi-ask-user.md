@@ -1,6 +1,6 @@
 # edlsh/pi-ask-user
 
-[![Stars](https://img.shields.io/github/stars/edlsh/pi-ask-user?style=flat-square&color=yellow)](https://github.com/edlsh/pi-ask-user/stargazers) [![Forks](https://img.shields.io/github/forks/edlsh/pi-ask-user?style=flat-square&color=blue)](https://github.com/edlsh/pi-ask-user/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edlsh/pi-ask-user?style=flat-square&color=yellow)](https://github.com/edlsh/pi-ask-user/stargazers) [![Forks](https://img.shields.io/github/forks/edlsh/pi-ask-user?style=flat-square&color=blue)](https://github.com/edlsh/pi-ask-user/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive decision-gating extension for pi — lets AI agents ask users questions with multiple-choice and freeform answers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ edlsh/pi-ask-user：edlsh/pi-ask-user helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 35/100 |
 | stars | 39/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

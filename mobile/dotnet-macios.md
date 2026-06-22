@@ -1,6 +1,6 @@
 # dotnet/macios
 
-[![Stars](https://img.shields.io/github/stars/dotnet/macios?style=flat-square&color=yellow)](https://github.com/dotnet/macios/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/macios?style=flat-square&color=blue)](https://github.com/dotnet/macios/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/macios?style=flat-square&color=yellow)](https://github.com/dotnet/macios/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/macios?style=flat-square&color=blue)](https://github.com/dotnet/macios/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > .NET for iOS, Mac Catalyst, macOS, and tvOS provide open-source bindings of the Apple SDKs for use with .NET managed languages such as C#
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 565 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ dotnet/macios：dotnet/macios may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 76/100 |
+| production | 59/100 |
+| outlook | 62/100 |
 | adoption | 72/100 |
 | stars | 74/100 |
 | forks | 69/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

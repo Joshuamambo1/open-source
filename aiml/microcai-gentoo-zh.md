@@ -1,6 +1,6 @@
 # microcai/gentoo-zh
 
-[![Stars](https://img.shields.io/github/stars/microcai/gentoo-zh?style=flat-square&color=yellow)](https://github.com/microcai/gentoo-zh/stargazers) [![Forks](https://img.shields.io/github/forks/microcai/gentoo-zh?style=flat-square&color=blue)](https://github.com/microcai/gentoo-zh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microcai/gentoo-zh?style=flat-square&color=yellow)](https://github.com/microcai/gentoo-zh/stargazers) [![Forks](https://img.shields.io/github/forks/microcai/gentoo-zh?style=flat-square&color=blue)](https://github.com/microcai/gentoo-zh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Overlay for Gentoo Users.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 408 |
 | 🍴 **Forks** | 221 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Microcai’s **gentoo-zh** is an open‑source overlay that provides Chinese lan
 
 ### 中文
 
-microcai/gentoo-zh：microcai/gentoo-zh helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+microcai/gentoo-zh：microcai/gentoo-zh helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ microcai/gentoo-zh：microcai/gentoo-zh helps add AI capability without starting
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ microcai/gentoo-zh：microcai/gentoo-zh helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 56/100 |
 | stars | 56/100 |
 | forks | 59/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

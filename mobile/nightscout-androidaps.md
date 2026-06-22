@@ -1,6 +1,6 @@
 # nightscout/AndroidAPS
 
-[![Stars](https://img.shields.io/github/stars/nightscout/AndroidAPS?style=flat-square&color=yellow)](https://github.com/nightscout/AndroidAPS/stargazers) [![Forks](https://img.shields.io/github/forks/nightscout/AndroidAPS?style=flat-square&color=blue)](https://github.com/nightscout/AndroidAPS/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nightscout/AndroidAPS?style=flat-square&color=yellow)](https://github.com/nightscout/AndroidAPS/stargazers) [![Forks](https://img.shields.io/github/forks/nightscout/AndroidAPS?style=flat-square&color=blue)](https://github.com/nightscout/AndroidAPS/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Opensource automated insulin delivery system (closed loop)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ nightscout/AndroidAPS：nightscout/AndroidAPS may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 72/100 |
 | stars | 64/100 |
 | forks | 92/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

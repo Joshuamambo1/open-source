@@ -1,6 +1,6 @@
 # Raphire/Win11Debloat
 
-[![Stars](https://img.shields.io/github/stars/Raphire/Win11Debloat?style=flat-square&color=yellow)](https://github.com/Raphire/Win11Debloat/stargazers) [![Forks](https://img.shields.io/github/forks/Raphire/Win11Debloat?style=flat-square&color=blue)](https://github.com/Raphire/Win11Debloat/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Raphire/Win11Debloat?style=flat-square&color=yellow)](https://github.com/Raphire/Win11Debloat/stargazers) [![Forks](https://img.shields.io/github/forks/Raphire/Win11Debloat?style=flat-square&color=blue)](https://github.com/Raphire/Win11Debloat/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 46k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Raphire/Win11Debloat — это лёгкий PowerShell‑скрипт, поз
 
 ### 中文
 
-Raphire/Win11Debloat：Raphire/Win11Debloat helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Raphire/Win11Debloat：Raphire/Win11Debloat helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Raphire/Win11Debloat：Raphire/Win11Debloat helps engineers save time in daily d
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Raphire/Win11Debloat：Raphire/Win11Debloat helps engineers save time in daily d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 92/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 94/100 |
 | stars | 99/100 |
 | forks | 82/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

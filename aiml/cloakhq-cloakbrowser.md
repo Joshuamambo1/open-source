@@ -1,6 +1,6 @@
 # CloakHQ/CloakBrowser
 
-[![Stars](https://img.shields.io/github/stars/CloakHQ/CloakBrowser?style=flat-square&color=yellow)](https://github.com/CloakHQ/CloakBrowser/stargazers) [![Forks](https://img.shields.io/github/forks/CloakHQ/CloakBrowser?style=flat-square&color=blue)](https://github.com/CloakHQ/CloakBrowser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CloakHQ/CloakBrowser?style=flat-square&color=yellow)](https://github.com/CloakHQ/CloakBrowser/stargazers) [![Forks](https://img.shields.io/github/forks/CloakHQ/CloakBrowser?style=flat-square&color=blue)](https://github.com/CloakHQ/CloakBrowser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CloakHQ/CloakBrowser：CloakHQ/CloakBrowser helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 83/100 |
+| production | 61/100 |
+| outlook | 69/100 |
 | adoption | 67/100 |
 | stars | 71/100 |
 | forks | 56/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

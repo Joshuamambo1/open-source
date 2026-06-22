@@ -1,6 +1,6 @@
 # scummvm/scummvm
 
-[![Stars](https://img.shields.io/github/stars/scummvm/scummvm?style=flat-square&color=yellow)](https://github.com/scummvm/scummvm/stargazers) [![Forks](https://img.shields.io/github/forks/scummvm/scummvm?style=flat-square&color=blue)](https://github.com/scummvm/scummvm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scummvm/scummvm?style=flat-square&color=yellow)](https://github.com/scummvm/scummvm/stargazers) [![Forks](https://img.shields.io/github/forks/scummvm/scummvm?style=flat-square&color=blue)](https://github.com/scummvm/scummvm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ScummVM main repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ scummvm/scummvm：scummvm/scummvm helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 74/100 |
 | stars | 73/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # mantinedev/next-pages-template
 
-[![Stars](https://img.shields.io/github/stars/mantinedev/next-pages-template?style=flat-square&color=yellow)](https://github.com/mantinedev/next-pages-template/stargazers) [![Forks](https://img.shields.io/github/forks/mantinedev/next-pages-template?style=flat-square&color=blue)](https://github.com/mantinedev/next-pages-template/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mantinedev/next-pages-template?style=flat-square&color=yellow)](https://github.com/mantinedev/next-pages-template/stargazers) [![Forks](https://img.shields.io/github/forks/mantinedev/next-pages-template?style=flat-square&color=blue)](https://github.com/mantinedev/next-pages-template/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Mantine + Next.js pages router template
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 510 |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mantinedev/next-pages-template：mantinedev/next-pages-template helps ship user-
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 50/100 |
 | adoption | 57/100 |
 | stars | 58/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # agentscope-ai/OpenJudge
 
-[![Stars](https://img.shields.io/github/stars/agentscope-ai/OpenJudge?style=flat-square&color=yellow)](https://github.com/agentscope-ai/OpenJudge/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/OpenJudge?style=flat-square&color=blue)](https://github.com/agentscope-ai/OpenJudge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentscope-ai/OpenJudge?style=flat-square&color=yellow)](https://github.com/agentscope-ai/OpenJudge/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/OpenJudge?style=flat-square&color=blue)](https://github.com/agentscope-ai/OpenJudge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > OpenJudge: A Unified Framework for Holistic Evaluation and Quality Rewards
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ agentscope-ai/OpenJudge：agentscope-ai/OpenJudge helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 42/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

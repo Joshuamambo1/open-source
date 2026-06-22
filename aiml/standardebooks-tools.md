@@ -1,6 +1,6 @@
 # standardebooks/tools
 
-[![Stars](https://img.shields.io/github/stars/standardebooks/tools?style=flat-square&color=yellow)](https://github.com/standardebooks/tools/stargazers) [![Forks](https://img.shields.io/github/forks/standardebooks/tools?style=flat-square&color=blue)](https://github.com/standardebooks/tools/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/standardebooks/tools?style=flat-square&color=yellow)](https://github.com/standardebooks/tools/stargazers) [![Forks](https://img.shields.io/github/forks/standardebooks/tools?style=flat-square&color=blue)](https://github.com/standardebooks/tools/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The Standard Ebooks toolset for producing our ebook files.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ standardebooks/tools：standardebooks/tools helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 64/100 |
 | stars | 68/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

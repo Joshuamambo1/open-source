@@ -1,6 +1,6 @@
 # buildroot/buildroot
 
-[![Stars](https://img.shields.io/github/stars/buildroot/buildroot?style=flat-square&color=yellow)](https://github.com/buildroot/buildroot/stargazers) [![Forks](https://img.shields.io/github/forks/buildroot/buildroot?style=flat-square&color=blue)](https://github.com/buildroot/buildroot/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buildroot/buildroot?style=flat-square&color=yellow)](https://github.com/buildroot/buildroot/stargazers) [![Forks](https://img.shields.io/github/forks/buildroot/buildroot?style=flat-square&color=blue)](https://github.com/buildroot/buildroot/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at https://gitlab.com/buildroot.org/buildroot/. Do not open issues or file pull requests here.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Makefile |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ buildroot/buildroot：buildroot/buildroot helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 66/100 |
+| production | 53/100 |
+| outlook | 52/100 |
 | adoption | 78/100 |
 | stars | 75/100 |
 | forks | 86/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

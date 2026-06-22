@@ -1,6 +1,6 @@
 # av/harbor
 
-[![Stars](https://img.shields.io/github/stars/av/harbor?style=flat-square&color=yellow)](https://github.com/av/harbor/stargazers) [![Forks](https://img.shields.io/github/forks/av/harbor?style=flat-square&color=blue)](https://github.com/av/harbor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/av/harbor?style=flat-square&color=yellow)](https://github.com/av/harbor/stargazers) [![Forks](https://img.shields.io/github/forks/av/harbor?style=flat-square&color=blue)](https://github.com/av/harbor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ av/harbor is an open‑source tool that instantly spins up a fully pre‑wired L
 
 ### 中文
 
-av/harbor：av/harbor helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+av/harbor：av/harbor helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ av/harbor：av/harbor helps add AI capability without starting from a blank mode
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ av/harbor：av/harbor helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 100/100 |
-| production | 80/100 |
-| outlook | 85/100 |
+| production | 66/100 |
+| outlook | 71/100 |
 | adoption | 69/100 |
 | stars | 74/100 |
 | forks | 58/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

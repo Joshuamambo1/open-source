@@ -1,6 +1,6 @@
 # golangci/golangci-lint
 
-[![Stars](https://img.shields.io/github/stars/golangci/golangci-lint?style=flat-square&color=yellow)](https://github.com/golangci/golangci-lint/stargazers) [![Forks](https://img.shields.io/github/forks/golangci/golangci-lint?style=flat-square&color=blue)](https://github.com/golangci/golangci-lint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/golangci/golangci-lint?style=flat-square&color=yellow)](https://github.com/golangci/golangci-lint/stargazers) [![Forks](https://img.shields.io/github/forks/golangci/golangci-lint?style=flat-square&color=blue)](https://github.com/golangci/golangci-lint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Fast linters runner for Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.9k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ golangci/golangci-lint：golangci/golangci-lint helps engineers save time in dai
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 60/100 |
+| outlook | 61/100 |
 | adoption | 88/100 |
 | stars | 91/100 |
 | forks | 80/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

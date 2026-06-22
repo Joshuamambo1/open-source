@@ -1,6 +1,6 @@
 # CelaDaniel/free-ai-resources-x
 
-[![Stars](https://img.shields.io/github/stars/CelaDaniel/free-ai-resources-x?style=flat-square&color=yellow)](https://github.com/CelaDaniel/free-ai-resources-x/stargazers) [![Forks](https://img.shields.io/github/forks/CelaDaniel/free-ai-resources-x?style=flat-square&color=blue)](https://github.com/CelaDaniel/free-ai-resources-x/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CelaDaniel/free-ai-resources-x?style=flat-square&color=yellow)](https://github.com/CelaDaniel/free-ai-resources-x/stargazers) [![Forks](https://img.shields.io/github/forks/CelaDaniel/free-ai-resources-x?style=flat-square&color=blue)](https://github.com/CelaDaniel/free-ai-resources-x/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 🌟 A curated collection of free, high quality AI tools 🤖, APIs 🔗, datasets 📊, and learning resources 📚 covering machine learning 🧠, deep learning 🧩, generative AI 🎨, NLP 💬, and data science 📈. Designed to help developers 👩‍💻, researchers 🔬, and creators ✨ explore and build with AI faster ⚡.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ CelaDaniel/free-ai-resources-x：CelaDaniel/free-ai-resources-x helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 79/100 |
+| production | 56/100 |
+| outlook | 65/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

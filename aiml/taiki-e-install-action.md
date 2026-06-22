@@ -1,6 +1,6 @@
 # taiki-e/install-action
 
-[![Stars](https://img.shields.io/github/stars/taiki-e/install-action?style=flat-square&color=yellow)](https://github.com/taiki-e/install-action/stargazers) [![Forks](https://img.shields.io/github/forks/taiki-e/install-action?style=flat-square&color=blue)](https://github.com/taiki-e/install-action/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taiki-e/install-action?style=flat-square&color=yellow)](https://github.com/taiki-e/install-action/stargazers) [![Forks](https://img.shields.io/github/forks/taiki-e/install-action?style=flat-square&color=blue)](https://github.com/taiki-e/install-action/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Action for installing development tools (mainly from GitHub Releases).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 492 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML
 
 ### English
 
-taiki-e/install-action: taiki-e/install-action helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+taiki-e/install-action: taiki-e/install-action helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-taiki-e/install-action: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+taiki-e/install-action: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-taiki-e/install-action：taiki-e/install-action helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+taiki-e/install-action：taiki-e/install-action helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ taiki-e/install-action：taiki-e/install-action helps add AI capability without 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ taiki-e/install-action：taiki-e/install-action helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # calf-ai/calfkit-sdk
 
-[![Stars](https://img.shields.io/github/stars/calf-ai/calfkit-sdk?style=flat-square&color=yellow)](https://github.com/calf-ai/calfkit-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/calf-ai/calfkit-sdk?style=flat-square&color=blue)](https://github.com/calf-ai/calfkit-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/calf-ai/calfkit-sdk?style=flat-square&color=yellow)](https://github.com/calf-ai/calfkit-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/calf-ai/calfkit-sdk?style=flat-square&color=blue)](https://github.com/calf-ai/calfkit-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 🐮 The SDK to build AI agents as distributed, orchestratable microservices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ calf-ai/calfkit-sdk：calf-ai/calfkit-sdk helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 78/100 |
+| production | 56/100 |
+| outlook | 64/100 |
 | adoption | 38/100 |
 | stars | 44/100 |
 | forks | 23/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

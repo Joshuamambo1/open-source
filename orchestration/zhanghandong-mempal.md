@@ -1,6 +1,6 @@
 # ZhangHanDong/mempal
 
-[![Stars](https://img.shields.io/github/stars/ZhangHanDong/mempal?style=flat-square&color=yellow)](https://github.com/ZhangHanDong/mempal/stargazers) [![Forks](https://img.shields.io/github/forks/ZhangHanDong/mempal?style=flat-square&color=blue)](https://github.com/ZhangHanDong/mempal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZhangHanDong/mempal?style=flat-square&color=yellow)](https://github.com/ZhangHanDong/mempal/stargazers) [![Forks](https://img.shields.io/github/forks/ZhangHanDong/mempal?style=flat-square&color=blue)](https://github.com/ZhangHanDong/mempal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent Memory
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ZhangHanDong/mempal — это открытая библиотека для о
 
 ### 中文
 
-ZhangHanDong/mempal：ZhangHanDong/mempal helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ZhangHanDong/mempal：ZhangHanDong/mempal helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ZhangHanDong/mempal：ZhangHanDong/mempal helps turn isolated prompts and tools 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ZhangHanDong/mempal：ZhangHanDong/mempal helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 42/100 |
 | stars | 46/100 |
 | forks | 31/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

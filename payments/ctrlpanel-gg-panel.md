@@ -1,6 +1,6 @@
 # Ctrlpanel-gg/panel
 
-[![Stars](https://img.shields.io/github/stars/Ctrlpanel-gg/panel?style=flat-square&color=yellow)](https://github.com/Ctrlpanel-gg/panel/stargazers) [![Forks](https://img.shields.io/github/forks/Ctrlpanel-gg/panel?style=flat-square&color=blue)](https://github.com/Ctrlpanel-gg/panel/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ctrlpanel-gg/panel?style=flat-square&color=yellow)](https://github.com/Ctrlpanel-gg/panel/stargazers) [![Forks](https://img.shields.io/github/forks/Ctrlpanel-gg/panel?style=flat-square&color=blue)](https://github.com/Ctrlpanel-gg/panel/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Free, easy-to-use billing solution for hosting providers with seamless Pterodactyl Panel integration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 502 |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Ctrlpanel-gg/panel：Ctrlpanel-gg/panel helps integrate monetization, billing, o
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 57/100 |
 | stars | 57/100 |
 | forks | 56/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # emretasss/AI-Workflow-Hub-2000-
 
-[![Stars](https://img.shields.io/github/stars/emretasss/AI-Workflow-Hub-2000-?style=flat-square&color=yellow)](https://github.com/emretasss/AI-Workflow-Hub-2000-/stargazers) [![Forks](https://img.shields.io/github/forks/emretasss/AI-Workflow-Hub-2000-?style=flat-square&color=blue)](https://github.com/emretasss/AI-Workflow-Hub-2000-/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emretasss/AI-Workflow-Hub-2000-?style=flat-square&color=yellow)](https://github.com/emretasss/AI-Workflow-Hub-2000-/stargazers) [![Forks](https://img.shields.io/github/forks/emretasss/AI-Workflow-Hub-2000-?style=flat-square&color=blue)](https://github.com/emretasss/AI-Workflow-Hub-2000-/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 2000+ free N8N AI automation workflows. Discover, copy and use in your projects.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 246 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ emretasss/AI-Workflow-Hub-2000-：emretasss/AI-Workflow-Hub-2000- helps turn iso
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 80/100 |
+| production | 56/100 |
+| outlook | 66/100 |
 | adoption | 49/100 |
 | stars | 51/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

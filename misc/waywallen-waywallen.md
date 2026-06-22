@@ -1,6 +1,6 @@
 # waywallen/waywallen
 
-[![Stars](https://img.shields.io/github/stars/waywallen/waywallen?style=flat-square&color=yellow)](https://github.com/waywallen/waywallen/stargazers) [![Forks](https://img.shields.io/github/forks/waywallen/waywallen?style=flat-square&color=blue)](https://github.com/waywallen/waywallen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/waywallen/waywallen?style=flat-square&color=yellow)](https://github.com/waywallen/waywallen/stargazers) [![Forks](https://img.shields.io/github/forks/waywallen/waywallen?style=flat-square&color=blue)](https://github.com/waywallen/waywallen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Wallpaper Manager for Linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Waywallen – это лёгкий и полностью открытый мен�
 
 ### 中文
 
-waywallen/waywallen：waywallen/waywallen may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+waywallen/waywallen：waywallen/waywallen may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ waywallen/waywallen：waywallen/waywallen may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -56,21 +56,21 @@ waywallen/waywallen：waywallen/waywallen may be useful when its README and acti
 - updated 2026-05-10
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 42/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 56/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 38/100 |
 | stars | 46/100 |
 | forks | 19/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

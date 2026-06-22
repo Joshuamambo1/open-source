@@ -1,6 +1,6 @@
 # blacklanternsecurity/bbot
 
-[![Stars](https://img.shields.io/github/stars/blacklanternsecurity/bbot?style=flat-square&color=yellow)](https://github.com/blacklanternsecurity/bbot/stargazers) [![Forks](https://img.shields.io/github/forks/blacklanternsecurity/bbot?style=flat-square&color=blue)](https://github.com/blacklanternsecurity/bbot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blacklanternsecurity/bbot?style=flat-square&color=yellow)](https://github.com/blacklanternsecurity/bbot/stargazers) [![Forks](https://img.shields.io/github/forks/blacklanternsecurity/bbot?style=flat-square&color=blue)](https://github.com/blacklanternsecurity/bbot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > The recursive internet scanner for hackers. 🧡
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 803 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ blacklanternsecurity/bbot is an open‑source, recursive internet scanner design
 
 ### 中文
 
-blacklanternsecurity/bbot：blacklanternsecurity/bbot helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+blacklanternsecurity/bbot：blacklanternsecurity/bbot helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ blacklanternsecurity/bbot：blacklanternsecurity/bbot helps add AI capability wi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ blacklanternsecurity/bbot：blacklanternsecurity/bbot helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 87/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 86/100 |
+| production | 63/100 |
+| outlook | 72/100 |
 | adoption | 81/100 |
 | stars | 85/100 |
 | forks | 73/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

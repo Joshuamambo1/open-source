@@ -1,6 +1,6 @@
 # BRL-CAD/brlcad
 
-[![Stars](https://img.shields.io/github/stars/BRL-CAD/brlcad?style=flat-square&color=yellow)](https://github.com/BRL-CAD/brlcad/stargazers) [![Forks](https://img.shields.io/github/forks/BRL-CAD/brlcad?style=flat-square&color=blue)](https://github.com/BRL-CAD/brlcad/network) [![Language](https://img.shields.io/badge/lang-Tcl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BRL-CAD/brlcad?style=flat-square&color=yellow)](https://github.com/BRL-CAD/brlcad/stargazers) [![Forks](https://img.shields.io/github/forks/BRL-CAD/brlcad?style=flat-square&color=blue)](https://github.com/BRL-CAD/brlcad/network) [![Language](https://img.shields.io/badge/lang-Tcl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > BRL-CAD is a powerful cross-platform open source combinatorial solid modeling system
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 975 |
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Tcl |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ BRL-CAD/brlcad：BRL-CAD/brlcad may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 63/100 |
+| production | 51/100 |
+| outlook | 49/100 |
 | adoption | 62/100 |
 | stars | 64/100 |
 | forks | 59/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

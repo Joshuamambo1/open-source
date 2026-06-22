@@ -1,6 +1,6 @@
 # IntensiveCoLearning/GoogleAIAgent25Days
 
-[![Stars](https://img.shields.io/github/stars/IntensiveCoLearning/GoogleAIAgent25Days?style=flat-square&color=yellow)](https://github.com/IntensiveCoLearning/GoogleAIAgent25Days/stargazers) [![Forks](https://img.shields.io/github/forks/IntensiveCoLearning/GoogleAIAgent25Days?style=flat-square&color=blue)](https://github.com/IntensiveCoLearning/GoogleAIAgent25Days/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IntensiveCoLearning/GoogleAIAgent25Days?style=flat-square&color=yellow)](https://github.com/IntensiveCoLearning/GoogleAIAgent25Days/stargazers) [![Forks](https://img.shields.io/github/forks/IntensiveCoLearning/GoogleAIAgent25Days?style=flat-square&color=blue)](https://github.com/IntensiveCoLearning/GoogleAIAgent25Days/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Google 25天AI Agent课程
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ IntensiveCoLearning/GoogleAIAgent25Days — это открытый репоз
 
 ### 中文
 
-IntensiveCoLearning/GoogleAIAgent25Days：IntensiveCoLearning/GoogleAIAgent25Days helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+IntensiveCoLearning/GoogleAIAgent25Days：IntensiveCoLearning/GoogleAIAgent25Days helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ IntensiveCoLearning/GoogleAIAgent25Days：IntensiveCoLearning/GoogleAIAgent25Day
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ IntensiveCoLearning/GoogleAIAgent25Days：IntensiveCoLearning/GoogleAIAgent25Day
 - updated 2026-05-10
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 47/100 |
+| quality | 37/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 56/100 |
+| production | 49/100 |
+| outlook | 42/100 |
 | adoption | 26/100 |
 | stars | 33/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

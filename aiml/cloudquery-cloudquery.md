@@ -1,6 +1,6 @@
 # cloudquery/cloudquery
 
-[![Stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=flat-square&color=yellow)](https://github.com/cloudquery/cloudquery/stargazers) [![Forks](https://img.shields.io/github/forks/cloudquery/cloudquery?style=flat-square&color=blue)](https://github.com/cloudquery/cloudquery/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=flat-square&color=yellow)](https://github.com/cloudquery/cloudquery/stargazers) [![Forks](https://img.shields.io/github/forks/cloudquery/cloudquery?style=flat-square&color=blue)](https://github.com/cloudquery/cloudquery/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 544 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CloudQuery — это open‑source платформа для построен
 
 ### 中文
 
-cloudquery/cloudquery：cloudquery/cloudquery helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+cloudquery/cloudquery：cloudquery/cloudquery helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ cloudquery/cloudquery：cloudquery/cloudquery helps add AI capability without st
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ cloudquery/cloudquery：cloudquery/cloudquery helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 85/100 |
+| quality | 75/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 85/100 |
+| production | 65/100 |
+| outlook | 71/100 |
 | adoption | 77/100 |
 | stars | 81/100 |
 | forks | 68/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

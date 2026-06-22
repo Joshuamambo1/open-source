@@ -1,6 +1,6 @@
 # clockworklabs/SpacetimeDB
 
-[![Stars](https://img.shields.io/github/stars/clockworklabs/SpacetimeDB?style=flat-square&color=yellow)](https://github.com/clockworklabs/SpacetimeDB/stargazers) [![Forks](https://img.shields.io/github/forks/clockworklabs/SpacetimeDB?style=flat-square&color=blue)](https://github.com/clockworklabs/SpacetimeDB/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clockworklabs/SpacetimeDB?style=flat-square&color=yellow)](https://github.com/clockworklabs/SpacetimeDB/stargazers) [![Forks](https://img.shields.io/github/forks/clockworklabs/SpacetimeDB?style=flat-square&color=blue)](https://github.com/clockworklabs/SpacetimeDB/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Development at the speed of light
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24.6k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ clockworklabs/SpacetimeDB：clockworklabs/SpacetimeDB helps teams reuse service 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 90/100 |
+| quality | 80/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 82/100 |
+| production | 60/100 |
+| outlook | 68/100 |
 | adoption | 88/100 |
 | stars | 93/100 |
 | forks | 75/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

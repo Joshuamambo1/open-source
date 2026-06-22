@@ -1,6 +1,6 @@
 # AnandChowdhary/continuous-claude
 
-[![Stars](https://img.shields.io/github/stars/AnandChowdhary/continuous-claude?style=flat-square&color=yellow)](https://github.com/AnandChowdhary/continuous-claude/stargazers) [![Forks](https://img.shields.io/github/forks/AnandChowdhary/continuous-claude?style=flat-square&color=blue)](https://github.com/AnandChowdhary/continuous-claude/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnandChowdhary/continuous-claude?style=flat-square&color=yellow)](https://github.com/AnandChowdhary/continuous-claude/stargazers) [![Forks](https://img.shields.io/github/forks/AnandChowdhary/continuous-claude?style=flat-square&color=blue)](https://github.com/AnandChowdhary/continuous-claude/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AnandChowdhary/continuous-claude：AnandChowdhary/continuous-claude helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 71/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 62/100 |
 | stars | 66/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

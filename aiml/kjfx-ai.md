@@ -1,6 +1,6 @@
 # kjfx/AI
 
-[![Stars](https://img.shields.io/github/stars/kjfx/AI?style=flat-square&color=yellow)](https://github.com/kjfx/AI/stargazers) [![Forks](https://img.shields.io/github/forks/kjfx/AI?style=flat-square&color=blue)](https://github.com/kjfx/AI/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kjfx/AI?style=flat-square&color=yellow)](https://github.com/kjfx/AI/stargazers) [![Forks](https://img.shields.io/github/forks/kjfx/AI?style=flat-square&color=blue)](https://github.com/kjfx/AI/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code 零基础入门教程，claude code 大陆如何使用教程
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **kjfx/AI** repository provides a beginner‑friendly tutorial for using Cla
 
 ### 中文
 
-kjfx/AI：kjfx/AI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kjfx/AI：kjfx/AI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kjfx/AI：kjfx/AI helps add AI capability without starting from a blank model st
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ kjfx/AI：kjfx/AI helps add AI capability without starting from a blank model st
 - updated 2026-05-09
 - 3 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 43/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 57/100 |
+| production | 47/100 |
+| outlook | 43/100 |
 | adoption | 28/100 |
 | stars | 31/100 |
 | forks | 21/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

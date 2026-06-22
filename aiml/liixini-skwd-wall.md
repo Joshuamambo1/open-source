@@ -1,6 +1,6 @@
 # liixini/skwd-wall
 
-[![Stars](https://img.shields.io/github/stars/liixini/skwd-wall?style=flat-square&color=yellow)](https://github.com/liixini/skwd-wall/stargazers) [![Forks](https://img.shields.io/github/forks/liixini/skwd-wall?style=flat-square&color=blue)](https://github.com/liixini/skwd-wall/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liixini/skwd-wall?style=flat-square&color=yellow)](https://github.com/liixini/skwd-wall/stargazers) [![Forks](https://img.shields.io/github/forks/liixini/skwd-wall?style=flat-square&color=blue)](https://github.com/liixini/skwd-wall/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc & Steam browser because why not.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 388 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | QML |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ liixini/skwd-wall is a visually‑focused wallpaper manager that lets users choo
 
 ### 中文
 
-liixini/skwd-wall：liixini/skwd-wall helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+liixini/skwd-wall：liixini/skwd-wall helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ liixini/skwd-wall：liixini/skwd-wall helps add AI capability without starting f
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ liixini/skwd-wall：liixini/skwd-wall helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 47/100 |
 | stars | 55/100 |
 | forks | 27/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

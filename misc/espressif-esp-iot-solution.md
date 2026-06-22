@@ -1,6 +1,6 @@
 # espressif/esp-iot-solution
 
-[![Stars](https://img.shields.io/github/stars/espressif/esp-iot-solution?style=flat-square&color=yellow)](https://github.com/espressif/esp-iot-solution/stargazers) [![Forks](https://img.shields.io/github/forks/espressif/esp-iot-solution?style=flat-square&color=blue)](https://github.com/espressif/esp-iot-solution/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/espressif/esp-iot-solution?style=flat-square&color=yellow)](https://github.com/espressif/esp-iot-solution/stargazers) [![Forks](https://img.shields.io/github/forks/espressif/esp-iot-solution?style=flat-square&color=blue)](https://github.com/espressif/esp-iot-solution/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 979 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ espressif/esp-iot-solution：espressif/esp-iot-solution may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 73/100 |
 | stars | 73/100 |
 | forks | 75/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

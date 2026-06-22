@@ -1,6 +1,6 @@
 # daangn/stackflow
 
-[![Stars](https://img.shields.io/github/stars/daangn/stackflow?style=flat-square&color=yellow)](https://github.com/daangn/stackflow/stargazers) [![Forks](https://img.shields.io/github/forks/daangn/stackflow?style=flat-square&color=blue)](https://github.com/daangn/stackflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daangn/stackflow?style=flat-square&color=yellow)](https://github.com/daangn/stackflow/stargazers) [![Forks](https://img.shields.io/github/forks/daangn/stackflow?style=flat-square&color=blue)](https://github.com/daangn/stackflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🧱 Mobile-first stack navigator framework with composable plugin system
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ daangn/stackflow：daangn/stackflow helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 60/100 |
+| outlook | 61/100 |
 | adoption | 60/100 |
 | stars | 64/100 |
 | forks | 52/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

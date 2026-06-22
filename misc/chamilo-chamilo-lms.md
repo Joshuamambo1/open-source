@@ -1,6 +1,6 @@
 # chamilo/chamilo-lms
 
-[![Stars](https://img.shields.io/github/stars/chamilo/chamilo-lms?style=flat-square&color=yellow)](https://github.com/chamilo/chamilo-lms/stargazers) [![Forks](https://img.shields.io/github/forks/chamilo/chamilo-lms?style=flat-square&color=blue)](https://github.com/chamilo/chamilo-lms/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chamilo/chamilo-lms?style=flat-square&color=yellow)](https://github.com/chamilo/chamilo-lms/stargazers) [![Forks](https://img.shields.io/github/forks/chamilo/chamilo-lms?style=flat-square&color=blue)](https://github.com/chamilo/chamilo-lms/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Chamilo is a learning management system focused on ease of use and accessibility
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 949 |
 | 🍴 **Forks** | 546 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ chamilo/chamilo-lms：chamilo/chamilo-lms may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 65/100 |
 | stars | 63/100 |
 | forks | 68/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

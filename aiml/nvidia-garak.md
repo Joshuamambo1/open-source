@@ -1,6 +1,6 @@
 # NVIDIA/garak
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/garak?style=flat-square&color=yellow)](https://github.com/NVIDIA/garak/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/garak?style=flat-square&color=blue)](https://github.com/NVIDIA/garak/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/garak?style=flat-square&color=yellow)](https://github.com/NVIDIA/garak/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/garak?style=flat-square&color=blue)](https://github.com/NVIDIA/garak/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > the LLM vulnerability scanner
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 927 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ NVIDIA/garak：NVIDIA/garak helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 59/100 |
+| outlook | 59/100 |
 | adoption | 80/100 |
 | stars | 83/100 |
 | forks | 74/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

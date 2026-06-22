@@ -1,6 +1,6 @@
 # apache/cayenne
 
-[![Stars](https://img.shields.io/github/stars/apache/cayenne?style=flat-square&color=yellow)](https://github.com/apache/cayenne/stargazers) [![Forks](https://img.shields.io/github/forks/apache/cayenne?style=flat-square&color=blue)](https://github.com/apache/cayenne/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/cayenne?style=flat-square&color=yellow)](https://github.com/apache/cayenne/stargazers) [![Forks](https://img.shields.io/github/forks/apache/cayenne?style=flat-square&color=blue)](https://github.com/apache/cayenne/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of Apache Cayenne
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apache/cayenne：apache/cayenne helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 54/100 |
 | stars | 54/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

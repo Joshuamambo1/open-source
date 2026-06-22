@@ -1,6 +1,6 @@
 # sno-ai/mda
 
-[![Stars](https://img.shields.io/github/stars/sno-ai/mda?style=flat-square&color=yellow)](https://github.com/sno-ai/mda/stargazers) [![Forks](https://img.shields.io/github/forks/sno-ai/mda?style=flat-square&color=blue)](https://github.com/sno-ai/mda/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sno-ai/mda?style=flat-square&color=yellow)](https://github.com/sno-ai/mda/stargazers) [![Forks](https://img.shields.io/github/forks/sno-ai/mda?style=flat-square&color=blue)](https://github.com/sno-ai/mda/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MDA: Markdown for Agent. A next-generation markdown extension designed specifically for AI systems. MDAenhances standard markdown with structured metadata, embedded AI instructions, and explicit document relationships, creating a seamless bridge between human-readable content and LLM/Agent processing. SKILL, MEMORY.md compatible
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 552 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sno-ai/mda：sno-ai/mda helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 49/100 |
 | stars | 58/100 |
 | forks | 25/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

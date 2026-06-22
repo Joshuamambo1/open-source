@@ -1,6 +1,6 @@
 # Dataojitori/nocturne_memory
 
-[![Stars](https://img.shields.io/github/stars/Dataojitori/nocturne_memory?style=flat-square&color=yellow)](https://github.com/Dataojitori/nocturne_memory/stargazers) [![Forks](https://img.shields.io/github/forks/Dataojitori/nocturne_memory?style=flat-square&color=blue)](https://github.com/Dataojitori/nocturne_memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dataojitori/nocturne_memory?style=flat-square&color=yellow)](https://github.com/Dataojitori/nocturne_memory/stargazers) [![Forks](https://img.shields.io/github/forks/Dataojitori/nocturne_memory?style=flat-square&color=blue)](https://github.com/Dataojitori/nocturne_memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, rollbackable, and visual Long-Term Memory Server for MCP Agents. Say goodbye to Vector RAG and amnesia. Empower your AI with persistent, graph-like structured memory across any model, session, or tool. Drop-in replacement for OpenClaw.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Dataojitori/nocturne_memory — это лёгкий сервер долгов�
 
 ### 中文
 
-Dataojitori/nocturne_memory：Dataojitori/nocturne_memory helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Dataojitori/nocturne_memory：Dataojitori/nocturne_memory helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Dataojitori/nocturne_memory：Dataojitori/nocturne_memory helps add AI capabilit
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Dataojitori/nocturne_memory：Dataojitori/nocturne_memory helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 94/100 |
-| production | 77/100 |
-| outlook | 83/100 |
+| production | 64/100 |
+| outlook | 69/100 |
 | adoption | 61/100 |
 | stars | 64/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Lonero-Team/Decentralized-Internet
 
-[![Stars](https://img.shields.io/github/stars/Lonero-Team/Decentralized-Internet?style=flat-square&color=yellow)](https://github.com/Lonero-Team/Decentralized-Internet/stargazers) [![Forks](https://img.shields.io/github/forks/Lonero-Team/Decentralized-Internet?style=flat-square&color=blue)](https://github.com/Lonero-Team/Decentralized-Internet/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lonero-Team/Decentralized-Internet?style=flat-square&color=yellow)](https://github.com/Lonero-Team/Decentralized-Internet/stargazers) [![Forks](https://img.shields.io/github/forks/Lonero-Team/Decentralized-Internet?style=flat-square&color=blue)](https://github.com/Lonero-Team/Decentralized-Internet/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A SDK/library for decentralized web and distributing computing projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 520 |
 | 🍴 **Forks** | 186 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Lonero-Team/Decentralized-Internet：Lonero-Team/Decentralized-Internet helps pr
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 77/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 58/100 |
 | stars | 58/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

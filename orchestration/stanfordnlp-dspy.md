@@ -1,6 +1,6 @@
 # stanfordnlp/dspy
 
-[![Stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square&color=yellow)](https://github.com/stanfordnlp/dspy/stargazers) [![Forks](https://img.shields.io/github/forks/stanfordnlp/dspy?style=flat-square&color=blue)](https://github.com/stanfordnlp/dspy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square&color=yellow)](https://github.com/stanfordnlp/dspy/stargazers) [![Forks](https://img.shields.io/github/forks/stanfordnlp/dspy?style=flat-square&color=blue)](https://github.com/stanfordnlp/dspy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > DSPy: The framework for programming—not prompting—language models
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34.3k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ stanfordnlp/dspy：stanfordnlp/dspy helps turn isolated prompts and tools into r
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 73/100 |
+| production | 57/100 |
+| outlook | 59/100 |
 | adoption | 94/100 |
 | stars | 97/100 |
 | forks | 86/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # forwardemail/forwardemail.net
 
-[![Stars](https://img.shields.io/github/stars/forwardemail/forwardemail.net?style=flat-square&color=yellow)](https://github.com/forwardemail/forwardemail.net/stargazers) [![Forks](https://img.shields.io/github/forks/forwardemail/forwardemail.net?style=flat-square&color=blue)](https://github.com/forwardemail/forwardemail.net/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/forwardemail/forwardemail.net?style=flat-square&color=yellow)](https://github.com/forwardemail/forwardemail.net/stargazers) [![Forks](https://img.shields.io/github/forks/forwardemail/forwardemail.net?style=flat-square&color=blue)](https://github.com/forwardemail/forwardemail.net/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ forwardemail/forwardemail.net：forwardemail/forwardemail.net helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 73/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 65/100 |
 | stars | 68/100 |
 | forks | 58/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

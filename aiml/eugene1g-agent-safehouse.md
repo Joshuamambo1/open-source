@@ -1,6 +1,6 @@
 # eugene1g/agent-safehouse
 
-[![Stars](https://img.shields.io/github/stars/eugene1g/agent-safehouse?style=flat-square&color=yellow)](https://github.com/eugene1g/agent-safehouse/stargazers) [![Forks](https://img.shields.io/github/forks/eugene1g/agent-safehouse?style=flat-square&color=blue)](https://github.com/eugene1g/agent-safehouse/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eugene1g/agent-safehouse?style=flat-square&color=yellow)](https://github.com/eugene1g/agent-safehouse/stargazers) [![Forks](https://img.shields.io/github/forks/eugene1g/agent-safehouse?style=flat-square&color=blue)](https://github.com/eugene1g/agent-safehouse/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Sandbox your local AI agents so they can read/write only what they need
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ eugene1g/agent-safehouse：eugene1g/agent-safehouse helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 73/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 62/100 |
 | stars | 69/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

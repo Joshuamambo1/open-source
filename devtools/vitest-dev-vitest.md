@@ -1,6 +1,6 @@
 # vitest-dev/vitest
 
-[![Stars](https://img.shields.io/github/stars/vitest-dev/vitest?style=flat-square&color=yellow)](https://github.com/vitest-dev/vitest/stargazers) [![Forks](https://img.shields.io/github/forks/vitest-dev/vitest?style=flat-square&color=blue)](https://github.com/vitest-dev/vitest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vitest-dev/vitest?style=flat-square&color=yellow)](https://github.com/vitest-dev/vitest/stargazers) [![Forks](https://img.shields.io/github/forks/vitest-dev/vitest?style=flat-square&color=blue)](https://github.com/vitest-dev/vitest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Next generation testing framework powered by Vite.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.5k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ vitest-dev/vitest：vitest-dev/vitest helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 78/100 |
+| production | 58/100 |
+| outlook | 64/100 |
 | adoption | 87/100 |
 | stars | 90/100 |
 | forks | 81/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

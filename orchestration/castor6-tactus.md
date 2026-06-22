@@ -1,6 +1,6 @@
 # Castor6/tactus
 
-[![Stars](https://img.shields.io/github/stars/Castor6/tactus?style=flat-square&color=yellow)](https://github.com/Castor6/tactus/stargazers) [![Forks](https://img.shields.io/github/forks/Castor6/tactus?style=flat-square&color=blue)](https://github.com/Castor6/tactus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Castor6/tactus?style=flat-square&color=yellow)](https://github.com/Castor6/tactus/stargazers) [![Forks](https://img.shields.io/github/forks/Castor6/tactus?style=flat-square&color=blue)](https://github.com/Castor6/tactus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Castor6/tactus：Castor6/tactus helps turn isolated prompts and tools into repea
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 48/100 |
 | stars | 54/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # NationalSecurityAgency/datawave
 
-[![Stars](https://img.shields.io/github/stars/NationalSecurityAgency/datawave?style=flat-square&color=yellow)](https://github.com/NationalSecurityAgency/datawave/stargazers) [![Forks](https://img.shields.io/github/forks/NationalSecurityAgency/datawave?style=flat-square&color=blue)](https://github.com/NationalSecurityAgency/datawave/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NationalSecurityAgency/datawave?style=flat-square&color=yellow)](https://github.com/NationalSecurityAgency/datawave/stargazers) [![Forks](https://img.shields.io/github/forks/NationalSecurityAgency/datawave?style=flat-square&color=blue)](https://github.com/NationalSecurityAgency/datawave/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > DataWave is an ingest/query framework that leverages Apache Accumulo to provide fast, secure data access.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 685 |
 | 🍴 **Forks** | 281 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ NationalSecurityAgency/datawave：NationalSecurityAgency/datawave helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 72/100 |
+| production | 52/100 |
+| outlook | 58/100 |
 | adoption | 61/100 |
 | stars | 60/100 |
 | forks | 61/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

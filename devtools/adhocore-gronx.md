@@ -1,6 +1,6 @@
 # adhocore/gronx
 
-[![Stars](https://img.shields.io/github/stars/adhocore/gronx?style=flat-square&color=yellow)](https://github.com/adhocore/gronx/stargazers) [![Forks](https://img.shields.io/github/forks/adhocore/gronx?style=flat-square&color=blue)](https://github.com/adhocore/gronx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adhocore/gronx?style=flat-square&color=yellow)](https://github.com/adhocore/gronx/stargazers) [![Forks](https://img.shields.io/github/forks/adhocore/gronx?style=flat-square&color=blue)](https://github.com/adhocore/gronx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight, fast and dependency-free Cron expression parser (due checker, next/prev due date finder), task runner, job scheduler and/or daemon for Golang (tested on v1.13+) and standalone usage. If you are bold, use it to replace crontab entirely.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 505 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ adhocore/gronx：adhocore/gronx helps engineers save time in daily development a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 52/100 |
 | stars | 58/100 |
 | forks | 37/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

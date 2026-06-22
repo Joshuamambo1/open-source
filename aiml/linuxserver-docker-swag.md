@@ -1,6 +1,6 @@
 # linuxserver/docker-swag
 
-[![Stars](https://img.shields.io/github/stars/linuxserver/docker-swag?style=flat-square&color=yellow)](https://github.com/linuxserver/docker-swag/stargazers) [![Forks](https://img.shields.io/github/forks/linuxserver/docker-swag?style=flat-square&color=blue)](https://github.com/linuxserver/docker-swag/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linuxserver/docker-swag?style=flat-square&color=yellow)](https://github.com/linuxserver/docker-swag/stargazers) [![Forks](https://img.shields.io/github/forks/linuxserver/docker-swag?style=flat-square&color=blue)](https://github.com/linuxserver/docker-swag/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ linuxserver/docker-swag：linuxserver/docker-swag helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 57/100 |
+| outlook | 55/100 |
 | adoption | 72/100 |
 | stars | 76/100 |
 | forks | 61/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # inercia/mitto
 
-[![Stars](https://img.shields.io/github/stars/inercia/mitto?style=flat-square&color=yellow)](https://github.com/inercia/mitto/stargazers) [![Forks](https://img.shields.io/github/forks/inercia/mitto?style=flat-square&color=blue)](https://github.com/inercia/mitto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inercia/mitto?style=flat-square&color=yellow)](https://github.com/inercia/mitto/stargazers) [![Forks](https://img.shields.io/github/forks/inercia/mitto?style=flat-square&color=blue)](https://github.com/inercia/mitto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Control you AI coding agents on the go (from Mac, Web, Mobile Phone, etc)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ inercia/mitto：inercia/mitto helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 28/100 |
 | stars | 31/100 |
 | forks | 17/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

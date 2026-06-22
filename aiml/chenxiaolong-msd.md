@@ -1,6 +1,6 @@
 # chenxiaolong/MSD
 
-[![Stars](https://img.shields.io/github/stars/chenxiaolong/MSD?style=flat-square&color=yellow)](https://github.com/chenxiaolong/MSD/stargazers) [![Forks](https://img.shields.io/github/forks/chenxiaolong/MSD?style=flat-square&color=blue)](https://github.com/chenxiaolong/MSD/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chenxiaolong/MSD?style=flat-square&color=yellow)](https://github.com/chenxiaolong/MSD/stargazers) [![Forks](https://img.shields.io/github/forks/chenxiaolong/MSD?style=flat-square&color=blue)](https://github.com/chenxiaolong/MSD/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Android app for emulating mass storage devices over USB
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 227 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML · Mobile
 
 ### 中文
 
-chenxiaolong/MSD：chenxiaolong/MSD helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+chenxiaolong/MSD：chenxiaolong/MSD helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ chenxiaolong/MSD：chenxiaolong/MSD helps add AI capability without starting fro
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ chenxiaolong/MSD：chenxiaolong/MSD helps add AI capability without starting fro
 - updated 2026-05-09
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 44/100 |
 | stars | 50/100 |
 | forks | 28/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

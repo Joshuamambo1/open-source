@@ -1,6 +1,6 @@
 # nuxt-content/docus
 
-[![Stars](https://img.shields.io/github/stars/nuxt-content/docus?style=flat-square&color=yellow)](https://github.com/nuxt-content/docus/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt-content/docus?style=flat-square&color=blue)](https://github.com/nuxt-content/docus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nuxt-content/docus?style=flat-square&color=yellow)](https://github.com/nuxt-content/docus/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt-content/docus?style=flat-square&color=blue)](https://github.com/nuxt-content/docus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Write beautiful documentations with Nuxt and Markdown.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 257 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ nuxt-content/docus：nuxt-content/docus may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 54/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

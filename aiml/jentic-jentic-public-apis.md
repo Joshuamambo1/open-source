@@ -1,6 +1,6 @@
 # jentic/jentic-public-apis
 
-[![Stars](https://img.shields.io/github/stars/jentic/jentic-public-apis?style=flat-square&color=yellow)](https://github.com/jentic/jentic-public-apis/stargazers) [![Forks](https://img.shields.io/github/forks/jentic/jentic-public-apis?style=flat-square&color=blue)](https://github.com/jentic/jentic-public-apis/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jentic/jentic-public-apis?style=flat-square&color=yellow)](https://github.com/jentic/jentic-public-apis/stargazers) [![Forks](https://img.shields.io/github/forks/jentic/jentic-public-apis?style=flat-square&color=blue)](https://github.com/jentic/jentic-public-apis/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The open knowledge layer for AI agents and APIs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ jentic/jentic-public-apis：jentic/jentic-public-apis helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 46/100 |
 | stars | 50/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

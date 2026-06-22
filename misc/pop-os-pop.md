@@ -1,6 +1,6 @@
 # pop-os/pop
 
-[![Stars](https://img.shields.io/github/stars/pop-os/pop?style=flat-square&color=yellow)](https://github.com/pop-os/pop/stargazers) [![Forks](https://img.shields.io/github/forks/pop-os/pop?style=flat-square&color=blue)](https://github.com/pop-os/pop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pop-os/pop?style=flat-square&color=yellow)](https://github.com/pop-os/pop/stargazers) [![Forks](https://img.shields.io/github/forks/pop-os/pop?style=flat-square&color=blue)](https://github.com/pop-os/pop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A project for managing all Pop!_OS sources
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ pop-os/pop：pop-os/pop may be useful when its README and activity match a concr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 63/100 |
+| production | 51/100 |
+| outlook | 49/100 |
 | adoption | 67/100 |
 | stars | 73/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

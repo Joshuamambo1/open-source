@@ -1,6 +1,6 @@
 # harnessclaw/harnessclaw-engine
 
-[![Stars](https://img.shields.io/github/stars/harnessclaw/harnessclaw-engine?style=flat-square&color=yellow)](https://github.com/harnessclaw/harnessclaw-engine/stargazers) [![Forks](https://img.shields.io/github/forks/harnessclaw/harnessclaw-engine?style=flat-square&color=blue)](https://github.com/harnessclaw/harnessclaw-engine/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harnessclaw/harnessclaw-engine?style=flat-square&color=yellow)](https://github.com/harnessclaw/harnessclaw-engine/stargazers) [![Forks](https://img.shields.io/github/forks/harnessclaw/harnessclaw-engine?style=flat-square&color=blue)](https://github.com/harnessclaw/harnessclaw-engine/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An LLM programming assistant engine built with Go, supporting WebSocket, multi-turn dialogues, tool calling, permission control, and skill extension.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ harnessclaw/harnessclaw-engine：harnessclaw/harnessclaw-engine helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

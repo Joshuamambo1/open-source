@@ -1,6 +1,6 @@
 # tkellogg/open-strix
 
-[![Stars](https://img.shields.io/github/stars/tkellogg/open-strix?style=flat-square&color=yellow)](https://github.com/tkellogg/open-strix/stargazers) [![Forks](https://img.shields.io/github/forks/tkellogg/open-strix?style=flat-square&color=blue)](https://github.com/tkellogg/open-strix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tkellogg/open-strix?style=flat-square&color=yellow)](https://github.com/tkellogg/open-strix/stargazers) [![Forks](https://img.shields.io/github/forks/tkellogg/open-strix?style=flat-square&color=blue)](https://github.com/tkellogg/open-strix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Why can't an AI agent harness ship systems thinking as a skill?
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML
 
 ### 中文
 
-tkellogg/open-strix：tkellogg/open-strix helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tkellogg/open-strix：tkellogg/open-strix helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ tkellogg/open-strix：tkellogg/open-strix helps add AI capability without starti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ tkellogg/open-strix：tkellogg/open-strix helps add AI capability without starti
 - updated 2026-05-10
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 41/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 35/100 |
 | stars | 39/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

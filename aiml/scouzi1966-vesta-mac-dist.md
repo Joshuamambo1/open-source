@@ -1,6 +1,6 @@
 # scouzi1966/vesta-mac-dist
 
-[![Stars](https://img.shields.io/github/stars/scouzi1966/vesta-mac-dist?style=flat-square&color=yellow)](https://github.com/scouzi1966/vesta-mac-dist/stargazers) [![Forks](https://img.shields.io/github/forks/scouzi1966/vesta-mac-dist?style=flat-square&color=blue)](https://github.com/scouzi1966/vesta-mac-dist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scouzi1966/vesta-mac-dist?style=flat-square&color=yellow)](https://github.com/scouzi1966/vesta-mac-dist/stargazers) [![Forks](https://img.shields.io/github/forks/scouzi1966/vesta-mac-dist?style=flat-square&color=blue)](https://github.com/scouzi1966/vesta-mac-dist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Vesta macOS Distribution - Official releases and downloads.Vesta AI Chat Assistant for macOS - Built with SwiftUI, Swift MLX  and Apple Intelligence using Apple's on device model on MacOs Tahoe (MacOS 26). Now with side-by-side Qwen3-VL for vison
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ scouzi1966/vesta-mac-dist：scouzi1966/vesta-mac-dist helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 53/100 |
+| outlook | 58/100 |
 | adoption | 36/100 |
 | stars | 41/100 |
 | forks | 23/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

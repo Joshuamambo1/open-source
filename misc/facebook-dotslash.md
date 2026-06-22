@@ -1,6 +1,6 @@
 # facebook/dotslash
 
-[![Stars](https://img.shields.io/github/stars/facebook/dotslash?style=flat-square&color=yellow)](https://github.com/facebook/dotslash/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/dotslash?style=flat-square&color=blue)](https://github.com/facebook/dotslash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/dotslash?style=flat-square&color=yellow)](https://github.com/facebook/dotslash/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/dotslash?style=flat-square&color=blue)](https://github.com/facebook/dotslash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Simplified executable deployment
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 840 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ facebook/dotslash is an open‑source utility that streamlines the deployment an
 
 ### 中文
 
-facebook/dotslash：facebook/dotslash may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+facebook/dotslash：facebook/dotslash may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ facebook/dotslash：facebook/dotslash may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ facebook/dotslash：facebook/dotslash may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 57/100 |
 | stars | 62/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

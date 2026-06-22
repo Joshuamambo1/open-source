@@ -1,6 +1,6 @@
 # EXboys/skilllite
 
-[![Stars](https://img.shields.io/github/stars/EXboys/skilllite?style=flat-square&color=yellow)](https://github.com/EXboys/skilllite/stargazers) [![Forks](https://img.shields.io/github/forks/EXboys/skilllite?style=flat-square&color=blue)](https://github.com/EXboys/skilllite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EXboys/skilllite?style=flat-square&color=yellow)](https://github.com/EXboys/skilllite/stargazers) [![Forks](https://img.shields.io/github/forks/EXboys/skilllite?style=flat-square&color=blue)](https://github.com/EXboys/skilllite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight secure Self-evolution engine built in Rust, featuring a built-in native system-level sandbox, zero dependencies, and fully local execution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ EXboys/skilllite — это лёгкий и полностью безопас�
 
 ### 中文
 
-EXboys/skilllite：EXboys/skilllite helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+EXboys/skilllite：EXboys/skilllite helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ EXboys/skilllite：EXboys/skilllite helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ EXboys/skilllite：EXboys/skilllite helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 66/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 40/100 |
 | stars | 44/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

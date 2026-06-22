@@ -1,6 +1,6 @@
 # cortex-tms/cortex-tms
 
-[![Stars](https://img.shields.io/github/stars/cortex-tms/cortex-tms?style=flat-square&color=yellow)](https://github.com/cortex-tms/cortex-tms/stargazers) [![Forks](https://img.shields.io/github/forks/cortex-tms/cortex-tms?style=flat-square&color=blue)](https://github.com/cortex-tms/cortex-tms/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cortex-tms/cortex-tms?style=flat-square&color=yellow)](https://github.com/cortex-tms/cortex-tms/stargazers) [![Forks](https://img.shields.io/github/forks/cortex-tms/cortex-tms?style=flat-square&color=blue)](https://github.com/cortex-tms/cortex-tms/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The Universal AI-Optimized Project Boilerplate. A Tiered Memory System (TMS) designed to maximize AI agent performance. Includes an interactive CLI tool and a high-signal documentation standard.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cortex-tms/cortex-tms：cortex-tms/cortex-tms helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 78/100 |
+| production | 56/100 |
+| outlook | 64/100 |
 | adoption | 41/100 |
 | stars | 48/100 |
 | forks | 23/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # fujiapple852/trippy
 
-[![Stars](https://img.shields.io/github/stars/fujiapple852/trippy?style=flat-square&color=yellow)](https://github.com/fujiapple852/trippy/stargazers) [![Forks](https://img.shields.io/github/forks/fujiapple852/trippy?style=flat-square&color=blue)](https://github.com/fujiapple852/trippy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fujiapple852/trippy?style=flat-square&color=yellow)](https://github.com/fujiapple852/trippy/stargazers) [![Forks](https://img.shields.io/github/forks/fujiapple852/trippy?style=flat-square&color=blue)](https://github.com/fujiapple852/trippy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A network diagnostic tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.8k |
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ fujiapple852/trippy：fujiapple852/trippy helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 82/100 |
+| production | 60/100 |
+| outlook | 68/100 |
 | adoption | 75/100 |
 | stars | 82/100 |
 | forks | 59/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

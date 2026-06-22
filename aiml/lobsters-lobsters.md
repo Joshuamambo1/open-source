@@ -1,6 +1,6 @@
 # lobsters/lobsters
 
-[![Stars](https://img.shields.io/github/stars/lobsters/lobsters?style=flat-square&color=yellow)](https://github.com/lobsters/lobsters/stargazers) [![Forks](https://img.shields.io/github/forks/lobsters/lobsters?style=flat-square&color=blue)](https://github.com/lobsters/lobsters/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lobsters/lobsters?style=flat-square&color=yellow)](https://github.com/lobsters/lobsters/stargazers) [![Forks](https://img.shields.io/github/forks/lobsters/lobsters?style=flat-square&color=blue)](https://github.com/lobsters/lobsters/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Computing-focused community centered around link aggregation and discussion
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 953 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ lobsters/lobsters：lobsters/lobsters helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 77/100 |
 | stars | 78/100 |
 | forks | 74/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # MemoriLabs/Memori
 
-[![Stars](https://img.shields.io/github/stars/MemoriLabs/Memori?style=flat-square&color=yellow)](https://github.com/MemoriLabs/Memori/stargazers) [![Forks](https://img.shields.io/github/forks/MemoriLabs/Memori?style=flat-square&color=blue)](https://github.com/MemoriLabs/Memori/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MemoriLabs/Memori?style=flat-square&color=yellow)](https://github.com/MemoriLabs/Memori/stargazers) [![Forks](https://img.shields.io/github/forks/MemoriLabs/Memori?style=flat-square&color=blue)](https://github.com/MemoriLabs/Memori/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.1k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Orchestration · AI/ML · DevOps/Infra
 
 ### English
 
-MemoriLabs/Memori: MemoriLabs/Memori helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+MemoriLabs/Memori: MemoriLabs/Memori helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-MemoriLabs/Memori: open-source проект в категориях Orchestration, AI/ML, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+MemoriLabs/Memori: open-source проект в категориях Orchestration, AI/ML, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-MemoriLabs/Memori：MemoriLabs/Memori helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+MemoriLabs/Memori：MemoriLabs/Memori helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ MemoriLabs/Memori：MemoriLabs/Memori helps turn isolated prompts and tools into
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ MemoriLabs/Memori：MemoriLabs/Memori helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 89/100 |
+| quality | 79/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 88/100 |
+| production | 66/100 |
+| outlook | 74/100 |
 | adoption | 87/100 |
 | stars | 88/100 |
 | forks | 82/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

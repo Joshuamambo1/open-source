@@ -1,6 +1,6 @@
 # by-sonic/tglock
 
-[![Stars](https://img.shields.io/github/stars/by-sonic/tglock?style=flat-square&color=yellow)](https://github.com/by-sonic/tglock/stargazers) [![Forks](https://img.shields.io/github/forks/by-sonic/tglock?style=flat-square&color=blue)](https://github.com/by-sonic/tglock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/by-sonic/tglock?style=flat-square&color=yellow)](https://github.com/by-sonic/tglock/stargazers) [![Forks](https://img.shields.io/github/forks/by-sonic/tglock?style=flat-square&color=blue)](https://github.com/by-sonic/tglock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ by‑sonic/tglock — это небольшая утилита с открыт
 
 ### 中文
 
-by-sonic/tglock：by-sonic/tglock may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+by-sonic/tglock：by-sonic/tglock may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ by-sonic/tglock：by-sonic/tglock may be useful when its README and activity mat
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ by-sonic/tglock：by-sonic/tglock may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 18/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 47/100 |
+| outlook | 46/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 42/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

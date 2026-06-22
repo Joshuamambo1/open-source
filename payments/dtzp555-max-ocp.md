@@ -1,6 +1,6 @@
 # dtzp555-max/ocp
 
-[![Stars](https://img.shields.io/github/stars/dtzp555-max/ocp?style=flat-square&color=yellow)](https://github.com/dtzp555-max/ocp/stargazers) [![Forks](https://img.shields.io/github/forks/dtzp555-max/ocp?style=flat-square&color=blue)](https://github.com/dtzp555-max/ocp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dtzp555-max/ocp?style=flat-square&color=yellow)](https://github.com/dtzp555-max/ocp/stargazers) [![Forks](https://img.shields.io/github/forks/dtzp555-max/ocp?style=flat-square&color=blue)](https://github.com/dtzp555-max/ocp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Turn your Claude Pro/Max subscription into an OpenAI-compatible API. One proxy, multiple IDEs, LAN sharing for the whole family. $0 extra cost.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ dtzp555-max/ocp：dtzp555-max/ocp helps integrate monetization, billing, or PSP 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 76/100 |
+| production | 55/100 |
+| outlook | 62/100 |
 | adoption | 33/100 |
 | stars | 37/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

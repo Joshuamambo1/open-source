@@ -1,6 +1,6 @@
 # 1amageek/Toolbar
 
-[![Stars](https://img.shields.io/github/stars/1amageek/Toolbar?style=flat-square&color=yellow)](https://github.com/1amageek/Toolbar/stargazers) [![Forks](https://img.shields.io/github/forks/1amageek/Toolbar?style=flat-square&color=blue)](https://github.com/1amageek/Toolbar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1amageek/Toolbar?style=flat-square&color=yellow)](https://github.com/1amageek/Toolbar/stargazers) [![Forks](https://img.shields.io/github/forks/1amageek/Toolbar?style=flat-square&color=blue)](https://github.com/1amageek/Toolbar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome autolayout Toolbar. Toolbar is a library for iOS. You can easily create chat InputBar.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ The **1amageek/Toolbar** library provides a lightweight, auto‑layout‑based s
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 38/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

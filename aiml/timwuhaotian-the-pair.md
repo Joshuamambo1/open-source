@@ -1,6 +1,6 @@
 # timwuhaotian/the-pair
 
-[![Stars](https://img.shields.io/github/stars/timwuhaotian/the-pair?style=flat-square&color=yellow)](https://github.com/timwuhaotian/the-pair/stargazers) [![Forks](https://img.shields.io/github/forks/timwuhaotian/the-pair?style=flat-square&color=blue)](https://github.com/timwuhaotian/the-pair/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timwuhaotian/the-pair?style=flat-square&color=yellow)](https://github.com/timwuhaotian/the-pair/stargazers) [![Forks](https://img.shields.io/github/forks/timwuhaotian/the-pair?style=flat-square&color=blue)](https://github.com/timwuhaotian/the-pair/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 336 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ timwuhaotian/the-pair：timwuhaotian/the-pair helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 58/100 |
+| outlook | 61/100 |
 | adoption | 49/100 |
 | stars | 54/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

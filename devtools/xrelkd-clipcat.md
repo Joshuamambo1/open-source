@@ -1,6 +1,6 @@
 # xrelkd/clipcat
 
-[![Stars](https://img.shields.io/github/stars/xrelkd/clipcat?style=flat-square&color=yellow)](https://github.com/xrelkd/clipcat/stargazers) [![Forks](https://img.shields.io/github/forks/xrelkd/clipcat?style=flat-square&color=blue)](https://github.com/xrelkd/clipcat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xrelkd/clipcat?style=flat-square&color=yellow)](https://github.com/xrelkd/clipcat/stargazers) [![Forks](https://img.shields.io/github/forks/xrelkd/clipcat?style=flat-square&color=blue)](https://github.com/xrelkd/clipcat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A clipboard manager written in Rust Programming Language.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 569 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ xrelkd/clipcat：xrelkd/clipcat helps engineers save time in daily development a
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 63/100 |
+| production | 51/100 |
+| outlook | 49/100 |
 | adoption | 52/100 |
 | stars | 59/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

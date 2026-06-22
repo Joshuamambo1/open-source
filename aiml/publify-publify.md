@@ -1,6 +1,6 @@
 # publify/publify
 
-[![Stars](https://img.shields.io/github/stars/publify/publify?style=flat-square&color=yellow)](https://github.com/publify/publify/stargazers) [![Forks](https://img.shields.io/github/forks/publify/publify?style=flat-square&color=blue)](https://github.com/publify/publify/network) [![Language](https://img.shields.io/badge/lang-Less-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/publify/publify?style=flat-square&color=yellow)](https://github.com/publify/publify/stargazers) [![Forks](https://img.shields.io/github/forks/publify/publify?style=flat-square&color=blue)](https://github.com/publify/publify/network) [![Language](https://img.shields.io/badge/lang-Less-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A self hosted Web publishing platform on Rails.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Less |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ publify/publify：publify/publify helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 75/100 |
 | stars | 70/100 |
 | forks | 89/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

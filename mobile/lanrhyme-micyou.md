@@ -1,6 +1,6 @@
 # LanRhyme/MicYou
 
-[![Stars](https://img.shields.io/github/stars/LanRhyme/MicYou?style=flat-square&color=yellow)](https://github.com/LanRhyme/MicYou/stargazers) [![Forks](https://img.shields.io/github/forks/LanRhyme/MicYou?style=flat-square&color=blue)](https://github.com/LanRhyme/MicYou/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LanRhyme/MicYou?style=flat-square&color=yellow)](https://github.com/LanRhyme/MicYou/stargazers) [![Forks](https://img.shields.io/github/forks/LanRhyme/MicYou?style=flat-square&color=blue)](https://github.com/LanRhyme/MicYou/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for your PC.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ LanRhyme/MicYou：LanRhyme/MicYou may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 50/100 |
+| outlook | 51/100 |
 | adoption | 63/100 |
 | stars | 70/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # spacedriveapp/spacebot
 
-[![Stars](https://img.shields.io/github/stars/spacedriveapp/spacebot?style=flat-square&color=yellow)](https://github.com/spacedriveapp/spacebot/stargazers) [![Forks](https://img.shields.io/github/forks/spacedriveapp/spacebot?style=flat-square&color=blue)](https://github.com/spacedriveapp/spacebot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spacedriveapp/spacebot?style=flat-square&color=yellow)](https://github.com/spacedriveapp/spacebot/stargazers) [![Forks](https://img.shields.io/github/forks/spacedriveapp/spacebot?style=flat-square&color=blue)](https://github.com/spacedriveapp/spacebot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An AI agent for teams, communities, and multi-user environments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 340 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ spacedriveapp/spacebot：spacedriveapp/spacebot helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 82/100 |
+| production | 56/100 |
+| outlook | 68/100 |
 | adoption | 69/100 |
 | stars | 71/100 |
 | forks | 63/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

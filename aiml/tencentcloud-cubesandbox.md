@@ -1,6 +1,6 @@
 # TencentCloud/CubeSandbox
 
-[![Stars](https://img.shields.io/github/stars/TencentCloud/CubeSandbox?style=flat-square&color=yellow)](https://github.com/TencentCloud/CubeSandbox/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloud/CubeSandbox?style=flat-square&color=blue)](https://github.com/TencentCloud/CubeSandbox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TencentCloud/CubeSandbox?style=flat-square&color=yellow)](https://github.com/TencentCloud/CubeSandbox/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloud/CubeSandbox?style=flat-square&color=blue)](https://github.com/TencentCloud/CubeSandbox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 370 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ TencentCloud/CubeSandbox：TencentCloud/CubeSandbox helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 75/100 |
 | stars | 79/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # devonmochi/byetype
 
-[![Stars](https://img.shields.io/github/stars/devonmochi/byetype?style=flat-square&color=yellow)](https://github.com/devonmochi/byetype/stargazers) [![Forks](https://img.shields.io/github/forks/devonmochi/byetype?style=flat-square&color=blue)](https://github.com/devonmochi/byetype/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/devonmochi/byetype?style=flat-square&color=yellow)](https://github.com/devonmochi/byetype/stargazers) [![Forks](https://img.shields.io/github/forks/devonmochi/byetype?style=flat-square&color=blue)](https://github.com/devonmochi/byetype/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ByeType 是一个 Markdown 驱动的 AI 语音输入工具，用多模态大模型直接处理原始音频（使用自己的APIKEY），编辑 Markdown 文件即可自定义专有词汇、转录规则和格式化策略，人名、术语、口水词、数字格式一次转录到位，减少二次修改。支持 macOS、Windows 和 iOS。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 226 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ByeType is a Markdown‑driven AI voice input tool that leverages multimodal lar
 
 ### 中文
 
-devonmochi/byetype：devonmochi/byetype helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+devonmochi/byetype：devonmochi/byetype helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ devonmochi/byetype：devonmochi/byetype helps add AI capability without starting
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ devonmochi/byetype：devonmochi/byetype helps add AI capability without starting
 - updated 2026-05-09
 - primary language: Rust
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 43/100 |
 | stars | 50/100 |
 | forks | 25/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

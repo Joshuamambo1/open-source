@@ -1,6 +1,6 @@
 # coteditor/CotEditor
 
-[![Stars](https://img.shields.io/github/stars/coteditor/CotEditor?style=flat-square&color=yellow)](https://github.com/coteditor/CotEditor/stargazers) [![Forks](https://img.shields.io/github/forks/coteditor/CotEditor?style=flat-square&color=blue)](https://github.com/coteditor/CotEditor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coteditor/CotEditor?style=flat-square&color=yellow)](https://github.com/coteditor/CotEditor/stargazers) [![Forks](https://img.shields.io/github/forks/coteditor/CotEditor?style=flat-square&color=blue)](https://github.com/coteditor/CotEditor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight Plain Text Editor for macOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 494 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ coteditor/CotEditor：coteditor/CotEditor helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 76/100 |
+| production | 58/100 |
+| outlook | 62/100 |
 | adoption | 79/100 |
 | stars | 83/100 |
 | forks | 67/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

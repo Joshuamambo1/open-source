@@ -1,6 +1,6 @@
 # rust-lang/rust-repos
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/rust-repos?style=flat-square&color=yellow)](https://github.com/rust-lang/rust-repos/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rust-repos?style=flat-square&color=blue)](https://github.com/rust-lang/rust-repos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/rust-repos?style=flat-square&color=yellow)](https://github.com/rust-lang/rust-repos/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rust-repos?style=flat-square&color=blue)](https://github.com/rust-lang/rust-repos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Dataset of Rust source code repositories
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **rust-lang/rust-repos** project provides a curated dataset of publicly avai
 
 ### 中文
 
-rust-lang/rust-repos：rust-lang/rust-repos helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rust-lang/rust-repos：rust-lang/rust-repos helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rust-lang/rust-repos：rust-lang/rust-repos helps convert raw data into searchab
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ rust-lang/rust-repos：rust-lang/rust-repos helps convert raw data into searchab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 44/100 |
 | stars | 45/100 |
 | forks | 41/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # langchain-ai/langchain
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > The agent engineering platform. Available in TypeScript!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 136k |
 | 🍴 **Forks** | 22.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Orchestration · AI/ML
 
 ### English
 
-langchain-ai/langchain: langchain-ai/langchain helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+langchain-ai/langchain: langchain-ai/langchain helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-langchain-ai/langchain: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+langchain-ai/langchain: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-langchain-ai/langchain：langchain-ai/langchain helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+langchain-ai/langchain：langchain-ai/langchain helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ langchain-ai/langchain：langchain-ai/langchain helps turn isolated prompts and 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ langchain-ai/langchain：langchain-ai/langchain helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 95/100 |
+| quality | 85/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 91/100 |
+| production | 66/100 |
+| outlook | 77/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

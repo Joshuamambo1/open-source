@@ -1,6 +1,6 @@
 # asgeirtj/system_prompts_leaks
 
-[![Stars](https://img.shields.io/github/stars/asgeirtj/system_prompts_leaks?style=flat-square&color=yellow)](https://github.com/asgeirtj/system_prompts_leaks/stargazers) [![Forks](https://img.shields.io/github/forks/asgeirtj/system_prompts_leaks?style=flat-square&color=blue)](https://github.com/asgeirtj/system_prompts_leaks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asgeirtj/system_prompts_leaks?style=flat-square&color=yellow)](https://github.com/asgeirtj/system_prompts_leaks/stargazers) [![Forks](https://img.shields.io/github/forks/asgeirtj/system_prompts_leaks?style=flat-square&color=blue)](https://github.com/asgeirtj/system_prompts_leaks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39.9k |
 | 🍴 **Forks** | 6.6k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **asgeirtj/system_prompts_leaks** repository aggregates and regularly update
 
 ### 中文
 
-asgeirtj/system_prompts_leaks：asgeirtj/system_prompts_leaks helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+asgeirtj/system_prompts_leaks：asgeirtj/system_prompts_leaks helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ asgeirtj/system_prompts_leaks：asgeirtj/system_prompts_leaks helps add AI capab
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ asgeirtj/system_prompts_leaks：asgeirtj/system_prompts_leaks helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 94/100 |
+| quality | 84/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 84/100 |
+| production | 63/100 |
+| outlook | 70/100 |
 | adoption | 97/100 |
 | stars | 98/100 |
 | forks | 96/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

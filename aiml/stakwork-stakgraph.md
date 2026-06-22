@@ -1,6 +1,6 @@
 # stakwork/stakgraph
 
-[![Stars](https://img.shields.io/github/stars/stakwork/stakgraph?style=flat-square&color=yellow)](https://github.com/stakwork/stakgraph/stargazers) [![Forks](https://img.shields.io/github/forks/stakwork/stakgraph?style=flat-square&color=blue)](https://github.com/stakwork/stakgraph/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stakwork/stakgraph?style=flat-square&color=yellow)](https://github.com/stakwork/stakgraph/stargazers) [![Forks](https://img.shields.io/github/forks/stakwork/stakgraph?style=flat-square&color=blue)](https://github.com/stakwork/stakgraph/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A source code parser using treesitter, LSP, and neo4j, powering software knowledge graphs for AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Stakgraph is an open‑source tool that parses source code with Tree‑Sitter, e
 
 ### 中文
 
-stakwork/stakgraph：stakwork/stakgraph helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+stakwork/stakgraph：stakwork/stakgraph helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ stakwork/stakgraph：stakwork/stakgraph helps add AI capability without starting
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ stakwork/stakgraph：stakwork/stakgraph helps add AI capability without starting
 - updated 2026-05-09
 - primary language: TypeScript
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 43/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 40/100 |
 | stars | 43/100 |
 | forks | 33/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

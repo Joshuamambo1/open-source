@@ -1,6 +1,6 @@
 # WeAreAthlon/frontend-webpack-boilerplate
 
-[![Stars](https://img.shields.io/github/stars/WeAreAthlon/frontend-webpack-boilerplate?style=flat-square&color=yellow)](https://github.com/WeAreAthlon/frontend-webpack-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/WeAreAthlon/frontend-webpack-boilerplate?style=flat-square&color=blue)](https://github.com/WeAreAthlon/frontend-webpack-boilerplate/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WeAreAthlon/frontend-webpack-boilerplate?style=flat-square&color=yellow)](https://github.com/WeAreAthlon/frontend-webpack-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/WeAreAthlon/frontend-webpack-boilerplate?style=flat-square&color=blue)](https://github.com/WeAreAthlon/frontend-webpack-boilerplate/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Simple starter webpack 5 project template supporting SASS/PostCSS, Babel ES7, browser syncing, code linting. Easy project setup having multiple features and developer friendly tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 732 |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ WeAreAthlon/frontend-webpack-boilerplate：WeAreAthlon/frontend-webpack-boilerpl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 60/100 |
+| outlook | 61/100 |
 | adoption | 60/100 |
 | stars | 61/100 |
 | forks | 58/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

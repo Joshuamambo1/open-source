@@ -1,6 +1,6 @@
 # arabicapp/everything-claude-code
 
-[![Stars](https://img.shields.io/github/stars/arabicapp/everything-claude-code?style=flat-square&color=yellow)](https://github.com/arabicapp/everything-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/arabicapp/everything-claude-code?style=flat-square&color=blue)](https://github.com/arabicapp/everything-claude-code/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arabicapp/everything-claude-code?style=flat-square&color=yellow)](https://github.com/arabicapp/everything-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/arabicapp/everything-claude-code?style=flat-square&color=blue)](https://github.com/arabicapp/everything-claude-code/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Build powerful agents and configurations with the complete collection of Claude Code from an Anthropic hackathon winner, refined over 10+ months.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ arabicapp/everything-claude-code：arabicapp/everything-claude-code helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 75/100 |
+| production | 52/100 |
+| outlook | 61/100 |
 | adoption | 28/100 |
 | stars | 29/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

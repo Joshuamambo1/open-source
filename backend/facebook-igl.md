@@ -1,6 +1,6 @@
 # facebook/igl
 
-[![Stars](https://img.shields.io/github/stars/facebook/igl?style=flat-square&color=yellow)](https://github.com/facebook/igl/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/igl?style=flat-square&color=blue)](https://github.com/facebook/igl/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/igl?style=flat-square&color=yellow)](https://github.com/facebook/igl/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/igl?style=flat-square&color=blue)](https://github.com/facebook/igl/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 210 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ facebook/igl：facebook/igl helps teams reuse service infrastructure instead of 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 67/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 70/100 |
 | stars | 75/100 |
 | forks | 58/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # hazelcast/hazelcast-code-samples
 
-[![Stars](https://img.shields.io/github/stars/hazelcast/hazelcast-code-samples?style=flat-square&color=yellow)](https://github.com/hazelcast/hazelcast-code-samples/stargazers) [![Forks](https://img.shields.io/github/forks/hazelcast/hazelcast-code-samples?style=flat-square&color=blue)](https://github.com/hazelcast/hazelcast-code-samples/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hazelcast/hazelcast-code-samples?style=flat-square&color=yellow)](https://github.com/hazelcast/hazelcast-code-samples/stargazers) [![Forks](https://img.shields.io/github/forks/hazelcast/hazelcast-code-samples?style=flat-square&color=blue)](https://github.com/hazelcast/hazelcast-code-samples/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Hazelcast Code Samples
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 560 |
 | 🍴 **Forks** | 602 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Hazelcast Code Samples — это набор открытых пример
 
 ### 中文
 
-hazelcast/hazelcast-code-samples：hazelcast/hazelcast-code-samples may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hazelcast/hazelcast-code-samples：hazelcast/hazelcast-code-samples may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ hazelcast/hazelcast-code-samples：hazelcast/hazelcast-code-samples may be usefu
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ hazelcast/hazelcast-code-samples：hazelcast/hazelcast-code-samples may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 62/100 |
 | stars | 59/100 |
 | forks | 70/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

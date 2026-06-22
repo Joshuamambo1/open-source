@@ -1,6 +1,6 @@
 # hwdsl2/docker-ipsec-vpn-server
 
-[![Stars](https://img.shields.io/github/stars/hwdsl2/docker-ipsec-vpn-server?style=flat-square&color=yellow)](https://github.com/hwdsl2/docker-ipsec-vpn-server/stargazers) [![Forks](https://img.shields.io/github/forks/hwdsl2/docker-ipsec-vpn-server?style=flat-square&color=blue)](https://github.com/hwdsl2/docker-ipsec-vpn-server/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hwdsl2/docker-ipsec-vpn-server?style=flat-square&color=yellow)](https://github.com/hwdsl2/docker-ipsec-vpn-server/stargazers) [![Forks](https://img.shields.io/github/forks/hwdsl2/docker-ipsec-vpn-server?style=flat-square&color=blue)](https://github.com/hwdsl2/docker-ipsec-vpn-server/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2. Auto-generates server config and supports VPN client setup on Linux, Windows, macOS, iOS and Android.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.1k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A lightweight Docker image that deploys a fully‑featured IPsec VPN server, sup
 
 ### 中文
 
-hwdsl2/docker-ipsec-vpn-server：hwdsl2/docker-ipsec-vpn-server helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+hwdsl2/docker-ipsec-vpn-server：hwdsl2/docker-ipsec-vpn-server helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hwdsl2/docker-ipsec-vpn-server：hwdsl2/docker-ipsec-vpn-server helps teams reus
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ hwdsl2/docker-ipsec-vpn-server：hwdsl2/docker-ipsec-vpn-server helps teams reus
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 87/100 |
+| quality | 77/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 65/100 |
+| outlook | 69/100 |
 | adoption | 81/100 |
 | stars | 82/100 |
 | forks | 79/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # recharts/recharts
 
-[![Stars](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&color=yellow)](https://github.com/recharts/recharts/stargazers) [![Forks](https://img.shields.io/github/forks/recharts/recharts?style=flat-square&color=blue)](https://github.com/recharts/recharts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&color=yellow)](https://github.com/recharts/recharts/stargazers) [![Forks](https://img.shields.io/github/forks/recharts/recharts?style=flat-square&color=blue)](https://github.com/recharts/recharts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Redefined chart library built with React and D3
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27.1k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Recharts is an open‑source charting library that combines the declarative powe
 
 ### 中文
 
-recharts/recharts：recharts/recharts helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+recharts/recharts：recharts/recharts helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ recharts/recharts：recharts/recharts helps prototype or inspect blockchain work
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ recharts/recharts：recharts/recharts helps prototype or inspect blockchain work
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 91/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 79/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 91/100 |
 | stars | 94/100 |
 | forks | 82/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

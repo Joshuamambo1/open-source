@@ -1,6 +1,6 @@
 # Zhengqbbb/cz-git
 
-[![Stars](https://img.shields.io/github/stars/Zhengqbbb/cz-git?style=flat-square&color=yellow)](https://github.com/Zhengqbbb/cz-git/stargazers) [![Forks](https://img.shields.io/github/forks/Zhengqbbb/cz-git?style=flat-square&color=blue)](https://github.com/Zhengqbbb/cz-git/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zhengqbbb/cz-git?style=flat-square&color=yellow)](https://github.com/Zhengqbbb/cz-git/stargazers) [![Forks](https://img.shields.io/github/forks/Zhengqbbb/cz-git?style=flat-square&color=blue)](https://github.com/Zhengqbbb/cz-git/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Zhengqbbb/cz-git：Zhengqbbb/cz-git helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 78/100 |
+| production | 60/100 |
+| outlook | 64/100 |
 | adoption | 61/100 |
 | stars | 68/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

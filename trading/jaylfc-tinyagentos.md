@@ -1,6 +1,6 @@
 # jaylfc/tinyagentos
 
-[![Stars](https://img.shields.io/github/stars/jaylfc/tinyagentos?style=flat-square&color=yellow)](https://github.com/jaylfc/tinyagentos/stargazers) [![Forks](https://img.shields.io/github/forks/jaylfc/tinyagentos?style=flat-square&color=blue)](https://github.com/jaylfc/tinyagentos/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaylfc/tinyagentos?style=flat-square&color=yellow)](https://github.com/jaylfc/tinyagentos/stargazers) [![Forks](https://img.shields.io/github/forks/jaylfc/tinyagentos?style=flat-square&color=blue)](https://github.com/jaylfc/tinyagentos/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted auto clustering AI agent OS for low cost consumer hardware like the computer you have, an Orange or Raspberry Pi or a Mac etc. Desktop shell, app store, agent deployment, distributed compute cluster. Memory by taOSmd.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jaylfc/tinyagentos：jaylfc/tinyagentos helps research and automate market workf
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 76/100 |
+| production | 54/100 |
+| outlook | 62/100 |
 | adoption | 39/100 |
 | stars | 44/100 |
 | forks | 27/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

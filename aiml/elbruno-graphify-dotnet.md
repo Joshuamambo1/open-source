@@ -1,6 +1,6 @@
 # elbruno/graphify-dotnet
 
-[![Stars](https://img.shields.io/github/stars/elbruno/graphify-dotnet?style=flat-square&color=yellow)](https://github.com/elbruno/graphify-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/elbruno/graphify-dotnet?style=flat-square&color=blue)](https://github.com/elbruno/graphify-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elbruno/graphify-dotnet?style=flat-square&color=yellow)](https://github.com/elbruno/graphify-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/elbruno/graphify-dotnet?style=flat-square&color=blue)](https://github.com/elbruno/graphify-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A .NET 10 port of graphify - AI knowledge graph builder for codebases using GitHub Copilot SDK and Microsoft.Extensions.AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ elbruno/graphify-dotnet：elbruno/graphify-dotnet helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 36/100 |
 | stars | 39/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

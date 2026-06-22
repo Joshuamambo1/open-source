@@ -1,6 +1,6 @@
 # Yulin-Bi/CodeAuto
 
-[![Stars](https://img.shields.io/github/stars/Yulin-Bi/CodeAuto?style=flat-square&color=yellow)](https://github.com/Yulin-Bi/CodeAuto/stargazers) [![Forks](https://img.shields.io/github/forks/Yulin-Bi/CodeAuto?style=flat-square&color=blue)](https://github.com/Yulin-Bi/CodeAuto/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yulin-Bi/CodeAuto?style=flat-square&color=yellow)](https://github.com/Yulin-Bi/CodeAuto/stargazers) [![Forks](https://img.shields.io/github/forks/Yulin-Bi/CodeAuto?style=flat-square&color=blue)](https://github.com/Yulin-Bi/CodeAuto/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > CodeAuto is an intelligent programming assistant developed using Java, drawing inspiration from Claude Code and Minicode.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Yulin-Bi/CodeAuto：Yulin-Bi/CodeAuto helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 74/100 |
+| production | 54/100 |
+| outlook | 60/100 |
 | adoption | 23/100 |
 | stars | 29/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # navidrome/navidrome
 
-[![Stars](https://img.shields.io/github/stars/navidrome/navidrome?style=flat-square&color=yellow)](https://github.com/navidrome/navidrome/stargazers) [![Forks](https://img.shields.io/github/forks/navidrome/navidrome?style=flat-square&color=blue)](https://github.com/navidrome/navidrome/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/navidrome/navidrome?style=flat-square&color=yellow)](https://github.com/navidrome/navidrome/stargazers) [![Forks](https://img.shields.io/github/forks/navidrome/navidrome?style=flat-square&color=blue)](https://github.com/navidrome/navidrome/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 🎧 Your Personal Streaming Service
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Navidrome — это открытая платформа для персонал
 
 ### 中文
 
-navidrome/navidrome：navidrome/navidrome helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+navidrome/navidrome：navidrome/navidrome helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ navidrome/navidrome：navidrome/navidrome helps add AI capability without starti
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ navidrome/navidrome：navidrome/navidrome helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 90/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 85/100 |
+| production | 64/100 |
+| outlook | 71/100 |
 | adoption | 88/100 |
 | stars | 92/100 |
 | forks | 79/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

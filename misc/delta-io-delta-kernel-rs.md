@@ -1,6 +1,6 @@
 # delta-io/delta-kernel-rs
 
-[![Stars](https://img.shields.io/github/stars/delta-io/delta-kernel-rs?style=flat-square&color=yellow)](https://github.com/delta-io/delta-kernel-rs/stargazers) [![Forks](https://img.shields.io/github/forks/delta-io/delta-kernel-rs?style=flat-square&color=blue)](https://github.com/delta-io/delta-kernel-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/delta-io/delta-kernel-rs?style=flat-square&color=yellow)](https://github.com/delta-io/delta-kernel-rs/stargazers) [![Forks](https://img.shields.io/github/forks/delta-io/delta-kernel-rs?style=flat-square&color=blue)](https://github.com/delta-io/delta-kernel-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A native Delta implementation for integration with any query engine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-delta-io/delta-kernel-rs: delta-io/delta-kernel-rs may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+delta-io/delta-kernel-rs: delta-io/delta-kernel-rs may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-delta-io/delta-kernel-rs: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+delta-io/delta-kernel-rs: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-delta-io/delta-kernel-rs：delta-io/delta-kernel-rs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+delta-io/delta-kernel-rs：delta-io/delta-kernel-rs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ delta-io/delta-kernel-rs：delta-io/delta-kernel-rs may be useful when its READM
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ delta-io/delta-kernel-rs：delta-io/delta-kernel-rs may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 63/100 |
+| production | 49/100 |
+| outlook | 49/100 |
 | adoption | 54/100 |
 | stars | 54/100 |
 | forks | 56/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

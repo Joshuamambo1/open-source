@@ -1,6 +1,6 @@
 # project-blinc/Blinc
 
-[![Stars](https://img.shields.io/github/stars/project-blinc/Blinc?style=flat-square&color=yellow)](https://github.com/project-blinc/Blinc/stargazers) [![Forks](https://img.shields.io/github/forks/project-blinc/Blinc?style=flat-square&color=blue)](https://github.com/project-blinc/Blinc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/project-blinc/Blinc?style=flat-square&color=yellow)](https://github.com/project-blinc/Blinc/stargazers) [![Forks](https://img.shields.io/github/forks/project-blinc/Blinc?style=flat-square&color=blue)](https://github.com/project-blinc/Blinc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A declarative, reactive UI system with first-class state machines, spring physics animations, and GPU-accelerated rendering
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 402 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ project-blinc/Blinc：project-blinc/Blinc helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 47/100 |
 | stars | 55/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

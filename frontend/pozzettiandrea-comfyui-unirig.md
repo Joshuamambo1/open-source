@@ -1,6 +1,6 @@
 # PozzettiAndrea/ComfyUI-UniRig
 
-[![Stars](https://img.shields.io/github/stars/PozzettiAndrea/ComfyUI-UniRig?style=flat-square&color=yellow)](https://github.com/PozzettiAndrea/ComfyUI-UniRig/stargazers) [![Forks](https://img.shields.io/github/forks/PozzettiAndrea/ComfyUI-UniRig?style=flat-square&color=blue)](https://github.com/PozzettiAndrea/ComfyUI-UniRig/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PozzettiAndrea/ComfyUI-UniRig?style=flat-square&color=yellow)](https://github.com/PozzettiAndrea/ComfyUI-UniRig/stargazers) [![Forks](https://img.shields.io/github/forks/PozzettiAndrea/ComfyUI-UniRig?style=flat-square&color=blue)](https://github.com/PozzettiAndrea/ComfyUI-UniRig/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > ComfyUI wrapper for UniRig
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ PozzettiAndrea/ComfyUI-UniRig：PozzettiAndrea/ComfyUI-UniRig helps ship user-fa
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 59/100 |
+| production | 51/100 |
+| outlook | 45/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 42/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

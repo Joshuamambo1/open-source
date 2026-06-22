@@ -1,6 +1,6 @@
 # pinchtab/pinchtab
 
-[![Stars](https://img.shields.io/github/stars/pinchtab/pinchtab?style=flat-square&color=yellow)](https://github.com/pinchtab/pinchtab/stargazers) [![Forks](https://img.shields.io/github/forks/pinchtab/pinchtab?style=flat-square&color=blue)](https://github.com/pinchtab/pinchtab/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pinchtab/pinchtab?style=flat-square&color=yellow)](https://github.com/pinchtab/pinchtab/stargazers) [![Forks](https://img.shields.io/github/forks/pinchtab/pinchtab?style=flat-square&color=blue)](https://github.com/pinchtab/pinchtab/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 665 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Pinchtab — это высокопроизводительный мост дл
 
 ### 中文
 
-pinchtab/pinchtab：pinchtab/pinchtab helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+pinchtab/pinchtab：pinchtab/pinchtab helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ pinchtab/pinchtab：pinchtab/pinchtab helps teams reuse service infrastructure i
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ pinchtab/pinchtab：pinchtab/pinchtab helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 85/100 |
+| production | 62/100 |
+| outlook | 71/100 |
 | adoption | 80/100 |
 | stars | 84/100 |
 | forks | 71/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

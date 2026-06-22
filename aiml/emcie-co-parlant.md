@@ -1,6 +1,6 @@
 # emcie-co/parlant
 
-[![Stars](https://img.shields.io/github/stars/emcie-co/parlant?style=flat-square&color=yellow)](https://github.com/emcie-co/parlant/stargazers) [![Forks](https://img.shields.io/github/forks/emcie-co/parlant?style=flat-square&color=blue)](https://github.com/emcie-co/parlant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emcie-co/parlant?style=flat-square&color=yellow)](https://github.com/emcie-co/parlant/stargazers) [![Forks](https://img.shields.io/github/forks/emcie-co/parlant?style=flat-square&color=blue)](https://github.com/emcie-co/parlant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.1k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend
 
 ### English
 
-emcie-co/parlant: emcie-co/parlant helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+emcie-co/parlant: emcie-co/parlant helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-emcie-co/parlant: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+emcie-co/parlant: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-emcie-co/parlant：emcie-co/parlant helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+emcie-co/parlant：emcie-co/parlant helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ emcie-co/parlant：emcie-co/parlant helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ emcie-co/parlant：emcie-co/parlant helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 89/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 62/100 |
+| outlook | 67/100 |
 | adoption | 88/100 |
 | stars | 91/100 |
 | forks | 80/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

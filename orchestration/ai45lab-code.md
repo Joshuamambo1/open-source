@@ -1,6 +1,6 @@
 # AI45Lab/Code
 
-[![Stars](https://img.shields.io/github/stars/AI45Lab/Code?style=flat-square&color=yellow)](https://github.com/AI45Lab/Code/stargazers) [![Forks](https://img.shields.io/github/forks/AI45Lab/Code?style=flat-square&color=blue)](https://github.com/AI45Lab/Code/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AI45Lab/Code?style=flat-square&color=yellow)](https://github.com/AI45Lab/Code/stargazers) [![Forks](https://img.shields.io/github/forks/AI45Lab/Code?style=flat-square&color=blue)](https://github.com/AI45Lab/Code/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic Agent Framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI45Lab/Code — это открытый фреймворк Agentic Agent, п�
 
 ### 中文
 
-AI45Lab/Code：AI45Lab/Code helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AI45Lab/Code：AI45Lab/Code helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AI45Lab/Code：AI45Lab/Code helps turn isolated prompts and tools into repeatabl
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ AI45Lab/Code：AI45Lab/Code helps turn isolated prompts and tools into repeatabl
 - updated 2026-05-10
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 41/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 46/100 |
+| outlook | 48/100 |
 | adoption | 37/100 |
 | stars | 46/100 |
 | forks | 12/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

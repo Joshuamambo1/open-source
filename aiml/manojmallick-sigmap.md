@@ -1,6 +1,6 @@
 # manojmallick/sigmap
 
-[![Stars](https://img.shields.io/github/stars/manojmallick/sigmap?style=flat-square&color=yellow)](https://github.com/manojmallick/sigmap/stargazers) [![Forks](https://img.shields.io/github/forks/manojmallick/sigmap?style=flat-square&color=blue)](https://github.com/manojmallick/sigmap/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/manojmallick/sigmap?style=flat-square&color=yellow)](https://github.com/manojmallick/sigmap/stargazers) [![Forks](https://img.shields.io/github/forks/manojmallick/sigmap?style=flat-square&color=blue)](https://github.com/manojmallick/sigmap/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 97% token reduction for AI coding sessions — zero deps, 21 languages, MCP server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ manojmallick/sigmap：manojmallick/sigmap helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 76/100 |
+| production | 57/100 |
+| outlook | 62/100 |
 | adoption | 41/100 |
 | stars | 47/100 |
 | forks | 28/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

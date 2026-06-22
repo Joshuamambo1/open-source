@@ -1,6 +1,6 @@
 # apache/fory
 
-[![Stars](https://img.shields.io/github/stars/apache/fory?style=flat-square&color=yellow)](https://github.com/apache/fory/stargazers) [![Forks](https://img.shields.io/github/forks/apache/fory?style=flat-square&color=blue)](https://github.com/apache/fory/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/fory?style=flat-square&color=yellow)](https://github.com/apache/fory/stargazers) [![Forks](https://img.shields.io/github/forks/apache/fory?style=flat-square&color=blue)](https://github.com/apache/fory/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 409 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-apache/fory: apache/fory may be useful when its README and activity match a concrete workflow.. Use it for Misc. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+apache/fory: apache/fory may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-apache/fory: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+apache/fory: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-apache/fory：apache/fory may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+apache/fory：apache/fory may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ apache/fory：apache/fory may be useful when its README and activity match a con
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ apache/fory：apache/fory may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 62/100 |
+| outlook | 64/100 |
 | adoption | 74/100 |
 | stars | 77/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

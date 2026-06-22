@@ -1,6 +1,6 @@
 # im4codes/imcodes
 
-[![Stars](https://img.shields.io/github/stars/im4codes/imcodes?style=flat-square&color=yellow)](https://github.com/im4codes/imcodes/stargazers) [![Forks](https://img.shields.io/github/forks/im4codes/imcodes?style=flat-square&color=blue)](https://github.com/im4codes/imcodes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/im4codes/imcodes?style=flat-square&color=yellow)](https://github.com/im4codes/imcodes/stargazers) [![Forks](https://img.shields.io/github/forks/im4codes/imcodes?style=flat-square&color=blue)](https://github.com/im4codes/imcodes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The IM for agents. Shared memory, supervised execution, and cross-agent audit across AI providers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ im4codes/imcodes：im4codes/imcodes helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 26/100 |
 | stars | 29/100 |
 | forks | 17/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

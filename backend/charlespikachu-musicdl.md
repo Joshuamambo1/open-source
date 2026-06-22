@@ -1,6 +1,6 @@
 # CharlesPikachu/musicdl
 
-[![Stars](https://img.shields.io/github/stars/CharlesPikachu/musicdl?style=flat-square&color=yellow)](https://github.com/CharlesPikachu/musicdl/stargazers) [![Forks](https://img.shields.io/github/forks/CharlesPikachu/musicdl?style=flat-square&color=blue)](https://github.com/CharlesPikachu/musicdl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CharlesPikachu/musicdl?style=flat-square&color=yellow)](https://github.com/CharlesPikachu/musicdl/stargazers) [![Forks](https://img.shields.io/github/forks/CharlesPikachu/musicdl?style=flat-square&color=blue)](https://github.com/CharlesPikachu/musicdl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Musicdl: A lightweight music downloader written in pure python. (轻量级无损音乐下载器，支持数十个音乐/有声读物平台，例如网易云音乐，QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，汽水音乐，Bilibili，街声，喜马拉雅，懒人听书，荔枝FM，蜻蜓FM，JOOX，TIDAL，YouTube，Apple Music，Spotify，Qobuz，SoundCloud等主流音乐平台)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 594 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -41,7 +41,7 @@ Musicdl is an open-source, lightweight music downloader written in pure Python t
 
 ### 中文
 
-CharlesPikachu/musicdl：CharlesPikachu/musicdl helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+CharlesPikachu/musicdl：CharlesPikachu/musicdl helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -55,7 +55,7 @@ CharlesPikachu/musicdl：CharlesPikachu/musicdl helps teams reuse service infras
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -72,14 +72,14 @@ CharlesPikachu/musicdl：CharlesPikachu/musicdl helps teams reuse service infras
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 78/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 76/100 |
 | stars | 78/100 |
 | forks | 69/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

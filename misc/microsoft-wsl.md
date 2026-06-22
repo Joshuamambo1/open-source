@@ -1,6 +1,6 @@
 # microsoft/WSL
 
-[![Stars](https://img.shields.io/github/stars/microsoft/WSL?style=flat-square&color=yellow)](https://github.com/microsoft/WSL/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/WSL?style=flat-square&color=blue)](https://github.com/microsoft/WSL/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/WSL?style=flat-square&color=yellow)](https://github.com/microsoft/WSL/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/WSL?style=flat-square&color=blue)](https://github.com/microsoft/WSL/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Windows Subsystem for Linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32.2k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ microsoft/WSL：microsoft/WSL may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 69/100 |
+| production | 55/100 |
+| outlook | 55/100 |
 | adoption | 92/100 |
 | stars | 96/100 |
 | forks | 81/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

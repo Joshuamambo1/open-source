@@ -1,6 +1,6 @@
 # FQrabbit/SSTap-Rule
 
-[![Stars](https://img.shields.io/github/stars/FQrabbit/SSTap-Rule?style=flat-square&color=yellow)](https://github.com/FQrabbit/SSTap-Rule/stargazers) [![Forks](https://img.shields.io/github/forks/FQrabbit/SSTap-Rule?style=flat-square&color=blue)](https://github.com/FQrabbit/SSTap-Rule/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FQrabbit/SSTap-Rule?style=flat-square&color=yellow)](https://github.com/FQrabbit/SSTap-Rule/stargazers) [![Forks](https://img.shields.io/github/forks/FQrabbit/SSTap-Rule?style=flat-square&color=blue)](https://github.com/FQrabbit/SSTap-Rule/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ FQrabbit/SSTap-Rule：FQrabbit/SSTap-Rule may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 57/100 |
+| outlook | 55/100 |
 | adoption | 80/100 |
 | stars | 81/100 |
 | forks | 77/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

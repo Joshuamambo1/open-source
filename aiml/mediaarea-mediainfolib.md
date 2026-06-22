@@ -1,6 +1,6 @@
 # MediaArea/MediaInfoLib
 
-[![Stars](https://img.shields.io/github/stars/MediaArea/MediaInfoLib?style=flat-square&color=yellow)](https://github.com/MediaArea/MediaInfoLib/stargazers) [![Forks](https://img.shields.io/github/forks/MediaArea/MediaInfoLib?style=flat-square&color=blue)](https://github.com/MediaArea/MediaInfoLib/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MediaArea/MediaInfoLib?style=flat-square&color=yellow)](https://github.com/MediaArea/MediaInfoLib/stargazers) [![Forks](https://img.shields.io/github/forks/MediaArea/MediaInfoLib?style=flat-square&color=blue)](https://github.com/MediaArea/MediaInfoLib/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Convenient unified display of the most relevant technical and tag data for video and audio files.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 762 |
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MediaArea/MediaInfoLib：MediaArea/MediaInfoLib helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 68/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 60/100 |
 | stars | 61/100 |
 | forks | 58/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

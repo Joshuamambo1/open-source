@@ -1,6 +1,6 @@
 # kubernetes/ingress-gce
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/ingress-gce?style=flat-square&color=yellow)](https://github.com/kubernetes/ingress-gce/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/ingress-gce?style=flat-square&color=blue)](https://github.com/kubernetes/ingress-gce/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/ingress-gce?style=flat-square&color=yellow)](https://github.com/kubernetes/ingress-gce/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/ingress-gce?style=flat-square&color=blue)](https://github.com/kubernetes/ingress-gce/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Ingress controller for Google Cloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kubernetes/ingress-gce：kubernetes/ingress-gce helps make deployment and operat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 69/100 |
+| production | 58/100 |
+| outlook | 55/100 |
 | adoption | 65/100 |
 | stars | 66/100 |
 | forks | 63/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

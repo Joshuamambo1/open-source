@@ -1,6 +1,6 @@
 # ton-blockchain/ton
 
-[![Stars](https://img.shields.io/github/stars/ton-blockchain/ton?style=flat-square&color=yellow)](https://github.com/ton-blockchain/ton/stargazers) [![Forks](https://img.shields.io/github/forks/ton-blockchain/ton?style=flat-square&color=blue)](https://github.com/ton-blockchain/ton/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ton-blockchain/ton?style=flat-square&color=yellow)](https://github.com/ton-blockchain/ton/stargazers) [![Forks](https://img.shields.io/github/forks/ton-blockchain/ton?style=flat-square&color=blue)](https://github.com/ton-blockchain/ton/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Main TON monorepo
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ton-blockchain/ton：ton-blockchain/ton helps prototype or inspect blockchain wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 77/100 |
 | stars | 77/100 |
 | forks | 80/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

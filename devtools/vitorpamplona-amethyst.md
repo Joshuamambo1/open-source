@@ -1,6 +1,6 @@
 # vitorpamplona/amethyst
 
-[![Stars](https://img.shields.io/github/stars/vitorpamplona/amethyst?style=flat-square&color=yellow)](https://github.com/vitorpamplona/amethyst/stargazers) [![Forks](https://img.shields.io/github/forks/vitorpamplona/amethyst?style=flat-square&color=blue)](https://github.com/vitorpamplona/amethyst/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vitorpamplona/amethyst?style=flat-square&color=yellow)](https://github.com/vitorpamplona/amethyst/stargazers) [![Forks](https://img.shields.io/github/forks/vitorpamplona/amethyst?style=flat-square&color=blue)](https://github.com/vitorpamplona/amethyst/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Nostr client for Android
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -70,14 +70,14 @@ vitorpamplona/amethyst：vitorpamplona/amethyst helps engineers save time in dai
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 65/100 |
 | stars | 68/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

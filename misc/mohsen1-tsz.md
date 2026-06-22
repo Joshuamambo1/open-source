@@ -1,6 +1,6 @@
 # mohsen1/tsz
 
-[![Stars](https://img.shields.io/github/stars/mohsen1/tsz?style=flat-square&color=yellow)](https://github.com/mohsen1/tsz/stargazers) [![Forks](https://img.shields.io/github/forks/mohsen1/tsz?style=flat-square&color=blue)](https://github.com/mohsen1/tsz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mohsen1/tsz?style=flat-square&color=yellow)](https://github.com/mohsen1/tsz/stargazers) [![Forks](https://img.shields.io/github/forks/mohsen1/tsz?style=flat-square&color=blue)](https://github.com/mohsen1/tsz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A performance-first TypeScript checker
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ mohsen1/tsz is an open‑source, performance‑focused TypeScript type‑checkin
 
 ### 中文
 
-mohsen1/tsz：mohsen1/tsz may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mohsen1/tsz：mohsen1/tsz may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ mohsen1/tsz：mohsen1/tsz may be useful when its README and activity match a con
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -57,21 +57,21 @@ mohsen1/tsz：mohsen1/tsz may be useful when its README and activity match a con
 - primary language: Rust
 - 1 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 57/100 |
+| production | 49/100 |
+| outlook | 43/100 |
 | adoption | 37/100 |
 | stars | 44/100 |
 | forks | 19/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

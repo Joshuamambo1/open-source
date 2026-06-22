@@ -1,6 +1,6 @@
 # raycast/extensions
 
-[![Stars](https://img.shields.io/github/stars/raycast/extensions?style=flat-square&color=yellow)](https://github.com/raycast/extensions/stargazers) [![Forks](https://img.shields.io/github/forks/raycast/extensions?style=flat-square&color=blue)](https://github.com/raycast/extensions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raycast/extensions?style=flat-square&color=yellow)](https://github.com/raycast/extensions/stargazers) [![Forks](https://img.shields.io/github/forks/raycast/extensions?style=flat-square&color=blue)](https://github.com/raycast/extensions/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Everything you need to extend Raycast.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.5k |
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ raycast/extensions：raycast/extensions may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 54/100 |
 | adoption | 86/100 |
 | stars | 82/100 |
 | forks | 94/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

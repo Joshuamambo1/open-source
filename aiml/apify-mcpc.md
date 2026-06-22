@@ -1,6 +1,6 @@
 # apify/mcpc
 
-[![Stars](https://img.shields.io/github/stars/apify/mcpc?style=flat-square&color=yellow)](https://github.com/apify/mcpc/stargazers) [![Forks](https://img.shields.io/github/forks/apify/mcpc?style=flat-square&color=blue)](https://github.com/apify/mcpc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apify/mcpc?style=flat-square&color=yellow)](https://github.com/apify/mcpc/stargazers) [![Forks](https://img.shields.io/github/forks/apify/mcpc?style=flat-square&color=blue)](https://github.com/apify/mcpc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 588 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ The apify/mcpc project provides a comprehensive and universal CLI client for MCP
 
 ### 中文
 
-apify/mcpc：apify/mcpc helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+apify/mcpc：apify/mcpc helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ apify/mcpc：apify/mcpc helps add AI capability without starting from a blank mo
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -70,14 +70,14 @@ apify/mcpc：apify/mcpc helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 94/100 |
-| production | 76/100 |
-| outlook | 82/100 |
+| production | 63/100 |
+| outlook | 68/100 |
 | adoption | 55/100 |
 | stars | 59/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

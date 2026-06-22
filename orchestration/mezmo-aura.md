@@ -1,6 +1,6 @@
 # mezmo/aura
 
-[![Stars](https://img.shields.io/github/stars/mezmo/aura?style=flat-square&color=yellow)](https://github.com/mezmo/aura/stargazers) [![Forks](https://img.shields.io/github/forks/mezmo/aura?style=flat-square&color=blue)](https://github.com/mezmo/aura/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mezmo/aura?style=flat-square&color=yellow)](https://github.com/mezmo/aura/stargazers) [![Forks](https://img.shields.io/github/forks/mezmo/aura?style=flat-square&color=blue)](https://github.com/mezmo/aura/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A production-ready framework for composing AI agents from declarative TOML configuration, with MCP tool integration, RAG pipelines, and an OpenAI-compatible web API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mezmo/aura：mezmo/aura helps turn isolated prompts and tools into repeatable ag
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 77/100 |
+| production | 55/100 |
+| outlook | 63/100 |
 | adoption | 35/100 |
 | stars | 38/100 |
 | forks | 27/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

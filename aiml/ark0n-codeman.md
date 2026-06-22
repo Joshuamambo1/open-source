@@ -1,6 +1,6 @@
 # Ark0N/Codeman
 
-[![Stars](https://img.shields.io/github/stars/Ark0N/Codeman?style=flat-square&color=yellow)](https://github.com/Ark0N/Codeman/stargazers) [![Forks](https://img.shields.io/github/forks/Ark0N/Codeman?style=flat-square&color=blue)](https://github.com/Ark0N/Codeman/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ark0N/Codeman?style=flat-square&color=yellow)](https://github.com/Ark0N/Codeman/stargazers) [![Forks](https://img.shields.io/github/forks/Ark0N/Codeman?style=flat-square&color=blue)](https://github.com/Ark0N/Codeman/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Manage Claude Code & Opencode in Tmux Sessions in a modern WebUI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ark0N/Codeman — это open‑source платформа, позволяющ�
 
 ### 中文
 
-Ark0N/Codeman：Ark0N/Codeman helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Ark0N/Codeman：Ark0N/Codeman helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Ark0N/Codeman：Ark0N/Codeman helps add AI capability without starting from a bl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Ark0N/Codeman：Ark0N/Codeman helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 94/100 |
-| production | 76/100 |
-| outlook | 79/100 |
+| production | 63/100 |
+| outlook | 65/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 42/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

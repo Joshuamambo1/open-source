@@ -1,6 +1,6 @@
 # kellnr/kellnr
 
-[![Stars](https://img.shields.io/github/stars/kellnr/kellnr?style=flat-square&color=yellow)](https://github.com/kellnr/kellnr/stargazers) [![Forks](https://img.shields.io/github/forks/kellnr/kellnr?style=flat-square&color=blue)](https://github.com/kellnr/kellnr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kellnr/kellnr?style=flat-square&color=yellow)](https://github.com/kellnr/kellnr/stargazers) [![Forks](https://img.shields.io/github/forks/kellnr/kellnr?style=flat-square&color=blue)](https://github.com/kellnr/kellnr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The registry for Rust crates
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 981 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ kellnr/kellnr：kellnr/kellnr may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 59/100 |
 | stars | 64/100 |
 | forks | 48/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

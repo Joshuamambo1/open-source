@@ -1,6 +1,6 @@
 # SayYoungMan/tfui
 
-[![Stars](https://img.shields.io/github/stars/SayYoungMan/tfui?style=flat-square&color=yellow)](https://github.com/SayYoungMan/tfui/stargazers) [![Forks](https://img.shields.io/github/forks/SayYoungMan/tfui?style=flat-square&color=blue)](https://github.com/SayYoungMan/tfui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SayYoungMan/tfui?style=flat-square&color=yellow)](https://github.com/SayYoungMan/tfui/stargazers) [![Forks](https://img.shields.io/github/forks/SayYoungMan/tfui?style=flat-square&color=blue)](https://github.com/SayYoungMan/tfui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive TUI for performing Terraform workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 183 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ SayYoungMan/tfui：SayYoungMan/tfui helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 38/100 |
 | stars | 48/100 |
 | forks | 12/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

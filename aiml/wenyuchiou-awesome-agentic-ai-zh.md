@@ -1,6 +1,6 @@
 # WenyuChiou/awesome-agentic-ai-zh
 
-[![Stars](https://img.shields.io/github/stars/WenyuChiou/awesome-agentic-ai-zh?style=flat-square&color=yellow)](https://github.com/WenyuChiou/awesome-agentic-ai-zh/stargazers) [![Forks](https://img.shields.io/github/forks/WenyuChiou/awesome-agentic-ai-zh?style=flat-square&color=blue)](https://github.com/WenyuChiou/awesome-agentic-ai-zh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WenyuChiou/awesome-agentic-ai-zh?style=flat-square&color=yellow)](https://github.com/WenyuChiou/awesome-agentic-ai-zh/stargazers) [![Forks](https://img.shields.io/github/forks/WenyuChiou/awesome-agentic-ai-zh?style=flat-square&color=blue)](https://github.com/WenyuChiou/awesome-agentic-ai-zh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -70,14 +70,14 @@ WenyuChiou/awesome-agentic-ai-zh：WenyuChiou/awesome-agentic-ai-zh helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 38/100 |
 | stars | 43/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Anil-matcha/Open-Lovart
 
-[![Stars](https://img.shields.io/github/stars/Anil-matcha/Open-Lovart?style=flat-square&color=yellow)](https://github.com/Anil-matcha/Open-Lovart/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/Open-Lovart?style=flat-square&color=blue)](https://github.com/Anil-matcha/Open-Lovart/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anil-matcha/Open-Lovart?style=flat-square&color=yellow)](https://github.com/Anil-matcha/Open-Lovart/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/Open-Lovart?style=flat-square&color=blue)](https://github.com/Anil-matcha/Open-Lovart/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI design agent — alternative to Lovart, Runway Agent, Luma Labs Agent, Krea Agent, Pika Agent, Galileo AI, Magic Patterns. Autonomous multi-step creative for posters, social, brand kits, ad creatives, and video. Free, MIT-licensed, self-hosted.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Anil-matcha/Open-Lovart：Anil-matcha/Open-Lovart helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 77/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 58/100 |
 | stars | 60/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

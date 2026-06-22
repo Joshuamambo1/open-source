@@ -1,6 +1,6 @@
 # agillis/esphome-modular-lvgl-buttons
 
-[![Stars](https://img.shields.io/github/stars/agillis/esphome-modular-lvgl-buttons?style=flat-square&color=yellow)](https://github.com/agillis/esphome-modular-lvgl-buttons/stargazers) [![Forks](https://img.shields.io/github/forks/agillis/esphome-modular-lvgl-buttons?style=flat-square&color=blue)](https://github.com/agillis/esphome-modular-lvgl-buttons/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agillis/esphome-modular-lvgl-buttons?style=flat-square&color=yellow)](https://github.com/agillis/esphome-modular-lvgl-buttons/stargazers) [![Forks](https://img.shields.io/github/forks/agillis/esphome-modular-lvgl-buttons?style=flat-square&color=blue)](https://github.com/agillis/esphome-modular-lvgl-buttons/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A modular LVGL button platform for ESPHome
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ A lightweight, modular button component for ESPHome that leverages LVGL (Light a
 
 ### 中文
 
-agillis/esphome-modular-lvgl-buttons：agillis/esphome-modular-lvgl-buttons may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+agillis/esphome-modular-lvgl-buttons：agillis/esphome-modular-lvgl-buttons may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ agillis/esphome-modular-lvgl-buttons：agillis/esphome-modular-lvgl-buttons may 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ agillis/esphome-modular-lvgl-buttons：agillis/esphome-modular-lvgl-buttons may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 52/100 |
 | stars | 53/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # PrefectHQ/fastmcp
 
-[![Stars](https://img.shields.io/github/stars/PrefectHQ/fastmcp?style=flat-square&color=yellow)](https://github.com/PrefectHQ/fastmcp/stargazers) [![Forks](https://img.shields.io/github/forks/PrefectHQ/fastmcp?style=flat-square&color=blue)](https://github.com/PrefectHQ/fastmcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PrefectHQ/fastmcp?style=flat-square&color=yellow)](https://github.com/PrefectHQ/fastmcp/stargazers) [![Forks](https://img.shields.io/github/forks/PrefectHQ/fastmcp?style=flat-square&color=blue)](https://github.com/PrefectHQ/fastmcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 The fast, Pythonic way to build MCP servers and clients.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · Backend
 
 ### English
 
-PrefectHQ/fastmcp: PrefectHQ/fastmcp helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+PrefectHQ/fastmcp: PrefectHQ/fastmcp helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-PrefectHQ/fastmcp: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+PrefectHQ/fastmcp: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-PrefectHQ/fastmcp：PrefectHQ/fastmcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+PrefectHQ/fastmcp：PrefectHQ/fastmcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ PrefectHQ/fastmcp：PrefectHQ/fastmcp helps add AI capability without starting f
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ PrefectHQ/fastmcp：PrefectHQ/fastmcp helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 91/100 |
+| quality | 81/100 |
 | integration | 78/100 |
-| production | 80/100 |
-| outlook | 91/100 |
+| production | 67/100 |
+| outlook | 77/100 |
 | adoption | 90/100 |
 | stars | 94/100 |
 | forks | 82/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

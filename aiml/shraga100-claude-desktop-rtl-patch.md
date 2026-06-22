@@ -1,6 +1,6 @@
 # shraga100/claude-desktop-rtl-patch
 
-[![Stars](https://img.shields.io/github/stars/shraga100/claude-desktop-rtl-patch?style=flat-square&color=yellow)](https://github.com/shraga100/claude-desktop-rtl-patch/stargazers) [![Forks](https://img.shields.io/github/forks/shraga100/claude-desktop-rtl-patch?style=flat-square&color=blue)](https://github.com/shraga100/claude-desktop-rtl-patch/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shraga100/claude-desktop-rtl-patch?style=flat-square&color=yellow)](https://github.com/shraga100/claude-desktop-rtl-patch/stargazers) [![Forks](https://img.shields.io/github/forks/shraga100/claude-desktop-rtl-patch?style=flat-square&color=blue)](https://github.com/shraga100/claude-desktop-rtl-patch/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > CSS patch for Claude Desktop windows version to enable RTL (right-to-left) support for Hebrew and Arabic
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **claude-desktop-rtl-patch** provides a simple CSS modification that adds ri
 
 ### 中文
 
-shraga100/claude-desktop-rtl-patch：shraga100/claude-desktop-rtl-patch helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+shraga100/claude-desktop-rtl-patch：shraga100/claude-desktop-rtl-patch helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ shraga100/claude-desktop-rtl-patch：shraga100/claude-desktop-rtl-patch helps ad
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ shraga100/claude-desktop-rtl-patch：shraga100/claude-desktop-rtl-patch helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 29/100 |
 | stars | 31/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

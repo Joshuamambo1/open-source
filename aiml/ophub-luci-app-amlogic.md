@@ -1,6 +1,6 @@
 # ophub/luci-app-amlogic
 
-[![Stars](https://img.shields.io/github/stars/ophub/luci-app-amlogic?style=flat-square&color=yellow)](https://github.com/ophub/luci-app-amlogic/stargazers) [![Forks](https://img.shields.io/github/forks/ophub/luci-app-amlogic?style=flat-square&color=blue)](https://github.com/ophub/luci-app-amlogic/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ophub/luci-app-amlogic?style=flat-square&color=yellow)](https://github.com/ophub/luci-app-amlogic/stargazers) [![Forks](https://img.shields.io/github/forks/ophub/luci-app-amlogic?style=flat-square&color=blue)](https://github.com/ophub/luci-app-amlogic/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Supports managing OpenWrt on Amlogic, Allwinner, and Rockchip devices. include install and update the OpenWrt and kernel, Backup and Restore config, Snapshot management, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 389 |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ ophub/luci-app-amlogic：ophub/luci-app-amlogic helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 70/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 55/100 |
 | stars | 55/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

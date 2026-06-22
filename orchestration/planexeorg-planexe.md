@@ -1,6 +1,6 @@
 # PlanExeOrg/PlanExe
 
-[![Stars](https://img.shields.io/github/stars/PlanExeOrg/PlanExe?style=flat-square&color=yellow)](https://github.com/PlanExeOrg/PlanExe/stargazers) [![Forks](https://img.shields.io/github/forks/PlanExeOrg/PlanExe?style=flat-square&color=blue)](https://github.com/PlanExeOrg/PlanExe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PlanExeOrg/PlanExe?style=flat-square&color=yellow)](https://github.com/PlanExeOrg/PlanExe/stargazers) [![Forks](https://img.shields.io/github/forks/PlanExeOrg/PlanExe?style=flat-square&color=blue)](https://github.com/PlanExeOrg/PlanExe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Create a plan from a description in minutes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ PlanExeOrg/PlanExe：PlanExeOrg/PlanExe helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 78/100 |
-| production | 74/100 |
-| outlook | 73/100 |
+| production | 61/100 |
+| outlook | 59/100 |
 | adoption | 52/100 |
 | stars | 55/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

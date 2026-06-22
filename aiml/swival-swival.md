@@ -1,6 +1,6 @@
 # Swival/swival
 
-[![Stars](https://img.shields.io/github/stars/Swival/swival?style=flat-square&color=yellow)](https://github.com/Swival/swival/stargazers) [![Forks](https://img.shields.io/github/forks/Swival/swival?style=flat-square&color=blue)](https://github.com/Swival/swival/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Swival/swival?style=flat-square&color=yellow)](https://github.com/Swival/swival/stargazers) [![Forks](https://img.shields.io/github/forks/Swival/swival?style=flat-square&color=blue)](https://github.com/Swival/swival/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A small, powerful, open-source CLI coding agent that works with open models.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Swival/swival：Swival/swival helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 78/100 |
-| production | 72/100 |
-| outlook | 76/100 |
+| production | 59/100 |
+| outlook | 62/100 |
 | adoption | 42/100 |
 | stars | 46/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

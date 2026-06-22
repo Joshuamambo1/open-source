@@ -1,6 +1,6 @@
 # Coooolfan/onlyboxes
 
-[![Stars](https://img.shields.io/github/stars/Coooolfan/onlyboxes?style=flat-square&color=yellow)](https://github.com/Coooolfan/onlyboxes/stargazers) [![Forks](https://img.shields.io/github/forks/Coooolfan/onlyboxes?style=flat-square&color=blue)](https://github.com/Coooolfan/onlyboxes/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Coooolfan/onlyboxes?style=flat-square&color=yellow)](https://github.com/Coooolfan/onlyboxes/stargazers) [![Forks](https://img.shields.io/github/forks/Coooolfan/onlyboxes?style=flat-square&color=blue)](https://github.com/Coooolfan/onlyboxes/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Code Execution Sandbox Platform Solution for Individuals and Small Teams with MCP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -59,21 +59,21 @@ Coooolfan/onlyboxes：Coooolfan/onlyboxes helps teams reuse service infrastructu
 - primary language: Go
 - 3 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 43/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 46/100 |
 | adoption | 27/100 |
 | stars | 30/100 |
 | forks | 19/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

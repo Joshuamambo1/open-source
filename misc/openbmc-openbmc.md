@@ -1,6 +1,6 @@
 # openbmc/openbmc
 
-[![Stars](https://img.shields.io/github/stars/openbmc/openbmc?style=flat-square&color=yellow)](https://github.com/openbmc/openbmc/stargazers) [![Forks](https://img.shields.io/github/forks/openbmc/openbmc?style=flat-square&color=blue)](https://github.com/openbmc/openbmc/network) [![Language](https://img.shields.io/badge/lang-BitBake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openbmc/openbmc?style=flat-square&color=yellow)](https://github.com/openbmc/openbmc/stargazers) [![Forks](https://img.shields.io/github/forks/openbmc/openbmc?style=flat-square&color=blue)](https://github.com/openbmc/openbmc/network) [![Language](https://img.shields.io/badge/lang-BitBake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > OpenBMC Distribution
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | BitBake |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ openbmc/openbmc：openbmc/openbmc may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 73/100 |
 | stars | 72/100 |
 | forks | 76/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

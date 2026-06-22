@@ -1,6 +1,6 @@
 # bitcart/bitcart
 
-[![Stars](https://img.shields.io/github/stars/bitcart/bitcart?style=flat-square&color=yellow)](https://github.com/bitcart/bitcart/stargazers) [![Forks](https://img.shields.io/github/forks/bitcart/bitcart?style=flat-square&color=blue)](https://github.com/bitcart/bitcart/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitcart/bitcart?style=flat-square&color=yellow)](https://github.com/bitcart/bitcart/stargazers) [![Forks](https://img.shields.io/github/forks/bitcart/bitcart?style=flat-square&color=blue)](https://github.com/bitcart/bitcart/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 939 |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Crypto · Payments · Trading
 
 ### English
 
-bitcart/bitcart: bitcart/bitcart helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+bitcart/bitcart: bitcart/bitcart helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-bitcart/bitcart: open-source проект в категориях Crypto, Payments, Trading. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+bitcart/bitcart: open-source проект в категориях Crypto, Payments, Trading. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-bitcart/bitcart：bitcart/bitcart helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+bitcart/bitcart：bitcart/bitcart helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bitcart/bitcart：bitcart/bitcart helps prototype or inspect blockchain workflow
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ bitcart/bitcart：bitcart/bitcart helps prototype or inspect blockchain workflow
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 94/100 |
-| production | 77/100 |
-| outlook | 78/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 61/100 |
 | stars | 63/100 |
 | forks | 55/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

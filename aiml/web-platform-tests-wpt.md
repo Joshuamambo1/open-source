@@ -1,6 +1,6 @@
 # web-platform-tests/wpt
 
-[![Stars](https://img.shields.io/github/stars/web-platform-tests/wpt?style=flat-square&color=yellow)](https://github.com/web-platform-tests/wpt/stargazers) [![Forks](https://img.shields.io/github/forks/web-platform-tests/wpt?style=flat-square&color=blue)](https://github.com/web-platform-tests/wpt/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/web-platform-tests/wpt?style=flat-square&color=yellow)](https://github.com/web-platform-tests/wpt/stargazers) [![Forks](https://img.shields.io/github/forks/web-platform-tests/wpt?style=flat-square&color=blue)](https://github.com/web-platform-tests/wpt/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Test suites for Web platform specs — including WHATWG, W3C, and others
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ web-platform-tests/wpt：web-platform-tests/wpt helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 87/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 61/100 |
+| outlook | 66/100 |
 | adoption | 83/100 |
 | stars | 80/100 |
 | forks | 89/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

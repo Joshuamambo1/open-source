@@ -1,6 +1,6 @@
 # Siddhant-K-code/distill
 
-[![Stars](https://img.shields.io/github/stars/Siddhant-K-code/distill?style=flat-square&color=yellow)](https://github.com/Siddhant-K-code/distill/stargazers) [![Forks](https://img.shields.io/github/forks/Siddhant-K-code/distill?style=flat-square&color=blue)](https://github.com/Siddhant-K-code/distill/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Siddhant-K-code/distill?style=flat-square&color=yellow)](https://github.com/Siddhant-K-code/distill/stargazers) [![Forks](https://img.shields.io/github/forks/Siddhant-K-code/distill?style=flat-square&color=blue)](https://github.com/Siddhant-K-code/distill/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Context preprocessing middleware for LLM apps - deduplication, compression, summarization, and prompt cache management in one pipeline.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Siddhant-K-code/distill：Siddhant-K-code/distill helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 77/100 |
+| production | 55/100 |
+| outlook | 63/100 |
 | adoption | 42/100 |
 | stars | 47/100 |
 | forks | 31/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

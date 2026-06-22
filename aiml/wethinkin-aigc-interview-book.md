@@ -1,6 +1,6 @@
 # WeThinkIn/AIGC-Interview-Book
 
-[![Stars](https://img.shields.io/github/stars/WeThinkIn/AIGC-Interview-Book?style=flat-square&color=yellow)](https://github.com/WeThinkIn/AIGC-Interview-Book/stargazers) [![Forks](https://img.shields.io/github/forks/WeThinkIn/AIGC-Interview-Book?style=flat-square&color=blue)](https://github.com/WeThinkIn/AIGC-Interview-Book/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WeThinkIn/AIGC-Interview-Book?style=flat-square&color=yellow)](https://github.com/WeThinkIn/AIGC-Interview-Book/stargazers) [![Forks](https://img.shields.io/github/forks/WeThinkIn/AIGC-Interview-Book?style=flat-square&color=blue)](https://github.com/WeThinkIn/AIGC-Interview-Book/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 395 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ WeThinkIn/AIGC-Interview-Book：WeThinkIn/AIGC-Interview-Book helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 78/100 |
+| production | 57/100 |
+| outlook | 64/100 |
 | adoption | 73/100 |
 | stars | 76/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # asdfghj1237890/WebVideo2NAS
 
-[![Stars](https://img.shields.io/github/stars/asdfghj1237890/WebVideo2NAS?style=flat-square&color=yellow)](https://github.com/asdfghj1237890/WebVideo2NAS/stargazers) [![Forks](https://img.shields.io/github/forks/asdfghj1237890/WebVideo2NAS?style=flat-square&color=blue)](https://github.com/asdfghj1237890/WebVideo2NAS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asdfghj1237890/WebVideo2NAS?style=flat-square&color=yellow)](https://github.com/asdfghj1237890/WebVideo2NAS/stargazers) [![Forks](https://img.shields.io/github/forks/asdfghj1237890/WebVideo2NAS?style=flat-square&color=blue)](https://github.com/asdfghj1237890/WebVideo2NAS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted Chrome → NAS pipeline: capture HLS / DASH / MP4 streams from any site and download to your NAS. Single multi-arch Docker image (FastAPI + worker + ffmpeg) distributed via GHCR.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Backend · DevOps/Infra
 
 ### English
 
-asdfghj1237890/WebVideo2NAS: asdfghj1237890/WebVideo2NAS helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+asdfghj1237890/WebVideo2NAS: asdfghj1237890/WebVideo2NAS helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-asdfghj1237890/WebVideo2NAS: open-source проект в категориях Backend, DevOps/Infra. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+asdfghj1237890/WebVideo2NAS: open-source проект в категориях Backend, DevOps/Infra. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-asdfghj1237890/WebVideo2NAS：asdfghj1237890/WebVideo2NAS helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+asdfghj1237890/WebVideo2NAS：asdfghj1237890/WebVideo2NAS helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ asdfghj1237890/WebVideo2NAS：asdfghj1237890/WebVideo2NAS helps teams reuse serv
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ asdfghj1237890/WebVideo2NAS：asdfghj1237890/WebVideo2NAS helps teams reuse serv
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 94/100 |
-| production | 77/100 |
-| outlook | 78/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 60/100 |
 | stars | 65/100 |
 | forks | 46/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # home-assistant/iOS
 
-[![Stars](https://img.shields.io/github/stars/home-assistant/iOS?style=flat-square&color=yellow)](https://github.com/home-assistant/iOS/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant/iOS?style=flat-square&color=blue)](https://github.com/home-assistant/iOS/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/home-assistant/iOS?style=flat-square&color=yellow)](https://github.com/home-assistant/iOS/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant/iOS?style=flat-square&color=blue)](https://github.com/home-assistant/iOS/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > :iphone: Home Assistant for Apple platforms
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 447 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ home-assistant/iOS：home-assistant/iOS may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 70/100 |
 | stars | 71/100 |
 | forks | 66/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

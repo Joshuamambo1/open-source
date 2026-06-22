@@ -1,6 +1,6 @@
 # AXERA-TECH/ax-llm
 
-[![Stars](https://img.shields.io/github/stars/AXERA-TECH/ax-llm?style=flat-square&color=yellow)](https://github.com/AXERA-TECH/ax-llm/stargazers) [![Forks](https://img.shields.io/github/forks/AXERA-TECH/ax-llm?style=flat-square&color=blue)](https://github.com/AXERA-TECH/ax-llm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AXERA-TECH/ax-llm?style=flat-square&color=yellow)](https://github.com/AXERA-TECH/ax-llm/stargazers) [![Forks](https://img.shields.io/github/forks/AXERA-TECH/ax-llm?style=flat-square&color=blue)](https://github.com/AXERA-TECH/ax-llm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Explore LLM model deployment based on AXera's AI chips
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AXERA-TECH/ax-llm：AXERA-TECH/ax-llm helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 43/100 |
 | stars | 46/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

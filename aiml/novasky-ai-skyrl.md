@@ -1,6 +1,6 @@
 # NovaSky-AI/SkyRL
 
-[![Stars](https://img.shields.io/github/stars/NovaSky-AI/SkyRL?style=flat-square&color=yellow)](https://github.com/NovaSky-AI/SkyRL/stargazers) [![Forks](https://img.shields.io/github/forks/NovaSky-AI/SkyRL?style=flat-square&color=blue)](https://github.com/NovaSky-AI/SkyRL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NovaSky-AI/SkyRL?style=flat-square&color=yellow)](https://github.com/NovaSky-AI/SkyRL/stargazers) [![Forks](https://img.shields.io/github/forks/NovaSky-AI/SkyRL?style=flat-square&color=blue)](https://github.com/NovaSky-AI/SkyRL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > SkyRL: A Modular Full-stack RL Library for LLMs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ NovaSky-AI/SkyRL：NovaSky-AI/SkyRL helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 63/100 |
+| production | 53/100 |
+| outlook | 49/100 |
 | adoption | 67/100 |
 | stars | 69/100 |
 | forks | 63/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

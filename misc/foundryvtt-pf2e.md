@@ -1,6 +1,6 @@
 # foundryvtt/pf2e
 
-[![Stars](https://img.shields.io/github/stars/foundryvtt/pf2e?style=flat-square&color=yellow)](https://github.com/foundryvtt/pf2e/stargazers) [![Forks](https://img.shields.io/github/forks/foundryvtt/pf2e?style=flat-square&color=blue)](https://github.com/foundryvtt/pf2e/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foundryvtt/pf2e?style=flat-square&color=yellow)](https://github.com/foundryvtt/pf2e/stargazers) [![Forks](https://img.shields.io/github/forks/foundryvtt/pf2e?style=flat-square&color=blue)](https://github.com/foundryvtt/pf2e/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A community contributed game system for Pathfinder Second Edition.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 598 |
 | 🍴 **Forks** | 472 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ foundryvtt/pf2e：foundryvtt/pf2e may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 63/100 |
+| production | 53/100 |
+| outlook | 49/100 |
 | adoption | 61/100 |
 | stars | 59/100 |
 | forks | 67/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

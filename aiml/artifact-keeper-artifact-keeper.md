@@ -1,6 +1,6 @@
 # artifact-keeper/artifact-keeper
 
-[![Stars](https://img.shields.io/github/stars/artifact-keeper/artifact-keeper?style=flat-square&color=yellow)](https://github.com/artifact-keeper/artifact-keeper/stargazers) [![Forks](https://img.shields.io/github/forks/artifact-keeper/artifact-keeper?style=flat-square&color=blue)](https://github.com/artifact-keeper/artifact-keeper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/artifact-keeper/artifact-keeper?style=flat-square&color=yellow)](https://github.com/artifact-keeper/artifact-keeper/stargazers) [![Forks](https://img.shields.io/github/forks/artifact-keeper/artifact-keeper?style=flat-square&color=blue)](https://github.com/artifact-keeper/artifact-keeper/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40+ package formats, security scanning, WASM plugins, and edge replication.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 575 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Artifact Keeper is an open‑source universal artifact registry that serves as a
 
 ### 中文
 
-artifact-keeper/artifact-keeper：artifact-keeper/artifact-keeper helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+artifact-keeper/artifact-keeper：artifact-keeper/artifact-keeper helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ artifact-keeper/artifact-keeper：artifact-keeper/artifact-keeper helps add AI c
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ artifact-keeper/artifact-keeper：artifact-keeper/artifact-keeper helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 94/100 |
-| production | 76/100 |
-| outlook | 73/100 |
+| production | 63/100 |
+| outlook | 59/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 41/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

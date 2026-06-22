@@ -1,6 +1,6 @@
 # shivammathur/homebrew-php
 
-[![Stars](https://img.shields.io/github/stars/shivammathur/homebrew-php?style=flat-square&color=yellow)](https://github.com/shivammathur/homebrew-php/stargazers) [![Forks](https://img.shields.io/github/forks/shivammathur/homebrew-php?style=flat-square&color=blue)](https://github.com/shivammathur/homebrew-php/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shivammathur/homebrew-php?style=flat-square&color=yellow)](https://github.com/shivammathur/homebrew-php/stargazers) [![Forks](https://img.shields.io/github/forks/shivammathur/homebrew-php?style=flat-square&color=blue)](https://github.com/shivammathur/homebrew-php/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ shivammathur/homebrew-php：shivammathur/homebrew-php helps ship user-facing int
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 69/100 |
 | stars | 73/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

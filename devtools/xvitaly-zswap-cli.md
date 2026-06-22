@@ -1,6 +1,6 @@
 # xvitaly/zswap-cli
 
-[![Stars](https://img.shields.io/github/stars/xvitaly/zswap-cli?style=flat-square&color=yellow)](https://github.com/xvitaly/zswap-cli/stargazers) [![Forks](https://img.shields.io/github/forks/xvitaly/zswap-cli?style=flat-square&color=blue)](https://github.com/xvitaly/zswap-cli/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xvitaly/zswap-cli?style=flat-square&color=yellow)](https://github.com/xvitaly/zswap-cli/stargazers) [![Forks](https://img.shields.io/github/forks/xvitaly/zswap-cli?style=flat-square&color=blue)](https://github.com/xvitaly/zswap-cli/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line tool to control the zswap kernel module options
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ xvitaly/zswap-cli：xvitaly/zswap-cli helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 68/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 29/100 |
 | stars | 34/100 |
 | forks | 15/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

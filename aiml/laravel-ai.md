@@ -1,6 +1,6 @@
 # laravel/ai
 
-[![Stars](https://img.shields.io/github/stars/laravel/ai?style=flat-square&color=yellow)](https://github.com/laravel/ai/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/ai?style=flat-square&color=blue)](https://github.com/laravel/ai/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laravel/ai?style=flat-square&color=yellow)](https://github.com/laravel/ai/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/ai?style=flat-square&color=blue)](https://github.com/laravel/ai/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 897 |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ laravel/ai：laravel/ai helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 68/100 |
+| production | 54/100 |
+| outlook | 54/100 |
 | adoption | 62/100 |
 | stars | 63/100 |
 | forks | 59/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

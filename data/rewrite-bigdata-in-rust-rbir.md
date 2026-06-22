@@ -1,6 +1,6 @@
 # rewrite-bigdata-in-rust/RBIR
 
-[![Stars](https://img.shields.io/github/stars/rewrite-bigdata-in-rust/RBIR?style=flat-square&color=yellow)](https://github.com/rewrite-bigdata-in-rust/RBIR/stargazers) [![Forks](https://img.shields.io/github/forks/rewrite-bigdata-in-rust/RBIR?style=flat-square&color=blue)](https://github.com/rewrite-bigdata-in-rust/RBIR/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rewrite-bigdata-in-rust/RBIR?style=flat-square&color=yellow)](https://github.com/rewrite-bigdata-in-rust/RBIR/stargazers) [![Forks](https://img.shields.io/github/forks/rewrite-bigdata-in-rust/RBIR?style=flat-square&color=blue)](https://github.com/rewrite-bigdata-in-rust/RBIR/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of RBIR projects and posts for anyone interested in joining this journey.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **rewrite‑bigdata‑in‑rust/RBIR** repository gathers a series of Rust�
 
 ### 中文
 
-rewrite-bigdata-in-rust/RBIR：rewrite-bigdata-in-rust/RBIR helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rewrite-bigdata-in-rust/RBIR：rewrite-bigdata-in-rust/RBIR helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rewrite-bigdata-in-rust/RBIR：rewrite-bigdata-in-rust/RBIR helps convert raw da
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ rewrite-bigdata-in-rust/RBIR：rewrite-bigdata-in-rust/RBIR helps convert raw da
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 46/100 |
 | stars | 53/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

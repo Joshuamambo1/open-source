@@ -1,6 +1,6 @@
 # rust-lang/triagebot
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/triagebot?style=flat-square&color=yellow)](https://github.com/rust-lang/triagebot/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/triagebot?style=flat-square&color=blue)](https://github.com/rust-lang/triagebot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/triagebot?style=flat-square&color=yellow)](https://github.com/rust-lang/triagebot/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/triagebot?style=flat-square&color=blue)](https://github.com/rust-lang/triagebot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Automation/tooling for Rust spaces
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **triagebot** project provides automated tooling for managing and triaging i
 
 ### 中文
 
-rust-lang/triagebot：rust-lang/triagebot helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rust-lang/triagebot：rust-lang/triagebot helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rust-lang/triagebot：rust-lang/triagebot helps engineers save time in daily dev
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ rust-lang/triagebot：rust-lang/triagebot helps engineers save time in daily dev
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 65/100 |
+| production | 48/100 |
+| outlook | 51/100 |
 | adoption | 50/100 |
 | stars | 50/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

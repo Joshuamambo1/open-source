@@ -1,6 +1,6 @@
 # ScoopInstaller/Extras
 
-[![Stars](https://img.shields.io/github/stars/ScoopInstaller/Extras?style=flat-square&color=yellow)](https://github.com/ScoopInstaller/Extras/stargazers) [![Forks](https://img.shields.io/github/forks/ScoopInstaller/Extras?style=flat-square&color=blue)](https://github.com/ScoopInstaller/Extras/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ScoopInstaller/Extras?style=flat-square&color=yellow)](https://github.com/ScoopInstaller/Extras/stargazers) [![Forks](https://img.shields.io/github/forks/ScoopInstaller/Extras?style=flat-square&color=blue)](https://github.com/ScoopInstaller/Extras/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 📦 The Extras bucket for Scoop.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ ScoopInstaller/Extras：ScoopInstaller/Extras may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 73/100 |
 | stars | 71/100 |
 | forks | 80/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

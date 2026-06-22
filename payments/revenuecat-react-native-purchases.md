@@ -1,6 +1,6 @@
 # RevenueCat/react-native-purchases
 
-[![Stars](https://img.shields.io/github/stars/RevenueCat/react-native-purchases?style=flat-square&color=yellow)](https://github.com/RevenueCat/react-native-purchases/stargazers) [![Forks](https://img.shields.io/github/forks/RevenueCat/react-native-purchases?style=flat-square&color=blue)](https://github.com/RevenueCat/react-native-purchases/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RevenueCat/react-native-purchases?style=flat-square&color=yellow)](https://github.com/RevenueCat/react-native-purchases/stargazers) [![Forks](https://img.shields.io/github/forks/RevenueCat/react-native-purchases?style=flat-square&color=blue)](https://github.com/RevenueCat/react-native-purchases/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > React Native in-app purchases and subscriptions made easy. Support for iOS, Android and web.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ RevenueCat/react-native-purchases：RevenueCat/react-native-purchases helps inte
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

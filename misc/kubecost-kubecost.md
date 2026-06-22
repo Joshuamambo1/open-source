@@ -1,6 +1,6 @@
 # kubecost/kubecost
 
-[![Stars](https://img.shields.io/github/stars/kubecost/kubecost?style=flat-square&color=yellow)](https://github.com/kubecost/kubecost/stargazers) [![Forks](https://img.shields.io/github/forks/kubecost/kubecost?style=flat-square&color=blue)](https://github.com/kubecost/kubecost/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubecost/kubecost?style=flat-square&color=yellow)](https://github.com/kubecost/kubecost/stargazers) [![Forks](https://img.shields.io/github/forks/kubecost/kubecost?style=flat-square&color=blue)](https://github.com/kubecost/kubecost/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Kubecost helm chart
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 633 |
 | 🍴 **Forks** | 434 |
 | 💻 **Language** | Mustache |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-kubecost/kubecost: kubecost/kubecost may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kubecost/kubecost: kubecost/kubecost may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-kubecost/kubecost: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+kubecost/kubecost: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-kubecost/kubecost：kubecost/kubecost may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kubecost/kubecost：kubecost/kubecost may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ kubecost/kubecost：kubecost/kubecost may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ kubecost/kubecost：kubecost/kubecost may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 61/100 |
 | stars | 60/100 |
 | forks | 66/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

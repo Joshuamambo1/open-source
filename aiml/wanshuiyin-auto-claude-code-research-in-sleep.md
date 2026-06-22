@@ -1,6 +1,6 @@
 # wanshuiyin/Auto-claude-code-research-in-sleep
 
-[![Stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square&color=yellow)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/stargazers) [![Forks](https://img.shields.io/github/forks/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square&color=blue)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square&color=yellow)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/stargazers) [![Forks](https://img.shields.io/github/forks/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square&color=blue)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.3k |
 | 🍴 **Forks** | 778 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · Backend
 
 ### English
 
-wanshuiyin/Auto-claude-code-research-in-sleep: wanshuiyin/Auto-claude-code-research-in-sleep helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+wanshuiyin/Auto-claude-code-research-in-sleep: wanshuiyin/Auto-claude-code-research-in-sleep helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-wanshuiyin/Auto-claude-code-research-in-sleep: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+wanshuiyin/Auto-claude-code-research-in-sleep: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-wanshuiyin/Auto-claude-code-research-in-sleep：wanshuiyin/Auto-claude-code-research-in-sleep helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+wanshuiyin/Auto-claude-code-research-in-sleep：wanshuiyin/Auto-claude-code-research-in-sleep helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ wanshuiyin/Auto-claude-code-research-in-sleep：wanshuiyin/Auto-claude-code-rese
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ wanshuiyin/Auto-claude-code-research-in-sleep：wanshuiyin/Auto-claude-code-rese
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 86/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 88/100 |
+| production | 63/100 |
+| outlook | 74/100 |
 | adoption | 80/100 |
 | stars | 83/100 |
 | forks | 72/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

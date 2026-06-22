@@ -1,6 +1,6 @@
 # status-im/status-app
 
-[![Stars](https://img.shields.io/github/stars/status-im/status-app?style=flat-square&color=yellow)](https://github.com/status-im/status-app/stargazers) [![Forks](https://img.shields.io/github/forks/status-im/status-app?style=flat-square&color=blue)](https://github.com/status-im/status-app/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/status-im/status-app?style=flat-square&color=yellow)](https://github.com/status-im/status-app/stargazers) [![Forks](https://img.shields.io/github/forks/status-im/status-app?style=flat-square&color=blue)](https://github.com/status-im/status-app/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Status App client made in Nim & QML
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 357 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | QML |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ status-im/status-app：status-im/status-app helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 53/100 |
 | stars | 54/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

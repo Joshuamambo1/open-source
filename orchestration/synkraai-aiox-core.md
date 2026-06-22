@@ -1,6 +1,6 @@
 # SynkraAI/aiox-core
 
-[![Stars](https://img.shields.io/github/stars/SynkraAI/aiox-core?style=flat-square&color=yellow)](https://github.com/SynkraAI/aiox-core/stargazers) [![Forks](https://img.shields.io/github/forks/SynkraAI/aiox-core?style=flat-square&color=blue)](https://github.com/SynkraAI/aiox-core/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SynkraAI/aiox-core?style=flat-square&color=yellow)](https://github.com/SynkraAI/aiox-core/stargazers) [![Forks](https://img.shields.io/github/forks/SynkraAI/aiox-core?style=flat-square&color=blue)](https://github.com/SynkraAI/aiox-core/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 895 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ SynkraAI/aiox-core：SynkraAI/aiox-core helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 83/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 86/100 |
+| production | 62/100 |
+| outlook | 72/100 |
 | adoption | 74/100 |
 | stars | 73/100 |
 | forks | 74/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

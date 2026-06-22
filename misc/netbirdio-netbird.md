@@ -1,6 +1,6 @@
 # netbirdio/netbird
 
-[![Stars](https://img.shields.io/github/stars/netbirdio/netbird?style=flat-square&color=yellow)](https://github.com/netbirdio/netbird/stargazers) [![Forks](https://img.shields.io/github/forks/netbirdio/netbird?style=flat-square&color=blue)](https://github.com/netbirdio/netbird/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netbirdio/netbird?style=flat-square&color=yellow)](https://github.com/netbirdio/netbird/stargazers) [![Forks](https://img.shields.io/github/forks/netbirdio/netbird?style=flat-square&color=blue)](https://github.com/netbirdio/netbird/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-netbirdio/netbird: netbirdio/netbird may be useful when its README and activity match a concrete workflow.. Use it for Misc. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+netbirdio/netbird: netbirdio/netbird may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-netbirdio/netbird: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+netbirdio/netbird: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-netbirdio/netbird：netbirdio/netbird may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+netbirdio/netbird：netbirdio/netbird may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ netbirdio/netbird：netbirdio/netbird may be useful when its README and activity
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ netbirdio/netbird：netbirdio/netbird may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 90/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 79/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 89/100 |
 | stars | 94/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

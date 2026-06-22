@@ -1,6 +1,6 @@
 # moov-io/awesome-fintech
 
-[![Stars](https://img.shields.io/github/stars/moov-io/awesome-fintech?style=flat-square&color=yellow)](https://github.com/moov-io/awesome-fintech/stargazers) [![Forks](https://img.shields.io/github/forks/moov-io/awesome-fintech?style=flat-square&color=blue)](https://github.com/moov-io/awesome-fintech/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moov-io/awesome-fintech?style=flat-square&color=yellow)](https://github.com/moov-io/awesome-fintech/stargazers) [![Forks](https://img.shields.io/github/forks/moov-io/awesome-fintech?style=flat-square&color=blue)](https://github.com/moov-io/awesome-fintech/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of open source fintech libraries and resources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 295 |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ moov-io/awesome-fintech：moov-io/awesome-fintech helps integrate monetization, 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 74/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 52/100 |
 | stars | 53/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

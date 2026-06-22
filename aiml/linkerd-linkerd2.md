@@ -1,6 +1,6 @@
 # linkerd/linkerd2
 
-[![Stars](https://img.shields.io/github/stars/linkerd/linkerd2?style=flat-square&color=yellow)](https://github.com/linkerd/linkerd2/stargazers) [![Forks](https://img.shields.io/github/forks/linkerd/linkerd2?style=flat-square&color=blue)](https://github.com/linkerd/linkerd2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linkerd/linkerd2?style=flat-square&color=yellow)](https://github.com/linkerd/linkerd2/stargazers) [![Forks](https://img.shields.io/github/forks/linkerd/linkerd2?style=flat-square&color=blue)](https://github.com/linkerd/linkerd2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.4k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ Linkerd/linkerd2 - это открытый проект, предлагающи�
 
 ### 中文
 
-linkerd/linkerd2：linkerd/linkerd2 helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+linkerd/linkerd2：linkerd/linkerd2 helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ linkerd/linkerd2：linkerd/linkerd2 helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -70,14 +70,14 @@ linkerd/linkerd2：linkerd/linkerd2 helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 75/100 |
+| production | 62/100 |
+| outlook | 61/100 |
 | adoption | 84/100 |
 | stars | 86/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

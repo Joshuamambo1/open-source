@@ -1,6 +1,6 @@
 # HoangNguyen0403/agent-skills-standard
 
-[![Stars](https://img.shields.io/github/stars/HoangNguyen0403/agent-skills-standard?style=flat-square&color=yellow)](https://github.com/HoangNguyen0403/agent-skills-standard/stargazers) [![Forks](https://img.shields.io/github/forks/HoangNguyen0403/agent-skills-standard?style=flat-square&color=blue)](https://github.com/HoangNguyen0403/agent-skills-standard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HoangNguyen0403/agent-skills-standard?style=flat-square&color=yellow)](https://github.com/HoangNguyen0403/agent-skills-standard/stargazers) [![Forks](https://img.shields.io/github/forks/HoangNguyen0403/agent-skills-standard?style=flat-square&color=blue)](https://github.com/HoangNguyen0403/agent-skills-standard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of Agent Skills Standard and Best Practice for Programming Languages, Frameworks that help our AI Agent follow best practies on frameworks and programming laguages
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 486 |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ HoangNguyen0403/agent-skills-standard：HoangNguyen0403/agent-skills-standard he
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 77/100 |
+| production | 59/100 |
+| outlook | 63/100 |
 | adoption | 56/100 |
 | stars | 57/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

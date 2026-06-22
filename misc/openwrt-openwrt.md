@@ -1,6 +1,6 @@
 # openwrt/openwrt
 
-[![Stars](https://img.shields.io/github/stars/openwrt/openwrt?style=flat-square&color=yellow)](https://github.com/openwrt/openwrt/stargazers) [![Forks](https://img.shields.io/github/forks/openwrt/openwrt?style=flat-square&color=blue)](https://github.com/openwrt/openwrt/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openwrt/openwrt?style=flat-square&color=yellow)](https://github.com/openwrt/openwrt/stargazers) [![Forks](https://img.shields.io/github/forks/openwrt/openwrt?style=flat-square&color=blue)](https://github.com/openwrt/openwrt/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26.8k |
 | 🍴 **Forks** | 12.4k |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ openwrt/openwrt：openwrt/openwrt may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 70/100 |
+| production | 56/100 |
+| outlook | 56/100 |
 | adoption | 96/100 |
 | stars | 94/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

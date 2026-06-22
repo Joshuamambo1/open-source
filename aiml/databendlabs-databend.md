@@ -1,6 +1,6 @@
 # databendlabs/databend
 
-[![Stars](https://img.shields.io/github/stars/databendlabs/databend?style=flat-square&color=yellow)](https://github.com/databendlabs/databend/stargazers) [![Forks](https://img.shields.io/github/forks/databendlabs/databend?style=flat-square&color=blue)](https://github.com/databendlabs/databend/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/databendlabs/databend?style=flat-square&color=yellow)](https://github.com/databendlabs/databend/stargazers) [![Forks](https://img.shields.io/github/forks/databendlabs/databend?style=flat-square&color=blue)](https://github.com/databendlabs/databend/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.3k |
 | 🍴 **Forks** | 869 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ databendlabs/databend：databendlabs/databend helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 87/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 61/100 |
+| outlook | 66/100 |
 | adoption | 81/100 |
 | stars | 84/100 |
 | forks | 73/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # boyter/scc
 
-[![Stars](https://img.shields.io/github/stars/boyter/scc?style=flat-square&color=yellow)](https://github.com/boyter/scc/stargazers) [![Forks](https://img.shields.io/github/forks/boyter/scc?style=flat-square&color=blue)](https://github.com/boyter/scc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boyter/scc?style=flat-square&color=yellow)](https://github.com/boyter/scc/stargazers) [![Forks](https://img.shields.io/github/forks/boyter/scc?style=flat-square&color=blue)](https://github.com/boyter/scc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.4k |
 | 🍴 **Forks** | 317 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ boyter/scc is a high‑performance, open‑source code‑counting tool written i
 
 ### 中文
 
-boyter/scc：boyter/scc helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+boyter/scc：boyter/scc helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ boyter/scc：boyter/scc helps engineers save time in daily development and revie
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ boyter/scc：boyter/scc helps engineers save time in daily development and revie
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 79/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 78/100 |
 | stars | 83/100 |
 | forks | 63/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

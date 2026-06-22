@@ -1,6 +1,6 @@
 # go-git/go-billy
 
-[![Stars](https://img.shields.io/github/stars/go-git/go-billy?style=flat-square&color=yellow)](https://github.com/go-git/go-billy/stargazers) [![Forks](https://img.shields.io/github/forks/go-git/go-billy?style=flat-square&color=blue)](https://github.com/go-git/go-billy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-git/go-billy?style=flat-square&color=yellow)](https://github.com/go-git/go-billy/stargazers) [![Forks](https://img.shields.io/github/forks/go-git/go-billy?style=flat-square&color=blue)](https://github.com/go-git/go-billy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The missing interface filesystem abstraction for Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 398 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ go-git/go-billy：go-git/go-billy may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 46/100 |
 | adoption | 52/100 |
 | stars | 55/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # tauri-apps/plugins-workspace
 
-[![Stars](https://img.shields.io/github/stars/tauri-apps/plugins-workspace?style=flat-square&color=yellow)](https://github.com/tauri-apps/plugins-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/tauri-apps/plugins-workspace?style=flat-square&color=blue)](https://github.com/tauri-apps/plugins-workspace/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tauri-apps/plugins-workspace?style=flat-square&color=yellow)](https://github.com/tauri-apps/plugins-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/tauri-apps/plugins-workspace?style=flat-square&color=blue)](https://github.com/tauri-apps/plugins-workspace/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > All of the official Tauri plugins in one place!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 530 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ tauri-apps/plugins-workspace：tauri-apps/plugins-workspace may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 69/100 |
 | stars | 69/100 |
 | forks | 68/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # bazelbuild/rules_swift
 
-[![Stars](https://img.shields.io/github/stars/bazelbuild/rules_swift?style=flat-square&color=yellow)](https://github.com/bazelbuild/rules_swift/stargazers) [![Forks](https://img.shields.io/github/forks/bazelbuild/rules_swift?style=flat-square&color=blue)](https://github.com/bazelbuild/rules_swift/network) [![Language](https://img.shields.io/badge/lang-Starlark-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bazelbuild/rules_swift?style=flat-square&color=yellow)](https://github.com/bazelbuild/rules_swift/stargazers) [![Forks](https://img.shields.io/github/forks/bazelbuild/rules_swift?style=flat-square&color=blue)](https://github.com/bazelbuild/rules_swift/network) [![Language](https://img.shields.io/badge/lang-Starlark-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Bazel rules to build Swift on Apple and Linux platforms
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 349 |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | Starlark |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ bazelbuild/rules_swift：bazelbuild/rules_swift helps ship user-facing interface
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 55/100 |
 | stars | 54/100 |
 | forks | 56/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

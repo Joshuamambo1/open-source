@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/kubectl-ai
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/kubectl-ai?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/kubectl-ai/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/kubectl-ai?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/kubectl-ai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/kubectl-ai?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/kubectl-ai/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/kubectl-ai?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/kubectl-ai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > AI powered Kubernetes Assistant
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 696 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GoogleCloudPlatform/kubectl‑ai — это open‑source‑инструме
 
 ### 中文
 
-GoogleCloudPlatform/kubectl-ai：GoogleCloudPlatform/kubectl-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+GoogleCloudPlatform/kubectl-ai：GoogleCloudPlatform/kubectl-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ GoogleCloudPlatform/kubectl-ai：GoogleCloudPlatform/kubectl-ai helps add AI cap
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ GoogleCloudPlatform/kubectl-ai：GoogleCloudPlatform/kubectl-ai helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 75/100 |
-| outlook | 74/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 79/100 |
 | stars | 82/100 |
 | forks | 71/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

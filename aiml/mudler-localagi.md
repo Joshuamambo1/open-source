@@ -1,6 +1,6 @@
 # mudler/LocalAGI
 
-[![Stars](https://img.shields.io/github/stars/mudler/LocalAGI?style=flat-square&color=yellow)](https://github.com/mudler/LocalAGI/stargazers) [![Forks](https://img.shields.io/github/forks/mudler/LocalAGI?style=flat-square&color=blue)](https://github.com/mudler/LocalAGI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mudler/LocalAGI?style=flat-square&color=yellow)](https://github.com/mudler/LocalAGI/stargazers) [![Forks](https://img.shields.io/github/forks/mudler/LocalAGI?style=flat-square&color=blue)](https://github.com/mudler/LocalAGI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds.  Local AI that works on consumer-grade hardware (CPU and GPU).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ mudler/LocalAGI：mudler/LocalAGI helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 67/100 |
 | stars | 69/100 |
 | forks | 61/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

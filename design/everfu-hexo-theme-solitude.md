@@ -1,6 +1,6 @@
 # everfu/hexo-theme-solitude
 
-[![Stars](https://img.shields.io/github/stars/everfu/hexo-theme-solitude?style=flat-square&color=yellow)](https://github.com/everfu/hexo-theme-solitude/stargazers) [![Forks](https://img.shields.io/github/forks/everfu/hexo-theme-solitude?style=flat-square&color=blue)](https://github.com/everfu/hexo-theme-solitude/network) [![Language](https://img.shields.io/badge/lang-Stylus-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/everfu/hexo-theme-solitude?style=flat-square&color=yellow)](https://github.com/everfu/hexo-theme-solitude/stargazers) [![Forks](https://img.shields.io/github/forks/everfu/hexo-theme-solitude?style=flat-square&color=blue)](https://github.com/everfu/hexo-theme-solitude/network) [![Language](https://img.shields.io/badge/lang-Stylus-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Stylus |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ everfu/hexo-theme-solitude：everfu/hexo-theme-solitude may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 55/100 |
+| outlook | 58/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 52/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

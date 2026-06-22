@@ -1,6 +1,6 @@
 # Correia-jpv/fucking-terminals-are-sexy
 
-[![Stars](https://img.shields.io/github/stars/Correia-jpv/fucking-terminals-are-sexy?style=flat-square&color=yellow)](https://github.com/Correia-jpv/fucking-terminals-are-sexy/stargazers) [![Forks](https://img.shields.io/github/forks/Correia-jpv/fucking-terminals-are-sexy?style=flat-square&color=blue)](https://github.com/Correia-jpv/fucking-terminals-are-sexy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Correia-jpv/fucking-terminals-are-sexy?style=flat-square&color=yellow)](https://github.com/Correia-jpv/fucking-terminals-are-sexy/stargazers) [![Forks](https://img.shields.io/github/forks/Correia-jpv/fucking-terminals-are-sexy?style=flat-square&color=blue)](https://github.com/Correia-jpv/fucking-terminals-are-sexy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ Correia-jpv/fucking-terminals-are-sexy：Correia-jpv/fucking-terminals-are-sexy 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 64/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 31/100 |
 | stars | 38/100 |
 | forks | 15/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

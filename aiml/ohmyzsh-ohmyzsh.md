@@ -1,6 +1,6 @@
 # ohmyzsh/ohmyzsh
 
-[![Stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=flat-square&color=yellow)](https://github.com/ohmyzsh/ohmyzsh/stargazers) [![Forks](https://img.shields.io/github/forks/ohmyzsh/ohmyzsh?style=flat-square&color=blue)](https://github.com/ohmyzsh/ohmyzsh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=flat-square&color=yellow)](https://github.com/ohmyzsh/ohmyzsh/stargazers) [![Forks](https://img.shields.io/github/forks/ohmyzsh/ohmyzsh?style=flat-square&color=blue)](https://github.com/ohmyzsh/ohmyzsh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 186.9k |
 | 🍴 **Forks** | 26.4k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 92/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Oh My Zsh — это популярный open‑source фреймворк д�
 
 ### 中文
 
-ohmyzsh/ohmyzsh：ohmyzsh/ohmyzsh helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ohmyzsh/ohmyzsh：ohmyzsh/ohmyzsh helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ohmyzsh/ohmyzsh：ohmyzsh/ohmyzsh helps add AI capability without starting from 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ohmyzsh/ohmyzsh：ohmyzsh/ohmyzsh helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 95/100 |
+| quality | 85/100 |
 | integration | 94/100 |
-| production | 84/100 |
-| outlook | 91/100 |
+| production | 71/100 |
+| outlook | 77/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

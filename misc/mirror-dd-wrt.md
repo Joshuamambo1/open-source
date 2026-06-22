@@ -1,6 +1,6 @@
 # mirror/dd-wrt
 
-[![Stars](https://img.shields.io/github/stars/mirror/dd-wrt?style=flat-square&color=yellow)](https://github.com/mirror/dd-wrt/stargazers) [![Forks](https://img.shields.io/github/forks/mirror/dd-wrt?style=flat-square&color=blue)](https://github.com/mirror/dd-wrt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mirror/dd-wrt?style=flat-square&color=yellow)](https://github.com/mirror/dd-wrt/stargazers) [![Forks](https://img.shields.io/github/forks/mirror/dd-wrt?style=flat-square&color=blue)](https://github.com/mirror/dd-wrt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > DD-WRT Subversion mirror.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 604 |
 | 🍴 **Forks** | 258 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **mirror/dd-wrt** project provides a publicly accessible Subversion mirror o
 
 ### 中文
 
-mirror/dd-wrt：mirror/dd-wrt may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mirror/dd-wrt：mirror/dd-wrt may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ mirror/dd-wrt：mirror/dd-wrt may be useful when its README and activity match a
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,14 +62,14 @@ mirror/dd-wrt：mirror/dd-wrt may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 61/100 |
+| production | 50/100 |
+| outlook | 47/100 |
 | adoption | 60/100 |
 | stars | 59/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Comfy-Org/ComfyUI
 
-[![Stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=flat-square&color=yellow)](https://github.com/Comfy-Org/ComfyUI/stargazers) [![Forks](https://img.shields.io/github/forks/Comfy-Org/ComfyUI?style=flat-square&color=blue)](https://github.com/Comfy-Org/ComfyUI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=flat-square&color=yellow)](https://github.com/Comfy-Org/ComfyUI/stargazers) [![Forks](https://img.shields.io/github/forks/Comfy-Org/ComfyUI?style=flat-square&color=blue)](https://github.com/Comfy-Org/ComfyUI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 112k |
 | 🍴 **Forks** | 13.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Comfy-Org/ComfyUI — это открытая платформа с мощны
 
 ### 中文
 
-Comfy-Org/ComfyUI：Comfy-Org/ComfyUI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Comfy-Org/ComfyUI：Comfy-Org/ComfyUI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Comfy-Org/ComfyUI：Comfy-Org/ComfyUI helps add AI capability without starting f
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Comfy-Org/ComfyUI：Comfy-Org/ComfyUI helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 91/100 |
+| quality | 81/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 82/100 |
+| production | 65/100 |
+| outlook | 68/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

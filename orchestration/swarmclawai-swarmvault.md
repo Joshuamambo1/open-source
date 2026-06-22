@@ -1,6 +1,6 @@
 # swarmclawai/swarmvault
 
-[![Stars](https://img.shields.io/github/stars/swarmclawai/swarmvault?style=flat-square&color=yellow)](https://github.com/swarmclawai/swarmvault/stargazers) [![Forks](https://img.shields.io/github/forks/swarmclawai/swarmvault?style=flat-square&color=blue)](https://github.com/swarmclawai/swarmvault/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swarmclawai/swarmvault?style=flat-square&color=yellow)](https://github.com/swarmclawai/swarmvault/stargazers) [![Forks](https://img.shields.io/github/forks/swarmclawai/swarmvault?style=flat-square&color=blue)](https://github.com/swarmclawai/swarmvault/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 423 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ swarmclawai/swarmvault：swarmclawai/swarmvault helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 79/100 |
+| production | 58/100 |
+| outlook | 65/100 |
 | adoption | 52/100 |
 | stars | 56/100 |
 | forks | 41/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

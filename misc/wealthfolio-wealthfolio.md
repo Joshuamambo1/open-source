@@ -1,6 +1,6 @@
 # wealthfolio/wealthfolio
 
-[![Stars](https://img.shields.io/github/stars/wealthfolio/wealthfolio?style=flat-square&color=yellow)](https://github.com/wealthfolio/wealthfolio/stargazers) [![Forks](https://img.shields.io/github/forks/wealthfolio/wealthfolio?style=flat-square&color=blue)](https://github.com/wealthfolio/wealthfolio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wealthfolio/wealthfolio?style=flat-square&color=yellow)](https://github.com/wealthfolio/wealthfolio/stargazers) [![Forks](https://img.shields.io/github/forks/wealthfolio/wealthfolio?style=flat-square&color=blue)](https://github.com/wealthfolio/wealthfolio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A beautiful, private, local-first personal finance tracker — investments, net worth, spending, and simulations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 482 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ wealthfolio/wealthfolio：wealthfolio/wealthfolio may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 74/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 78/100 |
 | stars | 82/100 |
 | forks | 67/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

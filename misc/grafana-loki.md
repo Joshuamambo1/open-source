@@ -1,6 +1,6 @@
 # grafana/loki
 
-[![Stars](https://img.shields.io/github/stars/grafana/loki?style=flat-square&color=yellow)](https://github.com/grafana/loki/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/loki?style=flat-square&color=blue)](https://github.com/grafana/loki/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/loki?style=flat-square&color=yellow)](https://github.com/grafana/loki/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/loki?style=flat-square&color=blue)](https://github.com/grafana/loki/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Like Prometheus, but for logs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28.1k |
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ grafana/loki：grafana/loki may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 77/100 |
+| production | 61/100 |
+| outlook | 63/100 |
 | adoption | 93/100 |
 | stars | 95/100 |
 | forks | 90/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

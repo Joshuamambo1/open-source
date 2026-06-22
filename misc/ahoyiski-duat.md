@@ -1,6 +1,6 @@
 # AhoyISki/duat
 
-[![Stars](https://img.shields.io/github/stars/AhoyISki/duat?style=flat-square&color=yellow)](https://github.com/AhoyISki/duat/stargazers) [![Forks](https://img.shields.io/github/forks/AhoyISki/duat?style=flat-square&color=blue)](https://github.com/AhoyISki/duat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AhoyISki/duat?style=flat-square&color=yellow)](https://github.com/AhoyISki/duat/stargazers) [![Forks](https://img.shields.io/github/forks/AhoyISki/duat?style=flat-square&color=blue)](https://github.com/AhoyISki/duat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, very customizable text editor, configured in rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 241 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Duet (duat) is a highly customizable open-source text editor developed in Rust. 
 
 ### 中文
 
-AhoyISki/duat：AhoyISki/duat may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AhoyISki/duat：AhoyISki/duat may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AhoyISki/duat：AhoyISki/duat may be useful when its README and activity match a
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ AhoyISki/duat：AhoyISki/duat may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 45/100 |
 | stars | 51/100 |
 | forks | 31/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

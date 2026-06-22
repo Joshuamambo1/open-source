@@ -1,6 +1,6 @@
 # TeleAI-UAGI/Awesome-Agent-Memory
 
-[![Stars](https://img.shields.io/github/stars/TeleAI-UAGI/Awesome-Agent-Memory?style=flat-square&color=yellow)](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory/stargazers) [![Forks](https://img.shields.io/github/forks/TeleAI-UAGI/Awesome-Agent-Memory?style=flat-square&color=blue)](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TeleAI-UAGI/Awesome-Agent-Memory?style=flat-square&color=yellow)](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory/stargazers) [![Forks](https://img.shields.io/github/forks/TeleAI-UAGI/Awesome-Agent-Memory?style=flat-square&color=blue)](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 397 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ TeleAI-UAGI/Awesome-Agent-Memory：TeleAI-UAGI/Awesome-Agent-Memory helps turn i
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 75/100 |
+| production | 53/100 |
+| outlook | 61/100 |
 | adoption | 50/100 |
 | stars | 55/100 |
 | forks | 36/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

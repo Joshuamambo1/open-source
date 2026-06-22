@@ -1,6 +1,6 @@
 # googleapis/googleapis
 
-[![Stars](https://img.shields.io/github/stars/googleapis/googleapis?style=flat-square&color=yellow)](https://github.com/googleapis/googleapis/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/googleapis?style=flat-square&color=blue)](https://github.com/googleapis/googleapis/network) [![Language](https://img.shields.io/badge/lang-Starlark-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/googleapis?style=flat-square&color=yellow)](https://github.com/googleapis/googleapis/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/googleapis?style=flat-square&color=blue)](https://github.com/googleapis/googleapis/network) [![Language](https://img.shields.io/badge/lang-Starlark-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Public interface definitions of Google APIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Starlark |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ googleapis/googleapis：googleapis/googleapis helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 72/100 |
+| production | 59/100 |
+| outlook | 58/100 |
 | adoption | 84/100 |
 | stars | 84/100 |
 | forks | 85/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

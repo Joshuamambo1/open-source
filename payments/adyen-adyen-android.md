@@ -1,6 +1,6 @@
 # Adyen/adyen-android
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-android?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-android/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-android?style=flat-square&color=blue)](https://github.com/Adyen/adyen-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-android?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-android/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-android?style=flat-square&color=blue)](https://github.com/Adyen/adyen-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Adyen Android Drop-in and Components
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Adyen/adyen-android：Adyen/adyen-android helps integrate monetization, billing,
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 46/100 |
 | stars | 46/100 |
 | forks | 47/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

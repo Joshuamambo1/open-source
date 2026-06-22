@@ -1,6 +1,6 @@
 # edonyzpc/personal-assistant
 
-[![Stars](https://img.shields.io/github/stars/edonyzpc/personal-assistant?style=flat-square&color=yellow)](https://github.com/edonyzpc/personal-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/edonyzpc/personal-assistant?style=flat-square&color=blue)](https://github.com/edonyzpc/personal-assistant/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edonyzpc/personal-assistant?style=flat-square&color=yellow)](https://github.com/edonyzpc/personal-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/edonyzpc/personal-assistant?style=flat-square&color=blue)](https://github.com/edonyzpc/personal-assistant/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A plugin that harnesses AI agents and streamlining techniques to help you automatically manage Obsidian.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ edonyzpc/personal-assistant：edonyzpc/personal-assistant helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 51/100 |
 | adoption | 40/100 |
 | stars | 46/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

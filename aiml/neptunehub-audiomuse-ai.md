@@ -1,6 +1,6 @@
 # NeptuneHub/AudioMuse-AI
 
-[![Stars](https://img.shields.io/github/stars/NeptuneHub/AudioMuse-AI?style=flat-square&color=yellow)](https://github.com/NeptuneHub/AudioMuse-AI/stargazers) [![Forks](https://img.shields.io/github/forks/NeptuneHub/AudioMuse-AI?style=flat-square&color=blue)](https://github.com/NeptuneHub/AudioMuse-AI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NeptuneHub/AudioMuse-AI?style=flat-square&color=yellow)](https://github.com/NeptuneHub/AudioMuse-AI/stargazers) [![Forks](https://img.shields.io/github/forks/NeptuneHub/AudioMuse-AI?style=flat-square&color=blue)](https://github.com/NeptuneHub/AudioMuse-AI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > AudioMuse-AI is a self-hosted, Dockerized music playlist generator using sonic analysis to discover related tracks for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external APIs needed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Backend · Data
 
 ### English
 
-NeptuneHub/AudioMuse-AI: NeptuneHub/AudioMuse-AI helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+NeptuneHub/AudioMuse-AI: NeptuneHub/AudioMuse-AI helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-NeptuneHub/AudioMuse-AI: open-source проект в категориях AI/ML, Backend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+NeptuneHub/AudioMuse-AI: open-source проект в категориях AI/ML, Backend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-NeptuneHub/AudioMuse-AI：NeptuneHub/AudioMuse-AI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+NeptuneHub/AudioMuse-AI：NeptuneHub/AudioMuse-AI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ NeptuneHub/AudioMuse-AI：NeptuneHub/AudioMuse-AI helps add AI capability withou
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ NeptuneHub/AudioMuse-AI：NeptuneHub/AudioMuse-AI helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 100/100 |
-| production | 79/100 |
-| outlook | 79/100 |
+| production | 65/100 |
+| outlook | 65/100 |
 | adoption | 63/100 |
 | stars | 69/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

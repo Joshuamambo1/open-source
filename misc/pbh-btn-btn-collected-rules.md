@@ -1,6 +1,6 @@
 # PBH-BTN/BTN-Collected-Rules
 
-[![Stars](https://img.shields.io/github/stars/PBH-BTN/BTN-Collected-Rules?style=flat-square&color=yellow)](https://github.com/PBH-BTN/BTN-Collected-Rules/stargazers) [![Forks](https://img.shields.io/github/forks/PBH-BTN/BTN-Collected-Rules?style=flat-square&color=blue)](https://github.com/PBH-BTN/BTN-Collected-Rules/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PBH-BTN/BTN-Collected-Rules?style=flat-square&color=yellow)](https://github.com/PBH-BTN/BTN-Collected-Rules/stargazers) [![Forks](https://img.shields.io/github/forks/PBH-BTN/BTN-Collected-Rules?style=flat-square&color=blue)](https://github.com/PBH-BTN/BTN-Collected-Rules/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 由 BTN 网络统计分析和维护的 BitTorrent 恶意/疑似恶意 IP 地址集合
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 543 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ PBH-BTN/BTN-Collected-Rules：PBH-BTN/BTN-Collected-Rules may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 50/100 |
 | adoption | 51/100 |
 | stars | 58/100 |
 | forks | 31/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

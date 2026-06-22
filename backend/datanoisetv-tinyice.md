@@ -1,6 +1,6 @@
 # DatanoiseTV/tinyice
 
-[![Stars](https://img.shields.io/github/stars/DatanoiseTV/tinyice?style=flat-square&color=yellow)](https://github.com/DatanoiseTV/tinyice/stargazers) [![Forks](https://img.shields.io/github/forks/DatanoiseTV/tinyice?style=flat-square&color=blue)](https://github.com/DatanoiseTV/tinyice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DatanoiseTV/tinyice?style=flat-square&color=yellow)](https://github.com/DatanoiseTV/tinyice/stargazers) [![Forks](https://img.shields.io/github/forks/DatanoiseTV/tinyice?style=flat-square&color=blue)](https://github.com/DatanoiseTV/tinyice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Streaming server for Audio and Video (icecast compatible) written in Go with multiple mountpoint, multi-source, and relaying support and a lot more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 320 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ DatanoiseTV/tinyice：DatanoiseTV/tinyice helps teams reuse service infrastructu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 47/100 |
 | stars | 53/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

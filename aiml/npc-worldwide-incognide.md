@@ -1,6 +1,6 @@
 # NPC-Worldwide/incognide
 
-[![Stars](https://img.shields.io/github/stars/NPC-Worldwide/incognide?style=flat-square&color=yellow)](https://github.com/NPC-Worldwide/incognide/stargazers) [![Forks](https://img.shields.io/github/forks/NPC-Worldwide/incognide?style=flat-square&color=blue)](https://github.com/NPC-Worldwide/incognide/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NPC-Worldwide/incognide?style=flat-square&color=yellow)](https://github.com/NPC-Worldwide/incognide/stargazers) [![Forks](https://img.shields.io/github/forks/NPC-Worldwide/incognide?style=flat-square&color=blue)](https://github.com/NPC-Worldwide/incognide/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Explore the unknown, build the future, own your data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ NPC-Worldwide/incognide：NPC-Worldwide/incognide helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 41/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

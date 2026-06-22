@@ -1,6 +1,6 @@
 # avibebuilder/claude-prime
 
-[![Stars](https://img.shields.io/github/stars/avibebuilder/claude-prime?style=flat-square&color=yellow)](https://github.com/avibebuilder/claude-prime/stargazers) [![Forks](https://img.shields.io/github/forks/avibebuilder/claude-prime?style=flat-square&color=blue)](https://github.com/avibebuilder/claude-prime/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avibebuilder/claude-prime?style=flat-square&color=yellow)](https://github.com/avibebuilder/claude-prime/stargazers) [![Forks](https://img.shields.io/github/forks/avibebuilder/claude-prime?style=flat-square&color=blue)](https://github.com/avibebuilder/claude-prime/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > You've heard Claude Code can do amazing things. Skills, hooks, agents, memory systems — but who has time to figure all that out? Claude Prime sets it up for you in one command.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ avibebuilder/claude-prime：avibebuilder/claude-prime helps turn isolated prompt
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 35/100 |
 | stars | 38/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

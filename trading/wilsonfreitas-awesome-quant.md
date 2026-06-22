@@ -1,6 +1,6 @@
 # wilsonfreitas/awesome-quant
 
-[![Stars](https://img.shields.io/github/stars/wilsonfreitas/awesome-quant?style=flat-square&color=yellow)](https://github.com/wilsonfreitas/awesome-quant/stargazers) [![Forks](https://img.shields.io/github/forks/wilsonfreitas/awesome-quant?style=flat-square&color=blue)](https://github.com/wilsonfreitas/awesome-quant/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wilsonfreitas/awesome-quant?style=flat-square&color=yellow)](https://github.com/wilsonfreitas/awesome-quant/stargazers) [![Forks](https://img.shields.io/github/forks/wilsonfreitas/awesome-quant?style=flat-square&color=blue)](https://github.com/wilsonfreitas/awesome-quant/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Trading · AI/ML · Backend
 
 ### English
 
-wilsonfreitas/awesome-quant: wilsonfreitas/awesome-quant helps research and automate market workflows.. Use it for research trading systems; backtest strategies. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+wilsonfreitas/awesome-quant: wilsonfreitas/awesome-quant helps research and automate market workflows.. Use it for research trading systems; backtest strategies. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-wilsonfreitas/awesome-quant: open-source проект в категориях Trading, AI/ML, Backend. Практическое применение: research trading systems; backtest strategies. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+wilsonfreitas/awesome-quant: open-source проект в категориях Trading, AI/ML, Backend. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-wilsonfreitas/awesome-quant：wilsonfreitas/awesome-quant helps research and automate market workflows.。适合用于research trading systems、backtest strategies。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+wilsonfreitas/awesome-quant：wilsonfreitas/awesome-quant helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ wilsonfreitas/awesome-quant：wilsonfreitas/awesome-quant helps research and aut
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ wilsonfreitas/awesome-quant：wilsonfreitas/awesome-quant helps research and aut
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 92/100 |
+| quality | 82/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 86/100 |
+| production | 65/100 |
+| outlook | 72/100 |
 | adoption | 92/100 |
 | stars | 94/100 |
 | forks | 89/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

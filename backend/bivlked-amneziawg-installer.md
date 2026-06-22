@@ -1,6 +1,6 @@
 # bivlked/amneziawg-installer
 
-[![Stars](https://img.shields.io/github/stars/bivlked/amneziawg-installer?style=flat-square&color=yellow)](https://github.com/bivlked/amneziawg-installer/stargazers) [![Forks](https://img.shields.io/github/forks/bivlked/amneziawg-installer?style=flat-square&color=blue)](https://github.com/bivlked/amneziawg-installer/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bivlked/amneziawg-installer?style=flat-square&color=yellow)](https://github.com/bivlked/amneziawg-installer/stargazers) [![Forks](https://img.shields.io/github/forks/bivlked/amneziawg-installer?style=flat-square&color=blue)](https://github.com/bivlked/amneziawg-installer/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > One-command install script for self-hosted AmneziaWG 2.0 VPN — Ubuntu & Debian, DPI bypass, traffic obfuscation, auto-hardening, client management
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 389 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bivlked/amneziawg-installer：bivlked/amneziawg-installer helps teams reuse serv
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 79/100 |
+| production | 56/100 |
+| outlook | 65/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 40/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

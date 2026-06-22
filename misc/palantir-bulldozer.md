@@ -1,6 +1,6 @@
 # palantir/bulldozer
 
-[![Stars](https://img.shields.io/github/stars/palantir/bulldozer?style=flat-square&color=yellow)](https://github.com/palantir/bulldozer/stargazers) [![Forks](https://img.shields.io/github/forks/palantir/bulldozer?style=flat-square&color=blue)](https://github.com/palantir/bulldozer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/palantir/bulldozer?style=flat-square&color=yellow)](https://github.com/palantir/bulldozer/stargazers) [![Forks](https://img.shields.io/github/forks/palantir/bulldozer?style=flat-square&color=blue)](https://github.com/palantir/bulldozer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Pull Request Auto-Merge Bot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 799 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ palantir/bulldozer：palantir/bulldozer may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 56/100 |
+| outlook | 56/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

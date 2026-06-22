@@ -1,6 +1,6 @@
 # Azure/azure-functions-core-tools
 
-[![Stars](https://img.shields.io/github/stars/Azure/azure-functions-core-tools?style=flat-square&color=yellow)](https://github.com/Azure/azure-functions-core-tools/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-functions-core-tools?style=flat-square&color=blue)](https://github.com/Azure/azure-functions-core-tools/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/azure-functions-core-tools?style=flat-square&color=yellow)](https://github.com/Azure/azure-functions-core-tools/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-functions-core-tools?style=flat-square&color=blue)](https://github.com/Azure/azure-functions-core-tools/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Command line tools for Azure Functions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 474 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ Azure/azure-functions-core-tools：Azure/azure-functions-core-tools may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 68/100 |
+| production | 52/100 |
+| outlook | 54/100 |
 | adoption | 67/100 |
 | stars | 67/100 |
 | forks | 67/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

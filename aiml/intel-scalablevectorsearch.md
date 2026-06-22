@@ -1,6 +1,6 @@
 # intel/ScalableVectorSearch
 
-[![Stars](https://img.shields.io/github/stars/intel/ScalableVectorSearch?style=flat-square&color=yellow)](https://github.com/intel/ScalableVectorSearch/stargazers) [![Forks](https://img.shields.io/github/forks/intel/ScalableVectorSearch?style=flat-square&color=blue)](https://github.com/intel/ScalableVectorSearch/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intel/ScalableVectorSearch?style=flat-square&color=yellow)](https://github.com/intel/ScalableVectorSearch/stargazers) [![Forks](https://img.shields.io/github/forks/intel/ScalableVectorSearch?style=flat-square&color=blue)](https://github.com/intel/ScalableVectorSearch/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 223 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ The Scalable Vector Search (SVS) project is an open-source AI/ML library develop
 
 ### 中文
 
-intel/ScalableVectorSearch：intel/ScalableVectorSearch helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+intel/ScalableVectorSearch：intel/ScalableVectorSearch helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ intel/ScalableVectorSearch：intel/ScalableVectorSearch helps add AI capability 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ intel/ScalableVectorSearch：intel/ScalableVectorSearch helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 54/100 |
 | integration | 18/100 |
-| production | 62/100 |
-| outlook | 66/100 |
+| production | 49/100 |
+| outlook | 52/100 |
 | adoption | 47/100 |
 | stars | 50/100 |
 | forks | 41/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

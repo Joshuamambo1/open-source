@@ -1,6 +1,6 @@
 # microsoft/BuildXL
 
-[![Stars](https://img.shields.io/github/stars/microsoft/BuildXL?style=flat-square&color=yellow)](https://github.com/microsoft/BuildXL/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/BuildXL?style=flat-square&color=blue)](https://github.com/microsoft/BuildXL/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/BuildXL?style=flat-square&color=yellow)](https://github.com/microsoft/BuildXL/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/BuildXL?style=flat-square&color=blue)](https://github.com/microsoft/BuildXL/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Microsoft Build Accelerator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ microsoft/BuildXL：microsoft/BuildXL helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 58/100 |
+| outlook | 61/100 |
 | adoption | 61/100 |
 | stars | 64/100 |
 | forks | 55/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

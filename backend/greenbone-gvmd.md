@@ -1,6 +1,6 @@
 # greenbone/gvmd
 
-[![Stars](https://img.shields.io/github/stars/greenbone/gvmd?style=flat-square&color=yellow)](https://github.com/greenbone/gvmd/stargazers) [![Forks](https://img.shields.io/github/forks/greenbone/gvmd?style=flat-square&color=blue)](https://github.com/greenbone/gvmd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/greenbone/gvmd?style=flat-square&color=yellow)](https://github.com/greenbone/gvmd/stargazers) [![Forks](https://img.shields.io/github/forks/greenbone/gvmd?style=flat-square&color=blue)](https://github.com/greenbone/gvmd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Greenbone Vulnerability Manager - The database backend for the Greenbone Community Edition
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 359 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ greenbone/gvmd：greenbone/gvmd helps teams reuse service infrastructure instead
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 70/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 55/100 |
 | stars | 54/100 |
 | forks | 56/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

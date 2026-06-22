@@ -1,6 +1,6 @@
 # strands-agents/sdk-python
 
-[![Stars](https://img.shields.io/github/stars/strands-agents/sdk-python?style=flat-square&color=yellow)](https://github.com/strands-agents/sdk-python/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/sdk-python?style=flat-square&color=blue)](https://github.com/strands-agents/sdk-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-agents/sdk-python?style=flat-square&color=yellow)](https://github.com/strands-agents/sdk-python/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/sdk-python?style=flat-square&color=blue)](https://github.com/strands-agents/sdk-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A model-driven approach to building AI agents in just a few lines of code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 823 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Orchestration · AI/ML · Frontend
 
 ### English
 
-strands-agents/sdk-python: strands-agents/sdk-python helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+strands-agents/sdk-python: strands-agents/sdk-python helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-strands-agents/sdk-python: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+strands-agents/sdk-python: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-strands-agents/sdk-python：strands-agents/sdk-python helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+strands-agents/sdk-python：strands-agents/sdk-python helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ strands-agents/sdk-python：strands-agents/sdk-python helps turn isolated prompt
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ strands-agents/sdk-python：strands-agents/sdk-python helps turn isolated prompt
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 85/100 |
+| quality | 75/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 86/100 |
+| production | 65/100 |
+| outlook | 72/100 |
 | adoption | 78/100 |
 | stars | 80/100 |
 | forks | 73/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

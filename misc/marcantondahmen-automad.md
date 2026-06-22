@@ -1,6 +1,6 @@
 # marcantondahmen/automad
 
-[![Stars](https://img.shields.io/github/stars/marcantondahmen/automad?style=flat-square&color=yellow)](https://github.com/marcantondahmen/automad/stargazers) [![Forks](https://img.shields.io/github/forks/marcantondahmen/automad?style=flat-square&color=blue)](https://github.com/marcantondahmen/automad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marcantondahmen/automad?style=flat-square&color=yellow)](https://github.com/marcantondahmen/automad/stargazers) [![Forks](https://img.shields.io/github/forks/marcantondahmen/automad?style=flat-square&color=blue)](https://github.com/marcantondahmen/automad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A flat-file content management system and template engine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 893 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ marcantondahmen/automad：marcantondahmen/automad may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 66/100 |
+| production | 56/100 |
+| outlook | 52/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

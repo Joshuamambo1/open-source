@@ -1,6 +1,6 @@
 # marko-js/marko
 
-[![Stars](https://img.shields.io/github/stars/marko-js/marko?style=flat-square&color=yellow)](https://github.com/marko-js/marko/stargazers) [![Forks](https://img.shields.io/github/forks/marko-js/marko?style=flat-square&color=blue)](https://github.com/marko-js/marko/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marko-js/marko?style=flat-square&color=yellow)](https://github.com/marko-js/marko/stargazers) [![Forks](https://img.shields.io/github/forks/marko-js/marko?style=flat-square&color=blue)](https://github.com/marko-js/marko/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A declarative, HTML-based language that makes building web apps fun
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.4k |
 | 🍴 **Forks** | 666 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ marko-js/marko：marko-js/marko helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 88/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 61/100 |
+| outlook | 66/100 |
 | adoption | 83/100 |
 | stars | 88/100 |
 | forks | 71/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

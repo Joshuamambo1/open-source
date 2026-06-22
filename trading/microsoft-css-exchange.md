@@ -1,6 +1,6 @@
 # microsoft/CSS-Exchange
 
-[![Stars](https://img.shields.io/github/stars/microsoft/CSS-Exchange?style=flat-square&color=yellow)](https://github.com/microsoft/CSS-Exchange/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/CSS-Exchange?style=flat-square&color=blue)](https://github.com/microsoft/CSS-Exchange/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/CSS-Exchange?style=flat-square&color=yellow)](https://github.com/microsoft/CSS-Exchange/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/CSS-Exchange?style=flat-square&color=blue)](https://github.com/microsoft/CSS-Exchange/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Exchange Server support tools and scripts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 390 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ microsoft/CSS-Exchange：microsoft/CSS-Exchange helps research and automate mark
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 66/100 |
+| production | 51/100 |
+| outlook | 52/100 |
 | adoption | 66/100 |
 | stars | 66/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

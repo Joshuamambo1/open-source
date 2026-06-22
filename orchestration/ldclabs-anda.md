@@ -1,6 +1,6 @@
 # ldclabs/anda
 
-[![Stars](https://img.shields.io/github/stars/ldclabs/anda?style=flat-square&color=yellow)](https://github.com/ldclabs/anda/stargazers) [![Forks](https://img.shields.io/github/forks/ldclabs/anda?style=flat-square&color=blue)](https://github.com/ldclabs/anda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ldclabs/anda?style=flat-square&color=yellow)](https://github.com/ldclabs/anda/stargazers) [![Forks](https://img.shields.io/github/forks/ldclabs/anda?style=flat-square&color=blue)](https://github.com/ldclabs/anda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 An AI agent framework built with Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 419 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ldclabs/anda：ldclabs/anda helps turn isolated prompts and tools into repeatabl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 71/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 52/100 |
 | stars | 56/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # astral-sh/ty
 
-[![Stars](https://img.shields.io/github/stars/astral-sh/ty?style=flat-square&color=yellow)](https://github.com/astral-sh/ty/stargazers) [![Forks](https://img.shields.io/github/forks/astral-sh/ty?style=flat-square&color=blue)](https://github.com/astral-sh/ty/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/astral-sh/ty?style=flat-square&color=yellow)](https://github.com/astral-sh/ty/stargazers) [![Forks](https://img.shields.io/github/forks/astral-sh/ty?style=flat-square&color=blue)](https://github.com/astral-sh/ty/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An extremely fast Python type checker and language server, written in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.6k |
 | 🍴 **Forks** | 289 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ astral-sh/ty：astral-sh/ty helps teams reuse service infrastructure instead of 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 83/100 |
 | stars | 91/100 |
 | forks | 62/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

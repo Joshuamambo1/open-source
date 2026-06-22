@@ -1,6 +1,6 @@
 # vanloctech/youwee
 
-[![Stars](https://img.shields.io/github/stars/vanloctech/youwee?style=flat-square&color=yellow)](https://github.com/vanloctech/youwee/stargazers) [![Forks](https://img.shields.io/github/forks/vanloctech/youwee?style=flat-square&color=blue)](https://github.com/vanloctech/youwee/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vanloctech/youwee?style=flat-square&color=yellow)](https://github.com/vanloctech/youwee/stargazers) [![Forks](https://img.shields.io/github/forks/vanloctech/youwee?style=flat-square&color=blue)](https://github.com/vanloctech/youwee/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 855 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ vanloctech/youwee：vanloctech/youwee helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

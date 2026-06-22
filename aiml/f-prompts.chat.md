@@ -1,6 +1,6 @@
 # f/prompts.chat
 
-[![Stars](https://img.shields.io/github/stars/f/prompts.chat?style=flat-square&color=yellow)](https://github.com/f/prompts.chat/stargazers) [![Forks](https://img.shields.io/github/forks/f/prompts.chat?style=flat-square&color=blue)](https://github.com/f/prompts.chat/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/f/prompts.chat?style=flat-square&color=yellow)](https://github.com/f/prompts.chat/stargazers) [![Forks](https://img.shields.io/github/forks/f/prompts.chat?style=flat-square&color=blue)](https://github.com/f/prompts.chat/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 161.8k |
 | 🍴 **Forks** | 21.1k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ f/prompts.chat — это открытый проект, позволяющи�
 
 ### 中文
 
-f/prompts.chat：f/prompts.chat helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+f/prompts.chat：f/prompts.chat helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ f/prompts.chat：f/prompts.chat helps add AI capability without starting from a 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ f/prompts.chat：f/prompts.chat helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 95/100 |
+| quality | 85/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

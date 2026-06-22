@@ -1,6 +1,6 @@
 # supabase/etl
 
-[![Stars](https://img.shields.io/github/stars/supabase/etl?style=flat-square&color=yellow)](https://github.com/supabase/etl/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/etl?style=flat-square&color=blue)](https://github.com/supabase/etl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabase/etl?style=flat-square&color=yellow)](https://github.com/supabase/etl/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/etl?style=flat-square&color=blue)](https://github.com/supabase/etl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ supabase/etl：supabase/etl helps ship user-facing interfaces with less custom U
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 67/100 |
 | stars | 71/100 |
 | forks | 55/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Simon-He95/markstream-vue
 
-[![Stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=flat-square&color=yellow)](https://github.com/Simon-He95/markstream-vue/stargazers) [![Forks](https://img.shields.io/github/forks/Simon-He95/markstream-vue?style=flat-square&color=blue)](https://github.com/Simon-He95/markstream-vue/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=flat-square&color=yellow)](https://github.com/Simon-He95/markstream-vue/stargazers) [![Forks](https://img.shields.io/github/forks/Simon-He95/markstream-vue?style=flat-square&color=blue)](https://github.com/Simon-He95/markstream-vue/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the box.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Simon-He95/markstream-vue：Simon-He95/markstream-vue helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 73/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 67/100 |
 | stars | 72/100 |
 | forks | 55/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

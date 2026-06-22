@@ -1,6 +1,6 @@
 # solana-foundation/anchor
 
-[![Stars](https://img.shields.io/github/stars/solana-foundation/anchor?style=flat-square&color=yellow)](https://github.com/solana-foundation/anchor/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/anchor?style=flat-square&color=blue)](https://github.com/solana-foundation/anchor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solana-foundation/anchor?style=flat-square&color=yellow)](https://github.com/solana-foundation/anchor/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/anchor?style=flat-square&color=blue)](https://github.com/solana-foundation/anchor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > ⚓ Solana Program Framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ solana-foundation/anchor：solana-foundation/anchor helps prototype or inspect b
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 80/100 |
 | stars | 79/100 |
 | forks | 82/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # apache/storm
 
-[![Stars](https://img.shields.io/github/stars/apache/storm?style=flat-square&color=yellow)](https://github.com/apache/storm/stargazers) [![Forks](https://img.shields.io/github/forks/apache/storm?style=flat-square&color=blue)](https://github.com/apache/storm/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/storm?style=flat-square&color=yellow)](https://github.com/apache/storm/stargazers) [![Forks](https://img.shields.io/github/forks/apache/storm?style=flat-square&color=blue)](https://github.com/apache/storm/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Storm
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ apache/storm：apache/storm may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 84/100 |
 | stars | 81/100 |
 | forks | 90/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

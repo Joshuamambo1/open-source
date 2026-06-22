@@ -1,6 +1,6 @@
 # ksenxx/kiss_ai
 
-[![Stars](https://img.shields.io/github/stars/ksenxx/kiss_ai?style=flat-square&color=yellow)](https://github.com/ksenxx/kiss_ai/stargazers) [![Forks](https://img.shields.io/github/forks/ksenxx/kiss_ai?style=flat-square&color=blue)](https://github.com/ksenxx/kiss_ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ksenxx/kiss_ai?style=flat-square&color=yellow)](https://github.com/ksenxx/kiss_ai/stargazers) [![Forks](https://img.shields.io/github/forks/ksenxx/kiss_ai?style=flat-square&color=blue)](https://github.com/ksenxx/kiss_ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Keep it Simple, Stupid AI Agent Framework with a General-Purpose and Software Engineering Assistant, called KISS Sorcar.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 496 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ ksenxx/kiss_ai：ksenxx/kiss_ai helps turn isolated prompts and tools into repea
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 57/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 50/100 |
+| outlook | 51/100 |
 | adoption | 49/100 |
 | stars | 57/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

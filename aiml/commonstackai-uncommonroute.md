@@ -1,6 +1,6 @@
 # CommonstackAI/UncommonRoute
 
-[![Stars](https://img.shields.io/github/stars/CommonstackAI/UncommonRoute?style=flat-square&color=yellow)](https://github.com/CommonstackAI/UncommonRoute/stargazers) [![Forks](https://img.shields.io/github/forks/CommonstackAI/UncommonRoute?style=flat-square&color=blue)](https://github.com/CommonstackAI/UncommonRoute/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CommonstackAI/UncommonRoute?style=flat-square&color=yellow)](https://github.com/CommonstackAI/UncommonRoute/stargazers) [![Forks](https://img.shields.io/github/forks/CommonstackAI/UncommonRoute?style=flat-square&color=blue)](https://github.com/CommonstackAI/UncommonRoute/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic LLM router — 82% cost savings, 79.4% accuracy, 93.4% pass rate. Drop-in OpenAI proxy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 520 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CommonstackAI/UncommonRoute：CommonstackAI/UncommonRoute helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 51/100 |
 | stars | 58/100 |
 | forks | 33/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

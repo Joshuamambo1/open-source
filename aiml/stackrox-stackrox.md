@@ -1,6 +1,6 @@
 # stackrox/stackrox
 
-[![Stars](https://img.shields.io/github/stars/stackrox/stackrox?style=flat-square&color=yellow)](https://github.com/stackrox/stackrox/stargazers) [![Forks](https://img.shields.io/github/forks/stackrox/stackrox?style=flat-square&color=blue)](https://github.com/stackrox/stackrox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stackrox/stackrox?style=flat-square&color=yellow)](https://github.com/stackrox/stackrox/stargazers) [![Forks](https://img.shields.io/github/forks/stackrox/stackrox?style=flat-square&color=blue)](https://github.com/stackrox/stackrox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ stackrox/stackrox：stackrox/stackrox helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 68/100 |
+| production | 58/100 |
+| outlook | 54/100 |
 | adoption | 63/100 |
 | stars | 66/100 |
 | forks | 56/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

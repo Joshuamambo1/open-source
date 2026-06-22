@@ -1,6 +1,6 @@
 # ComposioHQ/agent-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/ComposioHQ/agent-orchestrator?style=flat-square&color=yellow)](https://github.com/ComposioHQ/agent-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/ComposioHQ/agent-orchestrator?style=flat-square&color=blue)](https://github.com/ComposioHQ/agent-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ComposioHQ/agent-orchestrator?style=flat-square&color=yellow)](https://github.com/ComposioHQ/agent-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/ComposioHQ/agent-orchestrator?style=flat-square&color=blue)](https://github.com/ComposioHQ/agent-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 926 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ComposioHQ/agent-orchestrator — это open‑source оркестратор,
 
 ### 中文
 
-ComposioHQ/agent-orchestrator：ComposioHQ/agent-orchestrator helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ComposioHQ/agent-orchestrator：ComposioHQ/agent-orchestrator helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ComposioHQ/agent-orchestrator：ComposioHQ/agent-orchestrator helps turn isolate
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ComposioHQ/agent-orchestrator：ComposioHQ/agent-orchestrator helps turn isolate
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 86/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 80/100 |
 | stars | 82/100 |
 | forks | 74/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

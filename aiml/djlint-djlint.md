@@ -1,6 +1,6 @@
 # djlint/djLint
 
-[![Stars](https://img.shields.io/github/stars/djlint/djLint?style=flat-square&color=yellow)](https://github.com/djlint/djLint/stargazers) [![Forks](https://img.shields.io/github/forks/djlint/djLint?style=flat-square&color=blue)](https://github.com/djlint/djLint/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/djlint/djLint?style=flat-square&color=yellow)](https://github.com/djlint/djLint/stargazers) [![Forks](https://img.shields.io/github/forks/djlint/djLint?style=flat-square&color=blue)](https://github.com/djlint/djLint/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 919 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ djLint — это открытый линтер и форматтер для H
 
 ### 中文
 
-djlint/djLint：djlint/djLint helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+djlint/djLint：djlint/djLint helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ djlint/djLint：djlint/djLint helps add AI capability without starting from a bl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ djlint/djLint：djlint/djLint helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 78/100 |
-| production | 75/100 |
-| outlook | 71/100 |
+| production | 62/100 |
+| outlook | 57/100 |
 | adoption | 60/100 |
 | stars | 63/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

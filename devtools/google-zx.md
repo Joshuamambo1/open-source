@@ -1,6 +1,6 @@
 # google/zx
 
-[![Stars](https://img.shields.io/github/stars/google/zx?style=flat-square&color=yellow)](https://github.com/google/zx/stargazers) [![Forks](https://img.shields.io/github/forks/google/zx?style=flat-square&color=blue)](https://github.com/google/zx/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/zx?style=flat-square&color=yellow)](https://github.com/google/zx/stargazers) [![Forks](https://img.shields.io/github/forks/google/zx?style=flat-square&color=blue)](https://github.com/google/zx/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A tool for writing better scripts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45.5k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Google ZX — это открытый набор утилит, позвол�
 
 ### 中文
 
-google/zx：google/zx helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+google/zx：google/zx helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ google/zx：google/zx helps engineers save time in daily development and review 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ google/zx：google/zx helps engineers save time in daily development and review 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 92/100 |
+| quality | 82/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 86/100 |
+| production | 65/100 |
+| outlook | 72/100 |
 | adoption | 93/100 |
 | stars | 99/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

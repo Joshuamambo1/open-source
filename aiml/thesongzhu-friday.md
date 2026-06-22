@@ -1,6 +1,6 @@
 # thesongzhu/Friday
 
-[![Stars](https://img.shields.io/github/stars/thesongzhu/Friday?style=flat-square&color=yellow)](https://github.com/thesongzhu/Friday/stargazers) [![Forks](https://img.shields.io/github/forks/thesongzhu/Friday?style=flat-square&color=blue)](https://github.com/thesongzhu/Friday/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thesongzhu/Friday?style=flat-square&color=yellow)](https://github.com/thesongzhu/Friday/stargazers) [![Forks](https://img.shields.io/github/forks/thesongzhu/Friday?style=flat-square&color=blue)](https://github.com/thesongzhu/Friday/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > AGI-Like Agent that grow with you
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 247 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ thesongzhu/Friday：thesongzhu/Friday helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 80/100 |
+| production | 55/100 |
+| outlook | 66/100 |
 | adoption | 47/100 |
 | stars | 51/100 |
 | forks | 37/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

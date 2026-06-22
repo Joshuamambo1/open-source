@@ -1,6 +1,6 @@
 # railwayapp/cli
 
-[![Stars](https://img.shields.io/github/stars/railwayapp/cli?style=flat-square&color=yellow)](https://github.com/railwayapp/cli/stargazers) [![Forks](https://img.shields.io/github/forks/railwayapp/cli?style=flat-square&color=blue)](https://github.com/railwayapp/cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/railwayapp/cli?style=flat-square&color=yellow)](https://github.com/railwayapp/cli/stargazers) [![Forks](https://img.shields.io/github/forks/railwayapp/cli?style=flat-square&color=blue)](https://github.com/railwayapp/cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Railway CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ railwayapp/cli：railwayapp/cli helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 68/100 |
+| production | 54/100 |
+| outlook | 54/100 |
 | adoption | 57/100 |
 | stars | 58/100 |
 | forks | 55/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # DariuszNewecki/CORE
 
-[![Stars](https://img.shields.io/github/stars/DariuszNewecki/CORE?style=flat-square&color=yellow)](https://github.com/DariuszNewecki/CORE/stargazers) [![Forks](https://img.shields.io/github/forks/DariuszNewecki/CORE?style=flat-square&color=blue)](https://github.com/DariuszNewecki/CORE/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DariuszNewecki/CORE?style=flat-square&color=yellow)](https://github.com/DariuszNewecki/CORE/stargazers) [![Forks](https://img.shields.io/github/forks/DariuszNewecki/CORE?style=flat-square&color=blue)](https://github.com/DariuszNewecki/CORE/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A thing that uses AI to write perfect applications. For those who want to know how: a governance runtime enforcing immutable constitutional rules on AI coding agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ DariuszNewecki/CORE：DariuszNewecki/CORE helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 29/100 |
 | stars | 32/100 |
 | forks | 21/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

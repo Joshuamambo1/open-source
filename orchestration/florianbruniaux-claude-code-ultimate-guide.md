@@ -1,6 +1,6 @@
 # FlorianBruniaux/claude-code-ultimate-guide
 
-[![Stars](https://img.shields.io/github/stars/FlorianBruniaux/claude-code-ultimate-guide?style=flat-square&color=yellow)](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/stargazers) [![Forks](https://img.shields.io/github/forks/FlorianBruniaux/claude-code-ultimate-guide?style=flat-square&color=blue)](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FlorianBruniaux/claude-code-ultimate-guide?style=flat-square&color=yellow)](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/stargazers) [![Forks](https://img.shields.io/github/forks/FlorianBruniaux/claude-code-ultimate-guide?style=flat-square&color=blue)](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 555 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ FlorianBruniaux/claude-code-ultimate-guide is a comprehensive, open‑source doc
 
 ### 中文
 
-FlorianBruniaux/claude-code-ultimate-guide：FlorianBruniaux/claude-code-ultimate-guide helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+FlorianBruniaux/claude-code-ultimate-guide：FlorianBruniaux/claude-code-ultimate-guide helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ FlorianBruniaux/claude-code-ultimate-guide：FlorianBruniaux/claude-code-ultimat
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ FlorianBruniaux/claude-code-ultimate-guide：FlorianBruniaux/claude-code-ultimat
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 94/100 |
-| production | 80/100 |
-| outlook | 87/100 |
+| production | 66/100 |
+| outlook | 73/100 |
 | adoption | 75/100 |
 | stars | 77/100 |
 | forks | 69/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

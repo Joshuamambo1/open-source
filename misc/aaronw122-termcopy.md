@@ -1,6 +1,6 @@
 # aaronw122/termcopy
 
-[![Stars](https://img.shields.io/github/stars/aaronw122/termcopy?style=flat-square&color=yellow)](https://github.com/aaronw122/termcopy//stargazers) [![Forks](https://img.shields.io/github/forks/aaronw122/termcopy?style=flat-square&color=blue)](https://github.com/aaronw122/termcopy//network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aaronw122/termcopy?style=flat-square&color=yellow)](https://github.com/aaronw122/termcopy//stargazers) [![Forks](https://img.shields.io/github/forks/aaronw122/termcopy?style=flat-square&color=blue)](https://github.com/aaronw122/termcopy//network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 31/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | hackernews |
 
@@ -36,7 +36,7 @@ A small utility that cleans up unwanted line breaks introduced when copying code
 
 ### 中文
 
-sick of dealing with unwanted line breaks when you copy text from claude code?：sick of dealing with unwanted line breaks when you copy text from claude code? may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sick of dealing with unwanted line breaks when you copy text from claude code?：sick of dealing with unwanted line breaks when you copy text from claude code? may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ sick of dealing with unwanted line breaks when you copy text from claude code?�
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,14 +62,14 @@ sick of dealing with unwanted line breaks when you copy text from claude code?�
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 26/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 47/100 |
+| production | 38/100 |
+| outlook | 33/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 80/100 |
 

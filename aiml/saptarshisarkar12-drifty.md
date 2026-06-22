@@ -1,6 +1,6 @@
 # SaptarshiSarkar12/Drifty
 
-[![Stars](https://img.shields.io/github/stars/SaptarshiSarkar12/Drifty?style=flat-square&color=yellow)](https://github.com/SaptarshiSarkar12/Drifty/stargazers) [![Forks](https://img.shields.io/github/forks/SaptarshiSarkar12/Drifty?style=flat-square&color=blue)](https://github.com/SaptarshiSarkar12/Drifty/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SaptarshiSarkar12/Drifty?style=flat-square&color=yellow)](https://github.com/SaptarshiSarkar12/Drifty/stargazers) [![Forks](https://img.shields.io/github/forks/SaptarshiSarkar12/Drifty?style=flat-square&color=blue)](https://github.com/SaptarshiSarkar12/Drifty/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Drifty is an Open-Source Interactive File Downloader System built with Java
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ SaptarshiSarkar12/Drifty：SaptarshiSarkar12/Drifty helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 50/100 |
 | stars | 49/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

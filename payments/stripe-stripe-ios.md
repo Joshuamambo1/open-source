@@ -1,6 +1,6 @@
 # stripe/stripe-ios
 
-[![Stars](https://img.shields.io/github/stars/stripe/stripe-ios?style=flat-square&color=yellow)](https://github.com/stripe/stripe-ios/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-ios?style=flat-square&color=blue)](https://github.com/stripe/stripe-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stripe/stripe-ios?style=flat-square&color=yellow)](https://github.com/stripe/stripe-ios/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-ios?style=flat-square&color=blue)](https://github.com/stripe/stripe-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Stripe iOS SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ stripe/stripe-ios：stripe/stripe-ios helps integrate monetization, billing, or 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 73/100 |
 | stars | 72/100 |
 | forks | 76/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

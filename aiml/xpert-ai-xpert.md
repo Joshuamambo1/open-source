@@ -1,6 +1,6 @@
 # xpert-ai/xpert
 
-[![Stars](https://img.shields.io/github/stars/xpert-ai/xpert?style=flat-square&color=yellow)](https://github.com/xpert-ai/xpert/stargazers) [![Forks](https://img.shields.io/github/forks/xpert-ai/xpert?style=flat-square&color=blue)](https://github.com/xpert-ai/xpert/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xpert-ai/xpert?style=flat-square&color=yellow)](https://github.com/xpert-ai/xpert/stargazers) [![Forks](https://img.shields.io/github/forks/xpert-ai/xpert?style=flat-square&color=blue)](https://github.com/xpert-ai/xpert/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Xpert AI is an AI agents and data analysis platform for enterprises to make business decisions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ xpert-ai/xpert：xpert-ai/xpert helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 53/100 |
 | stars | 55/100 |
 | forks | 47/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

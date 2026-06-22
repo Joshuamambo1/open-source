@@ -1,6 +1,6 @@
 # EvoAgentX/EvoAgentX
 
-[![Stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=flat-square&color=yellow)](https://github.com/EvoAgentX/EvoAgentX/stargazers) [![Forks](https://img.shields.io/github/forks/EvoAgentX/EvoAgentX?style=flat-square&color=blue)](https://github.com/EvoAgentX/EvoAgentX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=flat-square&color=yellow)](https://github.com/EvoAgentX/EvoAgentX/stargazers) [![Forks](https://img.shields.io/github/forks/EvoAgentX/EvoAgentX?style=flat-square&color=blue)](https://github.com/EvoAgentX/EvoAgentX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 EvoAgentX: Building a Self-Evolving Ecosystem of AI Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 255 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ EvoAgentX/EvoAgentX：EvoAgentX/EvoAgentX helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 82/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 84/100 |
+| production | 59/100 |
+| outlook | 70/100 |
 | adoption | 70/100 |
 | stars | 74/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

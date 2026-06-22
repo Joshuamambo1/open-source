@@ -1,6 +1,6 @@
 # devswha/patina
 
-[![Stars](https://img.shields.io/github/stars/devswha/patina?style=flat-square&color=yellow)](https://github.com/devswha/patina/stargazers) [![Forks](https://img.shields.io/github/forks/devswha/patina?style=flat-square&color=blue)](https://github.com/devswha/patina/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/devswha/patina?style=flat-square&color=yellow)](https://github.com/devswha/patina/stargazers) [![Forks](https://img.shields.io/github/forks/devswha/patina?style=flat-square&color=blue)](https://github.com/devswha/patina/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Detects and rewrites AI writing patterns in Korean, English, Chinese, and Japanese. Runs as a skill for Claude Code, Codex CLI, Cursor, and OpenCode, or as a standalone Node.js CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ devswha/patina：devswha/patina helps turn isolated prompts and tools into repea
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 75/100 |
+| production | 53/100 |
+| outlook | 61/100 |
 | adoption | 35/100 |
 | stars | 39/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

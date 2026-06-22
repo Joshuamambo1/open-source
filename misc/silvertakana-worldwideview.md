@@ -1,6 +1,6 @@
 # silvertakana/worldwideview
 
-[![Stars](https://img.shields.io/github/stars/silvertakana/worldwideview?style=flat-square&color=yellow)](https://github.com/silvertakana/worldwideview/stargazers) [![Forks](https://img.shields.io/github/forks/silvertakana/worldwideview?style=flat-square&color=blue)](https://github.com/silvertakana/worldwideview/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/silvertakana/worldwideview?style=flat-square&color=yellow)](https://github.com/silvertakana/worldwideview/stargazers) [![Forks](https://img.shields.io/github/forks/silvertakana/worldwideview?style=flat-square&color=blue)](https://github.com/silvertakana/worldwideview/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 400 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Silvertakana’s **worldwideview** is a lightweight, open‑source library that 
 
 ### 中文
 
-silvertakana/worldwideview：silvertakana/worldwideview may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+silvertakana/worldwideview：silvertakana/worldwideview may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ silvertakana/worldwideview：silvertakana/worldwideview may be useful when its R
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ silvertakana/worldwideview：silvertakana/worldwideview may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 34/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 54/100 |
 | stars | 55/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # macports/macports-ports
 
-[![Stars](https://img.shields.io/github/stars/macports/macports-ports?style=flat-square&color=yellow)](https://github.com/macports/macports-ports/stargazers) [![Forks](https://img.shields.io/github/forks/macports/macports-ports?style=flat-square&color=blue)](https://github.com/macports/macports-ports/network) [![Language](https://img.shields.io/badge/lang-Tcl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/macports/macports-ports?style=flat-square&color=yellow)](https://github.com/macports/macports-ports/stargazers) [![Forks](https://img.shields.io/github/forks/macports/macports-ports?style=flat-square&color=blue)](https://github.com/macports/macports-ports/network) [![Language](https://img.shields.io/badge/lang-Tcl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The MacPorts ports tree
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Tcl |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ macports/macports-ports：macports/macports-ports may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 72/100 |
 | stars | 69/100 |
 | forks | 79/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

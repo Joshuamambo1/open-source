@@ -1,6 +1,6 @@
 # JonasKruckenberg/k23
 
-[![Stars](https://img.shields.io/github/stars/JonasKruckenberg/k23?style=flat-square&color=yellow)](https://github.com/JonasKruckenberg/k23/stargazers) [![Forks](https://img.shields.io/github/forks/JonasKruckenberg/k23?style=flat-square&color=blue)](https://github.com/JonasKruckenberg/k23/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JonasKruckenberg/k23?style=flat-square&color=yellow)](https://github.com/JonasKruckenberg/k23/stargazers) [![Forks](https://img.shields.io/github/forks/JonasKruckenberg/k23?style=flat-square&color=blue)](https://github.com/JonasKruckenberg/k23/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Experimental WASM Microkernel Operating System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 628 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ JonasKruckenberg/k23：JonasKruckenberg/k23 may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 54/100 |
 | stars | 60/100 |
 | forks | 41/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

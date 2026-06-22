@@ -1,6 +1,6 @@
 # Rishang/install-release
 
-[![Stars](https://img.shields.io/github/stars/Rishang/install-release?style=flat-square&color=yellow)](https://github.com/Rishang/install-release/stargazers) [![Forks](https://img.shields.io/github/forks/Rishang/install-release?style=flat-square&color=blue)](https://github.com/Rishang/install-release/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rishang/install-release?style=flat-square&color=yellow)](https://github.com/Rishang/install-release/stargazers) [![Forks](https://img.shields.io/github/forks/Rishang/install-release?style=flat-square&color=blue)](https://github.com/Rishang/install-release/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI to install and update any single-binary CLI tools from GitHub & GitLab on Linux macOS and WSL
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Rishang/install-release：Rishang/install-release helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 78/100 |
-| production | 72/100 |
-| outlook | 72/100 |
+| production | 58/100 |
+| outlook | 58/100 |
 | adoption | 38/100 |
 | stars | 46/100 |
 | forks | 19/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

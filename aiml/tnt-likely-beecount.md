@@ -1,6 +1,6 @@
 # TNT-Likely/BeeCount
 
-[![Stars](https://img.shields.io/github/stars/TNT-Likely/BeeCount?style=flat-square&color=yellow)](https://github.com/TNT-Likely/BeeCount/stargazers) [![Forks](https://img.shields.io/github/forks/TNT-Likely/BeeCount?style=flat-square&color=blue)](https://github.com/TNT-Likely/BeeCount/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TNT-Likely/BeeCount?style=flat-square&color=yellow)](https://github.com/TNT-Likely/BeeCount/stargazers) [![Forks](https://img.shields.io/github/forks/TNT-Likely/BeeCount?style=flat-square&color=blue)](https://github.com/TNT-Likely/BeeCount/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🐝 开源记账App，支持iCloud/自建服务器同步(Supabase/WebDAV/S3)，AI智能记账 | Open-source finance tracker with iCloud & self-hosted sync (Supabase/WebDAV/S3), AI-powered bookkeeping, cross-platform, privacy-first
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ TNT-Likely/BeeCount：TNT-Likely/BeeCount helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 65/100 |
 | stars | 68/100 |
 | forks | 58/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

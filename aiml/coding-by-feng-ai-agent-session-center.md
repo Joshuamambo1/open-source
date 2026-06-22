@@ -1,6 +1,6 @@
 # coding-by-feng/ai-agent-session-center
 
-[![Stars](https://img.shields.io/github/stars/coding-by-feng/ai-agent-session-center?style=flat-square&color=yellow)](https://github.com/coding-by-feng/ai-agent-session-center/stargazers) [![Forks](https://img.shields.io/github/forks/coding-by-feng/ai-agent-session-center?style=flat-square&color=blue)](https://github.com/coding-by-feng/ai-agent-session-center/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coding-by-feng/ai-agent-session-center?style=flat-square&color=yellow)](https://github.com/coding-by-feng/ai-agent-session-center/stargazers) [![Forks](https://img.shields.io/github/forks/coding-by-feng/ai-agent-session-center?style=flat-square&color=blue)](https://github.com/coding-by-feng/ai-agent-session-center/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time dashboard that turns AI coding agent sessions (Claude Code, Gemini CLI, Codex) into animated 3D robots — with live terminals, prompt history, tool logs, and queuing. Runs on any device.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ coding-by-feng/ai-agent-session-center：coding-by-feng/ai-agent-session-center 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 77/100 |
+| production | 56/100 |
+| outlook | 63/100 |
 | adoption | 35/100 |
 | stars | 39/100 |
 | forks | 25/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

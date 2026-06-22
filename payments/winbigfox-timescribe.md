@@ -1,6 +1,6 @@
 # WINBIGFOX/TimeScribe
 
-[![Stars](https://img.shields.io/github/stars/WINBIGFOX/TimeScribe?style=flat-square&color=yellow)](https://github.com/WINBIGFOX/TimeScribe/stargazers) [![Forks](https://img.shields.io/github/forks/WINBIGFOX/TimeScribe?style=flat-square&color=blue)](https://github.com/WINBIGFOX/TimeScribe/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WINBIGFOX/TimeScribe?style=flat-square&color=yellow)](https://github.com/WINBIGFOX/TimeScribe/stargazers) [![Forks](https://img.shields.io/github/forks/WINBIGFOX/TimeScribe?style=flat-square&color=blue)](https://github.com/WINBIGFOX/TimeScribe/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 813 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ WINBIGFOX/TimeScribe：WINBIGFOX/TimeScribe helps integrate monetization, billin
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 77/100 |
+| production | 55/100 |
+| outlook | 63/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 47/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

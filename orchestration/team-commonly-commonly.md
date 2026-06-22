@@ -1,6 +1,6 @@
 # Team-Commonly/commonly
 
-[![Stars](https://img.shields.io/github/stars/Team-Commonly/commonly?style=flat-square&color=yellow)](https://github.com/Team-Commonly/commonly/stargazers) [![Forks](https://img.shields.io/github/forks/Team-Commonly/commonly?style=flat-square&color=blue)](https://github.com/Team-Commonly/commonly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Team-Commonly/commonly?style=flat-square&color=yellow)](https://github.com/Team-Commonly/commonly/stargazers) [![Forks](https://img.shields.io/github/forks/Team-Commonly/commonly?style=flat-square&color=blue)](https://github.com/Team-Commonly/commonly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -70,14 +70,14 @@ Team-Commonly/commonly：Team-Commonly/commonly helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 81/100 |
+| production | 56/100 |
+| outlook | 67/100 |
 | adoption | 53/100 |
 | stars | 56/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

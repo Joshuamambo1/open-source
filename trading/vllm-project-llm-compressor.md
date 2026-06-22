@@ -1,6 +1,6 @@
 # vllm-project/llm-compressor
 
-[![Stars](https://img.shields.io/github/stars/vllm-project/llm-compressor?style=flat-square&color=yellow)](https://github.com/vllm-project/llm-compressor/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/llm-compressor?style=flat-square&color=blue)](https://github.com/vllm-project/llm-compressor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vllm-project/llm-compressor?style=flat-square&color=yellow)](https://github.com/vllm-project/llm-compressor/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/llm-compressor?style=flat-square&color=blue)](https://github.com/vllm-project/llm-compressor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 503 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ vllm-project/llm-compressor：vllm-project/llm-compressor helps research and aut
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 53/100 |
 | adoption | 73/100 |
 | stars | 75/100 |
 | forks | 68/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

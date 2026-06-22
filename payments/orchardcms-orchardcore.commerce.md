@@ -1,6 +1,6 @@
 # OrchardCMS/OrchardCore.Commerce
 
-[![Stars](https://img.shields.io/github/stars/OrchardCMS/OrchardCore.Commerce?style=flat-square&color=yellow)](https://github.com/OrchardCMS/OrchardCore.Commerce/stargazers) [![Forks](https://img.shields.io/github/forks/OrchardCMS/OrchardCore.Commerce?style=flat-square&color=blue)](https://github.com/OrchardCMS/OrchardCore.Commerce/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OrchardCMS/OrchardCore.Commerce?style=flat-square&color=yellow)](https://github.com/OrchardCMS/OrchardCore.Commerce/stargazers) [![Forks](https://img.shields.io/github/forks/OrchardCMS/OrchardCore.Commerce?style=flat-square&color=blue)](https://github.com/OrchardCMS/OrchardCore.Commerce/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The commerce module for Orchard Core.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ OrchardCMS/OrchardCore.Commerce：OrchardCMS/OrchardCore.Commerce helps integrat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 50/100 |
 | stars | 50/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # basecamp/omarchy
 
-[![Stars](https://img.shields.io/github/stars/basecamp/omarchy?style=flat-square&color=yellow)](https://github.com/basecamp/omarchy/stargazers) [![Forks](https://img.shields.io/github/forks/basecamp/omarchy?style=flat-square&color=blue)](https://github.com/basecamp/omarchy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basecamp/omarchy?style=flat-square&color=yellow)](https://github.com/basecamp/omarchy/stargazers) [![Forks](https://img.shields.io/github/forks/basecamp/omarchy?style=flat-square&color=blue)](https://github.com/basecamp/omarchy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Beautiful, Modern & Opinionated Linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.6k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ basecamp/omarchy：basecamp/omarchy may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 69/100 |
+| production | 55/100 |
+| outlook | 55/100 |
 | adoption | 90/100 |
 | stars | 93/100 |
 | forks | 84/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

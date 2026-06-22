@@ -1,6 +1,6 @@
 # pradt2/always-online-stun
 
-[![Stars](https://img.shields.io/github/stars/pradt2/always-online-stun?style=flat-square&color=yellow)](https://github.com/pradt2/always-online-stun/stargazers) [![Forks](https://img.shields.io/github/forks/pradt2/always-online-stun?style=flat-square&color=blue)](https://github.com/pradt2/always-online-stun/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pradt2/always-online-stun?style=flat-square&color=yellow)](https://github.com/pradt2/always-online-stun/stargazers) [![Forks](https://img.shields.io/github/forks/pradt2/always-online-stun?style=flat-square&color=blue)](https://github.com/pradt2/always-online-stun/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A list of publicly available STUN servers, refreshed every hour.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 964 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Always-Online-STUN is an open-source project that provides a continuously update
 
 ### 中文
 
-pradt2/always-online-stun：pradt2/always-online-stun helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pradt2/always-online-stun：pradt2/always-online-stun helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ pradt2/always-online-stun：pradt2/always-online-stun helps add AI capability wi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ pradt2/always-online-stun：pradt2/always-online-stun helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 61/100 |
+| production | 50/100 |
+| outlook | 47/100 |
 | adoption | 59/100 |
 | stars | 64/100 |
 | forks | 48/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # kubernetes/website
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/website?style=flat-square&color=yellow)](https://github.com/kubernetes/website/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/website?style=flat-square&color=blue)](https://github.com/kubernetes/website/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/website?style=flat-square&color=yellow)](https://github.com/kubernetes/website/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/website?style=flat-square&color=blue)](https://github.com/kubernetes/website/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes website and documentation repo:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 15.4k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ kubernetes/website：kubernetes/website helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 54/100 |
 | adoption | 85/100 |
 | stars | 79/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

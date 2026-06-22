@@ -1,6 +1,6 @@
 # CitizensFoundation/policy-synth
 
-[![Stars](https://img.shields.io/github/stars/CitizensFoundation/policy-synth?style=flat-square&color=yellow)](https://github.com/CitizensFoundation/policy-synth/stargazers) [![Forks](https://img.shields.io/github/forks/CitizensFoundation/policy-synth?style=flat-square&color=blue)](https://github.com/CitizensFoundation/policy-synth/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CitizensFoundation/policy-synth?style=flat-square&color=yellow)](https://github.com/CitizensFoundation/policy-synth/stargazers) [![Forks](https://img.shields.io/github/forks/CitizensFoundation/policy-synth?style=flat-square&color=blue)](https://github.com/CitizensFoundation/policy-synth/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Policy Synth is a TypeScript class library designed to streamline and enhance decision-making processes through multi-scale AI agent logic flow.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CitizensFoundation/policy‑synth is an open‑source TypeScript library that im
 
 ### 中文
 
-CitizensFoundation/policy-synth：CitizensFoundation/policy-synth helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+CitizensFoundation/policy-synth：CitizensFoundation/policy-synth helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ CitizensFoundation/policy-synth：CitizensFoundation/policy-synth helps add AI c
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ CitizensFoundation/policy-synth：CitizensFoundation/policy-synth helps add AI c
 - updated 2026-05-09
 - primary language: TypeScript
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 50/100 |
+| quality | 40/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 33/100 |
 | stars | 37/100 |
 | forks | 23/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

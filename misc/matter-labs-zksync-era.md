@@ -1,6 +1,6 @@
 # matter-labs/zksync-era
 
-[![Stars](https://img.shields.io/github/stars/matter-labs/zksync-era?style=flat-square&color=yellow)](https://github.com/matter-labs/zksync-era/stargazers) [![Forks](https://img.shields.io/github/forks/matter-labs/zksync-era?style=flat-square&color=blue)](https://github.com/matter-labs/zksync-era/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matter-labs/zksync-era?style=flat-square&color=yellow)](https://github.com/matter-labs/zksync-era/stargazers) [![Forks](https://img.shields.io/github/forks/matter-labs/zksync-era?style=flat-square&color=blue)](https://github.com/matter-labs/zksync-era/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > zkSync era
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ matter-labs/zksync-era：matter-labs/zksync-era may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 77/100 |
 | stars | 75/100 |
 | forks | 83/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

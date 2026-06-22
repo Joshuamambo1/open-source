@@ -1,6 +1,6 @@
 # Forceu/Gokapi
 
-[![Stars](https://img.shields.io/github/stars/Forceu/Gokapi?style=flat-square&color=yellow)](https://github.com/Forceu/Gokapi/stargazers) [![Forks](https://img.shields.io/github/forks/Forceu/Gokapi?style=flat-square&color=blue)](https://github.com/Forceu/Gokapi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Forceu/Gokapi?style=flat-square&color=yellow)](https://github.com/Forceu/Gokapi/stargazers) [![Forks](https://img.shields.io/github/forks/Forceu/Gokapi?style=flat-square&color=blue)](https://github.com/Forceu/Gokapi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Forceu/Gokapi — легковесный self‑hosted сервис, явля�
 
 ### 中文
 
-Forceu/Gokapi：Forceu/Gokapi helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Forceu/Gokapi：Forceu/Gokapi helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Forceu/Gokapi：Forceu/Gokapi helps add AI capability without starting from a bl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Forceu/Gokapi：Forceu/Gokapi helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 78/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 67/100 |
 | stars | 73/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

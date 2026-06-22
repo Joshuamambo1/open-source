@@ -1,6 +1,6 @@
 # freetype/freetype
 
-[![Stars](https://img.shields.io/github/stars/freetype/freetype?style=flat-square&color=yellow)](https://github.com/freetype/freetype/stargazers) [![Forks](https://img.shields.io/github/forks/freetype/freetype?style=flat-square&color=blue)](https://github.com/freetype/freetype/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freetype/freetype?style=flat-square&color=yellow)](https://github.com/freetype/freetype/stargazers) [![Forks](https://img.shields.io/github/forks/freetype/freetype?style=flat-square&color=blue)](https://github.com/freetype/freetype/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Official mirror of https://gitlab.freedesktop.org/freetype/freetype
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 818 |
 | 🍴 **Forks** | 403 |
 | 💻 **Language** | C |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ freetype/freetype：freetype/freetype may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 63/100 |
 | stars | 62/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

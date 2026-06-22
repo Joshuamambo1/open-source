@@ -1,6 +1,6 @@
 # chrxh/alien
 
-[![Stars](https://img.shields.io/github/stars/chrxh/alien?style=flat-square&color=yellow)](https://github.com/chrxh/alien/stargazers) [![Forks](https://img.shields.io/github/forks/chrxh/alien?style=flat-square&color=blue)](https://github.com/chrxh/alien/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrxh/alien?style=flat-square&color=yellow)](https://github.com/chrxh/alien/stargazers) [![Forks](https://img.shields.io/github/forks/chrxh/alien?style=flat-square&color=blue)](https://github.com/chrxh/alien/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > ALIEN is a CUDA-powered artificial life simulation program.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ chrxh/alien：chrxh/alien helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 73/100 |
 | stars | 79/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

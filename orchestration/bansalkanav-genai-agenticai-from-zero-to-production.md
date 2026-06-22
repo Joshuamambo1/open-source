@@ -1,6 +1,6 @@
 # bansalkanav/GenAI-AgenticAI-From-Zero-to-Production
 
-[![Stars](https://img.shields.io/github/stars/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production?style=flat-square&color=yellow)](https://github.com/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production/stargazers) [![Forks](https://img.shields.io/github/forks/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production?style=flat-square&color=blue)](https://github.com/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production?style=flat-square&color=yellow)](https://github.com/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production/stargazers) [![Forks](https://img.shields.io/github/forks/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production?style=flat-square&color=blue)](https://github.com/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Learn GenAI and Agentic AI from Zero to Production
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bansalkanav/GenAI-AgenticAI-From-Zero-to-Production：bansalkanav/GenAI-AgenticA
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 100/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 62/100 |
+| outlook | 64/100 |
 | adoption | 41/100 |
 | stars | 43/100 |
 | forks | 34/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

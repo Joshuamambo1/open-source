@@ -1,6 +1,6 @@
 # joryirving/home-ops
 
-[![Stars](https://img.shields.io/github/stars/joryirving/home-ops?style=flat-square&color=yellow)](https://github.com/joryirving/home-ops/stargazers) [![Forks](https://img.shields.io/github/forks/joryirving/home-ops?style=flat-square&color=blue)](https://github.com/joryirving/home-ops/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joryirving/home-ops?style=flat-square&color=yellow)](https://github.com/joryirving/home-ops/stargazers) [![Forks](https://img.shields.io/github/forks/joryirving/home-ops?style=flat-square&color=blue)](https://github.com/joryirving/home-ops/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | YAML |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ joryirving/home-ops：joryirving/home-ops helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 43/100 |
 | stars | 50/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

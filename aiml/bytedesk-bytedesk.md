@@ -1,6 +1,6 @@
 # Bytedesk/bytedesk
 
-[![Stars](https://img.shields.io/github/stars/Bytedesk/bytedesk?style=flat-square&color=yellow)](https://github.com/Bytedesk/bytedesk/stargazers) [![Forks](https://img.shields.io/github/forks/Bytedesk/bytedesk?style=flat-square&color=blue)](https://github.com/Bytedesk/bytedesk/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bytedesk/bytedesk?style=flat-square&color=yellow)](https://github.com/Bytedesk/bytedesk/stargazers) [![Forks](https://img.shields.io/github/forks/Bytedesk/bytedesk?style=flat-square&color=blue)](https://github.com/Bytedesk/bytedesk/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise IM Solution with AI powered omni-channel customer service & team im，alternative to slack + zendesk/intercom
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 417 |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Bytedesk/bytedesk：Bytedesk/bytedesk helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 73/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 55/100 |
 | stars | 56/100 |
 | forks | 52/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

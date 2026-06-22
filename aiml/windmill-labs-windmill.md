@@ -1,6 +1,6 @@
 # windmill-labs/windmill
 
-[![Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=flat-square&color=yellow)](https://github.com/windmill-labs/windmill/stargazers) [![Forks](https://img.shields.io/github/forks/windmill-labs/windmill?style=flat-square&color=blue)](https://github.com/windmill-labs/windmill/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=flat-square&color=yellow)](https://github.com/windmill-labs/windmill/stargazers) [![Forks](https://img.shields.io/github/forks/windmill-labs/windmill?style=flat-square&color=blue)](https://github.com/windmill-labs/windmill/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.4k |
 | 🍴 **Forks** | 947 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · DevTools
 
 ### English
 
-windmill-labs/windmill: windmill-labs/windmill helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+windmill-labs/windmill: windmill-labs/windmill helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-windmill-labs/windmill: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+windmill-labs/windmill: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-windmill-labs/windmill：windmill-labs/windmill helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+windmill-labs/windmill：windmill-labs/windmill helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ windmill-labs/windmill：windmill-labs/windmill helps add AI capability without 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ windmill-labs/windmill：windmill-labs/windmill helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 87/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 85/100 |
 | stars | 90/100 |
 | forks | 74/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

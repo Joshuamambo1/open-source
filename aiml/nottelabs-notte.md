@@ -1,6 +1,6 @@
 # nottelabs/notte
 
-[![Stars](https://img.shields.io/github/stars/nottelabs/notte?style=flat-square&color=yellow)](https://github.com/nottelabs/notte/stargazers) [![Forks](https://img.shields.io/github/forks/nottelabs/notte?style=flat-square&color=blue)](https://github.com/nottelabs/notte/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nottelabs/notte?style=flat-square&color=yellow)](https://github.com/nottelabs/notte/stargazers) [![Forks](https://img.shields.io/github/forks/nottelabs/notte?style=flat-square&color=blue)](https://github.com/nottelabs/notte/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 🌸 Best framework to build web agents, and deploy serverless web automation functions on reliable browser infra.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nottelabs/notte：nottelabs/notte helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 83/100 |
+| production | 58/100 |
+| outlook | 69/100 |
 | adoption | 66/100 |
 | stars | 70/100 |
 | forks | 56/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

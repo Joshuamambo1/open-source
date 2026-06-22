@@ -1,6 +1,6 @@
 # terminusdb/terminusdb
 
-[![Stars](https://img.shields.io/github/stars/terminusdb/terminusdb?style=flat-square&color=yellow)](https://github.com/terminusdb/terminusdb/stargazers) [![Forks](https://img.shields.io/github/forks/terminusdb/terminusdb?style=flat-square&color=blue)](https://github.com/terminusdb/terminusdb/network) [![Language](https://img.shields.io/badge/lang-Prolog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terminusdb/terminusdb?style=flat-square&color=yellow)](https://github.com/terminusdb/terminusdb/stargazers) [![Forks](https://img.shields.io/github/forks/terminusdb/terminusdb?style=flat-square&color=blue)](https://github.com/terminusdb/terminusdb/network) [![Language](https://img.shields.io/badge/lang-Prolog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Prolog |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ terminusdb/terminusdb：terminusdb/terminusdb helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 69/100 |
 | stars | 75/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

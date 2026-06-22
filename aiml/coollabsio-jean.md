@@ -1,6 +1,6 @@
 # coollabsio/jean
 
-[![Stars](https://img.shields.io/github/stars/coollabsio/jean?style=flat-square&color=yellow)](https://github.com/coollabsio/jean/stargazers) [![Forks](https://img.shields.io/github/forks/coollabsio/jean?style=flat-square&color=blue)](https://github.com/coollabsio/jean/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coollabsio/jean?style=flat-square&color=yellow)](https://github.com/coollabsio/jean/stargazers) [![Forks](https://img.shields.io/github/forks/coollabsio/jean?style=flat-square&color=blue)](https://github.com/coollabsio/jean/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A dev environment for AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 906 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ coollabsio/jean：coollabsio/jean helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 59/100 |
 | stars | 63/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

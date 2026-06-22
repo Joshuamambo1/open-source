@@ -1,6 +1,6 @@
 # bvaisvil/zenith
 
-[![Stars](https://img.shields.io/github/stars/bvaisvil/zenith?style=flat-square&color=yellow)](https://github.com/bvaisvil/zenith/stargazers) [![Forks](https://img.shields.io/github/forks/bvaisvil/zenith?style=flat-square&color=blue)](https://github.com/bvaisvil/zenith/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bvaisvil/zenith?style=flat-square&color=yellow)](https://github.com/bvaisvil/zenith/stargazers) [![Forks](https://img.shields.io/github/forks/bvaisvil/zenith?style=flat-square&color=blue)](https://github.com/bvaisvil/zenith/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bvaisvil/zenith：bvaisvil/zenith helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 67/100 |
 | stars | 74/100 |
 | forks | 48/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

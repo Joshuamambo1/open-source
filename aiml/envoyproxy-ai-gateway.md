@@ -1,6 +1,6 @@
 # envoyproxy/ai-gateway
 
-[![Stars](https://img.shields.io/github/stars/envoyproxy/ai-gateway?style=flat-square&color=yellow)](https://github.com/envoyproxy/ai-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/envoyproxy/ai-gateway?style=flat-square&color=blue)](https://github.com/envoyproxy/ai-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/envoyproxy/ai-gateway?style=flat-square&color=yellow)](https://github.com/envoyproxy/ai-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/envoyproxy/ai-gateway?style=flat-square&color=blue)](https://github.com/envoyproxy/ai-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Manages Unified Access to Generative AI Services built on Envoy Gateway
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · Backend
 
 ### English
 
-envoyproxy/ai-gateway: envoyproxy/ai-gateway helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+envoyproxy/ai-gateway: envoyproxy/ai-gateway helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-envoyproxy/ai-gateway: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+envoyproxy/ai-gateway: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-envoyproxy/ai-gateway：envoyproxy/ai-gateway helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+envoyproxy/ai-gateway：envoyproxy/ai-gateway helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ envoyproxy/ai-gateway：envoyproxy/ai-gateway helps add AI capability without st
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ envoyproxy/ai-gateway：envoyproxy/ai-gateway helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 75/100 |
-| outlook | 75/100 |
+| production | 62/100 |
+| outlook | 61/100 |
 | adoption | 66/100 |
 | stars | 68/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

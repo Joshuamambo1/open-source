@@ -1,6 +1,6 @@
 # szaghi/FoBiS
 
-[![Stars](https://img.shields.io/github/stars/szaghi/FoBiS?style=flat-square&color=yellow)](https://github.com/szaghi/FoBiS/stargazers) [![Forks](https://img.shields.io/github/forks/szaghi/FoBiS?style=flat-square&color=blue)](https://github.com/szaghi/FoBiS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/szaghi/FoBiS?style=flat-square&color=yellow)](https://github.com/szaghi/FoBiS/stargazers) [![Forks](https://img.shields.io/github/forks/szaghi/FoBiS?style=flat-square&color=blue)](https://github.com/szaghi/FoBiS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > FoBiS.py, Fortran projects Building System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ szaghi/FoBiS：szaghi/FoBiS helps ship user-facing interfaces with less custom U
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 77/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 44/100 |
 | stars | 46/100 |
 | forks | 40/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # rafi/awesome-cli-binaries
 
-[![Stars](https://img.shields.io/github/stars/rafi/awesome-cli-binaries?style=flat-square&color=yellow)](https://github.com/rafi/awesome-cli-binaries/stargazers) [![Forks](https://img.shields.io/github/forks/rafi/awesome-cli-binaries?style=flat-square&color=blue)](https://github.com/rafi/awesome-cli-binaries/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rafi/awesome-cli-binaries?style=flat-square&color=yellow)](https://github.com/rafi/awesome-cli-binaries/stargazers) [![Forks](https://img.shields.io/github/forks/rafi/awesome-cli-binaries?style=flat-square&color=blue)](https://github.com/rafi/awesome-cli-binaries/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Popular modern Linux CLI utilities, with pre-made statically compiled amd64/arm64 binaries and a great ~/.config starting point 🎉
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rafi/awesome-cli-binaries：rafi/awesome-cli-binaries helps engineers save time 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 29/100 |
 | stars | 35/100 |
 | forks | 12/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # aquasecurity/vuln-list
 
-[![Stars](https://img.shields.io/github/stars/aquasecurity/vuln-list?style=flat-square&color=yellow)](https://github.com/aquasecurity/vuln-list/stargazers) [![Forks](https://img.shields.io/github/forks/aquasecurity/vuln-list?style=flat-square&color=blue)](https://github.com/aquasecurity/vuln-list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aquasecurity/vuln-list?style=flat-square&color=yellow)](https://github.com/aquasecurity/vuln-list/stargazers) [![Forks](https://img.shields.io/github/forks/aquasecurity/vuln-list?style=flat-square&color=blue)](https://github.com/aquasecurity/vuln-list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > NVD, Ubuntu, Alpine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **aquasecurity/vuln-list** repository aggregates vulnerability data from mul
 
 ### 中文
 
-aquasecurity/vuln-list：aquasecurity/vuln-list helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+aquasecurity/vuln-list：aquasecurity/vuln-list helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ aquasecurity/vuln-list：aquasecurity/vuln-list helps catch security and privacy
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ aquasecurity/vuln-list：aquasecurity/vuln-list helps catch security and privacy
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 52/100 |
 | stars | 57/100 |
 | forks | 40/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

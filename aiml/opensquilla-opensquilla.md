@@ -1,6 +1,6 @@
 # OpenSquilla/opensquilla
 
-[![Stars](https://img.shields.io/github/stars/OpenSquilla/opensquilla?style=flat-square&color=yellow)](https://github.com/OpenSquilla/opensquilla/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSquilla/opensquilla?style=flat-square&color=blue)](https://github.com/OpenSquilla/opensquilla/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenSquilla/opensquilla?style=flat-square&color=yellow)](https://github.com/OpenSquilla/opensquilla/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSquilla/opensquilla?style=flat-square&color=blue)](https://github.com/OpenSquilla/opensquilla/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ OpenSquilla/opensquilla：OpenSquilla/opensquilla helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 73/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 39/100 |
 | stars | 44/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

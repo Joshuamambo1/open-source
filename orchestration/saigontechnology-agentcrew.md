@@ -1,6 +1,6 @@
 # saigontechnology/AgentCrew
 
-[![Stars](https://img.shields.io/github/stars/saigontechnology/AgentCrew?style=flat-square&color=yellow)](https://github.com/saigontechnology/AgentCrew/stargazers) [![Forks](https://img.shields.io/github/forks/saigontechnology/AgentCrew?style=flat-square&color=blue)](https://github.com/saigontechnology/AgentCrew/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saigontechnology/AgentCrew?style=flat-square&color=yellow)](https://github.com/saigontechnology/AgentCrew/stargazers) [![Forks](https://img.shields.io/github/forks/saigontechnology/AgentCrew?style=flat-square&color=blue)](https://github.com/saigontechnology/AgentCrew/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Chat application with multi-agents system supports multi-models and MCP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 191 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ saigontechnology/AgentCrew：saigontechnology/AgentCrew helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 94/100 |
-| production | 75/100 |
-| outlook | 79/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 46/100 |
 | stars | 49/100 |
 | forks | 39/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

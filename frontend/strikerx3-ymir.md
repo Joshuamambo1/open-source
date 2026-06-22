@@ -1,6 +1,6 @@
 # StrikerX3/Ymir
 
-[![Stars](https://img.shields.io/github/stars/StrikerX3/Ymir?style=flat-square&color=yellow)](https://github.com/StrikerX3/Ymir/stargazers) [![Forks](https://img.shields.io/github/forks/StrikerX3/Ymir?style=flat-square&color=blue)](https://github.com/StrikerX3/Ymir/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StrikerX3/Ymir?style=flat-square&color=yellow)](https://github.com/StrikerX3/Ymir/stargazers) [![Forks](https://img.shields.io/github/forks/StrikerX3/Ymir?style=flat-square&color=blue)](https://github.com/StrikerX3/Ymir/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Sega Saturn emulator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 897 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ StrikerX3/Ymir：StrikerX3/Ymir helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 41/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

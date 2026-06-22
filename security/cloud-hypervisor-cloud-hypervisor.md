@@ -1,6 +1,6 @@
 # cloud-hypervisor/cloud-hypervisor
 
-[![Stars](https://img.shields.io/github/stars/cloud-hypervisor/cloud-hypervisor?style=flat-square&color=yellow)](https://github.com/cloud-hypervisor/cloud-hypervisor/stargazers) [![Forks](https://img.shields.io/github/forks/cloud-hypervisor/cloud-hypervisor?style=flat-square&color=blue)](https://github.com/cloud-hypervisor/cloud-hypervisor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloud-hypervisor/cloud-hypervisor?style=flat-square&color=yellow)](https://github.com/cloud-hypervisor/cloud-hypervisor/stargazers) [![Forks](https://img.shields.io/github/forks/cloud-hypervisor/cloud-hypervisor?style=flat-square&color=blue)](https://github.com/cloud-hypervisor/cloud-hypervisor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 640 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cloud-hypervisor/cloud-hypervisor：cloud-hypervisor/cloud-hypervisor helps catc
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 77/100 |
 | stars | 80/100 |
 | forks | 70/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

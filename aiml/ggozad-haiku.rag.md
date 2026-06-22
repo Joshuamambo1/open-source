@@ -1,6 +1,6 @@
 # ggozad/haiku.rag
 
-[![Stars](https://img.shields.io/github/stars/ggozad/haiku.rag?style=flat-square&color=yellow)](https://github.com/ggozad/haiku.rag/stargazers) [![Forks](https://img.shields.io/github/forks/ggozad/haiku.rag?style=flat-square&color=blue)](https://github.com/ggozad/haiku.rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ggozad/haiku.rag?style=flat-square&color=yellow)](https://github.com/ggozad/haiku.rag/stargazers) [![Forks](https://img.shields.io/github/forks/ggozad/haiku.rag?style=flat-square&color=blue)](https://github.com/ggozad/haiku.rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Opinionated agentic RAG powered by LanceDB, Pydantic AI, and Docling
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A lightweight, opinionated Retrieval‑Augmented Generation (RAG) framework that
 
 ### 中文
 
-ggozad/haiku.rag：ggozad/haiku.rag helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ggozad/haiku.rag：ggozad/haiku.rag helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ggozad/haiku.rag：ggozad/haiku.rag helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ggozad/haiku.rag：ggozad/haiku.rag helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 94/100 |
-| production | 76/100 |
-| outlook | 81/100 |
+| production | 63/100 |
+| outlook | 67/100 |
 | adoption | 52/100 |
 | stars | 58/100 |
 | forks | 39/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

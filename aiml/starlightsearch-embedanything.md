@@ -1,6 +1,6 @@
 # StarlightSearch/EmbedAnything
 
-[![Stars](https://img.shields.io/github/stars/StarlightSearch/EmbedAnything?style=flat-square&color=yellow)](https://github.com/StarlightSearch/EmbedAnything/stargazers) [![Forks](https://img.shields.io/github/forks/StarlightSearch/EmbedAnything?style=flat-square&color=blue)](https://github.com/StarlightSearch/EmbedAnything/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StarlightSearch/EmbedAnything?style=flat-square&color=yellow)](https://github.com/StarlightSearch/EmbedAnything/stargazers) [![Forks](https://img.shields.io/github/forks/StarlightSearch/EmbedAnything?style=flat-square&color=blue)](https://github.com/StarlightSearch/EmbedAnything/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ StarlightSearch/EmbedAnything：StarlightSearch/EmbedAnything helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 58/100 |
+| outlook | 61/100 |
 | adoption | 62/100 |
 | stars | 66/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

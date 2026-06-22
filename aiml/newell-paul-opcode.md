@@ -1,6 +1,6 @@
 # newell-paul/opcode
 
-[![Stars](https://img.shields.io/github/stars/newell-paul/opcode?style=flat-square&color=yellow)](https://github.com/newell-paul/opcode/stargazers) [![Forks](https://img.shields.io/github/forks/newell-paul/opcode?style=flat-square&color=blue)](https://github.com/newell-paul/opcode/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/newell-paul/opcode?style=flat-square&color=yellow)](https://github.com/newell-paul/opcode/stargazers) [![Forks](https://img.shields.io/github/forks/newell-paul/opcode?style=flat-square&color=blue)](https://github.com/newell-paul/opcode/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag programming): I Programmed an AI in 6502 Assembly - It Worked
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 33/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | devto |
 
@@ -27,15 +27,15 @@ AI/ML
 
 ### English
 
-I Programmed an AI in 6502 Assembly - It Worked: I Programmed an AI in 6502 Assembly - It Worked helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+I Programmed an AI in 6502 Assembly - It Worked: I Programmed an AI in 6502 Assembly - It Worked helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-I Programmed an AI in 6502 Assembly - It Worked: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+I Programmed an AI in 6502 Assembly - It Worked: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-I Programmed an AI in 6502 Assembly - It Worked：I Programmed an AI in 6502 Assembly - It Worked helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+I Programmed an AI in 6502 Assembly - It Worked：I Programmed an AI in 6502 Assembly - It Worked helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ I Programmed an AI in 6502 Assembly - It Worked：I Programmed an AI in 6502 Ass
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ I Programmed an AI in 6502 Assembly - It Worked：I Programmed an AI in 6502 Ass
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 40/100 |
+| quality | 30/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 50/100 |
+| production | 39/100 |
+| outlook | 36/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

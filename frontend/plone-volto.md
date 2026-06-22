@@ -1,6 +1,6 @@
 # plone/volto
 
-[![Stars](https://img.shields.io/github/stars/plone/volto?style=flat-square&color=yellow)](https://github.com/plone/volto/stargazers) [![Forks](https://img.shields.io/github/forks/plone/volto?style=flat-square&color=blue)](https://github.com/plone/volto/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plone/volto?style=flat-square&color=yellow)](https://github.com/plone/volto/stargazers) [![Forks](https://img.shields.io/github/forks/plone/volto?style=flat-square&color=blue)](https://github.com/plone/volto/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > React-based frontend for the Plone Content Management System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 612 |
 | 🍴 **Forks** | 884 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ plone/volto：plone/volto helps ship user-facing interfaces with less custom UI 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 63/100 |
 | stars | 59/100 |
 | forks | 74/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

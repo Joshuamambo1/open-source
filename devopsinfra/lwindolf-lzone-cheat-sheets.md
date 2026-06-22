@@ -1,6 +1,6 @@
 # lwindolf/lzone-cheat-sheets
 
-[![Stars](https://img.shields.io/github/stars/lwindolf/lzone-cheat-sheets?style=flat-square&color=yellow)](https://github.com/lwindolf/lzone-cheat-sheets/stargazers) [![Forks](https://img.shields.io/github/forks/lwindolf/lzone-cheat-sheets?style=flat-square&color=blue)](https://github.com/lwindolf/lzone-cheat-sheets/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lwindolf/lzone-cheat-sheets?style=flat-square&color=yellow)](https://github.com/lwindolf/lzone-cheat-sheets/stargazers) [![Forks](https://img.shields.io/github/forks/lwindolf/lzone-cheat-sheets?style=flat-square&color=blue)](https://github.com/lwindolf/lzone-cheat-sheets/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of sysadmin / DevOps / system architecture cheat sheets hosted on https://lzone.de
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 333 |
 | 🍴 **Forks** | 526 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ lwindolf/lzone-cheat-sheets：lwindolf/lzone-cheat-sheets helps make deployment 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 58/100 |
 | stars | 54/100 |
 | forks | 68/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

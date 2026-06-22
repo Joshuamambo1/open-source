@@ -1,6 +1,6 @@
 # NipunaRanasinghe/awesome-ai-agents
 
-[![Stars](https://img.shields.io/github/stars/NipunaRanasinghe/awesome-ai-agents?style=flat-square&color=yellow)](https://github.com/NipunaRanasinghe/awesome-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/NipunaRanasinghe/awesome-ai-agents?style=flat-square&color=blue)](https://github.com/NipunaRanasinghe/awesome-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NipunaRanasinghe/awesome-ai-agents?style=flat-square&color=yellow)](https://github.com/NipunaRanasinghe/awesome-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/NipunaRanasinghe/awesome-ai-agents?style=flat-square&color=blue)](https://github.com/NipunaRanasinghe/awesome-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of frameworks, tools, and resources for building and deploying AI agents. From multi-agent systems to autonomous coding assistants, this repository covers the latest advancements in AI agent technology. Perfect for developers, researchers, and AI enthusiasts exploring the future of autonomous systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ NipunaRanasinghe/awesome‑ai‑agents — это тщательно отоб�
 
 ### 中文
 
-NipunaRanasinghe/awesome-ai-agents：NipunaRanasinghe/awesome-ai-agents helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+NipunaRanasinghe/awesome-ai-agents：NipunaRanasinghe/awesome-ai-agents helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ NipunaRanasinghe/awesome-ai-agents：NipunaRanasinghe/awesome-ai-agents helps tu
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ NipunaRanasinghe/awesome-ai-agents：NipunaRanasinghe/awesome-ai-agents helps tu
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 73/100 |
+| production | 50/100 |
+| outlook | 59/100 |
 | adoption | 32/100 |
 | stars | 32/100 |
 | forks | 31/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

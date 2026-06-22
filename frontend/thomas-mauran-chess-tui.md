@@ -1,6 +1,6 @@
 # thomas-mauran/chess-tui
 
-[![Stars](https://img.shields.io/github/stars/thomas-mauran/chess-tui?style=flat-square&color=yellow)](https://github.com/thomas-mauran/chess-tui/stargazers) [![Forks](https://img.shields.io/github/forks/thomas-mauran/chess-tui?style=flat-square&color=blue)](https://github.com/thomas-mauran/chess-tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thomas-mauran/chess-tui?style=flat-square&color=yellow)](https://github.com/thomas-mauran/chess-tui/stargazers) [![Forks](https://img.shields.io/github/forks/thomas-mauran/chess-tui?style=flat-square&color=blue)](https://github.com/thomas-mauran/chess-tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Play chess in any terminal. Rust TUI, Stockfish, Lichess.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ thomas-mauran/chess-tui：thomas-mauran/chess-tui helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 59/100 |
 | stars | 64/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

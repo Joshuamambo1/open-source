@@ -1,6 +1,6 @@
 # SUPERCILEX/clipboard-history
 
-[![Stars](https://img.shields.io/github/stars/SUPERCILEX/clipboard-history?style=flat-square&color=yellow)](https://github.com/SUPERCILEX/clipboard-history/stargazers) [![Forks](https://img.shields.io/github/forks/SUPERCILEX/clipboard-history?style=flat-square&color=blue)](https://github.com/SUPERCILEX/clipboard-history/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SUPERCILEX/clipboard-history?style=flat-square&color=yellow)](https://github.com/SUPERCILEX/clipboard-history/stargazers) [![Forks](https://img.shields.io/github/forks/SUPERCILEX/clipboard-history?style=flat-square&color=blue)](https://github.com/SUPERCILEX/clipboard-history/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Ringboard—the clipboard manager for Linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ SUPERCILEX/clipboard-history：SUPERCILEX/clipboard-history helps ship user-faci
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 50/100 |
 | stars | 57/100 |
 | forks | 33/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

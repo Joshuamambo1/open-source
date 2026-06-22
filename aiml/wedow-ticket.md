@@ -1,6 +1,6 @@
 # wedow/ticket
 
-[![Stars](https://img.shields.io/github/stars/wedow/ticket?style=flat-square&color=yellow)](https://github.com/wedow/ticket/stargazers) [![Forks](https://img.shields.io/github/forks/wedow/ticket?style=flat-square&color=blue)](https://github.com/wedow/ticket/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wedow/ticket?style=flat-square&color=yellow)](https://github.com/wedow/ticket/stargazers) [![Forks](https://img.shields.io/github/forks/wedow/ticket?style=flat-square&color=blue)](https://github.com/wedow/ticket/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): Mac-Only? Just Fork It
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | devto |
 
@@ -27,15 +27,15 @@ AI/ML
 
 ### English
 
-Mac-Only? Just Fork It: Mac-Only? Just Fork It helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Mac-Only? Just Fork It: Mac-Only? Just Fork It helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Mac-Only? Just Fork It: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Mac-Only? Just Fork It: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Mac-Only? Just Fork It：Mac-Only? Just Fork It helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Mac-Only? Just Fork It：Mac-Only? Just Fork It helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Mac-Only? Just Fork It：Mac-Only? Just Fork It helps add AI capability without 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ Mac-Only? Just Fork It：Mac-Only? Just Fork It helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 40/100 |
+| quality | 30/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 53/100 |
+| production | 39/100 |
+| outlook | 39/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

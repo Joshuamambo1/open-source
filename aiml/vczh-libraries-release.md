@@ -1,6 +1,6 @@
 # vczh-libraries/Release
 
-[![Stars](https://img.shields.io/github/stars/vczh-libraries/Release?style=flat-square&color=yellow)](https://github.com/vczh-libraries/Release/stargazers) [![Forks](https://img.shields.io/github/forks/vczh-libraries/Release?style=flat-square&color=blue)](https://github.com/vczh-libraries/Release/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vczh-libraries/Release?style=flat-square&color=yellow)](https://github.com/vczh-libraries/Release/stargazers) [![Forks](https://img.shields.io/github/forks/vczh-libraries/Release?style=flat-square&color=blue)](https://github.com/vczh-libraries/Release/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Release folder of all projects, mainly for GacUI: Native C++ UI library, cross-platform, MVVM and data binding, XML description, multi-language, core/renderer cross-process separation, etc
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 263 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ vczh-libraries/Release：vczh-libraries/Release helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 63/100 |
+| production | 51/100 |
+| outlook | 49/100 |
 | adoption | 65/100 |
 | stars | 67/100 |
 | forks | 61/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

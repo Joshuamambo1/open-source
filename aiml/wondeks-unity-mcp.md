@@ -1,6 +1,6 @@
 # wondeks/unity-mcp
 
-[![Stars](https://img.shields.io/github/stars/wondeks/unity-mcp?style=flat-square&color=yellow)](https://github.com/wondeks/unity-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/wondeks/unity-mcp?style=flat-square&color=blue)](https://github.com/wondeks/unity-mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wondeks/unity-mcp?style=flat-square&color=yellow)](https://github.com/wondeks/unity-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/wondeks/unity-mcp?style=flat-square&color=blue)](https://github.com/wondeks/unity-mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wondeks/unity-mcp：wondeks/unity-mcp helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 94/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 59/100 |
+| outlook | 59/100 |
 | adoption | 26/100 |
 | stars | 29/100 |
 | forks | 21/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

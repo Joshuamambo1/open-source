@@ -1,6 +1,6 @@
 # usekaneo/kaneo
 
-[![Stars](https://img.shields.io/github/stars/usekaneo/kaneo?style=flat-square&color=yellow)](https://github.com/usekaneo/kaneo/stargazers) [![Forks](https://img.shields.io/github/forks/usekaneo/kaneo?style=flat-square&color=blue)](https://github.com/usekaneo/kaneo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/usekaneo/kaneo?style=flat-square&color=yellow)](https://github.com/usekaneo/kaneo/stargazers) [![Forks](https://img.shields.io/github/forks/usekaneo/kaneo?style=flat-square&color=blue)](https://github.com/usekaneo/kaneo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 310 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ usekaneo/kaneo：usekaneo/kaneo helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 78/100 |
+| production | 59/100 |
+| outlook | 64/100 |
 | adoption | 72/100 |
 | stars | 75/100 |
 | forks | 62/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

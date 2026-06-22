@@ -1,6 +1,6 @@
 # BillyDM/Firewheel
 
-[![Stars](https://img.shields.io/github/stars/BillyDM/Firewheel?style=flat-square&color=yellow)](https://github.com/BillyDM/Firewheel/stargazers) [![Forks](https://img.shields.io/github/forks/BillyDM/Firewheel?style=flat-square&color=blue)](https://github.com/BillyDM/Firewheel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BillyDM/Firewheel?style=flat-square&color=yellow)](https://github.com/BillyDM/Firewheel/stargazers) [![Forks](https://img.shields.io/github/forks/BillyDM/Firewheel?style=flat-square&color=blue)](https://github.com/BillyDM/Firewheel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Powerful and flexible mid-level audio engine for games and other applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 294 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-BillyDM/Firewheel: BillyDM/Firewheel may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BillyDM/Firewheel: BillyDM/Firewheel may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-BillyDM/Firewheel: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+BillyDM/Firewheel: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-BillyDM/Firewheel：BillyDM/Firewheel may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BillyDM/Firewheel：BillyDM/Firewheel may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ BillyDM/Firewheel：BillyDM/Firewheel may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ BillyDM/Firewheel：BillyDM/Firewheel may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 48/100 |
 | stars | 53/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

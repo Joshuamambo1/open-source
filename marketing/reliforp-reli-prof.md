@@ -1,6 +1,6 @@
 # reliforp/reli-prof
 
-[![Stars](https://img.shields.io/github/stars/reliforp/reli-prof?style=flat-square&color=yellow)](https://github.com/reliforp/reli-prof/stargazers) [![Forks](https://img.shields.io/github/forks/reliforp/reli-prof?style=flat-square&color=blue)](https://github.com/reliforp/reli-prof/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reliforp/reli-prof?style=flat-square&color=yellow)](https://github.com/reliforp/reli-prof/stargazers) [![Forks](https://img.shields.io/github/forks/reliforp/reli-prof?style=flat-square&color=blue)](https://github.com/reliforp/reli-prof/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A sampling profiler or a memory profiler for PHP written in PHP, which reads information about running PHP VM from outside the process. You can find performance bottlenecks or memory leaks of your scripts without changing the target script or loading extensions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 523 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ reliforp/reli-prof：reliforp/reli-prof may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 50/100 |
 | stars | 58/100 |
 | forks | 31/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

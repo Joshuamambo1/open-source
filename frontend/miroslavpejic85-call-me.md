@@ -1,6 +1,6 @@
 # miroslavpejic85/call-me
 
-[![Stars](https://img.shields.io/github/stars/miroslavpejic85/call-me?style=flat-square&color=yellow)](https://github.com/miroslavpejic85/call-me/stargazers) [![Forks](https://img.shields.io/github/forks/miroslavpejic85/call-me?style=flat-square&color=blue)](https://github.com/miroslavpejic85/call-me/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miroslavpejic85/call-me?style=flat-square&color=yellow)](https://github.com/miroslavpejic85/call-me/stargazers) [![Forks](https://img.shields.io/github/forks/miroslavpejic85/call-me?style=flat-square&color=blue)](https://github.com/miroslavpejic85/call-me/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 🟢 WebRTC click-to-call platform for instant real-time communication in a persistent shared room with unlimited participants where users can join and call each other instantly. No signup or setup required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 759 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ miroslavpejic85/call-me：miroslavpejic85/call-me helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 77/100 |
+| production | 59/100 |
+| outlook | 63/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

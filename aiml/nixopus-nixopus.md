@@ -1,6 +1,6 @@
 # nixopus/nixopus
 
-[![Stars](https://img.shields.io/github/stars/nixopus/nixopus?style=flat-square&color=yellow)](https://github.com/nixopus/nixopus/stargazers) [![Forks](https://img.shields.io/github/forks/nixopus/nixopus?style=flat-square&color=blue)](https://github.com/nixopus/nixopus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nixopus/nixopus?style=flat-square&color=yellow)](https://github.com/nixopus/nixopus/stargazers) [![Forks](https://img.shields.io/github/forks/nixopus/nixopus?style=flat-square&color=blue)](https://github.com/nixopus/nixopus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Backend · Data
 
 ### English
 
-nixopus/nixopus: nixopus/nixopus helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+nixopus/nixopus: nixopus/nixopus helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-nixopus/nixopus: open-source проект в категориях AI/ML, Backend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+nixopus/nixopus: open-source проект в категориях AI/ML, Backend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-nixopus/nixopus：nixopus/nixopus helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+nixopus/nixopus：nixopus/nixopus helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ nixopus/nixopus：nixopus/nixopus helps add AI capability without starting from 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ nixopus/nixopus：nixopus/nixopus helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 76/100 |
-| outlook | 82/100 |
+| production | 62/100 |
+| outlook | 68/100 |
 | adoption | 63/100 |
 | stars | 67/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

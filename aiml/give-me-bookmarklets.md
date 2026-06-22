@@ -1,6 +1,6 @@
 # give-me/bookmarklets
 
-[![Stars](https://img.shields.io/github/stars/give-me/bookmarklets?style=flat-square&color=yellow)](https://github.com/give-me/bookmarklets/stargazers) [![Forks](https://img.shields.io/github/forks/give-me/bookmarklets?style=flat-square&color=blue)](https://github.com/give-me/bookmarklets/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/give-me/bookmarklets?style=flat-square&color=yellow)](https://github.com/give-me/bookmarklets/stargazers) [![Forks](https://img.shields.io/github/forks/give-me/bookmarklets?style=flat-square&color=blue)](https://github.com/give-me/bookmarklets/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Bookmarklet to export the content from chatbots to a PDF or text with a single click. Supports Google's AI Mode, Claude, ChatGPT, Grok and Gemini.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ give-me/bookmarklets：give-me/bookmarklets helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 41/100 |
 | stars | 46/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

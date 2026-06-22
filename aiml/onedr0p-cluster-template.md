@@ -1,6 +1,6 @@
 # onedr0p/cluster-template
 
-[![Stars](https://img.shields.io/github/stars/onedr0p/cluster-template?style=flat-square&color=yellow)](https://github.com/onedr0p/cluster-template/stargazers) [![Forks](https://img.shields.io/github/forks/onedr0p/cluster-template?style=flat-square&color=blue)](https://github.com/onedr0p/cluster-template/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onedr0p/cluster-template?style=flat-square&color=yellow)](https://github.com/onedr0p/cluster-template/stargazers) [![Forks](https://img.shields.io/github/forks/onedr0p/cluster-template?style=flat-square&color=blue)](https://github.com/onedr0p/cluster-template/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 319 |
 | 💻 **Language** | YAML |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ onedr0p/cluster-template：onedr0p/cluster-template helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 73/100 |
+| production | 61/100 |
+| outlook | 59/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 63/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # MobilityData/awesome-transit
 
-[![Stars](https://img.shields.io/github/stars/MobilityData/awesome-transit?style=flat-square&color=yellow)](https://github.com/MobilityData/awesome-transit/stargazers) [![Forks](https://img.shields.io/github/forks/MobilityData/awesome-transit?style=flat-square&color=blue)](https://github.com/MobilityData/awesome-transit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MobilityData/awesome-transit?style=flat-square&color=yellow)](https://github.com/MobilityData/awesome-transit/stargazers) [![Forks](https://img.shields.io/github/forks/MobilityData/awesome-transit?style=flat-square&color=blue)](https://github.com/MobilityData/awesome-transit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ MobilityData/awesome-transit：MobilityData/awesome-transit helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 79/100 |
+| production | 58/100 |
+| outlook | 65/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 59/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

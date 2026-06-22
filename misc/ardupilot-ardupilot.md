@@ -1,6 +1,6 @@
 # ArduPilot/ardupilot
 
-[![Stars](https://img.shields.io/github/stars/ArduPilot/ardupilot?style=flat-square&color=yellow)](https://github.com/ArduPilot/ardupilot/stargazers) [![Forks](https://img.shields.io/github/forks/ArduPilot/ardupilot?style=flat-square&color=blue)](https://github.com/ArduPilot/ardupilot/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArduPilot/ardupilot?style=flat-square&color=yellow)](https://github.com/ArduPilot/ardupilot/stargazers) [![Forks](https://img.shields.io/github/forks/ArduPilot/ardupilot?style=flat-square&color=blue)](https://github.com/ArduPilot/ardupilot/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ArduPlane, ArduCopter, ArduRover, ArduSub source
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15k |
 | 🍴 **Forks** | 20.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ArduPilot/ardupilot：ArduPilot/ardupilot may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 91/100 |
+| quality | 81/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 79/100 |
+| production | 60/100 |
+| outlook | 65/100 |
 | adoption | 92/100 |
 | stars | 89/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

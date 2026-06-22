@@ -1,6 +1,6 @@
 # local-inference-lab/rtx6kpro
 
-[![Stars](https://img.shields.io/github/stars/local-inference-lab/rtx6kpro?style=flat-square&color=yellow)](https://github.com/local-inference-lab/rtx6kpro/stargazers) [![Forks](https://img.shields.io/github/forks/local-inference-lab/rtx6kpro?style=flat-square&color=blue)](https://github.com/local-inference-lab/rtx6kpro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/local-inference-lab/rtx6kpro?style=flat-square&color=yellow)](https://github.com/local-inference-lab/rtx6kpro/stargazers) [![Forks](https://img.shields.io/github/forks/local-inference-lab/rtx6kpro?style=flat-square&color=blue)](https://github.com/local-inference-lab/rtx6kpro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > RTX 6000 Pro Wiki — Running Large LLMs (Qwen3.5-397B, Kimi-K2.5, GLM-5) on PCIe GPUs without NVLink
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ local-inference-lab/rtx6kpro is an open‑source guide and toolkit for running v
 
 ### 中文
 
-local-inference-lab/rtx6kpro：local-inference-lab/rtx6kpro helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+local-inference-lab/rtx6kpro：local-inference-lab/rtx6kpro helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ local-inference-lab/rtx6kpro：local-inference-lab/rtx6kpro helps add AI capabil
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ local-inference-lab/rtx6kpro：local-inference-lab/rtx6kpro helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 58/100 |
+| production | 50/100 |
+| outlook | 44/100 |
 | adoption | 48/100 |
 | stars | 53/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

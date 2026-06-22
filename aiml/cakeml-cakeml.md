@@ -1,6 +1,6 @@
 # CakeML/cakeml
 
-[![Stars](https://img.shields.io/github/stars/CakeML/cakeml?style=flat-square&color=yellow)](https://github.com/CakeML/cakeml/stargazers) [![Forks](https://img.shields.io/github/forks/CakeML/cakeml?style=flat-square&color=blue)](https://github.com/CakeML/cakeml/network) [![Language](https://img.shields.io/badge/lang-Standard%20ML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CakeML/cakeml?style=flat-square&color=yellow)](https://github.com/CakeML/cakeml/stargazers) [![Forks](https://img.shields.io/github/forks/CakeML/cakeml?style=flat-square&color=blue)](https://github.com/CakeML/cakeml/network) [![Language](https://img.shields.io/badge/lang-Standard%20ML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > CakeML: A Verified Implementation of ML
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Standard ML |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CakeML/cakeml：CakeML/cakeml helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Enderfga/claw-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/Enderfga/claw-orchestrator?style=flat-square&color=yellow)](https://github.com/Enderfga/claw-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Enderfga/claw-orchestrator?style=flat-square&color=blue)](https://github.com/Enderfga/claw-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Enderfga/claw-orchestrator?style=flat-square&color=yellow)](https://github.com/Enderfga/claw-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Enderfga/claw-orchestrator?style=flat-square&color=blue)](https://github.com/Enderfga/claw-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Enderfga’s **claw‑orchestrator** provides a single runtime that can execute 
 
 ### 中文
 
-Enderfga/claw-orchestrator：Enderfga/claw-orchestrator helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Enderfga/claw-orchestrator：Enderfga/claw-orchestrator helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Enderfga/claw-orchestrator：Enderfga/claw-orchestrator helps turn isolated prom
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Enderfga/claw-orchestrator：Enderfga/claw-orchestrator helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 94/100 |
-| production | 76/100 |
-| outlook | 81/100 |
+| production | 63/100 |
+| outlook | 67/100 |
 | adoption | 53/100 |
 | stars | 56/100 |
 | forks | 46/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

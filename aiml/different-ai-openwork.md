@@ -1,6 +1,6 @@
 # different-ai/openwork
 
-[![Stars](https://img.shields.io/github/stars/different-ai/openwork?style=flat-square&color=yellow)](https://github.com/different-ai/openwork/stargazers) [![Forks](https://img.shields.io/github/forks/different-ai/openwork?style=flat-square&color=blue)](https://github.com/different-ai/openwork/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/different-ai/openwork?style=flat-square&color=yellow)](https://github.com/different-ai/openwork/stargazers) [![Forks](https://img.shields.io/github/forks/different-ai/openwork?style=flat-square&color=blue)](https://github.com/different-ai/openwork/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source alternative to Claude Cowork (powered by opencode)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.9k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ different-ai/openwork：different-ai/openwork helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 54/100 |
 | adoption | 86/100 |
 | stars | 89/100 |
 | forks | 79/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

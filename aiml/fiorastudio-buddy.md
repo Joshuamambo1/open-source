@@ -1,6 +1,6 @@
 # fiorastudio/buddy
 
-[![Stars](https://img.shields.io/github/stars/fiorastudio/buddy?style=flat-square&color=yellow)](https://github.com/fiorastudio/buddy/stargazers) [![Forks](https://img.shields.io/github/forks/fiorastudio/buddy?style=flat-square&color=blue)](https://github.com/fiorastudio/buddy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fiorastudio/buddy?style=flat-square&color=yellow)](https://github.com/fiorastudio/buddy/stargazers) [![Forks](https://img.shields.io/github/forks/fiorastudio/buddy?style=flat-square&color=blue)](https://github.com/fiorastudio/buddy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A virtual pet companion for your AI — Designed to provide in-context code review feedback with personality. Grow with your buddy and level up together. Works with Claude Code, Codex, CursorCLI, Github CopilotCLI, OpenClaw, and any MCP compatible clients
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ fiorastudio/buddy：fiorastudio/buddy helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 94/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 60/100 |
+| outlook | 63/100 |
 | adoption | 38/100 |
 | stars | 40/100 |
 | forks | 31/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

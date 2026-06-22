@@ -1,6 +1,6 @@
 # ring-lang/ring
 
-[![Stars](https://img.shields.io/github/stars/ring-lang/ring?style=flat-square&color=yellow)](https://github.com/ring-lang/ring/stargazers) [![Forks](https://img.shields.io/github/forks/ring-lang/ring?style=flat-square&color=blue)](https://github.com/ring-lang/ring/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ring-lang/ring?style=flat-square&color=yellow)](https://github.com/ring-lang/ring/stargazers) [![Forks](https://img.shields.io/github/forks/ring-lang/ring?style=flat-square&color=blue)](https://github.com/ring-lang/ring/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A simple, lightweight, flexible, embeddable, portable and multi-paradigm dynamic programming language for developing applications, tools, and domain-specific languages
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 434 |
 | 💻 **Language** | C |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ring-lang/ring：ring-lang/ring helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 67/100 |
 | stars | 67/100 |
 | forks | 66/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

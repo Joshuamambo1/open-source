@@ -1,6 +1,6 @@
 # 0xMassi/webclaw
 
-[![Stars](https://img.shields.io/github/stars/0xMassi/webclaw?style=flat-square&color=yellow)](https://github.com/0xMassi/webclaw/stargazers) [![Forks](https://img.shields.io/github/forks/0xMassi/webclaw?style=flat-square&color=blue)](https://github.com/0xMassi/webclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xMassi/webclaw?style=flat-square&color=yellow)](https://github.com/0xMassi/webclaw/stargazers) [![Forks](https://img.shields.io/github/forks/0xMassi/webclaw?style=flat-square&color=blue)](https://github.com/0xMassi/webclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML · Backend · DevTools
 
 ### 中文
 
-0xMassi/webclaw：0xMassi/webclaw helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+0xMassi/webclaw：0xMassi/webclaw helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AI/ML · Backend · DevTools
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ AI/ML · Backend · DevTools
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 75/100 |
-| outlook | 83/100 |
+| production | 62/100 |
+| outlook | 69/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

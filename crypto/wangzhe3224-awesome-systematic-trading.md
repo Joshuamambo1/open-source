@@ -1,6 +1,6 @@
 # wangzhe3224/awesome-systematic-trading
 
-[![Stars](https://img.shields.io/github/stars/wangzhe3224/awesome-systematic-trading?style=flat-square&color=yellow)](https://github.com/wangzhe3224/awesome-systematic-trading/stargazers) [![Forks](https://img.shields.io/github/forks/wangzhe3224/awesome-systematic-trading?style=flat-square&color=blue)](https://github.com/wangzhe3224/awesome-systematic-trading/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wangzhe3224/awesome-systematic-trading?style=flat-square&color=yellow)](https://github.com/wangzhe3224/awesome-systematic-trading/stargazers) [![Forks](https://img.shields.io/github/forks/wangzhe3224/awesome-systematic-trading?style=flat-square&color=blue)](https://github.com/wangzhe3224/awesome-systematic-trading/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 522 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Crypto · Trading · AI/ML
 
 ### English
 
-wangzhe3224/awesome-systematic-trading: wangzhe3224/awesome-systematic-trading helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+wangzhe3224/awesome-systematic-trading: wangzhe3224/awesome-systematic-trading helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-wangzhe3224/awesome-systematic-trading: open-source проект в категориях Crypto, Trading, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+wangzhe3224/awesome-systematic-trading: open-source проект в категориях Crypto, Trading, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-wangzhe3224/awesome-systematic-trading：wangzhe3224/awesome-systematic-trading helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+wangzhe3224/awesome-systematic-trading：wangzhe3224/awesome-systematic-trading helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ wangzhe3224/awesome-systematic-trading：wangzhe3224/awesome-systematic-trading 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ wangzhe3224/awesome-systematic-trading：wangzhe3224/awesome-systematic-trading 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 75/100 |
+| production | 62/100 |
+| outlook | 61/100 |
 | adoption | 74/100 |
 | stars | 77/100 |
 | forks | 68/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

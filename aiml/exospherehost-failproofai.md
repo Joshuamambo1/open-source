@@ -1,6 +1,6 @@
 # exospherehost/failproofai
 
-[![Stars](https://img.shields.io/github/stars/exospherehost/failproofai?style=flat-square&color=yellow)](https://github.com/exospherehost/failproofai/stargazers) [![Forks](https://img.shields.io/github/forks/exospherehost/failproofai?style=flat-square&color=blue)](https://github.com/exospherehost/failproofai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/exospherehost/failproofai?style=flat-square&color=yellow)](https://github.com/exospherehost/failproofai/stargazers) [![Forks](https://img.shields.io/github/forks/exospherehost/failproofai?style=flat-square&color=blue)](https://github.com/exospherehost/failproofai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Create, Manage and Share Hooks for Coding Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ exospherehost/failproofai：exospherehost/failproofai helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 35/100 |
 | stars | 40/100 |
 | forks | 25/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Superalgos/Superalgos
 
-[![Stars](https://img.shields.io/github/stars/Superalgos/Superalgos?style=flat-square&color=yellow)](https://github.com/Superalgos/Superalgos/stargazers) [![Forks](https://img.shields.io/github/forks/Superalgos/Superalgos?style=flat-square&color=blue)](https://github.com/Superalgos/Superalgos/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Superalgos/Superalgos?style=flat-square&color=yellow)](https://github.com/Superalgos/Superalgos/stargazers) [![Forks](https://img.shields.io/github/forks/Superalgos/Superalgos?style=flat-square&color=blue)](https://github.com/Superalgos/Superalgos/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 6.1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Superalgos/Superalgos：Superalgos/Superalgos helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 88/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 81/100 |
+| production | 61/100 |
+| outlook | 67/100 |
 | adoption | 84/100 |
 | stars | 80/100 |
 | forks | 95/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

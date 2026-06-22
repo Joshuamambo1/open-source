@@ -1,6 +1,6 @@
 # jundot/omlx
 
-[![Stars](https://img.shields.io/github/stars/jundot/omlx?style=flat-square&color=yellow)](https://github.com/jundot/omlx/stargazers) [![Forks](https://img.shields.io/github/forks/jundot/omlx?style=flat-square&color=blue)](https://github.com/jundot/omlx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jundot/omlx?style=flat-square&color=yellow)](https://github.com/jundot/omlx/stargazers) [![Forks](https://img.shields.io/github/forks/jundot/omlx?style=flat-square&color=blue)](https://github.com/jundot/omlx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ jundot/omlx is an open‑source inference server optimized for Apple Silicon tha
 
 ### 中文
 
-jundot/omlx：jundot/omlx helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jundot/omlx：jundot/omlx helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jundot/omlx：jundot/omlx helps add AI capability without starting from a blank 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jundot/omlx：jundot/omlx helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 62/100 |
+| outlook | 64/100 |
 | adoption | 84/100 |
 | stars | 87/100 |
 | forks | 76/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

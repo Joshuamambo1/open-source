@@ -1,6 +1,6 @@
 # Epodonios/bulk-xray-v2ray-vless-vmess-...-configs
 
-[![Stars](https://img.shields.io/github/stars/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs?style=flat-square&color=yellow)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/stargazers) [![Forks](https://img.shields.io/github/forks/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs?style=flat-square&color=blue)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs?style=flat-square&color=yellow)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/stargazers) [![Forks](https://img.shields.io/github/forks/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs?style=flat-square&color=blue)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > free vmess vless trojan shadowsocks live v2ray_xray configs splitted by country
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 348 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ Epodonios/bulk-xray-v2ray-vless-vmess-...-configs：Epodonios/bulk-xray-v2ray-vl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 42/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

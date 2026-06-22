@@ -1,6 +1,6 @@
 # cita-777/metapi
 
-[![Stars](https://img.shields.io/github/stars/cita-777/metapi?style=flat-square&color=yellow)](https://github.com/cita-777/metapi/stargazers) [![Forks](https://img.shields.io/github/forks/cita-777/metapi?style=flat-square&color=blue)](https://github.com/cita-777/metapi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cita-777/metapi?style=flat-square&color=yellow)](https://github.com/cita-777/metapi/stargazers) [![Forks](https://img.shields.io/github/forks/cita-777/metapi?style=flat-square&color=blue)](https://github.com/cita-777/metapi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 348 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ cita-777/metapi：cita-777/metapi helps teams reuse service infrastructure inste
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 70/100 |
 | stars | 72/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

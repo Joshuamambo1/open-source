@@ -1,6 +1,6 @@
 # Azure/azure-sdk-for-rust
 
-[![Stars](https://img.shields.io/github/stars/Azure/azure-sdk-for-rust?style=flat-square&color=yellow)](https://github.com/Azure/azure-sdk-for-rust/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-sdk-for-rust?style=flat-square&color=blue)](https://github.com/Azure/azure-sdk-for-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/azure-sdk-for-rust?style=flat-square&color=yellow)](https://github.com/Azure/azure-sdk-for-rust/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-sdk-for-rust?style=flat-square&color=blue)](https://github.com/Azure/azure-sdk-for-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > This repository is for the active development of the Azure SDK for Rust. For consumers of the SDK we recommend visiting Docs.rs and looking up the docs for any of libraries in the SDK.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 873 |
 | 🍴 **Forks** | 347 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ Azure/azure-sdk-for-rust：Azure/azure-sdk-for-rust may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 73/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 63/100 |
 | stars | 63/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

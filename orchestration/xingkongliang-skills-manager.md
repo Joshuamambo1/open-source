@@ -1,6 +1,6 @@
 # xingkongliang/skills-manager
 
-[![Stars](https://img.shields.io/github/stars/xingkongliang/skills-manager?style=flat-square&color=yellow)](https://github.com/xingkongliang/skills-manager/stargazers) [![Forks](https://img.shields.io/github/forks/xingkongliang/skills-manager?style=flat-square&color=blue)](https://github.com/xingkongliang/skills-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xingkongliang/skills-manager?style=flat-square&color=yellow)](https://github.com/xingkongliang/skills-manager/stargazers) [![Forks](https://img.shields.io/github/forks/xingkongliang/skills-manager?style=flat-square&color=blue)](https://github.com/xingkongliang/skills-manager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ Skills Manager is a free, open-source desktop application that streamlines AI ag
 
 ### 中文
 
-xingkongliang/skills-manager：xingkongliang/skills-manager helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+xingkongliang/skills-manager：xingkongliang/skills-manager helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ xingkongliang/skills-manager：xingkongliang/skills-manager helps turn isolated 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -69,14 +69,14 @@ xingkongliang/skills-manager：xingkongliang/skills-manager helps turn isolated 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 68/100 |
+| production | 50/100 |
+| outlook | 54/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

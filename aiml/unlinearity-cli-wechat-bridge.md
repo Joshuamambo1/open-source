@@ -1,6 +1,6 @@
 # UNLINEARITY/CLI-WeChat-Bridge
 
-[![Stars](https://img.shields.io/github/stars/UNLINEARITY/CLI-WeChat-Bridge?style=flat-square&color=yellow)](https://github.com/UNLINEARITY/CLI-WeChat-Bridge/stargazers) [![Forks](https://img.shields.io/github/forks/UNLINEARITY/CLI-WeChat-Bridge?style=flat-square&color=blue)](https://github.com/UNLINEARITY/CLI-WeChat-Bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UNLINEARITY/CLI-WeChat-Bridge?style=flat-square&color=yellow)](https://github.com/UNLINEARITY/CLI-WeChat-Bridge/stargazers) [![Forks](https://img.shields.io/github/forks/UNLINEARITY/CLI-WeChat-Bridge?style=flat-square&color=blue)](https://github.com/UNLINEARITY/CLI-WeChat-Bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 将 AI 命令行工具以最为原生的方式，集成到微信 ClawBot 中，目前支持集成 Codex、Claude Code（非channels，支持审批）、OpenCode。 支持微信和本地终端线程（thread/session）共享、双向对话，支持将本地文件传输至微信。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 189 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ UNLINEARITY/CLI-WeChat-Bridge：UNLINEARITY/CLI-WeChat-Bridge helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 56/100 |
 | adoption | 45/100 |
 | stars | 48/100 |
 | forks | 37/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

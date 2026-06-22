@@ -1,6 +1,6 @@
 # mcp-use/mcp-use
 
-[![Stars](https://img.shields.io/github/stars/mcp-use/mcp-use?style=flat-square&color=yellow)](https://github.com/mcp-use/mcp-use/stargazers) [![Forks](https://img.shields.io/github/forks/mcp-use/mcp-use?style=flat-square&color=blue)](https://github.com/mcp-use/mcp-use/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mcp-use/mcp-use?style=flat-square&color=yellow)](https://github.com/mcp-use/mcp-use/stargazers) [![Forks](https://img.shields.io/github/forks/mcp-use/mcp-use?style=flat-square&color=blue)](https://github.com/mcp-use/mcp-use/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ mcp-use is an open‑source full‑stack framework that streamlines the creation
 
 ### 中文
 
-mcp-use/mcp-use：mcp-use/mcp-use helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mcp-use/mcp-use：mcp-use/mcp-use helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mcp-use/mcp-use：mcp-use/mcp-use helps add AI capability without starting from 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ mcp-use/mcp-use：mcp-use/mcp-use helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 87/100 |
+| quality | 77/100 |
 | integration | 94/100 |
-| production | 81/100 |
-| outlook | 89/100 |
+| production | 68/100 |
+| outlook | 75/100 |
 | adoption | 83/100 |
 | stars | 85/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

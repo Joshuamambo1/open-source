@@ -1,6 +1,6 @@
 # doug-gilbert/sg3_utils
 
-[![Stars](https://img.shields.io/github/stars/doug-gilbert/sg3_utils?style=flat-square&color=yellow)](https://github.com/doug-gilbert/sg3_utils/stargazers) [![Forks](https://img.shields.io/github/forks/doug-gilbert/sg3_utils?style=flat-square&color=blue)](https://github.com/doug-gilbert/sg3_utils/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doug-gilbert/sg3_utils?style=flat-square&color=yellow)](https://github.com/doug-gilbert/sg3_utils/stargazers) [![Forks](https://img.shields.io/github/forks/doug-gilbert/sg3_utils?style=flat-square&color=blue)](https://github.com/doug-gilbert/sg3_utils/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Author's own git mirror of his sg3_utils subversion repository. Note: default branch is now _main_. It includes tags from the various releases.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ doug-gilbert/sg3‑utils — это открытый репозиторий‑
 
 ### 中文
 
-doug-gilbert/sg3_utils：doug-gilbert/sg3_utils helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+doug-gilbert/sg3_utils：doug-gilbert/sg3_utils helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ doug-gilbert/sg3_utils：doug-gilbert/sg3_utils helps add AI capability without 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ doug-gilbert/sg3_utils：doug-gilbert/sg3_utils helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 37/100 |
 | stars | 37/100 |
 | forks | 38/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

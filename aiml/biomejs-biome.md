@@ -1,6 +1,6 @@
 # biomejs/biome
 
-[![Stars](https://img.shields.io/github/stars/biomejs/biome?style=flat-square&color=yellow)](https://github.com/biomejs/biome/stargazers) [![Forks](https://img.shields.io/github/forks/biomejs/biome?style=flat-square&color=blue)](https://github.com/biomejs/biome/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/biomejs/biome?style=flat-square&color=yellow)](https://github.com/biomejs/biome/stargazers) [![Forks](https://img.shields.io/github/forks/biomejs/biome?style=flat-square&color=blue)](https://github.com/biomejs/biome/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24.6k |
 | 🍴 **Forks** | 986 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · DevTools
 
 ### English
 
-biomejs/biome: biomejs/biome helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+biomejs/biome: biomejs/biome helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-biomejs/biome: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+biomejs/biome: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-biomejs/biome：biomejs/biome helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+biomejs/biome：biomejs/biome helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ biomejs/biome：biomejs/biome helps add AI capability without starting from a bl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ biomejs/biome：biomejs/biome helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 90/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 85/100 |
+| production | 64/100 |
+| outlook | 71/100 |
 | adoption | 88/100 |
 | stars | 93/100 |
 | forks | 75/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

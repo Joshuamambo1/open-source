@@ -1,6 +1,6 @@
 # wangjiawen2013/charton
 
-[![Stars](https://img.shields.io/github/stars/wangjiawen2013/charton?style=flat-square&color=yellow)](https://github.com/wangjiawen2013/charton/stargazers) [![Forks](https://img.shields.io/github/forks/wangjiawen2013/charton?style=flat-square&color=blue)](https://github.com/wangjiawen2013/charton/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wangjiawen2013/charton?style=flat-square&color=yellow)](https://github.com/wangjiawen2013/charton/stargazers) [![Forks](https://img.shields.io/github/forks/wangjiawen2013/charton?style=flat-square&color=blue)](https://github.com/wangjiawen2013/charton/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Grammar of Graphics in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ WangJiaWen’s **charton** is an open‑source Rust library that brings the Gram
 
 ### 中文
 
-wangjiawen2013/charton：wangjiawen2013/charton may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+wangjiawen2013/charton：wangjiawen2013/charton may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ wangjiawen2013/charton：wangjiawen2013/charton may be useful when its README an
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ wangjiawen2013/charton：wangjiawen2013/charton may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 58/100 |
+| production | 47/100 |
+| outlook | 44/100 |
 | adoption | 45/100 |
 | stars | 52/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # radkesvat/WaterWall
 
-[![Stars](https://img.shields.io/github/stars/radkesvat/WaterWall?style=flat-square&color=yellow)](https://github.com/radkesvat/WaterWall/stargazers) [![Forks](https://img.shields.io/github/forks/radkesvat/WaterWall?style=flat-square&color=blue)](https://github.com/radkesvat/WaterWall/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/radkesvat/WaterWall?style=flat-square&color=yellow)](https://github.com/radkesvat/WaterWall/stargazers) [![Forks](https://img.shields.io/github/forks/radkesvat/WaterWall?style=flat-square&color=blue)](https://github.com/radkesvat/WaterWall/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > WaterWall is a work in progress networking-core that aims to be as flexible as possible
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 565 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ WaterWall — это разрабатываемый в открытом дос
 
 ### 中文
 
-radkesvat/WaterWall：radkesvat/WaterWall helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+radkesvat/WaterWall：radkesvat/WaterWall helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ radkesvat/WaterWall：radkesvat/WaterWall helps add AI capability without starti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ radkesvat/WaterWall：radkesvat/WaterWall helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 55/100 |
 | stars | 59/100 |
 | forks | 47/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

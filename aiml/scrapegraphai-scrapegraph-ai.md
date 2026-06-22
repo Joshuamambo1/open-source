@@ -1,6 +1,6 @@
 # ScrapeGraphAI/Scrapegraph-ai
 
-[![Stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=flat-square&color=yellow)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/stargazers) [![Forks](https://img.shields.io/github/forks/ScrapeGraphAI/Scrapegraph-ai?style=flat-square&color=blue)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=flat-square&color=yellow)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/stargazers) [![Forks](https://img.shields.io/github/forks/ScrapeGraphAI/Scrapegraph-ai?style=flat-square&color=blue)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Python scraper based on AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24.9k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ScrapeGraphAI — это открытый Python‑скрейпер, испо�
 
 ### 中文
 
-ScrapeGraphAI/Scrapegraph-ai：ScrapeGraphAI/Scrapegraph-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ScrapeGraphAI/Scrapegraph-ai：ScrapeGraphAI/Scrapegraph-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ScrapeGraphAI/Scrapegraph-ai：ScrapeGraphAI/Scrapegraph-ai helps add AI capabil
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ScrapeGraphAI/Scrapegraph-ai：ScrapeGraphAI/Scrapegraph-ai helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 91/100 |
+| quality | 81/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 86/100 |
+| production | 65/100 |
+| outlook | 72/100 |
 | adoption | 91/100 |
 | stars | 94/100 |
 | forks | 84/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

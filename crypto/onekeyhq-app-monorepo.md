@@ -1,6 +1,6 @@
 # OneKeyHQ/app-monorepo
 
-[![Stars](https://img.shields.io/github/stars/OneKeyHQ/app-monorepo?style=flat-square&color=yellow)](https://github.com/OneKeyHQ/app-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/OneKeyHQ/app-monorepo?style=flat-square&color=blue)](https://github.com/OneKeyHQ/app-monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OneKeyHQ/app-monorepo?style=flat-square&color=yellow)](https://github.com/OneKeyHQ/app-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/OneKeyHQ/app-monorepo?style=flat-square&color=blue)](https://github.com/OneKeyHQ/app-monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 506 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ OneKeyHQ/app-monorepo：OneKeyHQ/app-monorepo helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 59/100 |
+| outlook | 60/100 |
 | adoption | 71/100 |
 | stars | 72/100 |
 | forks | 68/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

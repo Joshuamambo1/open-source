@@ -1,6 +1,6 @@
 # hooke007/mpv_PlayKit
 
-[![Stars](https://img.shields.io/github/stars/hooke007/mpv_PlayKit?style=flat-square&color=yellow)](https://github.com/hooke007/mpv_PlayKit/stargazers) [![Forks](https://img.shields.io/github/forks/hooke007/mpv_PlayKit?style=flat-square&color=blue)](https://github.com/hooke007/mpv_PlayKit/network) [![Language](https://img.shields.io/badge/lang-GLSL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hooke007/mpv_PlayKit?style=flat-square&color=yellow)](https://github.com/hooke007/mpv_PlayKit/stargazers) [![Forks](https://img.shields.io/github/forks/hooke007/mpv_PlayKit?style=flat-square&color=blue)](https://github.com/hooke007/mpv_PlayKit/network) [![Language](https://img.shields.io/badge/lang-GLSL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🔄 mpv player 播放器折腾记录 Windows conf | 中文注释配置 汉化文档 快速帮助入门 | mpv-lazy 懒人包 Win11 x64 config | 着色器 shader 滤镜 filter 整合方案
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | GLSL |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ hooke007/mpv_PlayKit：hooke007/mpv_PlayKit may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 73/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 75/100 |
 | stars | 82/100 |
 | forks | 58/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # DaemonEngine/Daemon
 
-[![Stars](https://img.shields.io/github/stars/DaemonEngine/Daemon?style=flat-square&color=yellow)](https://github.com/DaemonEngine/Daemon/stargazers) [![Forks](https://img.shields.io/github/forks/DaemonEngine/Daemon?style=flat-square&color=blue)](https://github.com/DaemonEngine/Daemon/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DaemonEngine/Daemon?style=flat-square&color=yellow)](https://github.com/DaemonEngine/Daemon/stargazers) [![Forks](https://img.shields.io/github/forks/DaemonEngine/Daemon?style=flat-square&color=blue)](https://github.com/DaemonEngine/Daemon/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The Dæmon game engine. 20 years of development above id Tech 3. Historically based on id Tech 3 through ioq3, Wolf:ET and XreaL a very long time ago.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 367 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ DaemonEngine/Daemon：DaemonEngine/Daemon helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 52/100 |
 | stars | 55/100 |
 | forks | 47/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # kerlos/pordee
 
-[![Stars](https://img.shields.io/github/stars/kerlos/pordee?style=flat-square&color=yellow)](https://github.com/kerlos/pordee/stargazers) [![Forks](https://img.shields.io/github/forks/kerlos/pordee?style=flat-square&color=blue)](https://github.com/kerlos/pordee/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kerlos/pordee?style=flat-square&color=yellow)](https://github.com/kerlos/pordee/stargazers) [![Forks](https://img.shields.io/github/forks/kerlos/pordee?style=flat-square&color=blue)](https://github.com/kerlos/pordee/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kerlos/pordee：kerlos/pordee helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 49/100 |
 | adoption | 45/100 |
 | stars | 50/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

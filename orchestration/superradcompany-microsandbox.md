@@ -1,6 +1,6 @@
 # superradcompany/microsandbox
 
-[![Stars](https://img.shields.io/github/stars/superradcompany/microsandbox?style=flat-square&color=yellow)](https://github.com/superradcompany/microsandbox/stargazers) [![Forks](https://img.shields.io/github/forks/superradcompany/microsandbox?style=flat-square&color=blue)](https://github.com/superradcompany/microsandbox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superradcompany/microsandbox?style=flat-square&color=yellow)](https://github.com/superradcompany/microsandbox/stargazers) [![Forks](https://img.shields.io/github/forks/superradcompany/microsandbox?style=flat-square&color=blue)](https://github.com/superradcompany/microsandbox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > 🧱 secure, local and programmable sandboxes for AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Orchestration · AI/ML · DevOps/Infra
 
 ### English
 
-superradcompany/microsandbox: superradcompany/microsandbox helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+superradcompany/microsandbox: superradcompany/microsandbox helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-superradcompany/microsandbox: open-source проект в категориях Orchestration, AI/ML, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+superradcompany/microsandbox: open-source проект в категориях Orchestration, AI/ML, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-superradcompany/microsandbox：superradcompany/microsandbox helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+superradcompany/microsandbox：superradcompany/microsandbox helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ superradcompany/microsandbox：superradcompany/microsandbox helps turn isolated 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ superradcompany/microsandbox：superradcompany/microsandbox helps turn isolated 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 78/100 |
-| production | 77/100 |
-| outlook | 85/100 |
+| production | 64/100 |
+| outlook | 71/100 |
 | adoption | 75/100 |
 | stars | 80/100 |
 | forks | 62/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

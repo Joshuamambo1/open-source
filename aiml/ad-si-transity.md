@@ -1,6 +1,6 @@
 # ad-si/Transity
 
-[![Stars](https://img.shields.io/github/stars/ad-si/Transity?style=flat-square&color=yellow)](https://github.com/ad-si/Transity/stargazers) [![Forks](https://img.shields.io/github/forks/ad-si/Transity?style=flat-square&color=blue)](https://github.com/ad-si/Transity/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ad-si/Transity?style=flat-square&color=yellow)](https://github.com/ad-si/Transity/stargazers) [![Forks](https://img.shields.io/github/forks/ad-si/Transity?style=flat-square&color=blue)](https://github.com/ad-si/Transity/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Keep track of your 💵, 🕘, 🐖, 🐄, 🍻 on your command line with the plain text accounting tool of the future! 🚀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 651 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ad-si/Transity：ad-si/Transity helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 52/100 |
 | stars | 60/100 |
 | forks | 32/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

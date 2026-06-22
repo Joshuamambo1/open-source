@@ -1,6 +1,6 @@
 # shaoyouvip/free
 
-[![Stars](https://img.shields.io/github/stars/shaoyouvip/free?style=flat-square&color=yellow)](https://github.com/shaoyouvip/free/stargazers) [![Forks](https://img.shields.io/github/forks/shaoyouvip/free?style=flat-square&color=blue)](https://github.com/shaoyouvip/free/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shaoyouvip/free?style=flat-square&color=yellow)](https://github.com/shaoyouvip/free/stargazers) [![Forks](https://img.shields.io/github/forks/shaoyouvip/free?style=flat-square&color=blue)](https://github.com/shaoyouvip/free/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 周润发公益免费v2ray节点订阅、翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子、v2ray节点、免费节点、免费v2ray节点、最新公益免费v2ray节点订阅地址、免费v2ray节点每日更新、免费v2ray/clash/singbox节点
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 696 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ shaoyouvip/free：shaoyouvip/free may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 56/100 |
 | stars | 61/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

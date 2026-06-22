@@ -1,6 +1,6 @@
 # zizmorcore/zizmor
 
-[![Stars](https://img.shields.io/github/stars/zizmorcore/zizmor?style=flat-square&color=yellow)](https://github.com/zizmorcore/zizmor/stargazers) [![Forks](https://img.shields.io/github/forks/zizmorcore/zizmor?style=flat-square&color=blue)](https://github.com/zizmorcore/zizmor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zizmorcore/zizmor?style=flat-square&color=yellow)](https://github.com/zizmorcore/zizmor/stargazers) [![Forks](https://img.shields.io/github/forks/zizmorcore/zizmor?style=flat-square&color=blue)](https://github.com/zizmorcore/zizmor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Static analysis for GitHub Actions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ zizmorcore/zizmor：zizmorcore/zizmor helps catch security and privacy issues ea
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 73/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 72/100 |
 | stars | 78/100 |
 | forks | 56/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

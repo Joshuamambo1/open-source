@@ -1,6 +1,6 @@
 # HackTricks-wiki/hacktricks-cloud
 
-[![Stars](https://img.shields.io/github/stars/HackTricks-wiki/hacktricks-cloud?style=flat-square&color=yellow)](https://github.com/HackTricks-wiki/hacktricks-cloud/stargazers) [![Forks](https://img.shields.io/github/forks/HackTricks-wiki/hacktricks-cloud?style=flat-square&color=blue)](https://github.com/HackTricks-wiki/hacktricks-cloud/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HackTricks-wiki/hacktricks-cloud?style=flat-square&color=yellow)](https://github.com/HackTricks-wiki/hacktricks-cloud/stargazers) [![Forks](https://img.shields.io/github/forks/HackTricks-wiki/hacktricks-cloud?style=flat-square&color=blue)](https://github.com/HackTricks-wiki/hacktricks-cloud/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 750 |
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ HackTricks‑wiki/hacktricks‑cloud — это открытый фронте�
 
 ### 中文
 
-HackTricks-wiki/hacktricks-cloud：HackTricks-wiki/hacktricks-cloud helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+HackTricks-wiki/hacktricks-cloud：HackTricks-wiki/hacktricks-cloud helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ HackTricks-wiki/hacktricks-cloud：HackTricks-wiki/hacktricks-cloud helps ship u
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ HackTricks-wiki/hacktricks-cloud：HackTricks-wiki/hacktricks-cloud helps ship u
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 18/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 48/100 |
+| outlook | 48/100 |
 | adoption | 62/100 |
 | stars | 61/100 |
 | forks | 63/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

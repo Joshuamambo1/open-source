@@ -1,6 +1,6 @@
 # QinMoXX/AAStation
 
-[![Stars](https://img.shields.io/github/stars/QinMoXX/AAStation?style=flat-square&color=yellow)](https://github.com/QinMoXX/AAStation/stargazers) [![Forks](https://img.shields.io/github/forks/QinMoXX/AAStation?style=flat-square&color=blue)](https://github.com/QinMoXX/AAStation/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QinMoXX/AAStation?style=flat-square&color=yellow)](https://github.com/QinMoXX/AAStation/stargazers) [![Forks](https://img.shields.io/github/forks/QinMoXX/AAStation?style=flat-square&color=blue)](https://github.com/QinMoXX/AAStation/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent relay station
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ QinMoXX/AAStation — это открытая платформа‑ретр�
 
 ### 中文
 
-QinMoXX/AAStation：QinMoXX/AAStation helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+QinMoXX/AAStation：QinMoXX/AAStation helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ QinMoXX/AAStation：QinMoXX/AAStation helps add AI capability without starting f
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ QinMoXX/AAStation：QinMoXX/AAStation helps add AI capability without starting f
 - updated 2026-05-10
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 41/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 58/100 |
+| production | 46/100 |
+| outlook | 44/100 |
 | adoption | 35/100 |
 | stars | 40/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

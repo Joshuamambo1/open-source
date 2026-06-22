@@ -1,6 +1,6 @@
 # xerrors/Yuxi
 
-[![Stars](https://img.shields.io/github/stars/xerrors/Yuxi?style=flat-square&color=yellow)](https://github.com/xerrors/Yuxi/stargazers) [![Forks](https://img.shields.io/github/forks/xerrors/Yuxi?style=flat-square&color=blue)](https://github.com/xerrors/Yuxi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xerrors/Yuxi?style=flat-square&color=yellow)](https://github.com/xerrors/Yuxi/stargazers) [![Forks](https://img.shields.io/github/forks/xerrors/Yuxi?style=flat-square&color=blue)](https://github.com/xerrors/Yuxi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > 结合知识库管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 721 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ xerrors/Yuxi is an open‑source, multi‑tenant agent harness that combines a L
 
 ### 中文
 
-xerrors/Yuxi：xerrors/Yuxi helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+xerrors/Yuxi：xerrors/Yuxi helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ xerrors/Yuxi：xerrors/Yuxi helps turn isolated prompts and tools into repeatabl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ xerrors/Yuxi：xerrors/Yuxi helps turn isolated prompts and tools into repeatabl
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 85/100 |
+| quality | 75/100 |
 | integration | 94/100 |
-| production | 80/100 |
-| outlook | 87/100 |
+| production | 67/100 |
+| outlook | 73/100 |
 | adoption | 77/100 |
 | stars | 79/100 |
 | forks | 71/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

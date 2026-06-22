@@ -1,6 +1,6 @@
 # vibheksoni/UniClaudeProxy
 
-[![Stars](https://img.shields.io/github/stars/vibheksoni/UniClaudeProxy?style=flat-square&color=yellow)](https://github.com/vibheksoni/UniClaudeProxy/stargazers) [![Forks](https://img.shields.io/github/forks/vibheksoni/UniClaudeProxy?style=flat-square&color=blue)](https://github.com/vibheksoni/UniClaudeProxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vibheksoni/UniClaudeProxy?style=flat-square&color=yellow)](https://github.com/vibheksoni/UniClaudeProxy/stargazers) [![Forks](https://img.shields.io/github/forks/vibheksoni/UniClaudeProxy?style=flat-square&color=blue)](https://github.com/vibheksoni/UniClaudeProxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Use any LLM with Claude Code — proxy that translates Anthropic API to OpenAI, Gemini, DeepSeek, Ollama, and more. Full tool calling, streaming, ReAct XML fallback, hot-reload config.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ vibheksoni/UniClaudeProxy：vibheksoni/UniClaudeProxy helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 28/100 |
 | stars | 29/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # aiskillstore/marketplace
 
-[![Stars](https://img.shields.io/github/stars/aiskillstore/marketplace?style=flat-square&color=yellow)](https://github.com/aiskillstore/marketplace/stargazers) [![Forks](https://img.shields.io/github/forks/aiskillstore/marketplace?style=flat-square&color=blue)](https://github.com/aiskillstore/marketplace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aiskillstore/marketplace?style=flat-square&color=yellow)](https://github.com/aiskillstore/marketplace/stargazers) [![Forks](https://img.shields.io/github/forks/aiskillstore/marketplace?style=flat-square&color=blue)](https://github.com/aiskillstore/marketplace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 264 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ aiskillstore/marketplace：aiskillstore/marketplace helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 56/100 |
 | adoption | 47/100 |
 | stars | 52/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

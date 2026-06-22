@@ -1,6 +1,6 @@
 # Scriptez1/RedXFreeSteamInstaller
 
-[![Stars](https://img.shields.io/github/stars/Scriptez1/RedXFreeSteamInstaller?style=flat-square&color=yellow)](https://github.com/Scriptez1/RedXFreeSteamInstaller/stargazers) [![Forks](https://img.shields.io/github/forks/Scriptez1/RedXFreeSteamInstaller?style=flat-square&color=blue)](https://github.com/Scriptez1/RedXFreeSteamInstaller/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Scriptez1/RedXFreeSteamInstaller?style=flat-square&color=yellow)](https://github.com/Scriptez1/RedXFreeSteamInstaller/stargazers) [![Forks](https://img.shields.io/github/forks/Scriptez1/RedXFreeSteamInstaller?style=flat-square&color=blue)](https://github.com/Scriptez1/RedXFreeSteamInstaller/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > It allows you to automatically add all free and paid games and DLCs to your Steam account securely and for free. - Steam hesabınıza tüm ücretsiz ve ücretli oyunları ve DLC'leri güvenli ve ücretsiz bir şekilde otomatik olarak eklemenizi sağlar.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 717 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ Scriptez1/RedXFreeSteamInstaller：Scriptez1/RedXFreeSteamInstaller helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 51/100 |
 | stars | 61/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

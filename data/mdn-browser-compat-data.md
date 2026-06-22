@@ -1,6 +1,6 @@
 # mdn/browser-compat-data
 
-[![Stars](https://img.shields.io/github/stars/mdn/browser-compat-data?style=flat-square&color=yellow)](https://github.com/mdn/browser-compat-data/stargazers) [![Forks](https://img.shields.io/github/forks/mdn/browser-compat-data?style=flat-square&color=blue)](https://github.com/mdn/browser-compat-data/network) [![Language](https://img.shields.io/badge/lang-JSON-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mdn/browser-compat-data?style=flat-square&color=yellow)](https://github.com/mdn/browser-compat-data/stargazers) [![Forks](https://img.shields.io/github/forks/mdn/browser-compat-data?style=flat-square&color=blue)](https://github.com/mdn/browser-compat-data/network) [![Language](https://img.shields.io/badge/lang-JSON-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Browser compatibility data for Web technologies as displayed on MDN
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | JSON |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mdn/browser-compat-data：mdn/browser-compat-data helps convert raw data into se
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 73/100 |
+| production | 57/100 |
+| outlook | 59/100 |
 | adoption | 81/100 |
 | stars | 80/100 |
 | forks | 85/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # pnpm/pnpm
 
-[![Stars](https://img.shields.io/github/stars/pnpm/pnpm?style=flat-square&color=yellow)](https://github.com/pnpm/pnpm/stargazers) [![Forks](https://img.shields.io/github/forks/pnpm/pnpm?style=flat-square&color=blue)](https://github.com/pnpm/pnpm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pnpm/pnpm?style=flat-square&color=yellow)](https://github.com/pnpm/pnpm/stargazers) [![Forks](https://img.shields.io/github/forks/pnpm/pnpm?style=flat-square&color=blue)](https://github.com/pnpm/pnpm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, disk space efficient package manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34.9k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ pnpm — это быстрый и экономичный по использо
 
 ### 中文
 
-pnpm/pnpm：pnpm/pnpm may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+pnpm/pnpm：pnpm/pnpm may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ pnpm/pnpm：pnpm/pnpm may be useful when its README and activity match a concret
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ pnpm/pnpm：pnpm/pnpm may be useful when its README and activity match a concret
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 91/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 79/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 92/100 |
 | stars | 97/100 |
 | forks | 79/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

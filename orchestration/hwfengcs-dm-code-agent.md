@@ -1,6 +1,6 @@
 # hwfengcs/DM-Code-Agent
 
-[![Stars](https://img.shields.io/github/stars/hwfengcs/DM-Code-Agent?style=flat-square&color=yellow)](https://github.com/hwfengcs/DM-Code-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/hwfengcs/DM-Code-Agent?style=flat-square&color=blue)](https://github.com/hwfengcs/DM-Code-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hwfengcs/DM-Code-Agent?style=flat-square&color=yellow)](https://github.com/hwfengcs/DM-Code-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/hwfengcs/DM-Code-Agent?style=flat-square&color=blue)](https://github.com/hwfengcs/DM-Code-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight, auditable Python code agent (~1500 LOC) — ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   eval and trace replay.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hwfengcs/DM-Code-Agent：hwfengcs/DM-Code-Agent helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 40/100 |
 | stars | 45/100 |
 | forks | 27/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

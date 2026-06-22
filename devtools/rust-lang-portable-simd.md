@@ -1,6 +1,6 @@
 # rust-lang/portable-simd
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/portable-simd?style=flat-square&color=yellow)](https://github.com/rust-lang/portable-simd/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/portable-simd?style=flat-square&color=blue)](https://github.com/rust-lang/portable-simd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/portable-simd?style=flat-square&color=yellow)](https://github.com/rust-lang/portable-simd/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/portable-simd?style=flat-square&color=blue)](https://github.com/rust-lang/portable-simd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The testing ground for the future of portable SIMD in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Portable SIMD is an experimental Rust library that provides a unified, cross‑p
 
 ### 中文
 
-rust-lang/portable-simd：rust-lang/portable-simd helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rust-lang/portable-simd：rust-lang/portable-simd helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rust-lang/portable-simd：rust-lang/portable-simd helps engineers save time in d
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ rust-lang/portable-simd：rust-lang/portable-simd helps engineers save time in d
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 61/100 |
+| production | 50/100 |
+| outlook | 47/100 |
 | adoption | 60/100 |
 | stars | 64/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

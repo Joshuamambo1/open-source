@@ -1,6 +1,6 @@
 # webpack/webpack-cli
 
-[![Stars](https://img.shields.io/github/stars/webpack/webpack-cli?style=flat-square&color=yellow)](https://github.com/webpack/webpack-cli/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack-cli?style=flat-square&color=blue)](https://github.com/webpack/webpack-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webpack/webpack-cli?style=flat-square&color=yellow)](https://github.com/webpack/webpack-cli/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack-cli?style=flat-square&color=blue)](https://github.com/webpack/webpack-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Webpack's Command Line Interface
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 668 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ webpack/webpack-cli：webpack/webpack-cli helps engineers save time in daily dev
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 71/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 72/100 |
 | stars | 73/100 |
 | forks | 71/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

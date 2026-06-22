@@ -1,6 +1,6 @@
 # preset-io/agor
 
-[![Stars](https://img.shields.io/github/stars/preset-io/agor?style=flat-square&color=yellow)](https://github.com/preset-io/agor/stargazers) [![Forks](https://img.shields.io/github/forks/preset-io/agor?style=flat-square&color=blue)](https://github.com/preset-io/agor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/preset-io/agor?style=flat-square&color=yellow)](https://github.com/preset-io/agor/stargazers) [![Forks](https://img.shields.io/github/forks/preset-io/agor?style=flat-square&color=blue)](https://github.com/preset-io/agor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ preset-io/agor：preset-io/agor helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 51/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # shell-pool/shpool
 
-[![Stars](https://img.shields.io/github/stars/shell-pool/shpool?style=flat-square&color=yellow)](https://github.com/shell-pool/shpool/stargazers) [![Forks](https://img.shields.io/github/forks/shell-pool/shpool?style=flat-square&color=blue)](https://github.com/shell-pool/shpool/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shell-pool/shpool?style=flat-square&color=yellow)](https://github.com/shell-pool/shpool/stargazers) [![Forks](https://img.shields.io/github/forks/shell-pool/shpool?style=flat-square&color=blue)](https://github.com/shell-pool/shpool/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Think tmux, then aim... lower
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ shell-pool/shpool：shell-pool/shpool helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 62/100 |
 | stars | 69/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

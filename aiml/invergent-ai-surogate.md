@@ -1,6 +1,6 @@
 # invergent-ai/surogate
 
-[![Stars](https://img.shields.io/github/stars/invergent-ai/surogate?style=flat-square&color=yellow)](https://github.com/invergent-ai/surogate/stargazers) [![Forks](https://img.shields.io/github/forks/invergent-ai/surogate?style=flat-square&color=blue)](https://github.com/invergent-ai/surogate/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/invergent-ai/surogate?style=flat-square&color=yellow)](https://github.com/invergent-ai/surogate/stargazers) [![Forks](https://img.shields.io/github/forks/invergent-ai/surogate?style=flat-square&color=blue)](https://github.com/invergent-ai/surogate/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Training/Fine-tuning at the speed of light
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ invergent-ai/surogate：invergent-ai/surogate helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 39/100 |
 | stars | 48/100 |
 | forks | 17/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

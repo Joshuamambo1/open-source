@@ -1,6 +1,6 @@
 # LibreBooking/librebooking
 
-[![Stars](https://img.shields.io/github/stars/LibreBooking/librebooking?style=flat-square&color=yellow)](https://github.com/LibreBooking/librebooking/stargazers) [![Forks](https://img.shields.io/github/forks/LibreBooking/librebooking?style=flat-square&color=blue)](https://github.com/LibreBooking/librebooking/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LibreBooking/librebooking?style=flat-square&color=yellow)](https://github.com/LibreBooking/librebooking/stargazers) [![Forks](https://img.shields.io/github/forks/LibreBooking/librebooking?style=flat-square&color=blue)](https://github.com/LibreBooking/librebooking/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > LibreBooking is an open-source resource scheduling solution. It provides a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. The "develop" branch contains the latest code of the project.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 715 |
 | 🍴 **Forks** | 354 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ LibreBooking/librebooking：LibreBooking/librebooking helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 62/100 |
 | stars | 61/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

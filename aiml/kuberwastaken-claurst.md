@@ -1,6 +1,6 @@
 # Kuberwastaken/claurst
 
-[![Stars](https://img.shields.io/github/stars/Kuberwastaken/claurst?style=flat-square&color=yellow)](https://github.com/Kuberwastaken/claurst/stargazers) [![Forks](https://img.shields.io/github/forks/Kuberwastaken/claurst?style=flat-square&color=blue)](https://github.com/Kuberwastaken/claurst/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kuberwastaken/claurst?style=flat-square&color=yellow)](https://github.com/Kuberwastaken/claurst/stargazers) [![Forks](https://img.shields.io/github/forks/Kuberwastaken/claurst?style=flat-square&color=blue)](https://github.com/Kuberwastaken/claurst/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Your favorite Terminal Coding Agent, now in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.6k |
 | 🍴 **Forks** | 7.8k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ Kuberwastaken/claurst：Kuberwastaken/claurst helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 88/100 |
 | stars | 85/100 |
 | forks | 97/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

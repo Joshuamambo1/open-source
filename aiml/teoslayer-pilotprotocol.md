@@ -1,6 +1,6 @@
 # TeoSlayer/pilotprotocol
 
-[![Stars](https://img.shields.io/github/stars/TeoSlayer/pilotprotocol?style=flat-square&color=yellow)](https://github.com/TeoSlayer/pilotprotocol/stargazers) [![Forks](https://img.shields.io/github/forks/TeoSlayer/pilotprotocol?style=flat-square&color=blue)](https://github.com/TeoSlayer/pilotprotocol/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TeoSlayer/pilotprotocol?style=flat-square&color=yellow)](https://github.com/TeoSlayer/pilotprotocol/stargazers) [![Forks](https://img.shields.io/github/forks/TeoSlayer/pilotprotocol?style=flat-square&color=blue)](https://github.com/TeoSlayer/pilotprotocol/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Pilot Protocol: The Internet of Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ TeoSlayer/pilotprotocol：TeoSlayer/pilotprotocol helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 39/100 |
 | stars | 43/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # microsoft/azure-devops-mcp
 
-[![Stars](https://img.shields.io/github/stars/microsoft/azure-devops-mcp?style=flat-square&color=yellow)](https://github.com/microsoft/azure-devops-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/azure-devops-mcp?style=flat-square&color=blue)](https://github.com/microsoft/azure-devops-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/azure-devops-mcp?style=flat-square&color=yellow)](https://github.com/microsoft/azure-devops-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/azure-devops-mcp?style=flat-square&color=blue)](https://github.com/microsoft/azure-devops-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 545 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ microsoft/azure-devops-mcp：microsoft/azure-devops-mcp helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 70/100 |
+| production | 56/100 |
+| outlook | 56/100 |
 | adoption | 69/100 |
 | stars | 69/100 |
 | forks | 68/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

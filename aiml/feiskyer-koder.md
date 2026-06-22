@@ -1,6 +1,6 @@
 # feiskyer/koder
 
-[![Stars](https://img.shields.io/github/stars/feiskyer/koder?style=flat-square&color=yellow)](https://github.com/feiskyer/koder/stargazers) [![Forks](https://img.shields.io/github/forks/feiskyer/koder?style=flat-square&color=blue)](https://github.com/feiskyer/koder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/feiskyer/koder?style=flat-square&color=yellow)](https://github.com/feiskyer/koder/stargazers) [![Forks](https://img.shields.io/github/forks/feiskyer/koder?style=flat-square&color=blue)](https://github.com/feiskyer/koder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Koder - An intuitive AI coding assistant and interactive CLI tool that boosts developer productivity with intelligent automation and context-aware support.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 88 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ feiskyer/koder：feiskyer/koder helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 74/100 |
+| production | 54/100 |
+| outlook | 60/100 |
 | adoption | 40/100 |
 | stars | 41/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

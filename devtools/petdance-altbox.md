@@ -1,6 +1,6 @@
 # petdance/altbox
 
-[![Stars](https://img.shields.io/github/stars/petdance/altbox?style=flat-square&color=yellow)](https://github.com/petdance/altbox/stargazers) [![Forks](https://img.shields.io/github/forks/petdance/altbox?style=flat-square&color=blue)](https://github.com/petdance/altbox/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petdance/altbox?style=flat-square&color=yellow)](https://github.com/petdance/altbox/stargazers) [![Forks](https://img.shields.io/github/forks/petdance/altbox?style=flat-square&color=blue)](https://github.com/petdance/altbox/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Website for altbox.dev, the alternative toolbox for developers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ DevTools
 
 ### 中文
 
-petdance/altbox：petdance/altbox helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+petdance/altbox：petdance/altbox helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ petdance/altbox：petdance/altbox helps engineers save time in daily development
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ petdance/altbox：petdance/altbox helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 29/100 |
 | stars | 37/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

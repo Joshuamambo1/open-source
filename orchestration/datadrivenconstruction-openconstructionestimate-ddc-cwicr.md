@@ -1,6 +1,6 @@
 # datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR
 
-[![Stars](https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR?style=flat-square&color=yellow)](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR/stargazers) [![Forks](https://img.shields.io/github/forks/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR?style=flat-square&color=blue)](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR?style=flat-square&color=yellow)](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR/stargazers) [![Forks](https://img.shields.io/github/forks/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR?style=flat-square&color=blue)](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic search via Qdrant vector DB
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR：datadrivenconstructi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 74/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 44/100 |
 | stars | 46/100 |
 | forks | 39/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

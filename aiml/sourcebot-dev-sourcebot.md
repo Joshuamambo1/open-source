@@ -1,6 +1,6 @@
 # sourcebot-dev/sourcebot
 
-[![Stars](https://img.shields.io/github/stars/sourcebot-dev/sourcebot?style=flat-square&color=yellow)](https://github.com/sourcebot-dev/sourcebot/stargazers) [![Forks](https://img.shields.io/github/forks/sourcebot-dev/sourcebot?style=flat-square&color=blue)](https://github.com/sourcebot-dev/sourcebot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sourcebot-dev/sourcebot?style=flat-square&color=yellow)](https://github.com/sourcebot-dev/sourcebot/stargazers) [![Forks](https://img.shields.io/github/forks/sourcebot-dev/sourcebot?style=flat-square&color=blue)](https://github.com/sourcebot-dev/sourcebot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sourcebot-dev/sourcebot：sourcebot-dev/sourcebot helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 79/100 |
+| production | 56/100 |
+| outlook | 65/100 |
 | adoption | 71/100 |
 | stars | 75/100 |
 | forks | 61/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

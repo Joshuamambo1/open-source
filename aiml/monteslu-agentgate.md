@@ -1,6 +1,6 @@
 # monteslu/agentgate
 
-[![Stars](https://img.shields.io/github/stars/monteslu/agentgate?style=flat-square&color=yellow)](https://github.com/monteslu/agentgate/stargazers) [![Forks](https://img.shields.io/github/forks/monteslu/agentgate?style=flat-square&color=blue)](https://github.com/monteslu/agentgate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/monteslu/agentgate?style=flat-square&color=yellow)](https://github.com/monteslu/agentgate/stargazers) [![Forks](https://img.shields.io/github/forks/monteslu/agentgate?style=flat-square&color=blue)](https://github.com/monteslu/agentgate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > API gateway for AI agents to access your personal data with human-in-the-loop write approval.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ monteslu/agentgate：monteslu/agentgate helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 64/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 31/100 |
 | stars | 33/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

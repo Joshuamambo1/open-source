@@ -1,6 +1,6 @@
 # khaphanspace/gonhanh.org
 
-[![Stars](https://img.shields.io/github/stars/khaphanspace/gonhanh.org?style=flat-square&color=yellow)](https://github.com/khaphanspace/gonhanh.org/stargazers) [![Forks](https://img.shields.io/github/forks/khaphanspace/gonhanh.org?style=flat-square&color=blue)](https://github.com/khaphanspace/gonhanh.org/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/khaphanspace/gonhanh.org?style=flat-square&color=yellow)](https://github.com/khaphanspace/gonhanh.org/stargazers) [![Forks](https://img.shields.io/github/forks/khaphanspace/gonhanh.org?style=flat-square&color=blue)](https://github.com/khaphanspace/gonhanh.org/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Gõ Nhanh - Bộ gõ tiếng Việt hiện đại, hiệu suất cao dành cho macOS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 707 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ khaphanspace/gonhanh.org：khaphanspace/gonhanh.org may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 61/100 |
+| production | 52/100 |
+| outlook | 47/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

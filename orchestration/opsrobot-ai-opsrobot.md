@@ -1,6 +1,6 @@
 # opsrobot-ai/opsrobot
 
-[![Stars](https://img.shields.io/github/stars/opsrobot-ai/opsrobot?style=flat-square&color=yellow)](https://github.com/opsrobot-ai/opsrobot/stargazers) [![Forks](https://img.shields.io/github/forks/opsrobot-ai/opsrobot?style=flat-square&color=blue)](https://github.com/opsrobot-ai/opsrobot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opsrobot-ai/opsrobot?style=flat-square&color=yellow)](https://github.com/opsrobot-ai/opsrobot/stargazers) [![Forks](https://img.shields.io/github/forks/opsrobot-ai/opsrobot?style=flat-square&color=blue)](https://github.com/opsrobot-ai/opsrobot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Observability platform for Digital Employee, providing real-time tracing, session insights, and cost analysis for multi-agent workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 136 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ opsrobot-ai/opsrobot：opsrobot-ai/opsrobot helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 77/100 |
+| production | 51/100 |
+| outlook | 63/100 |
 | adoption | 38/100 |
 | stars | 45/100 |
 | forks | 17/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

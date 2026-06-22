@@ -1,6 +1,6 @@
 # frontman-ai/frontman
 
-[![Stars](https://img.shields.io/github/stars/frontman-ai/frontman?style=flat-square&color=yellow)](https://github.com/frontman-ai/frontman/stargazers) [![Forks](https://img.shields.io/github/forks/frontman-ai/frontman?style=flat-square&color=blue)](https://github.com/frontman-ai/frontman/network) [![Language](https://img.shields.io/badge/lang-ReScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frontman-ai/frontman?style=flat-square&color=yellow)](https://github.com/frontman-ai/frontman/stargazers) [![Forks](https://img.shields.io/github/forks/frontman-ai/frontman?style=flat-square&color=blue)](https://github.com/frontman-ai/frontman/network) [![Language](https://img.shields.io/badge/lang-ReScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The AI agent that lives in your framework/browser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 454 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | ReScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ frontman-ai/frontman：frontman-ai/frontman helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 78/100 |
+| production | 56/100 |
+| outlook | 64/100 |
 | adoption | 50/100 |
 | stars | 57/100 |
 | forks | 32/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

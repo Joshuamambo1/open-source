@@ -1,6 +1,6 @@
 # oracle/graalvm-reachability-metadata
 
-[![Stars](https://img.shields.io/github/stars/oracle/graalvm-reachability-metadata?style=flat-square&color=yellow)](https://github.com/oracle/graalvm-reachability-metadata/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/graalvm-reachability-metadata?style=flat-square&color=blue)](https://github.com/oracle/graalvm-reachability-metadata/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oracle/graalvm-reachability-metadata?style=flat-square&color=yellow)](https://github.com/oracle/graalvm-reachability-metadata/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/graalvm-reachability-metadata?style=flat-square&color=blue)](https://github.com/oracle/graalvm-reachability-metadata/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Repository which contains community-driven collection of GraalVM reachability metadata for open-source libraries.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 454 |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Data
 
 ### English
 
-oracle/graalvm-reachability-metadata: oracle/graalvm-reachability-metadata helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+oracle/graalvm-reachability-metadata: oracle/graalvm-reachability-metadata helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-oracle/graalvm-reachability-metadata: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+oracle/graalvm-reachability-metadata: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-oracle/graalvm-reachability-metadata：oracle/graalvm-reachability-metadata helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+oracle/graalvm-reachability-metadata：oracle/graalvm-reachability-metadata helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ oracle/graalvm-reachability-metadata：oracle/graalvm-reachability-metadata help
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ oracle/graalvm-reachability-metadata：oracle/graalvm-reachability-metadata help
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 55/100 |
 | stars | 57/100 |
 | forks | 52/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

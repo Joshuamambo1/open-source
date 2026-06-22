@@ -1,6 +1,6 @@
 # ProjectViVy/agent-diva
 
-[![Stars](https://img.shields.io/github/stars/ProjectViVy/agent-diva?style=flat-square&color=yellow)](https://github.com/ProjectViVy/agent-diva/stargazers) [![Forks](https://img.shields.io/github/forks/ProjectViVy/agent-diva?style=flat-square&color=blue)](https://github.com/ProjectViVy/agent-diva/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ProjectViVy/agent-diva?style=flat-square&color=yellow)](https://github.com/ProjectViVy/agent-diva/stargazers) [![Forks](https://img.shields.io/github/forks/ProjectViVy/agent-diva?style=flat-square&color=blue)](https://github.com/ProjectViVy/agent-diva/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Next Generation AI Agent(AKA:nanobot-rs-pro)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ProjectViVy/agent-diva — это открытая платформа сле
 
 ### 中文
 
-ProjectViVy/agent-diva：ProjectViVy/agent-diva helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ProjectViVy/agent-diva：ProjectViVy/agent-diva helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ProjectViVy/agent-diva：ProjectViVy/agent-diva helps add AI capability without 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ProjectViVy/agent-diva：ProjectViVy/agent-diva helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 33/100 |
 | stars | 36/100 |
 | forks | 25/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

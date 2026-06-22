@@ -1,6 +1,6 @@
 # buttplugio/buttplug
 
-[![Stars](https://img.shields.io/github/stars/buttplugio/buttplug?style=flat-square&color=yellow)](https://github.com/buttplugio/buttplug/stargazers) [![Forks](https://img.shields.io/github/forks/buttplugio/buttplug?style=flat-square&color=blue)](https://github.com/buttplugio/buttplug/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buttplugio/buttplug?style=flat-square&color=yellow)](https://github.com/buttplugio/buttplug/stargazers) [![Forks](https://img.shields.io/github/forks/buttplugio/buttplug?style=flat-square&color=blue)](https://github.com/buttplugio/buttplug/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Rust Implementation of the Buttplug Sex Toy Control Protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Buttplug — это открытая библиотека на Rust, реал�
 
 ### 中文
 
-buttplugio/buttplug：buttplugio/buttplug may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+buttplugio/buttplug：buttplugio/buttplug may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ buttplugio/buttplug：buttplugio/buttplug may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ buttplugio/buttplug：buttplugio/buttplug may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

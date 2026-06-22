@@ -1,6 +1,6 @@
 # bytechefhq/bytechef
 
-[![Stars](https://img.shields.io/github/stars/bytechefhq/bytechef?style=flat-square&color=yellow)](https://github.com/bytechefhq/bytechef/stargazers) [![Forks](https://img.shields.io/github/forks/bytechefhq/bytechef?style=flat-square&color=blue)](https://github.com/bytechefhq/bytechef/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bytechefhq/bytechef?style=flat-square&color=yellow)](https://github.com/bytechefhq/bytechef/stargazers) [![Forks](https://img.shields.io/github/forks/bytechefhq/bytechef?style=flat-square&color=blue)](https://github.com/bytechefhq/bytechef/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, AI-native, low-code platform for API orchestration, workflow automation, and AI agent integration across internal systems and SaaS products.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 754 |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bytechefhq/bytechef：bytechefhq/bytechef helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 78/100 |
-| production | 75/100 |
-| outlook | 83/100 |
+| production | 62/100 |
+| outlook | 69/100 |
 | adoption | 59/100 |
 | stars | 61/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

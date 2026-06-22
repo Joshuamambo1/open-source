@@ -1,6 +1,6 @@
 # openpredictionmarkets/socialpredict
 
-[![Stars](https://img.shields.io/github/stars/openpredictionmarkets/socialpredict?style=flat-square&color=yellow)](https://github.com/openpredictionmarkets/socialpredict/stargazers) [![Forks](https://img.shields.io/github/forks/openpredictionmarkets/socialpredict?style=flat-square&color=blue)](https://github.com/openpredictionmarkets/socialpredict/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openpredictionmarkets/socialpredict?style=flat-square&color=yellow)](https://github.com/openpredictionmarkets/socialpredict/stargazers) [![Forks](https://img.shields.io/github/forks/openpredictionmarkets/socialpredict?style=flat-square&color=blue)](https://github.com/openpredictionmarkets/socialpredict/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Easy to Deploy Prediction Market Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ openpredictionmarkets/socialpredict：openpredictionmarkets/socialpredict helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 55/100 |
+| outlook | 58/100 |
 | adoption | 48/100 |
 | stars | 49/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

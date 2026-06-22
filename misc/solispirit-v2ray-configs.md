@@ -1,6 +1,6 @@
 # SoliSpirit/v2ray-configs
 
-[![Stars](https://img.shields.io/github/stars/SoliSpirit/v2ray-configs?style=flat-square&color=yellow)](https://github.com/SoliSpirit/v2ray-configs/stargazers) [![Forks](https://img.shields.io/github/forks/SoliSpirit/v2ray-configs?style=flat-square&color=blue)](https://github.com/SoliSpirit/v2ray-configs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SoliSpirit/v2ray-configs?style=flat-square&color=yellow)](https://github.com/SoliSpirit/v2ray-configs/stargazers) [![Forks](https://img.shields.io/github/forks/SoliSpirit/v2ray-configs?style=flat-square&color=blue)](https://github.com/SoliSpirit/v2ray-configs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > V2Ray configs for multiple protocols and countries, updated every 15 minutes for fast, secure connections!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 510 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-SoliSpirit/v2ray-configs: SoliSpirit/v2ray-configs may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SoliSpirit/v2ray-configs: SoliSpirit/v2ray-configs may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-SoliSpirit/v2ray-configs: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+SoliSpirit/v2ray-configs: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-SoliSpirit/v2ray-configs：SoliSpirit/v2ray-configs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SoliSpirit/v2ray-configs：SoliSpirit/v2ray-configs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ SoliSpirit/v2ray-configs：SoliSpirit/v2ray-configs may be useful when its READM
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,14 +62,14 @@ SoliSpirit/v2ray-configs：SoliSpirit/v2ray-configs may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

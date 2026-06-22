@@ -1,6 +1,6 @@
 # sachinsharma9780/memweave
 
-[![Stars](https://img.shields.io/github/stars/sachinsharma9780/memweave?style=flat-square&color=yellow)](https://github.com/sachinsharma9780/memweave/stargazers) [![Forks](https://img.shields.io/github/forks/sachinsharma9780/memweave?style=flat-square&color=blue)](https://github.com/sachinsharma9780/memweave/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sachinsharma9780/memweave?style=flat-square&color=yellow)](https://github.com/sachinsharma9780/memweave/stargazers) [![Forks](https://img.shields.io/github/forks/sachinsharma9780/memweave?style=flat-square&color=blue)](https://github.com/sachinsharma9780/memweave/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > memweave is a zero-infrastructure, async-first Python library that gives AI agents persistent, searchable memory — stored as plain Markdown files
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sachinsharma9780/memweave：sachinsharma9780/memweave helps turn isolated prompt
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 25/100 |
 | stars | 32/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

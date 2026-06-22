@@ -1,6 +1,6 @@
 # dotnet/maui
 
-[![Stars](https://img.shields.io/github/stars/dotnet/maui?style=flat-square&color=yellow)](https://github.com/dotnet/maui/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/maui?style=flat-square&color=blue)](https://github.com/dotnet/maui/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/maui?style=flat-square&color=yellow)](https://github.com/dotnet/maui/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/maui?style=flat-square&color=blue)](https://github.com/dotnet/maui/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23.2k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dotnet/maui：dotnet/maui helps ship user-facing interfaces with less custom UI 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 90/100 |
+| quality | 80/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 82/100 |
+| production | 60/100 |
+| outlook | 68/100 |
 | adoption | 90/100 |
 | stars | 93/100 |
 | forks | 82/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

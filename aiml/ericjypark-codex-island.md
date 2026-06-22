@@ -1,6 +1,6 @@
 # ericjypark/codex-island
 
-[![Stars](https://img.shields.io/github/stars/ericjypark/codex-island?style=flat-square&color=yellow)](https://github.com/ericjypark/codex-island/stargazers) [![Forks](https://img.shields.io/github/forks/ericjypark/codex-island?style=flat-square&color=blue)](https://github.com/ericjypark/codex-island/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ericjypark/codex-island?style=flat-square&color=yellow)](https://github.com/ericjypark/codex-island/stargazers) [![Forks](https://img.shields.io/github/forks/ericjypark/codex-island?style=flat-square&color=blue)](https://github.com/ericjypark/codex-island/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > CodexIsland - AI usage limits in your MacBook notch
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CodexIsland — открытый проект, позволяющий зада
 
 ### 中文
 
-ericjypark/codex-island：ericjypark/codex-island helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ericjypark/codex-island：ericjypark/codex-island helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ericjypark/codex-island：ericjypark/codex-island helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ericjypark/codex-island：ericjypark/codex-island helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 38/100 |
 | stars | 45/100 |
 | forks | 21/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

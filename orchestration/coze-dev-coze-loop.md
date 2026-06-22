@@ -1,6 +1,6 @@
 # coze-dev/coze-loop
 
-[![Stars](https://img.shields.io/github/stars/coze-dev/coze-loop?style=flat-square&color=yellow)](https://github.com/coze-dev/coze-loop/stargazers) [![Forks](https://img.shields.io/github/forks/coze-dev/coze-loop?style=flat-square&color=blue)](https://github.com/coze-dev/coze-loop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coze-dev/coze-loop?style=flat-square&color=yellow)](https://github.com/coze-dev/coze-loop/stargazers) [![Forks](https://img.shields.io/github/forks/coze-dev/coze-loop?style=flat-square&color=blue)](https://github.com/coze-dev/coze-loop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 754 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ coze-dev/coze-loop：coze-dev/coze-loop helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 85/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 82/100 |
+| production | 60/100 |
+| outlook | 68/100 |
 | adoption | 77/100 |
 | stars | 80/100 |
 | forks | 72/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

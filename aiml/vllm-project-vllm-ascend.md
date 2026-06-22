@@ -1,6 +1,6 @@
 # vllm-project/vllm-ascend
 
-[![Stars](https://img.shields.io/github/stars/vllm-project/vllm-ascend?style=flat-square&color=yellow)](https://github.com/vllm-project/vllm-ascend/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/vllm-ascend?style=flat-square&color=blue)](https://github.com/vllm-project/vllm-ascend/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vllm-project/vllm-ascend?style=flat-square&color=yellow)](https://github.com/vllm-project/vllm-ascend/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/vllm-ascend?style=flat-square&color=blue)](https://github.com/vllm-project/vllm-ascend/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Community maintained hardware plugin for vLLM on Ascend
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ vllm-project/vllm-ascend：vllm-project/vllm-ascend helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 74/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 72/100 |
 | stars | 70/100 |
 | forks | 77/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Agents2AgentsAI/ata
 
-[![Stars](https://img.shields.io/github/stars/Agents2AgentsAI/ata?style=flat-square&color=yellow)](https://github.com/Agents2AgentsAI/ata/stargazers) [![Forks](https://img.shields.io/github/forks/Agents2AgentsAI/ata?style=flat-square&color=blue)](https://github.com/Agents2AgentsAI/ata/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agents2AgentsAI/ata?style=flat-square&color=yellow)](https://github.com/Agents2AgentsAI/ata/stargazers) [![Forks](https://img.shields.io/github/forks/Agents2AgentsAI/ata?style=flat-square&color=blue)](https://github.com/Agents2AgentsAI/ata/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > AI agents for solving engineering and research problems end to end
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 88 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Agents2AgentsAI (ata) is an open‑source framework that equips autonomous AI ag
 
 ### 中文
 
-Agents2AgentsAI/ata：Agents2AgentsAI/ata helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Agents2AgentsAI/ata：Agents2AgentsAI/ata helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Agents2AgentsAI/ata：Agents2AgentsAI/ata helps add AI capability without starti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ Agents2AgentsAI/ata：Agents2AgentsAI/ata helps add AI capability without starti
 - updated 2026-05-09
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 41/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 58/100 |
+| production | 46/100 |
+| outlook | 44/100 |
 | adoption | 35/100 |
 | stars | 41/100 |
 | forks | 19/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

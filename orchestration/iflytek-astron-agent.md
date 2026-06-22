@@ -1,6 +1,6 @@
 # iflytek/astron-agent
 
-[![Stars](https://img.shields.io/github/stars/iflytek/astron-agent?style=flat-square&color=yellow)](https://github.com/iflytek/astron-agent/stargazers) [![Forks](https://img.shields.io/github/forks/iflytek/astron-agent?style=flat-square&color=blue)](https://github.com/iflytek/astron-agent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iflytek/astron-agent?style=flat-square&color=yellow)](https://github.com/iflytek/astron-agent/stargazers) [![Forks](https://img.shields.io/github/forks/iflytek/astron-agent?style=flat-square&color=blue)](https://github.com/iflytek/astron-agent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.3k |
 | 🍴 **Forks** | 839 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ iflytek/astron-agent — это корпоративная платформа 
 
 ### 中文
 
-iflytek/astron-agent：iflytek/astron-agent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+iflytek/astron-agent：iflytek/astron-agent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ iflytek/astron-agent：iflytek/astron-agent helps turn isolated prompts and tool
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ iflytek/astron-agent：iflytek/astron-agent helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 86/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 88/100 |
+| production | 63/100 |
+| outlook | 74/100 |
 | adoption | 81/100 |
 | stars | 83/100 |
 | forks | 73/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

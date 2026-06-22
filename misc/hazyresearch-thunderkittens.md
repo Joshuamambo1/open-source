@@ -1,6 +1,6 @@
 # HazyResearch/ThunderKittens
 
-[![Stars](https://img.shields.io/github/stars/HazyResearch/ThunderKittens?style=flat-square&color=yellow)](https://github.com/HazyResearch/ThunderKittens/stargazers) [![Forks](https://img.shields.io/github/forks/HazyResearch/ThunderKittens?style=flat-square&color=blue)](https://github.com/HazyResearch/ThunderKittens/network) [![Language](https://img.shields.io/badge/lang-Cuda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HazyResearch/ThunderKittens?style=flat-square&color=yellow)](https://github.com/HazyResearch/ThunderKittens/stargazers) [![Forks](https://img.shields.io/github/forks/HazyResearch/ThunderKittens?style=flat-square&color=blue)](https://github.com/HazyResearch/ThunderKittens/network) [![Language](https://img.shields.io/badge/lang-Cuda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Tile primitives for speedy kernels
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 278 |
 | 💻 **Language** | Cuda |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ HazyResearch/ThunderKittens：HazyResearch/ThunderKittens may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 64/100 |
+| production | 52/100 |
+| outlook | 50/100 |
 | adoption | 71/100 |
 | stars | 75/100 |
 | forks | 61/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

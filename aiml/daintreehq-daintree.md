@@ -1,6 +1,6 @@
 # daintreehq/daintree
 
-[![Stars](https://img.shields.io/github/stars/daintreehq/daintree?style=flat-square&color=yellow)](https://github.com/daintreehq/daintree/stargazers) [![Forks](https://img.shields.io/github/forks/daintreehq/daintree?style=flat-square&color=blue)](https://github.com/daintreehq/daintree/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daintreehq/daintree?style=flat-square&color=yellow)](https://github.com/daintreehq/daintree/stargazers) [![Forks](https://img.shields.io/github/forks/daintreehq/daintree?style=flat-square&color=blue)](https://github.com/daintreehq/daintree/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A delegation environment for orchestrating AI coding agents. Manage Claude, Gemini, and Codex sessions across git   worktrees with integrated terminals, context injection, and workflow automation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ daintreehq/daintree：daintreehq/daintree helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 75/100 |
+| production | 52/100 |
+| outlook | 61/100 |
 | adoption | 29/100 |
 | stars | 32/100 |
 | forks | 21/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

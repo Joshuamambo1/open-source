@@ -1,6 +1,6 @@
 # Pthahnix/De-Anthropocentric-Research-Engine
 
-[![Stars](https://img.shields.io/github/stars/Pthahnix/De-Anthropocentric-Research-Engine?style=flat-square&color=yellow)](https://github.com/Pthahnix/De-Anthropocentric-Research-Engine/stargazers) [![Forks](https://img.shields.io/github/forks/Pthahnix/De-Anthropocentric-Research-Engine?style=flat-square&color=blue)](https://github.com/Pthahnix/De-Anthropocentric-Research-Engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pthahnix/De-Anthropocentric-Research-Engine?style=flat-square&color=yellow)](https://github.com/Pthahnix/De-Anthropocentric-Research-Engine/stargazers) [![Forks](https://img.shields.io/github/forks/Pthahnix/De-Anthropocentric-Research-Engine?style=flat-square&color=blue)](https://github.com/Pthahnix/De-Anthropocentric-Research-Engine/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > De-Anthropocentric Research Engine — AI-powered academic research automation with deep literature survey, gap analysis, idea generation, experiment design & execution. Combines iterative deep research, adversarial debate, evolutionary generation, and distributed GPU execution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 227 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Pthahnix/De-Anthropocentric-Research-Engine：Pthahnix/De-Anthropocentric-Resear
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 77/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 45/100 |
 | stars | 50/100 |
 | forks | 30/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

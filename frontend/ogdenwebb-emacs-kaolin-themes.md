@@ -1,6 +1,6 @@
 # ogdenwebb/emacs-kaolin-themes
 
-[![Stars](https://img.shields.io/github/stars/ogdenwebb/emacs-kaolin-themes?style=flat-square&color=yellow)](https://github.com/ogdenwebb/emacs-kaolin-themes/stargazers) [![Forks](https://img.shields.io/github/forks/ogdenwebb/emacs-kaolin-themes?style=flat-square&color=blue)](https://github.com/ogdenwebb/emacs-kaolin-themes/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ogdenwebb/emacs-kaolin-themes?style=flat-square&color=yellow)](https://github.com/ogdenwebb/emacs-kaolin-themes/stargazers) [![Forks](https://img.shields.io/github/forks/ogdenwebb/emacs-kaolin-themes?style=flat-square&color=blue)](https://github.com/ogdenwebb/emacs-kaolin-themes/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Set of eye pleasing themes for GNU Emacs. Supports both GUI and terminal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 809 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ogdenwebb/emacs-kaolin-themes：ogdenwebb/emacs-kaolin-themes helps ship user-fa
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 55/100 |
 | stars | 62/100 |
 | forks | 37/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

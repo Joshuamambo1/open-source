@@ -1,6 +1,6 @@
 # apify/apify-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/apify/apify-mcp-server?style=flat-square&color=yellow)](https://github.com/apify/apify-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/apify/apify-mcp-server?style=flat-square&color=blue)](https://github.com/apify/apify-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apify/apify-mcp-server?style=flat-square&color=yellow)](https://github.com/apify/apify-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/apify/apify-mcp-server?style=flat-square&color=blue)](https://github.com/apify/apify-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apify/apify-mcp-server：apify/apify-mcp-server helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 78/100 |
-| production | 73/100 |
-| outlook | 79/100 |
+| production | 60/100 |
+| outlook | 65/100 |
 | adoption | 63/100 |
 | stars | 66/100 |
 | forks | 55/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

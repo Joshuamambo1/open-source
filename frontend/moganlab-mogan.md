@@ -1,6 +1,6 @@
 # MoganLab/mogan
 
-[![Stars](https://img.shields.io/github/stars/MoganLab/mogan?style=flat-square&color=yellow)](https://github.com/MoganLab/mogan/stargazers) [![Forks](https://img.shields.io/github/forks/MoganLab/mogan?style=flat-square&color=blue)](https://github.com/MoganLab/mogan/network) [![Language](https://img.shields.io/badge/lang-Scheme-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MoganLab/mogan?style=flat-square&color=yellow)](https://github.com/MoganLab/mogan/stargazers) [![Forks](https://img.shields.io/github/forks/MoganLab/mogan?style=flat-square&color=blue)](https://github.com/MoganLab/mogan/network) [![Language](https://img.shields.io/badge/lang-Scheme-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 558 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Scheme |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MoganLab/mogan：MoganLab/mogan helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 56/100 |
 | stars | 58/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

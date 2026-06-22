@@ -1,6 +1,6 @@
 # pactus-project/pactus
 
-[![Stars](https://img.shields.io/github/stars/pactus-project/pactus?style=flat-square&color=yellow)](https://github.com/pactus-project/pactus/stargazers) [![Forks](https://img.shields.io/github/forks/pactus-project/pactus?style=flat-square&color=blue)](https://github.com/pactus-project/pactus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pactus-project/pactus?style=flat-square&color=yellow)](https://github.com/pactus-project/pactus/stargazers) [![Forks](https://img.shields.io/github/forks/pactus-project/pactus?style=flat-square&color=blue)](https://github.com/pactus-project/pactus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Pactus blockchain
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 237 |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ pactus-project/pactus：pactus-project/pactus helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 59/100 |
+| production | 51/100 |
+| outlook | 45/100 |
 | adoption | 52/100 |
 | stars | 51/100 |
 | forks | 56/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

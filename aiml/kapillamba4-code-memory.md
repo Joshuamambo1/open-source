@@ -1,6 +1,6 @@
 # kapillamba4/code-memory
 
-[![Stars](https://img.shields.io/github/stars/kapillamba4/code-memory?style=flat-square&color=yellow)](https://github.com/kapillamba4/code-memory/stargazers) [![Forks](https://img.shields.io/github/forks/kapillamba4/code-memory?style=flat-square&color=blue)](https://github.com/kapillamba4/code-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kapillamba4/code-memory?style=flat-square&color=yellow)](https://github.com/kapillamba4/code-memory/stargazers) [![Forks](https://img.shields.io/github/forks/kapillamba4/code-memory?style=flat-square&color=blue)](https://github.com/kapillamba4/code-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server with local vector search for your codebase. Smart indexing, semantic search, Git history — all offline.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kapillamba4/code-memory：kapillamba4/code-memory helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 78/100 |
-| production | 70/100 |
-| outlook | 75/100 |
+| production | 57/100 |
+| outlook | 61/100 |
 | adoption | 29/100 |
 | stars | 32/100 |
 | forks | 23/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

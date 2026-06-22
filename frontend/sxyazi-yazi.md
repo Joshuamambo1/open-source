@@ -1,6 +1,6 @@
 # sxyazi/yazi
 
-[![Stars](https://img.shields.io/github/stars/sxyazi/yazi?style=flat-square&color=yellow)](https://github.com/sxyazi/yazi/stargazers) [![Forks](https://img.shields.io/github/forks/sxyazi/yazi?style=flat-square&color=blue)](https://github.com/sxyazi/yazi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sxyazi/yazi?style=flat-square&color=yellow)](https://github.com/sxyazi/yazi/stargazers) [![Forks](https://img.shields.io/github/forks/sxyazi/yazi?style=flat-square&color=blue)](https://github.com/sxyazi/yazi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37.7k |
 | 🍴 **Forks** | 853 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ sxyazi/yazi — это молниеносный файловый менедж�
 
 ### 中文
 
-sxyazi/yazi：sxyazi/yazi helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sxyazi/yazi：sxyazi/yazi helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sxyazi/yazi：sxyazi/yazi helps ship user-facing interfaces with less custom UI 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ sxyazi/yazi：sxyazi/yazi helps ship user-facing interfaces with less custom UI 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 91/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 85/100 |
+| production | 62/100 |
+| outlook | 71/100 |
 | adoption | 91/100 |
 | stars | 97/100 |
 | forks | 73/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

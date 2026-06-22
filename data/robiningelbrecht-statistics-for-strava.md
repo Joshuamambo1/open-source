@@ -1,6 +1,6 @@
 # robiningelbrecht/statistics-for-strava
 
-[![Stars](https://img.shields.io/github/stars/robiningelbrecht/statistics-for-strava?style=flat-square&color=yellow)](https://github.com/robiningelbrecht/statistics-for-strava/stargazers) [![Forks](https://img.shields.io/github/forks/robiningelbrecht/statistics-for-strava?style=flat-square&color=blue)](https://github.com/robiningelbrecht/statistics-for-strava/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robiningelbrecht/statistics-for-strava?style=flat-square&color=yellow)](https://github.com/robiningelbrecht/statistics-for-strava/stargazers) [![Forks](https://img.shields.io/github/forks/robiningelbrecht/statistics-for-strava?style=flat-square&color=blue)](https://github.com/robiningelbrecht/statistics-for-strava/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, open-source dashboard for your Strava data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ robiningelbrecht/statistics-for-strava：robiningelbrecht/statistics-for-strava 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 74/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 64/100 |
 | stars | 69/100 |
 | forks | 52/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # bootgly/bootgly
 
-[![Stars](https://img.shields.io/github/stars/bootgly/bootgly?style=flat-square&color=yellow)](https://github.com/bootgly/bootgly/stargazers) [![Forks](https://img.shields.io/github/forks/bootgly/bootgly?style=flat-square&color=blue)](https://github.com/bootgly/bootgly/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bootgly/bootgly?style=flat-square&color=yellow)](https://github.com/bootgly/bootgly/stargazers) [![Forks](https://img.shields.io/github/forks/bootgly/bootgly?style=flat-square&color=blue)](https://github.com/bootgly/bootgly/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Base PHP Framework for Multi Projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 228 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bootgly/bootgly：bootgly/bootgly helps teams reuse service infrastructure inste
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 38/100 |
 | stars | 50/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

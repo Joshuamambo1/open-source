@@ -1,6 +1,6 @@
 # habitat-sh/habitat
 
-[![Stars](https://img.shields.io/github/stars/habitat-sh/habitat?style=flat-square&color=yellow)](https://github.com/habitat-sh/habitat/stargazers) [![Forks](https://img.shields.io/github/forks/habitat-sh/habitat?style=flat-square&color=blue)](https://github.com/habitat-sh/habitat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/habitat-sh/habitat?style=flat-square&color=yellow)](https://github.com/habitat-sh/habitat/stargazers) [![Forks](https://img.shields.io/github/forks/habitat-sh/habitat?style=flat-square&color=blue)](https://github.com/habitat-sh/habitat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Modern applications with built-in automation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ habitat-sh/habitat：habitat-sh/habitat helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 77/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 63/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

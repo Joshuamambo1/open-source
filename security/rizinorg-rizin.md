@@ -1,6 +1,6 @@
 # rizinorg/rizin
 
-[![Stars](https://img.shields.io/github/stars/rizinorg/rizin?style=flat-square&color=yellow)](https://github.com/rizinorg/rizin/stargazers) [![Forks](https://img.shields.io/github/forks/rizinorg/rizin?style=flat-square&color=blue)](https://github.com/rizinorg/rizin/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rizinorg/rizin?style=flat-square&color=yellow)](https://github.com/rizinorg/rizin/stargazers) [![Forks](https://img.shields.io/github/forks/rizinorg/rizin?style=flat-square&color=blue)](https://github.com/rizinorg/rizin/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > UNIX-like reverse engineering framework and command-line toolset.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 559 |
 | 💻 **Language** | C |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rizinorg/rizin：rizinorg/rizin helps catch security and privacy issues earlier 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 77/100 |
+| production | 55/100 |
+| outlook | 63/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 69/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

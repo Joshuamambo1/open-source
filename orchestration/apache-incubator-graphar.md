@@ -1,6 +1,6 @@
 # apache/incubator-graphar
 
-[![Stars](https://img.shields.io/github/stars/apache/incubator-graphar?style=flat-square&color=yellow)](https://github.com/apache/incubator-graphar/stargazers) [![Forks](https://img.shields.io/github/forks/apache/incubator-graphar?style=flat-square&color=blue)](https://github.com/apache/incubator-graphar/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/incubator-graphar?style=flat-square&color=yellow)](https://github.com/apache/incubator-graphar/stargazers) [![Forks](https://img.shields.io/github/forks/apache/incubator-graphar?style=flat-square&color=blue)](https://github.com/apache/incubator-graphar/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An open source, standard data file format for graph data storage and retrieval.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 355 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apache/incubator-graphar：apache/incubator-graphar helps turn isolated prompts 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 73/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 53/100 |
 | stars | 54/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

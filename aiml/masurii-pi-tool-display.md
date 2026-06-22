@@ -1,6 +1,6 @@
 # MasuRii/pi-tool-display
 
-[![Stars](https://img.shields.io/github/stars/MasuRii/pi-tool-display?style=flat-square&color=yellow)](https://github.com/MasuRii/pi-tool-display/stargazers) [![Forks](https://img.shields.io/github/forks/MasuRii/pi-tool-display?style=flat-square&color=blue)](https://github.com/MasuRii/pi-tool-display/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MasuRii/pi-tool-display?style=flat-square&color=yellow)](https://github.com/MasuRii/pi-tool-display/stargazers) [![Forks](https://img.shields.io/github/forks/MasuRii/pi-tool-display?style=flat-square&color=blue)](https://github.com/MasuRii/pi-tool-display/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Compact tool call rendering, diff visualization, and output truncation extension for Pi coding agent. Hides, collapses, and truncates verbose tool output for cleaner TUI display.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MasuRii/pi-tool-display：MasuRii/pi-tool-display helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 76/100 |
+| production | 57/100 |
+| outlook | 62/100 |
 | adoption | 41/100 |
 | stars | 46/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

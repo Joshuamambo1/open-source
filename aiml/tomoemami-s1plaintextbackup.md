@@ -1,6 +1,6 @@
 # TomoeMami/S1PlainTextBackup
 
-[![Stars](https://img.shields.io/github/stars/TomoeMami/S1PlainTextBackup?style=flat-square&color=yellow)](https://github.com/TomoeMami/S1PlainTextBackup/stargazers) [![Forks](https://img.shields.io/github/forks/TomoeMami/S1PlainTextBackup?style=flat-square&color=blue)](https://github.com/TomoeMami/S1PlainTextBackup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TomoeMami/S1PlainTextBackup?style=flat-square&color=yellow)](https://github.com/TomoeMami/S1PlainTextBackup/stargazers) [![Forks](https://img.shields.io/github/forks/TomoeMami/S1PlainTextBackup?style=flat-square&color=blue)](https://github.com/TomoeMami/S1PlainTextBackup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 纯文本格式的S1帖子备份
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 526 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -69,14 +69,14 @@ TomoeMami/S1PlainTextBackup：TomoeMami/S1PlainTextBackup helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 46/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

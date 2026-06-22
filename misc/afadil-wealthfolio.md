@@ -1,6 +1,6 @@
 # afadil/wealthfolio
 
-[![Stars](https://img.shields.io/github/stars/afadil/wealthfolio?style=flat-square&color=yellow)](https://github.com/afadil/wealthfolio/stargazers) [![Forks](https://img.shields.io/github/forks/afadil/wealthfolio?style=flat-square&color=blue)](https://github.com/afadil/wealthfolio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/afadil/wealthfolio?style=flat-square&color=yellow)](https://github.com/afadil/wealthfolio/stargazers) [![Forks](https://img.shields.io/github/forks/afadil/wealthfolio?style=flat-square&color=blue)](https://github.com/afadil/wealthfolio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A Beautiful Private and Secure Desktop Investment Tracking Application
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 482 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ afadil/wealthfolio：afadil/wealthfolio may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 78/100 |
 | stars | 82/100 |
 | forks | 67/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

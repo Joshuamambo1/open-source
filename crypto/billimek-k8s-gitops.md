@@ -1,6 +1,6 @@
 # billimek/k8s-gitops
 
-[![Stars](https://img.shields.io/github/stars/billimek/k8s-gitops?style=flat-square&color=yellow)](https://github.com/billimek/k8s-gitops/stargazers) [![Forks](https://img.shields.io/github/forks/billimek/k8s-gitops?style=flat-square&color=blue)](https://github.com/billimek/k8s-gitops/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/billimek/k8s-gitops?style=flat-square&color=yellow)](https://github.com/billimek/k8s-gitops/stargazers) [![Forks](https://img.shields.io/github/forks/billimek/k8s-gitops?style=flat-square&color=blue)](https://github.com/billimek/k8s-gitops/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > GitOps principles to define kubernetes cluster state via code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 769 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | YAML |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ billimek/k8s-gitops：billimek/k8s-gitops helps prototype or inspect blockchain 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 54/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 48/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

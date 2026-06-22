@@ -1,6 +1,6 @@
 # fosrl/pangolin
 
-[![Stars](https://img.shields.io/github/stars/fosrl/pangolin?style=flat-square&color=yellow)](https://github.com/fosrl/pangolin/stargazers) [![Forks](https://img.shields.io/github/forks/fosrl/pangolin?style=flat-square&color=blue)](https://github.com/fosrl/pangolin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fosrl/pangolin?style=flat-square&color=yellow)](https://github.com/fosrl/pangolin/stargazers) [![Forks](https://img.shields.io/github/forks/fosrl/pangolin?style=flat-square&color=blue)](https://github.com/fosrl/pangolin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.6k |
 | 🍴 **Forks** | 669 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -38,7 +38,7 @@ Pangolin is an open-source, identity-aware VPN and tunneled reverse proxy soluti
 
 ### 中文
 
-fosrl/pangolin：fosrl/pangolin may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+fosrl/pangolin：fosrl/pangolin may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ fosrl/pangolin：fosrl/pangolin may be useful when its README and activity match
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ fosrl/pangolin：fosrl/pangolin may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 89/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 86/100 |
 | stars | 92/100 |
 | forks | 71/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

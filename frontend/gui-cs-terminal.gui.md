@@ -1,6 +1,6 @@
 # gui-cs/Terminal.Gui
 
-[![Stars](https://img.shields.io/github/stars/gui-cs/Terminal.Gui?style=flat-square&color=yellow)](https://github.com/gui-cs/Terminal.Gui/stargazers) [![Forks](https://img.shields.io/github/forks/gui-cs/Terminal.Gui?style=flat-square&color=blue)](https://github.com/gui-cs/Terminal.Gui/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gui-cs/Terminal.Gui?style=flat-square&color=yellow)](https://github.com/gui-cs/Terminal.Gui/stargazers) [![Forks](https://img.shields.io/github/forks/gui-cs/Terminal.Gui?style=flat-square&color=blue)](https://github.com/gui-cs/Terminal.Gui/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Cross Platform Terminal UI toolkit for .NET
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11k |
 | 🍴 **Forks** | 773 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gui-cs/Terminal.Gui：gui-cs/Terminal.Gui helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 87/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 80/100 |
+| production | 59/100 |
+| outlook | 66/100 |
 | adoption | 82/100 |
 | stars | 86/100 |
 | forks | 72/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

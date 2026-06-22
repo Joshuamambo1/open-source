@@ -1,6 +1,6 @@
 # newrelic/terraform-provider-newrelic
 
-[![Stars](https://img.shields.io/github/stars/newrelic/terraform-provider-newrelic?style=flat-square&color=yellow)](https://github.com/newrelic/terraform-provider-newrelic/stargazers) [![Forks](https://img.shields.io/github/forks/newrelic/terraform-provider-newrelic?style=flat-square&color=blue)](https://github.com/newrelic/terraform-provider-newrelic/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/newrelic/terraform-provider-newrelic?style=flat-square&color=yellow)](https://github.com/newrelic/terraform-provider-newrelic/stargazers) [![Forks](https://img.shields.io/github/forks/newrelic/terraform-provider-newrelic?style=flat-square&color=blue)](https://github.com/newrelic/terraform-provider-newrelic/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform provider for New Relic
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 289 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ newrelic/terraform-provider-newrelic：newrelic/terraform-provider-newrelic help
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 53/100 |
 | stars | 50/100 |
 | forks | 62/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

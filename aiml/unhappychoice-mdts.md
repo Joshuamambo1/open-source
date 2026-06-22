@@ -1,6 +1,6 @@
 # unhappychoice/mdts
 
-[![Stars](https://img.shields.io/github/stars/unhappychoice/mdts?style=flat-square&color=yellow)](https://github.com/unhappychoice/mdts/stargazers) [![Forks](https://img.shields.io/github/forks/unhappychoice/mdts?style=flat-square&color=blue)](https://github.com/unhappychoice/mdts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unhappychoice/mdts?style=flat-square&color=yellow)](https://github.com/unhappychoice/mdts/stargazers) [![Forks](https://img.shields.io/github/forks/unhappychoice/mdts?style=flat-square&color=blue)](https://github.com/unhappychoice/mdts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A local markdown preview server. npx mdts — and you're done.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ unhappychoice/mdts：unhappychoice/mdts helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 43/100 |
 | stars | 48/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

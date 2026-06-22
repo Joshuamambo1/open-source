@@ -1,6 +1,6 @@
 # YouMind-OpenLab/awesome-gemini-3-prompts
 
-[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/awesome-gemini-3-prompts?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/awesome-gemini-3-prompts?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 474 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ YouMind-OpenLab/awesome-gemini-3-prompts：YouMind-OpenLab/awesome-gemini-3-prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 51/100 |
 | adoption | 53/100 |
 | stars | 57/100 |
 | forks | 42/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # pharo-project/pharo
 
-[![Stars](https://img.shields.io/github/stars/pharo-project/pharo?style=flat-square&color=yellow)](https://github.com/pharo-project/pharo/stargazers) [![Forks](https://img.shields.io/github/forks/pharo-project/pharo?style=flat-square&color=blue)](https://github.com/pharo-project/pharo/network) [![Language](https://img.shields.io/badge/lang-Smalltalk-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pharo-project/pharo?style=flat-square&color=yellow)](https://github.com/pharo-project/pharo/stargazers) [![Forks](https://img.shields.io/github/forks/pharo-project/pharo?style=flat-square&color=blue)](https://github.com/pharo-project/pharo/network) [![Language](https://img.shields.io/badge/lang-Smalltalk-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 424 |
 | 💻 **Language** | Smalltalk |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ pharo-project/pharo：pharo-project/pharo may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 67/100 |
 | stars | 67/100 |
 | forks | 66/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

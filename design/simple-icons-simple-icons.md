@@ -1,6 +1,6 @@
 # simple-icons/simple-icons
 
-[![Stars](https://img.shields.io/github/stars/simple-icons/simple-icons?style=flat-square&color=yellow)](https://github.com/simple-icons/simple-icons/stargazers) [![Forks](https://img.shields.io/github/forks/simple-icons/simple-icons?style=flat-square&color=blue)](https://github.com/simple-icons/simple-icons/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simple-icons/simple-icons?style=flat-square&color=yellow)](https://github.com/simple-icons/simple-icons/stargazers) [![Forks](https://img.shields.io/github/forks/simple-icons/simple-icons?style=flat-square&color=blue)](https://github.com/simple-icons/simple-icons/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > SVG icons for popular brands
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25.1k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Simple‑Icons — это открытая коллекция SVG‑иконо
 
 ### 中文
 
-simple-icons/simple-icons：simple-icons/simple-icons may be useful when its README and activity match a concrete workflow.。适合用于Design。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+simple-icons/simple-icons：simple-icons/simple-icons may be useful when its README and activity match a concrete workflow.。适合用于Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ simple-icons/simple-icons：simple-icons/simple-icons may be useful when its REA
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ simple-icons/simple-icons：simple-icons/simple-icons may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 91/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 79/100 |
+| production | 63/100 |
+| outlook | 65/100 |
 | adoption | 92/100 |
 | stars | 94/100 |
 | forks | 87/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

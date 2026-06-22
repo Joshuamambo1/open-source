@@ -1,6 +1,6 @@
 # rstudio/rstudio
 
-[![Stars](https://img.shields.io/github/stars/rstudio/rstudio?style=flat-square&color=yellow)](https://github.com/rstudio/rstudio/stargazers) [![Forks](https://img.shields.io/github/forks/rstudio/rstudio?style=flat-square&color=blue)](https://github.com/rstudio/rstudio/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rstudio/rstudio?style=flat-square&color=yellow)](https://github.com/rstudio/rstudio/stargazers) [![Forks](https://img.shields.io/github/forks/rstudio/rstudio?style=flat-square&color=blue)](https://github.com/rstudio/rstudio/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > RStudio is an integrated development environment (IDE) for R
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ rstudio/rstudio：rstudio/rstudio may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 66/100 |
+| production | 53/100 |
+| outlook | 52/100 |
 | adoption | 78/100 |
 | stars | 79/100 |
 | forks | 77/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

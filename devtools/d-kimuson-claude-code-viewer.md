@@ -1,6 +1,6 @@
 # d-kimuson/claude-code-viewer
 
-[![Stars](https://img.shields.io/github/stars/d-kimuson/claude-code-viewer?style=flat-square&color=yellow)](https://github.com/d-kimuson/claude-code-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/d-kimuson/claude-code-viewer?style=flat-square&color=blue)](https://github.com/d-kimuson/claude-code-viewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/d-kimuson/claude-code-viewer?style=flat-square&color=yellow)](https://github.com/d-kimuson/claude-code-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/d-kimuson/claude-code-viewer?style=flat-square&color=blue)](https://github.com/d-kimuson/claude-code-viewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ d-kimuson/claude-code-viewer：d-kimuson/claude-code-viewer helps engineers save
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 54/100 |
 | adoption | 62/100 |
 | stars | 65/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

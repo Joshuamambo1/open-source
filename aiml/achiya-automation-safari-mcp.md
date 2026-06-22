@@ -1,6 +1,6 @@
 # achiya-automation/safari-mcp
 
-[![Stars](https://img.shields.io/github/stars/achiya-automation/safari-mcp?style=flat-square&color=yellow)](https://github.com/achiya-automation/safari-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/achiya-automation/safari-mcp?style=flat-square&color=blue)](https://github.com/achiya-automation/safari-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/achiya-automation/safari-mcp?style=flat-square&color=yellow)](https://github.com/achiya-automation/safari-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/achiya-automation/safari-mcp?style=flat-square&color=blue)](https://github.com/achiya-automation/safari-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Native Safari browser automation for AI agents. 80 tools via AppleScript — zero overhead, keeps logins, runs silently in background. Drop-in alternative to Chrome DevTools MCP with 40-60% less CPU/heat on Apple Silicon.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ achiya-automation/safari-mcp：achiya-automation/safari-mcp helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 77/100 |
+| production | 53/100 |
+| outlook | 63/100 |
 | adoption | 34/100 |
 | stars | 37/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

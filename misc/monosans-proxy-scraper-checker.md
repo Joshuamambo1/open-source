@@ -1,6 +1,6 @@
 # monosans/proxy-scraper-checker
 
-[![Stars](https://img.shields.io/github/stars/monosans/proxy-scraper-checker?style=flat-square&color=yellow)](https://github.com/monosans/proxy-scraper-checker/stargazers) [![Forks](https://img.shields.io/github/forks/monosans/proxy-scraper-checker?style=flat-square&color=blue)](https://github.com/monosans/proxy-scraper-checker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/monosans/proxy-scraper-checker?style=flat-square&color=yellow)](https://github.com/monosans/proxy-scraper-checker/stargazers) [![Forks](https://img.shields.io/github/forks/monosans/proxy-scraper-checker?style=flat-square&color=blue)](https://github.com/monosans/proxy-scraper-checker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 271 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ monosans/proxy-scraper-checker：monosans/proxy-scraper-checker may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 68/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 65/100 |
 | stars | 66/100 |
 | forks | 61/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # luongnv89/skills
 
-[![Stars](https://img.shields.io/github/stars/luongnv89/skills?style=flat-square&color=yellow)](https://github.com/luongnv89/skills/stargazers) [![Forks](https://img.shields.io/github/forks/luongnv89/skills?style=flat-square&color=blue)](https://github.com/luongnv89/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luongnv89/skills?style=flat-square&color=yellow)](https://github.com/luongnv89/skills/stargazers) [![Forks](https://img.shields.io/github/forks/luongnv89/skills?style=flat-square&color=blue)](https://github.com/luongnv89/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Supercharge your AI agents/bots with reusable skills
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **skills** project provides a lightweight framework for enriching AI agents 
 
 ### 中文
 
-luongnv89/skills：luongnv89/skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+luongnv89/skills：luongnv89/skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ luongnv89/skills：luongnv89/skills helps turn isolated prompts and tools into r
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,21 +59,21 @@ luongnv89/skills：luongnv89/skills helps turn isolated prompts and tools into r
 - primary language: Python
 - 2 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 36/100 |
 | stars | 40/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

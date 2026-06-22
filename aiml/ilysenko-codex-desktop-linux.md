@@ -1,6 +1,6 @@
 # ilysenko/codex-desktop-linux
 
-[![Stars](https://img.shields.io/github/stars/ilysenko/codex-desktop-linux?style=flat-square&color=yellow)](https://github.com/ilysenko/codex-desktop-linux/stargazers) [![Forks](https://img.shields.io/github/forks/ilysenko/codex-desktop-linux?style=flat-square&color=blue)](https://github.com/ilysenko/codex-desktop-linux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ilysenko/codex-desktop-linux?style=flat-square&color=yellow)](https://github.com/ilysenko/codex-desktop-linux/stargazers) [![Forks](https://img.shields.io/github/forks/ilysenko/codex-desktop-linux?style=flat-square&color=blue)](https://github.com/ilysenko/codex-desktop-linux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Run OpenAI Codex Desktop on Linux - automated installer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 649 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ilysenko/codex-desktop-linux provides an automated installer that enables the Op
 
 ### 中文
 
-ilysenko/codex-desktop-linux：ilysenko/codex-desktop-linux helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ilysenko/codex-desktop-linux：ilysenko/codex-desktop-linux helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ilysenko/codex-desktop-linux：ilysenko/codex-desktop-linux helps add AI capabil
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ ilysenko/codex-desktop-linux：ilysenko/codex-desktop-linux helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 57/100 |
 | stars | 60/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

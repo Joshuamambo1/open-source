@@ -1,6 +1,6 @@
 # Canner/WrenAI
 
-[![Stars](https://img.shields.io/github/stars/Canner/WrenAI?style=flat-square&color=yellow)](https://github.com/Canner/WrenAI/stargazers) [![Forks](https://img.shields.io/github/forks/Canner/WrenAI?style=flat-square&color=blue)](https://github.com/Canner/WrenAI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Canner/WrenAI?style=flat-square&color=yellow)](https://github.com/Canner/WrenAI/stargazers) [![Forks](https://img.shields.io/github/forks/Canner/WrenAI?style=flat-square&color=blue)](https://github.com/Canner/WrenAI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The open context layer that gives AI agents grounded, governed SQL across 20+ data sources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.1k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Canner/WrenAI：Canner/WrenAI helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 89/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 84/100 |
+| production | 62/100 |
+| outlook | 70/100 |
 | adoption | 87/100 |
 | stars | 89/100 |
 | forks | 81/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

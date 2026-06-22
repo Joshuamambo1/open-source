@@ -1,6 +1,6 @@
 # tractorjuice/arc-kit
 
-[![Stars](https://img.shields.io/github/stars/tractorjuice/arc-kit?style=flat-square&color=yellow)](https://github.com/tractorjuice/arc-kit/stargazers) [![Forks](https://img.shields.io/github/forks/tractorjuice/arc-kit?style=flat-square&color=blue)](https://github.com/tractorjuice/arc-kit/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tractorjuice/arc-kit?style=flat-square&color=yellow)](https://github.com/tractorjuice/arc-kit/stargazers) [![Forks](https://img.shields.io/github/forks/tractorjuice/arc-kit?style=flat-square&color=blue)](https://github.com/tractorjuice/arc-kit/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise Architecture Governance & Vendor Procurement Toolkit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 217 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ tractorjuice/arc-kit：tractorjuice/arc-kit helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 66/100 |
+| production | 53/100 |
+| outlook | 52/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 58/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # tracel-ai/burn
 
-[![Stars](https://img.shields.io/github/stars/tracel-ai/burn?style=flat-square&color=yellow)](https://github.com/tracel-ai/burn/stargazers) [![Forks](https://img.shields.io/github/forks/tracel-ai/burn?style=flat-square&color=blue)](https://github.com/tracel-ai/burn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tracel-ai/burn?style=flat-square&color=yellow)](https://github.com/tracel-ai/burn/stargazers) [![Forks](https://img.shields.io/github/forks/tracel-ai/burn?style=flat-square&color=blue)](https://github.com/tracel-ai/burn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15k |
 | 🍴 **Forks** | 896 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tracel-ai/burn：tracel-ai/burn helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 88/100 |
+| quality | 78/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 81/100 |
+| production | 59/100 |
+| outlook | 67/100 |
 | adoption | 85/100 |
 | stars | 89/100 |
 | forks | 74/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

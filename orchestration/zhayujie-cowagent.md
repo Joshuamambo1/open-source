@@ -1,6 +1,6 @@
 # zhayujie/CowAgent
 
-[![Stars](https://img.shields.io/github/stars/zhayujie/CowAgent?style=flat-square&color=yellow)](https://github.com/zhayujie/CowAgent/stargazers) [![Forks](https://img.shields.io/github/forks/zhayujie/CowAgent?style=flat-square&color=blue)](https://github.com/zhayujie/CowAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhayujie/CowAgent?style=flat-square&color=yellow)](https://github.com/zhayujie/CowAgent/stargazers) [![Forks](https://img.shields.io/github/forks/zhayujie/CowAgent?style=flat-square&color=blue)](https://github.com/zhayujie/CowAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 44.2k |
 | 🍴 **Forks** | 10.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CowAgent — это лёгкий open‑source AI‑ассистент, ос
 
 ### 中文
 
-zhayujie/CowAgent：zhayujie/CowAgent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+zhayujie/CowAgent：zhayujie/CowAgent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ zhayujie/CowAgent：zhayujie/CowAgent helps turn isolated prompts and tools into
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ zhayujie/CowAgent：zhayujie/CowAgent helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 95/100 |
+| quality | 85/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 88/100 |
+| production | 66/100 |
+| outlook | 74/100 |
 | adoption | 99/100 |
 | stars | 99/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

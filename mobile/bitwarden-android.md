@@ -1,6 +1,6 @@
 # bitwarden/android
 
-[![Stars](https://img.shields.io/github/stars/bitwarden/android?style=flat-square&color=yellow)](https://github.com/bitwarden/android/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/android?style=flat-square&color=blue)](https://github.com/bitwarden/android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitwarden/android?style=flat-square&color=yellow)](https://github.com/bitwarden/android/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/android?style=flat-square&color=blue)](https://github.com/bitwarden/android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Bitwarden mobile apps (Password Manager and Authenticator) for Android.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 954 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ bitwarden/android：bitwarden/android may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 73/100 |
+| production | 57/100 |
+| outlook | 59/100 |
 | adoption | 81/100 |
 | stars | 84/100 |
 | forks | 75/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

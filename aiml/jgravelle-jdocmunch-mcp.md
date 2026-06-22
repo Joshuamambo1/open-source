@@ -1,6 +1,6 @@
 # jgravelle/jdocmunch-mcp
 
-[![Stars](https://img.shields.io/github/stars/jgravelle/jdocmunch-mcp?style=flat-square&color=yellow)](https://github.com/jgravelle/jdocmunch-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jgravelle/jdocmunch-mcp?style=flat-square&color=blue)](https://github.com/jgravelle/jdocmunch-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jgravelle/jdocmunch-mcp?style=flat-square&color=yellow)](https://github.com/jgravelle/jdocmunch-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jgravelle/jdocmunch-mcp?style=flat-square&color=blue)](https://github.com/jgravelle/jdocmunch-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The leading, most token-efficient MCP server for documentation exploration and retrieval via structured section indexing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jgravelle/jdocmunch-mcp：jgravelle/jdocmunch-mcp helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 71/100 |
+| production | 57/100 |
+| outlook | 57/100 |
 | adoption | 45/100 |
 | stars | 47/100 |
 | forks | 40/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

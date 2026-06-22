@@ -1,6 +1,6 @@
 # strands-agents/evals
 
-[![Stars](https://img.shields.io/github/stars/strands-agents/evals?style=flat-square&color=yellow)](https://github.com/strands-agents/evals/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/evals?style=flat-square&color=blue)](https://github.com/strands-agents/evals/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-agents/evals?style=flat-square&color=yellow)](https://github.com/strands-agents/evals/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/evals?style=flat-square&color=blue)](https://github.com/strands-agents/evals/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive evaluation framework for AI agents and LLM applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ strands-agents/evals：strands-agents/evals helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 43/100 |
 | stars | 44/100 |
 | forks | 38/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

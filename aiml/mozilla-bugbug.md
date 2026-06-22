@@ -1,6 +1,6 @@
 # mozilla/bugbug
 
-[![Stars](https://img.shields.io/github/stars/mozilla/bugbug?style=flat-square&color=yellow)](https://github.com/mozilla/bugbug/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/bugbug?style=flat-square&color=blue)](https://github.com/mozilla/bugbug/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozilla/bugbug?style=flat-square&color=yellow)](https://github.com/mozilla/bugbug/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/bugbug?style=flat-square&color=blue)](https://github.com/mozilla/bugbug/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Platform for Machine Learning projects on Software Engineering
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 563 |
 | 🍴 **Forks** | 331 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mozilla/bugbug：mozilla/bugbug helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 73/100 |
+| production | 57/100 |
+| outlook | 59/100 |
 | adoption | 60/100 |
 | stars | 59/100 |
 | forks | 63/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

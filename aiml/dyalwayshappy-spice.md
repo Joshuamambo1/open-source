@@ -1,6 +1,6 @@
 # Dyalwayshappy/Spice
 
-[![Stars](https://img.shields.io/github/stars/Dyalwayshappy/Spice?style=flat-square&color=yellow)](https://github.com/Dyalwayshappy/Spice/stargazers) [![Forks](https://img.shields.io/github/forks/Dyalwayshappy/Spice?style=flat-square&color=blue)](https://github.com/Dyalwayshappy/Spice/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dyalwayshappy/Spice?style=flat-square&color=yellow)](https://github.com/Dyalwayshappy/Spice/stargazers) [![Forks](https://img.shields.io/github/forks/Dyalwayshappy/Spice?style=flat-square&color=blue)](https://github.com/Dyalwayshappy/Spice/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > percept everything and make the 'best' decision for you. Your second 'brain' 感知万物，做最适合你的决策，你的“第二大脑”
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Dyalwayshappy/Spice：Dyalwayshappy/Spice helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 71/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 39/100 |
 | stars | 45/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

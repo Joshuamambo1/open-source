@@ -1,6 +1,6 @@
 # awizemann/harness
 
-[![Stars](https://img.shields.io/github/stars/awizemann/harness?style=flat-square&color=yellow)](https://github.com/awizemann/harness/stargazers) [![Forks](https://img.shields.io/github/forks/awizemann/harness?style=flat-square&color=blue)](https://github.com/awizemann/harness/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awizemann/harness?style=flat-square&color=yellow)](https://github.com/awizemann/harness/stargazers) [![Forks](https://img.shields.io/github/forks/awizemann/harness?style=flat-square&color=blue)](https://github.com/awizemann/harness/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ awizemann/harness：awizemann/harness helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 73/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 39/100 |
 | stars | 46/100 |
 | forks | 21/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ankitmundada/awesome-gemini-cli-subagents
 
-[![Stars](https://img.shields.io/github/stars/ankitmundada/awesome-gemini-cli-subagents?style=flat-square&color=yellow)](https://github.com/ankitmundada/awesome-gemini-cli-subagents/stargazers) [![Forks](https://img.shields.io/github/forks/ankitmundada/awesome-gemini-cli-subagents?style=flat-square&color=blue)](https://github.com/ankitmundada/awesome-gemini-cli-subagents/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ankitmundada/awesome-gemini-cli-subagents?style=flat-square&color=yellow)](https://github.com/ankitmundada/awesome-gemini-cli-subagents/stargazers) [![Forks](https://img.shields.io/github/forks/ankitmundada/awesome-gemini-cli-subagents?style=flat-square&color=blue)](https://github.com/ankitmundada/awesome-gemini-cli-subagents/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 100+ subagents for gemini-cli
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **awesome‑gemini‑cli‑subagents** repository curated by Ankit Mundada p
 
 ### 中文
 
-ankitmundada/awesome-gemini-cli-subagents：ankitmundada/awesome-gemini-cli-subagents helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ankitmundada/awesome-gemini-cli-subagents：ankitmundada/awesome-gemini-cli-subagents helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ankitmundada/awesome-gemini-cli-subagents：ankitmundada/awesome-gemini-cli-suba
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,21 +59,21 @@ ankitmundada/awesome-gemini-cli-subagents：ankitmundada/awesome-gemini-cli-suba
 - primary language: Shell
 - 4 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 27/100 |
 | stars | 31/100 |
 | forks | 17/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

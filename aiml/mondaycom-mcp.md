@@ -1,6 +1,6 @@
 # mondaycom/mcp
 
-[![Stars](https://img.shields.io/github/stars/mondaycom/mcp?style=flat-square&color=yellow)](https://github.com/mondaycom/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mondaycom/mcp?style=flat-square&color=blue)](https://github.com/mondaycom/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mondaycom/mcp?style=flat-square&color=yellow)](https://github.com/mondaycom/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mondaycom/mcp?style=flat-square&color=blue)](https://github.com/mondaycom/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Enable AI agents to work reliably - giving them secure access to structured data, tools to take action, and the context needed to make smart decisions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 401 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mondaycom/mcp：mondaycom/mcp helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 75/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 53/100 |
 | stars | 55/100 |
 | forks | 46/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

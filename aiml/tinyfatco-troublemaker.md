@@ -1,6 +1,6 @@
 # tinyfatco/troublemaker
 
-[![Stars](https://img.shields.io/github/stars/tinyfatco/troublemaker?style=flat-square&color=yellow)](https://github.com/tinyfatco/troublemaker/stargazers) [![Forks](https://img.shields.io/github/forks/tinyfatco/troublemaker?style=flat-square&color=blue)](https://github.com/tinyfatco/troublemaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinyfatco/troublemaker?style=flat-square&color=yellow)](https://github.com/tinyfatco/troublemaker/stargazers) [![Forks](https://img.shields.io/github/forks/tinyfatco/troublemaker?style=flat-square&color=blue)](https://github.com/tinyfatco/troublemaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Mom, liberated. Multi-platform AI agent runtime.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ tinyfatco/troublemaker — открытый кросс‑платформен�
 
 ### 中文
 
-tinyfatco/troublemaker：tinyfatco/troublemaker helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tinyfatco/troublemaker：tinyfatco/troublemaker helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ tinyfatco/troublemaker：tinyfatco/troublemaker helps add AI capability without 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -57,21 +57,21 @@ tinyfatco/troublemaker：tinyfatco/troublemaker helps add AI capability without 
 - updated 2026-05-10
 - primary language: TypeScript
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 47/100 |
+| quality | 37/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 56/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 26/100 |
 | stars | 36/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

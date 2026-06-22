@@ -1,6 +1,6 @@
 # ineo6/hosts
 
-[![Stars](https://img.shields.io/github/stars/ineo6/hosts?style=flat-square&color=yellow)](https://github.com/ineo6/hosts/stargazers) [![Forks](https://img.shields.io/github/forks/ineo6/hosts?style=flat-square&color=blue)](https://github.com/ineo6/hosts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ineo6/hosts?style=flat-square&color=yellow)](https://github.com/ineo6/hosts/stargazers) [![Forks](https://img.shields.io/github/forks/ineo6/hosts?style=flat-square&color=blue)](https://github.com/ineo6/hosts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 457 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ ineo6/hosts：ineo6/hosts may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 57/100 |
+| outlook | 55/100 |
 | adoption | 76/100 |
 | stars | 79/100 |
 | forks | 67/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

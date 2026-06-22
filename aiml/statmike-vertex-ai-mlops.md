@@ -1,6 +1,6 @@
 # statmike/vertex-ai-mlops
 
-[![Stars](https://img.shields.io/github/stars/statmike/vertex-ai-mlops?style=flat-square&color=yellow)](https://github.com/statmike/vertex-ai-mlops/stargazers) [![Forks](https://img.shields.io/github/forks/statmike/vertex-ai-mlops?style=flat-square&color=blue)](https://github.com/statmike/vertex-ai-mlops/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/statmike/vertex-ai-mlops?style=flat-square&color=yellow)](https://github.com/statmike/vertex-ai-mlops/stargazers) [![Forks](https://img.shields.io/github/forks/statmike/vertex-ai-mlops?style=flat-square&color=blue)](https://github.com/statmike/vertex-ai-mlops/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Google Cloud Platform Vertex AI end-to-end workflows for machine learning operations
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 689 |
 | 🍴 **Forks** | 309 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ statmike/vertex-ai-mlops：statmike/vertex-ai-mlops helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 59/100 |
+| outlook | 60/100 |
 | adoption | 61/100 |
 | stars | 60/100 |
 | forks | 62/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

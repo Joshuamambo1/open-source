@@ -1,6 +1,6 @@
 # verygoodplugins/whatsapp-mcp
 
-[![Stars](https://img.shields.io/github/stars/verygoodplugins/whatsapp-mcp?style=flat-square&color=yellow)](https://github.com/verygoodplugins/whatsapp-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/whatsapp-mcp?style=flat-square&color=blue)](https://github.com/verygoodplugins/whatsapp-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/verygoodplugins/whatsapp-mcp?style=flat-square&color=yellow)](https://github.com/verygoodplugins/whatsapp-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/verygoodplugins/whatsapp-mcp?style=flat-square&color=blue)](https://github.com/verygoodplugins/whatsapp-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > WhatsApp MCP server - Connect Claude to WhatsApp for reading and sending messages
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ verygoodplugins/whatsapp-mcp：verygoodplugins/whatsapp-mcp helps teams reuse se
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 51/100 |
 | adoption | 35/100 |
 | stars | 34/100 |
 | forks | 37/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

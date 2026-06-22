@@ -1,6 +1,6 @@
 # langchain4j/langchain4j
 
-[![Stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=flat-square&color=yellow)](https://github.com/langchain4j/langchain4j/stargazers) [![Forks](https://img.shields.io/github/forks/langchain4j/langchain4j?style=flat-square&color=blue)](https://github.com/langchain4j/langchain4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=flat-square&color=yellow)](https://github.com/langchain4j/langchain4j/stargazers) [![Forks](https://img.shields.io/github/forks/langchain4j/langchain4j?style=flat-square&color=blue)](https://github.com/langchain4j/langchain4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.9k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Orchestration · AI/ML · Frontend
 
 ### English
 
-langchain4j/langchain4j: langchain4j/langchain4j helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+langchain4j/langchain4j: langchain4j/langchain4j helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-langchain4j/langchain4j: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+langchain4j/langchain4j: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-langchain4j/langchain4j：langchain4j/langchain4j helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+langchain4j/langchain4j：langchain4j/langchain4j helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ langchain4j/langchain4j：langchain4j/langchain4j helps turn isolated prompts an
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ langchain4j/langchain4j：langchain4j/langchain4j helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 89/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 89/100 |
+| production | 64/100 |
+| outlook | 75/100 |
 | adoption | 86/100 |
 | stars | 87/100 |
 | forks | 84/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

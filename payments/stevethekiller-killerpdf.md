@@ -1,6 +1,6 @@
 # SteveTheKiller/KillerPDF
 
-[![Stars](https://img.shields.io/github/stars/SteveTheKiller/KillerPDF?style=flat-square&color=yellow)](https://github.com/SteveTheKiller/KillerPDF/stargazers) [![Forks](https://img.shields.io/github/forks/SteveTheKiller/KillerPDF?style=flat-square&color=blue)](https://github.com/SteveTheKiller/KillerPDF/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SteveTheKiller/KillerPDF?style=flat-square&color=yellow)](https://github.com/SteveTheKiller/KillerPDF/stargazers) [![Forks](https://img.shields.io/github/forks/SteveTheKiller/KillerPDF?style=flat-square&color=blue)](https://github.com/SteveTheKiller/KillerPDF/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > PDF editor for Windows. Install or run portable. GPLv3. No account, no subscription, no telemetry.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ SteveTheKiller/KillerPDF：SteveTheKiller/KillerPDF helps integrate monetization
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 72/100 |
+| production | 55/100 |
+| outlook | 58/100 |
 | adoption | 61/100 |
 | stars | 66/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # knadh/listmonk
 
-[![Stars](https://img.shields.io/github/stars/knadh/listmonk?style=flat-square&color=yellow)](https://github.com/knadh/listmonk/stargazers) [![Forks](https://img.shields.io/github/forks/knadh/listmonk?style=flat-square&color=blue)](https://github.com/knadh/listmonk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knadh/listmonk?style=flat-square&color=yellow)](https://github.com/knadh/listmonk/stargazers) [![Forks](https://img.shields.io/github/forks/knadh/listmonk?style=flat-square&color=blue)](https://github.com/knadh/listmonk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ knadh/listmonk is a high‑performance, self‑hosted newsletter and mailing‑l
 
 ### 中文
 
-knadh/listmonk：knadh/listmonk helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+knadh/listmonk：knadh/listmonk helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ knadh/listmonk：knadh/listmonk helps integrate monetization, billing, or PSP fl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ knadh/listmonk：knadh/listmonk helps integrate monetization, billing, or PSP fl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 90/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 85/100 |
+| production | 62/100 |
+| outlook | 71/100 |
 | adoption | 89/100 |
 | stars | 92/100 |
 | forks | 83/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

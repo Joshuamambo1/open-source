@@ -1,6 +1,6 @@
 # rust-lang/rustup
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/rustup?style=flat-square&color=yellow)](https://github.com/rust-lang/rustup/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustup?style=flat-square&color=blue)](https://github.com/rust-lang/rustup/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/rustup?style=flat-square&color=yellow)](https://github.com/rust-lang/rustup/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustup?style=flat-square&color=blue)](https://github.com/rust-lang/rustup/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The Rust toolchain installer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rust-lang/rustup：rust-lang/rustup helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 80/100 |
 | stars | 82/100 |
 | forks | 75/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

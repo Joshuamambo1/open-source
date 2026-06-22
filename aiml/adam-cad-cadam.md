@@ -1,6 +1,6 @@
 # Adam-CAD/CADAM
 
-[![Stars](https://img.shields.io/github/stars/Adam-CAD/CADAM?style=flat-square&color=yellow)](https://github.com/Adam-CAD/CADAM/stargazers) [![Forks](https://img.shields.io/github/forks/Adam-CAD/CADAM?style=flat-square&color=blue)](https://github.com/Adam-CAD/CADAM/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adam-CAD/CADAM?style=flat-square&color=yellow)](https://github.com/Adam-CAD/CADAM/stargazers) [![Forks](https://img.shields.io/github/forks/Adam-CAD/CADAM?style=flat-square&color=blue)](https://github.com/Adam-CAD/CADAM/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > CADAM is the open source text-to-CAD web application
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 399 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -70,14 +70,14 @@ Adam-CAD/CADAM：Adam-CAD/CADAM helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 78/100 |
+| production | 59/100 |
+| outlook | 64/100 |
 | adoption | 72/100 |
 | stars | 74/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

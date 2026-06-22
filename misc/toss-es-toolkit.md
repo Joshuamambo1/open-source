@@ -1,6 +1,6 @@
 # toss/es-toolkit
 
-[![Stars](https://img.shields.io/github/stars/toss/es-toolkit?style=flat-square&color=yellow)](https://github.com/toss/es-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/toss/es-toolkit?style=flat-square&color=blue)](https://github.com/toss/es-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/toss/es-toolkit?style=flat-square&color=yellow)](https://github.com/toss/es-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/toss/es-toolkit?style=flat-square&color=blue)](https://github.com/toss/es-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.1k |
 | 🍴 **Forks** | 551 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ toss/es-toolkit：toss/es-toolkit may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 81/100 |
 | stars | 86/100 |
 | forks | 69/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

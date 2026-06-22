@@ -1,6 +1,6 @@
 # opensearch-project/security
 
-[![Stars](https://img.shields.io/github/stars/opensearch-project/security?style=flat-square&color=yellow)](https://github.com/opensearch-project/security/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/security?style=flat-square&color=blue)](https://github.com/opensearch-project/security/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensearch-project/security?style=flat-square&color=yellow)](https://github.com/opensearch-project/security/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/security?style=flat-square&color=blue)](https://github.com/opensearch-project/security/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 🔐 Secure your cluster with TLS, numerous authentication backends, data masking, audit logging as well as role-based access control on indices, documents, and fields
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 244 |
 | 🍴 **Forks** | 364 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **opensearch‑project/security** plugin adds comprehensive security feature
 
 ### 中文
 
-opensearch-project/security：opensearch-project/security helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+opensearch-project/security：opensearch-project/security helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ opensearch-project/security：opensearch-project/security helps teams reuse serv
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ opensearch-project/security：opensearch-project/security helps teams reuse serv
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 55/100 |
 | stars | 51/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # catboost/catboost
 
-[![Stars](https://img.shields.io/github/stars/catboost/catboost?style=flat-square&color=yellow)](https://github.com/catboost/catboost/stargazers) [![Forks](https://img.shields.io/github/forks/catboost/catboost?style=flat-square&color=blue)](https://github.com/catboost/catboost/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/catboost/catboost?style=flat-square&color=yellow)](https://github.com/catboost/catboost/stargazers) [![Forks](https://img.shields.io/github/forks/catboost/catboost?style=flat-square&color=blue)](https://github.com/catboost/catboost/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CatBoost — это открытая библиотека градиентно
 
 ### 中文
 
-catboost/catboost：catboost/catboost helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+catboost/catboost：catboost/catboost helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ catboost/catboost：catboost/catboost helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ catboost/catboost：catboost/catboost helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 87/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 77/100 |
+| production | 63/100 |
+| outlook | 63/100 |
 | adoption | 82/100 |
 | stars | 84/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # bisq-network/bisq
 
-[![Stars](https://img.shields.io/github/stars/bisq-network/bisq?style=flat-square&color=yellow)](https://github.com/bisq-network/bisq/stargazers) [![Forks](https://img.shields.io/github/forks/bisq-network/bisq?style=flat-square&color=blue)](https://github.com/bisq-network/bisq/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bisq-network/bisq?style=flat-square&color=yellow)](https://github.com/bisq-network/bisq/stargazers) [![Forks](https://img.shields.io/github/forks/bisq-network/bisq?style=flat-square&color=blue)](https://github.com/bisq-network/bisq/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A decentralized bitcoin exchange network
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bisq-network/bisq：bisq-network/bisq helps prototype or inspect blockchain work
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 79/100 |
 | stars | 79/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

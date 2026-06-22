@@ -1,6 +1,6 @@
 # shakacode/react_on_rails
 
-[![Stars](https://img.shields.io/github/stars/shakacode/react_on_rails?style=flat-square&color=yellow)](https://github.com/shakacode/react_on_rails/stargazers) [![Forks](https://img.shields.io/github/forks/shakacode/react_on_rails?style=flat-square&color=blue)](https://github.com/shakacode/react_on_rails/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shakacode/react_on_rails?style=flat-square&color=yellow)](https://github.com/shakacode/react_on_rails/stargazers) [![Forks](https://img.shields.io/github/forks/shakacode/react_on_rails?style=flat-square&color=blue)](https://github.com/shakacode/react_on_rails/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Integration of React + Webpack + Rails including server-side rendering of React, enabling a better developer experience and faster client performance.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 634 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ shakacode/react_on_rails — это open‑source решение, объеди
 
 ### 中文
 
-shakacode/react_on_rails：shakacode/react_on_rails helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+shakacode/react_on_rails：shakacode/react_on_rails helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ shakacode/react_on_rails：shakacode/react_on_rails helps add AI capability with
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ shakacode/react_on_rails：shakacode/react_on_rails helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 85/100 |
+| production | 62/100 |
+| outlook | 71/100 |
 | adoption | 77/100 |
 | stars | 79/100 |
 | forks | 70/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

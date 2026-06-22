@@ -1,6 +1,6 @@
 # erasin/hx-lsp
 
-[![Stars](https://img.shields.io/github/stars/erasin/hx-lsp?style=flat-square&color=yellow)](https://github.com/erasin/hx-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/erasin/hx-lsp?style=flat-square&color=blue)](https://github.com/erasin/hx-lsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erasin/hx-lsp?style=flat-square&color=yellow)](https://github.com/erasin/hx-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/erasin/hx-lsp?style=flat-square&color=blue)](https://github.com/erasin/hx-lsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > lsp for helix , support snippets, actions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **hx-lsp** project provides a Language Server Protocol (LSP) implementation 
 
 ### 中文
 
-erasin/hx-lsp：erasin/hx-lsp may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+erasin/hx-lsp：erasin/hx-lsp may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ erasin/hx-lsp：erasin/hx-lsp may be useful when its README and activity match a
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ erasin/hx-lsp：erasin/hx-lsp may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 36/100 |
 | stars | 43/100 |
 | forks | 17/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # rimeinn/rime-moran
 
-[![Stars](https://img.shields.io/github/stars/rimeinn/rime-moran?style=flat-square&color=yellow)](https://github.com/rimeinn/rime-moran/stargazers) [![Forks](https://img.shields.io/github/forks/rimeinn/rime-moran?style=flat-square&color=blue)](https://github.com/rimeinn/rime-moran/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rimeinn/rime-moran?style=flat-square&color=yellow)](https://github.com/rimeinn/rime-moran/stargazers) [![Forks](https://img.shields.io/github/forks/rimeinn/rime-moran?style=flat-square&color=blue)](https://github.com/rimeinn/rime-moran/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 自然碼 雙拼 + 輔助碼 Rime 配置 / 自然码 双拼 + 辅助码 Rime 配置
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ rimeinn/rime-moran：rimeinn/rime-moran may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 68/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 49/100 |
 | stars | 53/100 |
 | forks | 40/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

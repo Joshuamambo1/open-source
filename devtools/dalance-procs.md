@@ -1,6 +1,6 @@
 # dalance/procs
 
-[![Stars](https://img.shields.io/github/stars/dalance/procs?style=flat-square&color=yellow)](https://github.com/dalance/procs/stargazers) [![Forks](https://img.shields.io/github/forks/dalance/procs?style=flat-square&color=blue)](https://github.com/dalance/procs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dalance/procs?style=flat-square&color=yellow)](https://github.com/dalance/procs/stargazers) [![Forks](https://img.shields.io/github/forks/dalance/procs?style=flat-square&color=blue)](https://github.com/dalance/procs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A modern replacement for ps written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dalance/procs：dalance/procs helps engineers save time in daily development and
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 73/100 |
 | stars | 80/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

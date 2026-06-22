@@ -1,6 +1,6 @@
 # h3pdesign/Neon-Vision-Editor
 
-[![Stars](https://img.shields.io/github/stars/h3pdesign/Neon-Vision-Editor?style=flat-square&color=yellow)](https://github.com/h3pdesign/Neon-Vision-Editor/stargazers) [![Forks](https://img.shields.io/github/forks/h3pdesign/Neon-Vision-Editor?style=flat-square&color=blue)](https://github.com/h3pdesign/Neon-Vision-Editor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/h3pdesign/Neon-Vision-Editor?style=flat-square&color=yellow)](https://github.com/h3pdesign/Neon-Vision-Editor/stargazers) [![Forks](https://img.shields.io/github/forks/h3pdesign/Neon-Vision-Editor?style=flat-square&color=blue)](https://github.com/h3pdesign/Neon-Vision-Editor/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight and modern macOS code editor built for speed and simplicity - focused on speed, readability, and automatic syntax highlighting.  Minimal by design: quick edits, fast file access.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ h3pdesign/Neon-Vision-Editor：h3pdesign/Neon-Vision-Editor helps ship user-faci
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 44/100 |
 | stars | 50/100 |
 | forks | 28/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

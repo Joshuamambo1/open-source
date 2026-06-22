@@ -1,6 +1,6 @@
 # apache/hamilton
 
-[![Stars](https://img.shields.io/github/stars/apache/hamilton?style=flat-square&color=yellow)](https://github.com/apache/hamilton/stargazers) [![Forks](https://img.shields.io/github/forks/apache/hamilton?style=flat-square&color=blue)](https://github.com/apache/hamilton/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/hamilton?style=flat-square&color=yellow)](https://github.com/apache/hamilton/stargazers) [![Forks](https://img.shields.io/github/forks/apache/hamilton?style=flat-square&color=blue)](https://github.com/apache/hamilton/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apache/hamilton：apache/hamilton helps prototype or inspect blockchain workflow
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 80/100 |
+| production | 59/100 |
+| outlook | 66/100 |
 | adoption | 68/100 |
 | stars | 72/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

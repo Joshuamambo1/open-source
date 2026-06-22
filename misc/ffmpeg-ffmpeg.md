@@ -1,6 +1,6 @@
 # FFmpeg/FFmpeg
 
-[![Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=flat-square&color=yellow)](https://github.com/FFmpeg/FFmpeg/stargazers) [![Forks](https://img.shields.io/github/forks/FFmpeg/FFmpeg?style=flat-square&color=blue)](https://github.com/FFmpeg/FFmpeg/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=flat-square&color=yellow)](https://github.com/FFmpeg/FFmpeg/stargazers) [![Forks](https://img.shields.io/github/forks/FFmpeg/FFmpeg?style=flat-square&color=blue)](https://github.com/FFmpeg/FFmpeg/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of https://git.ffmpeg.org/ffmpeg.git
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 59.7k |
 | 🍴 **Forks** | 13.8k |
 | 💻 **Language** | C |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ FFmpeg/FFmpeg：FFmpeg/FFmpeg may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 95/100 |
+| quality | 85/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 62/100 |
+| outlook | 67/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # imdinu/apple-mail-mcp
 
-[![Stars](https://img.shields.io/github/stars/imdinu/apple-mail-mcp?style=flat-square&color=yellow)](https://github.com/imdinu/apple-mail-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/imdinu/apple-mail-mcp?style=flat-square&color=blue)](https://github.com/imdinu/apple-mail-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imdinu/apple-mail-mcp?style=flat-square&color=yellow)](https://github.com/imdinu/apple-mail-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/imdinu/apple-mail-mcp?style=flat-square&color=blue)](https://github.com/imdinu/apple-mail-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Apple Mail MCP server with full-text email search — the only one that works reliably on large mailboxes. 6 tools for Claude Desktop & Claude Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ imdinu/apple-mail-mcp：imdinu/apple-mail-mcp helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 73/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 28/100 |
 | stars | 29/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

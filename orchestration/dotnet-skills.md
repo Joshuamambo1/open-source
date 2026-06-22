@@ -1,6 +1,6 @@
 # dotnet/skills
 
-[![Stars](https://img.shields.io/github/stars/dotnet/skills?style=flat-square&color=yellow)](https://github.com/dotnet/skills/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/skills?style=flat-square&color=blue)](https://github.com/dotnet/skills/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/skills?style=flat-square&color=yellow)](https://github.com/dotnet/skills/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/skills?style=flat-square&color=blue)](https://github.com/dotnet/skills/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Repository for skills to assist AI coding agents with .NET and C#
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ dotnet/skills：dotnet/skills helps turn isolated prompts and tools into repeata
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 64/100 |
 | stars | 68/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

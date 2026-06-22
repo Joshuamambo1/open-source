@@ -1,6 +1,6 @@
 # oxy-hq/oxygen
 
-[![Stars](https://img.shields.io/github/stars/oxy-hq/oxygen?style=flat-square&color=yellow)](https://github.com/oxy-hq/oxygen/stargazers) [![Forks](https://img.shields.io/github/forks/oxy-hq/oxygen?style=flat-square&color=blue)](https://github.com/oxy-hq/oxygen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxy-hq/oxygen?style=flat-square&color=yellow)](https://github.com/oxy-hq/oxygen/stargazers) [![Forks](https://img.shields.io/github/forks/oxy-hq/oxygen?style=flat-square&color=blue)](https://github.com/oxy-hq/oxygen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > oxygen is the next-generation data platform for agents built with rust and duckdb.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 198 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Oxygen — это современная платформа данных дл�
 
 ### 中文
 
-oxy-hq/oxygen：oxy-hq/oxygen helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+oxy-hq/oxygen：oxy-hq/oxygen helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ oxy-hq/oxygen：oxy-hq/oxygen helps add AI capability without starting from a bl
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ oxy-hq/oxygen：oxy-hq/oxygen helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 61/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 45/100 |
 | stars | 49/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

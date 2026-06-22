@@ -1,6 +1,6 @@
 # liuchuancong/pure_live_TV
 
-[![Stars](https://img.shields.io/github/stars/liuchuancong/pure_live_TV?style=flat-square&color=yellow)](https://github.com/liuchuancong/pure_live_TV/stargazers) [![Forks](https://img.shields.io/github/forks/liuchuancong/pure_live_TV?style=flat-square&color=blue)](https://github.com/liuchuancong/pure_live_TV/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liuchuancong/pure_live_TV?style=flat-square&color=yellow)](https://github.com/liuchuancong/pure_live_TV/stargazers) [![Forks](https://img.shields.io/github/forks/liuchuancong/pure_live_TV?style=flat-square&color=blue)](https://github.com/liuchuancong/pure_live_TV/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 纯粹直播:哔哩哔哩/虎牙/斗鱼/快手/抖音/网易cc/M38自定义源应有尽有。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 470 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ liuchuancong/pure_live_TV：liuchuancong/pure_live_TV helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 68/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 50/100 |
 | stars | 57/100 |
 | forks | 31/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ArmorerLabs/Armorer
 
-[![Stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer?style=flat-square&color=yellow)](https://github.com/ArmorerLabs/Armorer/stargazers) [![Forks](https://img.shields.io/github/forks/ArmorerLabs/Armorer?style=flat-square&color=blue)](https://github.com/ArmorerLabs/Armorer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer?style=flat-square&color=yellow)](https://github.com/ArmorerLabs/Armorer/stargazers) [![Forks](https://img.shields.io/github/forks/ArmorerLabs/Armorer?style=flat-square&color=blue)](https://github.com/ArmorerLabs/Armorer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | hackernews |
 
@@ -35,7 +35,7 @@ Show HN: Armorer — это открытый проект, представл�
 
 ### 中文
 
-Show HN: Armorer – A secure local control plane to sandbox AI agents in Docker：Show HN: Armorer – A secure local control plane to sandbox AI agents in Docker helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Show HN: Armorer – A secure local control plane to sandbox AI agents in Docker：Show HN: Armorer – A secure local control plane to sandbox AI agents in Docker helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Show HN: Armorer – A secure local control plane to sandbox AI agents in Docker
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ Show HN: Armorer – A secure local control plane to sandbox AI agents in Docker
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 26/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 50/100 |
+| production | 41/100 |
+| outlook | 36/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 80/100 |
 

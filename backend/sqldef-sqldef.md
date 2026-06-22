@@ -1,6 +1,6 @@
 # sqldef/sqldef
 
-[![Stars](https://img.shields.io/github/stars/sqldef/sqldef?style=flat-square&color=yellow)](https://github.com/sqldef/sqldef/stargazers) [![Forks](https://img.shields.io/github/forks/sqldef/sqldef?style=flat-square&color=blue)](https://github.com/sqldef/sqldef/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sqldef/sqldef?style=flat-square&color=yellow)](https://github.com/sqldef/sqldef/stargazers) [![Forks](https://img.shields.io/github/forks/sqldef/sqldef?style=flat-square&color=blue)](https://github.com/sqldef/sqldef/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 226 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sqldef/sqldef：sqldef/sqldef helps teams reuse service infrastructure instead o
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 59/100 |
+| outlook | 60/100 |
 | adoption | 70/100 |
 | stars | 74/100 |
 | forks | 59/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

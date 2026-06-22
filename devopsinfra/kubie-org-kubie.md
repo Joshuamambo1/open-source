@@ -1,6 +1,6 @@
 # kubie-org/kubie
 
-[![Stars](https://img.shields.io/github/stars/kubie-org/kubie?style=flat-square&color=yellow)](https://github.com/kubie-org/kubie/stargazers) [![Forks](https://img.shields.io/github/forks/kubie-org/kubie?style=flat-square&color=blue)](https://github.com/kubie-org/kubie/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubie-org/kubie?style=flat-square&color=yellow)](https://github.com/kubie-org/kubie/stargazers) [![Forks](https://img.shields.io/github/forks/kubie-org/kubie?style=flat-square&color=blue)](https://github.com/kubie-org/kubie/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A more powerful alternative to kubectx and kubens
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kubie-org/kubie：kubie-org/kubie helps make deployment and operations more repe
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 54/100 |
 | adoption | 67/100 |
 | stars | 72/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

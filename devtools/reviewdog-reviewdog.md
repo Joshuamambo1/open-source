@@ -1,6 +1,6 @@
 # reviewdog/reviewdog
 
-[![Stars](https://img.shields.io/github/stars/reviewdog/reviewdog?style=flat-square&color=yellow)](https://github.com/reviewdog/reviewdog/stargazers) [![Forks](https://img.shields.io/github/forks/reviewdog/reviewdog?style=flat-square&color=blue)](https://github.com/reviewdog/reviewdog/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reviewdog/reviewdog?style=flat-square&color=yellow)](https://github.com/reviewdog/reviewdog/stargazers) [![Forks](https://img.shields.io/github/forks/reviewdog/reviewdog?style=flat-square&color=blue)](https://github.com/reviewdog/reviewdog/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.3k |
 | 🍴 **Forks** | 485 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Reviewdog — это открытый инструмент автоматиз�
 
 ### 中文
 
-reviewdog/reviewdog：reviewdog/reviewdog helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+reviewdog/reviewdog：reviewdog/reviewdog helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ reviewdog/reviewdog：reviewdog/reviewdog helps engineers save time in daily dev
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ reviewdog/reviewdog：reviewdog/reviewdog helps engineers save time in daily dev
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 86/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 80/100 |
 | stars | 84/100 |
 | forks | 67/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

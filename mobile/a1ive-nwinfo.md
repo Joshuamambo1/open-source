@@ -1,6 +1,6 @@
 # a1ive/nwinfo
 
-[![Stars](https://img.shields.io/github/stars/a1ive/nwinfo?style=flat-square&color=yellow)](https://github.com/a1ive/nwinfo/stargazers) [![Forks](https://img.shields.io/github/forks/a1ive/nwinfo?style=flat-square&color=blue)](https://github.com/a1ive/nwinfo/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/a1ive/nwinfo?style=flat-square&color=yellow)](https://github.com/a1ive/nwinfo/stargazers) [![Forks](https://img.shields.io/github/forks/a1ive/nwinfo?style=flat-square&color=blue)](https://github.com/a1ive/nwinfo/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Hardware information utility for Windows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 546 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ a1ive/nwinfo：a1ive/nwinfo may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 53/100 |
+| outlook | 55/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

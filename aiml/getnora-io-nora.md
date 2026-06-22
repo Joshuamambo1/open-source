@@ -1,6 +1,6 @@
 # getnora-io/nora
 
-[![Stars](https://img.shields.io/github/stars/getnora-io/nora?style=flat-square&color=yellow)](https://github.com/getnora-io/nora/stargazers) [![Forks](https://img.shields.io/github/forks/getnora-io/nora?style=flat-square&color=blue)](https://github.com/getnora-io/nora/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getnora-io/nora?style=flat-square&color=yellow)](https://github.com/getnora-io/nora/stargazers) [![Forks](https://img.shields.io/github/forks/getnora-io/nora?style=flat-square&color=blue)](https://github.com/getnora-io/nora/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight multi-format artifact registry. 13 formats: Docker, Maven, npm, PyPI, Cargo, Go, RubyGems, Terraform, NuGet, and more. Single binary, zero dependencies, <100MB RAM.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ getnora-io/nora：getnora-io/nora helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 56/100 |
+| outlook | 56/100 |
 | adoption | 41/100 |
 | stars | 46/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

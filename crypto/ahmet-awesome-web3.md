@@ -1,6 +1,6 @@
 # ahmet/awesome-web3
 
-[![Stars](https://img.shields.io/github/stars/ahmet/awesome-web3?style=flat-square&color=yellow)](https://github.com/ahmet/awesome-web3/stargazers) [![Forks](https://img.shields.io/github/forks/ahmet/awesome-web3?style=flat-square&color=blue)](https://github.com/ahmet/awesome-web3/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ahmet/awesome-web3?style=flat-square&color=yellow)](https://github.com/ahmet/awesome-web3/stargazers) [![Forks](https://img.shields.io/github/forks/ahmet/awesome-web3?style=flat-square&color=blue)](https://github.com/ahmet/awesome-web3/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome Web3 resources, libraries, tools and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 856 |
 | 🍴 **Forks** | 221 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ahmet/awesome-web3：ahmet/awesome-web3 helps prototype or inspect blockchain wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 61/100 |
 | stars | 62/100 |
 | forks | 59/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

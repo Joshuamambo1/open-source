@@ -1,6 +1,6 @@
 # imazen/imageflow
 
-[![Stars](https://img.shields.io/github/stars/imazen/imageflow?style=flat-square&color=yellow)](https://github.com/imazen/imageflow/stargazers) [![Forks](https://img.shields.io/github/forks/imazen/imageflow?style=flat-square&color=blue)](https://github.com/imazen/imageflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imazen/imageflow?style=flat-square&color=yellow)](https://github.com/imazen/imageflow/stargazers) [![Forks](https://img.shields.io/github/forks/imazen/imageflow?style=flat-square&color=blue)](https://github.com/imazen/imageflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ imazen/imageflow：imazen/imageflow helps teams reuse service infrastructure ins
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 71/100 |
 | stars | 78/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

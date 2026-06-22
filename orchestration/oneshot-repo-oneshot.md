@@ -1,6 +1,6 @@
 # oneshot-repo/OneShot
 
-[![Stars](https://img.shields.io/github/stars/oneshot-repo/OneShot?style=flat-square&color=yellow)](https://github.com/oneshot-repo/OneShot/stargazers) [![Forks](https://img.shields.io/github/forks/oneshot-repo/OneShot?style=flat-square&color=blue)](https://github.com/oneshot-repo/OneShot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oneshot-repo/OneShot?style=flat-square&color=yellow)](https://github.com/oneshot-repo/OneShot/stargazers) [![Forks](https://img.shields.io/github/forks/oneshot-repo/OneShot?style=flat-square&color=blue)](https://github.com/oneshot-repo/OneShot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > One prompt. Full delivery.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ oneshot-repo/OneShot：oneshot-repo/OneShot helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 27/100 |
 | stars | 34/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

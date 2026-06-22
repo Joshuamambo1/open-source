@@ -1,6 +1,6 @@
 # unitystation/unitystation
 
-[![Stars](https://img.shields.io/github/stars/unitystation/unitystation?style=flat-square&color=yellow)](https://github.com/unitystation/unitystation/stargazers) [![Forks](https://img.shields.io/github/forks/unitystation/unitystation?style=flat-square&color=blue)](https://github.com/unitystation/unitystation/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unitystation/unitystation?style=flat-square&color=yellow)](https://github.com/unitystation/unitystation/stargazers) [![Forks](https://img.shields.io/github/forks/unitystation/unitystation?style=flat-square&color=blue)](https://github.com/unitystation/unitystation/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The original unitystation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 733 |
 | 🍴 **Forks** | 619 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ unitystation/unitystation：unitystation/unitystation may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 63/100 |
 | stars | 61/100 |
 | forks | 70/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

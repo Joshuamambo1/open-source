@@ -1,6 +1,6 @@
 # vim/vim-win32-installer
 
-[![Stars](https://img.shields.io/github/stars/vim/vim-win32-installer?style=flat-square&color=yellow)](https://github.com/vim/vim-win32-installer/stargazers) [![Forks](https://img.shields.io/github/forks/vim/vim-win32-installer?style=flat-square&color=blue)](https://github.com/vim/vim-win32-installer/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vim/vim-win32-installer?style=flat-square&color=yellow)](https://github.com/vim/vim-win32-installer/stargazers) [![Forks](https://img.shields.io/github/forks/vim/vim-win32-installer?style=flat-square&color=blue)](https://github.com/vim/vim-win32-installer/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Vim Win32 Installer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | Batchfile |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ vim/vim-win32-installer：vim/vim-win32-installer may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 68/100 |
 | stars | 71/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

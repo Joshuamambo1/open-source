@@ -1,6 +1,6 @@
 # rapidsai/raft
 
-[![Stars](https://img.shields.io/github/stars/rapidsai/raft?style=flat-square&color=yellow)](https://github.com/rapidsai/raft/stargazers) [![Forks](https://img.shields.io/github/forks/rapidsai/raft?style=flat-square&color=blue)](https://github.com/rapidsai/raft/network) [![Language](https://img.shields.io/badge/lang-Cuda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rapidsai/raft?style=flat-square&color=yellow)](https://github.com/rapidsai/raft/stargazers) [![Forks](https://img.shields.io/github/forks/rapidsai/raft?style=flat-square&color=blue)](https://github.com/rapidsai/raft/network) [![Language](https://img.shields.io/badge/lang-Cuda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 231 |
 | 💻 **Language** | Cuda |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rapidsai/raft：rapidsai/raft helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 60/100 |
+| outlook | 61/100 |
 | adoption | 63/100 |
 | stars | 64/100 |
 | forks | 59/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

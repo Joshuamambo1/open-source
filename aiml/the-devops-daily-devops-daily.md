@@ -1,6 +1,6 @@
 # The-DevOps-Daily/devops-daily
 
-[![Stars](https://img.shields.io/github/stars/The-DevOps-Daily/devops-daily?style=flat-square&color=yellow)](https://github.com/The-DevOps-Daily/devops-daily/stargazers) [![Forks](https://img.shields.io/github/forks/The-DevOps-Daily/devops-daily?style=flat-square&color=blue)](https://github.com/The-DevOps-Daily/devops-daily/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/The-DevOps-Daily/devops-daily?style=flat-square&color=yellow)](https://github.com/The-DevOps-Daily/devops-daily/stargazers) [![Forks](https://img.shields.io/github/forks/The-DevOps-Daily/devops-daily?style=flat-square&color=blue)](https://github.com/The-DevOps-Daily/devops-daily/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The latest news, tutorials, and guides for DevOps professionals.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 385 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The-DevOps-Daily/devops-daily — это открытый репозитори
 
 ### 中文
 
-The-DevOps-Daily/devops-daily：The-DevOps-Daily/devops-daily helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+The-DevOps-Daily/devops-daily：The-DevOps-Daily/devops-daily helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ The-DevOps-Daily/devops-daily：The-DevOps-Daily/devops-daily helps add AI capab
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ The-DevOps-Daily/devops-daily：The-DevOps-Daily/devops-daily helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 78/100 |
-| production | 75/100 |
-| outlook | 71/100 |
+| production | 62/100 |
+| outlook | 57/100 |
 | adoption | 65/100 |
 | stars | 64/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

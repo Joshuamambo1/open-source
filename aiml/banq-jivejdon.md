@@ -1,6 +1,6 @@
 # banq/jivejdon
 
-[![Stars](https://img.shields.io/github/stars/banq/jivejdon?style=flat-square&color=yellow)](https://github.com/banq/jivejdon/stargazers) [![Forks](https://img.shields.io/github/forks/banq/jivejdon?style=flat-square&color=blue)](https://github.com/banq/jivejdon/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/banq/jivejdon?style=flat-square&color=yellow)](https://github.com/banq/jivejdon/stargazers) [![Forks](https://img.shields.io/github/forks/banq/jivejdon?style=flat-square&color=blue)](https://github.com/banq/jivejdon/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Jivejdon is a chain notebook with DDD/CQRS/Clean architecture
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 587 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ banq/jivejdon：banq/jivejdon helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 58/100 |
 | stars | 59/100 |
 | forks | 55/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

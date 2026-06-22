@@ -1,6 +1,6 @@
 # yzhao062/pyod
 
-[![Stars](https://img.shields.io/github/stars/yzhao062/pyod?style=flat-square&color=yellow)](https://github.com/yzhao062/pyod/stargazers) [![Forks](https://img.shields.io/github/forks/yzhao062/pyod?style=flat-square&color=blue)](https://github.com/yzhao062/pyod/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yzhao062/pyod?style=flat-square&color=yellow)](https://github.com/yzhao062/pyod/stargazers) [![Forks](https://img.shields.io/github/forks/yzhao062/pyod?style=flat-square&color=blue)](https://github.com/yzhao062/pyod/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A Python library for anomaly detection across tabular, time series, graph, text, and image data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ yzhao062/pyod：yzhao062/pyod helps turn isolated prompts and tools into repeata
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 88/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 84/100 |
+| production | 61/100 |
+| outlook | 70/100 |
 | adoption | 83/100 |
 | stars | 85/100 |
 | forks | 79/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # SubtitleEdit/subtitleedit
 
-[![Stars](https://img.shields.io/github/stars/SubtitleEdit/subtitleedit?style=flat-square&color=yellow)](https://github.com/SubtitleEdit/subtitleedit/stargazers) [![Forks](https://img.shields.io/github/forks/SubtitleEdit/subtitleedit?style=flat-square&color=blue)](https://github.com/SubtitleEdit/subtitleedit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SubtitleEdit/subtitleedit?style=flat-square&color=yellow)](https://github.com/SubtitleEdit/subtitleedit/stargazers) [![Forks](https://img.shields.io/github/forks/SubtitleEdit/subtitleedit?style=flat-square&color=blue)](https://github.com/SubtitleEdit/subtitleedit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > the subtitle editor :)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ SubtitleEdit/subtitleedit：SubtitleEdit/subtitleedit may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 68/100 |
+| production | 54/100 |
+| outlook | 54/100 |
 | adoption | 84/100 |
 | stars | 87/100 |
 | forks | 77/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

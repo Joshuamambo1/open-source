@@ -1,6 +1,6 @@
 # David-OConnor/molchanica
 
-[![Stars](https://img.shields.io/github/stars/David-OConnor/molchanica?style=flat-square&color=yellow)](https://github.com/David-OConnor/molchanica/stargazers) [![Forks](https://img.shields.io/github/forks/David-OConnor/molchanica?style=flat-square&color=blue)](https://github.com/David-OConnor/molchanica/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/David-OConnor/molchanica?style=flat-square&color=yellow)](https://github.com/David-OConnor/molchanica/stargazers) [![Forks](https://img.shields.io/github/forks/David-OConnor/molchanica?style=flat-square&color=blue)](https://github.com/David-OConnor/molchanica/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Protein and molecule viewer, editor, simulator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ David‑OConnor/molchanica is an open‑source web application for visualizing, 
 
 ### 中文
 
-David-OConnor/molchanica：David-OConnor/molchanica may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+David-OConnor/molchanica：David-OConnor/molchanica may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ David-OConnor/molchanica：David-OConnor/molchanica may be useful when its READM
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ David-OConnor/molchanica：David-OConnor/molchanica may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 36/100 |
 | stars | 46/100 |
 | forks | 12/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Pawdroid/Free-servers
 
-[![Stars](https://img.shields.io/github/stars/Pawdroid/Free-servers?style=flat-square&color=yellow)](https://github.com/Pawdroid/Free-servers/stargazers) [![Forks](https://img.shields.io/github/forks/Pawdroid/Free-servers?style=flat-square&color=blue)](https://github.com/Pawdroid/Free-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pawdroid/Free-servers?style=flat-square&color=yellow)](https://github.com/Pawdroid/Free-servers/stargazers) [![Forks](https://img.shields.io/github/forks/Pawdroid/Free-servers?style=flat-square&color=blue)](https://github.com/Pawdroid/Free-servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node availability, completely free. Free clash subscription address, free ss/v2ray/trojan node.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.3k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Payments · AI/ML · Backend
 
 ### English
 
-Pawdroid/Free-servers: Pawdroid/Free-servers helps integrate monetization, billing, or PSP flows faster.. Use it for integrate billing or checkout; evaluate PSP flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Pawdroid/Free-servers: Pawdroid/Free-servers helps integrate monetization, billing, or PSP flows faster.. Use it for integrate billing or checkout; evaluate PSP flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Pawdroid/Free-servers: open-source проект в категориях Payments, AI/ML, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Pawdroid/Free-servers: open-source проект в категориях Payments, AI/ML, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Pawdroid/Free-servers：Pawdroid/Free-servers helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Pawdroid/Free-servers：Pawdroid/Free-servers helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Pawdroid/Free-servers：Pawdroid/Free-servers helps integrate monetization, bill
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ Pawdroid/Free-servers：Pawdroid/Free-servers helps integrate monetization, bill
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 89/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 86/100 |
 | stars | 90/100 |
 | forks | 76/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

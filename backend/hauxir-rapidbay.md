@@ -1,6 +1,6 @@
 # hauxir/rapidbay
 
-[![Stars](https://img.shields.io/github/stars/hauxir/rapidbay?style=flat-square&color=yellow)](https://github.com/hauxir/rapidbay/stargazers) [![Forks](https://img.shields.io/github/forks/hauxir/rapidbay?style=flat-square&color=blue)](https://github.com/hauxir/rapidbay/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hauxir/rapidbay?style=flat-square&color=yellow)](https://github.com/hauxir/rapidbay/stargazers) [![Forks](https://img.shields.io/github/forks/hauxir/rapidbay?style=flat-square&color=blue)](https://github.com/hauxir/rapidbay/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 830 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hauxir/rapidbay：hauxir/rapidbay helps teams reuse service infrastructure inste
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 77/100 |
+| production | 59/100 |
+| outlook | 63/100 |
 | adoption | 57/100 |
 | stars | 62/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

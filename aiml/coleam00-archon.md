@@ -1,6 +1,6 @@
 # coleam00/Archon
 
-[![Stars](https://img.shields.io/github/stars/coleam00/Archon?style=flat-square&color=yellow)](https://github.com/coleam00/Archon/stargazers) [![Forks](https://img.shields.io/github/forks/coleam00/Archon?style=flat-square&color=blue)](https://github.com/coleam00/Archon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coleam00/Archon?style=flat-square&color=yellow)](https://github.com/coleam00/Archon/stargazers) [![Forks](https://img.shields.io/github/forks/coleam00/Archon?style=flat-square&color=blue)](https://github.com/coleam00/Archon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · DevTools
 
 ### English
 
-coleam00/Archon: coleam00/Archon helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+coleam00/Archon: coleam00/Archon helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-coleam00/Archon: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+coleam00/Archon: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-coleam00/Archon：coleam00/Archon helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+coleam00/Archon：coleam00/Archon helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ coleam00/Archon：coleam00/Archon helps add AI capability without starting from 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ coleam00/Archon：coleam00/Archon helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 91/100 |
+| quality | 81/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 91/100 |
+| production | 65/100 |
+| outlook | 77/100 |
 | adoption | 91/100 |
 | stars | 92/100 |
 | forks | 88/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

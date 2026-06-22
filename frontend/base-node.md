@@ -1,6 +1,6 @@
 # base/node
 
-[![Stars](https://img.shields.io/github/stars/base/node?style=flat-square&color=yellow)](https://github.com/base/node/stargazers) [![Forks](https://img.shields.io/github/forks/base/node?style=flat-square&color=blue)](https://github.com/base/node/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/base/node?style=flat-square&color=yellow)](https://github.com/base/node/stargazers) [![Forks](https://img.shields.io/github/forks/base/node?style=flat-square&color=blue)](https://github.com/base/node/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Everything required to run your own Base node
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 68.6k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ base/node：base/node helps ship user-facing interfaces with less custom UI work
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 58/100 |
+| outlook | 57/100 |
 | adoption | 97/100 |
 | stars | 100/100 |
 | forks | 88/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

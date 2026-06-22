@@ -1,6 +1,6 @@
 # ChrisTitusTech/ChrisTitusTech
 
-[![Stars](https://img.shields.io/github/stars/ChrisTitusTech/ChrisTitusTech?style=flat-square&color=yellow)](https://github.com/ChrisTitusTech/ChrisTitusTech/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisTitusTech/ChrisTitusTech?style=flat-square&color=blue)](https://github.com/ChrisTitusTech/ChrisTitusTech/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChrisTitusTech/ChrisTitusTech?style=flat-square&color=yellow)](https://github.com/ChrisTitusTech/ChrisTitusTech/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisTitusTech/ChrisTitusTech?style=flat-square&color=blue)](https://github.com/ChrisTitusTech/ChrisTitusTech/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ChrisTitusTech — это открытый репозиторий, в кото
 
 ### 中文
 
-ChrisTitusTech/ChrisTitusTech：ChrisTitusTech/ChrisTitusTech may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ChrisTitusTech/ChrisTitusTech：ChrisTitusTech/ChrisTitusTech may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ ChrisTitusTech/ChrisTitusTech：ChrisTitusTech/ChrisTitusTech may be useful when
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,14 +62,14 @@ ChrisTitusTech/ChrisTitusTech：ChrisTitusTech/ChrisTitusTech may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 18/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 47/100 |
+| outlook | 46/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 42/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

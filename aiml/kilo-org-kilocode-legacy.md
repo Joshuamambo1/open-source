@@ -1,6 +1,6 @@
 # Kilo-Org/kilocode-legacy
 
-[![Stars](https://img.shields.io/github/stars/Kilo-Org/kilocode-legacy?style=flat-square&color=yellow)](https://github.com/Kilo-Org/kilocode-legacy/stargazers) [![Forks](https://img.shields.io/github/forks/Kilo-Org/kilocode-legacy?style=flat-square&color=blue)](https://github.com/Kilo-Org/kilocode-legacy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kilo-Org/kilocode-legacy?style=flat-square&color=yellow)](https://github.com/Kilo-Org/kilocode-legacy/stargazers) [![Forks](https://img.shields.io/github/forks/Kilo-Org/kilocode-legacy?style=flat-square&color=blue)](https://github.com/Kilo-Org/kilocode-legacy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Kilo-Org/kilocode-legacy：Kilo-Org/kilocode-legacy helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 35/100 |
 | stars | 34/100 |
 | forks | 39/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

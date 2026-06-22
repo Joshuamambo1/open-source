@@ -1,6 +1,6 @@
 # containers/aardvark-dns
 
-[![Stars](https://img.shields.io/github/stars/containers/aardvark-dns?style=flat-square&color=yellow)](https://github.com/containers/aardvark-dns/stargazers) [![Forks](https://img.shields.io/github/forks/containers/aardvark-dns?style=flat-square&color=blue)](https://github.com/containers/aardvark-dns/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/containers/aardvark-dns?style=flat-square&color=yellow)](https://github.com/containers/aardvark-dns/stargazers) [![Forks](https://img.shields.io/github/forks/containers/aardvark-dns?style=flat-square&color=blue)](https://github.com/containers/aardvark-dns/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Authoritative dns server for A/AAAA container records. Forwards other request to host's /etc/resolv.conf
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 264 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ containers/aardvark-dns：containers/aardvark-dns helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 49/100 |
 | stars | 52/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

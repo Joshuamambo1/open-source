@@ -1,6 +1,6 @@
 # theiskaa/markdown2pdf
 
-[![Stars](https://img.shields.io/github/stars/theiskaa/markdown2pdf?style=flat-square&color=yellow)](https://github.com/theiskaa/markdown2pdf/stargazers) [![Forks](https://img.shields.io/github/forks/theiskaa/markdown2pdf?style=flat-square&color=blue)](https://github.com/theiskaa/markdown2pdf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theiskaa/markdown2pdf?style=flat-square&color=yellow)](https://github.com/theiskaa/markdown2pdf/stargazers) [![Forks](https://img.shields.io/github/forks/theiskaa/markdown2pdf?style=flat-square&color=blue)](https://github.com/theiskaa/markdown2pdf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Markdown to pdf transpiler written in pure Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 215 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ theiskaa/markdown2pdf：theiskaa/markdown2pdf may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 44/100 |
 | stars | 50/100 |
 | forks | 31/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

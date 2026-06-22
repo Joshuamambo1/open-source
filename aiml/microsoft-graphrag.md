@@ -1,6 +1,6 @@
 # microsoft/graphrag
 
-[![Stars](https://img.shields.io/github/stars/microsoft/graphrag?style=flat-square&color=yellow)](https://github.com/microsoft/graphrag/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/graphrag?style=flat-square&color=blue)](https://github.com/microsoft/graphrag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/graphrag?style=flat-square&color=yellow)](https://github.com/microsoft/graphrag/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/graphrag?style=flat-square&color=blue)](https://github.com/microsoft/graphrag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A modular graph-based Retrieval-Augmented Generation (RAG) system
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32.8k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Microsoft GraphRAG is a modular, graph‑based Retrieval‑Augmented Generatio
 
 ### 中文
 
-microsoft/graphrag：microsoft/graphrag helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+microsoft/graphrag：microsoft/graphrag helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ microsoft/graphrag：microsoft/graphrag helps add AI capability without starting
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ microsoft/graphrag：microsoft/graphrag helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 90/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 82/100 |
+| production | 62/100 |
+| outlook | 68/100 |
 | adoption | 94/100 |
 | stars | 96/100 |
 | forks | 89/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

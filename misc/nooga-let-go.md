@@ -1,6 +1,6 @@
 # nooga/let-go
 
-[![Stars](https://img.shields.io/github/stars/nooga/let-go?style=flat-square&color=yellow)](https://github.com/nooga/let-go/stargazers) [![Forks](https://img.shields.io/github/forks/nooga/let-go?style=flat-square&color=blue)](https://github.com/nooga/let-go/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nooga/let-go?style=flat-square&color=yellow)](https://github.com/nooga/let-go/stargazers) [![Forks](https://img.shields.io/github/forks/nooga/let-go?style=flat-square&color=blue)](https://github.com/nooga/let-go/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | hackernews |
 
@@ -35,7 +35,7 @@ Show HN: I made a Clojure‑like language in Go, boots in 7ms — это о�
 
 ### 中文
 
-Show HN: I made a Clojure-like language in Go, boots in 7ms：Show HN: I made a Clojure-like language in Go, boots in 7ms may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Show HN: I made a Clojure-like language in Go, boots in 7ms：Show HN: I made a Clojure-like language in Go, boots in 7ms may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Show HN: I made a Clojure-like language in Go, boots in 7ms：Show HN: I made a 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -61,14 +61,14 @@ Show HN: I made a Clojure-like language in Go, boots in 7ms：Show HN: I made a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 26/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 47/100 |
+| production | 41/100 |
+| outlook | 33/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 25/100 |
 | sourceTrust | 80/100 |
 

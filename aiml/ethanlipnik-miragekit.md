@@ -1,6 +1,6 @@
 # EthanLipnik/MirageKit
 
-[![Stars](https://img.shields.io/github/stars/EthanLipnik/MirageKit?style=flat-square&color=yellow)](https://github.com/EthanLipnik/MirageKit/stargazers) [![Forks](https://img.shields.io/github/forks/EthanLipnik/MirageKit?style=flat-square&color=blue)](https://github.com/EthanLipnik/MirageKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EthanLipnik/MirageKit?style=flat-square&color=yellow)](https://github.com/EthanLipnik/MirageKit/stargazers) [![Forks](https://img.shields.io/github/forks/EthanLipnik/MirageKit?style=flat-square&color=blue)](https://github.com/EthanLipnik/MirageKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Peer to Peer screen sharing framework from macOS to iPadOS, visionOS, and macOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 576 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML
 
 ### English
 
-EthanLipnik/MirageKit: EthanLipnik/MirageKit helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+EthanLipnik/MirageKit: EthanLipnik/MirageKit helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-EthanLipnik/MirageKit: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+EthanLipnik/MirageKit: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-EthanLipnik/MirageKit：EthanLipnik/MirageKit helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+EthanLipnik/MirageKit：EthanLipnik/MirageKit helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ EthanLipnik/MirageKit：EthanLipnik/MirageKit helps add AI capability without st
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ EthanLipnik/MirageKit：EthanLipnik/MirageKit helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 66/100 |
+| production | 49/100 |
+| outlook | 52/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 43/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

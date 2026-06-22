@@ -1,6 +1,6 @@
 # AZeC4/TelegramGroup
 
-[![Stars](https://img.shields.io/github/stars/AZeC4/TelegramGroup?style=flat-square&color=yellow)](https://github.com/AZeC4/TelegramGroup/stargazers) [![Forks](https://img.shields.io/github/forks/AZeC4/TelegramGroup?style=flat-square&color=blue)](https://github.com/AZeC4/TelegramGroup/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AZeC4/TelegramGroup?style=flat-square&color=yellow)](https://github.com/AZeC4/TelegramGroup/stargazers) [![Forks](https://img.shields.io/github/forks/AZeC4/TelegramGroup?style=flat-square&color=blue)](https://github.com/AZeC4/TelegramGroup/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21.3k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ AZeC4/TelegramGroup：AZeC4/TelegramGroup helps teams reuse service infrastructu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 88/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 61/100 |
+| outlook | 66/100 |
 | adoption | 88/100 |
 | stars | 92/100 |
 | forks | 79/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

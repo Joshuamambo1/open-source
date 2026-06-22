@@ -1,6 +1,6 @@
 # nacerallahchemssy/agency-agents
 
-[![Stars](https://img.shields.io/github/stars/nacerallahchemssy/agency-agents?style=flat-square&color=yellow)](https://github.com/nacerallahchemssy/agency-agents/stargazers) [![Forks](https://img.shields.io/github/forks/nacerallahchemssy/agency-agents?style=flat-square&color=blue)](https://github.com/nacerallahchemssy/agency-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nacerallahchemssy/agency-agents?style=flat-square&color=yellow)](https://github.com/nacerallahchemssy/agency-agents/stargazers) [![Forks](https://img.shields.io/github/forks/nacerallahchemssy/agency-agents?style=flat-square&color=blue)](https://github.com/nacerallahchemssy/agency-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🎭 Discover 51 AI agents, each with unique expertise and personality, ready to enhance your workflow and deliver results tailored to your needs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ nacerallahchemssy/agency-agents：nacerallahchemssy/agency-agents helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 34/100 |
 | stars | 37/100 |
 | forks | 25/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

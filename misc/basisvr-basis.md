@@ -1,6 +1,6 @@
 # BasisVR/Basis
 
-[![Stars](https://img.shields.io/github/stars/BasisVR/Basis?style=flat-square&color=yellow)](https://github.com/BasisVR/Basis/stargazers) [![Forks](https://img.shields.io/github/forks/BasisVR/Basis?style=flat-square&color=blue)](https://github.com/BasisVR/Basis/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BasisVR/Basis?style=flat-square&color=yellow)](https://github.com/BasisVR/Basis/stargazers) [![Forks](https://img.shields.io/github/forks/BasisVR/Basis?style=flat-square&color=blue)](https://github.com/BasisVR/Basis/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Basis is an open-source social framework for VR and Desktop usage.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 432 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ BasisVR/Basis：BasisVR/Basis may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 55/100 |
 | stars | 56/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

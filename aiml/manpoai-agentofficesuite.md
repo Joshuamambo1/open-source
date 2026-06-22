@@ -1,6 +1,6 @@
 # manpoai/AgentOfficeSuite
 
-[![Stars](https://img.shields.io/github/stars/manpoai/AgentOfficeSuite?style=flat-square&color=yellow)](https://github.com/manpoai/AgentOfficeSuite/stargazers) [![Forks](https://img.shields.io/github/forks/manpoai/AgentOfficeSuite?style=flat-square&color=blue)](https://github.com/manpoai/AgentOfficeSuite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/manpoai/AgentOfficeSuite?style=flat-square&color=yellow)](https://github.com/manpoai/AgentOfficeSuite/stargazers) [![Forks](https://img.shields.io/github/forks/manpoai/AgentOfficeSuite?style=flat-square&color=blue)](https://github.com/manpoai/AgentOfficeSuite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > AOSE — An Office Suite Built for Agent Collaboration. Docs, tables, slides, flowcharts, canvas, and video — all editable by both humans and AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AOSE (AgentOfficeSuite) — это открытый офисный пакет,
 
 ### 中文
 
-manpoai/AgentOfficeSuite：manpoai/AgentOfficeSuite helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+manpoai/AgentOfficeSuite：manpoai/AgentOfficeSuite helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ manpoai/AgentOfficeSuite：manpoai/AgentOfficeSuite helps add AI capability with
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ manpoai/AgentOfficeSuite：manpoai/AgentOfficeSuite helps add AI capability with
 - updated 2026-05-10
 - primary language: TypeScript
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 42/100 |
 | stars | 44/100 |
 | forks | 36/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

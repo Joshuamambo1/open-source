@@ -1,6 +1,6 @@
 # Apra-Labs/apra-fleet
 
-[![Stars](https://img.shields.io/github/stars/Apra-Labs/apra-fleet?style=flat-square&color=yellow)](https://github.com/Apra-Labs/apra-fleet/stargazers) [![Forks](https://img.shields.io/github/forks/Apra-Labs/apra-fleet?style=flat-square&color=blue)](https://github.com/Apra-Labs/apra-fleet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Apra-Labs/apra-fleet?style=flat-square&color=yellow)](https://github.com/Apra-Labs/apra-fleet/stargazers) [![Forks](https://img.shields.io/github/forks/Apra-Labs/apra-fleet?style=flat-square&color=blue)](https://github.com/Apra-Labs/apra-fleet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > AI agents that write code, review each other's work, and coordinate across your machines
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Apra-Labs/apra-fleet：Apra-Labs/apra-fleet helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 64/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 76/100 |
+| production | 55/100 |
+| outlook | 62/100 |
 | adoption | 31/100 |
 | stars | 34/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

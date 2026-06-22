@@ -1,6 +1,6 @@
 # AztecProtocol/aztec-packages
 
-[![Stars](https://img.shields.io/github/stars/AztecProtocol/aztec-packages?style=flat-square&color=yellow)](https://github.com/AztecProtocol/aztec-packages/stargazers) [![Forks](https://img.shields.io/github/forks/AztecProtocol/aztec-packages?style=flat-square&color=blue)](https://github.com/AztecProtocol/aztec-packages/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AztecProtocol/aztec-packages?style=flat-square&color=yellow)](https://github.com/AztecProtocol/aztec-packages/stargazers) [![Forks](https://img.shields.io/github/forks/AztecProtocol/aztec-packages?style=flat-square&color=blue)](https://github.com/AztecProtocol/aztec-packages/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 436 |
 | 🍴 **Forks** | 594 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-AztecProtocol/aztec-packages: AztecProtocol/aztec-packages may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AztecProtocol/aztec-packages: AztecProtocol/aztec-packages may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-AztecProtocol/aztec-packages: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+AztecProtocol/aztec-packages: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-AztecProtocol/aztec-packages：AztecProtocol/aztec-packages may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AztecProtocol/aztec-packages：AztecProtocol/aztec-packages may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ AztecProtocol/aztec-packages：AztecProtocol/aztec-packages may be useful when i
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ AztecProtocol/aztec-packages：AztecProtocol/aztec-packages may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 18/100 |
-| production | 61/100 |
-| outlook | 61/100 |
+| production | 48/100 |
+| outlook | 47/100 |
 | adoption | 60/100 |
 | stars | 56/100 |
 | forks | 69/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

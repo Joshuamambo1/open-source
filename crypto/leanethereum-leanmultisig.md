@@ -1,6 +1,6 @@
 # leanEthereum/leanMultisig
 
-[![Stars](https://img.shields.io/github/stars/leanEthereum/leanMultisig?style=flat-square&color=yellow)](https://github.com/leanEthereum/leanMultisig/stargazers) [![Forks](https://img.shields.io/github/forks/leanEthereum/leanMultisig?style=flat-square&color=blue)](https://github.com/leanEthereum/leanMultisig/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leanEthereum/leanMultisig?style=flat-square&color=yellow)](https://github.com/leanEthereum/leanMultisig/stargazers) [![Forks](https://img.shields.io/github/forks/leanEthereum/leanMultisig?style=flat-square&color=blue)](https://github.com/leanEthereum/leanMultisig/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal zkVM, targeting aggregation of hash-based signatures.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ leanEthereum/leanMultisig — это минималистичный zkVM, ра
 
 ### 中文
 
-leanEthereum/leanMultisig：leanEthereum/leanMultisig helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+leanEthereum/leanMultisig：leanEthereum/leanMultisig helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ leanEthereum/leanMultisig：leanEthereum/leanMultisig helps prototype or inspect
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ leanEthereum/leanMultisig：leanEthereum/leanMultisig helps prototype or inspect
 - updated 2026-05-09
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 44/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 57/100 |
+| production | 47/100 |
+| outlook | 43/100 |
 | adoption | 43/100 |
 | stars | 44/100 |
 | forks | 42/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

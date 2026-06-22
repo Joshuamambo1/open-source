@@ -1,6 +1,6 @@
 # AvengeMedia/DankMaterialShell
 
-[![Stars](https://img.shields.io/github/stars/AvengeMedia/DankMaterialShell?style=flat-square&color=yellow)](https://github.com/AvengeMedia/DankMaterialShell/stargazers) [![Forks](https://img.shields.io/github/forks/AvengeMedia/DankMaterialShell?style=flat-square&color=blue)](https://github.com/AvengeMedia/DankMaterialShell/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AvengeMedia/DankMaterialShell?style=flat-square&color=yellow)](https://github.com/AvengeMedia/DankMaterialShell/stargazers) [![Forks](https://img.shields.io/github/forks/AvengeMedia/DankMaterialShell?style=flat-square&color=blue)](https://github.com/AvengeMedia/DankMaterialShell/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 378 |
 | 💻 **Language** | QML |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AvengeMedia/DankMaterialShell：AvengeMedia/DankMaterialShell helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 60/100 |
+| outlook | 61/100 |
 | adoption | 76/100 |
 | stars | 81/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

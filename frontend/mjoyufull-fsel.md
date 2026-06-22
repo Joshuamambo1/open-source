@@ -1,6 +1,6 @@
 # Mjoyufull/fsel
 
-[![Stars](https://img.shields.io/github/stars/Mjoyufull/fsel?style=flat-square&color=yellow)](https://github.com/Mjoyufull/fsel/stargazers) [![Forks](https://img.shields.io/github/forks/Mjoyufull/fsel?style=flat-square&color=blue)](https://github.com/Mjoyufull/fsel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mjoyufull/fsel?style=flat-square&color=yellow)](https://github.com/Mjoyufull/fsel/stargazers) [![Forks](https://img.shields.io/github/forks/Mjoyufull/fsel?style=flat-square&color=blue)](https://github.com/Mjoyufull/fsel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Fast TUI app launcher for GNU/Linux and *BSD
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Mjoyufull/fsel：Mjoyufull/fsel helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 46/100 |
 | stars | 54/100 |
 | forks | 26/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

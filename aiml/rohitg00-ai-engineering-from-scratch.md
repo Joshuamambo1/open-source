@@ -1,6 +1,6 @@
 # rohitg00/ai-engineering-from-scratch
 
-[![Stars](https://img.shields.io/github/stars/rohitg00/ai-engineering-from-scratch?style=flat-square&color=yellow)](https://github.com/rohitg00/ai-engineering-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/rohitg00/ai-engineering-from-scratch?style=flat-square&color=blue)](https://github.com/rohitg00/ai-engineering-from-scratch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rohitg00/ai-engineering-from-scratch?style=flat-square&color=yellow)](https://github.com/rohitg00/ai-engineering-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/rohitg00/ai-engineering-from-scratch?style=flat-square&color=blue)](https://github.com/rohitg00/ai-engineering-from-scratch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Learn it. Build it. Ship it for others.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.5k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ The *ai-engineering-from-scratch* repository by rohitg00 is a hands‑on learnin
 
 ### 中文
 
-rohitg00/ai-engineering-from-scratch：rohitg00/ai-engineering-from-scratch helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rohitg00/ai-engineering-from-scratch：rohitg00/ai-engineering-from-scratch helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ rohitg00/ai-engineering-from-scratch：rohitg00/ai-engineering-from-scratch help
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ rohitg00/ai-engineering-from-scratch：rohitg00/ai-engineering-from-scratch help
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 86/100 |
+| quality | 76/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 65/100 |
+| outlook | 69/100 |
 | adoption | 80/100 |
 | stars | 81/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

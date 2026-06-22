@@ -1,6 +1,6 @@
 # 1andrevich/Re-filter-lists
 
-[![Stars](https://img.shields.io/github/stars/1andrevich/Re-filter-lists?style=flat-square&color=yellow)](https://github.com/1andrevich/Re-filter-lists/stargazers) [![Forks](https://img.shields.io/github/forks/1andrevich/Re-filter-lists?style=flat-square&color=blue)](https://github.com/1andrevich/Re-filter-lists/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1andrevich/Re-filter-lists?style=flat-square&color=yellow)](https://github.com/1andrevich/Re-filter-lists/stargazers) [![Forks](https://img.shields.io/github/forks/1andrevich/Re-filter-lists?style=flat-square&color=blue)](https://github.com/1andrevich/Re-filter-lists/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Re:filter is (an attempt to create) an actual list of blocked domains and IPs in RU + popular and blocked for RU users
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ Re‑filter is an open‑source repository that compiles and maintains a curated
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 61/100 |
+| production | 52/100 |
+| outlook | 47/100 |
 | adoption | 59/100 |
 | stars | 65/100 |
 | forks | 42/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

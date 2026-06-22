@@ -1,6 +1,6 @@
 # macOS26/Agent
 
-[![Stars](https://img.shields.io/github/stars/macOS26/Agent?style=flat-square&color=yellow)](https://github.com/macOS26/Agent/stargazers) [![Forks](https://img.shields.io/github/forks/macOS26/Agent?style=flat-square&color=blue)](https://github.com/macOS26/Agent/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/macOS26/Agent?style=flat-square&color=yellow)](https://github.com/macOS26/Agent/stargazers) [![Forks](https://img.shields.io/github/forks/macOS26/Agent?style=flat-square&color=blue)](https://github.com/macOS26/Agent/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Any AI, replaces Claude Code, Cursor, OpenClaw. Over 18 LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps versions, manages git, automates Safari, use AppleScript, JS or Accessibility, extend Agent! w/ MCP Servers, run tasks from your iPhone via Messages.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 415 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ macOS26/Agent：macOS26/Agent helps turn isolated prompts and tools into repeata
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 81/100 |
+| production | 56/100 |
+| outlook | 67/100 |
 | adoption | 51/100 |
 | stars | 56/100 |
 | forks | 38/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

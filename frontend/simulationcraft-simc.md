@@ -1,6 +1,6 @@
 # simulationcraft/simc
 
-[![Stars](https://img.shields.io/github/stars/simulationcraft/simc?style=flat-square&color=yellow)](https://github.com/simulationcraft/simc/stargazers) [![Forks](https://img.shields.io/github/forks/simulationcraft/simc?style=flat-square&color=blue)](https://github.com/simulationcraft/simc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simulationcraft/simc?style=flat-square&color=yellow)](https://github.com/simulationcraft/simc/stargazers) [![Forks](https://img.shields.io/github/forks/simulationcraft/simc?style=flat-square&color=blue)](https://github.com/simulationcraft/simc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Simulationcraft engine/GUI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 762 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ simulationcraft/simc：simulationcraft/simc helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 69/100 |
 | stars | 68/100 |
 | forks | 72/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

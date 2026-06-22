@@ -1,6 +1,6 @@
 # Hiram-Wong/zyfun
 
-[![Stars](https://img.shields.io/github/stars/Hiram-Wong/zyfun?style=flat-square&color=yellow)](https://github.com/Hiram-Wong/zyfun/stargazers) [![Forks](https://img.shields.io/github/forks/Hiram-Wong/zyfun?style=flat-square&color=blue)](https://github.com/Hiram-Wong/zyfun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hiram-Wong/zyfun?style=flat-square&color=yellow)](https://github.com/Hiram-Wong/zyfun/stargazers) [![Forks](https://img.shields.io/github/forks/Hiram-Wong/zyfun?style=flat-square&color=blue)](https://github.com/Hiram-Wong/zyfun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 跨平台桌面端视频资源播放器,免费高颜值.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.4k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Hiram-Wong/zyfun：Hiram-Wong/zyfun helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 59/100 |
+| outlook | 59/100 |
 | adoption | 81/100 |
 | stars | 84/100 |
 | forks | 75/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Open-Less/openless
 
-[![Stars](https://img.shields.io/github/stars/Open-Less/openless?style=flat-square&color=yellow)](https://github.com/Open-Less/openless/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Less/openless?style=flat-square&color=blue)](https://github.com/Open-Less/openless/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Open-Less/openless?style=flat-square&color=yellow)](https://github.com/Open-Less/openless/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Less/openless?style=flat-square&color=blue)](https://github.com/Open-Less/openless/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Open-Less/openless：Open-Less/openless helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 72/100 |
+| production | 55/100 |
+| outlook | 58/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

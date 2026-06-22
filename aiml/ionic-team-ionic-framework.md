@@ -1,6 +1,6 @@
 # ionic-team/ionic-framework
 
-[![Stars](https://img.shields.io/github/stars/ionic-team/ionic-framework?style=flat-square&color=yellow)](https://github.com/ionic-team/ionic-framework/stargazers) [![Forks](https://img.shields.io/github/forks/ionic-team/ionic-framework?style=flat-square&color=blue)](https://github.com/ionic-team/ionic-framework/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ionic-team/ionic-framework?style=flat-square&color=yellow)](https://github.com/ionic-team/ionic-framework/stargazers) [![Forks](https://img.shields.io/github/forks/ionic-team/ionic-framework?style=flat-square&color=blue)](https://github.com/ionic-team/ionic-framework/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 52.5k |
 | 🍴 **Forks** | 13.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · Mobile
 
 ### English
 
-ionic-team/ionic-framework: ionic-team/ionic-framework helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ionic-team/ionic-framework: ionic-team/ionic-framework helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-ionic-team/ionic-framework: open-source проект в категориях AI/ML, Frontend, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+ionic-team/ionic-framework: open-source проект в категориях AI/ML, Frontend, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-ionic-team/ionic-framework：ionic-team/ionic-framework helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ionic-team/ionic-framework：ionic-team/ionic-framework helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ionic-team/ionic-framework：ionic-team/ionic-framework helps add AI capability 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ionic-team/ionic-framework：ionic-team/ionic-framework helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 95/100 |
+| quality | 85/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 88/100 |
+| production | 64/100 |
+| outlook | 74/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # roosterkid/openproxylist
 
-[![Stars](https://img.shields.io/github/stars/roosterkid/openproxylist?style=flat-square&color=yellow)](https://github.com/roosterkid/openproxylist/stargazers) [![Forks](https://img.shields.io/github/forks/roosterkid/openproxylist?style=flat-square&color=blue)](https://github.com/roosterkid/openproxylist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roosterkid/openproxylist?style=flat-square&color=yellow)](https://github.com/roosterkid/openproxylist/stargazers) [![Forks](https://img.shields.io/github/forks/roosterkid/openproxylist?style=flat-square&color=blue)](https://github.com/roosterkid/openproxylist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > List of Free HTTPS, SOCKS4, SOCKS5 & V2Ray Proxy (Hourly Updates!)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 822 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ roosterkid/openproxylist：roosterkid/openproxylist helps teams reuse service in
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

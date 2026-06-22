@@ -1,6 +1,6 @@
 # frank890417/taiwan-md
 
-[![Stars](https://img.shields.io/github/stars/frank890417/taiwan-md?style=flat-square&color=yellow)](https://github.com/frank890417/taiwan-md/stargazers) [![Forks](https://img.shields.io/github/forks/frank890417/taiwan-md?style=flat-square&color=blue)](https://github.com/frank890417/taiwan-md/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frank890417/taiwan-md?style=flat-square&color=yellow)](https://github.com/frank890417/taiwan-md/stargazers) [![Forks](https://img.shields.io/github/forks/frank890417/taiwan-md?style=flat-square&color=blue)](https://github.com/frank890417/taiwan-md/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 974 |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ frank890417/taiwan-md is an open‑source, AI‑friendly knowledge base that com
 
 ### 中文
 
-frank890417/taiwan-md：frank890417/taiwan-md helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+frank890417/taiwan-md：frank890417/taiwan-md helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ frank890417/taiwan-md：frank890417/taiwan-md helps add AI capability without st
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ frank890417/taiwan-md：frank890417/taiwan-md helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 61/100 |
 | stars | 64/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

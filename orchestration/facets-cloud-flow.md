@@ -1,6 +1,6 @@
 # Facets-cloud/flow
 
-[![Stars](https://img.shields.io/github/stars/Facets-cloud/flow?style=flat-square&color=yellow)](https://github.com/Facets-cloud/flow/stargazers) [![Forks](https://img.shields.io/github/forks/Facets-cloud/flow?style=flat-square&color=blue)](https://github.com/Facets-cloud/flow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Facets-cloud/flow?style=flat-square&color=yellow)](https://github.com/Facets-cloud/flow/stargazers) [![Forks](https://img.shields.io/github/forks/Facets-cloud/flow?style=flat-square&color=blue)](https://github.com/Facets-cloud/flow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Turn isolated Claude sessions into a continuous working relationship
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Facets-cloud/flow：Facets-cloud/flow helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 37/100 |
 | stars | 44/100 |
 | forks | 19/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

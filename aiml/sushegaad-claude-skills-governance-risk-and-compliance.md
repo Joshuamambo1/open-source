@@ -1,6 +1,6 @@
 # Sushegaad/Claude-Skills-Governance-Risk-and-Compliance
 
-[![Stars](https://img.shields.io/github/stars/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance?style=flat-square&color=yellow)](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance/stargazers) [![Forks](https://img.shields.io/github/forks/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance?style=flat-square&color=blue)](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance?style=flat-square&color=yellow)](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance/stargazers) [![Forks](https://img.shields.io/github/forks/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance?style=flat-square&color=blue)](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Skills for Governance, Risk, & Compliance (GRC): Expert-level compliance guidance for ISO 27001, SOC 2, FedRAMP, GDPR, HIPAA, NIST CSF, PCI DSS, EU AI Act, ISO 42001, ISO 27701, DORA, CSRD, India's DPDPA, CMMC 2.0, NIST AI Risk, SWIFT, Australia's ISM, EU NIS2, and CCPA/CPRA. Benchmark 96% (with skills) vs 82% (without skills).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 394 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Sushegaad/Claude-Skills-Governance-Risk-and-Compliance：Sushegaad/Claude-Skills
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 70/100 |
+| production | 56/100 |
+| outlook | 56/100 |
 | adoption | 53/100 |
 | stars | 55/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

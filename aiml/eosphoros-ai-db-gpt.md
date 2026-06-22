@@ -1,6 +1,6 @@
 # eosphoros-ai/DB-GPT
 
-[![Stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=flat-square&color=yellow)](https://github.com/eosphoros-ai/DB-GPT/stargazers) [![Forks](https://img.shields.io/github/forks/eosphoros-ai/DB-GPT?style=flat-square&color=blue)](https://github.com/eosphoros-ai/DB-GPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=flat-square&color=yellow)](https://github.com/eosphoros-ai/DB-GPT/stargazers) [![Forks](https://img.shields.io/github/forks/eosphoros-ai/DB-GPT?style=flat-square&color=blue)](https://github.com/eosphoros-ai/DB-GPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > open-source agentic AI data assistant for the next generation of AI + Data products.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.7k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ eosphoros‑ai/DB‑GPT is an open‑source, agentic AI data assistant designed 
 
 ### 中文
 
-eosphoros-ai/DB-GPT：eosphoros-ai/DB-GPT helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+eosphoros-ai/DB-GPT：eosphoros-ai/DB-GPT helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ eosphoros-ai/DB-GPT：eosphoros-ai/DB-GPT helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ eosphoros-ai/DB-GPT：eosphoros-ai/DB-GPT helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 90/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 85/100 |
+| production | 62/100 |
+| outlook | 71/100 |
 | adoption | 89/100 |
 | stars | 91/100 |
 | forks | 86/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

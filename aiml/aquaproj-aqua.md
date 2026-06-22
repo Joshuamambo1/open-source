@@ -1,6 +1,6 @@
 # aquaproj/aqua
 
-[![Stars](https://img.shields.io/github/stars/aquaproj/aqua?style=flat-square&color=yellow)](https://github.com/aquaproj/aqua/stargazers) [![Forks](https://img.shields.io/github/forks/aquaproj/aqua?style=flat-square&color=blue)](https://github.com/aquaproj/aqua/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aquaproj/aqua?style=flat-square&color=yellow)](https://github.com/aquaproj/aqua/stargazers) [![Forks](https://img.shields.io/github/forks/aquaproj/aqua?style=flat-square&color=blue)](https://github.com/aquaproj/aqua/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ aquaproj/aqua：aquaproj/aqua helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 57/100 |
+| outlook | 55/100 |
 | adoption | 62/100 |
 | stars | 68/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

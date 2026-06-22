@@ -1,6 +1,6 @@
 # googleapis/java-genai
 
-[![Stars](https://img.shields.io/github/stars/googleapis/java-genai?style=flat-square&color=yellow)](https://github.com/googleapis/java-genai/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/java-genai?style=flat-square&color=blue)](https://github.com/googleapis/java-genai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/java-genai?style=flat-square&color=yellow)](https://github.com/googleapis/java-genai/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/java-genai?style=flat-square&color=blue)](https://github.com/googleapis/java-genai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Google Gen AI Java SDK provides an interface for developers to integrate Google's generative models into their Java applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 371 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ googleapis/java-genai：googleapis/java-genai helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 66/100 |
+| production | 55/100 |
+| outlook | 52/100 |
 | adoption | 54/100 |
 | stars | 55/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

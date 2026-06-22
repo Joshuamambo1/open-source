@@ -1,6 +1,6 @@
 # GNOME/gimp
 
-[![Stars](https://img.shields.io/github/stars/GNOME/gimp?style=flat-square&color=yellow)](https://github.com/GNOME/gimp/stargazers) [![Forks](https://img.shields.io/github/forks/GNOME/gimp?style=flat-square&color=blue)](https://github.com/GNOME/gimp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GNOME/gimp?style=flat-square&color=yellow)](https://github.com/GNOME/gimp/stargazers) [![Forks](https://img.shields.io/github/forks/GNOME/gimp?style=flat-square&color=blue)](https://github.com/GNOME/gimp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 863 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ GNOME/gimp：GNOME/gimp may be useful when its README and activity match a concr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 66/100 |
+| production | 53/100 |
+| outlook | 52/100 |
 | adoption | 79/100 |
 | stars | 81/100 |
 | forks | 73/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

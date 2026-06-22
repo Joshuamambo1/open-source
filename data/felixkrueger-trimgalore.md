@@ -1,6 +1,6 @@
 # FelixKrueger/TrimGalore
 
-[![Stars](https://img.shields.io/github/stars/FelixKrueger/TrimGalore?style=flat-square&color=yellow)](https://github.com/FelixKrueger/TrimGalore/stargazers) [![Forks](https://img.shields.io/github/forks/FelixKrueger/TrimGalore?style=flat-square&color=blue)](https://github.com/FelixKrueger/TrimGalore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FelixKrueger/TrimGalore?style=flat-square&color=yellow)](https://github.com/FelixKrueger/TrimGalore/stargazers) [![Forks](https://img.shields.io/github/forks/FelixKrueger/TrimGalore?style=flat-square&color=blue)](https://github.com/FelixKrueger/TrimGalore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Consistent adapter and quality trimming for NGS, with extra functionality for RRBS data
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 552 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ TrimGalore - это бесплатный и открытое исходное п
 
 ### 中文
 
-FelixKrueger/TrimGalore：FelixKrueger/TrimGalore helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+FelixKrueger/TrimGalore：FelixKrueger/TrimGalore helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ FelixKrueger/TrimGalore：FelixKrueger/TrimGalore helps convert raw data into se
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ FelixKrueger/TrimGalore：FelixKrueger/TrimGalore helps convert raw data into se
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 57/100 |
 | stars | 58/100 |
 | forks | 55/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

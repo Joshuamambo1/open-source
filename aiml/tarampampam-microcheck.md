@@ -1,6 +1,6 @@
 # tarampampam/microcheck
 
-[![Stars](https://img.shields.io/github/stars/tarampampam/microcheck?style=flat-square&color=yellow)](https://github.com/tarampampam/microcheck/stargazers) [![Forks](https://img.shields.io/github/forks/tarampampam/microcheck?style=flat-square&color=blue)](https://github.com/tarampampam/microcheck/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tarampampam/microcheck?style=flat-square&color=yellow)](https://github.com/tarampampam/microcheck/stargazers) [![Forks](https://img.shields.io/github/forks/tarampampam/microcheck?style=flat-square&color=blue)](https://github.com/tarampampam/microcheck/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🧪 Lightweight health check utilities for Docker containers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | C |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tarampampam/microcheck：tarampampam/microcheck helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 36/100 |
 | stars | 46/100 |
 | forks | 12/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

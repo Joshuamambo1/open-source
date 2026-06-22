@@ -1,6 +1,6 @@
 # apache/iceberg-rust
 
-[![Stars](https://img.shields.io/github/stars/apache/iceberg-rust?style=flat-square&color=yellow)](https://github.com/apache/iceberg-rust/stargazers) [![Forks](https://img.shields.io/github/forks/apache/iceberg-rust?style=flat-square&color=blue)](https://github.com/apache/iceberg-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/iceberg-rust?style=flat-square&color=yellow)](https://github.com/apache/iceberg-rust/stargazers) [![Forks](https://img.shields.io/github/forks/apache/iceberg-rust?style=flat-square&color=blue)](https://github.com/apache/iceberg-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Iceberg
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 459 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ apache/iceberg-rust：apache/iceberg-rust may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 68/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 66/100 |
 | stars | 66/100 |
 | forks | 67/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # chrisryugj/korean-law-mcp
 
-[![Stars](https://img.shields.io/github/stars/chrisryugj/korean-law-mcp?style=flat-square&color=yellow)](https://github.com/chrisryugj/korean-law-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/chrisryugj/korean-law-mcp?style=flat-square&color=blue)](https://github.com/chrisryugj/korean-law-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrisryugj/korean-law-mcp?style=flat-square&color=yellow)](https://github.com/chrisryugj/korean-law-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/chrisryugj/korean-law-mcp?style=flat-square&color=blue)](https://github.com/chrisryugj/korean-law-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > 국가법령정보MCP | 법제처 41개 API → 16개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 + LLM 환각 방지 인용 검증 | 41 Korean legal APIs → 16 MCP tools with AI citation hallucination guard
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 324 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Backend · DevTools
 
 ### English
 
-chrisryugj/korean-law-mcp: chrisryugj/korean-law-mcp helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+chrisryugj/korean-law-mcp: chrisryugj/korean-law-mcp helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-chrisryugj/korean-law-mcp: open-source проект в категориях AI/ML, Backend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+chrisryugj/korean-law-mcp: open-source проект в категориях AI/ML, Backend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-chrisryugj/korean-law-mcp：chrisryugj/korean-law-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+chrisryugj/korean-law-mcp：chrisryugj/korean-law-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ chrisryugj/korean-law-mcp：chrisryugj/korean-law-mcp helps add AI capability wi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ chrisryugj/korean-law-mcp：chrisryugj/korean-law-mcp helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 94/100 |
-| production | 78/100 |
-| outlook | 85/100 |
+| production | 65/100 |
+| outlook | 71/100 |
 | adoption | 67/100 |
 | stars | 69/100 |
 | forks | 63/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

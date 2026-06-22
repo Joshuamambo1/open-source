@@ -1,6 +1,6 @@
 # SWI-Prolog/swipl-devel
 
-[![Stars](https://img.shields.io/github/stars/SWI-Prolog/swipl-devel?style=flat-square&color=yellow)](https://github.com/SWI-Prolog/swipl-devel/stargazers) [![Forks](https://img.shields.io/github/forks/SWI-Prolog/swipl-devel?style=flat-square&color=blue)](https://github.com/SWI-Prolog/swipl-devel/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SWI-Prolog/swipl-devel?style=flat-square&color=yellow)](https://github.com/SWI-Prolog/swipl-devel/stargazers) [![Forks](https://img.shields.io/github/forks/SWI-Prolog/swipl-devel?style=flat-square&color=blue)](https://github.com/SWI-Prolog/swipl-devel/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > SWI-Prolog Main development repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 208 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ SWI-Prolog/swipl-devel：SWI-Prolog/swipl-devel helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 64/100 |
 | stars | 66/100 |
 | forks | 58/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

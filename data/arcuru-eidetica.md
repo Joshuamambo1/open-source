@@ -1,6 +1,6 @@
 # arcuru/eidetica
 
-[![Stars](https://img.shields.io/github/stars/arcuru/eidetica?style=flat-square&color=yellow)](https://github.com/arcuru/eidetica/stargazers) [![Forks](https://img.shields.io/github/forks/arcuru/eidetica?style=flat-square&color=blue)](https://github.com/arcuru/eidetica/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arcuru/eidetica?style=flat-square&color=yellow)](https://github.com/arcuru/eidetica/stargazers) [![Forks](https://img.shields.io/github/forks/arcuru/eidetica?style=flat-square&color=blue)](https://github.com/arcuru/eidetica/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Decentralized DB. Remember Everything. Everywhere. All At Once.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ arcuru/eidetica：arcuru/eidetica helps convert raw data into searchable, analyz
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 64/100 |
+| production | 50/100 |
+| outlook | 50/100 |
 | adoption | 35/100 |
 | stars | 43/100 |
 | forks | 15/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

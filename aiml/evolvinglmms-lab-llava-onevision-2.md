@@ -1,6 +1,6 @@
 # EvolvingLMMs-Lab/LLaVA-OneVision-2
 
-[![Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LLaVA-OneVision-2?style=flat-square&color=yellow)](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2/stargazers) [![Forks](https://img.shields.io/github/forks/EvolvingLMMs-Lab/LLaVA-OneVision-2?style=flat-square&color=blue)](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LLaVA-OneVision-2?style=flat-square&color=yellow)](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2/stargazers) [![Forks](https://img.shields.io/github/forks/EvolvingLMMs-Lab/LLaVA-OneVision-2?style=flat-square&color=blue)](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Fully Open Framework for Democratized Multimodal Training
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 815 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ EvolvingLMMs-Lab/LLaVA-OneVision-2：EvolvingLMMs-Lab/LLaVA-OneVision-2 helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 57/100 |
 | stars | 62/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

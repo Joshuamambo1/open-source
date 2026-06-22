@@ -1,6 +1,6 @@
 # puppylinux-woof-CE/woof-CE
 
-[![Stars](https://img.shields.io/github/stars/puppylinux-woof-CE/woof-CE?style=flat-square&color=yellow)](https://github.com/puppylinux-woof-CE/woof-CE/stargazers) [![Forks](https://img.shields.io/github/forks/puppylinux-woof-CE/woof-CE?style=flat-square&color=blue)](https://github.com/puppylinux-woof-CE/woof-CE/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/puppylinux-woof-CE/woof-CE?style=flat-square&color=yellow)](https://github.com/puppylinux-woof-CE/woof-CE/stargazers) [![Forks](https://img.shields.io/github/forks/puppylinux-woof-CE/woof-CE?style=flat-square&color=blue)](https://github.com/puppylinux-woof-CE/woof-CE/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > woof - the Puppy builder
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 442 |
 | 🍴 **Forks** | 344 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ puppylinux-woof-CE/woof-CE：puppylinux-woof-CE/woof-CE helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 58/100 |
 | stars | 56/100 |
 | forks | 63/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

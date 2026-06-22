@@ -1,6 +1,6 @@
 # browser-use/browser-use
 
-[![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square&color=yellow)](https://github.com/browser-use/browser-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/browser-use?style=flat-square&color=blue)](https://github.com/browser-use/browser-use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square&color=yellow)](https://github.com/browser-use/browser-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/browser-use?style=flat-square&color=blue)](https://github.com/browser-use/browser-use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 93k |
 | 🍴 **Forks** | 10.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ browser-use is an open‑source toolkit that enables AI agents to interact with 
 
 ### 中文
 
-browser-use/browser-use：browser-use/browser-use helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+browser-use/browser-use：browser-use/browser-use helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ browser-use/browser-use：browser-use/browser-use helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ browser-use/browser-use：browser-use/browser-use helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 93/100 |
+| quality | 83/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 90/100 |
+| production | 63/100 |
+| outlook | 76/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # github/dmca
 
-[![Stars](https://img.shields.io/github/stars/github/dmca?style=flat-square&color=yellow)](https://github.com/github/dmca/stargazers) [![Forks](https://img.shields.io/github/forks/github/dmca?style=flat-square&color=blue)](https://github.com/github/dmca/network) [![Language](https://img.shields.io/badge/lang-DIGITAL%20Command%20Language-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github/dmca?style=flat-square&color=yellow)](https://github.com/github/dmca/stargazers) [![Forks](https://img.shields.io/github/forks/github/dmca?style=flat-square&color=blue)](https://github.com/github/dmca/network) [![Language](https://img.shields.io/badge/lang-DIGITAL%20Command%20Language-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | DIGITAL Command Language |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ github/dmca：github/dmca helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 68/100 |
+| production | 54/100 |
+| outlook | 54/100 |
 | adoption | 80/100 |
 | stars | 81/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

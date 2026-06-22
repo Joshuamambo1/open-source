@@ -1,6 +1,6 @@
 # monero-project/monero-site
 
-[![Stars](https://img.shields.io/github/stars/monero-project/monero-site?style=flat-square&color=yellow)](https://github.com/monero-project/monero-site/stargazers) [![Forks](https://img.shields.io/github/forks/monero-project/monero-site?style=flat-square&color=blue)](https://github.com/monero-project/monero-site/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/monero-project/monero-site?style=flat-square&color=yellow)](https://github.com/monero-project/monero-site/stargazers) [![Forks](https://img.shields.io/github/forks/monero-project/monero-site?style=flat-square&color=blue)](https://github.com/monero-project/monero-site/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 327 |
 | 🍴 **Forks** | 428 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **monero-project/monero-site** repository houses the source code for the off
 
 ### 中文
 
-monero-project/monero-site：monero-project/monero-site helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+monero-project/monero-site：monero-project/monero-site helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ monero-project/monero-site：monero-project/monero-site helps add AI capability 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ monero-project/monero-site：monero-project/monero-site helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 18/100 |
-| production | 61/100 |
-| outlook | 61/100 |
+| production | 48/100 |
+| outlook | 47/100 |
 | adoption | 57/100 |
 | stars | 54/100 |
 | forks | 66/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

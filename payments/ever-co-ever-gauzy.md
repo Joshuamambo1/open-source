@@ -1,6 +1,6 @@
 # ever-co/ever-gauzy
 
-[![Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=flat-square&color=yellow)](https://github.com/ever-co/ever-gauzy/stargazers) [![Forks](https://img.shields.io/github/forks/ever-co/ever-gauzy?style=flat-square&color=blue)](https://github.com/ever-co/ever-gauzy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=flat-square&color=yellow)](https://github.com/ever-co/ever-gauzy/stargazers) [![Forks](https://img.shields.io/github/forks/ever-co/ever-gauzy?style=flat-square&color=blue)](https://github.com/ever-co/ever-gauzy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 766 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ever-co/ever-gauzy：ever-co/ever-gauzy helps integrate monetization, billing, o
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 84/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 60/100 |
+| outlook | 61/100 |
 | adoption | 75/100 |
 | stars | 76/100 |
 | forks | 72/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

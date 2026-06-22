@@ -1,6 +1,6 @@
 # mm7894215/TokenTracker
 
-[![Stars](https://img.shields.io/github/stars/mm7894215/TokenTracker?style=flat-square&color=yellow)](https://github.com/mm7894215/TokenTracker/stargazers) [![Forks](https://img.shields.io/github/forks/mm7894215/TokenTracker?style=flat-square&color=blue)](https://github.com/mm7894215/TokenTracker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mm7894215/TokenTracker?style=flat-square&color=yellow)](https://github.com/mm7894215/TokenTracker/stargazers) [![Forks](https://img.shields.io/github/forks/mm7894215/TokenTracker?style=flat-square&color=blue)](https://github.com/mm7894215/TokenTracker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Track token usage across 13 AI agent CLIs — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, OpenClaw, Every Code, Hermes, GitHub Copilot, Kimi Code, CodeBuddy, oh-my-pi. Local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 400 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mm7894215/TokenTracker：mm7894215/TokenTracker helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 81/100 |
+| production | 56/100 |
+| outlook | 67/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 39/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

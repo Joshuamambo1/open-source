@@ -1,6 +1,6 @@
 # chrisryugj/Docufinder
 
-[![Stars](https://img.shields.io/github/stars/chrisryugj/Docufinder?style=flat-square&color=yellow)](https://github.com/chrisryugj/Docufinder/stargazers) [![Forks](https://img.shields.io/github/forks/chrisryugj/Docufinder?style=flat-square&color=blue)](https://github.com/chrisryugj/Docufinder/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrisryugj/Docufinder?style=flat-square&color=yellow)](https://github.com/chrisryugj/Docufinder/stargazers) [![Forks](https://img.shields.io/github/forks/chrisryugj/Docufinder?style=flat-square&color=blue)](https://github.com/chrisryugj/Docufinder/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Anything — 파일을 찾지 말고, 내용을 찾으세요. HWPX · PDF · Office 수천 건의 본문을 1초 만에. 100% 로컬 · 완전 오프라인. (Tauri · React · Rust)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 258 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ chrisryugj/Docufinder：chrisryugj/Docufinder helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 47/100 |
 | stars | 51/100 |
 | forks | 37/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

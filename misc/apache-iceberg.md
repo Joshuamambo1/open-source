@@ -1,6 +1,6 @@
 # apache/iceberg
 
-[![Stars](https://img.shields.io/github/stars/apache/iceberg?style=flat-square&color=yellow)](https://github.com/apache/iceberg/stargazers) [![Forks](https://img.shields.io/github/forks/apache/iceberg?style=flat-square&color=blue)](https://github.com/apache/iceberg/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/iceberg?style=flat-square&color=yellow)](https://github.com/apache/iceberg/stargazers) [![Forks](https://img.shields.io/github/forks/apache/iceberg?style=flat-square&color=blue)](https://github.com/apache/iceberg/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Iceberg
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ apache/iceberg：apache/iceberg may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 71/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 85/100 |
 | stars | 84/100 |
 | forks | 88/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

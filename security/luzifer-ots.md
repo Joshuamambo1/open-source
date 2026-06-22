@@ -1,6 +1,6 @@
 # Luzifer/ots
 
-[![Stars](https://img.shields.io/github/stars/Luzifer/ots?style=flat-square&color=yellow)](https://github.com/Luzifer/ots/stargazers) [![Forks](https://img.shields.io/github/forks/Luzifer/ots?style=flat-square&color=blue)](https://github.com/Luzifer/ots/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Luzifer/ots?style=flat-square&color=yellow)](https://github.com/Luzifer/ots/stargazers) [![Forks](https://img.shields.io/github/forks/Luzifer/ots?style=flat-square&color=blue)](https://github.com/Luzifer/ots/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 753 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Luzifer/ots：Luzifer/ots helps catch security and privacy issues earlier in the
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

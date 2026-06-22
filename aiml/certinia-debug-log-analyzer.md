@@ -1,6 +1,6 @@
 # certinia/debug-log-analyzer
 
-[![Stars](https://img.shields.io/github/stars/certinia/debug-log-analyzer?style=flat-square&color=yellow)](https://github.com/certinia/debug-log-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/certinia/debug-log-analyzer?style=flat-square&color=blue)](https://github.com/certinia/debug-log-analyzer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/certinia/debug-log-analyzer?style=flat-square&color=yellow)](https://github.com/certinia/debug-log-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/certinia/debug-log-analyzer?style=flat-square&color=blue)](https://github.com/certinia/debug-log-analyzer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Salesforce Apex debug log analyzer for VS Code - blazing-fast: flame charts, SOQL/DML, Apex insights & more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ certinia/debug-log-analyzer：certinia/debug-log-analyzer helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 70/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 41/100 |
 | stars | 43/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

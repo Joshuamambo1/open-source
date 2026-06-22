@@ -1,6 +1,6 @@
 # typst-community/utpm
 
-[![Stars](https://img.shields.io/github/stars/typst-community/utpm?style=flat-square&color=yellow)](https://github.com/typst-community/utpm/stargazers) [![Forks](https://img.shields.io/github/forks/typst-community/utpm?style=flat-square&color=blue)](https://github.com/typst-community/utpm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typst-community/utpm?style=flat-square&color=yellow)](https://github.com/typst-community/utpm/stargazers) [![Forks](https://img.shields.io/github/forks/typst-community/utpm?style=flat-square&color=blue)](https://github.com/typst-community/utpm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A package manager for local and remote Typst packages.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Typst‑community/utpm — это открытый менеджер пакет
 
 ### 中文
 
-typst-community/utpm：typst-community/utpm may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+typst-community/utpm：typst-community/utpm may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ typst-community/utpm：typst-community/utpm may be useful when its README and ac
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ typst-community/utpm：typst-community/utpm may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 41/100 |
 | stars | 45/100 |
 | forks | 31/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

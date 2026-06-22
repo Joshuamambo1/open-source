@@ -1,6 +1,6 @@
 # RARgames/4gaBoards
 
-[![Stars](https://img.shields.io/github/stars/RARgames/4gaBoards?style=flat-square&color=yellow)](https://github.com/RARgames/4gaBoards/stargazers) [![Forks](https://img.shields.io/github/forks/RARgames/4gaBoards?style=flat-square&color=blue)](https://github.com/RARgames/4gaBoards/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RARgames/4gaBoards?style=flat-square&color=yellow)](https://github.com/RARgames/4gaBoards/stargazers) [![Forks](https://img.shields.io/github/forks/RARgames/4gaBoards?style=flat-square&color=blue)](https://github.com/RARgames/4gaBoards/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 497 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ RARgames/4gaBoards：RARgames/4gaBoards helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 76/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 46/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

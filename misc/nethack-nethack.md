@@ -1,6 +1,6 @@
 # NetHack/NetHack
 
-[![Stars](https://img.shields.io/github/stars/NetHack/NetHack?style=flat-square&color=yellow)](https://github.com/NetHack/NetHack/stargazers) [![Forks](https://img.shields.io/github/forks/NetHack/NetHack?style=flat-square&color=blue)](https://github.com/NetHack/NetHack/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NetHack/NetHack?style=flat-square&color=yellow)](https://github.com/NetHack/NetHack/stargazers) [![Forks](https://img.shields.io/github/forks/NetHack/NetHack?style=flat-square&color=blue)](https://github.com/NetHack/NetHack/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Official NetHack Git Repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 570 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ NetHack/NetHack：NetHack/NetHack may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 69/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

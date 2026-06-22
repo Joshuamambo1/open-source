@@ -1,6 +1,6 @@
 # trezor/trezor-suite
 
-[![Stars](https://img.shields.io/github/stars/trezor/trezor-suite?style=flat-square&color=yellow)](https://github.com/trezor/trezor-suite/stargazers) [![Forks](https://img.shields.io/github/forks/trezor/trezor-suite?style=flat-square&color=blue)](https://github.com/trezor/trezor-suite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trezor/trezor-suite?style=flat-square&color=yellow)](https://github.com/trezor/trezor-suite/stargazers) [![Forks](https://img.shields.io/github/forks/trezor/trezor-suite?style=flat-square&color=blue)](https://github.com/trezor/trezor-suite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Trezor Suite Monorepo
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 996 |
 | 🍴 **Forks** | 359 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ trezor/trezor-suite：trezor/trezor-suite helps prototype or inspect blockchain 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 72/100 |
+| production | 58/100 |
+| outlook | 58/100 |
 | adoption | 64/100 |
 | stars | 64/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

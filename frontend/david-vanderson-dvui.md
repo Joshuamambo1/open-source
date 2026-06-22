@@ -1,6 +1,6 @@
 # david-vanderson/dvui
 
-[![Stars](https://img.shields.io/github/stars/david-vanderson/dvui?style=flat-square&color=yellow)](https://github.com/david-vanderson/dvui/stargazers) [![Forks](https://img.shields.io/github/forks/david-vanderson/dvui?style=flat-square&color=blue)](https://github.com/david-vanderson/dvui/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/david-vanderson/dvui?style=flat-square&color=yellow)](https://github.com/david-vanderson/dvui/stargazers) [![Forks](https://img.shields.io/github/forks/david-vanderson/dvui?style=flat-square&color=blue)](https://github.com/david-vanderson/dvui/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Immediate Zig GUI for Apps and Games
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ david-vanderson/dvui：david-vanderson/dvui helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 63/100 |
 | stars | 67/100 |
 | forks | 52/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

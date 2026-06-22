@@ -1,6 +1,6 @@
 # github/advisory-database
 
-[![Stars](https://img.shields.io/github/stars/github/advisory-database?style=flat-square&color=yellow)](https://github.com/github/advisory-database/stargazers) [![Forks](https://img.shields.io/github/forks/github/advisory-database?style=flat-square&color=blue)](https://github.com/github/advisory-database/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github/advisory-database?style=flat-square&color=yellow)](https://github.com/github/advisory-database/stargazers) [![Forks](https://img.shields.io/github/forks/github/advisory-database?style=flat-square&color=blue)](https://github.com/github/advisory-database/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 601 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ github/advisory-database：github/advisory-database helps convert raw data into 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 71/100 |
 | stars | 71/100 |
 | forks | 69/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

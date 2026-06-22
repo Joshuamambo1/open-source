@@ -1,6 +1,6 @@
 # D4Vinci/Scrapling
 
-[![Stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=flat-square&color=yellow)](https://github.com/D4Vinci/Scrapling/stargazers) [![Forks](https://img.shields.io/github/forks/D4Vinci/Scrapling?style=flat-square&color=blue)](https://github.com/D4Vinci/Scrapling/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=flat-square&color=yellow)](https://github.com/D4Vinci/Scrapling/stargazers) [![Forks](https://img.shields.io/github/forks/D4Vinci/Scrapling?style=flat-square&color=blue)](https://github.com/D4Vinci/Scrapling/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47.9k |
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ D4Vinci/Scrapling — это адаптивный open‑source фреймво
 
 ### 中文
 
-D4Vinci/Scrapling：D4Vinci/Scrapling helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+D4Vinci/Scrapling：D4Vinci/Scrapling helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ D4Vinci/Scrapling：D4Vinci/Scrapling helps add AI capability without starting f
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ D4Vinci/Scrapling：D4Vinci/Scrapling helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 94/100 |
+| quality | 84/100 |
 | integration | 78/100 |
-| production | 81/100 |
-| outlook | 92/100 |
+| production | 68/100 |
+| outlook | 78/100 |
 | adoption | 97/100 |
 | stars | 100/100 |
 | forks | 91/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

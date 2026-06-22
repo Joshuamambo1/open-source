@@ -1,6 +1,6 @@
 # reacher-z/ClawBench
 
-[![Stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=flat-square&color=yellow)](https://github.com/reacher-z/ClawBench/stargazers) [![Forks](https://img.shields.io/github/forks/reacher-z/ClawBench?style=flat-square&color=blue)](https://github.com/reacher-z/ClawBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=flat-square&color=yellow)](https://github.com/reacher-z/ClawBench/stargazers) [![Forks](https://img.shields.io/github/forks/reacher-z/ClawBench?style=flat-square&color=blue)](https://github.com/reacher-z/ClawBench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source benchmark for browser AI agents on 153 everyday online tasks across 144 live websites. 5-layer recording + DOM-match + LLM judge. Top score 33.3%.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 187 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ reacher-z/ClawBench：reacher-z/ClawBench helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 73/100 |
+| production | 55/100 |
+| outlook | 59/100 |
 | adoption | 43/100 |
 | stars | 48/100 |
 | forks | 28/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

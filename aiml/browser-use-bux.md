@@ -1,6 +1,6 @@
 # browser-use/bux
 
-[![Stars](https://img.shields.io/github/stars/browser-use/bux?style=flat-square&color=yellow)](https://github.com/browser-use/bux/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/bux?style=flat-square&color=blue)](https://github.com/browser-use/bux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/browser-use/bux?style=flat-square&color=yellow)](https://github.com/browser-use/bux/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/bux?style=flat-square&color=blue)](https://github.com/browser-use/bux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A 24/7 Claude Code agent with Browser Harness, on any box you own.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 317 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ browser-use/bux：browser-use/bux helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 49/100 |
 | stars | 53/100 |
 | forks | 38/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

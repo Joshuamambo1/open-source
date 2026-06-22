@@ -1,6 +1,6 @@
 # emavgl/oinkoin
 
-[![Stars](https://img.shields.io/github/stars/emavgl/oinkoin?style=flat-square&color=yellow)](https://github.com/emavgl/oinkoin/stargazers) [![Forks](https://img.shields.io/github/forks/emavgl/oinkoin?style=flat-square&color=blue)](https://github.com/emavgl/oinkoin/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emavgl/oinkoin?style=flat-square&color=yellow)](https://github.com/emavgl/oinkoin/stargazers) [![Forks](https://img.shields.io/github/forks/emavgl/oinkoin?style=flat-square&color=blue)](https://github.com/emavgl/oinkoin/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Oinkoin is a flutter app for helping you managing your expenses. No internet required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Oinkoin — это кроссплатформенное мобильное п�
 
 ### 中文
 
-emavgl/oinkoin：emavgl/oinkoin helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+emavgl/oinkoin：emavgl/oinkoin helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ emavgl/oinkoin：emavgl/oinkoin helps ship user-facing interfaces with less cust
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ emavgl/oinkoin：emavgl/oinkoin helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 41/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

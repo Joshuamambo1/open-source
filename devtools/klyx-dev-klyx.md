@@ -1,6 +1,6 @@
 # klyx-dev/klyx
 
-[![Stars](https://img.shields.io/github/stars/klyx-dev/klyx?style=flat-square&color=yellow)](https://github.com/klyx-dev/klyx/stargazers) [![Forks](https://img.shields.io/github/forks/klyx-dev/klyx?style=flat-square&color=blue)](https://github.com/klyx-dev/klyx/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/klyx-dev/klyx?style=flat-square&color=yellow)](https://github.com/klyx-dev/klyx/stargazers) [![Forks](https://img.shields.io/github/forks/klyx-dev/klyx?style=flat-square&color=blue)](https://github.com/klyx-dev/klyx/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Klyx is a lightweight, high-performance code editor for Android.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ klyx-dev/klyx：klyx-dev/klyx helps engineers save time in daily development and
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 38/100 |
 | stars | 44/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

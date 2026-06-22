@@ -1,6 +1,6 @@
 # internetarchive/openlibrary
 
-[![Stars](https://img.shields.io/github/stars/internetarchive/openlibrary?style=flat-square&color=yellow)](https://github.com/internetarchive/openlibrary/stargazers) [![Forks](https://img.shields.io/github/forks/internetarchive/openlibrary?style=flat-square&color=blue)](https://github.com/internetarchive/openlibrary/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/internetarchive/openlibrary?style=flat-square&color=yellow)](https://github.com/internetarchive/openlibrary/stargazers) [![Forks](https://img.shields.io/github/forks/internetarchive/openlibrary?style=flat-square&color=blue)](https://github.com/internetarchive/openlibrary/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > One webpage for every book ever published!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ internetarchive/openlibrary：internetarchive/openlibrary may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 59/100 |
+| outlook | 59/100 |
 | adoption | 81/100 |
 | stars | 81/100 |
 | forks | 82/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # BlackSnufkin/BYOVD
 
-[![Stars](https://img.shields.io/github/stars/BlackSnufkin/BYOVD?style=flat-square&color=yellow)](https://github.com/BlackSnufkin/BYOVD/stargazers) [![Forks](https://img.shields.io/github/forks/BlackSnufkin/BYOVD?style=flat-square&color=blue)](https://github.com/BlackSnufkin/BYOVD/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlackSnufkin/BYOVD?style=flat-square&color=yellow)](https://github.com/BlackSnufkin/BYOVD/stargazers) [![Forks](https://img.shields.io/github/forks/BlackSnufkin/BYOVD?style=flat-square&color=blue)](https://github.com/BlackSnufkin/BYOVD/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055,).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 727 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ BlackSnufkin/BYOVD：BlackSnufkin/BYOVD may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

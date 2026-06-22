@@ -1,6 +1,6 @@
 # vercel/workflow
 
-[![Stars](https://img.shields.io/github/stars/vercel/workflow?style=flat-square&color=yellow)](https://github.com/vercel/workflow/stargazers) [![Forks](https://img.shields.io/github/forks/vercel/workflow?style=flat-square&color=blue)](https://github.com/vercel/workflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vercel/workflow?style=flat-square&color=yellow)](https://github.com/vercel/workflow/stargazers) [![Forks](https://img.shields.io/github/forks/vercel/workflow?style=flat-square&color=blue)](https://github.com/vercel/workflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 249 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ vercel/workflow：vercel/workflow helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 65/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 73/100 |
+| production | 55/100 |
+| outlook | 59/100 |
 | adoption | 67/100 |
 | stars | 70/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

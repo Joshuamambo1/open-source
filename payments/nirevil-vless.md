@@ -1,6 +1,6 @@
 # NiREvil/vless
 
-[![Stars](https://img.shields.io/github/stars/NiREvil/vless?style=flat-square&color=yellow)](https://github.com/NiREvil/vless/stargazers) [![Forks](https://img.shields.io/github/forks/NiREvil/vless?style=flat-square&color=blue)](https://github.com/NiREvil/vless/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NiREvil/vless?style=flat-square&color=yellow)](https://github.com/NiREvil/vless/stargazers) [![Forks](https://img.shields.io/github/forks/NiREvil/vless?style=flat-square&color=blue)](https://github.com/NiREvil/vless/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > v2ray subscription links
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 276 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ NiREvil/vless：NiREvil/vless helps integrate monetization, billing, or PSP flow
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 64/100 |
 | stars | 65/100 |
 | forks | 61/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

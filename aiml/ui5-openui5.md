@@ -1,6 +1,6 @@
 # UI5/openui5
 
-[![Stars](https://img.shields.io/github/stars/UI5/openui5?style=flat-square&color=yellow)](https://github.com/UI5/openui5/stargazers) [![Forks](https://img.shields.io/github/forks/UI5/openui5?style=flat-square&color=blue)](https://github.com/UI5/openui5/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UI5/openui5?style=flat-square&color=yellow)](https://github.com/UI5/openui5/stargazers) [![Forks](https://img.shields.io/github/forks/UI5/openui5?style=flat-square&color=blue)](https://github.com/UI5/openui5/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ UI5/openui5：UI5/openui5 helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 73/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 76/100 |
 | stars | 75/100 |
 | forks | 78/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

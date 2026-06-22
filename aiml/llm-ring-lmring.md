@@ -1,6 +1,6 @@
 # llm-ring/lmring
 
-[![Stars](https://img.shields.io/github/stars/llm-ring/lmring?style=flat-square&color=yellow)](https://github.com/llm-ring/lmring/stargazers) [![Forks](https://img.shields.io/github/forks/llm-ring/lmring?style=flat-square&color=blue)](https://github.com/llm-ring/lmring/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llm-ring/lmring?style=flat-square&color=yellow)](https://github.com/llm-ring/lmring/stargazers) [![Forks](https://img.shields.io/github/forks/llm-ring/lmring?style=flat-square&color=blue)](https://github.com/llm-ring/lmring/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hostable LLM arena with model compare, voting, and leaderboards
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ llm-ring/lmring：llm-ring/lmring helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 50/100 |
 | adoption | 32/100 |
 | stars | 39/100 |
 | forks | 15/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

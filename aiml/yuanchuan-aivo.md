@@ -1,6 +1,6 @@
 # yuanchuan/aivo
 
-[![Stars](https://img.shields.io/github/stars/yuanchuan/aivo?style=flat-square&color=yellow)](https://github.com/yuanchuan/aivo/stargazers) [![Forks](https://img.shields.io/github/forks/yuanchuan/aivo?style=flat-square&color=blue)](https://github.com/yuanchuan/aivo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuanchuan/aivo?style=flat-square&color=yellow)](https://github.com/yuanchuan/aivo/stargazers) [![Forks](https://img.shields.io/github/forks/yuanchuan/aivo?style=flat-square&color=blue)](https://github.com/yuanchuan/aivo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Aivo is a command-line tool that connects your coding agent to almost any model. It also includes built-in models out of the box — no API keys, no signup.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ yuanchuan/aivo：yuanchuan/aivo helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 75/100 |
+| production | 55/100 |
+| outlook | 61/100 |
 | adoption | 38/100 |
 | stars | 44/100 |
 | forks | 23/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

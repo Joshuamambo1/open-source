@@ -1,6 +1,6 @@
 # anthropics/claude-plugins-official
 
-[![Stars](https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=flat-square&color=yellow)](https://github.com/anthropics/claude-plugins-official/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/claude-plugins-official?style=flat-square&color=blue)](https://github.com/anthropics/claude-plugins-official/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=flat-square&color=yellow)](https://github.com/anthropics/claude-plugins-official/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/claude-plugins-official?style=flat-square&color=blue)](https://github.com/anthropics/claude-plugins-official/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.8k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-anthropics/claude-plugins-official: anthropics/claude-plugins-official may be useful when its README and activity match a concrete workflow.. Use it for Misc. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+anthropics/claude-plugins-official: anthropics/claude-plugins-official may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-anthropics/claude-plugins-official: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+anthropics/claude-plugins-official: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-anthropics/claude-plugins-official：anthropics/claude-plugins-official may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+anthropics/claude-plugins-official：anthropics/claude-plugins-official may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ anthropics/claude-plugins-official：anthropics/claude-plugins-official may be u
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ anthropics/claude-plugins-official：anthropics/claude-plugins-official may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 78/100 |
-| production | 76/100 |
-| outlook | 76/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 89/100 |
 | stars | 91/100 |
 | forks | 84/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

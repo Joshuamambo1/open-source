@@ -1,6 +1,6 @@
 # JohannesKaufmann/html-to-markdown
 
-[![Stars](https://img.shields.io/github/stars/JohannesKaufmann/html-to-markdown?style=flat-square&color=yellow)](https://github.com/JohannesKaufmann/html-to-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/JohannesKaufmann/html-to-markdown?style=flat-square&color=blue)](https://github.com/JohannesKaufmann/html-to-markdown/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JohannesKaufmann/html-to-markdown?style=flat-square&color=yellow)](https://github.com/JohannesKaufmann/html-to-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/JohannesKaufmann/html-to-markdown?style=flat-square&color=blue)](https://github.com/JohannesKaufmann/html-to-markdown/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ JohannesKaufmann/html-to-markdown：JohannesKaufmann/html-to-markdown helps add 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 61/100 |
+| outlook | 62/100 |
 | adoption | 71/100 |
 | stars | 76/100 |
 | forks | 58/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

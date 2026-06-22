@@ -1,6 +1,6 @@
 # zalando/postgres-operator
 
-[![Stars](https://img.shields.io/github/stars/zalando/postgres-operator?style=flat-square&color=yellow)](https://github.com/zalando/postgres-operator/stargazers) [![Forks](https://img.shields.io/github/forks/zalando/postgres-operator?style=flat-square&color=blue)](https://github.com/zalando/postgres-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zalando/postgres-operator?style=flat-square&color=yellow)](https://github.com/zalando/postgres-operator/stargazers) [![Forks](https://img.shields.io/github/forks/zalando/postgres-operator?style=flat-square&color=blue)](https://github.com/zalando/postgres-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source оператор **zalando/postgres-operator** автоматиз�
 
 ### 中文
 
-zalando/postgres-operator：zalando/postgres-operator helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+zalando/postgres-operator：zalando/postgres-operator helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ zalando/postgres-operator：zalando/postgres-operator helps convert raw data int
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ zalando/postgres-operator：zalando/postgres-operator helps convert raw data int
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 76/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 78/100 |
 | stars | 79/100 |
 | forks | 76/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

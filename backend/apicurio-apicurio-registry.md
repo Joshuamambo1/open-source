@@ -1,6 +1,6 @@
 # Apicurio/apicurio-registry
 
-[![Stars](https://img.shields.io/github/stars/Apicurio/apicurio-registry?style=flat-square&color=yellow)](https://github.com/Apicurio/apicurio-registry/stargazers) [![Forks](https://img.shields.io/github/forks/Apicurio/apicurio-registry?style=flat-square&color=blue)](https://github.com/Apicurio/apicurio-registry/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Apicurio/apicurio-registry?style=flat-square&color=yellow)](https://github.com/Apicurio/apicurio-registry/stargazers) [![Forks](https://img.shields.io/github/forks/Apicurio/apicurio-registry?style=flat-square&color=blue)](https://github.com/Apicurio/apicurio-registry/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An API/Schema registry - stores APIs and Schemas.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 803 |
 | 🍴 **Forks** | 317 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ Apicurio/apicurio-registry：Apicurio/apicurio-registry helps teams reuse servic
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 62/100 |
 | stars | 62/100 |
 | forks | 63/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

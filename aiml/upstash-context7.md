@@ -1,6 +1,6 @@
 # upstash/context7
 
-[![Stars](https://img.shields.io/github/stars/upstash/context7?style=flat-square&color=yellow)](https://github.com/upstash/context7/stargazers) [![Forks](https://img.shields.io/github/forks/upstash/context7?style=flat-square&color=blue)](https://github.com/upstash/context7/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/upstash/context7?style=flat-square&color=yellow)](https://github.com/upstash/context7/stargazers) [![Forks](https://img.shields.io/github/forks/upstash/context7?style=flat-square&color=blue)](https://github.com/upstash/context7/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 54.9k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ upstash/context7 is an open‑source platform that provides real‑time, up‑to
 
 ### 中文
 
-upstash/context7：upstash/context7 helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+upstash/context7：upstash/context7 helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ upstash/context7：upstash/context7 helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ upstash/context7：upstash/context7 helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 86/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 79/100 |
+| production | 63/100 |
+| outlook | 65/100 |
 | adoption | 96/100 |
 | stars | 100/100 |
 | forks | 85/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

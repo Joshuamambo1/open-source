@@ -1,6 +1,6 @@
 # yurijmikhalevich/rclip
 
-[![Stars](https://img.shields.io/github/stars/yurijmikhalevich/rclip?style=flat-square&color=yellow)](https://github.com/yurijmikhalevich/rclip/stargazers) [![Forks](https://img.shields.io/github/forks/yurijmikhalevich/rclip?style=flat-square&color=blue)](https://github.com/yurijmikhalevich/rclip/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yurijmikhalevich/rclip?style=flat-square&color=yellow)](https://github.com/yurijmikhalevich/rclip/stargazers) [![Forks](https://img.shields.io/github/forks/yurijmikhalevich/rclip?style=flat-square&color=blue)](https://github.com/yurijmikhalevich/rclip/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI-Powered Command-Line Photo Search Tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 916 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ yurijmikhalevich/rclip：yurijmikhalevich/rclip helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 58/100 |
+| outlook | 61/100 |
 | adoption | 58/100 |
 | stars | 63/100 |
 | forks | 46/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

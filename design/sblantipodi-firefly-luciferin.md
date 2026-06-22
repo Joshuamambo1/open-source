@@ -1,6 +1,6 @@
 # sblantipodi/firefly_luciferin
 
-[![Stars](https://img.shields.io/github/stars/sblantipodi/firefly_luciferin?style=flat-square&color=yellow)](https://github.com/sblantipodi/firefly_luciferin/stargazers) [![Forks](https://img.shields.io/github/forks/sblantipodi/firefly_luciferin?style=flat-square&color=blue)](https://github.com/sblantipodi/firefly_luciferin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sblantipodi/firefly_luciferin?style=flat-square&color=yellow)](https://github.com/sblantipodi/firefly_luciferin/stargazers) [![Forks](https://img.shields.io/github/forks/sblantipodi/firefly_luciferin?style=flat-square&color=blue)](https://github.com/sblantipodi/firefly_luciferin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Very fast Java screen capture PC software designed for the Glow Worm Luciferin firmware, the combination of these software create the perfect Bias Lighting and Ambient Light system for PC.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 436 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ sblantipodi/firefly_luciferin：sblantipodi/firefly_luciferin may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 52/100 |
 | stars | 56/100 |
 | forks | 39/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

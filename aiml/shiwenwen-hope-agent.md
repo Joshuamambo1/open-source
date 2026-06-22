@@ -1,6 +1,6 @@
 # shiwenwen/hope-agent
 
-[![Stars](https://img.shields.io/github/stars/shiwenwen/hope-agent?style=flat-square&color=yellow)](https://github.com/shiwenwen/hope-agent/stargazers) [![Forks](https://img.shields.io/github/forks/shiwenwen/hope-agent?style=flat-square&color=blue)](https://github.com/shiwenwen/hope-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shiwenwen/hope-agent?style=flat-square&color=yellow)](https://github.com/shiwenwen/hope-agent/stargazers) [![Forks](https://img.shields.io/github/forks/shiwenwen/hope-agent?style=flat-square&color=blue)](https://github.com/shiwenwen/hope-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 会记忆、能成长的随身 AI 助手 · 桌面 / 云端 / IM 随叫随到，手机远程也能连 | Personal AI that remembers and grows — lives on desktop, self-hosted server and every IM, reachable anywhere
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ shiwenwen/hope-agent：shiwenwen/hope-agent helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 79/100 |
+| production | 56/100 |
+| outlook | 65/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 41/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

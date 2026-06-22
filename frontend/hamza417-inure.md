@@ -1,6 +1,6 @@
 # Hamza417/Inure
 
-[![Stars](https://img.shields.io/github/stars/Hamza417/Inure?style=flat-square&color=yellow)](https://github.com/Hamza417/Inure/stargazers) [![Forks](https://img.shields.io/github/forks/Hamza417/Inure?style=flat-square&color=blue)](https://github.com/Hamza417/Inure/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hamza417/Inure?style=flat-square&color=yellow)](https://github.com/Hamza417/Inure/stargazers) [![Forks](https://img.shields.io/github/forks/Hamza417/Inure?style=flat-square&color=blue)](https://github.com/Hamza417/Inure/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An elegant and beautiful premium Android app manager with Root and Shizuku support, a built-in terminal, analytics, virustotal, debloat, stats and various other features with a custom theme engine, developed with purely custom UI design and reproducible build.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Hamza417/Inure：Hamza417/Inure helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 63/100 |
 | stars | 69/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

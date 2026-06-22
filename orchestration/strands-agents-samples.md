@@ -1,6 +1,6 @@
 # strands-agents/samples
 
-[![Stars](https://img.shields.io/github/stars/strands-agents/samples?style=flat-square&color=yellow)](https://github.com/strands-agents/samples/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/samples?style=flat-square&color=blue)](https://github.com/strands-agents/samples/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-agents/samples?style=flat-square&color=yellow)](https://github.com/strands-agents/samples/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/samples?style=flat-square&color=blue)](https://github.com/strands-agents/samples/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Agent samples built using the Strands Agents SDK.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 755 |
 | 🍴 **Forks** | 397 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Orchestration · AI/ML · Frontend
 
 ### English
 
-strands-agents/samples: strands-agents/samples helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+strands-agents/samples: strands-agents/samples helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-strands-agents/samples: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+strands-agents/samples: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-strands-agents/samples：strands-agents/samples helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+strands-agents/samples：strands-agents/samples helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ strands-agents/samples：strands-agents/samples helps turn isolated prompts and 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ strands-agents/samples：strands-agents/samples helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 75/100 |
-| outlook | 82/100 |
+| production | 62/100 |
+| outlook | 68/100 |
 | adoption | 62/100 |
 | stars | 61/100 |
 | forks | 65/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

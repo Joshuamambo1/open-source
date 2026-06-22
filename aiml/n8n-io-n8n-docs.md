@@ -1,6 +1,6 @@
 # n8n-io/n8n-docs
 
-[![Stars](https://img.shields.io/github/stars/n8n-io/n8n-docs?style=flat-square&color=yellow)](https://github.com/n8n-io/n8n-docs/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/n8n-docs?style=flat-square&color=blue)](https://github.com/n8n-io/n8n-docs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n8n-io/n8n-docs?style=flat-square&color=yellow)](https://github.com/n8n-io/n8n-docs/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/n8n-docs?style=flat-square&color=blue)](https://github.com/n8n-io/n8n-docs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ n8n-io/n8n-docs：n8n-io/n8n-docs helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 75/100 |
+| production | 52/100 |
+| outlook | 61/100 |
 | adoption | 74/100 |
 | stars | 68/100 |
 | forks | 90/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

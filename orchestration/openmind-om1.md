@@ -1,6 +1,6 @@
 # OpenMind/OM1
 
-[![Stars](https://img.shields.io/github/stars/OpenMind/OM1?style=flat-square&color=yellow)](https://github.com/OpenMind/OM1/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMind/OM1?style=flat-square&color=blue)](https://github.com/OpenMind/OM1/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenMind/OM1?style=flat-square&color=yellow)](https://github.com/OpenMind/OM1/stargazers) [![Forks](https://img.shields.io/github/forks/OpenMind/OM1?style=flat-square&color=blue)](https://github.com/OpenMind/OM1/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Modular AI runtime for robots
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 991 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ OpenMind/OM1：OpenMind/OM1 helps turn isolated prompts and tools into repeatabl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 74/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 74/100 |
 | stars | 73/100 |
 | forks | 75/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

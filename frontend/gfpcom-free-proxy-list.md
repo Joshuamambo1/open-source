@@ -1,6 +1,6 @@
 # gfpcom/free-proxy-list
 
-[![Stars](https://img.shields.io/github/stars/gfpcom/free-proxy-list?style=flat-square&color=yellow)](https://github.com/gfpcom/free-proxy-list/stargazers) [![Forks](https://img.shields.io/github/forks/gfpcom/free-proxy-list?style=flat-square&color=blue)](https://github.com/gfpcom/free-proxy-list/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gfpcom/free-proxy-list?style=flat-square&color=yellow)](https://github.com/gfpcom/free-proxy-list/stargazers) [![Forks](https://img.shields.io/github/forks/gfpcom/free-proxy-list?style=flat-square&color=blue)](https://github.com/gfpcom/free-proxy-list/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 The Best Free HTTP, SOCKS4/SOCKS5, SSL,SS/SSR Proxy List,V2Ray/XRay(Vmess/Vless) Configs, Tuic, Wireguard, Hyeseria, Trojan-Go/Trojan-GFW Servers  - 🔄 Updated Every 30 Minutes⏰
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gfpcom/free-proxy-list：gfpcom/free-proxy-list helps ship user-facing interface
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 50/100 |
 | stars | 53/100 |
 | forks | 41/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # kizuna-ai-lab/sokuji
 
-[![Stars](https://img.shields.io/github/stars/kizuna-ai-lab/sokuji?style=flat-square&color=yellow)](https://github.com/kizuna-ai-lab/sokuji/stargazers) [![Forks](https://img.shields.io/github/forks/kizuna-ai-lab/sokuji?style=flat-square&color=blue)](https://github.com/kizuna-ai-lab/sokuji/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kizuna-ai-lab/sokuji?style=flat-square&color=yellow)](https://github.com/kizuna-ai-lab/sokuji/stargazers) [![Forks](https://img.shields.io/github/forks/kizuna-ai-lab/sokuji?style=flat-square&color=blue)](https://github.com/kizuna-ai-lab/sokuji/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Live speech translation powered by on-device AI and cloud providers — OpenAI, Google Gemini, Palabra.ai, Kizuna AI, Volcengine, and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 833 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kizuna-ai-lab/sokuji：kizuna-ai-lab/sokuji helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 71/100 |
+| production | 59/100 |
+| outlook | 57/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

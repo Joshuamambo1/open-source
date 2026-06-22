@@ -1,6 +1,6 @@
 # jasonraimondi/ts-oauth2-server
 
-[![Stars](https://img.shields.io/github/stars/jasonraimondi/ts-oauth2-server?style=flat-square&color=yellow)](https://github.com/jasonraimondi/ts-oauth2-server/stargazers) [![Forks](https://img.shields.io/github/forks/jasonraimondi/ts-oauth2-server?style=flat-square&color=blue)](https://github.com/jasonraimondi/ts-oauth2-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jasonraimondi/ts-oauth2-server?style=flat-square&color=yellow)](https://github.com/jasonraimondi/ts-oauth2-server/stargazers) [![Forks](https://img.shields.io/github/forks/jasonraimondi/ts-oauth2-server?style=flat-square&color=blue)](https://github.com/jasonraimondi/ts-oauth2-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A full featured, secure, standards compliant implementation of an OAuth 2.0 authorization server for Nodejs that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jasonraimondi/ts-oauth2-server：jasonraimondi/ts-oauth2-server helps research a
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 72/100 |
+| production | 58/100 |
+| outlook | 58/100 |
 | adoption | 50/100 |
 | stars | 53/100 |
 | forks | 44/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # wader/fq
 
-[![Stars](https://img.shields.io/github/stars/wader/fq?style=flat-square&color=yellow)](https://github.com/wader/fq/stargazers) [![Forks](https://img.shields.io/github/forks/wader/fq?style=flat-square&color=blue)](https://github.com/wader/fq/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wader/fq?style=flat-square&color=yellow)](https://github.com/wader/fq/stargazers) [![Forks](https://img.shields.io/github/forks/wader/fq?style=flat-square&color=blue)](https://github.com/wader/fq/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > jq for binary formats - tool, language and decoders for working with binary and text formats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.5k |
 | 🍴 **Forks** | 246 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ wader/fq is an open‑source utility that brings the power of jq’s query langu
 
 ### 中文
 
-wader/fq：wader/fq helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+wader/fq：wader/fq helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ wader/fq：wader/fq helps add AI capability without starting from a blank model 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ wader/fq：wader/fq helps add AI capability without starting from a blank model 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 85/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 82/100 |
+| production | 63/100 |
+| outlook | 68/100 |
 | adoption | 78/100 |
 | stars | 86/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Heyvhuang/ship-faster
 
-[![Stars](https://img.shields.io/github/stars/Heyvhuang/ship-faster?style=flat-square&color=yellow)](https://github.com/Heyvhuang/ship-faster/stargazers) [![Forks](https://img.shields.io/github/forks/Heyvhuang/ship-faster?style=flat-square&color=blue)](https://github.com/Heyvhuang/ship-faster/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Heyvhuang/ship-faster?style=flat-square&color=yellow)](https://github.com/Heyvhuang/ship-faster/stargazers) [![Forks](https://img.shields.io/github/forks/Heyvhuang/ship-faster?style=flat-square&color=blue)](https://github.com/Heyvhuang/ship-faster/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Heyvhuang/ship-faster is an open‑source utility that streamlines the process o
 
 ### 中文
 
-Heyvhuang/ship-faster：Heyvhuang/ship-faster may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Heyvhuang/ship-faster：Heyvhuang/ship-faster may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Heyvhuang/ship-faster：Heyvhuang/ship-faster may be useful when its README and 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ Heyvhuang/ship-faster：Heyvhuang/ship-faster may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 48/100 |
 | integration | 34/100 |
-| production | 62/100 |
-| outlook | 59/100 |
+| production | 49/100 |
+| outlook | 45/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 45/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # LandSandBoat/server
 
-[![Stars](https://img.shields.io/github/stars/LandSandBoat/server?style=flat-square&color=yellow)](https://github.com/LandSandBoat/server/stargazers) [![Forks](https://img.shields.io/github/forks/LandSandBoat/server?style=flat-square&color=blue)](https://github.com/LandSandBoat/server/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LandSandBoat/server?style=flat-square&color=yellow)](https://github.com/LandSandBoat/server/stargazers) [![Forks](https://img.shields.io/github/forks/LandSandBoat/server?style=flat-square&color=blue)](https://github.com/LandSandBoat/server/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > :sailboat: LandSandBoat - a server emulator for Final Fantasy XI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 471 |
 | 🍴 **Forks** | 853 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ LandSandBoat/server：LandSandBoat/server helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 55/100 |
+| outlook | 58/100 |
 | adoption | 61/100 |
 | stars | 57/100 |
 | forks | 73/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

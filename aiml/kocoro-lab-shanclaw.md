@@ -1,6 +1,6 @@
 # Kocoro-lab/ShanClaw
 
-[![Stars](https://img.shields.io/github/stars/Kocoro-lab/ShanClaw?style=flat-square&color=yellow)](https://github.com/Kocoro-lab/ShanClaw/stargazers) [![Forks](https://img.shields.io/github/forks/Kocoro-lab/ShanClaw?style=flat-square&color=blue)](https://github.com/Kocoro-lab/ShanClaw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kocoro-lab/ShanClaw?style=flat-square&color=yellow)](https://github.com/Kocoro-lab/ShanClaw/stargazers) [![Forks](https://img.shields.io/github/forks/Kocoro-lab/ShanClaw?style=flat-square&color=blue)](https://github.com/Kocoro-lab/ShanClaw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent runtime powered by Shannon — Mac file ops, shell, GUI automation — with complex task delegation via Shannon Cloud workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 257 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ Kocoro-lab/ShanClaw：Kocoro-lab/ShanClaw helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 58/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 69/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 51/100 |
 | stars | 51/100 |
 | forks | 51/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

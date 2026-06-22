@@ -1,6 +1,6 @@
 # AtalayaLabs/OxiCloud
 
-[![Stars](https://img.shields.io/github/stars/AtalayaLabs/OxiCloud?style=flat-square&color=yellow)](https://github.com/AtalayaLabs/OxiCloud/stargazers) [![Forks](https://img.shields.io/github/forks/AtalayaLabs/OxiCloud?style=flat-square&color=blue)](https://github.com/AtalayaLabs/OxiCloud/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AtalayaLabs/OxiCloud?style=flat-square&color=yellow)](https://github.com/AtalayaLabs/OxiCloud/stargazers) [![Forks](https://img.shields.io/github/forks/AtalayaLabs/OxiCloud?style=flat-square&color=blue)](https://github.com/AtalayaLabs/OxiCloud/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ AtalayaLabs/OxiCloud：AtalayaLabs/OxiCloud helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 81/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 80/100 |
+| production | 56/100 |
+| outlook | 66/100 |
 | adoption | 68/100 |
 | stars | 74/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

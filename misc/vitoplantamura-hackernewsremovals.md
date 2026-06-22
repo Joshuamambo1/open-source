@@ -1,6 +1,6 @@
 # vitoplantamura/HackerNewsRemovals
 
-[![Stars](https://img.shields.io/github/stars/vitoplantamura/HackerNewsRemovals?style=flat-square&color=yellow)](https://github.com/vitoplantamura/HackerNewsRemovals/stargazers) [![Forks](https://img.shields.io/github/forks/vitoplantamura/HackerNewsRemovals?style=flat-square&color=blue)](https://github.com/vitoplantamura/HackerNewsRemovals/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vitoplantamura/HackerNewsRemovals?style=flat-square&color=yellow)](https://github.com/vitoplantamura/HackerNewsRemovals/stargazers) [![Forks](https://img.shields.io/github/forks/vitoplantamura/HackerNewsRemovals?style=flat-square&color=blue)](https://github.com/vitoplantamura/HackerNewsRemovals/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > List of stories removed from the Hacker News Front Page, updated in real time.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 446 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-vitoplantamura/HackerNewsRemovals: vitoplantamura/HackerNewsRemovals may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vitoplantamura/HackerNewsRemovals: vitoplantamura/HackerNewsRemovals may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-vitoplantamura/HackerNewsRemovals: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+vitoplantamura/HackerNewsRemovals: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-vitoplantamura/HackerNewsRemovals：vitoplantamura/HackerNewsRemovals may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vitoplantamura/HackerNewsRemovals：vitoplantamura/HackerNewsRemovals may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ vitoplantamura/HackerNewsRemovals：vitoplantamura/HackerNewsRemovals may be use
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ vitoplantamura/HackerNewsRemovals：vitoplantamura/HackerNewsRemovals may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 48/100 |
 | stars | 56/100 |
 | forks | 27/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

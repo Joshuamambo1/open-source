@@ -1,6 +1,6 @@
 # orgs/community
 
-[![Stars](https://img.shields.io/github/stars/orgs/community?style=flat-square&color=yellow)](https://github.com/orgs/community/stargazers) [![Forks](https://img.shields.io/github/forks/orgs/community?style=flat-square&color=blue)](https://github.com/orgs/community/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orgs/community?style=flat-square&color=yellow)](https://github.com/orgs/community/stargazers) [![Forks](https://img.shields.io/github/forks/orgs/community?style=flat-square&color=blue)](https://github.com/orgs/community/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag github): GitHub Silently Removed payload.commits From PushEvent — Here's What Broke and How to Catch the Next One
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | devto |
 
@@ -35,7 +35,7 @@ This open‑source project documents the recent, undocumented change to GitHub�
 
 ### 中文
 
-GitHub Silently Removed payload.commits From PushEvent — Here's What Broke and How to Catch the Next One：GitHub Silently Removed payload.commits From PushEvent — Here's What Broke and How to Catch the Next One helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+GitHub Silently Removed payload.commits From PushEvent — Here's What Broke and How to Catch the Next One：GitHub Silently Removed payload.commits From PushEvent — Here's What Broke and How to Catch the Next One helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ GitHub Silently Removed payload.commits From PushEvent — Here's What Broke and
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ GitHub Silently Removed payload.commits From PushEvent — Here's What Broke and
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 40/100 |
+| quality | 30/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 53/100 |
+| production | 41/100 |
+| outlook | 39/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

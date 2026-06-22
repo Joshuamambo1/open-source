@@ -1,6 +1,6 @@
 # qiboteam/qibo
 
-[![Stars](https://img.shields.io/github/stars/qiboteam/qibo?style=flat-square&color=yellow)](https://github.com/qiboteam/qibo/stargazers) [![Forks](https://img.shields.io/github/forks/qiboteam/qibo?style=flat-square&color=blue)](https://github.com/qiboteam/qibo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qiboteam/qibo?style=flat-square&color=yellow)](https://github.com/qiboteam/qibo/stargazers) [![Forks](https://img.shields.io/github/forks/qiboteam/qibo?style=flat-square&color=blue)](https://github.com/qiboteam/qibo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A full-stack framework for quantum computing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ qiboteam/qibo：qiboteam/qibo helps research and automate market workflows.。�
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 56/100 |
 | adoption | 53/100 |
 | stars | 54/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # web3infra-foundation/libra
 
-[![Stars](https://img.shields.io/github/stars/web3infra-foundation/libra?style=flat-square&color=yellow)](https://github.com/web3infra-foundation/libra/stargazers) [![Forks](https://img.shields.io/github/forks/web3infra-foundation/libra?style=flat-square&color=blue)](https://github.com/web3infra-foundation/libra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/web3infra-foundation/libra?style=flat-square&color=yellow)](https://github.com/web3infra-foundation/libra/stargazers) [![Forks](https://img.shields.io/github/forks/web3infra-foundation/libra?style=flat-square&color=blue)](https://github.com/web3infra-foundation/libra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Libra is evolving into an AI agent–native version control tools
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Libra is an open‑source platform that merges version‑control capabilities wi
 
 ### 中文
 
-web3infra-foundation/libra：web3infra-foundation/libra helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+web3infra-foundation/libra：web3infra-foundation/libra helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ web3infra-foundation/libra：web3infra-foundation/libra helps prototype or inspe
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ web3infra-foundation/libra：web3infra-foundation/libra helps prototype or inspe
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 69/100 |
+| production | 50/100 |
+| outlook | 55/100 |
 | adoption | 40/100 |
 | stars | 37/100 |
 | forks | 49/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # withastro/astro.build
 
-[![Stars](https://img.shields.io/github/stars/withastro/astro.build?style=flat-square&color=yellow)](https://github.com/withastro/astro.build/stargazers) [![Forks](https://img.shields.io/github/forks/withastro/astro.build?style=flat-square&color=blue)](https://github.com/withastro/astro.build/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/withastro/astro.build?style=flat-square&color=yellow)](https://github.com/withastro/astro.build/stargazers) [![Forks](https://img.shields.io/github/forks/withastro/astro.build?style=flat-square&color=blue)](https://github.com/withastro/astro.build/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 494 |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ withastro/astro.build is an open‑source, modern web framework that lets develo
 
 ### 中文
 
-withastro/astro.build：withastro/astro.build helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+withastro/astro.build：withastro/astro.build helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ withastro/astro.build：withastro/astro.build helps ship user-facing interfaces 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ withastro/astro.build：withastro/astro.build helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 51/100 |
 | integration | 18/100 |
-| production | 61/100 |
-| outlook | 61/100 |
+| production | 48/100 |
+| outlook | 47/100 |
 | adoption | 57/100 |
 | stars | 57/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

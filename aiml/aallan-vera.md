@@ -1,6 +1,6 @@
 # aallan/vera
 
-[![Stars](https://img.shields.io/github/stars/aallan/vera?style=flat-square&color=yellow)](https://github.com/aallan/vera/stargazers) [![Forks](https://img.shields.io/github/forks/aallan/vera?style=flat-square&color=blue)](https://github.com/aallan/vera/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aallan/vera?style=flat-square&color=yellow)](https://github.com/aallan/vera/stargazers) [![Forks](https://img.shields.io/github/forks/aallan/vera?style=flat-square&color=blue)](https://github.com/aallan/vera/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Vera: a programming language designed for LLMs to write
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 332 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ aallan/vera：aallan/vera helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 68/100 |
+| production | 55/100 |
+| outlook | 54/100 |
 | adoption | 47/100 |
 | stars | 54/100 |
 | forks | 29/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

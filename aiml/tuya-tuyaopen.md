@@ -1,6 +1,6 @@
 # tuya/TuyaOpen
 
-[![Stars](https://img.shields.io/github/stars/tuya/TuyaOpen?style=flat-square&color=yellow)](https://github.com/tuya/TuyaOpen/stargazers) [![Forks](https://img.shields.io/github/forks/tuya/TuyaOpen?style=flat-square&color=blue)](https://github.com/tuya/TuyaOpen/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tuya/TuyaOpen?style=flat-square&color=yellow)](https://github.com/tuya/TuyaOpen/stargazers) [![Forks](https://img.shields.io/github/forks/tuya/TuyaOpen?style=flat-square&color=blue)](https://github.com/tuya/TuyaOpen/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 264 |
 | 💻 **Language** | C |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tuya/TuyaOpen：tuya/TuyaOpen helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 80/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 82/100 |
+| production | 56/100 |
+| outlook | 68/100 |
 | adoption | 66/100 |
 | stars | 68/100 |
 | forks | 61/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

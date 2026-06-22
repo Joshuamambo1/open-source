@@ -1,6 +1,6 @@
 # vstorm-co/pydantic-deepagents
 
-[![Stars](https://img.shields.io/github/stars/vstorm-co/pydantic-deepagents?style=flat-square&color=yellow)](https://github.com/vstorm-co/pydantic-deepagents/stargazers) [![Forks](https://img.shields.io/github/forks/vstorm-co/pydantic-deepagents?style=flat-square&color=blue)](https://github.com/vstorm-co/pydantic-deepagents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vstorm-co/pydantic-deepagents?style=flat-square&color=yellow)](https://github.com/vstorm-co/pydantic-deepagents/stargazers) [![Forks](https://img.shields.io/github/forks/vstorm-co/pydantic-deepagents?style=flat-square&color=blue)](https://github.com/vstorm-co/pydantic-deepagents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Build Claude Code–style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, and unlimited context — all on Pydantic AI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 770 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Orchestration · AI/ML · Frontend
 
 ### English
 
-vstorm-co/pydantic-deepagents: vstorm-co/pydantic-deepagents helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+vstorm-co/pydantic-deepagents: vstorm-co/pydantic-deepagents helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-vstorm-co/pydantic-deepagents: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+vstorm-co/pydantic-deepagents: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-vstorm-co/pydantic-deepagents：vstorm-co/pydantic-deepagents helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+vstorm-co/pydantic-deepagents：vstorm-co/pydantic-deepagents helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ vstorm-co/pydantic-deepagents：vstorm-co/pydantic-deepagents helps turn isolate
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ vstorm-co/pydantic-deepagents：vstorm-co/pydantic-deepagents helps turn isolate
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 76/100 |
+| quality | 66/100 |
 | integration | 94/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 64/100 |
+| outlook | 68/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 48/100 |
-| recency | 80/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

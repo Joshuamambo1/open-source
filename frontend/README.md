@@ -586,8 +586,8 @@
 | 576 | [deepinv/deepinv](./deepinv-deepinv.md) | ⭐ 730 | Python | 54/100 |
 | 577 | [markusmoenig/Eldiron](./markusmoenig-eldiron.md) | ⭐ 760 | Rust | 54/100 |
 | 578 | [mendrik-private/sqv](./mendrik-private-sqv.md) | ⭐ 151 | Rust | 54/100 |
-| 579 | [hyperlight-dev/hyperlight-wasm](./hyperlight-dev-hyperlight-wasm.md) | ⭐ 706 | Rust | 54/100 |
-| 580 | [BrettMayson/HEMTT](./brettmayson-hemtt.md) | ⭐ 146 | Rust | 54/100 |
+| 579 | [BrettMayson/HEMTT](./brettmayson-hemtt.md) | ⭐ 146 | Rust | 54/100 |
+| 580 | [hyperlight-dev/hyperlight-wasm](./hyperlight-dev-hyperlight-wasm.md) | ⭐ 706 | Rust | 54/100 |
 | 581 | [Gaok1/Raven-RiscV](./gaok1-raven-riscv.md) | ⭐ 101 | Rust | 54/100 |
 | 582 | [DelSkayn/rquickjs](./delskayn-rquickjs.md) | ⭐ 915 | Rust | 54/100 |
 | 583 | [SofusA/qobine](./sofusa-qobine.md) | ⭐ 216 | Rust | 54/100 |
@@ -628,8 +628,8 @@
 | 618 | [appium/appium-uiautomator2-server](./appium-appium-uiautomator2-server.md) | ⭐ 406 | Java | 53/100 |
 | 619 | [jbrooksuk/artisan.page](./jbrooksuk-artisan.page.md) | ⭐ 411 | Vue | 53/100 |
 | 620 | [vchelaru/Gum](./vchelaru-gum.md) | ⭐ 457 | C# | 53/100 |
-| 621 | [getmydia/mydia](./getmydia-mydia.md) | ⭐ 731 | Elixir | 53/100 |
-| 622 | [gszabi99/War-Thunder-Datamine](./gszabi99-war-thunder-datamine.md) | ⭐ 415 | Squirrel | 53/100 |
+| 621 | [gszabi99/War-Thunder-Datamine](./gszabi99-war-thunder-datamine.md) | ⭐ 415 | Squirrel | 53/100 |
+| 622 | [getmydia/mydia](./getmydia-mydia.md) | ⭐ 731 | Elixir | 53/100 |
 | 623 | [rikhuijzer/fx](./rikhuijzer-fx.md) | ⭐ 310 | Rust | 53/100 |
 | 624 | [LalitMaganti/syntaqlite](./lalitmaganti-syntaqlite.md) | ⭐ 768 | Rust | 53/100 |
 | 625 | [micro-manager/micro-manager](./micro-manager-micro-manager.md) | ⭐ 303 | Java | 53/100 |
@@ -711,9 +711,9 @@
 | 701 | [MoganLab/mogan](./moganlab-mogan.md) | ⭐ 558 | Scheme | 50/100 |
 | 702 | [sadoyan/aralez](./sadoyan-aralez.md) | ⭐ 701 | Rust | 50/100 |
 | 703 | [Charcoal-SE/SmokeDetector](./charcoal-se-smokedetector.md) | ⭐ 493 | Python | 50/100 |
-| 704 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 704 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
 | 705 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
-| 706 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 706 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
 | 707 | [Hylbert/Mark2TeX](./hylbert-mark2tex.md) | ⭐ — | — | 50/100 |
 | 708 | [pkulak/matui](./pkulak-matui.md) | ⭐ 108 | Rust | 50/100 |
 | 709 | [facebook/openbmc](./facebook-openbmc.md) | ⭐ 678 | C | 50/100 |

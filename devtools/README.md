@@ -69,8 +69,8 @@
 | 59 | [pallets/click](./pallets-click.md) | ⭐ 17.5k | Python | 69/100 |
 | 60 | [xx4h/hctl](./xx4h-hctl.md) | ⭐ 79 | Go | 69/100 |
 | 61 | [microsoft/testfx](./microsoft-testfx.md) | ⭐ 1k | C# | 69/100 |
-| 62 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
-| 63 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
+| 62 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
+| 63 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
 | 64 | [Icinga/icingaweb2](./icinga-icingaweb2.md) | ⭐ 839 | PHP | 69/100 |
 | 65 | [SAP/jenkins-library](./sap-jenkins-library.md) | ⭐ 819 | Go | 69/100 |
 | 66 | [uralys/fox](./uralys-fox.md) | ⭐ 173 | GDScript | 69/100 |
@@ -305,8 +305,8 @@
 | 295 | [Benexl/yt-x](./benexl-yt-x.md) | ⭐ 1.5k | Shell | 58/100 |
 | 296 | [Azure/azure-cli-extensions](./azure-azure-cli-extensions.md) | ⭐ 439 | Python | 58/100 |
 | 297 | [Protryon/klickhouse](./protryon-klickhouse.md) | ⭐ 126 | Rust | 58/100 |
-| 298 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
-| 299 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
+| 298 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
+| 299 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
 | 300 | [mos1128/ccg-gateway](./mos1128-ccg-gateway.md) | ⭐ 129 | Rust | 58/100 |
 | 301 | [codemod/codemod](./codemod-codemod.md) | ⭐ 993 | Rust | 58/100 |
 | 302 | [d-kimuson/claude-code-viewer](./d-kimuson-claude-code-viewer.md) | ⭐ 1.2k | TypeScript | 58/100 |

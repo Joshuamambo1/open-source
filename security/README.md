@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**67 projects** in this category.
+**68 projects** in this category.
 
 ## Projects
 
@@ -75,6 +75,7 @@
 | 65 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
 | 66 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
 | 67 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
+| 68 | [GnomeMan4201/r4b1t](./gnomeman4201-r4b1t.md) | ⭐ — | — | 39/100 |
 
 ---
 

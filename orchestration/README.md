@@ -2,7 +2,7 @@
 
 > Agent orchestration frameworks (LangGraph, CrewAI, AutoGen, DSPy), long-term memory (Mem0, Letta, Zep), skills & tool-use plugins
 
-**728 projects** in this category.
+**729 projects** in this category.
 
 ## Projects
 
@@ -124,8 +124,8 @@
 | 114 | [standardagents/dmux](./standardagents-dmux.md) | ⭐ 1.6k | HTML | 76/100 |
 | 115 | [alexgreensh/repo-forensics](./alexgreensh-repo-forensics.md) | ⭐ 63 | Python | 76/100 |
 | 116 | [svd-ai-lab/sim-cli](./svd-ai-lab-sim-cli.md) | ⭐ 63 | Python | 76/100 |
-| 117 | [denizgursoy/gotouch](./denizgursoy-gotouch.md) | ⭐ 142 | Go | 76/100 |
-| 118 | [roampal-ai/roampal-core](./roampal-ai-roampal-core.md) | ⭐ 45 | Python | 76/100 |
+| 117 | [roampal-ai/roampal-core](./roampal-ai-roampal-core.md) | ⭐ 45 | Python | 76/100 |
+| 118 | [denizgursoy/gotouch](./denizgursoy-gotouch.md) | ⭐ 142 | Go | 76/100 |
 | 119 | [saltbo/agent-kanban](./saltbo-agent-kanban.md) | ⭐ 260 | TypeScript | 76/100 |
 | 120 | [kagan-sh/kagan](./kagan-sh-kagan.md) | ⭐ 77 | Python | 76/100 |
 | 121 | [eval-sys/mcpmark](./eval-sys-mcpmark.md) | ⭐ 416 | Python | 76/100 |
@@ -245,8 +245,8 @@
 | 235 | [postrv/forgemax](./postrv-forgemax.md) | ⭐ 148 | Rust | 71/100 |
 | 236 | [letta-ai/letta](./letta-ai-letta.md) | ⭐ 22.7k | Python | 71/100 |
 | 237 | [officecli/officecli](./officecli-officecli.md) | ⭐ 38 | Shell | 71/100 |
-| 238 | [nexu-io/html-anything](./nexu-io-html-anything.md) | ⭐ 33 | HTML | 71/100 |
-| 239 | [KarryViber/Orb](./karryviber-orb.md) | ⭐ 60 | JavaScript | 71/100 |
+| 238 | [KarryViber/Orb](./karryviber-orb.md) | ⭐ 60 | JavaScript | 71/100 |
+| 239 | [nexu-io/html-anything](./nexu-io-html-anything.md) | ⭐ 33 | HTML | 71/100 |
 | 240 | [JudgmentLabs/judgeval](./judgmentlabs-judgeval.md) | ⭐ 1k | Python | 71/100 |
 | 241 | [mathomhaus/guild](./mathomhaus-guild.md) | ⭐ 188 | Go | 71/100 |
 | 242 | [prassanna-ravishankar/repowire](./prassanna-ravishankar-repowire.md) | ⭐ 87 | HTML | 71/100 |
@@ -415,8 +415,8 @@
 | 405 | [fujiapple852/trippy](./fujiapple852-trippy.md) | ⭐ 6.8k | Rust | 66/100 |
 | 406 | [Atmosphere/atmosphere](./atmosphere-atmosphere.md) | ⭐ 3.8k | Java | 66/100 |
 | 407 | [dapr/dapr-agents](./dapr-dapr-agents.md) | ⭐ 673 | Python | 66/100 |
-| 408 | [Callous-0923/agent-study](./callous-0923-agent-study.md) | ⭐ 34 | HTML | 66/100 |
-| 409 | [iOfficeAI/aionrs](./iofficeai-aionrs.md) | ⭐ 85 | Rust | 66/100 |
+| 408 | [iOfficeAI/aionrs](./iofficeai-aionrs.md) | ⭐ 85 | Rust | 66/100 |
+| 409 | [Callous-0923/agent-study](./callous-0923-agent-study.md) | ⭐ 34 | HTML | 66/100 |
 | 410 | [cobanov/websum](./cobanov-websum.md) | ⭐ 125 | Python | 66/100 |
 | 411 | [aws-samples/amazon-bedrock-samples](./aws-samples-amazon-bedrock-samples.md) | ⭐ 1.4k | Jupyter Notebook | 66/100 |
 | 412 | [humanspeak/svelte-markdown](./humanspeak-svelte-markdown.md) | ⭐ 98 | TypeScript | 66/100 |
@@ -722,20 +722,21 @@
 | 712 | [ZhangHanDong/mempal](./zhanghandong-mempal.md) | ⭐ 142 | Rust | 47/100 |
 | 713 | [matthart1983/netwatch](./matthart1983-netwatch.md) | ⭐ 1.7k | Rust | 46/100 |
 | 714 | [ldclabs/anda-hippocampus](./ldclabs-anda-hippocampus.md) | ⭐ 50 | Rust | 46/100 |
-| 715 | [GoogleCloudPlatform/devrel-demos](./googlecloudplatform-devrel-demos.md) | ⭐ — | — | 46/100 |
-| 716 | [GoogleCloudPlatform/agent-starter-pack](./googlecloudplatform-agent-starter-pack.md) | ⭐ — | — | 46/100 |
+| 715 | [GoogleCloudPlatform/agent-starter-pack](./googlecloudplatform-agent-starter-pack.md) | ⭐ — | — | 46/100 |
+| 716 | [GoogleCloudPlatform/devrel-demos](./googlecloudplatform-devrel-demos.md) | ⭐ — | — | 46/100 |
 | 717 | [SkillsCat/skillscat](./skillscat-skillscat.md) | ⭐ 43 | TypeScript | 46/100 |
 | 718 | [YPares/agent-skills](./ypares-agent-skills.md) | ⭐ 24 | Shell | 45/100 |
-| 719 | [digitaldrywood/detent](./digitaldrywood-detent.md) | ⭐ — | — | 45/100 |
-| 720 | [diegoscarabelli/system2](./diegoscarabelli-system2.md) | ⭐ — | — | 45/100 |
-| 721 | [aegis-dq/aegis-dq](./aegis-dq-aegis-dq.md) | ⭐ — | — | 45/100 |
-| 722 | [adamjgmiller/adamsreview](./adamjgmiller-adamsreview.md) | ⭐ — | — | 45/100 |
-| 723 | [matthart1983/syswatch](./matthart1983-syswatch.md) | ⭐ 399 | Rust | 43/100 |
-| 724 | [CarpseDeam/Aura-IDE](./carpsedeam-aura-ide.md) | ⭐ — | — | 41/100 |
-| 725 | [vystartasv/skill-forge](./vystartasv-skill-forge.md) | ⭐ — | — | 40/100 |
-| 726 | [microsoft/autogen](./microsoft-autogen.md) | ⭐ — | — | 32/100 |
-| 727 | [trimooo/react-ai-stream](./trimooo-react-ai-stream.md) | ⭐ — | — | 31/100 |
-| 728 | [theoddden/Mandala](./theoddden-mandala.md) | ⭐ — | — | 31/100 |
+| 719 | [tamarillo-ai/theta-spec](./tamarillo-ai-theta-spec.md) | ⭐ — | — | 45/100 |
+| 720 | [digitaldrywood/detent](./digitaldrywood-detent.md) | ⭐ — | — | 45/100 |
+| 721 | [diegoscarabelli/system2](./diegoscarabelli-system2.md) | ⭐ — | — | 45/100 |
+| 722 | [aegis-dq/aegis-dq](./aegis-dq-aegis-dq.md) | ⭐ — | — | 45/100 |
+| 723 | [adamjgmiller/adamsreview](./adamjgmiller-adamsreview.md) | ⭐ — | — | 45/100 |
+| 724 | [matthart1983/syswatch](./matthart1983-syswatch.md) | ⭐ 399 | Rust | 43/100 |
+| 725 | [CarpseDeam/Aura-IDE](./carpsedeam-aura-ide.md) | ⭐ — | — | 41/100 |
+| 726 | [vystartasv/skill-forge](./vystartasv-skill-forge.md) | ⭐ — | — | 40/100 |
+| 727 | [microsoft/autogen](./microsoft-autogen.md) | ⭐ — | — | 32/100 |
+| 728 | [trimooo/react-ai-stream](./trimooo-react-ai-stream.md) | ⭐ — | — | 31/100 |
+| 729 | [theoddden/Mandala](./theoddden-mandala.md) | ⭐ — | — | 31/100 |
 
 ---
 

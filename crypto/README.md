@@ -59,8 +59,8 @@
 | 49 | [kairos-io/kairos](./kairos-io-kairos.md) | ⭐ 1.7k | Go | 67/100 |
 | 50 | [digital-asset/daml](./digital-asset-daml.md) | ⭐ 891 | Haskell | 67/100 |
 | 51 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 44 | Shell | 67/100 |
-| 52 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
-| 53 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
+| 52 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
+| 53 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
 | 54 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 66/100 |
 | 55 | [ethereum-optimism/optimism](./ethereum-optimism-optimism.md) | ⭐ 6.4k | Go | 66/100 |
 | 56 | [planetarium/NineChronicles](./planetarium-ninechronicles.md) | ⭐ 402 | C# | 66/100 |

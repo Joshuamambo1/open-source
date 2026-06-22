@@ -27,58 +27,60 @@ AI/ML
 
 ### English
 
-**Brief Summary**  
-Selector Forge is a browser extension that leverages AI to generate resilient DOM selectors, letting developers prototype AI‑enhanced UI‑automation or retrieval‑augmented generation (RAG) workflows without building a model stack from scratch. It is useful for quickly adding selector‑generation capabilities to internal tools, but the output should be manually reviewed before being trusted in production.
+**Brief summary**  
+Selector Forge is a browser extension that leverages AI to generate resilient DOM selectors, letting developers quickly prototype UI‑automation or data‑extraction features without building a selector‑generation model from scratch. It is positioned as a low‑friction way to add AI‑driven selector logic to RAG, agent, or scraping workflows, but the output should be manually reviewed before being trusted in production.
 
 **Value**  
-- **Speed to prototype** – The AI‑driven selector engine produces robust, change‑tolerant CSS/XPath selectors in seconds, cutting the manual effort normally required for UI‑scraping or test‑automation scripts.  
-- **Low‑code integration** – Because it runs as a browser extension, you can capture selectors directly from the page you’re working on and feed them into downstream RAG pipelines, agents, or test frameworks without writing custom parsing code.  
-- **Model‑agnostic** – The extension ships with a pre‑trained model, so teams can experiment with AI‑augmented selectors without investing in model training, data labeling, or infrastructure.
+- **Speed:** Turns a manual, error‑prone selector‑writing task into an almost‑instant AI suggestion, accelerating prototype development and internal tooling.  
+- **Flexibility:** Works with any web page the extension can inspect, making it useful for building proof‑of‑concept RAG pipelines, autonomous agents, or test‑automation scripts.  
+- **Low entry barrier:** No need to train or host a custom model; the extension ships the AI capability out‑of‑the‑box.
 
-**Practical Adoption Path**  
-1. **Install the extension** in the browsers used by your dev or QA team.  
-2. **Generate selectors** on target pages, export them (JSON/CSV) and review them manually for correctness and security.  
-3. **Integrate** the exported selectors into your existing automation or RAG pipelines (e.g., Selenium scripts, LangChain agents) via a simple import step.  
-4. **Iterate**: adjust prompts or post‑process the selectors as needed, then lock the vetted set into version control.  
-5. **Governance**: add a review checklist to ensure selectors are still valid after UI changes and that no sensitive data is inadvertently captured.
+**Practical adoption path**  
+1. **Install & test locally** – Add the extension to a development browser, run it on representative pages, and compare AI‑generated selectors against your existing ones.  
+2. **Manual validation** – Review the suggested selectors for stability, uniqueness, and security (e.g., avoid overly broad XPath).  
+3. **Integrate into tooling** – Export the vetted selectors into your automation framework, RAG indexer, or agent script.  
+4. **Automate regression checks** – Add unit tests that verify the selector still resolves the intended element after UI changes.  
+5. **Scale** – If the manual validation step proves reliable, embed the extension’s API (or its underlying model) into CI pipelines for bulk selector generation.
 
-**Production Readiness** – Rated **Medium**. The tool is mature enough for internal prototypes and low‑risk workflows, but it requires:  
+**Production readiness**  
+- **Readiness level:** *Medium* – the extension is functional for prototypes and internal workflows, but it requires careful validation and ongoing maintenance.  
+- **Dependencies & maintenance:** Verify the extension’s license, check the repository for recent commits, issue response times, and release cadence.  
+- **Risk mitigation:** Treat AI‑generated selectors as suggestions, not guarantees; implement fallback selectors and continuous monitoring to catch breakage after UI updates.  
 
-- **Manual validation** of generated selectors before deployment.  
-- **Dependency checks** (extension version, underlying AI model licensing, browser compatibility).  
-- **Ongoing maintenance** to keep the extension up‑to‑date with browser releases and any model updates.  
-
-If those checks are in place, Selector Forge can be safely used in production‑adjacent contexts (e.g., internal data‑extraction services, QA automation). For customer‑facing or high‑availability systems, additional testing, monitoring, and a fallback to deterministic selector strategies are recommended.
+Overall, Selector Forge can accelerate development of AI‑enhanced selector logic, provided teams perform the necessary manual vetting and maintain an eye on the project’s health before promoting it to production.
 
 ### Русский
 
-Show HN: Selector Forge – это браузерное расширение, которое генерирует устойчивые CSS‑селекторы с помощью ИИ, позволяя быстро добавить AI‑функциональность в прототипы без необходимости создавать модель с нуля. Его типичный сценарий — прототипирование AI‑фич, построение RAG‑ или агентных пайплайнов и оценка инструментов модели, при этом перед внедрением требуется ручная проверка из‑за скудных интеграционных сигналов. Готовность к production средняя: подходит для внутренних экспериментов и прототипов, но перед выпуском в продакшн необходимо проверить лицензию, активность поддержки, наличие документации и частоту релизов.
+Show HN: Selector Forge — это браузерное расширение, генерирующее устойчивые CSS‑селекторы с помощью ИИ, что позволяет быстро прототипировать AI‑функциональность (например, RAG‑агенты или автоматизацию тестов) без необходимости строить собственную модельный стек. Для внедрения обычно достаточно установить расширение, протестировать полученные селекторы вручную и интегрировать их в рабочий процесс, поскольку автоматические сигналы о совместимости ограничены. Готовность к production — средняя: решение подходит для прототипов и внутренних инструментов, но перед масштабным использованием следует проверить лицензию, активность поддержки, наличие документации и стабильность релизов.
 
 ### 中文
 
 **项目简介**  
-Show HN: Selector Forge 是一款浏览器扩展，利用 AI 自动生成对页面元素稳健的 CSS/XPath 选择器。它让开发者无需从零搭建模型，即可在原型或内部工具中快速加入 AI 驱动的定位能力。
+Show HN: Selector Forge 是一款浏览器扩展，利用大模型为网页元素自动生成“弹性选择器”（resilient selectors），帮助开发者在不从零搭建模型的前提下快速加入 AI 能力。它适合用于原型验证、RAG/Agent 工作流构建以及模型工具链的评估。
 
 **价值**  
-- **快速原型**：通过一次点击即可得到可抗页面结构变化的选择器，显著缩短前端自动化、爬虫或 RAG/Agent 工作流的开发周期。  
-- **降低门槛**：不需要自行训练或部署模型，直接使用扩展内部的 AI 服务，即可在现有项目中嵌入智能选择功能。  
+- **快速原型**：只需在浏览器中点击，即可得到对页面结构变化鲁棒的 CSS/XPath 选择器，省去手工调试的时间。  
+- **低门槛 AI 接入**：内部调用 OpenAI/Claude 等大模型 API，开发者无需自行训练或部署模型，即可获得 AI 生成的选择器。  
+- **提升自动化可靠性**：弹性选择器对 DOM 轻微改动具备自适应能力，降低爬虫、测试或 RAG 数据抓取脚本的维护成本。
 
 **典型接入方式**  
-1. 在 Chrome/Edge 等浏览器中安装 Selector Forge 扩展。  
-2. 打开目标网页，使用扩展提供的 UI（右键菜单或侧边栏）生成选择器。  
-3. 将生成的 selector 复制到代码或自动化脚本中，必要时手动检查/微调后投入使用。  
-> **注意**：由于元数据中集成信号稀疏，建议在正式项目中使用前先进行人工审查，确认生成的 selector 的准确性和安全性。
+1. **安装扩展**：在 Chrome/Edge 等 Chromium 浏览器的扩展商店或直接从 GitHub Releases 安装最新版本。  
+2. **配置 API 凭证**：在扩展设置页填写 OpenAI、Anthropic 或自建 LLM 的 API Key（支持多模型切换）。  
+3. **生成选择器**：打开目标网页，右键或使用快捷键激活 Selector Forge，选中页面元素后弹出 AI 生成的选择器建议。  
+4. **导出使用**：将生成的 CSS/XPath 复制到代码、爬虫或测试脚本中；也可以通过扩展提供的 JSON 接口直接写入项目配置文件。  
+
+> **注意**：因为项目的元数据较少，建议在正式项目中使用前手动审查生成的选择器，确保其符合业务需求并不存在安全风险。
 
 **生产可用性**  
-- **成熟度**：目前属于 **Medium** 级别，适合原型、内部工具或低风险业务。  
-- **依赖与维护**：项目最近一次更新是 2026‑06‑22，仍在活跃维护，但需自行检查许可证、文档完整度、issue 处理速度以及发布节奏。  
-- **上线建议**：在生产环境部署前，进行以下检查：  
-  1. 确认开源许可证兼容公司政策。  
-  2. 评估扩展的依赖（如 AI 服务的调用额度、网络连通性）。  
-  3. 编写自动化测试验证生成的 selector 在页面改版后的鲁棒性。  
-  4. 建立监控/回滚机制，以防 AI 生成的 selector 失效。  
+- **成熟度**：当前评分 41/100，属于 **中等** 级别。适合原型、内部工具或实验性项目。  
+- **依赖风险**：依赖外部 LLM 服务（计费、速率限制）以及浏览器扩展的持续维护。  
+- **准备工作**：在生产环境部署前，需要检查以下事项：  
+  1. **许可证** – 确认符合公司合规要求。  
+  2. **维护状态** – 查看最近的提交、issue 处理速度和发布频率。  
+  3. **文档与测试** – 编写针对生成选择器的回归测试，防止因页面微调导致失效。  
+  4 **安全审计** – 防止将敏感页面信息泄露给外部 LLM。  
 
-综上，Selector Forge 是一个能够快速为前端自动化和 AI 工作流提供稳健选择器的工具，适合作为原型或内部流程的加速器；在正式生产环境使用时，需要进行充分的人工验证和运维准备。
+综上，Selector Forge 是一个 **快速、低成本** 的 AI 选取器解决方案，适合作为 **原型或内部自动化** 的加速器；在投入生产前需完成依赖、合规和可靠性验证。
 
 ## 🧭 Practical evaluation
 

@@ -28,56 +28,53 @@ AI/ML · Product
 ### English
 
 **Brief Summary (2‑3 sentences)**  
-“I run 17 side projects. I'm not a person.” is an open‑source AI/ML toolkit that lets developers quickly add intelligent capabilities—such as retrieval‑augmented generation (RAG) or autonomous agent workflows—without building a model stack from scratch. It is positioned as a prototyping aid for internal tools and experimental features, and it surfaced in a dev.to article (tag #showdev).  
+The “I run 17 side projects. I'm not a person.” library is an open‑source toolkit that lets developers plug AI capabilities—such as retrieval‑augmented generation (RAG) and autonomous agent workflows—into their products without building a model stack from scratch. It is positioned as a rapid‑prototyping aid for AI‑enhanced features, especially for internal tools or proof‑of‑concepts.
 
 **Value Proposition**  
-- **Speed to prototype** – pre‑wired components for data ingestion, vector search, and LLM orchestration let teams spin up AI‑enhanced features in days rather than weeks.  
-- **Low barrier to entry** – the project bundles common model APIs and prompt templates, so you don’t need deep expertise in model serving or prompt engineering.  
-- **Flexibility** – works with multiple LLM providers and can be extended to custom retrieval or agent logic, making it suitable for a wide range of product experiments.  
+- **Speed to market:** Provides ready‑made abstractions for common AI patterns (RAG, tool‑calling agents), so teams can focus on product logic rather than low‑level model orchestration.  
+- **Lower entry barrier:** Eliminates the need to assemble and maintain a full ML pipeline, which is especially useful for small teams or side‑project developers.  
+- **Flexibility:** Works with multiple model providers, allowing quick experimentation with different LLMs or embeddings.
 
 **Practical Adoption Path**  
-1. **Explore the repo** – clone the project, review the README, and run the provided example notebooks to understand the default RAG/agent pipelines.  
-2. **Validate licensing & health** – check the LICENSE file, open‑issue count, recent commit activity, and CI status to ensure the codebase is actively maintained.  
-3. **Create a sandbox** – spin up a isolated environment (Docker or virtualenv) and replace the demo data with a small slice of your own domain data.  
-4. **Iterate on prompts & retrieval** – use the built‑in prompt templates as a starting point, then tweak them to match your use case (e.g., customer support, knowledge‑base lookup).  
-5. **Integrate with your stack** – wrap the library’s Python API or HTTP wrapper into your service layer, adding any required authentication or monitoring.  
-6. **Manual QA** – run end‑to‑end tests on realistic queries, inspecting the generated responses and retrieval relevance before promoting to a staging environment.  
+1. **Explore the repository** – clone the project, run the example notebooks, and verify that the provided APIs align with your intended use case (e.g., document search, chatbot agent).  
+2. **Run a sandbox prototype** – integrate the library into a minimal internal service, feeding it a sample dataset to validate retrieval quality and agent behavior.  
+3. **Code review & security check** – inspect the dependency tree, license (verify it matches your compliance needs), and any known security advisories.  
+4. **Add tests & monitoring** – augment the library with unit/integration tests for your data, and instrument logging to capture latency, token usage, and error rates.  
+5. **Gradual rollout** – deploy the prototype behind a feature flag in a staging environment, gather feedback, and iterate before promoting to production.
 
 **Production Readiness**  
-- **Readiness level: Medium** – the toolkit is solid for prototypes and internal workflows, but it lacks comprehensive production‑grade features such as built‑in observability, auto‑scaling, or hardened security controls.  
-- **Key considerations before production**  
-  * **Dependency hygiene** – audit third‑party libraries for known vulnerabilities and pin versions.  
-  * **License compliance** – confirm the open‑source license aligns with your organization’s policy.  
-  * **Maintenance cadence** – monitor upstream activity; if the project becomes stagnant, plan for a fork or alternative.  
-  * **Performance & cost** – benchmark latency and token usage with your chosen LLM provider; add budgeting safeguards.  
-  * **Operational tooling** – supplement with logging, tracing, and alerting (e.g., OpenTelemetry) to achieve production observability.  
-
-In short, the project offers a rapid way to embed AI features, but teams should treat it as a prototype foundation, perform a thorough manual review, and add the necessary production scaffolding before deploying at scale.
+- **Maturity:** Rated *Medium* – the project is recent (last updated 2026‑06‑16) and shows activity across five topics, but integration signals are sparse and documentation is limited.  
+- **Risks:** Potential gaps in long‑term maintenance, limited issue triage, and unclear release cadence. Before production use, confirm the library’s licensing, verify that critical bugs are addressed, and consider pinning exact versions of dependencies.  
+- **Recommendation:** Suitable for internal prototypes, pilot AI features, or low‑risk external tools after a thorough validation phase; for mission‑critical services, treat it as a component that may need a fallback or custom wrapper until the upstream project demonstrates stable, sustained support.
 
 ### Русский
 
-**I run 17 side projects. I'm not a person** — это open‑source набор инструментов, позволяющий быстро добавить AI‑функциональность (RAG, агентные цепочки, прототипы моделей) без необходимости строить стек с нуля. Он подходит для быстрых прототипов и внутренних воркфлоу, однако перед внедрением требуется ручная проверка метаданных, лицензий и состояния поддержки, так как готовность к production оценивается как средняя.
+**I run 17 side projects. I'm not a person** — это open‑source библиотека, позволяющая быстро добавить AI‑функциональность (RAG, агентные воркфлоу, прототипы моделей) без необходимости собирать стек с нуля. Она подходит для внутренних прототипов и экспериментов, однако перед переходом в продакшн требуется ручная проверка интеграции, лицензии и поддерживаемости, так как метаданные о совместимости ограничены. Готовность к production — средняя: проект пригоден для быстрых пилотов, но требует дополнительного аудита и контроля зависимостей перед масштабированием.
 
 ### 中文
 
 **项目简介**  
-I run 17 side projects. I'm not a person. 是一个在 dev.to（标签 *showdev*）中被提及的开源工具，它提供了一整套可直接使用的 AI 能力，帮助开发者在不从零搭建模型堆栈的情况下快速实现 RAG、智能体等功能。
+“I run 17 side projects. I'm not a person.” 是一个在 dev.to（标签 *showdev*）中被提及的开源工具，旨在帮助开发者在不从零搭建模型栈的情况下快速引入 AI 能力。它提供了即插即用的 RAG（检索增强生成）和智能体工作流模板，适合用于原型验证和内部实验。
 
 **价值**  
-- **快速原型**：通过预置的模型和示例代码，几分钟即可搭建 AI 原型或内部实验。  
-- **降低门槛**：无需自行训练或部署底层模型，直接调用即得，适合产品经理和全栈开发者。  
-- **灵活评估**：提供多种模型工具链，可用于对比不同 RAG/agent 实现的效果和性能。
+- **快速原型**：只需少量配置即可在现有系统中加入检索、对话或自动化 Agent 功能，显著缩短研发周期。  
+- **降低门槛**：封装了常用的模型调用、向量检索和上下文管理逻辑，开发者无需深入了解底层模型细节。  
+- **灵活评估**：提供多模型切换和工具链评测的示例，方便对比不同 LLM、向量数据库或工具插件的表现。
 
 **典型接入方式**  
-1. **克隆仓库**或通过 npm/pip 安装（视语言而定）。  
-2. 根据 README 中的 `config.yaml` 配置数据源、向量库和所选模型。  
-3. 在代码中调用 `run_project(project_id)` 或相应的 SDK 接口，即可获得完整的推理流水线。  
-4. 在内部 CI 环境中加入单元测试，确保集成信号（如模型响应时间、向量检索准确率）符合预期。
+1. **克隆仓库**，使用 `requirements.txt` 安装依赖（Python 环境推荐 3.10+）。  
+2. **配置文件** `config.yaml` 中填写模型 API 密钥、向量库连接信息以及业务场景的提示词。  
+3. **调用入口**：在项目代码中引入 `run_project()` 或 `create_agent()`，传入业务输入即可获得 AI 响应。  
+4. **本地调试**：提供 Dockerfile 与 `docker-compose.yml`，可一键启动完整的 RAG/Agent 环境进行离线测试。  
 
 **生产可用性**  
-- **成熟度**：中等（Medium）。已适用于原型和内部工作流，具备基本的文档和示例，但元数据的集成信号较为稀疏。  
-- **上线前检查**：需手动审查许可证、维护频率、Issue 活跃度以及发布节奏；对依赖进行安全扫描并做好版本锁定。  
-- **运维要求**：监控模型调用延迟、向量库健康状态以及成本（尤其是使用云托管模型时）。在通过上述检查后，可在非关键业务或内部系统中投入生产使用。
+- **成熟度**：目前标记为 *Medium*，适合原型、内部工具或低风险业务的快速上线。  
+- **风险与注意事项**：  
+  - 项目元数据较少，集成前需手动审查许可证、维护频率、文档完整度以及已知 Issue。  
+  - 依赖的模型服务和向量库需要自行监控可用性和成本，建议在生产环境加入健康检查和超时控制。  
+  - 如需高可用或大规模部署，建议对关键组件（模型调用、向量检索）进行容错包装并做好日志监控。  
+
+总体而言，该项目是一个 **快速实验** 与 **内部原型** 的利器，经过适当的审查和加固后即可在生产环境中使用。
 
 ## 🧭 Practical evaluation
 

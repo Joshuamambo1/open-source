@@ -27,57 +27,64 @@ AI/ML · DevTools
 
 ### English
 
-**Brief Summary (2‑3 sentences)**  
-Sturnus is an open‑source proxy that presents an OpenAI‑compatible API while dynamically routing requests to the fastest available LLM provider. It lets developers add generative‑AI capabilities without building or hosting their own model stack, making it ideal for quick prototypes, RAG pipelines, or agent‑based workflows. The project is actively maintained (last update 2026‑06‑22) but integration details are sparse, so a brief manual review is advisable before adoption.  
+**Brief summary (2‑3 sentences)**  
+Sturnus is an open‑source proxy that presents an OpenAI‑compatible API while automatically routing requests to the fastest available large‑language‑model provider. It lets developers add generative‑AI capabilities without building a model stack from scratch, making it ideal for rapid prototyping of RAG, agent‑based, or other AI‑augmented features.
 
-**Value**  
-- **Plug‑and‑play compatibility** – Existing code that talks to OpenAI’s API can be pointed at Sturnus with no code changes.  
-- **Performance‑first routing** – Sturnus benchmarks the latency of multiple back‑ends (e.g., OpenAI, Anthropic, Cohere) and forwards each request to the fastest one, reducing response times for latency‑sensitive apps.  
-- **Cost and flexibility** – By abstracting the provider, teams can switch or blend models to balance price, token limits, or feature sets without rewriting integration logic.  
+**Value proposition**  
+- **One‑stop API**: By mimicking the OpenAI endpoint, Sturnus lets existing codebases switch between providers (e.g., OpenAI, Anthropic, Cohere, Azure) with only a configuration change.  
+- **Performance‑driven routing**: The proxy continuously measures latency and selects the provider that can answer a request the quickest, giving you lower response times without manual tuning.  
+- **Cost & flexibility**: Teams can experiment with multiple models, compare quality‑vs‑price, and fall back to cheaper or more capable endpoints as needed, all while keeping a stable API contract.
 
-**Practical Adoption Path**  
-1. **Evaluate the proxy** – Clone the repo, run the Docker compose (or binary) locally, and point a test client at `http://localhost:8080/v1`.  
-2. **Configure back‑ends** – Add API keys and endpoint URLs for the desired providers in the `config.yaml`; optionally enable health‑checks and latency thresholds.  
-3. **Run a pilot** – Replace the OpenAI endpoint in a sandbox service (e.g., a chatbot prototype or a RAG pipeline) and verify response correctness, latency gains, and cost impact.  
-4. **Security & compliance review** – Check the license (MIT/Apache‑style), audit the code for secret handling, and confirm that the chosen providers meet your data‑privacy requirements.  
-5. **Production hardening** – Deploy Sturnus behind your internal gateway, enable TLS, configure monitoring/alerting for provider health, and set up automated tests for API contract stability.  
+**Practical adoption path**  
+1. **Initial evaluation** – Clone the repo, run the Docker compose (or the provided binary) locally, and point a test script to `http://localhost:8080/v1/chat/completions`. Verify that the proxy forwards calls to your chosen providers and that latency routing behaves as documented.  
+2. **Configuration** – Add your API keys and provider preferences to the `config.yaml` (or environment variables). Define fallback rules, cost limits, or model whitelists if you need tighter control.  
+3. **Integration** – Update your application’s OpenAI client to point at the Sturnus endpoint. Because the request/response schema is identical, no code changes beyond the base URL are required.  
+4. **Validation** – Run a small suite of functional tests (e.g., sanity checks for chat, completion, and embeddings) and monitor logs for routing decisions.  
+5. **Roll‑out** – Deploy the proxy in a staging environment behind a service mesh or API gateway, gradually route a percentage of traffic to it, and observe latency, error rates, and cost impact.  
 
-**Production Readiness**  
-- **Maturity**: Medium. The project is recent and actively updated, but documentation and integration examples are limited.  
-- **Risks**: Sparse quality signals mean you should verify licensing, issue backlog, and release cadence; also ensure you have fallback logic if a provider becomes unavailable.  
-- **Recommended use**: Suitable for internal prototypes, proof‑of‑concepts, or controlled production workloads where you can monitor the proxy and quickly roll back if needed. With proper operational safeguards (health checks, logging, and a clear upgrade path), Sturnus can be hardened for broader production use.
+**Production readiness**  
+- **Maturity**: Medium. The project is up‑to‑date (last commit 2026‑06‑22) and functional for prototypes, but integration signals (tests, CI badges, extensive docs) are sparse.  
+- **Risks**: Limited documentation, unknown long‑term maintenance cadence, and a need to verify the open‑source license and community activity before committing to production.  
+- **Recommended steps before production**:  
+  * Perform a security audit of the proxy code and its dependencies.  
+  * Set up automated health checks and alerting for provider latency failures.  
+  * Pin provider SDK versions and monitor upstream release notes.  
+  * Establish an internal fallback strategy (e.g., default to a single provider) in case the routing logic encounters unexpected errors.  
+
+If those checks are satisfied, Sturnus can be safely used for internal tools, MVPs, or as a staging layer for larger AI services, while keeping the option to replace or upgrade the proxy as the ecosystem evolves.
 
 ### Русский
 
-**Show HN: Sturnus** — это прокси‑слой, совместимый с API OpenAI, который автоматически выбирает и маршрутизует запросы к самому быстрому LLM‑провайдеру. Он упрощает добавление AI‑функций в прототипы, RAG‑системы и агентные пайплайны, избавляя от необходимости разворачивать собственные модели. Готов к использованию в внутренних проектах и быстрых экспериментах, но требует ручной проверки лицензии, документации и стабильности перед выводом в продакшн.
+**Show HN: Sturnus** — открытый прокси‑роутер, совместимый с API OpenAI, который автоматически перенаправляет запросы к самому быстрому LLM‑провайдеру. Он позволяет быстро добавить AI‑функциональность (прототипы, RAG‑системы, агентные воркфлоу) без необходимости разворачивать собственные модели, однако перед внедрением требуется ручная проверка лицензии, документации и активности разработки. Готовность к production — средний уровень: подходит для прототипов и внутренних сервисов, но требует дополнительного аудита и контроля зависимостей перед масштабным использованием.
 
 ### 中文
 
-**项目简介**  
-Show HN: **Sturnus** 是一个兼容 OpenAI 接口的 LLM 代理层，能够自动把请求路由到当前响应最快、最合适的模型提供商。它让开发者无需自行搭建或维护完整的模型堆栈，即可在原型或内部系统中快速加入 AI 能力。
+**项目简介（2‑3 句）**  
+Sturnus 是一个兼容 OpenAI 接口的 LLM 代理层，能够自动把请求路由到当前响应最快、最便宜的模型提供商。它让开发者在不自行搭建或维护模型的情况下，快速为原型或内部工具加入对话、检索增强生成（RAG）或智能体功能。
 
 **价值**  
-- **省时省力**：只需调用 OpenAI‑style 的 API，即可享受多家商家的最优模型，省去模型选型、部署和维护的工作。  
-- **灵活评估**：在同一次调用中即可比较不同提供商的 latency、成本和效果，帮助团队快速选定最佳方案。  
-- **加速研发**：适用于原型开发、RAG（检索增强生成）或智能体工作流的快速搭建，让 AI 功能更快落地。
+- **即插即用**：只需把现有的 OpenAI‑style 调用指向 Sturnus，即可获得多家云供应商的模型能力，省去逐家适配的工作。  
+- **成本与性能最优化**：代理会实时测算延迟和费用，自动选择最优提供商，帮助项目在预算和响应时长之间取得平衡。  
+- **加速实验**：在同一代码库中即可对比不同模型（如 GPT‑4、Claude、Gemini），快速评估哪种模型最适合业务需求。
 
 **典型接入方式**  
-1. **引入依赖**：在项目中添加 Sturnus 的 npm/pip 包（或直接克隆仓库）。  
-2. **配置路由规则**：在 `config.yaml` 或环境变量中声明支持的提供商（如 OpenAI、Anthropic、Claude、Groq 等）以及对应的 API 密钥。  
-3. **使用 OpenAI 兼容客户端**：保持原有的 `openai.ChatCompletion.create(...)` 调用方式不变，Sturnus 会在内部根据实时 latency/负载把请求转发到最优提供商。  
-4. **可选监控**：开启内置的请求日志或 Prometheus 指标，以便后续评估成本和性能。
+1. **安装**：`pip install sturnus`（或通过 npm/yarn 安装对应语言的客户端）。  
+2. **配置**：在项目的配置文件或环境变量中提供各模型提供商的 API 密钥以及可选的权重/费用上限，例如：  
+   ```env
+   STURNUS_API_KEYS=openai=sk-...,anthropic=sk-...,google=... 
+   STURNUS_MAX_COST=0.10   # 每千字符上限（美元）
+   ```  
+3. **代码替换**：将原本调用 `openai.ChatCompletion.create(...)` 的地方改为 `sturnus.ChatCompletion.create(...)`，其余参数保持不变。  
+4. **可选调优**：通过 `sturnus.set_routing_policy(...)` 自定义路由规则（如只在特定模型上运行 RAG、或强制使用特定供应商的安全模型）。
 
 **生产可用性**  
-- **成熟度**：目前评估为 **Medium**，适合原型、内部工具或受控的生产环境。  
-- **使用前检查**：由于公开元数据较少，建议在正式上线前进行以下审查：  
-  - 许可证兼容性（确认是 MIT/Apache 等开放许可证）  
-  - 维护频率与最近的发布记录  
-  - 文档完整度与示例代码是否覆盖关键场景  
-  - 已知 issue 与社区响应速度  
-- **运维注意**：需要自行监控依赖的第三方模型提供商的服务状态，确保在目标提供商不可用时有回退策略（如手动指定备选提供商）。  
-- **安全合规**：确保所有 API 密钥通过安全的 secret 管理系统注入，避免在代码库中明文保存。  
+- **成熟度**：当前评估为 **Medium**。适合原型、内部工具或对延迟/成本有强需求的服务；在正式生产环境使用前建议进行以下检查：  
+  - **许可证与合规**：确认项目使用的开源许可证与公司政策匹配。  
+  - **维护状态**：查看最近的提交记录、Issue 响应速度以及发布频率，确保项目仍在活跃维护。  
+  - **错误处理**：实现对代理超时、提供商限流等异常的退路（如回退到默认模型或本地缓存）。  
+  - **监控**：在部署后加入请求/响应时延、费用统计以及路由决策日志，以便快速定位问题。  
 
-综上，Sturnus 为需要快速集成多家 LLM 服务的团队提供了便利的代理层，适合作为原型或内部业务的加速器；在正式生产环境使用前，务必完成依赖审计、监控布置以及回退方案的验证。
+总体而言，Sturnus 为需要快速集成多家大语言模型的团队提供了低门槛、成本感知的解决方案，只要在上线前完成必要的审查和监控，即可在生产环境中安全使用。
 
 ## 🧭 Practical evaluation
 

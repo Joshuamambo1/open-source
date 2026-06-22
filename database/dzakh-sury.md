@@ -27,53 +27,62 @@ Database
 
 ### English
 
-**Brief Summary**  
-This open‑source library dramatically speeds up TypeScript type checking—up to 15.7× faster—by optimizing the way type definitions are generated and evaluated. It is positioned as a tool for teams that need to persist, query, and move data with minimal custom plumbing, especially when prototyping database‑backed applications.  
+**Brief Summary (2‑3 sentences)**  
+The “Making my TypeScript types 15.7x faster” project provides a set of utilities that dramatically speed up TypeScript’s type‑checking for data‑model definitions, cutting compile‑time by over an order of magnitude. By shaving minutes off the type‑checking step, it lets teams iterate faster when building database‑backed applications, reducing the amount of custom plumbing required for persistence, querying, and data movement.
 
 **Value**  
-- **Performance:** Faster type checking shortens CI pipelines and local edit‑refresh cycles, letting developers iterate more quickly.  
-- **Productivity:** By reducing the overhead of complex type definitions, teams can focus on business logic rather than fighting TypeScript compile times.  
-- **Data‑centric workflow:** The library’s design aligns with common persistence patterns, making it easier to prototype and maintain data‑access layers without writing extensive boiler‑plate.  
+- **Productivity boost:** Faster type‑checking means quicker feedback loops during development, especially for large schema‑heavy codebases.  
+- **Cleaner data layer:** The library abstracts common persistence patterns, letting teams focus on business logic rather than writing repetitive type‑heavy adapters.  
+- **Cost‑effective prototyping:** With dramatically reduced compile times, internal tools and prototypes can be built and iterated on with minimal overhead.
 
 **Practical Adoption Path**  
-1. **Evaluate Compatibility** – Clone the repo and run the provided benchmark suite against your existing TypeScript codebase to confirm the claimed speed gains.  
-2. **Manual Code Review** – Since integration signals are sparse, inspect the generated type files and any custom transformers for side‑effects or breaking changes.  
-3. **Pilot Integration** – Add the package to a low‑risk feature branch, enable the optimizer in your `tsconfig.json`, and run your test suite.  
-4. **Iterate & Document** – Record any required configuration tweaks, update your build scripts, and add internal documentation for future maintainers.  
+
+| Step | Action | Reason |
+|------|--------|--------|
+| 1️⃣  | **Evaluate compatibility** – Clone the repo, run the provided benchmark on a representative portion of your codebase. | Confirms the claimed 15.7× speed‑up applies to your project’s type patterns. |
+| 2️⃣  | **Inspect integration points** – Identify where your current type definitions (e.g., Prisma, TypeORM, custom DTOs) intersect with the library’s helpers. | The metadata is sparse, so a manual mapping is required to avoid breaking existing typings. |
+| 3️⃣  | **Add as a dev‑dependency** – `npm i -D ts-type‑speedup` (or the actual package name). | Keeps the runtime bundle unchanged; only the type‑checking phase is affected. |
+| 4️⃣  | **Replace slow type constructs** – Swap out the identified hot spots with the library’s optimized equivalents (e.g., `FastRecord<T>` instead of nested mapped types). | Realizes the performance gains. |
+| 5️⃣  | **Run CI with the new setup** – Ensure the build still passes and that no type‑level regressions are introduced. | Guarantees stability before merging to main. |
+| 6️⃣  | **Monitor and iterate** – Track compile‑time metrics in CI; if any regressions appear, fallback to the original types for those modules. | Provides a safety net while the library matures. |
 
 **Production Readiness**  
-- **Maturity:** Medium. The project is actively maintained (last update 2026‑06‑17) and covers five topics, but documentation, issue tracking, and release cadence are limited.  
-- **Risk Mitigation:** Before promoting to production, verify the license, confirm that the library’s dependencies are compatible with your stack, and set up monitoring for type‑checking times in CI.  
-- **Best Fit:** Ideal for prototypes, internal tools, or services where compile‑time performance is a bottleneck; for mission‑critical production systems, conduct a thorough stability and maintenance audit first.
+- **Maturity:** Medium. The project is actively maintained (last update 2026‑06‑17) but documentation, issue tracking, and release cadence are limited.  
+- **Risk Mitigation:** Before promoting to production, verify the license, confirm that the library’s dependency tree aligns with your security policies, and run a thorough regression test suite.  
+- **Recommended Use Cases:** Internal tools, prototypes, or services where compile‑time is a bottleneck and the data model is relatively stable. For critical, high‑availability services, consider a staged rollout and keep a fallback to the original typings.  
+
+In short, this library can dramatically accelerate TypeScript‑heavy data layers, but teams should perform a careful, manual integration review and treat it as a “speed‑up” layer rather than a core production dependency until its ecosystem signals (issues, docs, release notes) become richer.
 
 ### Русский
 
-**Making my TypeScript types 15.7x faster** — это open‑source библиотека, ускоряющая работу с типами TypeScript почти в 16 раз, что позволяет командам быстрее реализовывать слои хранения, запросов и миграций данных без избыточного кастомного кода. Типичное внедрение — подключение библиотеки к существующему проекту и замена тяжёлых типовых вычислений (например, при построении схем БД) на её оптимизированные аналоги, что ускоряет прототипирование и внутренние рабочие процессы. Готовность к production — средняя: проект подходит для прототипов и внутренних сервисов, но требует ручной проверки лицензии, актуальности документации и частоты релизов перед использованием в продакшене.
+**Making my TypeScript types 15.7x faster** — это open‑source библиотека, ускоряющая работу с типами TypeScript почти в 16 раз, что позволяет командам быстрее реализовывать слои persist‑query‑move данных без избыточного кастомного кода. Типичное внедрение — подключение библиотеки к проекту, ручная проверка совместимости и покрытие тестами, после чего её используют для прототипов и внутренних сервисов, где требуется быстрая работа с типами и минимальная задержка доступа к данным. Готовность к production — средняя: библиотека подходит для прототипов и внутренних workflow, но требует проверки лицензии, активности поддержки и наличия документации перед запуском в продакшн.
 
 ### 中文
 
-**项目简介**  
-*Making my TypeScript types 15.7x faster* 是一个开源库，能够显著提升 TypeScript 类型的编译与检查速度（据报告提升约 15.7 倍），帮助团队在处理数据库持久化、查询和数据迁移时减少自定义代码的负担。
+**项目简介（2‑3 句）**  
+该库通过对 TypeScript 类型进行深度优化，实现了高达 **15.7 倍** 的编译与检查加速，已在 dev.to 上的开源专题中被推荐。它帮助团队在持久化、查询和迁移数据时，减少自定义底层代码的编写，从而提升开发效率。
 
----
+**价值**  
+- **显著提速**：大幅缩短 TypeScript 编译和类型检查时间，提升 IDE 响应速度和 CI/CD 构建效率。  
+- **降低维护成本**：通过统一、快速的类型系统，减少手写数据映射和校验逻辑，降低出错概率。  
+- **加速原型开发**：在数据库驱动的原型或内部工具中，快速验证数据模型，缩短迭代周期。
 
-### 价值
-- **提升开发效率**：类型检查更快，IDE 反馈更及时，减少等待时间。  
-- **降低维护成本**：更快的类型计算让大型代码库的重构和演进更顺畅。  
-- **加速原型开发**：在需要快速验证数据库交互的原型或内部工具时，能够显著缩短迭代周期。
+**典型接入方式**  
+1. **安装**：`npm i fast-ts-types`（或对应的仓库名）。  
+2. **配置**：在 `tsconfig.json` 中加入库提供的 `compilerOptions`（如 `typeRoots`、`paths`）或使用其 CLI 对现有代码进行预处理。  
+3. **审查**：在引入前手动运行 `npx fast-ts-types --dry-run`，检查生成的类型文件与项目代码的兼容性。  
+4. **集成**：将生成的类型文件替换或合并到项目的类型定义目录，确保构建脚本使用优化后的类型。
 
-### 典型接入方式
-1. **安装**：`npm install faster-ts-types`（或对应的包名）。  
-2. **配置**：在 `tsconfig.json` 中添加或替换 `compilerOptions`，指向库提供的自定义 `typeChecker` 插件。  
-3. **手动审查**：由于元数据中集成信号稀少，建议在引入生产代码前先在本地或 CI 环境中跑完整的类型检查，确认没有兼容性问题。  
-4. **渐进式迁移**：可以先在小模块或新建的子项目中使用，确认稳定后再推广到全局。
+**生产可用性**  
+- **成熟度**：当前评分 42/100，属于 **中等** 级别。适合原型、内部工具或对编译速度有强需求的团队。  
+- **准备工作**：在正式上线前需完成以下检查：  
+  - 许可证是否符合公司合规要求；  
+  - 维护者活跃度、Issue 响应速度及发布频率；  
+  - 文档完整性与示例代码的可复现性；  
+  - 与现有项目的兼容性测试（尤其是自定义类型映射）。  
+- **风险**：元数据和集成信号较少，可能在复杂业务模型下出现类型冲突或性能回退，需要充分的单元/集成测试。  
 
-### 生产可用性
-- **成熟度**：目前评分 42/100，标记为 **中等** 级别的生产可用性。适合原型、内部工具或对性能有强需求的项目。  
-- **风险与注意事项**  
-  - 质量信号有限，需自行检查许可证、维护频率、文档完整度以及 Issue/PR 活跃度。  
-  - 在正式上线前，做好依赖审计和回滚方案，以防止类型检查行为的意外变化影响业务。  
-- **推荐使用场景**：原型开发、内部数据处理脚本、对编译速度极度敏感的前端/全栈项目。若是面向外部用户的关键业务系统，建议在充分评估后再决定是否投入生产。
+综上，该项目在加速 TypeScript 类型检查方面表现突出，适合作为 **原型开发** 或 **内部流水线** 的加速器；在生产环境使用前，建议进行严格的兼容性和维护性评估。
 
 ## 🧭 Practical evaluation
 

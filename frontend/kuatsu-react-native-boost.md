@@ -27,71 +27,53 @@ Frontend
 
 ### English
 
-**Brief Summary (2‑3 sentences)**  
-Show HN: React Native Boost is a lightweight library that replaces React Native’s default `Text` and `View` JavaScript wrappers with direct native implementations. By bypassing the extra JS layer, it lets teams ship UI screens faster and with fewer custom components, while still staying within the standard RN ecosystem.
+**Brief summary**  
+Show HN: React Native Boost replaces React Native’s default `Text` and `View` wrappers with thin native‑level components, letting you render UI with far fewer JavaScript‑side abstractions. By cutting out the extra RN layer, it speeds up UI development and reduces the amount of custom UI code you need to write for product interfaces.
 
 **Value**  
-- **Performance & simplicity** – native `Text`/`View` components render more efficiently, reducing bridge traffic and layout‑jank.  
-- **Faster UI development** – developers can reuse the same RN component API but get native‑level speed, cutting the amount of hand‑crafted UI code needed for polished screens.  
-- **Low learning curve** – the library keeps the familiar RN API, so existing teams can adopt it without rewriting component logic.
+The library gives you near‑native performance for the most common building blocks (`Text`, `View`) without rewriting large parts of your UI stack. This translates into faster prototyping, quicker iteration on screens, and easier reuse of existing native components across projects, which can shrink frontend delivery timelines and lower maintenance overhead.
 
-**Practical Adoption Path**  
-1. **Audit the repo** – clone the project, review the README, license, and open issues; confirm it’s compatible with your RN version (e.g., RN 0.73+).  
-2. **Add the package** – `yarn add react-native-boost` (or the exact npm name) and run `pod install` for iOS.  
-3. **Enable the boost** – import the provided `BoostedText` and `BoostedView` (or follow the setup hook that globally swaps the wrappers).  
-4. **Run a sandbox test** – replace a few existing `Text`/`View` usages in a feature branch and verify visual parity and performance gains with the RN profiler.  
-5. **Code‑review & CI** – add linting/tests for the new imports, ensure the library’s native modules compile on all target platforms, and lock the version in `package.json`.  
-6. **Gradual rollout** – ship the change to a canary or internal beta before enabling it for all users.
+**Practical adoption path**  
 
-**Production Readiness**  
-- **Maturity**: Medium. The project is actively maintained (last update 2026‑06‑22) but has limited public signals (few topics, sparse documentation).  
-- **Risk considerations**: Verify the open‑source license, check for recent issue activity, and run a dependency audit to avoid transitive conflicts.  
-- **Suitable use‑cases**: Ideal for prototypes, internal tools, or UI‑heavy features where the performance boost outweighs the integration overhead. For mission‑critical production apps, perform a thorough stability test and keep a fallback to the standard RN components in case of native regressions.  
+1. **Evaluate compatibility** – Clone the repo, run the example app, and verify that the native modules compile against your current iOS/Android toolchains.  
+2. **Audit the codebase** – Check the license, open issues, and recent commit history (last update 2026‑06‑22) to gauge maintenance activity.  
+3. **Integrate incrementally** – Replace a single screen’s `Text`/`View` imports with the Boost versions and run the app’s test suite; confirm visual parity and performance gains.  
+4. **Scale up** – Once the pilot screen is stable, progressively migrate other components, updating any custom wrappers that rely on RN’s original implementations.  
+5. **Add CI checks** – Include linting and build steps for the native modules to catch future breaking changes early.
 
-In short, React Native Boost can accelerate UI delivery and improve runtime performance, but teams should conduct a focused validation and dependency check before promoting it to a production codebase.
+**Production readiness**  
+The project sits at a **medium** readiness level: it’s recent enough to work with modern RN versions, but signals such as comprehensive documentation, a robust release cadence, and extensive community testing are limited. It is suitable for prototypes, internal tools, or low‑risk product features after a thorough manual review and dependency audit. For high‑traffic production apps, you should perform additional validation (license compliance, long‑term maintenance plan, fallback to standard RN components) before committing to full‑scale deployment.
 
 ### Русский
 
-Show HN : React Native Boost заменяет стандартные обёртки Text/View в React Native на их нативные реализации, позволяя быстрее выводить готовый пользовательский интерфейс без написания кастомных компонентов. Проект подходит для прототипов и внутренних инструментов, где требуется ускорить сборку UI и переиспользовать готовые компоненты, но перед выпуском в продакшн требуется ручная проверка совместимости, оценка лицензии, активности поддержки и стабильности релизов. Готовность к production – средняя: потенциально полезен после тщательной проверки зависимостей и качества кода.
+Show HN: React Native Boost заменяет обёртки `Text`/`View` в React Native на их нативные аналоги, позволяя быстрее выводить пользовательские интерфейсы без написания кастомных UI‑компонентов. Подходит для прототипов и внутренних инструментов, где важна скорость разработки и возможность повторного использования готовых компонентов, однако перед внедрением требуется ручная проверка совместимости, лицензии и активности поддержки. Готовность к production — средняя: проект можно использовать в ограниченных сценариях после оценки зависимостей и стабильности релизов.
 
 ### 中文
 
 **项目简介**  
-Show HN: React Native Boost 通过把 React Native 的 `Text` / `View` 包装层替换为直接调用原生组件，实现更轻量的 UI 渲染。它的目标是让开发者在构建用户界面时减少自定义 UI 代码，从而更快交付产品原型或内部工具。
+Show HN: React Native Boost 是一个社区贡献的库，它用原生的 Text/View 实现替换了 React Native 默认的包装组件，从而在构建用户界面时可以减少自定义 UI 的工作量，实现更轻量、更高效的渲染。
 
 **价值**  
-- **提升开发效率**：直接使用原生组件，省去 RN 对 `Text`/`View` 的额外包装和属性映射，减少 UI 代码量。  
-- **降低性能开销**：减少 JavaScript‑to‑Native 的桥接层，渲染更快、内存占用更低。  
-- **复用性强**：现有的 RN 组件几乎无需改动即可迁移到 Boost，实现“一次编写、处处使用”。  
+- **加速 UI 开发**：直接使用原生组件，省去大量样式和布局的调优，适合快速迭代的产品原型或内部工具。  
+- **复用度高**：兼容大多数已有的 RN 代码，只需少量改动即可复用现有的界面组件。  
+- **提升前端交付效率**：减少 bundle 大小和渲染开销，提升页面加载和交互性能。
 
 **典型接入方式**  
-1. **安装**：`npm i react-native-boost`（或对应的 Yarn 包）。  
-2. **代码层替换**：在项目入口（如 `App.js`）中，引入 Boost 的 `BoostProvider`，并使用 `BoostText`、`BoostView` 替代原生 `Text`、`View`。  
-   ```js
-   import { BoostProvider, BoostText, BoostView } from 'react-native-boost';
-
-   const App = () => (
-     <BoostProvider>
-       <BoostView style={styles.container}>
-         <BoostText>Hello Boost!</BoostText>
-       </BoostView>
-     </BoostProvider>
-   );
-   ```
-3. **手动审查**：由于元数据中集成信号稀少，建议在引入前对以下方面进行检查：  
-   - 兼容的 RN 版本（当前库在 RN 0.71+ 测试通过）。  
-   - 原生模块的 iOS/Android 项目配置（Xcode/Gradle 是否需要额外链接）。  
-   - 是否存在与已有第三方 UI 库的冲突。  
+1. **安装**：`npm install react-native-boost`（或对应的 yarn 命令）。  
+2. **链路替换**：在项目入口（如 `App.js`）中，引入 Boost 并调用其提供的 `enableBoost()` 方法，或在需要的文件里手动将 `import { Text, View } from 'react-native'` 替换为 `import { Text, View } from 'react-native-boost'`。  
+3. **手动检查**：由于库的集成信号稀少，建议在本地或 CI 环境中运行 UI 回归测试，确认原生组件的行为与预期一致后再提交。  
+4. **持续维护**：关注仓库的 issue、release notes 以及依赖的原生模块版本，确保与项目的 React Native 版本保持兼容。
 
 **生产可用性**  
-- **成熟度**：评分 41/100，属于 **中等** 稳定性。适合作为原型、内部工具或对性能有较高要求的业务模块使用。  
-- **风险**：项目最近一次更新是 2026‑06‑22，文档、issue 与 release 频率有限。上线前必须：  
-  - 确认开源许可证兼容（MIT/Apache 等）。  
-  - 检查活跃维护者和社区响应速度。  
-  - 进行完整的单元/集成测试，确保不影响现有 RN 代码。  
-- **推荐策略**：在非关键业务或可回滚的环境中先行试点，验证性能收益和兼容性后，再评估是否推广到生产环境。  
+- **成熟度**：目前评级为 **Medium**，适合用于原型、内部工作流或对性能有明确需求的功能模块。  
+- **风险点**：项目的质量信号有限，需自行验证许可证、维护频率、文档完整度以及已知 issue。  
+- **建议**：在正式上线前进行以下检查：  
+  - 与当前 RN 版本的兼容性测试。  
+  - 代码审查确保没有引入不必要的原生依赖。  
+  - 性能基准对比（使用原生组件前后 bundle 大小、渲染帧率）。  
+  - 设立回滚方案，以防出现不可预见的原生层错误。  
 
-综上，React Native Boost 能显著简化 UI 开发并提升渲染性能，但因维护信息有限，建议在充分审查后逐步引入。
+综上，React Native Boost 能显著提升 UI 开发效率和运行时性能，但在生产环境使用前应进行充分的兼容性和质量验证。
 
 ## 🧭 Practical evaluation
 

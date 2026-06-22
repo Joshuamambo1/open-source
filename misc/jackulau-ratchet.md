@@ -27,61 +27,69 @@ Misc
 
 ### English
 
-**Brief Summary (2‑3 sentences)**  
-Ratchet is a Rust library that provides a safe, high‑level API for writing to SPI flash devices. It handles the low‑level details of polling, erase‑verify cycles, and error checking, making flash updates reliable and easier to integrate into embedded Rust projects.
+**Brief summary**  
+Ratchet is a Rust library that provides a safe, high‑level API for writing to SPI flash devices, handling the low‑level details of polling, erase‑verify cycles, and error recovery. It aims to eliminate the common pitfalls of direct flash manipulation while keeping the implementation lightweight and embeddable.
 
-**Value Proposition**  
-- **Safety‑first API:** By wrapping the inherently error‑prone sequence of erase‑write‑verify in Rust’s type system, Ratchet eliminates common bugs such as forgetting to poll for completion or skipping verification.  
-- **Reduced boilerplate:** Developers no longer need to hand‑craft low‑level SPI command sequences; the library abstracts them while still allowing fine‑grained control when needed.  
-- **Open‑source & community‑driven:** The project is publicly available on GitHub, encouraging contributions and peer review of its correctness.
+**Value**  
+- **Safety‑first API** – By wrapping the required poll‑wait loops, sector erases and verify steps, Ratchet reduces the risk of corrupted firmware or bricked hardware, a frequent source of bugs in embedded projects.  
+- **Zero‑cost abstractions** – The crate stays close to the hardware, exposing only the operations you need while letting the Rust compiler optimise away overhead.  
+- **Reusable component** – Works with any SPI‑flash that follows the standard JEDEC command set, making it a drop‑in replacement for ad‑hoc flash‑write code in bootloaders, OTA updaters, or data‑logging firmware.
 
-**Practical Adoption Path**  
+**Practical adoption path**  
 
-| Step | Action | Reason |
-|------|--------|--------|
-| 1️⃣  | **Evaluate Compatibility** – Check the README for supported flash chips and required Rust toolchain versions. Verify that the target hardware (e.g., MCU, SPI peripheral) matches the library’s assumptions (blocking vs. async, DMA support, etc.). | Ensures the library can be compiled for your platform without extensive patches. |
-| 2️⃣  | **License & Maintenance Review** – Confirm the repository’s license (e.g., MIT/Apache) and scan recent activity (issues, PRs, release tags). | Guarantees legal reuse and signals ongoing maintenance. |
-| 3️⃣  | **Prototype Integration** – Add `ratchet` as a Cargo dependency in a sandbox firmware project. Use the provided examples to perform a simple erase‑write‑verify cycle on a development board. | Validates that the API works with your SPI driver and that runtime behavior meets expectations. |
-| 4️⃣  | **Safety & Test Augmentation** – Write unit tests that simulate failure modes (e.g., power loss during erase) and integrate them into your CI pipeline. Optionally enable `#![deny(unsafe_code)]` to keep the crate’s safety guarantees visible. | Confirms that the library’s safety guarantees hold in your specific use case. |
-| 5️⃣  | **Production Hardening** – Pin the crate version, audit transitive dependencies, and consider forking if you need long‑term support. Add runtime monitoring (e.g., flash health metrics) around the Ratchet calls. | Reduces risk of breaking changes and improves observability in production. |
+| Step | Action | Why it matters |
+|------|--------|----------------|
+| 1️⃣  | **Review the README & API docs** – confirm the supported flash commands, required traits (e.g., `embedded-hal` SPI + GPIO) and any platform‑specific constraints. | Guarantees the crate fits your hardware stack. |
+| 2️⃣  | **Add the crate** – `cargo add ratchet` (or pin a specific version). Ensure the same `embedded-hal` version as your HAL. | Simple dependency management. |
+| 3️⃣  | **Write a thin wrapper** – implement the `FlashDevice` trait (or the equivalent interface) for your board’s SPI peripheral and CS pin. | Provides the concrete device to Ratchet without pulling in unnecessary code. |
+| 4️⃣  | **Run the built‑in self‑tests** (if the crate ships them) on a development board or a flash‑emulator. | Validates that the erase‑verify logic works with your specific flash part. |
+| 5️⃣  | **Integrate into your workflow** – replace manual erase/write loops with `ratchet::write(&mut flash, address, data)` and handle the `Result` errors. | Gives you immediate safety benefits and clearer error handling. |
+| 6️⃣  | **Automated CI check** – add a CI job that builds the firmware with Ratchet enabled and runs any example tests. | Catches regressions early. |
+| 7️⃣  | **Monitor upstream** – watch the repository for releases, open issues, and security advisories. | Keeps you aware of breaking changes or bug fixes. |
 
-**Production Readiness Assessment**  
-- **Maturity:** The project was last updated on 2026‑06‑22 and contains a modest amount of documentation (2 topics). While the codebase appears functional, the limited activity and sparse issue/PR history suggest it is still in an early‑to‑mid‑stage maturity level.  
-- **Risk Level:** **Medium** – suitable for prototypes, internal tools, or products where the flash update path can be closely monitored and fallback mechanisms (e.g., bootloader recovery) are in place. Before shipping, perform a thorough validation of the library against your specific flash parts and embed additional watchdog/retry logic.  
-- **Adoption Recommendation:** Treat Ratchet as a **core component** only after a dedicated integration sprint that includes stress‑testing, license compliance checks, and a plan for handling potential upstream inactivity (e.g., maintaining a private fork). For mission‑critical mass‑production firmware, consider complementing Ratchet with a proven bootloader or vendor‑provided flash driver.
+**Production readiness**  
+
+- **Maturity** – The project was last updated on 2026‑06‑22 and has a modest score (41/100). It shows recent activity but limited community traction, so the codebase is relatively fresh but not battle‑tested at scale.  
+- **Risk level** – **Medium**. It is suitable for prototypes, internal tools, or products where you can afford a short “validation window” to verify flash‑write reliability. For safety‑critical or high‑volume production you should perform an extensive hardware‑in‑the‑loop test suite and possibly fork/maintain a custom patch set.  
+- **Dependencies** – Only depends on `embedded-hal` (and possibly a few helper crates). Verify that the versions line up with your existing HAL to avoid version conflicts.  
+- **License & maintenance** – The discovery metadata does not list a license; you must inspect the repository to confirm it is permissively licensed (e.g., MIT/Apache) and that the maintainer responds to issues.  
+
+**Bottom line** – Ratchet offers a compelling safety layer for SPI flash writes in Rust, and it can be adopted quickly in a typical embedded Rust stack. Treat it as a **prototype‑grade** component: run thorough integration tests, lock the version, and monitor upstream activity before promoting it to a production firmware pipeline.
 
 ### Русский
 
-**Show HN: Ratchet** — это библиотека на Rust, обеспечивающая надёжные записи в SPI‑флеш с поддержкой опроса статуса, стирания и проверки (erase‑verify). Она подходит для прототипов и внутренних инструментов, где требуется безопасное взаимодействие с флеш‑памятью, но перед внедрением стоит проверить лицензию, активность репозитория и наличие документации. Готовность к production — средняя: функциональность проверена, однако требуется ручная оценка поддержки и обновлений перед использованием в критичных системах.
+**Show HN: Ratchet – безопасные записи в SPI‑flash (polling, erase‑verify) на Rust** – небольшая библиотека, позволяющая выполнять атомарные записи в SPI‑flash с проверкой стирания и опросом статуса, что упрощает разработку надёжных встроенных систем. Типичный сценарий – интеграция в прототипы или внутренние инструменты, где требуется гарантировать корректность прошивки без потери данных; перед внедрением рекомендуется проверить лицензию, актуальность документации и частоту релизов. Готовность к production – средняя: подходит для прототипов и ограниченных производственных пайплайнов после ручного аудита зависимости и поддержки.
 
 ### 中文
 
 **项目简介**  
-Show HN: Ratchet 是一个用 Rust 实现的 SPI Flash 安全写入库，提供轮询、擦除‑校验等机制，帮助开发者在嵌入式系统中可靠地对外部 Flash 进行写操作。
+Show HN: Ratchet 是一个用 Rust 编写的 SPI Flash 写入库，提供安全的轮询、擦除‑校验（erase‑verify）机制，帮助开发者在嵌入式系统中可靠地更新 Flash 内容。
 
 **价值**  
-- **安全可靠**：在每一次写入前后自动进行擦除与校验，防止数据损坏和写入失败。  
-- **Rust 安全性**：利用 Rust 的所有权与错误处理模型，降低因内存错误导致的崩溃风险。  
-- **轻量易集成**：仅依赖少量底层 SPI 抽象，适合资源受限的 MCU 项目。
+- **安全可靠**：在每一次写入前后都会进行擦除与校验，防止因电源波动或写入错误导致的数据损坏。  
+- **Rust 生态**：利用 Rust 的所有权与错误处理模型，降低因内存安全问题引发的故障风险。  
+- **轻量易集成**：仅依赖少量的底层 SPI 驱动接口，适合资源受限的 MCU 项目。
 
 **典型接入方式**  
-1. 在 `Cargo.toml` 中添加依赖：  
-   ```toml
-   ratchet = { git = "https://github.com/yourorg/ratchet", tag = "v0.1.0" }
-   ```  
-2. 实现或使用已有的 `SpiBus` trait（提供 `transfer`、`write`、`read` 接口），并将其传入 `Ratchet::new(spi, cs_pin)`。  
-3. 调用 `ratchet.write(address, data).await?;`，库会自动完成擦除‑写入‑校验的完整流程。  
-4. 可选：通过 `ratchet.set_poll_interval(Duration::from_millis(10))` 调整轮询频率，以适配不同的 Flash 芯片规格。
+1. **添加依赖**：在 `Cargo.toml` 中加入 `ratchet = "0.x"`（请查看最新发布的版本号）。  
+2. **实现 SPI 接口**：为项目中的 SPI 外设实现 `ratchet::SpiDevice` trait（或使用已有的 `embedded-hal` 实现）。  
+3. **初始化 Ratchet**：```rust
+let mut flash = ratchet::Flash::new(spi, cs_pin);
+```  
+4. **调用安全写入**：```rust
+flash.write_safe(address, &data).await?;
+```  
+5. **错误处理**：利用 `Result` 与 `?` 传播错误，必要时可根据返回的 `RatchetError` 做重试或回滚。
 
 **生产可用性**  
-- **成熟度**：当前评分 41/100，代码最近一次更新于 2026‑06‑22，活跃度较低，适合作为原型或内部工具使用。  
-- **风险**：缺少完整的文档、持续的维护和社区支持，需自行检查许可证、Issue 状态以及发布节奏。  
-- **建议**：在正式生产环境采用前，进行以下步骤：  
-  1. 完整跑一遍单元/集成测试，验证所用 Flash 型号的擦除‑写入‑校验流程。  
-  2. 评估依赖的底层 SPI 实现是否满足实时性要求。  
-  3. 如有必要，fork 项目并自行维护关键 bug 修复和安全更新。  
+- **成熟度**：当前评分 41/100，代码最近一次更新于 2026‑06‑22，活跃度一般，适合作为原型或内部工具。  
+- **采用前检查**：  
+  - 确认许可证（MIT/Apache 等）与项目兼容。  
+  - 查看 Issue 与 PR 活动，评估维护者响应速度。  
+  - 检查文档是否覆盖目标 MCU 的 SPI 时序要求。  
+- **生产建议**：在正式投产前进行充分的单元/硬件在环测试，评估其在目标平台上的时序可靠性，并制定 fallback（如双备份 Flash）策略。若项目需求对可靠性要求极高，建议同时监控社区更新或考虑自行维护一个分支。  
 
-总体而言，Ratchet 在需要 Rust‑驱动的安全 Flash 写入的嵌入式原型阶段价值突出，但在生产环境使用前需进行充分的审查和自维护。
+总体而言，Ratchet 在提供安全 SPI Flash 写入方面具备明显优势，适合作为内部原型或受控环境下的解决方案，但在大规模生产前需完成额外的质量与维护审查。
 
 ## 🧭 Practical evaluation
 

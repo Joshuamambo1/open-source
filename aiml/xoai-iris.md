@@ -28,56 +28,49 @@ AI/ML
 ### English
 
 **Brief Summary (2‑3 sentences)**  
-Iris is an open‑source, portable runtime that lets developers embed durable AI agents into their applications without having to assemble a full model stack from scratch. It streamlines the creation of RAG pipelines, agent‑based workflows, and rapid AI‑feature prototypes, acting as a thin “glue” layer between existing models, tools, and your code. Because its integration signals are sparse, a quick manual review of the repository (license, docs, issue health, release cadence) is recommended before adoption.
+Iris is a portable runtime that lets developers embed durable AI agents into their applications without having to assemble a full model stack from scratch. It streamlines the creation of prototype AI features, Retrieval‑Augmented Generation (RAG) pipelines, and custom agent workflows, making it easier to experiment with and evaluate different model tooling. Because integration details are sparse, a quick manual review of the repository, licensing, and documentation is recommended before adoption.
 
 **Value**  
-- **Accelerated prototyping** – Provides ready‑made scaffolding for agent and retrieval‑augmented generation (RAG) workflows, cutting weeks of engineering effort.  
-- **Portability** – The runtime abstracts away the underlying model provider, so you can swap or combine models (e.g., OpenAI, LLaMA, local quantized models) with minimal code changes.  
-- **Lower total cost of ownership** – By reusing a common runtime, teams avoid duplicating boiler‑plate integration code across projects, making maintenance and onboarding easier.
+- **Speed to prototype:** Provides ready‑made scaffolding for AI agents, so teams can focus on business logic rather than low‑level model orchestration.  
+- **Flexibility:** Works as a runtime layer that can sit on top of any compatible model or LLM provider, enabling rapid switching between back‑ends for benchmarking or cost‑optimization.  
+- **Durability:** Designed for “long‑running” agents that maintain state across interactions, which is useful for RAG, task‑oriented bots, and workflow automation.
 
 **Practical Adoption Path**  
-1. **Discovery & Vetting** – Clone the repo, read the README, check the license (MIT/Apache‑style is typical), and scan recent issues/PRs to gauge activity.  
-2. **Sandbox trial** – Spin up a minimal test harness (e.g., a Python script that loads a small LLM via the Iris API) to verify that the runtime can launch agents and perform a simple RAG query.  
-3. **Integration** – Wrap the Iris client in your service layer, configure the desired model endpoints, and plug in your data sources (vector DB, APIs, etc.).  
-4. **Internal review** – Run security and dependency scans, confirm that the runtime’s third‑party dependencies align with your organization’s policy, and add unit/integration tests around the critical agent flows.  
-5. **Roll‑out** – Deploy the prototype to a staging environment, monitor latency and error rates, and iterate on prompt/agent logic before promoting to production.
+1. **Discovery & Vetting** – Clone the repo, review the README, license (e.g., MIT/Apache), and open issues to gauge activity.  
+2. **Sandbox Evaluation** – Spin up a minimal test environment (e.g., a Docker container) and run the provided examples to confirm that the runtime can load your preferred LLM and handle basic agent cycles.  
+3. **Integration Prototype** – Wrap Iris in a thin service layer (REST/gRPC) and connect it to a small internal prototype (e.g., a FAQ bot or document‑search assistant).  
+4. **Iterate & Extend** – Add custom tooling, plug in your own retrieval store or knowledge base, and benchmark performance/cost against baseline solutions.  
+5. **Production Hardening** – Add monitoring, logging, and health‑check endpoints; pin dependency versions; and create CI pipelines that run the upstream test suite.
 
 **Production Readiness**  
-- **Maturity**: Rated *Medium* – suitable for prototypes, internal tools, or low‑risk production workloads after a short validation period.  
-- **Risks**: Limited public integration signals, modest issue‑tracking activity, and a relatively recent last update (June 2026). Teams should verify ongoing maintenance, confirm that the licensing terms match corporate policy, and be prepared to fork or contribute fixes if needed.  
-- **Readiness Checklist**:  
-  - ✅ License compatible and clearly stated.  
-  - ✅ Documentation covers basic runtime API and configuration.  
-  - ✅ No critical open security issues in the issue tracker.  
-  - ✅ Dependency tree is stable and does not introduce vulnerable libraries.  
-  - ✅ Release cadence is at least quarterly (or a clear roadmap exists).  
-
-If these checks pass, Iris can be promoted to production for internal AI services, with periodic re‑evaluation of upstream updates and community health.
+- **Maturity:** Medium. The project is updated recently (June 2026) and appears functional for prototyping, but integration signals are limited and the release cadence is unclear.  
+- **Risks:** Sparse documentation, unknown long‑term maintenance, and limited community support mean you should perform a thorough security and license audit, and be prepared to maintain a fork or contribute fixes.  
+- **Best Use‑Case:** Internal tools, proof‑of‑concepts, or low‑risk services where the cost of a custom agent runtime outweighs the need for enterprise‑grade guarantees. For high‑throughput, customer‑facing production systems, consider a more battle‑tested platform or be ready to invest in additional testing and support.
 
 ### Русский
 
-Iris — это переносимая среда выполнения, позволяющая быстро добавить в приложение возможности искусственного интеллекта, не собирая стек моделей с нуля; её используют для прототипирования AI‑фич, построения RAG‑или агентных пайплайнов и оценки инструментов моделей. Проект находится в среднем состоянии готовности: подходит для прототипов и внутренних воркфлоу, но перед выводом в production требуется ручная проверка лицензии, активности поддержки, документации и частоты релизов. При надлежащем аудите зависимостей Iris может стать надёжным базовым слоем для долговечных AI‑агентов.
+Iris — это переносимая среда выполнения, позволяющая быстро добавить возможности искусственного интеллекта в проекты без необходимости собирать собственный стек моделей; её удобно использовать для прототипирования AI‑фич, построения RAG‑ и агентных пайплайнов, а также оценки новых инструментов моделирования. Проект находится на среднем уровне готовности: подходит для внутренних прототипов и экспериментальных воркфлоу, но перед выводом в продакшн требуется ручная проверка лицензий, документации, частоты релизов и поддержки зависимостей.
 
 ### 中文
 
-**项目简介**  
-Iris 是一个可移植的运行时，专为构建“持久化”AI 代理而设计。它提供即插即用的 AI 能力，帮助开发者在无需从零搭建模型栈的前提下快速原型化、实现检索增强生成（RAG）或复杂的代理工作流。
+**项目简介（2‑3 句）**  
+Iris 是一个可移植的运行时，专为构建“持久化”AI 代理而设计。它 让开发者能够在已有模型之上快速添加 AI 能力，而无需从零搭建完整的模型栈，特别适合原型开发和内部工作流的实验。
 
 **价值**  
-- **快速落地**：通过统一的运行时层，直接调用已有模型和工具链，省去模型训练、部署的繁杂步骤。  
-- **灵活组合**：支持多种模型、向量库和工具的组合，可轻松搭建 RAG、对话代理或自定义 AI 功能。  
-- **可移植**：运行时与底层实现解耦，代码可在本地、容器或云环境中无缝迁移。
+- **即插即用**：提供统一的接口，可直接在现有系统中嵌入检索增强生成（RAG）或多步骤代理工作流。  
+- **降低门槛**：免去从头训练模型的成本，让团队把精力集中在业务逻辑和交互设计上。  
+- **灵活扩展**：支持多种模型后端（LLM、向量数据库等），便于后期迁移或升级。
 
 **典型接入方式**  
-1. **依赖引入**：将 `iris` 包（或对应的 Docker 镜像）加入项目。  
-2. **配置模型/工具**：在配置文件或代码中声明要使用的语言模型、向量检索库、工具插件等。  
-3. **编写代理逻辑**：使用 Iris 提供的 API（如 `Agent.run()`）编写业务流程，调用模型进行推理、检索或工具调用。  
-4. **手动审查**：由于元数据和集成信号较少，接入前需检查项目的许可证、文档完整度、活跃度（issue/PR）以及依赖的安全性。
+1. **依赖引入**：在项目的 `requirements.txt`（或 `pyproject.toml`）中加入 `iris-runtime`。  
+2. **配置模型后端**：通过 YAML/JSON 配置文件指定使用的 LLM、向量检索引擎以及自定义工具。  
+3. **代码层面**：使用 `iris.Agent` 类创建代理实例，调用 `agent.run(prompt)` 即可触发 RAG/Agent 流程。  
+4. **手动审查**：由于公开的集成信息稀少，接入前请检查项目的 LICENSE、issue 列表、最近的提交记录以及依赖的安全性。
 
 **生产可用性**  
-- **成熟度**：目前评级为 **Medium**，适合原型开发、内部工具或实验性业务。  
-- **风险**：项目更新频率有限，社区活跃度不高；在生产环境使用前建议进行依赖审计、持续集成测试以及性能评估。  
-- **推荐策略**：先在沙箱或内部环境验证功能与稳定性，确认无重大安全或兼容性问题后，再逐步推广到生产。
+- **成熟度**：目前评估为 **Medium**，适合原型、内部实验或受控的生产环境。  
+- **风险点**：文档和社区支持有限，需自行评估维护成本、更新频率以及潜在的许可证冲突。  
+- **建议**：在正式上线前进行充分的单元/集成测试，并制定监控与回滚策略；若对可靠性要求极高，考虑在内部部署镜像或贡献补丁以提升稳定性。
 
 ## 🧭 Practical evaluation
 

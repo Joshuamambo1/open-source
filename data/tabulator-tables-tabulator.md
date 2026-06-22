@@ -28,73 +28,60 @@ Data
 ### English
 
 **Brief Summary (2‑3 sentences)**  
-Tabulator is an open‑source JavaScript library that lets developers turn raw data into fully‑featured, searchable, sortable and editable tables or data grids with minimal code. It is especially handy for building analytics pipelines, data‑processing dashboards, and reporting tools where users need to explore and manipulate tabular data interactively. Because the project’s integration signals are sparse, a quick manual review of its documentation, licensing and issue tracker is recommended before committing to it.
+Tabulator is an open‑source JavaScript library that lets you build fully interactive tables and data grids with features such as sorting, filtering, pagination, and inline editing. It is designed to turn raw data into searchable, analyzable, and automatable UI components, making it a handy tool for analytics pipelines, dataset processing, and reporting workflows. Because integration signals are sparse, a quick manual review is advisable before committing to it in a larger codebase.  
 
 **Value**  
-- **Rapid UI creation** – With a declarative API you can generate complex tables (pagination, filtering, grouping, virtual scrolling, etc.) without writing custom grid logic.  
-- **Extensibility** – Supports custom formatters, editors, and callbacks, making it easy to plug into analytics pipelines or automated workflows.  
-- **Zero‑dependency core** – Works with plain JavaScript or any front‑end framework (React, Vue, Angular) via thin wrappers, reducing bundle size and integration friction.
+- **Rapid UI creation** – No need to hand‑code complex table logic; Tabulator supplies a rich set of built‑in interactions (drag‑and‑drop columns, custom formatters, responsive layouts, etc.).  
+- **Data‑centric workflow** – Works directly with JSON, arrays, or Ajax sources, enabling you to plug raw datasets into a searchable grid without building a separate backend.  
+- **Extensibility** – Callbacks, custom editors, and plug‑in hooks let you embed the grid into analytics pipelines, automated reporting, or data‑validation steps.  
 
 **Practical Adoption Path**  
 
-| Step | Action | Reason |
-|------|--------|--------|
-| 1️⃣  | **Evaluate fit** – Clone the repo, run the demo page, and test a small data set that mirrors your use case. | Confirms required features (e.g., grouping, export, server‑side pagination). |
-| 2️⃣  | **Check health** – Review the `package.json`, recent commits, open issues, and license (MIT). Verify that the maintainers respond to bugs. | Mitigates risk from limited quality signals. |
-| 3️⃣  | **Prototype** – Integrate Tabulator in a sandboxed internal tool or a prototype UI. Use the built‑in data‑loader or a mock API to simulate your pipeline. | Validates integration effort and performance at scale. |
-| 4️⃣  | **Add tests & CI** – Write unit/visual regression tests for your table configurations and lock the version in `package-lock.json`. | Guarantees future updates won’t break your UI. |
-| 5️⃣  | **Production rollout** – Deploy behind a feature flag, monitor console errors and performance metrics, and schedule periodic dependency audits. | Allows a controlled launch while keeping an eye on maintenance. |
+| Step | Action | Why |
+|------|--------|-----|
+| 1️⃣  | **Initial vetting** – Clone the repo, run the demo, check the README, license (MIT), and open issues. | Confirms the library meets your functional needs and has an acceptable legal stance. |
+| 2️⃣  | **Prototype** – Add Tabulator to a sandbox or internal prototype (e.g., a React/Vue/vanilla page). Use a small, representative dataset to test sorting, filtering, and editing. | Low‑risk way to gauge performance, API ergonomics, and compatibility with your stack. |
+| 3️⃣  | **Integration test** – Wrap the grid in a component/service used by your actual workflow (e.g., a data‑validation micro‑service or analytics dashboard). Verify data flow, event handling, and any required custom formatters. | Ensures the library works with your data pipelines and UI framework. |
+| 4️⃣  | **Dependency audit** – Run `npm audit` / `yarn audit`, check for known vulnerabilities, and confirm the library’s peer‑dependency versions align with your project. | Mitigates security and version‑conflict risks. |
+| 5️⃣  | **Production checklist** – Review release cadence (last release 2026‑06‑22), open‑issue backlog, and community activity. Pin a specific version in `package.json` and add a fallback UI if the grid fails to load. | Provides stability and a rollback path for production. |
 
 **Production Readiness**  
-- **Maturity**: Medium – Tabulator is stable enough for internal tools and prototypes, but the sparse integration metadata means you should verify ongoing maintenance before mission‑critical use.  
-- **Dependencies**: Minimal core library; optional adapters for frameworks add a small footprint.  
-- **Risks**: Limited external validation, so perform a license check, audit the issue backlog, and confirm release cadence (e.g., at least one minor release per quarter).  
-- **Recommendation**: Suitable for internal dashboards, analytics pipelines, or MVPs after a short validation cycle; for high‑availability production systems, ensure you have a fallback plan (e.g., alternative grid library) and allocate resources for monitoring and occasional upgrades.
+- **Maturity**: Medium. Tabulator is feature‑rich and suitable for prototypes or internal tools, but the limited integration metadata means you should perform a thorough manual assessment.  
+- **Stability**: Recent updates (as of 2026‑06‑22) indicate active maintenance, yet the small number of topics and sparse external signals suggest a modest community size.  
+- **Risk Mitigation**: Before deploying to production, lock the library version, monitor its issue tracker, and verify that the license, documentation, and release cadence meet your organization’s compliance standards.  
+
+In short, Tabulator can accelerate the creation of powerful data tables for analytics and reporting, provided you follow a cautious adoption workflow and perform the usual production‑readiness checks.
 
 ### Русский
 
-Tabulator — это open‑source библиотека для создания интерактивных таблиц и гридов на JavaScript, позволяющая быстро превратить сырые данные в удобные для поиска, анализа и автоматизации представления. Типичный сценарий — внедрение в аналитические пайплайны или отчётные системы, где требуется гибкая сортировка, фильтрация и экспорт данных без написания собственного UI. Готовность к production оценивается как средняя: библиотека подходит для прототипов и внутренних инструментов, но перед масштабным использованием следует проверить лицензию, активность разработки, качество документации и частоту релизов.
+**Tabulator** — это open‑source библиотека для создания интерактивных таблиц и гридов на JavaScript, позволяющая быстро превратить сырые данные в удобные для поиска, фильтрации и визуального анализа представления, что упрощает построение аналитических пайплайнов и автоматизацию отчетности. Типичный сценарий внедрения — интеграция в веб‑приложения или внутренние инструменты для организации и обработки наборов данных, где требуется гибкая настройка колонок, пагинация и экспорт. Готовность к production — средняя: библиотека подходит для прототипов и внутренних workflow, но перед выпуском в продакшн рекомендуется проверить лицензию, активность поддержки, документацию и частоту релизов.
 
 ### 中文
 
-**项目简介**  
-Tabulator 是一套功能丰富的 JavaScript 表格与数据网格库，能够把原始数据快速转换为可搜索、可排序、可编辑的交互式表格，适用于分析、报表和自动化数据流水线。
+**项目简介（2‑3 句）**  
+Tabulator 是一款基于 JavaScript 的交互式表格与数据网格库，能够把原始数据快速转化为可搜索、可排序、可分页的可视化表格。它提供丰富的插件与自定义渲染方式，适合在前端构建分析仪表盘、报表系统或数据处理流水线。
 
 **价值**  
-- **快速可视化**：无需手写复杂的表格逻辑，即可生成带分页、过滤、分组、导出等高级功能的表格。  
-- **灵活扩展**：支持自定义渲染、行/列编辑、实时更新和插件体系，方便构建数据分析或业务报表的前端界面。  
-- **提升效率**：通过统一的表格组件，简化数据处理、审计和报告的工作流，降低前端开发成本。
+- **快速构建数据交互界面**：无需手写大量分页、过滤、排序逻辑，直接通过配置生成功能完整的表格。  
+- **灵活的数据管道**：支持本地数据、远程 API、WebSocket 等多种数据源，可嵌入自动化 ETL 或实时监控流程。  
+- **提升报告效率**：通过内置的导出（CSV、Excel、PDF）和打印功能，帮助业务用户快速生成可交付的报表。
 
 **典型接入方式**  
-1. **npm 安装**：`npm install tabulator-tables`（或 `yarn add tabulator-tables`）。  
-2. **在项目中引入**：  
-   ```javascript
-   import { Tabulator } from "tabulator-tables";
-   import "tabulator-tables/dist/css/tabulator.min.css";
-   ```  
-3. **创建表格实例**：在页面的容器元素上实例化 Tabulator，并传入数据和列配置。  
-   ```javascript
-   const table = new Tabulator("#example-table", {
-     data: myDataArray,
-     columns: [
-       {title:"Name", field:"name"},
-       {title:"Age", field:"age", sorter:"number"},
-       // …更多列配置
-     ],
-     pagination:"local",
-     movableColumns:true,
-   });
-   ```  
-4. **与后端/管道集成**：通过 Ajax、Fetch 或 WebSocket 动态加载数据，或在编辑后调用 `table.getData()` 将结果送入后端处理或自动化流程。
+1. **npm/Yarn 安装**：`npm install tabulator-tables`（或 `yarn add tabulator-tables`），在项目的构建系统（Webpack、Vite、Parcel 等）中引入。  
+2. **直接引入 CDN**：在 HTML 中加入 `<script src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js"></script>` 与对应的 CSS，适合快速原型或不使用模块化构建的场景。  
+3. **初始化**：在页面的 `<div id="example-table"></div>` 上执行 `new Tabulator("#example-table", { data: myData, columns: colDefs, ... })`，通过配置对象完成列定义、分页、过滤等功能。  
+4. **与框架集成**：已有 React、Vue、Angular 的包装组件（如 `react-tabulator`、`vue-tabulator`），可直接在组件树中使用，保持声明式写法。
 
 **生产可用性**  
-- **成熟度**：库已更新至 2026‑06‑22，拥有基本的文档和活跃的社区，适合作为原型或内部工具的核心组件。  
-- **风险与检查**：目前公开的集成信号较少，建议在正式上线前：  
-  - 核实许可证（MIT）是否符合公司政策；  
-  - 检查最近的 Issue、PR 活动和发布频率，确认维护状态；  
-  - 评估依赖体积与项目的打包策略；  
-  - 进行安全审计和性能基准测试。  
-- **生产建议**：在完成上述审查并完成一次完整的功能验证后，可在内部业务系统、数据分析平台或报表门户中投入使用；若需要更高的 SLA 或大规模并发，建议配合监控和回滚机制。
+- **成熟度**：项目最近一次更新为 2026‑06‑22，活跃度中等，适合作为原型或内部工具的首选。  
+- **依赖与维护**：在引入前需检查其依赖树（尤其是与旧版 jQuery 的兼容性）以及社区的 issue/PR 活动，确保没有未解决的安全或兼容性问题。  
+- **上线建议**：在正式生产环境使用前，进行以下步骤：  
+  1. **许可证确认**：确认 MIT（或项目声明的）许可证符合公司合规要求。  
+  2. **文档评估**：阅读官方文档与 API 参考，确保所需功能已被支持。  
+  3. **性能测试**：在目标数据规模（行数、列数）下跑基准测试，评估渲染与分页性能。  
+  4. **持续集成**：将 Tabulator 的版本锁定在 `package.json`，并在 CI 中加入安全审计（npm audit）与回归测试。  
+
+综上，Tabulator 在“快速构建交互式数据表”方面价值突出，接入方式灵活，适合作为原型或内部业务系统的表格解决方案；若要在面向用户的生产环境大规模部署，需完成许可证、依赖、性能和维护性的额外审查。
 
 ## 🧭 Practical evaluation
 

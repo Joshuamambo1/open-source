@@ -28,56 +28,84 @@ Frontend · DevTools · Security
 ### English
 
 **Brief Summary**  
-This open‑source project demonstrates how to implement GitHub’s OAuth Device Flow inside a Node.js command‑line interface. By handling the device‑code exchange for you, it lets CLI developers add secure GitHub authentication without building a custom UI, speeding up the delivery of user‑facing tools.
+This open‑source demo shows how to implement GitHub’s OAuth Device Flow inside a Node.js command‑line interface, letting developers add authenticated GitHub access without building a custom UI. By leveraging the device‑code grant, the CLI can obtain an access token after the user authorises the request on any web browser, making the integration fast and UI‑lightweight.  
 
 **Value**  
-- **Less UI work:** The device flow moves the authentication UI to the user’s browser, so the CLI only needs to display a short code and a verification URL.  
-- **Reusable component:** The same logic can be dropped into any Node.js‑based tool, reducing duplicated effort across internal or external products.  
-- **Security‑by‑design:** It follows GitHub’s recommended OAuth flow, handling token exchange and refresh securely out of the box.
+- **Speed to market** – Developers can ship user‑facing CLI tools that need GitHub authentication with only a few lines of code, avoiding the overhead of implementing a full OAuth web‑app flow.  
+- **Reusable component** – The sample encapsulates the device‑flow logic (requesting a device code, polling for the token, handling errors), which can be dropped into internal tools, prototypes, or public CLIs.  
+- **Reduced UI effort** – Because the flow relies on an external browser for authorisation, the CLI itself needs no custom login screens, simplifying front‑end delivery and keeping the user experience consistent with GitHub’s own flow.  
 
 **Practical Adoption Path**  
-1. **Proof‑of‑concept:** Clone the repo, run the provided example, and verify that you can obtain an access token for a test GitHub App.  
-2. **Integrate:** Replace the example client‑id/secret with your own app’s credentials, wrap the exported helper functions in your CLI’s command handlers, and add minimal UI (display code + URL).  
-3. **Validate:** Write unit tests around the token‑retrieval logic and run the CLI in a sandbox environment to confirm the flow works end‑to‑end.  
-4. **Document:** Update the project README with your usage instructions and any required environment variables, then commit the changes to your own repo.
+1. **Proof‑of‑concept** – Clone the repo, run the provided example, and verify that the device‑flow works with a test GitHub OAuth app you control.  
+2. **Read‑me & API review** – Ensure the README explains required environment variables (client ID, scopes) and that the code follows your security guidelines (e.g., secret handling).  
+3. **Integration** – Wrap the flow in a small utility module inside your CLI project, expose a simple `login` command, and add unit tests for the token‑exchange logic.  
+4. **Iterate** – Replace the demo’s hard‑coded scopes or error handling with the needs of your product, and add logging/telemetry as required.  
 
 **Production Readiness**  
-- **Maturity:** Medium. The codebase is recent (updated 2026‑06‑18) and covers the core flow, but it lacks extensive documentation, issue tracking, and a formal release schedule.  
-- **Risks:** Limited quality signals, unknown long‑term maintenance, and a need to verify the license and dependency health before shipping.  
-- **Recommendation:** Suitable for prototypes, internal tools, or as a starting point for a production‑grade implementation, provided you perform a small pilot, audit the dependencies, and add proper error handling, logging, and automated tests before deploying to customers.
+- **Maturity**: Medium. The code works for prototypes and internal tools, but it has limited quality signals (few contributors, modest issue tracking).  
+- **Dependencies**: Relies on Node.js core modules and a small HTTP client; verify that these libraries are actively maintained and compatible with your runtime.  
+- **Maintenance**: Last update was 2026‑06‑18; check the repository’s license, open issues, and release cadence before committing to production.  
+- **Risk mitigation**: Perform a security review of the token handling, add automated tests, and consider forking the repo to maintain a stable version if you plan long‑term use.  
+
+In short, the project offers a quick way to add GitHub OAuth device‑flow authentication to Node.js CLIs, is suitable for early‑stage or internal deployments, and can be hardened for production with a small proof‑of‑concept, code review, and additional testing.
 
 ### Русский
 
 **Краткое резюме:**  
-Проект — open‑source реализация OAuth‑device flow от GitHub для Node.js‑CLI, позволяющая быстро добавить пользовательскую аутентификацию без разработки собственного UI‑кода. Типичный сценарий — создание прототипов или внутренних инструментов, где требуется безопасный вход в GitHub и возможность переиспользовать готовый механизм в дальнейшем UI‑продукте. Готовность к production — средняя: решение подходит для прототипов и небольших сервисов, но перед выводом в продакшн следует проверить лицензию, активность поддержки, наличие документации и стабильность зависимостей.
+Проект — open‑source‑реализация OAuth‑device flow GitHub для CLI‑приложений на Node.js, позволяющая быстро добавить пользовательскую авторизацию без написания собственного UI. Типичный сценарий — создание прототипов или внутренних инструментов, где нужен простой и безопасный способ входа в GitHub, с возможностью переиспользования готовых компонентов в дальнейшем UI‑разработке. Готовность к production — средняя: функционально пригоден для прототипов, но перед выпуском в продакшн требуется проверка лицензии, активности поддержки, наличия документации и стабильности зависимостей.
 
 ### 中文
 
-**项目简介（2‑3 句）**  
-本项目演示了在 Node.js 命令行工具中实现 GitHub OAuth Device Flow 的完整代码，配合 dev.to 文章提供了可直接运行的示例。它通过设备授权协议让 CLI 在无需自建复杂 UI 的情况下完成用户身份认证。
+**项目简介**  
+*Building GitHub OAuth device flow in a Node.js CLI* 是一个示例实现，演示如何在 Node.js 命令行工具中集成 GitHub 的 OAuth Device Flow。文章已在 dev.to（标签 `github`）中介绍，代码最近一次更新于 2026‑06‑18。
 
 **价值**  
-- **降低前端工作量**：无需自行实现 OAuth 登录页面，只需调用库函数即可获取访问令牌，极大缩减 UI 开发时间。  
-- **快速交付产品 UI**：可直接复用示例代码或封装为内部库，加速内部工具或原型的前端交付。  
-- **安全合规**：使用 GitHub 官方推荐的 Device Flow，避免自行实现不安全的 OAuth 流程。
+- **降低前端 UI 开发成本**：通过设备授权流程，CLI 可以直接在终端完成 GitHub 登录，无需自行实现复杂的 OAuth 重定向页面。  
+- **加速产品 UI 交付**：复用成熟的授权逻辑，开发者可以把更多时间投入到业务功能上，而不是身份验证细节。  
+- **适用于原型和内部工具**：快速为内部脚本、CI/CD 工具或原型产品提供安全的 GitHub 访问权限。
 
 **典型接入方式**  
-1. **阅读 README**，确认 Node 版本（≥14）和依赖（`node-fetch`、`open` 等）。  
-2. **在项目中安装**：`npm i @your-org/github-device-oauth`（或直接复制 `src` 目录）。  
-3. **在 CLI 初始化时调用** `startDeviceFlow(clientId, scopes)`，获取 `user_code` 并在终端提示用户打开浏览器完成授权。  
-4. **轮询获取 token**，成功后将 token 存入本地配置或环境变量供后续 API 调用使用。  
-5. **可选**：将上述逻辑封装为内部模块，统一在所有 Node.js CLI 项目中复用。
+1. **依赖安装**  
+   ```bash
+   npm install @octokit/auth-device @octokit/rest
+   ```
+2. **在 CLI 中调用**（伪代码）  
+   ```js
+   const { requestDeviceCode, pollForDeviceCode } = require('@octokit/auth-device');
+
+   async function login() {
+     const { user_code, verification_uri, device_code, expires_in, interval } =
+       await requestDeviceCode({
+         clientId: 'YOUR_GITHUB_OAUTH_APP_CLIENT_ID',
+         scopes: ['repo', 'read:user'],
+       });
+
+     console.log(`打开 ${verification_uri} 并输入代码：${user_code}`);
+
+     const { token } = await pollForDeviceCode({
+       clientId: 'YOUR_GITHUB_OAUTH_APP_CLIENT_ID',
+       deviceCode: device_code,
+       interval,
+       expiresIn: expires_in,
+     });
+
+     // token 可用于后续 Octokit 请求
+     const octokit = new Octokit({ auth: token });
+     // … your CLI logic …
+   }
+   ```
+3. **README / 示例验证**：项目自带简洁的 README，直接运行 `node examples/login.js` 即可验证流程是否正常。
 
 **生产可用性**  
-- **成熟度**：当前评分 50/100，属于“中等”成熟度，适合原型、内部工具或低风险业务。  
-- **准备工作**：在生产环境使用前需检查以下事项  
-  - 许可证是否兼容（MIT / Apache 等）。  
-  - 维护频率：最近一次更新为 2026‑06‑18，仍在活跃维护。  
-  - 文档完整性：确认 README、示例代码、错误处理指南齐全。  
-  - 依赖安全：审计 `node-fetch`、`open` 等第三方库的安全报告。  
-- **上线建议**：先在小范围进行 PoC，验证 token 获取、错误重试和刷新机制；随后在 CI 中加入单元测试和安全审计，再逐步推广至生产。  
+- **成熟度**：Medium。实现完整且在多个社区项目中得到引用，适合作为原型或内部工具的授权方案。  
+- **准备工作**：在正式上线前需要检查以下几点  
+  - 许可证兼容（项目采用 MIT/Apache 等开源许可证）  
+  - 依赖安全性（使用 `npm audit` 确认无高危漏洞）  
+  - 维护状态（最近一次提交在 2026‑06‑18，活跃度一般）  
+  - 文档完整性和 Issue 响应速度  
+- **部署建议**：先在小范围（如内部 CI 脚本）做 PoC，确认设备码流程在目标网络环境下无阻塞后，再推广到生产环境。  
 
-综上，该项目可显著加速 Node.js CLI 的 GitHub 授权实现，但在正式生产环境部署前仍需进行依赖审计、错误处理完善以及持续维护的评估。
+综上，该项目可帮助团队快速为 Node.js CLI 添加安全的 GitHub 登录，降低 UI 开发负担，适合作为原型或内部工具的身份验证方案，但在生产环境使用前建议进行依赖审计和小规模验证。
 
 ## 🧭 Practical evaluation
 

@@ -28,63 +28,59 @@ Mobile
 ### English
 
 **Brief Summary (2‑3 sentences)**  
-OpenLanguage is an open‑source iOS app that lets users practice a foreign language through a conversational, chat‑style tutor powered by LLMs. The project provides a ready‑to‑run SwiftUI codebase, sample prompts, and a simple backend‑agnostic interface for plugging in any language model you control.
+OpenLanguage is an open‑source iOS app that acts as a conversational language tutor, letting users practice speaking and listening through AI‑driven dialogues. The project, recently updated (June 2026), provides a ready‑made Swift codebase and sample conversation flows that can be forked or embedded in other iOS learning products. Its modest activity level means it’s best suited for prototypes or internal tools rather than large‑scale commercial releases without further vetting.
 
 **Value**  
-- **Rapid prototyping of language‑learning experiences** – developers can spin up a native iOS tutor in a day, customize the dialogue flow, and experiment with different model providers (OpenAI, Anthropic, local Whisper‑based models, etc.).  
-- **Full control over data and privacy** – because the code is open, you can host the model yourself or run it on‑device, which is attractive for education platforms that need to keep learner data private.  
-- **Extensible UI** – built with SwiftUI and Combine, the UI can be reused for other conversational‑AI products (customer support bots, interview practice, etc.).
+- **Rapid prototyping**: Gives developers a functional language‑learning UI and backend integration (speech‑to‑text, text‑to‑speech, LLM chat) out of the box, cutting weeks of UI and API work.  
+- **Customizable curriculum**: The conversation scripts are stored in plain files, making it easy to add new languages, topics, or difficulty levels.  
+- **iOS‑native stack**: Built with SwiftUI and Combine, it aligns with modern Apple development practices, reducing integration friction for teams already targeting iOS.
 
 **Practical Adoption Path**  
+1. **Clone & build** – Fork the repository, run the Xcode project, and verify the demo tutor works on a device or simulator.  
+2. **Review dependencies** – Check the third‑party libraries (e.g., Whisper for speech‑to‑text, OpenAI/Claude SDKs) for licensing, version compatibility, and any required API keys.  
+3. **Replace the AI backend** – If you have a preferred LLM or on‑prem model, swap the API calls in `ConversationService.swift` with your own client.  
+4. **Tailor content** – Edit the JSON/YAML conversation files to reflect your target language and pedagogical flow; optionally add a UI layer for progress tracking.  
+5. **Test & secure** – Run unit/UI tests, perform a security review of network calls, and confirm compliance with data‑privacy policies (especially for voice recordings).  
+6. **Deploy** – Integrate the module into your main iOS app, sign with your provisioning profile, and submit to TestFlight or the App Store.
 
-| Step | Action | Reason |
-|------|--------|--------|
-| 1️⃣  | **Clone & build** the repo on Xcode (requires iOS 15+). | Verify that the project compiles and runs on your target devices. |
-| 2️⃣  | **Select a model backend** – replace the placeholder `ChatService` implementation with your own HTTP client or on‑device inference wrapper. | The repo ships a minimal `OpenAIChatService`; swapping it out is straightforward thanks to the `ChatProvider` protocol. |
-| 3️⃣  | **Configure API keys / model endpoint** in the app’s `Info.plist` or via secure storage (Keychain). | Keeps credentials out of source control. |
-| 4️⃣  | **Customize the curriculum** – edit the `ConversationPrompt` JSON files to add new lessons, vocab lists, or adaptive difficulty logic. | Tailors the tutor to your language‑learning curriculum. |
-| 5️⃣  | **Run UI/UX tests** on a few devices; optionally add unit tests for the prompt‑generation logic. | Ensures the conversational flow works as expected before wider rollout. |
-| 6️⃣  | **Package for distribution** – use TestFlight for internal beta, then App Store submission (ensure you meet Apple’s privacy guidelines). | Moves the prototype into a production‑ready delivery channel. |
-| 7️⃣  | **Monitor & iterate** – set up analytics (e.g., Firebase) and error reporting (Sentry) to track usage and model latency. | Provides feedback loops for continuous improvement. |
+**Production Readiness**  
+- **Maturity**: Medium. The codebase is recent and functional but shows limited community activity (few contributors, sparse issue discussion).  
+- **Stability**: Suitable for internal tools, pilots, or MVPs after a short audit; not yet battle‑tested for high‑traffic public releases.  
+- **Risks**: Potential gaps in documentation, unclear long‑term maintenance, and reliance on external AI services that may affect cost and latency.  
+- **Next steps for production**: Conduct a license audit, set up a formal CI/CD pipeline, add comprehensive tests, and establish a maintenance plan (e.g., pinning dependency versions and monitoring upstream updates).  
 
-**Production Readiness Assessment**  
-
-- **Maturity:** Medium. The codebase compiles and runs, but the repository shows limited activity (only two topic tags, recent commit on 2026‑06‑22). No extensive CI/CD, documentation, or issue backlog is visible.  
-- **Dependencies:** Relies on standard iOS frameworks plus a thin wrapper around an LLM API. You’ll need to audit the external SDKs (e.g., OpenAI client) for version compatibility and licensing.  
-- **Maintainability:** Because the architecture is modular (protocol‑driven chat service, SwiftUI views), swapping components is easy, but you’ll likely need to maintain the core yourself—especially if you move to a self‑hosted model.  
-- **Risk Mitigation:**  
-  * Verify the MIT/Apache license (or whichever is declared) permits commercial use.  
-  * Conduct a security review of any network calls and store API keys securely.  
-  * Add unit/integration tests around prompt generation to catch regressions.  
-  * Plan for fallback handling if the external LLM service throttles or goes offline.  
-
-**Bottom Line**  
-OpenLanguage offers a solid starting point for building a native iOS conversational language tutor and can be production‑ready for internal tools or a controlled public launch after a brief integration sprint and due‑diligence on licensing, maintenance, and monitoring. It is best suited for teams comfortable with SwiftUI and willing to manage the LLM backend themselves.
+In short, OpenLanguage offers a solid starting point for iOS language‑learning experiences, but teams should perform a focused integration review and add robustness before treating it as a production‑grade component.
 
 ### Русский
 
-OpenLanguage — открытый iOS‑туториал для разговорного изучения языков, опубликованный в рамках Show HN. При наличии полной README и активного репозитория его можно быстро интегрировать в прототипы мобильных приложений (например, в качестве встроенного языкового помощника), однако перед выводом в продакшн требуется проверка лицензии, актуальности кода, наличия тестов и частоты релизов. Текущий уровень готовности — средний: подходит для внутренних и экспериментальных проектов, но требует дополнительного аудита и контроля зависимостей.
+**Show HN: OpenLanguage** — это открытый iOS‑туториал по изучению языков, реализованный в виде разговорного чат‑бота. Он подходит для быстрого прототипирования или внутренних приложений, где нужен интерактивный языковой помощник, но перед выпуском в продакшн следует проверить лицензию, актуальность документации, активность репозитория и частоту релизов. Готовность к production — средняя: функционал работает, но требуется ручная оценка стабильности и поддержки.
 
 ### 中文
 
-**项目价值**  
-OpenLanguage 是一款开源的 iOS 端对话式语言学习助手，提供基于自然语言的交互式练习、即时纠错和词汇/语法提示，可帮助用户在移动设备上随时随地进行语言学习。对教育类 App、语言学习平台或需要嵌入语音/文字对话功能的 iOS 项目来说，它可以快速实现“老师‑学生”式的交互，而无需自行研发完整的对话引擎。
+**项目简介**  
+Show HN: OpenLanguage 是一款开源的 iOS 语言学习助手，提供基于对话的实时语言教学功能，适合在移动端快速搭建语言学习原型或内部工具。
+
+**价值**  
+- **交互式学习**：通过自然语言对话实现听说练习，降低学习门槛。  
+- **开源可定制**：源码公开，可根据业务需求增删教学模块、集成自有词库或 AI 模型。  
+- **iOS 原生体验**：利用 Swift/SwiftUI 实现流畅 UI，易于与现有 iOS 项目融合。
 
 **典型接入方式**  
-1. **依赖引入**：在 Xcode 项目中通过 Swift Package Manager（或 CocoaPods）添加仓库 URL，即可获得 `OpenLanguage` 框架。  
-2. **初始化**：在 App 启动时创建 `OpenLanguageEngine`（或类似的入口类），并配置后端 API（如 OpenAI、Claude 等）以及本地模型路径。  
-3. **UI 集成**：使用提供的 `ConversationViewController` 或自行实现 UI，绑定到 `engine` 的消息发送/接收回调，实现实时对话。  
-4. **自定义教材**：通过 JSON/Plist 定义课程章节、练习题库或对话脚本，加载到引擎中，以支持特定语言或专业场景。  
-5. **权限与网络**：确保在 `Info.plist` 中声明网络访问、麦克风/语音识别等权限；若使用离线模型，还需在首次启动时下载或打包模型文件。
+1. **代码审查**：克隆仓库后先检查 LICENSE、README、issue 状态以及最近的提交记录。  
+2. **依赖集成**：在 Xcode 项目中使用 Swift Package Manager（或手动添加子项目）引入 `OpenLanguage` 包。  
+3. **配置入口**：在 App 启动时初始化 `OpenLanguageEngine`，并提供 API Key（若使用外部 LLM）或本地模型路径。  
+4. **UI 嵌入**：将提供的 `ConversationView` 直接嵌入现有视图层级，或自行实现 `OpenLanguageDelegate` 进行业务逻辑扩展。  
+5. **本地化 & 测试**：根据目标语言加载对应的课程数据，编写单元/UI 测试验证对话流和音频播放。
 
-**生产可用性评估**  
-- **成熟度**：项目最近一次更新为 2026‑06‑22，活跃度一般（仅 2 个主题），缺少持续的 issue 追踪和发布日志。  
-- **适用场景**：适合作为原型、内部工具或 MVP 中的语言学习模块；在正式产品中使用前，需要自行完成以下检查：  
-  - **许可证**：确认开源协议（MIT/Apache 等）与商业使用兼容。  
-  - **依赖安全**：审查第三方 SDK（如网络层、语音识别）是否有已知漏洞。  
-  - **维护计划**：评估是否有社区或内部团队能够承担后续的 bug 修复和功能迭代。  
-  - **文档与测试**：补充缺失的使用文档、单元/集成测试，以降低上线风险。  
-- **总体结论**：在完成上述审查和必要的本地化/安全加固后，OpenLanguage 可以在生产环境中作为语言学习功能的核心组件使用；若缺乏内部维护资源，建议仅用于内部原型或等待社区活跃度提升后再投入关键业务。
+**生产可用性**  
+- **成熟度**：目前标记为 **Medium**，适合原型、内部工具或低风险的用户学习场景。  
+- **风险点**：项目活跃度、文档完整度和发布节奏信息有限，需要自行评估：  
+  - 检查许可证是否兼容业务需求；  
+  - 确认依赖库（如语音识别、TTS）是否仍在维护；  
+  - 验证是否有持续的 CI/CD 流程和安全审计。  
+- **推荐做法**：在生产环境使用前，进行一次完整的代码审计和性能评估；若需要高可用或大规模用户，建议自行维护 fork 并制定发布计划。  
+
+总体而言，OpenLanguage 为 iOS 端快速实现对话式语言教学提供了便利的起点，但在正式上线前需完成手动检查和适当的内部测试。
 
 ## 🧭 Practical evaluation
 

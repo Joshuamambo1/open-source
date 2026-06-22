@@ -27,76 +27,53 @@ Misc
 
 ### English
 
-**Brief Summary**  
-Nff_ is an open‑source implementation of Claude‑style code generation aimed at hardware design workflows. The project is still low‑profile—its README and recent activity give only a vague indication of a concrete use case—so it should be evaluated manually before being adopted.  
+**Brief Summary (2‑3 sentences)**  
+Nff_ is an open‑source repository that provides a Claude‑style code‑generation engine tailored for hardware design workflows. Although the project is modestly active (last updated 2026‑06‑22) and scored 41/100, its README hints at a concrete pipeline that could accelerate prototype development for teams working on hardware description languages or low‑level firmware. Adoption should be preceded by a careful manual review of the code, licensing, and community activity, as integration signals are currently sparse.
 
 **Value**  
-If the code actually provides Claude‑compatible prompts or model‑wrappers for hardware description languages (HDL), it can accelerate prototype generation, enable rapid iteration on FPGA/ASIC designs, and serve as a foundation for internal tooling that leverages large‑language‑model assistance.  
+- **Accelerated hardware prototyping:** By leveraging Claude‑inspired AI code generation, developers can quickly produce RTL snippets, testbenches, or driver code, reducing the time spent on repetitive boilerplate.  
+- **Open‑source flexibility:** The code can be inspected, extended, or integrated into existing CI/CD pipelines without vendor lock‑in.  
+- **Potential cost savings:** Automating routine coding tasks can lower engineering hours, especially for small teams or research labs.
 
 **Practical Adoption Path**  
-1. **Clone & Inspect** – Pull the repository, read the README, and run the example scripts to verify they compile and produce the expected HDL output.  
-2. **License & Dependency Check** – Confirm the license is compatible with your organization and audit any third‑party libraries for security and version stability.  
-3. **Integrate in a Sandbox** – Wrap the tool in a CI job or a local Docker container, feeding it small, well‑defined hardware design prompts.  
-4. **Iterate & Document** – Extend the wrapper or add missing documentation to match your internal workflow, and open an issue or pull request if you encounter gaps.  
+1. **Initial vetting** – Clone the repo, review the LICENSE, inspect the README for usage instructions, and run the provided test suite (if any).  
+2. **Proof‑of‑concept** – Integrate the engine into a sandbox hardware project (e.g., generate a simple Verilog module) to validate output quality and compatibility with your toolchain.  
+3. **Toolchain integration** – Wrap the generator in a script or CI step that feeds design specifications and captures the generated code; add linting and simulation checks to catch errors early.  
+4. **Documentation & training** – Create internal docs that capture the prompts, configuration flags, and any post‑processing steps required for your specific workflow.  
+5. **Gradual rollout** – Deploy the solution to a pilot team, gather feedback, and iterate on prompts or custom extensions before broader adoption.
 
 **Production Readiness**  
-The project is rated *Medium*: it is suitable for prototypes or internal tooling after a thorough vetting process. Before production use, you should ensure:  
-
-- Ongoing maintenance (check recent commits, issue response time).  
-- Clear documentation for inputs/outputs and error handling.  
-- Stable release tags or a pinned commit to avoid breaking changes.  
-
-If these checks pass, Nff_ can be safely incorporated into a controlled pipeline; otherwise, treat it as an experimental aid rather than a core production component.
+- **Maturity:** Medium. The project is recent enough to be relevant but lacks extensive community activity, issue tracking, or release cadence.  
+- **Risk factors:** Limited quality signals, uncertain long‑term maintenance, and a need to verify licensing compatibility.  
+- **Recommended use:** Suitable for internal prototypes, research projects, or as a supplemental code‑generation aid rather than a mission‑critical component. Before moving to production, enforce a robust testing harness, monitor upstream updates, and consider a fallback plan (e.g., manual code review or alternative generators) to mitigate the risk of stagnation or bugs.
 
 ### Русский
 
-**Краткое резюме:**  
-*Nff_* — открытый набор кода Claude, ориентированный на работу с аппаратурой. Он может пригодиться в прототипных проектах или внутренних пайплайнах, где требуется быстро интегрировать генеративный ИИ в процессы управления/тестирования железа, но перед внедрением требуется ручная проверка README, лицензии и активности репозитория. Готовность к production — средняя: подходит для экспериментов и пилотных внедрений при условии дополнительного аудита зависимостей, документации и частоты релизов.
+**Nff_: Open‑source Claude Code for hardware** — это открытый репозиторий, содержащий набор скриптов и примеров кода, позволяющих использовать модели Claude в задачах управления и тестирования аппаратных платформ. Типичный сценарий — интеграция в прототипы или внутренние пайплайны разработки оборудования, где требуется быстрый доступ к генеративному коду и автоматизации (например, генерация конфигураций, проверка RTL‑моделей или создание тест‑бенчей). Готовность к production оценивается как средняя: проект подходит для экспериментальных и пилотных решений, но перед выводом в продакшн требуется ручная проверка лицензии, актуальности зависимостей, наличия документации и стабильности релизов.
 
 ### 中文
 
-**项目简介**  
-Nff_ 是一个开源的 Claude（大语言模型）代码库，专注于硬件相关的自动化与脚本生成。该项目在 Hacker News 上被提及，近期（2026‑06‑22）仍有更新，包含 2 个主题标签。
+**项目简介（2‑3 句话）**  
+Nff_ 是一个开源实现的 Claude 代码库，专注于硬件相关的自动化与控制。它在 Hacker News 上被多次提及，近期（2026‑06‑22）仍有更新，适合作为原型或内部工作流的代码参考。
 
-**价值点**  
-- **快速原型**：提供可直接调用的 Claude 接口，帮助硬件工程师在设计、验证、文档生成等环节快速生成代码或配置脚本。  
-- **可定制**：源码开源，团队可以根据自有硬件平台（FPGA、嵌入式 MCU 等）进行二次开发或集成特定的工具链。  
-- **降低门槛**：即使没有深度的 LLM 调用经验，也能通过项目自带的示例和 README 快速上手，实现“一键”生成硬件相关代码。
+**价值**  
+- **快速落地硬件原型**：提供了 Claude 在硬件场景下的示例实现，帮助团队在短时间内搭建自动化控制或边缘计算原型。  
+- **可定制的参考实现**：源码结构清晰，可直接裁剪或二次开发，以匹配具体的硬件平台或协议。  
+- **社区曝光度**：虽然在 GitHub 上的活跃度不高，但因 Hacker News 的讨论，具备一定的社区关注度，便于后续寻找使用经验或求助。
 
 **典型接入方式**  
-1. **源码拉取 & 环境准备**  
-   ```bash
-   git clone https://github.com/yourorg/Nff_.git
-   cd Nff_
-   # 安装依赖（示例使用 Poetry）
-   poetry install
-   ```
-2. **API 配置**  
-   - 在 `config.yaml` 中填入 Claude API Key（或本地模型路径）。  
-   - 如需对接内部 CI/CD，可将上述配置写入环境变量 `CLAUDE_API_KEY`。  
-3. **调用示例**  
-   ```python
-   from nff import ClaudeHelper
+1. **源码审查**：克隆仓库后，先检查 `README`、许可证（MIT/Apache 等）以及依赖文件（`requirements.txt`、`CMakeLists.txt` 等），确认与项目的技术栈兼容。  
+2. **本地构建与单元测试**：按照文档执行构建脚本，运行仓库自带的测试用例，确保核心功能（如硬件接口、Claude 调用）在本地可用。  
+3. **集成包装**：将核心模块封装为内部库或微服务，提供统一的 API（REST/gRPC）供上层业务调用。  
+4. **持续集成**：在 CI/CD 流程中加入依赖检查、代码质量（lint）和安全扫描，防止引入未维护的第三方库。  
 
-   helper = ClaudeHelper()
-   code = helper.generate_hardware_script(
-       prompt="为 STM32F4 生成一个 PWM 初始化函数，频率 1kHz，占空比 50%。"
-   )
-   print(code)
-   ```
-4. **集成到工作流**  
-   - **CI/CD**：在 GitHub Actions 或 Jenkins 中加入一步 `python generate.py`，自动生成或更新硬件代码。  
-   - **IDE 插件**：将 `generate_hardware_script` 包装为 VSCode 扩展，提供右键“一键生成”功能。  
-
-**生产可用性评估**  
-- **成熟度**：当前评分 41/100，属于 **中等** 稳定性。代码最近更新，说明仍在维护，但社区活跃度、issue 处理速度和发布节奏相对稀疏。  
-- **适用场景**：适合内部原型开发、实验室验证或作为内部工具的底层库。直接用于面向客户的生产系统前，需要：  
-  1. **许可证审查**（确认兼容公司合规要求）。  
-  2. **依赖安全检查**（尤其是 Claude API 的调用额度与隐私合规）。  
-  3. **持续集成测试**：为关键生成路径添加单元/集成测试，防止模型输出意外代码。  
-  4. **文档与 Issue 跟踪**：自行维护使用手册，定期监控 upstream 的 issue 与 PR。  
-
-综上，Nff_ 在 **快速硬件代码生成** 方面提供了即插即用的价值，适合作为 **原型/内部工具** 使用；在投入生产前，需要进行许可证、依赖、测试和维护流程的额外审查与补强。
+**生产可用性**  
+- **成熟度**：中等（Medium）。代码已更新，适合原型验证或内部工具，但缺乏活跃的维护和完整的发布节奏。  
+- **风险点**：  
+  - 维护频率低，长期使用需自行承担 bug 修复和安全补丁。  
+  - 文档和 issue 反馈有限，集成前需自行评估兼容性。  
+  - 许可证需确认（尤其是商业使用时）。  
+- **建议**：在生产环境部署前，进行完整的安全审计和性能基准测试；将其作为 **内部依赖** 使用，并准备好应急的内部维护或替代方案。若项目需求稳定且团队有足够的技术储备，可在内部平台上继续使用并逐步完善。
 
 ## 🧭 Practical evaluation
 

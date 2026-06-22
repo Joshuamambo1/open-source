@@ -27,50 +27,62 @@ Misc
 
 ### English
 
-**Brief Summary**  
-This hobby‑level project implements a functional RISC‑V CPU inside the sandbox game Terraria, letting players build and run simple RISC‑V instructions using in‑game wiring and logic blocks. Although the repository has recent commits (as of 2026‑06‑22) and a modest score (41/100), its documentation and activity are sparse, so it’s best suited for experimental or educational prototypes rather than mission‑critical systems.  
+**Brief Summary (2‑3 sentences)**  
+The project implements a functional RISC‑V CPU inside the sandbox game Terraria, allowing the in‑game world to execute real RISC‑V instructions. It is an experimental, hobby‑level proof‑of‑concept that showcases how complex computation can be simulated using Terraria’s red‑stone‑like wiring and logic blocks. The repository is actively maintained as of 2026‑06‑22 but provides limited documentation and community support.
 
 **Value**  
-- **Novel learning tool** – Demonstrates computer‑architecture concepts in a visual, interactive environment, making RISC‑V fundamentals accessible to gamers, educators, and hobbyists.  
-- **Rapid prototyping** – Allows developers to test simple instruction‑set ideas or debugging tricks within Terraria’s sandbox without needing a separate hardware simulator.  
+- **Novel demonstration**: Shows that a full instruction‑set architecture can be emulated in a game environment, which is useful for teaching computer architecture, creating in‑game tech demos, or inspiring similar sandbox‑based simulations.  
+- **Rapid prototyping**: Developers can experiment with RISC‑V instruction sequences and observe their effects visually, without needing a hardware emulator or FPGA.  
+- **Community engagement**: The quirky nature of the project can attract attention and contributions from both the Terraria modding scene and the RISC‑V hobbyist community.
 
 **Practical Adoption Path**  
-1. **Review repository** – Check the license (likely MIT/Apache), inspect the README, and verify that the code builds with the current Terraria modding framework.  
-2. **Run the demo** – Clone the repo, follow the setup steps, and execute the provided example CPU to confirm basic functionality.  
-3. **Integrate** – If the demo meets your needs, wrap the mod in your internal CI pipeline, add automated tests for the specific RISC‑V programs you plan to run, and document any required Terraria version constraints.  
-4. **Maintain** – Pin the dependency to a known commit, monitor upstream activity, and be prepared to fork or patch if the original maintainer’s updates become infrequent.  
+1. **Initial Evaluation** – Clone the repo, run the provided Terraria world, and verify that the CPU boots and executes a simple program (e.g., a “Hello World” routine).  
+2. **Documentation Review** – Examine the README, issue tracker, and any wiki pages to understand build steps, required Terraria version, and any external mods or libraries.  
+3. **License & Compatibility Check** – Confirm the repository’s license (likely MIT/Apache) permits the intended use and that the mod is compatible with the target Terraria version (e.g., 1.4.x).  
+4. **Integration Prototype** – Wrap the CPU world in a Docker container or script that launches Terraria headlessly (or via a virtual display) to automate test runs. Use this prototype to feed generated RISC‑V binaries and capture output.  
+5. **Maintenance Plan** – Set up a schedule to sync with upstream Terraria updates and monitor the repository for new commits or issue activity.  
 
-**Production Readiness**  
-- **Readiness Level:** *Medium* – adequate for internal prototypes, teaching labs, or proof‑of‑concept demos, but not yet vetted for production workloads.  
-- **Risks:** Limited documentation, low community activity, and unclear release cadence mean you must perform your own testing, verify licensing, and set up a maintenance plan (e.g., fork and maintain a stable branch).  
-- **Mitigations:** Conduct a small pilot, add unit tests for the RISC‑V instruction set you need, and keep the Terraria version locked to avoid breaking changes.  
+**Production Readiness** – **Medium**  
+- **Strengths**: The codebase is recent (updated 2026‑06‑22) and the core concept works, making it suitable for internal demos, educational labs, or proof‑of‑concept projects.  
+- **Weaknesses**: Sparse documentation, limited issue resolution, and reliance on a specific game version introduce integration risk. There is no formal release process or CI pipeline, so stability must be validated manually.  
 
-In short, the project offers an intriguing, low‑cost way to explore RISC‑V concepts inside Terraria, but adoption should be preceded by a thorough manual review and a controlled pilot before any broader internal use.
+**Recommendation** – Treat the project as a prototype rather than a production component. Use it for internal tooling, teaching, or as a sandbox for exploring RISC‑V concepts, but perform a thorough manual audit of licensing, maintenance cadence, and dependency compatibility before any critical deployment.
 
 ### Русский
 
-**Simulating a RISC‑V CPU in Terraria** – открытый проект, позволяющий запускать эмуляцию процессора RISC‑V внутри игры Terraria, что открывает возможности для визуального прототипирования аппаратных концепций и обучения микропрограммированию в игровом окружении. Его типичное применение – быстрые демонстрации и экспериментальные разработки внутри команд, где требуется наглядная визуализация работы CPU, однако перед внедрением следует проверить лицензию, актуальность документации и частоту обновлений. Готовность к production оценивается как средняя: проект подходит для прототипов и внутренних воркфлоу, но требует дополнительного аудита зависимостей и поддержки перед использованием в критически важных системах.
+**Simulating a RISC‑V CPU in Terraria** – это открытый проект, позволяющий запускать эмуляцию процессора RISC‑V внутри игрового мира Terraria, что открывает возможности для образовательных экспериментов, прототипирования аппаратных концепций и создания интерактивных демонстраций в гейм‑ориентированных средах. Его типичное внедрение подразумевает использование в учебных курсах, хакатонах или внутренних исследовательских проектах, где требуется визуализировать работу процессора без отдельного аппаратного обеспечения. Готовность к production оценивается как **средняя**: проект подходит для прототипов и ограниченных внутренних воркфлоу, но требует ручной проверки лицензии, актуальности документации и стабильности зависимостей перед использованием в продакшене.
 
 ### 中文
 
-**项目价值**  
-在《Terraria》这款沙盒游戏中实现 RISC‑V CPU 的模拟，能够让开发者和爱好者在游戏环境里直接实验指令集、微架构和硬件教学案例。它为教学、原型验证以及创意编程提供了一个低门槛、可视化的实验平台，尤其适合希望把硬件概念与游戏交互结合的场景。
+**项目简介**  
+本项目在《Terraria》游戏中实现了一个 RISC‑V CPU 的模拟器，既可在游戏世界里进行硬件指令集实验，也能作为教学或原型开发的趣味平台。项目最近更新（2026‑06‑22），包含 2 个主题标签，得分 41/100。
+
+**价值**  
+- **趣味教学**：把真实的 RISC‑V 指令集搬进沙盒游戏，帮助学生和爱好者在轻松的环境中学习计算机体系结构。  
+- **快速原型**：在不搭建真实硬件或复杂仿真环境的前提下，快速验证指令序列、寄存器行为和异常处理逻辑。  
+- **社区曝光**：结合游戏社区的活跃度，可吸引更多非传统开发者关注 RISC‑V 生态。
 
 **典型接入方式**  
-1. **源码获取**：克隆或下载项目仓库，确保使用的分支包含最新的 `README` 与示例。  
-2. **依赖安装**：项目主要依赖 Terraria 的 Mod API（tModLoader）以及 .NET 环境，按文档执行 `dotnet restore` 或对应的 NuGet 安装。  
-3. **编译 & 部署**：在本地编译生成的 `.tmod` 文件放入 Terraria 的 `Mods` 目录，启动游戏后通过 Mod 管理器加载。  
-4. **运行示例**：加载提供的示例地图或自行创建一个包含 CPU 组件的世界，按照 README 中的指令写入 RISC‑V 程序，即可在游戏中观察指令执行和寄存器变化。  
+1. **源码克隆**：`git clone https://github.com/…/terraria-riscv-sim.git`。  
+2. **依赖准备**：确保已安装 Terraria 的 mod 加载器（如 tModLoader）以及 .NET 6+ 环境。  
+3. **编译/打包**：使用 `dotnet build` 生成 mod 包，或直接运行提供的预编译 `.tmod` 文件。  
+4. **加载到游戏**：在 tModLoader 中启用该 mod，即可在游戏内通过特定指令方块或 UI 启动 RISC‑V CPU 模拟。  
+5. **脚本集成**：通过游戏内的命令方块或外部脚本（如 PowerShell、Python）向模拟器发送指令流，实现自动化测试或教学演示。
 
 **生产可用性**  
-- **成熟度**：目前评分 41/100，属于 **中等** 稳定性。适合作为原型或内部教学工具，但不建议直接用于关键业务。  
-- **维护状态**：最近一次更新是 2026‑06‑22，活跃度不高，需自行检查 issue、PR 以及社区响应速度。  
-- **风险点**  
-  - 许可证、版权需自行确认（项目未明确标注）。  
-  - 文档和示例较少，集成前需进行手动评审。  
-  - 依赖于 tModLoader 版本，升级时可能出现兼容性问题。  
+- **成熟度**：项目标记为 *Medium*，适合原型、内部工具或教学演示。  
+- **维护状态**：最近一次提交在 2026‑06‑22，活跃度不高，缺乏持续的 issue 追踪和发布计划。  
+- **风险**：  
+  - 许可证未明确，需要自行确认（MIT、GPL 等）。  
+  - 文档和使用示例较少，集成前需手动检查代码质量和依赖兼容性。  
+  - 依赖 Terraria 与 tModLoader 的版本更新，可能导致兼容性破裂。  
+- **建议**：在生产环境使用前，进行以下检查：  
+  1. **许可证合规**，确保商业使用不受限制。  
+  2. **代码审计**，确认无安全漏洞或未处理的异常。  
+  3. **依赖锁定**，固定 Terraria 与 tModLoader 的版本，防止意外升级。  
+  4. **持续集成**，为关键功能编写自动化测试，保证指令执行的正确性。  
 
-**结论**：如果你的团队需要在轻量、可视化的环境中快速验证 RISC‑V 指令或进行硬件教学，且能够接受手动检查和自行维护依赖，那么该项目是一个有趣且实用的原型工具。对于生产环境，建议在正式部署前完成充分的测试、许可证审查以及维护计划。
+综合来看，该项目在 **原型验证、教学演示** 场景下价值突出，但在 **生产级别的可靠性和可维护性** 方面仍需自行评估和补强。
 
 ## 🧭 Practical evaluation
 

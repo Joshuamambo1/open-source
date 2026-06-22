@@ -27,63 +27,60 @@ MCP · AI/ML
 
 ### English
 
-**Brief summary (2‑3 sentences)**  
-PMB (Protocol‑based Memory for Bots) is an open‑source, “local‑first” memory layer that lets AI coding agents persist and retrieve context through the Model Context Protocol (MCP). By exposing a standard MCP server, it enables agents to interact with real tools, files, and data without relying on a remote service, making it easier to build reproducible, tool‑augmented AI workflows.  
+**Brief Summary**  
+PMB (Personal Memory Buffer) is an open‑source, “local‑first” memory layer that lets AI coding agents store and retrieve context via the Model Context Protocol (MCP). By exposing a standard MCP server, it enables agents to interact with real development tools and data sources without relying on remote stateful services.
 
 **Value**  
-- **Standardised integration** – MCP provides a common, language‑agnostic contract, so the same memory backend can be swapped between different agents or tools without rewriting code.  
-- **Local‑first privacy & latency** – All context is stored on the developer’s machine, eliminating network round‑trips and keeping proprietary code or data in‑house.  
-- **Tool‑centric AI** – Agents can read/write to IDEs, CLIs, or other developer utilities through the same protocol, turning “prompt‑only” bots into genuine assistants that act on real artefacts.  
+- **Standardised integration** – MCP provides a uniform API, so the same memory backend can be swapped between different LLM‑based assistants or IDE plugins.  
+- **Privacy‑first** – All context lives on the developer’s machine, eliminating the need to ship code snippets or execution logs to external clouds.  
+- **Tool‑aware agents** – With a local memory store, agents can remember past tool invocations (e.g., build commands, test results) and reuse that knowledge to generate more accurate, context‑rich suggestions.
 
-**Practical adoption path**  
-1. **Prototype** – Clone the repo, run the provided MCP server locally, and point an existing OpenAI‑compatible agent (e.g., LangChain, AutoGPT) at `http://localhost:<port>`.  
-2. **Validate** – Write a few integration tests that store and retrieve code snippets, build scripts, or IDE state to confirm the protocol meets your workflow needs.  
-3 **Iterate** – If you need custom persistence (e.g., SQLite, Redis), extend the server’s storage plug‑in interface and redeploy.  
-4. **Production hardening** –  
-   * Audit the license (MIT‑style, but double‑check the `LICENSE` file).  
-   * Freeze the dependency versions and add CI checks for security updates.  
-   * Deploy the MCP server behind your internal service mesh, optionally persisting data to an encrypted volume.  
+**Practical Adoption Path**  
+1. **Prototype** – Clone the repo, run the provided Docker compose or binary to spin up a local MCP server, and point your LLM‑agent (e.g., OpenAI‑compatible client) at `http://localhost:…`.  
+2. **Connect tools** – Implement the thin MCP client adapters for the tools you need (git, build systems, linters). The project includes example adapters for VS Code and a simple CLI.  
+3 **Validate** – Use the built‑in test suite and manually inspect stored entries to ensure the memory behaves as expected for your workflow.  
+4. **Hardening** – Add authentication (e.g., TLS + token), configure persistence (SQLite, RocksDB), and set up monitoring/backup if the buffer will hold critical state.  
+5. **Deploy** – For internal teams, package the server as a container or systemd service; for broader distribution, publish a versioned MCP server image and accompanying SDKs.
 
-**Production readiness**  
-- **Maturity**: Rated “Medium”. The codebase is recent (last update 2026‑06‑22) and functional for prototypes, but integration signals are sparse and documentation is limited.  
-- **Risks**: Limited community activity, few open issues, and no formal release cadence mean you should perform a thorough security and maintenance audit before scaling.  
-- **Best fit**: Internal tooling, proof‑of‑concepts, or sandboxed AI assistants where control over data locality is a priority. With proper vetting and a modest amount of engineering (dependency pinning, monitoring, and a custom storage backend), PMB can be hardened for production use.
+**Production Readiness**  
+The project is at a **medium** readiness level: it is recent (last update 2026‑06‑22) and suitable for prototypes or internal pipelines, but integration signals are sparse. Before production use, you should:
+
+- Verify the license and ensure it aligns with your organization’s policies.  
+- Review the issue tracker and commit history for active maintenance.  
+- Add comprehensive tests around your custom adapters and failure modes.  
+- Implement security hardening (auth, encryption) and establish a release‑cadence for updates.
+
+With those checks in place, PMB can serve as a solid foundation for building privacy‑preserving, tool‑aware AI coding assistants.
 
 ### Русский
 
-**Show HN: PMB – local‑first memory for AI coding agents over MCP** – открытый протокол, позволяющий AI‑ассистентам сохранять и извлекать контекст работы с реальными инструментами и данными, что упрощает подключение агентов к существующим сервисам и построение Model Context Protocol‑серверов. Типичный сценарий: разработчики интегрируют PMB в свои CI/CD‑платформы или IDE, чтобы AI‑агенты могли локально хранить состояние проектов и вызывать внешние инструменты через единый API. Готовность к production – средняя: проект подходит для прототипов и внутренних воркфлоу, но перед запуском в продакшн требуется ручная проверка лицензии, активности поддержки и стабильности релизов.
+Show HN: PMB – local‑first memory for AI coding agents over MCP — это открытый протокол, позволяющий AI‑ассистентам безопасно хранить и извлекать контекст непосредственно на устройстве, а также подключать их к реальным инструментам и данным через единый Model Context Protocol. Типичный сценарий — развертывание собственного MCP‑сервера, интеграция с IDE/CI‑системами и использование локального хранилища для контекстных подсказок в прототипах или внутренних workflow. Готовность к production — средняя: проект пригоден для прототипов, но требует ручной проверки лицензии, поддержки, документации и частоты релизов перед запуском в продакшн.
 
 ### 中文
 
 **项目简介**  
-Show HN: PMB – local‑first memory for AI coding agents over MCP 是一个开源实现，提供 **Model Context Protocol（MCP）** 的本地化记忆层，使 AI 编码助理能够通过统一协议安全、快速地访问真实工具和数据。  
+Show HN: PMB 是一套基于 **Model Context Protocol (MCP)** 的本地优先记忆层，旨在让 AI 编码助手能够通过统一协议安全、低延迟地访问真实工具和数据。它为 AI 与外部系统的交互提供了标准化的接入方式，帮助开发者快速构建“AI + 工具”工作流。
 
 **价值**  
-- **标准化接入**：通过 MCP 把 AI 代理与各种内部/外部工具（IDE、CI、数据库等）桥接，避免为每个工具单独实现专有接口。  
-- **本地优先**：记忆数据保存在本地或私有网络，降低延迟并满足合规、隐私要求。  
-- **快速原型**：提供即插即用的服务器实现，帮助团队在几行配置代码后即可让 AI 代理执行真实的编程任务。  
+- **统一协议**：使用 MCP 作为桥梁，消除不同工具、平台之间的集成壁垒。  
+- **本地优先**：数据和记忆保存在本地或受控环境中，降低隐私泄露和网络依赖风险。  
+- **加速原型**：提供即插即用的服务器实现，帮助团队在几行代码内让 AI 访问 IDE、CI、数据库等实际工具。
 
 **典型接入方式**  
-1. **部署 MCP 服务器**：在内部网络或容器中运行 `pmb-server`（Docker 镜像或源码），配置存储后端（SQLite、PostgreSQL、文件系统等）。  
-2. **注册工具插件**：按照 MCP 规范实现 `ToolProvider` 接口（如 `git`, `docker`, `lint`），将插件放入服务器的插件目录或通过 API 动态加载。  
-3. **在 AI 代理侧引入客户端**：在使用的 LLM 框架（LangChain、AutoGPT 等）中添加 `MCPClient`，指向服务器地址并提供认证凭证。  
-4. **调用示例**：  
-   ```python
-   from pmb import MCPClient
-   client = MCPClient(url="http://mcp.local:8000", token="YOUR_TOKEN")
-   result = client.run_tool("git.clone", {"repo":"https://github.com/user/repo.git"})
-   ```  
-   AI 代理即可在对话中直接调用 `git.clone`，并把结果写入本地记忆。  
+1. **部署 MCP 服务器**：在本地或私有云运行 `pmb-server`（Docker 镜像或二进制），配置好与目标工具的凭证。  
+2. **在 AI 代理中引入客户端**：使用官方提供的 Python/Node 客户端库，指向服务器地址并声明所需的工具能力（如 `code_edit`, `run_test`）。  
+3. **声明上下文模型**：通过 MCP 的 `model_context` 接口把代码库、项目配置等元数据注册到记忆层，供后续对话检索。  
+4. **调用**：在对话或自动化脚本中，AI 通过 `pmb_client.invoke(tool_name, payload)` 调用真实工具，返回结果自动写入本地记忆。
 
 **生产可用性**  
-- **成熟度**：当前评分 52/100，属于 **Medium** 级别，适合原型、内部工作流或受控环境的实验。  
-- **准备工作**：在正式上线前需进行：  
-  - **许可证与合规审查**（项目采用的开源许可证需确认与企业政策匹配）。  
-  - **依赖与维护检查**：确认活跃的维护者、issue 处理速度以及发布频率。  
-  - **安全审计**：检查服务器的身份验证、网络隔离和数据加密方案。  
-- **可扩展性**：支持水平扩容（多实例 behind load‑balancer）和自定义持久化层，满足中小规模生产需求。  
+- **成熟度**：目前评分 52/100，适合原型、内部工具或受控的生产环境。  
+- **依赖检查**：在正式上线前需确认以下几点：  
+  - 许可证兼容性（项目使用的开源协议）。  
+  - 维护活跃度与发布节奏（最近一次更新为 2026‑06‑22，仍在维护）。  
+  - 文档完整性与社区支持（元数据较少，建议自行补全接入指南）。  
+  - 安全审计：确保本地记忆不泄露敏感代码或凭证。  
 
-**结论**：PMB 为 AI 编码助理提供了一个统一、可本地化的记忆与工具接入层，快速搭建原型非常便利；在投入生产前建议完成上述审查与安全加固，以确保稳定性和合规性。
+综上，PMB 为 AI 编码助手提供了“一站式”本地记忆与工具接入方案，适合快速验证 AI‑Tool 联动的概念验证阶段；在完成依赖、文档和安全审查后，可逐步推广到生产环境。
 
 ## 🧭 Practical evaluation
 

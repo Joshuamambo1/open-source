@@ -27,60 +27,50 @@ Misc
 
 ### English
 
-**Brief Summary (2‑3 sentences)**  
-graphlens is an open‑source tool that converts a code repository into a strongly‑typed dependency graph, unifying Python, TypeScript, Go, and Rust modules into a single model. By analyzing source files and their import/export relationships, it produces a language‑agnostic graph that can be queried and visualized for cross‑language impact analysis, refactoring, and architecture documentation.
+**Brief Summary**  
+graphlens converts a mixed‑language codebase (Python, TypeScript, Go, Rust) into a single, typed dependency graph, enabling cross‑language analysis, refactoring, and visualization from a unified model. The project is referenced in a Habr article and is currently modestly maintained (last update Mon 22 Jun, two topics).  
 
-**Value Proposition**  
-- **Cross‑language insight:** Developers working in polyglot codebases can see how components written in different languages depend on each other, which is otherwise difficult to trace manually.  
-- **Typed graph model:** The generated graph is strongly typed, enabling static analysis, automated rule checking, and integration with IDEs or CI pipelines.  
-- **Single source of truth:** Keeps architecture documentation in sync with the actual code, reducing drift and supporting impact‑assessment before changes.
+**Value**  
+- **Cross‑language insight:** By modeling all supported languages in one typed graph, developers can trace dependencies, detect duplicated logic, and assess impact of changes across language boundaries without juggling separate tools.  
+- **Automation‑ready data:** The generated graph can feed CI pipelines, static‑analysis tools, or custom dashboards, making it easier to enforce architectural rules and monitor technical debt.  
 
 **Practical Adoption Path**  
+1. **Pilot:** Clone the repo, run the provided CLI on a small, representative subset of your monorepo to verify that the graph output matches expectations.  
+2. **Integration:** Wrap the CLI or library calls in a script that runs on each CI build, storing the graph (e.g., as JSON or protobuf) in an artifact store.  
+3. **Tooling:** Connect the artifact to downstream tools—code‑search, visualization dashboards (e.g., GraphQL/Neo4j), or custom lint rules.  
+4. **Feedback Loop:** Use the generated graph to identify false positives/negatives, then tune configuration or contribute fixes upstream.  
 
-| Step | Action | Why |
-|------|--------|-----|
-| 1️⃣  | **Evaluate repository suitability** – Run `graphlens` on a small, representative subset of your monorepo to verify that it correctly discovers Python, TypeScript, Go, and Rust modules. | Confirms language support and ensures the tool can parse your code style. |
-| 2️⃣  | **Review output** – Inspect the generated graph (JSON/GraphQL/visual) for completeness and correctness; check that key entry points and cross‑language imports appear. | Detects gaps early and validates the “typed” aspect. |
-| 3️⃣  | **Integrate into CI** – Add a lightweight step (e.g., `graphlens generate --output=graph.json`) to your CI pipeline, storing the artifact as a build artifact or pushing it to a graph database. | Guarantees the graph stays up‑to‑date automatically. |
-| 4️⃣  | **Consume the graph** – Build simple queries or scripts (Python, TypeScript, etc.) that use the graph for: <br>• impact analysis before PR merges <br>• generating architecture diagrams <br>• enforcing custom lint rules across languages | Turns the graph into actionable automation. |
-| 5️⃣  | **Governance & maintenance** – Pin the `graphlens` version, monitor upstream releases, and set up an issue‑tracking rule to flag breaking changes. | Mitigates the risk of drift and ensures long‑term stability. |
-
-**Production Readiness Assessment**  
-
-- **Maturity:** The project shows recent activity (last update Mon 22 Jun) and modest community signals (2 topics). It is not yet a widely‑adopted, battle‑tested component.  
-- **Risk Level:** Medium. Suitable for internal prototypes, developer tooling, or as a supplemental source of truth, but requires manual verification of the generated graph and a clear fallback if parsing fails.  
-- **Dependencies & Maintenance:** Verify the license (likely MIT/Apache) and audit any third‑party parsers it bundles. Pin dependencies and schedule periodic checks for upstream security patches.  
-- **Documentation & Support:** Documentation appears limited; expect to spend time reading the README and possibly contributing fixes or extensions for edge‑case language features.  
-
-**Bottom Line**  
-graphlens offers a compelling way to unify multi‑language codebases into a typed graph, which can accelerate impact analysis and architectural governance. For production use, start with a controlled pilot, integrate the generation step into CI, and establish monitoring around output correctness and upstream updates. With proper vetting, it can become a reliable internal tool, though it is not yet a plug‑and‑play solution for mission‑critical pipelines.
+**Production Readiness**  
+- **Maturity:** Medium. The project shows recent activity but limited documentation, issue tracking, and release cadence.  
+- **Risks:** Sparse quality signals; you should audit the license, confirm that the supported language parsers stay up‑to‑date, and evaluate maintenance burden.  
+- **Recommendation:** Suitable for prototypes, internal tooling, or as a stepping‑stone to a more robust solution. Before deploying to production, establish a monitoring plan for upstream changes, add automated tests around the graph generation, and consider forking or contributing improvements to address any gaps.
 
 ### Русский
 
-graphlens — это open‑source‑инструмент, который преобразует репозиторий в типизированный граф, объединяя модели Python, TypeScript, Go и Rust в единую схему. Он удобен для построения прототипов и внутренних аналитических пайплайнов, где требуется единственное представление кода разных языков; при внедрении следует вручную проверить лицензии, актуальность документации и частоту релизов. Готовность к production — средняя: проект подходит для экспериментального использования, но требует дополнительной проверки поддержки и стабильности перед запуском в продакшн.
+graphlens — это open‑source‑инструмент, который преобразует репозиторий в типизированный граф, объединяя модели Python, TypeScript, Go и Rust в единую схему, что упрощает анализ кода, рефакторинг и построение кросс‑языковых зависимостей. Его типичный сценарий — автоматизированный аудит или прототипирование внутренних инструментов, где требуется единый взгляд на мульти‑языковую кодовую базу. Готовность к production — средняя: проект подходит для прототипов и внутренних workflow, но перед внедрением следует проверить лицензию, актуальность документации, активность выпуска и стабильность зависимостей.
 
 ### 中文
 
-**项目简介（2‑3 句话）**  
-`graphlens` 是一个将代码仓库转换为统一的、强类型图模型的工具，能够同时解析 Python、TypeScript、Go 与 Rust 四种语言，并在同一模型中展示它们的类型关系与依赖结构。通过一次构建，即可在跨语言项目中实现代码可视化、依赖分析和自动化查询。
+**简短介绍**  
+graphlens 是一个开源工具，它把代码仓库解析成统一的、强类型的依赖图，能够同时支持 Python、TypeScript、Go 和 Rust 四种语言，帮助开发者在同一模型中跨语言查看和分析代码结构。
 
 **价值**  
-- **跨语言统一视图**：一次解析即可得到多语言之间的类型与调用图，帮助团队快速定位跨语言的耦合点和潜在冲突。  
-- **提升可维护性**：图结构天然支持查询与遍历，可用于自动生成依赖报告、影响分析以及代码审计。  
-- **加速研发流程**：在大型单体或微服务项目中，开发者无需切换工具，即可在同一平台上完成代码探索和重构规划。
+- **跨语言可视化**：一次解析即可得到四种语言的统一依赖图，便于理解混合语言项目的整体结构。  
+- **类型安全**：生成的图是强类型的，能够在后续的静态分析、自动化重构或 CI 检查中直接使用。  
+- **加速研发**：通过图谱快速定位调用链、循环依赖和未使用的模块，提升代码审查和故障排查效率。
 
 **典型接入方式**  
-1. **依赖安装**：`pip install graphlens`（Python 包），或在对应语言的项目根目录下使用提供的 CLI 二进制。  
-2. **配置文件**：在仓库根目录创建 `graphlens.yml`，声明需要解析的语言路径、入口文件以及可选的过滤规则。  
-3. **构建图谱**：运行 `graphlens build`，生成统一的 GraphQL/JSON 图模型文件（`graphlens.graph`），随后可在 IDE 插件、CI 步骤或自定义脚本中读取并进行查询。  
-4. **集成示例**：在 CI 中加入 `graphlens diff --base=origin/main --head=HEAD`，自动检测提交引入的跨语言依赖变更并抛出警告。
+1. **依赖安装**：在项目根目录执行 `pip install graphlens`（Python）或通过对应语言的包管理器获取二进制/库。  
+2. **配置文件**：在仓库根目录添加 `graphlens.yaml`，声明需要解析的语言路径和排除规则。  
+3. **生成图谱**：运行 `graphlens generate --output graph.json`（或 `--output graph.graphml`），得到统一的图数据。  
+4. **后续使用**：将生成的图文件导入自研的可视化平台、CI 检查脚本或静态分析工具中即可。
 
 **生产可用性**  
-- **成熟度**：目前处于中等成熟度（Medium），适合作为原型、内部工具或研发流程的辅助层。  
-- **准备工作**：在正式上线前需检查项目的维护频率、许可证兼容性、文档完整度以及已知 Issue。建议在受控环境下进行一次完整的构建与查询验证，确认图谱生成的准确性和性能。  
-- **运维要求**：定期更新 `graphlens` 版本以获取语言解析器的最新特性；对生成的图文件进行版本化管理或缓存，以避免每次构建的高开销。  
+- **成熟度**：项目活跃度一般（最近一次更新在 2024‑07），适合作为原型或内部工具使用。  
+- **依赖与维护**：需要自行评估其对各语言解析器的兼容性，并监控后续版本的安全更新。  
+- **上线建议**：在生产环境部署前，进行一次完整的手动审查（包括许可证、文档、Issue 处理情况），并在 CI 中加入生成图谱的健康检查，以确保图谱始终保持最新且一致。  
 
-总体而言，`graphlens` 为多语言代码库提供了统一、可查询的类型图，是提升代码可视化和依赖分析效率的有力工具，只要在生产环境中做好维护和监控，即可安全投入使用。
+总体而言，graphlens 在跨语言代码库的可视化与分析场景下具备显著价值，适合在内部研发流程或原型阶段快速集成；在正式生产环境使用时，建议配合严格的监控和维护流程。
 
 ## 🧭 Practical evaluation
 

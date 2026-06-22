@@ -28,56 +28,60 @@ Knowledge/RAG · AI/ML · Product
 ### English
 
 **Brief Summary (2‑3 sentences)**  
-The “Strict‑Source RAG System” is an open‑source full‑stack implementation that turns internal knowledge bases into searchable, grounding sources for AI assistants. Built in just eight weeks, it demonstrates how to index documents, enrich metadata, and serve reliable retrieval‑augmented generation (RAG) answers while keeping source provenance strict. The project is packaged as a set of micro‑services and SDKs that can be dropped into existing pipelines to make corporate knowledge instantly queryable.  
+*I Shipped a Strict‑Source RAG System to Production in 8 Weeks* is a full‑stack engineering retrospective that details how a team built and deployed a Retrieval‑Augmented Generation (RAG) pipeline for internal knowledge bases in just two months. The open‑source code demonstrates end‑to‑end indexing, semantic search, and grounding of LLM‑driven assistants on vetted, “strict‑source” documents, making corporate knowledge searchable and safely usable by AI assistants.
 
 **Value Proposition**  
-- **Searchable internal knowledge:** Turns scattered docs, wikis, and PDFs into a unified, vector‑enabled index, enabling assistants to answer questions with verifiable sources.  
-- **Grounded AI responses:** By enforcing strict source attribution, the system reduces hallucinations and improves compliance for regulated environments.  
-- **Rapid prototyping:** The end‑to‑end stack (ingestion → indexing → API) can be stood up in days, letting product teams iterate on AI‑driven features without building the RAG plumbing from scratch.  
+- **Searchable internal knowledge:** Turns static docs, wikis, and manuals into a vector‑indexed store that can be queried by LLM assistants, dramatically reducing time spent locating information.  
+- **Grounded AI responses:** By enforcing strict‑source retrieval, the system ensures that generated answers are traceable to original documents, improving accuracy and compliance.  
+- **Full‑stack reference:** Includes data ingestion scripts, vector store setup, API layer, and a minimal front‑end, giving teams a ready‑made blueprint for their own RAG implementations.
 
 **Practical Adoption Path**  
+1. **Review repository health:** Check the license, open issues, recent commits, and documentation to confirm active maintenance.  
+2. **Pilot with a sandbox knowledge base:** Run the provided ingestion pipeline on a non‑critical document set to validate indexing, metadata extraction, and retrieval quality.  
+3. **Integrate with existing LLM stack:** Swap the demo LLM endpoint for your organization’s model (e.g., OpenAI, Anthropic, or a self‑hosted model) and adjust the prompt‑engineering layer as needed.  
+4. **Add manual inspection step:** Because discovered metadata may be sparse, incorporate a lightweight review UI or CI job that flags low‑confidence documents before they enter production.  
+5. **Gradual rollout:** Deploy the API behind an internal gateway, start with a small user group, collect feedback, and iterate on retrieval relevance and latency.
 
-| Step | What to Do | Why |
-|------|------------|-----|
-| 1️⃣ Assess Fit | Review the repository, license (MIT/Apache‑2.0‑style), and existing issue backlog. Verify that the supported document types (Markdown, PDF, HTML) match your knowledge sources. | Ensures legal compliance and technical compatibility. |
-| 2️⃣ Spin Up a Sandbox | Deploy the provided Docker‑Compose stack (ingestor, vector store, API gateway) in a dev environment. Feed a small, representative subset of your docs. | Lets you evaluate ingestion quality, metadata extraction, and latency. |
-| 3️⃣ Manual Inspection | Use the UI or CLI to inspect generated metadata (source IDs, chunk boundaries, embeddings). Confirm that the “strict‑source” flags correctly map back to original documents. | The project notes sparse integration signals; manual validation catches indexing errors early. |
-| 4️⃣ Integrate with Your Assistant | Replace the demo LLM client with your production model (e.g., OpenAI, Anthropic, or self‑hosted). Wire the RAG endpoint into your chatbot or workflow automation. | Aligns the system with your existing AI stack and security policies. |
-| 5️⃣ Monitoring & Governance | Enable logging of query‑to‑source mappings, set up alerts for failed ingestions, and define retention policies for the vector store. | Provides observability and satisfies audit/compliance requirements. |
-| 6️⃣ Production Rollout | After a stability period (≈2‑3 weeks) in staging, promote the stack to production, adding redundancy (replicated vector store, load‑balanced API). | Moves the validated setup into a resilient environment. |
+**Production Readiness**  
+- **Readiness level:** *Medium* – suitable for prototypes, internal tools, or staged rollouts, but not yet a turnkey production service.  
+- **Key considerations before production:**  
+  - Verify licensing compatibility and long‑term maintainer commitment.  
+  - Implement monitoring for ingestion failures, vector store health, and LLM latency.  
+  - Harden security (auth, data privacy) around the API and storage layers.  
+  - Establish a process for periodic re‑indexing and metadata enrichment to keep the knowledge base current.  
 
-**Production Readiness Assessment**  
-- **Maturity:** Medium. The codebase is functional and updated (last commit 2026‑06‑18) but lacks extensive integration tests and a formal release cadence.  
-- **Dependencies:** Relies on a specific vector‑store (e.g., Milvus or Pinecone) and an LLM gateway; verify version compatibility with your infrastructure.  
-- **Maintenance:** Community activity is modest; you may need to fork and maintain critical components (e.g., ingestion pipelines) yourself.  
-- **Risk Mitigation:** Before production, audit the license, run security scans on container images, and establish a process for updating embeddings when the underlying model changes.  
-
-*Bottom line:* The Strict‑Source RAG System offers a fast way to make internal knowledge searchable and safely usable by AI assistants, but teams should treat it as a prototype‑grade foundation—perform thorough manual validation, add monitoring, and be prepared to maintain the stack before deploying it in mission‑critical production.*
+With these steps, teams can leverage the project as a solid foundation for building a reliable, strict‑source RAG system that brings internal knowledge to life while maintaining control over source fidelity.
 
 ### Русский
 
-**I Shipped a Strict-Source RAG System to Production in 8 Weeks** – это open‑source решение, позволяющее быстро превратить внутренние базы знаний в полнотекстовый индекс, который затем используется для обогащения ответов ассистентов и улучшения поиска по документам. Типичный сценарий: подключаете систему к вашему хранилищу (например, Confluence, Notion или файловой системе), вручную проверяете извлечённые метаданные и запускаете RAG‑pipeline для генерации контекстно‑обоснованных ответов. Готовность к продакшену – средняя: проект подходит для прототипов и внутренних воркфлоу, но требует проверки лицензии, наличия актуальной документации и контроля зависимостей перед масштабным внедрением.
+**I Shipped a Strict‑Source RAG System to Production in 8 Weeks** — это открытый full‑stack проект, позволяющий быстро превратить внутренние базы знаний в поисковый индекс, который затем может использоваться в чат‑ботах и ассистентах для точного обоснования ответов. Типичный сценарий: импортировать корпоративные документы, построить векторные представления и подключить их к LLM‑помощнику, получая релевантный и проверяемый контент. Готовность к production — средняя: система подходит для прототипов и внутренних воркфлоу, но требует ручной проверки интеграционных сигналов, аудита лицензий и настройки поддержки перед масштабным развертыванием.
 
 ### 中文
 
-**项目简介**  
-这是一次全栈工程回顾，展示了团队在 8 周内将一套「严格来源」的检索增强生成（RAG）系统成功上线。文章已在 dev.to（标签 #showdev）中发布，详细阐述了从需求、架构到部署的完整实践过程。
+**项目简介（2‑3 句话）**  
+本项目是一篇全栈工程回顾文章，展示了团队在 8 周内将「Strict‑Source RAG」系统成功上线的完整过程。它通过对内部知识库进行结构化索引，使得大语言模型（LLM）能够在回答时精准引用来源，实现可追溯、可信的检索增强生成（RAG）能力。  
 
 **价值**  
-- 将内部文档、知识库等非结构化信息转化为可搜索、可被 AI 助手直接引用的结构化来源，实现“让知识随时可用”。  
-- 通过严格的来源追踪，提升生成式回答的可信度和可审计性，帮助业务团队快速定位答案、降低信息孤岛。
+- **提升内部知识可搜索性**：把散落在文档、Wiki、代码库等多种来源的知识统一索引，帮助员工快速定位所需信息。  
+- **增强 AI 助手的可靠性**：在生成答案时自动引用原始文档，实现“可溯源”回答，降低错误传播风险。  
+- **加速原型和内部工作流**：提供一套完整的全栈实现（采集‑索引‑检索‑生成），团队可直接复用或改造，显著缩短研发周期。  
 
 **典型接入方式**  
-1. **数据准备**：将目标文档（Markdown、PDF、HTML 等）导入系统，并通过自定义脚本生成统一的元数据（标题、章节、时间戳等）。  
-2. **索引构建**：使用项目提供的向量化管线（支持 OpenAI、Claude、Embedding‑Model‑Hub 等）为文档生成向量并写入向量数据库（如 Pinecone、Weaviate、Milvus）。  
-3. **检索层**：在查询时先调用向量检索获取候选文档，再通过元数据过滤（来源、标签、更新时间）实现“严格来源”。  
-4. **生成层**：将检索结果作为上下文喂给 LLM，生成带来源标注的回答；可通过 Webhook 或 API 将结果返回业务系统或聊天机器人。  
-5. **人工审查**：在正式上线前，使用项目自带的审查 UI 对检索/生成结果进行抽样检查，确保来源准确、内容合规。
+1. **数据采集**：使用项目提供的抓取脚本或 API，将公司内部的文档、数据库、代码注释等源数据导入。  
+2. **元数据清洗与手动审查**：因为自动发现的元数据较少，需人工检查并补全关键字段（如来源 URL、发布时间、标签）。  
+3. **索引构建**：调用项目的向量化管道（支持 OpenAI、Claude、Embedding‑Model‑Hub 等），将清洗后的文本生成向量并写入向量数据库（如 Pinecone、Weaviate、Milvus）。  
+4. **检索‑生成层集成**：在现有聊天/助手系统中嵌入检索 API，检索到的文档片段作为上下文喂给 LLM，返回时附带来源链接。  
+5. **监控与迭代**：通过项目自带的日志和评估脚本，监控检索准确率、引用完整性，定期更新索引。  
 
 **生产可用性**  
-- **成熟度**：中等（Medium）。系统已在内部原型和业务流程中验证，可用于内部工具或受控的生产环境。  
-- **依赖与维护**：需要自行管理向量数据库、LLM 接口以及定期的索引更新；项目的更新频率和社区活跃度有限，建议在采用前评估许可证、维护者响应速度以及文档完整性。  
-- **上线建议**：在正式投产前进行一次完整的集成测试，重点检查元数据完整性、检索准确率以及生成答案的来源可追溯性；同时建立监控和回滚机制，以应对模型或索引服务的异常。
+- **成熟度**：中等（Medium）。项目已在内部生产环境验证，适合作为原型或内部业务流程的核心组件。  
+- **使用前检查**：  
+  - 确认许可证兼容性（项目开源协议）。  
+  - 评估依赖库的维护状态（向量数据库、Embedding 模型）。  
+  - 检查文档、Issue 列表以及最近的发布频率，确保有活跃的社区或内部维护者。  
+- **部署建议**：在正式投产前进行一次完整的端到端测试，包括数据安全审计、来源可信度校验以及性能压测。对关键业务可采用灰度发布或内部 beta 组验证。  
+
+总体而言，该项目为企业提供了一套快速落地的 RAG 解决方案，能够显著提升内部知识的可检索性和 AI 助手的可信度，只要做好依赖审查和元数据人工校验，即可在生产环境中安全使用。
 
 ## 🧭 Practical evaluation
 

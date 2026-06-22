@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8799** |
+| 🗂️ **Total projects** | **8802** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,8 +18,8 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3035 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1608 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 3036 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1610 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 850 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 728 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 468 | [Browse →](./devtools/) |

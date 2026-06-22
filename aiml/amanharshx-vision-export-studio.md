@@ -27,65 +27,71 @@ AI/ML
 
 ### English
 
-**Brief Summary (2‑3 sentences)**  
-The “Export YOLO/RF‑DETR Models to ONNX, TensorRT, CoreML – 100 % Local” project provides a set of scripts and utilities that let you convert popular object‑detection models (YOLO and RF‑DETR) into the three major deployment formats—ONNX, TensorRT, and Apple CoreML—without sending any data to the cloud. It is positioned as a quick‑start toolkit for adding vision capabilities to prototypes, Retrieval‑Augmented Generation (RAG) pipelines, or autonomous agents while keeping the entire workflow on‑premises.  
+**Brief Summary (2‑3 sentences)**  
+Show HN: Export YOLO/RF‑DETR Models to ONNX, TensorRT, CoreML – 100 % Local is an open‑source toolkit that lets you convert state‑of‑the‑art object‑detection models (YOLO, RF‑DETR) into portable formats such as ONNX, NVIDIA TensorRT, and Apple CoreML without sending data to the cloud. It streamlines the workflow for adding vision capabilities to prototypes, Retrieval‑Augmented Generation (RAG) pipelines, or autonomous‑agent systems while keeping the entire pipeline on‑premises.
 
 **Value**  
-- **Zero‑cloud conversion**: Keeps proprietary data and model weights local, satisfying security or latency constraints.  
-- **Multi‑target deployment**: One source model can be shipped to GPUs (TensorRT), cross‑platform runtimes (ONNX), or Apple devices (CoreML) with minimal re‑engineering.  
-- **Speed‑up prototyping**: Saves weeks of manual export work, letting teams focus on downstream logic rather than format‑specific boilerplate.  
+- **Speed to prototype** – eliminates the need to rebuild detection models from scratch; you can drop‑in a pre‑trained YOLO/RF‑DETR checkpoint and instantly obtain inference‑ready artifacts for the target hardware.  
+- **Hardware flexibility** – by targeting ONNX, TensorRT, and CoreML, the same source model can be deployed on CPUs, NVIDIA GPUs, or Apple devices, maximizing reuse across heterogeneous environments.  
+- **Privacy‑first** – all conversion steps run locally, satisfying strict data‑sovereignty or edge‑computing requirements.
 
 **Practical Adoption Path**  
-1. **Clone the repo and install the listed dependencies** (Python 3.9+, PyTorch, onnx‑runtime, TensorRT SDK, coremltools).  
-2. **Run the provided conversion script** on a trained YOLO or RF‑DETR checkpoint, specifying the target format (`--to onnx|tensorrt|coreml`).  
-3. **Validate the exported artifact** with the included test harness (e.g., run an inference sanity‑check on a few images).  
-4. **Integrate into your pipeline**:  
-   - For GPU‑heavy services, load the TensorRT engine via the TensorRT Python API.  
-   - For platform‑agnostic services, serve the ONNX model with ONNX Runtime or Triton Inference Server.  
-   - For iOS/macOS apps, embed the CoreML model using Xcode’s MLModel integration.  
-5. **Add CI checks** that re‑run the conversion and sanity‑check on new model versions before promotion.  
+1. **Clone the repo & install dependencies** (Python 3.9+, PyTorch, ONNX‑runtime, TensorRT SDK, CoreMLTools).  
+2. **Download a YOLO or RF‑DETR checkpoint** (or use your own fine‑tuned weights).  
+3. **Run the provided conversion script** (`export.py --model yolov8 --output onnx/tensorrt/coreml`).  
+4. **Validate the exported model** with the supplied test harness (compare inference outputs against the original PyTorch model).  
+5. **Integrate** the generated artifact into your downstream stack (e.g., TensorRT engine in a C++ service, CoreML model in an iOS app, or ONNX model in a Python microservice).  
+6. **Iterate**—if performance or accuracy gaps appear, tweak export flags (dynamic/static shapes, FP16/INT8 quantization) and re‑export.
 
 **Production Readiness**  
-- **Maturity**: Medium. The codebase is recent (updated 2026‑06‑22) and works for prototypes, but documentation, issue tracking, and release cadence are sparse.  
-- **Risks**: Limited quality signals; you must manually verify licensing, test on target hardware, and monitor upstream dependencies (PyTorch, TensorRT, coremltools) for breaking changes.  
-- **Recommended stance**: Use for internal demos, RAG/agent workflows, or as a stepping‑stone to a custom export pipeline. Before moving to production, perform thorough validation, lock dependency versions, and consider adding automated regression tests around the conversion and inference steps.
+- **Maturity:** Medium. The project is actively maintained (last update 2026‑06‑22) and works well for prototyping and internal pipelines, but integration signals are sparse and documentation is minimal.  
+- **Risks:** Limited quality signals; you must verify the license, dependency versions, and issue tracker before committing to a production release.  
+- **Recommendations:** Perform a thorough validation of exported models (accuracy, latency, memory) on your target hardware, pin all third‑party libraries, and consider adding internal test harnesses. Once these checks pass, the toolkit is suitable for production‑grade deployments, especially in environments where on‑device inference and data privacy are paramount.
 
 ### Русский
 
-**Show HN: Export YOLO/RF‑DETR Models to ONNX, TensorRT, CoreML – 100 % Local** — открытый набор скриптов, позволяющий конвертировать готовые модели YOLO и RF‑DETR в форматы ONNX, TensorRT и CoreML полностью локально, без обращения к облачным сервисам. Это удобно для быстрого прототипирования AI‑фич, создания RAG‑ или агентных пайплайнов и оценки разных инструментов развертывания, однако перед внедрением требуется ручная проверка совместимости, лицензии и поддержки проекта. Готовность к продакшну — средний уровень: подходит для внутренних прототипов и ограниченных рабочих процессов, но требует дополнительного аудита зависимостей и обеспечения стабильности перед масштабным использованием.
+**Show HN: Export YOLO/RF‑DETR Models to ONNX, TensorRT, CoreML – 100% Local** — это open‑source утилита, позволяющая быстро конвертировать готовые модели YOLO и RF‑DETR в форматы ONNX, TensorRT и CoreML без обращения к облачным сервисам, что упрощает добавление AI‑функционала в прототипы и внутренние пайплайны (например, RAG‑агенты или кастомные inference‑сервисы). Типичный сценарий — локальная конверсия модели, её проверка и последующее развертывание в нужной среде (GPU‑ускоренный TensorRT, мобильный CoreML и т.п.). Готовность к production оценивается как средняя: проект подходит для прототипов и внутренних решений, но требует ручной проверки лицензии, документации и стабильности зависимостей перед масштабным внедрением.
 
 ### 中文
 
+**项目简介**  
+Show HN: Export YOLO/RF‑DETR Models to ONNX, TensorRT, CoreML – 100% Local 是一个开源工具链，能够在本地环境下将 YOLO 与 RF‑DETR 等目标检测模型直接导出为 ONNX、TensorRT 或 CoreML 格式，省去从头搭建模型转换流水线的工作。
+
 **价值**  
-Show HN 项目提供了一套完整的本地化工具链，能够将 YOLO 与 RF‑DETR 等前沿目标检测模型一键导出为 ONNX、TensorRT 与 CoreML 格式。这样，开发者无需从零搭建模型训练与优化流程，即可快速在服务器、GPU 加速推理或 iOS 端部署 AI 能力，极大缩短原型开发周期并降低算力成本。
+- **快速赋能 AI 能力**：只需几行命令即可得到可部署的模型文件，帮助团队在原型阶段快速验证视觉功能。  
+- **多平台兼容**：一次导出即可在服务器（TensorRT）、跨平台移动端（CoreML）以及通用推理框架（ONNX）上使用，降低了维护成本。  
+- **本地化安全**：全部在本地完成转换，无需将模型或数据上传至云端，符合隐私合规要求。
 
 **典型接入方式**  
-
-1. **准备模型**：在本地训练或下载已有的 YOLO / RF‑DETR 权重（`.pt`、`.pth` 等）。  
-2. **安装依赖**：```bash
-   pip install -r requirements.txt   # 包含 torch, onnx, onnx‑runtime, tensorrt‑bindings, coremltools 等
-   ```  
-3. **导出**：运行项目提供的 CLI 或 Python 脚本，例如  
+1. **准备环境**：安装 Python 3.9+、PyTorch、ONNX、TensorRT（或 CoreMLTools）等依赖。  
+2. **模型导入**：使用库提供的 `load_yolo()` / `load_rf_detr()` 接口加载已有的 PyTorch 权重。  
+3. **导出命令**：  
    ```bash
-   python export.py --model yolov8s.pt --target onnx   # 导出 ONNX
-   python export.py --model rf_detr.pt --target trt   # 导出 TensorRT
-   python export.py --model yolov8s.pt --target coreml # 导出 CoreML
+   # 导出 ONNX
+   python export.py --model yolov8 --output model.onnx --format onnx
+   
+   # 导出 TensorRT
+   python export.py --model rf_detr --output model.trt --format tensorrt
+   
+   # 导出 CoreML（macOS/iOS）
+   python export.py --model yolov8 --output model.mlmodel --format coreml
    ```  
-4. **验证**：使用对应 runtime（onnxruntime、TensorRT‑runtime、CoreML‑model‑viewer）跑一次推理，检查输出与原模型一致性。  
-5. **集成**：将生成的模型文件直接嵌入到业务代码中（如 Flask API、FastAPI、iOS 应用），无需额外的模型服务器。
+4. **后处理**：根据目标平台对导出的文件进行校验（如 ONNX 检查点、TensorRT 性能基准），必要时手动微调输入/输出节点名称。  
+5. **集成**：在业务代码中加载对应格式的模型（如 `onnxruntime.InferenceSession`、`tensorrt.Runtime`、`CoreML`），即可完成推理调用。
 
 **生产可用性**  
+- **成熟度**：目前评分 41/100，属于 **中等** 级别。适合原型开发、内部工具或 RAG/Agent 工作流的快速实验。  
+- **风险与注意事项**  
+  - 项目元数据较少，需自行检查许可证、社区活跃度和最近的 Issue 解决情况。  
+  - 依赖 TensorRT/CoreML 的版本兼容性较敏感，建议在正式部署前做完整的回归测试。  
+  - 代码更新频率不高，若业务对长期维护有要求，需要自行制定升级和安全审计流程。  
+- **生产建议**：在进入生产环境前，进行以下步骤：  
+  1. **代码审计**，确认无安全隐患。  
+  2. **性能基准**，对比导出模型与原始 PyTorch 推理的延迟、吞吐。  
+  3. **CI/CD 集成**，将导出脚本写入构建流水线，确保模型版本可追溯。  
+  4. **监控与回滚**，部署后监控推理错误率和资源使用，准备好快速回滚到原始模型。  
 
-- **成熟度**：目前评分 41/100，属于 **中等** 级别。适合内部原型、研发验证或内部工具链；在正式生产环境使用前，需要完成以下检查：  
-  - 代码许可证兼容性（确认 MIT/Apache 等开源许可证）。  
-  - 依赖版本锁定与安全审计，防止 TensorRT/ONNX 运行时升级导致兼容性问题。  
-  - 文档、issue 与 PR 活跃度（目前元数据稀疏，需自行评估维护频率）。  
-- **风险**：质量信号有限，缺乏完整的 CI/CD 测试报告和长期维护承诺。建议在上线前：  
-  1. 编写自定义的回归测试，覆盖模型输入‑输出一致性。  
-  2. 将导出过程纳入 CI，确保每次依赖升级后仍能成功生成模型。  
-  3. 监控运行时性能（FPS、内存占用），并与原始 PyTorch 推理基准对比。  
-
-综上，**Show HN: Export YOLO/RF‑DETR Models to ONNX, TensorRT, CoreML** 是一套加速 AI 功能落地的实用工具，适合快速原型与内部 workflow；在生产环境部署前，需要进行充分的依赖审查、兼容性测试和性能验证。
+综上，该项目在加速本地模型部署方面提供了显著价值，适合作为原型或内部工具的首选方案；在正式生产使用前，需要进行充分的兼容性、性能和维护性验证。
 
 ## 🧭 Practical evaluation
 

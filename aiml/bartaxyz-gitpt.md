@@ -27,58 +27,55 @@ AI/ML
 
 ### English
 
-**Brief Summary (2‑3 sentences)**  
-GitPT is an open‑source tool that leverages Apple’s on‑device Foundation Models to generate AI‑enhanced Git commit messages. It lets developers add intelligent commit‑message suggestions without training a model from scratch, making it a quick way to prototype AI‑driven workflows. The project is actively maintained (last update 2026‑06‑22) but requires careful validation before production use.  
+**Brief summary**  
+GitPT is an open‑source tool that generates Git commit messages using Apple’s on‑device Foundation Models, letting developers add AI‑powered suggestions without training their own models. It targets rapid prototyping of AI‑enhanced workflows such as RAG pipelines or autonomous agents, but the integration metadata is sparse, so results should be manually reviewed before being accepted.  
 
 **Value**  
-- **Zero‑training overhead**: By reusing Apple’s pre‑installed foundation models, teams can get AI‑generated commit messages instantly, saving the time and compute cost of building and fine‑tuning their own language model.  
-- **Rapid prototyping**: The library can be dropped into existing CI pipelines or local developer tools to experiment with AI‑augmented version‑control, RAG, or agent‑style workflows.  
-- **On‑device privacy**: Since the models run locally on Apple hardware, no code or commit data leaves the developer’s machine, which is attractive for security‑sensitive projects.  
+- **Zero‑model‑training overhead** – By leveraging Apple’s pre‑installed foundation models, teams can obtain high‑quality language generation instantly, saving time and compute costs.  
+- **Fast AI feature iteration** – Commit‑message generation is a low‑risk, high‑impact use case that showcases how AI can be woven into existing developer tools, serving as a sandbox for more complex RAG or agent‑based workflows.  
+- **On‑device privacy** – All inference runs locally on Apple hardware, eliminating data‑exfiltration concerns and simplifying compliance.  
 
-**Practical Adoption Path**  
-1. **Environment setup** – Install the GitPT package on macOS machines that have Apple’s Foundation Models available (e.g., recent M‑series Macs).  
-2. **Integrate with Git hooks** – Add a `prepare-commit-msg` or `commit-msg` hook that calls the GitPT CLI/API to generate a draft message.  
-3. **Human‑in‑the‑loop review** – Configure the hook to pause for manual approval or editing, ensuring the generated text is appropriate before the commit is recorded.  
-4. **Iterate and tune** – Adjust prompt templates or model parameters (e.g., temperature, max tokens) to match the team’s commit style.  
-5. **Scale to CI/CD** – Optionally extend the same logic to automated PR generation or release‑note drafting in CI pipelines.  
+**Practical adoption path**  
+1. **Environment setup** – Install the GitPT CLI on macOS machines with the required Apple silicon or recent Intel Macs that support the Foundation Models runtime.  
+2. **Pilot integration** – Add a Git hook (e.g., `prepare‑commit‑msg`) that calls `gitpt generate` and pipes the output into the commit message buffer.  
+3. **Manual validation** – Review the AI‑suggested messages in a staging branch; adjust the hook to filter or post‑process output as needed.  
+4. **Scale internally** – Once the workflow is vetted, roll the hook out to the team via a shared config repository or a CI‑enabled script.  
+5. **Extend** – Use the same model invocation pattern to build richer RAG or autonomous‑agent components, re‑using the on‑device inference layer.  
 
-**Production Readiness**  
-- **Readiness level: Medium** – The tool is functional for internal prototypes and can be safely used in controlled workflows, but it is not yet a turnkey production component.  
-- **Key considerations before production**  
-  - **License & compliance** – Verify the repository’s license and Apple’s model usage terms.  
-  - **Maintenance** – Monitor upstream updates; the project’s release cadence is modest, so plan for occasional dependency pinning.  
-  - **Documentation & support** – Existing docs are sparse; allocate time for internal documentation and troubleshooting.  
-  - **Quality control** – Implement mandatory manual inspection of generated messages (or automated linting) to avoid erroneous or insecure commit texts.  
-  - **Observability** – Add logging around hook execution and model inference latency to detect failures early.  
+**Production readiness**  
+- **Readiness level: Medium** – The project is up‑to‑date (June 2026) and functional for prototyping, but it lacks extensive documentation, automated tests, and a clearly defined release cadence.  
+- **Considerations before production**  
+  - Verify the project’s license compatibility with your codebase.  
+  - Assess maintenance activity (open issues, recent commits) to gauge long‑term support.  
+  - Implement a review step or fallback to manual commit messages to mitigate occasional generation errors.  
+  - Monitor performance and resource usage on target hardware, especially in CI environments.  
 
-With these safeguards in place, GitPT can be adopted for internal tooling, developer‑experience enhancements, or as a building block for larger AI‑augmented DevOps pipelines.
+If these checks are satisfied, GitPT can be safely used for internal tooling and, with additional hardening, may evolve into a production‑grade component for AI‑augmented development pipelines.
 
 ### Русский
 
-Show HN: GitPT — инструмент, который генерирует сообщения коммитов, используя on‑device Foundation Models от Apple, позволяя быстро добавить AI‑функциональность без необходимости обучать собственные модели. Он удобен для прототипирования AI‑фич, построения RAG‑агентов и оценки инструментов моделирования, однако требует ручной проверки результатов и проверки лицензии, документации и частоты релизов перед внедрением в продакшн. Готовность к production – средняя: подходит для внутренних прототипов и рабочих процессов при условии дополнительного контроля качества и поддержки зависимостей.
+Show HN: GitPT — инструмент, позволяющий генерировать сообщения к коммитам с помощью встроенных в iOS/macOS Foundation Models от Apple, что упрощает добавление AI‑функциональности без необходимости обучать собственные модели. Его типичное применение — быстрый прототипинг AI‑фич, построение RAG‑ или агентных воркфлоу и оценка возможностей модели, однако перед внедрением требуется ручная проверка результатов из‑за скудных интеграционных сигналов. Готовность к production — средняя: подходит для внутренних или экспериментальных сценариев, но требует проверки лицензии, поддержки и стабильности перед масштабным использованием.
 
 ### 中文
 
 **项目简介**  
-Show HN: GitPT 是一个利用 Apple 设备上本地运行的 Foundation Models 为 Git 提交生成 AI 文本的工具。它让开发者无需自行训练模型，即可在本地快速为代码提交添加智能、语义化的提交信息。
+Show HN: GitPT 是一款利用 Apple 本地化 Foundation Models 为 Git 提交生成 AI 文本的工具，帮助开发者在不从零构建模型的情况下快速加入智能提示功能。  
 
 **价值**  
-- **即插即用**：直接调用 Apple 已经部署好的大模型，省去模型训练、部署和维护的成本。  
-- **隐私安全**：所有推理在本地完成，代码和提交信息不需要上传到云端，符合企业内部合规要求。  
-- **加速原型**：适合快速验证 AI 辅助开发的概念，如 RAG、智能 agents 或自动化工作流。
+- **快速原型**：直接调用已训练好的本地模型，即可为代码提交自动生成自然语言描述，省去手工编写的时间。  
+- **低成本集成**：无需部署云端模型，所有推理在本机完成，降低延迟和运营成本。  
+- **灵活实验**：可用于 RAG、Agent 工作流等场景，帮助团队评估模型工具链的可行性。  
 
 **典型接入方式**  
-1. **依赖安装**：在 macOS / iOS 开发环境中通过 Homebrew 或 pip 安装 GitPT 包。  
-2. **配置凭证**：确保设备已开启 Apple Foundation Models 的本地访问权限（通常通过 Xcode Command‑Line Tools 或系统设置）。  
-3. **Git Hook 集成**：在项目根目录添加 `prepare‑commit‑msg` 或 `commit‑msg` 钩子，调用 `gitpt generate` 将模型生成的文本写入提交信息。  
-4. **人工审查**：在提交前打开编辑器让开发者检查并可自行修改模型输出，防止误生成不合规或不准确的描述。
+1. **依赖安装**：在项目中引入 GitPT 的 Python 包或 CLI 工具。  
+2. **模型准备**：确保本机已安装 Apple 的 on‑device Foundation Model（如 `mlmodelc`），并在环境变量或配置文件中指向模型路径。  
+3. **Git Hook 集成**：在仓库根目录添加 `prepare-commit-msg` 或 `commit-msg` 钩子，调用 `gitpt generate` 将生成的提交信息写回 Git。  
+4. **人工审查**：在 CI 流程或本地提交前加入人工审查步骤，确保模型输出符合团队规范。  
 
 **生产可用性**  
-- **成熟度**：目前评分 41/100，适合作为原型或内部工具使用，正式生产环境需要额外的可靠性验证。  
-- **依赖与维护**：依赖 Apple 本地模型的可用性和系统升级，需定期检查兼容性、许可证以及项目的维护状态（issue、release cadence）。  
-- **风险**：元数据稀疏、文档和社区支持有限，建议在正式部署前进行充分的单元/集成测试并制定回滚方案。  
-
-综上，GitPT 对于想在本地快速尝试 AI 辅助提交的团队非常有吸引力，但在进入生产环境前应完成依赖审计、质量评估和人工审查流程。
+- **成熟度**：当前评分 41/100，属于 **中等** 稳定性，适合原型开发或内部工具。  
+- **依赖风险**：依赖 Apple 本地模型及其更新周期，需定期检查兼容性和许可证。  
+- **上线建议**：在正式生产环境使用前，进行充分的单元测试、审计模型输出质量，并制定回滚方案；若对可靠性要求极高，建议先在内部流水线中验证后再推广。
 
 ## 🧭 Practical evaluation
 

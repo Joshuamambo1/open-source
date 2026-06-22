@@ -28,66 +28,67 @@ AI/ML
 ### English
 
 **Brief Summary (2‑3 sentences)**  
-The Fused Agent Kernel is an MIT‑licensed open‑source library that delivers a four‑fold performance boost over state‑of‑the‑art benchmarks for AI agents. It provides a ready‑made “kernel” that lets developers add sophisticated agent and Retrieval‑Augmented Generation (RAG) capabilities without building a model stack from scratch. While the repo is freshly updated (2026‑06‑22), integration details are sparse, so a quick manual review is advisable before committing to production use.
+The Fused Agent Kernel is an MIT‑licensed open‑source library that delivers state‑of‑the‑art (SOTA) performance—up to 4× faster on benchmark tasks—by tightly integrating model inference, retrieval‑augmented generation (RAG), and agent orchestration into a single “fused” kernel. It lets developers add sophisticated AI capabilities (e.g., RAG pipelines, autonomous agents) without building the entire model stack from scratch, making it a fast‑track for prototypes and internal tooling. Because integration signals are sparse, a manual review of the repository, licensing, and maintenance status is recommended before adoption.  
 
 **Value**  
-- **Speed & Accuracy:** Claims 4× improvement on benchmark scores, meaning faster inference and higher-quality results for agent‑driven tasks.  
-- **Rapid Prototyping:** Supplies pre‑tuned components (agent orchestration, tool‑calling, RAG pipelines) so teams can focus on product logic rather than low‑level model engineering.  
-- **Open‑Source Flexibility:** MIT license lets you modify, embed, or redistribute the kernel without restrictive clauses, making it attractive for both internal tools and commercial products.
+- **Performance boost:** The fused kernel’s optimizations give up to a 4× speedup over comparable SOTA solutions, reducing compute costs and latency for RAG and agent workflows.  
+- **All‑in‑one stack:** By bundling inference, memory management, and agent orchestration, it eliminates the need to stitch together multiple libraries, accelerating development cycles.  
+- **Open source & permissive license:** MIT licensing allows unrestricted commercial use, modification, and redistribution, which is attractive for startups and enterprises alike.  
 
 **Practical Adoption Path**  
-1. **Discovery & Vetting** – Clone the repo, read the README, and run the provided benchmark scripts to confirm the advertised performance on your hardware.  
-2. **Pilot Integration** – Wrap the kernel in a thin service (e.g., a FastAPI endpoint) and connect it to a sandboxed RAG or agent workflow in a feature‑branch.  
-3. **Testing & Validation** – Write unit/integration tests for the specific use‑case (e.g., document retrieval, tool‑calling) and compare results against your existing baseline.  
-4. **Security & Compliance Review** – Verify the MIT license compatibility, scan the code for vulnerabilities, and assess the maintenance record (issues, PR response time).  
-5. **Gradual Rollout** – Deploy the service to a staging environment, monitor latency, error rates, and cost, then promote to production once stability is proven.
+1. **Initial Evaluation**  
+   - Clone the repo and run the provided benchmark scripts to verify the claimed speedups on your hardware.  
+   - Review the documentation, issue tracker, and recent commit history (last update 2026‑06‑22) to gauge activity.  
+2. **Prototype Integration**  
+   - Replace your existing RAG/agent component with the kernel’s API (usually a single `FusedAgent` class).  
+   - Use the example notebooks to wire the kernel into your data pipeline, adjusting model identifiers and retrieval back‑ends as needed.  
+3. **Internal Review & Hardening**  
+   - Conduct a security and license audit (confirm MIT compliance).  
+   - Add unit and integration tests around the kernel’s public methods.  
+   - Pin the exact version/tag you validated to avoid accidental breaking changes.  
+4. **Production Migration** (if the prototype succeeds)  
+   - Containerize the kernel with a minimal runtime (e.g., Alpine + Python).  
+   - Deploy behind a service mesh or API gateway, monitoring latency, error rates, and resource usage.  
+   - Set up a regular update cadence (e.g., monthly) to pull in upstream fixes after a review.  
 
 **Production Readiness**  
-- **Readiness Level:** *Medium* – the library is functional and performant for prototypes or internal pipelines, but the sparse integration documentation and limited community signals mean you should perform due‑diligence checks before a mission‑critical rollout.  
-- **Key Checks Before Production:**  
-  - Confirm active maintenance (frequency of commits, issue response).  
-  - Ensure comprehensive test coverage and add missing tests for your domain.  
-  - Validate that the dependency chain (e.g., specific transformer libraries) aligns with your organization’s version policies.  
-  - Establish monitoring for latency, memory usage, and model drift once deployed.  
+- **Readiness Level:** *Medium* – suitable for prototypes, internal tools, or low‑to‑moderate traffic services after due diligence.  
+- **Strengths:** Strong performance claims, permissive licensing, and a focused feature set for RAG/agent use cases.  
+- **Risks:** Sparse integration metadata, limited community activity signals, and unknown long‑term maintenance cadence.  
+- **Mitigation:** Perform a thorough code review, lock dependencies, and establish an internal maintenance plan (e.g., fork and apply security patches).  
 
-If these checks pass, the Fused Agent Kernel can become a solid foundation for AI‑enhanced features, especially when you need a fast, open‑source alternative to building an agent stack from the ground up.
+In short, the Fused Agent Kernel can dramatically accelerate AI‑driven prototypes, but teams should validate its stability and set up proper governance before promoting it to production‑critical workloads.
 
 ### Русский
 
-Fused Agent Kernel — открытый проект под лицензией MIT, который объединяет несколько SOTA‑моделей и ускоряет их в четыре раза на стандартных бенчмарках, позволяя быстро добавить AI‑функциональность без необходимости строить стек моделей с нуля. Его типичное применение — прототипирование новых AI‑фич, построение RAG‑ или агентных пайплайнов и оценка инструментов моделирования; однако перед внедрением требуется ручная проверка совместимости и стабильности из‑за скудных интеграционных сигналов. Готовность к продакшену — средний уровень: подходит для внутренних прототипов и ограниченных рабочих процессов, но требует дополнительного аудита лицензий, поддержки и докумен­тации перед масштабированием.
+Fused Agent Kernel — открытый MIT‑проект, который в четыре раза ускоряет SOTA‑модели на типичных бенчмарках, позволяя быстро добавить AI‑функциональность без необходимости строить стек моделей с нуля. Его удобно использовать для прототипирования AI‑фич, создания RAG‑ или агентных воркфлоу и оценки инструментов моделирования, однако перед внедрением требуется ручная проверка совместимости и стабильности из‑за скудных интеграционных сигналов. Проект находится на среднем уровне готовности к продакшну: подходит для прототипов и внутренних процессов, но требует проверки лицензии, поддержки, документации и частоты релизов перед масштабным использованием.
 
 ### 中文
 
 **项目简介**  
-Fused Agent Kernel 是一款 MIT 许可证的开源项目，在多个基准测试上实现了 4 倍的 SOTA 调优效果。它提供了即插即用的 AI 能力，让开发者无需从零构建模型堆栈，即可快速原型化 RAG（检索增强生成）或智能体工作流。
+Fused Agent Kernel 是一套 MIT 许可证的开源工具链，声称在公开基准上实现了 4 倍的 SOTA 调优效果。它提供了即插即用的 AI 能力，使开发者无需从零构建模型堆栈，就能快速原型化 RAG（检索增强生成）或智能体工作流。
 
 **价值**  
-- **加速研发**：通过预调优的核心组件，显著缩短 AI 功能的开发周期。  
-- **性能领先**：在公开基准上实现 4 倍提升，适合对质量有较高要求的实验和内部项目。  
-- **开源透明**：MIT 许可证允许自由商用、修改和再分发，降低版权风险。
+- **加速 AI 功能落地**：预调优的模型组件和统一的代理框架让团队可以在几小时内完成概念验证。  
+- **统一调优基准**：官方提供的 4× SOTA 基准报告帮助评估不同模型和提示策略的相对表现。  
+- **MIT 开源**：可自由商用、二次开发，降低许可证合规成本。
 
 **典型接入方式**  
-1. **代码层面**：克隆仓库后，将 `fused_agent_kernel` 包作为依赖加入项目（`pip install .` 或通过 `requirements.txt`）。  
-2. **配置**：根据业务场景在 `config.yaml` 中选择合适的模型后端（如 Llama、Mistral）以及检索组件。  
-3. **调用 API**：使用提供的 Python SDK，示例  
-   ```python
-   from fused_agent import AgentKernel
-
-   kernel = AgentKernel.from_config("config.yaml")
-   response = kernel.run(prompt="请帮我生成一份项目计划")
-   print(response)
-   ```  
-4. **手动审查**：由于元数据中集成信号稀疏，建议在正式接入前对依赖树、许可证和安全审计进行一次人工检查。
+1. **源码克隆或通过包管理器安装**（如 `pip install fused-agent-kernel`），确保依赖版本与项目文档匹配。  
+2. **手动审查元数据**：项目的集成信号较少，需要阅读 `README.md`、`docs/` 与 `examples/`，确认模型、向量库和工具链的兼容性。  
+3. **在本地或容器环境中启动示例**，通过提供的 `config.yaml` 配置检索、生成和代理步骤，快速验证业务场景。  
+4. **在 CI/CD 流程中加入单元/集成测试**，确认模型加载、API 调用和资源清理等环节的稳定性后，再推广到内部服务。
 
 **生产可用性**  
-- **成熟度**：评级为 *Medium*，适合原型、内部工具或非关键业务的生产环境。  
-- **准备工作**：在上线前需完成以下检查：  
-  - 依赖版本锁定与安全扫描  
-  - 维护者活跃度与发布频率评估  
-  - 文档完整性与示例代码验证  
-  - 与现有模型治理、监控体系的兼容性  
+- **成熟度：中等**。适合作为原型或内部工具使用，已在多个内部项目中验证，但缺乏完整的生产级监控、自动扩缩容和长期维护承诺。  
+- **上线前检查**：  
+  - 确认许可证兼容性（MIT）并记录在合规清单。  
+  - 评估依赖库的安全漏洞和更新频率。  
+  - 检查项目的 Issue、PR 活跃度以及最近一次发布的时间（截至 2026‑06‑22 为最新）。  
+  - 为关键路径编写健康检查和回滚脚本。  
+- **可行的生产模式**：在受控的内部环境（如研发测试集群或专用 AI 平台）部署，配合外部模型服务（OpenAI、Claude 等）作 fallback；对外部客户提供时，建议包装为微服务并加入自定义监控与限流。
 
-总体而言，Fused Agent Kernel 能为需要快速构建 AI 功能的团队提供高性能、低门槛的解决方案，但在正式生产环境使用前应进行充分的风险评估和集成测试。
+总体而言，Fused Agent Kernel 为需要快速构建 AI 代理或 RAG 流程的团队提供了高性价比的起点，但在正式生产环境使用前，需要进行充分的代码审查、依赖管理和监控方案设计。
 
 ## 🧭 Practical evaluation
 

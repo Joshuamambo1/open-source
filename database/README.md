@@ -45,8 +45,8 @@
 | 35 | [google/mozc](./google-mozc.md) | ⭐ 2.9k | C++ | 60/100 |
 | 36 | [OpenAEV-Platform/openaev](./openaev-platform-openaev.md) | ⭐ 1.7k | Java | 60/100 |
 | 37 | [hydro-project/hydro](./hydro-project-hydro.md) | ⭐ 1.2k | Rust | 60/100 |
-| 38 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
-| 39 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
+| 38 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
+| 39 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
 | 40 | [lukecav/awesome-gravity-forms](./lukecav-awesome-gravity-forms.md) | ⭐ 324 | — | 59/100 |
 | 41 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 59/100 |
 | 42 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 59/100 |
@@ -74,8 +74,8 @@
 | 64 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 65 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
 | 66 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 67 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
-| 68 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 67 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 68 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 69 | [Ahmad10611/openwrt-performance-optimizer](./ahmad10611-openwrt-performance-optimizer.md) | ⭐ — | — | 41/100 |
 | 70 | [unidoc/isms](./unidoc-isms.md) | ⭐ — | — | 41/100 |
 | 71 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |

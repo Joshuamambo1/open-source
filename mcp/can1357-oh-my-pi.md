@@ -27,61 +27,49 @@ MCP · AI/ML · Frontend · DevTools
 
 ### English
 
-**Project Summary:**
+Here's a brief summary and explanation of the open-source project:
 
-Oh-My-Pi is an open-source project that enables the connection of AI assistants to real tools and data through a standard protocol, the Model Context Protocol (MCP). This project facilitates the integration of AI agents with various tools, making it easier to automate tasks and streamline workflows. With its high production readiness and strong ecosystem signals, Oh-My-Pi is a promising solution for developers looking to leverage AI capabilities in their applications.
+**Summary:** 
+Oh-my-pi is an open-source, AI coding agent for the terminal, enabling the connection of AI assistants to real tools and data through a standard protocol. This project allows developers to connect AI agents to tools, standardize integrations, and ship Model Context Protocol servers. With a high production readiness score, it's an attractive option for serious pilots.
 
-**Value Proposition:**
+**Value Proposition:** 
+The value proposition of Oh-my-pi lies in its ability to standardize integrations between AI assistants and real tools and data. This facilitates seamless communication and collaboration between AI agents and other systems, making it an ideal solution for developers who want to leverage AI capabilities in their projects.
 
-The value of Oh-My-Pi lies in its ability to standardize integrations between AI assistants and real tools, enabling developers to connect AI agents to various tools and data sources. This standardization simplifies the development process, making it easier to automate tasks and create more efficient workflows.
+**Practical Adoption Path:** 
+The adoption path for Oh-my-pi appears straightforward, as it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics. This makes it easier for developers to evaluate and integrate the project into their existing workflows. With a strong ecosystem and recent activity, it's likely that Oh-my-pi will continue to evolve and improve.
 
-**Practical Adoption Path:**
-
-To adopt Oh-My-Pi, developers can follow these steps:
-
-1. Evaluate the project's API, SDK, and CLI to understand its implementation signals.
-2. Review the project's documentation and code to ensure it meets their needs.
-3. Integrate Oh-My-Pi with their existing tools and data sources using the Model Context Protocol.
-4. Test and refine the integration to ensure seamless communication between AI agents and tools.
-
-**Production Readiness:**
-
-Oh-My-Pi
+**Production Readiness:** 
+Oh-my-pi has a high production readiness score, indicating that it's suitable for serious pilots. The project has a strong adoption rate
 
 ### Русский
 
-Резюме проекта:
+Резюме проекта can1357/oh-my-pi:
 
-can1357/oh-my-pi - это открытое исходное решение, которое предоставляет уникальную возможность подключения AI-ассистентов к реальным инструментам и данным через стандартный протокол. Этот проект особенно полезен в сценариях, когда необходимо интегрировать AI-агентов с существующими инструментами, что может быть легко реализовано с помощью стандартного протокола. Проект готов к внедрению в производственную среду, поскольку он имеет высокий уровень готовности (High), недавние обновления и сильную экосистемную поддержку.
+can1357/oh-my-pi - это мощный инструмент, позволяющий соединять искусственный интеллект с реальными инструментами и данными через стандартный протокол. Этот проект особенно полезен для подключения агентов AI к инструментам, а также для развертывания серверов протокола Model Context Protocol. can1357/oh-my-pi готов к serious пилотному проекту, поскольку имеет высокий уровень готовности к production, регулярную активность и сильную экосистему, что делает его надежным выбором для внедрения.
 
 ### 中文
 
 **简短介绍**
-can1357/oh-my-pi 是一个开源项目，旨在为终端提供 AI 编码代理服务，包括 hash-锚定编辑、优化工具集成、LSP、Python、浏览器和子代理等功能。
+
+can1357/oh-my-pi 是一个开源项目，旨在为终端提供 AI 编码代理功能，支持 hash-锚定编辑、优化工具集成、LSP、Python、浏览器和子代理等功能。
 
 **价值**
-oh-my-pi 的价值在于，它帮助连接 AI 助手到真实的工具和数据，通过标准协议实现这一目标。
+
+can1357/oh-my-pi 的价值在于，它帮助连接 AI 助手与真实工具和数据通过标准协议。它可以帮助开发者连接 AI 代理到工具上，部署 Model Context Protocol 服务器，并标准化集成。
 
 **典型接入方式**
-oh-my-pi 支持以下接入方式：
 
-* 连接 AI 代理到工具
-* 部署 Model Context Protocol 服务器
-* 标准化集成
+接入 can1357/oh-my-pi 的典型方式包括：
+
+1. 连接 AI 代理到工具上：通过标准协议接入 AI 代理到工具上，实现 AI 助手与工具的集成。
+2. 部署 Model Context Protocol 服务器：部署 MCP 服务器来接收和处理 AI 代理的请求。
+3. 标准化集成：通过标准协议标准化 AI 代理与工具的集成。
 
 **生产可用性**
-oh-my-pi 的生产可用性很高，主要原因是：
 
-* 最近活跃
-* 大规模采用
-* 强大的生态系统信号
-* 高评分（94/100）
+can1357/oh-my-pi 的生产可用性较高，主要原因是：
 
-然而，仍需要进一步检查以下风险：
-
-* 许可证
-* 安全态势
-* 活跃维护者
+1. 近期活跃度：最近
 
 ## 🧭 Practical evaluation
 
@@ -99,7 +87,7 @@ oh-my-pi 的生产可用性很高，主要原因是：
 
 **Quality signals**
 
-- 14106 GitHub stars
+- 14116 GitHub stars
 - 1241 forks
 - updated 2026-06-22
 - primary language: TypeScript

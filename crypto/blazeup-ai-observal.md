@@ -29,51 +29,55 @@ Crypto · MCP · AI/ML · DevTools · Data
 
 **Project Summary:**
 
-BlazeUp-AI/Observal is an open-source, local registry and analytics platform for AI components, enabling users to prototype and inspect blockchain workflows with transparent implementation details. This project offers a practical adoption path for building Web3 workflows, inspecting blockchain integrations, and prototyping wallet or DeFi features. With a high production readiness score, Observal is suitable for serious pilot projects, backed by strong GitHub adoption and recent activity.
+BlazeUp-AI/Observal is an open-source, local registry and analytics platform for AI components, enabling users to prototype, inspect, and share blockchain workflows with open implementation details. Its value proposition lies in facilitating the development of Web3 workflows, inspecting blockchain integrations, and prototyping wallet or DeFi features. With a high production readiness score, Observal is suitable for serious pilots due to its strong adoption, recent activity, and ecosystem signals.
 
-**Value Proposition:**
+**Value:**
 
-The primary value of BlazeUp-AI/Observal lies in its ability to provide a transparent and open implementation of AI components, enabling users to prototype and inspect blockchain workflows with ease. This facilitates the development of Web3 workflows, blockchain integrations, and DeFi features, making it an attractive solution for developers and organizations working in the blockchain space.
+The primary value of BlazeUp-AI/Observal lies in its ability to facilitate the development and inspection of blockchain workflows. By providing a local registry and analytics platform for AI components, it enables users to:
+
+* Prototype and test blockchain-based applications
+* Inspect and analyze blockchain integrations
+* Share knowledge and expertise through open implementation details
 
 **Practical Adoption Path:**
 
-Users can adopt BlazeUp-AI/Observal by following these steps:
+To adopt BlazeUp-AI/Observal, users can follow these steps:
 
-1. Setting up the platform and defining the scope of their AI components.
-2. Defining and sharing their Skills, MCPs (Machine Learning Components), and Agents.
-3. Using the platform to prototype and inspect blockchain workflows, leveraging its analytics capabilities.
+1. Set up the Observal platform
+2. Define the scope and share AI components (Skills, MCPs, and Agents)
+3. Utilize the platform to prototype, inspect, and share blockchain workflows
 
-**Production Readiness:**
-
-BlazeUp-AI/Observal has a high production readiness
+The integration process appears straightforward, with exposed implementation signals such as API/SDK/CLI, language metadata, or focused
 
 ### Русский
 
 Резюме проекта BlazeUp-AI/Observal:
 
-Observal - это бесплатная платформа для регистрации и аналитики AI-компонентов, которая позволяет создавать, определять область и делиться навыками, MCPs и агентами. Этот проект помогает прототипировать или проверять блокчейн-Workflow с открытыми подробностями реализации. Observal подходит для внедрения в сценарии создания Web3-Workflow, проверки блокчейн-интеграций и прототипирования функций кошелька или DeFi. Проект демонстрирует высокую готовность к production, с сильным адоптацией и экосистемными сигналами.
+BlazeUp-AI/Observal - это облачная платформа для регистрации и анализа компонентов AI, которая позволяет прототипировать или инспектировать блокчейн-выполнения с открытыми подробностями реализации. Этот проект идеально подходит для разработчиков Web3-приложений, которые хотят создавать сложные блокчейн-работы с открытыми данными реализации. BlazeUp-AI/Observal готов к production: он имеет высокий уровень готовности (High), обновляется регулярно и имеет сильную экосистему поддержки.
 
 ### 中文
 
 **BlazeUp-AI/Observal 简介**
 
-BlazeUp-AI/Observal 是一个本地注册和分析平台，专为 AI 组件设计。它允许您设置 Observal、定义范围并共享您的技能、MCP 和代理。该平台帮助您快速构建 Web3 工作流、检查区块链集成和原型化钱包或 DeFi 功能。
+BlazeUp-AI/Observal 是一个开源项目，提供了一个本地注册和分析平台，用于管理和监控 AI 组件。它允许用户设置 Observal，定义作用域，并共享技能、MCPs 和 Agent。
 
 **价值**
 
-BlazeUp-AI/Observal 的价值在于其开放的实现细节和强大的分析能力，使其成为开发者构建和检查区块链应用的理想工具。
+BlazeUp-AI/Observal 的价值在于，它帮助用户快速 prototyping 或检查区块链工作流程的开源实现细节。它适用于构建 Web3 工作流程、检查区块链集成、或 prototyping 钱包或 DeFi 功能。
 
 **典型接入方式**
 
-您可以通过以下方式接入 BlazeUp-AI/Observal：
+BlazeUp-AI/Observal 提供了以下接入方式：
 
-1. 设置 Observal 平台并定义您的范围。
-2. 共享您的技能、MCP 和代理。
-3. 使用 API、SDK 或 CLI 与 Observal 进行交互。
+* API/SDK：暴露 API 或 SDK 接口，方便开发者接入。
+* CLI：提供命令行接口，方便开发者快速测试和调试。
+* 语言元数据：提供语言相关的元数据，方便开发者了解项目的技术栈。
 
 **生产可用性**
 
-BlazeUp-AI/Observal 具备较高的生产可用性，其 GitHub Repository 截至 2026 年 6 月 22 日共有 2112 个星标和 453 个 Fork。该项目的最近活跃度、采用
+BlazeUp-AI/Observal 的生产可用性较高，主要因素包括：
+
+* 近期活动：最近有活跃的维
 
 ## 🧭 Practical evaluation
 

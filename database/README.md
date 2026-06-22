@@ -75,8 +75,8 @@
 | 65 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 66 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
 | 67 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 68 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
-| 69 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 68 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 69 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
 | 70 | [Ahmad10611/openwrt-performance-optimizer](./ahmad10611-openwrt-performance-optimizer.md) | ⭐ — | — | 41/100 |
 | 71 | [unidoc/isms](./unidoc-isms.md) | ⭐ — | — | 41/100 |
 | 72 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |

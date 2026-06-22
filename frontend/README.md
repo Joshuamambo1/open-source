@@ -595,8 +595,8 @@
 | 585 | [deepinv/deepinv](./deepinv-deepinv.md) | ⭐ 730 | Python | 54/100 |
 | 586 | [markusmoenig/Eldiron](./markusmoenig-eldiron.md) | ⭐ 760 | Rust | 54/100 |
 | 587 | [mendrik-private/sqv](./mendrik-private-sqv.md) | ⭐ 151 | Rust | 54/100 |
-| 588 | [BrettMayson/HEMTT](./brettmayson-hemtt.md) | ⭐ 146 | Rust | 54/100 |
-| 589 | [hyperlight-dev/hyperlight-wasm](./hyperlight-dev-hyperlight-wasm.md) | ⭐ 706 | Rust | 54/100 |
+| 588 | [hyperlight-dev/hyperlight-wasm](./hyperlight-dev-hyperlight-wasm.md) | ⭐ 706 | Rust | 54/100 |
+| 589 | [BrettMayson/HEMTT](./brettmayson-hemtt.md) | ⭐ 146 | Rust | 54/100 |
 | 590 | [Gaok1/Raven-RiscV](./gaok1-raven-riscv.md) | ⭐ 101 | Rust | 54/100 |
 | 591 | [DelSkayn/rquickjs](./delskayn-rquickjs.md) | ⭐ 915 | Rust | 54/100 |
 | 592 | [SofusA/qobine](./sofusa-qobine.md) | ⭐ 216 | Rust | 54/100 |
@@ -637,8 +637,8 @@
 | 627 | [appium/appium-uiautomator2-server](./appium-appium-uiautomator2-server.md) | ⭐ 406 | Java | 53/100 |
 | 628 | [jbrooksuk/artisan.page](./jbrooksuk-artisan.page.md) | ⭐ 411 | Vue | 53/100 |
 | 629 | [vchelaru/Gum](./vchelaru-gum.md) | ⭐ 457 | C# | 53/100 |
-| 630 | [gszabi99/War-Thunder-Datamine](./gszabi99-war-thunder-datamine.md) | ⭐ 415 | Squirrel | 53/100 |
-| 631 | [getmydia/mydia](./getmydia-mydia.md) | ⭐ 731 | Elixir | 53/100 |
+| 630 | [getmydia/mydia](./getmydia-mydia.md) | ⭐ 731 | Elixir | 53/100 |
+| 631 | [gszabi99/War-Thunder-Datamine](./gszabi99-war-thunder-datamine.md) | ⭐ 415 | Squirrel | 53/100 |
 | 632 | [rikhuijzer/fx](./rikhuijzer-fx.md) | ⭐ 310 | Rust | 53/100 |
 | 633 | [LalitMaganti/syntaqlite](./lalitmaganti-syntaqlite.md) | ⭐ 768 | Rust | 53/100 |
 | 634 | [micro-manager/micro-manager](./micro-manager-micro-manager.md) | ⭐ 303 | Java | 53/100 |
@@ -721,8 +721,8 @@
 | 711 | [sadoyan/aralez](./sadoyan-aralez.md) | ⭐ 701 | Rust | 50/100 |
 | 712 | [Charcoal-SE/SmokeDetector](./charcoal-se-smokedetector.md) | ⭐ 493 | Python | 50/100 |
 | 713 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
-| 714 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 715 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 714 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 715 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
 | 716 | [Hylbert/Mark2TeX](./hylbert-mark2tex.md) | ⭐ — | — | 50/100 |
 | 717 | [pkulak/matui](./pkulak-matui.md) | ⭐ 108 | Rust | 50/100 |
 | 718 | [facebook/openbmc](./facebook-openbmc.md) | ⭐ 678 | C | 50/100 |
@@ -865,8 +865,8 @@
 | 855 | [vercel-labs/zero-native](./vercel-labs-zero-native.md) | ⭐ — | — | 31/100 |
 | 856 | [BitPusher16/qwench](./bitpusher16-qwench.md) | ⭐ — | — | 31/100 |
 | 857 | [skorotkiewicz/nanorust](./skorotkiewicz-nanorust.md) | ⭐ — | — | 31/100 |
-| 858 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 28/100 |
-| 859 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
+| 858 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
+| 859 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 28/100 |
 
 ---
 

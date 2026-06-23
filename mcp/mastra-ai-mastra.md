@@ -27,45 +27,42 @@ MCP · Automation · AI/ML · Frontend
 
 ### English
 
-Here's a 2-3 sentence summary for the open-source project mastra:
+**Project Summary:**
 
-Mastra is a modern TypeScript framework for building AI-powered applications and agents, enabling seamless connections between AI assistants and real tools and data through a standard protocol. Its value proposition lies in standardizing integrations and facilitating the development of AI-powered applications by providing a straightforward and well-documented API. With 25370 GitHub stars, recent updates, and a strong ecosystem, Mastra is production-ready for serious pilots and offers a practical adoption path for developers looking to leverage AI in their applications.
+Mastra is an open-source, TypeScript-based framework for building AI-powered applications and agents. It enables the connection of AI assistants to real tools and data through a standard protocol, facilitating seamless integrations and streamlined development. With its high production readiness and strong ecosystem signals, Mastra is an attractive choice for serious pilots and production deployments.
 
-In terms of practical adoption, the project's straightforward evaluation and implementation signals make it easy for developers to integrate Mastra into their projects. The project's standard protocol and well-documented API also make it simple to connect AI agents to real tools and data.
+**Value Proposition:**
+Mastra's value lies in its ability to standardize integrations between AI agents and tools, reducing development complexity and increasing efficiency. By providing a standardized protocol, Mastra enables developers to connect AI assistants to real tools and data, unlocking new possibilities for AI-powered applications.
 
-Regarding production readiness, Mastra has a high score due to its recent activity, adoption, and strong ecosystem signals. The project's primary language is TypeScript, and it has 13 topics, indicating a wide range of use cases and applications. However, it is essential to conduct a final review of the project's license, security posture, and active maintainers to ensure its long-term viability.
+**Practical Adoption Path:**
+To adopt Mastra, developers can start by evaluating its implementation signals, such as its API, SDK, and CLI. Mastra's straightforward evaluation process makes it easy to get started. Once familiar with the framework, developers can begin building AI-powered applications and agents, leveraging Mastra's standard protocol to connect AI assistants to real tools and data.
+
+**Production Readiness:**
+Mastra has demonstrated high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong and mature project. With over 25,000 GitHub stars and 2,300 forks, Mastra has a significant community of developers and
 
 ### Русский
 
 Резюме проекта mastra-ai/mastra:
 
-Mastra - это современный фреймворк на TypeScript для создания AI-подобранных приложений и агентов. Проект предлагает стандартный протокол для подключения AI-ассистентов к реальным инструментам и данным, что упрощает процесс внедрения и интеграции. Mastra подходит для серьезных пилотов и уже демонстрирует высокий уровень готовности к production, с 89 баллами из 100.
+Mastra - это современный фреймворк для TypeScript, который помогает создавать приложения и агентов с использованием искусственного интеллекта. Этот проект предлагает стандартный протокол для подключения AI-ассистентов к реальным инструментам и данным, что делает его идеальным выбором для интеграций и автоматизации задач. Mastra готов к производственной эксплуатации на высоком уровне, что делает его идеальным кандидатом для serious пилотных проектов.
 
 ### 中文
 
-**简短介绍**
+**Mastra AI 框架简介**
 
-Mastra是一款现代的TypeScript框架，专为AI-powered应用和代理提供支持。它通过标准协议连接AI助理到真实工具和数据。Mastra通过标准化集成和可靠的API，帮助开发者更轻松地构建和部署AI应用。
+Mastra 是一个现代的 TypeScript 框架，用于构建 AI 强化的应用程序和代理。它通过标准协议连接 AI 助手到现实的工具和数据。
 
 **价值**
 
-Mastra的价值在于它提供了一种标准化的方式来连接AI助理和真实工具和数据。通过使用Mastra，开发者可以更轻松地构建和部署AI应用，提高工作效率和生产力。
+Mastra 的价值在于，它帮助连接 AI 代理到工具，标准化集成，并提供 Model Context Protocol 服务器。通过使用 Mastra，开发者可以轻松地将 AI 助手连接到现实的工具和数据。
 
 **典型接入方式**
 
-Mastra提供了多种接入方式，包括：
-
-* API：通过API接口来访问Mastra的功能和数据。
-* SDK：通过SDK来集成Mastra到自己的应用中。
-* CLI：通过命令行工具来控制Mastra的行为。
+Mastra 提供了多种接入方式，包括 API、SDK 和 CLI。开发者可以根据需要选择适合自己的接入方式。
 
 **生产可用性**
 
-Mastra的生产可用性很高，主要原因是：
-
-* 最近的活跃度：Mastra有活跃的开发者社区，持续更新和维护。
-* 采用情况：Mastra已经被许多开发者采用和使用。
-* 生态系统信号：
+Mastra 的生产可用性非常高，最新的活动、采用率和生态系统信号都表明它是一个值得认真的试验项目。Mastra 的 GitHub 星数达到 25375， fork 数达到 2278，更新时间为 2026-06-23。
 
 ## 🧭 Practical evaluation
 
@@ -83,8 +80,8 @@ Mastra的生产可用性很高，主要原因是：
 
 **Quality signals**
 
-- 25370 GitHub stars
-- 2277 forks
+- 25375 GitHub stars
+- 2278 forks
 - updated 2026-06-23
 - primary language: TypeScript
 - 13 topics

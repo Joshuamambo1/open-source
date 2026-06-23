@@ -27,47 +27,53 @@ MCP · AI/ML · Backend · DevTools · Data
 
 ### English
 
-Here's a 2-3 sentence summary of the project:
+**MCP Toolbox for Databases: Connecting AI Assistants to Real Tools and Data**
 
-**Summary:** googleapis/mcp-toolbox is an open-source MCP (Model Context Protocol) server for databases that enables AI assistants to connect to real tools and data through a standard protocol, making it easier to integrate AI agents with various applications.
+The googleapis/mcp-toolbox is an open-source project that enables the connection of AI assistants to real tools and data through a standard protocol, known as the Model Context Protocol (MCP). This project allows developers to integrate AI agents with various tools, standardizing integrations and making it easier to ship MCP servers. With its high production readiness and strong ecosystem signals, the MCP Toolbox is a promising candidate for serious pilots.
 
-**Value:** The project provides a standardized way to connect AI assistants to tools and data, allowing developers to easily integrate their AI agents with various applications, and enabling a more seamless and efficient AI development experience.
+**Value:**
+The MCP Toolbox provides a standard protocol for connecting AI assistants to real tools and data, enabling seamless integrations and making it easier to develop and deploy AI-powered applications.
 
-**Adoption Path:** The project's production readiness and strong ecosystem signals make it suitable for serious pilots, and its recent activity, adoption, and implementation signals such as API/SDK/CLI, language metadata, or focused topics make it straightforward to evaluate and integrate into existing projects.
+**Practical Adoption Path:**
+To adopt the MCP Toolbox, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. The project's straightforward integration process and high production readiness make it an attractive choice for developers looking to connect AI agents with real tools and data.
 
-**Production Readiness:** With 15692 GitHub stars, 1613 forks, and recent updates, googleapis/mcp-toolbox demonstrates a high level of production readiness, making it a reliable choice for production environments.
+**Production Readiness:**
+The MCP Toolbox has a high production readiness score, thanks to recent activity, adoption, and strong ecosystem signals. With 15,692 GitHub stars, 1,613 forks, and an active primary language (Go), this project is well-position
 
 ### Русский
 
 Резюме проекта googleapis/mcp-toolbox:
 
-Googleapis/mcp-toolbox — это открытое исходное решение MCP-сервера для баз данных. Проект позволяет соединять AI-ассистентов с реальными инструментами и данными через стандартный протокол, упрощая интеграцию и предоставляя стандартные методы взаимодействия. Проект готов к внедрению в production, с высоким уровнем готовности и сильными сигналами экосистемы, но требует дальнейшего обзора по лайсенсингу, безопасности и поддержки.
+Гoogle MCP Toolbox для баз данных - это открытое исходное решение MCP-сервера, которое позволяет соединять искусственный интеллект и реальные инструменты и данные посредством стандартизированного протокола. Этот проект идеально подходит для сценария, когда необходимо подключить агента искусственного интеллекта к инструментам или развернуть сервер Model Context Protocol. Проект готов к production-level использованию, имея высокий уровень готовности (94/100) и сильные сигналы активности, адопции и экосистемы.
 
 ### 中文
 
-**项目简介**
+**简短介绍**
 
-googleapis/mcp-toolbox 是一个开源的数据库 MCP 服务器，用于连接 AI 助手和真实工具和数据。
+Google MCP Toolbox 是一个开源 MCP 服务器，用于数据库。它帮助连接 AI 助手与真实工具和数据通过标准协议。
 
 **价值**
 
-googleapis/mcp-toolbox 的价值在于，它通过标准协议帮助连接 AI 助手和真实工具和数据。它使得开发人员能够轻松地将 AI 代理连接到工具和数据源上。
+Google MCP Toolbox 的价值在于，它帮助连接 AI 助手与真实工具和数据，标准化了整合，方便 AI 助手与各种工具进行通信。
 
 **典型接入方式**
 
-googleapis/mcp-toolbox 支持多种接入方式，包括：
+典型接入方式包括：
 
-* API：通过 API 接口，开发人员可以与 MCP 服务器进行交互。
-* SDK：通过 SDK，开发人员可以在他们的应用程序中集成 MCP 服务器。
-* CLI：通过命令行接口，开发人员可以与 MCP 服务器进行交互。
+* 连接 AI 代理到工具
+* 部署 Model Context Protocol 服务器
+* 标准化整合
 
 **生产可用性**
 
-googleapis/mcp-toolbox 的生产可用性非常高，主要原因是其：
+Google MCP Toolbox 的生产可用性较高，主要原因包括：
 
-* 活跃维护者：项目有活跃的维护者，确保项目的稳定性和安全性。
-* 强大生态系统：项目有一个强大的生态系统，提供了丰富的工具和资源。
-* 高评分：项目的评分高达
+* 近期活动
+* 广泛的采用
+* 强大的生态系统信号
+* 高度的质量信号（15692 GitHub stars、1613 forks）
+
+但是，还需要进一步评估项目的许可、安全性和维护情况。
 
 ## 🧭 Practical evaluation
 

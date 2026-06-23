@@ -1,6 +1,6 @@
 # vercel/ai
 
-[![Stars](https://img.shields.io/github/stars/vercel/ai?style=flat-square&color=yellow)](https://github.com/vercel/ai/stargazers) [![Forks](https://img.shields.io/github/forks/vercel/ai?style=flat-square&color=blue)](https://github.com/vercel/ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vercel/ai?style=flat-square&color=yellow)](https://github.com/vercel/ai/stargazers) [![Forks](https://img.shields.io/github/forks/vercel/ai?style=flat-square&color=blue)](https://github.com/vercel/ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 24.1k |
-| 🍴 **Forks** | 4.3k |
+| ⭐ **Stars** | 25.1k |
+| 🍴 **Forks** | 4.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 📈 **Score** | 87/100 |
+| 🗓️ **Last push** | 2026-06-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,15 +27,59 @@ AI/ML · Frontend
 
 ### English
 
-vercel/ai: vercel/ai helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Summary**
+
+The Vercel AI Toolkit is an open-source library for building AI-powered applications and agents, created by the makers of Next.js. This TypeScript-based SDK enables developers to add AI capabilities without starting from scratch, making it an ideal choice for prototyping AI features, building RAG or agent workflows, and evaluating model tooling. With a strong ecosystem and high production readiness, Vercel AI is suitable for serious pilots and production use cases.
+
+**Value Proposition**
+
+The Vercel AI Toolkit offers significant value to developers by providing a pre-built AI stack, allowing them to focus on building AI-powered applications and agents without the need for extensive model development. This simplifies the adoption path and reduces the risk associated with AI development.
+
+**Practical Adoption Path**
+
+To adopt the Vercel AI Toolkit, developers can follow these steps:
+
+1. **Evaluate the SDK**: Review the documentation and evaluate the SDK's API, CLI, and language metadata to ensure it meets their project requirements.
+2. **Prototype AI features**: Use the Vercel AI Toolkit to prototype AI-powered features and workflows, such as RAG or agent applications.
+3. **Integrate with existing projects**: Integrate the Vercel AI Toolkit with existing projects, leveraging its TypeScript-based API to add AI capabilities
 
 ### Русский
 
-vercel/ai: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Резюме проекта vercel/ai:
+
+Версель/АЙ - бесплатная открытая библиотека для создания AI-поддерженных приложений и агентов. Этот инструмент позволяет легко добавить функциональность AI в свои приложения без необходимости начинать с нуля. Версель/АЙ идеально подходит для прототипирования AI-функций, строительства RAG или агентских потоков, а также оценки инструментария моделирования.
 
 ### 中文
 
-vercel/ai：vercel/ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Vercel AI Toolkit简介**
+
+Vercel AI Toolkit是一款由Next.js创作者开发的免费开源库，用于构建AI能力强的应用和代理。它帮助开发者快速添加AI能力，而不需要从头开始构建模型堆栈。
+
+**价值**
+
+Vercel AI Toolkit的价值在于，它可以帮助开发者快速添加AI能力，包括：
+
+* 生成AI模型
+* 构建智能代理
+* 评估模型工具
+
+**典型接入方式**
+
+开发者可以通过以下方式接入Vercel AI Toolkit：
+
+* 使用API/SDK接口
+* 使用CLI命令
+* 集成到现有的应用中
+
+**生产可用性**
+
+Vercel AI Toolkit具有高生产可用性，理由如下：
+
+* 近期活跃的开发和维护
+* 强大的采用和生态系统信号
+* 高评分（87/100）
+
+总的来说，Vercel AI Toolkit是一款强大且易用的AI工具，适合开发者快速添加AI能力。
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +93,13 @@ vercel/ai：vercel/ai helps add AI capability without starting from a blank mode
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 24058 GitHub stars
-- 4345 forks
-- updated 2026-05-07
+- 25087 GitHub stars
+- 4643 forks
+- updated 2026-06-23
 - primary language: TypeScript
 - 15 topics
 
@@ -66,17 +110,17 @@ vercel/ai：vercel/ai helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 82/100 |
+| quality | 97/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 75/100 |
+| production | 85/100 |
+| outlook | 96/100 |
 | adoption | 93/100 |
-| stars | 93/100 |
-| forks | 91/100 |
-| recency | 40/100 |
+| stars | 94/100 |
+| forks | 92/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vercel/ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/vercel/ai) · [← Back to AI/ML](./README.md)</sub>

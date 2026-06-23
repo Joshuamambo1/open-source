@@ -27,51 +27,58 @@ MCP · AI/ML · Frontend · Backend · DevTools
 
 ### English
 
-**Project Summary:**
+Here's a summary and explanation of the project:
 
-TabularisDB/tabularis is an open-source database client that connects AI assistants to real tools and data through a standard protocol. It supports various databases, including PostgreSQL, MySQL/MariaDB, and SQLite, with features like SQL notebooks, visual EXPLAIN, AI, and MCP built-in. This project helps developers connect AI agents to tools and standardize integrations, making it a valuable addition to their tech stack.
+**Summary:**
+TabularisDB/tabularis is an open-source database client for PostgreSQL, MySQL/MariaDB, and SQLite that comes with SQL notebooks, visual EXPLAIN, AI, and Model Context Protocol (MCP) built-in. This project enables the connection of AI assistants to real tools and data through a standard protocol, facilitating the integration of AI agents with various tools. With its high production readiness and strong ecosystem signals, TabularisDB/tabularis is suitable for pilot projects.
 
-**Value:**
-
-The primary value proposition of TabularisDB/tabularis lies in its ability to connect AI assistants to real tools and data, enabling seamless integration and automation. By providing a standard protocol, developers can easily integrate AI agents with various tools and databases, streamlining their workflow and increasing productivity.
+**Value Proposition:**
+The primary value proposition of TabularisDB/tabularis lies in its ability to standardize integrations between AI assistants and real tools and data. By providing a standard protocol, the project eliminates the need for custom integrations, making it easier for developers to connect AI agents with various tools. This standardization enables faster development, reduced costs, and improved efficiency.
 
 **Practical Adoption Path:**
+To adopt TabularisDB/tabularis in a production environment, follow these steps:
 
-To adopt TabularisDB/tabularis, developers can follow these steps:
-
-1. **Evaluate the project**: Review the project's documentation, GitHub stars, and forks to ensure it meets their requirements.
-2. **Choose the database**: Select the database they want to connect to (PostgreSQL, MySQL/MariaDB, or SQLite).
-3. **Integrate with AI assistants**: Use the standard protocol to connect AI agents to the chosen database.
-4. **Customize and extend**: Utilize plugins
+1. **Evaluate the project's documentation and community support**: Review the project's documentation, GitHub issues, and community forums to ensure that you can find help when needed.
+2. **Assess the project's security posture**: Review
 
 ### Русский
 
 Резюме проекта TabularisDB/tabularis:
 
-TabularisDB/tabularis - это открытый исходный код клиент базы данных для PostgreSQL, MySQL/MariaDB и SQLite, который предоставляет функции SQL-нотбуков, визуализации EXPLAIN, интеграцию с AI и MCP. Этот проект помогает соединить AI-ассистентов с реальными инструментами и данными через стандартный протокол. Возможность внедрения проекта высокая, что делает его готовым к serious пилоту в production.
+TabularisDB/tabularis — это открытый исходный код базовый клиент для работы с базами данных PostgreSQL, MySQL/MariaDB и SQLite. Он предлагает ряд функций, включая SQL-нотбуки, визуализацию EXPLAIN, интеграцию с AI и Model Context Protocol. Это идеальный инструмент для соединения AI-ассистентов с реальными инструментами и данными через стандартный протокол.
+
+Польза проекта заключается в возможности соединения AI-агентов с инструментами и стандартизации интеграций. Типовой сценарий использования — подключение AI-агентов к инструментам, развертывание серверов Model Context Protocol и стандартизация интеграций.
+
+Проект TabularisDB/tabularis готов к production и имеет высокий уровень готовности, подтвержденный активностью разработчиков, распространением и экосистемой. Однако, как и любое открытое исходное код проект, требует тщательного изучения лицензионных, безопасности и поддержки разработчиков вопросов.
 
 ### 中文
 
-**TabularisDB/tabularis 简介**
+**简短介绍**
 
-TabularisDB/tabularis 是一个开源数据库客户端，支持 PostgreSQL、MySQL/MariaDB 和 SQLite 等数据库。它提供了 SQL 笔记本、可视化 EXPLAIN、AI 和 MCP 等功能，并且可以通过插件进行定制。
+TabularisDB/tabularis 是一个开源数据库客户端，支持 PostgreSQL、MySQL/MariaDB 和 SQLite 等数据库。它提供 SQL 笔记本、可视化 EXPLAIN、AI 和 MCP 等功能，通过插件可以进行定制。其价值在于连接 AI 助手到实际工具和数据，通过标准协议实现。
 
 **价值**
 
-TabularisDB/tabularis 的价值在于，它帮助连接 AI 助手到真实的工具和数据，通过标准协议进行通信。它使得开发者能够轻松地连接 AI 代理到工具，部署 Model Context Protocol 服务器，并标准化集成。
+TabularisDB/tabularis 的价值在于帮助连接 AI 助手到实际工具和数据，通过标准协议实现。它帮助开发者连接 AI 代理到工具，部署 Model Context Protocol 服务器，标准化集成。
 
 **典型接入方式**
 
-TabularisDB/tabularis 支持多种接入方式，包括：
+典型接入方式包括：
 
-* API/SDK：通过 API 或 SDK 接入 TabularisDB/tabularis
-* CLI：通过命令行接口（CLI）接入 TabularisDB/tabularis
-* 语言元数据：通过语言元数据接入 TabularisDB/tabularis
-* 焦点话题：通过特定话题（如 AI/ML、前端、后端等）接入 TabularisDB/tabularis
+* 连接 AI 代理到工具
+* 部署 Model Context Protocol 服务器
+* 标准化集成
 
 **生产可用性**
 
-Tabular
+TabularisDB/tabularis 的生产可用性很高，因为它具有以下特点：
+
+* 有近 3,310 个 GitHub 星标和 209 个分支
+* 最近更新时间为 2026-06-23
+* 主要语言是 TypeScript
+* 支持 20 个主题
+
+但是，仍然需要对其许可、安全姿
 
 ## 🧭 Practical evaluation
 
@@ -89,7 +96,7 @@ Tabular
 
 **Quality signals**
 
-- 3304 GitHub stars
+- 3310 GitHub stars
 - 209 forks
 - updated 2026-06-23
 - primary language: TypeScript

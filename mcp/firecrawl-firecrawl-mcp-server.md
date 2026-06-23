@@ -27,45 +27,48 @@ MCP · AI/ML · Backend · DevTools · Data
 
 ### English
 
-**Project Summary**
+**Project Summary:** 
+The Firecrawl MCP Server is an open-source project that enables powerful web scraping and search capabilities for AI and machine learning (ML) clients, such as Cursor and Claude. This project standardizes integrations and helps connect AI assistants to real tools and data through a standard protocol called Model Context Protocol (MCP). It offers a high production readiness score, making it suitable for serious pilots.
 
-The Firecrawl MCP Server is an open-source project that enables seamless integration between AI assistants and real tools and data through a standard protocol, known as the Model Context Protocol (MCP). This allows for powerful web scraping and search capabilities, making it a valuable addition to Cursor, Claude, and other Large Language Model (LLM) clients. With its high production readiness and strong ecosystem signals, the Firecrawl MCP Server is ready for serious piloting and adoption.
+**Value Proposition:** 
+The Firecrawl MCP Server provides a standardized way to connect AI agents to various tools and data sources, enabling seamless integrations and enhancing the capabilities of AI assistants. This project helps bridge the gap between AI and real-world tools, making it a valuable asset for developers and organizations working with AI and ML.
 
-**Value Proposition**
+**Practical Adoption Path:** 
+To adopt the Firecrawl MCP Server, developers can start by evaluating its implementation signals, such as API, SDK, and CLI exposure. They can then integrate the server with their AI clients, following the standardized MCP protocol. This process should be straightforward, given the project's high production readiness score and strong ecosystem signals.
 
-The Firecrawl MCP Server provides a standardized way for AI assistants to connect to real tools and data, enabling a wide range of use cases such as connecting AI agents to tools, shipping Model Context Protocol servers, and standardizing integrations. By leveraging this protocol, developers can unlock the full potential of their AI assistants and create more sophisticated and effective applications.
-
-**Practical Adoption Path**
-
-To adopt the Firecrawl MCP Server, developers can start by evaluating the project's implementation signals, such as its API, SDK, and CLI. They can also review the project's language metadata and focused topics to ensure it aligns with their specific needs. Once they've determined the project's suitability, they can integrate it into their existing infrastructure and start exploring its capabilities. With its straightforward integration process and strong ecosystem signals,
+**Production Readiness:** 
+The Firecrawl MCP Server has a high production readiness score, indicating that it is suitable for serious pilots. The project's recent activity, adoption, and ecosystem signals are strong, suggesting a
 
 ### Русский
 
-Резюме проекта firecrawl/firecrawl-mcp-server:
+Резюме:
 
-Проект firecrawl/firecrawl-mcp-server представляет собой официальный сервер протокола Model Context Protocol, который позволяет добавлять мощные возможности веб-скрапинга и поиска в клиенты LLM, такие как Cursor и Claude. Этот сервер помогает соединять искусственные интеллектовые ассистенты с реальными инструментами и данными через стандартный протокол. Проект готов к использованию в production, имея высокий уровень готовности и сильные сигналы adoption и экосистемы.
+Проект firecrawl/firecrawl-mcp-server представляет собой официальный сервер протокола Model Context Protocol (MCP), который обеспечивает мощные возможности веб-скрапинга и поиска для клиентов LLM (Large Language Models). Он позволяет соединить AI-ассистентов с реальными инструментами и данными через стандартный протокол, что упрощает интеграцию и стандартизирует взаимодействие между различными системами. Проект готов к внедрению в production, поскольку имеет высокий уровень активности, широкое распространение и сильную экосистему, что делает его подходящим кандидатом для серьезного пилота.
 
 ### 中文
 
-**火灾爬取 MCP 服务器简介**
+**Firecrawl MCP Server 简介**
 
-火灾爬取 MCP 服务器是一款开源项目，旨在为.cursor、Claude 等语义模型客户端提供强大的网页爬取和搜索功能。它通过标准协议连接 AI 助手和真实工具和数据。
+Firecrawl MCP Server 是一个开源项目，用于连接 AI 助手（如 Cursor、Claude 等）到真实的工具和数据。通过标准的协议，Firecrawl MCP Server 提供了强大的 web 爬虫和搜索功能。
 
 **价值**
 
-该项目的价值在于它帮助连接 AI 助手和真实工具和数据，提供了一个标准化的协议。通过它，开发人员可以更轻松地将 AI 助手接入到各种工具和系统中。
+Firecrawl MCP Server 的主要价值在于帮助连接 AI 助手到真实的工具和数据。它通过标准的协议来实现这一点，使得开发者可以更容易地整合 AI 助手到自己的应用中。
 
 **典型接入方式**
 
-典型接入方式包括：
+典型的接入方式包括：
 
-* 将该项目作为 Model Context Protocol 服务器部署
-* 使用该项目的 API 或 SDK 来连接 AI 助手
-* 使用该项目的 CLI 来管理和配置 AI 助手
+1. 连接 AI 助手到工具：通过 Firecrawl MCP Server，开发者可以连接 AI 助手到各种工具和服务。
+2. 部署 Model Context Protocol 服务器：开发者可以部署自己的 MCP 服务器来接收和处理来自 AI 助手的请求。
+3. 标准化整合：Firecrawl MCP Server 提供了一个标准的协议，使得开发者可以更容易地整合 AI 助手到自己的应用中。
 
 **生产可用性**
 
-该项目已经具有较高的生产可用性，主要语言为 JavaScript，GitHub 上有 6668 个星标和 775 个分支。最近更新于 2026-06-23。该项目的安全态势和活跃维护者仍需要进一步的评估。
+生产可用性：高（High）
+
+* GitHub star 数：6669
+* Fork 数：
 
 ## 🧭 Practical evaluation
 
@@ -83,7 +86,7 @@ To adopt the Firecrawl MCP Server, developers can start by evaluating the projec
 
 **Quality signals**
 
-- 6668 GitHub stars
+- 6669 GitHub stars
 - 775 forks
 - updated 2026-06-23
 - primary language: JavaScript

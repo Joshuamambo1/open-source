@@ -29,41 +29,45 @@ Crypto · Knowledge/RAG · Automation · AI/ML
 
 Here's a brief summary of the elizaOS/eliza project:
 
-elizaOS/eliza is an open-source agentic operating system that enables users to prototype and inspect blockchain workflows with transparent implementation details. This operating system offers a valuable proposition for developers, allowing them to build Web3 workflows, inspect blockchain integrations, and prototype wallet or DeFi features. With its high production readiness and strong ecosystem signals, elizaOS/eliza is poised for serious adoption.
+elizaOS/eliza is an open-source agentic operating system that enables developers to prototype and inspect blockchain workflows with transparency. Its value proposition lies in its ability to facilitate the creation of Web3 workflows, inspection of blockchain integrations, and prototyping of wallet or DeFi features. With its high production readiness, strong adoption, and recent activity, elizaOS/eliza offers a promising adoption path for serious pilots.
 
-As for the practical adoption path, developers can begin by exploring the project's GitHub repository, which boasts 18,629 stars and 5,563 forks. The primary language used is TypeScript, and the project has 15 topics. The integration process appears to be straightforward, with exposed implementation signals such as API/SDK/CLI, language metadata, and focused topics.
+As for the practical adoption path, potential users can start by:
 
-Regarding production readiness, elizaOS/eliza has shown strong signals of adoption and recent activity, making it a viable candidate for piloting. However, it's essential to conduct a final review of the license, security posture, and active maintainers to ensure that the project meets the necessary criteria for production deployment.
+1. Exploring the project's GitHub repository to evaluate the implementation details and API/SDK/CLI exposure.
+2. Reviewing the project's documentation and language metadata to ensure it aligns with their specific needs.
+3. Joining the community to participate in discussions, ask questions, and collaborate with other developers.
+4. Integrating elizaOS/eliza into their existing workflows and testing its capabilities.
+
+In terms of production readiness, elizaOS/eliza has several strong signals, including:
+
+1. High adoption rate (18628 GitHub stars and 5565 forks).
+2. Recent activity (updated 2026-06-23).
+3. Strong ecosystem signals.
+4. High-quality codebase (primary language: TypeScript, 15
 
 ### Русский
 
-Резюме проекта elizaOS/eliza:
+Резюме:
 
-ElizaOS/eliza - это открытая агентная операционная система, предназначенная для прототипирования и инспектирования блокчейн-работфлоу с открытыми подробностями реализации. Этот проект позволяет разработчикам создавать Web3-работфлоу, инспектировать блокчейн-интеграции и прототипировать функции кошелька или DeFi. ElizaOS/eliza готов к использованию в продакшн, поскольку имеет высокий уровень готовности (High) и сильные сигналы экосистемы.
+elizaOS/eliza - открытая агентная операционная система, которая позволяет прототипировать или проверить блокчейн-выполнения с открытыми подробностями реализации. Это уникальная возможность для разработчиков Web3, позволяющая создавать и тестировать блокчейн-интеграции, прототипировать кошельки или функции DeFi. elizaOS/eliza готов к масштабированию в production, с высоким уровнем готовности (High) и сильными сигналами эkosистемы, что делает его идеальным выбором для серьезного пилота.
 
 ### 中文
 
 **简短介绍**
 
-elizaOS/eliza是一个开源的智能操作系统，帮助开发者构建、测试和调试区块链应用程序。它提供了一个开放的实现细节，方便开发者快速构建Web3工作流程、检查区块链集成和测试钱包或DeFi功能。
+elizaOS/eliza 是一个开源的代理式操作系统，旨在帮助开发者构建和检查区块链工作流。它提供了开源的实现细节，方便开发者快速构建 Web3 工作流、检查区块链集成和prototype 钱包或 DeFi 特性。
 
 **价值**
 
-elizaOS/eliza的主要价值在于其能够帮助开发者快速构建和测试区块链应用程序，通过其开放的实现细节，开发者可以轻松地构建Web3工作流程、检查区块链集成和测试钱包或DeFi功能。
+elizaOS/eliza 的价值在于它可以帮助开发者快速构建和检查区块链工作流，通过提供开源的实现细节，开发者可以轻松构建 Web3 工作流、检查区块链集成和prototype 钱包或 DeFi 特性。
 
 **典型接入方式**
 
-elizaOS/eliza提供了多种接入方式，包括：
+elizaOS/eliza 可以通过以下方式接入：
 
-* API/SDK接入：开发者可以使用API或SDK接口与elizaOS/eliza进行交互。
-* CLI接入：开发者可以使用命令行界面与elizaOS/eliza进行交互。
-* 语言元数据接入：开发者可以使用语言元数据与elizaOS/eliza进行交互。
-
-**生产可用性**
-
-elizaOS/eliza具有高生产可用性，理由如下：
-
-* 近期活动：
+* API/SDK：elizaOS/eliza 提供了 API 和 SDK 接口，开发者可以通过这些接口访问 elizaOS/eliza 的功能。
+* CLI：elizaOS/eliza 提供了 CLI 接口，开发者可以通过命令行方式操作 elizaOS/eliza。
+* 语言 metadata：elizaOS/eliza 提供了语言 metadata，开发者可以通过这些 metadata 来了解 elizaOS/eliza 的实现细节
 
 ## 🧭 Practical evaluation
 
@@ -81,8 +85,8 @@ elizaOS/eliza具有高生产可用性，理由如下：
 
 **Quality signals**
 
-- 18629 GitHub stars
-- 5563 forks
+- 18628 GitHub stars
+- 5565 forks
 - updated 2026-06-23
 - primary language: TypeScript
 - 15 topics

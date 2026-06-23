@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11.6k |
-| 🍴 **Forks** | 856 |
+| ⭐ **Stars** | 11.8k |
+| 🍴 **Forks** | 863 |
 | 💻 **Language** | C |
 | 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | 2026-06-23 |
@@ -27,51 +27,51 @@ MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 
 ### English
 
-Here's a brief summary and an explanation of the value, adoption path, and production readiness of the DeusData/codebase-memory-mcp project:
+**DeusData/codebase-memory-mcp Summary**
 
-**Summary:** DeusData/codebase-memory-mcp is an open-source, high-performance code intelligence server that indexes codebases into a persistent knowledge graph, enabling AI assistants to connect to real tools and data through a standard protocol. This project offers a single static binary with zero dependencies, supporting 158 languages and achieving sub-millisecond query times.
+DeusData/codebase-memory-mcp is an open-source, high-performance Code Intelligence MCP server that indexes codebases into a persistent knowledge graph, enabling fast and efficient querying of codebases in 158 languages. This project provides a standard protocol for connecting AI assistants to real tools and data, facilitating seamless integrations and interactions. With its single static binary and zero dependencies, it offers a robust and scalable solution for developers and organizations.
 
-**Value Proposition:** The value proposition of DeusData/codebase-memory-mcp lies in its ability to standardize integrations between AI assistants and real tools and data. By providing a standardized protocol, developers can easily connect AI agents to various tools and services, making it easier to build and deploy complex AI-powered applications.
+**Value Proposition**
 
-**Adoption Path:** The adoption path for DeusData/codebase-memory-mcp is relatively straightforward. Developers can evaluate the project by examining its implementation signals, such as its API, SDK, CLI, language metadata, and focused topics. Given its recent activity, adoption, and strong ecosystem signals, it is ready for serious pilots and production use cases.
+The value proposition of DeusData/codebase-memory-mcp lies in its ability to connect AI assistants to real tools and data through a standard protocol, enabling developers to:
 
-**Production Readiness:** DeusData/codebase-memory-mcp is considered highly production-ready, with a score of 87/100. Its recent updates
+1. **Connect AI agents to tools**: Seamlessly integrate AI assistants with real-world tools and data, unlocking new possibilities for automation and productivity.
+2. **Ship Model Context Protocol servers**: Leverage the MCP server to provide a standardized interface for AI agents, making it easier to integrate and deploy AI-powered applications.
+3. **Standardize integrations**: Establish a common protocol for integrating AI assistants with tools and data, reducing complexity and increasing interoperability.
+
+**Practical Adoption Path**
+
+To adopt DeusData/codebase-memory-mcp, follow these steps:
+
+1. **Evaluate the implementation**: Assess the project's API, SDK,
 
 ### Русский
 
 Резюме проекта DeusData/codebase-memory-mcp:
 
-ДейсДейта/Кодбейс-Мемори-МКП — высокопроизводительный сервер для интеллектуальной обработки кода, который индексирует кодовые базы в постоянную знакопомную график. Он позволяет быстро и эффективно получать доступ к информации из кодовых баз, что делает его идеальным решением для подключения интеллектуальных ассистентов к реальным инструментам и данным.
+Данный проект представляет собой высокопроизводительный сервер для кодовой интеллигенции, который индексирует кодовые базы в постоянную знакомую сеть. Он обеспечивает быстрые поисковые запросы, поддерживает 158 языков программирования и имеет минимальную зависимость от внешних библиотек.
 
-Типовой сценарий внедрения: проект предназначен для подключения интеллектуальных агентов к инструментам и стандартизации интеграций, что делает его идеальным решением для разработчиков и поставщиков интеллектуальных услуг.
+Проект имеет высокий потенциал для внедрения в производственную среду, поскольку он имеет сильные сигналы активности, принятия и экосистемы. typовой сценарий внедрения включает в себя подключение искусственных интеллектовых агентов к реальным инструментам и данным через стандартный протокол.
 
-Уровень готовности к production: проект считается высокораспространенным и готовым к использованию в продакшен-окружении из-за его высокой оценки, активности и сильного экосистемного сигнала.
+Проект готов к serious пилоту, поскольку он имеет 11 759 звезд на GitHub, 863 фorks, регулярно обновляется и написан на языке C. Однако, перед внедрением необходимо произвести окончательный обзор лицензии, безопасности и активности поддерживающих разработчиков.
 
 ### 中文
 
-**项目简介**
+**简短介绍**
 
-DeusData/codebase-memory-mcp 是一个高性能的代码智能 MCP 服务器，能够快速索引代码库并将其转换为持久性的知识图谱。该项目支持158种语言，查询速度在子毫秒级，并且减少了99%的令牌数量。
+DeusData/codebase-memory-mcp是一个高性能的代码智能MCP服务器，能够快速索引代码库，并以平均毫秒级的速度进行查询。它支持158种语言，具有极低的token数量，且是一个单静态二进制文件，零依赖。
 
 **价值**
 
-DeusData/codebase-memory-mcp 帮助连接人工智能助手到真正的工具和数据，通过标准的协议提供服务。它可以连接人工智能代理到工具，实现模型上下文协议服务器的部署，并标准化集成。
+DeusData/codebase-memory-mcp可以帮助连接人工智能助手到实际的工具和数据，通过标准协议进行通信。它可以帮助开发者连接AI代理到工具，推出Model Context Protocol服务器，标准化集成。
 
 **典型接入方式**
 
-该项目提供了API/SDK/CLI等实现信号，方便用户评估和接入。主要接入方式包括：
-
-* 连接人工智能代理到工具
-* 部署模型上下文协议服务器
-* 标准化集成
+DeusData/codebase-memory-mcp提供了API/SDK/CLI等接入信号，开发者可以通过这些接口进行接入。它还提供了语言元数据和专注主题的接口，方便开发者进行集成。
 
 **生产可用性**
 
-该项目的生产可用性非常高，主要原因包括：
-
-* 近期活动：项目最近更新于2026-06-23
-* 广泛采用：11576个GitHub星标，856个fork
-* 强大的生态系统信号：项目的主要语言是C
+DeusData/codebase-memory-mcp具有高生产可用性，最近的活跃度、采用率和生态系统信号都表明它是一个值得 serious pilot 的项目。它的GitHub星标数和 fork 数都很高，更新时间也比较新鲜。
 
 ## 🧭 Practical evaluation
 
@@ -89,8 +89,8 @@ DeusData/codebase-memory-mcp 帮助连接人工智能助手到真正的工具和
 
 **Quality signals**
 
-- 11576 GitHub stars
-- 856 forks
+- 11759 GitHub stars
+- 863 forks
 - updated 2026-06-23
 - primary language: C
 - 20 topics
@@ -107,7 +107,7 @@ DeusData/codebase-memory-mcp 帮助连接人工智能助手到真正的工具和
 | production | 83/100 |
 | outlook | 96/100 |
 | adoption | 83/100 |
-| stars | 86/100 |
+| stars | 87/100 |
 | forks | 73/100 |
 | recency | 100/100 |
 | topics | 100/100 |

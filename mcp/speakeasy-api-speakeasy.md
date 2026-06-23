@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 410 |
-| 🍴 **Forks** | 34 |
+| ⭐ **Stars** | 420 |
+| 🍴 **Forks** | 37 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 🗓️ **Last push** | 2026-06-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,52 +27,53 @@ MCP · AI/ML · Frontend · Backend · DevTools
 
 ### English
 
-**Brief Summary (2‑3 sentences)**  
-Speakeasy is an open‑source platform that turns OpenAPI specifications into polished, type‑safe SDKs, Terraform providers, MCP servers, CLIs and contract‑testing suites, enabling developers to build APIs that are easy for both humans and AI assistants to consume. By exposing a standard “Model Context Protocol” (MCP) layer, it lets AI agents interact with real tools and data without custom glue code. With active maintenance, a growing community (≈ 410 stars) and recent releases, it is ready for pilot‑level production use.
+**Summary:**
 
-**Value**  
-- **Unified API surface** – One OpenAPI source yields SDKs for multiple languages, Terraform modules, CLI binaries and contract tests, dramatically reducing duplication and keeping client libraries in sync with the server.  
-- **AI‑ready integration** – The MCP server layer provides a standard protocol that AI assistants can call directly, turning any existing REST API into a “tool” for LLM‑driven agents.  
-- **Developer experience** – Type‑safe generated code and built‑in contract testing give teams confidence that changes are safe, speeding up iteration and improving end‑user reliability.
+Speakeasy is an open-source project that helps developers build APIs users love by providing polished and type-safe SDKs, Terraform providers, MCP servers, CLIs, and Contract Tests. Its value proposition lies in connecting AI assistants to real tools and data through a standard protocol, enabling seamless integrations. With a strong adoption rate and recent updates, Speakeasy is production-ready for serious pilots.
 
-**Practical Adoption Path**  
-1. **Define / import an OpenAPI spec** for the service you want to expose.  
-2. **Run the Speakeasy CLI** to generate SDKs, Terraform providers, or MCP server stubs in the language(s) you need.  
-3. **Integrate the generated SDK** into your client applications or expose the MCP server to AI agents (e.g., LangChain, AutoGPT).  
-4. **Add contract tests** to CI/CD to guard against breaking changes.  
-5. **Iterate** – update the OpenAPI spec, regenerate artifacts, and redeploy with minimal friction.
+**Value:**
 
-**Production Readiness**  
-- **Activity & community**: Recent commits (as of 2026‑05‑13), 410+ stars, 34 forks, and 19 topical tags indicate healthy interest and ongoing development.  
-- **Maturity**: Core features (SDK generation, MCP server, Terraform provider) are stable and used in several pilot projects; comprehensive contract‑testing tooling is included.  
-- **Risk considerations**: License compliance, security audit of generated artifacts, and maintainer continuity should be verified before a full‑scale rollout, but no major red flags are evident. Overall, Speakeasy is a strong candidate for a serious production pilot.
+The value of Speakeasy lies in its ability to standardize integrations between AI assistants and real tools and data. This enables developers to create seamless and efficient connections between these components, making it easier to build and deploy AI-powered applications.
+
+**Practical Adoption Path:**
+
+To adopt Speakeasy, developers can follow these steps:
+
+1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to determine its feasibility for their use case.
+2. Assess the project's production readiness, considering factors such as recent activity, adoption, and ecosystem signals.
+3. Evaluate the project's quality signals, including GitHub stars, forks, and updated metadata.
+4. Review the project's license, security posture, and active maintainers to ensure they meet the project's requirements.
+5. Integrate Speakeasy
 
 ### Русский
 
-Speakeasy (speakeasy‑api/speakeasy) — open‑source платформа для создания типобезопасных API‑SDK, Terraform‑провайдеров, CLI и контрактных тестов, полностью основанная на OpenAPI. Она позволяет быстро подключать AI‑ассистентов к реальным инструментам и данным через единый протокол (Model Context Protocol), что упрощает интеграцию и автоматизацию сервисов. Проект имеет высокий уровень готовности к production: активные коммиты, 410 ★, 34 fork, поддержка JavaScript и обширная экосистема, что делает его надёжным выбором для пилотных и масштабных внедрений.
+Резюме:
+
+Проект Speakeasy - это мощный инструмент для создания API, который позволяет разработчикам легко интегрировать свои приложения с AI-ассистентами и реальными инструментами. Типовой сценарий внедрения включает в себя подключение AI-агентов к инструментам и.standardization интеграций. Проект уже готов к serious пилоту, демонстрируя высочайший уровень готовности к production.
 
 ### 中文
 
-**项目简介**  
-Speakeasy（speakeasy-api/speakeasy）是一套基于 OpenAPI 的全栈开发工具，帮助你快速生成 **类型安全、可直接使用的 SDK**，并提供 Terraform Provider、MCP 服务器、CLI 与合同测试等配套能力，让 API 开发和消费变得既高效又可靠。  
+**简短介绍**
 
-**核心价值**  
-- **统一协议**：通过 OpenAPI 与 Model Context Protocol（MCP）实现 AI 助手与真实工具、数据的标准化对接。  
-- **即插即用的 SDK/CLI**：自动生成多语言、类型安全的客户端库，降低前后端协作成本。  
-- **全链路治理**：内置 Terraform Provider、合同测试与 CLI，支持基础设施即代码、持续集成和自动化运维。  
+Speakeasy 是一个开源项目，帮助开发者构建用户喜爱的 API。它提供了多种工具，包括 SDK、Terraform 提供商、MCP 服务器、CLI 和合同测试，所有这些都是 OpenAPI 原生支持的。
 
-**典型接入方式**  
-1. **在已有 OpenAPI 文档上运行 Speakeasy CLI**，生成对应语言的 SDK、Terraform Provider 或 MCP 服务器代码。  
-2. **将生成的 SDK 集成到前端/后端项目**，直接调用 API，享受完整的类型检查与自动补全。  
-3. **部署生成的 MCP 服务器**，让 AI 助手通过标准协议调用业务工具（如数据库、第三方服务）。  
-4. **使用内置的合同测试**，在 CI 中验证实现是否符合 OpenAPI 规范，确保向后兼容。  
+**价值**
 
-**生产可用性**  
-- **活跃度高**：最近一次提交在 2026‑05‑13，星标 410、Fork 34，社区讨论活跃。  
-- **技术成熟**：核心语言为 JavaScript，已在多个项目中用于生成 SDK、Terraform Provider 与 MCP 服务，具备完整的 CI/CD 流程支持。  
-- **风险可控**：暂无重大元数据风险，仍需在正式投产前完成许可证合规、依赖安全审计以及维护者活跃度的最终确认。  
+Speakeasy 的价值在于，它帮助连接 AI 助手到真实工具和数据的标准协议。它使开发者能够连接 AI 代理到工具，部署 Model Context Protocol 服务器，并标准化集成。
 
-总体而言，Speakeasy 已具备在生产环境中试点的条件，尤其适合需要 **AI 与业务工具深度集成**、以及希望通过统一 OpenAPI 规范提升开发效率的团队。
+**典型接入方式**
+
+典型的接入方式包括：
+
+1. 连接 AI 代理到工具：使用 Speakeasy SDK，可以轻松连接 AI 代理到工具。
+2. 部署 Model Context Protocol 服务器：Speakeasy 提供了 MCP 服务器的实现，开发者可以轻松部署自己的 MCP 服务器。
+3. 标准化集成：Speakeasy 提供了标准化集成的解决方案，开发者可以轻松集成 AI 助手到真实工具和数据。
+
+**生产可用性**
+
+Speakeasy 已经有了很高的生产可用性，主要原因是：
+
+1. 最近活跃
 
 ## 🧭 Practical evaluation
 
@@ -90,9 +91,9 @@ Speakeasy（speakeasy-api/speakeasy）是一套基于 OpenAPI 的全栈开发工
 
 **Quality signals**
 
-- 410 GitHub stars
-- 34 forks
-- updated 2026-05-13
+- 420 GitHub stars
+- 37 forks
+- updated 2026-06-23
 - primary language: JavaScript
 - 19 topics
 
@@ -102,18 +103,18 @@ Speakeasy（speakeasy-api/speakeasy）是一套基于 OpenAPI 的全栈开发工
 
 | Dimension | Score |
 |---|---:|
-| forks | 39/100 |
-| stars | 56/100 |
-| topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
-| adoption | 51/100 |
-| production | 83/100 |
 | usefulness | 100/100 |
+| quality | 78/100 |
 | integration | 100/100 |
+| production | 83/100 |
+| outlook | 88/100 |
+| adoption | 51/100 |
+| stars | 56/100 |
+| forks | 39/100 |
+| recency | 100/100 |
+| topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-13 · [View on GitHub](https://github.com/speakeasy-api/speakeasy) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/speakeasy-api/speakeasy) · [← Back to Mcp](./README.md)</sub>

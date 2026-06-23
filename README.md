@@ -18,36 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 58 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 18 | [Browse →](./orchestration/) |
 | 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
 | 🏷️ **Mcp** | 14 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 13 | [Browse →](./orchestration/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
 | ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 5 | [Browse →](./automation/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
 | 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
-| 💳 **Payments** | 1 | [Browse →](./payments/) |
-| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 📈 **Trading** | 1 | [Browse →](./trading/) |
+| 🏷️ **Automation** | 1 | [Browse →](./automation/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [google-gemini/gemini-cli](./mcp/google-gemini-gemini-cli.md) | ⭐ 105.5k | Mcp |
-| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 193.8k | Mcp |
-| 3 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 48k | Orchestration |
-| 4 | [farion1231/cc-switch](./mcp/farion1231-cc-switch.md) | ⭐ 107k | Mcp |
-| 5 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 39.7k | Orchestration |
-| 6 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 14.3k | Mcp |
-| 7 | [zeromicro/go-zero](./aiml/zeromicro-go-zero.md) | ⭐ 33.1k | AI/ML |
-| 8 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
-| 9 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
-| 10 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 73.8k | Orchestration |
+| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 193.8k | Mcp |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 48.1k | Orchestration |
+| 3 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 51.3k | Orchestration |
+| 4 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 14.3k | Mcp |
+| 5 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.7k | Mcp |
+| 6 | [mcp-use/mcp-use](./mcp/mcp-use-mcp-use.md) | ⭐ 10.1k | Mcp |
+| 7 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 3.9k | Mcp |
+| 8 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.3k | Orchestration |
+| 9 | [FlorianBruniaux/claude-code-ultimate-guide](./orchestration/florianbruniaux-claude-code-ultimate-guide.md) | ⭐ 5.2k | Orchestration |
+| 10 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
 
 ## 🚀 How it works
 

@@ -27,53 +27,43 @@ MCP · AI/ML · Backend · DevTools · Data
 
 ### English
 
-Here's a brief summary and explanation of the MCP Toolbox project:
+Here's a brief summary and explanation of the project:
 
-**Summary:** MCP Toolbox is an open-source project that enables the connection of AI assistants to real tools and data through a standard protocol, facilitating the integration of AI agents with various tools and data sources.
+**Summary:** The googleapis/mcp-toolbox is an open-source project that enables connection between AI assistants and real tools and data through a standard Model Context Protocol (MCP) server. It facilitates the integration of AI agents with various tools and data sources, standardizing the process and making it more efficient.
 
-**Value:** The project's value proposition lies in its ability to standardize integrations between AI assistants and real-world tools and data, making it easier to build and deploy AI-powered applications.
+**Value Proposition:** The project's value lies in its ability to connect AI assistants to real tools and data, making it easier to integrate AI into various applications and workflows. This standardizes the integration process, reducing development time and effort.
 
-**Practical Adoption Path:**
+**Practical Adoption Path:** To adopt the googleapis/mcp-toolbox, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then use the toolbox to connect their AI agents to various tools and data sources, following the standard MCP protocol. This involves setting up an MCP server using the toolbox and configuring the integration with the desired tools and data sources.
 
-1. **Connect AI agents to tools**: Developers can use the MCP Toolbox to connect their AI agents to various tools and data sources, enabling them to access and utilize real-world data and functionality.
-2. **Ship Model Context Protocol servers**: Organizations can deploy the MCP Toolbox as a server to provide a standardized interface for AI agents to interact with their tools and data.
-3. **Standardize integrations**: By using the MCP Toolbox, developers can create integrations that are consistent and easy to maintain, reducing the complexity of integrating AI assistants with various tools and data sources.
-
-**Production Readiness:** The MCP Toolbox has a high production readiness score, with strong signals of recent activity, adoption, and ecosystem support. Its primary language is Go, and it has a large community of contributors and users, indicating a stable
+**Production Readiness:** The project is highly production-ready, with strong ecosystem signals, recent activity, and adoption. It has a high score of 94/100 and a large user base, with 15,691 GitHub stars and 1,613 forks. The
 
 ### Русский
 
-Резюме проекта googleapis/mcp-toolbox:
+Резюме:
 
-googleapis/mcp-toolbox - это открытое исходное решение MCP-сервера для баз данных, которое позволяет соединять интеллектуальных ассистентов с реальными инструментами и данными через стандартный протокол. Этот проект идеально подходит для подключения интеллектуальных агентов к инструментам и развертывания серверов Model Context Protocol. googleapis/mcp-toolbox полностью готов к внедрению в production, с высоким уровнем готовности и активной поддержкой сообщества.
+Googleapis/mcp-toolbox - это открытый исходный проект MCP-сервера для баз данных, который помогает соединять интеллектуальные помощники с реальными инструментами и данными через стандартный протокол. Он идеально подходит для сценария, когда необходимо подключить агентов AI к инструментам или развернуть серверы по протоколу Model Context. Проект готов к production, поскольку имеет высокий уровень активности, широкое распространение и сильные сигналы экосистемы.
 
 ### 中文
 
-**Google MCP Toolbox 简介**
+**MCP Toolbox for Databases 简介**
 
-Google MCP Toolbox 是一个开源项目，用于为数据库提供 MCP 服务器。它帮助连接 AI 助手到真实的工具和数据，通过标准协议提供服务。
+MCP Toolbox for Databases 是一个开源的 MCP 服务器，用于连接 AI 助手与真实的工具和数据。它提供了一个标准协议，帮助 AI 助手与工具和数据进行通信。
 
 **价值**
 
-Google MCP Toolbox 的价值在于，它帮助连接 AI 代理到工具，并使 Model Context Protocol 服务器能够标准化集成。它使开发者能够在 AI 代理和工具之间建立统一的接口，从而提高开发效率和降低成本。
+googleapis/mcp-toolbox 的主要价值在于，它帮助连接 AI 助手与真实的工具和数据，标准化了这些集成。通过使用 MCP Toolbox for Databases，开发者可以轻松地连接 AI 助手与各种工具和数据源。
 
 **典型接入方式**
 
-Google MCP Toolbox 的接入方式包括：
+MCP Toolbox for Databases 可以通过以下方式接入：
 
-1. API：通过 API 接口，可以连接 AI 代理到工具。
-2. SDK：通过 SDK，可以在开发者自己的应用中集成 MCP Toolbox 的功能。
-3. CLI：通过命令行接口，可以直接操作 MCP Toolbox。
+* 连接 AI 助手与工具：通过使用 MCP Toolbox for Databases，开发者可以连接 AI 助手与各种工具，例如数据库、API 等。
+* 部署 Model Context Protocol 服务器：MCP Toolbox for Databases 提供了一个标准的 MCP 服务器，开发者可以轻松地部署并使用。
+* 标准化集成：通过使用 MCP Toolbox for Databases，开发者可以标准化 AI 助手与工具的集成。
 
 **生产可用性**
 
-Google MCP Toolbox 的生产可用性非常高，主要原因是：
-
-1. 近期活跃：最近有活跃的开发和维护。
-2. 广泛采用：有大量的 GitHub Star 和 Fork，表明其受欢迎程度。
-3. 强大的生态系统：有多种语言和主题支持。
-
-总之，Google MCP Toolbox 是一个
+MCP Toolbox for Databases 的生产可用
 
 ## 🧭 Practical evaluation
 
@@ -91,8 +81,8 @@ Google MCP Toolbox 的生产可用性非常高，主要原因是：
 
 **Quality signals**
 
-- 15688 GitHub stars
-- 1612 forks
+- 15691 GitHub stars
+- 1613 forks
 - updated 2026-06-23
 - primary language: Go
 - 20 topics

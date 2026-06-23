@@ -27,46 +27,33 @@ AI/ML · DevTools
 
 ### English
 
-**OpenHands: AI-Driven Development**
+Here's a 2-3 sentence summary of the OpenHands project:
 
-OpenHands is an open-source project that enables developers to add AI capabilities to their applications without starting from scratch. Its value proposition lies in helping developers quickly prototype AI features, build robust workflows, and evaluate model tooling, making it an ideal choice for those looking to integrate AI into their projects. With a high production readiness score, recent activity, and a strong ecosystem, OpenHands is ready for serious pilot adoption.
-
-**Value:** OpenHands offers a streamlined approach to AI development, allowing developers to leverage existing implementation signals and language metadata to integrate AI capabilities into their applications. This makes it an attractive option for those looking to add AI features without the need for extensive model-building.
-
-**Practical Adoption Path:** The adoption path for OpenHands is relatively straightforward. Developers can start by evaluating the project's API/SDK/CLI, language metadata, and focused topics to determine the best approach for their specific use case. Once they've chosen a path, they can begin integrating OpenHands into their application, leveraging its AI capabilities to enhance their development workflow.
-
-**Production Readiness:** With a production readiness score of high, OpenHands is well-suited for serious pilot adoption. Its recent activity, adoption, and strong ecosystem signals indicate that the project is well-maint
+OpenHands is an open-source project that enables developers to integrate AI capabilities into their applications without starting from scratch. It provides a foundation for prototype AI features, building RAG (Reusable Agent Graph) or agent workflows, and evaluating model tooling. With its high production readiness, strong adoption, and recent activity, OpenHands is a viable candidate for serious pilots, offering a straightforward integration path through its API/SDK/CLI.
 
 ### Русский
 
 Резюме OpenHands/OpenHands:
 
-OpenHands/OpenHands - это открытый источник проекта, который помогает добавлять возможности AI без создания новой модели стека. Он идеально подходит для сценариев прототипирования AI-функций, построения RAG или агентных потоков и оценки инструментов моделирования. Проект имеет высокий уровень готовности к production, подтвержденный активностью, внедрением и экосистемными сигналами.
+OpenHands/OpenHands - это открытый проект, который помогает добавить возможности AI в существующие приложения без необходимости создания сложной инфраструктуры. Этот проект подходит для разработчиков, которые хотят прототипировать функции AI, построить поток рабочей группы или оценить инструменты моделирования. OpenHands/OpenHands готов к использованию в production, поскольку имеет высокий уровень активности, широкую адопцию и сильные сигналы экосистемы.
 
 ### 中文
 
 **OpenHands/OpenHands 简介**
 
-OpenHands/OpenHands 是一个开源 AI 驱动开发项目，帮助开发者快速添加 AI 能力而无需从头开始构建模型堆栈。它提供了一个易于接入的 API/SDK/CLI 接口，支持多种语言和主题。
+OpenHands/OpenHands 是一个开源项目，提供了 AI 驱动开发的功能。它可以帮助开发者在不从零开始搭建模型堆栈的情况下，轻松添加 AI 能力。
 
 **价值**
 
-OpenHands/OpenHands 的价值在于，它可以帮助开发者快速 prototyped AI 特性、构建 RAG 或代理工作流、评估模型工具。它的高生产可用性、强大的生态系统信号和活跃的维护者使其成为一个值得 seriously 考虑的项目。
+OpenHands/OpenHands 的主要价值在于它可以帮助开发者快速 prototyping AI 特性、构建 RAG 或 agent 工作流、评估模型工具等。它提供了一个可靠的基础设施，帮助开发者在 AI 开发中节省时间和精力。
 
 **典型接入方式**
 
-OpenHands/OpenHands 的接入方式包括：
-
-* 使用 API/SDK/CLI 接口来调用其 AI 能力
-* 通过语言元数据或专注于特定的主题来定制其功能
-* 评估其模型工具并将其集成到自己的项目中
+OpenHands/OpenHands 提供了多种接入方式，包括 API/SDK/CLI 等。开发者可以根据自己的需求选择合适的接入方式，轻松地将 AI 能力集成到自己的项目中。
 
 **生产可用性**
 
-OpenHands/OpenHands 的生产可用性非常高，主要原因是：
-
-* 有近 78,105 个 GitHub 星号和 9,931 个分支
-* 最近更新于 202
+OpenHands/OpenHands 的生产可用性非常高。它有强大的社区支持、活跃的维护者、良好的质量信号等。它已经获得了 78119 个 GitHub 星和 9932 个分叉，表明它的受欢迎程度和可靠性。
 
 ## 🧭 Practical evaluation
 
@@ -84,8 +71,8 @@ OpenHands/OpenHands 的生产可用性非常高，主要原因是：
 
 **Quality signals**
 
-- 78105 GitHub stars
-- 9931 forks
+- 78119 GitHub stars
+- 9932 forks
 - updated 2026-06-23
 - primary language: Python
 - 9 topics

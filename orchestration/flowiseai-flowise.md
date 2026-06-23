@@ -27,53 +27,50 @@ Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
 
 ### English
 
-**Project Summary:**
-FlowiseAI/Flowise is an open-source project that enables users to visually build AI agents, streamlining the process of creating repeatable workflows from isolated prompts and tools. With its high production readiness and strong ecosystem signals, FlowiseAI/Flowise offers a valuable solution for coordinating multi-agent workflows, standardizing agent memory, and adding tool-use pipelines. Its recent activity and adoption make it an attractive candidate for serious pilots.
+Here's a brief summary of the FlowiseAI/Flowise open-source project:
 
-**Value:**
-The primary value proposition of FlowiseAI/Flowise lies in its ability to turn isolated prompts and tools into repeatable agent workflows. This allows users to automate complex tasks, standardize processes, and improve efficiency by creating cohesive workflows. By providing a visual interface for building AI agents, FlowiseAI/Flowise makes it easier for users to create, manage, and integrate AI-powered workflows.
+**Summary:** FlowiseAI/Flowise is an open-source project that enables users to build AI agents visually, streamlining the process of creating repeatable workflows from isolated prompts and tools. This platform facilitates coordination of multi-agent workflows, standardization of agent memory, and integration of tool-use pipelines. With its strong ecosystem signals and recent activity, FlowiseAI/Flowise is production-ready for serious pilots.
 
-**Practical Adoption Path:**
-To adopt FlowiseAI/Flowise, users can start by evaluating the project through a small proof of concept and reviewing the README documentation. This will help them understand the project's capabilities, limitations, and potential integrations. Once they have a clear understanding of the project, they can begin to explore its features, such as coordinating multi-agent workflows, standardizing agent memory, and adding tool-use
+**Value:** The primary value proposition of FlowiseAI/Flowise lies in its ability to turn isolated prompts and tools into repeatable agent workflows, making it easier for users to coordinate complex AI tasks and automate processes.
+
+**Practical Adoption Path:** To adopt FlowiseAI/Flowise, users can start by evaluating the platform through a small proof of concept and reviewing the README documentation. This will help them understand the project's capabilities and requirements. Once familiar with the platform, users can begin integrating it into their workflows and exploring its features, such as tool-use pipelines and standardized agent memory.
+
+**Production Readiness:** With over 53,000 GitHub stars, 24,500 forks, and recent activity, FlowiseAI/Flowise demonstrates strong ecosystem signals and production readiness. Its high score and
 
 ### Русский
 
-Резюме:
+Резюме проекта FlowiseAI/Flowise:
 
-FlowiseAI/Flowise представляет собой инновационный проект, позволяющий создавать агентов искусственного интеллекта визуально. Благодаря этому инструменту вы можете преобразовать изолированные запуски и инструменты в повторяемые агентные потоки. FlowiseAI/Flowise идеально подходит для координации многогранных потоков агентов, добавления пайплайнов использования инструментов и стандартизации памяти агентов.
+FlowiseAI/Flowise - это открытый источник проекта, который позволяет создавать агентов AI визуально. Он помогает преобразовывать изолированные команды и инструменты в повторимые рабочие процессы агентов. Этот проект идеально подходит для стандартизации рабочих процессов, координации мульти-агентных потоков и добавления инструментальных линий. 
 
-Внедрение FlowiseAI/Flowise может быть востребовано в таких сценариях, как автоматизация бизнес-процессов, создание интеллектуальных агентов и реализация сложных информационных систем.
-
-Проект демонстрирует высокую готовность к производственной эксплуатации, обусловленную активностью, принятием и сигналами экосистемы. Однако необходимо провести тщательный метаданных анализ, в том числе лицензии, безопасности и поддержки разработчиков.
+Проект готов к сериозному пилотному проекту, поскольку имеет высокий уровень готовности к производству, регулярную активность, широкое признание и сильные сигналы экосистемы.
 
 ### 中文
 
-**简短介绍**
+**FlowiseAI/Flowise 简介**
 
-FlowiseAI/Flowise 是一个开源项目，帮助您创建可视化的 AI 代理，通过可重复的工作流程将孤立的提示和工具整合起来。
+FlowiseAI/Flowise 是一个开源项目，帮助开发者将孤立的命令和工具转化为可重复的智能代理工作流。它提供了协调多智能代理工作流、添加工具使用管线和标准化智能代理内存的功能。
 
 **价值**
 
-FlowiseAI/Flowise 的价值在于，它可以帮助您：
+FlowiseAI/Flowise 的价值在于，它可以帮助开发者:
 
-* 协调多个代理的工作流程
-* 添加工具使用的管道
-* 标准化代理的记忆
+* 协调多智能代理工作流，提高工作效率
+* 添加工具使用管线，简化工作流程
+* 标准化智能代理内存，保证数据一致性
 
 **典型接入方式**
 
-由于 FlowiseAI/Flowise 是一个开源项目，接入方式可能有所不同。一般来说，建议从以下几个方面开始：
+由于 FlowiseAI/Flowise 是一个开源项目，因此接入方式取决于具体的需求和场景。在一般情况下，开发者可以通过以下步骤接入：
 
-1. 评估项目的可行性：阅读 README 文件，了解项目的架构和功能。
-2. 小规模的测试：选择一个小的用例，测试 FlowiseAI/Flowise 的基本功能。
-3. 集成：根据测试结果，开始集成 FlowiseAI/Flowise 到您的项目中。
+1. 下载 FlowiseAI/Flowise 的源码
+2. 评估 FlowiseAI/Flowise 的功能和特性
+3. 根据需求定制 FlowiseAI/Flowise
+4. 集成 FlowiseAI/Flowise 到自己的项目中
 
 **生产可用性**
 
-FlowiseAI/Flowise 的生产可用性较高，主要原因是：
-
-* 最近的活动：项目最近仍有更新。
-* 适度的采用：项目有 53932 个 GitHub 星星，24586 个分
+FlowiseAI/Flowise 的生产可用性很高，因为
 
 ## 🧭 Practical evaluation
 
@@ -91,8 +88,8 @@ FlowiseAI/Flowise 的生产可用性较高，主要原因是：
 
 **Quality signals**
 
-- 53932 GitHub stars
-- 24586 forks
+- 53941 GitHub stars
+- 24588 forks
 - updated 2026-06-23
 - primary language: TypeScript
 - 17 topics

@@ -27,49 +27,54 @@ Orchestration · Knowledge/RAG · Automation · AI/ML
 
 ### English
 
-**Project Summary:** 
-Deer-Flow is an open-source, long-horizon SuperAgent harness that enables the creation of repeatable workflows from isolated prompts and tools. It utilizes a sandbox, memory, tools, skill, subagents, and a message gateway to handle tasks that can take minutes to hours. With its strong ecosystem signals and recent activity, Deer-Flow is a high-production-readiness candidate.
+**Project Summary**
 
-**Value Proposition:** 
-The value proposition of Deer-Flow lies in its ability to turn isolated prompts and tools into repeatable agent workflows, making it a powerful tool for automation, AI/ML, and orchestration. This allows users to standardize agent memory, add tool-use pipelines, and coordinate multi-agent workflows, making it a valuable asset for organizations looking to streamline their workflows.
+Bytedance's deer-flow is an open-source, long-horizon SuperAgent harness that enables the creation of repeatable workflows by coordinating tasks across various tools and agents. With its robust architecture and strong ecosystem support, deer-flow facilitates the standardization of agent memory, tool-use pipelines, and multi-agent workflows. This project has strong indicators of production readiness, making it an attractive candidate for serious pilots.
 
-**Practical Adoption Path:** 
-To adopt Deer-Flow, users should start with a small proof of concept and carefully review the README documentation. This will help evaluate the feasibility of integrating Deer-Flow into their existing infrastructure. With its strong adoption and recent activity, Deer-Flow has a solid foundation for a successful pilot project.
+**Value Proposition**
 
-**Production Readiness:** 
-Deer-Flow has a high production-readiness score, with strong ecosystem signals, recent activity, and adoption. Its primary language is Python
+The value proposition of deer-flow lies in its ability to turn isolated prompts and tools into repeatable agent workflows. This allows users to streamline complex tasks, reduce manual effort, and increase efficiency. By providing a standardized framework for workflow creation and management, deer-flow enables organizations to automate and optimize their business processes.
+
+**Practical Adoption Path**
+
+To adopt deer-flow, start by:
+
+1. **Evaluating its feasibility**: Assess the project's documentation, code quality, and community support.
+2. **Implementing a small proof of concept**: Test deer-flow with a simple use case to validate its functionality and performance.
+3. **Reviewing the README and documentation**: Ensure you understand the project's architecture, configuration, and best practices.
+4. **Scaling up**: Gradually integrate deer-flow into your existing workflows and agents, starting with small tasks and gradually
 
 ### Русский
 
-Резюме open-source проекта bytedance/deer-flow:
+Резюме проекта bytedance/deer-flow:
 
-Bytedance/deer-flow — это открытый исходный код проект, который позволяет автоматизировать длинные горизонты задач с помощью SuperAgent. Он может обрабатывать различные уровни задач, которые могут занять от нескольких минут до часов. Этот проект может помочь превратить изолированные команды и инструменты в повторяющиеся агентные потоки.
-
-Сценарий внедрения: bytedance/deer-flow может быть использован для координации мульти-агентных потоков, добавления инструментальных линий и стандартизации агентной памяти. Этот проект подойдет для организаций, которые хотят автоматизировать сложные задачи и повысить эффективность.
-
-Уровень готовности к production: bytedance/deer-flow имеет высокий уровень готовности к production, поскольку в последнее время было много активности, он имеет сильную базу пользователей и экосистемные сигналы. Однако перед внедрением необходимо тщательно проверить лицензию, безопасность и активность поддержки.
+bytedance/deer-flow - это открытый исходный код long-horizon SuperAgent, который позволяет автоматизировать различные задачи, выполняемые в течение минут или часов. Этот проект может помочь объединить изолированные команды и инструменты в повторяемые агент-работы, что делает его идеальным решением для координации многоагентных потоков и стандартизации агент-памяти. bytedance/deer-flow готов к производственному внедрению, с высокими показателями активности, приема и сигналов экосистемы, что делает его идеальным кандидатом для серьезного пилота.
 
 ### 中文
 
-**开源项目简介：bytedance/deer-flow**
+**项目简介**
 
-bytedance/deer-flow 是一个开源的长期超级代理 (SuperAgent) 框架，旨在通过沙盒、记忆、工具、技能、子代理和消息网关等方式，处理多个任务，包括从几分钟到几个小时的任务。它可以帮助将孤立的提示和工具转化为可重复的代理工作流。
+bytedance/deer-flow 是一个开源的长期 SuperAgent 框架，通过沙盒、记忆、工具、技能、子代理和消息网关等功能，能够处理不同级别的任务（从几分钟到几个小时）。它可以将孤立的提示和工具转换为可重复的代理工作流。
 
 **价值**
 
-bytedance/deer-flow 的主要价值在于，它可以协调多个代理工作流、添加工具使用管道和标准化代理记忆，从而提高工作效率和自动化程度。
+bytedance/deer-flow 的主要价值在于帮助开发者将孤立的提示和工具整合成一个可重复的工作流，从而提高工作效率和自动化程度。
 
 **典型接入方式**
 
-典型接入方式包括：
+典型的接入方式包括：
 
-1. 评估：先进行一个小的概念验证（POC）和 README 检查。
-2. 依赖项管理：确认依赖项是否符合项目需求。
-3. 代码整合：将 bytedance/deer-flow 集成到项目中，使用其功能和组件。
+1. 使用沙盒功能来模拟和测试代理的工作流。
+2. 利用记忆功能来标准化代理的记忆和数据。
+3. 将工具和技能整合到代理工作流中。
 
 **生产可用性**
 
-bytedance/deer-flow 的生产可用性非常高，其最近活动、采用和生态系统信号都非常强劲，
+bytedance/deer-flow 的生产可用性非常高，主要原因是：
+
+1. 近期活跃度：最近有活跃的维护和更新。
+2. 广泛的采用：有大量的 GitHub 星星和 fork 数字，表明它是一个受欢迎的项目。
+3.
 
 ## 🧭 Practical evaluation
 
@@ -87,8 +92,8 @@ bytedance/deer-flow 的生产可用性非常高，其最近活动、采用和生
 
 **Quality signals**
 
-- 73751 GitHub stars
-- 9959 forks
+- 73785 GitHub stars
+- 9962 forks
 - updated 2026-06-23
 - primary language: Python
 - 18 topics

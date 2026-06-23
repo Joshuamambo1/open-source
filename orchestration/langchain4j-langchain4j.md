@@ -27,46 +27,43 @@ Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
 
 ### English
 
-**Summary:**
+**Summary:** LangChain4j is an open-source Java library that simplifies the development of Large Language Model (LLM) powered applications on the JVM. It provides a unified API for popular LLM providers and vector stores, making it easy to implement tool calling, agents, and Retrieval-Augmented Generation (RAG). This library integrates well with enterprise Java frameworks like Quarkus and Spring Boot.
 
-LangChain4j is an open-source Java library that enables developers to build Large Language Model (LLM) powered applications on the JVM. It provides a unified API for popular LLM providers and vector stores, making it easy to implement tool calling, agents, and Retrieval-Augmented Generation (RAG). LangChain4j integrates seamlessly with enterprise Java frameworks, facilitating the creation of repeatable agent workflows.
+**Value:** The primary value proposition of LangChain4j is its ability to turn isolated prompts and tools into repeatable agent workflows. This enables developers to coordinate multi-agent workflows, add tool-use pipelines, and standardize agent memory, making it easier to build complex AI/ML applications.
 
-**Value Proposition:**
+**Practical Adoption Path:** To adopt LangChain4j, developers can start by evaluating its API and SDK, and exploring its language metadata and focused topics. The library is designed to be straightforward to evaluate and integrate, making it an attractive choice for developers looking to build LLM-powered applications on the JVM.
 
-LangChain4j helps developers turn isolated prompts and tools into repeatable agent workflows, making it easier to coordinate multi-agent workflows, add tool-use pipelines, and standardize agent memory. This library streamlines the process of building LLM-powered applications, enabling developers to focus on higher-level tasks.
-
-**Practical Adoption Path:**
-
-1. Evaluate LangChain4j's features and API using its exposed implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
-2. Assess the library's production readiness, considering its recent activity, adoption, and ecosystem signals.
-3. Integrate LangChain4j with your existing Java applications, leveraging its seamless integration with Quarkus and Spring Boot.
-4. Explore LangChain4j's use cases, such as coordinating multi-agent workflows, adding tool-use pipelines, and standard
+**Production Readiness:** LangChain4j has a high production readiness score, indicating that it is suitable for serious piloting. The library has recent activity, adoption, and ecosystem signals, with 12,402 GitHub stars and 2,320 forks. However, it's essential to
 
 ### Русский
 
 Резюме langchain4j/langchain4j:
 
-Langchain4j - это открытое ПО Java-библиотека для построения приложений с использованием LLM на JVM. Библиотека предоставляет единую API для популярных поставщиков LLM и векторных хранилищ, делая реализацию функций вызова инструментов (включая MCP), агентов и RAG простой. Langchain4j интегрируется без проблем с корпоративными Java-фреймворками, такими как Quarkus и Spring Boot.
+Langchain4j - это открытое Java-библиотека, предназначенная для создания приложений с использованием LLM-технологий на JVM. Это унифицированный API для популярных поставщиков LLM и векторных хранилищ, легко интегрируемый с enterprise-рамками, такими как Quarkus и Spring Boot.
 
-Langchain4j идеально подходит для координации многоагентных потоков, добавления пайплайнов использования инструментов и стандартизации агентной памяти. Библиотека уже получила широкое признание в сообществе, с 12 400 звездами на GitHub и 2 320 вложениями, что говорит о ее высокой готовности к production. Langchain4j готов к serious пилоту, но все же требует еще одного окончательного обзора по лицензии, безопасности и активности поддержки.
+Langchain4j помогает превратить изолированные запросы и инструменты в повторяемые агентные потоки, что делает его идеальным решением для координации многоагентных потоков, добавления пайплайнов инструментов и стандартизации агентной памяти.
+
+Langchain4j готов к производству на высоком уровне, что подтверждается активностью, адопцией и сигналами экосистемы. Он имеет сильные качества, такие как 12402 GitHub-звезды и 2320 форков, а его последняя активность датируется 23 июня 2026 года.
 
 ### 中文
 
-**LangChain4j 简介**
+LangChain4j 是一款开源的 Java 库，用于在 JVM 上构建 LLM (大规模语言模型) 驱动的应用。它提供了一种统一的 API，覆盖了流行的 LLM 提供商和向量存储，简化了工具调用（包括 MCP 支持）、代理和 RAG 的实现。它与企业 Java 框架如 Quarkus 和 Spring Boot 整合无缝。
 
-LangChain4j 是一个开源 Java 库，用于在 JVM 上构建 LLM（大规模语言模型）驱动的应用。它提供了对流行 LLM 提供商和向量存储的统一 API，使得实现工具调用（包括 MCP 支持）、代理和 RAG（关系抽取）变得容易。它与企业 Java 框架如 Quarkus 和 Spring Boot 整合良好。
+**价值:**
 
-**价值**
+LangChain4j 帮助将孤立的提示和工具转化为可重复的代理工作流程。
 
-LangChain4j 的主要价值在于帮助将孤立的提示和工具转换为可重复的代理工作流程。它使得开发者能够方便地协调多代理工作流、添加工具使用管道以及标准化代理内存。
+**典型接入方式:**
 
-**典型接入方式**
+1. 使用 LangChain4j 的 API 进行 LLM 操作和向量存储访问。
+2. 将 LangChain4j 与企业 Java 框架（如 Quarkus 和 Spring Boot）集成。
+3. 使用 LangChain4j 的工具调用（包括 MCP 支持）和代理实现。
 
-LangChain4j 可以通过以下方式接入：
+**生产可用性:**
 
-1. 直接使用 LangChain4j 的 Java API，通过编写 Java 代码来调用 LLM 提供商和向量存储。
-2. 使用 LangChain4j 的 SDK（软件开发工具包），通过提供的 Java 库来调用 LLM 提供商和向量存储。
-3. 使用 LangChain4j 的 CLI（命令行
+高。 LangChain4j 是一款活跃的开源项目，具有强大的采用和生态系统信号。它的生产可用性得分为 88/100。
+
+注意：上述信息基于
 
 ## 🧭 Practical evaluation
 
@@ -84,7 +81,7 @@ LangChain4j 可以通过以下方式接入：
 
 **Quality signals**
 
-- 12400 GitHub stars
+- 12402 GitHub stars
 - 2320 forks
 - updated 2026-06-23
 - primary language: Java

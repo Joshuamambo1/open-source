@@ -27,46 +27,53 @@ Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ### English
 
-**Summary:**
-VoltAgent/voltagent is an open-source AI Agent Engineering Platform built on a TypeScript framework, enabling users to turn isolated prompts and tools into repeatable workflows. This platform facilitates the coordination of multi-agent workflows, standardization of agent memory, and integration of tool-use pipelines. With its high production readiness and strong ecosystem signals, VoltAgent/voltagent is suitable for serious pilot adoption.
+**Project Summary:**
 
-**Value Proposition:**
-VoltAgent/voltagent offers a high degree of value by providing a structured approach to AI agent engineering, allowing users to create repeatable workflows and integrate various tools and agents seamlessly.
+VoltAgent/voltagent is an open-source, AI Agent Engineering Platform built on a TypeScript framework, allowing users to turn isolated prompts and tools into repeatable agent workflows. This platform enables the coordination of multi-agent workflows, addition of tool-use pipelines, and standardization of agent memory. With its high production readiness and strong ecosystem signals, VoltAgent/voltagent is a promising candidate for serious pilots and adoption.
+
+**Value:**
+
+VoltAgent/voltagent offers a unique value proposition by providing a platform to integrate isolated tools and prompts into repeatable workflows. This enables users to streamline their workflows, increase efficiency, and standardize their agent memory. The platform's flexibility and customizability make it an attractive solution for various use cases, including automation, AI/ML, and orchestration.
 
 **Practical Adoption Path:**
-To adopt VoltAgent/voltagent, users can follow these steps:
 
-1. Evaluate the platform's API, SDK, and CLI implementation signals to assess its usability.
-2. Explore the platform's language metadata and focused topics to determine its relevance to specific use cases.
-3. Review the platform's documentation and community resources to ensure a smooth onboarding process.
-4. Pilot the platform in a controlled environment to test its capabilities and identify potential areas for improvement.
+To adopt VoltAgent/voltagent, users can start by:
 
-**Production Readiness:**
-VoltAgent/voltagent has demonstrated high production readiness, with recent activity, strong adoption, and a robust ecosystem. The platform's recent update (
+1. Evaluating the platform's API/SDK/CLI and language metadata to ensure it meets their specific needs.
+2. Exploring the platform's documentation and community resources to understand its capabilities and limitations.
+3. Pilot-testing the platform with small-scale projects to gauge its performance and feasibility.
+4. Integrating VoltAgent/voltagent into their existing workflows and
 
 ### Русский
 
 Резюме:
 
-VoltAgent/voltagent - это платформа для инженеринга агентов AI на основе открытого исходного кода с использованием TypeScript. Эта платформа позволяет превращать изолированные команды и инструменты в повторяемые агентские потоки, что упрощает координацию мульти-агентных потоков и стандартизирует агентную память. Высокая готовность к производственному использованию (High), что делает ее подходящей для serious пилота.
+VoltAgent/voltagent - это платформа для инженерии агентов на основе открытого исходного кода, построенная на TypeScript AI Agent Framework. Платформа помогает превратить изолированные запросы и инструменты в повторяемые агентные потоки, что упрощает координацию мульти-агентных потоков, добавление инструментальных линий и стандартизацию агентной памяти. Платформа готова к производству на высоком уровне, что делает ее подходящей для серьезного пилота, с 9752 GitHub звездами, 1009 вилками и последней обновленной версией в 2026 году.
 
 ### 中文
 
-**简短介绍**
+**VoltAgent/voltagent 简介**
 
-VoltAgent/voltagent 是一个基于开源 TypeScript AI 代理框架的 AI 代理工程平台。它帮助将孤立的提示和工具转化为可重复的代理工作流程。
+VoltAgent/voltagent 是一个基于开源 TypeScript AI 代理框架的 AI 代理工程平台。它可以帮助将孤立的提示和工具转化为可重复的代理工作流程。
 
 **价值**
 
-VoltAgent/voltagent 的价值在于，它可以帮助开发者将孤立的提示和工具整合起来，形成可重复的代理工作流程。它可以协调多个代理工作流程、添加工具使用管道以及标准化代理记忆。
+VoltAgent/voltagent 的核心价值在于，它可以协调多个代理工作流程、添加工具使用管道和标准化代理内存，从而提高工作效率和可重复性。
 
 **典型接入方式**
 
-VoltAgent/voltagent 支持多种接入方式，包括 API、SDK 和 CLI。开发者可以通过这些接口与 VoltAgent/voltagent 进行交互，实现自定义的代理工作流程。
+VoltAgent/voltagent 可以通过以下方式接入：
+
+* API/SDK：通过 API 或 SDK 接入 VoltAgent/voltagent，实现对其功能的调用。
+* CLI：使用命令行界面（CLI）接入 VoltAgent/voltagent，实现对其功能的调用。
+* 语言元数据：通过语言元数据接入 VoltAgent/voltagent，实现对其功能的调用。
 
 **生产可用性**
 
-VoltAgent/voltagent 的生产可用性很高，主要原因是其最近的活跃度、采用情况以及生态系统信号都很强。它有 9750 个 GitHub star 和 1009 个分支，主要语言是 TypeScript。VoltAgent/voltagent 的生产可用性评估为高，适合进行严肃的试验。
+VoltAgent/voltagent 的生产可用性非常高，因为它具有以下特点：
+
+* 近期活跃：VoltAgent/voltagent 近期有活跃的维护和更新。
+* 强大生
 
 ## 🧭 Practical evaluation
 
@@ -84,7 +91,7 @@ VoltAgent/voltagent 的生产可用性很高，主要原因是其最近的活跃
 
 **Quality signals**
 
-- 9750 GitHub stars
+- 9752 GitHub stars
 - 1009 forks
 - updated 2026-06-23
 - primary language: TypeScript

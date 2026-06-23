@@ -2,13 +2,14 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [elizaOS/eliza](./elizaos-eliza.md) | ⭐ 18.6k | TypeScript | 86/100 |
+| 1 | [BlazeUp-AI/Observal](./blazeup-ai-observal.md) | ⭐ 2.1k | Python | 87/100 |
+| 2 | [elizaOS/eliza](./elizaos-eliza.md) | ⭐ 18.6k | TypeScript | 86/100 |
 
 ---
 

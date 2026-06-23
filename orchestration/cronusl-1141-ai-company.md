@@ -28,57 +28,50 @@ Orchestration · MCP · Automation · AI/ML · Frontend
 ### English
 
 **Project Summary:**
+CronusL-1141/AI-company is an open-source, multi-agent team operating system that enables the creation of repeatable workflows for Claude Code (CC) agents. With its extensive set of tools, templates, and pipelines, it helps turn isolated prompts and tools into structured, efficient workflows. This system provides a robust foundation for coordinating multi-agent workflows, standardizing agent memory, and streamlining task management.
 
-CronusL-1141/AI-company is an open-source, multi-agent team operating system designed for Claude Code (CC) integration. It enables users to create repeatable agent workflows by connecting isolated prompts and tools, streamlining coordination and standardization of agent memory. With its robust feature set and high production readiness, CronusL-1141/AI-company is an attractive solution for those looking to automate and orchestrate multi-agent workflows.
-
-**Value Proposition:**
-
-The primary value proposition of CronusL-1141/AI-company lies in its ability to turn isolated prompts and tools into repeatable agent workflows. This allows users to:
-
-* Coordinate multi-agent workflows more efficiently
-* Standardize agent memory
-* Add tool-use pipelines to their workflows
-
-By providing a structured environment for agent interactions, CronusL-1141/AI-company helps organizations streamline their AI/ML operations and improve overall productivity.
+**Value:**
+The primary value proposition of CronusL-1141/AI-company lies in its ability to help users transform isolated CC agents into cohesive, repeatable workflows. This is achieved through its extensive toolset (108 MCP tools), agent templates (40+), and pipeline workflows (7). By leveraging these features, users can standardize agent memory, streamline task management, and enhance overall productivity.
 
 **Practical Adoption Path:**
-
-For users interested in adopting CronusL-1141/AI-company, the practical adoption path involves:
-
-1. **Evaluating the project**: Review the codebase, documentation, and community engagement to ensure it meets their requirements.
-2. **Setting up the environment**: Install the necessary dependencies and configure the system according
+To adopt CronusL-1141/AI-company, users can follow a straightforward evaluation process, leveraging the exposed implementation signals such as API/SDK/CLI, language metadata, or focused topics. The project's high production readiness, recent activity, adoption, and strong ecosystem signals make it an attractive candidate for serious pilots. Users can start by exploring the project's features, assessing its compatibility with their existing workflows
 
 ### Русский
 
 Резюме проекта CronusL-1141/AI-company:
 
-Проект CronusL-1141/AI-company представляет собой облачную систему управления командами для работы с Claude Code, которая позволяет объединять отдельные инструменты и команды в повторяемые потоки работы. Благодаря этому, разработчики могут координировать сложные процессы, добавлять в них новые инструменты и стандартизировать работу агентов.
+Проект CronusL-1141/AI-company представляет собой мультиагентную систему управления для работы с Claude Code, которая позволяет объединять изолированные команды и инструменты в повторяемые агентные потоки. Этот проект особенно полезен для координации мультиагентных потоков, добавления инструментов в пайплайны и стандартизации агентного памяти.
 
-Внедрение проекта CronusL-1141/AI-company может быть полезно в сценариях, когда необходимо автоматизировать сложные бизнес-процессы, координировать работу команд и интегрировать различные инструменты. Например, проект может помочь внедрить систему управления проектами, автоматизировать процесс принятия решений или создать систему мониторинга и аналитики.
-
-Проект CronusL-1141/AI-company готов к производственной эксплуатации на высоком уровне, поскольку он имеет активное сообщество, регулярно обновляется и имеет сильные сигналы для оценки готовности к производству. Однако, как и в любом открытом проекте, необходимо
+Проект уже показал высокую готовность к производственной эксплуатации, подтверждаемую активностью, адопцией и сигналами экосистемы. Однако, перед внедрением, необходимо провести тщательный анализ лицензии, безопасности и участия активных разработчиков.
 
 ### 中文
 
-**简短介绍**
+**CronusL-1141/AI-company 简介**
 
-CronusL-1141/AI-company 是一个开源的多智能体团队操作系统，专为 Claude Code 设计。它提供了108个MCP工具、40+个智能体模板、10个生命周期钩子和7个流水线工作流。它可以帮助将孤立的提示和工具转化为可重复的智能体工作流。
+CronusL-1141/AI-company 是一个开源项目，提供一个多智能体团队操作系统，支持 Claude Code（CC）。它提供了108个MCP工具、40+个智能体模板、10个生命周期钩子和7个管道工作流。该项目旨在帮助用户将孤立的提示和工具整合成可重复的智能体工作流。
 
 **价值**
 
-CronusL-1141/AI-company 的价值在于，它可以帮助团队协调多智能体的工作流、添加工具使用的流水线以及标准化智能体的记忆。
+CronusL-1141/AI-company 的价值在于，它可以帮助用户：
 
-**典型接入方式**
+* 将多个智能体工作流协调起来
+* 添加工具使用管道
+* 标准化智能体记忆
 
-CronusL-1141/AI-company 可以通过以下方式接入：
+**接入方式**
 
-* API/SDK：通过 API 或 SDK 接入 CronusL-1141/AI-company 的功能。
-* CLI：通过命令行接口（CLI）接入 CronusL-1141/AI-company 的功能。
-* 语言元数据：通过语言元数据接入 CronusL-1141/AI-company 的功能。
+该项目提供了以下接入方式：
+
+* API： expose 实现信号，如API/SDK/CLI
+* 语言元数据： expose 语言相关信息
+* 焦点主题： expose 特定主题的信息
 
 **生产可用性**
 
-CronusL-1141/AI-company 的生产可用性为高（High），
+该项目的生产可用性很高，主要原因是：
+
+* 近期活动：最新更新于2026-06-23
+* 采用：GitHub上有193个star和26个fork
 
 ## 🧭 Practical evaluation
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SigNoz/signoz](./signoz-signoz.md) | ⭐ 27.4k | TypeScript | 86/100 |
+| 1 | [hyperdxio/hyperdx](./hyperdxio-hyperdx.md) | ⭐ 9.6k | TypeScript | 89/100 |
 | 2 | [juspay/hyperswitch](./juspay-hyperswitch.md) | ⭐ 42.5k | Rust | 74/100 |
 | 3 | [suitenumerique/docs](./suitenumerique-docs.md) | ⭐ 16.4k | Python | 67/100 |
 | 4 | [streetwriters/notesnook](./streetwriters-notesnook.md) | ⭐ 14k | TypeScript | 64/100 |

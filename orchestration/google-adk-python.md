@@ -27,56 +27,62 @@ Orchestration · Automation · AI/ML · Frontend
 
 ### English
 
-**Project Summary:**
+**Project Summary**
 
-Google ADK-Python is an open-source toolkit that enables developers to build, evaluate, and deploy sophisticated AI agents with flexibility and control. This Python-based toolkit helps turn isolated prompts and tools into repeatable agent workflows, making it ideal for coordinating multi-agent workflows, adding tool-use pipelines, and standardizing agent memory. With its strong ecosystem signals and high production readiness, Google ADK-Python is a promising candidate for serious pilots.
+google/adk-python is an open-source Python toolkit that empowers developers to build, evaluate, and deploy advanced AI agents with flexibility and control. This code-first approach enables users to transform isolated prompts and tools into repeatable agent workflows, streamlining multi-agent coordination and standardizing agent memory. With its high production readiness, this project is suitable for serious pilots.
 
-**Value Proposition:**
+**Value Proposition**
 
-The primary value proposition of Google ADK-Python lies in its ability to transform isolated tools and prompts into repeatable agent workflows. This allows developers to create more sophisticated AI agents with greater flexibility and control. By standardizing agent memory and adding tool-use pipelines, developers can streamline their workflows and improve the overall efficiency of their AI systems.
+The primary value proposition of google/adk-python lies in its ability to integrate isolated tools and prompts into cohesive workflows. This toolkit provides a standardized framework for building, evaluating, and deploying AI agents, making it an attractive solution for organizations seeking to automate and orchestrate complex AI tasks.
 
-**Practical Adoption Path:**
+**Practical Adoption Path**
 
-To adopt Google ADK-Python, developers can start by evaluating its implementation signals, such as its API, SDK, CLI, and language metadata. They can also explore the toolkit's focused topics and primary language, which is Python. Once they have a clear understanding of the toolkit's capabilities and limitations, they can begin to integrate it into their existing workflows. This may involve coordinating multi-agent workflows, adding tool-use pipelines, and standardizing agent
+To adopt google/adk-python, developers can follow these steps:
+
+1. **Evaluate the toolkit**: Assess the project's documentation, API/SDK/CLI, and language metadata to determine its suitability for your needs.
+2. **Explore use cases**: Identify specific use cases, such as coordinating multi-agent workflows or standardizing agent memory, where google/adk-python can add value.
+3. **Integrate with existing tools**: Leverage the toolkit's flexibility to integrate with your existing tools and workflows.
+4. **Develop and deploy AI agents**: Use google/adk-python to build, evaluate
 
 ### Русский
 
 Резюме проекта google/adk-python:
 
-google/adk-python - это открытое программное обеспечение для Python, которое позволяет создавать, оценивать и развертывать сложные агенты искусственного интеллекта с высоким уровнем гибкости и контроля. Этот инструмент помогает превратить изолированные команды и инструменты в повторяемые потоки работы агентов, упрощая координацию мультиагентных потоков, добавление инструментальных линий и стандартизацию памяти агентов. Проект имеет высокий уровень готовности к production, с сильными сигналами активности, адопции и экосистемы, что делает его подходящим кандидатом для серьезного пилота.
+google/adk-python - это открытое и гибкое инструментарий на Python, позволяющее создавать, оценивать и развертывать сложные агенты AI с контролем и гибкостью. Этот проект идеально подходит для координации многоагентных потоков, добавления инструментальных линий и стандартизации агентной памяти. Проект полностью готов к продакшену, с сильным набором метаданных, активными разработчиками и большим сообществом на GitHub.
 
 ### 中文
 
-**google/adk-python 简介**
+**google/adk-python 介绍**
 
-google/adk-python 是一个开源的 Python 工具包，用于构建、评估和部署复杂的 AI 代理。它提供灵活性和控制，让开发者可以将孤立的提示和工具转换为可重复的代理工作流。
+google/adk-python 是一个开源的 Python 工具包，专为构建、评估和部署复杂的 AI 代理提供了灵活性和控制。它可以帮助将孤立的提示和工具转换为可重复的代理工作流。
 
 **价值**
 
-* 将孤立的提示和工具转换为可重复的代理工作流
-* 协调多代理工作流
-* 添加工具使用管道
-* 标准化代理存储
+google/adk-python 的价值在于：
+
+* 可以协调多个代理工作流
+* 可以添加工具使用管道
+* 可以标准化代理内存
 
 **典型接入方式**
 
-* API/SDK/CLI 等接口
-* 语言元数据
-* 焦点主题
+google/adk-python 支持多种接入方式，包括：
+
+* API：通过 API 接口调用 google/adk-python 的功能
+* SDK：通过 SDK 接口集成 google/adk-python 到自己的应用中
+* CLI：通过命令行接口直接使用 google/adk-python 的功能
 
 **生产可用性**
 
-* 高度生产可用（92/100）
-* 近期活跃，采用和生态系统信号强大
-* GitHub 星数：20244
-* GitHub forks：3606
-* 最近更新时间：2026-06-23
-* 主语言：Python
-* 主题：16 个
+google/adk-python 的生产可用性非常高，理由如下：
 
-**风险**
+* 有 20249 个 GitHub 星标和 3606 个分支
+* 最近更新时间为 2026-06-23
+* 主要语言为 Python
+* 支持 16 个主题
+* 有强大的社区支持和维护
 
-* 无重大元数据风险发现，但仍需要进行license、安全态势和活跃维护者评审。
+总的来说，
 
 ## 🧭 Practical evaluation
 
@@ -94,7 +100,7 @@ google/adk-python 是一个开源的 Python 工具包，用于构建、评估和
 
 **Quality signals**
 
-- 20244 GitHub stars
+- 20249 GitHub stars
 - 3606 forks
 - updated 2026-06-23
 - primary language: Python

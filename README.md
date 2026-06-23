@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **9019** |
+| 🗂️ **Total projects** | **9059** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3083 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1621 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 860 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 770 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 473 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 3092 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1627 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 867 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 772 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 478 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 415 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 320 | [Browse →](./crypto/) |
-| 🏷️ **Mcp** | 294 | [Browse →](./mcp/) |
+| ⛓️ **Crypto** | 321 | [Browse →](./crypto/) |
+| 🏷️ **Mcp** | 296 | [Browse →](./mcp/) |
 | 📊 **Data** | 205 | [Browse →](./data/) |
-| 🏷️ **Automation** | 188 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 191 | [Browse →](./automation/) |
 | 💳 **Payments** | 146 | [Browse →](./payments/) |
-| 🏷️ **Knowledgerag** | 129 | [Browse →](./knowledgerag/) |
-| 📈 **Trading** | 105 | [Browse →](./trading/) |
+| 🏷️ **Knowledgerag** | 132 | [Browse →](./knowledgerag/) |
+| 📈 **Trading** | 107 | [Browse →](./trading/) |
 | 📱 **Mobile** | 102 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 80 | [Browse →](./devopsinfra/) |
 | 🏷️ **Database** | 78 | [Browse →](./database/) |
@@ -52,8 +52,8 @@
 | 5 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
 | 6 | [rocketride-org/rocketride-server](./orchestration/rocketride-org-rocketride-server.md) | ⭐ 2.4k | Orchestration |
 | 7 | [yusufkaraaslan/Skill_Seekers](./mcp/yusufkaraaslan-skill-seekers.md) | ⭐ 13.5k | Mcp |
-| 8 | [usebruno/bruno](./automation/usebruno-bruno.md) | ⭐ 45.1k | Automation |
-| 9 | [MCPJam/inspector](./mcp/mcpjam-inspector.md) | ⭐ 2k | Mcp |
+| 8 | [MCPJam/inspector](./mcp/mcpjam-inspector.md) | ⭐ 2k | Mcp |
+| 9 | [usebruno/bruno](./automation/usebruno-bruno.md) | ⭐ 45.1k | Automation |
 | 10 | [NangoHQ/nango](./aiml/nangohq-nango.md) | ⭐ 7.4k | AI/ML |
 
 ## 🚀 How it works

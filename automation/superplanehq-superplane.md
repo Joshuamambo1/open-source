@@ -27,43 +27,53 @@ Automation · AI/ML · Frontend · Database · DevOps/Infra
 
 ### English
 
-Here's a brief summary of the superplane project:
+Here's a brief summary of the open-source project superplanehq/superplane:
 
-**Summary:** superplanehq/superplane is an open-source control plane for agentic engineering, designed to automate repetitive manual operations and streamline workflows. By connecting tools into repeatable flows and scheduling operational tasks, superplane helps organizations reduce manual work and increase efficiency. With its strong adoption and recent activity, superplane is production-ready for serious pilots.
+Superplane is an open-source control plane for agentic engineering that helps remove repetitive manual operations from a workflow, enabling users to automate and streamline their processes. With its strong adoption, recent activity, and ecosystem signals, it's highly production-ready for a serious pilot. To adopt superplane, users can start by evaluating its feasibility through a small proof of concept, checking the README, and integrating it into their existing workflow.
 
-**Value:** The value proposition of superplane lies in its ability to automate repetitive tasks, freeing up human resources for more strategic and creative work. By connecting tools and automating workflows, organizations can improve productivity, reduce errors, and increase overall efficiency.
+**Value:**
+The value proposition of superplane lies in its ability to automate repetitive manual operations, freeing up time and resources for more strategic tasks. By removing manual work and connecting tools into repeatable flows, users can increase efficiency, productivity, and accuracy.
 
-**Practical Adoption Path:** To adopt superplane, organizations should start with a small proof of concept and review the project's README to understand its capabilities and limitations. This initial evaluation will help identify potential integration points and potential challenges. Once a clear understanding of the project's potential is established, organizations can begin integrating superplane into their workflows, starting with small-scale pilots and gradually scaling up to larger deployments.
+**Practical Adoption Path:**
+To adopt superplane, users can follow these steps:
 
-**Production Readiness:** With 3064 GitHub stars, 326 forks, and recent activity, superplane demonstrates strong adoption and ecosystem signals. Its primary language is Go, and it has 12 topics, indicating a robust and maintainable
+1. Evaluate the feasibility of superplane by reading the README and conducting a small proof of concept.
+2. Integrate superplane into their existing workflow, starting with a small pilot project.
+3. Schedule operational tasks and automate repetitive manual operations using superplane's features.
+4. Monitor and refine the integration as needed to ensure seamless operation.
+
+**Production Readiness:**
+Superplane has demonstrated strong production readiness, with:
+
+* 3064 GitHub
 
 ### Русский
 
 Резюме проекта superplanehq/superplane:
 
-Superplane - это открытое исходное решение для автоматизации повторяющихся задач в агентном инжиниринге. Это позволяет исключить из процесса ручную работу, соединить инструменты в повторяющиеся потоки и расписание операционных задач. Проект готов к масштабному внедрению в production, с высоким уровнем готовности и сильными показателями активности, принятия и экосистемы.
+Суперплан - это открытое исходное решение для автоматизации управления workflow, позволяющее удалить повторяющиеся ручные операции из процесса. Этот проект идеален для организаций, которые хотят автоматизировать мониторинг и управление своими системами, а также сократить количество ручных ошибок. Суперплан готов к использованию в производстве (High Production Readiness), но требует тщательного обзора лицензии, безопасности и активности maintainer.
 
 ### 中文
 
 **简短介绍**
 
-superplanehq/superplane是一个开源控制平面，用于实现工程的主动性。它可以帮助移除重复的手动操作，从而提高工作效率。
+superplanehq/superplane 是一个开源控制平面，为工程领域的代理工程提供支持。它可以帮助减少工作流中的重复手动操作，提高效率。
 
 **价值**
 
-superplanehq/superplane的价值在于，它可以帮助移除重复的手动操作，从而提高工作效率。它可以连接工具，形成可重复的流程，并且可以定时执行操作任务。
+superplanehq/superplane 的价值在于，它可以帮助移除工作流中的重复手动操作，连接工具并创建可重复的流程，调度运营任务。它可以帮助开发者和工程师节省时间和精力，提高工作效率。
 
 **典型接入方式**
 
-接入superplanehq/superplane的典型方式是：
+接入 superplanehq/superplane 可以通过以下方式：
 
-1. 移除重复的手动操作：使用superplanehq/superplane可以自动化重复的任务，从而提高工作效率。
-2. 连接工具：使用superplanehq/superplane可以连接不同的工具，形成可重复的流程。
-3. 定时执行操作任务：使用superplanehq/superplane可以定时执行操作任务，例如定时备份数据或执行定时任务。
+1. 移除手动工作：使用 superplanehq/superplane 可以自动化重复的手动操作，减少工作量。
+2. 连接工具：superplanehq/superplane 可以连接不同的工具并创建可重复的流程，提高工作效率。
+3. 调度运营任务：使用 superplanehq/superplane 可以自动化运营任务的调度，减少人工干预。
 
 **生产可用性**
 
-superplanehq/superplane的生产可用性是比较高的。它有近3千个GitHub星星，326个分支，最近一次更新是在2026年6月23日。它的
+superplanehq/superplane 在生产环境中有高可用性，因为它有活跃的社区支持，最近的更新
 
 ## 🧭 Practical evaluation
 

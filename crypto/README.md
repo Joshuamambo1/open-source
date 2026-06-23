@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [BlazeUp-AI/Observal](./blazeup-ai-observal.md) | ⭐ 2.1k | Python | 87/100 |
+| 1 | [elizaOS/eliza](./elizaos-eliza.md) | ⭐ 18.6k | TypeScript | 86/100 |
 
 ---
 

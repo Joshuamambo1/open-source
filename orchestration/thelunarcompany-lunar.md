@@ -29,49 +29,43 @@ Orchestration · MCP · AI/ML · Backend · DevTools
 
 **Project Summary:**
 
-TheLunarCompany/lunar is an open-source project that provides a native MCP Gateway for governance and security, enabling the creation of repeatable agent workflows from isolated prompts and tools. This project helps organizations coordinate multi-agent workflows, standardize agent memory, and add tool-use pipelines, making it a valuable tool for automation and orchestration. With a strong adoption rate and recent activity, lunar is production-ready for serious pilots.
+TheLunarCompany/lunar is an open-source project that provides a native MCP (Multi-Cloud Platform) Gateway for governance and security, enabling users to turn isolated prompts and tools into repeatable agent workflows. This project offers a straightforward integration path, exposing implementation signals through APIs, SDKs, and CLI tools. With its high production readiness, strong adoption, and recent activity, lunar is a promising candidate for serious pilots.
 
 **Value Proposition:**
 
-The primary value proposition of lunar lies in its ability to turn isolated prompts and tools into repeatable agent workflows. This allows organizations to:
-
-1. **Coordinate multi-agent workflows**: Easily manage and orchestrate the interactions between multiple agents.
-2. **Standardize agent memory**: Ensure consistency and reliability across agent interactions.
-3. **Add tool-use pipelines**: Integrate tools and workflows into a seamless pipeline.
+The value proposition of TheLunarCompany/lunar lies in its ability to coordinate multi-agent workflows, standardize agent memory, and add tool-use pipelines, making it easier to manage complex tasks and workflows. By providing a standardized framework, lunar enables users to create reusable and efficient workflows, reducing the need for manual intervention and increasing productivity.
 
 **Practical Adoption Path:**
 
-To adopt lunar, organizations can follow these steps:
+To adopt TheLunarCompany/lunar, users can start by evaluating its implementation signals, such as APIs, SDKs, and CLI tools, to understand how it fits into their existing infrastructure. Next, they can explore the project's documentation and community resources to learn more about its capabilities and use cases. Finally, users can begin integrating lunar into their workflows, starting with small-scale pilots and gradually scaling up to larger deployments.
 
-1. **Evaluate the project**: Assess the project's implementation signals, language metadata, and focused topics to ensure it meets their needs.
-2. **Review the documentation**: Familiarize yourself with the project's documentation, API/SDK/CLI, and language-specific guides.
-3. **Integrate with existing tools**: Use lunar's integration signals
+**Production Readiness:**
 
 ### Русский
 
-Резюме проекта TheLunarCompany/lunar:
+Резюме TheLunarCompany/lunar:
 
-TheLunarCompany/lunar - это открытый исходный код проект, предназначенный для управления и обеспечения безопасности путем создания агентов MCP Gateway. Этот проект позволяет превращать изолированные команды и инструменты в повторяемые агентские потоки, что делает его идеальным решением для координации мульти-агентных потоков и стандартизации агентской памяти.
+TheLunarCompany/lunar - это открытый исходный проект (open-source) для создания агентов native MCP Gateway, который обеспечивает безопасность и управление. Он позволяет объединять изолированные команды и инструменты в повторяемые агентные потоки, что делает его идеальным решением для координации многоагентных потоков и стандартизации агентной памяти.
 
-Проект имеет высокий уровень готовности к производству, подтвержденный активностью, адопцией и сигналами экосистемы. Он также имеет сильную оценку на GitHub, с 458 звездами и 38 фурками, что говорит о его популярности и потенциале для использования в реальных проектах.
+Проект демонстрирует высокий уровень готовности к производству, с недавней активностью, широким внедрением и сильными сигналами экосистемы. Он имеет 458 GitHub звезд и 38 фолов, что говорит о его популярности и качестве. TheLunarCompany/lunar подходит для серьезного пилотного проекта и может быть полезен в типовой сценарии внедрения, когда необходимо координировать многоагентные потоки и добавлять инструментальные пайплайны.
 
 ### 中文
 
 **简短介绍**
 
-TheLunarCompany/lunar 是一个开源项目，提供了一个 Agent 原生 MCP Gateway，用于治理和安全。它可以将孤立的提示和工具转化为可重复的 Agent 工作流程。
+TheLunarCompany/lunar 是一个开源项目，提供了一个原生 MCP 网关（Agent native MCP Gateway），用于治理和安全。它可以帮助将孤立的提示和工具转换为可重复的代理工作流程。
 
 **价值**
 
-TheLunarCompany/lunar 的价值在于它可以帮助用户协调多 Agent 工作流程，添加工具使用管道，标准化 Agent 内存。它可以将孤立的提示和工具转化为可重复的 Agent 工作流程。
+TheLunarCompany/lunar 的价值在于，它能够协调多个代理工作流程，添加工具使用管道，标准化代理内存。这使得开发者能够更轻松地管理和维护复杂的系统。
 
 **典型接入方式**
 
-TheLunarCompany/lunar 提供了 API、SDK 和 CLI 的接入方式，用户可以根据自己的需求选择适合的接入方式。它还提供了语言元数据和特定主题的接入方式。
+该项目提供了 API、SDK 和 CLI 等实现信号，方便开发者评估和接入。它支持多种语言和主题，包括 TypeScript 等。
 
 **生产可用性**
 
-TheLunarCompany/lunar 的生产可用性非常高，主要原因是其最近的活动、广泛的采用和强大的生态系统信号。项目的 GitHub 星标数和 fork 数也非常高，表明项目的受欢迎程度。
+该项目具有高生产可用性，最近有活跃的开发和采用，生态信号也很强。GitHub 上有 458 个星星和 38 个分叉，更新时间为 2026-06-23。该项目也具有高质量信号，包括 TypeScript 等语言和 11 个主题。然而，仍需要进一步评估其许可、安全性和维护人员的情况。
 
 ## 🧭 Practical evaluation
 

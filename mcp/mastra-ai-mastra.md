@@ -27,50 +27,37 @@ MCP · Automation · AI/ML · Frontend
 
 ### English
 
-Here's a brief summary of the mastra project:
+Here's a 2-3 sentence summary of the mastra open-source project:
 
-Mastra is a modern TypeScript framework that enables the connection of AI assistants to real tools and data through a standard protocol, making it easier to integrate AI-powered applications and agents with various systems. The project offers a straightforward evaluation process, exposing implementation signals such as APIs, SDKs, and CLI tools, making it a viable option for serious pilots. With high production readiness, recent activity, and strong adoption, mastra is poised for practical adoption and widespread use.
-
-**Value:**
-The value proposition of mastra lies in its ability to standardize integrations between AI assistants and real tools and data, making it a powerful tool for developers and organizations looking to leverage AI in their applications.
-
-**Practical Adoption Path:**
-To adopt mastra, developers can start by evaluating its implementation signals, such as APIs, SDKs, and CLI tools, to determine its feasibility for their specific use cases. They can then follow the project's documentation and community resources to integrate mastra into their projects.
-
-**Production Readiness:**
-Mastra has a high production readiness score, indicating that it is suitable for serious pilots and production environments. Its recent activity, adoption, and strong ecosystem signals suggest that it is a stable and reliable choice for developers and organizations looking
+Mastra is a modern TypeScript framework for building AI-powered applications and agents, enabling seamless connections between AI assistants and real tools and data through a standard protocol. This framework offers a practical adoption path for developers, allowing them to connect AI agents to tools, ship Model Context Protocol servers, and standardize integrations. With its high production readiness, strong adoption, and recent activity, Mastra is a promising choice for serious pilots and real-world applications.
 
 ### Русский
 
 Резюме проекта mastra-ai/mastra:
 
-Mastra - современный фреймворк на TypeScript для создания приложений и агентов с использованием искусственного интеллекта. Этот проект позволяет соединять AI-ассистентов с реальными инструментами и данными посредством стандартного протокола, что делает его идеальным решением для интеграции AI-агентов с различными системами. Mastra готов к промышленному внедрению (production readiness) на высоком уровне, с сильным активным сообществом и регулярными обновлениями.
+Mastra - это современная TypeScript-рамка для создания приложений и агентов с использованием искусственного интеллекта. Это позволяет соединять ассистентов AI с реальными инструментами и данными через стандартный протокол, упрощая их интеграцию. Проект готов к использованию в production, поскольку имеет высокую степень готовности, активное развитие и сильную экосистему, что делает его идеальным выбором для серьезного пилота.
 
 ### 中文
 
 **Mastra 简介**
 
-Mastra 是一个现代的 TypeScript 框架，用于构建 AI 助手和代理应用。它通过标准协议连接 AI 助手与真实工具和数据。
+Mastra 是一个现代的 TypeScript 框架，专为 AI Powered 应用程序和代理设计。它帮助连接 AI 助手到真实的工具和数据通过标准协议。
 
 **价值**
 
-Mastra 的价值在于帮助连接 AI 助手与真实工具和数据，从而实现标准化的集成。通过 Mastra，开发者可以轻松地将 AI 助手与各种工具和系统集成，提高工作效率和自动化水平。
+Mastra 的主要价值在于，它让 AI 助手能够连接到真实的工具和数据，实现标准化的集成。这使得开发者能够更轻松地构建和部署 AI Powered 应用程序。
 
-**典型接入方式**
+**接入方式**
 
-Mastra 的接入方式包括：
+Mastra 提供了多种接入方式，包括：
 
-* API：使用 Mastra API 来连接 AI 助手与工具和数据。
-* SDK：使用 Mastra SDK 来集成 AI 助手与各种系统。
-* CLI：使用 Mastra CLI 来快速地配置和管理 AI 助手。
+* API：Mastra 提供 RESTful API，让开发者能够轻松地与其集成。
+* SDK：Mastra 提供多种语言的 SDK，让开发者能够在其语言中使用 Mastra。
+* CLI：Mastra 提供命令行接口，让开发者能够轻松地与其交互。
 
 **生产可用性**
 
-Mastra 有很高的生产可用性，原因是：
-
-* 近期活动：Mastra 有活跃的开发者社区，持续进行更新和维护。
-*采用度：Mastra 已经获得了数万个 GitHub Star 和 Fork，表明其受欢迎程度。
-*生态系统信号：Mastra 的生态系统信号
+Mastra 已经获得了 25367 个 GitHub 星星，2277 个 Fork，且最近更新于 2026-06-23。它的主语言是 TypeScript，支持 13 个主题。Mastra 的生产可用性非常高，适合用于 serious 的生产环境。
 
 ## 🧭 Practical evaluation
 
@@ -88,7 +75,7 @@ Mastra 有很高的生产可用性，原因是：
 
 **Quality signals**
 
-- 25358 GitHub stars
+- 25367 GitHub stars
 - 2277 forks
 - updated 2026-06-23
 - primary language: TypeScript

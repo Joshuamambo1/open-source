@@ -27,47 +27,47 @@ MCP · Frontend · Backend · Mobile
 
 ### English
 
-**Project Summary:**
-kubb-labs/kubb is an open-source meta framework for code generation, automating the process of converting OpenAPI specifications into type-safe TypeScript, Zod, and TanStack Query. This framework enables the connection of AI assistants to real tools and data through a standard protocol, facilitating seamless integrations. With a strong ecosystem and recent activity, kubb-labs/kubb is highly production-ready for serious pilots.
+**Project Summary**
 
-**Value Proposition:**
-The value of kubb-labs/kubb lies in its ability to standardize integrations and connect AI agents to tools, making it an essential tool for developers and organizations seeking to build robust and scalable systems. By automating code generation, it reduces development time and increases productivity, allowing teams to focus on higher-level tasks.
+The kubb project is an open-source, meta framework for code generation that automates the conversion of OpenAPI specifications to type-safe TypeScript, Zod, and TanStack Query. This framework enables developers to connect AI assistants to real tools and data through a standard protocol, making it easier to integrate AI agents with various tools and systems. With its modular, plugin-based engine, kubb offers a flexible and scalable solution for developers.
 
-**Practical Adoption Path:**
-To adopt kubb-labs/kubb, developers can follow these steps:
+**Value Proposition**
 
-1. Evaluate the framework's capabilities and ease of use through its straightforward API/SDK/CLI exposure.
-2. Explore the framework's language metadata and focused topics to determine its relevance to their project.
-3. Integrate kubb-labs/kubb into their project, leveraging its modular, plugin-based engine to automate code generation.
-4. Ship Model Context Protocol servers and standardize integrations with AI
+The primary value proposition of kubb lies in its ability to standardize integrations between AI assistants and tools, making it easier to connect and interact with various systems. This standardization enables developers to focus on building applications rather than creating custom integrations, thereby increasing productivity and reducing development time.
+
+**Practical Adoption Path**
+
+To adopt kubb, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. Once they have a good understanding of the framework's capabilities and limitations, they can begin by using kubb to connect their AI agents to tools or ship Model Context Protocol servers. The adoption path is relatively straightforward, and the framework's production readiness makes it a suitable choice for serious pilots.
+
+**Production Readiness**
+
+The kubb project has strong production readiness, with recent
 
 ### Русский
 
-Резюме открытого исходного проекта kubb-labs/kubb:
+Резюме:
 
-Проект kubb-labs/kubb представляет собой мета-фреймворк для автоматизации кодогенерации, позволяющий перевести OpenAPI в типобезопасный TypeScript, Zod и TanStack Query с помощью модульного, плагинного движка. Он позволяет соединять AI-ассистентов с реальными инструментами и данными через стандартный протокол, что делает его идеальным решением для подключения агентов AI к инструментам, развертывания серверов по протоколу Model Context, а также стандартизации интеграций. Проект готов к внедрению в производство (High) и имеет сильные сигналы признания в сообществе, включая 1742 GitHub звезды, 143 заимствования и регулярную активность разработчиков.
+kubb-labs/kubb - это мета-фреймворк для автоматизации кодогенерации, позволяющий синхронизировать OpenAPI с безопасным типизированным TypeScript, Zod и TanStack Query. Этот проект помогает соединять AI-ассистентов с реальными инструментами и данными через стандартный протокол, что делает его идеальным решением для интеграции AI-агентов с инструментами. kubb-labs/kubb готов к production и имеет высокий уровень готовности, с 1742 GitHub звездами, 19 темами и активными разработчиками, что делает его надежным выбором для серьезного пилота.
 
 ### 中文
 
-**kubb-labs/kubb 项目简介**
-
-kubb-labs/kubb 是一个开源项目，旨在为代码生成提供元框架。它通过模块化、插件化的引擎，自动化 OpenAPI 到安全的 TypeScript、Zod 和 TanStack Query 等类型安全的代码生成。
+**简短介绍**
+kubb 是一个开源项目，旨在为代码生成提供一个元框架。它可以自动将 OpenAPI 转换为安全的 TypeScript、Zod 和 TanStack Query 代码，并且具有模块化、可插拔的引擎。
 
 **价值**
-
-kubb-labs/kubb 帮助连接 AI 助手到真实的工具和数据通过标准协议。它的价值在于连接 AI 代理到工具、部署 Model Context Protocol 服务器以及标准化集成。
+kubb 的价值在于，它可以帮助连接 AI 助手到真实的工具和数据通过一个标准协议。它可以连接 AI 代理到工具、部署 Model Context Protocol 服务器、标准化集成。
 
 **典型接入方式**
-
-kubb-labs/kubb 的接入方式包括：
-
-1. 连接 AI 代理到工具：通过 kubb-labs/kubb，可以将 AI 代理连接到工具，实现自动化的数据处理和分析。
-2. 部署 Model Context Protocol 服务器：kubb-labs/kubb 提供了部署 Model Context Protocol 服务器的能力，方便用户接入 AI 助手。
-3. 标准化集成：kubb-labs/kubb 提供了标准化的集成接口，方便用户快速接入 AI 助手。
+kubb 可以通过以下方式接入：
+- 连接 AI 代理到工具
+- 部署 Model Context Protocol 服务器
+- 标准化集成
 
 **生产可用性**
-
-k
+kubb 的生产可用性很高，主要原因是：
+- 最近有活跃的开发活动
+- 有强大的采用和生态系统信号
+- GitHub 上有 1742 个星标和 143 个分叉
 
 ## 🧭 Practical evaluation
 

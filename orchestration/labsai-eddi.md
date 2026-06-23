@@ -27,49 +27,53 @@ Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ### English
 
-**EDDI: A Config-Driven Engine for AI Agents**
+**Project Summary:**
 
-EDDI is an open-source project that enables the creation of production-grade AI agents from JSON configurations. This engine supports multi-agent orchestration, integrates with 12+ language models, and adheres to enterprise compliance standards.
+EDDI (Enterprise Data-Driven Intelligence) is an open-source project that enables the creation of production-grade AI agents through a configuration-driven engine. Built on Quarkus, EDDI supports multi-agent orchestration, 12+ LLM providers, and enterprise compliance features, making it a powerful tool for automating AI workflows. This project has a high production readiness score, with strong adoption and recent activity.
 
-**Value Proposition**
+**Value Proposition:**
 
-EDDI's key value lies in its ability to transform isolated prompts and tools into repeatable agent workflows, streamlining the process of AI development and deployment. Its config-driven approach allows for easy customization and standardization of agent memory, making it an attractive solution for organizations seeking to automate and coordinate multi-agent workflows.
+The value of EDDI lies in its ability to turn isolated prompts and tools into repeatable agent workflows, making it easier to coordinate multi-agent workflows, add tool-use pipelines, and standardize agent memory. This enables organizations to automate AI-related tasks, improve efficiency, and reduce the complexity of integrating multiple AI tools.
 
-**Practical Adoption Path**
+**Practical Adoption Path:**
 
-To adopt EDDI, users can start by exploring its implementation signals, such as API, SDK, and CLI interfaces. The project's recent activity, adoption, and ecosystem signals indicate a high level of production readiness, making it suitable for serious pilots. Before integrating EDDI into production, it is recommended to review its license, security posture, and maintainers to ensure alignment with organizational requirements.
+To adopt EDDI, organizations can follow these steps:
 
-**Production Readiness**
-
-EDDI's production readiness is high, with recent activity, adoption, and ecosystem signals indicating a strong foundation for deployment. Its 361 GitHub stars and 121 forks demonstrate a significant community interest, while its primary language, Java,
+1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to determine its suitability for their needs.
+2. Review the project's GitHub repository, including its recent activity, adoption, and ecosystem signals, to ensure it is actively maintained and has a strong community behind it.
+3. Assess the project's compliance features, such as EU AI Act, GDPR, and
 
 ### Русский
 
 Резюме проекта labsai/EDDI:
 
-Проект labsai/EDDI представляет собой конфигурируемый движок, который преобразует JSON в высокопроизводительные агенты на основе искусственного интеллекта. Он предлагает множество функций, включая оркестровку агентов, поддержку десятков провайдеров LLM, протоколов MCP и A2A, RAG и постоянную память.
+Проект labsai/EDDI представляет собой конфигурируемый движок, который преобразует JSON в производственные агенты AI. Он позволяет координировать мульти-агентные потоки, добавлять воронки использования инструментов и стандартизировать память агентов. Этот проект предназначен для преобразования изолированных команд и инструментов в повторимые потоки агентов.
 
-Проект предназначен для объединения изолированных запросов и инструментов в повторяющиеся потоки работы агентов. Типовой сценарий внедрения включает координацию потоков работы агентов, добавление пайплайнов использования инструментов и стандартизацию памяти агентов.
+Проект labsai/EDDI особенно полезен для организации мульти-агентных потоков, добавления воронок использования инструментов и стандартизации агентной памяти. Он представляет собой готовый к работе продукт, который можно использовать для создания производственных агентов AI.
 
-Проект labsai/EDDI готов к производству на высоком уровне, что подтверждается его активностью, приёмом и сигналами экосистемы. Однако перед внедрением необходимо провести окончательный отзыв по лицензии, безопасности и активности maintainers.
+Проект labsai/EDDI готов к production на высоком уровне, поскольку он недавно активен, имеет сильную адопцию и сигналы экосистемы. Однако перед его внедрением необходимо провести тщательный анализ лицензионной политики, безопасности и активности поддержки.
 
 ### 中文
 
-**labsai/EDDI 简介**
+**简短介绍**
 
-labsai/EDDI 是一个基于 Quarkus 构建的配置驱动引擎，能够将 JSON 转换为生产级 AI 代理。它提供多代理协调、12+ LLM 提供商、MCP/A2A 协议、RAG、持久内存和企业合规性（EU AI Act、GDPR、HIPAA）。
+labsai/EDDI 是一个基于 Quarkus 构建的开源项目，提供了一个配置驱动的引擎，能够将 JSON 转换为生产级 AI 代理。它支持多代理协调、12+ LLM 供应商、MCP/A2A 协议、RAG、持久内存和企业合规性（EU AI Act、GDPR、HIPAA）。
 
 **价值**
 
-labsai/EDDI 帮助将孤立的提示和工具转换为可重复的代理工作流程。它可以协调多代理工作流程、添加工具使用管道和标准化代理内存。
+labsai/EDDI 的价值在于，它能够帮助将孤立的提示和工具转换为可重复的代理工作流。它可以协调多代理工作流、添加工具使用管道和标准化代理内存。
 
 **典型接入方式**
 
-labsai/EDDI 提供 API/SDK/CLI 接口，用户可以通过这些接口进行集成。它还提供语言元数据和专注主题的接口。
+labsai/EDDI 提供了多种接入方式，包括：
+
+* API：通过 API 调用 labsai/EDDI 的功能。
+* SDK：通过 SDK 集成 labsai/EDDI 的功能。
+* CLI：通过命令行界面调用 labsai/EDDI 的功能。
 
 **生产可用性**
 
-labsai/EDDI 具有高生产可用性，主要语言是 Java，更新频率较高，GitHub 星标数和 fork 数较多。然而，仍需要对其许可、安全态势和主维护者进行最终审查。
+labsai/EDDI 的生产可用性很高，它有活跃的维护者、强大的生态系统信号和近期的更新
 
 ## 🧭 Practical evaluation
 

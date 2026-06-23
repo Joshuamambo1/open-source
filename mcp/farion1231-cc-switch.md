@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 106.4k |
-| 🍴 **Forks** | 7k |
+| ⭐ **Stars** | 107k |
+| 🍴 **Forks** | 7.1k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | 2026-06-23 |
@@ -27,49 +27,57 @@ MCP · AI/ML · Frontend · DevTools · Database
 
 ### English
 
-**Summary:** 
+**Project Summary:**
+farion1231/cc-switch is an open-source, cross-platform desktop assistant that connects various AI and ML tools, such as Claude Code, Codex, and Gemini CLI, through a standard protocol, facilitating seamless integrations and standardization. This project boasts a high production readiness score, with a strong ecosystem, recent activity, and widespread adoption. With 106,961 GitHub stars, it is an attractive candidate for serious pilots and production environments.
 
-farion1231/cc-switch is an open-source, cross-platform desktop assistant that connects various AI models, including Claude Code, Codex, and Gemini CLI, to real tools and data through a standard protocol. This project enables developers to easily integrate AI agents with tools and data, promoting a unified ecosystem. With its high production readiness, strong adoption, and recent activity, cc-switch is poised for serious pilots and widespread adoption.
-
-**Value:** 
-The primary value proposition of farion1231/cc-switch lies in its ability to standardize integrations between AI assistants and real tools and data. This facilitates seamless communication and enables developers to connect AI agents with various tools and data sources, promoting a unified ecosystem.
+**Value Proposition:**
+The value proposition of farion1231/cc-switch lies in its ability to standardize integrations between AI assistants and real tools and data, making it easier to connect and utilize various AI and ML services. By providing a unified protocol, this project enables developers to focus on building applications rather than creating custom integrations for each tool.
 
 **Practical Adoption Path:**
+To adopt farion1231/cc-switch, developers can follow these steps:
 
-1. **Developer Interest**: The project's high GitHub star count (106402) and recent activity indicate strong developer interest.
-2. **Ease of Evaluation**: The project's straightforward integration signals, such as API/SDK/CLI, language metadata, and focused topics, make it easy for developers to evaluate and understand the project's capabilities.
-3. **Adoption**: The project's adoption rate, along with its recent activity, suggests a strong and growing community of users.
-4. **Production Readiness**: The project's high production readiness
+1. **Evaluate the project**: Review the codebase, documentation, and community engagement to ensure it meets the project's requirements.
+2. **Choose the tools to integrate**: Select the AI and ML services to connect to the cc-switch protocol.
+3. **Implement the protocol**: Use the provided API/SDK/CLI to integrate the chosen tools with the cc-switch
 
 ### Русский
 
 Резюме проекта farion1231/cc-switch:
 
-Проект farion1231/cc-switch представляет собой всеобъемлющий десктопный ассистент для управления взаимодействием между различными AI-системами, включая Claude Code, Codex, OpenCode и другие. Он позволяет коннектировать AI-ассистенты к реальным инструментам и данным через стандартный протокол. Проект готов к производственному использованию, обладающий высокой степенью готовности к внедрению в production, с сильными сигналами активности, приема и экосистемы.
+Проект farion1231/cc-switch представляет собой кроссплатформенный все-в-одном ассистент для взаимодействия с различными AI-системами и инструментами. Он позволяет соединять AI-ассистентов с реальными инструментами и данными через стандартный протокол, что делает его ценным инструментом для подключения AI-агентов к инструментам и стандартизации интеграций.
+
+Проект готов к production-level использования с высоким уровнем готовности (High) из-за активности разработки, приёма и сигналов экосистемы. Внедрение проекта может включать в себя подключение AI-ассистентов к инструментам, развертывание серверов Model Context Protocol и стандартизацию интеграций.
+
+Проект имеет сильные качественные сигналы, включая 106 961 GitHub звезд и 20 тем, но требует окончательного обзора по вопросам лицензии, безопасности и активных мейнтейнеров.
 
 ### 中文
 
 **简短介绍**
 
-farion1231/cc-switch 是一款跨平台桌面All-in-One助手，支持Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent。该项目通过标准协议连接AI助手与真实工具和数据。
+farion1231/cc-switch 是一个跨平台的桌面全能助手，支持 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI 和 Hermes Agent 的连接。它通过标准协议连接 AI 助手与真实工具和数据。
 
 **价值**
 
-farion1231/cc-switch 帮助连接AI助手与真实工具和数据，提供了一个标准化的接入方式，使得开发者可以更轻松地整合AI助手与各种工具和数据源。
+farion1231/cc-switch 的价值在于，它帮助连接 AI 助手与真实工具和数据，通过标准协议实现这一目标。它使得开发者能够连接 AI 代理到工具，部署 Model Context Protocol 服务器，并标准化集成。
 
 **典型接入方式**
 
-该项目支持多种接入方式，包括：
+典型接入方式包括：
 
-* 连接AI助手与工具：通过标准协议连接AI助手与各种工具和数据源。
-* 部署Model Context Protocol服务器：提供了一个标准化的接入方式，使得开发者可以轻松地部署Model Context Protocol服务器。
-* 标准化整合：通过提供一个标准化的接入方式，使得开发者可以轻松地整合AI助手与各种工具和数据源。
+* 连接 AI 代理到工具
+* 部署 Model Context Protocol 服务器
+* 标准化集成
 
 **生产可用性**
 
-farion1231/cc-switch 具有很高的生产可用性，主要原因包括：
+farion1231/cc-switch 在生产环境中具有很高的可用性，主要原因是：
 
-* 最近的活动：项目
+* 最近的活动
+* 广泛的采用
+* 强大的生态系统信号
+* 高评分的GitHub repository（94/100）
+
+然而，仍然需要进行最终的审查，特别是关于许可证、安全性和活跃维护者的情况。
 
 ## 🧭 Practical evaluation
 
@@ -87,8 +95,8 @@ farion1231/cc-switch 具有很高的生产可用性，主要原因包括：
 
 **Quality signals**
 
-- 106402 GitHub stars
-- 7043 forks
+- 106961 GitHub stars
+- 7073 forks
 - updated 2026-06-23
 - primary language: Rust
 - 20 topics

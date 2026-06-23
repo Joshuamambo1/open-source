@@ -27,49 +27,48 @@ AI/ML · Frontend · Backend · DevTools
 
 ### English
 
-**Project Summary:**
-earendil-works/pi is an open-source AI agent toolkit that provides a unified LLM (Large Language Model) API, agent loop, TUI (Text-based User Interface), and coding agent CLI, making it easier to add AI capabilities without starting from scratch. This toolkit is ideal for prototyping AI features, building RAG (Retrieval-Augmented Generation) or agent workflows, and evaluating model tooling. With a high production readiness score, recent activity, and strong adoption, earendil-works/pi is a viable option for serious pilots.
+**Project Summary:** earendil-works/pi is an open-source AI agent toolkit that provides a unified LLM API, agent loop, TUI, and coding agent CLI, enabling developers to add AI capabilities without starting from scratch. This toolkit provides a robust foundation for prototyping AI features, building RAG or agent workflows, and evaluating model tooling. With its strong adoption and recent activity, earendil-works/pi is production-ready for serious pilots.
 
-**Value:**
-The value proposition of earendil-works/pi lies in its ability to simplify the process of integrating AI capabilities into existing projects. By providing a unified API, agent loop, and TUI, developers can quickly prototype and build AI-powered features without needing to assemble a model stack from scratch. This makes it an attractive option for developers looking to add AI capabilities to their projects.
+**Value Proposition:** The primary value of earendil-works/pi lies in its ability to accelerate the development of AI-powered projects by providing a pre-built toolkit. This allows developers to focus on their application-specific requirements rather than building a custom AI stack from scratch.
 
 **Practical Adoption Path:**
-To adopt earendil-works/pi, developers can start by evaluating the toolkit through a small proof of concept and reviewing the README documentation. This will help them understand the toolkit's capabilities and how to integrate it into their existing projects. Once they have a clear understanding of the toolkit
+
+1. **Evaluate the toolkit**: Start by reviewing the README documentation and exploring the codebase to understand the features and functionality of earendil-works/pi.
+2. **Prototype AI features**: Use the toolkit to quickly prototype AI-powered features and workflows, such as conversational interfaces or recommendation systems.
+3. **Integrate with your project**: Once you have a working prototype, integrate earendil-works/pi into your project, following the provided documentation and guidelines.
+4. **Customize and extend**: As needed, customize and
 
 ### Русский
 
 Резюме проекта earendil-works/pi:
 
-Этот open-source проект представляет собой набор инструментов для создания агентов AI, объединяющий единый API для LLM, цикл агента, интерфейс командной строки и интерфейс пользователя. Он позволяет разработчикам добавлять возможности AI без создания полной модели стека, упрощая процесс прототипирования и внедрения агентов AI. Проект готов к использованию в производственных условиях, с сильным показателем активности, адоптации и сигналами экосистемы.
+earendil-works/pi - это инструментарий для создания агентов AI, который упрощает интеграцию функций AI в существующие системы. Он предназначен для построения прототипов AI-функций, разработки рабочих процессов RAG или агентов и оценки инструментов моделирования. Проект готов к промышленному внедрению (High) и имеет сильные показатели активности, признания и экосистемных сигналов, что делает его идеальным кандидатом для serious пилотного проекта.
 
 ### 中文
 
-**项目简介**
+**earendil-works/pi 简介**
 
-earendil-works/pi 是一个开源 AI 代理工具包，提供统一的 LLM API、代理循环、TUI 和编码代理 CLI。它可以帮助开发者在不从头搭建模型栈的情况下快速添加 AI 能力。
+earendil-works/pi 是一个开源项目，提供了一个 AI 代理工具集，包括统一的 LLM API、代理循环、TUI 和编码代理 CLI。它的价值在于可以帮助用户快速添加 AI 能力，而不需要从零开始搭建模型堆栈。
 
 **价值**
 
-earendil-works/pi 的价值在于它可以帮助开发者快速构建 AI 功能，例如：
+earendil-works/pi 的价值在于它可以帮助用户快速评估和构建 AI 代理流程，适用于以下场景：
 
-* 快速 prototyping AI 功能
-* 构建 Retrieval-Augmented Generation (RAG) 或代理工作流
+* 快速 prototyping AI 特性
+* 构建关系抽取器 (RAG) 或代理工作流
 * 评估模型工具
 
-**典型接入方式**
+**接入方式**
 
-开发者可以通过以下方式接入 earendil-works/pi：
+接入 earendil-works/pi 可以通过以下方式：
 
-1. 评估：先评估项目的 README，并进行一个小-scale 的 proof of concept。
-2. 集成：将 earendil-works/pi 集成到现有的项目中，利用其提供的 API 和功能。
+1. 阅读 README 文档，了解项目的使用方式和接入方法
+2. 开始一个小的 PoC (Proof of Concept)，测试项目的功能和性能
+3. 检查项目的 GitHub 仓库，了解项目的更新历史和维护情况
 
 **生产可用性**
 
-earendil-works/pi 的生产可用性非常高，主要原因是：
-
-* 近期活动：项目最近有更新。
-* 适用度：项目有足够的采用率和生态系统信号。
-* 质量信号：项目有
+earendil-works/pi 的生产可用性非常高，项目有强烈的生态信号，最近有活动，
 
 ## 🧭 Practical evaluation
 
@@ -87,8 +86,8 @@ earendil-works/pi 的生产可用性非常高，主要原因是：
 
 **Quality signals**
 
-- 64973 GitHub stars
-- 7921 forks
+- 65003 GitHub stars
+- 7926 forks
 - updated 2026-06-23
 - primary language: TypeScript
 

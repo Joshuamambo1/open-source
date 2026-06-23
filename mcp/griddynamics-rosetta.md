@@ -27,52 +27,47 @@ MCP · AI/ML · Backend · DevTools
 
 ### English
 
-**Project Summary:**
+Here's a brief summary and explanation of the griddynamics/rosetta project:
 
-Rosetta is an open-source project that enables the connection of AI assistants to real tools and data through a standard protocol. By providing a centralized instructions management system, Rosetta facilitates the integration of AI agents with various tools and data sources. This standardization helps streamline the development process and improves the overall efficiency of AI-powered applications.
+**Summary:** griddynamics/rosetta is an open-source project that enables seamless integration between AI coding agents and real tools and data through a standard protocol, facilitating meta-prompting, context engineering, and centralized instructions management.
 
-**Value Proposition:**
+**Value Proposition:** The value of griddynamics/rosetta lies in its ability to connect AI assistants to real-world tools and data, making it a crucial tool for developers who want to leverage AI coding agents in their workflows. By standardizing integrations, the project helps accelerate the adoption of AI in software development.
 
-The value proposition of Rosetta lies in its ability to bridge the gap between AI assistants and real-world tools and data. This standard protocol makes it easier to connect AI agents to various systems, tools, and data sources, enabling developers to build more efficient and effective AI-powered applications.
+**Practical Adoption Path:** To adopt griddynamics/rosetta, developers can start by evaluating the project's implementation signals, such as its API, SDK, CLI, and language metadata. They can then follow the project's documentation to connect their AI agents to real tools and data. With a straightforward evaluation process and strong ecosystem signals, it's relatively easy to get started with the project.
 
-**Practical Adoption Path:**
-
-To adopt Rosetta, developers can follow a straightforward evaluation process. They can start by reviewing the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics. Once they have a clear understanding of the project's capabilities, they can begin integrating Rosetta into their existing systems. The project's recent activity, adoption, and ecosystem signals indicate a high level of production readiness, making it an attractive choice for serious pilots.
-
-**Production Readiness:**
-
-Rosetta has demonstrated a high level of production readiness, with recent activity, strong adoption, and a robust ecosystem. The project's
+**Production Readiness:** griddynamics/rosetta has demonstrated high production readiness due to its recent activity, strong adoption, and positive ecosystem signals. With 308 GitHub stars, 60 forks, and regular updates, the project has a solid
 
 ### Русский
 
-Резюме:
+Резюме проекта griddynamics/rosetta:
 
-griddynamics/rosetta - это открытый исходный проект, который обеспечивает централизованное управление инструкциями и контекст-инженеринг для агентов AI-кодирования. Он позволяет соединять агентов AI с реальными инструментами и данными посредством стандартизированного протокола, что упрощает интеграцию и облегчает работу с AI-ассистентами. Проект готов к внедрению в производство и имеет высокий уровень готовности, подтвержденный активностью, принятием и сигналами экосистемы.
+Проект griddynamics/rosetta представляет собой платформу для взаимодействия между искусственными интеллектом (AI) и реальными инструментами и данными. Он позволяет создавать стандартные протоколы для подключения AI-ассистентов к различным системам и приложениям. Проект готов к внедрению в производство, обладает высоким уровнем активности и учетом в экосистеме.
 
 ### 中文
 
-**简短介绍**
-griddynamics/rosetta 是一个开源项目，旨在为 AI 编码代理提供元提示 (Meta-prompting)、上下文工程 (Context engineering) 和集中化指令管理 (Centralized instructions management)。它通过标准协议帮助连接 AI 助手与真实工具和数据。
+**项目简介**
+
+griddynamics/rosetta 是一个开源项目，旨在为 AI 编码助手提供标准协议，使其可以连接到现实工具和数据。它提供了元促发、上下文工程和中央指令管理功能，帮助连接 AI 代理和工具。
 
 **价值**
-griddynamics/rosetta 的价值在于，它帮助连接 AI 助手与真实工具和数据，标准化集成，提高开发效率。
+
+griddynamics/rosetta 的价值在于，它帮助连接 AI 辅助工具和现实世界的工具和数据，通过标准协议使其更容易集成和使用。它为开发者提供了一个统一的接口，能够访问各种工具和数据源。
 
 **典型接入方式**
-典型接入方式包括：
-- 连接 AI 代理到工具
-- 部署 Model Context Protocol 服务器
-- 标准化集成
+
+griddynamics/rosetta 的接入方式包括：
+
+* 将 AI 辅助工具连接到 griddynamics/rosetta 服务器
+* 部署 Model Context Protocol 服务器
+* 标准化工具和数据源的集成
 
 **生产可用性**
-griddynamics/rosetta 的生产可用性高，因为：
-- 有活跃的维护者
-- 有强大的生态系统信号
-- 近期有更新
 
-但是，还需要对以下风险进行最终审查：
-- 许可证
-- 安全姿势
-- 主要维护者
+griddynamics/rosetta 的生产可用性很高，主要原因是：
+
+* Recent 活跃度：项目最近有活跃的维护和更新
+* Adoption：项目有较高的采用度和生态系统信号
+* Quality signals：项目有 308
 
 ## 🧭 Practical evaluation
 

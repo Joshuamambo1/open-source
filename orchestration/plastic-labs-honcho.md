@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.4k |
-| 🍴 **Forks** | 655 |
+| ⭐ **Stars** | 5.5k |
+| 🍴 **Forks** | 656 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | 2026-06-23 |
@@ -27,62 +27,46 @@ Orchestration · Knowledge/RAG · AI/ML · Frontend · Backend
 
 ### English
 
-Here's a brief summary of the open-source project:
+**Project Summary:**
 
-**Summary:** Plastic-labs/honcho is a memory library that enables the creation of stateful agents for building repeatable workflows. It helps integrate isolated tools and prompts into cohesive pipelines, facilitating multi-agent coordination and standardizing agent memory. With its strong ecosystem signals and high production readiness, honcho is a promising candidate for serious pilots.
+Honcho is an open-source memory library for building stateful agents, allowing developers to turn isolated prompts and tools into repeatable agent workflows. This library helps coordinate multi-agent workflows, standardize agent memory, and add tool-use pipelines, making it a valuable tool for AI/ML and frontend/backend development. With its straightforward integration and high production readiness, Honcho is a promising candidate for serious pilots.
 
-**Value:** The primary value proposition of honcho lies in its ability to turn isolated prompts and tools into repeatable agent workflows. This allows developers to create more efficient and standardized workflows, making it easier to integrate and manage complex systems. By providing a memory library for stateful agents, honcho helps bridge the gap between individual tools and enables more effective multi-agent coordination.
+**Value Proposition:**
 
-**Practical Adoption Path:** To adopt honcho, developers can start by evaluating its API, SDK, and CLI implementation signals. They can then assess its language metadata and focused topics to determine whether it aligns with their specific needs. Once adopted, honcho can be integrated into existing workflows to standardize agent memory and add tool-use pipelines. With its high production readiness, developers can confidently pilot honcho in their production environments.
+The primary value proposition of Honcho lies in its ability to help developers build and manage complex agent workflows, making it easier to integrate multiple tools and tools into a cohesive system. By providing a standardized memory library, Honcho enables developers to create more efficient and scalable workflows, reducing the complexity of managing multiple agents.
 
-**Production Readiness:** With a strong recent activity record, adoption, and ecosystem signals, honcho is
+**Practical Adoption Path:**
+
+To adopt Honcho, developers can follow these steps:
+
+1. Evaluate Honcho's integration signals, such as its API, SDK, and CLI, to determine its suitability for their project.
+2. Review Honcho's documentation and examples to understand how to use the library in their workflow.
+3. Start by integrating Honcho into a small pilot project to test its functionality and scalability.
+4. As needed, expand the use of Honcho to larger projects, taking advantage of its features to standardize agent
 
 ### Русский
 
 Резюме проекта plastic-labs/honcho:
 
-Проект plastic-labs/honcho представляет собой открытое источник библиотеку памяти для создания агентов со стейт-менеджментом. Он позволяет превратить изолированные запросы и инструменты в повторяемые агентные потоки, координируя мульти-агентные потоки, добавляя инструмент-использование пайплайны и стандартизируя агентную память. Проект демонстрирует высокую готовность к production, с сильными сигналами recent activity, adoption и экосистемы, что делает его подходящим кандидатом для серьезного пилотного проекта.
+Платформа для управления памятью, позволяющая создавать агенты с состоянием, которые могут повторно использовать и координировать сложные потоки задач. Вtypical сценарий внедрения: координация мульти-агентных потоков, добавление цепочек инструментов и стандартизация агентской памяти. Проект готов к production (High) благодаря активной поддержке, широкому внедрению и сильному экосистемному сигналу.
 
 ### 中文
 
-**简短介绍**
+**项目简介**
 
-plastic-labs/honcho 是一个开源项目，提供了一个内存库用于构建有状态的代理。它可以帮助您将孤立的提示和工具转换为可重复的代理工作流程。
+plastic-labs/honcho是一个用于构建有状态代理的内存库。它可以帮助将孤立的提示和工具转换为可重复的代理工作流程。
 
 **价值**
 
-plastic-labs/honcho 的价值在于，它可以帮助您：
-
-* 协调多代理工作流程
-* 添加工具使用流水线
-* 标准化代理内存
+plastic-labs/honcho的价值在于它可以协调多个代理的工作流程、添加工具使用的管道以及标准化代理内存。
 
 **典型接入方式**
 
-plastic-labs/honcho expose 了多种接入方式，包括：
-
-* API
-* SDK
-* CLI
-* 语言元数据
-* 焦点主题
+通过 API、SDK 或 CLI 接入 plastic-labs/honcho。语言元数据和专注的主题可以提供更多的信息。
 
 **生产可用性**
 
-plastic-labs/honcho 的生产可用性非常高，主要原因是：
-
-* 近期活跃
-* 强大的采用和生态系统信号
-* 5437 个 GitHub 星标和 655 个分支
-* 最近更新时间为 2026-06-23
-* 主要语言为 Python
-* 20 个主题
-
-但是，请注意还需要进一步审查以下风险：
-
-* 许可证
-* 安全态势
-* 主维护者
+plastic-labs/honcho在生产环境中具有较高的可用性，特别是考虑到其最近的活动、广泛的采用和强大的生态系统信号。然而，仍需要对其许可、安全态势和活跃维护者进行最终的审查。
 
 ## 🧭 Practical evaluation
 
@@ -100,8 +84,8 @@ plastic-labs/honcho 的生产可用性非常高，主要原因是：
 
 **Quality signals**
 
-- 5437 GitHub stars
-- 655 forks
+- 5455 GitHub stars
+- 656 forks
 - updated 2026-06-23
 - primary language: Python
 - 20 topics
@@ -118,7 +102,7 @@ plastic-labs/honcho 的生产可用性非常高，主要原因是：
 | production | 84/100 |
 | outlook | 92/100 |
 | adoption | 77/100 |
-| stars | 79/100 |
+| stars | 80/100 |
 | forks | 70/100 |
 | recency | 100/100 |
 | topics | 100/100 |

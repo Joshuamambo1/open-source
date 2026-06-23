@@ -27,46 +27,47 @@ MCP · AI/ML · Frontend · Backend · DevTools
 
 ### English
 
-**Project Summary**
+**Summary:** Composio is an open-source project that provides a standardized protocol for connecting AI assistants to real tools and data, empowering developers to build AI agents that turn intent into action. With a large community of over 28,900 GitHub stars and strong ecosystem signals, Composio is a high-production-readiness candidate. Its straightforward integration process and support for various implementation signals make it an attractive choice for developers looking to integrate AI agents with tools and data.
 
-Composio is an open-source project that enables the connection of AI assistants to real tools and data through a standard protocol, empowering the development of AI agents that turn intent into action. With over 1000 toolkits integrated, it provides a sandboxed workbench for building and testing AI agents. Composio's standard protocol facilitates seamless integrations, making it an attractive choice for developers.
+**Value:** Composio's value proposition lies in its ability to standardize integrations between AI assistants and real tools and data, making it easier for developers to build and deploy AI-powered applications. By providing a standard protocol, Composio enables the creation of a vast ecosystem of connected tools and services, accelerating the development and adoption of AI-powered solutions.
 
-**Value Proposition**
+**Practical Adoption Path:** To adopt Composio, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then integrate Composio with their AI assistants and tools using its straightforward integration process. Additionally, developers can explore the various use cases, such as connecting AI agents to tools, shipping Model Context Protocol servers, and standardizing integrations.
 
-Composio's primary value lies in its ability to connect AI agents to real tools and data, allowing developers to build more effective and intelligent systems. By standardizing integrations, Composio streamlines the development process, making it easier to ship Model Context Protocol servers and create AI-powered applications.
-
-**Practical Adoption Path**
-
-To adopt Composio, developers can follow these steps:
-
-1. **Evaluate the project**: Assess the project's documentation, code quality, and community engagement to ensure it meets their needs.
-2. **Integrate with tools**: Use Composio's standard protocol to connect AI agents to real tools and data, such as APIs, SDKs, or CLI.
-3. **Ship Model Context Protocol servers**: Deploy Composio servers to enable AI-powered applications and integrate with existing infrastructure.
-4. **Standardize integrations**: Le
+**Production Readiness:** Composio is considered
 
 ### Русский
 
 Резюме проекта Composio:
 
-Composio - это мощная платформа для построения интеллектуальных агентов, которая позволяет соединять их с реальными инструментами и данными через стандартный протокол. Платформа уже используется более чем в 1000 наборах инструментов и может помочь внедрить AI-агентов в различные приложения. Composio готов к использованию в production, с высоким уровнем готовности (High) и сильными сигналами экосистемы, включая активное обновление и существенную базу пользователей (28903 GitHub звезд и 4635 вилок).
+Composio - это мощный инструмент для разработки агентов AI, который позволяет соединять интеллектуальные ассистенты с реальными инструментами и данными посредством стандартного протокола. В типовом сценарии внедрения Composio используется для подключения агентов AI к инструментам, развертывания серверов протокола Model Context, а также для стандартизации интеграций. Проект Composio готов к производству на высоком уровне, с сильными сигналами активности, адопции и экосистемы.
 
 ### 中文
 
-**ComposioHQ/composio 简介**
+**Composio 的简短介绍**
 
-Composio 是一个开源项目，提供了一个标准协议，帮助连接 AI 助手与真实的工具和数据。它支持 1000+ 工具集，工具搜索，上下文管理，身份认证，以及一个沙盒式工作台，帮助您构建 AI 代理，转换意图为行动。
+Composio 是一个开源项目，通过标准协议连接 AI 代理与真实工具和数据。它提供了工具搜索、上下文管理、身份验证和沙盒工作台等功能，帮助您构建能够将意图转化为行动的 AI 代理。
 
 **价值**
 
-ComposioHQ/composio 的主要价值在于帮助连接 AI 助手与真实的工具和数据，通过标准协议实现这一目标。它使得开发者能够轻松地将 AI 代理连接到工具中，标准化集成，并快速部署 Model Context Protocol 服务器。
+Composio 的价值在于，它帮助连接 AI 代理与真实工具和数据，通过标准协议实现这一点。它使开发者能够更轻松地构建和部署 AI 代理。
 
 **典型接入方式**
 
-Composio 提供了多种接入方式，包括：
+Composio 支持多种接入方式，包括：
 
-1. API/SDK/CLI：提供了 API、SDK 和 CLI 接口，方便开发者接入和使用 Composio。
-2. 语言元数据：提供了语言元数据，方便开发者了解和使用 Composio。
-3. 焦点主题：提供了专注于特定领域的主题，方便开发者快速找到和使用相关的功能和工具。
+* 连接 AI 代理到工具
+* 部署 Model Context Protocol 服务器
+* 标准化集成
+
+**生产可用性**
+
+Composio 的生产可用性非常高，主要原因包括：
+
+* 近期活动和采用率
+* 强大的生态系统信号
+* 高评分（90/100）
+
+尽管如此，仍需要进一步评估 Composio 的许可协议、安全态势和维护者情况。
 
 ## 🧭 Practical evaluation
 
@@ -84,7 +85,7 @@ Composio 提供了多种接入方式，包括：
 
 **Quality signals**
 
-- 28903 GitHub stars
+- 28905 GitHub stars
 - 4635 forks
 - updated 2026-06-23
 - primary language: TypeScript

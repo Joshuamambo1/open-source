@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 501 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 🗓️ **Last push** | 2026-06-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -29,56 +29,50 @@ MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 
 **Project Summary:**
 
-Kreuzberg is an open-source, polyglot document intelligence framework with a Rust core, capable of extracting text, metadata, images, and structured information from over 97 formats. It offers a range of interfaces, including CLI, REST API, and MCP server, making it accessible to developers across various programming languages. Kreuzberg's value proposition lies in enabling the connection of AI assistants to real tools and data through a standard protocol.
+kreuzberg is an open-source, polyglot document intelligence framework with a Rust core, enabling the extraction of text, metadata, images, and structured information from over 97 file formats. This framework is designed to facilitate the connection of AI assistants to real tools and data through a standard protocol, making it a valuable asset for integrating AI agents with various tools and systems.
 
 **Value Proposition:**
 
-Kreuzberg's primary value lies in its ability to standardize integrations between AI agents and tools, making it easier to connect disparate systems and enable seamless data exchange. This standardization can lead to increased efficiency, reduced development time, and improved overall system performance.
+The value proposition of kreuzberg lies in its ability to standardize integrations between AI assistants and real tools and data. By providing a unified protocol, kreuzberg enables developers to connect AI agents to a wide range of tools and systems, making it easier to build and deploy AI-powered applications.
 
 **Practical Adoption Path:**
 
-Developers can adopt Kreuzberg by:
+The adoption path for kreuzberg is straightforward, with options for integration via API, SDK, CLI, or through a Model Context Protocol server. Developers can choose the programming language that best suits their needs, including Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, and TypeScript. Additionally, kreuzberg provides a CLI and REST API for easy access, making it a practical choice for developers looking to integrate AI assistants with their tools and systems.
 
-1. Evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
-2. Choosing the interface that best fits their needs, whether it's CLI, REST API, or MCP server.
-3. Integrating Kreuzberg into their existing systems, utilizing its polyglot capabilities to extract information from various document formats.
-4. Leveraging Kreuzberg's standard protocol to connect AI assistants to real tools and data
+**Production Readiness:**
+
+kreuzberg
 
 ### Русский
 
-Резюме проекта kreuzberg:
+Резюме проекта kreuzberg-dev/kreuzberg:
 
-Крейцберг - это полиглотный фреймворк для интеллекта документов с ядром на Rust. Он позволяет извлекать текст, метаданные, изображения и структурированную информацию из PDF, офисных документов, изображений и 97+ форматов. 
+Креузберг - это полиглотный фреймворк для интеллектуальной обработки документов с ядром на языке Rust. Он позволяет извлекать текст, метаданные, изображения и структурированную информацию из PDF, офисных документов, изображений и более 97 форматов. Этот фреймворк доступен для различных языков программирования, включая Rust, Python, Ruby, Java и другие.
 
-Проект предназначен для соединения AI-ассистентов с реальными инструментами и данными через стандартный протокол. Типовым сценарием внедрения является подключение AI-агентов к инструментам, запуск серверов Model Context Protocol и стандартизация интеграций.
+Основная польза от использования креузберга заключается в том, что он позволяет соединять интеллектуальные агенты с реальными инструментами и данными через стандартный протокол. Типовым сценарием внедрения является подключение интеллектуальных агентов к инструментам, развертывание серверов протокола Model Context, а также стандартизация интеграций.
 
-Проект демонстрирует высокий уровень готовности к production, подтверждаемый активностью, адопцией и сигналами экосистемы. Однако перед внедрением необходимо произвести окончательный обзор лицензии, безопасности и активности поддерживающих разработчиков.
+Проект креузберг готов к production на высоком уровне, поскольку имеет недавнюю активность, широкое распространение и сильные сигналы экосистемы. Однако, как и любое открытое исходное ПО, он требует
 
 ### 中文
 
-**kreuzberg-dev/kreuzberg 简介**
+**kreuzberg-dev/kreuzberg 介绍**
 
-kreuzberg-dev/kreuzberg 是一个多语言的文档智能框架，核心使用 Rust 开发。它可以从 PDF、Office 文档、图片和 97+ 格式中提取文本、元数据、图像和结构化信息。它支持多种语言的接入，包括 Rust、Python、Ruby、Java、Go、PHP、Elixir、C#、R、C 和 TypeScript。
+kreuzberg-dev/kreuzberg 是一个多语言文档智能框架，核心基于 Rust。它可以从 PDF、Office 文档、图像和 97+ 格式中提取文本、元数据、图像和结构化信息。可用于 Rust、Python、Ruby、Java、Go、PHP、Elixir、C#、R、C 和 TypeScript 等语言，或者通过 CLI、REST API 或 MCP 服务器接入。
 
 **价值**
 
-kreuzberg-dev/kreuzberg 帮助连接人工智能助手到真实工具和数据通过标准协议。它可以帮助开发人员连接 AI 代理到工具、部署 Model Context Protocol 服务器和标准化集成。
+kreuzberg-dev/kreuzberg 的价值在于，它帮助连接 AI 代理到真实的工具和数据，通过标准协议实现这一点。它可以帮助开发者连接 AI 代理到工具、部署 Model Context Protocol 服务器和标准化集成。
 
 **典型接入方式**
 
 kreuzberg-dev/kreuzberg 可以通过以下方式接入：
 
-* CLI（命令行接口）
-* REST API（远程接口）
-* MCP 服务器（Model Context Protocol 服务器）
+* 使用 CLI (命令行界面)
+* 使用 REST API (代表状态转移应用程序编程接口)
+* 使用 MCP 服务器 (Model Context Protocol 服务器)
+* 使用 SDK (软件开发工具包) 或 API (应用程序编程接口) 在不同的语言中接入
 
-**生产可用性**
-
-kreuzberg-dev/kreuzberg 的生产可用性很高，理由如下：
-
-* 最近的活动和采用度很强
-* 生态系统信号很强
-* GitHub 星标数
+**生产可用性
 
 ## 🧭 Practical evaluation
 
@@ -98,7 +92,7 @@ kreuzberg-dev/kreuzberg 的生产可用性很高，理由如下：
 
 - 8524 GitHub stars
 - 501 forks
-- updated 2026-06-22
+- updated 2026-06-23
 - primary language: Rust
 - 20 topics
 
@@ -122,4 +116,4 @@ kreuzberg-dev/kreuzberg 的生产可用性很高，理由如下：
 
 ---
 
-<sub>🔭 Discovered 2026-06-22 · [View on GitHub](https://github.com/kreuzberg-dev/kreuzberg) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/kreuzberg-dev/kreuzberg) · [← Back to Mcp](./README.md)</sub>

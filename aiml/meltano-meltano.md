@@ -27,56 +27,59 @@ AI/ML · Backend · Data · Database · Product
 
 ### English
 
-**Project Summary:**
+**Meltano Project Summary**
 
-Meltano is an open-source, declarative code-first data integration engine that streamlines the process of building and scaling data integrations, making it easier to add AI capabilities to products without starting from scratch. With its straightforward evaluation process and strong ecosystem signals, Meltano is well-suited for prototyping AI features, building RAG or agent workflows, and evaluating model tooling. Its high production readiness, recent activity, and strong adoption make it a serious candidate for pilots.
+Meltano is an open-source, declarative code-first data integration engine that simplifies the process of building and scaling API integrations, enabling users to focus on developing AI-powered product ideas without starting from scratch. This project offers a practical adoption path by allowing users to prototype AI features, build workflows, and evaluate model tooling with ease. With its high production readiness, strong ecosystem signals, and recent activity, Meltano is suitable for serious pilots and production environments.
 
-**Value:**
+**Value Proposition**
 
-Meltano offers several key values, including:
+Meltano helps users add AI capabilities without building a model stack from scratch, making it an ideal solution for those looking to integrate AI into their products or services.
 
-* Simplified data integration: Meltano eliminates the need to write, maintain, and scale custom API integrations, freeing up resources for more strategic tasks.
-* AI capability without starting from scratch: Meltano enables developers to add AI capabilities to their products without having to build a model stack from the ground up.
+**Practical Adoption Path**
 
-**Practical Adoption Path:**
+The adoption path for Meltano involves the following steps:
 
-To adopt Meltano, follow these steps:
-
-1. Evaluate Meltano: Assess Meltano's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
-2. Prototype AI features: Use Meltano to quickly prototype AI features and workflows.
-3. Build RAG or agent workflows: Leverage Meltano to
+1. **Evaluation**: Users can evaluate Meltano by exploring its implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
+2. **Prototype AI features**: Users can use Meltano to prototype AI features, such as building proof-of-concepts or testing new ideas.
+3. **Build RAG or agent workflows**: Users can build workflows using Meltano, such as creating data pipelines or integrating with other tools.
+4. **Evaluate model tooling**: Users can evaluate
 
 ### Русский
 
-Резюме проекта meltano/meltano:
+Резюме:
 
-Meltano - это облачный движок интеграции данных, который позволяет создавать и масштабировать интеграции API без написания собственного кода. Это идеальный выбор для разработчиков, которые хотят внедрить возможности AI и ML в свои продукты. Проект готов к внедрению в production, поскольку он активно развивается, имеет сильную экосистему и высокий уровень готовности (88/100).
+Meltano - это open-source проект, который обеспечивает интеграцию данных и внедрение технологий искусственного интеллекта (МЛ) без необходимости создания собственных API-интеграций. Это declarative code-first data integration engine, который позволяет прототипировать функции AI и строить RAG или агентские потоки данных. Проект готов к внедрению в production с высоким уровнем готовности, подтверждаемым активностью, акцептом и экосистемой.
 
 ### 中文
 
-**项目简介**
+**简短介绍**
 
-Meltano 是一个开源数据集成引擎，用于构建数据和机器学习 (ML) 功能。它可以帮助开发者快速构建和部署数据集成，减少 API 集成的维护和扩展工作。
+Meltano 是一个开源的数据集成引擎，通过 declarative 代码来实现数据集成，帮助开发者快速构建和部署 AI 和机器学习能力。它可以帮助开发者减少编写、维护和扩展 API 集成的工作。
 
 **价值**
 
-Meltano 的主要价值在于帮助开发者快速添加 AI 能力，无需从零开始构建模型栈。它可以用于:
+Meltano 的主要价值在于帮助开发者快速添加 AI 能力，而无需从零开始搭建模型栈。它可以用于以下场景：
 
-* 快速原型 AI 功能
+* prototyping AI 特性
 * 构建 RAG 或代理工作流
 * 评估模型工具
 
 **典型接入方式**
 
-Meltano 支持多种接入方式，包括:
+Meltano 提供了以下接入方式：
 
-* API 集成
-* SDK 集成
-* CLI 集成
+* API 集成：通过 API 来连接数据源和目标系统
+* SDK 集成：通过 SDK 来连接数据源和目标系统
+* CLI 集成：通过命令行工具来连接数据源和目标系统
 
 **生产可用性**
 
-Meltano 的生产可用性很高，最近有活跃的更新，且有强大的生态系统支持。它的主要语言是 Python，且有 2540 个 GitHub star 和 246 个 fork。
+Meltano 的生产可用性很高，主要原因是：
+
+* 有 2540 个 GitHub 星标和 246 个 forks
+* 最近更新时间为 2026-06-23
+* 主要语言为 Python
+* 有 20 个主题
 
 ## 🧭 Practical evaluation
 

@@ -28,44 +28,50 @@ Orchestration · Knowledge/RAG · Automation · AI/ML
 ### English
 
 **Project Summary:**
-bytedance/deer-flow is an open-source long-horizon SuperAgent harness that enables the creation of complex workflows by combining isolated prompts and tools into repeatable agent workflows. This project offers a value proposition of standardizing agent memory, adding tool-use pipelines, and coordinating multi-agent workflows. With a high production readiness score, it is suitable for serious piloting.
 
-**Value:**
-The primary value of bytedance/deer-flow lies in its ability to turn isolated tools and prompts into repeatable workflows, making it a powerful tool for automation and AI/ML tasks. Its standardization of agent memory and addition of tool-use pipelines also make it an attractive solution for those seeking to streamline their workflows.
+bytedance/deer-flow is an open-source, long-horizon SuperAgent harness that enables the creation of repeatable agent workflows by integrating isolated prompts and tools. This project offers a robust solution for coordinating multi-agent workflows, adding tool-use pipelines, and standardizing agent memory. Its high production readiness, recent activity, and strong ecosystem signals make it a promising candidate for serious pilots.
 
-**Adoption Path:**
-To adopt bytedance/deer-flow, one should start by evaluating its feasibility through a small proof of concept and checking the README documentation. With strong ecosystem signals, recent activity, and adoption, the project's primary language (Python) and 18 topics indicate a robust and well-maintained codebase. This makes it an ideal candidate for serious piloting.
+**Value Proposition:**
+
+The primary value of bytedance/deer-flow lies in its ability to turn isolated prompts and tools into automated workflows, streamlining complex tasks and increasing efficiency. This is particularly useful for organizations with multiple agents or tools that need to be integrated and coordinated.
+
+**Practical Adoption Path:**
+
+To adopt bytedance/deer-flow, start with a small proof of concept to evaluate its feasibility and compatibility with your existing tools and workflows. Review the README documentation and ensure you understand the project's architecture and requirements. With a clear understanding of the project's capabilities and limitations, you can begin integrating it into your production environment.
 
 **Production Readiness:**
-bytedance/deer-flow boasts a high production readiness score, indicating that it is suitable for production use. The project's recent activity,
+
+bytedance/deer-flow has demonstrated high production readiness, with strong ecosystem signals, recent activity, and a large user base (over 73,000 GitHub stars and 9,200 forks). Its primary
 
 ### Русский
 
-Резюме:
+Резюме проекта bytedance/deer-flow:
 
-Проект bytedance/deer-flow представляет собой открытое-source решение для управления длинными горизонтами SuperAgent, которое может обрабатывать задачи от минут до часов. Он помогает превратить отдельные команды и инструменты в повторяющиеся агентские потоки, что делает его идеальным решением для координации многоагентных процессов, добавления инструментальных линий и стандартизации агентской памяти. Проект имеет высокий уровень готовности к производству, с сильными метриками активности, приёма и экосистемных сигналов.
+Проект bytedance/deer-flow представляет собой открытое исходное long-hоризон SuperAgent, которое позволяет автоматизировать различные задачи, требующие от нескольких минут до часов. Он помогает превратить изолированные команды и инструменты в повторяющиеся агентские потоки. Внедрение проекта может включать координацию мульти-агентных потоков, добавление инструментальных линий и стандартизацию агентской памяти.
+
+Проект готов к внедрению (production readiness) на высоком уровне, учитывая его активность, принятие и сигналы экосистемы. Однако важно провести тщательный анализ лицензии, безопасности и активных мейнтейнеров перед внедрением в производство.
 
 ### 中文
 
-**项目简介**
+**简短介绍**
 
-bytedance/deer-flow 是一个开源长期超级代理（SuperAgent）框架，旨在研究、编码和创建具有不同任务水平（从几分钟到几小时）的自动化工作流程。通过沙盒、内存、工具、技能、子代理和消息网关， Deer-Flow 可以处理复杂的任务，帮助用户将孤立的提示和工具转化为可重复的代理工作流程。
+bytedance/deer-flow 是一个开源的长期任务 SuperAgent 框架，提供了一系列工具和功能，帮助开发者处理需要多分钟到多小时的任务。它通过沙盒、记忆、工具、技能、子代理和消息网关等方式来完成不同级别的任务。
 
 **价值**
 
-bytedance/deer-flow 的价值在于，它可以帮助用户：
-
-* 协调多个代理工作流程
-* 添加工具使用管道
-* 标准化代理内存
+bytedance/deer-flow 的价值在于，它能够帮助开发者将孤立的提示和工具转化为可重复的代理工作流程。通过它，开发者可以方便地协调多个代理工作流程、添加工具使用管道以及标准化代理记忆。
 
 **典型接入方式**
 
-由于 Deer-Flow 是一个开源框架，接入方式多种多样。以下是一些典型的接入方式：
+接入 bytedance/deer-flow 需要遵循以下步骤：
 
-1. **阅读官方文档**: 了解 Deer-Flow 的基本概念和 API。
-2. **创建小型试验**: 在本地环境中创建一个小型试验，以测试 Deer-Flow 的功能。
-3. **集成到现有项目**: 将 Deer-Flow 集成到现有的项目中，利用其自动化工作流程
+1. 评估 bytedance/deer-flow 的可用性和适用性。
+2. 读取 README 文档，了解框架的基本使用方法。
+3. 在小的测试环境中进行实验，验证框架的功能和可靠性。
+
+**生产可用性**
+
+bytedance/deer-flow 的生产可用性较高。根据 GitHub 的数据，框架有 73,423 个星标和
 
 ## 🧭 Practical evaluation
 
@@ -83,8 +89,8 @@ bytedance/deer-flow 的价值在于，它可以帮助用户：
 
 **Quality signals**
 
-- 73354 GitHub stars
-- 9912 forks
+- 73423 GitHub stars
+- 9920 forks
 - updated 2026-06-23
 - primary language: Python
 - 18 topics

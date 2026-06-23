@@ -27,57 +27,44 @@ Frontend · Data · Database · Observability
 
 ### English
 
-**Summary:** 
-SigNoz is an open-source observability platform that integrates logs, traces, and metrics in a single application, making it an alternative to commercial tools like DataDog and NewRelic. It offers a user-friendly interface for building and shipping product UI faster, reusing interface components, and improving frontend delivery. With its strong adoption and ecosystem signals, SigNoz is a high-production-readiness candidate for serious pilots.
+**Summary:** SigNoz is an open-source observability platform that provides a single application for logs, traces, and metrics, making it a cost-effective alternative to commercial solutions like DataDog and NewRelic. This platform helps developers ship user-facing interfaces with less custom UI work, enabling faster product development and improved frontend delivery. With its strong ecosystem signals, recent activity, and adoption, SigNoz is a suitable choice for serious pilots.
 
-**Value:** 
-The main value proposition of SigNoz lies in its ability to help developers ship user-facing interfaces with minimal custom UI work. By reusing interface components and leveraging its observability features, developers can focus on building and delivering products faster.
+**Value:** SigNoz offers a comprehensive observability platform that streamlines the development process, allowing developers to focus on building product UI faster and reusing interface components. By leveraging SigNoz, teams can reduce custom UI work and improve the overall efficiency of their frontend delivery.
 
-**Practical Adoption Path:** 
-To adopt SigNoz, follow these steps:
-1. Evaluate the platform through a small proof of concept to gauge its feasibility.
-2. Review the README documentation to understand the platform's capabilities and configuration.
-3. Assess the platform's production readiness, considering factors like recent activity, adoption, and ecosystem signals.
-4. If satisfactory, integrate SigNoz into your project, starting with a small-scale implementation.
+**Practical Adoption Path:** To integrate SigNoz into your project, start with a small proof of concept and thoroughly review the README documentation. This will help you evaluate the feasibility of SigNoz and identify any potential challenges. Begin by evaluating the platform's capabilities and customizing it to meet your specific needs.
 
-**Production Readiness:** 
-SigNoz has demonstrated high production readiness, with recent activity, strong adoption, and positive ecosystem signals. Its recent update (202
+**Production Readiness:** SigNoz has a high production readiness score, indicating that it is suitable for serious pilots. Its recent activity, adoption, and strong ecosystem signals demonstrate its stability and maturity. However, it is essential to conduct a final review of the
 
 ### Русский
 
-Резюме SigNoz/signoz:
+Резюме проекта SigNoz/signoz:
 
-SigNoz/signoz - это открытая исходная платформа мониторинга наблюдаемости, которая объединяет в себе логгирование, отслеживание и метрики в одном приложении. Это открытый альтернативный вариант платформам DataDog, NewRelic и т.п. SigNoz/signoz помогает разработчикам быстрее разрабатывать пользовательские интерфейсы с минимальным объемом кастомизации. Проект готов к серьезному пилотированию, с сильными сигналами активности, адопции и экосистемных сигналов, что делает его высокорейтинговым кандидатом для внедрения в производственную среду.
+SigNoz/signoz - это открытая платформа наблюдаемости, которая позволяет объединить логи, трейсы и метрики в одном приложении. Эта платформа помогает разработчикам быстрее разрабатывать пользовательские интерфейсы и реагировать на проблемы с производительностью приложений. SigNoz/signoz готов к внедрению в production, поскольку имеет высокую активность, широкое распространение и сильную экосистему, но требует еще одного этапа проверки и оценки по вопросам лицензии, безопасности и поддержки разработчиков.
 
 ### 中文
 
-**SigNoz/signoz 开源项目简介**
+**SigNoz/signoz 简介**
 
-SigNoz/signoz 是一个开源的可观察性平台，支持 OpenTelemetry，集成日志、指标和追踪在一个应用中。它是一个开源的替代品，类似于 DataDog、新雷克等。
+SigNoz/signoz 是一个开源的可观察性平台，native 支持 OpenTelemetry，集成日志、追踪和指标在一个应用中。它是 DataDog、NewRelic 等可观察性平台的开源替代品。
 
 **价值**
 
-SigNoz/signoz 帮助开发者快速构建用户界面，减少自定义 UI 的工作量。它还提供了重用界面组件和改进前端交付的功能。
+SigNoz/signoz 帮助开发者快速构建用户界面，减少自定义 UI 工作量。它可以帮助开发者快速构建产品 UI、重用界面组件和改进前端交付。
 
 **典型接入方式**
 
-接入 SigNoz/signoz 可以通过以下方式：
+SigNoz/signoz 的接入方式包括：
 
-1. 评估是否适合项目需求
-2. 阅读 README 文档了解更多信息
-3. 实现一个小型 PoC（Proof of Concept）进行测试
+1. 评估：首先评估 SigNoz/signoz 的可用性和适用性。
+2. 小规模 PoC：进行小规模的 PoC 来测试 SigNoz/signoz 的功能。
+3. README 检查：检查 SigNoz/signoz 的 README 文件来了解其使用和配置方法。
 
 **生产可用性**
 
-SigNoz/signoz 的生产可用性评分为高（86/100），主要原因是：
+SigNoz/signoz 的生产可用性较高，主要原因是：
 
-1. 近期活跃度（Recent activity）
-2. 良好的采用率（Adoption）
-3. 强大的生态系统信号（Ecosystem signals）
-
-但是，仍然需要进一步评估以下风险：
-
-1. 许可证
+1. 最近的活动：SigNoz/signoz 有最近的更新和活动。
+2. 广泛的
 
 ## 🧭 Practical evaluation
 
@@ -95,8 +82,8 @@ SigNoz/signoz 的生产可用性评分为高（86/100），主要原因是：
 
 **Quality signals**
 
-- 27427 GitHub stars
-- 2239 forks
+- 27432 GitHub stars
+- 2240 forks
 - updated 2026-06-23
 - primary language: TypeScript
 - 20 topics

@@ -29,47 +29,57 @@ Orchestration · Knowledge/RAG · AI/ML · Database
 
 **Project Summary:**
 
-Langchain is an open-source agent engineering platform that enables users to transform isolated prompts and tools into repeatable workflows. This platform facilitates the coordination of multi-agent workflows, adds tool-use pipelines, and standardizes agent memory. With its strong adoption, recent activity, and ecosystem signals, Langchain is highly production-ready for serious pilot projects.
+Langchain is an open-source platform that empowers users to create repeatable agent workflows by integrating isolated prompts and tools. This agent engineering platform enables users to coordinate multi-agent workflows, standardize agent memory, and add tool-use pipelines. With its strong ecosystem signals and recent activity, Langchain is suitable for serious pilots and production use.
 
 **Value Proposition:**
 
-The primary value of Langchain lies in its ability to integrate various tools and workflows, making it easier to build complex AI and ML applications. By standardizing agent memory and enabling the creation of repeatable workflows, Langchain helps users streamline their development process and improve the overall efficiency of their projects.
+The value of Langchain lies in its ability to turn isolated tools and prompts into cohesive workflows, making it easier to automate complex tasks and integrate various AI and ML tools. This platform helps users streamline their workflows, increase productivity, and reduce the time spent on manual task coordination.
 
 **Practical Adoption Path:**
 
-To adopt Langchain, users can start with a small proof of concept to evaluate its feasibility. A thorough review of the README documentation is also recommended to understand the platform's capabilities and limitations. Once familiar with the platform, users can begin to integrate Langchain into their existing workflows, starting with small-scale projects and gradually scaling up to more complex applications.
+To adopt Langchain, start with a small proof of concept to evaluate its feasibility and understand its integration requirements. Review the project's README documentation and assess the platform's compatibility with your existing tools and workflows. As Langchain is built in Python, familiarity with the language is a prerequisite. Begin by exploring the available topics and APIs to identify the best use cases for your organization.
 
 **Production Readiness:**
 
-Langchain has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating its maturity and stability. The project has 139,916 GitHub stars, 23,203 forks, and has
+Langchain is considered production-ready due to its strong ecosystem signals, recent activity, and adoption. With over 139,000 GitHub stars and 23,000 forks, the project has a significant following
 
 ### Русский
 
-Резюме проекта langchain-ai/langchain:
+Резюме:
 
-Langchain - это платформа по инженерии агентов, которая позволяет превращать изолированные команды и инструменты в повторяемые рабочие процессы агентов. Это особенно полезно в сценариях координации сложных рабочих процессов, где требуется интеграция различных инструментов и агентов. Langchain готов к внедрению в production, поскольку имеет высокую оценку готовности (88/100), активную поддержку (обновлено 23 июня 2026 года) и сильную экосистему (139916 GitHub звезд и 23203 фонарей).
+Langchain - это платформа для инженеринга агентов, которая помогает превратить изолированные команды и инструменты в повторяемые потоки работы агентов. Основная польза заключается в координации сложных потоков работы агентов, добавлении пайплайнов для использования инструментов и стандартизации памяти агентов. Langchain готов к serious пилоту в production, поскольку демонстрирует высокую активность, адопцию и сигналы экосистемы.
 
 ### 中文
 
-**项目简介**
+**项目介绍**
 
-langchain-ai/langchain 是一个开源项目，提供了一个叫做"智能代理"（Agent Engineering Platform）的平台。它帮助开发者将孤立的提示和工具整合成可重复执行的智能代理工作流。
+langchain-ai/langchain 是一个 agent 工程平台，它帮助将孤立的提示和工具转化为可重复的代理工作流程。
 
 **价值**
 
-langchain-ai/langchain 的主要价值在于，它可以将孤立的提示和工具转换成可重复执行的智能代理工作流。这种平台有助于协调多智能代理工作流、添加工具使用流程以及标准化智能代理的记忆。
+langchain-ai/langchain 的主要价值在于帮助开发者将多个代理工作流程协调起来，添加工具使用流水线，并标准化代理记忆。
 
 **典型接入方式**
 
-为了接入 langchain-ai/langchain 平台，开发者可以按照以下步骤进行：
+典型的接入方式包括：
 
-1. 评估该平台的可行性，特别是要查看README文档。
-2. 开始一个小的原型验证（Proof of Concept）来测试该平台的功能。
-3. 一旦验证成功，可以开始将该平台集成到自己的项目中。
+1. 协调多代理工作流程
+2. 添加工具使用流水线
+3. 标准化代理记忆
 
 **生产可用性**
 
-langchain-ai/langchain 平台具有很高的生产可用性。该平台有活跃的社区支持、强大的生态系统信号和最近的活动。因此，它已经准备好进行严
+langchain-ai/langchain 在生产环境中的可用性很高，主要原因是：
+
+1. 近期活跃度高
+2. 广泛的采用
+3. 强大的生态系统信号
+4. 高评分（88/100）
+5. 主要语言为 Python
+
+**注意**
+
+请注意，尽管 langchain-ai/langchain 有很高的生产可用性，但仍然需要进行最终的许可、安全性和活跃维护者的审查。
 
 ## 🧭 Practical evaluation
 
@@ -87,8 +97,8 @@ langchain-ai/langchain 平台具有很高的生产可用性。该平台有活跃
 
 **Quality signals**
 
-- 139916 GitHub stars
-- 23203 forks
+- 139923 GitHub stars
+- 23206 forks
 - updated 2026-06-23
 - primary language: Python
 - 20 topics

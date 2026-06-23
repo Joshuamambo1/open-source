@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 🗓️ **Last push** | 2026-06-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,50 +27,51 @@ Crypto · Knowledge/RAG · Automation · AI/ML
 
 ### English
 
-Here's a brief summary and explanation of the open-source project:
+Here's a brief summary of the elizaOS/eliza project:
 
-**Summary:** elizaOS/eliza is an open-source agentic operating system that helps developers prototype or inspect blockchain workflows with transparent implementation details. This project enables users to build, inspect, and prototype Web3 workflows, blockchain integrations, wallets, and DeFi features. With its high production readiness and strong ecosystem signals, elizaOS/eliza is a promising candidate for serious pilots.
+ElizaOS/eliza is an open-source agentic operating system that enables users to prototype or inspect blockchain workflows with transparent implementation details. This value proposition is particularly useful for building Web3 workflows, inspecting blockchain integrations, and prototyping wallet or DeFi features. With its high production readiness, adoption, and strong ecosystem signals, elizaOS/eliza is a promising candidate for serious pilots.
 
-**Value:** elizaOS/eliza provides a valuable platform for developers to work with blockchain technology, offering an open implementation of workflows, integrations, and features. This transparency and openness enable faster prototyping, testing, and iteration, ultimately accelerating the development of blockchain-based applications.
+As for the practical adoption path, users can start by:
 
-**Practical Adoption Path:** To adopt elizaOS/eliza, developers can start by exploring its documentation and source code, which is available on GitHub. They can then integrate the project into their existing workflows, using its exposed API/SDK/CLI and language metadata. As they become more comfortable with the project, they can contribute to its development, participate in discussions, and help shape its future direction.
+1. Familiarizing themselves with the project's API/SDK/CLI and language metadata to understand its implementation details.
+2. Exploring the project's focused topics and integration notes to identify areas of interest.
+3. Inspecting the project's recent activity, adoption, and ecosystem signals to gauge its production readiness.
+4. Reviewing the project's license, security posture, and active maintainers to ensure it meets their needs.
 
-**Production Readiness:** elizaOS/eliza has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating its viability for serious pilots.
+Regarding production readiness, elizaOS/eliza has demonstrated strong signals, including:
+
+* 18,623 GitHub stars and 5,563 forks, indicating significant community interest and adoption.
+* Recent activity, with the project being updated as of 2026-06-23.
+* A primary language of TypeScript, which is a popular and
 
 ### Русский
 
-Резюме проекта elizaOS/eliza:
+Резюме:
 
-elizaOS/eliza - это открытый исходный код агентный операционный системный проект, который позволяет прототипировать или проверять блокчейн-работы с открытыми подробностями реализации. Это идеальный инструмент для внедрения Web3-работ, проверки блокчейн-интеграций и прототипирования функций кошелька или DeFi. Проект готов к производству (High), имеет сильную поддержку сообщества (18623 GitHub звезды и 5562 фorks), но требует окончательного обзора лицензионных и безопасности вопросов.
+elizaOS/eliza - это открытая исходная агентная операционная система, предназначенная для прототипирования и проверки блокчейн-Workflow с открытыми подробностями реализации. Этот проект идеально подходит для построения Web3-Workflow, проверки блокчейн-интеграций и прототипирования функций кошелька или DeFi. elizaOS/eliza уже достаточно готов к производству, с высоким уровнем активности, принятия и экосистемных сигналов, что позволяет рассмотреть его для серьезного пилотного проекта.
 
 ### 中文
 
 **简短介绍**
-
-elizaOS/eliza 是一个开源的代理操作系统，旨在帮助开发者构建和检查区块链工作流。它提供了一个开源的实现细节，帮助开发者快速构建 Web3 工作流、检查区块链集成和 Protfolio。
+elizaOS/eliza 是一个开源的智能操作系统，用于 prototyping 或检查区块链工作流。它提供了开放的实现细节，并且得到了强大的社区支持。
 
 **价值**
-
 elizaOS/eliza 帮助开发者：
 
 * 构建 Web3 工作流
 * 检查区块链集成
-* Protfolio 钱包或 DeFi 特性
+* prototyping 钱包或 DeFi 特性
 
 **典型接入方式**
+开发者可以通过以下方式接入 elizaOS/eliza：
 
-elizaOS/eliza 可以通过以下方式接入：
-
-* API/SDK：使用 elizaOS/eliza 提供的 API 或 SDK 来接入区块链工作流
-* CLI：使用 elizaOS/eliza 提供的 CLI 来检查区块链集成
-* 语言元数据：使用 elizaOS/eliza 提供的语言元数据来构建 Web3 工作流
+* API/SDK：通过 API 或 SDK 来访问 elizaOS/eliza 的功能
+* CLI：通过命令行界面来操作 elizaOS/eliza
+* 语言元数据：通过语言元数据来了解 elizaOS/eliza 的实现细节
+* 焦点话题：通过特定的话题来访问 elizaOS/eliza 的特定功能
 
 **生产可用性**
-
-elizaOS/eliza 有很高的生产可用性，主要原因是：
-
-* recent 活动：最近有活动，表明项目仍然维护和更新
-* adoption：项目有较高的采用
+elizaOS/eliza 已经达到高生产可用性水平，社区活跃，采用率高，且有足够的生态系统信号支持。它的主要语言是 TypeScript，更新频率高，且有 18623 个 GitHub 星标和
 
 ## 🧭 Practical evaluation
 
@@ -89,8 +90,8 @@ elizaOS/eliza 有很高的生产可用性，主要原因是：
 **Quality signals**
 
 - 18623 GitHub stars
-- 5562 forks
-- updated 2026-06-22
+- 5563 forks
+- updated 2026-06-23
 - primary language: TypeScript
 - 15 topics
 

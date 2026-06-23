@@ -27,48 +27,45 @@ Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
 
 ### English
 
-**Project Summary:**
+**Project Summary**
 
-Sim is an open-source project that enables the build, deployment, and orchestration of AI agents, serving as the central intelligence layer for AI workforces. It helps turn isolated prompts and tools into repeatable agent workflows, streamlining AI operations and increasing efficiency. With its strong ecosystem signals, recent activity, and adoption, Sim is a high-production-readiness project for serious pilots.
+Sim is an open-source project that enables the build, deployment, and orchestration of AI agents. It acts as a central intelligence layer for AI workforces, allowing users to turn isolated prompts and tools into repeatable agent workflows. This project is highly production-ready, featuring a strong ecosystem, recent activity, and a large community of users.
 
-**Value:**
+**Value Proposition**
 
-The value proposition of Sim lies in its ability to integrate isolated AI tools and workflows, creating a cohesive and efficient AI workforce. This allows organizations to standardize agent memory, add tool-use pipelines, and coordinate multi-agent workflows, ultimately driving business value through improved AI operations.
+Sim offers significant value by helping users integrate and coordinate AI agents, standardize agent memory, and create repeatable workflows. This allows organizations to streamline their AI operations, improve efficiency, and reduce the complexity of managing multiple AI tools.
 
-**Practical Adoption Path:**
+**Practical Adoption Path**
 
-To adopt Sim, organizations can start by evaluating its feasibility through a small proof-of-concept project and thoroughly reviewing the README documentation. This initial step will help assess Sim's compatibility with existing infrastructure and identify potential integration challenges. Once the proof-of-concept is successful, organizations can scale up their adoption, starting with a small pilot project and gradually expanding to larger deployments.
+To adopt Sim, users can start by evaluating the project through a small proof of concept and reviewing the project's README documentation. This will help identify potential integration challenges and ensure that the project meets their specific needs. Once the proof of concept is successful, users can begin integrating Sim into their existing AI workflows, starting with small-scale pilots and gradually scaling up to larger deployments.
 
-**Production Readiness:**
+**Production Readiness**
 
-Sim is considered high-production-ready due to its strong ecosystem signals, recent activity, and adoption. With over 28,000 GitHub stars, 3,672 forks, and
+Sim is highly production-ready, with a strong ecosystem, recent activity, and a large community of users. The project has a high score of 86/100, indicating a high level of quality and reliability. While some risks, such as license and security posture,
 
 ### Русский
 
 Резюме проекта simstudioai/sim:
 
-simstudioai/sim - это центральный интеллектуальный слой для вашей AI-работы, позволяющий создавать, развертывать и координировать агентов AI. Он помогает превратить изолированные команды и инструменты в повторяющиеся рабочие процессы агентов. simstudioai/sim уже доказал свою производственную готовность, с 28 851 GitHub-звездами и 3 672 фолками, а также регулярной активностью и сильным экосистемным потенциалом, что делает его хорошим кандидатом для серьезного пилота.
+simstudioai/sim - это открытый проект, который позволяет автоматизировать и координировать работу AI-агентов. Он помогает объединить изолированные команды и инструменты в повторяющиеся рабочие процессы. simstudioai/sim уже показал высокую готовность к использованию в производстве, с 28,852 GitHub-звездами и 3,672 фолдами, активными обновлениями и сильным экосистемным потенциалом.
 
 ### 中文
 
-简短介绍：
-simstudioai/sim 是一个开源项目，用于构建、部署和orchestrate AI 代理。它是 AI 工作力中心的核心智能层。
+**简短介绍**
 
-价值：
-simstudioai/sim 帮助将孤立的提示和工具转换为可重复的代理工作流程。
+simstudioai/sim 是一个开源项目，用于构建、部署和orchestrate AI 代理。它是 AI 力量的中心智能层，帮助将孤立的提示和工具转化为可重复的代理工作流。
 
-典型接入方式：
-1. 协调多代理工作流程
-2. 添加工具使用管道
-3. 标准化代理内存
+**价值**
 
-生产可用性：
-simstudioai/sim 在生产环境中具有较高可用性，主要原因是：
-- 近期活动：最近有更新和维护活动
-- 采用：项目拥有强大的采用和生态系统信号
-- 高质量信号：28851 GitHub 星标和 3672 个分叉，表明项目质量较高
+simstudioai/sim 的价值在于，它可以将孤立的提示和工具转化为可重复的代理工作流。它可以协调多个代理的工作流程、添加工具使用的管道、标准化代理内存等。
 
-需要注意的是，项目的安全性和许可证仍需要进一步检查和评估。
+**典型接入方式**
+
+典型的接入方式是首先评估simstudioai/sim的可行性，然后进行一个小的试验和README检查。需要注意的是，接入过程可能需要进行小的调整和优化。
+
+**生产可用性**
+
+simstudioai/sim 的生产可用性较高，主要原因是最近的活动、采用率和生态信号都很强。它已有 28,852 个 GitHub 星和 3,672 个分支，最近更新于 2026-06-23。
 
 ## 🧭 Practical evaluation
 
@@ -86,7 +83,7 @@ simstudioai/sim 在生产环境中具有较高可用性，主要原因是：
 
 **Quality signals**
 
-- 28851 GitHub stars
+- 28852 GitHub stars
 - 3672 forks
 - updated 2026-06-23
 - primary language: TypeScript

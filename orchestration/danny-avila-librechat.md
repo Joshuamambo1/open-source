@@ -27,47 +27,50 @@ Orchestration · MCP · AI/ML · Frontend · Backend
 
 ### English
 
-**Project Summary:**
-LibreChat is an open-source, self-hosted chat platform that enables users to create repeatable agent workflows by integrating various tools and AI models. This enhanced ChatGPT clone features a range of advanced capabilities, including multi-agent coordination, tool-use pipelines, and secure multi-user authentication. With its high production readiness, LibreChat offers a robust solution for organizations seeking to standardize agent memory and automate workflows.
+**Summary:** 
+
+LibreChat is an open-source, self-hosted platform that enables users to create repeatable agent workflows by integrating various tools and AI models. This enhanced ChatGPT clone features a range of capabilities, including multi-agent coordination, tool-use pipelines, and secure multi-user authentication. With its high production readiness and strong ecosystem signals, LibreChat is suitable for serious pilots and production deployments.
 
 **Value Proposition:**
-The primary value of LibreChat lies in its ability to transform isolated prompts and tools into cohesive, repeatable workflows. This allows users to streamline processes, enhance productivity, and reduce the complexity of managing multiple agents and tools. By leveraging LibreChat's features, organizations can standardize agent memory, coordinate multi-agent workflows, and add tool-use pipelines to their workflows.
+
+The primary value proposition of LibreChat lies in its ability to turn isolated prompts and tools into cohesive, repeatable workflows. This allows users to standardize agent memory, simplify complex tasks, and automate repetitive processes. By integrating various AI models and tools, users can create customized agents that cater to specific business needs.
 
 **Practical Adoption Path:**
-To adopt LibreChat, users can follow these steps:
 
-1. **Evaluate the project**: Assess LibreChat's features, documentation, and community support to ensure it meets their needs.
-2. **Set up the environment**: Install the required dependencies and configure the platform for self-hosting.
-3. **Integrate tools and AI models**: Connect various tools and AI models to create repeatable agent workflows.
-4. **Test and refine**: Test the
+To adopt LibreChat, users can follow a straightforward evaluation process. The platform exposes implementation signals such as API/SDK/CLI, language metadata, and focused topics, making it easy to assess its feasibility for their use cases. Users can start by:
+
+1. Exploring the LibreChat documentation and community resources.
+2. Evaluating the platform's features and capabilities.
+3. Integrating LibreChat with their existing tools and AI models.
+4. Testing and refining their workflows to achieve desired outcomes.
+
+**Production Readiness:**
 
 ### Русский
 
 Резюме проекта danny-avila/LibreChat:
 
-danny-avila/LibreChat - это расширенный клион GPT, предназначенный для автоматизации повторяющихся задач с помощью агентов и повторяемых потоков работы. Этот проект позволяет координировать работу нескольких агентов, добавлять в потоки работы инструменты и стандартизировать работу агентов. danny-avila/LibreChat готов к использованию production, поскольку имеет высокий уровень активности, адопции и сильные сигналы из экосистемы.
+ЛибреЧат - это открытый исходный код чат-бота, который позволяет создавать повторяемые агентные потоки из изолированных запросов и инструментов. Этот проект идеально подходит для координации многозадачных потоков, добавления инструментальных линий и стандартизации агентной памяти. Проект готов к производственному использованию (High) и имеет сильные сигналы экосистемы, включая активное обновление и большой исходный код на GitHub.
 
 ### 中文
 
-**LibreChat 简介**
-
-LibreChat 是一个开源项目，旨在创建一个增强版的 ChatGPT 克隆，提供多种功能，包括代理（Agents）、MCP（Model Control Protocol）、技能（Skills）、深度搜索（DeepSeek）等。它支持多种 AI 模型，包括 Anthropic、AWS、OpenAI 等，提供 API、SDK 和 CLI 等接口方便开发者接入。
+**简短介绍**
+LibreChat是一个开源项目，旨在创建一个增强版的ChatGPT克隆，支持多种功能，包括代理、MCP、技能、深度搜索等。它提供了一个自主的平台，允许用户自行部署和定制。
 
 **价值**
-
-LibreChat 的价值在于它可以帮助开发者将孤立的提示和工具转化为可重复的代理工作流程。它可以协调多个代理的工作流程，添加工具使用管道，标准化代理记忆。
+LibreChat的价值在于，它帮助用户将孤立的提示和工具转化为可重复的代理工作流程。它可以协调多个代理工作流程，添加工具使用管道，标准化代理内存。
 
 **典型接入方式**
+LibreChat提供了多种接入方式，包括：
 
-LibreChat 提供 API、SDK 和 CLI 等接口方便开发者接入。开发者可以通过以下方式接入 LibreChat：
-
-1. 使用 API 来调用 LibreChat 的功能。
-2. 使用 SDK 来集成 LibreChat 到自己的应用中。
-3. 使用 CLI 来交互式地与 LibreChat 进行通信。
+* API/SDK/CLI：通过这些接口，用户可以与LibreChat进行交互，创建和管理代理工作流程。
+* 语言元数据：LibreChat支持多种语言，用户可以使用这些语言元数据来创建和管理代理工作流程。
+* 焦点主题：LibreChat支持多种焦点主题，用户可以选择适合自己的主题来创建和管理代理工作流程。
 
 **生产可用性**
+LibreChat有很高的生产可用性，主要原因是：
 
-LibreChat 的生产可用性非常高。它最近有活跃的维
+* 最近的活动
 
 ## 🧭 Practical evaluation
 
@@ -85,8 +88,8 @@ LibreChat 的生产可用性非常高。它最近有活跃的维
 
 **Quality signals**
 
-- 39683 GitHub stars
-- 8141 forks
+- 39695 GitHub stars
+- 8142 forks
 - updated 2026-06-23
 - primary language: TypeScript
 - 20 topics

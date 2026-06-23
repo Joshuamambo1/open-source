@@ -27,50 +27,53 @@ Orchestration · MCP · Automation · AI/ML · Frontend
 
 ### English
 
-Here's a brief summary of the jnMetaCode/agency-orchestrator project:
-
-The jnMetaCode/agency-orchestrator is an open-source project that enables multi-AI role collaboration, allowing users to turn isolated prompts and tools into repeatable workflows in minutes. This is made possible through its zero-code YAML interface and support for 10 large language model (LLM) providers, including 7 free options. The project has a high production readiness score, making it suitable for serious pilots.
+**Project Summary:**
+The jnMetaCode/agency-orchestrator is an open-source project that enables multi-AI role collaboration to generate complete plans in minutes. Built on a library of 216+ experts, it utilizes zero-code YAML, web Studio, and desktop app, with integration support for 10 LLM providers, including 7 free options. This project helps turn isolated prompts and tools into repeatable agent workflows.
 
 **Value:**
-The project offers several key values, including:
-- **Streamlined collaboration**: It enables multiple AI experts to work together seamlessly.
-- **Increased efficiency**: Users can create repeatable workflows in minutes, reducing the time and effort required for complex tasks.
-- **Flexibility**: It supports various LLM providers and offers a zero-code YAML interface for easy customization.
+The jnMetaCode/agency-orchestrator offers significant value by:
 
-**Practical adoption path:**
+* Enabling collaboration among multiple AI experts to generate comprehensive plans quickly
+* Providing a zero-code YAML interface for easy workflow configuration
+* Supporting integration with 10 LLM providers, including free options
+* Facilitating the creation of repeatable agent workflows from isolated prompts and tools
+
+**Practical Adoption Path:**
 To adopt the jnMetaCode/agency-orchestrator, users can follow these steps:
-1. **Evaluate the project**: Assess the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
-2. **Review the documentation**: Familiarize yourself with the project's documentation, including the YAML interface and supported LLM
+
+1. Evaluate the project's API, SDK, and CLI implementation signals to understand its functionality and integration capabilities.
+2. Explore the project's language metadata and focused topics to determine its relevance to their use cases.
+3. Review the project's GitHub repository, including its 1458 GitHub stars, 204 forks, and recent update activity.
+4
 
 ### Русский
 
 Резюме проекта jnMetaCode/agency-orchestrator:
 
-jnMetaCode/agency-orchestrator — это open-source проект, который позволяет автоматизировать сотрудничество между множеством AI-ролей, что позволяет создавать полные планы за несколько минут. Это достигается за счет использования агентной библиотеки, нулевой кодовой конфигурации YAML и веб-студии, а также поддержки 10 провайдеров LLM (7 бесплатных). Этот проект идеально подходит для координации сложных многоагентных потоков, стандартизации памяти агентов и внедрения повторяемых агентных потоков.
-
-Проект уже демонстрирует высокую готовность к production, имея 1458 звезд на GitHub, регулярную активность и сильные сигналы экосистемы. Однако, как и любое open-source решение, необходимо провести тщательный анализ лицензионных, безопасности и обслуживания проекта перед его внедрением в производство.
+jnMetaCode/agency-orchestrator - это открытый исходный проект, который позволяет автоматизировать процесс сотрудничества множества AI-специалистов для создания полноценного плана за несколько минут. Проект предназначен для координации мульти-агентных потоков, добавления пайплайнов использования инструментов и стандартизации памяти агентов. Проект готов к внедрению в производство (High) и имеет сильные сигналы экосистемы, включая активное развитие и большую базу пользователей.
 
 ### 中文
 
 **jnMetaCode/agency-orchestrator 简介**
 
-jnMetaCode/agency-orchestrator 是一个开源项目，旨在帮助用户通过多个 AI 专家协作来快速生成完整的方案。它基于 agency-agents 专家库，使用零代码 YAML 和 web Studio + 桌面应用，支持 10 个 LLM 提供商（7 个免费）。
+jnMetaCode/agency-orchestrator 是一个开源项目，旨在帮助用户通过多个 AI 专家自动协作，快速生成完整方案。它基于 agency-agents 专家库，提供零代码 YAML 和 web Studio + 桌面应用。
 
 **价值**
 
-jnMetaCode/agency-orchestrator 的主要价值在于帮助用户将孤立的提示和工具转换成可重复使用的代理工作流。
+jnMetaCode/agency-orchestrator 的价值在于，它可以帮助用户将孤立的提示和工具整合成可重复的代理工作流程。通过这种方式，用户可以简化多个 AI 专家的协作过程，提高工作效率。
 
 **典型接入方式**
 
-jnMetaCode/agency-orchestrator 可以通过以下方式接入：
+jnMetaCode/agency-orchestrator 支持以下接入方式：
 
-1. API/SDK：jnMetaCode/agency-orchestrator 提供 API/SDK 接口，方便用户通过编程语言来调用。
-2. CLI：jnMetaCode/agency-orchestrator 提供 CLI 接口，方便用户通过命令行来使用。
-3. YAML 文件：jnMetaCode/agency-orchestrator 支持通过 YAML 文件来配置和保存工作流。
+1. API：提供 API 接口，用户可以通过 API 调用来访问服务。
+2. SDK：提供 SDK，用户可以通过 SDK 来集成服务。
+3. CLI：提供 CLI，用户可以通过 CLI 来操作服务。
+4. YAML 配置：提供 YAML 配置文件，用户可以通过 YAML 文件来配置服务。
 
 **生产可用性**
 
-jnMetaCode/agency-orchestrator 的生产可用性较高，主要原因是
+jnMetaCode/agency-orchestrator 的生产可用性评分为高（89/100）。它具有以下特
 
 ## 🧭 Practical evaluation
 

@@ -29,40 +29,46 @@ MCP · AI/ML · Backend · DevTools
 
 Here's a brief summary of the open-source project OmniRoute:
 
-OmniRoute is an open-source AI gateway that enables seamless connections between various AI assistants and real tools and data through a standard protocol. This platform allows developers to integrate their AI agents with a wide range of tools and data sources, streamlining their workflow and enhancing productivity. With its robust architecture, high production readiness, and strong ecosystem signals, OmniRoute is poised to become a go-to solution for developers looking to connect their AI assistants to real-world applications.
+OmniRoute is an open-source AI gateway that enables seamless connections between AI assistants and various tools and data sources, supporting over 160 providers, including 50+ free options. This platform simplifies the integration process through a standard protocol, allowing developers to connect AI agents to real tools and standardize integrations. With a high production readiness score, OmniRoute is an attractive solution for organizations looking to leverage AI capabilities.
 
-As for the practical adoption path, developers can start by evaluating the implementation signals exposed by OmniRoute, such as API/SDK/CLI, language metadata, or focused topics. Once they have a clear understanding of the platform's capabilities and requirements, they can begin integrating their AI agents with OmniRoute using the provided documentation and resources. The adoption path is straightforward, making it accessible to a wide range of developers.
+**Value:**
+The value proposition of OmniRoute lies in its ability to connect AI assistants to real tools and data sources, making it easier for developers to integrate AI capabilities into their applications. This standard protocol enables seamless communication between AI agents and various tools, facilitating the adoption of AI technologies.
 
-In terms of production readiness, OmniRoute has received a high score due to its recent activity, strong adoption, and positive ecosystem signals. With 6765 GitHub stars, 1164 forks, and regular updates, the project demonstrates a strong commitment to development and maintenance. Additionally, its high production readiness makes it suitable for serious piloting and deployment in production environments.
+**Practical Adoption Path:**
+To adopt OmniRoute, developers can follow these steps:
+
+1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
+2. Review the project's documentation and tutorials to understand how to integrate OmniRoute with their AI agents and tools.
+3. Choose the desired AI providers and tools to connect to OmniRoute.
+4. Implement the OmniRoute protocol in their applications to enable seamless communication between AI agents and tools.
+
+**Production Readiness:
 
 ### Русский
 
 Резюме проекта diegosouzapw/OmniRoute:
 
-Программный проект OmniRoute представляет собой бесплатный AI-шлюз, позволяющий соединять различные провайдеров (более 160, включая 50 бесплатных) с бесплатными AI-сервисами, такими как Claude, GPT и Gemini. Это позволяет разработчикам подключать AI-ассистентов к реальным инструментам и данным через стандартный протокол. Проект готов к серьезной реализации в production, поскольку обладает высоким уровнем готовности, recent активностью, признанием и сильным экосистемным сигналом.
+diegosouzapw/OmniRoute - бесплатный AI-шлюз, который позволяет соединять различные сервисы AI и ML, включая Claude, Codex, Cursor и Copilot. Этот проект обеспечивает стандартный протокол для интеграции AI-агентов с реальными инструментами и данными, что делает его незаменимым для разработчиков. Проект готов к производству (High) и имеет все условия для серьезной пилотной реализации, с сильными сигналами активности, принятия и экосистемы.
 
 ### 中文
 
-**OmniRoute 简介**
+**简短介绍：**
+diegosouzapw/OmniRoute 是一个开源项目，提供一个免费的 AI 网关，支持连接多个 AI 服务（包括 Claude、GPT 和 Gemini），并且通过 RTK+Caveman 压缩技术节省 15-95% 的令牌数。该项目已达到 94/100 的评分。
 
-OmniRoute 是一个开源项目，旨在连接 AI 助手到真实的工具和数据。它提供了一个标准的协议，帮助开发者连接 AI 代理到工具，部署 Model Context Protocol 服务器，标准化集成。
+**价值：**
+diegosouzapw/OmniRoute 的价值在于连接 AI 助手到实际工具和数据的标准协议。它帮助开发者连接 AI 代理到工具，部署 Model Context Protocol 服务器，标准化集成。
 
-**价值**
+**典型接入方式：**
+该项目提供 API/SDK/CLI 等实现信号，方便评估和接入。支持多语言和主题，包括 TypeScript 和 20 个主题。
 
-OmniRoute 的价值在于它可以连接多个 AI 助手（如 Claude、Codex、Cursor 等）到免费的 AI 服务（如 Claude/GPT/Gemini 等），还支持多种 API 接口和模式。它还提供了智能的自动 fallback 功能，减少了 token 使用量（节省 15-95%），并且支持 RTK+Caveman 堆叠压缩。
+**生产可用性：**
+diegosouzapw/OmniRoute 已经达到高生产可用性水平，主要原因是：
 
-**典型接入方式**
-
-OmniRoute 支持多种接入方式，包括：
-
-* API：通过 API 接口连接 AI 助手到 OmniRoute
-* SDK：通过 SDK 接口连接 AI 助手到 OmniRoute
-* CLI：通过命令行接口连接 AI 助手到 OmniRoute
-* Desktop/PWA：通过桌面应用或 Progressive Web App 接入 OmniRoute
-
-**生产可用性**
-
-OmniRoute 的生产可用
+* 近期活动和采用率强
+* 生态系统信号强
+* GitHub 星星数和 Fork 数高（6795 和 1165）
+* 主要语言是 TypeScript
+* 更新频率高（2026-06
 
 ## 🧭 Practical evaluation
 
@@ -80,8 +86,8 @@ OmniRoute 的生产可用
 
 **Quality signals**
 
-- 6765 GitHub stars
-- 1164 forks
+- 6795 GitHub stars
+- 1165 forks
 - updated 2026-06-23
 - primary language: TypeScript
 - 20 topics
